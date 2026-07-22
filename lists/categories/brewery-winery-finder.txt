@@ -1,41 +1,17 @@
-# Brewery & Winery Finder Blocklist
+# ============================================================
+# CATEGORY: Brewery & Winery Finder
+# Format: canonical plain-domain master (source of truth)
+# Notes: trailing "!" marks a domain as aggressive-only
+# ============================================================
 
-**Toplam domain sayısı:** 23
-**Son güncelleme:** 2026-07-19
-
-## Untappd (5 domain)
-
-```
+# --- UNTAPPD ---
 ads.untappd.com
 analytics.untappd.com
 mixpanel.untappd.com
 segment.untappd.com
 telemetry.untappd.com
-```
 
-## TapHunter (2 domain)
-
-```
-analytics.taphunter.com
-segment.taphunter.com
-```
-
-## BeerMenus (2 domain)
-
-```
-analytics.beermenus.com
-segment.beermenus.com
-```
-
-## DigitalPour (1 domain)
-
-```
-analytics.digitalpour.com
-```
-
-## Vivino (10 domain)
-
-```
+# --- VIVINO ---
 analytics-pbl.vivino.com
 analytics.vivino.com
 segment.vivino.com
@@ -46,16 +22,21 @@ trk.vivino.com
 trk1.vivino.com
 trk2.vivino.com
 trk3.vivino.com
-```
 
-## Delectable (2 domain)
+# --- BEERMENUS ---
+analytics.beermenus.com
+segment.beermenus.com
 
-```
+# --- CELLARPASS ---
+analytics.cellarpass.com
+
+# --- DELECTABLE ---
 analytics.delectable.com
 segment.delectable.com
-```
 
-## CellarPass (1 domain)
+# --- DIGITALPOUR ---
+analytics.digitalpour.com
 
-```
-analytics.cellarpass.com
+# --- TAPHUNTER ---
+analytics.taphunter.com
+segment.taphunter.com
