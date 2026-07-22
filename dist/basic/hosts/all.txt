@@ -1,0 +1,30 @@
+# ============================================================
+# FULL BLOCKLIST - BASIC
+# Total domains: 23
+# Generated: 2026-07-22 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 ads.untappd.com
+0.0.0.0 analytics-pbl.vivino.com
+0.0.0.0 analytics.beermenus.com
+0.0.0.0 analytics.cellarpass.com
+0.0.0.0 analytics.delectable.com
+0.0.0.0 analytics.digitalpour.com
+0.0.0.0 analytics.taphunter.com
+0.0.0.0 analytics.untappd.com
+0.0.0.0 analytics.vivino.com
+0.0.0.0 mixpanel.untappd.com
+0.0.0.0 segment.beermenus.com
+0.0.0.0 segment.delectable.com
+0.0.0.0 segment.taphunter.com
+0.0.0.0 segment.untappd.com
+0.0.0.0 segment.vivino.com
+0.0.0.0 telemetry.untappd.com
+0.0.0.0 telemetry.vivino.com
+0.0.0.0 tracking.newsletter.vivino.com
+0.0.0.0 tracking.vivino.com
+0.0.0.0 trk.vivino.com
+0.0.0.0 trk1.vivino.com
+0.0.0.0 trk2.vivino.com
+0.0.0.0 trk3.vivino.com
