@@ -1,0 +1,35 @@
+name: Build blocklists
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "lists/categories/**"
+      - "scripts/build.py"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run build
+        run: python3 scripts/build.py
+
+      - name: Commit generated dist/
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git diff --staged --quiet || git commit -m "chore: rebuild dist [skip ci]"
+          git push
