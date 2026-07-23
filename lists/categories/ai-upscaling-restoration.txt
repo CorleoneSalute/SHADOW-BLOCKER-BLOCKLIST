@@ -1,0 +1,27 @@
+# AI Upscaling & Restoration Blocklist
+
+**Toplam domain sayısı:** 9
+**Son güncelleme:** 2026-07-19
+
+## Topaz Labs (5 domain)
+
+```
+analytics.topazlabs.com
+et.topazlabs.com
+rkhbxm26.topazlabs.com
+sgtm.topazlabs.com
+telemetry.topazlabs.com
+```
+
+## Let's Enhance / Claid.AI (1 domain)
+
+```
+analytics.letsenhance.io
+```
+
+## Vance AI (3 domain)
+
+```
+analytics.vanceai.com
+event.vanceai.com
+track.vanceai.com
