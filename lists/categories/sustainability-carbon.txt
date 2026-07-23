@@ -1,0 +1,33 @@
+# ================================================
+# SUSTAINABILITY & CARBON TRACKING BLOCKLIST 
+# Domain sayısı: 10
+# Son güncelleme: 2026-07-18
+# ================================================
+
+# --- Joro ---
+analytics.joro.tech
+
+# --- Wren ---
+analytics.wren.co
+
+# --- Pawprint ---
+metrics.pawprint.eco
+analytics.pawprint.eco
+
+# --- Deedster ---
+analytics.deedster.com
+
+# --- Klima ---
+analytics.klima.com
+
+# --- Capture ---
+analytics.capture.app
+
+# --- Aerial ---
+analytics.aerial.is
+
+# --- Commons ---
+analytics.commons.earth
+
+# --- Changers ---
+analytics.changers.com
