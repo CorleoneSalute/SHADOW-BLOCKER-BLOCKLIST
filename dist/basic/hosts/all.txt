@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1612
+# Total domains: 1616
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -51,9 +51,11 @@
 0.0.0.0 ad.admitad.com
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.crwdcntrl.net
+0.0.0.0 ad.holalauncher.com
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 ad.search.naver.com
 0.0.0.0 ad.vrvm.com
+0.0.0.0 adapi.holalauncher.com
 0.0.0.0 adassets.waze.com
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adclarity.com
@@ -107,6 +109,7 @@
 0.0.0.0 adsapi1.waze.com
 0.0.0.0 adsassets-ipv6.waze.com
 0.0.0.0 adsassets.waze.com
+0.0.0.0 adseaimg.apusapps.com
 0.0.0.0 adserver.connatix.com
 0.0.0.0 adserver.jwplayer.com
 0.0.0.0 adsquare.com
@@ -1239,6 +1242,7 @@
 0.0.0.0 smetrics.reaxys.com
 0.0.0.0 smetrics.sciencedirect.com
 0.0.0.0 smetrics.teambeachbody.com
+0.0.0.0 solomath.com
 0.0.0.0 sports-analytics.paramountplus.com
 0.0.0.0 sports-analytics.peacocktv.com
 0.0.0.0 sports-metrics.espn.com

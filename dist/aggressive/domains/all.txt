@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1659
+# Total domains: 1663
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -54,9 +54,11 @@ ad-server.pluto.tv
 ad.admitad.com
 ad.apsalar.com
 ad.crwdcntrl.net
+ad.holalauncher.com
 ad.linksynergy.com
 ad.search.naver.com
 ad.vrvm.com
+adapi.holalauncher.com
 adassets.waze.com
 adcel.vrvm.com
 adclarity.com
@@ -112,6 +114,7 @@ adsapi.waze.com
 adsapi1.waze.com
 adsassets-ipv6.waze.com
 adsassets.waze.com
+adseaimg.apusapps.com
 adserver.connatix.com
 adserver.jwplayer.com
 adsquare.com
@@ -1277,6 +1280,7 @@ smetrics.lww.com
 smetrics.reaxys.com
 smetrics.sciencedirect.com
 smetrics.teambeachbody.com
+solomath.com
 sports-analytics.paramountplus.com
 sports-analytics.peacocktv.com
 sports-metrics.espn.com
