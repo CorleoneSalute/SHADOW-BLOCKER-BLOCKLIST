@@ -1,0 +1,38 @@
+# Ticketing & Live Event Blocklist
+
+**Son Güncelleme:** 16 Temmuz 2026
+**Toplam Domain Sayısı:** 17
+
+```
+# Ticketmaster — Affiliate & Data Collection
+analytics10.ticketmaster.com
+hellotracking.ticketmaster.com
+post.analytics10.ticketmaster.com
+s.analytics10.ticketmaster.com
+analytics.ticketmaster.es
+
+# Eventim — Analytics & Reporting
+analytics.eventim.com
+isi-tracking.eventim.com
+isc-tracking.eventim.com
+
+# StubHub (Viagogo)
+tracking.stubhub.com
+track.stubhub.com
+log.stubhub.com
+
+# SeatGeek
+tracking.seatgeek.com
+
+# Vivid Seats
+gtm-analytics.vividseats.com
+gtm-analytics.united.vividseats.com
+
+# AXS
+smetrics.axs.com
+
+# TicketNetwork
+fwtrack.ticketnetwork.com
+
+# See Tickets
+fr-metrics.seetickets.com
