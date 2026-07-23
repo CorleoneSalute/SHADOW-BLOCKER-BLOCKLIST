@@ -1,0 +1,78 @@
+# Fitness Blocklist
+
+# Last update: 16 Temmuz 2026
+# Total domains: 35
+
+```
+# MyFitnessPal
+analytics.myfitnesspal.com
+tracking.myfitnesspal.com
+ads.myfitnesspal.com
+
+# Strava
+analytics.strava.com
+
+# Runtastic / Adidas
+analytics.runtastic.com
+
+# Limeade
+www.pixel.limeade.com
+pixel.limeade.com
+www.js-pixel.limeade.com
+js-pixel.limeade.com
+
+# Peloton
+analytics.onepeloton.com
+
+# Tonal
+analytics.tonal.com
+
+# Noom
+analytics.noom.com
+
+# Garmin
+matomo.garmin.com
+omt.garmin.com
+awslogs.garmin.com
+azurelogs.garmin.com
+
+# RunSignup
+analytics.runsignup.com
+
+# November Project
+tracking.november-project.com
+
+# Under Armour Connected Fitness (NOW: Outside Interactive)
+advanalytics.underarmour.com
+analytic.underarmour.com
+analytics.underarmour.com
+track.underarmour.com
+
+# Trainerize / ABC Trainerize
+tracknooks.abcfitness.com
+
+# FitOn
+sl-tracking.fitonhealth.com
+
+# BODi / Beachbody
+smetrics.teambeachbody.com
+
+# Obé Fitness
+analytics-cdn.obefitness.com
+analytics-api.obefitness.com
+
+# Pvolve
+trk.hi.pvolve.com
+trk.pvolve.com
+
+# GymShark
+collection-point.api.gymshark.com
+tracker.gymshark.com
+
+# Zing Coach
+telemetry.dataplatform.zing.coach
+
+# StrongLifts 5x5
+sentry.api.stronglifts.com
+analytics.stronglifts.com
+stats.stronglifts.com
