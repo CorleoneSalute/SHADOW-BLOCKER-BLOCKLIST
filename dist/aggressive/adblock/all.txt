@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 2013
+# Total domains: 2084
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -15,6 +15,7 @@
 ||ab-test.hulu.com^
 ||abacus.epsilon.com^
 ||abilitec.acxiom.com^
+||abrt.fedoraproject.org^
 ||abtest.netflix.com^
 ||acd.navdmp.com^
 ||acdn.navdmp.com^
@@ -95,6 +96,7 @@
 ||ads.espn.com^
 ||ads.flaviar.com^
 ||ads.fubo.tv^
+||ads.gentoo.org^
 ||ads.gomlab.com^
 ||ads.hbomax.com^
 ||ads.hotstar.com^
@@ -231,6 +233,7 @@
 ||analytics.dailywire.com^
 ||analytics.dashlane.com^
 ||analytics.dazn.com^
+||analytics.deepin.com^
 ||analytics.deepl.com^
 ||analytics.delectable.com^
 ||analytics.dialpad.com^
@@ -260,6 +263,7 @@
 ||analytics.givelify.com^
 ||analytics.globoplay.globo.com^
 ||analytics.glossika.com^
+||analytics.gnome.org^
 ||analytics.gomlab.com^
 ||analytics.hallow.com^
 ||analytics.hbomax.com^
@@ -302,6 +306,7 @@
 ||analytics.magiceden.io^
 ||analytics.makesyoufluent.com^
 ||analytics.mangolanguages.com^
+||analytics.manjaro.org^
 ||analytics.mapbox.com^
 ||analytics.maps.me^
 ||analytics.max.com^
@@ -338,8 +343,10 @@
 ||analytics.openaire.eu^
 ||analytics.openalex.org^
 ||analytics.opensea.io^
+||analytics.opensuse.org^
 ||analytics.palteca.com^
 ||analytics.paramountplus.com^
+||analytics.parrot.sh^
 ||analytics.parsely.com^
 ||analytics.pbskids.org^
 ||analytics.peacocktv.com^
@@ -357,6 +364,7 @@
 ||analytics.quranmajeed.com^
 ||analytics.rakutenmarketing.com^
 ||analytics.rarible.com^
+||analytics.raspberrypi.org^
 ||analytics.razerzone.com^
 ||analytics.realnetworks.com^
 ||analytics.realvnc.com^
@@ -369,6 +377,7 @@
 ||analytics.roamresearch.com^
 ||analytics.roboform.com^
 ||analytics.rocketlanguages.com^
+||analytics.rockylinux.org^
 ||analytics.rosettastone.com^
 ||analytics.rsa.com^
 ||analytics.rtlplus.com^
@@ -379,6 +388,7 @@
 ||analytics.shazam.com^
 ||analytics.simplenote.com^
 ||analytics.skyshowtime.com^
+||analytics.snapcraft.io^
 ||analytics.soothe.com^
 ||analytics.soundhound.com^
 ||analytics.spatial.io^
@@ -412,6 +422,7 @@
 ||analytics.tv.apple.com^
 ||analytics.tving.com^
 ||analytics.uber.com^
+||analytics.ubuntu.com^
 ||analytics.underarmour.com^
 ||analytics.unpaywall.org^
 ||analytics.untappd.com^
@@ -444,6 +455,7 @@
 ||analytics.zenoti.com^
 ||analytics.zoho.com^
 ||analytics.zoom.us^
+||analytics.zorinos.com^
 ||analytics10.ticketmaster.com^
 ||analyticshub.services.swiftkey.com^
 ||analyticshub.swiftkey.com^
@@ -508,6 +520,7 @@
 ||api.openreplay.com^
 ||api.permutive.app^
 ||api.permutive.com^
+||api.pkgstats.archlinux.de^
 ||api.ptengine.com^
 ||api.quantummetric.com^
 ||api.raygun.com^
@@ -603,6 +616,7 @@
 ||bluekai.com^
 ||bombora.com^
 ||br.smartlook.cloud^
+||bttracker.debian.org^
 ||bug.kaspersky.com^
 ||bugfender.com^
 ||bugreporting.rec.net^
@@ -610,6 +624,7 @@
 ||bugsnag.com^
 ||bugsplat.com^
 ||bugtracker.akiflow.com^
+||build-metrics.getsol.us^
 ||bytes-event.vive.com^
 ||c.cfjump.com^
 ||c.clarity.ms^
@@ -711,6 +726,7 @@
 ||clientlogs.tunnelbear.com^
 ||cloud.tealeaf.com^
 ||cloudtrack.cal.com^
+||clr.telemetry.intel.com^
 ||collect.airbrake.io^
 ||collect.babbel.io^
 ||collect.biomedcentral.com^
@@ -764,6 +780,7 @@
 ||crash.bamgrid.com^
 ||crash.corsair.com^
 ||crash.cyberlink.com^
+||crash.elementary.io^
 ||crash.mapbox.com^
 ||crash.shazam.com^
 ||crash.soundhound.com^
@@ -799,6 +816,8 @@
 ||d3anogn3pbtk4v.cloudfront.net^
 ||d3ikprf0m31yc7.cloudfront.net^
 ||d9.flashtalking.com^
+||daisy.ubuntu.com^
+||data-analysis.fedoraproject.org^
 ||data-axle.com^
 ||data-collection.brightcove.com^
 ||data.acxiom.com^
@@ -831,6 +850,7 @@
 ||direct.dnb.com^
 ||discoverorg.com^
 ||discovery.clearbit.com^
+||discuss-metrics.getsol.us^
 ||disney.demdex.net^
 ||disney.mobile-log.api.bamgrid.com^
 ||disney.my.sentry.io^
@@ -871,10 +891,12 @@
 ||error.ghost.org^
 ||errorlogging.typewise.app^
 ||errors.corsair.com^
+||errors.elementary.io^
 ||errors.hbomax.com^
 ||errors.hulu.com^
 ||errors.netflix.com^
 ||errors.razerzone.com^
+||errors.ubuntu.com^
 ||espn.hb.omtrdc.net^
 ||espndotcom.tt.omtrdc.net^
 ||etrack.np.norton.com^
@@ -927,10 +949,12 @@
 ||fa.hellotalk.com^
 ||faces3cdn.goforandroid.com^
 ||factual.com^
+||faf.fedoraproject.org^
 ||fault.trackjs.com^
 ||faults.norton.com^
 ||faults.symantec.com^
 ||fbanalytics.sandbox.game^
+||fedora-telemetry.org^
 ||feedback.hotjar.com^
 ||files.crazyegg.com^
 ||finance.dnb.com^
@@ -977,6 +1001,7 @@
 ||gomo-apps.com^
 ||gomo.com^
 ||google-analytics.com.sci-hub.tw^
+||google-ua-analytics.raspberrypi.org^
 ||googlesyndication.com.sci-hub.tw^
 ||gosms.com^
 ||gosms.goforandroid.com^
@@ -1055,6 +1080,7 @@
 ||iscd.navdmp.com^
 ||iscdn.navdmp.com^
 ||isi-tracking.eventim.com^
+||iso-stats.cachyos.org^
 ||items.rollbar.com^
 ||j.clarity.ms^
 ||j.navdmp.com^
@@ -1114,6 +1140,7 @@
 ||logfiles.zoom.us^
 ||logger.sciencedirect.com^
 ||logger.scite.ai^
+||logging.archlinux.org^
 ||logging.bamgrid.com^
 ||logging.netflix.com^
 ||logging.rarible.com^
@@ -1125,9 +1152,12 @@
 ||logs-gateway.tabnine.com^
 ||logs.1password.com^
 ||logs.bobble.ai^
+||logs.cachyos.org^
 ||logs.circle.so^
 ||logs.flaviar.com^
 ||logs.ghost.org^
+||logs.gnu.org^
+||logs.guix.gnu.org^
 ||logs.hulu.com^
 ||logs.netflix.com^
 ||logs.reservebar.com^
@@ -1175,6 +1205,7 @@
 ||merkury.dentsu.com^
 ||metaffiliation.com^
 ||metrics-a.wbx2.com^
+||metrics-api.manjaro.org^
 ||metrics-api.openalex.org^
 ||metrics-eric.oss.demo.coder.com^
 ||metrics-k.wbx2.com^
@@ -1182,6 +1213,7 @@
 ||metrics-r.wbx2.com^
 ||metrics.1password.com^
 ||metrics.abema.tv^
+||metrics.altlinux.org^
 ||metrics.anthropic.com^
 ||metrics.avast.com^
 ||metrics.binge.com.au^
@@ -1212,6 +1244,7 @@
 ||metrics.fresha.com^
 ||metrics.fubo.tv^
 ||metrics.globo.com^
+||metrics.gnome.org^
 ||metrics.hbomax.com^
 ||metrics.hotstar.com^
 ||metrics.hulu.com^
@@ -1220,6 +1253,7 @@
 ||metrics.jwplayer.com^
 ||metrics.logitech.com^
 ||metrics.lyft.com^
+||metrics.manjaro.org^
 ||metrics.max.com^
 ||metrics.media-amazon.com^
 ||metrics.mindbodyonline.com^
@@ -1233,6 +1267,7 @@
 ||metrics.nickjr.com^
 ||metrics.nordvpn.com^
 ||metrics.openai.com^
+||metrics.opensuse.org^
 ||metrics.paramountplus.com^
 ||metrics.peacocktv.com^
 ||metrics.piano.io^
@@ -1246,17 +1281,21 @@
 ||metrics.sci-hub.tw^
 ||metrics.shazam.com^
 ||metrics.skyshowtime.com^
+||metrics.snapcraft.io^
 ||metrics.soundhound.com^
 ||metrics.stan.com.au^
 ||metrics.steelseries.com^
 ||metrics.styleseat.com^
 ||metrics.surfshark.com^
+||metrics.system76.com^
 ||metrics.tavour.com^
 ||metrics.teamviewer.com^
+||metrics.trento.suse.com^
 ||metrics.tubitv.com^
 ||metrics.tunnelbear.com^
 ||metrics.tving.com^
 ||metrics.uber.com^
+||metrics.ubuntu.com^
 ||metrics.unpaywall.org^
 ||metrics.vagaro.com^
 ||metrics.viaplay.com^
@@ -1332,6 +1371,7 @@
 ||outlogic.io^
 ||p.clarity.ms^
 ||p.plerdy.com^
+||packages-metrics.getsol.us^
 ||pagesense.io^
 ||parental-control-metrics.youtubekids.com^
 ||parsely.com^
@@ -1356,6 +1396,7 @@
 ||pixel.datalogix.com^
 ||pixel.limeade.com^
 ||pixel.parsely.com^
+||pkgstats.archlinux.de^
 ||placed.com^
 ||playback-analytics.hulu.com^
 ||playback-metrics.disneyplus.com^
@@ -1372,6 +1413,8 @@
 ||plex-attribution.plex.tv^
 ||plus.dnb.com^
 ||pluto.tv.sc.omtrdc.net^
+||popcon.debian.org^
+||popcon.ubuntu.com^
 ||post.analytics10.ticketmaster.com^
 ||pre.smartplugin.youbora.com^
 ||predicio.io^
@@ -1427,6 +1470,7 @@
 ||resolve.fullcontact.com^
 ||resources.lotame.com^
 ||resourceviewtracking.faithlife.com^
+||retrace.fedoraproject.org^
 ||reveal.clearbit.com^
 ||ringcentral.112.2o7.net^
 ||risk.clearbit.com^
@@ -1434,6 +1478,7 @@
 ||rmmetrics.mcafee.com^
 ||rnsfpw.net^
 ||rollbar.com^
+||rpi-imager-stats.raspberrypi.com^
 ||rs.fullstory.com^
 ||rs.livesession.io^
 ||rt-clientstats-il.waze.com^
@@ -1473,6 +1518,7 @@
 ||sdk.uxcam.com^
 ||sdk.zipy.ai^
 ||searchad.naver.com^
+||security-tracker.debian.org^
 ||sedt.infutor.com^
 ||segment-api.rarible.com^
 ||segment-cdn.rarible.com^
@@ -1492,6 +1538,7 @@
 ||sentry.protonvpn.com^
 ||sentry.scielo.org^
 ||sentry.scispace.com^
+||sentry.system76.com^
 ||sentry.xinchenai.com^
 ||sentry2-client.cos.io^
 ||sentry2.cos.io^
@@ -1572,7 +1619,9 @@
 ||stats.bsplayer.com^
 ||stats.calldorado.com^
 ||stats.corsair.com^
+||stats.elementary.io^
 ||stats.expressvpn.com^
+||stats.flathub.org^
 ||stats.hide.me^
 ||stats.i.mdpi.com^
 ||stats.iqiyi.com^
@@ -1589,6 +1638,7 @@
 ||stats.opensea.io^
 ||stats.playit.pk^
 ||stats.rarible.com^
+||stats.raspberrypi.org^
 ||stats.stronglifts.com^
 ||stats.subscribestar.adult^
 ||stats.superrare.com^
@@ -1639,6 +1689,8 @@
 ||tealeaf.com^
 ||tealeaf.ibmcloud.com^
 ||tealeafcloud.com^
+||telemetrics-collector.01.org^
+||telemetry-service.ubuntu.com^
 ||telemetry.1password.com^
 ||telemetry.1passwordservices.com^
 ||telemetry.access.securid.com^
@@ -1655,6 +1707,7 @@
 ||telemetry.bitmovin.com^
 ||telemetry.bsplayer.com^
 ||telemetry.character.ai^
+||telemetry.clearlinux.org^
 ||telemetry.codeium.com^
 ||telemetry.coder.com^
 ||telemetry.corsair.com^
@@ -1662,12 +1715,16 @@
 ||telemetry.cyberghostvpn.com^
 ||telemetry.dataplatform.zing.coach^
 ||telemetry.dazn.com^
+||telemetry.deepin.com^
 ||telemetry.deepl.com^
 ||telemetry.didichuxing.com^
 ||telemetry.divx.com^
+||telemetry.docker.com^
 ||telemetry.duosecurity.com^
+||telemetry.elementary.io^
 ||telemetry.espn.com^
 ||telemetry.expressvpn.com^
+||telemetry.fedoraproject.org^
 ||telemetry.fubo.tv^
 ||telemetry.hbomax.com^
 ||telemetry.hide.me^
@@ -1677,10 +1734,12 @@
 ||telemetry.insights.video.a2z.com^
 ||telemetry.ipvanish.com^
 ||telemetry.kaspersky.com^
+||telemetry.linuxmint.com^
 ||telemetry.logitechg.com^
 ||telemetry.logmein.com^
 ||telemetry.lyft.com^
 ||telemetry.malwarebytes.com^
+||telemetry.manjaro.org^
 ||telemetry.mapbox.com^
 ||telemetry.max.com^
 ||telemetry.mcafee.com^
@@ -1693,6 +1752,7 @@
 ||telemetry.okta.com^
 ||telemetry.openai.com^
 ||telemetry.opensea.io^
+||telemetry.opensuse.org^
 ||telemetry.paramountplus.com^
 ||telemetry.peacocktv.com^
 ||telemetry.playit.pk^
@@ -1708,11 +1768,13 @@
 ||telemetry.splashtop.com^
 ||telemetry.steelseries.com^
 ||telemetry.surfshark.com^
+||telemetry.system76.com^
 ||telemetry.tabnine.com^
 ||telemetry.teamviewer.com^
 ||telemetry.tubitv.com^
 ||telemetry.tunnelbear.com^
 ||telemetry.uber.com^
+||telemetry.ubuntu.com^
 ||telemetry.untappd.com^
 ||telemetry.varjo.com^
 ||telemetry.vivino.com^
@@ -1721,6 +1783,7 @@
 ||telemetry.zenoti.com^
 ||telemetry.zoho.com^
 ||telemetry.zoom.us^
+||telemetry.zorinos.com^
 ||telemetrydoc.swiftkey.com^
 ||throtle.io^
 ||tilanalytics.timesinternet.in^
@@ -1778,8 +1841,13 @@
 ||track.underarmour.com^
 ||track.webgains.com^
 ||track.winegifts.wine.com^
+||tracker.api.gnome.org^
 ||tracker.core.ac.uk^
+||tracker.debian.org^
+||tracker.gnome.org^
 ||tracker.gymshark.com^
+||tracker.kali.org^
+||tracker.opensuse.org^
 ||tracker.prf.hn^
 ||tracking-api.italki.com^
 ||tracking.admitad.com^
@@ -1864,6 +1932,7 @@
 ||u.clarity.ms^
 ||ua.kakao.com^
 ||ubimo.com^
+||ubuntu-report.canonical.com^
 ||unacast.com^
 ||unreal.backtrace.io^
 ||upload.uxcam.com^
@@ -1875,6 +1944,7 @@
 ||us-west-2-1.telemetry.insights.video.a2z.com^
 ||us.mouseflow.com^
 ||us.smartlook.cloud^
+||us.tracker.parrot.sh^
 ||us.uxcam.com^
 ||usage.trackjs.com^
 ||usagereports.elsevier.com^
@@ -1942,6 +2012,7 @@
 ||webmaxy.io^
 ||websights.zoominfo.com^
 ||whale-tracker.nftgo.io^
+||whoopsie.ubuntu.com^
 ||widgets.lotame.com^
 ||wiland.com^
 ||ws.inspectlet.com^
