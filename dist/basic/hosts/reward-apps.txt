@@ -1,0 +1,65 @@
+# ============================================================
+# REWARD APPS BLOCKLIST - BASIC
+# Total domains: 58
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 advertise.swagbucks.com
+0.0.0.0 analytics.checkout51.com
+0.0.0.0 analytics.coinout.com
+0.0.0.0 analytics.current.us
+0.0.0.0 analytics.evidation.com
+0.0.0.0 analytics.fetch.com
+0.0.0.0 analytics.ibotta.com
+0.0.0.0 analytics.moneysms.co
+0.0.0.0 analytics.prizerebel.com
+0.0.0.0 analytics.receipthog.com
+0.0.0.0 analytics.receiptpal.com
+0.0.0.0 analytics.surveyjunkie.com
+0.0.0.0 analytics.swagbucks.com
+0.0.0.0 analytics.sweatco.in
+0.0.0.0 analytics.toluna.com
+0.0.0.0 analytics.tolunastart.com
+0.0.0.0 analytics.upside.com
+0.0.0.0 app-events.fetch.com
+0.0.0.0 collect.surveyjunkie.com
+0.0.0.0 collect.swagbucks.com
+0.0.0.0 collector.cint.com
+0.0.0.0 data.fetch.com
+0.0.0.0 events.current.us
+0.0.0.0 events.fetch.com
+0.0.0.0 events.ibotta.com
+0.0.0.0 events.surveyjunkie.com
+0.0.0.0 events.sweatco.in
+0.0.0.0 events.upside.com
+0.0.0.0 inboxdollars.com
+0.0.0.0 inboxpounds.co.uk
+0.0.0.0 metrics.checkout51.com
+0.0.0.0 metrics.coinout.com
+0.0.0.0 metrics.current.us
+0.0.0.0 metrics.evidation.com
+0.0.0.0 metrics.fetch.com
+0.0.0.0 metrics.ibotta.com
+0.0.0.0 metrics.prizerebel.com
+0.0.0.0 metrics.receiptpal.com
+0.0.0.0 metrics.surveyjunkie.com
+0.0.0.0 metrics.swagbucks.com
+0.0.0.0 metrics.sweatco.in
+0.0.0.0 metrics.toluna.com
+0.0.0.0 metrics.upside.com
+0.0.0.0 track.cint.com
+0.0.0.0 tracker.samplicio.us
+0.0.0.0 tracking.coinout.com
+0.0.0.0 tracking.current.us
+0.0.0.0 tracking.evidation.com
+0.0.0.0 tracking.fetch.com
+0.0.0.0 tracking.ibotta.com
+0.0.0.0 tracking.moneysms.co
+0.0.0.0 tracking.prizerebel.com
+0.0.0.0 tracking.receipthog.com
+0.0.0.0 tracking.receiptpal.com
+0.0.0.0 tracking.surveyjunkie.com
+0.0.0.0 tracking.swagbucks.com
+0.0.0.0 tracking.toluna.com
+0.0.0.0 tracking.upside.com

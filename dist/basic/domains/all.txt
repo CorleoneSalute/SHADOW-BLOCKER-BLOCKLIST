@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3660
+# Total domains: 3718
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -200,6 +200,7 @@ advancedmactools.live
 advancedpccleanup.com
 advancedsystemoptimizer.com
 advancemactools.live
+advertise.swagbucks.com
 advertiser.petcube.com
 advertisers.truecaller.com
 advertising.accuweather.com
@@ -336,6 +337,7 @@ analytics.cellarpass.com
 analytics.cf.morgen.so
 analytics.changers.com
 analytics.character.ai
+analytics.checkout51.com
 analytics.chewy.com
 analytics.clarovideo.com
 analytics.cleanvoice.ai
@@ -347,6 +349,7 @@ analytics.cod.ed.gov
 analytics.codeium.com
 analytics.coffeemeetsbagel.com
 analytics.cohostpodcasting.com
+analytics.coinout.com
 analytics.commons.earth
 analytics.connectwise.com
 analytics.conviva.com
@@ -360,6 +363,7 @@ analytics.crave.ca
 analytics.crunchyroll.com
 analytics.cs.zohohost.com
 analytics.curiositystream.com
+analytics.current.us
 analytics.cyberghostvpn.com
 analytics.dailywire.com
 analytics.dashlane.com
@@ -397,6 +401,7 @@ analytics.espn.com
 analytics.evebyglow.com
 analytics.eventim.com
 analytics.evernote.com
+analytics.evidation.com
 analytics.expressvpn.com
 analytics.factor75.com
 analytics.fadr.com
@@ -405,6 +410,7 @@ analytics.fandangoathome.com
 analytics.feedpress.it
 analytics.femia.health
 analytics.fertilityfriend.com
+analytics.fetch.com
 analytics.fitbark.com
 analytics.fitbit.com
 analytics.fixme.it
@@ -456,6 +462,7 @@ analytics.hubhopper.com
 analytics.hulu.com
 analytics.hungryroot.com
 analytics.hyperx.com
+analytics.ibotta.com
 analytics.id.me
 analytics.ieee.org
 analytics.image-line.com
@@ -528,6 +535,7 @@ analytics.mindbodyonline.com
 analytics.mixedinkey.com
 analytics.moises.ai
 analytics.mondly.com
+analytics.moneysms.co
 analytics.moodsapp.com
 analytics.moovit.com
 analytics.movistarplus.es
@@ -614,6 +622,7 @@ analytics.prepear.com
 analytics.preply.com
 analytics.presonus.com
 analytics.privateinternetaccess.com
+analytics.prizerebel.com
 analytics.protected.media
 analytics.purevpn.com
 analytics.purplecarrot.com
@@ -625,6 +634,8 @@ analytics.raspberrypi.org
 analytics.razerzone.com
 analytics.realnetworks.com
 analytics.realvnc.com
+analytics.receipthog.com
+analytics.receiptpal.com
 analytics.redcircle.com
 analytics.remotepc.com
 analytics.replika.ai
@@ -691,6 +702,9 @@ analytics.sunbasket.com
 analytics.suno.ai
 analytics.superrare.com
 analytics.surfshark.com
+analytics.surveyjunkie.com
+analytics.swagbucks.com
+analytics.sweatco.in
 analytics.sympto.org
 analytics.sync.me
 analytics.systweak.com
@@ -705,6 +719,8 @@ analytics.theknot.com
 analytics.thirstie.com
 analytics.ticketmaster.es
 analytics.timesinternet.in
+analytics.toluna.com
+analytics.tolunastart.com
 analytics.tonal.com
 analytics.tonec.com
 analytics.topazlabs.com
@@ -725,6 +741,7 @@ analytics.udio.com
 analytics.underarmour.com
 analytics.unpaywall.org
 analytics.untappd.com
+analytics.upside.com
 analytics.vagaro.com
 analytics.vanceai.com
 analytics.verbling.com
@@ -961,6 +978,7 @@ api.zoominfo.com
 apmebf.com
 app-analytics.huami.com
 app-analytics.lyft.com
+app-events.fetch.com
 app-measurement.com
 app-measurement.uber.com
 app.ad-maven.com
@@ -1283,6 +1301,8 @@ collect.passfort.com
 collect.skrill.com
 collect.springer.com
 collect.springernature.com
+collect.surveyjunkie.com
+collect.swagbucks.com
 collect.uae.passfort.com
 collect.youbora.com
 collection-point.api.gymshark.com
@@ -1298,6 +1318,7 @@ collections.marketing.cmp.optimizely.com
 collector-eu.conviva.com
 collector-us.conviva.com
 collector.acoustic.co
+collector.cint.com
 collector.clickdealer.com
 collector.conviva.com
 collector.exceptionless.io
@@ -1428,6 +1449,7 @@ data.acxiom.com
 data.analytics-cdn.teachable.com
 data.app-analytics.petdesk.com
 data.conviva.com
+data.fetch.com
 data.infutor.com
 data.kameleoon.io
 data.kameleoon.net
@@ -1615,11 +1637,14 @@ events.adikteev.com
 events.api.boomtrain.com
 events.character.ai
 events.cuebiq.com
+events.current.us
 events.devcycle.com
 events.eu.launchdarkly.com
+events.fetch.com
 events.ff.harness.io
 events.gitlab.net
 events.hotjar.com
+events.ibotta.com
 events.intuit.launchdarkly.com
 events.jwplayer.com
 events.kaltura.com
@@ -1630,7 +1655,10 @@ events.mux.com
 events.remerge.io
 events.retargeter.com
 events.statsigapi.net
+events.surveyjunkie.com
+events.sweatco.in
 events.telemetry.data.nvidia.com
+events.upside.com
 events.zetaglobal.com
 evernotemetrics.com
 evgen.appsflyer.com
@@ -1830,6 +1858,8 @@ impressions.appsflyer.com
 in-app-events.adikteev.com
 in-app-events.remerge.io
 inapps.appsflyer.com
+inboxdollars.com
+inboxpounds.co.uk
 incrementality.adikteev.com
 inferred.litix.io
 infogroup.com
@@ -2111,12 +2141,15 @@ metrics.britbox.com
 metrics.buymeacoffee.com
 metrics.cambly.com
 metrics.cbs.com
+metrics.checkout51.com
 metrics.clarovideo.com
+metrics.coinout.com
 metrics.convertexperiments.com
 metrics.conviva.com
 metrics.crave.ca
 metrics.crunchyroll.com
 metrics.curiositystream.com
+metrics.current.us
 metrics.cyberghostvpn.com
 metrics.dailywire.com
 metrics.dashlane.com
@@ -2129,7 +2162,9 @@ metrics.ea.com
 metrics.espn.com
 metrics.eu.platform.idnow.io
 metrics.evernote.com
+metrics.evidation.com
 metrics.expressvpn.com
+metrics.fetch.com
 metrics.fitbit.com
 metrics.flo.health
 metrics.freedownloadmanager.org
@@ -2146,6 +2181,7 @@ metrics.helloclue.com
 metrics.hotstar.com
 metrics.hulu.com
 metrics.hyperx.com
+metrics.ibotta.com
 metrics.idfy.com
 metrics.image-line.com
 metrics.infra.yoti.com
@@ -2192,8 +2228,10 @@ metrics.plex.tv
 metrics.pluto.tv
 metrics.presonus.com
 metrics.privateinternetaccess.com
+metrics.prizerebel.com
 metrics.qa.max.weather.com
 metrics.razer.com
+metrics.receiptpal.com
 metrics.reebok.com
 metrics.replika.ai
 metrics.resonite.com
@@ -2213,11 +2251,15 @@ metrics.steelseries.com
 metrics.styleseat.com
 metrics.suno.ai
 metrics.surfshark.com
+metrics.surveyjunkie.com
+metrics.swagbucks.com
+metrics.sweatco.in
 metrics.system76.com
 metrics.tavour.com
 metrics.teamviewer.com
 metrics.telemetry.data.nvidia.com
 metrics.theknot.com
+metrics.toluna.com
 metrics.trento.suse.com
 metrics.tubitv.com
 metrics.tunnelbear.com
@@ -2225,6 +2267,7 @@ metrics.tving.com
 metrics.uber.com
 metrics.ubuntu.com
 metrics.unpaywall.org
+metrics.upside.com
 metrics.vagaro.com
 metrics.veridas.com
 metrics.viaplay.com
@@ -3182,6 +3225,7 @@ track.box.com
 track.branch.io
 track.capitaloneshopping.com
 track.cg.wine.com
+track.cint.com
 track.cj.com
 track.clickbooth.com
 track.coder.com
@@ -3258,6 +3302,7 @@ tracker.polar.com
 tracker.prf.hn
 tracker.quitgambling.com
 tracker.remerge.io
+tracker.samplicio.us
 tracking-api.italki.com
 tracking.ableton.com
 tracking.acast.com
@@ -3284,18 +3329,22 @@ tracking.cently.com
 tracking.chewy.com
 tracking.cognitohq.com
 tracking.cohostpodcasting.com
+tracking.coinout.com
 tracking.connexity.com
 tracking.couponcabin.com
 tracking.crazyegg.com
 tracking.csc.flm.fujitsu.com
+tracking.current.us
 tracking.cyberghostvpn.com
 tracking.dowjones.com
 tracking.effiliation.com
 tracking.epicgames.com
+tracking.evidation.com
 tracking.expressvpn.com
 tracking.facia.ai
 tracking.feedpress.com
 tracking.feedpress.it
+tracking.fetch.com
 tracking.freedownloadmanager.org
 tracking.fresha.com
 tracking.geforcenow.com
@@ -3305,6 +3354,7 @@ tracking.hbomax.com
 tracking.hertz.com
 tracking.honey.io
 tracking.hulu.com
+tracking.ibotta.com
 tracking.image-line.com
 tracking.impact.com
 tracking.info.paytm.com
@@ -3315,6 +3365,7 @@ tracking.lastpass.com
 tracking.launchdarkly.com
 tracking.loopcloud.com
 tracking.mindbodyonline.com
+tracking.moneysms.co
 tracking.morgen.so
 tracking.movies.yango.com
 tracking.muslimpro.com
@@ -3333,10 +3384,13 @@ tracking.picpay.com
 tracking.playit.pk
 tracking.podigee.com
 tracking.privateinternetaccess.com
+tracking.prizerebel.com
 tracking.purevpn.com
 tracking.rakutenmarketing.com
 tracking.razer.com
 tracking.realnetworks.com
+tracking.receipthog.com
+tracking.receiptpal.com
 tracking.redcircle.com
 tracking.reservebar.com
 tracking.retailmenot.com
@@ -3352,16 +3406,20 @@ tracking.speedbit.com
 tracking.stubhub.com
 tracking.styleseat.com
 tracking.surfshark.com
+tracking.surveyjunkie.com
+tracking.swagbucks.com
 tracking.swap.fm
 tracking.teamviewer.com
 tracking.tenor.com
 tracking.theknot.com
 tracking.thirstie.com
+tracking.toluna.com
 tracking.topcashback.com
 tracking.toroadvertising.com
 tracking.tradedoubler.com
 tracking.tubitv.com
 tracking.turo.com
+tracking.upside.com
 tracking.vagaro.com
 tracking.vivino.com
 tracking.weddingwire.com
