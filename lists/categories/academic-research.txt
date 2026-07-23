@@ -1,0 +1,127 @@
+# Academic Research Blocklist
+
+# Last update: 16 Temmuz 2026
+# Total domains: 70
+
+```
+# ELSEVIER
+analytics.elsevier.com
+analytics.notify.elsevier.com
+dotcom-preview.tags.elsevier.com
+dotcom.tags.elsevier.com
+ekb.analytics.elsevier.com
+ewtracking.elsevier.com
+niad.analytics.elsevier.com
+shop.tags.elsevier.com
+smetrics.elsevier.com
+usagereports.elsevier.com
+logger.sciencedirect.com
+smetrics.sciencedirect.com
+emetrics.engineeringvillage.com
+smetrics.reaxys.com
+smetrics.engineeringvillage.com
+
+# SPRINGER NATURE
+collect.springer.com
+collect.biomedcentral.com
+
+# WILEY
+analytics.wiley.com
+
+# TAYLOR & FRANCIS
+stats.tandf.co.uk
+
+# CAMBRIDGE UNIVERSITY PRESS
+coreads-console.cambridge.org
+coreads-static.cambridge.org
+coreads.cambridge.org
+www.coreads-console.cambridge.org
+www.coreads-static.cambridge.org
+www.coreads.cambridge.org
+
+# IEEE
+analytics.ieee.org
+smetrics-ieeexplore.ieee.org
+
+# EBSCOHOST
+track.ebsco.com
+
+# OVID (Wolters Kluwer)
+ads.lww.com
+analytics.lww.com
+smetrics.lww.com
+
+# WORLDCAT (OCLC)
+smetric.worldcat.org
+
+# DIMENSIONS.AI
+analytics-lingo4g.dimensions.ai
+looker.digital-science.com
+
+# CORE (The Open University, UK)
+tracker.core.ac.uk
+
+# SCITE
+logger.scite.ai
+
+# SCILIT (MDPI)
+stats.i.mdpi.com
+
+# ERIC (ABD Eğitim Bakanlığı)
+analytics-origin.cod.ed.gov
+analytics.cod.ed.gov
+
+# OPEN SCIENCE FRAMEWORK (OSF)
+sentry2-client.cos.io
+sentry2.cos.io
+sentry3.cos.io
+
+# OPENALEX
+analytics.openalex.org
+metrics-api.openalex.org
+
+# SEMANTIC SCHOLAR (Allen Institute)
+stats.apps.allenai.org
+trackworld-model-1.apps.allenai.org
+trackworld-model-2.apps.allenai.org
+
+# RESEARCHRABBIT
+track.researchrabbit.ai
+
+# CONSENSUS
+track.consensus.app
+www.track.consensus.app
+
+# SCİSPACE
+sentry.scispace.com
+
+# R DİSCOVERY (Cactus Communications)
+geoip.cactusglobal.com !
+
+# UNPAYWALL (OurResearch)
+analytics.unpaywall.org
+api.cdl.metrics.unpaywall.org
+cdl.metrics.unpaywall.org
+metrics.unpaywall.org
+mit.metrics.unpaywall.org
+
+# ROAR (University of Southampton)
+trac.eprints-hosting.org
+trac.eprints.org
+
+# OPENAIRE
+analytics-old.openaire.eu
+analytics.openaire.eu
+beta.analytics.openaire.eu
+web-analytics.openaire.eu
+
+# SCİELO
+analytics.scielo.org
+sentry.scielo.org
+
+# SCI-HUB
+adobedtm.com.sci-hub.tw
+ads-twitter.com.sci-hub.tw
+google-analytics.com.sci-hub.tw
+googlesyndication.com.sci-hub.tw
+metrics.sci-hub.tw
