@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3726
+# Total domains: 3738
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1334,6 +1334,7 @@ collector.quantummetric.com
 collector.tealeaf.goacoustic.com
 collector.usa.canon.com
 collector.vhx.tv
+commandersact.com
 company.clearbit.com
 conf.api.hk.goforandroid.com
 connect-event.vive.com
@@ -1582,6 +1583,7 @@ emjcd.com
 engage.kaltura.com
 engage.youbora.com
 engagement.brightcove.com
+ensighten.com
 enterprise-analytics.com
 epg-metrics.pluto.tv
 epsonanalytics.com
@@ -1784,6 +1786,7 @@ gong-gc.qubit.com
 google-analytics.com.sci-hub.tw
 google-ua-analytics.raspberrypi.org
 googlesyndication.com.sci-hub.tw
+googletagmanager.com
 gosms.com
 gosms.goforandroid.com
 gosmspro.com
@@ -3004,6 +3007,9 @@ tag.navdmp.com
 tag.zetaglobal.com
 tag.zoominfo.com
 tagalog.mondly.com
+tagassistant.google.com
+tagcommander.com
+tagmanager.google.com
 tags.bkrtx.com
 tags.bluekai.com
 tags.crwdcntrl.net
@@ -3017,6 +3023,9 @@ td2.crwdcntrl.net
 tealeaf.com
 tealeaf.ibmcloud.com
 tealeafcloud.com
+tealium.com
+tealium.hs.llnwd.net
+tealiumiq.com
 techsupport.paretologic.com
 techyutils.com
 telemetrics-collector.01.org
@@ -3207,6 +3216,8 @@ timeone.fr
 timeone.io
 timeonegroup.com
 timeonegroup.fr
+tiqcdn.cn
+tiqcdn.com
 tkqlhce.com
 tools.luckyorange.com
 tools.mouseflow.com
@@ -3463,6 +3474,7 @@ tvp-ads-log.samsungads.com
 tweaking.com
 tweaknow.com
 twipla.com
+tx.mailfoogae.appspot.com
 txmonitor.sumsub.com
 u.clarity.ms
 ua.kakao.com

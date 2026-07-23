@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3726
+# Total domains: 3738
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1334,6 +1334,7 @@
 0.0.0.0 collector.tealeaf.goacoustic.com
 0.0.0.0 collector.usa.canon.com
 0.0.0.0 collector.vhx.tv
+0.0.0.0 commandersact.com
 0.0.0.0 company.clearbit.com
 0.0.0.0 conf.api.hk.goforandroid.com
 0.0.0.0 connect-event.vive.com
@@ -1582,6 +1583,7 @@
 0.0.0.0 engage.kaltura.com
 0.0.0.0 engage.youbora.com
 0.0.0.0 engagement.brightcove.com
+0.0.0.0 ensighten.com
 0.0.0.0 enterprise-analytics.com
 0.0.0.0 epg-metrics.pluto.tv
 0.0.0.0 epsonanalytics.com
@@ -1784,6 +1786,7 @@
 0.0.0.0 google-analytics.com.sci-hub.tw
 0.0.0.0 google-ua-analytics.raspberrypi.org
 0.0.0.0 googlesyndication.com.sci-hub.tw
+0.0.0.0 googletagmanager.com
 0.0.0.0 gosms.com
 0.0.0.0 gosms.goforandroid.com
 0.0.0.0 gosmspro.com
@@ -3004,6 +3007,9 @@
 0.0.0.0 tag.zetaglobal.com
 0.0.0.0 tag.zoominfo.com
 0.0.0.0 tagalog.mondly.com
+0.0.0.0 tagassistant.google.com
+0.0.0.0 tagcommander.com
+0.0.0.0 tagmanager.google.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.crwdcntrl.net
@@ -3017,6 +3023,9 @@
 0.0.0.0 tealeaf.com
 0.0.0.0 tealeaf.ibmcloud.com
 0.0.0.0 tealeafcloud.com
+0.0.0.0 tealium.com
+0.0.0.0 tealium.hs.llnwd.net
+0.0.0.0 tealiumiq.com
 0.0.0.0 techsupport.paretologic.com
 0.0.0.0 techyutils.com
 0.0.0.0 telemetrics-collector.01.org
@@ -3207,6 +3216,8 @@
 0.0.0.0 timeone.io
 0.0.0.0 timeonegroup.com
 0.0.0.0 timeonegroup.fr
+0.0.0.0 tiqcdn.cn
+0.0.0.0 tiqcdn.com
 0.0.0.0 tkqlhce.com
 0.0.0.0 tools.luckyorange.com
 0.0.0.0 tools.mouseflow.com
@@ -3463,6 +3474,7 @@
 0.0.0.0 tweaking.com
 0.0.0.0 tweaknow.com
 0.0.0.0 twipla.com
+0.0.0.0 tx.mailfoogae.appspot.com
 0.0.0.0 txmonitor.sumsub.com
 0.0.0.0 u.clarity.ms
 0.0.0.0 ua.kakao.com

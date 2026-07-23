@@ -1,0 +1,19 @@
+# ============================================================
+# TMS BLOCKLIST - AGGRESSIVE
+# Total domains: 12
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||commandersact.com^
+||ensighten.com^
+||googletagmanager.com^
+||tagassistant.google.com^
+||tagcommander.com^
+||tagmanager.google.com^
+||tealium.com^
+||tealium.hs.llnwd.net^
+||tealiumiq.com^
+||tiqcdn.cn^
+||tiqcdn.com^
+||tx.mailfoogae.appspot.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3654
+# Total domains: 3660
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1310,6 +1310,7 @@
 ||collector.tealeaf.goacoustic.com^
 ||collector.usa.canon.com^
 ||collector.vhx.tv^
+||commandersact.com^
 ||company.clearbit.com^
 ||conf.api.hk.goforandroid.com^
 ||connect-event.vive.com^
@@ -2946,6 +2947,7 @@
 ||tag.zetaglobal.com^
 ||tag.zoominfo.com^
 ||tagalog.mondly.com^
+||tagcommander.com^
 ||tags.bkrtx.com^
 ||tags.bluekai.com^
 ||tags.crwdcntrl.net^
@@ -2959,6 +2961,9 @@
 ||tealeaf.com^
 ||tealeaf.ibmcloud.com^
 ||tealeafcloud.com^
+||tealium.com^
+||tealium.hs.llnwd.net^
+||tealiumiq.com^
 ||techsupport.paretologic.com^
 ||techyutils.com^
 ||telemetrics-collector.01.org^
@@ -3402,6 +3407,7 @@
 ||tweaking.com^
 ||tweaknow.com^
 ||twipla.com^
+||tx.mailfoogae.appspot.com^
 ||txmonitor.sumsub.com^
 ||u.clarity.ms^
 ||ua.kakao.com^
