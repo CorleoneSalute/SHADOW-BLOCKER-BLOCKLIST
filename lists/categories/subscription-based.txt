@@ -1,0 +1,40 @@
+# Subscription-Based Platforms Blocklist
+
+**Son Güncelleme:** 16 Temmuz 2026
+**Toplam Domain Sayısı:** 15
+
+```
+# BUY ME A COFFEE
+metrics.buymeacoffee.com
+log.buymeacoffee.com
+
+# GHOST
+traffic-analytics.ghost.org
+logs.ghost.org
+error.ghost.org
+
+# SUBSCRIBESTAR
+stats.subscribestar.adult          
+
+# CIRCLE.CO
+logs.circle.so
+
+# LOCALS
+track.locals.com
+
+# MEMBERFUL
+log-filtering.memberful.com
+
+# USCREEN
+stats.uscreen.io
+
+# VIMEO OTT (VHX)
+collector.vhx.tv
+adjustyourtracking.vhx.tv
+
+# TEACHABLE
+content.analytics-cdn.teachable.com
+data.analytics-cdn.teachable.com
+
+# ZANFIA
+tracking.zanfia.com
