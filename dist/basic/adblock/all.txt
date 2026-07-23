@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3859
+# Total domains: 3864
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -645,6 +645,7 @@
 ||analytics.podigee.com^
 ||analytics.pof.com^
 ||analytics.polar.com^
+||analytics.powervision.me^
 ||analytics.prageru.com^
 ||analytics.prembly.com^
 ||analytics.premom.com^
@@ -1424,6 +1425,7 @@
 ||crash.bamgrid.com^
 ||crash.corsair.com^
 ||crash.cyberlink.com^
+||crash.dji.com^
 ||crash.elementary.io^
 ||crash.grindr.com^
 ||crash.mapbox.com^
@@ -2071,6 +2073,7 @@
 ||log.ai-type.com^
 ||log.alipay.com^
 ||log.buymeacoffee.com^
+||log.dji.com^
 ||log.facemoji.com^
 ||log.getdropbox.com^
 ||log.gitlab.net^
@@ -2952,6 +2955,7 @@
 ||sstats.epicurious.com^
 ||stat.360safe.com^
 ||stat.avira.com^
+||stat.dji.com^
 ||stat.freedownloadmanager.org^
 ||stat.kaspersky.com^
 ||stat.maps.me^
@@ -3188,6 +3192,7 @@
 ||telemetry.didichuxing.com^
 ||telemetry.digitalvolcano.co.uk^
 ||telemetry.divx.com^
+||telemetry.dji.com^
 ||telemetry.docker.com^
 ||telemetry.dreamtonics.com^
 ||telemetry.dropbox.com^

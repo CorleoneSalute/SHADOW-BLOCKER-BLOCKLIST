@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3939
+# Total domains: 3944
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -659,6 +659,7 @@
 0.0.0.0 analytics.podtrac.com
 0.0.0.0 analytics.pof.com
 0.0.0.0 analytics.polar.com
+0.0.0.0 analytics.powervision.me
 0.0.0.0 analytics.prageru.com
 0.0.0.0 analytics.prembly.com
 0.0.0.0 analytics.premom.com
@@ -1448,6 +1449,7 @@
 0.0.0.0 crash.bamgrid.com
 0.0.0.0 crash.corsair.com
 0.0.0.0 crash.cyberlink.com
+0.0.0.0 crash.dji.com
 0.0.0.0 crash.elementary.io
 0.0.0.0 crash.grindr.com
 0.0.0.0 crash.mapbox.com
@@ -2113,6 +2115,7 @@
 0.0.0.0 log.ai-type.com
 0.0.0.0 log.alipay.com
 0.0.0.0 log.buymeacoffee.com
+0.0.0.0 log.dji.com
 0.0.0.0 log.facemoji.com
 0.0.0.0 log.getdropbox.com
 0.0.0.0 log.gitlab.net
@@ -3013,6 +3016,7 @@
 0.0.0.0 sstats.epicurious.com
 0.0.0.0 stat.360safe.com
 0.0.0.0 stat.avira.com
+0.0.0.0 stat.dji.com
 0.0.0.0 stat.freedownloadmanager.org
 0.0.0.0 stat.kaspersky.com
 0.0.0.0 stat.maps.me
@@ -3252,6 +3256,7 @@
 0.0.0.0 telemetry.didichuxing.com
 0.0.0.0 telemetry.digitalvolcano.co.uk
 0.0.0.0 telemetry.divx.com
+0.0.0.0 telemetry.dji.com
 0.0.0.0 telemetry.docker.com
 0.0.0.0 telemetry.dreamtonics.com
 0.0.0.0 telemetry.dropbox.com

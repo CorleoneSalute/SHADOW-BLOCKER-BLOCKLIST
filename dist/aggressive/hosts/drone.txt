@@ -1,0 +1,12 @@
+# ============================================================
+# DRONE BLOCKLIST - AGGRESSIVE
+# Total domains: 5
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 analytics.powervision.me
+0.0.0.0 crash.dji.com
+0.0.0.0 log.dji.com
+0.0.0.0 stat.dji.com
+0.0.0.0 telemetry.dji.com
