@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 5072
+# Total domains: 5092
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -18,6 +18,7 @@
 0.0.0.0 a.market.mi-img.com
 0.0.0.0 a.optmstr.com
 0.0.0.0 a.plerdy.com
+0.0.0.0 a.relayto.com
 0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.union.mi.com
 0.0.0.0 a.union.xiaomi.com
@@ -167,6 +168,7 @@
 0.0.0.0 ads-drru.cloud.huawei.ru
 0.0.0.0 ads-fa-darwin.hulu.com
 0.0.0.0 ads-media.truecaller.com
+0.0.0.0 ads-portal-api-gateway.optisigns.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-twitter.com.sci-hub.tw
 0.0.0.0 ads-v-darwin.hulu.com
@@ -237,6 +239,7 @@
 0.0.0.0 ads.rockstargames.com
 0.0.0.0 ads.samsung.com
 0.0.0.0 ads.samsungads.com
+0.0.0.0 ads.slidebean.com
 0.0.0.0 ads.speedbit.com
 0.0.0.0 ads.t-mobile.com
 0.0.0.0 ads.tenor.com
@@ -821,6 +824,7 @@
 0.0.0.0 analytics.receipthog.com
 0.0.0.0 analytics.receiptpal.com
 0.0.0.0 analytics.redcircle.com
+0.0.0.0 analytics.relayto.com
 0.0.0.0 analytics.remotepc.com
 0.0.0.0 analytics.replika.ai
 0.0.0.0 analytics.respeecher.com
@@ -858,6 +862,7 @@
 0.0.0.0 analytics.simplycodes.com
 0.0.0.0 analytics.sixt.com
 0.0.0.0 analytics.skyshowtime.com
+0.0.0.0 analytics.slidebean.com
 0.0.0.0 analytics.snapcraft.io
 0.0.0.0 analytics.softwareimprovement.intel.com
 0.0.0.0 analytics.sonymobile.com
@@ -1333,6 +1338,7 @@
 0.0.0.0 backup.gosmspro.com
 0.0.0.0 bam.fr.eu.criteo.com
 0.0.0.0 bam.nl.eu.criteo.com
+0.0.0.0 bandar-logger.prezi.com
 0.0.0.0 banner.criteo.com
 0.0.0.0 bard-telemetry.google.com
 0.0.0.0 bcp.crwdcntrl.net
@@ -1770,6 +1776,7 @@
 0.0.0.0 cse.avlyun.sec.miui.com
 0.0.0.0 csm.us.criteo.net
 0.0.0.0 csm.va.us.criteo.net
+0.0.0.0 csp-logger.prezi.com
 0.0.0.0 cts.contentsquare.net
 0.0.0.0 ctv-verification.pixalate.com
 0.0.0.0 ctv.adikteev.com
@@ -2142,6 +2149,7 @@
 0.0.0.0 events.adikteev.com
 0.0.0.0 events.amd.com
 0.0.0.0 events.api.boomtrain.com
+0.0.0.0 events.api.gamma.app
 0.0.0.0 events.api.nvidia.com
 0.0.0.0 events.betterhelp.com
 0.0.0.0 events.character.ai
@@ -2288,6 +2296,7 @@
 0.0.0.0 firebasecrashlytics.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 firelogs.anymeeting.com
 0.0.0.0 fixcleaner.com
 0.0.0.0 fledge.as.criteo.com
 0.0.0.0 fledge.eu.criteo.com
@@ -2453,6 +2462,7 @@
 0.0.0.0 hppstelemetry.com
 0.0.0.0 hptouchpointanalytics.com
 0.0.0.0 hs.deepl.com
+0.0.0.0 hslogger-app.prezi.com
 0.0.0.0 i-in.browser.heytapmobile.com
 0.0.0.0 i-sg.browser.heytapmobile.com
 0.0.0.0 i-th.browser.heytapmobile.com
@@ -2672,6 +2682,7 @@
 0.0.0.0 log-eap-in.coloros.com
 0.0.0.0 log-eap-sg.coloros.com
 0.0.0.0 log-eap.coloros.com
+0.0.0.0 log-fallback.prezi.com
 0.0.0.0 log-filtering.memberful.com
 0.0.0.0 log-gateway.zoom.us
 0.0.0.0 log-internal-gateway.zoom.us
@@ -2686,6 +2697,7 @@
 0.0.0.0 log.ahagamecenter.com
 0.0.0.0 log.ai-type.com
 0.0.0.0 log.alipay.com
+0.0.0.0 log.apps.aericast.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.avlyun.sec.miui.com
 0.0.0.0 log.buymeacoffee.com
@@ -2709,6 +2721,7 @@
 0.0.0.0 log.pandora.xiaomi.com
 0.0.0.0 log.pgre.dell.com
 0.0.0.0 log.pre.gitlab.net
+0.0.0.0 log.prezi.com
 0.0.0.0 log.pt.xiaomi.com
 0.0.0.0 log.shazam.com
 0.0.0.0 log.sonymobile.com
@@ -3051,6 +3064,7 @@
 0.0.0.0 metrics.shadow.tech
 0.0.0.0 metrics.shazam.com
 0.0.0.0 metrics.skyshowtime.com
+0.0.0.0 metrics.slides.com
 0.0.0.0 metrics.snapcraft.io
 0.0.0.0 metrics.sonymobile.com
 0.0.0.0 metrics.soundhound.com
@@ -3348,6 +3362,7 @@
 0.0.0.0 outlogic.io
 0.0.0.0 overseauspider.yuanshen.com
 0.0.0.0 p.clarity.ms
+0.0.0.0 p.optisigns.com
 0.0.0.0 p.plerdy.com
 0.0.0.0 p.rfihub.com
 0.0.0.0 p13nlog.optimizely.com
@@ -3419,6 +3434,7 @@
 0.0.0.0 pixel.mercadopago.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.retargeter.com
+0.0.0.0 pixel.slidebean.com
 0.0.0.0 pixel.theknot.com
 0.0.0.0 pixel.zetaglobal.com
 0.0.0.0 pixel.zetalive.com
@@ -4206,6 +4222,7 @@
 0.0.0.0 techsupport.paretologic.com
 0.0.0.0 techyutils.com
 0.0.0.0 telemetrics-collector.01.org
+0.0.0.0 telemetry-analytic-api.optisigns.com
 0.0.0.0 telemetry-api.rockstargames.com
 0.0.0.0 telemetry-console.api.playstation.com
 0.0.0.0 telemetry-in.battle.net
@@ -4515,6 +4532,7 @@
 0.0.0.0 track.period-tracker.com
 0.0.0.0 track.periodcalendar.net
 0.0.0.0 track.premom.com
+0.0.0.0 track.presentations.ai
 0.0.0.0 track.pusher.com
 0.0.0.0 track.register.webnovel.com
 0.0.0.0 track.remerge.io
@@ -4924,6 +4942,8 @@
 0.0.0.0 winutilities.com
 0.0.0.0 wise-analytics.com
 0.0.0.0 wisepops.com
+0.0.0.0 woolog-us.wooclap.com
+0.0.0.0 woolog.wooclap.com
 0.0.0.0 ws.driverhive.com
 0.0.0.0 ws.inspectlet.com
 0.0.0.0 ws.livesession.io

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 4942
+# Total domains: 4962
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -18,6 +18,7 @@
 ||a.market.mi-img.com^
 ||a.optmstr.com^
 ||a.plerdy.com^
+||a.relayto.com^
 ||a.stat.xiaomi.com^
 ||a.union.mi.com^
 ||a.union.xiaomi.com^
@@ -160,6 +161,7 @@
 ||ads-drru.cloud.huawei.ru^
 ||ads-fa-darwin.hulu.com^
 ||ads-media.truecaller.com^
+||ads-portal-api-gateway.optisigns.com^
 ||ads-resources.waze.com^
 ||ads-twitter.com.sci-hub.tw^
 ||ads-v-darwin.hulu.com^
@@ -223,6 +225,7 @@
 ||ads.rockstargames.com^
 ||ads.samsung.com^
 ||ads.samsungads.com^
+||ads.slidebean.com^
 ||ads.speedbit.com^
 ||ads.t-mobile.com^
 ||ads.tenor.com^
@@ -800,6 +803,7 @@
 ||analytics.receipthog.com^
 ||analytics.receiptpal.com^
 ||analytics.redcircle.com^
+||analytics.relayto.com^
 ||analytics.remotepc.com^
 ||analytics.replika.ai^
 ||analytics.respeecher.com^
@@ -837,6 +841,7 @@
 ||analytics.simplycodes.com^
 ||analytics.sixt.com^
 ||analytics.skyshowtime.com^
+||analytics.slidebean.com^
 ||analytics.snapcraft.io^
 ||analytics.softwareimprovement.intel.com^
 ||analytics.sonymobile.com^
@@ -1305,6 +1310,7 @@
 ||backup.gosmspro.com^
 ||bam.fr.eu.criteo.com^
 ||bam.nl.eu.criteo.com^
+||bandar-logger.prezi.com^
 ||banner.criteo.com^
 ||bard-telemetry.google.com^
 ||bcp.crwdcntrl.net^
@@ -1733,6 +1739,7 @@
 ||cse.avlyun.sec.miui.com^
 ||csm.us.criteo.net^
 ||csm.va.us.criteo.net^
+||csp-logger.prezi.com^
 ||cts.contentsquare.net^
 ||ctv-verification.pixalate.com^
 ||ctv.adikteev.com^
@@ -2095,6 +2102,7 @@
 ||events.adikteev.com^
 ||events.amd.com^
 ||events.api.boomtrain.com^
+||events.api.gamma.app^
 ||events.api.nvidia.com^
 ||events.betterhelp.com^
 ||events.character.ai^
@@ -2234,6 +2242,7 @@
 ||firebasecrashlytics.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
+||firelogs.anymeeting.com^
 ||fixcleaner.com^
 ||fledge.as.criteo.com^
 ||fledge.eu.criteo.com^
@@ -2380,6 +2389,7 @@
 ||hpanalytics.net^
 ||hppstelemetry.com^
 ||hptouchpointanalytics.com^
+||hslogger-app.prezi.com^
 ||i-in.browser.heytapmobile.com^
 ||i-sg.browser.heytapmobile.com^
 ||i-th.browser.heytapmobile.com^
@@ -2593,6 +2603,7 @@
 ||log-eap-in.coloros.com^
 ||log-eap-sg.coloros.com^
 ||log-eap.coloros.com^
+||log-fallback.prezi.com^
 ||log-filtering.memberful.com^
 ||log-gateway.zoom.us^
 ||log-internal-gateway.zoom.us^
@@ -2607,6 +2618,7 @@
 ||log.ahagamecenter.com^
 ||log.ai-type.com^
 ||log.alipay.com^
+||log.apps.aericast.com^
 ||log.avlyun.sec.intl.miui.com^
 ||log.avlyun.sec.miui.com^
 ||log.buymeacoffee.com^
@@ -2630,6 +2642,7 @@
 ||log.pandora.xiaomi.com^
 ||log.pgre.dell.com^
 ||log.pre.gitlab.net^
+||log.prezi.com^
 ||log.pt.xiaomi.com^
 ||log.shazam.com^
 ||log.sonymobile.com^
@@ -2972,6 +2985,7 @@
 ||metrics.shadow.tech^
 ||metrics.shazam.com^
 ||metrics.skyshowtime.com^
+||metrics.slides.com^
 ||metrics.snapcraft.io^
 ||metrics.sonymobile.com^
 ||metrics.soundhound.com^
@@ -3261,6 +3275,7 @@
 ||outlogic.io^
 ||overseauspider.yuanshen.com^
 ||p.clarity.ms^
+||p.optisigns.com^
 ||p.plerdy.com^
 ||p.rfihub.com^
 ||p13nlog.optimizely.com^
@@ -3329,6 +3344,7 @@
 ||pixel.mercadopago.com^
 ||pixel.parsely.com^
 ||pixel.retargeter.com^
+||pixel.slidebean.com^
 ||pixel.theknot.com^
 ||pixel.zetaglobal.com^
 ||pixel.zetalive.com^
@@ -4095,6 +4111,7 @@
 ||techsupport.paretologic.com^
 ||techyutils.com^
 ||telemetrics-collector.01.org^
+||telemetry-analytic-api.optisigns.com^
 ||telemetry-api.rockstargames.com^
 ||telemetry-console.api.playstation.com^
 ||telemetry-in.battle.net^
@@ -4402,6 +4419,7 @@
 ||track.period-tracker.com^
 ||track.periodcalendar.net^
 ||track.premom.com^
+||track.presentations.ai^
 ||track.pusher.com^
 ||track.register.webnovel.com^
 ||track.remerge.io^
@@ -4797,6 +4815,8 @@
 ||winutilities.com^
 ||wise-analytics.com^
 ||wisepops.com^
+||woolog-us.wooclap.com^
+||woolog.wooclap.com^
 ||ws.driverhive.com^
 ||ws.inspectlet.com^
 ||ws.livesession.io^
