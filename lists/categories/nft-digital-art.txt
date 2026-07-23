@@ -1,0 +1,53 @@
+# NFT & Digital Art Blocklist
+
+**Son Güncelleme:** 16 Temmuz 2026
+**Toplam Domain Sayısı:** 26
+
+```
+# OPENSEA
+analytics.opensea.io
+telemetry.opensea.io
+segment.opensea.io
+stats.opensea.io
+
+# BLUR
+analytics.blur.io
+stats.blur.io
+
+# MAGIC EDEN
+analytics.magiceden.io
+stats.magiceden.io
+
+# RARIBLE
+analytics.rarible.com
+stats.rarible.com
+segment-api.rarible.com
+segment-cdn.rarible.com
+logging.rarible.com
+
+# LOOKSRARE
+analytics.looksrare.org
+stats.looksrare.org
+
+# FOUNDATION
+analytics.foundation.app
+
+# SUPERRARE
+analytics.superrare.com
+stats.superrare.com
+
+# TENSOR
+analytics.tensor.trade
+analytics-v2.tensor.trade
+stats.tensor.trade
+
+# IMMUTABLE X
+analytics.immutable.com
+telemetry.immutable.com
+
+# NFTSCAN
+analytics.nftscan.com
+
+# NFTGO
+analytics.nftgo.io
+whale-tracker.nftgo.io
