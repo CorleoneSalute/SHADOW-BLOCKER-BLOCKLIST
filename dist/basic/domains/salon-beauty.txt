@@ -1,0 +1,32 @@
+# ============================================================
+# SALON BEAUTY BLOCKLIST - BASIC
+# Total domains: 25
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+analytics.booksy.com
+analytics.fresha.com
+analytics.mindbodyonline.com
+analytics.soothe.com
+analytics.styleseat.com
+analytics.vagaro.com
+analytics.zeel.com
+analytics.zenoti.com
+collect.mindbodyonline.com
+emailtracking.soothe.com
+metrics.booksy.com
+metrics.fresha.com
+metrics.mindbodyonline.com
+metrics.styleseat.com
+metrics.vagaro.com
+metrics.zenoti.com
+stats-and-reports.booksy.com
+tags.mindbodyonline.com
+telemetry.zenoti.com
+tracking.booksy.com
+tracking.fresha.com
+tracking.mindbodyonline.com
+tracking.styleseat.com
+tracking.vagaro.com
+www.stats-and-reports.booksy.com

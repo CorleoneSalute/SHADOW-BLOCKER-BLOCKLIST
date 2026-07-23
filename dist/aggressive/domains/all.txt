@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1814
+# Total domains: 1839
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -183,6 +183,7 @@ analytics.bitdefender.com
 analytics.blim.com
 analytics.blur.io
 analytics.bobble.ai
+analytics.booksy.com
 analytics.branch.io
 analytics.britbox.com
 analytics.busuu.com
@@ -232,6 +233,7 @@ analytics.fixme.it
 analytics.fleksy.com
 analytics.forvo.com
 analytics.foundation.app
+analytics.fresha.com
 analytics.fubo.tv
 analytics.gikken.co
 analytics.gingersoftware.com
@@ -281,6 +283,7 @@ analytics.maps.me
 analytics.max.com
 analytics.means.tv
 analytics.memrise.com
+analytics.mindbodyonline.com
 analytics.mondly.com
 analytics.moovit.com
 analytics.movistarplus.es
@@ -349,6 +352,7 @@ analytics.scielo.org
 analytics.shazam.com
 analytics.simplenote.com
 analytics.skyshowtime.com
+analytics.soothe.com
 analytics.soundhound.com
 analytics.spatial.io
 analytics.speaky.com
@@ -360,6 +364,7 @@ analytics.steelseries.com
 analytics.stickypassword.com
 analytics.strava.com
 analytics.stronglifts.com
+analytics.styleseat.com
 analytics.superrare.com
 analytics.surfshark.com
 analytics.taalhammer.com
@@ -380,6 +385,7 @@ analytics.tving.com
 analytics.underarmour.com
 analytics.unpaywall.org
 analytics.untappd.com
+analytics.vagaro.com
 analytics.verbling.com
 analytics.viaplay.com
 analytics.videoland.com
@@ -402,6 +408,8 @@ analytics.youbora.com
 analytics.youku.com
 analytics.zabihah.com
 analytics.zee5.com
+analytics.zeel.com
+analytics.zenoti.com
 analytics.zoho.com
 analytics.zoom.us
 analytics10.ticketmaster.com
@@ -643,6 +651,7 @@ cloudtrack.cal.com
 collect.babbel.io
 collect.biomedcentral.com
 collect.contentsquare.net
+collect.mindbodyonline.com
 collect.springer.com
 collect.youbora.com
 collection-point.api.gymshark.com
@@ -776,6 +785,7 @@ effiliation.com
 ekb.analytics.elsevier.com
 email.events.duolingo.com
 emailfootprint.norton.com
+emailtracking.soothe.com
 emetrics.engineeringvillage.com
 emjcd.com
 engage.kaltura.com
@@ -1078,6 +1088,7 @@ metrics.avast.com
 metrics.binge.com.au
 metrics.bitdefender.com
 metrics.bitmovin.com
+metrics.booksy.com
 metrics.branch.io
 metrics.brightcove.com
 metrics.britbox.com
@@ -1099,6 +1110,7 @@ metrics.duolingo.com
 metrics.espn.com
 metrics.evernote.com
 metrics.expressvpn.com
+metrics.fresha.com
 metrics.fubo.tv
 metrics.globo.com
 metrics.hbomax.com
@@ -1110,6 +1122,7 @@ metrics.jwplayer.com
 metrics.logitech.com
 metrics.max.com
 metrics.media-amazon.com
+metrics.mindbodyonline.com
 metrics.movistarplus.es
 metrics.mubi.com
 metrics.mux.com
@@ -1135,12 +1148,14 @@ metrics.skyshowtime.com
 metrics.soundhound.com
 metrics.stan.com.au
 metrics.steelseries.com
+metrics.styleseat.com
 metrics.surfshark.com
 metrics.teamviewer.com
 metrics.tubitv.com
 metrics.tunnelbear.com
 metrics.tving.com
 metrics.unpaywall.org
+metrics.vagaro.com
 metrics.viaplay.com
 metrics.videoland.com
 metrics.vive.com
@@ -1150,6 +1165,7 @@ metrics.watchnebula.com
 metrics.wavve.com
 metrics.youbora.com
 metrics.zee5.com
+metrics.zenoti.com
 mi.telemetry.lab.norton.com
 mit.metrics.unpaywall.org
 mixpanel.untappd.com
@@ -1410,6 +1426,7 @@ static.logrocket.com
 static.mouseflow.com
 static.openreplay.com
 static.webmaxy.com
+stats-and-reports.booksy.com
 stats.apps.allenai.org
 stats.appsflyer.com
 stats.avast.com
@@ -1476,6 +1493,7 @@ tagalog.mondly.com
 tags.bkrtx.com
 tags.bluekai.com
 tags.crwdcntrl.net
+tags.mindbodyonline.com
 tapad.com
 tapestry.tapad.com
 td.crwdcntrl.net
@@ -1555,6 +1573,7 @@ telemetry.varjo.com
 telemetry.vivino.com
 telemetry.vyprvpn.com
 telemetry.windscribe.com
+telemetry.zenoti.com
 telemetry.zoho.com
 telemetry.zoom.us
 telemetrydoc.swiftkey.com
@@ -1613,15 +1632,18 @@ tracking.avantlink.com
 tracking.avast.com
 tracking.avg.com
 tracking.awin.com
+tracking.booksy.com
 tracking.crazyegg.com
 tracking.cyberghostvpn.com
 tracking.effiliation.com
 tracking.expressvpn.com
+tracking.fresha.com
 tracking.hbomax.com
 tracking.hulu.com
 tracking.impact.com
 tracking.jwplayer.com
 tracking.lastpass.com
+tracking.mindbodyonline.com
 tracking.morgen.so
 tracking.muslimpro.com
 tracking.myfitnesspal.com
@@ -1639,11 +1661,13 @@ tracking.rosettastone.com
 tracking.seatgeek.com
 tracking.shareasale.com
 tracking.stubhub.com
+tracking.styleseat.com
 tracking.surfshark.com
 tracking.teamviewer.com
 tracking.toroadvertising.com
 tracking.tradedoubler.com
 tracking.tubitv.com
+tracking.vagaro.com
 tracking.vivino.com
 tracking.zanfia.com
 tracknooks.abcfitness.com
@@ -1787,6 +1811,7 @@ www.ptengine.jp
 www.sessionrewind.com
 www.sessionstack.com
 www.shareasale-analytics.com
+www.stats-and-reports.booksy.com
 www.timeone.io
 www.toroadvertising.com
 www.track.consensus.app
