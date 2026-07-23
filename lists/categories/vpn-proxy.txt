@@ -1,0 +1,107 @@
+# VPN & Proxy Blocklist
+
+**Son Güncelleme:** 16 Temmuz 2026
+**Toplam Domain Sayısı:** 60
+
+```
+# IVPN
+crashes.ivpn.net
+stats.ivpn.net
+
+# PROTONVPN
+telemetry.protonvpn.com   # [telemetry]
+sentry.protonvpn.com
+
+##############################################################
+# BÖLÜM 2 — TIER 2-3: QUESTIONABLE VPNs
+##############################################################
+
+# NORDVPN (Nord Security)
+analytics.nordvpn.com
+metrics.nordvpn.com       
+insights.nordvpn.com      
+telemetry.nordvpn.com     
+trace.nordvpn.com         
+tracking.nordvpn.com      
+stats.nordvpn.com         
+log.nordvpn.com           
+
+# EXPRESSVPN (Kape Technologies)
+telemetry.expressvpn.com  
+analytics.expressvpn.com  
+metrics.expressvpn.com    
+tracking.expressvpn.com   
+stats.expressvpn.com      
+
+# PRIVATE INTERNET ACCESS / PIA (Kape Technologies)
+analytics.privateinternetaccess.com 
+telemetry.privateinternetaccess.com  
+metrics.privateinternetaccess.com    
+tracking.privateinternetaccess.com   
+
+# CYBERGHOST (Kape Technologies)
+analytics.cyberghostvpn.com  
+telemetry.cyberghostvpn.com  
+metrics.cyberghostvpn.com    
+tracking.cyberghostvpn.com   
+
+# SURFSHARK (Nord Security)
+analytics.surfshark.com   
+metrics.surfshark.com     
+telemetry.surfshark.com   
+tracking.surfshark.com    
+stats.surfshark.com       
+
+# TUNNELBEAR (Gen Digital / McAfee)
+analytics.tunnelbear.com  
+telemetry.tunnelbear.com  
+metrics.tunnelbear.com    
+clientlogs.tunnelbear.com
+
+# IPVANISH (Ziff Davis / NetProtect)
+analytics.ipvanish.com    
+telemetry.ipvanish.com    
+metrics.ipvanish.com      
+
+# VYPRVPN (Certida LLC)
+analytics.vyprvpn.com     
+telemetry.vyprvpn.com     
+
+# WINDSCRIBE
+analytics.windscribe.com  
+telemetry.windscribe.com  
+
+# HIDE.ME
+analytics.hide.me         
+telemetry.hide.me         
+stats.hide.me
+
+# PUREVPN
+analytics.purevpn.com     
+telemetry.purevpn.com     
+tracking.purevpn.com      
+adjustevents.purevpn.com
+
+# TORGUARD
+analytics.torguard.net    
+
+# ASTRILL VPN
+analytics.astrill.com     
+telemetry.astrill.com     
+
+##############################################################
+# BÖLÜM 3 — TIER 4-5: DANGEROUS VPNs
+##############################################################
+
+# URBAN VPN
+# ⚠️ ÖNEMLİ NOT: Temmuz 2025 tespiti — ChatGPT, Claude ve Gemini
+# konuşmalarını MITM ile yakalayıp BiScience'a satıyor. Asla kullanmayın.
+urban-vpn.com
+analytics.urban-vpn.com   # [analytics] — AI konuşma yakalama altyapısı
+stats.urban-vpn.com       # [analytics] — AI konuşma yakalama altyapısı
+urbanshield.com
+sclpfybn.com
+geo-surf.com
+biscience.com
+adclarity.com
+clickstream-os.com
