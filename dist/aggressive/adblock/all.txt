@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1408
+# Total domains: 1444
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -155,9 +155,11 @@
 ||analytics.cbsaavideo.com^
 ||analytics.cellarpass.com^
 ||analytics.cf.morgen.so^
+||analytics.character.ai^
 ||analytics.clarovideo.com^
 ||analytics.clickbank.com^
 ||analytics.cod.ed.gov^
+||analytics.codeium.com^
 ||analytics.connectwise.com^
 ||analytics.conviva.com^
 ||analytics.corsair.com^
@@ -221,6 +223,7 @@
 ||analytics.nordpass.com^
 ||analytics.notify.elsevier.com^
 ||analytics.obsidian.md^
+||analytics.openai.com^
 ||analytics.openaire.eu^
 ||analytics.openalex.org^
 ||analytics.paramountplus.com^
@@ -237,6 +240,7 @@
 ||analytics.razerzone.com^
 ||analytics.realvnc.com^
 ||analytics.remotepc.com^
+||analytics.replika.ai^
 ||analytics.ringcentral.ca^
 ||analytics.ringcentral.co.uk^
 ||analytics.ringcentral.com^
@@ -351,6 +355,7 @@
 ||api.zoominfo.com^
 ||apmebf.com^
 ||appanalytics.tomtom.com^
+||arc-metrics.corp.codeium.com^
 ||asapp.navdmp.com^
 ||ask.hotjar.com^
 ||assets-cache.us.smartlook.cloud^
@@ -383,6 +388,7 @@
 ||azira.com^
 ||b.clarity.ms^
 ||background-play-metrics.youtube.com^
+||bard-telemetry.google.com^
 ||bcp.crwdcntrl.net^
 ||bcp.lotame.com^
 ||bcp.st.crwdcntrl.net^
@@ -395,6 +401,7 @@
 ||bisnode.com^
 ||bitmovin-analytics.net^
 ||bkrtx.com^
+||blobs.pixel.coder.com^
 ||bluekai.com^
 ||bombora.com^
 ||br.smartlook.cloud^
@@ -467,6 +474,7 @@
 ||cdn.zipy.ai^
 ||cdnclicktale.com^
 ||cdnssl.clicktale.net^
+||cdp.copilot.microsoft.com^
 ||cetrk.com^
 ||cfjump.com^
 ||channel-analytics.pluto.tv^
@@ -489,6 +497,7 @@
 ||clicktale.net^
 ||clicktale.pantherssl.com^
 ||clicktalecdn.sslcs.cdngc.net^
+||client-telemetry.us-east-1.amazonaws.com^
 ||cloud.tealeaf.com^
 ||cloudtrack.cal.com^
 ||collect.biomedcentral.com^
@@ -517,6 +526,7 @@
 ||conversions.appsflyer.com^
 ||conviva.ai^
 ||conviva.com^
+||copilot-telemetry.githubusercontent.com^
 ||core.crazyegg.com^
 ||coreads-console.cambridge.org^
 ||coreads-static.cambridge.org^
@@ -633,6 +643,7 @@
 ||euc-onenote-telemetry.officeapps.live.com^
 ||event.appsflyer.com^
 ||events-writer.eu.smartlook.cloud^
+||events.character.ai^
 ||events.cuebiq.com^
 ||events.hotjar.com^
 ||events.jwplayer.com^
@@ -676,6 +687,7 @@
 ||gateway-v2.crakrevenue.com^
 ||gateway.crakrevenue.com^
 ||gateway.glassboxdigital.com^
+||gemini-analytics.google.com^
 ||geoip.cactusglobal.com^
 ||glassbox.com^
 ||glassbox.digital^
@@ -795,6 +807,7 @@
 ||logr-ingest.com^
 ||logrocket.com^
 ||logrocket.io^
+||logs-gateway.tabnine.com^
 ||logs.1password.com^
 ||logs.bobble.ai^
 ||logs.hulu.com^
@@ -832,10 +845,12 @@
 ||metaffiliation.com^
 ||metrics-a.wbx2.com^
 ||metrics-api.openalex.org^
+||metrics-eric.oss.demo.coder.com^
 ||metrics-k.wbx2.com^
 ||metrics-r.wbx2.com^
 ||metrics.1password.com^
 ||metrics.abema.tv^
+||metrics.anthropic.com^
 ||metrics.binge.com.au^
 ||metrics.bitmovin.com^
 ||metrics.branch.io^
@@ -872,12 +887,14 @@
 ||metrics.nbc.com^
 ||metrics.netflix.com^
 ||metrics.nickjr.com^
+||metrics.openai.com^
 ||metrics.paramountplus.com^
 ||metrics.peacocktv.com^
 ||metrics.piano.io^
 ||metrics.plex.tv^
 ||metrics.pluto.tv^
 ||metrics.razer.com^
+||metrics.replika.ai^
 ||metrics.sci-hub.tw^
 ||metrics.shazam.com^
 ||metrics.skyshowtime.com^
@@ -935,6 +952,10 @@
 ||nqs-us.youbora.com^
 ||nqs.youbora.com^
 ||o.clarity.ms^
+||o.openai.com^
+||o1158394.ingest.us.sentry.io^
+||o207216.ingest.sentry.io^
+||o33249.ingest.sentry.io^
 ||offline-analytics.youtube.com^
 ||openreplay.com^
 ||opi.navdmp.com^
@@ -984,6 +1005,7 @@
 ||pre.smartplugin.youbora.com^
 ||preprocessor.heatmap.com^
 ||presentationtracking.netflix.com^
+||prod.log.shortbread.aws.dev^
 ||production.ads.cj.com^
 ||prospector.clearbit.com^
 ||protected.media^
@@ -1038,6 +1060,7 @@
 ||s.jwpltx.com^
 ||s.n.jwpltx.com^
 ||sa-east-1-1.telemetry.insights.video.a2z.com^
+||sa.coder.com^
 ||saa.cbsi.com^
 ||saa.paramountplus.com^
 ||safegraph.com^
@@ -1067,11 +1090,14 @@
 ||segment.vivino.com^
 ||segmentcdn.usemotion.com^
 ||sentry.clickdealer.com^
+||sentry.codeium.com^
 ||sentry.scielo.org^
 ||sentry.scispace.com^
+||sentry.xinchenai.com^
 ||sentry2-client.cos.io^
 ||sentry2.cos.io^
 ||sentry3.cos.io^
+||service.githubusercontent.com^
 ||sessioncam.com^
 ||sessioncam.net^
 ||sessionrewind.com^
@@ -1163,9 +1189,13 @@
 ||telemetry.1passwordservices.com^
 ||telemetry.anydesk.com^
 ||telemetry.api.swiftkey.com^
+||telemetry.aws-language-servers.us-east-1.amazonaws.com^
 ||telemetry.bamgrid.com^
 ||telemetry.beyondtrust.com^
 ||telemetry.bitmovin.com^
+||telemetry.character.ai^
+||telemetry.codeium.com^
+||telemetry.coder.com^
 ||telemetry.corsair.com^
 ||telemetry.crunchyroll.com^
 ||telemetry.dazn.com^
@@ -1181,6 +1211,7 @@
 ||telemetry.max.com^
 ||telemetry.mux.com^
 ||telemetry.nzxt.com^
+||telemetry.openai.com^
 ||telemetry.paramountplus.com^
 ||telemetry.peacocktv.com^
 ||telemetry.pluto.tv^
@@ -1192,6 +1223,7 @@
 ||telemetry.soundhound.com^
 ||telemetry.splashtop.com^
 ||telemetry.steelseries.com^
+||telemetry.tabnine.com^
 ||telemetry.teamviewer.com^
 ||telemetry.tubitv.com^
 ||telemetry.untappd.com^
@@ -1218,6 +1250,7 @@
 ||track.branch.io^
 ||track.cj.com^
 ||track.clickbooth.com^
+||track.coder.com^
 ||track.commissionfactory.com^
 ||track.consensus.app^
 ||track.cpamatica.com^
@@ -1232,6 +1265,7 @@
 ||track.linkconnector.com^
 ||track.parsely.com^
 ||track.researchrabbit.ai^
+||track.romanticai.com^
 ||track.stories.moovit.com^
 ||track.webgains.com^
 ||tracker.core.ac.uk^
@@ -1296,6 +1330,7 @@
 ||uxcam.com^
 ||v.clarity.ms^
 ||v.plerdy.com^
+||v1.telemetry.coder.com^
 ||va-endpoint.com^
 ||vars.hotjar.com^
 ||vars.webmaxy.com^
@@ -1406,6 +1441,7 @@
 ||youtube-kids-metrics.googleapis.com^
 ||ytmusic-analytics.googleapis.com^
 ||z.clarity.ms^
+||zemomedia.com^
 ||zeydoo.com^
 ||ziffmedia.com^
 ||zipy.ai^

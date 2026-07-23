@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1364
+# Total domains: 1400
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -150,9 +150,11 @@
 0.0.0.0 analytics.cbsaavideo.com
 0.0.0.0 analytics.cellarpass.com
 0.0.0.0 analytics.cf.morgen.so
+0.0.0.0 analytics.character.ai
 0.0.0.0 analytics.clarovideo.com
 0.0.0.0 analytics.clickbank.com
 0.0.0.0 analytics.cod.ed.gov
+0.0.0.0 analytics.codeium.com
 0.0.0.0 analytics.connectwise.com
 0.0.0.0 analytics.conviva.com
 0.0.0.0 analytics.corsair.com
@@ -216,6 +218,7 @@
 0.0.0.0 analytics.nordpass.com
 0.0.0.0 analytics.notify.elsevier.com
 0.0.0.0 analytics.obsidian.md
+0.0.0.0 analytics.openai.com
 0.0.0.0 analytics.openaire.eu
 0.0.0.0 analytics.openalex.org
 0.0.0.0 analytics.paramountplus.com
@@ -232,6 +235,7 @@
 0.0.0.0 analytics.razerzone.com
 0.0.0.0 analytics.realvnc.com
 0.0.0.0 analytics.remotepc.com
+0.0.0.0 analytics.replika.ai
 0.0.0.0 analytics.ringcentral.ca
 0.0.0.0 analytics.ringcentral.co.uk
 0.0.0.0 analytics.ringcentral.com
@@ -346,6 +350,7 @@
 0.0.0.0 api.zoominfo.com
 0.0.0.0 apmebf.com
 0.0.0.0 appanalytics.tomtom.com
+0.0.0.0 arc-metrics.corp.codeium.com
 0.0.0.0 asapp.navdmp.com
 0.0.0.0 ask.hotjar.com
 0.0.0.0 assets-cache.us.smartlook.cloud
@@ -377,6 +382,7 @@
 0.0.0.0 azira.com
 0.0.0.0 b.clarity.ms
 0.0.0.0 background-play-metrics.youtube.com
+0.0.0.0 bard-telemetry.google.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bcp.lotame.com
 0.0.0.0 bcp.st.crwdcntrl.net
@@ -389,6 +395,7 @@
 0.0.0.0 bisnode.com
 0.0.0.0 bitmovin-analytics.net
 0.0.0.0 bkrtx.com
+0.0.0.0 blobs.pixel.coder.com
 0.0.0.0 bluekai.com
 0.0.0.0 bombora.com
 0.0.0.0 br.smartlook.cloud
@@ -457,6 +464,7 @@
 0.0.0.0 cdn.zipy.ai
 0.0.0.0 cdnclicktale.com
 0.0.0.0 cdnssl.clicktale.net
+0.0.0.0 cdp.copilot.microsoft.com
 0.0.0.0 cetrk.com
 0.0.0.0 cfjump.com
 0.0.0.0 channels-analytics.amazon.com
@@ -478,6 +486,7 @@
 0.0.0.0 clicktale.net
 0.0.0.0 clicktale.pantherssl.com
 0.0.0.0 clicktalecdn.sslcs.cdngc.net
+0.0.0.0 client-telemetry.us-east-1.amazonaws.com
 0.0.0.0 cloud.tealeaf.com
 0.0.0.0 cloudtrack.cal.com
 0.0.0.0 collect.biomedcentral.com
@@ -505,6 +514,7 @@
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 conviva.ai
 0.0.0.0 conviva.com
+0.0.0.0 copilot-telemetry.githubusercontent.com
 0.0.0.0 core.crazyegg.com
 0.0.0.0 coreads-console.cambridge.org
 0.0.0.0 coreads-static.cambridge.org
@@ -619,6 +629,7 @@
 0.0.0.0 euc-onenote-telemetry.officeapps.live.com
 0.0.0.0 event.appsflyer.com
 0.0.0.0 events-writer.eu.smartlook.cloud
+0.0.0.0 events.character.ai
 0.0.0.0 events.cuebiq.com
 0.0.0.0 events.hotjar.com
 0.0.0.0 events.jwplayer.com
@@ -658,6 +669,7 @@
 0.0.0.0 gateway-v2.crakrevenue.com
 0.0.0.0 gateway.crakrevenue.com
 0.0.0.0 gateway.glassboxdigital.com
+0.0.0.0 gemini-analytics.google.com
 0.0.0.0 glassbox.com
 0.0.0.0 glassbox.digital
 0.0.0.0 glassboxdigital.com
@@ -772,6 +784,7 @@
 0.0.0.0 logr-ingest.com
 0.0.0.0 logrocket.com
 0.0.0.0 logrocket.io
+0.0.0.0 logs-gateway.tabnine.com
 0.0.0.0 logs.1password.com
 0.0.0.0 logs.bobble.ai
 0.0.0.0 logs.hulu.com
@@ -809,10 +822,12 @@
 0.0.0.0 metaffiliation.com
 0.0.0.0 metrics-a.wbx2.com
 0.0.0.0 metrics-api.openalex.org
+0.0.0.0 metrics-eric.oss.demo.coder.com
 0.0.0.0 metrics-k.wbx2.com
 0.0.0.0 metrics-r.wbx2.com
 0.0.0.0 metrics.1password.com
 0.0.0.0 metrics.abema.tv
+0.0.0.0 metrics.anthropic.com
 0.0.0.0 metrics.binge.com.au
 0.0.0.0 metrics.bitmovin.com
 0.0.0.0 metrics.branch.io
@@ -849,12 +864,14 @@
 0.0.0.0 metrics.nbc.com
 0.0.0.0 metrics.netflix.com
 0.0.0.0 metrics.nickjr.com
+0.0.0.0 metrics.openai.com
 0.0.0.0 metrics.paramountplus.com
 0.0.0.0 metrics.peacocktv.com
 0.0.0.0 metrics.piano.io
 0.0.0.0 metrics.plex.tv
 0.0.0.0 metrics.pluto.tv
 0.0.0.0 metrics.razer.com
+0.0.0.0 metrics.replika.ai
 0.0.0.0 metrics.sci-hub.tw
 0.0.0.0 metrics.shazam.com
 0.0.0.0 metrics.skyshowtime.com
@@ -911,6 +928,10 @@
 0.0.0.0 nqs-us.youbora.com
 0.0.0.0 nqs.youbora.com
 0.0.0.0 o.clarity.ms
+0.0.0.0 o.openai.com
+0.0.0.0 o1158394.ingest.us.sentry.io
+0.0.0.0 o207216.ingest.sentry.io
+0.0.0.0 o33249.ingest.sentry.io
 0.0.0.0 offline-analytics.youtube.com
 0.0.0.0 openreplay.com
 0.0.0.0 opi.navdmp.com
@@ -950,6 +971,7 @@
 0.0.0.0 pre.smartplugin.youbora.com
 0.0.0.0 preprocessor.heatmap.com
 0.0.0.0 presentationtracking.netflix.com
+0.0.0.0 prod.log.shortbread.aws.dev
 0.0.0.0 production.ads.cj.com
 0.0.0.0 prospector.clearbit.com
 0.0.0.0 protected.media
@@ -1004,6 +1026,7 @@
 0.0.0.0 s.jwpltx.com
 0.0.0.0 s.n.jwpltx.com
 0.0.0.0 sa-east-1-1.telemetry.insights.video.a2z.com
+0.0.0.0 sa.coder.com
 0.0.0.0 saa.cbsi.com
 0.0.0.0 saa.paramountplus.com
 0.0.0.0 safegraph.com
@@ -1032,11 +1055,14 @@
 0.0.0.0 segment.untappd.com
 0.0.0.0 segment.vivino.com
 0.0.0.0 sentry.clickdealer.com
+0.0.0.0 sentry.codeium.com
 0.0.0.0 sentry.scielo.org
 0.0.0.0 sentry.scispace.com
+0.0.0.0 sentry.xinchenai.com
 0.0.0.0 sentry2-client.cos.io
 0.0.0.0 sentry2.cos.io
 0.0.0.0 sentry3.cos.io
+0.0.0.0 service.githubusercontent.com
 0.0.0.0 sessioncam.com
 0.0.0.0 sessioncam.net
 0.0.0.0 sessionrewind.com
@@ -1127,9 +1153,13 @@
 0.0.0.0 telemetry.1passwordservices.com
 0.0.0.0 telemetry.anydesk.com
 0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 telemetry.aws-language-servers.us-east-1.amazonaws.com
 0.0.0.0 telemetry.bamgrid.com
 0.0.0.0 telemetry.beyondtrust.com
 0.0.0.0 telemetry.bitmovin.com
+0.0.0.0 telemetry.character.ai
+0.0.0.0 telemetry.codeium.com
+0.0.0.0 telemetry.coder.com
 0.0.0.0 telemetry.corsair.com
 0.0.0.0 telemetry.crunchyroll.com
 0.0.0.0 telemetry.dazn.com
@@ -1145,6 +1175,7 @@
 0.0.0.0 telemetry.max.com
 0.0.0.0 telemetry.mux.com
 0.0.0.0 telemetry.nzxt.com
+0.0.0.0 telemetry.openai.com
 0.0.0.0 telemetry.paramountplus.com
 0.0.0.0 telemetry.peacocktv.com
 0.0.0.0 telemetry.pluto.tv
@@ -1156,6 +1187,7 @@
 0.0.0.0 telemetry.soundhound.com
 0.0.0.0 telemetry.splashtop.com
 0.0.0.0 telemetry.steelseries.com
+0.0.0.0 telemetry.tabnine.com
 0.0.0.0 telemetry.teamviewer.com
 0.0.0.0 telemetry.tubitv.com
 0.0.0.0 telemetry.untappd.com
@@ -1182,6 +1214,7 @@
 0.0.0.0 track.branch.io
 0.0.0.0 track.cj.com
 0.0.0.0 track.clickbooth.com
+0.0.0.0 track.coder.com
 0.0.0.0 track.commissionfactory.com
 0.0.0.0 track.consensus.app
 0.0.0.0 track.cpamatica.com
@@ -1196,6 +1229,7 @@
 0.0.0.0 track.linkconnector.com
 0.0.0.0 track.parsely.com
 0.0.0.0 track.researchrabbit.ai
+0.0.0.0 track.romanticai.com
 0.0.0.0 track.stories.moovit.com
 0.0.0.0 track.webgains.com
 0.0.0.0 tracker.core.ac.uk
@@ -1260,6 +1294,7 @@
 0.0.0.0 uxcam.com
 0.0.0.0 v.clarity.ms
 0.0.0.0 v.plerdy.com
+0.0.0.0 v1.telemetry.coder.com
 0.0.0.0 va-endpoint.com
 0.0.0.0 vars.hotjar.com
 0.0.0.0 vars.webmaxy.com
@@ -1362,6 +1397,7 @@
 0.0.0.0 youtube-kids-metrics.googleapis.com
 0.0.0.0 ytmusic-analytics.googleapis.com
 0.0.0.0 z.clarity.ms
+0.0.0.0 zemomedia.com
 0.0.0.0 zeydoo.com
 0.0.0.0 ziffmedia.com
 0.0.0.0 zipy.ai
