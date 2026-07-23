@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1740
+# Total domains: 1814
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -78,6 +78,7 @@ ads-resources.waze.com
 ads-twitter.com.sci-hub.tw
 ads-v-darwin.hulu.com
 ads.api.cj.com
+ads.avast.com
 ads.babbel.com
 ads.bitmovin.com
 ads.brightcove.com
@@ -137,6 +138,7 @@ amagi.tv
 amp.navdmp.com
 amp.permutive.app
 amplitude.usemotion.com
+an.avast.com
 analytic.underarmour.com
 analytics-api.obefitness.com
 analytics-api.vervemobile.com
@@ -147,10 +149,14 @@ analytics-ingress-global.bitmovin.com
 analytics-ingress-us.bitmovin.com
 analytics-iq.com
 analytics-lingo4g.dimensions.ai
+analytics-login.avg.com
+analytics-login.norton.com
 analytics-old.openaire.eu
 analytics-origin.cod.ed.gov
 analytics-pbl.vivino.com
 analytics-portal.8x8.com
+analytics-prod-gcp.ff.avast.com
+analytics-stage.ff.avast.com
 analytics-v2.tensor.trade
 analytics.1password.com
 analytics.8x8.com
@@ -163,6 +169,8 @@ analytics.appsflyer.com
 analytics.astrill.com
 analytics.athan.com
 analytics.authy.com
+analytics.avast.com
+analytics.avcdn.net
 analytics.babbel.com
 analytics.bear.app
 analytics.beelinguapp.com
@@ -171,6 +179,7 @@ analytics.beyondtrust.com
 analytics.bible.com
 analytics.bilibili.com
 analytics.binge.com.au
+analytics.bitdefender.com
 analytics.blim.com
 analytics.blur.io
 analytics.bobble.ai
@@ -179,6 +188,7 @@ analytics.britbox.com
 analytics.busuu.com
 analytics.cambly.com
 analytics.canalplus.com
+analytics.cba.kaspersky.com
 analytics.cbsaavideo.com
 analytics.cellarpass.com
 analytics.cf.morgen.so
@@ -186,6 +196,7 @@ analytics.character.ai
 analytics.clarovideo.com
 analytics.clickbank.com
 analytics.clozemaster.com
+analytics.cms.avira.com
 analytics.cod.ed.gov
 analytics.codeium.com
 analytics.connectwise.com
@@ -291,6 +302,7 @@ analytics.noom.com
 analytics.nordpass.com
 analytics.nordvpn.com
 analytics.notify.elsevier.com
+analytics.ns1.ff.avast.com
 analytics.obsidian.md
 analytics.okta.com
 analytics.onepeloton.com
@@ -396,6 +408,7 @@ analytics10.ticketmaster.com
 analyticshub.services.swiftkey.com
 analyticshub.swiftkey.com
 anrdoezrs.net
+ans.avast.com
 ap-northeast-1-1.telemetry.insights.video.a2z.com
 ap-southeast-1-1.telemetry.insights.video.a2z.com
 api-eu.mouseflow.com
@@ -431,6 +444,7 @@ api.heatmap.com
 api.hotjar.io
 api.infutor.com
 api.inspectlet.com
+api.jumpshot.com
 api.livesession.io
 api.logrocket.io
 api.lotame.com
@@ -524,6 +538,7 @@ blobs.pixel.coder.com
 bluekai.com
 bombora.com
 br.smartlook.cloud
+bug.kaspersky.com
 bugreporting.rec.net
 bugtracker.akiflow.com
 bytes-event.vive.com
@@ -610,6 +625,7 @@ clarity.ms
 clearbit.com
 click.appsflyer.com
 click.mail.crakrevenue.com
+click.stat.hao.360.cn
 clickagy.com
 clickbank.com
 clickbank.net
@@ -746,17 +762,20 @@ donorbase.com
 dotcom-preview.tags.elsevier.com
 dotcom.tags.elsevier.com
 dpbolvw.net
+dsstat.kaspersky.com
 dunandbradstreet.com
 dwin1.com
 dwin2.com
 dxi.decibelinsight.net
 e.clarity.ms
+easyad.360.cn
 eccmp.com
 edge.fullstory.com
 edge.permutive.app
 effiliation.com
 ekb.analytics.elsevier.com
 email.events.duolingo.com
+emailfootprint.norton.com
 emetrics.engineeringvillage.com
 emjcd.com
 engage.kaltura.com
@@ -773,6 +792,7 @@ errors.netflix.com
 errors.razerzone.com
 espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
+etrack.np.norton.com
 eu-west-1-1.telemetry.insights.video.a2z.com
 eu.fullstory.com
 eu.mouseflow.com
@@ -782,6 +802,12 @@ euc-onenote-telemetry.officeapps.live.com
 event.appsflyer.com
 event.okta.com
 event.vive.com
+eventlog-failtest.norton.com
+eventlog-sd-beta.norton.com
+eventlog-sd.norton.com
+eventlog.avg.com
+eventlog.avira.com
+eventlog.norton.com
 events-writer.eu.smartlook.cloud
 events.character.ai
 events.cuebiq.com
@@ -813,6 +839,8 @@ f.clarity.ms
 fa.hellotalk.com
 faces3cdn.goforandroid.com
 factual.com
+faults.norton.com
+faults.symantec.com
 fbanalytics.sandbox.game
 feedback.hotjar.com
 files.crazyegg.com
@@ -867,6 +895,7 @@ gtrack.stories.moovit.com
 h.clarity.ms
 heatmap.com
 hellotracking.ticketmaster.com
+hist.stats.avast.com
 hit.seznam.cz
 hitwise.com
 hotjar.com
@@ -907,6 +936,7 @@ ingest.sessionstack.com
 ingest.zipy.ai
 inmarket.com
 insights.conviva.com
+insights.jumpshot.com
 insights.nordvpn.com
 insights.video.a2z.com
 inspectlet.com
@@ -918,6 +948,7 @@ integration-api.crazyegg.com
 integrations.smartlook.com
 intelligence.conviva.com
 intelligence.towerdata.com
+ip-info.ff.avast.com
 isapp.navdmp.com
 isc-tracking.eventim.com
 iscd.navdmp.com
@@ -929,16 +960,20 @@ jdoqocy.com
 js-pixel.limeade.com
 js.heatmap.com
 js.ptengine.jp
+jubaoads.360.cn
+jumpshot.com
 jungroup.com
 jwpltx.com
 k.clarity.ms
 k.pluto.tv
 kids-analytics.youtube.com
 kqzyfj.com
+ksn-stat.kaspersky.com
 l.clarity.ms
 lakegroupmedia.com
 launches.appsflyer.com
 lb-api.visitor-analytics.io
+lc.stats.avast.com
 lduhtrp.net
 lgrckt-in.com
 libs.acoustic.co
@@ -982,6 +1017,7 @@ logr-in.com
 logr-ingest.com
 logrocket.com
 logrocket.io
+logs-ext.bitdefender.com
 logs-gateway.tabnine.com
 logs.1password.com
 logs.bobble.ai
@@ -1017,6 +1053,9 @@ mb01.com
 mb103.com
 mcd.navdmp.com
 mcdn.navdmp.com
+mdm-sentry-win.cz.avg.com
+mdm-sentry.cz.avg.com
+mdm-sentry.us.avg.com
 medallia.com
 media.gosmspro.com
 meetings-telemetry.goog
@@ -1035,7 +1074,9 @@ metrics-r.wbx2.com
 metrics.1password.com
 metrics.abema.tv
 metrics.anthropic.com
+metrics.avast.com
 metrics.binge.com.au
+metrics.bitdefender.com
 metrics.bitmovin.com
 metrics.branch.io
 metrics.brightcove.com
@@ -1109,8 +1150,10 @@ metrics.watchnebula.com
 metrics.wavve.com
 metrics.youbora.com
 metrics.zee5.com
+mi.telemetry.lab.norton.com
 mit.metrics.unpaywall.org
 mixpanel.untappd.com
+mkt.pcpitstop.com
 mobile-sdk.smartlook.com
 mobilewalla.com
 mobility.safegraph.com
@@ -1178,6 +1221,7 @@ person.clearbit.com
 personalization.hbomax.com
 personalization.hulu.com
 piano.io
+ping.avast.com
 ping.chartbeat.net
 pixalate.com
 pixel.branch.io
@@ -1251,6 +1295,7 @@ reveal.clearbit.com
 ringcentral.112.2o7.net
 risk.clearbit.com
 risk.dnb.com
+rmmetrics.mcafee.com
 rnsfpw.net
 rs.fullstory.com
 rs.livesession.io
@@ -1316,6 +1361,7 @@ sessioncam.com
 sessioncam.net
 sessionrewind.com
 sessionstack.com
+sftelemetry.sophos.com
 sg.smartlook.cloud
 shareasale-analytics.com
 shop.tags.elsevier.com
@@ -1324,6 +1370,7 @@ signal.truoptik.com
 signalframe.com
 skadpostbacks.appsflyer.com
 sl-tracking.fitonhealth.com
+sls-telemetry.sophosupd.com
 smaato.com
 smaato.net
 smartlook.cloud
@@ -1332,6 +1379,7 @@ smartplugin.youbora.com
 smetric.worldcat.org
 smetrics-ieeexplore.ieee.org
 smetrics.axs.com
+smetrics.bitdefender.com
 smetrics.elsevier.com
 smetrics.engineeringvillage.com
 smetrics.lww.com
@@ -1348,6 +1396,10 @@ srv.pixel.parsely.com
 ssai.brightcove.com
 ssl2.cdngc.net
 sslcs.cdngc.net
+sstats.bitdefender.com
+stat.360safe.com
+stat.avira.com
+stat.kaspersky.com
 stat.maps.me
 static-cdn.hotjar.com
 static.chartbeat.com
@@ -1360,7 +1412,11 @@ static.openreplay.com
 static.webmaxy.com
 stats.apps.allenai.org
 stats.appsflyer.com
+stats.avast.com
+stats.avg.com
+stats.avira.com
 stats.bilibili.com
+stats.bitdefender.com
 stats.blur.io
 stats.calldorado.com
 stats.corsair.com
@@ -1370,10 +1426,13 @@ stats.i.mdpi.com
 stats.iqiyi.com
 stats.ivpn.net
 stats.kaltura.com
+stats.kaspersky.com
 stats.looksrare.org
 stats.magiceden.io
+stats.mcafee.com
 stats.nicovideo.jp
 stats.nordvpn.com
+stats.norton.com
 stats.opensea.io
 stats.rarible.com
 stats.stronglifts.com
@@ -1401,6 +1460,7 @@ sync.crwdcntrl.net
 sync.eyeota.net
 sync.navdmp.com
 sync2.navdmp.com
+sysreset.stat.360safe.com
 t.acxiom-online.com
 t.appsflyer.com
 t.cfjump.com
@@ -1429,9 +1489,13 @@ telemetry.access.securid.com
 telemetry.anydesk.com
 telemetry.api.swiftkey.com
 telemetry.astrill.com
+telemetry.avast.com
+telemetry.avg.com
+telemetry.avira.com
 telemetry.aws-language-servers.us-east-1.amazonaws.com
 telemetry.bamgrid.com
 telemetry.beyondtrust.com
+telemetry.bitdefender.com
 telemetry.bitmovin.com
 telemetry.character.ai
 telemetry.codeium.com
@@ -1453,12 +1517,17 @@ telemetry.hulu.com
 telemetry.immutable.com
 telemetry.insights.video.a2z.com
 telemetry.ipvanish.com
+telemetry.kaspersky.com
 telemetry.logitechg.com
 telemetry.logmein.com
+telemetry.malwarebytes.com
 telemetry.mapbox.com
 telemetry.max.com
+telemetry.mcafee.com
+telemetry.mobile.api.mcafee.com
 telemetry.mux.com
 telemetry.nordvpn.com
+telemetry.norton.com
 telemetry.nzxt.com
 telemetry.okta.com
 telemetry.openai.com
@@ -1541,6 +1610,8 @@ tracking.affilae.com
 tracking.api.cj.com
 tracking.appsflyer.com
 tracking.avantlink.com
+tracking.avast.com
+tracking.avg.com
 tracking.awin.com
 tracking.crazyegg.com
 tracking.cyberghostvpn.com
@@ -1616,6 +1687,9 @@ uxcam.com
 v.clarity.ms
 v.plerdy.com
 v1.telemetry.coder.com
+v7.stats.avast.com
+v7event.stats.avast.com
+v9.stats.avast.com
 va-endpoint.com
 vars.hotjar.com
 vars.webmaxy.com
