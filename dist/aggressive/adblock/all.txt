@@ -1,10 +1,12 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1301
+# Total domains: 1329
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+||01.sa.telemetry.zoom.us^
+||02.sa.telemetry.zoom.us^
 ||3dat.steelseries.com^
 ||4cite.com^
 ||a.clarity.ms^
@@ -123,7 +125,9 @@
 ||analytics-ingress-us.bitmovin.com^
 ||analytics-iq.com^
 ||analytics-pbl.vivino.com^
+||analytics-portal.8x8.com^
 ||analytics.1password.com^
+||analytics.8x8.com^
 ||analytics.abema.tv^
 ||analytics.anydesk.com^
 ||analytics.api.brightcove.com^
@@ -154,6 +158,7 @@
 ||analytics.dashlane.com^
 ||analytics.dazn.com^
 ||analytics.delectable.com^
+||analytics.dialpad.com^
 ||analytics.digitalpour.com^
 ||analytics.discoveryplus.com^
 ||analytics.disneynow.com^
@@ -172,6 +177,7 @@
 ||analytics.hulu.com^
 ||analytics.hyperx.com^
 ||analytics.iqiyi.com^
+||analytics.jitsi.net^
 ||analytics.joplincloud.com^
 ||analytics.jwplayer.com^
 ||analytics.kaltura.com^
@@ -213,6 +219,10 @@
 ||analytics.razerzone.com^
 ||analytics.realvnc.com^
 ||analytics.remotepc.com^
+||analytics.ringcentral.ca^
+||analytics.ringcentral.co.uk^
+||analytics.ringcentral.com^
+||analytics.ringcentral.eu^
 ||analytics.roamresearch.com^
 ||analytics.roboform.com^
 ||analytics.rtlplus.com^
@@ -239,11 +249,13 @@
 ||analytics.vudu.com^
 ||analytics.wavve.com^
 ||analytics.waze.com^
+||analytics.webex.com^
 ||analytics.webgains.io^
 ||analytics.youbora.com^
 ||analytics.youku.com^
 ||analytics.zee5.com^
 ||analytics.zoho.com^
+||analytics.zoom.us^
 ||analyticshub.services.swiftkey.com^
 ||analyticshub.swiftkey.com^
 ||anrdoezrs.net^
@@ -329,6 +341,7 @@
 ||attribution.branch.io^
 ||audience.api.brightcove.com^
 ||audienceiq.com^
+||auth.callstats.io^
 ||avantmetrics.com^
 ||avention.com^
 ||aw.bobble.ai^
@@ -367,6 +380,7 @@
 ||c.ltmsphrcl.net^
 ||c.st.ltmsphrcl.net^
 ||ca-central-1-1.telemetry.insights.video.a2z.com^
+||callstats.io^
 ||captify.co^
 ||captify.co.uk^
 ||cbsi.demdex.net^
@@ -456,6 +470,7 @@
 ||collector-eu.conviva.com^
 ||collector-us.conviva.com^
 ||collector.acoustic.co^
+||collector.callstats.io^
 ||collector.clickdealer.com^
 ||collector.conviva.com^
 ||collector.glassbox.com^
@@ -724,10 +739,15 @@
 ||livesession.io^
 ||livestats.kaltura.com^
 ||localad.naver.com^
+||log-gateway.zoom.us^
+||log-internal-gateway.zoom.us^
+||log-net.zoom.us^
 ||log.ai-type.com^
 ||log.facemoji.com^
 ||log.shazam.com^
 ||log.soundhound.com^
+||log.zoom.us^
+||logfiles.zoom.us^
 ||logging.bamgrid.com^
 ||logging.netflix.com^
 ||logr-in.com^
@@ -738,6 +758,8 @@
 ||logs.bobble.ai^
 ||logs.hulu.com^
 ||logs.netflix.com^
+||logsystem.zoom.us^
+||logzilla.zoom.us^
 ||lotame.com^
 ||lotame.io^
 ||lr-in-prod.com^
@@ -759,12 +781,16 @@
 ||mcd.navdmp.com^
 ||mcdn.navdmp.com^
 ||medallia.com^
+||meetings-telemetry.goog^
 ||meez.crwdcntrl.net^
 ||merkle.com^
 ||merkleinc.com^
 ||merkleresponse.com^
 ||merkury.dentsu.com^
 ||metaffiliation.com^
+||metrics-a.wbx2.com^
+||metrics-k.wbx2.com^
+||metrics-r.wbx2.com^
 ||metrics.1password.com^
 ||metrics.abema.tv^
 ||metrics.binge.com.au^
@@ -950,6 +976,7 @@
 ||resolve.fullcontact.com^
 ||resources.lotame.com^
 ||reveal.clearbit.com^
+||ringcentral.112.2o7.net^
 ||risk.clearbit.com^
 ||risk.dnb.com^
 ||rnsfpw.net^
@@ -1106,6 +1133,7 @@
 ||telemetry.untappd.com^
 ||telemetry.vivino.com^
 ||telemetry.zoho.com^
+||telemetry.zoom.us^
 ||telemetrydoc.swiftkey.com^
 ||throtle.io^
 ||timeone.fr^
