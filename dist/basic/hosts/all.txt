@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3101
+# Total domains: 3120
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -51,6 +51,7 @@
 0.0.0.0 ad-analytics.peacocktv.com
 0.0.0.0 ad-analytics.pluto.tv
 0.0.0.0 ad-analytics.tubitv.com
+0.0.0.0 ad-api.giphy.com
 0.0.0.0 ad-beacon.hulu.com
 0.0.0.0 ad-beacon.peacocktv.com
 0.0.0.0 ad-beacon.tubitv.com
@@ -115,12 +116,14 @@
 0.0.0.0 ads.flaviar.com
 0.0.0.0 ads.fubo.tv
 0.0.0.0 ads.gentoo.org
+0.0.0.0 ads.giphy.com
 0.0.0.0 ads.gomlab.com
 0.0.0.0 ads.gpapps.com
 0.0.0.0 ads.hbomax.com
 0.0.0.0 ads.hotstar.com
 0.0.0.0 ads.hulu.com
 0.0.0.0 ads.idwall.co
+0.0.0.0 ads.imgflip.com
 0.0.0.0 ads.iqiyi.com
 0.0.0.0 ads.jwplayer.com
 0.0.0.0 ads.kakaopay.com
@@ -140,6 +143,7 @@
 0.0.0.0 ads.retargeter.com
 0.0.0.0 ads.roblox.com
 0.0.0.0 ads.rockstargames.com
+0.0.0.0 ads.tenor.com
 0.0.0.0 ads.timesinternet.in
 0.0.0.0 ads.truecaller.com
 0.0.0.0 ads.untappd.com
@@ -149,6 +153,7 @@
 0.0.0.0 ads.wineenthusiast.com
 0.0.0.0 ads.world.waze.com
 0.0.0.0 ads.zee5.com
+0.0.0.0 ads.zombodroid.com
 0.0.0.0 ads2.ads.pof.com
 0.0.0.0 adsapi-proxy-il.waze.com
 0.0.0.0 adsapi-proxy-na.waze.com
@@ -374,6 +379,7 @@
 0.0.0.0 analytics.geforcenow.com
 0.0.0.0 analytics.gikken.co
 0.0.0.0 analytics.gingersoftware.com
+0.0.0.0 analytics.giphy.com
 0.0.0.0 analytics.givelify.com
 0.0.0.0 analytics.globoplay.globo.com
 0.0.0.0 analytics.glossika.com
@@ -406,6 +412,7 @@
 0.0.0.0 analytics.id.me
 0.0.0.0 analytics.ieee.org
 0.0.0.0 analytics.image-line.com
+0.0.0.0 analytics.imgflip.com
 0.0.0.0 analytics.immutable.com
 0.0.0.0 analytics.imtranslator.net
 0.0.0.0 analytics.incode.com
@@ -533,6 +540,7 @@
 0.0.0.0 analytics.petsmart.com
 0.0.0.0 analytics.piano.io
 0.0.0.0 analytics.pimsleur.com
+0.0.0.0 analytics.pinatafarm.com
 0.0.0.0 analytics.pixalate.com
 0.0.0.0 analytics.plantoeat.com
 0.0.0.0 analytics.platejoy.com
@@ -693,6 +701,7 @@
 0.0.0.0 analytics.zenoti.com
 0.0.0.0 analytics.zoho.com
 0.0.0.0 analytics.zola.com
+0.0.0.0 analytics.zombodroid.com
 0.0.0.0 analytics.zoom.us
 0.0.0.0 analytics.zoosk.com
 0.0.0.0 analytics.zorinos.com
@@ -1504,6 +1513,7 @@
 0.0.0.0 geo-surf.com
 0.0.0.0 getsentry.com
 0.0.0.0 gha-metrics.ops.amplitude.com
+0.0.0.0 giphy-analytics.giphy.com
 0.0.0.0 glassbox.com
 0.0.0.0 glassbox.digital
 0.0.0.0 glassboxdigital.com
@@ -2079,6 +2089,7 @@
 0.0.0.0 piano.io
 0.0.0.0 ping.avast.com
 0.0.0.0 ping.chartbeat.net
+0.0.0.0 pingback.giphy.com
 0.0.0.0 pix.criteo.com
 0.0.0.0 pix.us.criteo.net
 0.0.0.0 pixalate.com
@@ -2431,9 +2442,11 @@
 0.0.0.0 stats.expressvpn.com
 0.0.0.0 stats.flathub.org
 0.0.0.0 stats.gamstop.co.uk
+0.0.0.0 stats.giphy.com
 0.0.0.0 stats.hide.me
 0.0.0.0 stats.i.mdpi.com
 0.0.0.0 stats.image-line.com
+0.0.0.0 stats.imgflip.com
 0.0.0.0 stats.iqiyi.com
 0.0.0.0 stats.ivpn.net
 0.0.0.0 stats.kaltura.com
@@ -2660,6 +2673,7 @@
 0.0.0.0 telemetry.tabnine.com
 0.0.0.0 telemetry.teamviewer.com
 0.0.0.0 telemetry.techsmith.com
+0.0.0.0 telemetry.tenor.com
 0.0.0.0 telemetry.tubitv.com
 0.0.0.0 telemetry.tunnelbear.com
 0.0.0.0 telemetry.uber.com
@@ -2676,6 +2690,7 @@
 0.0.0.0 telemetry.yamaha.com
 0.0.0.0 telemetry.zenoti.com
 0.0.0.0 telemetry.zoho.com
+0.0.0.0 telemetry.zombodroid.com
 0.0.0.0 telemetry.zoom.us
 0.0.0.0 telemetry.zorinos.com
 0.0.0.0 telemetrydoc.swiftkey.com
@@ -2813,6 +2828,7 @@
 0.0.0.0 tracking.feedpress.it
 0.0.0.0 tracking.fresha.com
 0.0.0.0 tracking.geforcenow.com
+0.0.0.0 tracking.giphy.com
 0.0.0.0 tracking.hbomax.com
 0.0.0.0 tracking.hulu.com
 0.0.0.0 tracking.image-line.com
@@ -2859,6 +2875,7 @@
 0.0.0.0 tracking.surfshark.com
 0.0.0.0 tracking.swap.fm
 0.0.0.0 tracking.teamviewer.com
+0.0.0.0 tracking.tenor.com
 0.0.0.0 tracking.theknot.com
 0.0.0.0 tracking.thirstie.com
 0.0.0.0 tracking.toroadvertising.com
@@ -3020,6 +3037,7 @@
 0.0.0.0 ws.zoominfo.com
 0.0.0.0 www.acoustic.com
 0.0.0.0 www.adperio.com
+0.0.0.0 www.ads.giphy.com
 0.0.0.0 www.ads.wineenthusiast.com
 0.0.0.0 www.advidi.com
 0.0.0.0 www.affilae.com
@@ -3073,6 +3091,7 @@
 0.0.0.0 www2.navegg.com
 0.0.0.0 x-mode.com
 0.0.0.0 x.clarity.ms
+0.0.0.0 x.giphy.com
 0.0.0.0 xboxreporting.xboxlive.com
 0.0.0.0 xdcs-collector.ximalaya.com
 0.0.0.0 xlate01.adultfriendfinder.com

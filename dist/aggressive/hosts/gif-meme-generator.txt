@@ -1,0 +1,26 @@
+# ============================================================
+# GIF MEME GENERATOR BLOCKLIST - AGGRESSIVE
+# Total domains: 19
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 ad-api.giphy.com
+0.0.0.0 ads.giphy.com
+0.0.0.0 ads.imgflip.com
+0.0.0.0 ads.tenor.com
+0.0.0.0 ads.zombodroid.com
+0.0.0.0 analytics.giphy.com
+0.0.0.0 analytics.imgflip.com
+0.0.0.0 analytics.pinatafarm.com
+0.0.0.0 analytics.zombodroid.com
+0.0.0.0 giphy-analytics.giphy.com
+0.0.0.0 pingback.giphy.com
+0.0.0.0 stats.giphy.com
+0.0.0.0 stats.imgflip.com
+0.0.0.0 telemetry.tenor.com
+0.0.0.0 telemetry.zombodroid.com
+0.0.0.0 tracking.giphy.com
+0.0.0.0 tracking.tenor.com
+0.0.0.0 www.ads.giphy.com
+0.0.0.0 x.giphy.com

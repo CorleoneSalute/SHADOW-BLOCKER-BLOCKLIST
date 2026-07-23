@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3172
+# Total domains: 3191
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -53,6 +53,7 @@ ad-analytics.paramountplus.com
 ad-analytics.peacocktv.com
 ad-analytics.pluto.tv
 ad-analytics.tubitv.com
+ad-api.giphy.com
 ad-beacon.hulu.com
 ad-beacon.peacocktv.com
 ad-beacon.tubitv.com
@@ -121,12 +122,14 @@ ads.espn.com
 ads.flaviar.com
 ads.fubo.tv
 ads.gentoo.org
+ads.giphy.com
 ads.gomlab.com
 ads.gpapps.com
 ads.hbomax.com
 ads.hotstar.com
 ads.hulu.com
 ads.idwall.co
+ads.imgflip.com
 ads.iono.fm
 ads.iqiyi.com
 ads.jwplayer.com
@@ -149,6 +152,7 @@ ads.remerge.io
 ads.retargeter.com
 ads.roblox.com
 ads.rockstargames.com
+ads.tenor.com
 ads.timesinternet.in
 ads.truecaller.com
 ads.untappd.com
@@ -158,6 +162,7 @@ ads.waze.com
 ads.wineenthusiast.com
 ads.world.waze.com
 ads.zee5.com
+ads.zombodroid.com
 ads2.ads.pof.com
 adsapi-proxy-il.waze.com
 adsapi-proxy-na.waze.com
@@ -387,6 +392,7 @@ analytics.gamstop.co.uk
 analytics.geforcenow.com
 analytics.gikken.co
 analytics.gingersoftware.com
+analytics.giphy.com
 analytics.givelify.com
 analytics.globoplay.globo.com
 analytics.glossika.com
@@ -419,6 +425,7 @@ analytics.hyperx.com
 analytics.id.me
 analytics.ieee.org
 analytics.image-line.com
+analytics.imgflip.com
 analytics.immutable.com
 analytics.imtranslator.net
 analytics.incode.com
@@ -546,6 +553,7 @@ analytics.petdesk.com
 analytics.petsmart.com
 analytics.piano.io
 analytics.pimsleur.com
+analytics.pinatafarm.com
 analytics.pixalate.com
 analytics.plantoeat.com
 analytics.platejoy.com
@@ -707,6 +715,7 @@ analytics.zeel.com
 analytics.zenoti.com
 analytics.zoho.com
 analytics.zola.com
+analytics.zombodroid.com
 analytics.zoom.us
 analytics.zoosk.com
 analytics.zorinos.com
@@ -1537,6 +1546,7 @@ geo-surf.com
 geoip.cactusglobal.com
 getsentry.com
 gha-metrics.ops.amplitude.com
+giphy-analytics.giphy.com
 glassbox.com
 glassbox.digital
 glassboxdigital.com
@@ -2120,6 +2130,7 @@ personalized.adikteev.com
 piano.io
 ping.avast.com
 ping.chartbeat.net
+pingback.giphy.com
 pix.criteo.com
 pix.us.criteo.net
 pixalate.com
@@ -2488,9 +2499,11 @@ stats.elementary.io
 stats.expressvpn.com
 stats.flathub.org
 stats.gamstop.co.uk
+stats.giphy.com
 stats.hide.me
 stats.i.mdpi.com
 stats.image-line.com
+stats.imgflip.com
 stats.iqiyi.com
 stats.ivpn.net
 stats.kaltura.com
@@ -2717,6 +2730,7 @@ telemetry.system76.com
 telemetry.tabnine.com
 telemetry.teamviewer.com
 telemetry.techsmith.com
+telemetry.tenor.com
 telemetry.tubitv.com
 telemetry.tunnelbear.com
 telemetry.uber.com
@@ -2733,6 +2747,7 @@ telemetry.windscribe.com
 telemetry.yamaha.com
 telemetry.zenoti.com
 telemetry.zoho.com
+telemetry.zombodroid.com
 telemetry.zoom.us
 telemetry.zorinos.com
 telemetrydoc.swiftkey.com
@@ -2871,6 +2886,7 @@ tracking.feedpress.com
 tracking.feedpress.it
 tracking.fresha.com
 tracking.geforcenow.com
+tracking.giphy.com
 tracking.hbomax.com
 tracking.hulu.com
 tracking.image-line.com
@@ -2919,6 +2935,7 @@ tracking.styleseat.com
 tracking.surfshark.com
 tracking.swap.fm
 tracking.teamviewer.com
+tracking.tenor.com
 tracking.theknot.com
 tracking.thirstie.com
 tracking.toroadvertising.com
@@ -3089,6 +3106,7 @@ ws.sessioncam.com
 ws.zoominfo.com
 www.acoustic.com
 www.adperio.com
+www.ads.giphy.com
 www.ads.wineenthusiast.com
 www.advidi.com
 www.affilae.com
@@ -3144,6 +3162,7 @@ www2.criteo.com
 www2.navegg.com
 x-mode.com
 x.clarity.ms
+x.giphy.com
 xboxreporting.xboxlive.com
 xdcs-collector.ximalaya.com
 xlate01.adultfriendfinder.com
