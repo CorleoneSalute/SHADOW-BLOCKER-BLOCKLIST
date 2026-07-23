@@ -1,0 +1,26 @@
+# ============================================================
+# VR ECOSYSTEM BLOCKLIST - BASIC
+# Total domains: 19
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 analytics.lynx-r.com
+0.0.0.0 analytics.spatial.io
+0.0.0.0 analytics.vrchat.cloud
+0.0.0.0 bugreporting.rec.net
+0.0.0.0 bytes-event.vive.com
+0.0.0.0 connect-event.vive.com
+0.0.0.0 datacollection.rec.net
+0.0.0.0 event.vive.com
+0.0.0.0 fbanalytics.sandbox.game
+0.0.0.0 fp-api.data.sandbox.game
+0.0.0.0 gamelogs.rec.net
+0.0.0.0 mars.vive.com
+0.0.0.0 metrics-preview.vive.com
+0.0.0.0 metrics.resonite.com
+0.0.0.0 metrics.vive.com
+0.0.0.0 telemetry.varjo.com
+0.0.0.0 track-apollo.teleport.varjo.com
+0.0.0.0 www.bytes-event.vive.com
+0.0.0.0 www.connect-event.vive.com

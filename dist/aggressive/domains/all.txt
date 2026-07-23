@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1612
+# Total domains: 1631
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -241,6 +241,7 @@ analytics.lingvist.com
 analytics.logitech.com
 analytics.logmein.com
 analytics.lww.com
+analytics.lynx-r.com
 analytics.makesyoufluent.com
 analytics.mangolanguages.com
 analytics.mapbox.com
@@ -308,6 +309,7 @@ analytics.shazam.com
 analytics.simplenote.com
 analytics.skyshowtime.com
 analytics.soundhound.com
+analytics.spatial.io
 analytics.speaky.com
 analytics.speechace.com
 analytics.speechling.com
@@ -341,6 +343,7 @@ analytics.vivino.com
 analytics.voot.com
 analytics.voxy.com
 analytics.vpc.duolingo.com
+analytics.vrchat.cloud
 analytics.vudu.com
 analytics.vyprvpn.com
 analytics.wavve.com
@@ -484,7 +487,9 @@ blobs.pixel.coder.com
 bluekai.com
 bombora.com
 br.smartlook.cloud
+bugreporting.rec.net
 bugtracker.akiflow.com
+bytes-event.vive.com
 c.cfjump.com
 c.clarity.ms
 c.ltmsphrcl.net
@@ -599,6 +604,7 @@ collector.medallia.com
 collector.quantummetric.com
 collector.tealeaf.goacoustic.com
 company.clearbit.com
+connect-event.vive.com
 connect.clearbit.com
 connect.transunion.com
 contentsquare.com
@@ -665,6 +671,7 @@ data.infutor.com
 data.mux.com
 data.oracleinfinity.io
 data.youbora.com
+datacollection.rec.net
 datalogix.com
 datapipeline.logitech.io
 dataquick.com
@@ -727,6 +734,7 @@ eu.smartlook.cloud
 eu.uxcam.com
 euc-onenote-telemetry.officeapps.live.com
 event.appsflyer.com
+event.vive.com
 events-writer.eu.smartlook.cloud
 events.character.ai
 events.cuebiq.com
@@ -757,12 +765,14 @@ eyeota.net
 f.clarity.ms
 fa.hellotalk.com
 factual.com
+fbanalytics.sandbox.game
 feedback.hotjar.com
 files.crazyegg.com
 finance.dnb.com
 flexlinks.com
 flexlinkspro.com
 formcomplete.zoominfo.com
+fp-api.data.sandbox.game
 fr-metrics.seetickets.com
 frtyb.com
 ftjcfx.com
@@ -773,6 +783,7 @@ fwtrack.ticketnetwork.com
 g.clarity.ms
 gallery-metrics.api.brightcove.com
 gambleonline.ca
+gamelogs.rec.net
 gaming-analytics.youtube.com
 gateway-v2.crakrevenue.com
 gateway.crakrevenue.com
@@ -931,6 +942,7 @@ luckyorange.net
 m.clarity.ms
 m1.merkle.com
 marketing-tracker.babbel.com
+mars.vive.com
 match.adsquare.com
 match.eyeota.net
 matomo.garmin.com
@@ -951,6 +963,7 @@ metrics-a.wbx2.com
 metrics-api.openalex.org
 metrics-eric.oss.demo.coder.com
 metrics-k.wbx2.com
+metrics-preview.vive.com
 metrics-r.wbx2.com
 metrics.1password.com
 metrics.abema.tv
@@ -1006,6 +1019,7 @@ metrics.pluto.tv
 metrics.privateinternetaccess.com
 metrics.razer.com
 metrics.replika.ai
+metrics.resonite.com
 metrics.sci-hub.tw
 metrics.shazam.com
 metrics.skyshowtime.com
@@ -1020,6 +1034,7 @@ metrics.tving.com
 metrics.unpaywall.org
 metrics.viaplay.com
 metrics.videoland.com
+metrics.vive.com
 metrics.voot.com
 metrics.vudu.com
 metrics.watchnebula.com
@@ -1370,6 +1385,7 @@ telemetry.teamviewer.com
 telemetry.tubitv.com
 telemetry.tunnelbear.com
 telemetry.untappd.com
+telemetry.varjo.com
 telemetry.vivino.com
 telemetry.vyprvpn.com
 telemetry.windscribe.com
@@ -1391,6 +1407,7 @@ tqlkg.com
 trac.eprints-hosting.org
 trac.eprints.org
 trace.nordvpn.com
+track-apollo.teleport.varjo.com
 track.aitype.com
 track.appsflyer.com
 track.branch.io
@@ -1561,8 +1578,10 @@ www.adperio.com
 www.advidi.com
 www.affilae.com
 www.awin1.com
+www.bytes-event.vive.com
 www.clarity.ms
 www.clickbooth.com
+www.connect-event.vive.com
 www.coreads-console.cambridge.org
 www.coreads-static.cambridge.org
 www.coreads.cambridge.org

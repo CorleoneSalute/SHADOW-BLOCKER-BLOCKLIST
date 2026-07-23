@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1612
+# Total domains: 1631
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -241,6 +241,7 @@
 0.0.0.0 analytics.logitech.com
 0.0.0.0 analytics.logmein.com
 0.0.0.0 analytics.lww.com
+0.0.0.0 analytics.lynx-r.com
 0.0.0.0 analytics.makesyoufluent.com
 0.0.0.0 analytics.mangolanguages.com
 0.0.0.0 analytics.mapbox.com
@@ -308,6 +309,7 @@
 0.0.0.0 analytics.simplenote.com
 0.0.0.0 analytics.skyshowtime.com
 0.0.0.0 analytics.soundhound.com
+0.0.0.0 analytics.spatial.io
 0.0.0.0 analytics.speaky.com
 0.0.0.0 analytics.speechace.com
 0.0.0.0 analytics.speechling.com
@@ -341,6 +343,7 @@
 0.0.0.0 analytics.voot.com
 0.0.0.0 analytics.voxy.com
 0.0.0.0 analytics.vpc.duolingo.com
+0.0.0.0 analytics.vrchat.cloud
 0.0.0.0 analytics.vudu.com
 0.0.0.0 analytics.vyprvpn.com
 0.0.0.0 analytics.wavve.com
@@ -484,7 +487,9 @@
 0.0.0.0 bluekai.com
 0.0.0.0 bombora.com
 0.0.0.0 br.smartlook.cloud
+0.0.0.0 bugreporting.rec.net
 0.0.0.0 bugtracker.akiflow.com
+0.0.0.0 bytes-event.vive.com
 0.0.0.0 c.cfjump.com
 0.0.0.0 c.clarity.ms
 0.0.0.0 c.ltmsphrcl.net
@@ -599,6 +604,7 @@
 0.0.0.0 collector.quantummetric.com
 0.0.0.0 collector.tealeaf.goacoustic.com
 0.0.0.0 company.clearbit.com
+0.0.0.0 connect-event.vive.com
 0.0.0.0 connect.clearbit.com
 0.0.0.0 connect.transunion.com
 0.0.0.0 contentsquare.com
@@ -665,6 +671,7 @@
 0.0.0.0 data.mux.com
 0.0.0.0 data.oracleinfinity.io
 0.0.0.0 data.youbora.com
+0.0.0.0 datacollection.rec.net
 0.0.0.0 datalogix.com
 0.0.0.0 datapipeline.logitech.io
 0.0.0.0 dataquick.com
@@ -727,6 +734,7 @@
 0.0.0.0 eu.uxcam.com
 0.0.0.0 euc-onenote-telemetry.officeapps.live.com
 0.0.0.0 event.appsflyer.com
+0.0.0.0 event.vive.com
 0.0.0.0 events-writer.eu.smartlook.cloud
 0.0.0.0 events.character.ai
 0.0.0.0 events.cuebiq.com
@@ -757,12 +765,14 @@
 0.0.0.0 f.clarity.ms
 0.0.0.0 fa.hellotalk.com
 0.0.0.0 factual.com
+0.0.0.0 fbanalytics.sandbox.game
 0.0.0.0 feedback.hotjar.com
 0.0.0.0 files.crazyegg.com
 0.0.0.0 finance.dnb.com
 0.0.0.0 flexlinks.com
 0.0.0.0 flexlinkspro.com
 0.0.0.0 formcomplete.zoominfo.com
+0.0.0.0 fp-api.data.sandbox.game
 0.0.0.0 fr-metrics.seetickets.com
 0.0.0.0 frtyb.com
 0.0.0.0 ftjcfx.com
@@ -773,6 +783,7 @@
 0.0.0.0 g.clarity.ms
 0.0.0.0 gallery-metrics.api.brightcove.com
 0.0.0.0 gambleonline.ca
+0.0.0.0 gamelogs.rec.net
 0.0.0.0 gaming-analytics.youtube.com
 0.0.0.0 gateway-v2.crakrevenue.com
 0.0.0.0 gateway.crakrevenue.com
@@ -931,6 +942,7 @@
 0.0.0.0 m.clarity.ms
 0.0.0.0 m1.merkle.com
 0.0.0.0 marketing-tracker.babbel.com
+0.0.0.0 mars.vive.com
 0.0.0.0 match.adsquare.com
 0.0.0.0 match.eyeota.net
 0.0.0.0 matomo.garmin.com
@@ -951,6 +963,7 @@
 0.0.0.0 metrics-api.openalex.org
 0.0.0.0 metrics-eric.oss.demo.coder.com
 0.0.0.0 metrics-k.wbx2.com
+0.0.0.0 metrics-preview.vive.com
 0.0.0.0 metrics-r.wbx2.com
 0.0.0.0 metrics.1password.com
 0.0.0.0 metrics.abema.tv
@@ -1006,6 +1019,7 @@
 0.0.0.0 metrics.privateinternetaccess.com
 0.0.0.0 metrics.razer.com
 0.0.0.0 metrics.replika.ai
+0.0.0.0 metrics.resonite.com
 0.0.0.0 metrics.sci-hub.tw
 0.0.0.0 metrics.shazam.com
 0.0.0.0 metrics.skyshowtime.com
@@ -1020,6 +1034,7 @@
 0.0.0.0 metrics.unpaywall.org
 0.0.0.0 metrics.viaplay.com
 0.0.0.0 metrics.videoland.com
+0.0.0.0 metrics.vive.com
 0.0.0.0 metrics.voot.com
 0.0.0.0 metrics.vudu.com
 0.0.0.0 metrics.watchnebula.com
@@ -1370,6 +1385,7 @@
 0.0.0.0 telemetry.tubitv.com
 0.0.0.0 telemetry.tunnelbear.com
 0.0.0.0 telemetry.untappd.com
+0.0.0.0 telemetry.varjo.com
 0.0.0.0 telemetry.vivino.com
 0.0.0.0 telemetry.vyprvpn.com
 0.0.0.0 telemetry.windscribe.com
@@ -1391,6 +1407,7 @@
 0.0.0.0 trac.eprints-hosting.org
 0.0.0.0 trac.eprints.org
 0.0.0.0 trace.nordvpn.com
+0.0.0.0 track-apollo.teleport.varjo.com
 0.0.0.0 track.aitype.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.branch.io
@@ -1561,8 +1578,10 @@
 0.0.0.0 www.advidi.com
 0.0.0.0 www.affilae.com
 0.0.0.0 www.awin1.com
+0.0.0.0 www.bytes-event.vive.com
 0.0.0.0 www.clarity.ms
 0.0.0.0 www.clickbooth.com
+0.0.0.0 www.connect-event.vive.com
 0.0.0.0 www.coreads-console.cambridge.org
 0.0.0.0 www.coreads-static.cambridge.org
 0.0.0.0 www.coreads.cambridge.org
