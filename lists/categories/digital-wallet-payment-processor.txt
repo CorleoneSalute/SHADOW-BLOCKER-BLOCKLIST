@@ -1,0 +1,133 @@
+# Digital Wallet & Payment Processor Blocklist
+
+**Toplam domain sayısı:** 45
+**Son güncelleme:** 2026-07-18
+
+## SAMSUNG PAY (2 domain)
+
+```
+analytics.mpay.samsung.com
+analytics.samsungpay.com
+```
+
+## PAYPAL (4 domain)
+
+```
+paypal.112.2o7.net
+paypal.demdex.net
+paypal.tt.omtrdc.net
+stats.paypal.com
+```
+
+## CASH APP / SQUARE (6 domain)
+
+```
+analytics.squareup.com
+analytics.www1-0.pad.squareup.com
+apples-analytics.pad.squareup.com
+log01.mtv.squareup.com
+metrics.squareup.com
+sentry.squareup.com
+```
+
+## STRIPE (2 domain)
+
+```
+errors.stripe.com
+q.stripe.com
+```
+
+## WISE (2 domain)
+
+```
+analytics.wise.com
+wise-analytics.com
+```
+
+## REVOLUT (3 domain)
+
+```
+analytics.revolut.com
+data-talos.revolut.com
+metrics-tracking.revolut.com
+```
+
+## 2CHECKOUT / AVANGATE (1 domain)
+
+```
+tracking.avangate.net
+```
+
+## PAYONEER (2 domain)
+
+```
+analytics.payoneer.com
+tracking.payoneer.com
+```
+
+## PAYTM (7 domain)
+
+```
+ads.paytm.com
+analytics.paytm.com
+blog.ads.paytm.com
+track.paytm.com
+tracking.info.paytm.com
+tracking.paytm.com
+tracking1.paytm.com
+```
+
+## ALIPAY — Alibaba Tracking Ekosistemi (6 domain)
+
+```
+ad.alipay.com
+ads.alipay.com
+alipaylog.com
+log.alipay.com
+logs.alipay.com
+metrics.alipay.com
+```
+
+## SKRILL (2 domain)
+
+```
+collect.skrill.com
+sgtm.skrill.com
+```
+
+## PHONEPE (1 domain)
+
+```
+ads.phonepe.com
+```
+
+## KAKAO PAY (1 domain)
+
+```
+ads.kakaopay.com
+```
+
+## ADYEN (2 domain)
+
+```
+ai-analytics.adyen.com
+sgtm.adyen.com
+```
+
+## MERCADO PAGO (1 domain)
+
+```
+pixel.mercadopago.com
+```
+
+## PICPAY (2 domain)
+
+```
+tracking.picpay.com
+ts04358.picpay.com
+```
+
+## COINS.PH (1 domain)
+
+```
+track-marketing.coins.ph
