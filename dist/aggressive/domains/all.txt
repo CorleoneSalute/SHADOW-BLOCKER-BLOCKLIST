@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3530
+# Total domains: 3548
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -24,6 +24,7 @@ abtesting.roblox.com
 account.fortect.com
 account.kromtech.net
 accountportal.driversupport.com
+accuweather-beacon.com
 acd.navdmp.com
 acdn.navdmp.com
 acelogix.com
@@ -62,6 +63,7 @@ ad-api.giphy.com
 ad-beacon.hulu.com
 ad-beacon.peacocktv.com
 ad-beacon.tubitv.com
+ad-engine.accuweather.com
 ad-metrics.espn.com
 ad-server.pluto.tv
 ad.acast.com
@@ -108,6 +110,7 @@ ads-resources.waze.com
 ads-twitter.com.sci-hub.tw
 ads-v-darwin.hulu.com
 ads.acast.com
+ads.accuweather.com
 ads.adikteev.com
 ads.alipay.com
 ads.api.cj.com
@@ -168,6 +171,7 @@ ads.untappd.com
 ads.us.criteo.com
 ads.voot.com
 ads.waze.com
+ads.weatherbug.com
 ads.wineenthusiast.com
 ads.world.waze.com
 ads.zee5.com
@@ -204,7 +208,9 @@ advancedsystemoptimizer.com
 advancemactools.live
 advertiser.petcube.com
 advertisers.truecaller.com
+advertising.accuweather.com
 advertising.waze.com
+advertising.weatherbug.com
 adverweb.cjenm.com
 advidi.com
 adview-prod-am.waze.com
@@ -214,11 +220,13 @@ advil.waze.com
 advilapsoutheast1.waze.com
 adx.mxplayer.in
 adx.zetaglobal.com
+afb.accuweather.com
 afcyhf.com
 affilae.com
 agilityone.epsilon.com
 ai-analytics.adyen.com
 ai.adikteev.com
+ai.analytics.weather.com
 airbrake.io
 aiseesoft.com
 alerts.conviva.com
@@ -1365,6 +1373,7 @@ data.oracleinfinity.io
 data.product.lastpass.com
 data.youbora.com
 data.zetaglobal.com
+dataanalyst.mercury.weather.com
 datacollection.rec.net
 datalogix.com
 datapipeline.logitech.io
@@ -1721,6 +1730,7 @@ i.lidam.com
 i.n.jwpltx.com
 iap.adikteev.com
 iap.remerge.io
+ibm-weather-beacon.com
 ichnaea-web.dradis.netflix.com
 ichnaea-web.geo.netflix.com
 ichnaea-web.netflix.com
@@ -1803,6 +1813,7 @@ items.rollbar.com
 j.clarity.ms
 j.navdmp.com
 jdoqocy.com
+jenkins.analytics.weather.com
 jetclean.com
 js-pixel.limeade.com
 js.heatmap.com
@@ -2100,6 +2111,7 @@ metrics.plex.tv
 metrics.pluto.tv
 metrics.presonus.com
 metrics.privateinternetaccess.com
+metrics.qa.max.weather.com
 metrics.razer.com
 metrics.replika.ai
 metrics.resonite.com
@@ -2385,6 +2397,7 @@ q.clarity.ms
 q.stripe.com
 qksrv.net
 qksz.net
+qlik.analytics.weather.com
 quality-analytics.conviva.com
 quantummetric.com
 r.clarity.ms
@@ -3318,7 +3331,10 @@ utt.impactcdn.com
 uxcam.com
 v.clarity.ms
 v.plerdy.com
+v1.log.moji.com
 v1.telemetry.coder.com
+v2.log.moji.com
+v3.log.moji.com
 v7.stats.avast.com
 v7event.stats.avast.com
 v9.stats.avast.com
@@ -3380,6 +3396,7 @@ w4.com
 waf-metrics.bunnycdn.com
 warrantystar.com
 wcs.naver.com
+weather-beacon.com
 web-analytics.lastpass.com
 web-analytics.openaire.eu
 web-play.faro.highscore.com
@@ -3505,6 +3522,7 @@ xmode.io
 xplusone.com
 xpromo.adikteev.com
 xpromo.remerge.io
+xscmzs.tenki.jp
 xss.tw
 y.clarity.ms
 yamicsoft.com

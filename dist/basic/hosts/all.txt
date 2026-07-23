@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3459
+# Total domains: 3477
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -22,6 +22,7 @@
 0.0.0.0 account.fortect.com
 0.0.0.0 account.kromtech.net
 0.0.0.0 accountportal.driversupport.com
+0.0.0.0 accuweather-beacon.com
 0.0.0.0 acd.navdmp.com
 0.0.0.0 acdn.navdmp.com
 0.0.0.0 acelogix.com
@@ -60,6 +61,7 @@
 0.0.0.0 ad-beacon.hulu.com
 0.0.0.0 ad-beacon.peacocktv.com
 0.0.0.0 ad-beacon.tubitv.com
+0.0.0.0 ad-engine.accuweather.com
 0.0.0.0 ad-metrics.espn.com
 0.0.0.0 ad.admitad.com
 0.0.0.0 ad.alipay.com
@@ -102,6 +104,7 @@
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-twitter.com.sci-hub.tw
 0.0.0.0 ads-v-darwin.hulu.com
+0.0.0.0 ads.accuweather.com
 0.0.0.0 ads.adikteev.com
 0.0.0.0 ads.alipay.com
 0.0.0.0 ads.api.cj.com
@@ -159,6 +162,7 @@
 0.0.0.0 ads.us.criteo.com
 0.0.0.0 ads.voot.com
 0.0.0.0 ads.waze.com
+0.0.0.0 ads.weatherbug.com
 0.0.0.0 ads.wineenthusiast.com
 0.0.0.0 ads.world.waze.com
 0.0.0.0 ads.zee5.com
@@ -192,7 +196,9 @@
 0.0.0.0 advancemactools.live
 0.0.0.0 advertiser.petcube.com
 0.0.0.0 advertisers.truecaller.com
+0.0.0.0 advertising.accuweather.com
 0.0.0.0 advertising.waze.com
+0.0.0.0 advertising.weatherbug.com
 0.0.0.0 adverweb.cjenm.com
 0.0.0.0 advidi.com
 0.0.0.0 adview-prod-am.waze.com
@@ -202,11 +208,13 @@
 0.0.0.0 advilapsoutheast1.waze.com
 0.0.0.0 adx.mxplayer.in
 0.0.0.0 adx.zetaglobal.com
+0.0.0.0 afb.accuweather.com
 0.0.0.0 afcyhf.com
 0.0.0.0 affilae.com
 0.0.0.0 agilityone.epsilon.com
 0.0.0.0 ai-analytics.adyen.com
 0.0.0.0 ai.adikteev.com
+0.0.0.0 ai.analytics.weather.com
 0.0.0.0 airbrake.io
 0.0.0.0 aiseesoft.com
 0.0.0.0 alerts.conviva.com
@@ -1340,6 +1348,7 @@
 0.0.0.0 data.product.lastpass.com
 0.0.0.0 data.youbora.com
 0.0.0.0 data.zetaglobal.com
+0.0.0.0 dataanalyst.mercury.weather.com
 0.0.0.0 datacollection.rec.net
 0.0.0.0 datalogix.com
 0.0.0.0 datapipeline.logitech.io
@@ -1687,6 +1696,7 @@
 0.0.0.0 i.n.jwpltx.com
 0.0.0.0 iap.adikteev.com
 0.0.0.0 iap.remerge.io
+0.0.0.0 ibm-weather-beacon.com
 0.0.0.0 ichnaea-web.dradis.netflix.com
 0.0.0.0 ichnaea-web.geo.netflix.com
 0.0.0.0 ichnaea-web.netflix.com
@@ -1769,6 +1779,7 @@
 0.0.0.0 j.clarity.ms
 0.0.0.0 j.navdmp.com
 0.0.0.0 jdoqocy.com
+0.0.0.0 jenkins.analytics.weather.com
 0.0.0.0 jetclean.com
 0.0.0.0 js-pixel.limeade.com
 0.0.0.0 js.heatmap.com
@@ -2062,6 +2073,7 @@
 0.0.0.0 metrics.pluto.tv
 0.0.0.0 metrics.presonus.com
 0.0.0.0 metrics.privateinternetaccess.com
+0.0.0.0 metrics.qa.max.weather.com
 0.0.0.0 metrics.razer.com
 0.0.0.0 metrics.replika.ai
 0.0.0.0 metrics.resonite.com
@@ -2333,6 +2345,7 @@
 0.0.0.0 q.stripe.com
 0.0.0.0 qksrv.net
 0.0.0.0 qksz.net
+0.0.0.0 qlik.analytics.weather.com
 0.0.0.0 quality-analytics.conviva.com
 0.0.0.0 quantummetric.com
 0.0.0.0 r.clarity.ms
@@ -3258,7 +3271,10 @@
 0.0.0.0 uxcam.com
 0.0.0.0 v.clarity.ms
 0.0.0.0 v.plerdy.com
+0.0.0.0 v1.log.moji.com
 0.0.0.0 v1.telemetry.coder.com
+0.0.0.0 v2.log.moji.com
+0.0.0.0 v3.log.moji.com
 0.0.0.0 v7.stats.avast.com
 0.0.0.0 v7event.stats.avast.com
 0.0.0.0 v9.stats.avast.com
@@ -3311,6 +3327,7 @@
 0.0.0.0 waf-metrics.bunnycdn.com
 0.0.0.0 warrantystar.com
 0.0.0.0 wcs.naver.com
+0.0.0.0 weather-beacon.com
 0.0.0.0 web-analytics.lastpass.com
 0.0.0.0 web-analytics.openaire.eu
 0.0.0.0 web-play.faro.highscore.com
@@ -3434,6 +3451,7 @@
 0.0.0.0 xplusone.com
 0.0.0.0 xpromo.adikteev.com
 0.0.0.0 xpromo.remerge.io
+0.0.0.0 xscmzs.tenki.jp
 0.0.0.0 xss.tw
 0.0.0.0 y.clarity.ms
 0.0.0.0 yamicsoft.com
