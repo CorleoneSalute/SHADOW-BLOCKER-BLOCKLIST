@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1837
+# Total domains: 1874
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -53,6 +53,7 @@
 ||ad.crwdcntrl.net^
 ||ad.holalauncher.com^
 ||ad.linksynergy.com^
+||ad.mxplayer.in^
 ||ad.search.naver.com^
 ||ad.vrvm.com^
 ||adapi.holalauncher.com^
@@ -79,6 +80,7 @@
 ||ads.babbel.com^
 ||ads.bitmovin.com^
 ||ads.brightcove.com^
+||ads.bsplayer.com^
 ||ads.careem.com^
 ||ads.cj.com^
 ||ads.conviva.com^
@@ -88,6 +90,7 @@
 ||ads.emojixpress.com^
 ||ads.espn.com^
 ||ads.fubo.tv^
+||ads.gomlab.com^
 ||ads.hbomax.com^
 ||ads.hotstar.com^
 ||ads.hulu.com^
@@ -96,10 +99,13 @@
 ||ads.lww.com^
 ||ads.lyft.com^
 ||ads.moovit.com^
+||ads.mxplayer.in^
 ||ads.myfitnesspal.com^
 ||ads.naver.com^
 ||ads.paramountplus.com^
 ||ads.peacocktv.com^
+||ads.realnetworks.com^
+||ads.timesinternet.in^
 ||ads.untappd.com^
 ||ads.voot.com^
 ||ads.waze.com^
@@ -116,16 +122,19 @@
 ||adseaimg.apusapps.com^
 ||adserver.connatix.com^
 ||adserver.jwplayer.com^
+||adserver.mxplayer.in^
 ||adsquare.com^
 ||adstradata.com^
 ||advanalytics.underarmour.com^
 ||advertising.waze.com^
+||adverweb.cjenm.com^
 ||advidi.com^
 ||adview-prod-am.waze.com^
 ||adview-prod-il.waze.com^
 ||adview-prod-row.waze.com^
 ||advil.waze.com^
 ||advilapsoutheast1.waze.com^
+||adx.mxplayer.in^
 ||afcyhf.com^
 ||affilae.com^
 ||agilityone.epsilon.com^
@@ -159,6 +168,7 @@
 ||analytics.8x8.com^
 ||analytics.abema.tv^
 ||analytics.abide.co^
+||analytics.ad.daum.net^
 ||analytics.any.do^
 ||analytics.anydesk.com^
 ||analytics.api.brightcove.com^
@@ -185,6 +195,7 @@
 ||analytics.booksy.com^
 ||analytics.branch.io^
 ||analytics.britbox.com^
+||analytics.bsplayer.com^
 ||analytics.busuu.com^
 ||analytics.cambly.com^
 ||analytics.canalplus.com^
@@ -241,6 +252,7 @@
 ||analytics.givelify.com^
 ||analytics.globoplay.globo.com^
 ||analytics.glossika.com^
+||analytics.gomlab.com^
 ||analytics.hallow.com^
 ||analytics.hbomax.com^
 ||analytics.hellochinese.cc^
@@ -326,6 +338,7 @@
 ||analytics.piano.io^
 ||analytics.pimsleur.com^
 ||analytics.pixalate.com^
+||analytics.playit.pk^
 ||analytics.plex.tv^
 ||analytics.pluto.tv^
 ||analytics.prageru.com^
@@ -337,6 +350,7 @@
 ||analytics.rakutenmarketing.com^
 ||analytics.rarible.com^
 ||analytics.razerzone.com^
+||analytics.realnetworks.com^
 ||analytics.realvnc.com^
 ||analytics.remotepc.com^
 ||analytics.replika.ai^
@@ -379,6 +393,7 @@
 ||analytics.tensor.trade^
 ||analytics.textra.me^
 ||analytics.ticketmaster.es^
+||analytics.timesinternet.in^
 ||analytics.tonal.com^
 ||analytics.torguard.net^
 ||analytics.tradedoubler.com^
@@ -410,6 +425,7 @@
 ||analytics.wiley.com^
 ||analytics.windscribe.com^
 ||analytics.wordreference.com^
+||analytics.xplayerapp.com^
 ||analytics.yabla.com^
 ||analytics.youbora.com^
 ||analytics.youku.com^
@@ -565,6 +581,7 @@
 ||c.ltmsphrcl.net^
 ||c.st.ltmsphrcl.net^
 ||ca-central-1-1.telemetry.insights.video.a2z.com^
+||cap.cyberlink.com^
 ||captify.co^
 ||captify.co.uk^
 ||cbsi.demdex.net^
@@ -702,6 +719,7 @@
 ||crash-reports.netflix.com^
 ||crash.bamgrid.com^
 ||crash.corsair.com^
+||crash.cyberlink.com^
 ||crash.mapbox.com^
 ||crash.shazam.com^
 ||crash.soundhound.com^
@@ -770,6 +788,7 @@
 ||disney.mobile-log.api.bamgrid.com^
 ||disney.my.sentry.io^
 ||disneyplus.com.ssl.sc.omtrdc.net^
+||display.ad.daum.net^
 ||dnb.com^
 ||dnn506yrbagrg.cloudfront.net^
 ||documentary-analytics.curiositystream.com^
@@ -979,6 +998,7 @@
 ||kids-analytics.youtube.com^
 ||kqzyfj.com^
 ||ksn-stat.kaspersky.com^
+||kyson.ad.daum.net^
 ||l.clarity.ms^
 ||lakegroupmedia.com^
 ||launches.appsflyer.com^
@@ -1136,6 +1156,7 @@
 ||metrics.paramountplus.com^
 ||metrics.peacocktv.com^
 ||metrics.piano.io^
+||metrics.playit.pk^
 ||metrics.plex.tv^
 ||metrics.pluto.tv^
 ||metrics.privateinternetaccess.com^
@@ -1287,6 +1308,7 @@
 ||rakutenadvertising.com^
 ||rakutenmarketing.com^
 ||rapleaf.com^
+||realnetworks.com^
 ||realtime.luckyorange.com^
 ||realtime.youbora.com^
 ||rec.smartlook.com^
@@ -1411,6 +1433,8 @@
 ||stat.avira.com^
 ||stat.kaspersky.com^
 ||stat.maps.me^
+||stat.tiara.g.daum.net^
+||stat.tiara.kakao.com^
 ||static-cdn.hotjar.com^
 ||static.chartbeat.com^
 ||static.crazyegg.com^
@@ -1429,6 +1453,7 @@
 ||stats.bilibili.com^
 ||stats.bitdefender.com^
 ||stats.blur.io^
+||stats.bsplayer.com^
 ||stats.calldorado.com^
 ||stats.corsair.com^
 ||stats.expressvpn.com^
@@ -1441,10 +1466,12 @@
 ||stats.looksrare.org^
 ||stats.magiceden.io^
 ||stats.mcafee.com^
+||stats.mxplayer.in^
 ||stats.nicovideo.jp^
 ||stats.nordvpn.com^
 ||stats.norton.com^
 ||stats.opensea.io^
+||stats.playit.pk^
 ||stats.rarible.com^
 ||stats.stronglifts.com^
 ||stats.subscribestar.adult^
@@ -1509,6 +1536,7 @@
 ||telemetry.beyondtrust.com^
 ||telemetry.bitdefender.com^
 ||telemetry.bitmovin.com^
+||telemetry.bsplayer.com^
 ||telemetry.character.ai^
 ||telemetry.codeium.com^
 ||telemetry.coder.com^
@@ -1519,6 +1547,7 @@
 ||telemetry.dazn.com^
 ||telemetry.deepl.com^
 ||telemetry.didichuxing.com^
+||telemetry.divx.com^
 ||telemetry.duosecurity.com^
 ||telemetry.espn.com^
 ||telemetry.expressvpn.com^
@@ -1540,6 +1569,7 @@
 ||telemetry.mcafee.com^
 ||telemetry.mobile.api.mcafee.com^
 ||telemetry.mux.com^
+||telemetry.mxplayer.in^
 ||telemetry.nordvpn.com^
 ||telemetry.norton.com^
 ||telemetry.nzxt.com^
@@ -1548,6 +1578,7 @@
 ||telemetry.opensea.io^
 ||telemetry.paramountplus.com^
 ||telemetry.peacocktv.com^
+||telemetry.playit.pk^
 ||telemetry.pluto.tv^
 ||telemetry.privateinternetaccess.com^
 ||telemetry.proton.me^
@@ -1575,6 +1606,7 @@
 ||telemetry.zoom.us^
 ||telemetrydoc.swiftkey.com^
 ||throtle.io^
+||tilanalytics.timesinternet.in^
 ||timeone.fr^
 ||timeone.io^
 ||timeonegroup.com^
@@ -1618,6 +1650,7 @@
 ||track.romanticai.com^
 ||track.stories.moovit.com^
 ||track.stubhub.com^
+||track.tiara.daum.net^
 ||track.underarmour.com^
 ||track.webgains.com^
 ||tracker.core.ac.uk^
@@ -1635,6 +1668,7 @@
 ||tracking.awin.com^
 ||tracking.bolt.eu^
 ||tracking.booksy.com^
+||tracking.bsplayer.com^
 ||tracking.crazyegg.com^
 ||tracking.cyberghostvpn.com^
 ||tracking.effiliation.com^
@@ -1649,6 +1683,7 @@
 ||tracking.morgen.so^
 ||tracking.movies.yango.com^
 ||tracking.muslimpro.com^
+||tracking.mxplayer.in^
 ||tracking.myfitnesspal.com^
 ||tracking.netaffiliation.com^
 ||tracking.newsletter.vivino.com^
@@ -1656,10 +1691,12 @@
 ||tracking.november-project.com^
 ||tracking.partnerize.com^
 ||tracking.pepperjam.com^
+||tracking.playit.pk^
 ||tracking.privateinternetaccess.com^
 ||tracking.purevpn.com^
 ||tracking.rakutenmarketing.com^
 ||tracking.razer.com^
+||tracking.realnetworks.com^
 ||tracking.ridewithvia.com^
 ||tracking.rosettastone.com^
 ||tracking.seatgeek.com^
