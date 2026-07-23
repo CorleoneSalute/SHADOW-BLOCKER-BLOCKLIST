@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 2109
+# Total domains: 2154
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -53,6 +53,7 @@
 0.0.0.0 ad-metrics.espn.com
 0.0.0.0 ad-server.pluto.tv
 0.0.0.0 ad.admitad.com
+0.0.0.0 ad.alipay.com
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.holalauncher.com
@@ -80,6 +81,7 @@
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-twitter.com.sci-hub.tw
 0.0.0.0 ads-v-darwin.hulu.com
+0.0.0.0 ads.alipay.com
 0.0.0.0 ads.api.cj.com
 0.0.0.0 ads.avast.com
 0.0.0.0 ads.babbel.com
@@ -103,6 +105,7 @@
 0.0.0.0 ads.hulu.com
 0.0.0.0 ads.iqiyi.com
 0.0.0.0 ads.jwplayer.com
+0.0.0.0 ads.kakaopay.com
 0.0.0.0 ads.lww.com
 0.0.0.0 ads.lyft.com
 0.0.0.0 ads.moovit.com
@@ -110,7 +113,9 @@
 0.0.0.0 ads.myfitnesspal.com
 0.0.0.0 ads.naver.com
 0.0.0.0 ads.paramountplus.com
+0.0.0.0 ads.paytm.com
 0.0.0.0 ads.peacocktv.com
+0.0.0.0 ads.phonepe.com
 0.0.0.0 ads.pluto.tv
 0.0.0.0 ads.realnetworks.com
 0.0.0.0 ads.timesinternet.in
@@ -148,9 +153,11 @@
 0.0.0.0 afcyhf.com
 0.0.0.0 affilae.com
 0.0.0.0 agilityone.epsilon.com
+0.0.0.0 ai-analytics.adyen.com
 0.0.0.0 airbrake.io
 0.0.0.0 alerts.conviva.com
 0.0.0.0 alerts.youbora.com
+0.0.0.0 alipaylog.com
 0.0.0.0 amagi.tv
 0.0.0.0 amp.navdmp.com
 0.0.0.0 amp.permutive.app
@@ -320,6 +327,7 @@
 0.0.0.0 analytics.mondly.com
 0.0.0.0 analytics.moovit.com
 0.0.0.0 analytics.movistarplus.es
+0.0.0.0 analytics.mpay.samsung.com
 0.0.0.0 analytics.mubi.com
 0.0.0.0 analytics.muslimpro.com
 0.0.0.0 analytics.mux.com
@@ -352,6 +360,8 @@
 0.0.0.0 analytics.paramountplus.com
 0.0.0.0 analytics.parrot.sh
 0.0.0.0 analytics.parsely.com
+0.0.0.0 analytics.payoneer.com
+0.0.0.0 analytics.paytm.com
 0.0.0.0 analytics.pbskids.org
 0.0.0.0 analytics.peacocktv.com
 0.0.0.0 analytics.petco.com
@@ -378,6 +388,7 @@
 0.0.0.0 analytics.realvnc.com
 0.0.0.0 analytics.remotepc.com
 0.0.0.0 analytics.replika.ai
+0.0.0.0 analytics.revolut.com
 0.0.0.0 analytics.ringcentral.ca
 0.0.0.0 analytics.ringcentral.co.uk
 0.0.0.0 analytics.ringcentral.com
@@ -393,6 +404,7 @@
 0.0.0.0 analytics.rumble.com
 0.0.0.0 analytics.runsignup.com
 0.0.0.0 analytics.runtastic.com
+0.0.0.0 analytics.samsungpay.com
 0.0.0.0 analytics.scielo.org
 0.0.0.0 analytics.shazam.com
 0.0.0.0 analytics.simplenote.com
@@ -405,6 +417,7 @@
 0.0.0.0 analytics.speechace.com
 0.0.0.0 analytics.speechling.com
 0.0.0.0 analytics.splashtop.com
+0.0.0.0 analytics.squareup.com
 0.0.0.0 analytics.stan.com.au
 0.0.0.0 analytics.steelseries.com
 0.0.0.0 analytics.stickypassword.com
@@ -454,7 +467,9 @@
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.wiley.com
 0.0.0.0 analytics.windscribe.com
+0.0.0.0 analytics.wise.com
 0.0.0.0 analytics.wordreference.com
+0.0.0.0 analytics.www1-0.pad.squareup.com
 0.0.0.0 analytics.xplayerapp.com
 0.0.0.0 analytics.yabla.com
 0.0.0.0 analytics.youbora.com
@@ -568,6 +583,7 @@
 0.0.0.0 app.getsentry.com
 0.0.0.0 app.glitchtip.com
 0.0.0.0 appanalytics.tomtom.com
+0.0.0.0 apples-analytics.pad.squareup.com
 0.0.0.0 applog.bolt.eu
 0.0.0.0 appsignal-endpoint.net
 0.0.0.0 appsignal.com
@@ -624,6 +640,7 @@
 0.0.0.0 bitmovin-analytics.net
 0.0.0.0 bkrtx.com
 0.0.0.0 blobs.pixel.coder.com
+0.0.0.0 blog.ads.paytm.com
 0.0.0.0 bluekai.com
 0.0.0.0 bombora.com
 0.0.0.0 br.smartlook.cloud
@@ -744,6 +761,7 @@
 0.0.0.0 collect.biomedcentral.com
 0.0.0.0 collect.contentsquare.net
 0.0.0.0 collect.mindbodyonline.com
+0.0.0.0 collect.skrill.com
 0.0.0.0 collect.springer.com
 0.0.0.0 collect.youbora.com
 0.0.0.0 collection-point.api.gymshark.com
@@ -832,6 +850,7 @@
 0.0.0.0 data-analysis.fedoraproject.org
 0.0.0.0 data-axle.com
 0.0.0.0 data-collection.brightcove.com
+0.0.0.0 data-talos.revolut.com
 0.0.0.0 data.acxiom.com
 0.0.0.0 data.analytics-cdn.teachable.com
 0.0.0.0 data.app-analytics.petdesk.com
@@ -909,6 +928,7 @@
 0.0.0.0 errors.hulu.com
 0.0.0.0 errors.netflix.com
 0.0.0.0 errors.razerzone.com
+0.0.0.0 errors.stripe.com
 0.0.0.0 errors.ubuntu.com
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 espndotcom.tt.omtrdc.net
@@ -1142,6 +1162,7 @@
 0.0.0.0 log-net.zoom.us
 0.0.0.0 log.2fas.com
 0.0.0.0 log.ai-type.com
+0.0.0.0 log.alipay.com
 0.0.0.0 log.buymeacoffee.com
 0.0.0.0 log.facemoji.com
 0.0.0.0 log.nordvpn.com
@@ -1150,6 +1171,7 @@
 0.0.0.0 log.strm.yango.com
 0.0.0.0 log.stubhub.com
 0.0.0.0 log.zoom.us
+0.0.0.0 log01.mtv.squareup.com
 0.0.0.0 logfiles.zoom.us
 0.0.0.0 logger.sciencedirect.com
 0.0.0.0 logger.scite.ai
@@ -1165,6 +1187,7 @@
 0.0.0.0 logs-ext.bitdefender.com
 0.0.0.0 logs-gateway.tabnine.com
 0.0.0.0 logs.1password.com
+0.0.0.0 logs.alipay.com
 0.0.0.0 logs.bobble.ai
 0.0.0.0 logs.cachyos.org
 0.0.0.0 logs.circle.so
@@ -1226,8 +1249,10 @@
 0.0.0.0 metrics-k.wbx2.com
 0.0.0.0 metrics-preview.vive.com
 0.0.0.0 metrics-r.wbx2.com
+0.0.0.0 metrics-tracking.revolut.com
 0.0.0.0 metrics.1password.com
 0.0.0.0 metrics.abema.tv
+0.0.0.0 metrics.alipay.com
 0.0.0.0 metrics.altlinux.org
 0.0.0.0 metrics.anthropic.com
 0.0.0.0 metrics.avast.com
@@ -1298,6 +1323,7 @@
 0.0.0.0 metrics.skyshowtime.com
 0.0.0.0 metrics.snapcraft.io
 0.0.0.0 metrics.soundhound.com
+0.0.0.0 metrics.squareup.com
 0.0.0.0 metrics.stan.com.au
 0.0.0.0 metrics.steelseries.com
 0.0.0.0 metrics.styleseat.com
@@ -1390,6 +1416,9 @@
 0.0.0.0 pagesense.io
 0.0.0.0 parental-control-metrics.youtubekids.com
 0.0.0.0 parsely.com
+0.0.0.0 paypal.112.2o7.net
+0.0.0.0 paypal.demdex.net
+0.0.0.0 paypal.tt.omtrdc.net
 0.0.0.0 pdt.netaffiliation.com
 0.0.0.0 pepperjam.com
 0.0.0.0 performance.netflix.com
@@ -1410,6 +1439,7 @@
 0.0.0.0 pixel.crwdcntrl.net
 0.0.0.0 pixel.datalogix.com
 0.0.0.0 pixel.limeade.com
+0.0.0.0 pixel.mercadopago.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 pkgstats.archlinux.de
 0.0.0.0 placed.com
@@ -1454,6 +1484,7 @@
 0.0.0.0 push.appsignal.com
 0.0.0.0 push.goforandroid.com
 0.0.0.0 q.clarity.ms
+0.0.0.0 q.stripe.com
 0.0.0.0 qksrv.net
 0.0.0.0 qksz.net
 0.0.0.0 quality-analytics.conviva.com
@@ -1553,6 +1584,7 @@
 0.0.0.0 sentry.protonvpn.com
 0.0.0.0 sentry.scielo.org
 0.0.0.0 sentry.scispace.com
+0.0.0.0 sentry.squareup.com
 0.0.0.0 sentry.system76.com
 0.0.0.0 sentry.xinchenai.com
 0.0.0.0 sentry2-client.cos.io
@@ -1569,7 +1601,9 @@
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 sftelemetry.sophos.com
 0.0.0.0 sg.smartlook.cloud
+0.0.0.0 sgtm.adyen.com
 0.0.0.0 sgtm.indrive.com
+0.0.0.0 sgtm.skrill.com
 0.0.0.0 shareasale-analytics.com
 0.0.0.0 shop.tags.elsevier.com
 0.0.0.0 shopify.crazyegg.com
@@ -1653,6 +1687,7 @@
 0.0.0.0 stats.nordvpn.com
 0.0.0.0 stats.norton.com
 0.0.0.0 stats.opensea.io
+0.0.0.0 stats.paypal.com
 0.0.0.0 stats.playit.pk
 0.0.0.0 stats.rarible.com
 0.0.0.0 stats.raspberrypi.org
@@ -1821,6 +1856,7 @@
 0.0.0.0 track-apollo.teleport.varjo.com
 0.0.0.0 track-aws.m.ridewithvia.com
 0.0.0.0 track-integration.gojek.com
+0.0.0.0 track-marketing.coins.ph
 0.0.0.0 track.aitype.com
 0.0.0.0 track.akamai.com
 0.0.0.0 track.appsflyer.com
@@ -1851,6 +1887,7 @@
 0.0.0.0 track.locals.com
 0.0.0.0 track.mail.muslimpro.com
 0.0.0.0 track.parsely.com
+0.0.0.0 track.paytm.com
 0.0.0.0 track.researchrabbit.ai
 0.0.0.0 track.romanticai.com
 0.0.0.0 track.stories.moovit.com
@@ -1873,6 +1910,7 @@
 0.0.0.0 tracking.api.cj.com
 0.0.0.0 tracking.appmetrica.yango.com
 0.0.0.0 tracking.appsflyer.com
+0.0.0.0 tracking.avangate.net
 0.0.0.0 tracking.avantlink.com
 0.0.0.0 tracking.avast.com
 0.0.0.0 tracking.avg.com
@@ -1890,6 +1928,7 @@
 0.0.0.0 tracking.hbomax.com
 0.0.0.0 tracking.hulu.com
 0.0.0.0 tracking.impact.com
+0.0.0.0 tracking.info.paytm.com
 0.0.0.0 tracking.jwplayer.com
 0.0.0.0 tracking.lastpass.com
 0.0.0.0 tracking.mindbodyonline.com
@@ -1903,7 +1942,10 @@
 0.0.0.0 tracking.nordvpn.com
 0.0.0.0 tracking.november-project.com
 0.0.0.0 tracking.partnerize.com
+0.0.0.0 tracking.payoneer.com
+0.0.0.0 tracking.paytm.com
 0.0.0.0 tracking.pepperjam.com
+0.0.0.0 tracking.picpay.com
 0.0.0.0 tracking.playit.pk
 0.0.0.0 tracking.privateinternetaccess.com
 0.0.0.0 tracking.purevpn.com
@@ -1926,6 +1968,7 @@
 0.0.0.0 tracking.vagaro.com
 0.0.0.0 tracking.vivino.com
 0.0.0.0 tracking.zanfia.com
+0.0.0.0 tracking1.paytm.com
 0.0.0.0 trackjs.com
 0.0.0.0 tracknooks.abcfitness.com
 0.0.0.0 trackworld-model-1.apps.allenai.org
@@ -1947,6 +1990,7 @@
 0.0.0.0 truoptik.com
 0.0.0.0 trusignal.com
 0.0.0.0 ts.crwdcntrl.net
+0.0.0.0 ts04358.picpay.com
 0.0.0.0 tvinteractive.tv
 0.0.0.0 tvp-ads-log.samsungads.com
 0.0.0.0 twipla.com
@@ -2040,6 +2084,7 @@
 0.0.0.0 whoopsie.ubuntu.com
 0.0.0.0 widgets.lotame.com
 0.0.0.0 wiland.com
+0.0.0.0 wise-analytics.com
 0.0.0.0 ws.inspectlet.com
 0.0.0.0 ws.livesession.io
 0.0.0.0 ws.sessioncam.com

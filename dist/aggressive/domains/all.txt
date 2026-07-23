@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 2109
+# Total domains: 2154
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -53,6 +53,7 @@ ad-beacon.tubitv.com
 ad-metrics.espn.com
 ad-server.pluto.tv
 ad.admitad.com
+ad.alipay.com
 ad.apsalar.com
 ad.crwdcntrl.net
 ad.holalauncher.com
@@ -80,6 +81,7 @@ ads-fa-darwin.hulu.com
 ads-resources.waze.com
 ads-twitter.com.sci-hub.tw
 ads-v-darwin.hulu.com
+ads.alipay.com
 ads.api.cj.com
 ads.avast.com
 ads.babbel.com
@@ -103,6 +105,7 @@ ads.hotstar.com
 ads.hulu.com
 ads.iqiyi.com
 ads.jwplayer.com
+ads.kakaopay.com
 ads.lww.com
 ads.lyft.com
 ads.moovit.com
@@ -110,7 +113,9 @@ ads.mxplayer.in
 ads.myfitnesspal.com
 ads.naver.com
 ads.paramountplus.com
+ads.paytm.com
 ads.peacocktv.com
+ads.phonepe.com
 ads.pluto.tv
 ads.realnetworks.com
 ads.timesinternet.in
@@ -148,9 +153,11 @@ adx.mxplayer.in
 afcyhf.com
 affilae.com
 agilityone.epsilon.com
+ai-analytics.adyen.com
 airbrake.io
 alerts.conviva.com
 alerts.youbora.com
+alipaylog.com
 amagi.tv
 amp.navdmp.com
 amp.permutive.app
@@ -320,6 +327,7 @@ analytics.mindbodyonline.com
 analytics.mondly.com
 analytics.moovit.com
 analytics.movistarplus.es
+analytics.mpay.samsung.com
 analytics.mubi.com
 analytics.muslimpro.com
 analytics.mux.com
@@ -352,6 +360,8 @@ analytics.palteca.com
 analytics.paramountplus.com
 analytics.parrot.sh
 analytics.parsely.com
+analytics.payoneer.com
+analytics.paytm.com
 analytics.pbskids.org
 analytics.peacocktv.com
 analytics.petco.com
@@ -378,6 +388,7 @@ analytics.realnetworks.com
 analytics.realvnc.com
 analytics.remotepc.com
 analytics.replika.ai
+analytics.revolut.com
 analytics.ringcentral.ca
 analytics.ringcentral.co.uk
 analytics.ringcentral.com
@@ -393,6 +404,7 @@ analytics.rtlplus.com
 analytics.rumble.com
 analytics.runsignup.com
 analytics.runtastic.com
+analytics.samsungpay.com
 analytics.scielo.org
 analytics.shazam.com
 analytics.simplenote.com
@@ -405,6 +417,7 @@ analytics.speaky.com
 analytics.speechace.com
 analytics.speechling.com
 analytics.splashtop.com
+analytics.squareup.com
 analytics.stan.com.au
 analytics.steelseries.com
 analytics.stickypassword.com
@@ -454,7 +467,9 @@ analytics.webex.com
 analytics.webgains.io
 analytics.wiley.com
 analytics.windscribe.com
+analytics.wise.com
 analytics.wordreference.com
+analytics.www1-0.pad.squareup.com
 analytics.xplayerapp.com
 analytics.yabla.com
 analytics.youbora.com
@@ -568,6 +583,7 @@ app.bugsplat.com
 app.getsentry.com
 app.glitchtip.com
 appanalytics.tomtom.com
+apples-analytics.pad.squareup.com
 applog.bolt.eu
 appsignal-endpoint.net
 appsignal.com
@@ -624,6 +640,7 @@ bisnode.com
 bitmovin-analytics.net
 bkrtx.com
 blobs.pixel.coder.com
+blog.ads.paytm.com
 bluekai.com
 bombora.com
 br.smartlook.cloud
@@ -744,6 +761,7 @@ collect.babbel.io
 collect.biomedcentral.com
 collect.contentsquare.net
 collect.mindbodyonline.com
+collect.skrill.com
 collect.springer.com
 collect.youbora.com
 collection-point.api.gymshark.com
@@ -832,6 +850,7 @@ daisy.ubuntu.com
 data-analysis.fedoraproject.org
 data-axle.com
 data-collection.brightcove.com
+data-talos.revolut.com
 data.acxiom.com
 data.analytics-cdn.teachable.com
 data.app-analytics.petdesk.com
@@ -909,6 +928,7 @@ errors.hbomax.com
 errors.hulu.com
 errors.netflix.com
 errors.razerzone.com
+errors.stripe.com
 errors.ubuntu.com
 espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
@@ -1142,6 +1162,7 @@ log-internal-gateway.zoom.us
 log-net.zoom.us
 log.2fas.com
 log.ai-type.com
+log.alipay.com
 log.buymeacoffee.com
 log.facemoji.com
 log.nordvpn.com
@@ -1150,6 +1171,7 @@ log.soundhound.com
 log.strm.yango.com
 log.stubhub.com
 log.zoom.us
+log01.mtv.squareup.com
 logfiles.zoom.us
 logger.sciencedirect.com
 logger.scite.ai
@@ -1165,6 +1187,7 @@ logrocket.io
 logs-ext.bitdefender.com
 logs-gateway.tabnine.com
 logs.1password.com
+logs.alipay.com
 logs.bobble.ai
 logs.cachyos.org
 logs.circle.so
@@ -1226,8 +1249,10 @@ metrics-eric.oss.demo.coder.com
 metrics-k.wbx2.com
 metrics-preview.vive.com
 metrics-r.wbx2.com
+metrics-tracking.revolut.com
 metrics.1password.com
 metrics.abema.tv
+metrics.alipay.com
 metrics.altlinux.org
 metrics.anthropic.com
 metrics.avast.com
@@ -1298,6 +1323,7 @@ metrics.shazam.com
 metrics.skyshowtime.com
 metrics.snapcraft.io
 metrics.soundhound.com
+metrics.squareup.com
 metrics.stan.com.au
 metrics.steelseries.com
 metrics.styleseat.com
@@ -1390,6 +1416,9 @@ packages-metrics.getsol.us
 pagesense.io
 parental-control-metrics.youtubekids.com
 parsely.com
+paypal.112.2o7.net
+paypal.demdex.net
+paypal.tt.omtrdc.net
 pdt.netaffiliation.com
 pepperjam.com
 performance.netflix.com
@@ -1410,6 +1439,7 @@ pixel.branch.io
 pixel.crwdcntrl.net
 pixel.datalogix.com
 pixel.limeade.com
+pixel.mercadopago.com
 pixel.parsely.com
 pkgstats.archlinux.de
 placed.com
@@ -1454,6 +1484,7 @@ pulse.raygun.com
 push.appsignal.com
 push.goforandroid.com
 q.clarity.ms
+q.stripe.com
 qksrv.net
 qksz.net
 quality-analytics.conviva.com
@@ -1553,6 +1584,7 @@ sentry.io
 sentry.protonvpn.com
 sentry.scielo.org
 sentry.scispace.com
+sentry.squareup.com
 sentry.system76.com
 sentry.xinchenai.com
 sentry2-client.cos.io
@@ -1569,7 +1601,9 @@ sessionstack.com
 settings.crashlytics.com
 sftelemetry.sophos.com
 sg.smartlook.cloud
+sgtm.adyen.com
 sgtm.indrive.com
+sgtm.skrill.com
 shareasale-analytics.com
 shop.tags.elsevier.com
 shopify.crazyegg.com
@@ -1653,6 +1687,7 @@ stats.nicovideo.jp
 stats.nordvpn.com
 stats.norton.com
 stats.opensea.io
+stats.paypal.com
 stats.playit.pk
 stats.rarible.com
 stats.raspberrypi.org
@@ -1821,6 +1856,7 @@ trace.nordvpn.com
 track-apollo.teleport.varjo.com
 track-aws.m.ridewithvia.com
 track-integration.gojek.com
+track-marketing.coins.ph
 track.aitype.com
 track.akamai.com
 track.appsflyer.com
@@ -1851,6 +1887,7 @@ track.linkconnector.com
 track.locals.com
 track.mail.muslimpro.com
 track.parsely.com
+track.paytm.com
 track.researchrabbit.ai
 track.romanticai.com
 track.stories.moovit.com
@@ -1873,6 +1910,7 @@ tracking.affilae.com
 tracking.api.cj.com
 tracking.appmetrica.yango.com
 tracking.appsflyer.com
+tracking.avangate.net
 tracking.avantlink.com
 tracking.avast.com
 tracking.avg.com
@@ -1890,6 +1928,7 @@ tracking.fresha.com
 tracking.hbomax.com
 tracking.hulu.com
 tracking.impact.com
+tracking.info.paytm.com
 tracking.jwplayer.com
 tracking.lastpass.com
 tracking.mindbodyonline.com
@@ -1903,7 +1942,10 @@ tracking.newsletter.vivino.com
 tracking.nordvpn.com
 tracking.november-project.com
 tracking.partnerize.com
+tracking.payoneer.com
+tracking.paytm.com
 tracking.pepperjam.com
+tracking.picpay.com
 tracking.playit.pk
 tracking.privateinternetaccess.com
 tracking.purevpn.com
@@ -1926,6 +1968,7 @@ tracking.tubitv.com
 tracking.vagaro.com
 tracking.vivino.com
 tracking.zanfia.com
+tracking1.paytm.com
 trackjs.com
 tracknooks.abcfitness.com
 trackworld-model-1.apps.allenai.org
@@ -1947,6 +1990,7 @@ truaudience.tru-signal.com
 truoptik.com
 trusignal.com
 ts.crwdcntrl.net
+ts04358.picpay.com
 tvinteractive.tv
 tvp-ads-log.samsungads.com
 twipla.com
@@ -2040,6 +2084,7 @@ whale-tracker.nftgo.io
 whoopsie.ubuntu.com
 widgets.lotame.com
 wiland.com
+wise-analytics.com
 ws.inspectlet.com
 ws.livesession.io
 ws.sessioncam.com
