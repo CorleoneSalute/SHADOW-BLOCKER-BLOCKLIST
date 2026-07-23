@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 2985
+# Total domains: 3016
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -218,6 +218,7 @@ analytics.1password.com
 analytics.8x8.com
 analytics.abema.tv
 analytics.abide.co
+analytics.ableton.com
 analytics.acast.com
 analytics.ad.daum.net
 analytics.add.app
@@ -242,6 +243,7 @@ analytics.authy.com
 analytics.avast.com
 analytics.avawomen.com
 analytics.avcdn.net
+analytics.avid.com
 analytics.babbel.com
 analytics.badoo.com
 analytics.bear.app
@@ -394,6 +396,7 @@ analytics.hulu.com
 analytics.hungryroot.com
 analytics.hyperx.com
 analytics.ieee.org
+analytics.image-line.com
 analytics.immutable.com
 analytics.imtranslator.net
 analytics.indrive.com
@@ -432,6 +435,7 @@ analytics.lingvist.com
 analytics.logitech.com
 analytics.logmein.com
 analytics.looksrare.org
+analytics.loopcloud.com
 analytics.loudly.com
 analytics.luna.amazon.com
 analytics.lww.com
@@ -467,6 +471,7 @@ analytics.mux.com
 analytics.mxplayer.in
 analytics.myfitnesspal.com
 analytics.myflotracker.com
+analytics.native-instruments.com
 analytics.naturalcycles.com
 analytics.naver.com
 analytics.navigator-app.nvidia.com
@@ -532,6 +537,7 @@ analytics.prageru.com
 analytics.premom.com
 analytics.prepear.com
 analytics.preply.com
+analytics.presonus.com
 analytics.privateinternetaccess.com
 analytics.protected.media
 analytics.purevpn.com
@@ -588,11 +594,13 @@ analytics.speechace.com
 analytics.speechling.com
 analytics.splashmusic.com
 analytics.splashtop.com
+analytics.splice.com
 analytics.squareup.com
 analytics.stability.ai
 analytics.stan.com.au
 analytics.starryai.com
 analytics.steelseries.com
+analytics.steinberg.net
 analytics.stickypassword.com
 analytics.store-jp.nintendo.com
 analytics.strava.com
@@ -645,6 +653,7 @@ analytics.vpc.duolingo.com
 analytics.vrchat.cloud
 analytics.vudu.com
 analytics.vyprvpn.com
+analytics.waves.com
 analytics.wavve.com
 analytics.waze.com
 analytics.webex.com
@@ -1159,6 +1168,7 @@ crashes.ivpn.net
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
 crashreport.razer.com
+crashreport1.avid.com
 crazyegg.com
 creative-serve.remerge.io
 creative.adikteev.com
@@ -1744,6 +1754,7 @@ merkle.com
 merkleinc.com
 merkleresponse.com
 merkury.dentsu.com
+metabase.analytics.native-instruments.com
 metaffiliation.com
 metis.truecaller.com
 metrics-a.wbx2.com
@@ -1756,6 +1767,7 @@ metrics-r.wbx2.com
 metrics-tracking.revolut.com
 metrics.1password.com
 metrics.abema.tv
+metrics.ableton.com
 metrics.add.app
 metrics.alipay.com
 metrics.altlinux.org
@@ -1803,6 +1815,7 @@ metrics.helloclue.com
 metrics.hotstar.com
 metrics.hulu.com
 metrics.hyperx.com
+metrics.image-line.com
 metrics.ipvanish.com
 metrics.jwplayer.com
 metrics.kaizen.nvidia.com
@@ -1840,6 +1853,7 @@ metrics.piano.io
 metrics.playit.pk
 metrics.plex.tv
 metrics.pluto.tv
+metrics.presonus.com
 metrics.privateinternetaccess.com
 metrics.razer.com
 metrics.replika.ai
@@ -2213,6 +2227,7 @@ segment.statsig.com
 segment.taphunter.com
 segment.untappd.com
 segment.vivino.com
+segmentapi.presonus.com
 segments.adikteev.com
 segments.hitnmix.com
 segments.remerge.io
@@ -2220,10 +2235,12 @@ segments.zetaglobal.com
 sense360.com
 sentry-reporter.ente.io
 sentry.api.stronglifts.com
+sentry.audacityteam.org
 sentry.clickdealer.com
 sentry.codeium.com
 sentry.highscore.com
 sentry.io
+sentry.io.steinberg.net
 sentry.protonvpn.com
 sentry.scielo.org
 sentry.scispace.com
@@ -2344,6 +2361,7 @@ stats.flathub.org
 stats.gamstop.co.uk
 stats.hide.me
 stats.i.mdpi.com
+stats.image-line.com
 stats.iqiyi.com
 stats.ivpn.net
 stats.kaltura.com
@@ -2376,6 +2394,7 @@ stats.uscreen.io
 stats.waze.com
 stats.youku.com
 statsigapi.net
+statslogger.image-line.com
 steamstats.valvesoftware.com
 stg.jwpltx.com
 stirista.com
@@ -2442,6 +2461,7 @@ telemetry-in.battle.net
 telemetry-service.ubuntu.com
 telemetry.1password.com
 telemetry.1passwordservices.com
+telemetry.ableton.com
 telemetry.access.securid.com
 telemetry.add.app
 telemetry.altered.ai
@@ -2450,9 +2470,11 @@ telemetry.api.swiftkey.com
 telemetry.art19.com
 telemetry.artpipe.epicgames.com
 telemetry.astrill.com
+telemetry.audacityteam.org
 telemetry.audionamix.com
 telemetry.avast.com
 telemetry.avg.com
+telemetry.avid.com
 telemetry.avira.com
 telemetry.aws-language-servers.us-east-1.amazonaws.com
 telemetry.bamgrid.com
@@ -2504,6 +2526,7 @@ telemetry.hide.me
 telemetry.hitnmix.com
 telemetry.hotstar.com
 telemetry.hulu.com
+telemetry.image-line.com
 telemetry.immutable.com
 telemetry.insights.video.a2z.com
 telemetry.ipvanish.com
@@ -2527,6 +2550,7 @@ telemetry.mobile.api.mcafee.com
 telemetry.moises.ai
 telemetry.mux.com
 telemetry.mxplayer.in
+telemetry.native-instruments.com
 telemetry.naturalcycles.com
 telemetry.nordvpn.com
 telemetry.norton.com
@@ -2541,6 +2565,7 @@ telemetry.peacocktv.com
 telemetry.playit.pk
 telemetry.pluto.tv
 telemetry.podcastle.ai
+telemetry.presonus.com
 telemetry.privateinternetaccess.com
 telemetry.proton.me
 telemetry.purevpn.com
@@ -2557,6 +2582,7 @@ telemetry.splashtop.com
 telemetry.split.io
 telemetry.stability.ai
 telemetry.steelseries.com
+telemetry.steinberg.net
 telemetry.surfshark.com
 telemetry.system76.com
 telemetry.tabnine.com
@@ -2573,6 +2599,7 @@ telemetry.varjo.com
 telemetry.vivino.com
 telemetry.vocaloid.com
 telemetry.vyprvpn.com
+telemetry.waves.com
 telemetry.windscribe.com
 telemetry.yamaha.com
 telemetry.zenoti.com
@@ -2676,6 +2703,7 @@ tracker.prf.hn
 tracker.quitgambling.com
 tracker.remerge.io
 tracking-api.italki.com
+tracking.ableton.com
 tracking.acast.com
 tracking.admitad.com
 tracking.affilae.com
@@ -2708,11 +2736,13 @@ tracking.fresha.com
 tracking.geforcenow.com
 tracking.hbomax.com
 tracking.hulu.com
+tracking.image-line.com
 tracking.impact.com
 tracking.info.paytm.com
 tracking.jwplayer.com
 tracking.lastpass.com
 tracking.launchdarkly.com
+tracking.loopcloud.com
 tracking.mindbodyonline.com
 tracking.morgen.so
 tracking.movies.yango.com
@@ -2768,6 +2798,7 @@ traffic-analytics.ghost.org
 trckr.petcube.com
 trino-analytics-ext.data.bird.co
 trk.datify.link
+trk.eib.presonus.com
 trk.gojek.com
 trk.hi.pvolve.com
 trk.m.blueapron.com
