@@ -1,0 +1,48 @@
+# SMS & RCS Blocklist
+
+**Son Güncelleme:** 16 Temmuz 2026
+**Toplam Domain Sayısı:** 25
+
+```
+# GO SMS PRO (DANGEROUS — Privacy Leak, Unpatched)
+
+# Core
+gosmspro.com
+gosms.com
+gomo-apps.com
+gomo.com
+sungymobile.com
+goforandroid.com
+
+# API & Services
+api.gosmspro.com
+media.gosmspro.com
+cdn.gosmspro.com
+backup.gosmspro.com
+service.goforandroid.com
+push.goforandroid.com
+conf.api.hk.goforandroid.com
+
+# CDN & Media (privacy leak kaynağı)
+faces3cdn.goforandroid.com
+goappdl.goforandroid.com
+
+# Tracking & Analytics
+lzt.goforandroid.com
+zcamera.lzt.goforandroid.com
+integralwall.goforandroid.com
+integralmarket.goforandroid.com
+xss.tw
+
+# Config Sync (Çin sunucusu)
+goconfigsync.3g.cn
+
+# Web Portals
+gosms.goforandroid.com
+
+# TEXTRA SMS
+analytics.textra.me
+adhoc.textra.me
+
+# CALLDORADO / MOOD MESSENGER
+stats.calldorado.com
