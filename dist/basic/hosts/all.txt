@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1079
+# Total domains: 1125
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -47,7 +47,9 @@
 0.0.0.0 ad.admitad.com
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.linksynergy.com
+0.0.0.0 ad.search.naver.com
 0.0.0.0 ad.vrvm.com
+0.0.0.0 adassets.waze.com
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adgen-cdn.connatix.com
 0.0.0.0 adgen.connatix.com
@@ -55,6 +57,7 @@
 0.0.0.0 admitad.com
 0.0.0.0 adperio.com
 0.0.0.0 ads-fa-darwin.hulu.com
+0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-v-darwin.hulu.com
 0.0.0.0 ads.api.cj.com
 0.0.0.0 ads.bitmovin.com
@@ -70,16 +73,34 @@
 0.0.0.0 ads.hulu.com
 0.0.0.0 ads.iqiyi.com
 0.0.0.0 ads.jwplayer.com
+0.0.0.0 ads.moovit.com
+0.0.0.0 ads.naver.com
 0.0.0.0 ads.paramountplus.com
 0.0.0.0 ads.peacocktv.com
 0.0.0.0 ads.untappd.com
 0.0.0.0 ads.voot.com
+0.0.0.0 ads.waze.com
+0.0.0.0 ads.world.waze.com
 0.0.0.0 ads.zee5.com
+0.0.0.0 adsapi-proxy-il.waze.com
+0.0.0.0 adsapi-proxy-na.waze.com
+0.0.0.0 adsapi-proxy-row.waze.com
+0.0.0.0 adsapi-proxy.waze.com
+0.0.0.0 adsapi.waze.com
+0.0.0.0 adsapi1.waze.com
+0.0.0.0 adsassets-ipv6.waze.com
+0.0.0.0 adsassets.waze.com
 0.0.0.0 adserver.connatix.com
 0.0.0.0 adserver.jwplayer.com
 0.0.0.0 adsquare.com
 0.0.0.0 adstradata.com
+0.0.0.0 advertising.waze.com
 0.0.0.0 advidi.com
+0.0.0.0 adview-prod-am.waze.com
+0.0.0.0 adview-prod-il.waze.com
+0.0.0.0 adview-prod-row.waze.com
+0.0.0.0 advil.waze.com
+0.0.0.0 advilapsoutheast1.waze.com
 0.0.0.0 afcyhf.com
 0.0.0.0 affilae.com
 0.0.0.0 agilityone.epsilon.com
@@ -129,12 +150,17 @@
 0.0.0.0 analytics.jwplayer.com
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kidoodle.tv
+0.0.0.0 analytics.komoot.com
+0.0.0.0 analytics.mapbox.com
+0.0.0.0 analytics.maps.me
 0.0.0.0 analytics.max.com
 0.0.0.0 analytics.means.tv
+0.0.0.0 analytics.moovit.com
 0.0.0.0 analytics.movistarplus.es
 0.0.0.0 analytics.mubi.com
 0.0.0.0 analytics.mux.com
 0.0.0.0 analytics.mxplayer.in
+0.0.0.0 analytics.naver.com
 0.0.0.0 analytics.nbcuni.com
 0.0.0.0 analytics.nebula.tv
 0.0.0.0 analytics.netflix.com
@@ -167,6 +193,7 @@
 0.0.0.0 analytics.voot.com
 0.0.0.0 analytics.vudu.com
 0.0.0.0 analytics.wavve.com
+0.0.0.0 analytics.waze.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.youbora.com
 0.0.0.0 analytics.youku.com
@@ -241,6 +268,7 @@
 0.0.0.0 api.zipy.ai
 0.0.0.0 api.zoominfo.com
 0.0.0.0 apmebf.com
+0.0.0.0 appanalytics.tomtom.com
 0.0.0.0 asapp.navdmp.com
 0.0.0.0 ask.hotjar.com
 0.0.0.0 assets-cache.us.smartlook.cloud
@@ -384,6 +412,7 @@
 0.0.0.0 crash-reports.hulu.com
 0.0.0.0 crash-reports.netflix.com
 0.0.0.0 crash.bamgrid.com
+0.0.0.0 crash.mapbox.com
 0.0.0.0 crazyegg.com
 0.0.0.0 crowdcontrol.lotame.com
 0.0.0.0 crwdcntrl.net
@@ -471,6 +500,8 @@
 0.0.0.0 events.hotjar.com
 0.0.0.0 events.jwplayer.com
 0.0.0.0 events.kaltura.com
+0.0.0.0 events.mapbox.cn
+0.0.0.0 events.mapbox.com
 0.0.0.0 events.mux.com
 0.0.0.0 exactdata.com
 0.0.0.0 exads.crakrevenue.com
@@ -512,8 +543,11 @@
 0.0.0.0 golead.pl
 0.0.0.0 gravyanalytics.com
 0.0.0.0 grtyv.com
+0.0.0.0 gtrack.go.moovit.com
+0.0.0.0 gtrack.stories.moovit.com
 0.0.0.0 h.clarity.ms
 0.0.0.0 heatmap.com
+0.0.0.0 hit.seznam.cz
 0.0.0.0 hitwise.com
 0.0.0.0 hotjar.com
 0.0.0.0 hotjar.io
@@ -588,6 +622,7 @@
 0.0.0.0 live-streaming-metrics.amazon.com
 0.0.0.0 livesession.io
 0.0.0.0 livestats.kaltura.com
+0.0.0.0 localad.naver.com
 0.0.0.0 logging.bamgrid.com
 0.0.0.0 logging.netflix.com
 0.0.0.0 logr-in.com
@@ -788,6 +823,7 @@
 0.0.0.0 rnsfpw.net
 0.0.0.0 rs.fullstory.com
 0.0.0.0 rs.livesession.io
+0.0.0.0 rt-clientstats-il.waze.com
 0.0.0.0 rtb.adsquare.com
 0.0.0.0 rum.netflix.com
 0.0.0.0 s.c.jwpltx.com
@@ -816,6 +852,7 @@
 0.0.0.0 sdk.smartlook.com
 0.0.0.0 sdk.uxcam.com
 0.0.0.0 sdk.zipy.ai
+0.0.0.0 searchad.naver.com
 0.0.0.0 sedt.infutor.com
 0.0.0.0 segment.beermenus.com
 0.0.0.0 segment.delectable.com
@@ -843,6 +880,7 @@
 0.0.0.0 ssai.brightcove.com
 0.0.0.0 ssl2.cdngc.net
 0.0.0.0 sslcs.cdngc.net
+0.0.0.0 stat.maps.me
 0.0.0.0 static-cdn.hotjar.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.crazyegg.com
@@ -856,6 +894,7 @@
 0.0.0.0 stats.iqiyi.com
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.nicovideo.jp
+0.0.0.0 stats.waze.com
 0.0.0.0 stats.youku.com
 0.0.0.0 stg.jwpltx.com
 0.0.0.0 stirista.com
@@ -867,6 +906,7 @@
 0.0.0.0 surge.bombora.com
 0.0.0.0 surveys.hotjar.com
 0.0.0.0 surveystats.webmaxy.io
+0.0.0.0 sygic.api.infinario.com
 0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 sync.eyeota.net
 0.0.0.0 sync.navdmp.com
@@ -901,6 +941,7 @@
 0.0.0.0 telemetry.hotstar.com
 0.0.0.0 telemetry.hulu.com
 0.0.0.0 telemetry.insights.video.a2z.com
+0.0.0.0 telemetry.mapbox.com
 0.0.0.0 telemetry.max.com
 0.0.0.0 telemetry.mux.com
 0.0.0.0 telemetry.paramountplus.com
@@ -928,9 +969,12 @@
 0.0.0.0 track.crazyegg.com
 0.0.0.0 track.flexlinks.com
 0.0.0.0 track.flexlinkspro.com
+0.0.0.0 track.go.moovit.com
 0.0.0.0 track.heatmap.com
+0.0.0.0 track.kakao.com
 0.0.0.0 track.linkconnector.com
 0.0.0.0 track.parsely.com
+0.0.0.0 track.stories.moovit.com
 0.0.0.0 track.webgains.com
 0.0.0.0 tracker.prf.hn
 0.0.0.0 tracking.admitad.com
@@ -969,6 +1013,7 @@
 0.0.0.0 tvp-ads-log.samsungads.com
 0.0.0.0 twipla.com
 0.0.0.0 u.clarity.ms
+0.0.0.0 ua.kakao.com
 0.0.0.0 ubimo.com
 0.0.0.0 unacast.com
 0.0.0.0 upload.uxcam.com
@@ -1017,6 +1062,7 @@
 0.0.0.0 w.clarity.ms
 0.0.0.0 w1.luckyorange.com
 0.0.0.0 w4.com
+0.0.0.0 wcs.naver.com
 0.0.0.0 web-sdk.smartlook.com
 0.0.0.0 web-writer.eu.smartlook.cloud
 0.0.0.0 web-writer.us.smartlook.cloud

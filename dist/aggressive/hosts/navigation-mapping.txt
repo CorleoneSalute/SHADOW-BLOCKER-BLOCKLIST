@@ -1,0 +1,53 @@
+# ============================================================
+# NAVIGATION MAPPING BLOCKLIST - AGGRESSIVE
+# Total domains: 46
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 ad.search.naver.com
+0.0.0.0 adassets.waze.com
+0.0.0.0 ads-resources.waze.com
+0.0.0.0 ads.moovit.com
+0.0.0.0 ads.naver.com
+0.0.0.0 ads.waze.com
+0.0.0.0 ads.world.waze.com
+0.0.0.0 adsapi-proxy-il.waze.com
+0.0.0.0 adsapi-proxy-na.waze.com
+0.0.0.0 adsapi-proxy-row.waze.com
+0.0.0.0 adsapi-proxy.waze.com
+0.0.0.0 adsapi.waze.com
+0.0.0.0 adsapi1.waze.com
+0.0.0.0 adsassets-ipv6.waze.com
+0.0.0.0 adsassets.waze.com
+0.0.0.0 advertising.waze.com
+0.0.0.0 adview-prod-am.waze.com
+0.0.0.0 adview-prod-il.waze.com
+0.0.0.0 adview-prod-row.waze.com
+0.0.0.0 advil.waze.com
+0.0.0.0 advilapsoutheast1.waze.com
+0.0.0.0 analytics.komoot.com
+0.0.0.0 analytics.mapbox.com
+0.0.0.0 analytics.maps.me
+0.0.0.0 analytics.moovit.com
+0.0.0.0 analytics.naver.com
+0.0.0.0 analytics.waze.com
+0.0.0.0 appanalytics.tomtom.com
+0.0.0.0 crash.mapbox.com
+0.0.0.0 events.mapbox.cn
+0.0.0.0 events.mapbox.com
+0.0.0.0 gtrack.go.moovit.com
+0.0.0.0 gtrack.stories.moovit.com
+0.0.0.0 hit.seznam.cz
+0.0.0.0 localad.naver.com
+0.0.0.0 rt-clientstats-il.waze.com
+0.0.0.0 searchad.naver.com
+0.0.0.0 stat.maps.me
+0.0.0.0 stats.waze.com
+0.0.0.0 sygic.api.infinario.com
+0.0.0.0 telemetry.mapbox.com
+0.0.0.0 track.go.moovit.com
+0.0.0.0 track.kakao.com
+0.0.0.0 track.stories.moovit.com
+0.0.0.0 ua.kakao.com
+0.0.0.0 wcs.naver.com

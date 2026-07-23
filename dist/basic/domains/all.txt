@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1079
+# Total domains: 1125
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -47,7 +47,9 @@ ad-metrics.espn.com
 ad.admitad.com
 ad.crwdcntrl.net
 ad.linksynergy.com
+ad.search.naver.com
 ad.vrvm.com
+adassets.waze.com
 adcel.vrvm.com
 adgen-cdn.connatix.com
 adgen.connatix.com
@@ -55,6 +57,7 @@ adkernel.crakrevenue.com
 admitad.com
 adperio.com
 ads-fa-darwin.hulu.com
+ads-resources.waze.com
 ads-v-darwin.hulu.com
 ads.api.cj.com
 ads.bitmovin.com
@@ -70,16 +73,34 @@ ads.hotstar.com
 ads.hulu.com
 ads.iqiyi.com
 ads.jwplayer.com
+ads.moovit.com
+ads.naver.com
 ads.paramountplus.com
 ads.peacocktv.com
 ads.untappd.com
 ads.voot.com
+ads.waze.com
+ads.world.waze.com
 ads.zee5.com
+adsapi-proxy-il.waze.com
+adsapi-proxy-na.waze.com
+adsapi-proxy-row.waze.com
+adsapi-proxy.waze.com
+adsapi.waze.com
+adsapi1.waze.com
+adsassets-ipv6.waze.com
+adsassets.waze.com
 adserver.connatix.com
 adserver.jwplayer.com
 adsquare.com
 adstradata.com
+advertising.waze.com
 advidi.com
+adview-prod-am.waze.com
+adview-prod-il.waze.com
+adview-prod-row.waze.com
+advil.waze.com
+advilapsoutheast1.waze.com
 afcyhf.com
 affilae.com
 agilityone.epsilon.com
@@ -129,12 +150,17 @@ analytics.iqiyi.com
 analytics.jwplayer.com
 analytics.kaltura.com
 analytics.kidoodle.tv
+analytics.komoot.com
+analytics.mapbox.com
+analytics.maps.me
 analytics.max.com
 analytics.means.tv
+analytics.moovit.com
 analytics.movistarplus.es
 analytics.mubi.com
 analytics.mux.com
 analytics.mxplayer.in
+analytics.naver.com
 analytics.nbcuni.com
 analytics.nebula.tv
 analytics.netflix.com
@@ -167,6 +193,7 @@ analytics.vivino.com
 analytics.voot.com
 analytics.vudu.com
 analytics.wavve.com
+analytics.waze.com
 analytics.webgains.io
 analytics.youbora.com
 analytics.youku.com
@@ -241,6 +268,7 @@ api.youbora.com
 api.zipy.ai
 api.zoominfo.com
 apmebf.com
+appanalytics.tomtom.com
 asapp.navdmp.com
 ask.hotjar.com
 assets-cache.us.smartlook.cloud
@@ -384,6 +412,7 @@ crash-reports.hbomax.com
 crash-reports.hulu.com
 crash-reports.netflix.com
 crash.bamgrid.com
+crash.mapbox.com
 crazyegg.com
 crowdcontrol.lotame.com
 crwdcntrl.net
@@ -471,6 +500,8 @@ events.cuebiq.com
 events.hotjar.com
 events.jwplayer.com
 events.kaltura.com
+events.mapbox.cn
+events.mapbox.com
 events.mux.com
 exactdata.com
 exads.crakrevenue.com
@@ -512,8 +543,11 @@ goacoustic.com
 golead.pl
 gravyanalytics.com
 grtyv.com
+gtrack.go.moovit.com
+gtrack.stories.moovit.com
 h.clarity.ms
 heatmap.com
+hit.seznam.cz
 hitwise.com
 hotjar.com
 hotjar.io
@@ -588,6 +622,7 @@ live-metrics.youtube.com
 live-streaming-metrics.amazon.com
 livesession.io
 livestats.kaltura.com
+localad.naver.com
 logging.bamgrid.com
 logging.netflix.com
 logr-in.com
@@ -788,6 +823,7 @@ risk.dnb.com
 rnsfpw.net
 rs.fullstory.com
 rs.livesession.io
+rt-clientstats-il.waze.com
 rtb.adsquare.com
 rum.netflix.com
 s.c.jwpltx.com
@@ -816,6 +852,7 @@ sdk.mobilewalla.com
 sdk.smartlook.com
 sdk.uxcam.com
 sdk.zipy.ai
+searchad.naver.com
 sedt.infutor.com
 segment.beermenus.com
 segment.delectable.com
@@ -843,6 +880,7 @@ srv.pixel.parsely.com
 ssai.brightcove.com
 ssl2.cdngc.net
 sslcs.cdngc.net
+stat.maps.me
 static-cdn.hotjar.com
 static.chartbeat.com
 static.crazyegg.com
@@ -856,6 +894,7 @@ stats.bilibili.com
 stats.iqiyi.com
 stats.kaltura.com
 stats.nicovideo.jp
+stats.waze.com
 stats.youku.com
 stg.jwpltx.com
 stirista.com
@@ -867,6 +906,7 @@ superchat-analytics.youtube.com
 surge.bombora.com
 surveys.hotjar.com
 surveystats.webmaxy.io
+sygic.api.infinario.com
 sync.crwdcntrl.net
 sync.eyeota.net
 sync.navdmp.com
@@ -901,6 +941,7 @@ telemetry.hbomax.com
 telemetry.hotstar.com
 telemetry.hulu.com
 telemetry.insights.video.a2z.com
+telemetry.mapbox.com
 telemetry.max.com
 telemetry.mux.com
 telemetry.paramountplus.com
@@ -928,9 +969,12 @@ track.cpamatica.com
 track.crazyegg.com
 track.flexlinks.com
 track.flexlinkspro.com
+track.go.moovit.com
 track.heatmap.com
+track.kakao.com
 track.linkconnector.com
 track.parsely.com
+track.stories.moovit.com
 track.webgains.com
 tracker.prf.hn
 tracking.admitad.com
@@ -969,6 +1013,7 @@ tvinteractive.tv
 tvp-ads-log.samsungads.com
 twipla.com
 u.clarity.ms
+ua.kakao.com
 ubimo.com
 unacast.com
 upload.uxcam.com
@@ -1017,6 +1062,7 @@ vrvm.com
 w.clarity.ms
 w1.luckyorange.com
 w4.com
+wcs.naver.com
 web-sdk.smartlook.com
 web-writer.eu.smartlook.cloud
 web-writer.us.smartlook.cloud
