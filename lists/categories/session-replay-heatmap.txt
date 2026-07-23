@@ -1,0 +1,365 @@
+# ============================================================
+# SESSION REPLAY & HEATMAP BLOCKLST
+
+# Total domains: 284
+# Last update: 2026-07-15
+# ============================================================
+
+
+### TIER 1 - CORE PLATFORMLAR
+
+# --- HOTJAR | Contentsquare bünyesinde (2021) (12 domain) ---
+api.hotjar.io
+ask.hotjar.com
+d3ikprf0m31yc7.cloudfront.net
+events.hotjar.com
+feedback.hotjar.com
+hotjar.com
+hotjar.io
+script.hotjar.com
+static-cdn.hotjar.com
+static.hotjar.com
+surveys.hotjar.com
+vars.hotjar.com
+
+# --- FULLSTORY | Aktif (12 domain) ---
+api.fullstory.com
+cdn.fullstory.com
+d2wy8f7a9ursnm.cloudfront.net
+edge.fullstory.com
+eu.fullstory.com
+fullstory.com
+fullstory.net
+ingest.fullstory.com
+na1.fullstory.com
+relay.fullstory.com
+rs.fullstory.com
+static.fullstory.com
+
+# --- LOGROCKET | Aktif (33 domain) ---
+api.logrocket.io
+cdn.ingest-lr.com
+cdn.intake-lr.com
+cdn.lgrckt-in.com
+cdn.logr-in.com
+cdn.logr-ingest.com
+cdn.logrocket.com
+cdn.logrocket.io
+cdn.lr-in-prod.com
+cdn.lr-in.com
+cdn.lr-ingest.com
+cdn.lr-intake.com
+cdn.lrkt-in.com
+d3anogn3pbtk4v.cloudfront.net
+ingest-lr.com
+ingest.logrocket.io
+intake-lr.com
+lgrckt-in.com
+logr-in.com
+logr-ingest.com
+logrocket.com
+logrocket.io
+lr-in-prod.com
+lr-in.com
+lr-ingest.com
+lr-ingest.io
+lr-intake.com
+lrkt-in.com
+r.lgrckt-in.com
+r.logr-in.com
+r.lr-ingest.io
+r.lrkt-in.com
+static.logrocket.com
+
+# --- SMARTLOOK | Cisco bünyesinde (Ağustos 2023) (26 domain) ---
+api.eu.smartlook.cloud
+api.smartlook.cloud
+api.smartlook.com
+api.us.smartlook.cloud
+assets-cache.us.smartlook.cloud
+assets-proxy.eu.smartlook.cloud
+assets-proxy.us.smartlook.cloud
+br.smartlook.cloud
+cdn.smartlook.com
+eu.smartlook.cloud
+events-writer.eu.smartlook.cloud
+integrations.smartlook.com
+mobile-sdk.smartlook.com
+rec.smartlook.com
+sdk-writer.br.smartlook.cloud
+sdk-writer.eu.smartlook.cloud
+sdk-writer.sg.smartlook.cloud
+sdk-writer.us.smartlook.cloud
+sdk.smartlook.com
+sg.smartlook.cloud
+smartlook.cloud
+smartlook.com
+us.smartlook.cloud
+web-sdk.smartlook.com
+web-writer.eu.smartlook.cloud
+web-writer.us.smartlook.cloud
+
+# --- MOUSEFLOW | Aktif (10 domain) ---
+api-eu.mouseflow.com
+api-us.mouseflow.com
+api.mouseflow.com
+cdn.mouseflow.com
+d24n15hnbwhuhn.cloudfront.net
+eu.mouseflow.com
+mouseflow.com
+static.mouseflow.com
+tools.mouseflow.com
+us.mouseflow.com
+
+# --- LUCKY ORANGE | Aktif (9 domain) ---
+api.luckyorange.com
+cdn.luckyorange.com
+d10lpsik1i8c69.cloudfront.net
+luckyorange.com
+luckyorange.net
+realtime.luckyorange.com
+tools.luckyorange.com
+visitors.live
+w1.luckyorange.com
+
+# --- INSPECTLET | Aktif (düşük aktivite) (5 domain) ---
+api.inspectlet.com
+cdn.inspectlet.com
+inspectlet.com
+inspectlet.net
+ws.inspectlet.com
+
+# --- SESSIONCAM | Glassbox bünyesinde (2020) (6 domain) ---
+api.sessioncam.com
+cdn.sessioncam.com
+d2oh4tlt9mrke9.cloudfront.net
+sessioncam.com
+sessioncam.net
+ws.sessioncam.com
+
+# --- CRAZY EGG | Aktif (14 domain) ---
+api.crazyegg.com
+assets-tracking.crazyegg.com
+cetrk.com
+core.crazyegg.com
+crazyegg.com
+dnn506yrbagrg.cloudfront.net
+files.crazyegg.com
+integration-api.crazyegg.com
+recording.crazyegg.com
+script.crazyegg.com
+shopify.crazyegg.com
+static.crazyegg.com
+track.crazyegg.com
+tracking.crazyegg.com
+
+# --- CONTENTSQUARE | Aktif — (+Clicktale 2019, +Hotjar 2021) (6 domain) ---
+api.contentsquare.net
+collect.contentsquare.net
+contentsquare.com
+contentsquare.net
+cts.contentsquare.net
+t.contentsquare.net
+
+# --- CLICKTALE | Contentsquare bünyesinde (2019) (12 domain) ---
+api.clicktale.net
+cdn.clicktale.net
+cdnclicktale.com
+cdnssl.clicktale.net
+clicktale.com
+clicktale.net
+clicktale.pantherssl.com
+clicktalecdn.sslcs.cdngc.net
+s.clicktale.net
+ssl2.cdngc.net
+sslcs.cdngc.net
+www07.clicktale.net
+
+# --- MICROSOFT CLARITY | Aktif (Ücretsiz) (29 domain) ---
+a.clarity.ms
+b.clarity.ms
+c.clarity.ms
+clarity.ms
+d.clarity.ms
+e.clarity.ms
+f.clarity.ms
+g.clarity.ms
+h.clarity.ms
+i.clarity.ms
+j.clarity.ms
+k.clarity.ms
+l.clarity.ms
+m.clarity.ms
+n.clarity.ms
+o.clarity.ms
+p.clarity.ms
+q.clarity.ms
+r.clarity.ms
+s.clarity.ms
+scripts.clarity.ms
+t.clarity.ms
+u.clarity.ms
+v.clarity.ms
+w.clarity.ms
+www.clarity.ms
+x.clarity.ms
+y.clarity.ms
+z.clarity.ms
+
+# --- SESSIONSTACK | Aktif (AI-enhanced) (5 domain) ---
+api.sessionstack.com
+cdn.sessionstack.com
+ingest.sessionstack.com
+sessionstack.com
+www.sessionstack.com
+
+# --- SESSION REWIND | Aktif (5 domain) ---
+api.sessionrewind.com
+cdn.sessionrewind.com
+recorder.sessionrewind.com
+sessionrewind.com
+www.sessionrewind.com
+
+
+### CORE SESSION REPLAY — TIER 2 (Enterprise)
+
+# --- QUANTUM METRIC | Aktif (Cloudflare CDN) (4 domain) ---
+api.quantummetric.com
+cdn.quantummetric.com
+collector.quantummetric.com
+quantummetric.com
+
+# --- GLASSBOX | Aktif — SessionCam dahil (Alicorn PE 2024) (10 domain) ---
+api.glassbox.com
+api.glassboxdigital.com
+cdn.glassbox.com
+cdn.glassboxdigital.com
+collector.glassbox.com
+collector.glassbox.digital
+gateway.glassboxdigital.com
+glassbox.com
+glassbox.digital
+glassboxdigital.com
+
+# --- DECIBEL → MEDALLIA DXA | Medallia (Mart 2021) (9 domain) ---
+api.decibelinsight.net
+cdn.decibelinsight.net
+cdn.medallia.com
+collector.medallia.com
+decibelinsight.com
+decibelinsight.net
+digital.medallia.com
+dxi.decibelinsight.net
+medallia.com
+
+
+### HEATMAP PLATFORMLARI
+
+# --- PTENGINE | Aktif (10 domain) ---
+api.ptengine.com
+cdn.ptengine.com
+cdn.ptengine.jp
+js.ptengine.jp
+ptengine.com
+ptengine.jp
+t.ptengine.com
+t.ptengine.jp
+www.ptengine.com
+www.ptengine.jp
+
+# --- HEATMAP.COM | Aktif (6 domain) ---
+api.heatmap.com
+cdn.heatmap.com
+heatmap.com
+js.heatmap.com
+preprocessor.heatmap.com
+track.heatmap.com
+
+
+### MOBİL SESSION REPLAY
+
+# --- UXCAM | Aktif (7 domain) ---
+api.uxcam.com
+eu.uxcam.com
+sdk.uxcam.com
+upload.uxcam.com
+us.uxcam.com
+uxcam.com
+web.uxcam.com
+
+
+### AÇIK KAYNAK SESSION REPLAY
+
+# --- OPENREPLAY | Aktif (self-hosted / cloud) (4 domain) ---
+api.openreplay.com
+ingest.openreplay.com
+openreplay.com
+static.openreplay.com
+
+
+### LEGACY PLATFORMLAR
+
+# --- TEALEAF / ACOUSTIC (IBM) | Acoustic olarak devam ediyor (14 domain) ---
+acoustic.co
+acoustic.com
+api.acoustic.com
+api.tealeaf.com
+cdn.goacoustic.com
+cloud.tealeaf.com
+collector.acoustic.co
+collector.tealeaf.goacoustic.com
+goacoustic.com
+libs.acoustic.co
+tealeaf.com
+tealeaf.ibmcloud.com
+tealeafcloud.com
+www.acoustic.com
+
+# --- VISITOR ANALYTICS / TWIPLA | Aktif (9 domain) ---
+api.twipla.com
+api.visitor-analytics.io
+cdn.twipla.com
+cdn.visitor-analytics.io
+lb-api.visitor-analytics.io
+twipla.com
+va-endpoint.com
+visitor-analytics.io
+www.twipla.com
+
+
+### YENİ / GELİŞMEKTE OLAN PLATFORMLAR
+
+# --- PLERDY | Aktif (7 domain) ---
+a.plerdy.com
+cdn.plerdy.com
+d.plerdy.com
+p.plerdy.com
+plerdy.com
+v.plerdy.com
+www.plerdy.com
+
+# --- WEBMAXY ANALYZER | Aktif (8 domain) ---
+script.webmaxy.com
+static.webmaxy.com
+surveystats.webmaxy.io
+vars.webmaxy.com
+vc.webmaxy.io
+webmaxy.co
+webmaxy.com
+webmaxy.io
+
+# --- ZIPY | Aktif (AI-powered) (7 domain) ---
+api.zipy.ai
+cdn.zipy.ai
+ingest.zipy.ai
+sdk.zipy.ai
+store.zipy.ai
+www.zipy.ai
+zipy.ai
+
+# --- LIVESESSION | Aktif (5 domain) ---
+api.livesession.io
+cdn.livesession.io
+livesession.io
+rs.livesession.io
+ws.livesession.io
