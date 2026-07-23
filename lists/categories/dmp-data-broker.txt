@@ -1,0 +1,330 @@
+# ============================================================
+# DMP & Data Broker Blocklist 
+# Total domains: 244
+# Last update: 16-7-26
+# ============================================================
+
+🔴 VERİ BROKER'LAR & DMP  (198 domain)
+===============================================
+
+# ACXIOM (17 domain)
+acxiom.com
+acxiom.net
+acxiom.uk
+acxiom.co.uk
+acxiom.de
+acxiom.fr
+acxiom.asia
+acxiom.com.au
+acxiom.jp
+acxiom-online.com
+acxiomdigital.com
+recognicorp.com
+cdn.acxiom.com
+data.acxiom.com
+abilitec.acxiom.com
+identitylink.acxiom.com
+t.acxiom-online.com
+
+# EXPERIAN (5 domain)
+experianmarketingservices.com !
+audienceiq.com
+hitwise.com
+eccmp.com !
+ats.eccmp.com
+
+# EPSILON (4 domain)
+conversantmedia.com
+conversantmedia.eu
+abacus.epsilon.com
+agilityone.epsilon.com
+
+# ORACLE DATA CLOUD (BlueKai DMP) (9 domain)
+bluekai.com
+bkrtx.com
+tags.bluekai.com
+tags.bkrtx.com
+oracleinfinity.io
+data.oracleinfinity.io
+datalogix.com
+api.datalogix.com
+pixel.datalogix.com
+
+# LOTAME (23 domain)
+lotame.com
+lotame.io
+api.lotame.com
+bcp.lotame.com
+crwdcntrl.net
+tags.crwdcntrl.net
+bcp.crwdcntrl.net
+sync.crwdcntrl.net
+pixel.crwdcntrl.net
+ad.crwdcntrl.net
+id.crwdcntrl.net
+td.crwdcntrl.net
+td2.crwdcntrl.net
+meez.crwdcntrl.net
+multiply.crwdcntrl.net
+crowdcontrol.lotame.com
+widgets.lotame.com
+resources.lotame.com
+ltmsphrcl.net
+c.ltmsphrcl.net
+bcp.st.crwdcntrl.net
+c.st.ltmsphrcl.net
+ts.crwdcntrl.net
+
+# EYEOTA (6 domain)
+eyeota.net
+eyeota.com
+ps.eyeota.net
+api.eyeota.net
+match.eyeota.net
+sync.eyeota.net
+
+# TRANSUNION (TruAudience + Neustar) (8 domain)
+truoptik.com
+api.transunion.com
+connect.transunion.com
+signal.truoptik.com
+trusignal.com
+truaudience.com
+truaudience.transunion.com
+truaudience.tru-signal.com
+
+# WILAND (2 domain)
+wiland.com
+api.wiland.com
+
+# MERKLE (Dentsu Aegis) (9 domain)
+merkle.com
+merkleinc.com
+api.merkle.com
+merkleresponse.com
+merkury.dentsu.com
+dentsu.com
+dentsu.co.jp
+m1.merkle.com
+4cite.com
+
+# BOMBORA (B2B intent data) (5 domain)
+bombora.com
+api.bombora.com
+surge.bombora.com
+tag.bombora.com
+netfactor.com
+
+# ZOOMINFO (9 domain)
+zoominfo.com
+zoom.info
+discoverorg.com
+api.zoominfo.com
+websights.zoominfo.com
+ws.zoominfo.com
+tag.zoominfo.com
+formcomplete.zoominfo.com
+clickagy.com
+
+# CLEARBIT (HubSpot Breeze Intelligence) (13 domain)
+clearbit.com
+api.clearbit.com
+reveal.clearbit.com
+prospector.clearbit.com
+connect.clearbit.com
+person.clearbit.com
+company.clearbit.com
+risk.clearbit.com
+discovery.clearbit.com
+name2domain.clearbit.com
+person-stream.clearbit.com
+stream.clearbit.com
+d2ojpxxtu63wzl.cloudfront.net
+
+# FULLCONTACT (Ziff Davis) (8 domain)
+fullcontact.com
+api.fullcontact.com
+resolve.fullcontact.com
+img.fullcontact.com
+tag.fullcontact.com
+cr.fullcontact.com
+streme.fullcontact.com
+ziffmedia.com
+
+# TOWERDATA / ATDATA (6 domain)
+towerdata.com
+rapleaf.com
+api.towerdata.com
+intelligence.towerdata.com
+atdata.com
+api.atdata.com
+
+# INFUTOR (4 domain)
+infutor.com
+api.infutor.com
+data.infutor.com
+sedt.infutor.com
+
+# STIRISTA (2 domain)
+stirista.com
+api.stirista.com
+
+# TAPAD (Cross-device — Experian) (3 domain)
+tapad.com
+api.tapad.com
+tapestry.tapad.com
+
+# ANALYTICS IQ (2 domain)
+analytics-iq.com
+api.analytics-iq.com
+
+# PERMUTIVE (DMP) (7 domain)
+permutive.com
+permutive.app
+api.permutive.com
+api.permutive.app
+cdn.permutive.app
+amp.permutive.app
+edge.permutive.app
+
+# DUN & BRADSTREET (10 domain)
+dnb.com
+direct.dnb.com
+plus.dnb.com
+api.dnb.com
+developer.dnb.com
+finance.dnb.com
+risk.dnb.com
+dunandbradstreet.com
+bisnode.com
+avention.com
+
+# NIELSEN MARKETING CLOUD / EXELATE (5 domain)
+exelate.com
+exelate.info
+nmc.nielsen.com
+nielsen.com
+mrpdata.net
+
+# DATA AXLE (eski Infogroup) (9 domain)
+data-axle.com
+infogroup.com
+exactdata.com
+donorbase.com
+lakegroupmedia.com
+referenceusa.com
+salesgenie.com
+listgiant.com
+adstradata.com
+
+# NAVEGG (LATAM DMP) (28 domain)
+navegg.com
+navegg.com.br
+www2.navegg.com
+navdmp.com
+tag.navdmp.com
+cdn.navdmp.com
+sync.navdmp.com
+sync2.navdmp.com
+usr.navdmp.com
+cus.navdmp.com
+cus2.navdmp.com
+view.navdmp.com
+opi.navdmp.com
+amp.navdmp.com
+j.navdmp.com
+mx.navdmp.com
+www.navdmp.com
+cd.navdmp.com
+mcd.navdmp.com
+acd.navdmp.com
+mcdn.navdmp.com
+acdn.navdmp.com
+iscd.navdmp.com
+iscdn.navdmp.com
+isapp.navdmp.com
+asapp.navdmp.com
+musr.navdmp.com
+vht.navdmp.com
+
+# THROTLE (Identity resolution) (1 domain)
+throtle.io
+
+# CORELOGIC → COTALITY (3 domain)
+corelogic.com
+cotality.com
+dataquick.com
+
+
+🟠 MOBİL DATA BROKER'LAR (Location Tracking)  (46 domain)
+===============================================
+
+# FACTUAL / FOURSQUARE (1 domain)
+factual.com
+
+# SAFEGRAPH (4 domain)
+safegraph.com
+safegraph.io
+api.safegraph.com
+mobility.safegraph.com
+
+# CUEBIQ (4 domain)
+cuebiq.com
+api.cuebiq.com
+sdk.cuebiq.com
+events.cuebiq.com
+
+# MOBILEWALLA (FTC Aralık 2024 kısıtladı) (3 domain)
+mobilewalla.com
+api.mobilewalla.com
+sdk.mobilewalla.com
+
+# ADSQUARE (5 domain)
+adsquare.com
+api.adsquare.com
+exchange.adsquare.com
+rtb.adsquare.com
+match.adsquare.com
+
+# PLACED (Foursquare-owned) (1 domain)
+placed.com
+
+# UBIMO → VERICAST (2 domain)
+ubimo.com
+api.ubimo.com
+
+# VERVE GROUP (14 domain)
+verve.com
+vervemobile.com
+vrvm.com
+api.verve.com
+adcel.vrvm.com
+ad.vrvm.com
+analytics-api.vervemobile.com
+smaato.com
+smaato.net
+pubnative.net
+dataseat.com
+captify.co
+captify.co.uk
+jungroup.com
+
+# UNACAST + GRAVY ANALYTICS (FTC Ocak 2025 kısıtladı) (5 domain)
+unacast.com
+api.unacast.com
+gravyanalytics.com
+api.gravyanalytics.com
+venntel.com
+
+# OUTLOGIC (eski X-Mode — FTC Nisan 2024 kısıtladı) (1 domain)
+outlogic.io
+
+# NEAR → AZIRA (Chapter 11 — Azira olarak devam ediyor) (4 domain)
+near.co
+near.com
+api.near.co
+azira.com
+
+# INMARKET (FTC Ocak 2024 kısıtladı) (2 domain)
+inmarket.com
+sdk.inmarket.com
