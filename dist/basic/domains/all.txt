@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1243
+# Total domains: 1262
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -120,10 +120,12 @@ analytics-iq.com
 analytics-pbl.vivino.com
 analytics.1password.com
 analytics.abema.tv
+analytics.anydesk.com
 analytics.api.brightcove.com
 analytics.appsflyer.com
 analytics.bear.app
 analytics.beermenus.com
+analytics.beyondtrust.com
 analytics.bilibili.com
 analytics.binge.com.au
 analytics.blim.com
@@ -135,6 +137,7 @@ analytics.cbsaavideo.com
 analytics.cellarpass.com
 analytics.clarovideo.com
 analytics.clickbank.com
+analytics.connectwise.com
 analytics.conviva.com
 analytics.corsair.com
 analytics.craft.do
@@ -154,6 +157,7 @@ analytics.enpass.io
 analytics.espn.com
 analytics.evernote.com
 analytics.fandangoathome.com
+analytics.fixme.it
 analytics.fleksy.com
 analytics.fubo.tv
 analytics.gingersoftware.com
@@ -171,6 +175,7 @@ analytics.kidoodle.tv
 analytics.komoot.com
 analytics.lastpass.com
 analytics.logitech.com
+analytics.logmein.com
 analytics.mapbox.com
 analytics.maps.me
 analytics.max.com
@@ -186,6 +191,7 @@ analytics.nebula.tv
 analytics.netflix.com
 analytics.nicovideo.jp
 analytics.noggin.com
+analytics.nomachine.com
 analytics.nordpass.com
 analytics.obsidian.md
 analytics.paramountplus.com
@@ -200,6 +206,8 @@ analytics.prageru.com
 analytics.protected.media
 analytics.rakutenmarketing.com
 analytics.razerzone.com
+analytics.realvnc.com
+analytics.remotepc.com
 analytics.roamresearch.com
 analytics.roboform.com
 analytics.rtlplus.com
@@ -208,10 +216,12 @@ analytics.shazam.com
 analytics.simplenote.com
 analytics.skyshowtime.com
 analytics.soundhound.com
+analytics.splashtop.com
 analytics.stan.com.au
 analytics.steelseries.com
 analytics.stickypassword.com
 analytics.taphunter.com
+analytics.teamviewer.com
 analytics.tradedoubler.com
 analytics.tubitv.com
 analytics.tv.apple.com
@@ -785,6 +795,7 @@ metrics.skyshowtime.com
 metrics.soundhound.com
 metrics.stan.com.au
 metrics.steelseries.com
+metrics.teamviewer.com
 metrics.tubitv.com
 metrics.tving.com
 metrics.viaplay.com
@@ -1028,8 +1039,10 @@ tealeaf.ibmcloud.com
 tealeafcloud.com
 telemetry.1password.com
 telemetry.1passwordservices.com
+telemetry.anydesk.com
 telemetry.api.swiftkey.com
 telemetry.bamgrid.com
+telemetry.beyondtrust.com
 telemetry.bitmovin.com
 telemetry.corsair.com
 telemetry.crunchyroll.com
@@ -1041,6 +1054,7 @@ telemetry.hotstar.com
 telemetry.hulu.com
 telemetry.insights.video.a2z.com
 telemetry.logitechg.com
+telemetry.logmein.com
 telemetry.mapbox.com
 telemetry.max.com
 telemetry.mux.com
@@ -1050,13 +1064,17 @@ telemetry.peacocktv.com
 telemetry.pluto.tv
 telemetry.proton.me
 telemetry.razer.com
+telemetry.remotepc.com
 telemetry.roccat.com
 telemetry.shazam.com
 telemetry.soundhound.com
+telemetry.splashtop.com
 telemetry.steelseries.com
+telemetry.teamviewer.com
 telemetry.tubitv.com
 telemetry.untappd.com
 telemetry.vivino.com
+telemetry.zoho.com
 telemetrydoc.swiftkey.com
 throtle.io
 timeone.fr
@@ -1109,6 +1127,7 @@ tracking.pepperjam.com
 tracking.rakutenmarketing.com
 tracking.razer.com
 tracking.shareasale.com
+tracking.teamviewer.com
 tracking.toroadvertising.com
 tracking.tradedoubler.com
 tracking.tubitv.com
