@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3566
+# Total domains: 3585
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -310,6 +310,7 @@
 0.0.0.0 analytics.booksy.com
 0.0.0.0 analytics.boomy.com
 0.0.0.0 analytics.boosteroid.com
+0.0.0.0 analytics.box.com
 0.0.0.0 analytics.brain.fm
 0.0.0.0 analytics.branch.io
 0.0.0.0 analytics.britbox.com
@@ -453,6 +454,7 @@
 0.0.0.0 analytics.imtranslator.net
 0.0.0.0 analytics.incode.com
 0.0.0.0 analytics.indrive.com
+0.0.0.0 analytics.infomaniak.com
 0.0.0.0 analytics.insighttimer.com
 0.0.0.0 analytics.iono.fm
 0.0.0.0 analytics.ipvanish.com
@@ -1039,6 +1041,7 @@
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bcp.lotame.com
 0.0.0.0 bcp.st.crwdcntrl.net
+0.0.0.0 beacon.dropbox.com
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.pluto.tv
 0.0.0.0 beacon.retargeter.com
@@ -1229,6 +1232,9 @@
 0.0.0.0 clicktale.net
 0.0.0.0 clicktale.pantherssl.com
 0.0.0.0 clicktalecdn.sslcs.cdngc.net
+0.0.0.0 client-analytics.dropbox.com
+0.0.0.0 client-log.box.com
+0.0.0.0 client-log.dropbox.com
 0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 client-telemetry.us-east-1.amazonaws.com
 0.0.0.0 clientlogs.tunnelbear.com
@@ -1314,6 +1320,7 @@
 0.0.0.0 crash-reports.hulu.com
 0.0.0.0 crash-reports.logitech.com
 0.0.0.0 crash-reports.netflix.com
+0.0.0.0 crash-reports.owncloud.com
 0.0.0.0 crash.bamgrid.com
 0.0.0.0 crash.corsair.com
 0.0.0.0 crash.cyberlink.com
@@ -1717,6 +1724,7 @@
 0.0.0.0 graphql.adikteev.com
 0.0.0.0 graphql.remerge.io
 0.0.0.0 gravyanalytics.com
+0.0.0.0 graylog.owncloud.com
 0.0.0.0 grid-bidder.criteo.com
 0.0.0.0 grindr-analytics.com
 0.0.0.0 grtyv.com
@@ -1907,6 +1915,7 @@
 0.0.0.0 log.alipay.com
 0.0.0.0 log.buymeacoffee.com
 0.0.0.0 log.facemoji.com
+0.0.0.0 log.getdropbox.com
 0.0.0.0 log.inkitt.com
 0.0.0.0 log.nordvpn.com
 0.0.0.0 log.onesignal.com
@@ -1916,6 +1925,7 @@
 0.0.0.0 log.strm.yango.com
 0.0.0.0 log.stubhub.com
 0.0.0.0 log.svc.screencastify.com
+0.0.0.0 log.tresorit.com
 0.0.0.0 log.zoom.us
 0.0.0.0 log01.mtv.squareup.com
 0.0.0.0 logfiles.zoom.us
@@ -1992,6 +2002,7 @@
 0.0.0.0 mactonic.com
 0.0.0.0 mactonic.net
 0.0.0.0 marketing-tracker.babbel.com
+0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.flo.health
 0.0.0.0 mars.vive.com
 0.0.0.0 match.adsquare.com
@@ -2447,6 +2458,7 @@
 0.0.0.0 realtime.remerge.io
 0.0.0.0 realtime.youbora.com
 0.0.0.0 realtime.zetaglobal.com
+0.0.0.0 realtimeanalytics.yext.com
 0.0.0.0 rec.smartlook.com
 0.0.0.0 recimg.com
 0.0.0.0 recognicorp.com
@@ -2478,6 +2490,7 @@
 0.0.0.0 replay.sentry.io
 0.0.0.0 report-eu.appmetrica.yango.com
 0.0.0.0 report.appmetrica.yango.com
+0.0.0.0 reqstat.api.mega.co.nz
 0.0.0.0 research-metrics.corp.playgroundai.com
 0.0.0.0 resolve.fullcontact.com
 0.0.0.0 resolve.zetaglobal.com
@@ -2775,6 +2788,7 @@
 0.0.0.0 stats.iqiyi.com
 0.0.0.0 stats.ivpn.net
 0.0.0.0 stats.jdownloader.org
+0.0.0.0 stats.jottacloud.com
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.kaspersky.com
 0.0.0.0 stats.libsyn.com
@@ -2795,6 +2809,7 @@
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.rarible.com
 0.0.0.0 stats.raspberrypi.org
+0.0.0.0 stats.sfu.mega.co.nz
 0.0.0.0 stats.shouldianswer.net
 0.0.0.0 stats.speedbit.com
 0.0.0.0 stats.stronglifts.com
@@ -2947,6 +2962,7 @@
 0.0.0.0 telemetry.divx.com
 0.0.0.0 telemetry.docker.com
 0.0.0.0 telemetry.dreamtonics.com
+0.0.0.0 telemetry.dropbox.com
 0.0.0.0 telemetry.duosecurity.com
 0.0.0.0 telemetry.ea.com
 0.0.0.0 telemetry.elementary.io
@@ -3012,6 +3028,7 @@
 0.0.0.0 telemetry.openai.com
 0.0.0.0 telemetry.opensea.io
 0.0.0.0 telemetry.opensuse.org
+0.0.0.0 telemetry.owncloud.com
 0.0.0.0 telemetry.paramountplus.com
 0.0.0.0 telemetry.passmark.com
 0.0.0.0 telemetry.peacocktv.com
@@ -3095,6 +3112,7 @@
 0.0.0.0 track.aitype.com
 0.0.0.0 track.akamai.com
 0.0.0.0 track.appsflyer.com
+0.0.0.0 track.box.com
 0.0.0.0 track.branch.io
 0.0.0.0 track.capitaloneshopping.com
 0.0.0.0 track.cg.wine.com
@@ -3126,6 +3144,7 @@
 0.0.0.0 track.heatmap.com
 0.0.0.0 track.helloclue.com
 0.0.0.0 track.hellofresh.com
+0.0.0.0 track.infomaniak.com
 0.0.0.0 track.kajabi.com
 0.0.0.0 track.kakao.com
 0.0.0.0 track.kindara.com

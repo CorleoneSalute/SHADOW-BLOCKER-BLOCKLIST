@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3637
+# Total domains: 3657
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -323,6 +323,7 @@
 ||analytics.booksy.com^
 ||analytics.boomy.com^
 ||analytics.boosteroid.com^
+||analytics.box.com^
 ||analytics.brain.fm^
 ||analytics.branch.io^
 ||analytics.britbox.com^
@@ -466,6 +467,7 @@
 ||analytics.imtranslator.net^
 ||analytics.incode.com^
 ||analytics.indrive.com^
+||analytics.infomaniak.com^
 ||analytics.insighttimer.com^
 ||analytics.iono.fm^
 ||analytics.ipvanish.com^
@@ -1056,6 +1058,7 @@
 ||bcp.crwdcntrl.net^
 ||bcp.lotame.com^
 ||bcp.st.crwdcntrl.net^
+||beacon.dropbox.com^
 ||beacon.netflix.com^
 ||beacon.pluto.tv^
 ||beacon.retargeter.com^
@@ -1252,6 +1255,9 @@
 ||clicktale.net^
 ||clicktale.pantherssl.com^
 ||clicktalecdn.sslcs.cdngc.net^
+||client-analytics.dropbox.com^
+||client-log.box.com^
+||client-log.dropbox.com^
 ||client-telemetry.roblox.com^
 ||client-telemetry.us-east-1.amazonaws.com^
 ||clientlogs.tunnelbear.com^
@@ -1338,6 +1344,7 @@
 ||crash-reports.hulu.com^
 ||crash-reports.logitech.com^
 ||crash-reports.netflix.com^
+||crash-reports.owncloud.com^
 ||crash.bamgrid.com^
 ||crash.corsair.com^
 ||crash.cyberlink.com^
@@ -1511,6 +1518,7 @@
 ||driverturbo.com^
 ||driverupdate.net^
 ||drivescrubber.com^
+||dropboxexperiment.com^
 ||drp.su^
 ||dsp.zetaglobal.com^
 ||dsstat.kaspersky.com^
@@ -1750,6 +1758,7 @@
 ||graphql.adikteev.com^
 ||graphql.remerge.io^
 ||gravyanalytics.com^
+||graylog.owncloud.com^
 ||grid-bidder.criteo.com^
 ||grindr-analytics.com^
 ||grtyv.com^
@@ -1945,6 +1954,7 @@
 ||log.alipay.com^
 ||log.buymeacoffee.com^
 ||log.facemoji.com^
+||log.getdropbox.com^
 ||log.inkitt.com^
 ||log.nordvpn.com^
 ||log.onesignal.com^
@@ -1954,6 +1964,7 @@
 ||log.strm.yango.com^
 ||log.stubhub.com^
 ||log.svc.screencastify.com^
+||log.tresorit.com^
 ||log.zoom.us^
 ||log01.mtv.squareup.com^
 ||logfiles.zoom.us^
@@ -2030,6 +2041,7 @@
 ||mactonic.com^
 ||mactonic.net^
 ||marketing-tracker.babbel.com^
+||marketing.dropbox.com^
 ||marketing.flo.health^
 ||mars.vive.com^
 ||match.adsquare.com^
@@ -2499,6 +2511,7 @@
 ||realtime.remerge.io^
 ||realtime.youbora.com^
 ||realtime.zetaglobal.com^
+||realtimeanalytics.yext.com^
 ||rec.smartlook.com^
 ||receive.p01.lp1.er.srv.nintendo.net^
 ||recimg.com^
@@ -2532,6 +2545,7 @@
 ||replay.sentry.io^
 ||report-eu.appmetrica.yango.com^
 ||report.appmetrica.yango.com^
+||reqstat.api.mega.co.nz^
 ||research-metrics.corp.playgroundai.com^
 ||resolve.fullcontact.com^
 ||resolve.zetaglobal.com^
@@ -2832,6 +2846,7 @@
 ||stats.iqiyi.com^
 ||stats.ivpn.net^
 ||stats.jdownloader.org^
+||stats.jottacloud.com^
 ||stats.kaltura.com^
 ||stats.kaspersky.com^
 ||stats.libsyn.com^
@@ -2852,6 +2867,7 @@
 ||stats.pusher.com^
 ||stats.rarible.com^
 ||stats.raspberrypi.org^
+||stats.sfu.mega.co.nz^
 ||stats.shouldianswer.net^
 ||stats.speedbit.com^
 ||stats.stronglifts.com^
@@ -3004,6 +3020,7 @@
 ||telemetry.divx.com^
 ||telemetry.docker.com^
 ||telemetry.dreamtonics.com^
+||telemetry.dropbox.com^
 ||telemetry.duosecurity.com^
 ||telemetry.ea.com^
 ||telemetry.elementary.io^
@@ -3069,6 +3086,7 @@
 ||telemetry.openai.com^
 ||telemetry.opensea.io^
 ||telemetry.opensuse.org^
+||telemetry.owncloud.com^
 ||telemetry.paramountplus.com^
 ||telemetry.passmark.com^
 ||telemetry.peacocktv.com^
@@ -3152,6 +3170,7 @@
 ||track.aitype.com^
 ||track.akamai.com^
 ||track.appsflyer.com^
+||track.box.com^
 ||track.branch.io^
 ||track.capitaloneshopping.com^
 ||track.cg.wine.com^
@@ -3183,6 +3202,7 @@
 ||track.heatmap.com^
 ||track.helloclue.com^
 ||track.hellofresh.com^
+||track.infomaniak.com^
 ||track.kajabi.com^
 ||track.kakao.com^
 ||track.kindara.com^

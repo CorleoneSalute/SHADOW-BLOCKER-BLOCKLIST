@@ -1,0 +1,26 @@
+# ============================================================
+# CLOUD STORAGE BLOCKLIST - BASIC
+# Total domains: 19
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 analytics.box.com
+0.0.0.0 analytics.infomaniak.com
+0.0.0.0 beacon.dropbox.com
+0.0.0.0 client-analytics.dropbox.com
+0.0.0.0 client-log.box.com
+0.0.0.0 client-log.dropbox.com
+0.0.0.0 crash-reports.owncloud.com
+0.0.0.0 graylog.owncloud.com
+0.0.0.0 log.getdropbox.com
+0.0.0.0 log.tresorit.com
+0.0.0.0 marketing.dropbox.com
+0.0.0.0 realtimeanalytics.yext.com
+0.0.0.0 reqstat.api.mega.co.nz
+0.0.0.0 stats.jottacloud.com
+0.0.0.0 stats.sfu.mega.co.nz
+0.0.0.0 telemetry.dropbox.com
+0.0.0.0 telemetry.owncloud.com
+0.0.0.0 track.box.com
+0.0.0.0 track.infomaniak.com
