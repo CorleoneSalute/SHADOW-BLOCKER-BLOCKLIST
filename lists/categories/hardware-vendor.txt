@@ -1,0 +1,199 @@
+# ================================================
+# HARDWARE VENDOR BLOCKLIST 
+# Domain sayısı: 160
+# Son güncelleme: 2026-07-20
+# ================================================
+
+# --- NVIDIA GeForce Experience / NVIDIA App ---
+telemetry.gfe.nvidia.com 
+ls.dtrace.nvidia.com
+events-dc1.gfe.nvidia.com
+events-lon1.gfe.nvidia.com
+events.gfestage.nvidia.com
+telemetry.gfestage.nvidia.com
+beta.telemetry.gfe.nvidia.com
+telemetry.nvidia.com
+nvidia.tt.omtrdc.net
+events.api.nvidia.com
+events.gfe.nvidia.com
+nvcrashreporter.nvidia.com
+crashreports.nvidia.com
+nvidia.telemetry.internet.microsoft.com
+api.commune.ly
+events.telemetry.data.nvidia.cn
+analytics.nvidiagrid.net
+metrics.telemetry.data.nvidia.cn
+telemetry.data.nvidia.cn
+analytics.geforcenow.com
+telemetry.geforcenow.com
+tracking.geforcenow.com
+metrics.geforcenow.com
+analytics.navigator-app.nvidia.com
+analytics.learn.nvidia.com
+api.xlogs.nvidia.com
+events.telemetry.data.nvidia.com
+metrics.telemetry.data.nvidia.com
+metrics.teleport.nvidia.com ! # GeForce Now streaming oturum kalitesi ve bağlantı yönetimi etkilenebilir.
+metrics.kaizen.nvidia.com
+telemetry.data.nvidia.com
+
+# --- AMD Software / Ryzen Master ---
+statistics.amd.com
+telemetry.amd.com
+feedback.amd.com
+data.amd.com
+metrics.amd.com
+crashreports.amd.com
+events.amd.com
+acc-analytics.amd.com
+acp-analytics.amd.com
+ontrack.amd.com
+smetrics.amd.com
+analytics.openhands.amd.com
+ontrack-lnx.amd.com
+
+# --- Intel DSA / XTU / Arc Control ---
+dsadata.intel.com
+telemetry.intel.com
+idstelemetry.intel.com
+metrics.intel.com
+crashreports.intel.com
+a.analytics.intel.com
+a1.analytics.intel.com
+a2.analytics.intel.com
+a3.analytics.intel.com
+a4.analytics.intel.com
+a5.analytics.intel.com
+analytics.intel.com
+analytics.softwareimprovement.intel.com
+api.s.telemetry.intel.com
+audienceanalytics.intel.com
+bt.s.telemetry.intel.com
+c-all.telemetry.intel.com
+c.telemetry.intel.com
+c1.telemetry.intel.com
+c2.telemetry.intel.com
+c3.telemetry.intel.com
+c4.telemetry.intel.com
+c5.telemetry.intel.com
+c6.telemetry.intel.com
+c7.telemetry.intel.com
+c8.telemetry.intel.com
+c9.telemetry.intel.com
+clear-telemetry.jf.intel.com
+clr.telemetry.intel.com
+collector.intel.com
+messagecenterlog.intel.com
+messagecenterlog-dr.intel.com
+telemetrydata.intel.com
+tracker.or.intel.com
+footprints.intel.com
+
+# --- Dell SupportAssist / Alienware Command Center ---
+ad.jp.dell.com
+ad1.gtie.dell.com
+ad2.gtie.dell.com
+ad3.gtie.dell.com
+pc-clarity.us.dell.com
+dellmetrics.com
+telemetry.dell.com
+analytics.dell.com
+ausdimetrics.aus.amer.dell.com
+click-analytics.dell.com
+datacollector.dell.com
+datacollectorpc1-bigip.us.dell.com
+geologgeran.us.dell.com
+geologgerbn.us.dell.com
+geologgera1.geodell.dell.com
+gssganalytics.dell.com
+imaginganalytics.dcca.dell.com
+jpstometrics1.jp.dell.com
+log.pgre.dell.com
+log2.pgre.dell.com
+metrics.jp.dell.com
+metrics.dmsp.dell.com
+metrics.ols.us.dell.com
+metrix.ols.us.dell.com
+
+# --- HP Telemetry / OMEN Hub ---
+metrics.hp.com
+hptouchpointanalytics.com
+telemetry.hp.com
+analytics.hp.com
+analytics.hptouchpoint.com
+feedback2.hp.com
+touchpointanalytics.hp.com
+hpanalytics.net
+hppstelemetry.com
+
+# --- Lenovo Vantage ---
+telemetry.lenovo.com
+metrics.lenovo.com
+analytics.lenovo.com
+click.lenovo.com
+log-smart.lenovo.com
+logs.dds.lenovo.com
+metrics.qira.lenovo.com
+qstanalytics.lenovo.com
+trk.ecomm.lenovo.com
+ad-sdk.lenovomm.com
+ad-trace.lenovomm.com
+
+# --- Purism ---
+tracker.puri.sm
+trackr.puri.sm
+stats.puri.sm
+webstats.puri.sm
+
+# --- ASUS ROG / Armoury Crate ---
+analytics.asus.com
+telemetry.asus.com
+crashreports.asus.com
+event.asus.com
+analysis-rog-content-platform.asus.com
+emslogs.asus.com
+eventos.asus.com
+analytics.asus.com.cn
+
+# --- MSI Dragon Center / MSI Center ---
+event.msi.com
+telemetry.msi.com
+analytics.msi.com
+crashreports.msi.com
+telemetry.appplayer.msi.com
+samstats.msi.com
+event.cn.msi.com
+
+# --- Gigabyte Control Center ---
+analytics.gigabyte.com
+telemetry.gigabyte.com
+event.gigabyte.com
+
+# --- ASRock Polychrome Sync ---
+telemetry.asrock.com
+event.asrock.com
+
+# --- Acer / PredatorSense ---
+telemetry.acer.com
+analytics.acer.com
+adspa.acer.com
+ads.acer.com
+adspa-uat.acer.com
+tracking.acer.com
+
+# --- Thermaltake TT RGB Plus ---
+telemetry.thermaltake.com
+
+# --- Turtle Beach Audio Hub ---
+analytics.turtlebeach.com
+tracking.turtlebeach.com
+
+# --- Micron ---
+tracking.micron.com
+
+# --- Killer Networking ---
+analytics.killernetworking.com
+telemetry.killernetworking.com
+
+# --- Audio Enhancement (Nahimic) ---
+telemetry.nahimic.com
