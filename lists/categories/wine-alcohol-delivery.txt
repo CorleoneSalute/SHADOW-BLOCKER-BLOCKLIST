@@ -1,0 +1,75 @@
+# Wine & Alcohol Delivery Blocklist
+
+**Toplam domain sayısı:** 27
+**Son güncelleme:** 2026-07-18
+
+## ReserveBar (2 domain)
+
+```
+logs.reservebar.com
+tracking.reservebar.com
+```
+
+## Vivino (7 domain)
+
+```
+analytics.vivino.com
+tracking.newsletter.vivino.com
+tracking.vivino.com
+trk.vivino.com
+trk1.vivino.com
+trk2.vivino.com
+trk3.vivino.com
+```
+
+## Thirstie (2 domain)
+
+```
+analytics.thirstie.com
+tracking.thirstie.com
+```
+
+## Total Wine & More (1 domain)
+
+```
+smetrics.totalwine.com
+```
+
+## Wine.com (8 domain)
+
+```
+track.cg.wine.com
+track.corp.wine.com
+track.corpgift.wine.com
+track.corpgifts.wine.com
+track.corporate.wine.com
+track.gift.wine.com
+track.gifting.wine.com
+track.winegifts.wine.com
+```
+
+## Wine Enthusiast (2 domain)
+
+```
+ads.wineenthusiast.com
+www.ads.wineenthusiast.com
+```
+
+## Tavour [Craft beer] (1 domain)
+
+```
+metrics.tavour.com
+```
+
+## Flaviar (3 domain)
+
+```
+ads-api.flaviar.com
+ads.flaviar.com
+logs.flaviar.com
+```
+
+## Majestic Wine (1 domain)
+
+```
+smetrics.majestic.co.uk
