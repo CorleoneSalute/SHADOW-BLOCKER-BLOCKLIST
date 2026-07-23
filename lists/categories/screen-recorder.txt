@@ -1,0 +1,75 @@
+# ================================================
+#  SCREEN RECORDER BLOCKLIST
+# Domain sayısı: 55
+# Son güncelleme: 2026-07-18
+# ================================================
+
+# --- TechSmith (Camtasia / Snagit) ---
+# OS sayım telemetrisi, kullanım verisi iletimi
+telemetry.techsmith.com
+analytics01.techsmith.com
+analytics03.techsmith.com
+analytics05.techsmith.com
+analytics07.techsmith.com
+analytics09.techsmith.com
+analytics11.techsmith.com
+analytics13.techsmith.com
+analytics15.techsmith.com
+analytics19.techsmith.com
+analytics21.techsmith.com
+analytics23.techsmith.com
+analytics25.techsmith.com
+analytics27.techsmith.com
+analytics28.techsmith.com
+analytics29.techsmith.com
+analytics30.techsmith.com
+analytics31.techsmith.com
+analytics32.techsmith.com
+analytics33.techsmith.com
+analytics34.techsmith.com
+analytics35.techsmith.com
+analytics36.techsmith.com
+analytics37.techsmith.com
+analytics38.techsmith.com
+analytics39.techsmith.com
+analytics40.techsmith.com
+analytics41.techsmith.com
+analytics42.techsmith.com
+analytics43.techsmith.com
+analytics44.techsmith.com
+analytics45.techsmith.com
+analytics46.techsmith.com
+analytics51.techsmith.com
+analytics52.techsmith.com
+analytics53.techsmith.com
+analytics54.techsmith.com
+analytics61.techsmith.com
+analytics62.techsmith.com
+analytics63.techsmith.com
+analytics64.techsmith.com
+analytics65.techsmith.com
+analytics66.techsmith.com
+analytics67.techsmith.com
+analytics68.techsmith.com
+
+# --- Blueberry Software (FlashBack Recorder) ---
+analytics.blueberrysoftware.com
+telemetry.flashbackrecorder.com
+feedback.flashbackrecorder.com
+fwtrack.flashbackrecorder.com
+
+# --- Mirillis (Action!) ---
+telemetry.mirillis.com
+
+# --- Loom (Atlassian) ---
+evs.sgmt.loom.com
+
+# --- ScreenPal / Screencast-O-Matic ---
+tracking.screenpal.com
+
+# --- Wondershare (DemoCreator) ---
+analytics.wondershare.cc
+
+# --- Screencastify ---
+log.svc.screencastify.com
+tracking.screencastify.com
