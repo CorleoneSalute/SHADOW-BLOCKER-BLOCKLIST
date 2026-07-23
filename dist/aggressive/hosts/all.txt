@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1688
+# Total domains: 1714
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -151,6 +151,7 @@
 0.0.0.0 analytics-origin.cod.ed.gov
 0.0.0.0 analytics-pbl.vivino.com
 0.0.0.0 analytics-portal.8x8.com
+0.0.0.0 analytics-v2.tensor.trade
 0.0.0.0 analytics.1password.com
 0.0.0.0 analytics.8x8.com
 0.0.0.0 analytics.abema.tv
@@ -168,6 +169,7 @@
 0.0.0.0 analytics.bilibili.com
 0.0.0.0 analytics.binge.com.au
 0.0.0.0 analytics.blim.com
+0.0.0.0 analytics.blur.io
 0.0.0.0 analytics.bobble.ai
 0.0.0.0 analytics.branch.io
 0.0.0.0 analytics.britbox.com
@@ -214,6 +216,7 @@
 0.0.0.0 analytics.fixme.it
 0.0.0.0 analytics.fleksy.com
 0.0.0.0 analytics.forvo.com
+0.0.0.0 analytics.foundation.app
 0.0.0.0 analytics.fubo.tv
 0.0.0.0 analytics.gikken.co
 0.0.0.0 analytics.gingersoftware.com
@@ -227,6 +230,7 @@
 0.0.0.0 analytics.hulu.com
 0.0.0.0 analytics.hyperx.com
 0.0.0.0 analytics.ieee.org
+0.0.0.0 analytics.immutable.com
 0.0.0.0 analytics.imtranslator.net
 0.0.0.0 analytics.ipvanish.com
 0.0.0.0 analytics.iqiyi.com
@@ -248,8 +252,10 @@
 0.0.0.0 analytics.lingvist.com
 0.0.0.0 analytics.logitech.com
 0.0.0.0 analytics.logmein.com
+0.0.0.0 analytics.looksrare.org
 0.0.0.0 analytics.lww.com
 0.0.0.0 analytics.lynx-r.com
+0.0.0.0 analytics.magiceden.io
 0.0.0.0 analytics.makesyoufluent.com
 0.0.0.0 analytics.mangolanguages.com
 0.0.0.0 analytics.mapbox.com
@@ -268,6 +274,8 @@
 0.0.0.0 analytics.nbcuni.com
 0.0.0.0 analytics.nebula.tv
 0.0.0.0 analytics.netflix.com
+0.0.0.0 analytics.nftgo.io
+0.0.0.0 analytics.nftscan.com
 0.0.0.0 analytics.nicovideo.jp
 0.0.0.0 analytics.noggin.com
 0.0.0.0 analytics.nomachine.com
@@ -281,6 +289,7 @@
 0.0.0.0 analytics.openai.com
 0.0.0.0 analytics.openaire.eu
 0.0.0.0 analytics.openalex.org
+0.0.0.0 analytics.opensea.io
 0.0.0.0 analytics.palteca.com
 0.0.0.0 analytics.paramountplus.com
 0.0.0.0 analytics.parsely.com
@@ -297,6 +306,7 @@
 0.0.0.0 analytics.protected.media
 0.0.0.0 analytics.purevpn.com
 0.0.0.0 analytics.rakutenmarketing.com
+0.0.0.0 analytics.rarible.com
 0.0.0.0 analytics.razerzone.com
 0.0.0.0 analytics.realvnc.com
 0.0.0.0 analytics.remotepc.com
@@ -329,11 +339,13 @@
 0.0.0.0 analytics.stickypassword.com
 0.0.0.0 analytics.strava.com
 0.0.0.0 analytics.stronglifts.com
+0.0.0.0 analytics.superrare.com
 0.0.0.0 analytics.surfshark.com
 0.0.0.0 analytics.taalhammer.com
 0.0.0.0 analytics.tandem.net
 0.0.0.0 analytics.taphunter.com
 0.0.0.0 analytics.teamviewer.com
+0.0.0.0 analytics.tensor.trade
 0.0.0.0 analytics.textra.me
 0.0.0.0 analytics.ticketmaster.es
 0.0.0.0 analytics.tonal.com
@@ -950,6 +962,7 @@
 0.0.0.0 logger.scite.ai
 0.0.0.0 logging.bamgrid.com
 0.0.0.0 logging.netflix.com
+0.0.0.0 logging.rarible.com
 0.0.0.0 logr-in.com
 0.0.0.0 logr-ingest.com
 0.0.0.0 logrocket.com
@@ -1257,8 +1270,11 @@
 0.0.0.0 sdk.zipy.ai
 0.0.0.0 searchad.naver.com
 0.0.0.0 sedt.infutor.com
+0.0.0.0 segment-api.rarible.com
+0.0.0.0 segment-cdn.rarible.com
 0.0.0.0 segment.beermenus.com
 0.0.0.0 segment.delectable.com
+0.0.0.0 segment.opensea.io
 0.0.0.0 segment.taphunter.com
 0.0.0.0 segment.untappd.com
 0.0.0.0 segment.vivino.com
@@ -1324,6 +1340,7 @@
 0.0.0.0 stats.apps.allenai.org
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.bilibili.com
+0.0.0.0 stats.blur.io
 0.0.0.0 stats.calldorado.com
 0.0.0.0 stats.corsair.com
 0.0.0.0 stats.expressvpn.com
@@ -1332,12 +1349,18 @@
 0.0.0.0 stats.iqiyi.com
 0.0.0.0 stats.ivpn.net
 0.0.0.0 stats.kaltura.com
+0.0.0.0 stats.looksrare.org
+0.0.0.0 stats.magiceden.io
 0.0.0.0 stats.nicovideo.jp
 0.0.0.0 stats.nordvpn.com
+0.0.0.0 stats.opensea.io
+0.0.0.0 stats.rarible.com
 0.0.0.0 stats.stronglifts.com
 0.0.0.0 stats.subscribestar.adult
+0.0.0.0 stats.superrare.com
 0.0.0.0 stats.surfshark.com
 0.0.0.0 stats.tandf.co.uk
+0.0.0.0 stats.tensor.trade
 0.0.0.0 stats.uscreen.io
 0.0.0.0 stats.waze.com
 0.0.0.0 stats.youku.com
@@ -1406,6 +1429,7 @@
 0.0.0.0 telemetry.hide.me
 0.0.0.0 telemetry.hotstar.com
 0.0.0.0 telemetry.hulu.com
+0.0.0.0 telemetry.immutable.com
 0.0.0.0 telemetry.insights.video.a2z.com
 0.0.0.0 telemetry.ipvanish.com
 0.0.0.0 telemetry.logitechg.com
@@ -1417,6 +1441,7 @@
 0.0.0.0 telemetry.nzxt.com
 0.0.0.0 telemetry.okta.com
 0.0.0.0 telemetry.openai.com
+0.0.0.0 telemetry.opensea.io
 0.0.0.0 telemetry.paramountplus.com
 0.0.0.0 telemetry.peacocktv.com
 0.0.0.0 telemetry.pluto.tv
@@ -1622,6 +1647,7 @@
 0.0.0.0 webmaxy.com
 0.0.0.0 webmaxy.io
 0.0.0.0 websights.zoominfo.com
+0.0.0.0 whale-tracker.nftgo.io
 0.0.0.0 widgets.lotame.com
 0.0.0.0 wiland.com
 0.0.0.0 ws.inspectlet.com

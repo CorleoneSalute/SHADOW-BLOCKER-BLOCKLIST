@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1688
+# Total domains: 1714
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -151,6 +151,7 @@
 ||analytics-origin.cod.ed.gov^
 ||analytics-pbl.vivino.com^
 ||analytics-portal.8x8.com^
+||analytics-v2.tensor.trade^
 ||analytics.1password.com^
 ||analytics.8x8.com^
 ||analytics.abema.tv^
@@ -168,6 +169,7 @@
 ||analytics.bilibili.com^
 ||analytics.binge.com.au^
 ||analytics.blim.com^
+||analytics.blur.io^
 ||analytics.bobble.ai^
 ||analytics.branch.io^
 ||analytics.britbox.com^
@@ -214,6 +216,7 @@
 ||analytics.fixme.it^
 ||analytics.fleksy.com^
 ||analytics.forvo.com^
+||analytics.foundation.app^
 ||analytics.fubo.tv^
 ||analytics.gikken.co^
 ||analytics.gingersoftware.com^
@@ -227,6 +230,7 @@
 ||analytics.hulu.com^
 ||analytics.hyperx.com^
 ||analytics.ieee.org^
+||analytics.immutable.com^
 ||analytics.imtranslator.net^
 ||analytics.ipvanish.com^
 ||analytics.iqiyi.com^
@@ -248,8 +252,10 @@
 ||analytics.lingvist.com^
 ||analytics.logitech.com^
 ||analytics.logmein.com^
+||analytics.looksrare.org^
 ||analytics.lww.com^
 ||analytics.lynx-r.com^
+||analytics.magiceden.io^
 ||analytics.makesyoufluent.com^
 ||analytics.mangolanguages.com^
 ||analytics.mapbox.com^
@@ -268,6 +274,8 @@
 ||analytics.nbcuni.com^
 ||analytics.nebula.tv^
 ||analytics.netflix.com^
+||analytics.nftgo.io^
+||analytics.nftscan.com^
 ||analytics.nicovideo.jp^
 ||analytics.noggin.com^
 ||analytics.nomachine.com^
@@ -281,6 +289,7 @@
 ||analytics.openai.com^
 ||analytics.openaire.eu^
 ||analytics.openalex.org^
+||analytics.opensea.io^
 ||analytics.palteca.com^
 ||analytics.paramountplus.com^
 ||analytics.parsely.com^
@@ -297,6 +306,7 @@
 ||analytics.protected.media^
 ||analytics.purevpn.com^
 ||analytics.rakutenmarketing.com^
+||analytics.rarible.com^
 ||analytics.razerzone.com^
 ||analytics.realvnc.com^
 ||analytics.remotepc.com^
@@ -329,11 +339,13 @@
 ||analytics.stickypassword.com^
 ||analytics.strava.com^
 ||analytics.stronglifts.com^
+||analytics.superrare.com^
 ||analytics.surfshark.com^
 ||analytics.taalhammer.com^
 ||analytics.tandem.net^
 ||analytics.taphunter.com^
 ||analytics.teamviewer.com^
+||analytics.tensor.trade^
 ||analytics.textra.me^
 ||analytics.ticketmaster.es^
 ||analytics.tonal.com^
@@ -950,6 +962,7 @@
 ||logger.scite.ai^
 ||logging.bamgrid.com^
 ||logging.netflix.com^
+||logging.rarible.com^
 ||logr-in.com^
 ||logr-ingest.com^
 ||logrocket.com^
@@ -1257,8 +1270,11 @@
 ||sdk.zipy.ai^
 ||searchad.naver.com^
 ||sedt.infutor.com^
+||segment-api.rarible.com^
+||segment-cdn.rarible.com^
 ||segment.beermenus.com^
 ||segment.delectable.com^
+||segment.opensea.io^
 ||segment.taphunter.com^
 ||segment.untappd.com^
 ||segment.vivino.com^
@@ -1324,6 +1340,7 @@
 ||stats.apps.allenai.org^
 ||stats.appsflyer.com^
 ||stats.bilibili.com^
+||stats.blur.io^
 ||stats.calldorado.com^
 ||stats.corsair.com^
 ||stats.expressvpn.com^
@@ -1332,12 +1349,18 @@
 ||stats.iqiyi.com^
 ||stats.ivpn.net^
 ||stats.kaltura.com^
+||stats.looksrare.org^
+||stats.magiceden.io^
 ||stats.nicovideo.jp^
 ||stats.nordvpn.com^
+||stats.opensea.io^
+||stats.rarible.com^
 ||stats.stronglifts.com^
 ||stats.subscribestar.adult^
+||stats.superrare.com^
 ||stats.surfshark.com^
 ||stats.tandf.co.uk^
+||stats.tensor.trade^
 ||stats.uscreen.io^
 ||stats.waze.com^
 ||stats.youku.com^
@@ -1406,6 +1429,7 @@
 ||telemetry.hide.me^
 ||telemetry.hotstar.com^
 ||telemetry.hulu.com^
+||telemetry.immutable.com^
 ||telemetry.insights.video.a2z.com^
 ||telemetry.ipvanish.com^
 ||telemetry.logitechg.com^
@@ -1417,6 +1441,7 @@
 ||telemetry.nzxt.com^
 ||telemetry.okta.com^
 ||telemetry.openai.com^
+||telemetry.opensea.io^
 ||telemetry.paramountplus.com^
 ||telemetry.peacocktv.com^
 ||telemetry.pluto.tv^
@@ -1622,6 +1647,7 @@
 ||webmaxy.com^
 ||webmaxy.io^
 ||websights.zoominfo.com^
+||whale-tracker.nftgo.io^
 ||widgets.lotame.com^
 ||wiland.com^
 ||ws.inspectlet.com^
