@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3016
+# Total domains: 3043
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -70,6 +70,7 @@
 0.0.0.0 ad.vrvm.com
 0.0.0.0 adapi.holalauncher.com
 0.0.0.0 adassets.waze.com
+0.0.0.0 adbox.nextory.com
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adclarity.com
 0.0.0.0 add-mapping-for-wrong-activity-log-classes.feature.varify.io
@@ -262,6 +263,7 @@
 0.0.0.0 analytics.blocksapp.io
 0.0.0.0 analytics.blueapron.com
 0.0.0.0 analytics.blueberrysoftware.com
+0.0.0.0 analytics.bluefirereader.com
 0.0.0.0 analytics.blur.io
 0.0.0.0 analytics.bobble.ai
 0.0.0.0 analytics.bolt.eu
@@ -478,6 +480,7 @@
 0.0.0.0 analytics.nbcuni.com
 0.0.0.0 analytics.nebula.tv
 0.0.0.0 analytics.netflix.com
+0.0.0.0 analytics.nextory.com
 0.0.0.0 analytics.nftgo.io
 0.0.0.0 analytics.nftscan.com
 0.0.0.0 analytics.nicovideo.jp
@@ -500,6 +503,7 @@
 0.0.0.0 analytics.opensea.io
 0.0.0.0 analytics.opensuse.org
 0.0.0.0 analytics.optimizely.com
+0.0.0.0 analytics.overdrive.com
 0.0.0.0 analytics.ovia.com
 0.0.0.0 analytics.oviahealth.com
 0.0.0.0 analytics.palteca.com
@@ -806,6 +810,7 @@
 0.0.0.0 api.mobilewalla.com
 0.0.0.0 api.mouseflow.com
 0.0.0.0 api.near.co
+0.0.0.0 api.nxads.nextory.com
 0.0.0.0 api.openreplay.com
 0.0.0.0 api.permutive.app
 0.0.0.0 api.permutive.com
@@ -951,6 +956,9 @@
 0.0.0.0 blog.adultfriendfinder.com
 0.0.0.0 bluekai.com
 0.0.0.0 bombora.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 books-analytics-events.news.apple-dns.net
+0.0.0.0 bookstats.kobo.com
 0.0.0.0 boomtrain.com
 0.0.0.0 bounce.zetaglobal.com
 0.0.0.0 br.smartlook.cloud
@@ -1092,6 +1100,7 @@
 0.0.0.0 clr.telemetry.intel.com
 0.0.0.0 cmp.optimizely.com
 0.0.0.0 cn.criteo.com
+0.0.0.0 codemetrics.springernature.com
 0.0.0.0 cohorts.adikteev.com
 0.0.0.0 cohorts.remerge.io
 0.0.0.0 collect.airbrake.io
@@ -1099,9 +1108,11 @@
 0.0.0.0 collect.biomedcentral.com
 0.0.0.0 collect.contentsquare.net
 0.0.0.0 collect.evergage.com
+0.0.0.0 collect.ficfun.com
 0.0.0.0 collect.mindbodyonline.com
 0.0.0.0 collect.skrill.com
 0.0.0.0 collect.springer.com
+0.0.0.0 collect.springernature.com
 0.0.0.0 collect.youbora.com
 0.0.0.0 collection-point.api.gymshark.com
 0.0.0.0 collections.cmp.optimizely.com
@@ -1114,6 +1125,7 @@
 0.0.0.0 collector.exceptionless.io
 0.0.0.0 collector.glassbox.com
 0.0.0.0 collector.glassbox.digital
+0.0.0.0 collector.inkitt.com
 0.0.0.0 collector.medallia.com
 0.0.0.0 collector.quantummetric.com
 0.0.0.0 collector.tealeaf.goacoustic.com
@@ -1427,6 +1439,7 @@
 0.0.0.0 files.crazyegg.com
 0.0.0.0 finance.dnb.com
 0.0.0.0 find.passion.com
+0.0.0.0 fionread-ta-g7g.amazon.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebasecrashlytics.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
@@ -1615,6 +1628,8 @@
 0.0.0.0 kibana-log.cleverdialer.com
 0.0.0.0 kibanalogging.grindr.com
 0.0.0.0 kids-analytics.youtube.com
+0.0.0.0 kindle-ta-g7g.amazon.com
+0.0.0.0 kindle-unlimited-logging.amazon.com
 0.0.0.0 kqzyfj.com
 0.0.0.0 ksn-stat.kaspersky.com
 0.0.0.0 kyson.ad.daum.net
@@ -1657,6 +1672,7 @@
 0.0.0.0 log.alipay.com
 0.0.0.0 log.buymeacoffee.com
 0.0.0.0 log.facemoji.com
+0.0.0.0 log.inkitt.com
 0.0.0.0 log.nordvpn.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 log.shazam.com
@@ -1761,8 +1777,10 @@
 0.0.0.0 metrics-api.manjaro.org
 0.0.0.0 metrics-api.openalex.org
 0.0.0.0 metrics-eric.oss.demo.coder.com
+0.0.0.0 metrics-hd.ops.kobo.com
 0.0.0.0 metrics-k.wbx2.com
 0.0.0.0 metrics-preview.vive.com
+0.0.0.0 metrics-prom.perlego.com
 0.0.0.0 metrics-r.wbx2.com
 0.0.0.0 metrics-tracking.revolut.com
 0.0.0.0 metrics.1password.com
@@ -1821,6 +1839,7 @@
 0.0.0.0 metrics.kaizen.nvidia.com
 0.0.0.0 metrics.kindara.com
 0.0.0.0 metrics.landr.com
+0.0.0.0 metrics.libbyapp.com
 0.0.0.0 metrics.logitech.com
 0.0.0.0 metrics.luna.amazon.com
 0.0.0.0 metrics.lyft.com
@@ -1849,6 +1868,7 @@
 0.0.0.0 metrics.pawprint.eco
 0.0.0.0 metrics.peacocktv.com
 0.0.0.0 metrics.period-tracker.com
+0.0.0.0 metrics.perlego.com
 0.0.0.0 metrics.piano.io
 0.0.0.0 metrics.playit.pk
 0.0.0.0 metrics.plex.tv
@@ -1959,6 +1979,8 @@
 0.0.0.0 nqs-eu.youbora.com
 0.0.0.0 nqs-us.youbora.com
 0.0.0.0 nqs.youbora.com
+0.0.0.0 nxad.nextory.com
+0.0.0.0 nxads.nextory.com
 0.0.0.0 o.clarity.ms
 0.0.0.0 o.openai.com
 0.0.0.0 o1158394.ingest.us.sentry.io
@@ -2233,6 +2255,7 @@
 0.0.0.0 segments.remerge.io
 0.0.0.0 segments.zetaglobal.com
 0.0.0.0 sense360.com
+0.0.0.0 sentry-read.svc.overdrive.com
 0.0.0.0 sentry-reporter.ente.io
 0.0.0.0 sentry.api.stronglifts.com
 0.0.0.0 sentry.audacityteam.org
@@ -2270,6 +2293,7 @@
 0.0.0.0 sgtm.adyen.com
 0.0.0.0 sgtm.indrive.com
 0.0.0.0 sgtm.skrill.com
+0.0.0.0 sgtm.storytel.com
 0.0.0.0 shareasale-analytics.com
 0.0.0.0 shop.tags.elsevier.com
 0.0.0.0 shopify.crazyegg.com
@@ -2647,6 +2671,7 @@
 0.0.0.0 track.cpamatica.com
 0.0.0.0 track.crazyegg.com
 0.0.0.0 track.ebsco.com
+0.0.0.0 track.email.webnovel.com
 0.0.0.0 track.factor75.com
 0.0.0.0 track.fertilityfriend.com
 0.0.0.0 track.flexlinks.com
@@ -2679,6 +2704,7 @@
 0.0.0.0 track.period-tracker.com
 0.0.0.0 track.periodcalendar.net
 0.0.0.0 track.premom.com
+0.0.0.0 track.register.webnovel.com
 0.0.0.0 track.remerge.io
 0.0.0.0 track.researchrabbit.ai
 0.0.0.0 track.retargeter.com
@@ -2749,6 +2775,7 @@
 0.0.0.0 tracking.muslimpro.com
 0.0.0.0 tracking.mxplayer.in
 0.0.0.0 tracking.myfitnesspal.com
+0.0.0.0 tracking.mytolino.com
 0.0.0.0 tracking.netaffiliation.com
 0.0.0.0 tracking.newsletter.vivino.com
 0.0.0.0 tracking.nordvpn.com

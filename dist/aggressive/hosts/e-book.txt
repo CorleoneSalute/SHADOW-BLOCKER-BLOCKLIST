@@ -1,0 +1,35 @@
+# ============================================================
+# E BOOK BLOCKLIST - AGGRESSIVE
+# Total domains: 28
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 adbox.nextory.com
+0.0.0.0 analytics.bluefirereader.com
+0.0.0.0 analytics.nextory.com
+0.0.0.0 analytics.overdrive.com
+0.0.0.0 api.nxads.nextory.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 books-analytics-events.news.apple-dns.net
+0.0.0.0 bookstats.kobo.com
+0.0.0.0 codemetrics.springernature.com
+0.0.0.0 collect.ficfun.com
+0.0.0.0 collect.springernature.com
+0.0.0.0 collector.inkitt.com
+0.0.0.0 fionread-ta-g7g.amazon.com
+0.0.0.0 kindle-ta-g7g.amazon.com
+0.0.0.0 kindle-unlimited-logging.amazon.com
+0.0.0.0 log.inkitt.com
+0.0.0.0 metrics-hd.ops.kobo.com
+0.0.0.0 metrics-prom.perlego.com
+0.0.0.0 metrics.libbyapp.com
+0.0.0.0 metrics.perlego.com
+0.0.0.0 nxad.nextory.com
+0.0.0.0 nxads.nextory.com
+0.0.0.0 recommendations.springernature.com
+0.0.0.0 sentry-read.svc.overdrive.com
+0.0.0.0 sgtm.storytel.com
+0.0.0.0 track.email.webnovel.com
+0.0.0.0 track.register.webnovel.com
+0.0.0.0 tracking.mytolino.com

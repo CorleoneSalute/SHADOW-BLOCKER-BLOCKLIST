@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3016
+# Total domains: 3043
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -70,6 +70,7 @@ ad.search.naver.com
 ad.vrvm.com
 adapi.holalauncher.com
 adassets.waze.com
+adbox.nextory.com
 adcel.vrvm.com
 adclarity.com
 add-mapping-for-wrong-activity-log-classes.feature.varify.io
@@ -262,6 +263,7 @@ analytics.blim.com
 analytics.blocksapp.io
 analytics.blueapron.com
 analytics.blueberrysoftware.com
+analytics.bluefirereader.com
 analytics.blur.io
 analytics.bobble.ai
 analytics.bolt.eu
@@ -478,6 +480,7 @@ analytics.navigator-app.nvidia.com
 analytics.nbcuni.com
 analytics.nebula.tv
 analytics.netflix.com
+analytics.nextory.com
 analytics.nftgo.io
 analytics.nftscan.com
 analytics.nicovideo.jp
@@ -500,6 +503,7 @@ analytics.openalex.org
 analytics.opensea.io
 analytics.opensuse.org
 analytics.optimizely.com
+analytics.overdrive.com
 analytics.ovia.com
 analytics.oviahealth.com
 analytics.palteca.com
@@ -806,6 +810,7 @@ api.merkle.com
 api.mobilewalla.com
 api.mouseflow.com
 api.near.co
+api.nxads.nextory.com
 api.openreplay.com
 api.permutive.app
 api.permutive.com
@@ -951,6 +956,9 @@ blog.ads.paytm.com
 blog.adultfriendfinder.com
 bluekai.com
 bombora.com
+books-analytics-events.apple.com
+books-analytics-events.news.apple-dns.net
+bookstats.kobo.com
 boomtrain.com
 bounce.zetaglobal.com
 br.smartlook.cloud
@@ -1092,6 +1100,7 @@ cloudtrack.cal.com
 clr.telemetry.intel.com
 cmp.optimizely.com
 cn.criteo.com
+codemetrics.springernature.com
 cohorts.adikteev.com
 cohorts.remerge.io
 collect.airbrake.io
@@ -1099,9 +1108,11 @@ collect.babbel.io
 collect.biomedcentral.com
 collect.contentsquare.net
 collect.evergage.com
+collect.ficfun.com
 collect.mindbodyonline.com
 collect.skrill.com
 collect.springer.com
+collect.springernature.com
 collect.youbora.com
 collection-point.api.gymshark.com
 collections.cmp.optimizely.com
@@ -1114,6 +1125,7 @@ collector.conviva.com
 collector.exceptionless.io
 collector.glassbox.com
 collector.glassbox.digital
+collector.inkitt.com
 collector.medallia.com
 collector.quantummetric.com
 collector.tealeaf.goacoustic.com
@@ -1427,6 +1439,7 @@ feedback.hotjar.com
 files.crazyegg.com
 finance.dnb.com
 find.passion.com
+fionread-ta-g7g.amazon.com
 firebase-settings.crashlytics.com
 firebasecrashlytics.googleapis.com
 firebaselogging-pa.googleapis.com
@@ -1615,6 +1628,8 @@ kaizen-data.kameleoon.io
 kibana-log.cleverdialer.com
 kibanalogging.grindr.com
 kids-analytics.youtube.com
+kindle-ta-g7g.amazon.com
+kindle-unlimited-logging.amazon.com
 kqzyfj.com
 ksn-stat.kaspersky.com
 kyson.ad.daum.net
@@ -1657,6 +1672,7 @@ log.ai-type.com
 log.alipay.com
 log.buymeacoffee.com
 log.facemoji.com
+log.inkitt.com
 log.nordvpn.com
 log.optimizely.com
 log.shazam.com
@@ -1761,8 +1777,10 @@ metrics-a.wbx2.com
 metrics-api.manjaro.org
 metrics-api.openalex.org
 metrics-eric.oss.demo.coder.com
+metrics-hd.ops.kobo.com
 metrics-k.wbx2.com
 metrics-preview.vive.com
+metrics-prom.perlego.com
 metrics-r.wbx2.com
 metrics-tracking.revolut.com
 metrics.1password.com
@@ -1821,6 +1839,7 @@ metrics.jwplayer.com
 metrics.kaizen.nvidia.com
 metrics.kindara.com
 metrics.landr.com
+metrics.libbyapp.com
 metrics.logitech.com
 metrics.luna.amazon.com
 metrics.lyft.com
@@ -1849,6 +1868,7 @@ metrics.paramountplus.com
 metrics.pawprint.eco
 metrics.peacocktv.com
 metrics.period-tracker.com
+metrics.perlego.com
 metrics.piano.io
 metrics.playit.pk
 metrics.plex.tv
@@ -1959,6 +1979,8 @@ nqs-apac.youbora.com
 nqs-eu.youbora.com
 nqs-us.youbora.com
 nqs.youbora.com
+nxad.nextory.com
+nxads.nextory.com
 o.clarity.ms
 o.openai.com
 o1158394.ingest.us.sentry.io
@@ -2233,6 +2255,7 @@ segments.hitnmix.com
 segments.remerge.io
 segments.zetaglobal.com
 sense360.com
+sentry-read.svc.overdrive.com
 sentry-reporter.ente.io
 sentry.api.stronglifts.com
 sentry.audacityteam.org
@@ -2270,6 +2293,7 @@ sg.smartlook.cloud
 sgtm.adyen.com
 sgtm.indrive.com
 sgtm.skrill.com
+sgtm.storytel.com
 shareasale-analytics.com
 shop.tags.elsevier.com
 shopify.crazyegg.com
@@ -2647,6 +2671,7 @@ track.corporate.wine.com
 track.cpamatica.com
 track.crazyegg.com
 track.ebsco.com
+track.email.webnovel.com
 track.factor75.com
 track.fertilityfriend.com
 track.flexlinks.com
@@ -2679,6 +2704,7 @@ track.paytm.com
 track.period-tracker.com
 track.periodcalendar.net
 track.premom.com
+track.register.webnovel.com
 track.remerge.io
 track.researchrabbit.ai
 track.retargeter.com
@@ -2749,6 +2775,7 @@ tracking.movies.yango.com
 tracking.muslimpro.com
 tracking.mxplayer.in
 tracking.myfitnesspal.com
+tracking.mytolino.com
 tracking.netaffiliation.com
 tracking.newsletter.vivino.com
 tracking.nordvpn.com
