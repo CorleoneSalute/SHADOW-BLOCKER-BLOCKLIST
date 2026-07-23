@@ -1,0 +1,104 @@
+# ============================================================
+# A/B TESTING & PERSONALIZATION BLOCKLIST
+# Toplam Domain Sayisi: 67
+# Son Guncelleme: 18 Temmuz 2026
+# ============================================================
+
+# OPTIMIZELY (10 domain)
+logx.optimizely.com
+p13nlog.optimizely.com
+log.optimizely.com
+analytics.optimizely.com
+api.exp-metrics.optimizely.com
+collections.cmp.optimizely.com
+collections.marketing.cmp.optimizely.com
+cmp.optimizely.com
+rum.optimizely.com
+track.optimizely.com
+
+# KAMELEOON (10 domain)
+logger.kameleoon.io
+data.kameleoon.net
+eu-data.kameleoon.eu
+eu-data.kameleoon.io
+na-data.kameleoon.io
+eu-data.experiment.dev
+kaizen-data.kameleoon.io
+data.kameleoon.io
+na-data.kameleoon.eu
+kaizen-data.kameleoon.eu
+
+# VARIFY.IO (3 domain)
+ip.varify.dev
+add-mapping-for-wrong-activity-log-classes.feature.varify.io
+activity-log-improvements.feature.varify.io
+
+# CONVERT.COM (2 domain)
+convertexperiments.com
+metrics.convertexperiments.com
+
+# SPLIT.IO (1 domain)
+telemetry.split.io
+
+# LAUNCHDARKLY (7 domain)
+events.launchdarkly.com
+tracking.launchdarkly.com
+events.eu.launchdarkly.com
+events.intuit.launchdarkly.com
+vitalstatistix.launchdarkly.com
+otel.observability.app.launchdarkly.com
+pub.observability.app.launchdarkly.com
+
+# DEVCYCLE (4 domain)
+events.devcycle.com
+sse-analytics.devcycle.com
+events-api.devcycle.com
+analytics.devcycle.com
+
+# STATSIG (8 domain)
+segment.statsig.com
+statsigapi.net
+events.statsigapi.net
+featuregates.org
+featureassets.org
+assetsconfigcdn.org
+prodregistryv2.org
+beyondwickedmapping.org
+
+# HARNESS FEATURE FLAGS (2 domain)
+events.ff.harness.io
+logs.harness.io
+
+# AMPLITUDE EXPERIMENT (4 domain)
+amplitude.com !
+gs.amplitude.com
+gs.eu.amplitude.com
+gha-metrics.ops.amplitude.com
+
+# DYNAMIC YIELD (3 domain)
+ads.dynamicyield.com
+async-px.dynamicyield.com
+rcom-dump.dynamicyield.com
+
+# EVERGAGE (Salesforce Interaction Studio) (1 domain)
+collect.evergage.com
+
+# QUBIT (Coveo) (4 domain)
+opentag-stats.qubit.com
+gong-eb.qubit.com
+gong-gc.qubit.com
+segment-membership.qubit.com
+
+# WISEPOPS (3 domain)
+wisepops.com
+activity.wisepops.com
+tracking.wisepops.com
+
+# OPTIMOVE (1 domain)
+track.optimove.net
+
+# OPTINMONSTER (Anti-Adblocker) (4 domain)
+optmstr.com
+a.optmstr.com
+b.optmstr.com
+c.optmstr.com
