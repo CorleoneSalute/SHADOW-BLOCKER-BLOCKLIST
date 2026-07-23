@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3632
+# Total domains: 3641
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -490,6 +490,7 @@ analytics.languagedrops.com
 analytics.lastpass.com
 analytics.learn.nvidia.com
 analytics.leonardo.ai
+analytics.letsenhance.io
 analytics.li.me
 analytics.libsyn.com
 analytics.lingoda.com
@@ -705,6 +706,7 @@ analytics.ticketmaster.es
 analytics.timesinternet.in
 analytics.tonal.com
 analytics.tonec.com
+analytics.topazlabs.com
 analytics.torguard.net
 analytics.tovala.com
 analytics.tractive.com
@@ -723,6 +725,7 @@ analytics.underarmour.com
 analytics.unpaywall.org
 analytics.untappd.com
 analytics.vagaro.com
+analytics.vanceai.com
 analytics.verbling.com
 analytics.viaplay.com
 analytics.videoland.com
@@ -1570,6 +1573,7 @@ errorsmart.com
 es.reimageplus.com
 espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
+et.topazlabs.com
 etl.tindersparks.com
 etrack.np.norton.com
 etrackcanon.csa.canon.com
@@ -1592,6 +1596,7 @@ event-reg.yamaha.com
 event.appsflyer.com
 event.mackeeper.com
 event.okta.com
+event.vanceai.com
 event.vive.com
 eventlog-failtest.norton.com
 eventlog-sd-beta.norton.com
@@ -2550,6 +2555,7 @@ rightmedia.criteo.com
 ringcentral.112.2o7.net
 risk.clearbit.com
 risk.dnb.com
+rkhbxm26.topazlabs.com
 rmmetrics.mcafee.com
 rnsfpw.net
 roiads.co
@@ -2697,6 +2703,7 @@ sgtm.adyen.com
 sgtm.indrive.com
 sgtm.skrill.com
 sgtm.storytel.com
+sgtm.topazlabs.com
 shareasale-analytics.com
 shealth-analytics-api.samsunghealth.com
 shop.tags.elsevier.com
@@ -3100,6 +3107,7 @@ telemetry.tabnine.com
 telemetry.teamviewer.com
 telemetry.techsmith.com
 telemetry.tenor.com
+telemetry.topazlabs.com
 telemetry.tubitv.com
 telemetry.tunnelbear.com
 telemetry.uber.com
@@ -3214,6 +3222,7 @@ track.stubhub.com
 track.tiara.daum.net
 track.topcashback.com
 track.underarmour.com
+track.vanceai.com
 track.webgains.com
 track.winegifts.wine.com
 track.womanlog.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3632
+# Total domains: 3641
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -490,6 +490,7 @@
 0.0.0.0 analytics.lastpass.com
 0.0.0.0 analytics.learn.nvidia.com
 0.0.0.0 analytics.leonardo.ai
+0.0.0.0 analytics.letsenhance.io
 0.0.0.0 analytics.li.me
 0.0.0.0 analytics.libsyn.com
 0.0.0.0 analytics.lingoda.com
@@ -705,6 +706,7 @@
 0.0.0.0 analytics.timesinternet.in
 0.0.0.0 analytics.tonal.com
 0.0.0.0 analytics.tonec.com
+0.0.0.0 analytics.topazlabs.com
 0.0.0.0 analytics.torguard.net
 0.0.0.0 analytics.tovala.com
 0.0.0.0 analytics.tractive.com
@@ -723,6 +725,7 @@
 0.0.0.0 analytics.unpaywall.org
 0.0.0.0 analytics.untappd.com
 0.0.0.0 analytics.vagaro.com
+0.0.0.0 analytics.vanceai.com
 0.0.0.0 analytics.verbling.com
 0.0.0.0 analytics.viaplay.com
 0.0.0.0 analytics.videoland.com
@@ -1570,6 +1573,7 @@
 0.0.0.0 es.reimageplus.com
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 espndotcom.tt.omtrdc.net
+0.0.0.0 et.topazlabs.com
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 etrack.np.norton.com
 0.0.0.0 etrackcanon.csa.canon.com
@@ -1592,6 +1596,7 @@
 0.0.0.0 event.appsflyer.com
 0.0.0.0 event.mackeeper.com
 0.0.0.0 event.okta.com
+0.0.0.0 event.vanceai.com
 0.0.0.0 event.vive.com
 0.0.0.0 eventlog-failtest.norton.com
 0.0.0.0 eventlog-sd-beta.norton.com
@@ -2550,6 +2555,7 @@
 0.0.0.0 ringcentral.112.2o7.net
 0.0.0.0 risk.clearbit.com
 0.0.0.0 risk.dnb.com
+0.0.0.0 rkhbxm26.topazlabs.com
 0.0.0.0 rmmetrics.mcafee.com
 0.0.0.0 rnsfpw.net
 0.0.0.0 roiads.co
@@ -2697,6 +2703,7 @@
 0.0.0.0 sgtm.indrive.com
 0.0.0.0 sgtm.skrill.com
 0.0.0.0 sgtm.storytel.com
+0.0.0.0 sgtm.topazlabs.com
 0.0.0.0 shareasale-analytics.com
 0.0.0.0 shealth-analytics-api.samsunghealth.com
 0.0.0.0 shop.tags.elsevier.com
@@ -3100,6 +3107,7 @@
 0.0.0.0 telemetry.teamviewer.com
 0.0.0.0 telemetry.techsmith.com
 0.0.0.0 telemetry.tenor.com
+0.0.0.0 telemetry.topazlabs.com
 0.0.0.0 telemetry.tubitv.com
 0.0.0.0 telemetry.tunnelbear.com
 0.0.0.0 telemetry.uber.com
@@ -3214,6 +3222,7 @@
 0.0.0.0 track.tiara.daum.net
 0.0.0.0 track.topcashback.com
 0.0.0.0 track.underarmour.com
+0.0.0.0 track.vanceai.com
 0.0.0.0 track.webgains.com
 0.0.0.0 track.winegifts.wine.com
 0.0.0.0 track.womanlog.com

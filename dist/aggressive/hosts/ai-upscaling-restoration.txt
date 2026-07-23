@@ -1,0 +1,16 @@
+# ============================================================
+# AI UPSCALING RESTORATION BLOCKLIST - AGGRESSIVE
+# Total domains: 9
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 analytics.letsenhance.io
+0.0.0.0 analytics.topazlabs.com
+0.0.0.0 analytics.vanceai.com
+0.0.0.0 et.topazlabs.com
+0.0.0.0 event.vanceai.com
+0.0.0.0 rkhbxm26.topazlabs.com
+0.0.0.0 sgtm.topazlabs.com
+0.0.0.0 telemetry.topazlabs.com
+0.0.0.0 track.vanceai.com
