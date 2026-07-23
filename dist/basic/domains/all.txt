@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1287
+# Total domains: 1295
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -48,6 +48,7 @@ ad-beacon.peacocktv.com
 ad-beacon.tubitv.com
 ad-metrics.espn.com
 ad.admitad.com
+ad.apsalar.com
 ad.crwdcntrl.net
 ad.linksynergy.com
 ad.search.naver.com
@@ -67,6 +68,7 @@ ads.bitmovin.com
 ads.brightcove.com
 ads.cj.com
 ads.conviva.com
+ads.cozi.com
 ads.crunchyroll.com
 ads.disneyplus.com
 ads.emojixpress.com
@@ -113,6 +115,7 @@ alerts.youbora.com
 amagi.tv
 amp.navdmp.com
 amp.permutive.app
+amplitude.usemotion.com
 analytics-api.vervemobile.com
 analytics-ingress-apac.bitmovin.com
 analytics-ingress-eu.bitmovin.com
@@ -124,6 +127,7 @@ analytics-portal.8x8.com
 analytics.1password.com
 analytics.8x8.com
 analytics.abema.tv
+analytics.any.do
 analytics.anydesk.com
 analytics.api.brightcove.com
 analytics.appsflyer.com
@@ -139,6 +143,7 @@ analytics.britbox.com
 analytics.canalplus.com
 analytics.cbsaavideo.com
 analytics.cellarpass.com
+analytics.cf.morgen.so
 analytics.clarovideo.com
 analytics.clickbank.com
 analytics.connectwise.com
@@ -369,6 +374,7 @@ bkrtx.com
 bluekai.com
 bombora.com
 br.smartlook.cloud
+bugtracker.akiflow.com
 c.cfjump.com
 c.clarity.ms
 c.ltmsphrcl.net
@@ -454,6 +460,7 @@ clicktale.net
 clicktale.pantherssl.com
 clicktalecdn.sslcs.cdngc.net
 cloud.tealeaf.com
+cloudtrack.cal.com
 collect.contentsquare.net
 collect.youbora.com
 collector-eu.conviva.com
@@ -1145,6 +1152,7 @@ tracking.hulu.com
 tracking.impact.com
 tracking.jwplayer.com
 tracking.lastpass.com
+tracking.morgen.so
 tracking.netaffiliation.com
 tracking.newsletter.vivino.com
 tracking.partnerize.com

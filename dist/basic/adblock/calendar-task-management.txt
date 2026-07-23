@@ -1,0 +1,15 @@
+# ============================================================
+# CALENDAR TASK MANAGEMENT BLOCKLIST - BASIC
+# Total domains: 8
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||ad.apsalar.com^
+||ads.cozi.com^
+||amplitude.usemotion.com^
+||analytics.any.do^
+||analytics.cf.morgen.so^
+||bugtracker.akiflow.com^
+||cloudtrack.cal.com^
+||tracking.morgen.so^

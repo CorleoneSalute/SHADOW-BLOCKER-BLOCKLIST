@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1287
+# Total domains: 1295
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -48,6 +48,7 @@
 0.0.0.0 ad-beacon.tubitv.com
 0.0.0.0 ad-metrics.espn.com
 0.0.0.0 ad.admitad.com
+0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 ad.search.naver.com
@@ -67,6 +68,7 @@
 0.0.0.0 ads.brightcove.com
 0.0.0.0 ads.cj.com
 0.0.0.0 ads.conviva.com
+0.0.0.0 ads.cozi.com
 0.0.0.0 ads.crunchyroll.com
 0.0.0.0 ads.disneyplus.com
 0.0.0.0 ads.emojixpress.com
@@ -113,6 +115,7 @@
 0.0.0.0 amagi.tv
 0.0.0.0 amp.navdmp.com
 0.0.0.0 amp.permutive.app
+0.0.0.0 amplitude.usemotion.com
 0.0.0.0 analytics-api.vervemobile.com
 0.0.0.0 analytics-ingress-apac.bitmovin.com
 0.0.0.0 analytics-ingress-eu.bitmovin.com
@@ -124,6 +127,7 @@
 0.0.0.0 analytics.1password.com
 0.0.0.0 analytics.8x8.com
 0.0.0.0 analytics.abema.tv
+0.0.0.0 analytics.any.do
 0.0.0.0 analytics.anydesk.com
 0.0.0.0 analytics.api.brightcove.com
 0.0.0.0 analytics.appsflyer.com
@@ -139,6 +143,7 @@
 0.0.0.0 analytics.canalplus.com
 0.0.0.0 analytics.cbsaavideo.com
 0.0.0.0 analytics.cellarpass.com
+0.0.0.0 analytics.cf.morgen.so
 0.0.0.0 analytics.clarovideo.com
 0.0.0.0 analytics.clickbank.com
 0.0.0.0 analytics.connectwise.com
@@ -369,6 +374,7 @@
 0.0.0.0 bluekai.com
 0.0.0.0 bombora.com
 0.0.0.0 br.smartlook.cloud
+0.0.0.0 bugtracker.akiflow.com
 0.0.0.0 c.cfjump.com
 0.0.0.0 c.clarity.ms
 0.0.0.0 c.ltmsphrcl.net
@@ -454,6 +460,7 @@
 0.0.0.0 clicktale.pantherssl.com
 0.0.0.0 clicktalecdn.sslcs.cdngc.net
 0.0.0.0 cloud.tealeaf.com
+0.0.0.0 cloudtrack.cal.com
 0.0.0.0 collect.contentsquare.net
 0.0.0.0 collect.youbora.com
 0.0.0.0 collector-eu.conviva.com
@@ -1145,6 +1152,7 @@
 0.0.0.0 tracking.impact.com
 0.0.0.0 tracking.jwplayer.com
 0.0.0.0 tracking.lastpass.com
+0.0.0.0 tracking.morgen.so
 0.0.0.0 tracking.netaffiliation.com
 0.0.0.0 tracking.newsletter.vivino.com
 0.0.0.0 tracking.partnerize.com
