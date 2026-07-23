@@ -1,0 +1,63 @@
+# ============================================================
+# PRICE & COUPON BLOCKLIST
+# Toplam Domain Sayısı: 30
+# Son Güncelleme: 16 Temmuz 2026 (2026-07-16)
+# ============================================================
+
+# --- Honey --- (5 domain)
+analytics.joinhoney.com
+tracking.honey.io
+telemetry.joinhoney.com
+metrics.joinhoney.com
+dash-analytics.joinhoney.com
+
+# --- Capital One Shopping --- (3 domain)
+analytics.capitaloneshopping.com
+track.capitaloneshopping.com
+telemetry.capitaloneshopping.com
+
+# --- RetailMeNot --- (2 domain)
+analytics.retailmenot.com
+smetrics.retailmenot.com
+
+# --- SimplyCodes --- (2 domain)
+analytics.simplycodes.com
+tracking.simplycodes.com
+
+# --- Coupert --- (1 domain)
+analytics.coupert.com
+
+# --- Bizrate / Connexity --- (4 domain)
+tracking.connexity.com
+rr.bizrate.com
+insightsreports.bizrate.com
+eval.bizrate.com
+
+# --- Kelkoo --- (1 domain)
+tracking.kelkoo.com
+
+# --- Google Shopping Extension (sadece analytics endpoint) --- (1 domain)
+shoppinganalytics-pa.googleapis.com
+
+# --- BeFrugal --- (1 domain)
+tracking.befrugal.com
+
+# --- TopCashback --- (3 domain)
+tracking.topcashback.com
+track.topcashback.com
+caa-analytics.topcashback.com
+
+# --- Cently --- (1 domain)
+tracking.cently.com
+
+# --- RetailMeNot Genie extension --- (2 domain)
+tracking.retailmenot.com
+analytics.genie.retailmenot.com
+
+# --- CouponCabin Sidekick --- (3 domain)
+tracking.couponcabin.com
+smetrics.couponcabin.com
+www.smetrics.couponcabin.com
+
+# --- InvisibleHand (CNET haber içeriği etkilenmez) --- (1 domain)
+tracking.getinvisiblehand.com
