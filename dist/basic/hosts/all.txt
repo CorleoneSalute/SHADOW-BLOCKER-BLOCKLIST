@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 2862
+# Total domains: 2874
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -572,6 +572,7 @@
 0.0.0.0 analytics.teamviewer.com
 0.0.0.0 analytics.tensor.trade
 0.0.0.0 analytics.textra.me
+0.0.0.0 analytics.theknot.com
 0.0.0.0 analytics.thirstie.com
 0.0.0.0 analytics.ticketmaster.es
 0.0.0.0 analytics.timesinternet.in
@@ -607,9 +608,11 @@
 0.0.0.0 analytics.waze.com
 0.0.0.0 analytics.webex.com
 0.0.0.0 analytics.webgains.io
+0.0.0.0 analytics.weddingwire.com
 0.0.0.0 analytics.wiley.com
 0.0.0.0 analytics.windscribe.com
 0.0.0.0 analytics.wise.com
+0.0.0.0 analytics.withjoy.com
 0.0.0.0 analytics.womanlog.com
 0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.wordreference.com
@@ -625,6 +628,7 @@
 0.0.0.0 analytics.zeel.com
 0.0.0.0 analytics.zenoti.com
 0.0.0.0 analytics.zoho.com
+0.0.0.0 analytics.zola.com
 0.0.0.0 analytics.zoom.us
 0.0.0.0 analytics.zoosk.com
 0.0.0.0 analytics.zorinos.com
@@ -780,6 +784,7 @@
 0.0.0.0 api.uxcam.com
 0.0.0.0 api.verve.com
 0.0.0.0 api.visitor-analytics.io
+0.0.0.0 api.web-trk.zola.com
 0.0.0.0 api.wiland.com
 0.0.0.0 api.xlogs.nvidia.com
 0.0.0.0 api.xmode.io
@@ -1309,6 +1314,7 @@
 0.0.0.0 evernotemetrics.com
 0.0.0.0 evgen.appsflyer.com
 0.0.0.0 evs.sgmt.loom.com
+0.0.0.0 evs.web-trk.zola.com
 0.0.0.0 ewtracking.elsevier.com
 0.0.0.0 exactdata.com
 0.0.0.0 exads.crakrevenue.com
@@ -1777,6 +1783,7 @@
 0.0.0.0 metrics.tavour.com
 0.0.0.0 metrics.teamviewer.com
 0.0.0.0 metrics.telemetry.data.nvidia.com
+0.0.0.0 metrics.theknot.com
 0.0.0.0 metrics.trento.suse.com
 0.0.0.0 metrics.tubitv.com
 0.0.0.0 metrics.tunnelbear.com
@@ -1924,8 +1931,10 @@
 0.0.0.0 pixel.mercadopago.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.retargeter.com
+0.0.0.0 pixel.theknot.com
 0.0.0.0 pixel.zetaglobal.com
 0.0.0.0 pixel.zetalive.com
+0.0.0.0 pixel.zola.com
 0.0.0.0 pkgstats.archlinux.de
 0.0.0.0 placed.com
 0.0.0.0 playable.adikteev.com
@@ -2633,13 +2642,16 @@
 0.0.0.0 tracking.surfshark.com
 0.0.0.0 tracking.swap.fm
 0.0.0.0 tracking.teamviewer.com
+0.0.0.0 tracking.theknot.com
 0.0.0.0 tracking.thirstie.com
 0.0.0.0 tracking.toroadvertising.com
 0.0.0.0 tracking.tradedoubler.com
 0.0.0.0 tracking.tubitv.com
 0.0.0.0 tracking.vagaro.com
 0.0.0.0 tracking.vivino.com
+0.0.0.0 tracking.weddingwire.com
 0.0.0.0 tracking.zanfia.com
+0.0.0.0 tracking.zola.com
 0.0.0.0 tracking1.paytm.com
 0.0.0.0 trackjs.com
 0.0.0.0 tracknooks.abcfitness.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 2862
+# Total domains: 2874
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -572,6 +572,7 @@ analytics.taphunter.com
 analytics.teamviewer.com
 analytics.tensor.trade
 analytics.textra.me
+analytics.theknot.com
 analytics.thirstie.com
 analytics.ticketmaster.es
 analytics.timesinternet.in
@@ -607,9 +608,11 @@ analytics.wavve.com
 analytics.waze.com
 analytics.webex.com
 analytics.webgains.io
+analytics.weddingwire.com
 analytics.wiley.com
 analytics.windscribe.com
 analytics.wise.com
+analytics.withjoy.com
 analytics.womanlog.com
 analytics.wondershare.cc
 analytics.wordreference.com
@@ -625,6 +628,7 @@ analytics.zee5.com
 analytics.zeel.com
 analytics.zenoti.com
 analytics.zoho.com
+analytics.zola.com
 analytics.zoom.us
 analytics.zoosk.com
 analytics.zorinos.com
@@ -780,6 +784,7 @@ api.us.smartlook.cloud
 api.uxcam.com
 api.verve.com
 api.visitor-analytics.io
+api.web-trk.zola.com
 api.wiland.com
 api.xlogs.nvidia.com
 api.xmode.io
@@ -1309,6 +1314,7 @@ events.zetaglobal.com
 evernotemetrics.com
 evgen.appsflyer.com
 evs.sgmt.loom.com
+evs.web-trk.zola.com
 ewtracking.elsevier.com
 exactdata.com
 exads.crakrevenue.com
@@ -1777,6 +1783,7 @@ metrics.system76.com
 metrics.tavour.com
 metrics.teamviewer.com
 metrics.telemetry.data.nvidia.com
+metrics.theknot.com
 metrics.trento.suse.com
 metrics.tubitv.com
 metrics.tunnelbear.com
@@ -1924,8 +1931,10 @@ pixel.limeade.com
 pixel.mercadopago.com
 pixel.parsely.com
 pixel.retargeter.com
+pixel.theknot.com
 pixel.zetaglobal.com
 pixel.zetalive.com
+pixel.zola.com
 pkgstats.archlinux.de
 placed.com
 playable.adikteev.com
@@ -2633,13 +2642,16 @@ tracking.styleseat.com
 tracking.surfshark.com
 tracking.swap.fm
 tracking.teamviewer.com
+tracking.theknot.com
 tracking.thirstie.com
 tracking.toroadvertising.com
 tracking.tradedoubler.com
 tracking.tubitv.com
 tracking.vagaro.com
 tracking.vivino.com
+tracking.weddingwire.com
 tracking.zanfia.com
+tracking.zola.com
 tracking1.paytm.com
 trackjs.com
 tracknooks.abcfitness.com
