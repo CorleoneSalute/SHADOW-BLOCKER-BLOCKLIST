@@ -1,0 +1,104 @@
+# ================================================
+# PERIOD & REPRODUCTIVE HEALTH BLOCKLIST 
+# Domain sayısı: 57
+# Son güncelleme: 2026-07-18
+# ================================================
+
+# --- Flo Health ---
+analytics.flo.health
+track.flo.health
+metrics.flo.health
+telemetry.flo.health
+marketing.flo.health
+facebook.flo.health
+adjust.flo.health
+appsflyer.flo.health
+branch.flo.health
+amplitude.flo.health
+relay.flo.health
+
+# --- Clue (BioWink) ---
+analytics.helloclue.com
+track.helloclue.com
+metrics.helloclue.com
+telemetry.clue.app
+
+# --- GP Apps / Period Tracker ---
+analytics.gpapps.com
+track.period-tracker.com
+metrics.period-tracker.com
+ads.gpapps.com
+admob.gpapps.com
+
+# --- Ovia Health (LabCorp) ---
+analytics.ovia.com
+analytics.oviahealth.com
+track.ovia.com
+metrics.oviahealth.com
+ads.ovia.com
+
+# --- Glow / Nurture (Upward Labs Holdings) ---
+analytics.glowing.com
+track.glow.co
+metrics.glow.co
+telemetry.glow.co
+
+# --- Eve by Glow ---
+analytics.evebyglow.com
+
+# --- Kindara ---
+analytics.kindara.com
+track.kindara.com
+metrics.kindara.com
+
+# --- Natural Cycles ---
+analytics.naturalcycles.com
+metrics.naturalcycles.com
+track.naturalcycles.com
+telemetry.naturalcycles.com
+
+# --- Fertility Friend ---
+analytics.fertilityfriend.com
+track.fertilityfriend.com
+
+# --- MyFlo (FLO Living) ---
+analytics.myflotracker.com
+track.myflotracker.com
+
+# --- Period Calendar (Life / SimpleInnovation) ---
+analytics.period-calendar.com
+track.periodcalendar.net
+
+# --- Maya (Plackal) ---
+analytics.maya.live
+track.maya.live
+metrics.maya.live
+
+# --- WomanLog (Pro Active App) ---
+analytics.womanlog.com
+track.womanlog.com
+
+# --- BabyCenter ---
+looker.babycenter.com
+
+# --- Premom (Easy Healthcare — FTC cezalı) ---
+analytics.premom.com
+track.premom.com
+
+# --- Femia (Welltech / Magicfit) ---
+analytics.femia.health
+
+# --- Pepapp (Pepapp Teknoloji) ---
+analytics.pepapp.com
+
+# --- Moody Month ---
+analytics.moodsapp.com
+
+# --- Ava (Ava Science) ---
+analytics.avawomen.com
+
+# --- Daysy (Valley Electronics) ---
+analytics.daysy.me
+
+# --- Sympto ---
+analytics.sympto.org
