@@ -1,0 +1,401 @@
+# ============================================================
+# PC MONITORING & OPTIMIZATION SOFTWARES BLOCKLIST
+# Toplam Domain Sayısı: 287
+# Son Güncelleme: 16 Temmuz 2026 (2026-07-16)
+# ============================================================
+
+## ══════════════════════════════════════
+## BÖLÜM 1 — TEMEL LİSTE (v1 · Conservative)
+## ══════════════════════════════════════
+
+### ━━━ 1A · SCAREWARE / PUP / MALWARE ━━━
+# Bu vendorların yazılımlarının kendisi zararlıdır. Tüm domainleri engellenir.
+
+#### IOLO / RealDefense — System Mechanic, MyCleanPC, SUPERAntiSpyware, STOPzilla… (26 domain)
+# Deceptive billing / Dark pattern PUP · Pasadena CA · Tüm markalar RealDefense LLC bünyesinde
+# ⚠️ Doğrulama notu: System Mechanic 1998'den beri meşru PC optimizer — scareware değil. Ancak RealDefense döneminde (2021+) kullanıcıların bilgisi olmadan aylık ücret ekleme, iptal sonrası yeniden ücretlendirme ve uzaktan erişim baskısı gibi deceptive billing uygulamaları BBB'ye yüzlerce şikayet olarak yansıdı. Gizlilik politikası veriyi üçüncü taraflarla paylaşmaya izin veriyor. MyCleanPC, myhackedemail.com vb. yan markalar daha agresif.
+iolo.com
+system-mechanic.com
+cdn.iolo.com
+telemetry.iolo.com
+update.iolo.com
+api.iolo.com
+phoenix360.iolo.com
+drivescrubber.com
+iolosystem.com
+iolovpn.com
+realdefense.com
+realdefen.se
+mycleanpc.com
+mycleanid.com
+mycleanmac.com
+mypasslock.com
+getmydrivers.com
+virusfix.com
+cyberdefender.com
+myhackedemail.com
+warrantystar.com
+myherotech.com
+ustechsupport.com
+superantispyware.com
+stopzilla.com
+removemenow.com
+
+#### Restoro / Reimage (18 domain)
+# FTC 2024 — $26M ceza · Sahte sistem taramaları
+# ⚠️ scareware, izinsiz para çekimi
+restoro.com
+cdn.restoro.com
+api.restoro.com
+download.restoro.com
+support.restoro.com
+updates.restoro.com
+reimage.com
+reimageplus.com
+api.reimage.com
+download.reimage.com
+cdnrep.reimageplus.com
+ukrep.reimage.com
+cdn.reimage.com
+cdnrep.reimage.com
+ru.reimageplus.com
+es.reimageplus.com
+www.reimage.com
+help.reimageplus.com
+
+#### ReviverSoft (Avanquest) (15 domain)
+# PUP ailesi — PC/Driver/Registry Reviver
+# ⚠️ izinsiz para çekimi
+reviversoft.com
+registryreviver.com
+pcreviver.com
+driverreviver.com
+macreviver.com
+securityreviver.com
+privacyreviver.com
+diskreviver.com
+instantsupportreviver.com
+updatereviver.com
+api.reviversoft.com
+dl.reviversoft.com
+update.reviversoft.com
+support.reviversoft.com
+generate.reviversoft.com
+
+#### Systweak (11 domain)
+# PUP ailesi · Hindistan merkezli
+systweak.com
+systweaksoftware.com
+regcleanpro.com
+advancedsystemoptimizer.com
+duplicatefilesfixer.com
+duplicatephotofixer.com
+rightbackup.com
+secure-system-services.com
+analytics.systweak.com
+cdn.systweak.com
+advancedpccleanup.com
+
+#### Uniblue (6 domain)
+# 2018'den itibaren terk edilmiş PUP suite
+# ⚠️ kapandı,scareware
+uniblue.com
+powersuite.com
+driverscanner.com
+registrybooster.com
+speedupmypc.com
+update.uniblue.com
+
+#### SlimWare Utilities — SlimCleaner, DriverUpdate (9 domain)
+slimwareutilities.com
+slimcleaner.com
+driverupdate.net
+api.slimware.com
+fixcleaner.com
+recimg.com
+slimcomputer.com
+slimimage.com
+slimdrivers.com
+
+#### Solvusoft — WinThruster, FileViewPro (9 domain)
+# PUA:Win32/Solvusoft
+# ⚠️ VirusTotal'da 33 farklı antivirüs motoru tarafından potansiyel olarak istenmeyen yazılım (PUP) olarak tespit edildi.
+solvusoft.com
+winthruster.com
+filesigcheck.com
+driverdoc.com
+fileviewpro.com
+update.solvusoft.com
+support.solvusoft.com
+winsweeper.com
+spaceseeker.com
+
+#### TweakBit (Auslogics) (1 domain)
+# Not: tweakbit.com Auslogics'e aittir
+tweakbit.com ⚠️ PUP
+
+#### RegCure / ParetoLogic (7 domain)
+# 2020 FTC davası (Kanada BC) sonrası kapatıldı · Domain'ler yeniden aktif olabilir
+# ⚠️ kapandı,scareware
+regcure.com
+paretologic.com
+installers.paretologic.com
+techsupport.paretologic.com
+pchealthadvisor.com
+filecure.com
+datarecoverydownload.com
+
+#### Outbyte (7 domain)
+outbyte.com
+support.outbyte.com
+du.outbyte.com
+outbyteapp.com
+ws.driverhive.com
+wiki-drivers.com
+www.outbyte.com
+
+#### Fortect (6 domain)
+# ⚠️ scareware
+fortect.com
+postman.fortect.com
+account.fortect.com
+support.fortect.com
+secure.fortect.com
+www.fortect.com
+
+#### PCHelpSoft (Avanquest) (3 domain)
+pchelpsoft.com
+support.pchelpsoft.com
+www.pchelpsoft.com
+
+#### Adaware / Lavasoft (Avanquest) (6 domain)
+# Meşru Ad-Aware'den bundleware'e dönüşen tartışmalı AV
+adaware.com
+support.adaware.com
+www.adaware.com
+lavasoft.com
+secure.lavasoft.com
+acscdn.lavasoft.com
+
+#### Misc Registry Cleaners (7 domain)
+registry-cleaner.net
+registrycleaner.com
+registryquick.net
+registryfix.net
+aiseesoft.com
+support.aiseesoft.com
+www.aiseesoft.com
+
+#### Misc Junkware / PC Optimizer / Scareware (62 domain)
+bluesprig.com
+jetclean.com
+yamicsoft.com
+ylcomputing.com
+winutilities.com
+pointstone.com
+acelogix.com
+eaaceutilities.com
+macecraft.com
+jv16powertools.com
+registryeasy.com
+registry-easy.com
+topregistrycleaner.com
+registrywinner.com
+rosecitysoftware.com
+tune-up.com
+tuneup.com
+simplepcoptimizer.com
+www.simplepcoptimizer.com
+simplediskoptimizer.com
+www.simplediskoptimizer.com
+kingshiper.com
+www.kingshiper.com
+totalcleaner.com
+softuna.com
+totalpccare.com
+bit-guardian.com
+support.bit-guardian.com
+blog.bit-guardian.com
+win-guardian.com
+winriser.com
+winguardian.net
+speedoptimizer.com
+speedbit.com
+winspeedpro.com
+fcleaner.com
+argenteutilities.com
+vitsoft.net
+tweaknow.com
+rabidcleaner.com
+tweaking.com
+gocleanpc.com
+pccleaner.site
+thecyberprotector.com
+pccleanerpro.com
+speedypcpro.com
+pcperformer.com
+performanceoptimizer.com
+speedmaxpc.com
+pcoptimizerpro.com
+pctuneupmaestro.com
+errorrepair.com
+errorsmart.com
+yourpcsolutions.com
+speedituppro.com
+pcfixspeed.com
+pcrepairkit.com
+defencebyte.com
+defencebyte.net
+kerish.org
+kerishproducts.com
+pegasun.com
+
+#### Driver Update — Scam / PUP Servisleri (22 domain)
+# Aşağıdakiler doğrulama sonrası scam/PUP olarak teyit edildi.
+# DriverEasy doğrulamada meşru çıktı → Bölüm 2 agresif listesine taşındı.
+driverfix.com
+easeware.com
+driverturbo.com
+driversupport.com
+pcdrivershq.com
+drivertoolkit.com
+megaify.com
+drivergenius.com
+drivermax.com
+driverhub.net
+drivernavigator.com
+user.drivermax.com
+innovative-sol.com
+support.drivertoolkit.com
+www.drivergenius.com
+webapp.driversupport.com
+accountportal.driversupport.com
+driverscloud.com
+driver-soft.com
+drp.su
+driverpack.io
+biosagentplus.com
+
+#### eSupport / DriverAgent (6 domain)
+# Otomatik ödeme kayıt tuzağı olarak belgelenmiş
+driveragent.com
+secure.esupport.com
+registrywizard.com
+undeleteplusapp.com
+ioptimizer.com
+support.driveragent.com
+
+#### Mac — Kromtech / MacKeeper / Clario (9 domain)
+# Tarihsel scareware (Zeobit 2010–2013, Kromtech 2013–2019) → 2019 sonrası Clario reformu
+# ⚠️ Doğrulama notu: Zeobit/Kromtech döneminde AV-Comparatives temiz Mac'te "ciddi sorunlar" tespit etti (Brian Krebs scareware dedi), 2014 class action ($2M uzlaşma), 2015'te 13M kullanıcı veri ihlali. Clario (2019+) köklü reform: AV-TEST 18/18 tam puan (2025), Apple notarizasyonu, ISO 27001. Eski Kromtech altyapı domainleri kesinlikle engellenir.
+kromtech.com
+pckeeper.com
+event.mackeeper.com
+app4.kromtech.net
+app6.kromtech.net
+app7.kromtech.net
+account.kromtech.net
+memorykeeper.com
+trackmymac.com
+
+#### Mac Scareware — PCVark Ailesi (29 domain)
+# Advanced Mac Cleaner, Mac Auto Fixer, Mac Tonic, Mac Mechanic · Sahte virüs uyarısı, browser hijack
+advanced-mac-cleaner.com
+macautofixer.com
+macmechanic.com
+macoptimizerpro.com
+mactonic.com
+mactonic.net
+cleanupmymac.com
+maccleanerguru.com
+advancedmactools.com
+smartmacbooster.com
+unpollute-my-mac.com
+mac-cleanup-pro.com
+mac-ads-cleaner.com
+similarphotocleaner.com
+techyutils.com
+d845108.t43.tonichost.com
+apple.com-scan.live
+cleanupmymac.live
+cleanup-my-mac.live
+mac-speedup-pro.com
+advancemactools.live
+apple.com-shield.live
+advancedmactools.live
+superutils.co
+lp.superutils.co
+yourmonday97.live
+sweeps5164.yourmonday97.live
+pcv.com
+pcvark.com
+
+
+### ━━━ 1B · C2 MALWARE ALTYAPISI — DERHAL ENGELLE ━━━
+# CPUID supply chain saldırısı (9–10 Nisan 2026) C2 domainleri
+
+#### CPUID Supply Chain C2 (4 domain)
+supp0v3.com
+helloworld.supp0v3.com
+welcome.supp0v3.com
+nof1.ai.supp0v3.com
+
+
+### ━━━ 1C · MEŞRU YAZILIM — YALNIZCA TELEMETRİ / ANALYTİCS / TRACKİNG ━━━
+# Ana yazılım işlevi korunur. Yalnızca veri toplama subdomainleri engellenir.
+
+#### IOBit (2 domain)
+telemetry.iobit.com
+stats.iobit.com
+
+#### CCleaner / Piriform / Avast — Tracking (5 domain)
+tracking.ccleaner.com
+stats.ccleaner.com
+telemetry.ccleaner.com
+analytics.ccleaner.com
+analytics.avcdn.net
+
+#### Glarysoft (1 domain)
+metrics.glarysoft.com
+
+#### AIDA64 (FinalWire) (1 domain)
+telemetry.aida64.com
+
+#### EVGA (1 domain)
+telemetry.evga.com
+
+#### UL Benchmarks (3DMark, PCMark, VRMark) (2 domain)
+telemetry.ul.com
+analytics.3dmark.com
+
+#### Maxon / Cinebench (1 domain)
+telemetry.maxon.net
+
+#### Passmark PerformanceTest (1 domain)
+telemetry.passmark.com
+
+#### Geekbench / Primate Labs (1 domain)
+telemetry.geekbench.com
+
+#### Ashampoo (3 domain)
+telemetry.ashampoo.com
+anon-analytics.data.ashampoo.com
+analytics.data.ashampoo.com
+
+#### Process Lasso / Bitsum (1 domain)
+telemetry.bitsum.com
+
+#### Privacy Eraser / Cybertronsoft (1 domain)
+telemetry.cybertronsoft.com
+
+#### ASCOMP (1 domain)
+telemetry.ascomp.com
+
+#### Duplicate Cleaner / Digital Volcano (1 domain)
+telemetry.digitalvolcano.co.uk
+
+#### Battery Optimizer (1 domain)
+telemetry.batteryoptimizer.net
+
+#### MacPaw (CleanMyMac X) — Tracking Links (1 domain)
+analytics.macpaw.com
