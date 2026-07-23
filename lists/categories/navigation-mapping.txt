@@ -1,0 +1,75 @@
+# ============================================================
+# NAVIGATION & MAPPING BLOCKLIST
+# Total domains: 46
+# Last update: (2026-07-16)
+# ============================================================
+
+# --- WAZE — Reklam & İstatistik --- (21 domain)
+analytics.waze.com
+ads.waze.com
+ads.world.waze.com
+adsapi.waze.com
+adsapi1.waze.com
+adview-prod-am.waze.com
+adview-prod-il.waze.com
+adview-prod-row.waze.com
+advertising.waze.com
+ads-resources.waze.com
+adsassets.waze.com
+adassets.waze.com
+stats.waze.com
+rt-clientstats-il.waze.com
+adsapi-proxy-il.waze.com
+adsapi-proxy-na.waze.com
+adsapi-proxy-row.waze.com
+adsapi-proxy.waze.com
+adsassets-ipv6.waze.com
+advil.waze.com
+advilapsoutheast1.waze.com
+
+# --- MAPBOX — Telemetri & Analytics --- (5 domain)
+# Mapbox SDK, konum olaylarını (her rota başlatma, konum ping vb.) bu endpointlere iletir. Harita render ve routing'i etkilemez.
+events.mapbox.com
+analytics.mapbox.com
+telemetry.mapbox.com
+events.mapbox.cn
+crash.mapbox.com
+
+# --- TOMTOM --- (1 domain)
+appanalytics.tomtom.com
+
+# --- MOOVIT --- (6 domain)
+ads.moovit.com
+analytics.moovit.com
+track.stories.moovit.com
+track.go.moovit.com
+gtrack.stories.moovit.com
+gtrack.go.moovit.com
+
+# --- MAPS.ME --- (2 domain)
+analytics.maps.me
+stat.maps.me
+
+# --- KOMOOT --- (1 domain)
+analytics.komoot.com
+
+# --- MAPY.CZ / SEZNAM --- (1 domain)
+# Seznam'ın web tracking pixel servisi. Harita fonksiyonundan bağımsız.
+hit.seznam.cz
+
+# --- NAVER MAP --- (6 domain)
+# Naver Web Comprehensive Statistics — Naver'ın birincil analytics altyapısı.
+wcs.naver.com
+ad.search.naver.com
+ads.naver.com
+analytics.naver.com
+localad.naver.com
+searchad.naver.com
+
+# --- KAKAO MAP --- (2 domain)
+track.kakao.com
+ua.kakao.com
+
+# --- SYGIC --- (1 domain)
+# Infinario/Exponea: Sygic'in entegre ettiği pazarlama otomasyon SDK'sı.
+sygic.api.infinario.com
