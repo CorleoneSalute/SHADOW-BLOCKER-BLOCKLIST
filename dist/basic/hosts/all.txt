@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1164
+# Total domains: 1190
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -120,6 +120,7 @@
 0.0.0.0 analytics.abema.tv
 0.0.0.0 analytics.api.brightcove.com
 0.0.0.0 analytics.appsflyer.com
+0.0.0.0 analytics.bear.app
 0.0.0.0 analytics.beermenus.com
 0.0.0.0 analytics.bilibili.com
 0.0.0.0 analytics.binge.com.au
@@ -133,8 +134,10 @@
 0.0.0.0 analytics.clarovideo.com
 0.0.0.0 analytics.clickbank.com
 0.0.0.0 analytics.conviva.com
+0.0.0.0 analytics.craft.do
 0.0.0.0 analytics.crave.ca
 0.0.0.0 analytics.crunchyroll.com
+0.0.0.0 analytics.cs.zohohost.com
 0.0.0.0 analytics.curiositystream.com
 0.0.0.0 analytics.dailywire.com
 0.0.0.0 analytics.dazn.com
@@ -144,6 +147,7 @@
 0.0.0.0 analytics.disneynow.com
 0.0.0.0 analytics.disneyplus.com
 0.0.0.0 analytics.espn.com
+0.0.0.0 analytics.evernote.com
 0.0.0.0 analytics.fandangoathome.com
 0.0.0.0 analytics.fleksy.com
 0.0.0.0 analytics.fubo.tv
@@ -153,6 +157,7 @@
 0.0.0.0 analytics.hotstar.com
 0.0.0.0 analytics.hulu.com
 0.0.0.0 analytics.iqiyi.com
+0.0.0.0 analytics.joplincloud.com
 0.0.0.0 analytics.jwplayer.com
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kidoodle.tv
@@ -172,6 +177,7 @@
 0.0.0.0 analytics.netflix.com
 0.0.0.0 analytics.nicovideo.jp
 0.0.0.0 analytics.noggin.com
+0.0.0.0 analytics.obsidian.md
 0.0.0.0 analytics.paramountplus.com
 0.0.0.0 analytics.parsely.com
 0.0.0.0 analytics.pbskids.org
@@ -183,8 +189,10 @@
 0.0.0.0 analytics.prageru.com
 0.0.0.0 analytics.protected.media
 0.0.0.0 analytics.rakutenmarketing.com
+0.0.0.0 analytics.roamresearch.com
 0.0.0.0 analytics.rtlplus.com
 0.0.0.0 analytics.rumble.com
+0.0.0.0 analytics.simplenote.com
 0.0.0.0 analytics.skyshowtime.com
 0.0.0.0 analytics.stan.com.au
 0.0.0.0 analytics.taphunter.com
@@ -204,6 +212,7 @@
 0.0.0.0 analytics.youbora.com
 0.0.0.0 analytics.youku.com
 0.0.0.0 analytics.zee5.com
+0.0.0.0 analytics.zoho.com
 0.0.0.0 analyticshub.services.swiftkey.com
 0.0.0.0 analyticshub.swiftkey.com
 0.0.0.0 anrdoezrs.net
@@ -330,8 +339,18 @@
 0.0.0.0 cbsi.demdex.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cd.navdmp.com
+0.0.0.0 cdn-ae.pagesense.io
 0.0.0.0 cdn-analytics.bamgrid.com
 0.0.0.0 cdn-analytics.pluto.tv
+0.0.0.0 cdn-au.pagesense.io
+0.0.0.0 cdn-ca.pagesense.io
+0.0.0.0 cdn-eu.pagesense.io
+0.0.0.0 cdn-in.pagesense.io
+0.0.0.0 cdn-inec.pagesense.io
+0.0.0.0 cdn-jp.pagesense.io
+0.0.0.0 cdn-lz.pagesense.io
+0.0.0.0 cdn-sa.pagesense.io
+0.0.0.0 cdn-sg.pagesense.io
 0.0.0.0 cdn.acxiom.com
 0.0.0.0 cdn.clicktale.net
 0.0.0.0 cdn.decibelinsight.net
@@ -358,6 +377,7 @@
 0.0.0.0 cdn.medallia.com
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 cdn.navdmp.com
+0.0.0.0 cdn.pagesense.io
 0.0.0.0 cdn.permutive.app
 0.0.0.0 cdn.plerdy.com
 0.0.0.0 cdn.ptengine.com
@@ -511,6 +531,7 @@
 0.0.0.0 eu.mouseflow.com
 0.0.0.0 eu.smartlook.cloud
 0.0.0.0 eu.uxcam.com
+0.0.0.0 euc-onenote-telemetry.officeapps.live.com
 0.0.0.0 event.appsflyer.com
 0.0.0.0 events-writer.eu.smartlook.cloud
 0.0.0.0 events.cuebiq.com
@@ -520,6 +541,7 @@
 0.0.0.0 events.mapbox.cn
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.mux.com
+0.0.0.0 evernotemetrics.com
 0.0.0.0 evgen.appsflyer.com
 0.0.0.0 exactdata.com
 0.0.0.0 exads.crakrevenue.com
@@ -700,6 +722,7 @@
 0.0.0.0 metrics.discoveryplus.com
 0.0.0.0 metrics.disneyplus.com
 0.0.0.0 metrics.espn.com
+0.0.0.0 metrics.evernote.com
 0.0.0.0 metrics.fubo.tv
 0.0.0.0 metrics.globo.com
 0.0.0.0 metrics.hbomax.com
@@ -777,6 +800,7 @@
 0.0.0.0 outlogic.io
 0.0.0.0 p.clarity.ms
 0.0.0.0 p.plerdy.com
+0.0.0.0 pagesense.io
 0.0.0.0 parental-control-metrics.youtubekids.com
 0.0.0.0 parsely.com
 0.0.0.0 pdt.netaffiliation.com
@@ -1167,5 +1191,7 @@
 0.0.0.0 zeydoo.com
 0.0.0.0 ziffmedia.com
 0.0.0.0 zipy.ai
+0.0.0.0 zohoinsights.com
+0.0.0.0 zohotagmanager.cdn.pagesense.io
 0.0.0.0 zoom.info
 0.0.0.0 zoominfo.com

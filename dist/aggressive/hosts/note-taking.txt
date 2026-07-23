@@ -1,0 +1,33 @@
+# ============================================================
+# NOTE TAKING BLOCKLIST - AGGRESSIVE
+# Total domains: 26
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 analytics.bear.app
+0.0.0.0 analytics.craft.do
+0.0.0.0 analytics.cs.zohohost.com
+0.0.0.0 analytics.evernote.com
+0.0.0.0 analytics.joplincloud.com
+0.0.0.0 analytics.obsidian.md
+0.0.0.0 analytics.roamresearch.com
+0.0.0.0 analytics.simplenote.com
+0.0.0.0 analytics.zoho.com
+0.0.0.0 cdn-ae.pagesense.io
+0.0.0.0 cdn-au.pagesense.io
+0.0.0.0 cdn-ca.pagesense.io
+0.0.0.0 cdn-eu.pagesense.io
+0.0.0.0 cdn-in.pagesense.io
+0.0.0.0 cdn-inec.pagesense.io
+0.0.0.0 cdn-jp.pagesense.io
+0.0.0.0 cdn-lz.pagesense.io
+0.0.0.0 cdn-sa.pagesense.io
+0.0.0.0 cdn-sg.pagesense.io
+0.0.0.0 cdn.pagesense.io
+0.0.0.0 euc-onenote-telemetry.officeapps.live.com
+0.0.0.0 evernotemetrics.com
+0.0.0.0 metrics.evernote.com
+0.0.0.0 pagesense.io
+0.0.0.0 zohoinsights.com
+0.0.0.0 zohotagmanager.cdn.pagesense.io

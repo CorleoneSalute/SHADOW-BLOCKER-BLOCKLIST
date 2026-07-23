@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1203
+# Total domains: 1229
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -125,6 +125,7 @@
 ||analytics.abema.tv^
 ||analytics.api.brightcove.com^
 ||analytics.appsflyer.com^
+||analytics.bear.app^
 ||analytics.beermenus.com^
 ||analytics.bilibili.com^
 ||analytics.binge.com.au^
@@ -138,8 +139,10 @@
 ||analytics.clarovideo.com^
 ||analytics.clickbank.com^
 ||analytics.conviva.com^
+||analytics.craft.do^
 ||analytics.crave.ca^
 ||analytics.crunchyroll.com^
+||analytics.cs.zohohost.com^
 ||analytics.curiositystream.com^
 ||analytics.dailywire.com^
 ||analytics.dazn.com^
@@ -149,6 +152,7 @@
 ||analytics.disneynow.com^
 ||analytics.disneyplus.com^
 ||analytics.espn.com^
+||analytics.evernote.com^
 ||analytics.fandangoathome.com^
 ||analytics.fleksy.com^
 ||analytics.fubo.tv^
@@ -158,6 +162,7 @@
 ||analytics.hotstar.com^
 ||analytics.hulu.com^
 ||analytics.iqiyi.com^
+||analytics.joplincloud.com^
 ||analytics.jwplayer.com^
 ||analytics.kaltura.com^
 ||analytics.kidoodle.tv^
@@ -177,6 +182,7 @@
 ||analytics.netflix.com^
 ||analytics.nicovideo.jp^
 ||analytics.noggin.com^
+||analytics.obsidian.md^
 ||analytics.paramountplus.com^
 ||analytics.parsely.com^
 ||analytics.pbskids.org^
@@ -188,8 +194,10 @@
 ||analytics.prageru.com^
 ||analytics.protected.media^
 ||analytics.rakutenmarketing.com^
+||analytics.roamresearch.com^
 ||analytics.rtlplus.com^
 ||analytics.rumble.com^
+||analytics.simplenote.com^
 ||analytics.skyshowtime.com^
 ||analytics.stan.com.au^
 ||analytics.taphunter.com^
@@ -209,6 +217,7 @@
 ||analytics.youbora.com^
 ||analytics.youku.com^
 ||analytics.zee5.com^
+||analytics.zoho.com^
 ||analyticshub.services.swiftkey.com^
 ||analyticshub.swiftkey.com^
 ||anrdoezrs.net^
@@ -335,10 +344,20 @@
 ||cbsi.demdex.net^
 ||cbsinteractive.hb.omtrdc.net^
 ||cd.navdmp.com^
+||cdn-ae.pagesense.io^
 ||cdn-analytics.bamgrid.com^
 ||cdn-analytics.hbomax.com^
 ||cdn-analytics.hulu.com^
 ||cdn-analytics.pluto.tv^
+||cdn-au.pagesense.io^
+||cdn-ca.pagesense.io^
+||cdn-eu.pagesense.io^
+||cdn-in.pagesense.io^
+||cdn-inec.pagesense.io^
+||cdn-jp.pagesense.io^
+||cdn-lz.pagesense.io^
+||cdn-sa.pagesense.io^
+||cdn-sg.pagesense.io^
 ||cdn-telemetry.netflix.com^
 ||cdn.acxiom.com^
 ||cdn.clicktale.net^
@@ -366,6 +385,7 @@
 ||cdn.medallia.com^
 ||cdn.mouseflow.com^
 ||cdn.navdmp.com^
+||cdn.pagesense.io^
 ||cdn.permutive.app^
 ||cdn.plerdy.com^
 ||cdn.ptengine.com^
@@ -522,6 +542,7 @@
 ||eu.mouseflow.com^
 ||eu.smartlook.cloud^
 ||eu.uxcam.com^
+||euc-onenote-telemetry.officeapps.live.com^
 ||event.appsflyer.com^
 ||events-writer.eu.smartlook.cloud^
 ||events.cuebiq.com^
@@ -531,6 +552,7 @@
 ||events.mapbox.cn^
 ||events.mapbox.com^
 ||events.mux.com^
+||evernotemetrics.com^
 ||evgen.appsflyer.com^
 ||exactdata.com^
 ||exads.crakrevenue.com^
@@ -719,6 +741,7 @@
 ||metrics.discoveryplus.com^
 ||metrics.disneyplus.com^
 ||metrics.espn.com^
+||metrics.evernote.com^
 ||metrics.fubo.tv^
 ||metrics.globo.com^
 ||metrics.hbomax.com^
@@ -797,6 +820,7 @@
 ||outlogic.io^
 ||p.clarity.ms^
 ||p.plerdy.com^
+||pagesense.io^
 ||parental-control-metrics.youtubekids.com^
 ||parsely.com^
 ||pdt.netaffiliation.com^
@@ -1206,5 +1230,7 @@
 ||zeydoo.com^
 ||ziffmedia.com^
 ||zipy.ai^
+||zohoinsights.com^
+||zohotagmanager.cdn.pagesense.io^
 ||zoom.info^
 ||zoominfo.com^
