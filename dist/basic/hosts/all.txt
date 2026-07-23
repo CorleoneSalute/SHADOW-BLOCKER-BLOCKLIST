@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3043
+# Total domains: 3101
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -120,6 +120,7 @@
 0.0.0.0 ads.hbomax.com
 0.0.0.0 ads.hotstar.com
 0.0.0.0 ads.hulu.com
+0.0.0.0 ads.idwall.co
 0.0.0.0 ads.iqiyi.com
 0.0.0.0 ads.jwplayer.com
 0.0.0.0 ads.kakaopay.com
@@ -197,6 +198,7 @@
 0.0.0.0 amplitude.usemotion.com
 0.0.0.0 an.avast.com
 0.0.0.0 analytic.underarmour.com
+0.0.0.0 analytics-api.id.me
 0.0.0.0 analytics-api.obefitness.com
 0.0.0.0 analytics-api.vervemobile.com
 0.0.0.0 analytics-cdn.obefitness.com
@@ -212,7 +214,10 @@
 0.0.0.0 analytics-origin.cod.ed.gov
 0.0.0.0 analytics-pbl.vivino.com
 0.0.0.0 analytics-portal.8x8.com
+0.0.0.0 analytics-primary.trulioo.com
 0.0.0.0 analytics-prod-gcp.ff.avast.com
+0.0.0.0 analytics-report.idwall.co
+0.0.0.0 analytics-sdk-1.onfido.com
 0.0.0.0 analytics-stage.ff.avast.com
 0.0.0.0 analytics-v2.tensor.trade
 0.0.0.0 analytics.1password.com
@@ -328,6 +333,7 @@
 0.0.0.0 analytics.discoveryplus.com
 0.0.0.0 analytics.disneynow.com
 0.0.0.0 analytics.disneyplus.com
+0.0.0.0 analytics.dowjones.com
 0.0.0.0 analytics.duosecurity.com
 0.0.0.0 analytics.eatthismuch.com
 0.0.0.0 analytics.ecrettmusic.com
@@ -397,10 +403,12 @@
 0.0.0.0 analytics.hulu.com
 0.0.0.0 analytics.hungryroot.com
 0.0.0.0 analytics.hyperx.com
+0.0.0.0 analytics.id.me
 0.0.0.0 analytics.ieee.org
 0.0.0.0 analytics.image-line.com
 0.0.0.0 analytics.immutable.com
 0.0.0.0 analytics.imtranslator.net
+0.0.0.0 analytics.incode.com
 0.0.0.0 analytics.indrive.com
 0.0.0.0 analytics.insighttimer.com
 0.0.0.0 analytics.iono.fm
@@ -412,6 +420,7 @@
 0.0.0.0 analytics.jitsi.net
 0.0.0.0 analytics.joplincloud.com
 0.0.0.0 analytics.joro.tech
+0.0.0.0 analytics.jumio.com
 0.0.0.0 analytics.jwplayer.com
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.keeper.io
@@ -538,6 +547,7 @@
 0.0.0.0 analytics.podigee.com
 0.0.0.0 analytics.pof.com
 0.0.0.0 analytics.prageru.com
+0.0.0.0 analytics.prembly.com
 0.0.0.0 analytics.premom.com
 0.0.0.0 analytics.prepear.com
 0.0.0.0 analytics.preply.com
@@ -1076,6 +1086,7 @@
 0.0.0.0 clearbit.com
 0.0.0.0 click.adikteev.com
 0.0.0.0 click.appsflyer.com
+0.0.0.0 click.insights.seon.io
 0.0.0.0 click.mail.crakrevenue.com
 0.0.0.0 click.remerge.io
 0.0.0.0 click.stat.hao.360.cn
@@ -1110,11 +1121,20 @@
 0.0.0.0 collect.evergage.com
 0.0.0.0 collect.ficfun.com
 0.0.0.0 collect.mindbodyonline.com
+0.0.0.0 collect.passfort.com
 0.0.0.0 collect.skrill.com
 0.0.0.0 collect.springer.com
 0.0.0.0 collect.springernature.com
+0.0.0.0 collect.uae.passfort.com
 0.0.0.0 collect.youbora.com
 0.0.0.0 collection-point.api.gymshark.com
+0.0.0.0 collection.ae.maxsight.com
+0.0.0.0 collection.eu.maxsight.com
+0.0.0.0 collection.passfort.com
+0.0.0.0 collection.risk.lexisnexis.com
+0.0.0.0 collection.uae.passfort.com
+0.0.0.0 collection.us.maxsight.com
+0.0.0.0 collection.us.passfort.com
 0.0.0.0 collections.cmp.optimizely.com
 0.0.0.0 collections.marketing.cmp.optimizely.com
 0.0.0.0 collector-eu.conviva.com
@@ -1271,9 +1291,12 @@
 0.0.0.0 delivery.remerge.io
 0.0.0.0 dentsu.co.jp
 0.0.0.0 dentsu.com
+0.0.0.0 dependencytrack-api.hub.klippa.com
+0.0.0.0 dependencytrack.hub.klippa.com
 0.0.0.0 dev.jwpltx.com
 0.0.0.0 developer.dnb.com
 0.0.0.0 device-analytics.hulu.com
+0.0.0.0 device-fingerprint.socure.com
 0.0.0.0 device-identity.bamgrid.com
 0.0.0.0 device-metrics.hulu.com
 0.0.0.0 digital.medallia.com
@@ -1306,6 +1329,7 @@
 0.0.0.0 driver.applog.bolt.eu
 0.0.0.0 dsp.zetaglobal.com
 0.0.0.0 dsstat.kaspersky.com
+0.0.0.0 dtrack.facia.ai
 0.0.0.0 dummy.applog.bolt.eu
 0.0.0.0 dunandbradstreet.com
 0.0.0.0 dwin1.com
@@ -1449,10 +1473,14 @@
 0.0.0.0 fledge.us.criteo.com
 0.0.0.0 flexlinks.com
 0.0.0.0 flexlinkspro.com
+0.0.0.0 fmtrack1.fractal.id
+0.0.0.0 fn.us.metricscdn2.eu.veri-das.com
 0.0.0.0 formcomplete.zoominfo.com
 0.0.0.0 fp-api.data.sandbox.game
+0.0.0.0 fp-metrics.shuftipro.com
 0.0.0.0 fp.adultfriendfinder.com
 0.0.0.0 fp.passion.com
+0.0.0.0 fpmetrics.sumsub.com
 0.0.0.0 fr-metrics.seetickets.com
 0.0.0.0 fraud.adikteev.com
 0.0.0.0 fraud.remerge.io
@@ -1686,9 +1714,12 @@
 0.0.0.0 logger.kameleoon.io
 0.0.0.0 logger.sciencedirect.com
 0.0.0.0 logger.scite.ai
+0.0.0.0 logging-janus.env.ubble.ai
+0.0.0.0 logging-web.env.ubble.ai
 0.0.0.0 logging.archlinux.org
 0.0.0.0 logging.bamgrid.com
 0.0.0.0 logging.bunnycdn.com
+0.0.0.0 logging.facia.ai
 0.0.0.0 logging.netflix.com
 0.0.0.0 logging.rarible.com
 0.0.0.0 logr-in.com
@@ -1789,6 +1820,7 @@
 0.0.0.0 metrics.add.app
 0.0.0.0 metrics.alipay.com
 0.0.0.0 metrics.altlinux.org
+0.0.0.0 metrics.amani.ai
 0.0.0.0 metrics.anthropic.com
 0.0.0.0 metrics.avast.com
 0.0.0.0 metrics.binge.com.au
@@ -1819,6 +1851,7 @@
 0.0.0.0 metrics.duolingo.com
 0.0.0.0 metrics.ea.com
 0.0.0.0 metrics.espn.com
+0.0.0.0 metrics.eu.platform.idnow.io
 0.0.0.0 metrics.evernote.com
 0.0.0.0 metrics.expressvpn.com
 0.0.0.0 metrics.flo.health
@@ -1833,7 +1866,9 @@
 0.0.0.0 metrics.hotstar.com
 0.0.0.0 metrics.hulu.com
 0.0.0.0 metrics.hyperx.com
+0.0.0.0 metrics.idfy.com
 0.0.0.0 metrics.image-line.com
+0.0.0.0 metrics.infra.yoti.com
 0.0.0.0 metrics.ipvanish.com
 0.0.0.0 metrics.jwplayer.com
 0.0.0.0 metrics.kaizen.nvidia.com
@@ -1906,6 +1941,7 @@
 0.0.0.0 metrics.ubuntu.com
 0.0.0.0 metrics.unpaywall.org
 0.0.0.0 metrics.vagaro.com
+0.0.0.0 metrics.veridas.com
 0.0.0.0 metrics.viaplay.com
 0.0.0.0 metrics.videoland.com
 0.0.0.0 metrics.vive.com
@@ -1918,6 +1954,10 @@
 0.0.0.0 metrics.zenoti.com
 0.0.0.0 metrics.zetaglobal.com
 0.0.0.0 metrics2.boomy.com
+0.0.0.0 metricscdn.eu.veri-das.com
+0.0.0.0 metricscdn.us.veri-das.com
+0.0.0.0 metricscdn.veri-das.com
+0.0.0.0 metricscdn2.eu.veri-das.com
 0.0.0.0 metricstm.podcastle.ai
 0.0.0.0 metrix.adultfriendfinder.com
 0.0.0.0 mi.telemetry.lab.norton.com
@@ -2000,6 +2040,7 @@
 0.0.0.0 oracleinfinity.io
 0.0.0.0 orbit-telemetry.ubi.com
 0.0.0.0 origin-analytics.branch.io
+0.0.0.0 osint.au10tix.com
 0.0.0.0 otel.observability.app.launchdarkly.com
 0.0.0.0 otlp.bugsnag.com
 0.0.0.0 otlp.bugsnag.smartbear.com
@@ -2081,6 +2122,8 @@
 0.0.0.0 preprocessor.heatmap.com
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 prod.log.shortbread.aws.dev
+0.0.0.0 prod.logs.infra.yoti.com
+0.0.0.0 prod.logs.yoti.com
 0.0.0.0 prodregistryv2.org
 0.0.0.0 production.ads.cj.com
 0.0.0.0 profiling.sentry.io
@@ -2249,6 +2292,7 @@
 0.0.0.0 segment.taphunter.com
 0.0.0.0 segment.untappd.com
 0.0.0.0 segment.vivino.com
+0.0.0.0 segment.withpersona.com
 0.0.0.0 segmentapi.presonus.com
 0.0.0.0 segments.adikteev.com
 0.0.0.0 segments.hitnmix.com
@@ -2262,12 +2306,16 @@
 0.0.0.0 sentry.clickdealer.com
 0.0.0.0 sentry.codeium.com
 0.0.0.0 sentry.highscore.com
+0.0.0.0 sentry.hub.klippa.com
+0.0.0.0 sentry.identomat.com
 0.0.0.0 sentry.io
 0.0.0.0 sentry.io.steinberg.net
+0.0.0.0 sentry.klippa.com
 0.0.0.0 sentry.protonvpn.com
 0.0.0.0 sentry.scielo.org
 0.0.0.0 sentry.scispace.com
 0.0.0.0 sentry.squareup.com
+0.0.0.0 sentry.sumsub.com
 0.0.0.0 sentry.sync.me
 0.0.0.0 sentry.system76.com
 0.0.0.0 sentry.xinchenai.com
@@ -2651,6 +2699,7 @@
 0.0.0.0 trace.nordvpn.com
 0.0.0.0 track-apollo.teleport.varjo.com
 0.0.0.0 track-aws.m.ridewithvia.com
+0.0.0.0 track-dr.risk.lexisnexis.com
 0.0.0.0 track-integration.gojek.com
 0.0.0.0 track-marketing.coins.ph
 0.0.0.0 track.adikteev.com
@@ -2708,6 +2757,7 @@
 0.0.0.0 track.remerge.io
 0.0.0.0 track.researchrabbit.ai
 0.0.0.0 track.retargeter.com
+0.0.0.0 track.risk.lexisnexis.com
 0.0.0.0 track.romanticai.com
 0.0.0.0 track.stories.moovit.com
 0.0.0.0 track.stubhub.com
@@ -2749,13 +2799,16 @@
 0.0.0.0 tracking.buzzsprout.com
 0.0.0.0 tracking.captivate.fm
 0.0.0.0 tracking.chewy.com
+0.0.0.0 tracking.cognitohq.com
 0.0.0.0 tracking.cohostpodcasting.com
 0.0.0.0 tracking.crazyegg.com
 0.0.0.0 tracking.csc.flm.fujitsu.com
 0.0.0.0 tracking.cyberghostvpn.com
+0.0.0.0 tracking.dowjones.com
 0.0.0.0 tracking.effiliation.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.expressvpn.com
+0.0.0.0 tracking.facia.ai
 0.0.0.0 tracking.feedpress.com
 0.0.0.0 tracking.feedpress.it
 0.0.0.0 tracking.fresha.com
@@ -2795,6 +2848,7 @@
 0.0.0.0 tracking.redcircle.com
 0.0.0.0 tracking.reservebar.com
 0.0.0.0 tracking.ridewithvia.com
+0.0.0.0 tracking.risk.lexisnexis.com
 0.0.0.0 tracking.rosettastone.com
 0.0.0.0 tracking.screencastify.com
 0.0.0.0 tracking.screenpal.com
@@ -2825,6 +2879,7 @@
 0.0.0.0 trckr.petcube.com
 0.0.0.0 trino-analytics-ext.data.bird.co
 0.0.0.0 trk.datify.link
+0.0.0.0 trk.dowjones.com
 0.0.0.0 trk.eib.presonus.com
 0.0.0.0 trk.gojek.com
 0.0.0.0 trk.hi.pvolve.com
@@ -2845,6 +2900,7 @@
 0.0.0.0 tvinteractive.tv
 0.0.0.0 tvp-ads-log.samsungads.com
 0.0.0.0 twipla.com
+0.0.0.0 txmonitor.sumsub.com
 0.0.0.0 u.clarity.ms
 0.0.0.0 ua.kakao.com
 0.0.0.0 ubimo.com
@@ -2885,6 +2941,7 @@
 0.0.0.0 vars.webmaxy.com
 0.0.0.0 vast.adikteev.com
 0.0.0.0 vast.remerge.io
+0.0.0.0 vault.analytics.ubble.ai
 0.0.0.0 vc.webmaxy.io
 0.0.0.0 vce.comscore.com
 0.0.0.0 venntel.com
@@ -3028,6 +3085,7 @@
 0.0.0.0 yceml.net
 0.0.0.0 youbora.com
 0.0.0.0 youboranqs01.com
+0.0.0.0 youtrack.idscan.net
 0.0.0.0 youtrack.ops.connatix.com
 0.0.0.0 youtube-analytics.googleapis.com
 0.0.0.0 youtube-kids-metrics.googleapis.com

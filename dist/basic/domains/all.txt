@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3043
+# Total domains: 3101
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -120,6 +120,7 @@ ads.gpapps.com
 ads.hbomax.com
 ads.hotstar.com
 ads.hulu.com
+ads.idwall.co
 ads.iqiyi.com
 ads.jwplayer.com
 ads.kakaopay.com
@@ -197,6 +198,7 @@ amplitude.flo.health
 amplitude.usemotion.com
 an.avast.com
 analytic.underarmour.com
+analytics-api.id.me
 analytics-api.obefitness.com
 analytics-api.vervemobile.com
 analytics-cdn.obefitness.com
@@ -212,7 +214,10 @@ analytics-old.openaire.eu
 analytics-origin.cod.ed.gov
 analytics-pbl.vivino.com
 analytics-portal.8x8.com
+analytics-primary.trulioo.com
 analytics-prod-gcp.ff.avast.com
+analytics-report.idwall.co
+analytics-sdk-1.onfido.com
 analytics-stage.ff.avast.com
 analytics-v2.tensor.trade
 analytics.1password.com
@@ -328,6 +333,7 @@ analytics.digitalpour.com
 analytics.discoveryplus.com
 analytics.disneynow.com
 analytics.disneyplus.com
+analytics.dowjones.com
 analytics.duosecurity.com
 analytics.eatthismuch.com
 analytics.ecrettmusic.com
@@ -397,10 +403,12 @@ analytics.hubhopper.com
 analytics.hulu.com
 analytics.hungryroot.com
 analytics.hyperx.com
+analytics.id.me
 analytics.ieee.org
 analytics.image-line.com
 analytics.immutable.com
 analytics.imtranslator.net
+analytics.incode.com
 analytics.indrive.com
 analytics.insighttimer.com
 analytics.iono.fm
@@ -412,6 +420,7 @@ analytics.jackd.com
 analytics.jitsi.net
 analytics.joplincloud.com
 analytics.joro.tech
+analytics.jumio.com
 analytics.jwplayer.com
 analytics.kaltura.com
 analytics.keeper.io
@@ -538,6 +547,7 @@ analytics.podcastle.ai
 analytics.podigee.com
 analytics.pof.com
 analytics.prageru.com
+analytics.prembly.com
 analytics.premom.com
 analytics.prepear.com
 analytics.preply.com
@@ -1076,6 +1086,7 @@ clarity.ms
 clearbit.com
 click.adikteev.com
 click.appsflyer.com
+click.insights.seon.io
 click.mail.crakrevenue.com
 click.remerge.io
 click.stat.hao.360.cn
@@ -1110,11 +1121,20 @@ collect.contentsquare.net
 collect.evergage.com
 collect.ficfun.com
 collect.mindbodyonline.com
+collect.passfort.com
 collect.skrill.com
 collect.springer.com
 collect.springernature.com
+collect.uae.passfort.com
 collect.youbora.com
 collection-point.api.gymshark.com
+collection.ae.maxsight.com
+collection.eu.maxsight.com
+collection.passfort.com
+collection.risk.lexisnexis.com
+collection.uae.passfort.com
+collection.us.maxsight.com
+collection.us.passfort.com
 collections.cmp.optimizely.com
 collections.marketing.cmp.optimizely.com
 collector-eu.conviva.com
@@ -1271,9 +1291,12 @@ delivery.adikteev.com
 delivery.remerge.io
 dentsu.co.jp
 dentsu.com
+dependencytrack-api.hub.klippa.com
+dependencytrack.hub.klippa.com
 dev.jwpltx.com
 developer.dnb.com
 device-analytics.hulu.com
+device-fingerprint.socure.com
 device-identity.bamgrid.com
 device-metrics.hulu.com
 digital.medallia.com
@@ -1306,6 +1329,7 @@ dpbolvw.net
 driver.applog.bolt.eu
 dsp.zetaglobal.com
 dsstat.kaspersky.com
+dtrack.facia.ai
 dummy.applog.bolt.eu
 dunandbradstreet.com
 dwin1.com
@@ -1449,10 +1473,14 @@ fledge.eu.criteo.com
 fledge.us.criteo.com
 flexlinks.com
 flexlinkspro.com
+fmtrack1.fractal.id
+fn.us.metricscdn2.eu.veri-das.com
 formcomplete.zoominfo.com
 fp-api.data.sandbox.game
+fp-metrics.shuftipro.com
 fp.adultfriendfinder.com
 fp.passion.com
+fpmetrics.sumsub.com
 fr-metrics.seetickets.com
 fraud.adikteev.com
 fraud.remerge.io
@@ -1686,9 +1714,12 @@ logfiles.zoom.us
 logger.kameleoon.io
 logger.sciencedirect.com
 logger.scite.ai
+logging-janus.env.ubble.ai
+logging-web.env.ubble.ai
 logging.archlinux.org
 logging.bamgrid.com
 logging.bunnycdn.com
+logging.facia.ai
 logging.netflix.com
 logging.rarible.com
 logr-in.com
@@ -1789,6 +1820,7 @@ metrics.ableton.com
 metrics.add.app
 metrics.alipay.com
 metrics.altlinux.org
+metrics.amani.ai
 metrics.anthropic.com
 metrics.avast.com
 metrics.binge.com.au
@@ -1819,6 +1851,7 @@ metrics.disneyplus.com
 metrics.duolingo.com
 metrics.ea.com
 metrics.espn.com
+metrics.eu.platform.idnow.io
 metrics.evernote.com
 metrics.expressvpn.com
 metrics.flo.health
@@ -1833,7 +1866,9 @@ metrics.helloclue.com
 metrics.hotstar.com
 metrics.hulu.com
 metrics.hyperx.com
+metrics.idfy.com
 metrics.image-line.com
+metrics.infra.yoti.com
 metrics.ipvanish.com
 metrics.jwplayer.com
 metrics.kaizen.nvidia.com
@@ -1906,6 +1941,7 @@ metrics.uber.com
 metrics.ubuntu.com
 metrics.unpaywall.org
 metrics.vagaro.com
+metrics.veridas.com
 metrics.viaplay.com
 metrics.videoland.com
 metrics.vive.com
@@ -1918,6 +1954,10 @@ metrics.zee5.com
 metrics.zenoti.com
 metrics.zetaglobal.com
 metrics2.boomy.com
+metricscdn.eu.veri-das.com
+metricscdn.us.veri-das.com
+metricscdn.veri-das.com
+metricscdn2.eu.veri-das.com
 metricstm.podcastle.ai
 metrix.adultfriendfinder.com
 mi.telemetry.lab.norton.com
@@ -2000,6 +2040,7 @@ optmstr.com
 oracleinfinity.io
 orbit-telemetry.ubi.com
 origin-analytics.branch.io
+osint.au10tix.com
 otel.observability.app.launchdarkly.com
 otlp.bugsnag.com
 otlp.bugsnag.smartbear.com
@@ -2081,6 +2122,8 @@ prediction.remerge.io
 preprocessor.heatmap.com
 presentationtracking.netflix.com
 prod.log.shortbread.aws.dev
+prod.logs.infra.yoti.com
+prod.logs.yoti.com
 prodregistryv2.org
 production.ads.cj.com
 profiling.sentry.io
@@ -2249,6 +2292,7 @@ segment.statsig.com
 segment.taphunter.com
 segment.untappd.com
 segment.vivino.com
+segment.withpersona.com
 segmentapi.presonus.com
 segments.adikteev.com
 segments.hitnmix.com
@@ -2262,12 +2306,16 @@ sentry.audacityteam.org
 sentry.clickdealer.com
 sentry.codeium.com
 sentry.highscore.com
+sentry.hub.klippa.com
+sentry.identomat.com
 sentry.io
 sentry.io.steinberg.net
+sentry.klippa.com
 sentry.protonvpn.com
 sentry.scielo.org
 sentry.scispace.com
 sentry.squareup.com
+sentry.sumsub.com
 sentry.sync.me
 sentry.system76.com
 sentry.xinchenai.com
@@ -2651,6 +2699,7 @@ trac.rockstargames.com
 trace.nordvpn.com
 track-apollo.teleport.varjo.com
 track-aws.m.ridewithvia.com
+track-dr.risk.lexisnexis.com
 track-integration.gojek.com
 track-marketing.coins.ph
 track.adikteev.com
@@ -2708,6 +2757,7 @@ track.register.webnovel.com
 track.remerge.io
 track.researchrabbit.ai
 track.retargeter.com
+track.risk.lexisnexis.com
 track.romanticai.com
 track.stories.moovit.com
 track.stubhub.com
@@ -2749,13 +2799,16 @@ tracking.bsplayer.com
 tracking.buzzsprout.com
 tracking.captivate.fm
 tracking.chewy.com
+tracking.cognitohq.com
 tracking.cohostpodcasting.com
 tracking.crazyegg.com
 tracking.csc.flm.fujitsu.com
 tracking.cyberghostvpn.com
+tracking.dowjones.com
 tracking.effiliation.com
 tracking.epicgames.com
 tracking.expressvpn.com
+tracking.facia.ai
 tracking.feedpress.com
 tracking.feedpress.it
 tracking.fresha.com
@@ -2795,6 +2848,7 @@ tracking.realnetworks.com
 tracking.redcircle.com
 tracking.reservebar.com
 tracking.ridewithvia.com
+tracking.risk.lexisnexis.com
 tracking.rosettastone.com
 tracking.screencastify.com
 tracking.screenpal.com
@@ -2825,6 +2879,7 @@ traffic-analytics.ghost.org
 trckr.petcube.com
 trino-analytics-ext.data.bird.co
 trk.datify.link
+trk.dowjones.com
 trk.eib.presonus.com
 trk.gojek.com
 trk.hi.pvolve.com
@@ -2845,6 +2900,7 @@ tv-ads.adikteev.com
 tvinteractive.tv
 tvp-ads-log.samsungads.com
 twipla.com
+txmonitor.sumsub.com
 u.clarity.ms
 ua.kakao.com
 ubimo.com
@@ -2885,6 +2941,7 @@ vars.hotjar.com
 vars.webmaxy.com
 vast.adikteev.com
 vast.remerge.io
+vault.analytics.ubble.ai
 vc.webmaxy.io
 vce.comscore.com
 venntel.com
@@ -3028,6 +3085,7 @@ y.clarity.ms
 yceml.net
 youbora.com
 youboranqs01.com
+youtrack.idscan.net
 youtrack.ops.connatix.com
 youtube-analytics.googleapis.com
 youtube-kids-metrics.googleapis.com

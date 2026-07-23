@@ -1,0 +1,66 @@
+# ============================================================
+# ID VERIFICATION KYC BLOCKLIST - AGGRESSIVE
+# Total domains: 59
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 ads.idwall.co
+0.0.0.0 analytics-api.id.me
+0.0.0.0 analytics-primary.trulioo.com
+0.0.0.0 analytics-report.idwall.co
+0.0.0.0 analytics-sdk-1.onfido.com
+0.0.0.0 analytics.dowjones.com
+0.0.0.0 analytics.id.me
+0.0.0.0 analytics.incode.com
+0.0.0.0 analytics.jumio.com
+0.0.0.0 analytics.prembly.com
+0.0.0.0 click.insights.seon.io
+0.0.0.0 collect.passfort.com
+0.0.0.0 collect.uae.passfort.com
+0.0.0.0 collection.ae.maxsight.com
+0.0.0.0 collection.eu.maxsight.com
+0.0.0.0 collection.passfort.com
+0.0.0.0 collection.risk.lexisnexis.com
+0.0.0.0 collection.uae.passfort.com
+0.0.0.0 collection.us.maxsight.com
+0.0.0.0 collection.us.passfort.com
+0.0.0.0 dependencytrack-api.hub.klippa.com
+0.0.0.0 dependencytrack.hub.klippa.com
+0.0.0.0 device-fingerprint.socure.com
+0.0.0.0 dtrack.facia.ai
+0.0.0.0 fmtrack1.fractal.id
+0.0.0.0 fn.us.metricscdn2.eu.veri-das.com
+0.0.0.0 fp-metrics.shuftipro.com
+0.0.0.0 fpmetrics.sumsub.com
+0.0.0.0 logging-janus.env.ubble.ai
+0.0.0.0 logging-web.env.ubble.ai
+0.0.0.0 logging.facia.ai
+0.0.0.0 metrics.amani.ai
+0.0.0.0 metrics.eu.platform.idnow.io
+0.0.0.0 metrics.idfy.com
+0.0.0.0 metrics.infra.yoti.com
+0.0.0.0 metrics.veridas.com
+0.0.0.0 metricscdn.eu.veri-das.com
+0.0.0.0 metricscdn.us.veri-das.com
+0.0.0.0 metricscdn.veri-das.com
+0.0.0.0 metricscdn2.eu.veri-das.com
+0.0.0.0 osint.au10tix.com
+0.0.0.0 prod.logs.infra.yoti.com
+0.0.0.0 prod.logs.yoti.com
+0.0.0.0 segment.withpersona.com
+0.0.0.0 sentry.hub.klippa.com
+0.0.0.0 sentry.identomat.com
+0.0.0.0 sentry.klippa.com
+0.0.0.0 sentry.sumsub.com
+0.0.0.0 seon.io
+0.0.0.0 track-dr.risk.lexisnexis.com
+0.0.0.0 track.risk.lexisnexis.com
+0.0.0.0 tracking.cognitohq.com
+0.0.0.0 tracking.dowjones.com
+0.0.0.0 tracking.facia.ai
+0.0.0.0 tracking.risk.lexisnexis.com
+0.0.0.0 trk.dowjones.com
+0.0.0.0 txmonitor.sumsub.com
+0.0.0.0 vault.analytics.ubble.ai
+0.0.0.0 youtrack.idscan.net
