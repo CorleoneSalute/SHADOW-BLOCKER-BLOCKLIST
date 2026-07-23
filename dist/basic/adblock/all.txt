@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 2874
+# Total domains: 2912
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -55,6 +55,8 @@
 ||ad.admitad.com^
 ||ad.alipay.com^
 ||ad.apsalar.com^
+||ad.cookpad.com^
+||ad.cookpad.jp^
 ||ad.criteo.com^
 ||ad.crwdcntrl.net^
 ||ad.holalauncher.com^
@@ -216,10 +218,12 @@
 ||analytics.add.app^
 ||analytics.aerial.is^
 ||analytics.aiva.ai^
+||analytics.allrecipes.com^
 ||analytics.altered.ai^
 ||analytics.amadeuscode.com^
 ||analytics.any.do^
 ||analytics.anydesk.com^
+||analytics.anylist.com^
 ||analytics.api.brightcove.com^
 ||analytics.api.services.leonardo.ai^
 ||analytics.appsflyer.com^
@@ -241,12 +245,14 @@
 ||analytics.beermenus.com^
 ||analytics.beyondtrust.com^
 ||analytics.bible.com^
+||analytics.bigoven.com^
 ||analytics.bilibili.com^
 ||analytics.binge.com.au^
 ||analytics.bird.co^
 ||analytics.bitdefender.com^
 ||analytics.blacknut.com^
 ||analytics.blim.com^
+||analytics.blueapron.com^
 ||analytics.blueberrysoftware.com^
 ||analytics.blur.io^
 ||analytics.bobble.ai^
@@ -286,6 +292,8 @@
 ||analytics.commons.earth^
 ||analytics.connectwise.com^
 ||analytics.conviva.com^
+||analytics.cookpad.com^
+||analytics.copymethat.com^
 ||analytics.corsair.com^
 ||analytics.craft.do^
 ||analytics.craiyon.com^
@@ -310,20 +318,24 @@
 ||analytics.disneynow.com^
 ||analytics.disneyplus.com^
 ||analytics.duosecurity.com^
+||analytics.eatthismuch.com^
 ||analytics.ecrettmusic.com^
 ||analytics.elevenlabs.io^
 ||analytics.elsaspeak.com^
 ||analytics.elsevier.com^
 ||analytics.emastered.com^
+||analytics.emeals.com^
 ||analytics.endel.io^
 ||analytics.enpass.io^
 ||analytics.envato.com^
 ||analytics.epicgames.com^
+||analytics.epicurious.com^
 ||analytics.espn.com^
 ||analytics.evebyglow.com^
 ||analytics.eventim.com^
 ||analytics.evernote.com^
 ||analytics.expressvpn.com^
+||analytics.factor75.com^
 ||analytics.fadr.com^
 ||analytics.faithlife.com^
 ||analytics.fandangoathome.com^
@@ -334,6 +346,7 @@
 ||analytics.fixme.it^
 ||analytics.fleksy.com^
 ||analytics.flo.health^
+||analytics.foodnetwork.com^
 ||analytics.forvo.com^
 ||analytics.foundation.app^
 ||analytics.fresha.com^
@@ -347,6 +360,7 @@
 ||analytics.glossika.com^
 ||analytics.glowing.com^
 ||analytics.gnome.org^
+||analytics.gobble.com^
 ||analytics.gomlab.com^
 ||analytics.gotinder.com^
 ||analytics.goyoapp.com^
@@ -356,16 +370,19 @@
 ||analytics.hbomax.com^
 ||analytics.hellochinese.cc^
 ||analytics.helloclue.com^
+||analytics.hellofresh.com^
 ||analytics.hellotalk.com^
 ||analytics.hide.me^
 ||analytics.hinge.co^
 ||analytics.hitnmix.com^
+||analytics.homechef.com^
 ||analytics.hooktheory.com^
 ||analytics.hornet.com^
 ||analytics.hotstar.com^
 ||analytics.hp.com^
 ||analytics.hubhopper.com^
 ||analytics.hulu.com^
+||analytics.hungryroot.com^
 ||analytics.hyperx.com^
 ||analytics.ieee.org^
 ||analytics.immutable.com^
@@ -386,6 +403,7 @@
 ||analytics.keeper.io^
 ||analytics.kidoodle.tv^
 ||analytics.kindara.com^
+||analytics.kitchenstories.com^
 ||analytics.klima.com^
 ||analytics.komoot.com^
 ||analytics.lalal.ai^
@@ -416,10 +434,12 @@
 ||analytics.manjaro.org^
 ||analytics.mapbox.com^
 ||analytics.maps.me^
+||analytics.marleyspoon.com^
 ||analytics.match.com^
 ||analytics.max.com^
 ||analytics.maximumsettings.com^
 ||analytics.maya.live^
+||analytics.mealime.com^
 ||analytics.means.tv^
 ||analytics.memrise.com^
 ||analytics.mindbodyonline.com^
@@ -468,6 +488,7 @@
 ||analytics.ovia.com^
 ||analytics.oviahealth.com^
 ||analytics.palteca.com^
+||analytics.paprikaapp.com^
 ||analytics.paramountplus.com^
 ||analytics.parrot.sh^
 ||analytics.parsely.com^
@@ -485,6 +506,8 @@
 ||analytics.piano.io^
 ||analytics.pimsleur.com^
 ||analytics.pixalate.com^
+||analytics.plantoeat.com^
+||analytics.platejoy.com^
 ||analytics.playgroundai.com^
 ||analytics.playit.pk^
 ||analytics.playstation.net^
@@ -497,10 +520,12 @@
 ||analytics.pof.com^
 ||analytics.prageru.com^
 ||analytics.premom.com^
+||analytics.prepear.com^
 ||analytics.preply.com^
 ||analytics.privateinternetaccess.com^
 ||analytics.protected.media^
 ||analytics.purevpn.com^
+||analytics.purplecarrot.com^
 ||analytics.quranmajeed.com^
 ||analytics.rakutenmarketing.com^
 ||analytics.rarible.com^
@@ -531,11 +556,13 @@
 ||analytics.rumble.com^
 ||analytics.runsignup.com^
 ||analytics.runtastic.com^
+||analytics.samsungfood.com^
 ||analytics.samsungpay.com^
 ||analytics.scielo.org^
 ||analytics.scruff.com^
 ||analytics.shadow.tech^
 ||analytics.shazam.com^
+||analytics.sidechef.com^
 ||analytics.simplenote.com^
 ||analytics.skyshowtime.com^
 ||analytics.snapcraft.io^
@@ -561,6 +588,7 @@
 ||analytics.stronglifts.com^
 ||analytics.styleseat.com^
 ||analytics.subsplash.com^
+||analytics.sunbasket.com^
 ||analytics.suno.ai^
 ||analytics.superrare.com^
 ||analytics.surfshark.com^
@@ -569,6 +597,7 @@
 ||analytics.taalhammer.com^
 ||analytics.tandem.net^
 ||analytics.taphunter.com^
+||analytics.tasty.co^
 ||analytics.teamviewer.com^
 ||analytics.tensor.trade^
 ||analytics.textra.me^
@@ -578,6 +607,7 @@
 ||analytics.timesinternet.in^
 ||analytics.tonal.com^
 ||analytics.torguard.net^
+||analytics.tovala.com^
 ||analytics.tractive.com^
 ||analytics.tradedoubler.com^
 ||analytics.transistor.fm^
@@ -1021,6 +1051,7 @@
 ||clickbank.net^
 ||clickbooth.com^
 ||clicks.admitad.com^
+||clicks.blueapron.com^
 ||clickstream-os.com^
 ||clicktale.com^
 ||clicktale.net^
@@ -2208,6 +2239,7 @@
 ||ssp-sync.criteo.com^
 ||ssp.zetaglobal.com^
 ||sstats.bitdefender.com^
+||sstats.epicurious.com^
 ||stat.360safe.com^
 ||stat.avira.com^
 ||stat.kaspersky.com^
@@ -2257,6 +2289,7 @@
 ||stats.looksrare.org^
 ||stats.magiceden.io^
 ||stats.mcafee.com^
+||stats.mealime.com^
 ||stats.mixedinkey.com^
 ||stats.mubert.com^
 ||stats.mxplayer.in^
@@ -2521,6 +2554,7 @@
 ||track.cpamatica.com^
 ||track.crazyegg.com^
 ||track.ebsco.com^
+||track.factor75.com^
 ||track.fertilityfriend.com^
 ||track.flexlinks.com^
 ||track.flexlinkspro.com^
@@ -2530,9 +2564,11 @@
 ||track.gingersoftware.com^
 ||track.glow.co^
 ||track.go.moovit.com^
+||track.gobble.com^
 ||track.gojek.com^
 ||track.heatmap.com^
 ||track.helloclue.com^
+||track.hellofresh.com^
 ||track.kajabi.com^
 ||track.kakao.com^
 ||track.kindara.com^
@@ -2663,6 +2699,7 @@
 ||trk.datify.link^
 ||trk.gojek.com^
 ||trk.hi.pvolve.com^
+||trk.m.blueapron.com^
 ||trk.pvolve.com^
 ||trk.vivino.com^
 ||trk1.vivino.com^
@@ -2874,6 +2911,7 @@
 ||zetalive.com^
 ||zeydoo.com^
 ||ziffmedia.com^
+||ziplog.marleyspoon.com^
 ||zipy.ai^
 ||zohoinsights.com^
 ||zohotagmanager.cdn.pagesense.io^

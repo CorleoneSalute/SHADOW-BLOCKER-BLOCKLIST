@@ -1,0 +1,45 @@
+# ============================================================
+# MEAL KIT RECIPE BLOCKLIST - BASIC
+# Total domains: 38
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+ad.cookpad.com
+ad.cookpad.jp
+analytics.allrecipes.com
+analytics.anylist.com
+analytics.bigoven.com
+analytics.blueapron.com
+analytics.cookpad.com
+analytics.copymethat.com
+analytics.eatthismuch.com
+analytics.emeals.com
+analytics.epicurious.com
+analytics.factor75.com
+analytics.foodnetwork.com
+analytics.gobble.com
+analytics.hellofresh.com
+analytics.homechef.com
+analytics.hungryroot.com
+analytics.kitchenstories.com
+analytics.marleyspoon.com
+analytics.mealime.com
+analytics.paprikaapp.com
+analytics.plantoeat.com
+analytics.platejoy.com
+analytics.prepear.com
+analytics.purplecarrot.com
+analytics.samsungfood.com
+analytics.sidechef.com
+analytics.sunbasket.com
+analytics.tasty.co
+analytics.tovala.com
+clicks.blueapron.com
+sstats.epicurious.com
+stats.mealime.com
+track.factor75.com
+track.gobble.com
+track.hellofresh.com
+trk.m.blueapron.com
+ziplog.marleyspoon.com

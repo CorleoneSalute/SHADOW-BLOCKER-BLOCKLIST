@@ -1,0 +1,45 @@
+# ============================================================
+# MEAL KIT RECIPE BLOCKLIST - AGGRESSIVE
+# Total domains: 38
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 ad.cookpad.com
+0.0.0.0 ad.cookpad.jp
+0.0.0.0 analytics.allrecipes.com
+0.0.0.0 analytics.anylist.com
+0.0.0.0 analytics.bigoven.com
+0.0.0.0 analytics.blueapron.com
+0.0.0.0 analytics.cookpad.com
+0.0.0.0 analytics.copymethat.com
+0.0.0.0 analytics.eatthismuch.com
+0.0.0.0 analytics.emeals.com
+0.0.0.0 analytics.epicurious.com
+0.0.0.0 analytics.factor75.com
+0.0.0.0 analytics.foodnetwork.com
+0.0.0.0 analytics.gobble.com
+0.0.0.0 analytics.hellofresh.com
+0.0.0.0 analytics.homechef.com
+0.0.0.0 analytics.hungryroot.com
+0.0.0.0 analytics.kitchenstories.com
+0.0.0.0 analytics.marleyspoon.com
+0.0.0.0 analytics.mealime.com
+0.0.0.0 analytics.paprikaapp.com
+0.0.0.0 analytics.plantoeat.com
+0.0.0.0 analytics.platejoy.com
+0.0.0.0 analytics.prepear.com
+0.0.0.0 analytics.purplecarrot.com
+0.0.0.0 analytics.samsungfood.com
+0.0.0.0 analytics.sidechef.com
+0.0.0.0 analytics.sunbasket.com
+0.0.0.0 analytics.tasty.co
+0.0.0.0 analytics.tovala.com
+0.0.0.0 clicks.blueapron.com
+0.0.0.0 sstats.epicurious.com
+0.0.0.0 stats.mealime.com
+0.0.0.0 track.factor75.com
+0.0.0.0 track.gobble.com
+0.0.0.0 track.hellofresh.com
+0.0.0.0 trk.m.blueapron.com
+0.0.0.0 ziplog.marleyspoon.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 2874
+# Total domains: 2912
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -55,6 +55,8 @@
 0.0.0.0 ad.admitad.com
 0.0.0.0 ad.alipay.com
 0.0.0.0 ad.apsalar.com
+0.0.0.0 ad.cookpad.com
+0.0.0.0 ad.cookpad.jp
 0.0.0.0 ad.criteo.com
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.holalauncher.com
@@ -216,10 +218,12 @@
 0.0.0.0 analytics.add.app
 0.0.0.0 analytics.aerial.is
 0.0.0.0 analytics.aiva.ai
+0.0.0.0 analytics.allrecipes.com
 0.0.0.0 analytics.altered.ai
 0.0.0.0 analytics.amadeuscode.com
 0.0.0.0 analytics.any.do
 0.0.0.0 analytics.anydesk.com
+0.0.0.0 analytics.anylist.com
 0.0.0.0 analytics.api.brightcove.com
 0.0.0.0 analytics.api.services.leonardo.ai
 0.0.0.0 analytics.appsflyer.com
@@ -241,12 +245,14 @@
 0.0.0.0 analytics.beermenus.com
 0.0.0.0 analytics.beyondtrust.com
 0.0.0.0 analytics.bible.com
+0.0.0.0 analytics.bigoven.com
 0.0.0.0 analytics.bilibili.com
 0.0.0.0 analytics.binge.com.au
 0.0.0.0 analytics.bird.co
 0.0.0.0 analytics.bitdefender.com
 0.0.0.0 analytics.blacknut.com
 0.0.0.0 analytics.blim.com
+0.0.0.0 analytics.blueapron.com
 0.0.0.0 analytics.blueberrysoftware.com
 0.0.0.0 analytics.blur.io
 0.0.0.0 analytics.bobble.ai
@@ -286,6 +292,8 @@
 0.0.0.0 analytics.commons.earth
 0.0.0.0 analytics.connectwise.com
 0.0.0.0 analytics.conviva.com
+0.0.0.0 analytics.cookpad.com
+0.0.0.0 analytics.copymethat.com
 0.0.0.0 analytics.corsair.com
 0.0.0.0 analytics.craft.do
 0.0.0.0 analytics.craiyon.com
@@ -310,20 +318,24 @@
 0.0.0.0 analytics.disneynow.com
 0.0.0.0 analytics.disneyplus.com
 0.0.0.0 analytics.duosecurity.com
+0.0.0.0 analytics.eatthismuch.com
 0.0.0.0 analytics.ecrettmusic.com
 0.0.0.0 analytics.elevenlabs.io
 0.0.0.0 analytics.elsaspeak.com
 0.0.0.0 analytics.elsevier.com
 0.0.0.0 analytics.emastered.com
+0.0.0.0 analytics.emeals.com
 0.0.0.0 analytics.endel.io
 0.0.0.0 analytics.enpass.io
 0.0.0.0 analytics.envato.com
 0.0.0.0 analytics.epicgames.com
+0.0.0.0 analytics.epicurious.com
 0.0.0.0 analytics.espn.com
 0.0.0.0 analytics.evebyglow.com
 0.0.0.0 analytics.eventim.com
 0.0.0.0 analytics.evernote.com
 0.0.0.0 analytics.expressvpn.com
+0.0.0.0 analytics.factor75.com
 0.0.0.0 analytics.fadr.com
 0.0.0.0 analytics.faithlife.com
 0.0.0.0 analytics.fandangoathome.com
@@ -334,6 +346,7 @@
 0.0.0.0 analytics.fixme.it
 0.0.0.0 analytics.fleksy.com
 0.0.0.0 analytics.flo.health
+0.0.0.0 analytics.foodnetwork.com
 0.0.0.0 analytics.forvo.com
 0.0.0.0 analytics.foundation.app
 0.0.0.0 analytics.fresha.com
@@ -347,6 +360,7 @@
 0.0.0.0 analytics.glossika.com
 0.0.0.0 analytics.glowing.com
 0.0.0.0 analytics.gnome.org
+0.0.0.0 analytics.gobble.com
 0.0.0.0 analytics.gomlab.com
 0.0.0.0 analytics.gotinder.com
 0.0.0.0 analytics.goyoapp.com
@@ -356,16 +370,19 @@
 0.0.0.0 analytics.hbomax.com
 0.0.0.0 analytics.hellochinese.cc
 0.0.0.0 analytics.helloclue.com
+0.0.0.0 analytics.hellofresh.com
 0.0.0.0 analytics.hellotalk.com
 0.0.0.0 analytics.hide.me
 0.0.0.0 analytics.hinge.co
 0.0.0.0 analytics.hitnmix.com
+0.0.0.0 analytics.homechef.com
 0.0.0.0 analytics.hooktheory.com
 0.0.0.0 analytics.hornet.com
 0.0.0.0 analytics.hotstar.com
 0.0.0.0 analytics.hp.com
 0.0.0.0 analytics.hubhopper.com
 0.0.0.0 analytics.hulu.com
+0.0.0.0 analytics.hungryroot.com
 0.0.0.0 analytics.hyperx.com
 0.0.0.0 analytics.ieee.org
 0.0.0.0 analytics.immutable.com
@@ -386,6 +403,7 @@
 0.0.0.0 analytics.keeper.io
 0.0.0.0 analytics.kidoodle.tv
 0.0.0.0 analytics.kindara.com
+0.0.0.0 analytics.kitchenstories.com
 0.0.0.0 analytics.klima.com
 0.0.0.0 analytics.komoot.com
 0.0.0.0 analytics.lalal.ai
@@ -416,10 +434,12 @@
 0.0.0.0 analytics.manjaro.org
 0.0.0.0 analytics.mapbox.com
 0.0.0.0 analytics.maps.me
+0.0.0.0 analytics.marleyspoon.com
 0.0.0.0 analytics.match.com
 0.0.0.0 analytics.max.com
 0.0.0.0 analytics.maximumsettings.com
 0.0.0.0 analytics.maya.live
+0.0.0.0 analytics.mealime.com
 0.0.0.0 analytics.means.tv
 0.0.0.0 analytics.memrise.com
 0.0.0.0 analytics.mindbodyonline.com
@@ -468,6 +488,7 @@
 0.0.0.0 analytics.ovia.com
 0.0.0.0 analytics.oviahealth.com
 0.0.0.0 analytics.palteca.com
+0.0.0.0 analytics.paprikaapp.com
 0.0.0.0 analytics.paramountplus.com
 0.0.0.0 analytics.parrot.sh
 0.0.0.0 analytics.parsely.com
@@ -485,6 +506,8 @@
 0.0.0.0 analytics.piano.io
 0.0.0.0 analytics.pimsleur.com
 0.0.0.0 analytics.pixalate.com
+0.0.0.0 analytics.plantoeat.com
+0.0.0.0 analytics.platejoy.com
 0.0.0.0 analytics.playgroundai.com
 0.0.0.0 analytics.playit.pk
 0.0.0.0 analytics.playstation.net
@@ -497,10 +520,12 @@
 0.0.0.0 analytics.pof.com
 0.0.0.0 analytics.prageru.com
 0.0.0.0 analytics.premom.com
+0.0.0.0 analytics.prepear.com
 0.0.0.0 analytics.preply.com
 0.0.0.0 analytics.privateinternetaccess.com
 0.0.0.0 analytics.protected.media
 0.0.0.0 analytics.purevpn.com
+0.0.0.0 analytics.purplecarrot.com
 0.0.0.0 analytics.quranmajeed.com
 0.0.0.0 analytics.rakutenmarketing.com
 0.0.0.0 analytics.rarible.com
@@ -531,11 +556,13 @@
 0.0.0.0 analytics.rumble.com
 0.0.0.0 analytics.runsignup.com
 0.0.0.0 analytics.runtastic.com
+0.0.0.0 analytics.samsungfood.com
 0.0.0.0 analytics.samsungpay.com
 0.0.0.0 analytics.scielo.org
 0.0.0.0 analytics.scruff.com
 0.0.0.0 analytics.shadow.tech
 0.0.0.0 analytics.shazam.com
+0.0.0.0 analytics.sidechef.com
 0.0.0.0 analytics.simplenote.com
 0.0.0.0 analytics.skyshowtime.com
 0.0.0.0 analytics.snapcraft.io
@@ -561,6 +588,7 @@
 0.0.0.0 analytics.stronglifts.com
 0.0.0.0 analytics.styleseat.com
 0.0.0.0 analytics.subsplash.com
+0.0.0.0 analytics.sunbasket.com
 0.0.0.0 analytics.suno.ai
 0.0.0.0 analytics.superrare.com
 0.0.0.0 analytics.surfshark.com
@@ -569,6 +597,7 @@
 0.0.0.0 analytics.taalhammer.com
 0.0.0.0 analytics.tandem.net
 0.0.0.0 analytics.taphunter.com
+0.0.0.0 analytics.tasty.co
 0.0.0.0 analytics.teamviewer.com
 0.0.0.0 analytics.tensor.trade
 0.0.0.0 analytics.textra.me
@@ -578,6 +607,7 @@
 0.0.0.0 analytics.timesinternet.in
 0.0.0.0 analytics.tonal.com
 0.0.0.0 analytics.torguard.net
+0.0.0.0 analytics.tovala.com
 0.0.0.0 analytics.tractive.com
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.transistor.fm
@@ -1021,6 +1051,7 @@
 0.0.0.0 clickbank.net
 0.0.0.0 clickbooth.com
 0.0.0.0 clicks.admitad.com
+0.0.0.0 clicks.blueapron.com
 0.0.0.0 clickstream-os.com
 0.0.0.0 clicktale.com
 0.0.0.0 clicktale.net
@@ -2208,6 +2239,7 @@
 0.0.0.0 ssp-sync.criteo.com
 0.0.0.0 ssp.zetaglobal.com
 0.0.0.0 sstats.bitdefender.com
+0.0.0.0 sstats.epicurious.com
 0.0.0.0 stat.360safe.com
 0.0.0.0 stat.avira.com
 0.0.0.0 stat.kaspersky.com
@@ -2257,6 +2289,7 @@
 0.0.0.0 stats.looksrare.org
 0.0.0.0 stats.magiceden.io
 0.0.0.0 stats.mcafee.com
+0.0.0.0 stats.mealime.com
 0.0.0.0 stats.mixedinkey.com
 0.0.0.0 stats.mubert.com
 0.0.0.0 stats.mxplayer.in
@@ -2521,6 +2554,7 @@
 0.0.0.0 track.cpamatica.com
 0.0.0.0 track.crazyegg.com
 0.0.0.0 track.ebsco.com
+0.0.0.0 track.factor75.com
 0.0.0.0 track.fertilityfriend.com
 0.0.0.0 track.flexlinks.com
 0.0.0.0 track.flexlinkspro.com
@@ -2530,9 +2564,11 @@
 0.0.0.0 track.gingersoftware.com
 0.0.0.0 track.glow.co
 0.0.0.0 track.go.moovit.com
+0.0.0.0 track.gobble.com
 0.0.0.0 track.gojek.com
 0.0.0.0 track.heatmap.com
 0.0.0.0 track.helloclue.com
+0.0.0.0 track.hellofresh.com
 0.0.0.0 track.kajabi.com
 0.0.0.0 track.kakao.com
 0.0.0.0 track.kindara.com
@@ -2663,6 +2699,7 @@
 0.0.0.0 trk.datify.link
 0.0.0.0 trk.gojek.com
 0.0.0.0 trk.hi.pvolve.com
+0.0.0.0 trk.m.blueapron.com
 0.0.0.0 trk.pvolve.com
 0.0.0.0 trk.vivino.com
 0.0.0.0 trk1.vivino.com
@@ -2874,6 +2911,7 @@
 0.0.0.0 zetalive.com
 0.0.0.0 zeydoo.com
 0.0.0.0 ziffmedia.com
+0.0.0.0 ziplog.marleyspoon.com
 0.0.0.0 zipy.ai
 0.0.0.0 zohoinsights.com
 0.0.0.0 zohotagmanager.cdn.pagesense.io
