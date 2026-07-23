@@ -1,0 +1,61 @@
+# ============================================================
+# E-BOOK READERS BLOCKLIST
+# Toplam Domain Sayisi: 29
+# Son Guncelleme: 18 Temmuz 2026
+# ============================================================
+
+# AMAZON KİNDLE — Telemetry & Ads (4 domain)
+kindle-ta-g7g.amazon.com
+fionread-ta-g7g.amazon.com
+kindle-unlimited-logging.amazon.com
+
+# KOBO / RAKUTEN (2 domain)
+metrics-hd.ops.kobo.com
+bookstats.kobo.com
+
+# WEBNOVEL / TENCENT (2 domain)
+track.register.webnovel.com
+track.email.webnovel.com
+
+# APPLE BOOKS — Telemetry & Analytics (2 domain)
+books-analytics-events.apple.com
+books-analytics-events.news.apple-dns.net
+
+# OVERDRIVE / LIBBY (3 domain)
+analytics.overdrive.com
+metrics.libbyapp.com
+# Overdrive'a özgü Sentry instance (sentry.io wildcard dışında kalır)
+sentry-read.svc.overdrive.com
+
+# SPRİNGER NATURE (3 domain)
+# Hangi makaleleri okuduğunu izleyerek öneri profili oluşturur
+recommendations.springernature.com !
+collect.springernature.com
+codemetrics.springernature.com
+
+# BLUEFIRE READER (1 domain)
+analytics.bluefirereader.com
+
+# STORYTEL (1 domain)
+sgtm.storytel.com
+
+# NEXTORY (5 domain)
+adbox.nextory.com
+analytics.nextory.com
+api.nxads.nextory.com
+nxad.nextory.com
+nxads.nextory.com
+
+# TOLINO (1 domain)
+tracking.mytolino.com
+
+# DREAME/FICFUN (1 domain)
+collect.ficfun.com
+
+# PERLEGO (2 domain)
+metrics.perlego.com
+metrics-prom.perlego.com
+
+# INKITT / GALATEA (2 domain)
+collector.inkitt.com
+log.inkitt.com
