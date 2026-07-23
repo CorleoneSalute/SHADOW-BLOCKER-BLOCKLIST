@@ -1,0 +1,103 @@
+# Antivirus Software Blocklist
+
+**Son Güncelleme:** 16 Temmuz 2026
+**Toplam Domain Sayısı:** 74
+
+```
+# AVAST — Telemetri & Analitik
+stats.avast.com
+v7.stats.avast.com
+v7event.stats.avast.com
+hist.stats.avast.com
+lc.stats.avast.com
+v9.stats.avast.com
+telemetry.avast.com
+tracking.avast.com
+metrics.avast.com
+analytics.avast.com
+analytics.avcdn.net
+analytics-prod-gcp.ff.avast.com
+analytics-stage.ff.avast.com
+analytics.ns1.ff.avast.com
+ping.avast.com
+an.avast.com
+ans.avast.com                   
+ip-info.ff.avast.com
+ads.avast.com
+
+# AVAST — Jumpshot (kapatıldı 2020, hâlâ aktif domain)
+jumpshot.com
+insights.jumpshot.com
+api.jumpshot.com
+
+# AVG — Telemetri
+tracking.avg.com
+telemetry.avg.com
+stats.avg.com
+analytics-login.avg.com
+eventlog.avg.com
+mdm-sentry.us.avg.com
+mdm-sentry.cz.avg.com
+mdm-sentry-win.cz.avg.com
+
+# NORTON / SYMANTEC (Gen Digital)
+telemetry.norton.com
+stats.norton.com
+analytics-login.norton.com
+emailfootprint.norton.com
+etrack.np.norton.com
+eventlog-failtest.norton.com
+eventlog-sd-beta.norton.com
+eventlog-sd.norton.com
+eventlog.norton.com
+mi.telemetry.lab.norton.com
+faults.norton.com
+faults.symantec.com
+
+# McAFEE / TRELLIX
+rmmetrics.mcafee.com
+telemetry.mcafee.com
+stats.mcafee.com
+telemetry.mobile.api.mcafee.com
+
+# KASPERSKY
+stat.kaspersky.com
+stats.kaspersky.com
+dsstat.kaspersky.com
+telemetry.kaspersky.com
+ksn-stat.kaspersky.com          
+analytics.cba.kaspersky.com
+bug.kaspersky.com
+
+# BITDEFENDER
+telemetry.bitdefender.com
+stats.bitdefender.com
+analytics.bitdefender.com
+sstats.bitdefender.com
+logs-ext.bitdefender.com
+metrics.bitdefender.com
+smetrics.bitdefender.com
+
+# AVIRA
+telemetry.avira.com
+stat.avira.com
+stats.avira.com
+eventlog.avira.com
+analytics.cms.avira.com
+
+# MALWAREBYTES
+telemetry.malwarebytes.com
+
+# SOPHOS
+sftelemetry.sophos.com
+sls-telemetry.sophosupd.com
+
+# 360 TOTAL SECURITY
+stat.360safe.com
+sysreset.stat.360safe.com
+click.stat.hao.360.cn
+easyad.360.cn
+jubaoads.360.cn
+
+# PC MATIC
+mkt.pcpitstop.com    
