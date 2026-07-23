@@ -1,0 +1,166 @@
+# Language Learning & Translation Blocklist
+
+**Son Güncelleme:** 16 Temmuz 2026
+**Toplam Domain Sayısı:** 59
+
+```
+# ══════════════════════════════════════
+# [1] TEMEL BLOCKLIST
+# ══════════════════════════════════════
+
+# DEEPL
+telemetry.deepl.com
+analytics.deepl.com
+
+# DUOLINGO
+ads-api.duolingo.com
+analytics.vpc.duolingo.com
+metrics.duolingo.com
+email.events.duolingo.com
+
+# BABBEL
+analytics.babbel.com
+marketing-tracker.babbel.com
+ads.babbel.com
+collect.babbel.io
+
+# ROSETTA STONE
+analytics.rosettastone.com
+tracking.rosettastone.com
+sre-logs.rosettastone.com
+
+# HELLOTALK
+analytics.hellotalk.com
+fa.hellotalk.com
+
+# TANDEM
+analytics.tandem.net
+logs.tandem.net
+
+# MEMRISE
+analytics.memrise.com
+
+# BUSUU
+analytics.busuu.com
+
+# LINGODEER
+analytics.lingodeer.com
+
+# ITALKI
+analytics.italki.com
+tracking-api.italki.com
+a8clk.www.italki.com
+
+# LINGVIST
+analytics.lingvist.com
+
+# MANGO LANGUAGES
+analytics.mangolanguages.com
+
+# PIMSLEUR
+analytics.pimsleur.com
+
+# MONDLY
+analytics.mondly.com
+tagalog.mondly.com
+
+# LANGUAGE DROPS
+analytics.languagedrops.com
+
+# CLOZEMASTER
+analytics.clozemaster.com
+
+# BEELINGUAPP
+analytics.beelinguapp.com
+
+# LINGODA
+analytics.lingoda.com
+
+# PREPLY
+analytics.preply.com
+
+# VERBLING
+analytics.verbling.com
+
+# CAMBLY
+analytics.cambly.com
+metrics.cambly.com
+
+# LINGQ
+analytics.lingq.com
+
+# YABLA
+analytics.yabla.com
+
+# SPEECHLING
+analytics.speechling.com
+
+# GLOSSIKA
+analytics.glossika.com
+
+# ROCKET LANGUAGES
+analytics.rocketlanguages.com
+
+# TRANSPARENT LANGUAGE
+analytics.transparent.com
+
+# PALTECA
+analytics.palteca.com
+
+# IMTRANSLATOR
+analytics.imtranslator.net
+
+# GIKKEN / MATE TRANSLATE
+analytics.gikken.co
+
+# LINGUEE
+analytics.linguee.com
+
+# WORDREFERENCE
+analytics.wordreference.com
+
+# FORVO
+analytics.forvo.com
+
+# ELSA SPEAK
+analytics.elsaspeak.com
+
+# SPEECHACE
+analytics.speechace.com
+
+# LINGOKIDS
+analytics.lingokids.com
+
+# HELLOCHINESE
+analytics.hellochinese.cc
+
+# SPEAKY
+analytics.speaky.com
+
+# VOXY
+analytics.voxy.com
+
+# TAALHAMMER
+analytics.taalhammer.com
+
+# MAKESYOUFLUENT
+analytics.makesyoufluent.com
+
+# ══════════════════════════════════════
+# [2] AGRESİF BLOCKLIST
+# Temel listedeki tüm domainlere EK OLARAK aşağıdakiler de engellenir.
+# ⚠️ işaretli domainler engellendiğinde platforma ait bir işlev bozulabilir.
+# ══════════════════════════════════════
+
+# DEEPL — A/B test & marketing tracking
+experimentation.deepl.com !
+# ⚠️ DeepL — A/B test motoru. Engellenirse UI farklı varyant yükleyemez;
+#    küçük görsel tutarsızlıklar veya özellik eksiklikleri oluşabilir.
+
+experimentation-grpc.deepl.com ! 
+# ⚠️ DeepL — Üsttekiyle aynı altyapı, gRPC protokolü üzerinden çalışır.
+
+hs.deepl.com !
+# ⚠️ DeepL — HubSpot marketing tracker (hs prefix = HubSpot).
+#    Engellenirse web sitesindeki chat widget ve bazı formlar çalışmaz.
+#    Masaüstü/mobil uygulama etkilenmez.
