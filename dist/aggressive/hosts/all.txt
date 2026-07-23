@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3798
+# Total domains: 3939
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,9 +10,15 @@
 0.0.0.0 3dat.steelseries.com
 0.0.0.0 4cite.com
 0.0.0.0 a.ad.playstation.net
+0.0.0.0 a.analytics.intel.com
 0.0.0.0 a.clarity.ms
 0.0.0.0 a.optmstr.com
 0.0.0.0 a.plerdy.com
+0.0.0.0 a1.analytics.intel.com
+0.0.0.0 a2.analytics.intel.com
+0.0.0.0 a3.analytics.intel.com
+0.0.0.0 a4.analytics.intel.com
+0.0.0.0 a5.analytics.intel.com
 0.0.0.0 a8clk.www.italki.com
 0.0.0.0 ab-test.adikteev.com
 0.0.0.0 ab-test.hulu.com
@@ -21,6 +27,7 @@
 0.0.0.0 abrt.fedoraproject.org
 0.0.0.0 abtest.netflix.com
 0.0.0.0 abtesting.roblox.com
+0.0.0.0 acc-analytics.amd.com
 0.0.0.0 account.fortect.com
 0.0.0.0 account.kromtech.net
 0.0.0.0 accountportal.driversupport.com
@@ -30,6 +37,7 @@
 0.0.0.0 acelogix.com
 0.0.0.0 acoustic.co
 0.0.0.0 acoustic.com
+0.0.0.0 acp-analytics.amd.com
 0.0.0.0 acscdn.lavasoft.com
 0.0.0.0 action.effiliation.com
 0.0.0.0 action.metaffiliation.com
@@ -67,7 +75,9 @@
 0.0.0.0 ad-engine.accuweather.com
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-metrics.espn.com
+0.0.0.0 ad-sdk.lenovomm.com
 0.0.0.0 ad-server.pluto.tv
+0.0.0.0 ad-trace.lenovomm.com
 0.0.0.0 ad.acast.com
 0.0.0.0 ad.admitad.com
 0.0.0.0 ad.alipay.com
@@ -77,11 +87,15 @@
 0.0.0.0 ad.criteo.com
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.holalauncher.com
+0.0.0.0 ad.jp.dell.com
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 ad.mxplayer.in
 0.0.0.0 ad.playstation.net
 0.0.0.0 ad.search.naver.com
 0.0.0.0 ad.vrvm.com
+0.0.0.0 ad1.gtie.dell.com
+0.0.0.0 ad2.gtie.dell.com
+0.0.0.0 ad3.gtie.dell.com
 0.0.0.0 adapi.holalauncher.com
 0.0.0.0 adassets.waze.com
 0.0.0.0 adaware.com
@@ -116,6 +130,7 @@
 0.0.0.0 ads-v-darwin.hulu.com
 0.0.0.0 ads.acast.com
 0.0.0.0 ads.accuweather.com
+0.0.0.0 ads.acer.com
 0.0.0.0 ads.adikteev.com
 0.0.0.0 ads.alipay.com
 0.0.0.0 ads.api.cj.com
@@ -200,6 +215,8 @@
 0.0.0.0 adserver.podbean.com
 0.0.0.0 adserver.remerge.io
 0.0.0.0 adsmanager.truecaller.com
+0.0.0.0 adspa-uat.acer.com
+0.0.0.0 adspa.acer.com
 0.0.0.0 adsquare.com
 0.0.0.0 adsrv.acast.com
 0.0.0.0 adstradata.com
@@ -247,6 +264,7 @@
 0.0.0.0 amplitude.flo.health
 0.0.0.0 amplitude.usemotion.com
 0.0.0.0 an.avast.com
+0.0.0.0 analysis-rog-content-platform.asus.com
 0.0.0.0 analytic.underarmour.com
 0.0.0.0 analytics-api.id.me
 0.0.0.0 analytics-api.obefitness.com
@@ -279,6 +297,7 @@
 0.0.0.0 analytics.abide.co
 0.0.0.0 analytics.ableton.com
 0.0.0.0 analytics.acast.com
+0.0.0.0 analytics.acer.com
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.add.app
 0.0.0.0 analytics.aerial.is
@@ -294,6 +313,8 @@
 0.0.0.0 analytics.appsflyer.com
 0.0.0.0 analytics.art19.com
 0.0.0.0 analytics.astrill.com
+0.0.0.0 analytics.asus.com
+0.0.0.0 analytics.asus.com.cn
 0.0.0.0 analytics.athan.com
 0.0.0.0 analytics.audioboom.com
 0.0.0.0 analytics.audionamix.com
@@ -387,6 +408,7 @@
 0.0.0.0 analytics.deepin.com
 0.0.0.0 analytics.deepl.com
 0.0.0.0 analytics.delectable.com
+0.0.0.0 analytics.dell.com
 0.0.0.0 analytics.descript.com
 0.0.0.0 analytics.devcycle.com
 0.0.0.0 analytics.dialpad.com
@@ -441,6 +463,7 @@
 0.0.0.0 analytics.geforcenow.com
 0.0.0.0 analytics.genie.retailmenot.com
 0.0.0.0 analytics.getaround.com
+0.0.0.0 analytics.gigabyte.com
 0.0.0.0 analytics.gikken.co
 0.0.0.0 analytics.gingersoftware.com
 0.0.0.0 analytics.giphy.com
@@ -471,6 +494,7 @@
 0.0.0.0 analytics.hornet.com
 0.0.0.0 analytics.hotstar.com
 0.0.0.0 analytics.hp.com
+0.0.0.0 analytics.hptouchpoint.com
 0.0.0.0 analytics.hubhopper.com
 0.0.0.0 analytics.hulu.com
 0.0.0.0 analytics.hungryroot.com
@@ -486,6 +510,7 @@
 0.0.0.0 analytics.indrive.com
 0.0.0.0 analytics.infomaniak.com
 0.0.0.0 analytics.insighttimer.com
+0.0.0.0 analytics.intel.com
 0.0.0.0 analytics.iono.fm
 0.0.0.0 analytics.ipvanish.com
 0.0.0.0 analytics.iqiyi.com
@@ -501,6 +526,7 @@
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.keeper.io
 0.0.0.0 analytics.kidoodle.tv
+0.0.0.0 analytics.killernetworking.com
 0.0.0.0 analytics.kindara.com
 0.0.0.0 analytics.kitchenstories.com
 0.0.0.0 analytics.klima.com
@@ -510,6 +536,7 @@
 0.0.0.0 analytics.languagedrops.com
 0.0.0.0 analytics.lastpass.com
 0.0.0.0 analytics.learn.nvidia.com
+0.0.0.0 analytics.lenovo.com
 0.0.0.0 analytics.leonardo.ai
 0.0.0.0 analytics.letsenhance.io
 0.0.0.0 analytics.li.me
@@ -553,6 +580,7 @@
 0.0.0.0 analytics.moovit.com
 0.0.0.0 analytics.movistarplus.es
 0.0.0.0 analytics.mpay.samsung.com
+0.0.0.0 analytics.msi.com
 0.0.0.0 analytics.mubert.com
 0.0.0.0 analytics.mubi.com
 0.0.0.0 analytics.murf.ai
@@ -581,6 +609,7 @@
 0.0.0.0 analytics.nordvpn.com
 0.0.0.0 analytics.notify.elsevier.com
 0.0.0.0 analytics.ns1.ff.avast.com
+0.0.0.0 analytics.nvidiagrid.net
 0.0.0.0 analytics.obsidian.md
 0.0.0.0 analytics.okcupid.com
 0.0.0.0 analytics.okta.com
@@ -589,6 +618,7 @@
 0.0.0.0 analytics.openai.com
 0.0.0.0 analytics.openaire.eu
 0.0.0.0 analytics.openalex.org
+0.0.0.0 analytics.openhands.amd.com
 0.0.0.0 analytics.opensea.io
 0.0.0.0 analytics.opensuse.org
 0.0.0.0 analytics.optimizely.com
@@ -687,6 +717,7 @@
 0.0.0.0 analytics.sixt.com
 0.0.0.0 analytics.skyshowtime.com
 0.0.0.0 analytics.snapcraft.io
+0.0.0.0 analytics.softwareimprovement.intel.com
 0.0.0.0 analytics.soothe.com
 0.0.0.0 analytics.soundful.com
 0.0.0.0 analytics.soundhound.com
@@ -747,6 +778,7 @@
 0.0.0.0 analytics.tubitv.com
 0.0.0.0 analytics.tunnelbear.com
 0.0.0.0 analytics.turo.com
+0.0.0.0 analytics.turtlebeach.com
 0.0.0.0 analytics.tv.apple.com
 0.0.0.0 analytics.tving.com
 0.0.0.0 analytics.uber.com
@@ -897,6 +929,7 @@
 0.0.0.0 api.clearbit.com
 0.0.0.0 api.clicktale.net
 0.0.0.0 api.coinis.com
+0.0.0.0 api.commune.ly
 0.0.0.0 api.contentsquare.net
 0.0.0.0 api.conviva.com
 0.0.0.0 api.crazyegg.com
@@ -961,6 +994,7 @@
 0.0.0.0 api.roiads.co
 0.0.0.0 api.rollbar.com
 0.0.0.0 api.rollerads.com
+0.0.0.0 api.s.telemetry.intel.com
 0.0.0.0 api.safegraph.com
 0.0.0.0 api.sessioncam.com
 0.0.0.0 api.sessionrewind.com
@@ -1055,9 +1089,11 @@
 0.0.0.0 audience.api.brightcove.com
 0.0.0.0 audience.remerge.io
 0.0.0.0 audience.zetaglobal.com
+0.0.0.0 audienceanalytics.intel.com
 0.0.0.0 audienceiq.com
 0.0.0.0 audiohook.com
 0.0.0.0 audiorella-data.com
+0.0.0.0 ausdimetrics.aus.amer.dell.com
 0.0.0.0 auth.callstats.io
 0.0.0.0 avantmetrics.com
 0.0.0.0 avention.com
@@ -1108,6 +1144,7 @@
 0.0.0.0 bemobtrcks.lalal.ai
 0.0.0.0 beta.analytics.openaire.eu
 0.0.0.0 beta.sexart.adultfriendfinder.com
+0.0.0.0 beta.telemetry.gfe.nvidia.com
 0.0.0.0 beyondwickedmapping.org
 0.0.0.0 bid.adikteev.com
 0.0.0.0 bid.remerge.io
@@ -1137,6 +1174,7 @@
 0.0.0.0 bounce.zetaglobal.com
 0.0.0.0 br.smartlook.cloud
 0.0.0.0 branch.flo.health
+0.0.0.0 bt.s.telemetry.intel.com
 0.0.0.0 bttracker.debian.org
 0.0.0.0 bug.kaspersky.com
 0.0.0.0 bugfender.com
@@ -1147,12 +1185,23 @@
 0.0.0.0 bugtracker.akiflow.com
 0.0.0.0 build-metrics.getsol.us
 0.0.0.0 bytes-event.vive.com
+0.0.0.0 c-all.telemetry.intel.com
 0.0.0.0 c.cfjump.com
 0.0.0.0 c.clarity.ms
 0.0.0.0 c.ltmsphrcl.net
 0.0.0.0 c.optmstr.com
 0.0.0.0 c.st.ltmsphrcl.net
+0.0.0.0 c.telemetry.intel.com
 0.0.0.0 c1.rfihub.net
+0.0.0.0 c1.telemetry.intel.com
+0.0.0.0 c2.telemetry.intel.com
+0.0.0.0 c3.telemetry.intel.com
+0.0.0.0 c4.telemetry.intel.com
+0.0.0.0 c5.telemetry.intel.com
+0.0.0.0 c6.telemetry.intel.com
+0.0.0.0 c7.telemetry.intel.com
+0.0.0.0 c8.telemetry.intel.com
+0.0.0.0 c9.telemetry.intel.com
 0.0.0.0 ca-central-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 caa-analytics.topcashback.com
 0.0.0.0 callback.adikteev.com
@@ -1275,13 +1324,16 @@
 0.0.0.0 cleanup-my-mac.live
 0.0.0.0 cleanupmymac.com
 0.0.0.0 cleanupmymac.live
+0.0.0.0 clear-telemetry.jf.intel.com
 0.0.0.0 clearbit.com
+0.0.0.0 click-analytics.dell.com
 0.0.0.0 click.adikteev.com
 0.0.0.0 click.appsflyer.com
 0.0.0.0 click.e.avis.com
 0.0.0.0 click.e.fitbit.com
 0.0.0.0 click.emails.hertz.com
 0.0.0.0 click.insights.seon.io
+0.0.0.0 click.lenovo.com
 0.0.0.0 click.mail.crakrevenue.com
 0.0.0.0 click.remerge.io
 0.0.0.0 click.stat.hao.360.cn
@@ -1350,6 +1402,7 @@
 0.0.0.0 collector.glassbox.com
 0.0.0.0 collector.glassbox.digital
 0.0.0.0 collector.inkitt.com
+0.0.0.0 collector.intel.com
 0.0.0.0 collector.medallia.com
 0.0.0.0 collector.quantummetric.com
 0.0.0.0 collector.tealeaf.goacoustic.com
@@ -1407,6 +1460,11 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 crashreport.razer.com
 0.0.0.0 crashreport1.avid.com
+0.0.0.0 crashreports.amd.com
+0.0.0.0 crashreports.asus.com
+0.0.0.0 crashreports.intel.com
+0.0.0.0 crashreports.msi.com
+0.0.0.0 crashreports.nvidia.com
 0.0.0.0 crazyegg.com
 0.0.0.0 creative-serve.remerge.io
 0.0.0.0 creative.adikteev.com
@@ -1471,6 +1529,7 @@
 0.0.0.0 data-collection.brightcove.com
 0.0.0.0 data-talos.revolut.com
 0.0.0.0 data.acxiom.com
+0.0.0.0 data.amd.com
 0.0.0.0 data.analytics-cdn.teachable.com
 0.0.0.0 data.app-analytics.petdesk.com
 0.0.0.0 data.conviva.com
@@ -1486,6 +1545,8 @@
 0.0.0.0 data.zetaglobal.com
 0.0.0.0 dataanalyst.mercury.weather.com
 0.0.0.0 datacollection.rec.net
+0.0.0.0 datacollector.dell.com
+0.0.0.0 datacollectorpc1-bigip.us.dell.com
 0.0.0.0 datalogix.com
 0.0.0.0 datapipeline.logitech.io
 0.0.0.0 dataquick.com
@@ -1508,6 +1569,7 @@
 0.0.0.0 deferred-deeplink.remerge.io
 0.0.0.0 delivery.adikteev.com
 0.0.0.0 delivery.remerge.io
+0.0.0.0 dellmetrics.com
 0.0.0.0 dentsu.co.jp
 0.0.0.0 dentsu.com
 0.0.0.0 dependencytrack-api.hub.klippa.com
@@ -1570,6 +1632,7 @@
 0.0.0.0 drivescrubber.com
 0.0.0.0 dropboxexperiment.com
 0.0.0.0 drp.su
+0.0.0.0 dsadata.intel.com
 0.0.0.0 dsp.zetaglobal.com
 0.0.0.0 dsstat.kaspersky.com
 0.0.0.0 dtrack.facia.ai
@@ -1603,6 +1666,7 @@
 0.0.0.0 emailtracking.soothe.com
 0.0.0.0 emetrics.engineeringvillage.com
 0.0.0.0 emjcd.com
+0.0.0.0 emslogs.asus.com
 0.0.0.0 engage.kaltura.com
 0.0.0.0 engage.youbora.com
 0.0.0.0 engagement.brightcove.com
@@ -1649,7 +1713,12 @@
 0.0.0.0 eval.bizrate.com
 0.0.0.0 event-reg.yamaha.com
 0.0.0.0 event.appsflyer.com
+0.0.0.0 event.asrock.com
+0.0.0.0 event.asus.com
+0.0.0.0 event.cn.msi.com
+0.0.0.0 event.gigabyte.com
 0.0.0.0 event.mackeeper.com
+0.0.0.0 event.msi.com
 0.0.0.0 event.okta.com
 0.0.0.0 event.vanceai.com
 0.0.0.0 event.vive.com
@@ -1659,11 +1728,16 @@
 0.0.0.0 eventlog.avg.com
 0.0.0.0 eventlog.avira.com
 0.0.0.0 eventlog.norton.com
+0.0.0.0 eventos.asus.com
 0.0.0.0 events-api.devcycle.com
+0.0.0.0 events-dc1.gfe.nvidia.com
+0.0.0.0 events-lon1.gfe.nvidia.com
 0.0.0.0 events-stream.remerge.io
 0.0.0.0 events-writer.eu.smartlook.cloud
 0.0.0.0 events.adikteev.com
+0.0.0.0 events.amd.com
 0.0.0.0 events.api.boomtrain.com
+0.0.0.0 events.api.nvidia.com
 0.0.0.0 events.character.ai
 0.0.0.0 events.cuebiq.com
 0.0.0.0 events.current.us
@@ -1671,6 +1745,8 @@
 0.0.0.0 events.eu.launchdarkly.com
 0.0.0.0 events.fetch.com
 0.0.0.0 events.ff.harness.io
+0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 events.gfestage.nvidia.com
 0.0.0.0 events.gitlab.net
 0.0.0.0 events.hotjar.com
 0.0.0.0 events.ibotta.com
@@ -1686,6 +1762,7 @@
 0.0.0.0 events.statsigapi.net
 0.0.0.0 events.surveyjunkie.com
 0.0.0.0 events.sweatco.in
+0.0.0.0 events.telemetry.data.nvidia.cn
 0.0.0.0 events.telemetry.data.nvidia.com
 0.0.0.0 events.upside.com
 0.0.0.0 events.zetaglobal.com
@@ -1733,8 +1810,10 @@
 0.0.0.0 featureassets.org
 0.0.0.0 featuregates.org
 0.0.0.0 fedora-telemetry.org
+0.0.0.0 feedback.amd.com
 0.0.0.0 feedback.flashbackrecorder.com
 0.0.0.0 feedback.hotjar.com
+0.0.0.0 feedback2.hp.com
 0.0.0.0 filecure.com
 0.0.0.0 files.crazyegg.com
 0.0.0.0 filesigcheck.com
@@ -1754,6 +1833,7 @@
 0.0.0.0 flexlinkspro.com
 0.0.0.0 fmtrack1.fractal.id
 0.0.0.0 fn.us.metricscdn2.eu.veri-das.com
+0.0.0.0 footprints.intel.com
 0.0.0.0 formcomplete.zoominfo.com
 0.0.0.0 fortect.com
 0.0.0.0 fp-api.data.sandbox.game
@@ -1790,6 +1870,9 @@
 0.0.0.0 generate.reviversoft.com
 0.0.0.0 geo-surf.com
 0.0.0.0 geoip.cactusglobal.com
+0.0.0.0 geologgera1.geodell.dell.com
+0.0.0.0 geologgeran.us.dell.com
+0.0.0.0 geologgerbn.us.dell.com
 0.0.0.0 getmydrivers.com
 0.0.0.0 getsentry.com
 0.0.0.0 gha-metrics.ops.amplitude.com
@@ -1831,6 +1914,7 @@
 0.0.0.0 grtyv.com
 0.0.0.0 gs.amplitude.com
 0.0.0.0 gs.eu.amplitude.com
+0.0.0.0 gssganalytics.dell.com
 0.0.0.0 gtm-analytics.united.vividseats.com
 0.0.0.0 gtm-analytics.vividseats.com
 0.0.0.0 gtrack.go.moovit.com
@@ -1878,9 +1962,11 @@
 0.0.0.0 id.piano.io
 0.0.0.0 identity.zetaglobal.com
 0.0.0.0 identitylink.acxiom.com
+0.0.0.0 idstelemetry.intel.com
 0.0.0.0 image.emails.hertz.com
 0.0.0.0 image.mail.crakrevenue.com
 0.0.0.0 imageproxy.us.criteo.net
+0.0.0.0 imaginganalytics.dcca.dell.com
 0.0.0.0 img.fullcontact.com
 0.0.0.0 img.litix.io
 0.0.0.0 imi4rd.com
@@ -1955,6 +2041,7 @@
 0.0.0.0 jdoqocy.com
 0.0.0.0 jenkins.analytics.weather.com
 0.0.0.0 jetclean.com
+0.0.0.0 jpstometrics1.jp.dell.com
 0.0.0.0 js-pixel.limeade.com
 0.0.0.0 js.heatmap.com
 0.0.0.0 js.ptengine.jp
@@ -2017,6 +2104,7 @@
 0.0.0.0 log-gateway.zoom.us
 0.0.0.0 log-internal-gateway.zoom.us
 0.0.0.0 log-net.zoom.us
+0.0.0.0 log-smart.lenovo.com
 0.0.0.0 log-upload-os.hoyoverse.com
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 log-upload.hoyoverse.com
@@ -2032,6 +2120,7 @@
 0.0.0.0 log.nordvpn.com
 0.0.0.0 log.onesignal.com
 0.0.0.0 log.optimizely.com
+0.0.0.0 log.pgre.dell.com
 0.0.0.0 log.pre.gitlab.net
 0.0.0.0 log.shazam.com
 0.0.0.0 log.soundhound.com
@@ -2041,6 +2130,7 @@
 0.0.0.0 log.tresorit.com
 0.0.0.0 log.zoom.us
 0.0.0.0 log01.mtv.squareup.com
+0.0.0.0 log2.pgre.dell.com
 0.0.0.0 logfiles.zoom.us
 0.0.0.0 logger.kameleoon.io
 0.0.0.0 logger.sciencedirect.com
@@ -2065,6 +2155,7 @@
 0.0.0.0 logs.boosteroid.com
 0.0.0.0 logs.cachyos.org
 0.0.0.0 logs.circle.so
+0.0.0.0 logs.dds.lenovo.com
 0.0.0.0 logs.eyecon-app.com
 0.0.0.0 logs.fitbark.com
 0.0.0.0 logs.flaviar.com
@@ -2091,6 +2182,7 @@
 0.0.0.0 lr-ingest.io
 0.0.0.0 lr-intake.com
 0.0.0.0 lrkt-in.com
+0.0.0.0 ls.dtrace.nvidia.com
 0.0.0.0 ltmsphrcl.net
 0.0.0.0 ltv.adikteev.com
 0.0.0.0 ltv.remerge.io
@@ -2148,6 +2240,8 @@
 0.0.0.0 merkleinc.com
 0.0.0.0 merkleresponse.com
 0.0.0.0 merkury.dentsu.com
+0.0.0.0 messagecenterlog-dr.intel.com
+0.0.0.0 messagecenterlog.intel.com
 0.0.0.0 metabase.analytics.native-instruments.com
 0.0.0.0 metaffiliation.com
 0.0.0.0 metis.truecaller.com
@@ -2169,6 +2263,7 @@
 0.0.0.0 metrics.alipay.com
 0.0.0.0 metrics.altlinux.org
 0.0.0.0 metrics.amani.ai
+0.0.0.0 metrics.amd.com
 0.0.0.0 metrics.anthropic.com
 0.0.0.0 metrics.avast.com
 0.0.0.0 metrics.binge.com.au
@@ -2199,6 +2294,7 @@
 0.0.0.0 metrics.descript.com
 0.0.0.0 metrics.discoveryplus.com
 0.0.0.0 metrics.disneyplus.com
+0.0.0.0 metrics.dmsp.dell.com
 0.0.0.0 metrics.duolingo.com
 0.0.0.0 metrics.ea.com
 0.0.0.0 metrics.espn.com
@@ -2221,19 +2317,23 @@
 0.0.0.0 metrics.hbomax.com
 0.0.0.0 metrics.helloclue.com
 0.0.0.0 metrics.hotstar.com
+0.0.0.0 metrics.hp.com
 0.0.0.0 metrics.hulu.com
 0.0.0.0 metrics.hyperx.com
 0.0.0.0 metrics.ibotta.com
 0.0.0.0 metrics.idfy.com
 0.0.0.0 metrics.image-line.com
 0.0.0.0 metrics.infra.yoti.com
+0.0.0.0 metrics.intel.com
 0.0.0.0 metrics.internetdownloadmanager.com
 0.0.0.0 metrics.ipvanish.com
 0.0.0.0 metrics.joinhoney.com
+0.0.0.0 metrics.jp.dell.com
 0.0.0.0 metrics.jwplayer.com
 0.0.0.0 metrics.kaizen.nvidia.com
 0.0.0.0 metrics.kindara.com
 0.0.0.0 metrics.landr.com
+0.0.0.0 metrics.lenovo.com
 0.0.0.0 metrics.libbyapp.com
 0.0.0.0 metrics.logitech.com
 0.0.0.0 metrics.luna.amazon.com
@@ -2256,6 +2356,7 @@
 0.0.0.0 metrics.netflix.com
 0.0.0.0 metrics.nickjr.com
 0.0.0.0 metrics.nordvpn.com
+0.0.0.0 metrics.ols.us.dell.com
 0.0.0.0 metrics.openai.com
 0.0.0.0 metrics.opensuse.org
 0.0.0.0 metrics.oviahealth.com
@@ -2272,6 +2373,7 @@
 0.0.0.0 metrics.privateinternetaccess.com
 0.0.0.0 metrics.prizerebel.com
 0.0.0.0 metrics.qa.max.weather.com
+0.0.0.0 metrics.qira.lenovo.com
 0.0.0.0 metrics.razer.com
 0.0.0.0 metrics.receiptpal.com
 0.0.0.0 metrics.reebok.com
@@ -2299,6 +2401,7 @@
 0.0.0.0 metrics.system76.com
 0.0.0.0 metrics.tavour.com
 0.0.0.0 metrics.teamviewer.com
+0.0.0.0 metrics.telemetry.data.nvidia.cn
 0.0.0.0 metrics.telemetry.data.nvidia.com
 0.0.0.0 metrics.theknot.com
 0.0.0.0 metrics.toluna.com
@@ -2330,6 +2433,7 @@
 0.0.0.0 metricscdn2.eu.veri-das.com
 0.0.0.0 metricstm.podcastle.ai
 0.0.0.0 metrix.adultfriendfinder.com
+0.0.0.0 metrix.ols.us.dell.com
 0.0.0.0 mi.telemetry.lab.norton.com
 0.0.0.0 mit.metrics.unpaywall.org
 0.0.0.0 mixpanel.untappd.com
@@ -2404,6 +2508,9 @@
 0.0.0.0 nqs-eu.youbora.com
 0.0.0.0 nqs-us.youbora.com
 0.0.0.0 nqs.youbora.com
+0.0.0.0 nvcrashreporter.nvidia.com
+0.0.0.0 nvidia.telemetry.internet.microsoft.com
+0.0.0.0 nvidia.tt.omtrdc.net
 0.0.0.0 nxad.nextory.com
 0.0.0.0 nxads.nextory.com
 0.0.0.0 o.clarity.ms
@@ -2418,6 +2525,8 @@
 0.0.0.0 onclicka.com
 0.0.0.0 onclickad.com
 0.0.0.0 oneaudience.com
+0.0.0.0 ontrack-lnx.amd.com
+0.0.0.0 ontrack.amd.com
 0.0.0.0 open.zetaglobal.com
 0.0.0.0 openreplay.com
 0.0.0.0 opentag-stats.qubit.com
@@ -2457,6 +2566,7 @@
 0.0.0.0 paypal.112.2o7.net
 0.0.0.0 paypal.demdex.net
 0.0.0.0 paypal.tt.omtrdc.net
+0.0.0.0 pc-clarity.us.dell.com
 0.0.0.0 pccleaner.site
 0.0.0.0 pccleanerpro.com
 0.0.0.0 pcdrivershq.com
@@ -2582,6 +2692,7 @@
 0.0.0.0 qksrv.net
 0.0.0.0 qksz.net
 0.0.0.0 qlik.analytics.weather.com
+0.0.0.0 qstanalytics.lenovo.com
 0.0.0.0 quality-analytics.conviva.com
 0.0.0.0 quantummetric.com
 0.0.0.0 r.clarity.ms
@@ -2714,6 +2825,7 @@
 0.0.0.0 safegraph.com
 0.0.0.0 safegraph.io
 0.0.0.0 salesgenie.com
+0.0.0.0 samstats.msi.com
 0.0.0.0 sblog.lalal.ai
 0.0.0.0 sclpfybn.com
 0.0.0.0 script.crazyegg.com
@@ -2849,6 +2961,7 @@
 0.0.0.0 smetric.worldcat.org
 0.0.0.0 smetrics-ieeexplore.ieee.org
 0.0.0.0 smetrics.aem.playstation.com
+0.0.0.0 smetrics.amd.com
 0.0.0.0 smetrics.axs.com
 0.0.0.0 smetrics.bitdefender.com
 0.0.0.0 smetrics.couponcabin.com
@@ -2918,6 +3031,7 @@
 0.0.0.0 static.openreplay.com
 0.0.0.0 static.webmaxy.com
 0.0.0.0 static.zetaglobal.com
+0.0.0.0 statistics.amd.com
 0.0.0.0 stats-and-reports.booksy.com
 0.0.0.0 stats.apps.allenai.org
 0.0.0.0 stats.appsflyer.com
@@ -2968,6 +3082,7 @@
 0.0.0.0 stats.paypal.com
 0.0.0.0 stats.playit.pk
 0.0.0.0 stats.podbean.com
+0.0.0.0 stats.puri.sm
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.rarible.com
 0.0.0.0 stats.raspberrypi.org
@@ -3082,16 +3197,21 @@
 0.0.0.0 telemetry.1passwordservices.com
 0.0.0.0 telemetry.ableton.com
 0.0.0.0 telemetry.access.securid.com
+0.0.0.0 telemetry.acer.com
 0.0.0.0 telemetry.add.app
 0.0.0.0 telemetry.aida64.com
 0.0.0.0 telemetry.altered.ai
+0.0.0.0 telemetry.amd.com
 0.0.0.0 telemetry.anydesk.com
 0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 telemetry.appplayer.msi.com
 0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.artpipe.epicgames.com
 0.0.0.0 telemetry.ascomp.com
 0.0.0.0 telemetry.ashampoo.com
+0.0.0.0 telemetry.asrock.com
 0.0.0.0 telemetry.astrill.com
+0.0.0.0 telemetry.asus.com
 0.0.0.0 telemetry.audacityteam.org
 0.0.0.0 telemetry.audionamix.com
 0.0.0.0 telemetry.avast.com
@@ -3121,11 +3241,13 @@
 0.0.0.0 telemetry.crunchyroll.com
 0.0.0.0 telemetry.cyberghostvpn.com
 0.0.0.0 telemetry.cybertronsoft.com
+0.0.0.0 telemetry.data.nvidia.cn
 0.0.0.0 telemetry.data.nvidia.com
 0.0.0.0 telemetry.dataplatform.zing.coach
 0.0.0.0 telemetry.dazn.com
 0.0.0.0 telemetry.deepin.com
 0.0.0.0 telemetry.deepl.com
+0.0.0.0 telemetry.dell.com
 0.0.0.0 telemetry.descript.com
 0.0.0.0 telemetry.didichuxing.com
 0.0.0.0 telemetry.digitalvolcano.co.uk
@@ -3152,16 +3274,21 @@
 0.0.0.0 telemetry.gamban.com
 0.0.0.0 telemetry.geekbench.com
 0.0.0.0 telemetry.geforcenow.com
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 telemetry.gfestage.nvidia.com
+0.0.0.0 telemetry.gigabyte.com
 0.0.0.0 telemetry.glow.co
 0.0.0.0 telemetry.grindr.com
 0.0.0.0 telemetry.hbomax.com
 0.0.0.0 telemetry.hide.me
 0.0.0.0 telemetry.hitnmix.com
 0.0.0.0 telemetry.hotstar.com
+0.0.0.0 telemetry.hp.com
 0.0.0.0 telemetry.hulu.com
 0.0.0.0 telemetry.image-line.com
 0.0.0.0 telemetry.immutable.com
 0.0.0.0 telemetry.insights.video.a2z.com
+0.0.0.0 telemetry.intel.com
 0.0.0.0 telemetry.internetdownloadmanager.com
 0.0.0.0 telemetry.iobit.com
 0.0.0.0 telemetry.iolo.com
@@ -3170,7 +3297,9 @@
 0.0.0.0 telemetry.jdownloader.org
 0.0.0.0 telemetry.joinhoney.com
 0.0.0.0 telemetry.kaspersky.com
+0.0.0.0 telemetry.killernetworking.com
 0.0.0.0 telemetry.landr.com
+0.0.0.0 telemetry.lenovo.com
 0.0.0.0 telemetry.linuxmint.com
 0.0.0.0 telemetry.logitechg.com
 0.0.0.0 telemetry.logmein.com
@@ -3187,8 +3316,10 @@
 0.0.0.0 telemetry.mixedinkey.com
 0.0.0.0 telemetry.mobile.api.mcafee.com
 0.0.0.0 telemetry.moises.ai
+0.0.0.0 telemetry.msi.com
 0.0.0.0 telemetry.mux.com
 0.0.0.0 telemetry.mxplayer.in
+0.0.0.0 telemetry.nahimic.com
 0.0.0.0 telemetry.native-instruments.com
 0.0.0.0 telemetry.naturalcycles.com
 0.0.0.0 telemetry.nordvpn.com
@@ -3232,6 +3363,7 @@
 0.0.0.0 telemetry.teamviewer.com
 0.0.0.0 telemetry.techsmith.com
 0.0.0.0 telemetry.tenor.com
+0.0.0.0 telemetry.thermaltake.com
 0.0.0.0 telemetry.topazlabs.com
 0.0.0.0 telemetry.tubitv.com
 0.0.0.0 telemetry.tunnelbear.com
@@ -3253,6 +3385,7 @@
 0.0.0.0 telemetry.zombodroid.com
 0.0.0.0 telemetry.zoom.us
 0.0.0.0 telemetry.zorinos.com
+0.0.0.0 telemetrydata.intel.com
 0.0.0.0 telemetrydoc.swiftkey.com
 0.0.0.0 thecyberprotector.com
 0.0.0.0 throtle.io
@@ -3364,14 +3497,17 @@
 0.0.0.0 tracker.kali.org
 0.0.0.0 tracker.mobidea.com
 0.0.0.0 tracker.opensuse.org
+0.0.0.0 tracker.or.intel.com
 0.0.0.0 tracker.polar.com
 0.0.0.0 tracker.prf.hn
+0.0.0.0 tracker.puri.sm
 0.0.0.0 tracker.quitgambling.com
 0.0.0.0 tracker.remerge.io
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracking-api.italki.com
 0.0.0.0 tracking.ableton.com
 0.0.0.0 tracking.acast.com
+0.0.0.0 tracking.acer.com
 0.0.0.0 tracking.adbarker.com
 0.0.0.0 tracking.admitad.com
 0.0.0.0 tracking.affilae.com
@@ -3431,6 +3567,7 @@
 0.0.0.0 tracking.lastpass.com
 0.0.0.0 tracking.launchdarkly.com
 0.0.0.0 tracking.loopcloud.com
+0.0.0.0 tracking.micron.com
 0.0.0.0 tracking.mindbodyonline.com
 0.0.0.0 tracking.moneysms.co
 0.0.0.0 tracking.morgen.so
@@ -3488,6 +3625,7 @@
 0.0.0.0 tracking.tradedoubler.com
 0.0.0.0 tracking.tubitv.com
 0.0.0.0 tracking.turo.com
+0.0.0.0 tracking.turtlebeach.com
 0.0.0.0 tracking.upside.com
 0.0.0.0 tracking.vagaro.com
 0.0.0.0 tracking.vivino.com
@@ -3500,6 +3638,7 @@
 0.0.0.0 trackjs.com
 0.0.0.0 trackmymac.com
 0.0.0.0 tracknooks.abcfitness.com
+0.0.0.0 trackr.puri.sm
 0.0.0.0 trackworld-model-1.apps.allenai.org
 0.0.0.0 trackworld-model-2.apps.allenai.org
 0.0.0.0 traffic-analytics.ghost.org
@@ -3508,6 +3647,7 @@
 0.0.0.0 trk.agreements.hertz.com
 0.0.0.0 trk.datify.link
 0.0.0.0 trk.dowjones.com
+0.0.0.0 trk.ecomm.lenovo.com
 0.0.0.0 trk.eib.presonus.com
 0.0.0.0 trk.gojek.com
 0.0.0.0 trk.gonoise.com
@@ -3666,6 +3806,7 @@
 0.0.0.0 webmaxy.com
 0.0.0.0 webmaxy.io
 0.0.0.0 websights.zoominfo.com
+0.0.0.0 webstats.puri.sm
 0.0.0.0 webwww.faro.highscore.com
 0.0.0.0 webwww.traces.highscore.com
 0.0.0.0 weeklyad.petsmart.com

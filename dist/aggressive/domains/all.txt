@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3798
+# Total domains: 3939
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,9 +10,15 @@
 3dat.steelseries.com
 4cite.com
 a.ad.playstation.net
+a.analytics.intel.com
 a.clarity.ms
 a.optmstr.com
 a.plerdy.com
+a1.analytics.intel.com
+a2.analytics.intel.com
+a3.analytics.intel.com
+a4.analytics.intel.com
+a5.analytics.intel.com
 a8clk.www.italki.com
 ab-test.adikteev.com
 ab-test.hulu.com
@@ -21,6 +27,7 @@ abilitec.acxiom.com
 abrt.fedoraproject.org
 abtest.netflix.com
 abtesting.roblox.com
+acc-analytics.amd.com
 account.fortect.com
 account.kromtech.net
 accountportal.driversupport.com
@@ -30,6 +37,7 @@ acdn.navdmp.com
 acelogix.com
 acoustic.co
 acoustic.com
+acp-analytics.amd.com
 acscdn.lavasoft.com
 action.effiliation.com
 action.metaffiliation.com
@@ -67,7 +75,9 @@ ad-beacon.tubitv.com
 ad-engine.accuweather.com
 ad-maven.com
 ad-metrics.espn.com
+ad-sdk.lenovomm.com
 ad-server.pluto.tv
+ad-trace.lenovomm.com
 ad.acast.com
 ad.admitad.com
 ad.alipay.com
@@ -77,11 +87,15 @@ ad.cookpad.jp
 ad.criteo.com
 ad.crwdcntrl.net
 ad.holalauncher.com
+ad.jp.dell.com
 ad.linksynergy.com
 ad.mxplayer.in
 ad.playstation.net
 ad.search.naver.com
 ad.vrvm.com
+ad1.gtie.dell.com
+ad2.gtie.dell.com
+ad3.gtie.dell.com
 adapi.holalauncher.com
 adassets.waze.com
 adaware.com
@@ -116,6 +130,7 @@ ads-twitter.com.sci-hub.tw
 ads-v-darwin.hulu.com
 ads.acast.com
 ads.accuweather.com
+ads.acer.com
 ads.adikteev.com
 ads.alipay.com
 ads.api.cj.com
@@ -200,6 +215,8 @@ adserver.mxplayer.in
 adserver.podbean.com
 adserver.remerge.io
 adsmanager.truecaller.com
+adspa-uat.acer.com
+adspa.acer.com
 adsquare.com
 adsrv.acast.com
 adstradata.com
@@ -247,6 +264,7 @@ amplitude.com
 amplitude.flo.health
 amplitude.usemotion.com
 an.avast.com
+analysis-rog-content-platform.asus.com
 analytic.underarmour.com
 analytics-api.id.me
 analytics-api.obefitness.com
@@ -279,6 +297,7 @@ analytics.abema.tv
 analytics.abide.co
 analytics.ableton.com
 analytics.acast.com
+analytics.acer.com
 analytics.ad.daum.net
 analytics.add.app
 analytics.aerial.is
@@ -294,6 +313,8 @@ analytics.api.services.leonardo.ai
 analytics.appsflyer.com
 analytics.art19.com
 analytics.astrill.com
+analytics.asus.com
+analytics.asus.com.cn
 analytics.athan.com
 analytics.audioboom.com
 analytics.audionamix.com
@@ -387,6 +408,7 @@ analytics.deedster.com
 analytics.deepin.com
 analytics.deepl.com
 analytics.delectable.com
+analytics.dell.com
 analytics.descript.com
 analytics.devcycle.com
 analytics.dialpad.com
@@ -441,6 +463,7 @@ analytics.gamstop.co.uk
 analytics.geforcenow.com
 analytics.genie.retailmenot.com
 analytics.getaround.com
+analytics.gigabyte.com
 analytics.gikken.co
 analytics.gingersoftware.com
 analytics.giphy.com
@@ -471,6 +494,7 @@ analytics.hooktheory.com
 analytics.hornet.com
 analytics.hotstar.com
 analytics.hp.com
+analytics.hptouchpoint.com
 analytics.hubhopper.com
 analytics.hulu.com
 analytics.hungryroot.com
@@ -486,6 +510,7 @@ analytics.incode.com
 analytics.indrive.com
 analytics.infomaniak.com
 analytics.insighttimer.com
+analytics.intel.com
 analytics.iono.fm
 analytics.ipvanish.com
 analytics.iqiyi.com
@@ -501,6 +526,7 @@ analytics.jwplayer.com
 analytics.kaltura.com
 analytics.keeper.io
 analytics.kidoodle.tv
+analytics.killernetworking.com
 analytics.kindara.com
 analytics.kitchenstories.com
 analytics.klima.com
@@ -510,6 +536,7 @@ analytics.landr.com
 analytics.languagedrops.com
 analytics.lastpass.com
 analytics.learn.nvidia.com
+analytics.lenovo.com
 analytics.leonardo.ai
 analytics.letsenhance.io
 analytics.li.me
@@ -553,6 +580,7 @@ analytics.moodsapp.com
 analytics.moovit.com
 analytics.movistarplus.es
 analytics.mpay.samsung.com
+analytics.msi.com
 analytics.mubert.com
 analytics.mubi.com
 analytics.murf.ai
@@ -581,6 +609,7 @@ analytics.nordpass.com
 analytics.nordvpn.com
 analytics.notify.elsevier.com
 analytics.ns1.ff.avast.com
+analytics.nvidiagrid.net
 analytics.obsidian.md
 analytics.okcupid.com
 analytics.okta.com
@@ -589,6 +618,7 @@ analytics.onepeloton.com
 analytics.openai.com
 analytics.openaire.eu
 analytics.openalex.org
+analytics.openhands.amd.com
 analytics.opensea.io
 analytics.opensuse.org
 analytics.optimizely.com
@@ -687,6 +717,7 @@ analytics.simplycodes.com
 analytics.sixt.com
 analytics.skyshowtime.com
 analytics.snapcraft.io
+analytics.softwareimprovement.intel.com
 analytics.soothe.com
 analytics.soundful.com
 analytics.soundhound.com
@@ -747,6 +778,7 @@ analytics.transparent.com
 analytics.tubitv.com
 analytics.tunnelbear.com
 analytics.turo.com
+analytics.turtlebeach.com
 analytics.tv.apple.com
 analytics.tving.com
 analytics.uber.com
@@ -897,6 +929,7 @@ api.chartbeat.net
 api.clearbit.com
 api.clicktale.net
 api.coinis.com
+api.commune.ly
 api.contentsquare.net
 api.conviva.com
 api.crazyegg.com
@@ -961,6 +994,7 @@ api.richads.com
 api.roiads.co
 api.rollbar.com
 api.rollerads.com
+api.s.telemetry.intel.com
 api.safegraph.com
 api.sessioncam.com
 api.sessionrewind.com
@@ -1055,9 +1089,11 @@ audience.adikteev.com
 audience.api.brightcove.com
 audience.remerge.io
 audience.zetaglobal.com
+audienceanalytics.intel.com
 audienceiq.com
 audiohook.com
 audiorella-data.com
+ausdimetrics.aus.amer.dell.com
 auth.callstats.io
 avantmetrics.com
 avention.com
@@ -1108,6 +1144,7 @@ beaconsinspace.com
 bemobtrcks.lalal.ai
 beta.analytics.openaire.eu
 beta.sexart.adultfriendfinder.com
+beta.telemetry.gfe.nvidia.com
 beyondwickedmapping.org
 bid.adikteev.com
 bid.remerge.io
@@ -1137,6 +1174,7 @@ boomtrain.com
 bounce.zetaglobal.com
 br.smartlook.cloud
 branch.flo.health
+bt.s.telemetry.intel.com
 bttracker.debian.org
 bug.kaspersky.com
 bugfender.com
@@ -1147,12 +1185,23 @@ bugsplat.com
 bugtracker.akiflow.com
 build-metrics.getsol.us
 bytes-event.vive.com
+c-all.telemetry.intel.com
 c.cfjump.com
 c.clarity.ms
 c.ltmsphrcl.net
 c.optmstr.com
 c.st.ltmsphrcl.net
+c.telemetry.intel.com
 c1.rfihub.net
+c1.telemetry.intel.com
+c2.telemetry.intel.com
+c3.telemetry.intel.com
+c4.telemetry.intel.com
+c5.telemetry.intel.com
+c6.telemetry.intel.com
+c7.telemetry.intel.com
+c8.telemetry.intel.com
+c9.telemetry.intel.com
 ca-central-1-1.telemetry.insights.video.a2z.com
 caa-analytics.topcashback.com
 callback.adikteev.com
@@ -1275,13 +1324,16 @@ clarity.zepp.com
 cleanup-my-mac.live
 cleanupmymac.com
 cleanupmymac.live
+clear-telemetry.jf.intel.com
 clearbit.com
+click-analytics.dell.com
 click.adikteev.com
 click.appsflyer.com
 click.e.avis.com
 click.e.fitbit.com
 click.emails.hertz.com
 click.insights.seon.io
+click.lenovo.com
 click.mail.crakrevenue.com
 click.remerge.io
 click.stat.hao.360.cn
@@ -1350,6 +1402,7 @@ collector.github.com
 collector.glassbox.com
 collector.glassbox.digital
 collector.inkitt.com
+collector.intel.com
 collector.medallia.com
 collector.quantummetric.com
 collector.tealeaf.goacoustic.com
@@ -1407,6 +1460,11 @@ crashlytics.com
 crashlyticsreports-pa.googleapis.com
 crashreport.razer.com
 crashreport1.avid.com
+crashreports.amd.com
+crashreports.asus.com
+crashreports.intel.com
+crashreports.msi.com
+crashreports.nvidia.com
 crazyegg.com
 creative-serve.remerge.io
 creative.adikteev.com
@@ -1471,6 +1529,7 @@ data-axle.com
 data-collection.brightcove.com
 data-talos.revolut.com
 data.acxiom.com
+data.amd.com
 data.analytics-cdn.teachable.com
 data.app-analytics.petdesk.com
 data.conviva.com
@@ -1486,6 +1545,8 @@ data.youbora.com
 data.zetaglobal.com
 dataanalyst.mercury.weather.com
 datacollection.rec.net
+datacollector.dell.com
+datacollectorpc1-bigip.us.dell.com
 datalogix.com
 datapipeline.logitech.io
 dataquick.com
@@ -1508,6 +1569,7 @@ deferred-deeplink.adikteev.com
 deferred-deeplink.remerge.io
 delivery.adikteev.com
 delivery.remerge.io
+dellmetrics.com
 dentsu.co.jp
 dentsu.com
 dependencytrack-api.hub.klippa.com
@@ -1570,6 +1632,7 @@ driverupdate.net
 drivescrubber.com
 dropboxexperiment.com
 drp.su
+dsadata.intel.com
 dsp.zetaglobal.com
 dsstat.kaspersky.com
 dtrack.facia.ai
@@ -1603,6 +1666,7 @@ emailretargeting.com
 emailtracking.soothe.com
 emetrics.engineeringvillage.com
 emjcd.com
+emslogs.asus.com
 engage.kaltura.com
 engage.youbora.com
 engagement.brightcove.com
@@ -1649,7 +1713,12 @@ evadav.com
 eval.bizrate.com
 event-reg.yamaha.com
 event.appsflyer.com
+event.asrock.com
+event.asus.com
+event.cn.msi.com
+event.gigabyte.com
 event.mackeeper.com
+event.msi.com
 event.okta.com
 event.vanceai.com
 event.vive.com
@@ -1659,11 +1728,16 @@ eventlog-sd.norton.com
 eventlog.avg.com
 eventlog.avira.com
 eventlog.norton.com
+eventos.asus.com
 events-api.devcycle.com
+events-dc1.gfe.nvidia.com
+events-lon1.gfe.nvidia.com
 events-stream.remerge.io
 events-writer.eu.smartlook.cloud
 events.adikteev.com
+events.amd.com
 events.api.boomtrain.com
+events.api.nvidia.com
 events.character.ai
 events.cuebiq.com
 events.current.us
@@ -1671,6 +1745,8 @@ events.devcycle.com
 events.eu.launchdarkly.com
 events.fetch.com
 events.ff.harness.io
+events.gfe.nvidia.com
+events.gfestage.nvidia.com
 events.gitlab.net
 events.hotjar.com
 events.ibotta.com
@@ -1686,6 +1762,7 @@ events.retargeter.com
 events.statsigapi.net
 events.surveyjunkie.com
 events.sweatco.in
+events.telemetry.data.nvidia.cn
 events.telemetry.data.nvidia.com
 events.upside.com
 events.zetaglobal.com
@@ -1733,8 +1810,10 @@ fcleaner.com
 featureassets.org
 featuregates.org
 fedora-telemetry.org
+feedback.amd.com
 feedback.flashbackrecorder.com
 feedback.hotjar.com
+feedback2.hp.com
 filecure.com
 files.crazyegg.com
 filesigcheck.com
@@ -1754,6 +1833,7 @@ flexlinks.com
 flexlinkspro.com
 fmtrack1.fractal.id
 fn.us.metricscdn2.eu.veri-das.com
+footprints.intel.com
 formcomplete.zoominfo.com
 fortect.com
 fp-api.data.sandbox.game
@@ -1790,6 +1870,9 @@ gemini-analytics.google.com
 generate.reviversoft.com
 geo-surf.com
 geoip.cactusglobal.com
+geologgera1.geodell.dell.com
+geologgeran.us.dell.com
+geologgerbn.us.dell.com
 getmydrivers.com
 getsentry.com
 gha-metrics.ops.amplitude.com
@@ -1831,6 +1914,7 @@ grindr-analytics.com
 grtyv.com
 gs.amplitude.com
 gs.eu.amplitude.com
+gssganalytics.dell.com
 gtm-analytics.united.vividseats.com
 gtm-analytics.vividseats.com
 gtrack.go.moovit.com
@@ -1878,9 +1962,11 @@ id.crwdcntrl.net
 id.piano.io
 identity.zetaglobal.com
 identitylink.acxiom.com
+idstelemetry.intel.com
 image.emails.hertz.com
 image.mail.crakrevenue.com
 imageproxy.us.criteo.net
+imaginganalytics.dcca.dell.com
 img.fullcontact.com
 img.litix.io
 imi4rd.com
@@ -1955,6 +2041,7 @@ j.navdmp.com
 jdoqocy.com
 jenkins.analytics.weather.com
 jetclean.com
+jpstometrics1.jp.dell.com
 js-pixel.limeade.com
 js.heatmap.com
 js.ptengine.jp
@@ -2017,6 +2104,7 @@ log-filtering.memberful.com
 log-gateway.zoom.us
 log-internal-gateway.zoom.us
 log-net.zoom.us
+log-smart.lenovo.com
 log-upload-os.hoyoverse.com
 log-upload-os.mihoyo.com
 log-upload.hoyoverse.com
@@ -2032,6 +2120,7 @@ log.inkitt.com
 log.nordvpn.com
 log.onesignal.com
 log.optimizely.com
+log.pgre.dell.com
 log.pre.gitlab.net
 log.shazam.com
 log.soundhound.com
@@ -2041,6 +2130,7 @@ log.svc.screencastify.com
 log.tresorit.com
 log.zoom.us
 log01.mtv.squareup.com
+log2.pgre.dell.com
 logfiles.zoom.us
 logger.kameleoon.io
 logger.sciencedirect.com
@@ -2065,6 +2155,7 @@ logs.bobble.ai
 logs.boosteroid.com
 logs.cachyos.org
 logs.circle.so
+logs.dds.lenovo.com
 logs.eyecon-app.com
 logs.fitbark.com
 logs.flaviar.com
@@ -2091,6 +2182,7 @@ lr-ingest.com
 lr-ingest.io
 lr-intake.com
 lrkt-in.com
+ls.dtrace.nvidia.com
 ltmsphrcl.net
 ltv.adikteev.com
 ltv.remerge.io
@@ -2148,6 +2240,8 @@ merkle.com
 merkleinc.com
 merkleresponse.com
 merkury.dentsu.com
+messagecenterlog-dr.intel.com
+messagecenterlog.intel.com
 metabase.analytics.native-instruments.com
 metaffiliation.com
 metis.truecaller.com
@@ -2169,6 +2263,7 @@ metrics.add.app
 metrics.alipay.com
 metrics.altlinux.org
 metrics.amani.ai
+metrics.amd.com
 metrics.anthropic.com
 metrics.avast.com
 metrics.binge.com.au
@@ -2199,6 +2294,7 @@ metrics.dazn.com
 metrics.descript.com
 metrics.discoveryplus.com
 metrics.disneyplus.com
+metrics.dmsp.dell.com
 metrics.duolingo.com
 metrics.ea.com
 metrics.espn.com
@@ -2221,19 +2317,23 @@ metrics.gnome.org
 metrics.hbomax.com
 metrics.helloclue.com
 metrics.hotstar.com
+metrics.hp.com
 metrics.hulu.com
 metrics.hyperx.com
 metrics.ibotta.com
 metrics.idfy.com
 metrics.image-line.com
 metrics.infra.yoti.com
+metrics.intel.com
 metrics.internetdownloadmanager.com
 metrics.ipvanish.com
 metrics.joinhoney.com
+metrics.jp.dell.com
 metrics.jwplayer.com
 metrics.kaizen.nvidia.com
 metrics.kindara.com
 metrics.landr.com
+metrics.lenovo.com
 metrics.libbyapp.com
 metrics.logitech.com
 metrics.luna.amazon.com
@@ -2256,6 +2356,7 @@ metrics.nbc.com
 metrics.netflix.com
 metrics.nickjr.com
 metrics.nordvpn.com
+metrics.ols.us.dell.com
 metrics.openai.com
 metrics.opensuse.org
 metrics.oviahealth.com
@@ -2272,6 +2373,7 @@ metrics.presonus.com
 metrics.privateinternetaccess.com
 metrics.prizerebel.com
 metrics.qa.max.weather.com
+metrics.qira.lenovo.com
 metrics.razer.com
 metrics.receiptpal.com
 metrics.reebok.com
@@ -2299,6 +2401,7 @@ metrics.sweatco.in
 metrics.system76.com
 metrics.tavour.com
 metrics.teamviewer.com
+metrics.telemetry.data.nvidia.cn
 metrics.telemetry.data.nvidia.com
 metrics.theknot.com
 metrics.toluna.com
@@ -2330,6 +2433,7 @@ metricscdn.veri-das.com
 metricscdn2.eu.veri-das.com
 metricstm.podcastle.ai
 metrix.adultfriendfinder.com
+metrix.ols.us.dell.com
 mi.telemetry.lab.norton.com
 mit.metrics.unpaywall.org
 mixpanel.untappd.com
@@ -2404,6 +2508,9 @@ nqs-apac.youbora.com
 nqs-eu.youbora.com
 nqs-us.youbora.com
 nqs.youbora.com
+nvcrashreporter.nvidia.com
+nvidia.telemetry.internet.microsoft.com
+nvidia.tt.omtrdc.net
 nxad.nextory.com
 nxads.nextory.com
 o.clarity.ms
@@ -2418,6 +2525,8 @@ omt.garmin.com
 onclicka.com
 onclickad.com
 oneaudience.com
+ontrack-lnx.amd.com
+ontrack.amd.com
 open.zetaglobal.com
 openreplay.com
 opentag-stats.qubit.com
@@ -2457,6 +2566,7 @@ passion.com
 paypal.112.2o7.net
 paypal.demdex.net
 paypal.tt.omtrdc.net
+pc-clarity.us.dell.com
 pccleaner.site
 pccleanerpro.com
 pcdrivershq.com
@@ -2582,6 +2692,7 @@ q.stripe.com
 qksrv.net
 qksz.net
 qlik.analytics.weather.com
+qstanalytics.lenovo.com
 quality-analytics.conviva.com
 quantummetric.com
 r.clarity.ms
@@ -2714,6 +2825,7 @@ saa.paramountplus.com
 safegraph.com
 safegraph.io
 salesgenie.com
+samstats.msi.com
 sblog.lalal.ai
 sclpfybn.com
 script.crazyegg.com
@@ -2849,6 +2961,7 @@ smartplugin.youbora.com
 smetric.worldcat.org
 smetrics-ieeexplore.ieee.org
 smetrics.aem.playstation.com
+smetrics.amd.com
 smetrics.axs.com
 smetrics.bitdefender.com
 smetrics.couponcabin.com
@@ -2918,6 +3031,7 @@ static.mouseflow.com
 static.openreplay.com
 static.webmaxy.com
 static.zetaglobal.com
+statistics.amd.com
 stats-and-reports.booksy.com
 stats.apps.allenai.org
 stats.appsflyer.com
@@ -2968,6 +3082,7 @@ stats.opensea.io
 stats.paypal.com
 stats.playit.pk
 stats.podbean.com
+stats.puri.sm
 stats.pusher.com
 stats.rarible.com
 stats.raspberrypi.org
@@ -3082,16 +3197,21 @@ telemetry.1password.com
 telemetry.1passwordservices.com
 telemetry.ableton.com
 telemetry.access.securid.com
+telemetry.acer.com
 telemetry.add.app
 telemetry.aida64.com
 telemetry.altered.ai
+telemetry.amd.com
 telemetry.anydesk.com
 telemetry.api.swiftkey.com
+telemetry.appplayer.msi.com
 telemetry.art19.com
 telemetry.artpipe.epicgames.com
 telemetry.ascomp.com
 telemetry.ashampoo.com
+telemetry.asrock.com
 telemetry.astrill.com
+telemetry.asus.com
 telemetry.audacityteam.org
 telemetry.audionamix.com
 telemetry.avast.com
@@ -3121,11 +3241,13 @@ telemetry.corsair.com
 telemetry.crunchyroll.com
 telemetry.cyberghostvpn.com
 telemetry.cybertronsoft.com
+telemetry.data.nvidia.cn
 telemetry.data.nvidia.com
 telemetry.dataplatform.zing.coach
 telemetry.dazn.com
 telemetry.deepin.com
 telemetry.deepl.com
+telemetry.dell.com
 telemetry.descript.com
 telemetry.didichuxing.com
 telemetry.digitalvolcano.co.uk
@@ -3152,16 +3274,21 @@ telemetry.fubo.tv
 telemetry.gamban.com
 telemetry.geekbench.com
 telemetry.geforcenow.com
+telemetry.gfe.nvidia.com
+telemetry.gfestage.nvidia.com
+telemetry.gigabyte.com
 telemetry.glow.co
 telemetry.grindr.com
 telemetry.hbomax.com
 telemetry.hide.me
 telemetry.hitnmix.com
 telemetry.hotstar.com
+telemetry.hp.com
 telemetry.hulu.com
 telemetry.image-line.com
 telemetry.immutable.com
 telemetry.insights.video.a2z.com
+telemetry.intel.com
 telemetry.internetdownloadmanager.com
 telemetry.iobit.com
 telemetry.iolo.com
@@ -3170,7 +3297,9 @@ telemetry.izotope.com
 telemetry.jdownloader.org
 telemetry.joinhoney.com
 telemetry.kaspersky.com
+telemetry.killernetworking.com
 telemetry.landr.com
+telemetry.lenovo.com
 telemetry.linuxmint.com
 telemetry.logitechg.com
 telemetry.logmein.com
@@ -3187,8 +3316,10 @@ telemetry.mirillis.com
 telemetry.mixedinkey.com
 telemetry.mobile.api.mcafee.com
 telemetry.moises.ai
+telemetry.msi.com
 telemetry.mux.com
 telemetry.mxplayer.in
+telemetry.nahimic.com
 telemetry.native-instruments.com
 telemetry.naturalcycles.com
 telemetry.nordvpn.com
@@ -3232,6 +3363,7 @@ telemetry.tabnine.com
 telemetry.teamviewer.com
 telemetry.techsmith.com
 telemetry.tenor.com
+telemetry.thermaltake.com
 telemetry.topazlabs.com
 telemetry.tubitv.com
 telemetry.tunnelbear.com
@@ -3253,6 +3385,7 @@ telemetry.zoho.com
 telemetry.zombodroid.com
 telemetry.zoom.us
 telemetry.zorinos.com
+telemetrydata.intel.com
 telemetrydoc.swiftkey.com
 thecyberprotector.com
 throtle.io
@@ -3364,14 +3497,17 @@ tracker.gymshark.com
 tracker.kali.org
 tracker.mobidea.com
 tracker.opensuse.org
+tracker.or.intel.com
 tracker.polar.com
 tracker.prf.hn
+tracker.puri.sm
 tracker.quitgambling.com
 tracker.remerge.io
 tracker.samplicio.us
 tracking-api.italki.com
 tracking.ableton.com
 tracking.acast.com
+tracking.acer.com
 tracking.adbarker.com
 tracking.admitad.com
 tracking.affilae.com
@@ -3431,6 +3567,7 @@ tracking.kelkoo.com
 tracking.lastpass.com
 tracking.launchdarkly.com
 tracking.loopcloud.com
+tracking.micron.com
 tracking.mindbodyonline.com
 tracking.moneysms.co
 tracking.morgen.so
@@ -3488,6 +3625,7 @@ tracking.toroadvertising.com
 tracking.tradedoubler.com
 tracking.tubitv.com
 tracking.turo.com
+tracking.turtlebeach.com
 tracking.upside.com
 tracking.vagaro.com
 tracking.vivino.com
@@ -3500,6 +3638,7 @@ tracking1.paytm.com
 trackjs.com
 trackmymac.com
 tracknooks.abcfitness.com
+trackr.puri.sm
 trackworld-model-1.apps.allenai.org
 trackworld-model-2.apps.allenai.org
 traffic-analytics.ghost.org
@@ -3508,6 +3647,7 @@ trino-analytics-ext.data.bird.co
 trk.agreements.hertz.com
 trk.datify.link
 trk.dowjones.com
+trk.ecomm.lenovo.com
 trk.eib.presonus.com
 trk.gojek.com
 trk.gonoise.com
@@ -3666,6 +3806,7 @@ webmaxy.co
 webmaxy.com
 webmaxy.io
 websights.zoominfo.com
+webstats.puri.sm
 webwww.faro.highscore.com
 webwww.traces.highscore.com
 weeklyad.petsmart.com
