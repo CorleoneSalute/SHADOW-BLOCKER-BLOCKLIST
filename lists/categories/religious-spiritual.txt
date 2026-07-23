@@ -1,0 +1,77 @@
+# Religious & Spiritual Blocklist
+
+**Son Güncelleme:** 16 Temmuz 2026
+**Toplam Domain Sayısı:** 30
+
+```
+# ══════════════════════════════════════
+# KATEGORİ 1 — DATA BROKERS (En Tehlikeli)
+# Konum/din verilerini hükümete/orduya satan servisler
+# ══════════════════════════════════════
+
+# Predicio — Muslim Pro'nun askeri veri satış ortağı
+predicio.io
+sdk.predic.io
+
+# Gravy Analytics — ICE/FBI location pipeline
+gravyanalytics.com
+
+# Venntel — DHS/ICE/FBI'a konum verisi satar
+venntel.com
+
+# X-Mode / Outlogic / Locate X — ABD ordusu konumu
+xmode.io
+api.xmode.io
+x-mode.com
+www.x-mode.com
+locate-x.com
+data.locate-x.com
+outlogic.io
+digitalenvoy.com
+
+# Placed / Sense360 / OneAudience — davranışsal data brokerlar
+placed.com
+sense360.com
+oneaudience.com
+
+# SignalFrame / BeaconsInSpace — WiFi & beacon konum takibi
+signalframe.com
+beaconsinspace.com
+
+# ══════════════════════════════════════
+# KATEGORİ 2 — PLATFORM ANALİTİK SUBDOMAİNLERİ
+# Açıkça analytics/tracking amacı taşıyan subdomainler
+# ══════════════════════════════════════
+
+# Muslim Pro
+analytics.muslimpro.com
+tracking.muslimpro.com
+track.mail.muslimpro.com
+
+# Athan / Islamic Finder
+analytics.athan.com
+
+# Quran Majeed
+analytics.quranmajeed.com
+
+# Zabihah (Helal Yemek)
+analytics.zabihah.com
+
+# YouVersion / Bible.com
+analytics.bible.com
+
+# Hallow
+analytics.hallow.com
+
+# Faithlife / Logos
+analytics.faithlife.com
+resourceviewtracking.faithlife.com
+
+# Insight Timer
+analytics.insighttimer.com
+
+# Givelify
+analytics.givelify.com
+
+# Abide
+analytics.abide.co
