@@ -1,0 +1,69 @@
+# Pet Care Blocklist
+**Toplam domain sayısı:** 17
+**Son güncelleme:** 2026-07-18
+
+## Tractive (1 domain)
+
+```
+analytics.tractive.com
+```
+
+## Furbo (1 domain)
+
+```
+analytics.furbo.com
+```
+
+## Petcube (3 domain)
+
+```
+advertiser.petcube.com
+analytics.petcube.com
+trckr.petcube.com
+```
+
+## FitBark (2 domain)
+
+```
+analytics.fitbark.com
+logs.fitbark.com
+```
+
+## PetDesk (2 domain)
+
+```
+analytics.petdesk.com
+data.app-analytics.petdesk.com
+```
+
+## Chewy (2 domain)
+
+```
+analytics.chewy.com
+tracking.chewy.com
+```
+
+## PetSmart (3 domain)
+
+```
+analytics.petsmart.com
+smetrics.petsmart.com
+weeklyad.petsmart.com
+```
+
+## Petco (1 domain)
+
+```
+analytics.petco.com
+```
+
+## Rover (1 domain)
+
+```
+analytics.rover.com
+```
+
+## Bark (1 domain)
+
+```
+tracking.bark.co
