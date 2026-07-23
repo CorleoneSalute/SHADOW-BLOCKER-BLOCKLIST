@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 4912
+# Total domains: 4942
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -98,6 +98,7 @@ ad.cookpad.com
 ad.cookpad.jp
 ad.criteo.com
 ad.crwdcntrl.net
+ad.donefirst.com
 ad.eu.xiaomi.com
 ad.holalauncher.com
 ad.india.miui.com
@@ -335,6 +336,7 @@ ae-ad-1.myhuaweicloud.com
 afb.accuweather.com
 afcyhf.com
 affilae.com
+afftrk.findoctave.com
 agilityone.epsilon.com
 ai-analytics.adyen.com
 ai.adikteev.com
@@ -356,6 +358,7 @@ amplitude.usemotion.com
 an.avast.com
 analysis-rog-content-platform.asus.com
 analytic.underarmour.com
+analytic.wysa.io
 analytics-api.id.me
 analytics-api.obefitness.com
 analytics-api.samsunghealthcn.com
@@ -401,6 +404,7 @@ analytics.any.do
 analytics.anydesk.com
 analytics.anylist.com
 analytics.api.brightcove.com
+analytics.api.brightside.com
 analytics.api.services.leonardo.ai
 analytics.appsflyer.com
 analytics.art19.com
@@ -579,6 +583,7 @@ analytics.gpapps.com
 analytics.hallow.com
 analytics.happn.com
 analytics.hbomax.com
+analytics.helloalma.com
 analytics.hellochinese.cc
 analytics.helloclue.com
 analytics.hellofresh.com
@@ -656,6 +661,7 @@ analytics.luna.amazon.com
 analytics.lww.com
 analytics.lyft.com
 analytics.lynx-r.com
+analytics.lyrahealth.com
 analytics.macpaw.com
 analytics.magiceden.io
 analytics.makesyoufluent.com
@@ -665,6 +671,7 @@ analytics.mapbox.com
 analytics.maps.me
 analytics.marleyspoon.com
 analytics.match.com
+analytics.mavidahealth.com
 analytics.max.com
 analytics.maximumsettings.com
 analytics.maya.live
@@ -730,6 +737,7 @@ analytics.oppo.com
 analytics.optimizely.com
 analytics.orange.com
 analytics.orange.ro
+analytics.otsuka-us.com
 analytics.overdrive.com
 analytics.ovia.com
 analytics.oviahealth.com
@@ -774,6 +782,7 @@ analytics.premom.com
 analytics.prepear.com
 analytics.preply.com
 analytics.presonus.com
+analytics.prevailhealth.com
 analytics.privateinternetaccess.com
 analytics.prizerebel.com
 analytics.protected.media
@@ -930,11 +939,13 @@ analytics.wiley.com
 analytics.windscribe.com
 analytics.wise.com
 analytics.withjoy.com
+analytics.woebothealth.com
 analytics.womanlog.com
 analytics.wondershare.cc
 analytics.wordreference.com
 analytics.wren.co
 analytics.www1-0.pad.squareup.com
+analytics.wysa.io
 analytics.xplayerapp.com
 analytics.yabla.com
 analytics.yamaha.com
@@ -998,6 +1009,7 @@ analytics66.techsmith.com
 analytics67.techsmith.com
 analytics68.techsmith.com
 analyticsapi.aiva.ai
+analyticsdr.otsuka-us.com
 analyticshub.services.swiftkey.com
 analyticshub.swiftkey.com
 anon-analytics.data.ashampoo.com
@@ -1599,6 +1611,7 @@ collect.biomedcentral.com
 collect.contentsquare.net
 collect.evergage.com
 collect.ficfun.com
+collect.in.lyra.com
 collect.mindbodyonline.com
 collect.passfort.com
 collect.skrill.com
@@ -1936,6 +1949,7 @@ dsstat.kaspersky.com
 dt.hicloud.com
 dt.hihonorcloud.com
 dtrack.facia.ai
+dtrack.wysa.io
 du.outbyte.com
 dummy.applog.bolt.eu
 dunandbradstreet.com
@@ -2082,6 +2096,7 @@ events.adikteev.com
 events.amd.com
 events.api.boomtrain.com
 events.api.nvidia.com
+events.betterhelp.com
 events.character.ai
 events.cuebiq.com
 events.current.us
@@ -2297,6 +2312,7 @@ gomo-apps.com
 gomo.com
 gong-eb.qubit.com
 gong-gc.qubit.com
+google-ads-mcp.ourritual.com
 google-analytics.com.sci-hub.tw
 google-ua-analytics.raspberrypi.org
 googlesyndication.com.sci-hub.tw
@@ -2696,6 +2712,7 @@ logx.optimizely.com
 logzilla.zoom.us
 looker.babycenter.com
 looker.digital-science.com
+looker.ourritual.com
 looker.zipcar.com
 lotame.com
 lotame.io
@@ -2834,6 +2851,7 @@ metrics.branch.io
 metrics.brightcove.com
 metrics.britbox.com
 metrics.buymeacoffee.com
+metrics.calmerry.com
 metrics.cambly.com
 metrics.cbs.com
 metrics.checkout51.com
@@ -3728,6 +3746,7 @@ sentry.identomat.com
 sentry.io
 sentry.io.steinberg.net
 sentry.klippa.com
+sentry.minddoc.com
 sentry.protonvpn.com
 sentry.pushwoosh.com
 sentry.scielo.org
@@ -3806,9 +3825,14 @@ smetrics.enterprise.com
 smetrics.eu.playstation.com
 smetrics.lww.com
 smetrics.majestic.co.uk
+smetrics.medical.otsuka-us.com
+smetrics.medicalinformation.otsuka-us.com
 smetrics.nintendo.com
+smetrics.otsuka-us.com
 smetrics.petsmart.com
 smetrics.reaxys.com
+smetrics.rejoyn.com
+smetrics.rejoynhcp.com
 smetrics.retailmenot.com
 smetrics.samsung.com
 smetrics.samsung.com.cn
@@ -4036,6 +4060,7 @@ t.appsflyer.com
 t.cfjump.com
 t.clarity.ms
 t.contentsquare.net
+t.helloklarity.com
 t.pt.xiaomi.com
 t.ptengine.com
 t.ptengine.jp
@@ -4214,6 +4239,7 @@ telemetry.okta.com
 telemetry.openai.com
 telemetry.opensea.io
 telemetry.opensuse.org
+telemetry.otsuka-us.com
 telemetry.owncloud.com
 telemetry.paramountplus.com
 telemetry.passmark.com
@@ -4337,6 +4363,7 @@ track.corpgifts.wine.com
 track.corporate.wine.com
 track.cpamatica.com
 track.crazyegg.com
+track.ctx.app.danharris.com
 track.ebsco.com
 track.email.webnovel.com
 track.factor75.com
@@ -4351,6 +4378,7 @@ track.glow.co
 track.go.moovit.com
 track.gobble.com
 track.gojek.com
+track.headway.co
 track.heatmap.com
 track.helloclue.com
 track.hellofresh.com
@@ -4360,6 +4388,7 @@ track.kakao.com
 track.kindara.com
 track.linkconnector.com
 track.locals.com
+track.lyrahealth.com
 track.m.nothing.tech
 track.mail.muslimpro.com
 track.maya.live
@@ -4399,6 +4428,7 @@ tracker.debian.org
 tracker.gnome.org
 tracker.gymshark.com
 tracker.kali.org
+tracker.lyrahealth.com
 tracker.mobidea.com
 tracker.opensuse.org
 tracker.or.intel.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 5040
+# Total domains: 5072
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -103,6 +103,7 @@
 0.0.0.0 ad.cookpad.jp
 0.0.0.0 ad.criteo.com
 0.0.0.0 ad.crwdcntrl.net
+0.0.0.0 ad.donefirst.com
 0.0.0.0 ad.eu.xiaomi.com
 0.0.0.0 ad.holalauncher.com
 0.0.0.0 ad.india.miui.com
@@ -352,6 +353,7 @@
 0.0.0.0 afb.accuweather.com
 0.0.0.0 afcyhf.com
 0.0.0.0 affilae.com
+0.0.0.0 afftrk.findoctave.com
 0.0.0.0 agilityone.epsilon.com
 0.0.0.0 ahagamecenter.com
 0.0.0.0 ai-analytics.adyen.com
@@ -376,6 +378,7 @@
 0.0.0.0 an.avast.com
 0.0.0.0 analysis-rog-content-platform.asus.com
 0.0.0.0 analytic.underarmour.com
+0.0.0.0 analytic.wysa.io
 0.0.0.0 analytics-api.id.me
 0.0.0.0 analytics-api.obefitness.com
 0.0.0.0 analytics-api.samsunghealthcn.com
@@ -421,6 +424,7 @@
 0.0.0.0 analytics.anydesk.com
 0.0.0.0 analytics.anylist.com
 0.0.0.0 analytics.api.brightcove.com
+0.0.0.0 analytics.api.brightside.com
 0.0.0.0 analytics.api.services.leonardo.ai
 0.0.0.0 analytics.appsflyer.com
 0.0.0.0 analytics.art19.com
@@ -599,6 +603,7 @@
 0.0.0.0 analytics.hallow.com
 0.0.0.0 analytics.happn.com
 0.0.0.0 analytics.hbomax.com
+0.0.0.0 analytics.helloalma.com
 0.0.0.0 analytics.hellochinese.cc
 0.0.0.0 analytics.helloclue.com
 0.0.0.0 analytics.hellofresh.com
@@ -676,6 +681,7 @@
 0.0.0.0 analytics.lww.com
 0.0.0.0 analytics.lyft.com
 0.0.0.0 analytics.lynx-r.com
+0.0.0.0 analytics.lyrahealth.com
 0.0.0.0 analytics.macpaw.com
 0.0.0.0 analytics.magiceden.io
 0.0.0.0 analytics.makesyoufluent.com
@@ -685,6 +691,7 @@
 0.0.0.0 analytics.maps.me
 0.0.0.0 analytics.marleyspoon.com
 0.0.0.0 analytics.match.com
+0.0.0.0 analytics.mavidahealth.com
 0.0.0.0 analytics.max.com
 0.0.0.0 analytics.maximumsettings.com
 0.0.0.0 analytics.maya.live
@@ -750,6 +757,7 @@
 0.0.0.0 analytics.optimizely.com
 0.0.0.0 analytics.orange.com
 0.0.0.0 analytics.orange.ro
+0.0.0.0 analytics.otsuka-us.com
 0.0.0.0 analytics.overdrive.com
 0.0.0.0 analytics.ovia.com
 0.0.0.0 analytics.oviahealth.com
@@ -795,6 +803,7 @@
 0.0.0.0 analytics.prepear.com
 0.0.0.0 analytics.preply.com
 0.0.0.0 analytics.presonus.com
+0.0.0.0 analytics.prevailhealth.com
 0.0.0.0 analytics.privateinternetaccess.com
 0.0.0.0 analytics.prizerebel.com
 0.0.0.0 analytics.protected.media
@@ -951,11 +960,13 @@
 0.0.0.0 analytics.windscribe.com
 0.0.0.0 analytics.wise.com
 0.0.0.0 analytics.withjoy.com
+0.0.0.0 analytics.woebothealth.com
 0.0.0.0 analytics.womanlog.com
 0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.wordreference.com
 0.0.0.0 analytics.wren.co
 0.0.0.0 analytics.www1-0.pad.squareup.com
+0.0.0.0 analytics.wysa.io
 0.0.0.0 analytics.xplayerapp.com
 0.0.0.0 analytics.yabla.com
 0.0.0.0 analytics.yamaha.com
@@ -1019,6 +1030,7 @@
 0.0.0.0 analytics67.techsmith.com
 0.0.0.0 analytics68.techsmith.com
 0.0.0.0 analyticsapi.aiva.ai
+0.0.0.0 analyticsdr.otsuka-us.com
 0.0.0.0 analyticshub.services.swiftkey.com
 0.0.0.0 analyticshub.swiftkey.com
 0.0.0.0 anon-analytics.data.ashampoo.com
@@ -1283,6 +1295,7 @@
 0.0.0.0 audiohook.com
 0.0.0.0 audiorella-data.com
 0.0.0.0 ausdimetrics.aus.amer.dell.com
+0.0.0.0 auth-analytics.wysa.io
 0.0.0.0 auth.callstats.io
 0.0.0.0 auth.ff.avast.sec.miui.com
 0.0.0.0 avantmetrics.com
@@ -1633,6 +1646,7 @@
 0.0.0.0 collect.contentsquare.net
 0.0.0.0 collect.evergage.com
 0.0.0.0 collect.ficfun.com
+0.0.0.0 collect.in.lyra.com
 0.0.0.0 collect.mindbodyonline.com
 0.0.0.0 collect.passfort.com
 0.0.0.0 collect.skrill.com
@@ -1980,6 +1994,7 @@
 0.0.0.0 dt.hicloud.com
 0.0.0.0 dt.hihonorcloud.com
 0.0.0.0 dtrack.facia.ai
+0.0.0.0 dtrack.wysa.io
 0.0.0.0 du.outbyte.com
 0.0.0.0 dummy.applog.bolt.eu
 0.0.0.0 dunandbradstreet.com
@@ -2128,6 +2143,7 @@
 0.0.0.0 events.amd.com
 0.0.0.0 events.api.boomtrain.com
 0.0.0.0 events.api.nvidia.com
+0.0.0.0 events.betterhelp.com
 0.0.0.0 events.character.ai
 0.0.0.0 events.cuebiq.com
 0.0.0.0 events.current.us
@@ -2352,6 +2368,7 @@
 0.0.0.0 gomo.com
 0.0.0.0 gong-eb.qubit.com
 0.0.0.0 gong-gc.qubit.com
+0.0.0.0 google-ads-mcp.ourritual.com
 0.0.0.0 google-analytics.com.sci-hub.tw
 0.0.0.0 google-ua-analytics.raspberrypi.org
 0.0.0.0 googlesyndication.com.sci-hub.tw
@@ -2774,6 +2791,7 @@
 0.0.0.0 logzilla.zoom.us
 0.0.0.0 looker.babycenter.com
 0.0.0.0 looker.digital-science.com
+0.0.0.0 looker.ourritual.com
 0.0.0.0 looker.zipcar.com
 0.0.0.0 lotame.com
 0.0.0.0 lotame.io
@@ -2912,6 +2930,7 @@
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.britbox.com
 0.0.0.0 metrics.buymeacoffee.com
+0.0.0.0 metrics.calmerry.com
 0.0.0.0 metrics.cambly.com
 0.0.0.0 metrics.cbs.com
 0.0.0.0 metrics.checkout51.com
@@ -3831,6 +3850,7 @@
 0.0.0.0 sentry.io
 0.0.0.0 sentry.io.steinberg.net
 0.0.0.0 sentry.klippa.com
+0.0.0.0 sentry.minddoc.com
 0.0.0.0 sentry.protonvpn.com
 0.0.0.0 sentry.pushwoosh.com
 0.0.0.0 sentry.scielo.org
@@ -3868,6 +3888,7 @@
 0.0.0.0 sgtm.indrive.com
 0.0.0.0 sgtm.skrill.com
 0.0.0.0 sgtm.storytel.com
+0.0.0.0 sgtm.talkspace.com
 0.0.0.0 sgtm.topazlabs.com
 0.0.0.0 shareasale-analytics.com
 0.0.0.0 shealth-analytics-api.samsunghealth.com
@@ -3910,9 +3931,14 @@
 0.0.0.0 smetrics.eu.playstation.com
 0.0.0.0 smetrics.lww.com
 0.0.0.0 smetrics.majestic.co.uk
+0.0.0.0 smetrics.medical.otsuka-us.com
+0.0.0.0 smetrics.medicalinformation.otsuka-us.com
 0.0.0.0 smetrics.nintendo.com
+0.0.0.0 smetrics.otsuka-us.com
 0.0.0.0 smetrics.petsmart.com
 0.0.0.0 smetrics.reaxys.com
+0.0.0.0 smetrics.rejoyn.com
+0.0.0.0 smetrics.rejoynhcp.com
 0.0.0.0 smetrics.retailmenot.com
 0.0.0.0 smetrics.samsung.com
 0.0.0.0 smetrics.samsung.com.cn
@@ -4143,6 +4169,7 @@
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.clarity.ms
 0.0.0.0 t.contentsquare.net
+0.0.0.0 t.helloklarity.com
 0.0.0.0 t.pt.xiaomi.com
 0.0.0.0 t.ptengine.com
 0.0.0.0 t.ptengine.jp
@@ -4323,6 +4350,7 @@
 0.0.0.0 telemetry.openai.com
 0.0.0.0 telemetry.opensea.io
 0.0.0.0 telemetry.opensuse.org
+0.0.0.0 telemetry.otsuka-us.com
 0.0.0.0 telemetry.owncloud.com
 0.0.0.0 telemetry.paramountplus.com
 0.0.0.0 telemetry.passmark.com
@@ -4448,6 +4476,7 @@
 0.0.0.0 track.corporate.wine.com
 0.0.0.0 track.cpamatica.com
 0.0.0.0 track.crazyegg.com
+0.0.0.0 track.ctx.app.danharris.com
 0.0.0.0 track.ebsco.com
 0.0.0.0 track.email.webnovel.com
 0.0.0.0 track.factor75.com
@@ -4462,6 +4491,7 @@
 0.0.0.0 track.go.moovit.com
 0.0.0.0 track.gobble.com
 0.0.0.0 track.gojek.com
+0.0.0.0 track.headway.co
 0.0.0.0 track.heatmap.com
 0.0.0.0 track.helloclue.com
 0.0.0.0 track.hellofresh.com
@@ -4471,6 +4501,7 @@
 0.0.0.0 track.kindara.com
 0.0.0.0 track.linkconnector.com
 0.0.0.0 track.locals.com
+0.0.0.0 track.lyrahealth.com
 0.0.0.0 track.m.nothing.tech
 0.0.0.0 track.mail.muslimpro.com
 0.0.0.0 track.maya.live
@@ -4510,6 +4541,7 @@
 0.0.0.0 tracker.gnome.org
 0.0.0.0 tracker.gymshark.com
 0.0.0.0 tracker.kali.org
+0.0.0.0 tracker.lyrahealth.com
 0.0.0.0 tracker.mobidea.com
 0.0.0.0 tracker.opensuse.org
 0.0.0.0 tracker.or.intel.com
