@@ -1,0 +1,87 @@
+# Local Video & Audio Players Blocklist
+
+**Toplam domain sayısı:** 39
+**Son güncelleme:** 2026-07-17
+
+## MX PLAYER — Analytics & Ads (12 domain)
+
+```
+ad.mxplayer.in
+ads.mxplayer.in
+ads.timesinternet.in
+adserver.mxplayer.in
+adx.mxplayer.in
+analytics.mxplayer.in
+analytics.timesinternet.in
+metrics.mxplayer.in
+stats.mxplayer.in
+telemetry.mxplayer.in
+tilanalytics.timesinternet.in
+tracking.mxplayer.in
+```
+
+## XPLAYER — Analytics (1 domain)
+
+```
+analytics.xplayerapp.com
+```
+
+## PLAYIT — Analytics & Lenovo Telemetri (5 domain)
+
+```
+analytics.playit.pk
+metrics.playit.pk
+stats.playit.pk
+telemetry.playit.pk
+tracking.playit.pk
+```
+
+## BSPLAYER — Analytics (5 domain)
+
+```
+ads.bsplayer.com
+analytics.bsplayer.com
+stats.bsplayer.com
+telemetry.bsplayer.com
+tracking.bsplayer.com
+```
+
+## GOM PLAYER — Ads & Analytics (2 domain)
+
+```
+ads.gomlab.com
+analytics.gomlab.com
+```
+
+## POTPLAYER — Tracking & Ads (Kakao/Daum) (7 domain)
+
+```
+adverweb.cjenm.com
+analytics.ad.daum.net
+display.ad.daum.net
+kyson.ad.daum.net
+stat.tiara.g.daum.net
+stat.tiara.kakao.com
+track.tiara.daum.net
+```
+
+## CYBERLINK (PowerDVD) — Telemetri (2 domain)
+
+```
+cap.cyberlink.com
+crash.cyberlink.com
+```
+
+## DIVX — Telemetri (1 domain)
+
+```
+telemetry.divx.com
+```
+
+## REALPLAYER — Spyware geçmişi (4 domain)
+
+```
+ads.realnetworks.com
+analytics.realnetworks.com
+realnetworks.com
+tracking.realnetworks.com
