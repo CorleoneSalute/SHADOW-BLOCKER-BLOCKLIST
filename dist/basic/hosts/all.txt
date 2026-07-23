@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1400
+# Total domains: 1435
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -83,6 +83,7 @@
 0.0.0.0 ads.jwplayer.com
 0.0.0.0 ads.lww.com
 0.0.0.0 ads.moovit.com
+0.0.0.0 ads.myfitnesspal.com
 0.0.0.0 ads.naver.com
 0.0.0.0 ads.paramountplus.com
 0.0.0.0 ads.peacocktv.com
@@ -103,6 +104,7 @@
 0.0.0.0 adserver.jwplayer.com
 0.0.0.0 adsquare.com
 0.0.0.0 adstradata.com
+0.0.0.0 advanalytics.underarmour.com
 0.0.0.0 advertising.waze.com
 0.0.0.0 advidi.com
 0.0.0.0 adview-prod-am.waze.com
@@ -119,7 +121,10 @@
 0.0.0.0 amp.navdmp.com
 0.0.0.0 amp.permutive.app
 0.0.0.0 amplitude.usemotion.com
+0.0.0.0 analytic.underarmour.com
+0.0.0.0 analytics-api.obefitness.com
 0.0.0.0 analytics-api.vervemobile.com
+0.0.0.0 analytics-cdn.obefitness.com
 0.0.0.0 analytics-ingress-apac.bitmovin.com
 0.0.0.0 analytics-ingress-eu.bitmovin.com
 0.0.0.0 analytics-ingress-global.bitmovin.com
@@ -208,6 +213,7 @@
 0.0.0.0 analytics.mubi.com
 0.0.0.0 analytics.mux.com
 0.0.0.0 analytics.mxplayer.in
+0.0.0.0 analytics.myfitnesspal.com
 0.0.0.0 analytics.naver.com
 0.0.0.0 analytics.nbcuni.com
 0.0.0.0 analytics.nebula.tv
@@ -215,9 +221,11 @@
 0.0.0.0 analytics.nicovideo.jp
 0.0.0.0 analytics.noggin.com
 0.0.0.0 analytics.nomachine.com
+0.0.0.0 analytics.noom.com
 0.0.0.0 analytics.nordpass.com
 0.0.0.0 analytics.notify.elsevier.com
 0.0.0.0 analytics.obsidian.md
+0.0.0.0 analytics.onepeloton.com
 0.0.0.0 analytics.openai.com
 0.0.0.0 analytics.openaire.eu
 0.0.0.0 analytics.openalex.org
@@ -244,6 +252,8 @@
 0.0.0.0 analytics.roboform.com
 0.0.0.0 analytics.rtlplus.com
 0.0.0.0 analytics.rumble.com
+0.0.0.0 analytics.runsignup.com
+0.0.0.0 analytics.runtastic.com
 0.0.0.0 analytics.scielo.org
 0.0.0.0 analytics.shazam.com
 0.0.0.0 analytics.simplenote.com
@@ -253,12 +263,16 @@
 0.0.0.0 analytics.stan.com.au
 0.0.0.0 analytics.steelseries.com
 0.0.0.0 analytics.stickypassword.com
+0.0.0.0 analytics.strava.com
+0.0.0.0 analytics.stronglifts.com
 0.0.0.0 analytics.taphunter.com
 0.0.0.0 analytics.teamviewer.com
+0.0.0.0 analytics.tonal.com
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.tubitv.com
 0.0.0.0 analytics.tv.apple.com
 0.0.0.0 analytics.tving.com
+0.0.0.0 analytics.underarmour.com
 0.0.0.0 analytics.unpaywall.org
 0.0.0.0 analytics.untappd.com
 0.0.0.0 analytics.viaplay.com
@@ -378,8 +392,10 @@
 0.0.0.0 awin.pl
 0.0.0.0 awin1.com
 0.0.0.0 awltovhc.com
+0.0.0.0 awslogs.garmin.com
 0.0.0.0 awxibrm.com
 0.0.0.0 azira.com
+0.0.0.0 azurelogs.garmin.com
 0.0.0.0 b.clarity.ms
 0.0.0.0 background-play-metrics.youtube.com
 0.0.0.0 bard-telemetry.google.com
@@ -493,6 +509,7 @@
 0.0.0.0 collect.contentsquare.net
 0.0.0.0 collect.springer.com
 0.0.0.0 collect.youbora.com
+0.0.0.0 collection-point.api.gymshark.com
 0.0.0.0 collector-eu.conviva.com
 0.0.0.0 collector-us.conviva.com
 0.0.0.0 collector.acoustic.co
@@ -740,6 +757,7 @@
 0.0.0.0 j.clarity.ms
 0.0.0.0 j.navdmp.com
 0.0.0.0 jdoqocy.com
+0.0.0.0 js-pixel.limeade.com
 0.0.0.0 js.heatmap.com
 0.0.0.0 js.ptengine.jp
 0.0.0.0 jungroup.com
@@ -807,6 +825,7 @@
 0.0.0.0 m1.merkle.com
 0.0.0.0 match.adsquare.com
 0.0.0.0 match.eyeota.net
+0.0.0.0 matomo.garmin.com
 0.0.0.0 maxbounty.com
 0.0.0.0 mb01.com
 0.0.0.0 mb103.com
@@ -933,6 +952,7 @@
 0.0.0.0 o207216.ingest.sentry.io
 0.0.0.0 o33249.ingest.sentry.io
 0.0.0.0 offline-analytics.youtube.com
+0.0.0.0 omt.garmin.com
 0.0.0.0 openreplay.com
 0.0.0.0 opi.navdmp.com
 0.0.0.0 oracleinfinity.io
@@ -959,6 +979,7 @@
 0.0.0.0 pixel.branch.io
 0.0.0.0 pixel.crwdcntrl.net
 0.0.0.0 pixel.datalogix.com
+0.0.0.0 pixel.limeade.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 placed.com
 0.0.0.0 player-metrics.crunchyroll.com
@@ -1054,6 +1075,7 @@
 0.0.0.0 segment.taphunter.com
 0.0.0.0 segment.untappd.com
 0.0.0.0 segment.vivino.com
+0.0.0.0 sentry.api.stronglifts.com
 0.0.0.0 sentry.clickdealer.com
 0.0.0.0 sentry.codeium.com
 0.0.0.0 sentry.scielo.org
@@ -1073,6 +1095,7 @@
 0.0.0.0 shopify.crazyegg.com
 0.0.0.0 signal.truoptik.com
 0.0.0.0 skadpostbacks.appsflyer.com
+0.0.0.0 sl-tracking.fitonhealth.com
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
 0.0.0.0 smartlook.cloud
@@ -1085,6 +1108,7 @@
 0.0.0.0 smetrics.lww.com
 0.0.0.0 smetrics.reaxys.com
 0.0.0.0 smetrics.sciencedirect.com
+0.0.0.0 smetrics.teambeachbody.com
 0.0.0.0 sports-analytics.paramountplus.com
 0.0.0.0 sports-analytics.peacocktv.com
 0.0.0.0 sports-metrics.espn.com
@@ -1110,6 +1134,7 @@
 0.0.0.0 stats.iqiyi.com
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.nicovideo.jp
+0.0.0.0 stats.stronglifts.com
 0.0.0.0 stats.tandf.co.uk
 0.0.0.0 stats.waze.com
 0.0.0.0 stats.youku.com
@@ -1162,6 +1187,7 @@
 0.0.0.0 telemetry.coder.com
 0.0.0.0 telemetry.corsair.com
 0.0.0.0 telemetry.crunchyroll.com
+0.0.0.0 telemetry.dataplatform.zing.coach
 0.0.0.0 telemetry.dazn.com
 0.0.0.0 telemetry.espn.com
 0.0.0.0 telemetry.fubo.tv
@@ -1231,8 +1257,10 @@
 0.0.0.0 track.researchrabbit.ai
 0.0.0.0 track.romanticai.com
 0.0.0.0 track.stories.moovit.com
+0.0.0.0 track.underarmour.com
 0.0.0.0 track.webgains.com
 0.0.0.0 tracker.core.ac.uk
+0.0.0.0 tracker.gymshark.com
 0.0.0.0 tracker.prf.hn
 0.0.0.0 tracking.admitad.com
 0.0.0.0 tracking.affilae.com
@@ -1248,8 +1276,10 @@
 0.0.0.0 tracking.jwplayer.com
 0.0.0.0 tracking.lastpass.com
 0.0.0.0 tracking.morgen.so
+0.0.0.0 tracking.myfitnesspal.com
 0.0.0.0 tracking.netaffiliation.com
 0.0.0.0 tracking.newsletter.vivino.com
+0.0.0.0 tracking.november-project.com
 0.0.0.0 tracking.partnerize.com
 0.0.0.0 tracking.pepperjam.com
 0.0.0.0 tracking.rakutenmarketing.com
@@ -1260,9 +1290,12 @@
 0.0.0.0 tracking.tradedoubler.com
 0.0.0.0 tracking.tubitv.com
 0.0.0.0 tracking.vivino.com
+0.0.0.0 tracknooks.abcfitness.com
 0.0.0.0 trackworld-model-1.apps.allenai.org
 0.0.0.0 trackworld-model-2.apps.allenai.org
 0.0.0.0 trk.datify.link
+0.0.0.0 trk.hi.pvolve.com
+0.0.0.0 trk.pvolve.com
 0.0.0.0 trk.vivino.com
 0.0.0.0 trk1.vivino.com
 0.0.0.0 trk2.vivino.com
@@ -1364,6 +1397,7 @@
 0.0.0.0 www.emjcd.com
 0.0.0.0 www.flexlinks.com
 0.0.0.0 www.imonetizeit.com
+0.0.0.0 www.js-pixel.limeade.com
 0.0.0.0 www.linkconnector.com
 0.0.0.0 www.maxbounty.com
 0.0.0.0 www.metaffiliation.com
@@ -1372,6 +1406,7 @@
 0.0.0.0 www.navdmp.com
 0.0.0.0 www.netaffiliation.com
 0.0.0.0 www.pepperjam.com
+0.0.0.0 www.pixel.limeade.com
 0.0.0.0 www.plerdy.com
 0.0.0.0 www.ptengine.com
 0.0.0.0 www.ptengine.jp

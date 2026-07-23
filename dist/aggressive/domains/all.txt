@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1444
+# Total domains: 1479
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -87,6 +87,7 @@ ads.jwplayer.com
 ads.lww.com
 ads.moovit.com
 ads.mxplayer.in
+ads.myfitnesspal.com
 ads.naver.com
 ads.paramountplus.com
 ads.peacocktv.com
@@ -108,6 +109,7 @@ adserver.connatix.com
 adserver.jwplayer.com
 adsquare.com
 adstradata.com
+advanalytics.underarmour.com
 advertising.waze.com
 advidi.com
 adview-prod-am.waze.com
@@ -124,7 +126,10 @@ amagi.tv
 amp.navdmp.com
 amp.permutive.app
 amplitude.usemotion.com
+analytic.underarmour.com
+analytics-api.obefitness.com
 analytics-api.vervemobile.com
+analytics-cdn.obefitness.com
 analytics-ingress-apac.bitmovin.com
 analytics-ingress-eu.bitmovin.com
 analytics-ingress-global.bitmovin.com
@@ -213,6 +218,7 @@ analytics.movistarplus.es
 analytics.mubi.com
 analytics.mux.com
 analytics.mxplayer.in
+analytics.myfitnesspal.com
 analytics.naver.com
 analytics.nbcuni.com
 analytics.nebula.tv
@@ -220,9 +226,11 @@ analytics.netflix.com
 analytics.nicovideo.jp
 analytics.noggin.com
 analytics.nomachine.com
+analytics.noom.com
 analytics.nordpass.com
 analytics.notify.elsevier.com
 analytics.obsidian.md
+analytics.onepeloton.com
 analytics.openai.com
 analytics.openaire.eu
 analytics.openalex.org
@@ -249,6 +257,8 @@ analytics.roamresearch.com
 analytics.roboform.com
 analytics.rtlplus.com
 analytics.rumble.com
+analytics.runsignup.com
+analytics.runtastic.com
 analytics.scielo.org
 analytics.shazam.com
 analytics.simplenote.com
@@ -258,12 +268,16 @@ analytics.splashtop.com
 analytics.stan.com.au
 analytics.steelseries.com
 analytics.stickypassword.com
+analytics.strava.com
+analytics.stronglifts.com
 analytics.taphunter.com
 analytics.teamviewer.com
+analytics.tonal.com
 analytics.tradedoubler.com
 analytics.tubitv.com
 analytics.tv.apple.com
 analytics.tving.com
+analytics.underarmour.com
 analytics.unpaywall.org
 analytics.untappd.com
 analytics.viaplay.com
@@ -384,8 +398,10 @@ awin.nl
 awin.pl
 awin1.com
 awltovhc.com
+awslogs.garmin.com
 awxibrm.com
 azira.com
+azurelogs.garmin.com
 b.clarity.ms
 background-play-metrics.youtube.com
 bard-telemetry.google.com
@@ -504,6 +520,7 @@ collect.biomedcentral.com
 collect.contentsquare.net
 collect.springer.com
 collect.youbora.com
+collection-point.api.gymshark.com
 collector-eu.conviva.com
 collector-us.conviva.com
 collector.acoustic.co
@@ -759,6 +776,7 @@ iscdn.navdmp.com
 j.clarity.ms
 j.navdmp.com
 jdoqocy.com
+js-pixel.limeade.com
 js.heatmap.com
 js.ptengine.jp
 jungroup.com
@@ -830,6 +848,7 @@ m.clarity.ms
 m1.merkle.com
 match.adsquare.com
 match.eyeota.net
+matomo.garmin.com
 maxbounty.com
 mb01.com
 mb103.com
@@ -957,6 +976,7 @@ o1158394.ingest.us.sentry.io
 o207216.ingest.sentry.io
 o33249.ingest.sentry.io
 offline-analytics.youtube.com
+omt.garmin.com
 openreplay.com
 opi.navdmp.com
 oracleinfinity.io
@@ -985,6 +1005,7 @@ pixalate.com
 pixel.branch.io
 pixel.crwdcntrl.net
 pixel.datalogix.com
+pixel.limeade.com
 pixel.parsely.com
 placed.com
 playback-analytics.hulu.com
@@ -1089,6 +1110,7 @@ segment.taphunter.com
 segment.untappd.com
 segment.vivino.com
 segmentcdn.usemotion.com
+sentry.api.stronglifts.com
 sentry.clickdealer.com
 sentry.codeium.com
 sentry.scielo.org
@@ -1108,6 +1130,7 @@ shop.tags.elsevier.com
 shopify.crazyegg.com
 signal.truoptik.com
 skadpostbacks.appsflyer.com
+sl-tracking.fitonhealth.com
 smaato.com
 smaato.net
 smartlook.cloud
@@ -1120,6 +1143,7 @@ smetrics.engineeringvillage.com
 smetrics.lww.com
 smetrics.reaxys.com
 smetrics.sciencedirect.com
+smetrics.teambeachbody.com
 sports-analytics.paramountplus.com
 sports-analytics.peacocktv.com
 sports-metrics.espn.com
@@ -1146,6 +1170,7 @@ stats.i.mdpi.com
 stats.iqiyi.com
 stats.kaltura.com
 stats.nicovideo.jp
+stats.stronglifts.com
 stats.tandf.co.uk
 stats.waze.com
 stats.youku.com
@@ -1198,6 +1223,7 @@ telemetry.codeium.com
 telemetry.coder.com
 telemetry.corsair.com
 telemetry.crunchyroll.com
+telemetry.dataplatform.zing.coach
 telemetry.dazn.com
 telemetry.espn.com
 telemetry.fubo.tv
@@ -1267,8 +1293,10 @@ track.parsely.com
 track.researchrabbit.ai
 track.romanticai.com
 track.stories.moovit.com
+track.underarmour.com
 track.webgains.com
 tracker.core.ac.uk
+tracker.gymshark.com
 tracker.prf.hn
 tracking.admitad.com
 tracking.affilae.com
@@ -1284,8 +1312,10 @@ tracking.impact.com
 tracking.jwplayer.com
 tracking.lastpass.com
 tracking.morgen.so
+tracking.myfitnesspal.com
 tracking.netaffiliation.com
 tracking.newsletter.vivino.com
+tracking.november-project.com
 tracking.partnerize.com
 tracking.pepperjam.com
 tracking.rakutenmarketing.com
@@ -1296,9 +1326,12 @@ tracking.toroadvertising.com
 tracking.tradedoubler.com
 tracking.tubitv.com
 tracking.vivino.com
+tracknooks.abcfitness.com
 trackworld-model-1.apps.allenai.org
 trackworld-model-2.apps.allenai.org
 trk.datify.link
+trk.hi.pvolve.com
+trk.pvolve.com
 trk.vivino.com
 trk1.vivino.com
 trk2.vivino.com
@@ -1408,6 +1441,7 @@ www.effiliation.com
 www.emjcd.com
 www.flexlinks.com
 www.imonetizeit.com
+www.js-pixel.limeade.com
 www.linkconnector.com
 www.maxbounty.com
 www.metaffiliation.com
@@ -1416,6 +1450,7 @@ www.mylead.global
 www.navdmp.com
 www.netaffiliation.com
 www.pepperjam.com
+www.pixel.limeade.com
 www.plerdy.com
 www.ptengine.com
 www.ptengine.jp
