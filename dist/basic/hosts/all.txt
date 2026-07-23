@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3435
+# Total domains: 3459
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -81,6 +81,7 @@
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adclarity.com
 0.0.0.0 add-mapping-for-wrong-activity-log-classes.feature.varify.io
+0.0.0.0 addoncrop.com
 0.0.0.0 adgen-cdn.connatix.com
 0.0.0.0 adgen.connatix.com
 0.0.0.0 adhoc.textra.me
@@ -130,6 +131,7 @@
 0.0.0.0 ads.hulu.com
 0.0.0.0 ads.idwall.co
 0.0.0.0 ads.imgflip.com
+0.0.0.0 ads.internetdownloadmanager.com
 0.0.0.0 ads.iqiyi.com
 0.0.0.0 ads.jwplayer.com
 0.0.0.0 ads.kakaopay.com
@@ -149,6 +151,7 @@
 0.0.0.0 ads.retargeter.com
 0.0.0.0 ads.roblox.com
 0.0.0.0 ads.rockstargames.com
+0.0.0.0 ads.speedbit.com
 0.0.0.0 ads.tenor.com
 0.0.0.0 ads.timesinternet.in
 0.0.0.0 ads.truecaller.com
@@ -240,6 +243,7 @@
 0.0.0.0 analytics-v2.tensor.trade
 0.0.0.0 analytics.1password.com
 0.0.0.0 analytics.3dmark.com
+0.0.0.0 analytics.4kdownload.com
 0.0.0.0 analytics.8x8.com
 0.0.0.0 analytics.abema.tv
 0.0.0.0 analytics.abide.co
@@ -389,6 +393,7 @@
 0.0.0.0 analytics.foodnetwork.com
 0.0.0.0 analytics.forvo.com
 0.0.0.0 analytics.foundation.app
+0.0.0.0 analytics.freedownloadmanager.org
 0.0.0.0 analytics.fresha.com
 0.0.0.0 analytics.fubo.tv
 0.0.0.0 analytics.furbo.com
@@ -508,6 +513,7 @@
 0.0.0.0 analytics.muslimpro.com
 0.0.0.0 analytics.mux.com
 0.0.0.0 analytics.mxplayer.in
+0.0.0.0 analytics.my.jdownloader.org
 0.0.0.0 analytics.myfitnesspal.com
 0.0.0.0 analytics.myflotracker.com
 0.0.0.0 analytics.native-instruments.com
@@ -637,6 +643,7 @@
 0.0.0.0 analytics.speaky.com
 0.0.0.0 analytics.speechace.com
 0.0.0.0 analytics.speechling.com
+0.0.0.0 analytics.speedbit.com
 0.0.0.0 analytics.splashmusic.com
 0.0.0.0 analytics.splashtop.com
 0.0.0.0 analytics.splice.com
@@ -671,6 +678,7 @@
 0.0.0.0 analytics.ticketmaster.es
 0.0.0.0 analytics.timesinternet.in
 0.0.0.0 analytics.tonal.com
+0.0.0.0 analytics.tonec.com
 0.0.0.0 analytics.torguard.net
 0.0.0.0 analytics.tovala.com
 0.0.0.0 analytics.tractive.com
@@ -1537,6 +1545,7 @@
 0.0.0.0 experience.conviva.com
 0.0.0.0 experience.piano.io
 0.0.0.0 experiments.adikteev.com
+0.0.0.0 extension-telemetry.internetdownloadmanager.com
 0.0.0.0 eyeota.com
 0.0.0.0 eyeota.net
 0.0.0.0 f.clarity.ms
@@ -1747,6 +1756,7 @@
 0.0.0.0 ioptimizer.com
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ip.varify.dev
+0.0.0.0 ipcheck0.jdownloader.org
 0.0.0.0 ips.bugfender.com
 0.0.0.0 ips.bugsee.com
 0.0.0.0 isapp.navdmp.com
@@ -1993,6 +2003,7 @@
 0.0.0.0 metrics.evernote.com
 0.0.0.0 metrics.expressvpn.com
 0.0.0.0 metrics.flo.health
+0.0.0.0 metrics.freedownloadmanager.org
 0.0.0.0 metrics.fresha.com
 0.0.0.0 metrics.fubo.tv
 0.0.0.0 metrics.geforcenow.com
@@ -2008,6 +2019,7 @@
 0.0.0.0 metrics.idfy.com
 0.0.0.0 metrics.image-line.com
 0.0.0.0 metrics.infra.yoti.com
+0.0.0.0 metrics.internetdownloadmanager.com
 0.0.0.0 metrics.ipvanish.com
 0.0.0.0 metrics.joinhoney.com
 0.0.0.0 metrics.jwplayer.com
@@ -2062,6 +2074,7 @@
 0.0.0.0 metrics.snapcraft.io
 0.0.0.0 metrics.soundhound.com
 0.0.0.0 metrics.soundverse.ai
+0.0.0.0 metrics.speedbit.com
 0.0.0.0 metrics.squareup.com
 0.0.0.0 metrics.stan.com.au
 0.0.0.0 metrics.steelseries.com
@@ -2616,6 +2629,7 @@
 0.0.0.0 sstats.epicurious.com
 0.0.0.0 stat.360safe.com
 0.0.0.0 stat.avira.com
+0.0.0.0 stat.freedownloadmanager.org
 0.0.0.0 stat.kaspersky.com
 0.0.0.0 stat.maps.me
 0.0.0.0 stat.tiara.g.daum.net
@@ -2660,9 +2674,11 @@
 0.0.0.0 stats.i.mdpi.com
 0.0.0.0 stats.image-line.com
 0.0.0.0 stats.imgflip.com
+0.0.0.0 stats.internetdownloadmanager.com
 0.0.0.0 stats.iobit.com
 0.0.0.0 stats.iqiyi.com
 0.0.0.0 stats.ivpn.net
+0.0.0.0 stats.jdownloader.org
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.kaspersky.com
 0.0.0.0 stats.libsyn.com
@@ -2683,6 +2699,7 @@
 0.0.0.0 stats.rarible.com
 0.0.0.0 stats.raspberrypi.org
 0.0.0.0 stats.shouldianswer.net
+0.0.0.0 stats.speedbit.com
 0.0.0.0 stats.stronglifts.com
 0.0.0.0 stats.subscribestar.adult
 0.0.0.0 stats.superrare.com
@@ -2846,6 +2863,7 @@
 0.0.0.0 telemetry.fedoraproject.org
 0.0.0.0 telemetry.flashbackrecorder.com
 0.0.0.0 telemetry.flo.health
+0.0.0.0 telemetry.freedownloadmanager.org
 0.0.0.0 telemetry.fubo.tv
 0.0.0.0 telemetry.gamban.com
 0.0.0.0 telemetry.geekbench.com
@@ -2860,10 +2878,12 @@
 0.0.0.0 telemetry.image-line.com
 0.0.0.0 telemetry.immutable.com
 0.0.0.0 telemetry.insights.video.a2z.com
+0.0.0.0 telemetry.internetdownloadmanager.com
 0.0.0.0 telemetry.iobit.com
 0.0.0.0 telemetry.iolo.com
 0.0.0.0 telemetry.ipvanish.com
 0.0.0.0 telemetry.izotope.com
+0.0.0.0 telemetry.jdownloader.org
 0.0.0.0 telemetry.joinhoney.com
 0.0.0.0 telemetry.kaspersky.com
 0.0.0.0 telemetry.landr.com
@@ -2914,6 +2934,7 @@
 0.0.0.0 telemetry.shazam.com
 0.0.0.0 telemetry.soundhound.com
 0.0.0.0 telemetry.soundverse.ai
+0.0.0.0 telemetry.speedbit.com
 0.0.0.0 telemetry.splashtop.com
 0.0.0.0 telemetry.split.io
 0.0.0.0 telemetry.stability.ai
@@ -3089,6 +3110,7 @@
 0.0.0.0 tracking.facia.ai
 0.0.0.0 tracking.feedpress.com
 0.0.0.0 tracking.feedpress.it
+0.0.0.0 tracking.freedownloadmanager.org
 0.0.0.0 tracking.fresha.com
 0.0.0.0 tracking.geforcenow.com
 0.0.0.0 tracking.getinvisiblehand.com
@@ -3099,6 +3121,7 @@
 0.0.0.0 tracking.image-line.com
 0.0.0.0 tracking.impact.com
 0.0.0.0 tracking.info.paytm.com
+0.0.0.0 tracking.internetdownloadmanager.com
 0.0.0.0 tracking.jwplayer.com
 0.0.0.0 tracking.kelkoo.com
 0.0.0.0 tracking.lastpass.com
@@ -3138,6 +3161,7 @@
 0.0.0.0 tracking.seatgeek.com
 0.0.0.0 tracking.shareasale.com
 0.0.0.0 tracking.simplycodes.com
+0.0.0.0 tracking.speedbit.com
 0.0.0.0 tracking.stubhub.com
 0.0.0.0 tracking.styleseat.com
 0.0.0.0 tracking.surfshark.com

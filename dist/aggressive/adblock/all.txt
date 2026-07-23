@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3506
+# Total domains: 3530
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -86,6 +86,7 @@
 ||adcel.vrvm.com^
 ||adclarity.com^
 ||add-mapping-for-wrong-activity-log-classes.feature.varify.io^
+||addoncrop.com^
 ||adgen-cdn.connatix.com^
 ||adgen.connatix.com^
 ||adhoc.textra.me^
@@ -136,6 +137,7 @@
 ||ads.hulu.com^
 ||ads.idwall.co^
 ||ads.imgflip.com^
+||ads.internetdownloadmanager.com^
 ||ads.iono.fm^
 ||ads.iqiyi.com^
 ||ads.jwplayer.com^
@@ -158,6 +160,7 @@
 ||ads.retargeter.com^
 ||ads.roblox.com^
 ||ads.rockstargames.com^
+||ads.speedbit.com^
 ||ads.tenor.com^
 ||ads.timesinternet.in^
 ||ads.truecaller.com^
@@ -253,6 +256,7 @@
 ||analytics-v2.tensor.trade^
 ||analytics.1password.com^
 ||analytics.3dmark.com^
+||analytics.4kdownload.com^
 ||analytics.8x8.com^
 ||analytics.abema.tv^
 ||analytics.abide.co^
@@ -402,6 +406,7 @@
 ||analytics.foodnetwork.com^
 ||analytics.forvo.com^
 ||analytics.foundation.app^
+||analytics.freedownloadmanager.org^
 ||analytics.fresha.com^
 ||analytics.fubo.tv^
 ||analytics.furbo.com^
@@ -521,6 +526,7 @@
 ||analytics.muslimpro.com^
 ||analytics.mux.com^
 ||analytics.mxplayer.in^
+||analytics.my.jdownloader.org^
 ||analytics.myfitnesspal.com^
 ||analytics.myflotracker.com^
 ||analytics.native-instruments.com^
@@ -651,6 +657,7 @@
 ||analytics.speaky.com^
 ||analytics.speechace.com^
 ||analytics.speechling.com^
+||analytics.speedbit.com^
 ||analytics.splashmusic.com^
 ||analytics.splashtop.com^
 ||analytics.splice.com^
@@ -685,6 +692,7 @@
 ||analytics.ticketmaster.es^
 ||analytics.timesinternet.in^
 ||analytics.tonal.com^
+||analytics.tonec.com^
 ||analytics.torguard.net^
 ||analytics.tovala.com^
 ||analytics.tractive.com^
@@ -1569,6 +1577,7 @@
 ||experiments.disneyplus.com^
 ||experiments.hulu.com^
 ||experiments.netflix.com^
+||extension-telemetry.internetdownloadmanager.com^
 ||eyeota.com^
 ||eyeota.net^
 ||f.clarity.ms^
@@ -1781,6 +1790,7 @@
 ||ioptimizer.com^
 ||ip-info.ff.avast.com^
 ||ip.varify.dev^
+||ipcheck0.jdownloader.org^
 ||ips.bugfender.com^
 ||ips.bugsee.com^
 ||isapp.navdmp.com^
@@ -2031,6 +2041,7 @@
 ||metrics.evernote.com^
 ||metrics.expressvpn.com^
 ||metrics.flo.health^
+||metrics.freedownloadmanager.org^
 ||metrics.fresha.com^
 ||metrics.fubo.tv^
 ||metrics.geforcenow.com^
@@ -2046,6 +2057,7 @@
 ||metrics.idfy.com^
 ||metrics.image-line.com^
 ||metrics.infra.yoti.com^
+||metrics.internetdownloadmanager.com^
 ||metrics.ipvanish.com^
 ||metrics.joinhoney.com^
 ||metrics.jwplayer.com^
@@ -2100,6 +2112,7 @@
 ||metrics.snapcraft.io^
 ||metrics.soundhound.com^
 ||metrics.soundverse.ai^
+||metrics.speedbit.com^
 ||metrics.squareup.com^
 ||metrics.stan.com.au^
 ||metrics.steelseries.com^
@@ -2673,6 +2686,7 @@
 ||sstats.epicurious.com^
 ||stat.360safe.com^
 ||stat.avira.com^
+||stat.freedownloadmanager.org^
 ||stat.kaspersky.com^
 ||stat.maps.me^
 ||stat.tiara.g.daum.net^
@@ -2717,9 +2731,11 @@
 ||stats.i.mdpi.com^
 ||stats.image-line.com^
 ||stats.imgflip.com^
+||stats.internetdownloadmanager.com^
 ||stats.iobit.com^
 ||stats.iqiyi.com^
 ||stats.ivpn.net^
+||stats.jdownloader.org^
 ||stats.kaltura.com^
 ||stats.kaspersky.com^
 ||stats.libsyn.com^
@@ -2740,6 +2756,7 @@
 ||stats.rarible.com^
 ||stats.raspberrypi.org^
 ||stats.shouldianswer.net^
+||stats.speedbit.com^
 ||stats.stronglifts.com^
 ||stats.subscribestar.adult^
 ||stats.superrare.com^
@@ -2903,6 +2920,7 @@
 ||telemetry.fedoraproject.org^
 ||telemetry.flashbackrecorder.com^
 ||telemetry.flo.health^
+||telemetry.freedownloadmanager.org^
 ||telemetry.fubo.tv^
 ||telemetry.gamban.com^
 ||telemetry.geekbench.com^
@@ -2917,10 +2935,12 @@
 ||telemetry.image-line.com^
 ||telemetry.immutable.com^
 ||telemetry.insights.video.a2z.com^
+||telemetry.internetdownloadmanager.com^
 ||telemetry.iobit.com^
 ||telemetry.iolo.com^
 ||telemetry.ipvanish.com^
 ||telemetry.izotope.com^
+||telemetry.jdownloader.org^
 ||telemetry.joinhoney.com^
 ||telemetry.kaspersky.com^
 ||telemetry.landr.com^
@@ -2971,6 +2991,7 @@
 ||telemetry.shazam.com^
 ||telemetry.soundhound.com^
 ||telemetry.soundverse.ai^
+||telemetry.speedbit.com^
 ||telemetry.splashtop.com^
 ||telemetry.split.io^
 ||telemetry.stability.ai^
@@ -3147,6 +3168,7 @@
 ||tracking.facia.ai^
 ||tracking.feedpress.com^
 ||tracking.feedpress.it^
+||tracking.freedownloadmanager.org^
 ||tracking.fresha.com^
 ||tracking.geforcenow.com^
 ||tracking.getinvisiblehand.com^
@@ -3157,6 +3179,7 @@
 ||tracking.image-line.com^
 ||tracking.impact.com^
 ||tracking.info.paytm.com^
+||tracking.internetdownloadmanager.com^
 ||tracking.jwplayer.com^
 ||tracking.kelkoo.com^
 ||tracking.lastpass.com^
@@ -3198,6 +3221,7 @@
 ||tracking.seatgeek.com^
 ||tracking.shareasale.com^
 ||tracking.simplycodes.com^
+||tracking.speedbit.com^
 ||tracking.stubhub.com^
 ||tracking.styleseat.com^
 ||tracking.surfshark.com^

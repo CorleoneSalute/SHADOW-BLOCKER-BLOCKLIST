@@ -1,0 +1,31 @@
+# ============================================================
+# DOWNLOAD MANAGER BLOCKLIST - AGGRESSIVE
+# Total domains: 24
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||addoncrop.com^
+||ads.internetdownloadmanager.com^
+||ads.speedbit.com^
+||analytics.4kdownload.com^
+||analytics.freedownloadmanager.org^
+||analytics.my.jdownloader.org^
+||analytics.speedbit.com^
+||analytics.tonec.com^
+||extension-telemetry.internetdownloadmanager.com^
+||ipcheck0.jdownloader.org^
+||metrics.freedownloadmanager.org^
+||metrics.internetdownloadmanager.com^
+||metrics.speedbit.com^
+||stat.freedownloadmanager.org^
+||stats.internetdownloadmanager.com^
+||stats.jdownloader.org^
+||stats.speedbit.com^
+||telemetry.freedownloadmanager.org^
+||telemetry.internetdownloadmanager.com^
+||telemetry.jdownloader.org^
+||telemetry.speedbit.com^
+||tracking.freedownloadmanager.org^
+||tracking.internetdownloadmanager.com^
+||tracking.speedbit.com^
