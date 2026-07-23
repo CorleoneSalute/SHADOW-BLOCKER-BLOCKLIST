@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1479
+# Total domains: 1536
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -58,8 +58,10 @@
 ||ad.vrvm.com^
 ||adassets.waze.com^
 ||adcel.vrvm.com^
+||adclarity.com^
 ||adgen-cdn.connatix.com^
 ||adgen.connatix.com^
+||adjustevents.purevpn.com^
 ||adkernel.crakrevenue.com^
 ||admitad.com^
 ||adobedtm.com.sci-hub.tw^
@@ -147,6 +149,7 @@
 ||analytics.anydesk.com^
 ||analytics.api.brightcove.com^
 ||analytics.appsflyer.com^
+||analytics.astrill.com^
 ||analytics.bear.app^
 ||analytics.beermenus.com^
 ||analytics.beyondtrust.com^
@@ -173,6 +176,7 @@
 ||analytics.crunchyroll.com^
 ||analytics.cs.zohohost.com^
 ||analytics.curiositystream.com^
+||analytics.cyberghostvpn.com^
 ||analytics.dailywire.com^
 ||analytics.dashlane.com^
 ||analytics.dazn.com^
@@ -186,6 +190,7 @@
 ||analytics.enpass.io^
 ||analytics.espn.com^
 ||analytics.evernote.com^
+||analytics.expressvpn.com^
 ||analytics.fandangoathome.com^
 ||analytics.fixme.it^
 ||analytics.fleksy.com^
@@ -193,10 +198,12 @@
 ||analytics.gingersoftware.com^
 ||analytics.globoplay.globo.com^
 ||analytics.hbomax.com^
+||analytics.hide.me^
 ||analytics.hotstar.com^
 ||analytics.hulu.com^
 ||analytics.hyperx.com^
 ||analytics.ieee.org^
+||analytics.ipvanish.com^
 ||analytics.iqiyi.com^
 ||analytics.jitsi.net^
 ||analytics.joplincloud.com^
@@ -228,6 +235,7 @@
 ||analytics.nomachine.com^
 ||analytics.noom.com^
 ||analytics.nordpass.com^
+||analytics.nordvpn.com^
 ||analytics.notify.elsevier.com^
 ||analytics.obsidian.md^
 ||analytics.onepeloton.com^
@@ -243,7 +251,9 @@
 ||analytics.plex.tv^
 ||analytics.pluto.tv^
 ||analytics.prageru.com^
+||analytics.privateinternetaccess.com^
 ||analytics.protected.media^
+||analytics.purevpn.com^
 ||analytics.rakutenmarketing.com^
 ||analytics.razerzone.com^
 ||analytics.realvnc.com^
@@ -270,11 +280,14 @@
 ||analytics.stickypassword.com^
 ||analytics.strava.com^
 ||analytics.stronglifts.com^
+||analytics.surfshark.com^
 ||analytics.taphunter.com^
 ||analytics.teamviewer.com^
 ||analytics.tonal.com^
+||analytics.torguard.net^
 ||analytics.tradedoubler.com^
 ||analytics.tubitv.com^
+||analytics.tunnelbear.com^
 ||analytics.tv.apple.com^
 ||analytics.tving.com^
 ||analytics.underarmour.com^
@@ -285,11 +298,13 @@
 ||analytics.vivino.com^
 ||analytics.voot.com^
 ||analytics.vudu.com^
+||analytics.vyprvpn.com^
 ||analytics.wavve.com^
 ||analytics.waze.com^
 ||analytics.webex.com^
 ||analytics.webgains.io^
 ||analytics.wiley.com^
+||analytics.windscribe.com^
 ||analytics.youbora.com^
 ||analytics.youku.com^
 ||analytics.zee5.com^
@@ -414,6 +429,7 @@
 ||beacon.shzcld.com^
 ||beacons.hulu.com^
 ||beta.analytics.openaire.eu^
+||biscience.com^
 ||bisnode.com^
 ||bitmovin-analytics.net^
 ||bkrtx.com^
@@ -509,11 +525,13 @@
 ||clickbank.net^
 ||clickbooth.com^
 ||clicks.admitad.com^
+||clickstream-os.com^
 ||clicktale.com^
 ||clicktale.net^
 ||clicktale.pantherssl.com^
 ||clicktalecdn.sslcs.cdngc.net^
 ||client-telemetry.us-east-1.amazonaws.com^
+||clientlogs.tunnelbear.com^
 ||cloud.tealeaf.com^
 ||cloudtrack.cal.com^
 ||collect.biomedcentral.com^
@@ -564,6 +582,7 @@
 ||crash.soundhound.com^
 ||crashes.1password.com^
 ||crashes.dashlane.com^
+||crashes.ivpn.net^
 ||crashreport.razer.com^
 ||crazyegg.com^
 ||cricket-metrics.hotstar.com^
@@ -705,6 +724,7 @@
 ||gateway.crakrevenue.com^
 ||gateway.glassboxdigital.com^
 ||gemini-analytics.google.com^
+||geo-surf.com^
 ||geoip.cactusglobal.com^
 ||glassbox.com^
 ||glassbox.digital^
@@ -762,6 +782,7 @@
 ||ingest.zipy.ai^
 ||inmarket.com^
 ||insights.conviva.com^
+||insights.nordvpn.com^
 ||insights.video.a2z.com^
 ||inspectlet.com^
 ||inspectlet.net^
@@ -813,6 +834,7 @@
 ||log-net.zoom.us^
 ||log.ai-type.com^
 ||log.facemoji.com^
+||log.nordvpn.com^
 ||log.shazam.com^
 ||log.soundhound.com^
 ||log.zoom.us^
@@ -881,6 +903,7 @@
 ||metrics.crave.ca^
 ||metrics.crunchyroll.com^
 ||metrics.curiositystream.com^
+||metrics.cyberghostvpn.com^
 ||metrics.dailywire.com^
 ||metrics.dashlane.com^
 ||metrics.dazn.com^
@@ -888,12 +911,14 @@
 ||metrics.disneyplus.com^
 ||metrics.espn.com^
 ||metrics.evernote.com^
+||metrics.expressvpn.com^
 ||metrics.fubo.tv^
 ||metrics.globo.com^
 ||metrics.hbomax.com^
 ||metrics.hotstar.com^
 ||metrics.hulu.com^
 ||metrics.hyperx.com^
+||metrics.ipvanish.com^
 ||metrics.jwplayer.com^
 ||metrics.logitech.com^
 ||metrics.max.com^
@@ -906,12 +931,14 @@
 ||metrics.nbc.com^
 ||metrics.netflix.com^
 ||metrics.nickjr.com^
+||metrics.nordvpn.com^
 ||metrics.openai.com^
 ||metrics.paramountplus.com^
 ||metrics.peacocktv.com^
 ||metrics.piano.io^
 ||metrics.plex.tv^
 ||metrics.pluto.tv^
+||metrics.privateinternetaccess.com^
 ||metrics.razer.com^
 ||metrics.replika.ai^
 ||metrics.sci-hub.tw^
@@ -920,8 +947,10 @@
 ||metrics.soundhound.com^
 ||metrics.stan.com.au^
 ||metrics.steelseries.com^
+||metrics.surfshark.com^
 ||metrics.teamviewer.com^
 ||metrics.tubitv.com^
+||metrics.tunnelbear.com^
 ||metrics.tving.com^
 ||metrics.unpaywall.org^
 ||metrics.viaplay.com^
@@ -1087,6 +1116,7 @@
 ||safegraph.com^
 ||safegraph.io^
 ||salesgenie.com^
+||sclpfybn.com^
 ||script.crazyegg.com^
 ||script.hotjar.com^
 ||script.webmaxy.com^
@@ -1113,6 +1143,7 @@
 ||sentry.api.stronglifts.com^
 ||sentry.clickdealer.com^
 ||sentry.codeium.com^
+||sentry.protonvpn.com^
 ||sentry.scielo.org^
 ||sentry.scispace.com^
 ||sentry.xinchenai.com^
@@ -1166,11 +1197,16 @@
 ||stats.appsflyer.com^
 ||stats.bilibili.com^
 ||stats.corsair.com^
+||stats.expressvpn.com^
+||stats.hide.me^
 ||stats.i.mdpi.com^
 ||stats.iqiyi.com^
+||stats.ivpn.net^
 ||stats.kaltura.com^
 ||stats.nicovideo.jp^
+||stats.nordvpn.com^
 ||stats.stronglifts.com^
+||stats.surfshark.com^
 ||stats.tandf.co.uk^
 ||stats.waze.com^
 ||stats.youku.com^
@@ -1214,6 +1250,7 @@
 ||telemetry.1passwordservices.com^
 ||telemetry.anydesk.com^
 ||telemetry.api.swiftkey.com^
+||telemetry.astrill.com^
 ||telemetry.aws-language-servers.us-east-1.amazonaws.com^
 ||telemetry.bamgrid.com^
 ||telemetry.beyondtrust.com^
@@ -1223,25 +1260,32 @@
 ||telemetry.coder.com^
 ||telemetry.corsair.com^
 ||telemetry.crunchyroll.com^
+||telemetry.cyberghostvpn.com^
 ||telemetry.dataplatform.zing.coach^
 ||telemetry.dazn.com^
 ||telemetry.espn.com^
+||telemetry.expressvpn.com^
 ||telemetry.fubo.tv^
 ||telemetry.hbomax.com^
+||telemetry.hide.me^
 ||telemetry.hotstar.com^
 ||telemetry.hulu.com^
 ||telemetry.insights.video.a2z.com^
+||telemetry.ipvanish.com^
 ||telemetry.logitechg.com^
 ||telemetry.logmein.com^
 ||telemetry.mapbox.com^
 ||telemetry.max.com^
 ||telemetry.mux.com^
+||telemetry.nordvpn.com^
 ||telemetry.nzxt.com^
 ||telemetry.openai.com^
 ||telemetry.paramountplus.com^
 ||telemetry.peacocktv.com^
 ||telemetry.pluto.tv^
+||telemetry.privateinternetaccess.com^
 ||telemetry.proton.me^
+||telemetry.purevpn.com^
 ||telemetry.razer.com^
 ||telemetry.remotepc.com^
 ||telemetry.roccat.com^
@@ -1249,11 +1293,15 @@
 ||telemetry.soundhound.com^
 ||telemetry.splashtop.com^
 ||telemetry.steelseries.com^
+||telemetry.surfshark.com^
 ||telemetry.tabnine.com^
 ||telemetry.teamviewer.com^
 ||telemetry.tubitv.com^
+||telemetry.tunnelbear.com^
 ||telemetry.untappd.com^
 ||telemetry.vivino.com^
+||telemetry.vyprvpn.com^
+||telemetry.windscribe.com^
 ||telemetry.zoho.com^
 ||telemetry.zoom.us^
 ||telemetrydoc.swiftkey.com^
@@ -1271,6 +1319,7 @@
 ||tqlkg.com^
 ||trac.eprints-hosting.org^
 ||trac.eprints.org^
+||trace.nordvpn.com^
 ||track.aitype.com^
 ||track.appsflyer.com^
 ||track.branch.io^
@@ -1305,7 +1354,9 @@
 ||tracking.avantlink.com^
 ||tracking.awin.com^
 ||tracking.crazyegg.com^
+||tracking.cyberghostvpn.com^
 ||tracking.effiliation.com^
+||tracking.expressvpn.com^
 ||tracking.hbomax.com^
 ||tracking.hulu.com^
 ||tracking.impact.com^
@@ -1315,12 +1366,16 @@
 ||tracking.myfitnesspal.com^
 ||tracking.netaffiliation.com^
 ||tracking.newsletter.vivino.com^
+||tracking.nordvpn.com^
 ||tracking.november-project.com^
 ||tracking.partnerize.com^
 ||tracking.pepperjam.com^
+||tracking.privateinternetaccess.com^
+||tracking.purevpn.com^
 ||tracking.rakutenmarketing.com^
 ||tracking.razer.com^
 ||tracking.shareasale.com^
+||tracking.surfshark.com^
 ||tracking.teamviewer.com^
 ||tracking.toroadvertising.com^
 ||tracking.tradedoubler.com^
@@ -1350,6 +1405,8 @@
 ||ubimo.com^
 ||unacast.com^
 ||upload.uxcam.com^
+||urban-vpn.com^
+||urbanshield.com^
 ||us-east-1-1.telemetry.insights.video.a2z.com^
 ||us-east-1-2.telemetry.insights.video.a2z.com^
 ||us-east-1-3.telemetry.insights.video.a2z.com^

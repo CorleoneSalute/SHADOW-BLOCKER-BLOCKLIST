@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1435
+# Total domains: 1492
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -55,8 +55,10 @@
 0.0.0.0 ad.vrvm.com
 0.0.0.0 adassets.waze.com
 0.0.0.0 adcel.vrvm.com
+0.0.0.0 adclarity.com
 0.0.0.0 adgen-cdn.connatix.com
 0.0.0.0 adgen.connatix.com
+0.0.0.0 adjustevents.purevpn.com
 0.0.0.0 adkernel.crakrevenue.com
 0.0.0.0 admitad.com
 0.0.0.0 adobedtm.com.sci-hub.tw
@@ -142,6 +144,7 @@
 0.0.0.0 analytics.anydesk.com
 0.0.0.0 analytics.api.brightcove.com
 0.0.0.0 analytics.appsflyer.com
+0.0.0.0 analytics.astrill.com
 0.0.0.0 analytics.bear.app
 0.0.0.0 analytics.beermenus.com
 0.0.0.0 analytics.beyondtrust.com
@@ -168,6 +171,7 @@
 0.0.0.0 analytics.crunchyroll.com
 0.0.0.0 analytics.cs.zohohost.com
 0.0.0.0 analytics.curiositystream.com
+0.0.0.0 analytics.cyberghostvpn.com
 0.0.0.0 analytics.dailywire.com
 0.0.0.0 analytics.dashlane.com
 0.0.0.0 analytics.dazn.com
@@ -181,6 +185,7 @@
 0.0.0.0 analytics.enpass.io
 0.0.0.0 analytics.espn.com
 0.0.0.0 analytics.evernote.com
+0.0.0.0 analytics.expressvpn.com
 0.0.0.0 analytics.fandangoathome.com
 0.0.0.0 analytics.fixme.it
 0.0.0.0 analytics.fleksy.com
@@ -188,10 +193,12 @@
 0.0.0.0 analytics.gingersoftware.com
 0.0.0.0 analytics.globoplay.globo.com
 0.0.0.0 analytics.hbomax.com
+0.0.0.0 analytics.hide.me
 0.0.0.0 analytics.hotstar.com
 0.0.0.0 analytics.hulu.com
 0.0.0.0 analytics.hyperx.com
 0.0.0.0 analytics.ieee.org
+0.0.0.0 analytics.ipvanish.com
 0.0.0.0 analytics.iqiyi.com
 0.0.0.0 analytics.jitsi.net
 0.0.0.0 analytics.joplincloud.com
@@ -223,6 +230,7 @@
 0.0.0.0 analytics.nomachine.com
 0.0.0.0 analytics.noom.com
 0.0.0.0 analytics.nordpass.com
+0.0.0.0 analytics.nordvpn.com
 0.0.0.0 analytics.notify.elsevier.com
 0.0.0.0 analytics.obsidian.md
 0.0.0.0 analytics.onepeloton.com
@@ -238,7 +246,9 @@
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.pluto.tv
 0.0.0.0 analytics.prageru.com
+0.0.0.0 analytics.privateinternetaccess.com
 0.0.0.0 analytics.protected.media
+0.0.0.0 analytics.purevpn.com
 0.0.0.0 analytics.rakutenmarketing.com
 0.0.0.0 analytics.razerzone.com
 0.0.0.0 analytics.realvnc.com
@@ -265,11 +275,14 @@
 0.0.0.0 analytics.stickypassword.com
 0.0.0.0 analytics.strava.com
 0.0.0.0 analytics.stronglifts.com
+0.0.0.0 analytics.surfshark.com
 0.0.0.0 analytics.taphunter.com
 0.0.0.0 analytics.teamviewer.com
 0.0.0.0 analytics.tonal.com
+0.0.0.0 analytics.torguard.net
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.tubitv.com
+0.0.0.0 analytics.tunnelbear.com
 0.0.0.0 analytics.tv.apple.com
 0.0.0.0 analytics.tving.com
 0.0.0.0 analytics.underarmour.com
@@ -280,11 +293,13 @@
 0.0.0.0 analytics.vivino.com
 0.0.0.0 analytics.voot.com
 0.0.0.0 analytics.vudu.com
+0.0.0.0 analytics.vyprvpn.com
 0.0.0.0 analytics.wavve.com
 0.0.0.0 analytics.waze.com
 0.0.0.0 analytics.webex.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.wiley.com
+0.0.0.0 analytics.windscribe.com
 0.0.0.0 analytics.youbora.com
 0.0.0.0 analytics.youku.com
 0.0.0.0 analytics.zee5.com
@@ -408,6 +423,7 @@
 0.0.0.0 beacon.shzcld.com
 0.0.0.0 beacons.hulu.com
 0.0.0.0 beta.analytics.openaire.eu
+0.0.0.0 biscience.com
 0.0.0.0 bisnode.com
 0.0.0.0 bitmovin-analytics.net
 0.0.0.0 bkrtx.com
@@ -498,11 +514,13 @@
 0.0.0.0 clickbank.net
 0.0.0.0 clickbooth.com
 0.0.0.0 clicks.admitad.com
+0.0.0.0 clickstream-os.com
 0.0.0.0 clicktale.com
 0.0.0.0 clicktale.net
 0.0.0.0 clicktale.pantherssl.com
 0.0.0.0 clicktalecdn.sslcs.cdngc.net
 0.0.0.0 client-telemetry.us-east-1.amazonaws.com
+0.0.0.0 clientlogs.tunnelbear.com
 0.0.0.0 cloud.tealeaf.com
 0.0.0.0 cloudtrack.cal.com
 0.0.0.0 collect.biomedcentral.com
@@ -552,6 +570,7 @@
 0.0.0.0 crash.soundhound.com
 0.0.0.0 crashes.1password.com
 0.0.0.0 crashes.dashlane.com
+0.0.0.0 crashes.ivpn.net
 0.0.0.0 crashreport.razer.com
 0.0.0.0 crazyegg.com
 0.0.0.0 crowdcontrol.lotame.com
@@ -687,6 +706,7 @@
 0.0.0.0 gateway.crakrevenue.com
 0.0.0.0 gateway.glassboxdigital.com
 0.0.0.0 gemini-analytics.google.com
+0.0.0.0 geo-surf.com
 0.0.0.0 glassbox.com
 0.0.0.0 glassbox.digital
 0.0.0.0 glassboxdigital.com
@@ -743,6 +763,7 @@
 0.0.0.0 ingest.zipy.ai
 0.0.0.0 inmarket.com
 0.0.0.0 insights.conviva.com
+0.0.0.0 insights.nordvpn.com
 0.0.0.0 insights.video.a2z.com
 0.0.0.0 inspectlet.com
 0.0.0.0 inspectlet.net
@@ -790,6 +811,7 @@
 0.0.0.0 log-net.zoom.us
 0.0.0.0 log.ai-type.com
 0.0.0.0 log.facemoji.com
+0.0.0.0 log.nordvpn.com
 0.0.0.0 log.shazam.com
 0.0.0.0 log.soundhound.com
 0.0.0.0 log.zoom.us
@@ -858,6 +880,7 @@
 0.0.0.0 metrics.crave.ca
 0.0.0.0 metrics.crunchyroll.com
 0.0.0.0 metrics.curiositystream.com
+0.0.0.0 metrics.cyberghostvpn.com
 0.0.0.0 metrics.dailywire.com
 0.0.0.0 metrics.dashlane.com
 0.0.0.0 metrics.dazn.com
@@ -865,12 +888,14 @@
 0.0.0.0 metrics.disneyplus.com
 0.0.0.0 metrics.espn.com
 0.0.0.0 metrics.evernote.com
+0.0.0.0 metrics.expressvpn.com
 0.0.0.0 metrics.fubo.tv
 0.0.0.0 metrics.globo.com
 0.0.0.0 metrics.hbomax.com
 0.0.0.0 metrics.hotstar.com
 0.0.0.0 metrics.hulu.com
 0.0.0.0 metrics.hyperx.com
+0.0.0.0 metrics.ipvanish.com
 0.0.0.0 metrics.jwplayer.com
 0.0.0.0 metrics.logitech.com
 0.0.0.0 metrics.max.com
@@ -883,12 +908,14 @@
 0.0.0.0 metrics.nbc.com
 0.0.0.0 metrics.netflix.com
 0.0.0.0 metrics.nickjr.com
+0.0.0.0 metrics.nordvpn.com
 0.0.0.0 metrics.openai.com
 0.0.0.0 metrics.paramountplus.com
 0.0.0.0 metrics.peacocktv.com
 0.0.0.0 metrics.piano.io
 0.0.0.0 metrics.plex.tv
 0.0.0.0 metrics.pluto.tv
+0.0.0.0 metrics.privateinternetaccess.com
 0.0.0.0 metrics.razer.com
 0.0.0.0 metrics.replika.ai
 0.0.0.0 metrics.sci-hub.tw
@@ -897,8 +924,10 @@
 0.0.0.0 metrics.soundhound.com
 0.0.0.0 metrics.stan.com.au
 0.0.0.0 metrics.steelseries.com
+0.0.0.0 metrics.surfshark.com
 0.0.0.0 metrics.teamviewer.com
 0.0.0.0 metrics.tubitv.com
+0.0.0.0 metrics.tunnelbear.com
 0.0.0.0 metrics.tving.com
 0.0.0.0 metrics.unpaywall.org
 0.0.0.0 metrics.viaplay.com
@@ -1053,6 +1082,7 @@
 0.0.0.0 safegraph.com
 0.0.0.0 safegraph.io
 0.0.0.0 salesgenie.com
+0.0.0.0 sclpfybn.com
 0.0.0.0 script.crazyegg.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 script.webmaxy.com
@@ -1078,6 +1108,7 @@
 0.0.0.0 sentry.api.stronglifts.com
 0.0.0.0 sentry.clickdealer.com
 0.0.0.0 sentry.codeium.com
+0.0.0.0 sentry.protonvpn.com
 0.0.0.0 sentry.scielo.org
 0.0.0.0 sentry.scispace.com
 0.0.0.0 sentry.xinchenai.com
@@ -1130,11 +1161,16 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.bilibili.com
 0.0.0.0 stats.corsair.com
+0.0.0.0 stats.expressvpn.com
+0.0.0.0 stats.hide.me
 0.0.0.0 stats.i.mdpi.com
 0.0.0.0 stats.iqiyi.com
+0.0.0.0 stats.ivpn.net
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.nicovideo.jp
+0.0.0.0 stats.nordvpn.com
 0.0.0.0 stats.stronglifts.com
+0.0.0.0 stats.surfshark.com
 0.0.0.0 stats.tandf.co.uk
 0.0.0.0 stats.waze.com
 0.0.0.0 stats.youku.com
@@ -1178,6 +1214,7 @@
 0.0.0.0 telemetry.1passwordservices.com
 0.0.0.0 telemetry.anydesk.com
 0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 telemetry.astrill.com
 0.0.0.0 telemetry.aws-language-servers.us-east-1.amazonaws.com
 0.0.0.0 telemetry.bamgrid.com
 0.0.0.0 telemetry.beyondtrust.com
@@ -1187,25 +1224,32 @@
 0.0.0.0 telemetry.coder.com
 0.0.0.0 telemetry.corsair.com
 0.0.0.0 telemetry.crunchyroll.com
+0.0.0.0 telemetry.cyberghostvpn.com
 0.0.0.0 telemetry.dataplatform.zing.coach
 0.0.0.0 telemetry.dazn.com
 0.0.0.0 telemetry.espn.com
+0.0.0.0 telemetry.expressvpn.com
 0.0.0.0 telemetry.fubo.tv
 0.0.0.0 telemetry.hbomax.com
+0.0.0.0 telemetry.hide.me
 0.0.0.0 telemetry.hotstar.com
 0.0.0.0 telemetry.hulu.com
 0.0.0.0 telemetry.insights.video.a2z.com
+0.0.0.0 telemetry.ipvanish.com
 0.0.0.0 telemetry.logitechg.com
 0.0.0.0 telemetry.logmein.com
 0.0.0.0 telemetry.mapbox.com
 0.0.0.0 telemetry.max.com
 0.0.0.0 telemetry.mux.com
+0.0.0.0 telemetry.nordvpn.com
 0.0.0.0 telemetry.nzxt.com
 0.0.0.0 telemetry.openai.com
 0.0.0.0 telemetry.paramountplus.com
 0.0.0.0 telemetry.peacocktv.com
 0.0.0.0 telemetry.pluto.tv
+0.0.0.0 telemetry.privateinternetaccess.com
 0.0.0.0 telemetry.proton.me
+0.0.0.0 telemetry.purevpn.com
 0.0.0.0 telemetry.razer.com
 0.0.0.0 telemetry.remotepc.com
 0.0.0.0 telemetry.roccat.com
@@ -1213,11 +1257,15 @@
 0.0.0.0 telemetry.soundhound.com
 0.0.0.0 telemetry.splashtop.com
 0.0.0.0 telemetry.steelseries.com
+0.0.0.0 telemetry.surfshark.com
 0.0.0.0 telemetry.tabnine.com
 0.0.0.0 telemetry.teamviewer.com
 0.0.0.0 telemetry.tubitv.com
+0.0.0.0 telemetry.tunnelbear.com
 0.0.0.0 telemetry.untappd.com
 0.0.0.0 telemetry.vivino.com
+0.0.0.0 telemetry.vyprvpn.com
+0.0.0.0 telemetry.windscribe.com
 0.0.0.0 telemetry.zoho.com
 0.0.0.0 telemetry.zoom.us
 0.0.0.0 telemetrydoc.swiftkey.com
@@ -1235,6 +1283,7 @@
 0.0.0.0 tqlkg.com
 0.0.0.0 trac.eprints-hosting.org
 0.0.0.0 trac.eprints.org
+0.0.0.0 trace.nordvpn.com
 0.0.0.0 track.aitype.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.branch.io
@@ -1269,7 +1318,9 @@
 0.0.0.0 tracking.avantlink.com
 0.0.0.0 tracking.awin.com
 0.0.0.0 tracking.crazyegg.com
+0.0.0.0 tracking.cyberghostvpn.com
 0.0.0.0 tracking.effiliation.com
+0.0.0.0 tracking.expressvpn.com
 0.0.0.0 tracking.hbomax.com
 0.0.0.0 tracking.hulu.com
 0.0.0.0 tracking.impact.com
@@ -1279,12 +1330,16 @@
 0.0.0.0 tracking.myfitnesspal.com
 0.0.0.0 tracking.netaffiliation.com
 0.0.0.0 tracking.newsletter.vivino.com
+0.0.0.0 tracking.nordvpn.com
 0.0.0.0 tracking.november-project.com
 0.0.0.0 tracking.partnerize.com
 0.0.0.0 tracking.pepperjam.com
+0.0.0.0 tracking.privateinternetaccess.com
+0.0.0.0 tracking.purevpn.com
 0.0.0.0 tracking.rakutenmarketing.com
 0.0.0.0 tracking.razer.com
 0.0.0.0 tracking.shareasale.com
+0.0.0.0 tracking.surfshark.com
 0.0.0.0 tracking.teamviewer.com
 0.0.0.0 tracking.toroadvertising.com
 0.0.0.0 tracking.tradedoubler.com
@@ -1314,6 +1369,8 @@
 0.0.0.0 ubimo.com
 0.0.0.0 unacast.com
 0.0.0.0 upload.uxcam.com
+0.0.0.0 urban-vpn.com
+0.0.0.0 urbanshield.com
 0.0.0.0 us-east-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 us-east-1-2.telemetry.insights.video.a2z.com
 0.0.0.0 us-east-1-3.telemetry.insights.video.a2z.com
