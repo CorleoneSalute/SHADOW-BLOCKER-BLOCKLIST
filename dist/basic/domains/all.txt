@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1142
+# Total domains: 1164
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -119,11 +119,13 @@ analytics-iq.com
 analytics-pbl.vivino.com
 analytics.abema.tv
 analytics.api.brightcove.com
+analytics.appsflyer.com
 analytics.beermenus.com
 analytics.bilibili.com
 analytics.binge.com.au
 analytics.blim.com
 analytics.bobble.ai
+analytics.branch.io
 analytics.britbox.com
 analytics.canalplus.com
 analytics.cbsaavideo.com
@@ -283,6 +285,8 @@ assets-proxy.us.smartlook.cloud
 assets-tracking.crazyegg.com
 atdata.com
 ats.eccmp.com
+attr.appsflyer.com
+attribution.branch.io
 audience.api.brightcove.com
 audienceiq.com
 avantmetrics.com
@@ -378,6 +382,7 @@ cj.dotomi.com
 cjads.com
 clarity.ms
 clearbit.com
+click.appsflyer.com
 click.mail.crakrevenue.com
 clickagy.com
 clickbank.com
@@ -408,6 +413,8 @@ contentsquare.com
 contentsquare.net
 conversantmedia.com
 conversantmedia.eu
+conversion.appsflyer.com
+conversions.appsflyer.com
 conviva.ai
 conviva.com
 core.crazyegg.com
@@ -504,6 +511,7 @@ eu.fullstory.com
 eu.mouseflow.com
 eu.smartlook.cloud
 eu.uxcam.com
+event.appsflyer.com
 events-writer.eu.smartlook.cloud
 events.cuebiq.com
 events.hotjar.com
@@ -512,6 +520,7 @@ events.kaltura.com
 events.mapbox.cn
 events.mapbox.com
 events.mux.com
+evgen.appsflyer.com
 exactdata.com
 exads.crakrevenue.com
 exchange.adsquare.com
@@ -581,6 +590,9 @@ imonetizeit.net
 impact-ad.net
 impactcdn.com
 impactradius-event.com
+impression.appsflyer.com
+impressions.appsflyer.com
+inapps.appsflyer.com
 inferred.litix.io
 infogroup.com
 infutor.com
@@ -616,6 +628,7 @@ kids-analytics.youtube.com
 kqzyfj.com
 l.clarity.ms
 lakegroupmedia.com
+launches.appsflyer.com
 lb-api.visitor-analytics.io
 lduhtrp.net
 lgrckt-in.com
@@ -673,6 +686,7 @@ metaffiliation.com
 metrics.abema.tv
 metrics.binge.com.au
 metrics.bitmovin.com
+metrics.branch.io
 metrics.brightcove.com
 metrics.britbox.com
 metrics.cbs.com
@@ -759,6 +773,7 @@ offline-analytics.youtube.com
 openreplay.com
 opi.navdmp.com
 oracleinfinity.io
+origin-analytics.branch.io
 outlogic.io
 p.clarity.ms
 p.plerdy.com
@@ -777,6 +792,7 @@ person.clearbit.com
 piano.io
 ping.chartbeat.net
 pixalate.com
+pixel.branch.io
 pixel.crwdcntrl.net
 pixel.datalogix.com
 pixel.parsely.com
@@ -880,6 +896,7 @@ sg.smartlook.cloud
 shareasale-analytics.com
 shopify.crazyegg.com
 signal.truoptik.com
+skadpostbacks.appsflyer.com
 smaato.com
 smaato.net
 smartlook.cloud
@@ -902,6 +919,7 @@ static.logrocket.com
 static.mouseflow.com
 static.openreplay.com
 static.webmaxy.com
+stats.appsflyer.com
 stats.bilibili.com
 stats.iqiyi.com
 stats.kaltura.com
@@ -924,6 +942,7 @@ sync.eyeota.net
 sync.navdmp.com
 sync2.navdmp.com
 t.acxiom-online.com
+t.appsflyer.com
 t.cfjump.com
 t.clarity.ms
 t.contentsquare.net
@@ -977,6 +996,8 @@ toroadvertisingmedia.com
 towerdata.com
 tqlkg.com
 track.aitype.com
+track.appsflyer.com
+track.branch.io
 track.cj.com
 track.clickbooth.com
 track.commissionfactory.com
@@ -996,6 +1017,7 @@ tracker.prf.hn
 tracking.admitad.com
 tracking.affilae.com
 tracking.api.cj.com
+tracking.appsflyer.com
 tracking.avantlink.com
 tracking.awin.com
 tracking.crazyegg.com

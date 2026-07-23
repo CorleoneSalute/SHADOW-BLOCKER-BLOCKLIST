@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1181
+# Total domains: 1203
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -124,11 +124,13 @@
 0.0.0.0 analytics-pbl.vivino.com
 0.0.0.0 analytics.abema.tv
 0.0.0.0 analytics.api.brightcove.com
+0.0.0.0 analytics.appsflyer.com
 0.0.0.0 analytics.beermenus.com
 0.0.0.0 analytics.bilibili.com
 0.0.0.0 analytics.binge.com.au
 0.0.0.0 analytics.blim.com
 0.0.0.0 analytics.bobble.ai
+0.0.0.0 analytics.branch.io
 0.0.0.0 analytics.britbox.com
 0.0.0.0 analytics.canalplus.com
 0.0.0.0 analytics.cbsaavideo.com
@@ -288,6 +290,8 @@
 0.0.0.0 assets-tracking.crazyegg.com
 0.0.0.0 atdata.com
 0.0.0.0 ats.eccmp.com
+0.0.0.0 attr.appsflyer.com
+0.0.0.0 attribution.branch.io
 0.0.0.0 audience.api.brightcove.com
 0.0.0.0 audienceiq.com
 0.0.0.0 avantmetrics.com
@@ -387,6 +391,7 @@
 0.0.0.0 cjads.com
 0.0.0.0 clarity.ms
 0.0.0.0 clearbit.com
+0.0.0.0 click.appsflyer.com
 0.0.0.0 click.mail.crakrevenue.com
 0.0.0.0 clickagy.com
 0.0.0.0 clickbank.com
@@ -417,6 +422,8 @@
 0.0.0.0 contentsquare.net
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversantmedia.eu
+0.0.0.0 conversion.appsflyer.com
+0.0.0.0 conversions.appsflyer.com
 0.0.0.0 conviva.ai
 0.0.0.0 conviva.com
 0.0.0.0 core.crazyegg.com
@@ -515,6 +522,7 @@
 0.0.0.0 eu.mouseflow.com
 0.0.0.0 eu.smartlook.cloud
 0.0.0.0 eu.uxcam.com
+0.0.0.0 event.appsflyer.com
 0.0.0.0 events-writer.eu.smartlook.cloud
 0.0.0.0 events.cuebiq.com
 0.0.0.0 events.hotjar.com
@@ -523,6 +531,7 @@
 0.0.0.0 events.mapbox.cn
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.mux.com
+0.0.0.0 evgen.appsflyer.com
 0.0.0.0 exactdata.com
 0.0.0.0 exads.crakrevenue.com
 0.0.0.0 exchange.adsquare.com
@@ -596,6 +605,9 @@
 0.0.0.0 impact-ad.net
 0.0.0.0 impactcdn.com
 0.0.0.0 impactradius-event.com
+0.0.0.0 impression.appsflyer.com
+0.0.0.0 impressions.appsflyer.com
+0.0.0.0 inapps.appsflyer.com
 0.0.0.0 inferred.litix.io
 0.0.0.0 infogroup.com
 0.0.0.0 infutor.com
@@ -631,6 +643,7 @@
 0.0.0.0 kqzyfj.com
 0.0.0.0 l.clarity.ms
 0.0.0.0 lakegroupmedia.com
+0.0.0.0 launches.appsflyer.com
 0.0.0.0 lb-api.visitor-analytics.io
 0.0.0.0 lduhtrp.net
 0.0.0.0 lgrckt-in.com
@@ -692,6 +705,7 @@
 0.0.0.0 metrics.abema.tv
 0.0.0.0 metrics.binge.com.au
 0.0.0.0 metrics.bitmovin.com
+0.0.0.0 metrics.branch.io
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.britbox.com
 0.0.0.0 metrics.cbs.com
@@ -779,6 +793,7 @@
 0.0.0.0 openreplay.com
 0.0.0.0 opi.navdmp.com
 0.0.0.0 oracleinfinity.io
+0.0.0.0 origin-analytics.branch.io
 0.0.0.0 outlogic.io
 0.0.0.0 p.clarity.ms
 0.0.0.0 p.plerdy.com
@@ -799,6 +814,7 @@
 0.0.0.0 piano.io
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 pixalate.com
+0.0.0.0 pixel.branch.io
 0.0.0.0 pixel.crwdcntrl.net
 0.0.0.0 pixel.datalogix.com
 0.0.0.0 pixel.parsely.com
@@ -910,6 +926,7 @@
 0.0.0.0 shareasale-analytics.com
 0.0.0.0 shopify.crazyegg.com
 0.0.0.0 signal.truoptik.com
+0.0.0.0 skadpostbacks.appsflyer.com
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
 0.0.0.0 smartlook.cloud
@@ -933,6 +950,7 @@
 0.0.0.0 static.mouseflow.com
 0.0.0.0 static.openreplay.com
 0.0.0.0 static.webmaxy.com
+0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.bilibili.com
 0.0.0.0 stats.iqiyi.com
 0.0.0.0 stats.kaltura.com
@@ -955,6 +973,7 @@
 0.0.0.0 sync.navdmp.com
 0.0.0.0 sync2.navdmp.com
 0.0.0.0 t.acxiom-online.com
+0.0.0.0 t.appsflyer.com
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.clarity.ms
 0.0.0.0 t.contentsquare.net
@@ -1008,6 +1027,8 @@
 0.0.0.0 towerdata.com
 0.0.0.0 tqlkg.com
 0.0.0.0 track.aitype.com
+0.0.0.0 track.appsflyer.com
+0.0.0.0 track.branch.io
 0.0.0.0 track.cj.com
 0.0.0.0 track.clickbooth.com
 0.0.0.0 track.commissionfactory.com
@@ -1027,6 +1048,7 @@
 0.0.0.0 tracking.admitad.com
 0.0.0.0 tracking.affilae.com
 0.0.0.0 tracking.api.cj.com
+0.0.0.0 tracking.appsflyer.com
 0.0.0.0 tracking.avantlink.com
 0.0.0.0 tracking.awin.com
 0.0.0.0 tracking.crazyegg.com
