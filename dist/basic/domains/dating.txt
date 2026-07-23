@@ -1,0 +1,66 @@
+# ============================================================
+# DATING BLOCKLIST - BASIC
+# Total domains: 59
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+ads2.ads.pof.com
+adultfriendfinder.com
+analytics.badoo.com
+analytics.bumble.com
+analytics.coffeemeetsbagel.com
+analytics.gotinder.com
+analytics.happn.com
+analytics.hinge.co
+analytics.hornet.com
+analytics.jackd.com
+analytics.match.com
+analytics.okcupid.com
+analytics.pof.com
+analytics.scruff.com
+analytics.zoosk.com
+api.adultfriendfinder.com
+beta.sexart.adultfriendfinder.com
+blog.adultfriendfinder.com
+crash.grindr.com
+d6y1.ads.pof.com
+d6y2.ads.pof.com
+d6y3.ads.pof.com
+d6y4.ads.pof.com
+d6y5.ads.pof.com
+etl.tindersparks.com
+find.passion.com
+fp.adultfriendfinder.com
+fp.passion.com
+graphics.adultfriendfinder.com
+grindr-analytics.com
+guest.adultfriendfinder.com
+io.cmbus.app
+kibanalogging.grindr.com
+livecam.adultfriendfinder.com
+livecam.passion.com
+matchanalytics.com
+mc.adultfriendfinder.com
+members-sexart.adultfriendfinder.com
+metrics.matchgroup.com
+metrix.adultfriendfinder.com
+movies.adultfriendfinder.com
+movies.passion.com
+mtch-analytics.com
+nano.adultfriendfinder.com
+passion.com
+rapidfirepublishpxy.ue1az.gotinder.com
+rctnano.adultfriendfinder.com
+secure.adultfriendfinder.com
+secure.passion.com
+sexart.adultfriendfinder.com
+sp.gotinder.com
+t.ads.pof.com
+telemetry.grindr.com
+telemetry.matchgroup.com
+www.kibanalogging.grindr.com
+www.members-sexart.adultfriendfinder.com
+www.metrix.adultfriendfinder.com
+www.sexart.adultfriendfinder.com
+xlate01.adultfriendfinder.com

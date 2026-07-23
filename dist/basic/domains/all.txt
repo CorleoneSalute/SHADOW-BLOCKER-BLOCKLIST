@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 2200
+# Total domains: 2259
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -121,6 +121,7 @@ ads.waze.com
 ads.wineenthusiast.com
 ads.world.waze.com
 ads.zee5.com
+ads2.ads.pof.com
 adsapi-proxy-il.waze.com
 adsapi-proxy-na.waze.com
 adsapi-proxy-row.waze.com
@@ -135,6 +136,7 @@ adserver.jwplayer.com
 adserver.mxplayer.in
 adsquare.com
 adstradata.com
+adultfriendfinder.com
 advanalytics.underarmour.com
 advertiser.petcube.com
 advertising.waze.com
@@ -199,6 +201,7 @@ analytics.authy.com
 analytics.avast.com
 analytics.avcdn.net
 analytics.babbel.com
+analytics.badoo.com
 analytics.bear.app
 analytics.beatoven.ai
 analytics.beelinguapp.com
@@ -219,6 +222,7 @@ analytics.brain.fm
 analytics.branch.io
 analytics.britbox.com
 analytics.bsplayer.com
+analytics.bumble.com
 analytics.busuu.com
 analytics.cambly.com
 analytics.canalplus.com
@@ -237,6 +241,7 @@ analytics.clozemaster.com
 analytics.cms.avira.com
 analytics.cod.ed.gov
 analytics.codeium.com
+analytics.coffeemeetsbagel.com
 analytics.connectwise.com
 analytics.conviva.com
 analytics.corsair.com
@@ -290,14 +295,18 @@ analytics.globoplay.globo.com
 analytics.glossika.com
 analytics.gnome.org
 analytics.gomlab.com
+analytics.gotinder.com
 analytics.goyoapp.com
 analytics.hallow.com
+analytics.happn.com
 analytics.hbomax.com
 analytics.hellochinese.cc
 analytics.hellotalk.com
 analytics.hide.me
+analytics.hinge.co
 analytics.hitnmix.com
 analytics.hooktheory.com
+analytics.hornet.com
 analytics.hotstar.com
 analytics.hp.com
 analytics.hulu.com
@@ -311,6 +320,7 @@ analytics.ipvanish.com
 analytics.iqiyi.com
 analytics.italki.com
 analytics.izotope.com
+analytics.jackd.com
 analytics.jitsi.net
 analytics.joplincloud.com
 analytics.jwplayer.com
@@ -342,6 +352,7 @@ analytics.mangolanguages.com
 analytics.manjaro.org
 analytics.mapbox.com
 analytics.maps.me
+analytics.match.com
 analytics.max.com
 analytics.means.tv
 analytics.memrise.com
@@ -374,6 +385,7 @@ analytics.nordvpn.com
 analytics.notify.elsevier.com
 analytics.ns1.ff.avast.com
 analytics.obsidian.md
+analytics.okcupid.com
 analytics.okta.com
 analytics.olacabs.com
 analytics.onepeloton.com
@@ -401,6 +413,7 @@ analytics.playit.pk
 analytics.plex.tv
 analytics.pluto.tv
 analytics.podcastle.ai
+analytics.pof.com
 analytics.prageru.com
 analytics.preply.com
 analytics.privateinternetaccess.com
@@ -434,6 +447,7 @@ analytics.runsignup.com
 analytics.runtastic.com
 analytics.samsungpay.com
 analytics.scielo.org
+analytics.scruff.com
 analytics.shazam.com
 analytics.simplenote.com
 analytics.skyshowtime.com
@@ -516,6 +530,7 @@ analytics.zeel.com
 analytics.zenoti.com
 analytics.zoho.com
 analytics.zoom.us
+analytics.zoosk.com
 analytics.zorinos.com
 analytics10.ticketmaster.com
 analyticsapi.aiva.ai
@@ -533,6 +548,7 @@ api-logging.netflix.com
 api-us.mouseflow.com
 api.acoustic.com
 api.adsquare.com
+api.adultfriendfinder.com
 api.airbrake.io
 api.analytics-iq.com
 api.appsignal.com
@@ -672,12 +688,14 @@ beacons.hulu.com
 beaconsinspace.com
 bemobtrcks.lalal.ai
 beta.analytics.openaire.eu
+beta.sexart.adultfriendfinder.com
 biscience.com
 bisnode.com
 bitmovin-analytics.net
 bkrtx.com
 blobs.pixel.coder.com
 blog.ads.paytm.com
+blog.adultfriendfinder.com
 bluekai.com
 bombora.com
 br.smartlook.cloud
@@ -843,6 +861,7 @@ crash.bamgrid.com
 crash.corsair.com
 crash.cyberlink.com
 crash.elementary.io
+crash.grindr.com
 crash.mapbox.com
 crash.shazam.com
 crash.soundhound.com
@@ -876,6 +895,11 @@ d2ojpxxtu63wzl.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d3anogn3pbtk4v.cloudfront.net
 d3ikprf0m31yc7.cloudfront.net
+d6y1.ads.pof.com
+d6y2.ads.pof.com
+d6y3.ads.pof.com
+d6y4.ads.pof.com
+d6y5.ads.pof.com
 d9.flashtalking.com
 daisy.ubuntu.com
 data-analysis.fedoraproject.org
@@ -964,6 +988,7 @@ errors.stripe.com
 errors.ubuntu.com
 espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
+etl.tindersparks.com
 etrack.np.norton.com
 etrackcanon.csa.canon.com
 etrackcanon.usa.canon.com
@@ -1020,6 +1045,7 @@ fedora-telemetry.org
 feedback.hotjar.com
 files.crazyegg.com
 finance.dnb.com
+find.passion.com
 firebase-settings.crashlytics.com
 firebasecrashlytics.googleapis.com
 firebaselogging-pa.googleapis.com
@@ -1028,6 +1054,8 @@ flexlinks.com
 flexlinkspro.com
 formcomplete.zoominfo.com
 fp-api.data.sandbox.game
+fp.adultfriendfinder.com
+fp.passion.com
 fr-metrics.seetickets.com
 frtyb.com
 ftjcfx.com
@@ -1068,12 +1096,15 @@ gosms.com
 gosms.goforandroid.com
 gosmspro.com
 grabads.com
+graphics.adultfriendfinder.com
 gravyanalytics.com
+grindr-analytics.com
 grtyv.com
 gtm-analytics.united.vividseats.com
 gtm-analytics.vividseats.com
 gtrack.go.moovit.com
 gtrack.stories.moovit.com
+guest.adultfriendfinder.com
 h.clarity.ms
 heartbeat.exceptionless.io
 heatmap.com
@@ -1135,6 +1166,7 @@ integration-api.crazyegg.com
 integrations.smartlook.com
 intelligence.conviva.com
 intelligence.towerdata.com
+io.cmbus.app
 ip-info.ff.avast.com
 ips.bugfender.com
 ips.bugsee.com
@@ -1157,6 +1189,7 @@ jungroup.com
 jwpltx.com
 k.clarity.ms
 k.pluto.tv
+kibanalogging.grindr.com
 kids-analytics.youtube.com
 kqzyfj.com
 ksn-stat.kaspersky.com
@@ -1178,6 +1211,8 @@ live-metrics.paramountplus.com
 live-metrics.peacocktv.com
 live-metrics.youtube.com
 live-streaming-metrics.amazon.com
+livecam.adultfriendfinder.com
+livecam.passion.com
 livesession.io
 livestats.kaltura.com
 localad.naver.com
@@ -1250,10 +1285,12 @@ marketing-tracker.babbel.com
 mars.vive.com
 match.adsquare.com
 match.eyeota.net
+matchanalytics.com
 matomo.garmin.com
 maxbounty.com
 mb01.com
 mb103.com
+mc.adultfriendfinder.com
 mcd.navdmp.com
 mcdn.navdmp.com
 mdm-sentry-win.cz.avg.com
@@ -1263,6 +1300,7 @@ medallia.com
 media.gosmspro.com
 meetings-telemetry.goog
 meez.crwdcntrl.net
+members-sexart.adultfriendfinder.com
 merkle.com
 merkleinc.com
 merkleresponse.com
@@ -1325,6 +1363,7 @@ metrics.landr.com
 metrics.logitech.com
 metrics.lyft.com
 metrics.manjaro.org
+metrics.matchgroup.com
 metrics.max.com
 metrics.media-amazon.com
 metrics.mindbodyonline.com
@@ -1386,6 +1425,7 @@ metrics.zee5.com
 metrics.zenoti.com
 metrics2.boomy.com
 metricstm.podcastle.ai
+metrix.adultfriendfinder.com
 mi.telemetry.lab.norton.com
 mit.metrics.unpaywall.org
 mixpanel.untappd.com
@@ -1399,7 +1439,10 @@ monetization-tracking.youtube.com
 monitoring.youbora.com
 moreniche.com
 mouseflow.com
+movies.adultfriendfinder.com
+movies.passion.com
 mrpdata.net
+mtch-analytics.com
 multiply.crwdcntrl.net
 multitrack.endel.io
 music-analytics.youtube.com
@@ -1410,6 +1453,7 @@ n.clarity.ms
 n.jwpltx.com
 na1.fullstory.com
 name2domain.clearbit.com
+nano.adultfriendfinder.com
 navdmp.com
 navegg.com
 navegg.com.br
@@ -1453,6 +1497,7 @@ packages-metrics.getsol.us
 pagesense.io
 parental-control-metrics.youtubekids.com
 parsely.com
+passion.com
 paypal.112.2o7.net
 paypal.demdex.net
 paypal.tt.omtrdc.net
@@ -1523,9 +1568,11 @@ r.lr-ingest.io
 r.lrkt-in.com
 rakutenadvertising.com
 rakutenmarketing.com
+rapidfirepublishpxy.ue1az.gotinder.com
 rapleaf.com
 raygun.com
 raygun.io
+rctnano.adultfriendfinder.com
 realnetworks.com
 realtime.luckyorange.com
 realtime.youbora.com
@@ -1592,6 +1639,8 @@ sdk.smartlook.com
 sdk.uxcam.com
 sdk.zipy.ai
 searchad.naver.com
+secure.adultfriendfinder.com
+secure.passion.com
 security-tracker.debian.org
 sedt.infutor.com
 segment-api.rarible.com
@@ -1627,6 +1676,7 @@ sessions.bugsnag.com
 sessions.bugsnag.smartbear.com
 sessionstack.com
 settings.crashlytics.com
+sexart.adultfriendfinder.com
 sftelemetry.sophos.com
 sg.smartlook.cloud
 sgtm.adyen.com
@@ -1660,6 +1710,7 @@ smetrics.teambeachbody.com
 smetrics.totalwine.com
 solomath.com
 sp.backtrace.io
+sp.gotinder.com
 sports-analytics.paramountplus.com
 sports-analytics.peacocktv.com
 sports-metrics.espn.com
@@ -1750,6 +1801,7 @@ sync.navdmp.com
 sync2.navdmp.com
 sysreset.stat.360safe.com
 t.acxiom-online.com
+t.ads.pof.com
 t.appsflyer.com
 t.cfjump.com
 t.clarity.ms
@@ -1819,6 +1871,7 @@ telemetry.expressvpn.com
 telemetry.fadr.com
 telemetry.fedoraproject.org
 telemetry.fubo.tv
+telemetry.grindr.com
 telemetry.hbomax.com
 telemetry.hide.me
 telemetry.hitnmix.com
@@ -1837,6 +1890,7 @@ telemetry.lyft.com
 telemetry.malwarebytes.com
 telemetry.manjaro.org
 telemetry.mapbox.com
+telemetry.matchgroup.com
 telemetry.max.com
 telemetry.mcafee.com
 telemetry.mixedinkey.com
@@ -2157,9 +2211,12 @@ www.emjcd.com
 www.flexlinks.com
 www.imonetizeit.com
 www.js-pixel.limeade.com
+www.kibanalogging.grindr.com
 www.linkconnector.com
 www.maxbounty.com
+www.members-sexart.adultfriendfinder.com
 www.metaffiliation.com
+www.metrix.adultfriendfinder.com
 www.moreniche.com
 www.mylead.global
 www.navdmp.com
@@ -2171,6 +2228,7 @@ www.ptengine.com
 www.ptengine.jp
 www.sessionrewind.com
 www.sessionstack.com
+www.sexart.adultfriendfinder.com
 www.shareasale-analytics.com
 www.stats-and-reports.booksy.com
 www.timeone.io
@@ -2185,6 +2243,7 @@ www07.clicktale.net
 www2.navegg.com
 x-mode.com
 x.clarity.ms
+xlate01.adultfriendfinder.com
 xmode.io
 xss.tw
 y.clarity.ms

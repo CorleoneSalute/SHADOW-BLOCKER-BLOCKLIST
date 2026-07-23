@@ -1,0 +1,66 @@
+# ============================================================
+# DATING BLOCKLIST - BASIC
+# Total domains: 59
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 ads2.ads.pof.com
+0.0.0.0 adultfriendfinder.com
+0.0.0.0 analytics.badoo.com
+0.0.0.0 analytics.bumble.com
+0.0.0.0 analytics.coffeemeetsbagel.com
+0.0.0.0 analytics.gotinder.com
+0.0.0.0 analytics.happn.com
+0.0.0.0 analytics.hinge.co
+0.0.0.0 analytics.hornet.com
+0.0.0.0 analytics.jackd.com
+0.0.0.0 analytics.match.com
+0.0.0.0 analytics.okcupid.com
+0.0.0.0 analytics.pof.com
+0.0.0.0 analytics.scruff.com
+0.0.0.0 analytics.zoosk.com
+0.0.0.0 api.adultfriendfinder.com
+0.0.0.0 beta.sexart.adultfriendfinder.com
+0.0.0.0 blog.adultfriendfinder.com
+0.0.0.0 crash.grindr.com
+0.0.0.0 d6y1.ads.pof.com
+0.0.0.0 d6y2.ads.pof.com
+0.0.0.0 d6y3.ads.pof.com
+0.0.0.0 d6y4.ads.pof.com
+0.0.0.0 d6y5.ads.pof.com
+0.0.0.0 etl.tindersparks.com
+0.0.0.0 find.passion.com
+0.0.0.0 fp.adultfriendfinder.com
+0.0.0.0 fp.passion.com
+0.0.0.0 graphics.adultfriendfinder.com
+0.0.0.0 grindr-analytics.com
+0.0.0.0 guest.adultfriendfinder.com
+0.0.0.0 io.cmbus.app
+0.0.0.0 kibanalogging.grindr.com
+0.0.0.0 livecam.adultfriendfinder.com
+0.0.0.0 livecam.passion.com
+0.0.0.0 matchanalytics.com
+0.0.0.0 mc.adultfriendfinder.com
+0.0.0.0 members-sexart.adultfriendfinder.com
+0.0.0.0 metrics.matchgroup.com
+0.0.0.0 metrix.adultfriendfinder.com
+0.0.0.0 movies.adultfriendfinder.com
+0.0.0.0 movies.passion.com
+0.0.0.0 mtch-analytics.com
+0.0.0.0 nano.adultfriendfinder.com
+0.0.0.0 passion.com
+0.0.0.0 rapidfirepublishpxy.ue1az.gotinder.com
+0.0.0.0 rctnano.adultfriendfinder.com
+0.0.0.0 secure.adultfriendfinder.com
+0.0.0.0 secure.passion.com
+0.0.0.0 sexart.adultfriendfinder.com
+0.0.0.0 sp.gotinder.com
+0.0.0.0 t.ads.pof.com
+0.0.0.0 telemetry.grindr.com
+0.0.0.0 telemetry.matchgroup.com
+0.0.0.0 www.kibanalogging.grindr.com
+0.0.0.0 www.members-sexart.adultfriendfinder.com
+0.0.0.0 www.metrix.adultfriendfinder.com
+0.0.0.0 www.sexart.adultfriendfinder.com
+0.0.0.0 xlate01.adultfriendfinder.com
