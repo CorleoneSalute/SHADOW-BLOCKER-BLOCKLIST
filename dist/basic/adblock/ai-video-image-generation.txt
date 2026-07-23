@@ -1,0 +1,17 @@
+# ============================================================
+# AI VIDEO IMAGE GENERATION BLOCKLIST - BASIC
+# Total domains: 10
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||analytics.api.services.leonardo.ai^
+||analytics.craiyon.com^
+||analytics.leonardo.ai^
+||analytics.nightcafe.studio^
+||analytics.playgroundai.com^
+||analytics.stability.ai^
+||analytics.starryai.com^
+||maccosmetics.hello.stability.ai^
+||research-metrics.corp.playgroundai.com^
+||telemetry.stability.ai^

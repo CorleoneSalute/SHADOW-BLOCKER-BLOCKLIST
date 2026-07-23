@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 2305
+# Total domains: 2313
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -196,6 +196,7 @@
 0.0.0.0 analytics.any.do
 0.0.0.0 analytics.anydesk.com
 0.0.0.0 analytics.api.brightcove.com
+0.0.0.0 analytics.api.services.leonardo.ai
 0.0.0.0 analytics.appsflyer.com
 0.0.0.0 analytics.astrill.com
 0.0.0.0 analytics.athan.com
@@ -250,6 +251,7 @@
 0.0.0.0 analytics.conviva.com
 0.0.0.0 analytics.corsair.com
 0.0.0.0 analytics.craft.do
+0.0.0.0 analytics.craiyon.com
 0.0.0.0 analytics.crave.ca
 0.0.0.0 analytics.crunchyroll.com
 0.0.0.0 analytics.cs.zohohost.com
@@ -336,6 +338,7 @@
 0.0.0.0 analytics.landr.com
 0.0.0.0 analytics.languagedrops.com
 0.0.0.0 analytics.lastpass.com
+0.0.0.0 analytics.leonardo.ai
 0.0.0.0 analytics.li.me
 0.0.0.0 analytics.lingoda.com
 0.0.0.0 analytics.lingodeer.com
@@ -381,6 +384,7 @@
 0.0.0.0 analytics.nftgo.io
 0.0.0.0 analytics.nftscan.com
 0.0.0.0 analytics.nicovideo.jp
+0.0.0.0 analytics.nightcafe.studio
 0.0.0.0 analytics.noggin.com
 0.0.0.0 analytics.nomachine.com
 0.0.0.0 analytics.noom.com
@@ -413,6 +417,7 @@
 0.0.0.0 analytics.piano.io
 0.0.0.0 analytics.pimsleur.com
 0.0.0.0 analytics.pixalate.com
+0.0.0.0 analytics.playgroundai.com
 0.0.0.0 analytics.playit.pk
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.pluto.tv
@@ -470,6 +475,7 @@
 0.0.0.0 analytics.squareup.com
 0.0.0.0 analytics.stability.ai
 0.0.0.0 analytics.stan.com.au
+0.0.0.0 analytics.starryai.com
 0.0.0.0 analytics.steelseries.com
 0.0.0.0 analytics.stickypassword.com
 0.0.0.0 analytics.strava.com
@@ -1306,6 +1312,7 @@
 0.0.0.0 m-taxify-eu.applog.bolt.eu
 0.0.0.0 m.clarity.ms
 0.0.0.0 m1.merkle.com
+0.0.0.0 maccosmetics.hello.stability.ai
 0.0.0.0 marketing-tracker.babbel.com
 0.0.0.0 mars.vive.com
 0.0.0.0 match.adsquare.com
@@ -1623,6 +1630,7 @@
 0.0.0.0 replay.sentry.io
 0.0.0.0 report-eu.appmetrica.yango.com
 0.0.0.0 report.appmetrica.yango.com
+0.0.0.0 research-metrics.corp.playgroundai.com
 0.0.0.0 resolve.fullcontact.com
 0.0.0.0 resources.lotame.com
 0.0.0.0 resourceviewtracking.faithlife.com

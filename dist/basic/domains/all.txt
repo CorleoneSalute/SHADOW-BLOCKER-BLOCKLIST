@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 2259
+# Total domains: 2267
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -192,6 +192,7 @@ analytics.amadeuscode.com
 analytics.any.do
 analytics.anydesk.com
 analytics.api.brightcove.com
+analytics.api.services.leonardo.ai
 analytics.appsflyer.com
 analytics.astrill.com
 analytics.athan.com
@@ -246,6 +247,7 @@ analytics.connectwise.com
 analytics.conviva.com
 analytics.corsair.com
 analytics.craft.do
+analytics.craiyon.com
 analytics.crave.ca
 analytics.crunchyroll.com
 analytics.cs.zohohost.com
@@ -332,6 +334,7 @@ analytics.lalal.ai
 analytics.landr.com
 analytics.languagedrops.com
 analytics.lastpass.com
+analytics.leonardo.ai
 analytics.li.me
 analytics.lingoda.com
 analytics.lingodeer.com
@@ -377,6 +380,7 @@ analytics.netflix.com
 analytics.nftgo.io
 analytics.nftscan.com
 analytics.nicovideo.jp
+analytics.nightcafe.studio
 analytics.noggin.com
 analytics.nomachine.com
 analytics.noom.com
@@ -409,6 +413,7 @@ analytics.petsmart.com
 analytics.piano.io
 analytics.pimsleur.com
 analytics.pixalate.com
+analytics.playgroundai.com
 analytics.playit.pk
 analytics.plex.tv
 analytics.pluto.tv
@@ -466,6 +471,7 @@ analytics.splashtop.com
 analytics.squareup.com
 analytics.stability.ai
 analytics.stan.com.au
+analytics.starryai.com
 analytics.steelseries.com
 analytics.stickypassword.com
 analytics.strava.com
@@ -1281,6 +1287,7 @@ m-prelive-bolt-eu.applog.bolt.eu
 m-taxify-eu.applog.bolt.eu
 m.clarity.ms
 m1.merkle.com
+maccosmetics.hello.stability.ai
 marketing-tracker.babbel.com
 mars.vive.com
 match.adsquare.com
@@ -1587,6 +1594,7 @@ relay.fullstory.com
 replay.sentry.io
 report-eu.appmetrica.yango.com
 report.appmetrica.yango.com
+research-metrics.corp.playgroundai.com
 resolve.fullcontact.com
 resources.lotame.com
 resourceviewtracking.faithlife.com
