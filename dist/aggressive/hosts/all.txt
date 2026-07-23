@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3476
+# Total domains: 3506
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -316,6 +316,7 @@
 0.0.0.0 analytics.buzzsprout.com
 0.0.0.0 analytics.cambly.com
 0.0.0.0 analytics.canalplus.com
+0.0.0.0 analytics.capitaloneshopping.com
 0.0.0.0 analytics.captivate.fm
 0.0.0.0 analytics.capture.app
 0.0.0.0 analytics.careem.com
@@ -343,6 +344,7 @@
 0.0.0.0 analytics.cookpad.com
 0.0.0.0 analytics.copymethat.com
 0.0.0.0 analytics.corsair.com
+0.0.0.0 analytics.coupert.com
 0.0.0.0 analytics.craft.do
 0.0.0.0 analytics.craiyon.com
 0.0.0.0 analytics.crave.ca
@@ -406,6 +408,7 @@
 0.0.0.0 analytics.gamban.com
 0.0.0.0 analytics.gamstop.co.uk
 0.0.0.0 analytics.geforcenow.com
+0.0.0.0 analytics.genie.retailmenot.com
 0.0.0.0 analytics.gikken.co
 0.0.0.0 analytics.gingersoftware.com
 0.0.0.0 analytics.giphy.com
@@ -454,6 +457,7 @@
 0.0.0.0 analytics.izotope.com
 0.0.0.0 analytics.jackd.com
 0.0.0.0 analytics.jitsi.net
+0.0.0.0 analytics.joinhoney.com
 0.0.0.0 analytics.joplincloud.com
 0.0.0.0 analytics.joro.tech
 0.0.0.0 analytics.jumio.com
@@ -607,6 +611,7 @@
 0.0.0.0 analytics.remotepc.com
 0.0.0.0 analytics.replika.ai
 0.0.0.0 analytics.respeecher.com
+0.0.0.0 analytics.retailmenot.com
 0.0.0.0 analytics.revolut.com
 0.0.0.0 analytics.ringcentral.ca
 0.0.0.0 analytics.ringcentral.co.uk
@@ -634,6 +639,7 @@
 0.0.0.0 analytics.shazam.com
 0.0.0.0 analytics.sidechef.com
 0.0.0.0 analytics.simplenote.com
+0.0.0.0 analytics.simplycodes.com
 0.0.0.0 analytics.skyshowtime.com
 0.0.0.0 analytics.snapcraft.io
 0.0.0.0 analytics.soothe.com
@@ -1051,6 +1057,7 @@
 0.0.0.0 c.st.ltmsphrcl.net
 0.0.0.0 c1.rfihub.net
 0.0.0.0 ca-central-1-1.telemetry.insights.video.a2z.com
+0.0.0.0 caa-analytics.topcashback.com
 0.0.0.0 callback.adikteev.com
 0.0.0.0 callback.remerge.io
 0.0.0.0 callstats.io
@@ -1332,6 +1339,7 @@
 0.0.0.0 d845108.t43.tonichost.com
 0.0.0.0 d9.flashtalking.com
 0.0.0.0 daisy.ubuntu.com
+0.0.0.0 dash-analytics.joinhoney.com
 0.0.0.0 data-analysis.fedoraproject.org
 0.0.0.0 data-axle.com
 0.0.0.0 data-collection.brightcove.com
@@ -1502,6 +1510,7 @@
 0.0.0.0 eu.smartlook.cloud
 0.0.0.0 eu.uxcam.com
 0.0.0.0 euc-onenote-telemetry.officeapps.live.com
+0.0.0.0 eval.bizrate.com
 0.0.0.0 event-reg.yamaha.com
 0.0.0.0 event.appsflyer.com
 0.0.0.0 event.mackeeper.com
@@ -1747,6 +1756,7 @@
 0.0.0.0 insights.jumpshot.com
 0.0.0.0 insights.nordvpn.com
 0.0.0.0 insights.video.a2z.com
+0.0.0.0 insightsreports.bizrate.com
 0.0.0.0 inspectlet.com
 0.0.0.0 inspectlet.net
 0.0.0.0 instabug.com
@@ -2037,6 +2047,7 @@
 0.0.0.0 metrics.image-line.com
 0.0.0.0 metrics.infra.yoti.com
 0.0.0.0 metrics.ipvanish.com
+0.0.0.0 metrics.joinhoney.com
 0.0.0.0 metrics.jwplayer.com
 0.0.0.0 metrics.kaizen.nvidia.com
 0.0.0.0 metrics.kindara.com
@@ -2449,6 +2460,7 @@
 0.0.0.0 rollbar.com
 0.0.0.0 rosecitysoftware.com
 0.0.0.0 rpi-imager-stats.raspberrypi.com
+0.0.0.0 rr.bizrate.com
 0.0.0.0 rs.fullstory.com
 0.0.0.0 rs.livesession.io
 0.0.0.0 rsg.sc.omtrdc.net
@@ -2591,6 +2603,7 @@
 0.0.0.0 shareasale-analytics.com
 0.0.0.0 shop.tags.elsevier.com
 0.0.0.0 shopify.crazyegg.com
+0.0.0.0 shoppinganalytics-pa.googleapis.com
 0.0.0.0 signal.truoptik.com
 0.0.0.0 signalframe.com
 0.0.0.0 signals.bizo.com
@@ -2616,6 +2629,7 @@
 0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 smetrics.axs.com
 0.0.0.0 smetrics.bitdefender.com
+0.0.0.0 smetrics.couponcabin.com
 0.0.0.0 smetrics.elsevier.com
 0.0.0.0 smetrics.engineeringvillage.com
 0.0.0.0 smetrics.eu.playstation.com
@@ -2624,6 +2638,7 @@
 0.0.0.0 smetrics.nintendo.com
 0.0.0.0 smetrics.petsmart.com
 0.0.0.0 smetrics.reaxys.com
+0.0.0.0 smetrics.retailmenot.com
 0.0.0.0 smetrics.sciencedirect.com
 0.0.0.0 smetrics.teambeachbody.com
 0.0.0.0 smetrics.totalwine.com
@@ -2852,6 +2867,7 @@
 0.0.0.0 telemetry.blacknut.com
 0.0.0.0 telemetry.boosteroid.com
 0.0.0.0 telemetry.bsplayer.com
+0.0.0.0 telemetry.capitaloneshopping.com
 0.0.0.0 telemetry.ccleaner.com
 0.0.0.0 telemetry.character.ai
 0.0.0.0 telemetry.clearlinux.org
@@ -2905,6 +2921,7 @@
 0.0.0.0 telemetry.iolo.com
 0.0.0.0 telemetry.ipvanish.com
 0.0.0.0 telemetry.izotope.com
+0.0.0.0 telemetry.joinhoney.com
 0.0.0.0 telemetry.kaspersky.com
 0.0.0.0 telemetry.landr.com
 0.0.0.0 telemetry.linuxmint.com
@@ -3018,6 +3035,7 @@
 0.0.0.0 track.akamai.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.branch.io
+0.0.0.0 track.capitaloneshopping.com
 0.0.0.0 track.cg.wine.com
 0.0.0.0 track.cj.com
 0.0.0.0 track.clickbooth.com
@@ -3073,6 +3091,7 @@
 0.0.0.0 track.stories.moovit.com
 0.0.0.0 track.stubhub.com
 0.0.0.0 track.tiara.daum.net
+0.0.0.0 track.topcashback.com
 0.0.0.0 track.underarmour.com
 0.0.0.0 track.webgains.com
 0.0.0.0 track.winegifts.wine.com
@@ -3105,15 +3124,19 @@
 0.0.0.0 tracking.avg.com
 0.0.0.0 tracking.awin.com
 0.0.0.0 tracking.bark.co
+0.0.0.0 tracking.befrugal.com
 0.0.0.0 tracking.bolt.eu
 0.0.0.0 tracking.booksy.com
 0.0.0.0 tracking.bsplayer.com
 0.0.0.0 tracking.buzzsprout.com
 0.0.0.0 tracking.captivate.fm
 0.0.0.0 tracking.ccleaner.com
+0.0.0.0 tracking.cently.com
 0.0.0.0 tracking.chewy.com
 0.0.0.0 tracking.cognitohq.com
 0.0.0.0 tracking.cohostpodcasting.com
+0.0.0.0 tracking.connexity.com
+0.0.0.0 tracking.couponcabin.com
 0.0.0.0 tracking.crazyegg.com
 0.0.0.0 tracking.csc.flm.fujitsu.com
 0.0.0.0 tracking.cyberghostvpn.com
@@ -3126,13 +3149,16 @@
 0.0.0.0 tracking.feedpress.it
 0.0.0.0 tracking.fresha.com
 0.0.0.0 tracking.geforcenow.com
+0.0.0.0 tracking.getinvisiblehand.com
 0.0.0.0 tracking.giphy.com
 0.0.0.0 tracking.hbomax.com
+0.0.0.0 tracking.honey.io
 0.0.0.0 tracking.hulu.com
 0.0.0.0 tracking.image-line.com
 0.0.0.0 tracking.impact.com
 0.0.0.0 tracking.info.paytm.com
 0.0.0.0 tracking.jwplayer.com
+0.0.0.0 tracking.kelkoo.com
 0.0.0.0 tracking.lastpass.com
 0.0.0.0 tracking.launchdarkly.com
 0.0.0.0 tracking.loopcloud.com
@@ -3163,6 +3189,7 @@
 0.0.0.0 tracking.realnetworks.com
 0.0.0.0 tracking.redcircle.com
 0.0.0.0 tracking.reservebar.com
+0.0.0.0 tracking.retailmenot.com
 0.0.0.0 tracking.ridewithvia.com
 0.0.0.0 tracking.risk.lexisnexis.com
 0.0.0.0 tracking.rosettastone.com
@@ -3170,6 +3197,7 @@
 0.0.0.0 tracking.screenpal.com
 0.0.0.0 tracking.seatgeek.com
 0.0.0.0 tracking.shareasale.com
+0.0.0.0 tracking.simplycodes.com
 0.0.0.0 tracking.stubhub.com
 0.0.0.0 tracking.styleseat.com
 0.0.0.0 tracking.surfshark.com
@@ -3178,6 +3206,7 @@
 0.0.0.0 tracking.tenor.com
 0.0.0.0 tracking.theknot.com
 0.0.0.0 tracking.thirstie.com
+0.0.0.0 tracking.topcashback.com
 0.0.0.0 tracking.toroadvertising.com
 0.0.0.0 tracking.tradedoubler.com
 0.0.0.0 tracking.tubitv.com
@@ -3428,6 +3457,7 @@
 0.0.0.0 www.shareasale-analytics.com
 0.0.0.0 www.simplediskoptimizer.com
 0.0.0.0 www.simplepcoptimizer.com
+0.0.0.0 www.smetrics.couponcabin.com
 0.0.0.0 www.stats-and-reports.booksy.com
 0.0.0.0 www.timeone.io
 0.0.0.0 www.toroadvertising.com

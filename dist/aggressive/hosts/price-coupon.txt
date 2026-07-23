@@ -1,0 +1,37 @@
+# ============================================================
+# PRICE COUPON BLOCKLIST - AGGRESSIVE
+# Total domains: 30
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 analytics.capitaloneshopping.com
+0.0.0.0 analytics.coupert.com
+0.0.0.0 analytics.genie.retailmenot.com
+0.0.0.0 analytics.joinhoney.com
+0.0.0.0 analytics.retailmenot.com
+0.0.0.0 analytics.simplycodes.com
+0.0.0.0 caa-analytics.topcashback.com
+0.0.0.0 dash-analytics.joinhoney.com
+0.0.0.0 eval.bizrate.com
+0.0.0.0 insightsreports.bizrate.com
+0.0.0.0 metrics.joinhoney.com
+0.0.0.0 rr.bizrate.com
+0.0.0.0 shoppinganalytics-pa.googleapis.com
+0.0.0.0 smetrics.couponcabin.com
+0.0.0.0 smetrics.retailmenot.com
+0.0.0.0 telemetry.capitaloneshopping.com
+0.0.0.0 telemetry.joinhoney.com
+0.0.0.0 track.capitaloneshopping.com
+0.0.0.0 track.topcashback.com
+0.0.0.0 tracking.befrugal.com
+0.0.0.0 tracking.cently.com
+0.0.0.0 tracking.connexity.com
+0.0.0.0 tracking.couponcabin.com
+0.0.0.0 tracking.getinvisiblehand.com
+0.0.0.0 tracking.honey.io
+0.0.0.0 tracking.kelkoo.com
+0.0.0.0 tracking.retailmenot.com
+0.0.0.0 tracking.simplycodes.com
+0.0.0.0 tracking.topcashback.com
+0.0.0.0 www.smetrics.couponcabin.com

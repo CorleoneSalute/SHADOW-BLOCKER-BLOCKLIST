@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3476
+# Total domains: 3506
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -316,6 +316,7 @@
 ||analytics.buzzsprout.com^
 ||analytics.cambly.com^
 ||analytics.canalplus.com^
+||analytics.capitaloneshopping.com^
 ||analytics.captivate.fm^
 ||analytics.capture.app^
 ||analytics.careem.com^
@@ -343,6 +344,7 @@
 ||analytics.cookpad.com^
 ||analytics.copymethat.com^
 ||analytics.corsair.com^
+||analytics.coupert.com^
 ||analytics.craft.do^
 ||analytics.craiyon.com^
 ||analytics.crave.ca^
@@ -406,6 +408,7 @@
 ||analytics.gamban.com^
 ||analytics.gamstop.co.uk^
 ||analytics.geforcenow.com^
+||analytics.genie.retailmenot.com^
 ||analytics.gikken.co^
 ||analytics.gingersoftware.com^
 ||analytics.giphy.com^
@@ -454,6 +457,7 @@
 ||analytics.izotope.com^
 ||analytics.jackd.com^
 ||analytics.jitsi.net^
+||analytics.joinhoney.com^
 ||analytics.joplincloud.com^
 ||analytics.joro.tech^
 ||analytics.jumio.com^
@@ -607,6 +611,7 @@
 ||analytics.remotepc.com^
 ||analytics.replika.ai^
 ||analytics.respeecher.com^
+||analytics.retailmenot.com^
 ||analytics.revolut.com^
 ||analytics.ringcentral.ca^
 ||analytics.ringcentral.co.uk^
@@ -634,6 +639,7 @@
 ||analytics.shazam.com^
 ||analytics.sidechef.com^
 ||analytics.simplenote.com^
+||analytics.simplycodes.com^
 ||analytics.skyshowtime.com^
 ||analytics.snapcraft.io^
 ||analytics.soothe.com^
@@ -1051,6 +1057,7 @@
 ||c.st.ltmsphrcl.net^
 ||c1.rfihub.net^
 ||ca-central-1-1.telemetry.insights.video.a2z.com^
+||caa-analytics.topcashback.com^
 ||callback.adikteev.com^
 ||callback.remerge.io^
 ||callstats.io^
@@ -1332,6 +1339,7 @@
 ||d845108.t43.tonichost.com^
 ||d9.flashtalking.com^
 ||daisy.ubuntu.com^
+||dash-analytics.joinhoney.com^
 ||data-analysis.fedoraproject.org^
 ||data-axle.com^
 ||data-collection.brightcove.com^
@@ -1502,6 +1510,7 @@
 ||eu.smartlook.cloud^
 ||eu.uxcam.com^
 ||euc-onenote-telemetry.officeapps.live.com^
+||eval.bizrate.com^
 ||event-reg.yamaha.com^
 ||event.appsflyer.com^
 ||event.mackeeper.com^
@@ -1747,6 +1756,7 @@
 ||insights.jumpshot.com^
 ||insights.nordvpn.com^
 ||insights.video.a2z.com^
+||insightsreports.bizrate.com^
 ||inspectlet.com^
 ||inspectlet.net^
 ||instabug.com^
@@ -2037,6 +2047,7 @@
 ||metrics.image-line.com^
 ||metrics.infra.yoti.com^
 ||metrics.ipvanish.com^
+||metrics.joinhoney.com^
 ||metrics.jwplayer.com^
 ||metrics.kaizen.nvidia.com^
 ||metrics.kindara.com^
@@ -2449,6 +2460,7 @@
 ||rollbar.com^
 ||rosecitysoftware.com^
 ||rpi-imager-stats.raspberrypi.com^
+||rr.bizrate.com^
 ||rs.fullstory.com^
 ||rs.livesession.io^
 ||rsg.sc.omtrdc.net^
@@ -2591,6 +2603,7 @@
 ||shareasale-analytics.com^
 ||shop.tags.elsevier.com^
 ||shopify.crazyegg.com^
+||shoppinganalytics-pa.googleapis.com^
 ||signal.truoptik.com^
 ||signalframe.com^
 ||signals.bizo.com^
@@ -2616,6 +2629,7 @@
 ||smetrics.aem.playstation.com^
 ||smetrics.axs.com^
 ||smetrics.bitdefender.com^
+||smetrics.couponcabin.com^
 ||smetrics.elsevier.com^
 ||smetrics.engineeringvillage.com^
 ||smetrics.eu.playstation.com^
@@ -2624,6 +2638,7 @@
 ||smetrics.nintendo.com^
 ||smetrics.petsmart.com^
 ||smetrics.reaxys.com^
+||smetrics.retailmenot.com^
 ||smetrics.sciencedirect.com^
 ||smetrics.teambeachbody.com^
 ||smetrics.totalwine.com^
@@ -2852,6 +2867,7 @@
 ||telemetry.blacknut.com^
 ||telemetry.boosteroid.com^
 ||telemetry.bsplayer.com^
+||telemetry.capitaloneshopping.com^
 ||telemetry.ccleaner.com^
 ||telemetry.character.ai^
 ||telemetry.clearlinux.org^
@@ -2905,6 +2921,7 @@
 ||telemetry.iolo.com^
 ||telemetry.ipvanish.com^
 ||telemetry.izotope.com^
+||telemetry.joinhoney.com^
 ||telemetry.kaspersky.com^
 ||telemetry.landr.com^
 ||telemetry.linuxmint.com^
@@ -3018,6 +3035,7 @@
 ||track.akamai.com^
 ||track.appsflyer.com^
 ||track.branch.io^
+||track.capitaloneshopping.com^
 ||track.cg.wine.com^
 ||track.cj.com^
 ||track.clickbooth.com^
@@ -3073,6 +3091,7 @@
 ||track.stories.moovit.com^
 ||track.stubhub.com^
 ||track.tiara.daum.net^
+||track.topcashback.com^
 ||track.underarmour.com^
 ||track.webgains.com^
 ||track.winegifts.wine.com^
@@ -3105,15 +3124,19 @@
 ||tracking.avg.com^
 ||tracking.awin.com^
 ||tracking.bark.co^
+||tracking.befrugal.com^
 ||tracking.bolt.eu^
 ||tracking.booksy.com^
 ||tracking.bsplayer.com^
 ||tracking.buzzsprout.com^
 ||tracking.captivate.fm^
 ||tracking.ccleaner.com^
+||tracking.cently.com^
 ||tracking.chewy.com^
 ||tracking.cognitohq.com^
 ||tracking.cohostpodcasting.com^
+||tracking.connexity.com^
+||tracking.couponcabin.com^
 ||tracking.crazyegg.com^
 ||tracking.csc.flm.fujitsu.com^
 ||tracking.cyberghostvpn.com^
@@ -3126,13 +3149,16 @@
 ||tracking.feedpress.it^
 ||tracking.fresha.com^
 ||tracking.geforcenow.com^
+||tracking.getinvisiblehand.com^
 ||tracking.giphy.com^
 ||tracking.hbomax.com^
+||tracking.honey.io^
 ||tracking.hulu.com^
 ||tracking.image-line.com^
 ||tracking.impact.com^
 ||tracking.info.paytm.com^
 ||tracking.jwplayer.com^
+||tracking.kelkoo.com^
 ||tracking.lastpass.com^
 ||tracking.launchdarkly.com^
 ||tracking.loopcloud.com^
@@ -3163,6 +3189,7 @@
 ||tracking.realnetworks.com^
 ||tracking.redcircle.com^
 ||tracking.reservebar.com^
+||tracking.retailmenot.com^
 ||tracking.ridewithvia.com^
 ||tracking.risk.lexisnexis.com^
 ||tracking.rosettastone.com^
@@ -3170,6 +3197,7 @@
 ||tracking.screenpal.com^
 ||tracking.seatgeek.com^
 ||tracking.shareasale.com^
+||tracking.simplycodes.com^
 ||tracking.stubhub.com^
 ||tracking.styleseat.com^
 ||tracking.surfshark.com^
@@ -3178,6 +3206,7 @@
 ||tracking.tenor.com^
 ||tracking.theknot.com^
 ||tracking.thirstie.com^
+||tracking.topcashback.com^
 ||tracking.toroadvertising.com^
 ||tracking.tradedoubler.com^
 ||tracking.tubitv.com^
@@ -3428,6 +3457,7 @@
 ||www.shareasale-analytics.com^
 ||www.simplediskoptimizer.com^
 ||www.simplepcoptimizer.com^
+||www.smetrics.couponcabin.com^
 ||www.stats-and-reports.booksy.com^
 ||www.timeone.io^
 ||www.toroadvertising.com^
