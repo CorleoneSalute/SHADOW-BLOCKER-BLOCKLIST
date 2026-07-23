@@ -1,0 +1,40 @@
+# VR Ecosystem Blocklist
+
+**Son Güncelleme:** 16 Temmuz 2026
+**Toplam Domain Sayısı:** 19
+
+```
+# VRCHAT
+analytics.vrchat.cloud
+
+# REC ROOM
+datacollection.rec.net
+gamelogs.rec.net
+bugreporting.rec.net
+
+# VARJO
+telemetry.varjo.com
+track-apollo.teleport.varjo.com
+
+# SPATIAL
+analytics.spatial.io
+
+# RESONITE
+metrics.resonite.com
+
+# LYNX R1
+analytics.lynx-r.com
+
+# THE SANDBOX
+fbanalytics.sandbox.game
+fp-api.data.sandbox.game
+
+# HTC VIVE
+mars.vive.com
+bytes-event.vive.com
+www.bytes-event.vive.com
+connect-event.vive.com
+www.connect-event.vive.com
+event.vive.com
+metrics-preview.vive.com
+metrics.vive.com
