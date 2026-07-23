@@ -1,0 +1,49 @@
+# ============================================================
+# NOTE TAKING BLOCKLIST
+# Total domains: 26
+# Last update: (2026-07-16)
+# ============================================================
+
+# --- EVERNOTE --- (3 domain)
+analytics.evernote.com
+metrics.evernote.com
+evernotemetrics.com
+
+# --- MICROSOFT ONENOTE --- (1 domain)
+euc-onenote-telemetry.officeapps.live.com
+
+# --- BEAR --- (1 domain)
+analytics.bear.app
+
+# --- ROAM RESEARCH --- (1 domain)
+analytics.roamresearch.com
+
+# --- SIMPLENOTE --- (1 domain)
+analytics.simplenote.com
+
+# --- ZOHO NOTEBOOK --- (16 domain)
+analytics.zoho.com
+zohoinsights.com
+pagesense.io
+cdn-ae.pagesense.io
+cdn-au.pagesense.io
+cdn-ca.pagesense.io
+cdn-eu.pagesense.io
+cdn-in.pagesense.io
+cdn-inec.pagesense.io
+cdn-jp.pagesense.io
+cdn-lz.pagesense.io
+cdn-sa.pagesense.io
+cdn-sg.pagesense.io
+cdn.pagesense.io
+zohotagmanager.cdn.pagesense.io
+analytics.cs.zohohost.com
+
+# --- CRAFT --- (1 domain)
+analytics.craft.do
+
+# --- OBSIDIAN --- (1 domain)
+analytics.obsidian.md
+
+# --- JOPLIN CLOUD --- (1 domain)
+analytics.joplincloud.com
