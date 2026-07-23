@@ -1,0 +1,200 @@
+# Linux Blocklist
+
+**Toplam benzersiz domain sayısı:** 71
+**Son güncelleme:** 2026-07-18
+
+## Analytics & Telemetri — Ubuntu / Canonical (7 domain)
+
+```
+analytics.ubuntu.com
+daisy.ubuntu.com
+metrics.ubuntu.com
+popcon.ubuntu.com
+telemetry-service.ubuntu.com
+telemetry.ubuntu.com
+ubuntu-report.canonical.com
+```
+
+## Snap Telemetri (2 domain)
+
+```
+analytics.snapcraft.io
+metrics.snapcraft.io
+```
+
+## Hata Raporlama — Ubuntu / Whoopsie (2 domain)
+
+```
+errors.ubuntu.com
+whoopsie.ubuntu.com
+```
+
+## Analytics & Telemetri — Fedora / Red Hat (3 domain)
+
+```
+data-analysis.fedoraproject.org
+fedora-telemetry.org
+telemetry.fedoraproject.org
+```
+
+## ABRT Hata Raporlama — Fedora / GNOME / CentOS (3 domain)
+
+```
+abrt.fedoraproject.org
+faf.fedoraproject.org
+retrace.fedoraproject.org
+```
+
+## Analytics & Telemetri — openSUSE (5 domain)
+
+```
+analytics.opensuse.org
+metrics.opensuse.org
+metrics.trento.suse.com
+telemetry.opensuse.org
+tracker.opensuse.org
+```
+
+## Analytics & Telemetri — Manjaro (4 domain)
+
+```
+analytics.manjaro.org
+metrics-api.manjaro.org
+metrics.manjaro.org
+telemetry.manjaro.org
+```
+
+## Hata Raporlama — elementary OS (4 domain)
+
+```
+crash.elementary.io
+errors.elementary.io
+stats.elementary.io
+telemetry.elementary.io
+```
+
+## Analytics, Konum & Telemetri — GNOME (4 domain)
+
+```
+analytics.gnome.org
+metrics.gnome.org
+tracker.api.gnome.org
+tracker.gnome.org
+```
+
+## İstatistik — Flathub / AppImage / PackageKit (1 domain)
+
+```
+stats.flathub.org
+```
+
+## Analytics — Docker (1 domain)
+
+```
+telemetry.docker.com
+```
+
+## İstatistik & Telemetri — Raspberry Pi (4 domain)
+
+```
+analytics.raspberrypi.org
+google-ua-analytics.raspberrypi.org
+rpi-imager-stats.raspberrypi.com
+stats.raspberrypi.org
+```
+
+## Popcon / pkgstats — Debian / Arch (6 domain)
+
+```
+api.pkgstats.archlinux.de
+bttracker.debian.org
+pkgstats.archlinux.de
+popcon.debian.org
+security-tracker.debian.org
+tracker.debian.org
+```
+
+## Telemetri — Linux Mint / Zorin OS / Pop!_OS (6 domain)
+
+```
+analytics.zorinos.com
+metrics.system76.com
+sentry.system76.com
+telemetry.linuxmint.com
+telemetry.system76.com
+telemetry.zorinos.com
+```
+
+## Analytics & Telemetri — Deepin (2 domain)
+
+```
+analytics.deepin.com
+telemetry.deepin.com
+```
+
+## Telemetri — Clear Linux / Intel (3 domain)
+
+```
+clr.telemetry.intel.com
+telemetrics-collector.01.org
+telemetry.clearlinux.org
+```
+
+## GNU GUIX (2 domain)
+
+```
+logs.gnu.org
+logs.guix.gnu.org
+```
+
+## GENTOO (1 domain)
+
+```
+ads.gentoo.org
+```
+
+## KALI LINUX (1 domain)
+
+```
+tracker.kali.org
+```
+
+## PARROT OS (2 domain)
+
+```
+analytics.parrot.sh
+us.tracker.parrot.sh
+```
+
+## ARCH LINUX (2 domain)
+
+```
+logging.archlinux.org
+pkgstats.archlinux.de
+```
+
+## SOLUS (3 domain)
+
+```
+build-metrics.getsol.us
+discuss-metrics.getsol.us
+packages-metrics.getsol.us
+```
+
+## ALT LINUX (1 domain)
+
+```
+metrics.altlinux.org
+```
+
+## CachyOS (2 domain)
+
+```
+iso-stats.cachyos.org
+logs.cachyos.org
+```
+
+## Rocky Linux (1 domain)
+
+```
+analytics.rockylinux.org
