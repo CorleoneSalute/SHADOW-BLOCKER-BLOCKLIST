@@ -1,0 +1,26 @@
+# Calendar & Task Management Blocklist
+
+# Last update: 2026-7-16
+# Total domains:9
+
+```
+# Morgen
+tracking.morgen.so
+analytics.cf.morgen.so
+
+# Cozi
+ad.apsalar.com
+ads.cozi.com
+
+# Motion
+amplitude.usemotion.com
+segmentcdn.usemotion.com !
+
+# Cal.com
+cloudtrack.cal.com
+
+# Any.do
+analytics.any.do
+
+# Akiflow
+bugtracker.akiflow.com
