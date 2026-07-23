@@ -1,0 +1,76 @@
+# AI chatbots & LLM Blocklist
+
+**Son Güncelleme:** 16 Temmuz 2026
+**Toplam Domain Sayısı:** 37 (Temel: 36 + Aggressive Ek: 1)
+
+```
+# ═══════════════════════════════════════
+# TEMEL LİSTE
+# ═══════════════════════════════════════
+
+# Companion AI — Tracking Subdomains
+analytics.replika.ai
+metrics.replika.ai
+analytics.character.ai
+telemetry.character.ai
+events.character.ai
+sentry.xinchenai.com
+
+# Code Assistants — GitHub Copilot
+copilot-telemetry.githubusercontent.com
+copilot-telemetry
+service.githubusercontent.com
+
+# Code Assistants — Coder (VS Code fork)
+v1.telemetry.coder.com
+blobs.pixel.coder.com
+metrics-eric.oss.demo.coder.com
+sa.coder.com
+telemetry.coder.com
+track.coder.com
+
+# Code Assistants — Amazon Q Developer
+client-telemetry.us-east-1.amazonaws.com             
+telemetry.aws-language-servers.us-east-1.amazonaws.com
+prod.log.shortbread.aws.dev
+
+# Code Assistants — Codeium / Windsurf
+telemetry.codeium.com
+analytics.codeium.com
+sentry.codeium.com
+arc-metrics.corp.codeium.com
+
+# Code Assistants — Tabnine
+telemetry.tabnine.com
+logs-gateway.tabnine.com
+
+# Microsoft Copilot & Bing
+cdp.copilot.microsoft.com
+
+# ChatGPT / OpenAI
+o.openai.com
+telemetry.openai.com
+analytics.openai.com
+metrics.openai.com
+o207216.ingest.sentry.io
+o33249.ingest.sentry.io
+
+# Claude / Anthropic
+metrics.anthropic.com
+o1158394.ingest.us.sentry.io
+
+# Gemini / Google AI
+gemini-analytics.google.com
+bard-telemetry.google.com
+
+# Romantic AI — 3. Parti Tracker
+track.romanticai.com
+zemomedia.com
+
+# ═══════════════════════════════════════
+# AGGRESSIVE LIST
+# ═══════════════════════════════════════
+
+# Claude / Anthropic
+statsig.anthropic.com ! # Anthropic feature flag & A/B experimentation (Statsig)
+# ⚠️ BREAKS: Engellenirse UI davranışı bozulabilir (özellik görünmeme, hata)
