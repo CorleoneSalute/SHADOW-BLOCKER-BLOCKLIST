@@ -1,6 +1,6 @@
 # ============================================================
-# FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 307
+# SESSION REPLAY HEATMAP BLOCKLIST - BASIC
+# Total domains: 284
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9,15 +9,6 @@
 ||a.plerdy.com^
 ||acoustic.co^
 ||acoustic.com^
-||ads.untappd.com^
-||analytics-pbl.vivino.com^
-||analytics.beermenus.com^
-||analytics.cellarpass.com^
-||analytics.delectable.com^
-||analytics.digitalpour.com^
-||analytics.taphunter.com^
-||analytics.untappd.com^
-||analytics.vivino.com^
 ||api-eu.mouseflow.com^
 ||api-us.mouseflow.com^
 ||api.acoustic.com^
@@ -185,7 +176,6 @@
 ||luckyorange.net^
 ||m.clarity.ms^
 ||medallia.com^
-||mixpanel.untappd.com^
 ||mobile-sdk.smartlook.com^
 ||mouseflow.com^
 ||n.clarity.ms^
@@ -225,11 +215,6 @@
 ||sdk.smartlook.com^
 ||sdk.uxcam.com^
 ||sdk.zipy.ai^
-||segment.beermenus.com^
-||segment.delectable.com^
-||segment.taphunter.com^
-||segment.untappd.com^
-||segment.vivino.com^
 ||sessioncam.com^
 ||sessioncam.net^
 ||sessionrewind.com^
@@ -258,19 +243,11 @@
 ||tealeaf.com^
 ||tealeaf.ibmcloud.com^
 ||tealeafcloud.com^
-||telemetry.untappd.com^
-||telemetry.vivino.com^
 ||tools.luckyorange.com^
 ||tools.mouseflow.com^
 ||track.crazyegg.com^
 ||track.heatmap.com^
 ||tracking.crazyegg.com^
-||tracking.newsletter.vivino.com^
-||tracking.vivino.com^
-||trk.vivino.com^
-||trk1.vivino.com^
-||trk2.vivino.com^
-||trk3.vivino.com^
 ||twipla.com^
 ||u.clarity.ms^
 ||upload.uxcam.com^
