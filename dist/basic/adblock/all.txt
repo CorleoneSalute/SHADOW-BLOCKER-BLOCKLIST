@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 2850
+# Total domains: 2862
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -83,6 +83,7 @@
 ||ads-api.duolingo.com^
 ||ads-api.flaviar.com^
 ||ads-fa-darwin.hulu.com^
+||ads-media.truecaller.com^
 ||ads-resources.waze.com^
 ||ads-twitter.com.sci-hub.tw^
 ||ads-v-darwin.hulu.com^
@@ -131,6 +132,7 @@
 ||ads.roblox.com^
 ||ads.rockstargames.com^
 ||ads.timesinternet.in^
+||ads.truecaller.com^
 ||ads.untappd.com^
 ||ads.us.criteo.com^
 ||ads.voot.com^
@@ -154,11 +156,13 @@
 ||adserver.mxplayer.in^
 ||adserver.podbean.com^
 ||adserver.remerge.io^
+||adsmanager.truecaller.com^
 ||adsquare.com^
 ||adstradata.com^
 ||adultfriendfinder.com^
 ||advanalytics.underarmour.com^
 ||advertiser.petcube.com^
+||advertisers.truecaller.com^
 ||advertising.waze.com^
 ||adverweb.cjenm.com^
 ||advidi.com^
@@ -561,6 +565,7 @@
 ||analytics.superrare.com^
 ||analytics.surfshark.com^
 ||analytics.sympto.org^
+||analytics.sync.me^
 ||analytics.taalhammer.com^
 ||analytics.tandem.net^
 ||analytics.taphunter.com^
@@ -1516,6 +1521,7 @@
 ||jwpltx.com^
 ||k.clarity.ms^
 ||k.pluto.tv^
+||kibana-log.cleverdialer.com^
 ||kibanalogging.grindr.com^
 ||kids-analytics.youtube.com^
 ||kqzyfj.com^
@@ -1588,6 +1594,7 @@
 ||logs.boosteroid.com^
 ||logs.cachyos.org^
 ||logs.circle.so^
+||logs.eyecon-app.com^
 ||logs.fitbark.com^
 ||logs.flaviar.com^
 ||logs.ghost.org^
@@ -1653,6 +1660,7 @@
 ||merkleresponse.com^
 ||merkury.dentsu.com^
 ||metaffiliation.com^
+||metis.truecaller.com^
 ||metrics-a.wbx2.com^
 ||metrics-api.manjaro.org^
 ||metrics-api.openalex.org^
@@ -1801,6 +1809,7 @@
 ||mobile-analytics.uber.com^
 ||mobile-sdk.smartlook.com^
 ||mobile.zetaglobal.com^
+||mobileads.bharatiyamobile.com^
 ||mobilewalla.com^
 ||mobility.safegraph.com^
 ||mobwsa.ximalaya.com^
@@ -2118,10 +2127,12 @@
 ||sentry.scielo.org^
 ||sentry.scispace.com^
 ||sentry.squareup.com^
+||sentry.sync.me^
 ||sentry.system76.com^
 ||sentry.xinchenai.com^
 ||sentry2-client.cos.io^
 ||sentry2.cos.io^
+||sentry2.sync.me^
 ||sentry3.cos.io^
 ||serve.adikteev.com^
 ||serve.remerge.io^
@@ -2249,6 +2260,7 @@
 ||stats.podbean.com^
 ||stats.rarible.com^
 ||stats.raspberrypi.org^
+||stats.shouldianswer.net^
 ||stats.stronglifts.com^
 ||stats.subscribestar.adult^
 ||stats.superrare.com^

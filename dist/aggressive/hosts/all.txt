@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 2918
+# Total domains: 2930
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -88,6 +88,7 @@
 0.0.0.0 ads-api.duolingo.com
 0.0.0.0 ads-api.flaviar.com
 0.0.0.0 ads-fa-darwin.hulu.com
+0.0.0.0 ads-media.truecaller.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-twitter.com.sci-hub.tw
 0.0.0.0 ads-v-darwin.hulu.com
@@ -140,6 +141,7 @@
 0.0.0.0 ads.roblox.com
 0.0.0.0 ads.rockstargames.com
 0.0.0.0 ads.timesinternet.in
+0.0.0.0 ads.truecaller.com
 0.0.0.0 ads.untappd.com
 0.0.0.0 ads.us.criteo.com
 0.0.0.0 ads.voot.com
@@ -164,6 +166,7 @@
 0.0.0.0 adserver.mxplayer.in
 0.0.0.0 adserver.podbean.com
 0.0.0.0 adserver.remerge.io
+0.0.0.0 adsmanager.truecaller.com
 0.0.0.0 adsquare.com
 0.0.0.0 adsrv.acast.com
 0.0.0.0 adstradata.com
@@ -171,6 +174,7 @@
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 advanalytics.underarmour.com
 0.0.0.0 advertiser.petcube.com
+0.0.0.0 advertisers.truecaller.com
 0.0.0.0 advertising.waze.com
 0.0.0.0 adverweb.cjenm.com
 0.0.0.0 advidi.com
@@ -574,6 +578,7 @@
 0.0.0.0 analytics.superrare.com
 0.0.0.0 analytics.surfshark.com
 0.0.0.0 analytics.sympto.org
+0.0.0.0 analytics.sync.me
 0.0.0.0 analytics.taalhammer.com
 0.0.0.0 analytics.tandem.net
 0.0.0.0 analytics.taphunter.com
@@ -1549,6 +1554,7 @@
 0.0.0.0 jwpltx.com
 0.0.0.0 k.clarity.ms
 0.0.0.0 k.pluto.tv
+0.0.0.0 kibana-log.cleverdialer.com
 0.0.0.0 kibanalogging.grindr.com
 0.0.0.0 kids-analytics.youtube.com
 0.0.0.0 kqzyfj.com
@@ -1625,6 +1631,7 @@
 0.0.0.0 logs.boosteroid.com
 0.0.0.0 logs.cachyos.org
 0.0.0.0 logs.circle.so
+0.0.0.0 logs.eyecon-app.com
 0.0.0.0 logs.fitbark.com
 0.0.0.0 logs.flaviar.com
 0.0.0.0 logs.ghost.org
@@ -1690,6 +1697,7 @@
 0.0.0.0 merkleresponse.com
 0.0.0.0 merkury.dentsu.com
 0.0.0.0 metaffiliation.com
+0.0.0.0 metis.truecaller.com
 0.0.0.0 metrics-a.wbx2.com
 0.0.0.0 metrics-api.manjaro.org
 0.0.0.0 metrics-api.openalex.org
@@ -1838,6 +1846,7 @@
 0.0.0.0 mobile-analytics.uber.com
 0.0.0.0 mobile-sdk.smartlook.com
 0.0.0.0 mobile.zetaglobal.com
+0.0.0.0 mobileads.bharatiyamobile.com
 0.0.0.0 mobilewalla.com
 0.0.0.0 mobility.safegraph.com
 0.0.0.0 mobwsa.ximalaya.com
@@ -2171,10 +2180,12 @@
 0.0.0.0 sentry.scielo.org
 0.0.0.0 sentry.scispace.com
 0.0.0.0 sentry.squareup.com
+0.0.0.0 sentry.sync.me
 0.0.0.0 sentry.system76.com
 0.0.0.0 sentry.xinchenai.com
 0.0.0.0 sentry2-client.cos.io
 0.0.0.0 sentry2.cos.io
+0.0.0.0 sentry2.sync.me
 0.0.0.0 sentry3.cos.io
 0.0.0.0 serve.adikteev.com
 0.0.0.0 serve.remerge.io
@@ -2303,6 +2314,7 @@
 0.0.0.0 stats.podbean.com
 0.0.0.0 stats.rarible.com
 0.0.0.0 stats.raspberrypi.org
+0.0.0.0 stats.shouldianswer.net
 0.0.0.0 stats.stronglifts.com
 0.0.0.0 stats.subscribestar.adult
 0.0.0.0 stats.superrare.com
