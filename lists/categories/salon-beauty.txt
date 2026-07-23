@@ -1,0 +1,46 @@
+# Salon & Beauty Blocklist
+
+**Son Güncelleme:** 16 Temmuz 2026
+**Toplam Domain Sayısı:** 25
+
+```
+# STYLESEAT
+analytics.styleseat.com
+metrics.styleseat.com
+tracking.styleseat.com
+
+# VAGARO
+analytics.vagaro.com
+metrics.vagaro.com
+tracking.vagaro.com
+
+# BOOKSY
+analytics.booksy.com
+metrics.booksy.com
+tracking.booksy.com
+www.stats-and-reports.booksy.com
+stats-and-reports.booksy.com
+
+# FRESHA
+analytics.fresha.com
+metrics.fresha.com
+tracking.fresha.com
+
+# MINDBODY
+analytics.mindbodyonline.com
+metrics.mindbodyonline.com
+tracking.mindbodyonline.com
+tags.mindbodyonline.com
+collect.mindbodyonline.com
+
+# ZENOTI
+analytics.zenoti.com
+telemetry.zenoti.com
+metrics.zenoti.com
+
+# ZEEL
+analytics.zeel.com
+
+# SOOTHE
+analytics.soothe.com
+emailtracking.soothe.com
