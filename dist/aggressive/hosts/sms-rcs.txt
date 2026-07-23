@@ -1,0 +1,32 @@
+# ============================================================
+# SMS RCS BLOCKLIST - AGGRESSIVE
+# Total domains: 25
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 adhoc.textra.me
+0.0.0.0 analytics.textra.me
+0.0.0.0 api.gosmspro.com
+0.0.0.0 backup.gosmspro.com
+0.0.0.0 cdn.gosmspro.com
+0.0.0.0 conf.api.hk.goforandroid.com
+0.0.0.0 faces3cdn.goforandroid.com
+0.0.0.0 goappdl.goforandroid.com
+0.0.0.0 goconfigsync.3g.cn
+0.0.0.0 goforandroid.com
+0.0.0.0 gomo-apps.com
+0.0.0.0 gomo.com
+0.0.0.0 gosms.com
+0.0.0.0 gosms.goforandroid.com
+0.0.0.0 gosmspro.com
+0.0.0.0 integralmarket.goforandroid.com
+0.0.0.0 integralwall.goforandroid.com
+0.0.0.0 lzt.goforandroid.com
+0.0.0.0 media.gosmspro.com
+0.0.0.0 push.goforandroid.com
+0.0.0.0 service.goforandroid.com
+0.0.0.0 stats.calldorado.com
+0.0.0.0 sungymobile.com
+0.0.0.0 xss.tw
+0.0.0.0 zcamera.lzt.goforandroid.com

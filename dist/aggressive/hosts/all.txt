@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1663
+# Total domains: 1688
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -64,6 +64,7 @@
 0.0.0.0 adclarity.com
 0.0.0.0 adgen-cdn.connatix.com
 0.0.0.0 adgen.connatix.com
+0.0.0.0 adhoc.textra.me
 0.0.0.0 adjustevents.purevpn.com
 0.0.0.0 adjustyourtracking.vhx.tv
 0.0.0.0 adkernel.crakrevenue.com
@@ -333,6 +334,7 @@
 0.0.0.0 analytics.tandem.net
 0.0.0.0 analytics.taphunter.com
 0.0.0.0 analytics.teamviewer.com
+0.0.0.0 analytics.textra.me
 0.0.0.0 analytics.ticketmaster.es
 0.0.0.0 analytics.tonal.com
 0.0.0.0 analytics.torguard.net
@@ -401,6 +403,7 @@
 0.0.0.0 api.fullstory.com
 0.0.0.0 api.glassbox.com
 0.0.0.0 api.glassboxdigital.com
+0.0.0.0 api.gosmspro.com
 0.0.0.0 api.gravyanalytics.com
 0.0.0.0 api.heatmap.com
 0.0.0.0 api.hotjar.io
@@ -478,6 +481,7 @@
 0.0.0.0 azurelogs.garmin.com
 0.0.0.0 b.clarity.ms
 0.0.0.0 background-play-metrics.youtube.com
+0.0.0.0 backup.gosmspro.com
 0.0.0.0 bard-telemetry.google.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bcp.lotame.com
@@ -533,6 +537,7 @@
 0.0.0.0 cdn.glassbox.com
 0.0.0.0 cdn.glassboxdigital.com
 0.0.0.0 cdn.goacoustic.com
+0.0.0.0 cdn.gosmspro.com
 0.0.0.0 cdn.heatmap.com
 0.0.0.0 cdn.ingest-lr.com
 0.0.0.0 cdn.inspectlet.com
@@ -614,6 +619,7 @@
 0.0.0.0 collector.tealeaf.goacoustic.com
 0.0.0.0 collector.vhx.tv
 0.0.0.0 company.clearbit.com
+0.0.0.0 conf.api.hk.goforandroid.com
 0.0.0.0 connect-event.vive.com
 0.0.0.0 connect.clearbit.com
 0.0.0.0 connect.transunion.com
@@ -779,6 +785,7 @@
 0.0.0.0 eyeota.net
 0.0.0.0 f.clarity.ms
 0.0.0.0 fa.hellotalk.com
+0.0.0.0 faces3cdn.goforandroid.com
 0.0.0.0 factual.com
 0.0.0.0 fbanalytics.sandbox.game
 0.0.0.0 feedback.hotjar.com
@@ -814,9 +821,17 @@
 0.0.0.0 global-3.telemetry.insights.video.a2z.com
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 goacoustic.com
+0.0.0.0 goappdl.goforandroid.com
+0.0.0.0 goconfigsync.3g.cn
+0.0.0.0 goforandroid.com
 0.0.0.0 golead.pl
+0.0.0.0 gomo-apps.com
+0.0.0.0 gomo.com
 0.0.0.0 google-analytics.com.sci-hub.tw
 0.0.0.0 googlesyndication.com.sci-hub.tw
+0.0.0.0 gosms.com
+0.0.0.0 gosms.goforandroid.com
+0.0.0.0 gosmspro.com
 0.0.0.0 gravyanalytics.com
 0.0.0.0 grtyv.com
 0.0.0.0 gtm-analytics.united.vividseats.com
@@ -871,6 +886,8 @@
 0.0.0.0 inspectlet.com
 0.0.0.0 inspectlet.net
 0.0.0.0 intake-lr.com
+0.0.0.0 integralmarket.goforandroid.com
+0.0.0.0 integralwall.goforandroid.com
 0.0.0.0 integration-api.crazyegg.com
 0.0.0.0 integrations.smartlook.com
 0.0.0.0 intelligence.conviva.com
@@ -959,6 +976,7 @@
 0.0.0.0 ltmsphrcl.net
 0.0.0.0 luckyorange.com
 0.0.0.0 luckyorange.net
+0.0.0.0 lzt.goforandroid.com
 0.0.0.0 m.clarity.ms
 0.0.0.0 m1.merkle.com
 0.0.0.0 marketing-tracker.babbel.com
@@ -972,6 +990,7 @@
 0.0.0.0 mcd.navdmp.com
 0.0.0.0 mcdn.navdmp.com
 0.0.0.0 medallia.com
+0.0.0.0 media.gosmspro.com
 0.0.0.0 meetings-telemetry.goog
 0.0.0.0 meez.crwdcntrl.net
 0.0.0.0 merkle.com
@@ -1171,6 +1190,7 @@
 0.0.0.0 pulse-eu.conviva.com
 0.0.0.0 pulse-us.conviva.com
 0.0.0.0 pulse.conviva.com
+0.0.0.0 push.goforandroid.com
 0.0.0.0 q.clarity.ms
 0.0.0.0 qksrv.net
 0.0.0.0 qksz.net
@@ -1255,6 +1275,7 @@
 0.0.0.0 sentry2.cos.io
 0.0.0.0 sentry3.cos.io
 0.0.0.0 service.githubusercontent.com
+0.0.0.0 service.goforandroid.com
 0.0.0.0 sessioncam.com
 0.0.0.0 sessioncam.net
 0.0.0.0 sessionrewind.com
@@ -1303,6 +1324,7 @@
 0.0.0.0 stats.apps.allenai.org
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.bilibili.com
+0.0.0.0 stats.calldorado.com
 0.0.0.0 stats.corsair.com
 0.0.0.0 stats.expressvpn.com
 0.0.0.0 stats.hide.me
@@ -1325,6 +1347,7 @@
 0.0.0.0 stream.clearbit.com
 0.0.0.0 streaming.conviva.com
 0.0.0.0 streme.fullcontact.com
+0.0.0.0 sungymobile.com
 0.0.0.0 superchat-analytics.youtube.com
 0.0.0.0 surge.bombora.com
 0.0.0.0 surveys.hotjar.com
@@ -1651,6 +1674,7 @@
 0.0.0.0 www07.clicktale.net
 0.0.0.0 www2.navegg.com
 0.0.0.0 x.clarity.ms
+0.0.0.0 xss.tw
 0.0.0.0 y.clarity.ms
 0.0.0.0 yceml.net
 0.0.0.0 youbora.com
@@ -1660,6 +1684,7 @@
 0.0.0.0 youtube-kids-metrics.googleapis.com
 0.0.0.0 ytmusic-analytics.googleapis.com
 0.0.0.0 z.clarity.ms
+0.0.0.0 zcamera.lzt.goforandroid.com
 0.0.0.0 zemomedia.com
 0.0.0.0 zeydoo.com
 0.0.0.0 ziffmedia.com

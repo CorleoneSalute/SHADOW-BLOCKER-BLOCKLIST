@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1663
+# Total domains: 1688
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -64,6 +64,7 @@
 ||adclarity.com^
 ||adgen-cdn.connatix.com^
 ||adgen.connatix.com^
+||adhoc.textra.me^
 ||adjustevents.purevpn.com^
 ||adjustyourtracking.vhx.tv^
 ||adkernel.crakrevenue.com^
@@ -333,6 +334,7 @@
 ||analytics.tandem.net^
 ||analytics.taphunter.com^
 ||analytics.teamviewer.com^
+||analytics.textra.me^
 ||analytics.ticketmaster.es^
 ||analytics.tonal.com^
 ||analytics.torguard.net^
@@ -401,6 +403,7 @@
 ||api.fullstory.com^
 ||api.glassbox.com^
 ||api.glassboxdigital.com^
+||api.gosmspro.com^
 ||api.gravyanalytics.com^
 ||api.heatmap.com^
 ||api.hotjar.io^
@@ -478,6 +481,7 @@
 ||azurelogs.garmin.com^
 ||b.clarity.ms^
 ||background-play-metrics.youtube.com^
+||backup.gosmspro.com^
 ||bard-telemetry.google.com^
 ||bcp.crwdcntrl.net^
 ||bcp.lotame.com^
@@ -533,6 +537,7 @@
 ||cdn.glassbox.com^
 ||cdn.glassboxdigital.com^
 ||cdn.goacoustic.com^
+||cdn.gosmspro.com^
 ||cdn.heatmap.com^
 ||cdn.ingest-lr.com^
 ||cdn.inspectlet.com^
@@ -614,6 +619,7 @@
 ||collector.tealeaf.goacoustic.com^
 ||collector.vhx.tv^
 ||company.clearbit.com^
+||conf.api.hk.goforandroid.com^
 ||connect-event.vive.com^
 ||connect.clearbit.com^
 ||connect.transunion.com^
@@ -779,6 +785,7 @@
 ||eyeota.net^
 ||f.clarity.ms^
 ||fa.hellotalk.com^
+||faces3cdn.goforandroid.com^
 ||factual.com^
 ||fbanalytics.sandbox.game^
 ||feedback.hotjar.com^
@@ -814,9 +821,17 @@
 ||global-3.telemetry.insights.video.a2z.com^
 ||global.telemetry.insights.video.a2z.com^
 ||goacoustic.com^
+||goappdl.goforandroid.com^
+||goconfigsync.3g.cn^
+||goforandroid.com^
 ||golead.pl^
+||gomo-apps.com^
+||gomo.com^
 ||google-analytics.com.sci-hub.tw^
 ||googlesyndication.com.sci-hub.tw^
+||gosms.com^
+||gosms.goforandroid.com^
+||gosmspro.com^
 ||gravyanalytics.com^
 ||grtyv.com^
 ||gtm-analytics.united.vividseats.com^
@@ -871,6 +886,8 @@
 ||inspectlet.com^
 ||inspectlet.net^
 ||intake-lr.com^
+||integralmarket.goforandroid.com^
+||integralwall.goforandroid.com^
 ||integration-api.crazyegg.com^
 ||integrations.smartlook.com^
 ||intelligence.conviva.com^
@@ -959,6 +976,7 @@
 ||ltmsphrcl.net^
 ||luckyorange.com^
 ||luckyorange.net^
+||lzt.goforandroid.com^
 ||m.clarity.ms^
 ||m1.merkle.com^
 ||marketing-tracker.babbel.com^
@@ -972,6 +990,7 @@
 ||mcd.navdmp.com^
 ||mcdn.navdmp.com^
 ||medallia.com^
+||media.gosmspro.com^
 ||meetings-telemetry.goog^
 ||meez.crwdcntrl.net^
 ||merkle.com^
@@ -1171,6 +1190,7 @@
 ||pulse-eu.conviva.com^
 ||pulse-us.conviva.com^
 ||pulse.conviva.com^
+||push.goforandroid.com^
 ||q.clarity.ms^
 ||qksrv.net^
 ||qksz.net^
@@ -1255,6 +1275,7 @@
 ||sentry2.cos.io^
 ||sentry3.cos.io^
 ||service.githubusercontent.com^
+||service.goforandroid.com^
 ||sessioncam.com^
 ||sessioncam.net^
 ||sessionrewind.com^
@@ -1303,6 +1324,7 @@
 ||stats.apps.allenai.org^
 ||stats.appsflyer.com^
 ||stats.bilibili.com^
+||stats.calldorado.com^
 ||stats.corsair.com^
 ||stats.expressvpn.com^
 ||stats.hide.me^
@@ -1325,6 +1347,7 @@
 ||stream.clearbit.com^
 ||streaming.conviva.com^
 ||streme.fullcontact.com^
+||sungymobile.com^
 ||superchat-analytics.youtube.com^
 ||surge.bombora.com^
 ||surveys.hotjar.com^
@@ -1651,6 +1674,7 @@
 ||www07.clicktale.net^
 ||www2.navegg.com^
 ||x.clarity.ms^
+||xss.tw^
 ||y.clarity.ms^
 ||yceml.net^
 ||youbora.com^
@@ -1660,6 +1684,7 @@
 ||youtube-kids-metrics.googleapis.com^
 ||ytmusic-analytics.googleapis.com^
 ||z.clarity.ms^
+||zcamera.lzt.goforandroid.com^
 ||zemomedia.com^
 ||zeydoo.com^
 ||ziffmedia.com^
