@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3548
+# Total domains: 3637
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -64,6 +64,7 @@
 0.0.0.0 ad-beacon.peacocktv.com
 0.0.0.0 ad-beacon.tubitv.com
 0.0.0.0 ad-engine.accuweather.com
+0.0.0.0 ad-maven.com
 0.0.0.0 ad-metrics.espn.com
 0.0.0.0 ad-server.pluto.tv
 0.0.0.0 ad.acast.com
@@ -97,11 +98,14 @@
 0.0.0.0 adjustevents.purevpn.com
 0.0.0.0 adjustyourtracking.vhx.tv
 0.0.0.0 adkernel.crakrevenue.com
+0.0.0.0 admaven.com
 0.0.0.0 admitad.com
 0.0.0.0 admob.gpapps.com
 0.0.0.0 adobedtm.com.sci-hub.tw
 0.0.0.0 adobemetrics.okta.com
+0.0.0.0 adoperator.com
 0.0.0.0 adperio.com
+0.0.0.0 adprofex.com
 0.0.0.0 ads-api.duolingo.com
 0.0.0.0 ads-api.flaviar.com
 0.0.0.0 ads-fa-darwin.hulu.com
@@ -814,6 +818,7 @@
 0.0.0.0 antifraud.remerge.io
 0.0.0.0 ap-northeast-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 ap-southeast-1-1.telemetry.insights.video.a2z.com
+0.0.0.0 ap.coinis.com
 0.0.0.0 api-analytics.bird.co
 0.0.0.0 api-apac.adikteev.com
 0.0.0.0 api-apac.remerge.io
@@ -832,7 +837,10 @@
 0.0.0.0 api-us.retargeter.com
 0.0.0.0 api-us.zetaglobal.com
 0.0.0.0 api.acoustic.com
+0.0.0.0 api.ad-maven.com
 0.0.0.0 api.adikteev.com
+0.0.0.0 api.adoperator.com
+0.0.0.0 api.adprofex.com
 0.0.0.0 api.adsquare.com
 0.0.0.0 api.adultfriendfinder.com
 0.0.0.0 api.airbrake.io
@@ -850,21 +858,25 @@
 0.0.0.0 api.chartbeat.net
 0.0.0.0 api.clearbit.com
 0.0.0.0 api.clicktale.net
+0.0.0.0 api.coinis.com
 0.0.0.0 api.contentsquare.net
 0.0.0.0 api.conviva.com
 0.0.0.0 api.crazyegg.com
 0.0.0.0 api.criteo.com
 0.0.0.0 api.cuebiq.com
+0.0.0.0 api.daopush-api.info
 0.0.0.0 api.datalogix.com
 0.0.0.0 api.decibelinsight.net
 0.0.0.0 api.dnb.com
 0.0.0.0 api.elmah.io
 0.0.0.0 api.eu.smartlook.cloud
+0.0.0.0 api.evadav.com
 0.0.0.0 api.exceptionless.io
 0.0.0.0 api.exp-metrics.optimizely.com
 0.0.0.0 api.eyeota.net
 0.0.0.0 api.fullcontact.com
 0.0.0.0 api.fullstory.com
+0.0.0.0 api.galaksion.com
 0.0.0.0 api.glassbox.com
 0.0.0.0 api.glassboxdigital.com
 0.0.0.0 api.gosmspro.com
@@ -877,21 +889,28 @@
 0.0.0.0 api.instabug.com
 0.0.0.0 api.iolo.com
 0.0.0.0 api.jumpshot.com
+0.0.0.0 api.kadam.net
 0.0.0.0 api.livesession.io
 0.0.0.0 api.logrocket.io
 0.0.0.0 api.lotame.com
 0.0.0.0 api.luciq.ai
 0.0.0.0 api.luckyorange.com
 0.0.0.0 api.merkle.com
+0.0.0.0 api.mobidea.com
 0.0.0.0 api.mobilewalla.com
 0.0.0.0 api.mouseflow.com
+0.0.0.0 api.mybid.io
 0.0.0.0 api.near.co
 0.0.0.0 api.nxads.nextory.com
+0.0.0.0 api.onclicka.com
 0.0.0.0 api.openreplay.com
 0.0.0.0 api.permutive.app
 0.0.0.0 api.permutive.com
 0.0.0.0 api.pkgstats.archlinux.de
 0.0.0.0 api.ptengine.com
+0.0.0.0 api.push.house
+0.0.0.0 api.pushground.com
+0.0.0.0 api.pushub.com
 0.0.0.0 api.quantummetric.com
 0.0.0.0 api.raygun.com
 0.0.0.0 api.raygun.io
@@ -900,7 +919,10 @@
 0.0.0.0 api.restoro.com
 0.0.0.0 api.retargeter.com
 0.0.0.0 api.reviversoft.com
+0.0.0.0 api.richads.com
+0.0.0.0 api.roiads.co
 0.0.0.0 api.rollbar.com
+0.0.0.0 api.rollerads.com
 0.0.0.0 api.safegraph.com
 0.0.0.0 api.sessioncam.com
 0.0.0.0 api.sessionrewind.com
@@ -916,6 +938,7 @@
 0.0.0.0 api.twipla.com
 0.0.0.0 api.ubimo.com
 0.0.0.0 api.unacast.com
+0.0.0.0 api.ungads.com
 0.0.0.0 api.us.smartlook.cloud
 0.0.0.0 api.uxcam.com
 0.0.0.0 api.verve.com
@@ -933,9 +956,26 @@
 0.0.0.0 app-analytics.lyft.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app-measurement.uber.com
+0.0.0.0 app.ad-maven.com
+0.0.0.0 app.adoperator.com
+0.0.0.0 app.adprofex.com
 0.0.0.0 app.bugsplat.com
+0.0.0.0 app.coinis.com
+0.0.0.0 app.evadav.com
+0.0.0.0 app.galaksion.com
 0.0.0.0 app.getsentry.com
 0.0.0.0 app.glitchtip.com
+0.0.0.0 app.kadam.net
+0.0.0.0 app.mobidea.com
+0.0.0.0 app.mybid.io
+0.0.0.0 app.onclicka.com
+0.0.0.0 app.push.house
+0.0.0.0 app.pushground.com
+0.0.0.0 app.pushub.com
+0.0.0.0 app.richads.com
+0.0.0.0 app.roiads.co
+0.0.0.0 app.rollerads.com
+0.0.0.0 app.ungads.com
 0.0.0.0 app4.kromtech.net
 0.0.0.0 app6.kromtech.net
 0.0.0.0 app7.kromtech.net
@@ -1113,10 +1153,15 @@
 0.0.0.0 cdn-sg.pagesense.io
 0.0.0.0 cdn-telemetry.netflix.com
 0.0.0.0 cdn.acxiom.com
+0.0.0.0 cdn.ad-maven.com
 0.0.0.0 cdn.adikteev.com
+0.0.0.0 cdn.adoperator.com
+0.0.0.0 cdn.adprofex.com
 0.0.0.0 cdn.boomtrain.com
 0.0.0.0 cdn.clicktale.net
+0.0.0.0 cdn.coinis.com
 0.0.0.0 cdn.decibelinsight.net
+0.0.0.0 cdn.evadav.com
 0.0.0.0 cdn.fullstory.com
 0.0.0.0 cdn.glassbox.com
 0.0.0.0 cdn.glassboxdigital.com
@@ -1142,22 +1187,29 @@
 0.0.0.0 cdn.medallia.com
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 cdn.navdmp.com
+0.0.0.0 cdn.onclicka.com
 0.0.0.0 cdn.pagesense.io
 0.0.0.0 cdn.permutive.app
 0.0.0.0 cdn.plerdy.com
 0.0.0.0 cdn.ptengine.com
 0.0.0.0 cdn.ptengine.jp
+0.0.0.0 cdn.push.house
+0.0.0.0 cdn.pushground.com
 0.0.0.0 cdn.quantummetric.com
 0.0.0.0 cdn.reimage.com
 0.0.0.0 cdn.remerge.io
 0.0.0.0 cdn.restoro.com
 0.0.0.0 cdn.retargeter.com
+0.0.0.0 cdn.richads.com
+0.0.0.0 cdn.roiads.co
+0.0.0.0 cdn.rollerads.com
 0.0.0.0 cdn.sessioncam.com
 0.0.0.0 cdn.sessionrewind.com
 0.0.0.0 cdn.sessionstack.com
 0.0.0.0 cdn.smartlook.com
 0.0.0.0 cdn.systweak.com
 0.0.0.0 cdn.twipla.com
+0.0.0.0 cdn.ungads.com
 0.0.0.0 cdn.visitor-analytics.io
 0.0.0.0 cdn.zetaglobal.com
 0.0.0.0 cdn.zipy.ai
@@ -1212,6 +1264,7 @@
 0.0.0.0 codemetrics.springernature.com
 0.0.0.0 cohorts.adikteev.com
 0.0.0.0 cohorts.remerge.io
+0.0.0.0 coinis.com
 0.0.0.0 collect.airbrake.io
 0.0.0.0 collect.babbel.io
 0.0.0.0 collect.biomedcentral.com
@@ -1355,6 +1408,9 @@
 0.0.0.0 d845108.t43.tonichost.com
 0.0.0.0 d9.flashtalking.com
 0.0.0.0 daisy.ubuntu.com
+0.0.0.0 dao.ad
+0.0.0.0 daopush-api.info
+0.0.0.0 daopush.com
 0.0.0.0 dash-analytics.joinhoney.com
 0.0.0.0 data-analysis.fedoraproject.org
 0.0.0.0 data-axle.com
@@ -1527,6 +1583,7 @@
 0.0.0.0 eu.smartlook.cloud
 0.0.0.0 eu.uxcam.com
 0.0.0.0 euc-onenote-telemetry.officeapps.live.com
+0.0.0.0 evadav.com
 0.0.0.0 eval.bizrate.com
 0.0.0.0 event-reg.yamaha.com
 0.0.0.0 event.appsflyer.com
@@ -1645,6 +1702,8 @@
 0.0.0.0 fwtrack.flashbackrecorder.com
 0.0.0.0 fwtrack.ticketnetwork.com
 0.0.0.0 g.clarity.ms
+0.0.0.0 galaksion.com
+0.0.0.0 galaksion.online
 0.0.0.0 galaxy-log.gog.com
 0.0.0.0 gallery-metrics.api.brightcove.com
 0.0.0.0 gambleonline.ca
@@ -1825,8 +1884,11 @@
 0.0.0.0 jwpltx.com
 0.0.0.0 k.clarity.ms
 0.0.0.0 k.pluto.tv
+0.0.0.0 kadam.net
+0.0.0.0 kadam.network
 0.0.0.0 kaizen-data.kameleoon.eu
 0.0.0.0 kaizen-data.kameleoon.io
+0.0.0.0 kdtrk.net
 0.0.0.0 kerish.org
 0.0.0.0 kerishproducts.com
 0.0.0.0 kibana-log.cleverdialer.com
@@ -1885,6 +1947,7 @@
 0.0.0.0 log.facemoji.com
 0.0.0.0 log.inkitt.com
 0.0.0.0 log.nordvpn.com
+0.0.0.0 log.onesignal.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 log.shazam.com
 0.0.0.0 log.soundhound.com
@@ -2169,6 +2232,8 @@
 0.0.0.0 mkt.pcpitstop.com
 0.0.0.0 ml.adikteev.com
 0.0.0.0 ml.remerge.io
+0.0.0.0 mobidea.com
+0.0.0.0 mobideapush.com
 0.0.0.0 mobile-analytics.lyft.com
 0.0.0.0 mobile-analytics.uber.com
 0.0.0.0 mobile-sdk.smartlook.com
@@ -2179,6 +2244,7 @@
 0.0.0.0 mobwsa.ximalaya.com
 0.0.0.0 monetization-tracking.youtube.com
 0.0.0.0 monetization.adikteev.com
+0.0.0.0 monetize.rollerads.com
 0.0.0.0 monitoring.youbora.com
 0.0.0.0 more.criteo.com
 0.0.0.0 moreniche.com
@@ -2194,6 +2260,8 @@
 0.0.0.0 music-analytics.youtube.com
 0.0.0.0 musr.navdmp.com
 0.0.0.0 mx.navdmp.com
+0.0.0.0 mybid.io
+0.0.0.0 mybid.partners
 0.0.0.0 mycleanid.com
 0.0.0.0 mycleanmac.com
 0.0.0.0 mycleanpc.com
@@ -2240,6 +2308,8 @@
 0.0.0.0 offline-analytics.youtube.com
 0.0.0.0 old-analytics.olacabs.com
 0.0.0.0 omt.garmin.com
+0.0.0.0 onclicka.com
+0.0.0.0 onclickad.com
 0.0.0.0 oneaudience.com
 0.0.0.0 open.zetaglobal.com
 0.0.0.0 openreplay.com
@@ -2273,6 +2343,7 @@
 0.0.0.0 parsely.com
 0.0.0.0 partner.criteo.com
 0.0.0.0 partners.adikteev.com
+0.0.0.0 partners.house
 0.0.0.0 partners.remerge.io
 0.0.0.0 passion.com
 0.0.0.0 paypal.112.2o7.net
@@ -2358,6 +2429,7 @@
 0.0.0.0 popcon.debian.org
 0.0.0.0 popcon.ubuntu.com
 0.0.0.0 portfolio.adikteev.com
+0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 post.analytics10.ticketmaster.com
 0.0.0.0 postback.adikteev.com
 0.0.0.0 postback.remerge.io
@@ -2384,6 +2456,7 @@
 0.0.0.0 pub.mylead.global
 0.0.0.0 pub.observability.app.launchdarkly.com
 0.0.0.0 public-api.adikteev.com
+0.0.0.0 publishers.ad-maven.com
 0.0.0.0 publishertracking.api.cj.com
 0.0.0.0 pubnative.net
 0.0.0.0 pulse-apac.conviva.com
@@ -2393,6 +2466,9 @@
 0.0.0.0 pulse.raygun.com
 0.0.0.0 push.appsignal.com
 0.0.0.0 push.goforandroid.com
+0.0.0.0 push.house
+0.0.0.0 pushground.com
+0.0.0.0 pushub.com
 0.0.0.0 q.clarity.ms
 0.0.0.0 q.stripe.com
 0.0.0.0 qksrv.net
@@ -2476,6 +2552,8 @@
 0.0.0.0 rezync.com
 0.0.0.0 rfihub.com
 0.0.0.0 rfihub.net
+0.0.0.0 richads.com
+0.0.0.0 richpush.co
 0.0.0.0 rightbackup.com
 0.0.0.0 rightmedia.criteo.com
 0.0.0.0 ringcentral.112.2o7.net
@@ -2483,7 +2561,9 @@
 0.0.0.0 risk.dnb.com
 0.0.0.0 rmmetrics.mcafee.com
 0.0.0.0 rnsfpw.net
+0.0.0.0 roiads.co
 0.0.0.0 rollbar.com
+0.0.0.0 rollerads.com
 0.0.0.0 rosecitysoftware.com
 0.0.0.0 rpi-imager-stats.raspberrypi.com
 0.0.0.0 rr.bizrate.com
@@ -2595,6 +2675,7 @@
 0.0.0.0 sentry.io.steinberg.net
 0.0.0.0 sentry.klippa.com
 0.0.0.0 sentry.protonvpn.com
+0.0.0.0 sentry.pushwoosh.com
 0.0.0.0 sentry.scielo.org
 0.0.0.0 sentry.scispace.com
 0.0.0.0 sentry.squareup.com
@@ -2694,6 +2775,8 @@
 0.0.0.0 sslcs.cdngc.net
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 ssp-sync.criteo.com
+0.0.0.0 ssp.coinis.com
+0.0.0.0 ssp.galaksion.com
 0.0.0.0 ssp.zetaglobal.com
 0.0.0.0 sstats.bitdefender.com
 0.0.0.0 sstats.epicurious.com
@@ -2766,6 +2849,7 @@
 0.0.0.0 stats.paypal.com
 0.0.0.0 stats.playit.pk
 0.0.0.0 stats.podbean.com
+0.0.0.0 stats.pusher.com
 0.0.0.0 stats.rarible.com
 0.0.0.0 stats.raspberrypi.org
 0.0.0.0 stats.shouldianswer.net
@@ -3116,6 +3200,7 @@
 0.0.0.0 track.period-tracker.com
 0.0.0.0 track.periodcalendar.net
 0.0.0.0 track.premom.com
+0.0.0.0 track.pusher.com
 0.0.0.0 track.register.webnovel.com
 0.0.0.0 track.remerge.io
 0.0.0.0 track.researchrabbit.ai
@@ -3138,6 +3223,7 @@
 0.0.0.0 tracker.gnome.org
 0.0.0.0 tracker.gymshark.com
 0.0.0.0 tracker.kali.org
+0.0.0.0 tracker.mobidea.com
 0.0.0.0 tracker.opensuse.org
 0.0.0.0 tracker.prf.hn
 0.0.0.0 tracker.quitgambling.com
@@ -3296,6 +3382,7 @@
 0.0.0.0 ukrep.reimage.com
 0.0.0.0 unacast.com
 0.0.0.0 undeleteplusapp.com
+0.0.0.0 ungads.com
 0.0.0.0 uniblue.com
 0.0.0.0 uninstall.remerge.io
 0.0.0.0 universal-links.adikteev.com
@@ -3413,6 +3500,7 @@
 0.0.0.0 webhook.remerge.io
 0.0.0.0 webhooks.adikteev.com
 0.0.0.0 webhooks.remerge.io
+0.0.0.0 weblog.pushwoosh.com
 0.0.0.0 webmaxy.co
 0.0.0.0 webmaxy.com
 0.0.0.0 webmaxy.io
@@ -3480,6 +3568,7 @@
 0.0.0.0 www.members-sexart.adultfriendfinder.com
 0.0.0.0 www.metaffiliation.com
 0.0.0.0 www.metrix.adultfriendfinder.com
+0.0.0.0 www.mobideapush.com
 0.0.0.0 www.moreniche.com
 0.0.0.0 www.mylead.global
 0.0.0.0 www.navdmp.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3477
+# Total domains: 3566
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -62,6 +62,7 @@
 ||ad-beacon.peacocktv.com^
 ||ad-beacon.tubitv.com^
 ||ad-engine.accuweather.com^
+||ad-maven.com^
 ||ad-metrics.espn.com^
 ||ad.admitad.com^
 ||ad.alipay.com^
@@ -92,11 +93,14 @@
 ||adjustevents.purevpn.com^
 ||adjustyourtracking.vhx.tv^
 ||adkernel.crakrevenue.com^
+||admaven.com^
 ||admitad.com^
 ||admob.gpapps.com^
 ||adobedtm.com.sci-hub.tw^
 ||adobemetrics.okta.com^
+||adoperator.com^
 ||adperio.com^
+||adprofex.com^
 ||ads-api.duolingo.com^
 ||ads-api.flaviar.com^
 ||ads-fa-darwin.hulu.com^
@@ -800,6 +804,7 @@
 ||antifraud.remerge.io^
 ||ap-northeast-1-1.telemetry.insights.video.a2z.com^
 ||ap-southeast-1-1.telemetry.insights.video.a2z.com^
+||ap.coinis.com^
 ||api-analytics.bird.co^
 ||api-apac.adikteev.com^
 ||api-apac.remerge.io^
@@ -818,7 +823,10 @@
 ||api-us.retargeter.com^
 ||api-us.zetaglobal.com^
 ||api.acoustic.com^
+||api.ad-maven.com^
 ||api.adikteev.com^
+||api.adoperator.com^
+||api.adprofex.com^
 ||api.adsquare.com^
 ||api.adultfriendfinder.com^
 ||api.airbrake.io^
@@ -835,21 +843,25 @@
 ||api.chartbeat.net^
 ||api.clearbit.com^
 ||api.clicktale.net^
+||api.coinis.com^
 ||api.contentsquare.net^
 ||api.conviva.com^
 ||api.crazyegg.com^
 ||api.criteo.com^
 ||api.cuebiq.com^
+||api.daopush-api.info^
 ||api.datalogix.com^
 ||api.decibelinsight.net^
 ||api.dnb.com^
 ||api.elmah.io^
 ||api.eu.smartlook.cloud^
+||api.evadav.com^
 ||api.exceptionless.io^
 ||api.exp-metrics.optimizely.com^
 ||api.eyeota.net^
 ||api.fullcontact.com^
 ||api.fullstory.com^
+||api.galaksion.com^
 ||api.glassbox.com^
 ||api.glassboxdigital.com^
 ||api.gosmspro.com^
@@ -862,21 +874,28 @@
 ||api.instabug.com^
 ||api.iolo.com^
 ||api.jumpshot.com^
+||api.kadam.net^
 ||api.livesession.io^
 ||api.logrocket.io^
 ||api.lotame.com^
 ||api.luciq.ai^
 ||api.luckyorange.com^
 ||api.merkle.com^
+||api.mobidea.com^
 ||api.mobilewalla.com^
 ||api.mouseflow.com^
+||api.mybid.io^
 ||api.near.co^
 ||api.nxads.nextory.com^
+||api.onclicka.com^
 ||api.openreplay.com^
 ||api.permutive.app^
 ||api.permutive.com^
 ||api.pkgstats.archlinux.de^
 ||api.ptengine.com^
+||api.push.house^
+||api.pushground.com^
+||api.pushub.com^
 ||api.quantummetric.com^
 ||api.raygun.com^
 ||api.raygun.io^
@@ -885,7 +904,10 @@
 ||api.restoro.com^
 ||api.retargeter.com^
 ||api.reviversoft.com^
+||api.richads.com^
+||api.roiads.co^
 ||api.rollbar.com^
+||api.rollerads.com^
 ||api.safegraph.com^
 ||api.sessioncam.com^
 ||api.sessionrewind.com^
@@ -901,6 +923,7 @@
 ||api.twipla.com^
 ||api.ubimo.com^
 ||api.unacast.com^
+||api.ungads.com^
 ||api.us.smartlook.cloud^
 ||api.uxcam.com^
 ||api.verve.com^
@@ -918,9 +941,26 @@
 ||app-analytics.lyft.com^
 ||app-measurement.com^
 ||app-measurement.uber.com^
+||app.ad-maven.com^
+||app.adoperator.com^
+||app.adprofex.com^
 ||app.bugsplat.com^
+||app.coinis.com^
+||app.evadav.com^
+||app.galaksion.com^
 ||app.getsentry.com^
 ||app.glitchtip.com^
+||app.kadam.net^
+||app.mobidea.com^
+||app.mybid.io^
+||app.onclicka.com^
+||app.push.house^
+||app.pushground.com^
+||app.pushub.com^
+||app.richads.com^
+||app.roiads.co^
+||app.rollerads.com^
+||app.ungads.com^
 ||app4.kromtech.net^
 ||app6.kromtech.net^
 ||app7.kromtech.net^
@@ -1091,10 +1131,15 @@
 ||cdn-sa.pagesense.io^
 ||cdn-sg.pagesense.io^
 ||cdn.acxiom.com^
+||cdn.ad-maven.com^
 ||cdn.adikteev.com^
+||cdn.adoperator.com^
+||cdn.adprofex.com^
 ||cdn.boomtrain.com^
 ||cdn.clicktale.net^
+||cdn.coinis.com^
 ||cdn.decibelinsight.net^
+||cdn.evadav.com^
 ||cdn.fullstory.com^
 ||cdn.glassbox.com^
 ||cdn.glassboxdigital.com^
@@ -1120,22 +1165,29 @@
 ||cdn.medallia.com^
 ||cdn.mouseflow.com^
 ||cdn.navdmp.com^
+||cdn.onclicka.com^
 ||cdn.pagesense.io^
 ||cdn.permutive.app^
 ||cdn.plerdy.com^
 ||cdn.ptengine.com^
 ||cdn.ptengine.jp^
+||cdn.push.house^
+||cdn.pushground.com^
 ||cdn.quantummetric.com^
 ||cdn.reimage.com^
 ||cdn.remerge.io^
 ||cdn.restoro.com^
 ||cdn.retargeter.com^
+||cdn.richads.com^
+||cdn.roiads.co^
+||cdn.rollerads.com^
 ||cdn.sessioncam.com^
 ||cdn.sessionrewind.com^
 ||cdn.sessionstack.com^
 ||cdn.smartlook.com^
 ||cdn.systweak.com^
 ||cdn.twipla.com^
+||cdn.ungads.com^
 ||cdn.visitor-analytics.io^
 ||cdn.zetaglobal.com^
 ||cdn.zipy.ai^
@@ -1189,6 +1241,7 @@
 ||codemetrics.springernature.com^
 ||cohorts.adikteev.com^
 ||cohorts.remerge.io^
+||coinis.com^
 ||collect.airbrake.io^
 ||collect.babbel.io^
 ||collect.biomedcentral.com^
@@ -1330,6 +1383,9 @@
 ||d845108.t43.tonichost.com^
 ||d9.flashtalking.com^
 ||daisy.ubuntu.com^
+||dao.ad^
+||daopush-api.info^
+||daopush.com^
 ||dash-analytics.joinhoney.com^
 ||data-analysis.fedoraproject.org^
 ||data-axle.com^
@@ -1501,6 +1557,7 @@
 ||eu.smartlook.cloud^
 ||eu.uxcam.com^
 ||euc-onenote-telemetry.officeapps.live.com^
+||evadav.com^
 ||eval.bizrate.com^
 ||event-reg.yamaha.com^
 ||event.appsflyer.com^
@@ -1613,6 +1670,8 @@
 ||fwtrack.flashbackrecorder.com^
 ||fwtrack.ticketnetwork.com^
 ||g.clarity.ms^
+||galaksion.com^
+||galaksion.online^
 ||galaxy-log.gog.com^
 ||gallery-metrics.api.brightcove.com^
 ||gambleonline.ca^
@@ -1791,8 +1850,11 @@
 ||jwpltx.com^
 ||k.clarity.ms^
 ||k.pluto.tv^
+||kadam.net^
+||kadam.network^
 ||kaizen-data.kameleoon.eu^
 ||kaizen-data.kameleoon.io^
+||kdtrk.net^
 ||kerish.org^
 ||kerishproducts.com^
 ||kibana-log.cleverdialer.com^
@@ -1847,6 +1909,7 @@
 ||log.facemoji.com^
 ||log.inkitt.com^
 ||log.nordvpn.com^
+||log.onesignal.com^
 ||log.optimizely.com^
 ||log.shazam.com^
 ||log.soundhound.com^
@@ -2131,6 +2194,8 @@
 ||mkt.pcpitstop.com^
 ||ml.adikteev.com^
 ||ml.remerge.io^
+||mobidea.com^
+||mobideapush.com^
 ||mobile-analytics.lyft.com^
 ||mobile-analytics.uber.com^
 ||mobile-sdk.smartlook.com^
@@ -2141,6 +2206,7 @@
 ||mobwsa.ximalaya.com^
 ||monetization-tracking.youtube.com^
 ||monetization.adikteev.com^
+||monetize.rollerads.com^
 ||monitoring.youbora.com^
 ||more.criteo.com^
 ||moreniche.com^
@@ -2155,6 +2221,8 @@
 ||music-analytics.youtube.com^
 ||musr.navdmp.com^
 ||mx.navdmp.com^
+||mybid.io^
+||mybid.partners^
 ||mycleanid.com^
 ||mycleanmac.com^
 ||mycleanpc.com^
@@ -2201,6 +2269,8 @@
 ||offline-analytics.youtube.com^
 ||old-analytics.olacabs.com^
 ||omt.garmin.com^
+||onclicka.com^
+||onclickad.com^
 ||oneaudience.com^
 ||open.zetaglobal.com^
 ||openreplay.com^
@@ -2234,6 +2304,7 @@
 ||parsely.com^
 ||partner.criteo.com^
 ||partners.adikteev.com^
+||partners.house^
 ||partners.remerge.io^
 ||passion.com^
 ||paypal.112.2o7.net^
@@ -2306,6 +2377,7 @@
 ||popcon.debian.org^
 ||popcon.ubuntu.com^
 ||portfolio.adikteev.com^
+||post-log.pushwoosh.com^
 ||post.analytics10.ticketmaster.com^
 ||postback.adikteev.com^
 ||postback.remerge.io^
@@ -2332,6 +2404,7 @@
 ||pub.mylead.global^
 ||pub.observability.app.launchdarkly.com^
 ||public-api.adikteev.com^
+||publishers.ad-maven.com^
 ||publishertracking.api.cj.com^
 ||pubnative.net^
 ||pulse-apac.conviva.com^
@@ -2341,6 +2414,9 @@
 ||pulse.raygun.com^
 ||push.appsignal.com^
 ||push.goforandroid.com^
+||push.house^
+||pushground.com^
+||pushub.com^
 ||q.clarity.ms^
 ||q.stripe.com^
 ||qksrv.net^
@@ -2422,6 +2498,8 @@
 ||rezync.com^
 ||rfihub.com^
 ||rfihub.net^
+||richads.com^
+||richpush.co^
 ||rightbackup.com^
 ||rightmedia.criteo.com^
 ||ringcentral.112.2o7.net^
@@ -2429,7 +2507,9 @@
 ||risk.dnb.com^
 ||rmmetrics.mcafee.com^
 ||rnsfpw.net^
+||roiads.co^
 ||rollbar.com^
+||rollerads.com^
 ||rosecitysoftware.com^
 ||rpi-imager-stats.raspberrypi.com^
 ||rr.bizrate.com^
@@ -2540,6 +2620,7 @@
 ||sentry.io.steinberg.net^
 ||sentry.klippa.com^
 ||sentry.protonvpn.com^
+||sentry.pushwoosh.com^
 ||sentry.scielo.org^
 ||sentry.scispace.com^
 ||sentry.squareup.com^
@@ -2637,6 +2718,8 @@
 ||sslcs.cdngc.net^
 ||sslwidget.criteo.com^
 ||ssp-sync.criteo.com^
+||ssp.coinis.com^
+||ssp.galaksion.com^
 ||ssp.zetaglobal.com^
 ||sstats.bitdefender.com^
 ||sstats.epicurious.com^
@@ -2709,6 +2792,7 @@
 ||stats.paypal.com^
 ||stats.playit.pk^
 ||stats.podbean.com^
+||stats.pusher.com^
 ||stats.rarible.com^
 ||stats.raspberrypi.org^
 ||stats.shouldianswer.net^
@@ -3059,6 +3143,7 @@
 ||track.period-tracker.com^
 ||track.periodcalendar.net^
 ||track.premom.com^
+||track.pusher.com^
 ||track.register.webnovel.com^
 ||track.remerge.io^
 ||track.researchrabbit.ai^
@@ -3081,6 +3166,7 @@
 ||tracker.gnome.org^
 ||tracker.gymshark.com^
 ||tracker.kali.org^
+||tracker.mobidea.com^
 ||tracker.opensuse.org^
 ||tracker.prf.hn^
 ||tracker.quitgambling.com^
@@ -3236,6 +3322,7 @@
 ||ukrep.reimage.com^
 ||unacast.com^
 ||undeleteplusapp.com^
+||ungads.com^
 ||uniblue.com^
 ||uninstall.remerge.io^
 ||universal-links.adikteev.com^
@@ -3344,6 +3431,7 @@
 ||webhook.remerge.io^
 ||webhooks.adikteev.com^
 ||webhooks.remerge.io^
+||weblog.pushwoosh.com^
 ||webmaxy.co^
 ||webmaxy.com^
 ||webmaxy.io^
@@ -3410,6 +3498,7 @@
 ||www.members-sexart.adultfriendfinder.com^
 ||www.metaffiliation.com^
 ||www.metrix.adultfriendfinder.com^
+||www.mobideapush.com^
 ||www.moreniche.com^
 ||www.mylead.global^
 ||www.navdmp.com^
