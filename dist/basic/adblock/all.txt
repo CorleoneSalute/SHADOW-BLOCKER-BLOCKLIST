@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3585
+# Total domains: 3609
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -49,6 +49,7 @@
 ||ad-analytics.conviva.com^
 ||ad-analytics.crunchyroll.com^
 ||ad-analytics.dazn.com^
+||ad-analytics.fitbit.com^
 ||ad-analytics.fubo.tv^
 ||ad-analytics.hbomax.com^
 ||ad-analytics.hotstar.com^
@@ -127,6 +128,7 @@
 ||ads.dynamicyield.com^
 ||ads.emojixpress.com^
 ||ads.espn.com^
+||ads.fitbit.com^
 ||ads.flaviar.com^
 ||ads.fubo.tv^
 ||ads.gentoo.org^
@@ -210,6 +212,7 @@
 ||adview-prod-row.waze.com^
 ||advil.waze.com^
 ||advilapsoutheast1.waze.com^
+||advisor-analytics.ouraring.com^
 ||adx.mxplayer.in^
 ||adx.zetaglobal.com^
 ||afb.accuweather.com^
@@ -233,6 +236,7 @@
 ||analytic.underarmour.com^
 ||analytics-api.id.me^
 ||analytics-api.obefitness.com^
+||analytics-api.samsunghealthcn.com^
 ||analytics-api.vervemobile.com^
 ||analytics-cdn.obefitness.com^
 ||analytics-ingress-apac.bitmovin.com^
@@ -400,6 +404,7 @@
 ||analytics.femia.health^
 ||analytics.fertilityfriend.com^
 ||analytics.fitbark.com^
+||analytics.fitbit.com^
 ||analytics.fixme.it^
 ||analytics.fleksy.com^
 ||analytics.flo.health^
@@ -595,6 +600,7 @@
 ||analytics.podcastle.ai^
 ||analytics.podigee.com^
 ||analytics.pof.com^
+||analytics.polar.com^
 ||analytics.prageru.com^
 ||analytics.prembly.com^
 ||analytics.premom.com^
@@ -638,6 +644,7 @@
 ||analytics.runsignup.com^
 ||analytics.runtastic.com^
 ||analytics.samsungfood.com^
+||analytics.samsunghealth.com^
 ||analytics.samsungpay.com^
 ||analytics.scielo.org^
 ||analytics.scruff.com^
@@ -808,6 +815,7 @@
 ||ap-southeast-1-1.telemetry.insights.video.a2z.com^
 ||ap.coinis.com^
 ||api-analytics.bird.co^
+||api-analytics.huami.com^
 ||api-apac.adikteev.com^
 ||api-apac.remerge.io^
 ||api-apac.zetaglobal.com^
@@ -940,6 +948,7 @@
 ||api.zipy.ai^
 ||api.zoominfo.com^
 ||apmebf.com^
+||app-analytics.huami.com^
 ||app-analytics.lyft.com^
 ||app-measurement.com^
 ||app-measurement.uber.com^
@@ -1210,12 +1219,14 @@
 ||cj.dotomi.com^
 ||cjads.com^
 ||clarity.ms^
+||clarity.zepp.com^
 ||cleanup-my-mac.live^
 ||cleanupmymac.com^
 ||cleanupmymac.live^
 ||clearbit.com^
 ||click.adikteev.com^
 ||click.appsflyer.com^
+||click.e.fitbit.com^
 ||click.insights.seon.io^
 ||click.mail.crakrevenue.com^
 ||click.remerge.io^
@@ -1670,6 +1681,10 @@
 ||fraud.adikteev.com^
 ||fraud.remerge.io^
 ||frtyb.com^
+||ft-sentry-a.hetangsmart.com^
+||ft-sentry-i.hetangsmart.com^
+||ft-sentry.hetangsmart.com^
+||ft-sentry2.hetangsmart.com^
 ||ftjcfx.com^
 ||fullcontact.com^
 ||fullstory.com^
@@ -2087,6 +2102,7 @@
 ||metrics.eu.platform.idnow.io^
 ||metrics.evernote.com^
 ||metrics.expressvpn.com^
+||metrics.fitbit.com^
 ||metrics.flo.health^
 ||metrics.freedownloadmanager.org^
 ||metrics.fresha.com^
@@ -2149,6 +2165,7 @@
 ||metrics.privateinternetaccess.com^
 ||metrics.qa.max.weather.com^
 ||metrics.razer.com^
+||metrics.reebok.com^
 ||metrics.replika.ai^
 ||metrics.resonite.com^
 ||metrics.riotgames.com^
@@ -2626,6 +2643,7 @@
 ||sentry.audacityteam.org^
 ||sentry.clickdealer.com^
 ||sentry.codeium.com^
+||sentry.elitehrv.com^
 ||sentry.highscore.com^
 ||sentry.hub.klippa.com^
 ||sentry.identomat.com^
@@ -2665,6 +2683,7 @@
 ||sgtm.skrill.com^
 ||sgtm.storytel.com^
 ||shareasale-analytics.com^
+||shealth-analytics-api.samsunghealth.com^
 ||shop.tags.elsevier.com^
 ||shopify.crazyegg.com^
 ||shoppinganalytics-pa.googleapis.com^
@@ -2704,6 +2723,7 @@
 ||smetrics.reaxys.com^
 ||smetrics.retailmenot.com^
 ||smetrics.sciencedirect.com^
+||smetrics.suunto.com^
 ||smetrics.teambeachbody.com^
 ||smetrics.totalwine.com^
 ||smetrics.ubi.com^
@@ -2974,6 +2994,7 @@
 ||telemetry.expressvpn.com^
 ||telemetry.fadr.com^
 ||telemetry.fedoraproject.org^
+||telemetry.fitbit.com^
 ||telemetry.flashbackrecorder.com^
 ||telemetry.flo.health^
 ||telemetry.freedownloadmanager.org^
@@ -3035,6 +3056,7 @@
 ||telemetry.playit.pk^
 ||telemetry.pluto.tv^
 ||telemetry.podcastle.ai^
+||telemetry.polar.com^
 ||telemetry.presonus.com^
 ||telemetry.privateinternetaccess.com^
 ||telemetry.proton.me^
@@ -3187,6 +3209,7 @@
 ||tracker.kali.org^
 ||tracker.mobidea.com^
 ||tracker.opensuse.org^
+||tracker.polar.com^
 ||tracker.prf.hn^
 ||tracker.quitgambling.com^
 ||tracker.remerge.io^
@@ -3311,6 +3334,7 @@
 ||trk.dowjones.com^
 ||trk.eib.presonus.com^
 ||trk.gojek.com^
+||trk.gonoise.com^
 ||trk.hi.pvolve.com^
 ||trk.m.blueapron.com^
 ||trk.pvolve.com^

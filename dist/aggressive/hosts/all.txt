@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3657
+# Total domains: 3681
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -51,6 +51,7 @@
 0.0.0.0 ad-analytics.conviva.com
 0.0.0.0 ad-analytics.crunchyroll.com
 0.0.0.0 ad-analytics.dazn.com
+0.0.0.0 ad-analytics.fitbit.com
 0.0.0.0 ad-analytics.fubo.tv
 0.0.0.0 ad-analytics.hbomax.com
 0.0.0.0 ad-analytics.hotstar.com
@@ -133,6 +134,7 @@
 0.0.0.0 ads.dynamicyield.com
 0.0.0.0 ads.emojixpress.com
 0.0.0.0 ads.espn.com
+0.0.0.0 ads.fitbit.com
 0.0.0.0 ads.flaviar.com
 0.0.0.0 ads.fubo.tv
 0.0.0.0 ads.gentoo.org
@@ -222,6 +224,7 @@
 0.0.0.0 adview-prod-row.waze.com
 0.0.0.0 advil.waze.com
 0.0.0.0 advilapsoutheast1.waze.com
+0.0.0.0 advisor-analytics.ouraring.com
 0.0.0.0 adx.mxplayer.in
 0.0.0.0 adx.zetaglobal.com
 0.0.0.0 afb.accuweather.com
@@ -246,6 +249,7 @@
 0.0.0.0 analytic.underarmour.com
 0.0.0.0 analytics-api.id.me
 0.0.0.0 analytics-api.obefitness.com
+0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-api.vervemobile.com
 0.0.0.0 analytics-cdn.obefitness.com
 0.0.0.0 analytics-ingress-apac.bitmovin.com
@@ -413,6 +417,7 @@
 0.0.0.0 analytics.femia.health
 0.0.0.0 analytics.fertilityfriend.com
 0.0.0.0 analytics.fitbark.com
+0.0.0.0 analytics.fitbit.com
 0.0.0.0 analytics.fixme.it
 0.0.0.0 analytics.fleksy.com
 0.0.0.0 analytics.flo.health
@@ -609,6 +614,7 @@
 0.0.0.0 analytics.podigee.com
 0.0.0.0 analytics.podtrac.com
 0.0.0.0 analytics.pof.com
+0.0.0.0 analytics.polar.com
 0.0.0.0 analytics.prageru.com
 0.0.0.0 analytics.prembly.com
 0.0.0.0 analytics.premom.com
@@ -652,6 +658,7 @@
 0.0.0.0 analytics.runsignup.com
 0.0.0.0 analytics.runtastic.com
 0.0.0.0 analytics.samsungfood.com
+0.0.0.0 analytics.samsunghealth.com
 0.0.0.0 analytics.samsungpay.com
 0.0.0.0 analytics.scielo.org
 0.0.0.0 analytics.scruff.com
@@ -822,6 +829,7 @@
 0.0.0.0 ap-southeast-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 ap.coinis.com
 0.0.0.0 api-analytics.bird.co
+0.0.0.0 api-analytics.huami.com
 0.0.0.0 api-apac.adikteev.com
 0.0.0.0 api-apac.remerge.io
 0.0.0.0 api-apac.zetaglobal.com
@@ -955,6 +963,7 @@
 0.0.0.0 api.zipy.ai
 0.0.0.0 api.zoominfo.com
 0.0.0.0 apmebf.com
+0.0.0.0 app-analytics.huami.com
 0.0.0.0 app-analytics.lyft.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app-measurement.uber.com
@@ -1233,12 +1242,14 @@
 0.0.0.0 cj.dotomi.com
 0.0.0.0 cjads.com
 0.0.0.0 clarity.ms
+0.0.0.0 clarity.zepp.com
 0.0.0.0 cleanup-my-mac.live
 0.0.0.0 cleanupmymac.com
 0.0.0.0 cleanupmymac.live
 0.0.0.0 clearbit.com
 0.0.0.0 click.adikteev.com
 0.0.0.0 click.appsflyer.com
+0.0.0.0 click.e.fitbit.com
 0.0.0.0 click.insights.seon.io
 0.0.0.0 click.mail.crakrevenue.com
 0.0.0.0 click.remerge.io
@@ -1703,6 +1714,10 @@
 0.0.0.0 fraud.adikteev.com
 0.0.0.0 fraud.remerge.io
 0.0.0.0 frtyb.com
+0.0.0.0 ft-sentry-a.hetangsmart.com
+0.0.0.0 ft-sentry-i.hetangsmart.com
+0.0.0.0 ft-sentry.hetangsmart.com
+0.0.0.0 ft-sentry2.hetangsmart.com
 0.0.0.0 ftjcfx.com
 0.0.0.0 fullcontact.com
 0.0.0.0 fullstory.com
@@ -2126,6 +2141,7 @@
 0.0.0.0 metrics.eu.platform.idnow.io
 0.0.0.0 metrics.evernote.com
 0.0.0.0 metrics.expressvpn.com
+0.0.0.0 metrics.fitbit.com
 0.0.0.0 metrics.flo.health
 0.0.0.0 metrics.freedownloadmanager.org
 0.0.0.0 metrics.fresha.com
@@ -2188,6 +2204,7 @@
 0.0.0.0 metrics.privateinternetaccess.com
 0.0.0.0 metrics.qa.max.weather.com
 0.0.0.0 metrics.razer.com
+0.0.0.0 metrics.reebok.com
 0.0.0.0 metrics.replika.ai
 0.0.0.0 metrics.resonite.com
 0.0.0.0 metrics.riotgames.com
@@ -2682,6 +2699,7 @@
 0.0.0.0 sentry.audacityteam.org
 0.0.0.0 sentry.clickdealer.com
 0.0.0.0 sentry.codeium.com
+0.0.0.0 sentry.elitehrv.com
 0.0.0.0 sentry.highscore.com
 0.0.0.0 sentry.hub.klippa.com
 0.0.0.0 sentry.identomat.com
@@ -2722,6 +2740,7 @@
 0.0.0.0 sgtm.skrill.com
 0.0.0.0 sgtm.storytel.com
 0.0.0.0 shareasale-analytics.com
+0.0.0.0 shealth-analytics-api.samsunghealth.com
 0.0.0.0 shop.tags.elsevier.com
 0.0.0.0 shopify.crazyegg.com
 0.0.0.0 shoppinganalytics-pa.googleapis.com
@@ -2761,6 +2780,7 @@
 0.0.0.0 smetrics.reaxys.com
 0.0.0.0 smetrics.retailmenot.com
 0.0.0.0 smetrics.sciencedirect.com
+0.0.0.0 smetrics.suunto.com
 0.0.0.0 smetrics.teambeachbody.com
 0.0.0.0 smetrics.totalwine.com
 0.0.0.0 smetrics.ubi.com
@@ -3032,6 +3052,7 @@
 0.0.0.0 telemetry.expressvpn.com
 0.0.0.0 telemetry.fadr.com
 0.0.0.0 telemetry.fedoraproject.org
+0.0.0.0 telemetry.fitbit.com
 0.0.0.0 telemetry.flashbackrecorder.com
 0.0.0.0 telemetry.flo.health
 0.0.0.0 telemetry.freedownloadmanager.org
@@ -3093,6 +3114,7 @@
 0.0.0.0 telemetry.playit.pk
 0.0.0.0 telemetry.pluto.tv
 0.0.0.0 telemetry.podcastle.ai
+0.0.0.0 telemetry.polar.com
 0.0.0.0 telemetry.presonus.com
 0.0.0.0 telemetry.privateinternetaccess.com
 0.0.0.0 telemetry.proton.me
@@ -3245,6 +3267,7 @@
 0.0.0.0 tracker.kali.org
 0.0.0.0 tracker.mobidea.com
 0.0.0.0 tracker.opensuse.org
+0.0.0.0 tracker.polar.com
 0.0.0.0 tracker.prf.hn
 0.0.0.0 tracker.quitgambling.com
 0.0.0.0 tracker.remerge.io
@@ -3372,6 +3395,7 @@
 0.0.0.0 trk.dowjones.com
 0.0.0.0 trk.eib.presonus.com
 0.0.0.0 trk.gojek.com
+0.0.0.0 trk.gonoise.com
 0.0.0.0 trk.hi.pvolve.com
 0.0.0.0 trk.m.blueapron.com
 0.0.0.0 trk.pvolve.com
