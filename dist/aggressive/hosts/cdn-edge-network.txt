@@ -1,0 +1,15 @@
+# ============================================================
+# CDN EDGE NETWORK BLOCKLIST - AGGRESSIVE
+# Total domains: 8
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 api-logging.bunnycdn.com
+0.0.0.0 cloudflareinsights.com
+0.0.0.0 logging.bunnycdn.com
+0.0.0.0 static.cloudflareinsights.com
+0.0.0.0 track.akamai.com
+0.0.0.0 user-metrics-3.bunnycdn.com
+0.0.0.0 user-metrics.bunnycdn.com
+0.0.0.0 waf-metrics.bunnycdn.com

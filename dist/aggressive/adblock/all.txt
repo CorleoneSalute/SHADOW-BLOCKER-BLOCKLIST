@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 2084
+# Total domains: 2092
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -465,6 +465,7 @@
 ||ap-southeast-1-1.telemetry.insights.video.a2z.com^
 ||api-analytics.bird.co^
 ||api-eu.mouseflow.com^
+||api-logging.bunnycdn.com^
 ||api-logging.hulu.com^
 ||api-logging.netflix.com^
 ||api-us.mouseflow.com^
@@ -725,6 +726,7 @@
 ||client-telemetry.us-east-1.amazonaws.com^
 ||clientlogs.tunnelbear.com^
 ||cloud.tealeaf.com^
+||cloudflareinsights.com^
 ||cloudtrack.cal.com^
 ||clr.telemetry.intel.com^
 ||collect.airbrake.io^
@@ -1142,6 +1144,7 @@
 ||logger.scite.ai^
 ||logging.archlinux.org^
 ||logging.bamgrid.com^
+||logging.bunnycdn.com^
 ||logging.netflix.com^
 ||logging.rarible.com^
 ||logr-in.com^
@@ -1600,6 +1603,7 @@
 ||stat.tiara.kakao.com^
 ||static-cdn.hotjar.com^
 ||static.chartbeat.com^
+||static.cloudflareinsights.com^
 ||static.crazyegg.com^
 ||static.fullstory.com^
 ||static.hotjar.com^
@@ -1805,6 +1809,7 @@
 ||track-aws.m.ridewithvia.com^
 ||track-integration.gojek.com^
 ||track.aitype.com^
+||track.akamai.com^
 ||track.appsflyer.com^
 ||track.branch.io^
 ||track.cg.wine.com^
@@ -1948,6 +1953,8 @@
 ||us.uxcam.com^
 ||usage.trackjs.com^
 ||usagereports.elsevier.com^
+||user-metrics-3.bunnycdn.com^
+||user-metrics.bunnycdn.com^
 ||usr.navdmp.com^
 ||utt.impactcdn.com^
 ||uxcam.com^
@@ -1999,6 +2006,7 @@
 ||w.clarity.ms^
 ||w1.luckyorange.com^
 ||w4.com^
+||waf-metrics.bunnycdn.com^
 ||wcs.naver.com^
 ||web-analytics.lastpass.com^
 ||web-analytics.openaire.eu^

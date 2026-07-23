@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 2084
+# Total domains: 2092
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -465,6 +465,7 @@
 0.0.0.0 ap-southeast-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 api-analytics.bird.co
 0.0.0.0 api-eu.mouseflow.com
+0.0.0.0 api-logging.bunnycdn.com
 0.0.0.0 api-logging.hulu.com
 0.0.0.0 api-logging.netflix.com
 0.0.0.0 api-us.mouseflow.com
@@ -725,6 +726,7 @@
 0.0.0.0 client-telemetry.us-east-1.amazonaws.com
 0.0.0.0 clientlogs.tunnelbear.com
 0.0.0.0 cloud.tealeaf.com
+0.0.0.0 cloudflareinsights.com
 0.0.0.0 cloudtrack.cal.com
 0.0.0.0 clr.telemetry.intel.com
 0.0.0.0 collect.airbrake.io
@@ -1142,6 +1144,7 @@
 0.0.0.0 logger.scite.ai
 0.0.0.0 logging.archlinux.org
 0.0.0.0 logging.bamgrid.com
+0.0.0.0 logging.bunnycdn.com
 0.0.0.0 logging.netflix.com
 0.0.0.0 logging.rarible.com
 0.0.0.0 logr-in.com
@@ -1600,6 +1603,7 @@
 0.0.0.0 stat.tiara.kakao.com
 0.0.0.0 static-cdn.hotjar.com
 0.0.0.0 static.chartbeat.com
+0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.crazyegg.com
 0.0.0.0 static.fullstory.com
 0.0.0.0 static.hotjar.com
@@ -1805,6 +1809,7 @@
 0.0.0.0 track-aws.m.ridewithvia.com
 0.0.0.0 track-integration.gojek.com
 0.0.0.0 track.aitype.com
+0.0.0.0 track.akamai.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.branch.io
 0.0.0.0 track.cg.wine.com
@@ -1948,6 +1953,8 @@
 0.0.0.0 us.uxcam.com
 0.0.0.0 usage.trackjs.com
 0.0.0.0 usagereports.elsevier.com
+0.0.0.0 user-metrics-3.bunnycdn.com
+0.0.0.0 user-metrics.bunnycdn.com
 0.0.0.0 usr.navdmp.com
 0.0.0.0 utt.impactcdn.com
 0.0.0.0 uxcam.com
@@ -1999,6 +2006,7 @@
 0.0.0.0 w.clarity.ms
 0.0.0.0 w1.luckyorange.com
 0.0.0.0 w4.com
+0.0.0.0 waf-metrics.bunnycdn.com
 0.0.0.0 wcs.naver.com
 0.0.0.0 web-analytics.lastpass.com
 0.0.0.0 web-analytics.openaire.eu
