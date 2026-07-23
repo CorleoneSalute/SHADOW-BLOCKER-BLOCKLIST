@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 2092
+# Total domains: 2109
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -135,6 +135,7 @@
 0.0.0.0 adsquare.com
 0.0.0.0 adstradata.com
 0.0.0.0 advanalytics.underarmour.com
+0.0.0.0 advertiser.petcube.com
 0.0.0.0 advertising.waze.com
 0.0.0.0 adverweb.cjenm.com
 0.0.0.0 advidi.com
@@ -215,6 +216,7 @@
 0.0.0.0 analytics.cellarpass.com
 0.0.0.0 analytics.cf.morgen.so
 0.0.0.0 analytics.character.ai
+0.0.0.0 analytics.chewy.com
 0.0.0.0 analytics.clarovideo.com
 0.0.0.0 analytics.clickbank.com
 0.0.0.0 analytics.clozemaster.com
@@ -252,12 +254,14 @@
 0.0.0.0 analytics.expressvpn.com
 0.0.0.0 analytics.faithlife.com
 0.0.0.0 analytics.fandangoathome.com
+0.0.0.0 analytics.fitbark.com
 0.0.0.0 analytics.fixme.it
 0.0.0.0 analytics.fleksy.com
 0.0.0.0 analytics.forvo.com
 0.0.0.0 analytics.foundation.app
 0.0.0.0 analytics.fresha.com
 0.0.0.0 analytics.fubo.tv
+0.0.0.0 analytics.furbo.com
 0.0.0.0 analytics.gikken.co
 0.0.0.0 analytics.gingersoftware.com
 0.0.0.0 analytics.givelify.com
@@ -350,6 +354,10 @@
 0.0.0.0 analytics.parsely.com
 0.0.0.0 analytics.pbskids.org
 0.0.0.0 analytics.peacocktv.com
+0.0.0.0 analytics.petco.com
+0.0.0.0 analytics.petcube.com
+0.0.0.0 analytics.petdesk.com
+0.0.0.0 analytics.petsmart.com
 0.0.0.0 analytics.piano.io
 0.0.0.0 analytics.pimsleur.com
 0.0.0.0 analytics.pixalate.com
@@ -379,6 +387,7 @@
 0.0.0.0 analytics.rocketlanguages.com
 0.0.0.0 analytics.rockylinux.org
 0.0.0.0 analytics.rosettastone.com
+0.0.0.0 analytics.rover.com
 0.0.0.0 analytics.rsa.com
 0.0.0.0 analytics.rtlplus.com
 0.0.0.0 analytics.rumble.com
@@ -415,6 +424,7 @@
 0.0.0.0 analytics.timesinternet.in
 0.0.0.0 analytics.tonal.com
 0.0.0.0 analytics.torguard.net
+0.0.0.0 analytics.tractive.com
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.transparent.com
 0.0.0.0 analytics.tubitv.com
@@ -824,6 +834,7 @@
 0.0.0.0 data-collection.brightcove.com
 0.0.0.0 data.acxiom.com
 0.0.0.0 data.analytics-cdn.teachable.com
+0.0.0.0 data.app-analytics.petdesk.com
 0.0.0.0 data.conviva.com
 0.0.0.0 data.infutor.com
 0.0.0.0 data.locate-x.com
@@ -1157,6 +1168,7 @@
 0.0.0.0 logs.bobble.ai
 0.0.0.0 logs.cachyos.org
 0.0.0.0 logs.circle.so
+0.0.0.0 logs.fitbark.com
 0.0.0.0 logs.flaviar.com
 0.0.0.0 logs.ghost.org
 0.0.0.0 logs.gnu.org
@@ -1579,6 +1591,7 @@
 0.0.0.0 smetrics.engineeringvillage.com
 0.0.0.0 smetrics.lww.com
 0.0.0.0 smetrics.majestic.co.uk
+0.0.0.0 smetrics.petsmart.com
 0.0.0.0 smetrics.reaxys.com
 0.0.0.0 smetrics.sciencedirect.com
 0.0.0.0 smetrics.teambeachbody.com
@@ -1864,9 +1877,11 @@
 0.0.0.0 tracking.avast.com
 0.0.0.0 tracking.avg.com
 0.0.0.0 tracking.awin.com
+0.0.0.0 tracking.bark.co
 0.0.0.0 tracking.bolt.eu
 0.0.0.0 tracking.booksy.com
 0.0.0.0 tracking.bsplayer.com
+0.0.0.0 tracking.chewy.com
 0.0.0.0 tracking.crazyegg.com
 0.0.0.0 tracking.cyberghostvpn.com
 0.0.0.0 tracking.effiliation.com
@@ -1916,6 +1931,7 @@
 0.0.0.0 trackworld-model-1.apps.allenai.org
 0.0.0.0 trackworld-model-2.apps.allenai.org
 0.0.0.0 traffic-analytics.ghost.org
+0.0.0.0 trckr.petcube.com
 0.0.0.0 trino-analytics-ext.data.bird.co
 0.0.0.0 trk.datify.link
 0.0.0.0 trk.gojek.com
@@ -2019,6 +2035,7 @@
 0.0.0.0 webmaxy.com
 0.0.0.0 webmaxy.io
 0.0.0.0 websights.zoominfo.com
+0.0.0.0 weeklyad.petsmart.com
 0.0.0.0 whale-tracker.nftgo.io
 0.0.0.0 whoopsie.ubuntu.com
 0.0.0.0 widgets.lotame.com

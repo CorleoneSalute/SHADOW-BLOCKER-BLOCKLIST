@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 2046
+# Total domains: 2063
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -131,6 +131,7 @@ adserver.mxplayer.in
 adsquare.com
 adstradata.com
 advanalytics.underarmour.com
+advertiser.petcube.com
 advertising.waze.com
 adverweb.cjenm.com
 advidi.com
@@ -211,6 +212,7 @@ analytics.cbsaavideo.com
 analytics.cellarpass.com
 analytics.cf.morgen.so
 analytics.character.ai
+analytics.chewy.com
 analytics.clarovideo.com
 analytics.clickbank.com
 analytics.clozemaster.com
@@ -248,12 +250,14 @@ analytics.evernote.com
 analytics.expressvpn.com
 analytics.faithlife.com
 analytics.fandangoathome.com
+analytics.fitbark.com
 analytics.fixme.it
 analytics.fleksy.com
 analytics.forvo.com
 analytics.foundation.app
 analytics.fresha.com
 analytics.fubo.tv
+analytics.furbo.com
 analytics.gikken.co
 analytics.gingersoftware.com
 analytics.givelify.com
@@ -346,6 +350,10 @@ analytics.parrot.sh
 analytics.parsely.com
 analytics.pbskids.org
 analytics.peacocktv.com
+analytics.petco.com
+analytics.petcube.com
+analytics.petdesk.com
+analytics.petsmart.com
 analytics.piano.io
 analytics.pimsleur.com
 analytics.pixalate.com
@@ -375,6 +383,7 @@ analytics.roboform.com
 analytics.rocketlanguages.com
 analytics.rockylinux.org
 analytics.rosettastone.com
+analytics.rover.com
 analytics.rsa.com
 analytics.rtlplus.com
 analytics.rumble.com
@@ -411,6 +420,7 @@ analytics.ticketmaster.es
 analytics.timesinternet.in
 analytics.tonal.com
 analytics.torguard.net
+analytics.tractive.com
 analytics.tradedoubler.com
 analytics.transparent.com
 analytics.tubitv.com
@@ -812,6 +822,7 @@ data-axle.com
 data-collection.brightcove.com
 data.acxiom.com
 data.analytics-cdn.teachable.com
+data.app-analytics.petdesk.com
 data.conviva.com
 data.infutor.com
 data.locate-x.com
@@ -1132,6 +1143,7 @@ logs.1password.com
 logs.bobble.ai
 logs.cachyos.org
 logs.circle.so
+logs.fitbark.com
 logs.flaviar.com
 logs.ghost.org
 logs.gnu.org
@@ -1542,6 +1554,7 @@ smetrics.elsevier.com
 smetrics.engineeringvillage.com
 smetrics.lww.com
 smetrics.majestic.co.uk
+smetrics.petsmart.com
 smetrics.reaxys.com
 smetrics.sciencedirect.com
 smetrics.teambeachbody.com
@@ -1826,9 +1839,11 @@ tracking.avantlink.com
 tracking.avast.com
 tracking.avg.com
 tracking.awin.com
+tracking.bark.co
 tracking.bolt.eu
 tracking.booksy.com
 tracking.bsplayer.com
+tracking.chewy.com
 tracking.crazyegg.com
 tracking.cyberghostvpn.com
 tracking.effiliation.com
@@ -1878,6 +1893,7 @@ tracknooks.abcfitness.com
 trackworld-model-1.apps.allenai.org
 trackworld-model-2.apps.allenai.org
 traffic-analytics.ghost.org
+trckr.petcube.com
 trino-analytics-ext.data.bird.co
 trk.datify.link
 trk.gojek.com
@@ -1973,6 +1989,7 @@ webmaxy.co
 webmaxy.com
 webmaxy.io
 websights.zoominfo.com
+weeklyad.petsmart.com
 whale-tracker.nftgo.io
 whoopsie.ubuntu.com
 widgets.lotame.com
