@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1253
+# Total domains: 1270
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -123,6 +123,7 @@
 0.0.0.0 analytics-ingress-us.bitmovin.com
 0.0.0.0 analytics-iq.com
 0.0.0.0 analytics-pbl.vivino.com
+0.0.0.0 analytics.1password.com
 0.0.0.0 analytics.abema.tv
 0.0.0.0 analytics.api.brightcove.com
 0.0.0.0 analytics.appsflyer.com
@@ -147,12 +148,14 @@
 0.0.0.0 analytics.cs.zohohost.com
 0.0.0.0 analytics.curiositystream.com
 0.0.0.0 analytics.dailywire.com
+0.0.0.0 analytics.dashlane.com
 0.0.0.0 analytics.dazn.com
 0.0.0.0 analytics.delectable.com
 0.0.0.0 analytics.digitalpour.com
 0.0.0.0 analytics.discoveryplus.com
 0.0.0.0 analytics.disneynow.com
 0.0.0.0 analytics.disneyplus.com
+0.0.0.0 analytics.enpass.io
 0.0.0.0 analytics.espn.com
 0.0.0.0 analytics.evernote.com
 0.0.0.0 analytics.fandangoathome.com
@@ -168,8 +171,10 @@
 0.0.0.0 analytics.joplincloud.com
 0.0.0.0 analytics.jwplayer.com
 0.0.0.0 analytics.kaltura.com
+0.0.0.0 analytics.keeper.io
 0.0.0.0 analytics.kidoodle.tv
 0.0.0.0 analytics.komoot.com
+0.0.0.0 analytics.lastpass.com
 0.0.0.0 analytics.logitech.com
 0.0.0.0 analytics.mapbox.com
 0.0.0.0 analytics.maps.me
@@ -186,6 +191,7 @@
 0.0.0.0 analytics.netflix.com
 0.0.0.0 analytics.nicovideo.jp
 0.0.0.0 analytics.noggin.com
+0.0.0.0 analytics.nordpass.com
 0.0.0.0 analytics.obsidian.md
 0.0.0.0 analytics.paramountplus.com
 0.0.0.0 analytics.parsely.com
@@ -200,12 +206,14 @@
 0.0.0.0 analytics.rakutenmarketing.com
 0.0.0.0 analytics.razerzone.com
 0.0.0.0 analytics.roamresearch.com
+0.0.0.0 analytics.roboform.com
 0.0.0.0 analytics.rtlplus.com
 0.0.0.0 analytics.rumble.com
 0.0.0.0 analytics.simplenote.com
 0.0.0.0 analytics.skyshowtime.com
 0.0.0.0 analytics.stan.com.au
 0.0.0.0 analytics.steelseries.com
+0.0.0.0 analytics.stickypassword.com
 0.0.0.0 analytics.taphunter.com
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.tubitv.com
@@ -465,6 +473,8 @@
 0.0.0.0 crash.bamgrid.com
 0.0.0.0 crash.corsair.com
 0.0.0.0 crash.mapbox.com
+0.0.0.0 crashes.1password.com
+0.0.0.0 crashes.dashlane.com
 0.0.0.0 crashreport.razer.com
 0.0.0.0 crazyegg.com
 0.0.0.0 cricket-metrics.hotstar.com
@@ -706,6 +716,7 @@
 0.0.0.0 logr-ingest.com
 0.0.0.0 logrocket.com
 0.0.0.0 logrocket.io
+0.0.0.0 logs.1password.com
 0.0.0.0 logs.bobble.ai
 0.0.0.0 logs.hulu.com
 0.0.0.0 logs.netflix.com
@@ -736,6 +747,7 @@
 0.0.0.0 merkleresponse.com
 0.0.0.0 merkury.dentsu.com
 0.0.0.0 metaffiliation.com
+0.0.0.0 metrics.1password.com
 0.0.0.0 metrics.abema.tv
 0.0.0.0 metrics.binge.com.au
 0.0.0.0 metrics.bitmovin.com
@@ -749,6 +761,7 @@
 0.0.0.0 metrics.crunchyroll.com
 0.0.0.0 metrics.curiositystream.com
 0.0.0.0 metrics.dailywire.com
+0.0.0.0 metrics.dashlane.com
 0.0.0.0 metrics.dazn.com
 0.0.0.0 metrics.discoveryplus.com
 0.0.0.0 metrics.disneyplus.com
@@ -1034,6 +1047,8 @@
 0.0.0.0 tealeaf.com
 0.0.0.0 tealeaf.ibmcloud.com
 0.0.0.0 tealeafcloud.com
+0.0.0.0 telemetry.1password.com
+0.0.0.0 telemetry.1passwordservices.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.bamgrid.com
 0.0.0.0 telemetry.bitmovin.com
@@ -1054,6 +1069,7 @@
 0.0.0.0 telemetry.paramountplus.com
 0.0.0.0 telemetry.peacocktv.com
 0.0.0.0 telemetry.pluto.tv
+0.0.0.0 telemetry.proton.me
 0.0.0.0 telemetry.razer.com
 0.0.0.0 telemetry.roccat.com
 0.0.0.0 telemetry.steelseries.com
@@ -1104,6 +1120,7 @@
 0.0.0.0 tracking.hulu.com
 0.0.0.0 tracking.impact.com
 0.0.0.0 tracking.jwplayer.com
+0.0.0.0 tracking.lastpass.com
 0.0.0.0 tracking.netaffiliation.com
 0.0.0.0 tracking.newsletter.vivino.com
 0.0.0.0 tracking.partnerize.com

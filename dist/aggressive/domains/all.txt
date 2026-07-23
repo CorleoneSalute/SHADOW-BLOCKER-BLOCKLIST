@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1253
+# Total domains: 1270
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -123,6 +123,7 @@ analytics-ingress-global.bitmovin.com
 analytics-ingress-us.bitmovin.com
 analytics-iq.com
 analytics-pbl.vivino.com
+analytics.1password.com
 analytics.abema.tv
 analytics.api.brightcove.com
 analytics.appsflyer.com
@@ -147,12 +148,14 @@ analytics.crunchyroll.com
 analytics.cs.zohohost.com
 analytics.curiositystream.com
 analytics.dailywire.com
+analytics.dashlane.com
 analytics.dazn.com
 analytics.delectable.com
 analytics.digitalpour.com
 analytics.discoveryplus.com
 analytics.disneynow.com
 analytics.disneyplus.com
+analytics.enpass.io
 analytics.espn.com
 analytics.evernote.com
 analytics.fandangoathome.com
@@ -168,8 +171,10 @@ analytics.iqiyi.com
 analytics.joplincloud.com
 analytics.jwplayer.com
 analytics.kaltura.com
+analytics.keeper.io
 analytics.kidoodle.tv
 analytics.komoot.com
+analytics.lastpass.com
 analytics.logitech.com
 analytics.mapbox.com
 analytics.maps.me
@@ -186,6 +191,7 @@ analytics.nebula.tv
 analytics.netflix.com
 analytics.nicovideo.jp
 analytics.noggin.com
+analytics.nordpass.com
 analytics.obsidian.md
 analytics.paramountplus.com
 analytics.parsely.com
@@ -200,12 +206,14 @@ analytics.protected.media
 analytics.rakutenmarketing.com
 analytics.razerzone.com
 analytics.roamresearch.com
+analytics.roboform.com
 analytics.rtlplus.com
 analytics.rumble.com
 analytics.simplenote.com
 analytics.skyshowtime.com
 analytics.stan.com.au
 analytics.steelseries.com
+analytics.stickypassword.com
 analytics.taphunter.com
 analytics.tradedoubler.com
 analytics.tubitv.com
@@ -465,6 +473,8 @@ crash-reports.netflix.com
 crash.bamgrid.com
 crash.corsair.com
 crash.mapbox.com
+crashes.1password.com
+crashes.dashlane.com
 crashreport.razer.com
 crazyegg.com
 cricket-metrics.hotstar.com
@@ -706,6 +716,7 @@ logr-in.com
 logr-ingest.com
 logrocket.com
 logrocket.io
+logs.1password.com
 logs.bobble.ai
 logs.hulu.com
 logs.netflix.com
@@ -736,6 +747,7 @@ merkleinc.com
 merkleresponse.com
 merkury.dentsu.com
 metaffiliation.com
+metrics.1password.com
 metrics.abema.tv
 metrics.binge.com.au
 metrics.bitmovin.com
@@ -749,6 +761,7 @@ metrics.crave.ca
 metrics.crunchyroll.com
 metrics.curiositystream.com
 metrics.dailywire.com
+metrics.dashlane.com
 metrics.dazn.com
 metrics.discoveryplus.com
 metrics.disneyplus.com
@@ -1034,6 +1047,8 @@ td2.crwdcntrl.net
 tealeaf.com
 tealeaf.ibmcloud.com
 tealeafcloud.com
+telemetry.1password.com
+telemetry.1passwordservices.com
 telemetry.api.swiftkey.com
 telemetry.bamgrid.com
 telemetry.bitmovin.com
@@ -1054,6 +1069,7 @@ telemetry.nzxt.com
 telemetry.paramountplus.com
 telemetry.peacocktv.com
 telemetry.pluto.tv
+telemetry.proton.me
 telemetry.razer.com
 telemetry.roccat.com
 telemetry.steelseries.com
@@ -1104,6 +1120,7 @@ tracking.hbomax.com
 tracking.hulu.com
 tracking.impact.com
 tracking.jwplayer.com
+tracking.lastpass.com
 tracking.netaffiliation.com
 tracking.newsletter.vivino.com
 tracking.partnerize.com
