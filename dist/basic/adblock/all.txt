@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1231
+# Total domains: 1243
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -204,8 +204,10 @@
 ||analytics.roboform.com^
 ||analytics.rtlplus.com^
 ||analytics.rumble.com^
+||analytics.shazam.com^
 ||analytics.simplenote.com^
 ||analytics.skyshowtime.com^
+||analytics.soundhound.com^
 ||analytics.stan.com.au^
 ||analytics.steelseries.com^
 ||analytics.stickypassword.com^
@@ -336,6 +338,8 @@
 ||bcp.st.crwdcntrl.net^
 ||beacon.netflix.com^
 ||beacon.pluto.tv^
+||beacon.shazam.com^
+||beacon.shzcld.com^
 ||beacons.hulu.com^
 ||bisnode.com^
 ||bitmovin-analytics.net^
@@ -464,6 +468,8 @@
 ||crash.bamgrid.com^
 ||crash.corsair.com^
 ||crash.mapbox.com^
+||crash.shazam.com^
+||crash.soundhound.com^
 ||crashes.1password.com^
 ||crashes.dashlane.com^
 ||crashreport.razer.com^
@@ -691,6 +697,8 @@
 ||localad.naver.com^
 ||log.ai-type.com^
 ||log.facemoji.com^
+||log.shazam.com^
+||log.soundhound.com^
 ||logging.bamgrid.com^
 ||logging.netflix.com^
 ||logr-in.com^
@@ -772,7 +780,9 @@
 ||metrics.plex.tv^
 ||metrics.pluto.tv^
 ||metrics.razer.com^
+||metrics.shazam.com^
 ||metrics.skyshowtime.com^
+||metrics.soundhound.com^
 ||metrics.stan.com.au^
 ||metrics.steelseries.com^
 ||metrics.tubitv.com^
@@ -1041,6 +1051,8 @@
 ||telemetry.proton.me^
 ||telemetry.razer.com^
 ||telemetry.roccat.com^
+||telemetry.shazam.com^
+||telemetry.soundhound.com^
 ||telemetry.steelseries.com^
 ||telemetry.tubitv.com^
 ||telemetry.untappd.com^

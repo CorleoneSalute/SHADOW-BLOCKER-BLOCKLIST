@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1270
+# Total domains: 1282
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -209,8 +209,10 @@
 0.0.0.0 analytics.roboform.com
 0.0.0.0 analytics.rtlplus.com
 0.0.0.0 analytics.rumble.com
+0.0.0.0 analytics.shazam.com
 0.0.0.0 analytics.simplenote.com
 0.0.0.0 analytics.skyshowtime.com
+0.0.0.0 analytics.soundhound.com
 0.0.0.0 analytics.stan.com.au
 0.0.0.0 analytics.steelseries.com
 0.0.0.0 analytics.stickypassword.com
@@ -341,6 +343,8 @@
 0.0.0.0 bcp.st.crwdcntrl.net
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.pluto.tv
+0.0.0.0 beacon.shazam.com
+0.0.0.0 beacon.shzcld.com
 0.0.0.0 beacons.hulu.com
 0.0.0.0 bisnode.com
 0.0.0.0 bitmovin-analytics.net
@@ -473,6 +477,8 @@
 0.0.0.0 crash.bamgrid.com
 0.0.0.0 crash.corsair.com
 0.0.0.0 crash.mapbox.com
+0.0.0.0 crash.shazam.com
+0.0.0.0 crash.soundhound.com
 0.0.0.0 crashes.1password.com
 0.0.0.0 crashes.dashlane.com
 0.0.0.0 crashreport.razer.com
@@ -710,6 +716,8 @@
 0.0.0.0 localad.naver.com
 0.0.0.0 log.ai-type.com
 0.0.0.0 log.facemoji.com
+0.0.0.0 log.shazam.com
+0.0.0.0 log.soundhound.com
 0.0.0.0 logging.bamgrid.com
 0.0.0.0 logging.netflix.com
 0.0.0.0 logr-in.com
@@ -791,7 +799,9 @@
 0.0.0.0 metrics.plex.tv
 0.0.0.0 metrics.pluto.tv
 0.0.0.0 metrics.razer.com
+0.0.0.0 metrics.shazam.com
 0.0.0.0 metrics.skyshowtime.com
+0.0.0.0 metrics.soundhound.com
 0.0.0.0 metrics.stan.com.au
 0.0.0.0 metrics.steelseries.com
 0.0.0.0 metrics.tubitv.com
@@ -1072,6 +1082,8 @@
 0.0.0.0 telemetry.proton.me
 0.0.0.0 telemetry.razer.com
 0.0.0.0 telemetry.roccat.com
+0.0.0.0 telemetry.shazam.com
+0.0.0.0 telemetry.soundhound.com
 0.0.0.0 telemetry.steelseries.com
 0.0.0.0 telemetry.tubitv.com
 0.0.0.0 telemetry.untappd.com
