@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1631
+# Total domains: 1646
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -63,6 +63,7 @@ adclarity.com
 adgen-cdn.connatix.com
 adgen.connatix.com
 adjustevents.purevpn.com
+adjustyourtracking.vhx.tv
 adkernel.crakrevenue.com
 admitad.com
 adobedtm.com.sci-hub.tw
@@ -603,10 +604,12 @@ collector.glassbox.digital
 collector.medallia.com
 collector.quantummetric.com
 collector.tealeaf.goacoustic.com
+collector.vhx.tv
 company.clearbit.com
 connect-event.vive.com
 connect.clearbit.com
 connect.transunion.com
+content.analytics-cdn.teachable.com
 contentsquare.com
 contentsquare.net
 conversantmedia.com
@@ -666,6 +669,7 @@ d9.flashtalking.com
 data-axle.com
 data-collection.brightcove.com
 data.acxiom.com
+data.analytics-cdn.teachable.com
 data.conviva.com
 data.infutor.com
 data.mux.com
@@ -719,6 +723,7 @@ engage.youbora.com
 engagement.brightcove.com
 epg-metrics.pluto.tv
 error-reporting.disneyplus.com
+error.ghost.org
 errorlogging.typewise.app
 errors.corsair.com
 errors.hbomax.com
@@ -900,10 +905,12 @@ live-streaming-metrics.amazon.com
 livesession.io
 livestats.kaltura.com
 localad.naver.com
+log-filtering.memberful.com
 log-gateway.zoom.us
 log-internal-gateway.zoom.us
 log-net.zoom.us
 log.ai-type.com
+log.buymeacoffee.com
 log.facemoji.com
 log.nordvpn.com
 log.shazam.com
@@ -922,6 +929,8 @@ logrocket.io
 logs-gateway.tabnine.com
 logs.1password.com
 logs.bobble.ai
+logs.circle.so
+logs.ghost.org
 logs.hulu.com
 logs.netflix.com
 logs.tandem.net
@@ -973,6 +982,7 @@ metrics.bitmovin.com
 metrics.branch.io
 metrics.brightcove.com
 metrics.britbox.com
+metrics.buymeacoffee.com
 metrics.cambly.com
 metrics.cbs.com
 metrics.clarovideo.com
@@ -1290,8 +1300,10 @@ stats.kaltura.com
 stats.nicovideo.jp
 stats.nordvpn.com
 stats.stronglifts.com
+stats.subscribestar.adult
 stats.surfshark.com
 stats.tandf.co.uk
+stats.uscreen.io
 stats.waze.com
 stats.youku.com
 stg.jwpltx.com
@@ -1426,6 +1438,7 @@ track.go.moovit.com
 track.heatmap.com
 track.kakao.com
 track.linkconnector.com
+track.locals.com
 track.parsely.com
 track.researchrabbit.ai
 track.romanticai.com
@@ -1474,9 +1487,11 @@ tracking.toroadvertising.com
 tracking.tradedoubler.com
 tracking.tubitv.com
 tracking.vivino.com
+tracking.zanfia.com
 tracknooks.abcfitness.com
 trackworld-model-1.apps.allenai.org
 trackworld-model-2.apps.allenai.org
+traffic-analytics.ghost.org
 trk.datify.link
 trk.hi.pvolve.com
 trk.pvolve.com

@@ -1,0 +1,22 @@
+# ============================================================
+# SUBSCRIPTION BASED BLOCKLIST - AGGRESSIVE
+# Total domains: 15
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 adjustyourtracking.vhx.tv
+0.0.0.0 collector.vhx.tv
+0.0.0.0 content.analytics-cdn.teachable.com
+0.0.0.0 data.analytics-cdn.teachable.com
+0.0.0.0 error.ghost.org
+0.0.0.0 log-filtering.memberful.com
+0.0.0.0 log.buymeacoffee.com
+0.0.0.0 logs.circle.so
+0.0.0.0 logs.ghost.org
+0.0.0.0 metrics.buymeacoffee.com
+0.0.0.0 stats.subscribestar.adult
+0.0.0.0 stats.uscreen.io
+0.0.0.0 track.locals.com
+0.0.0.0 tracking.zanfia.com
+0.0.0.0 traffic-analytics.ghost.org

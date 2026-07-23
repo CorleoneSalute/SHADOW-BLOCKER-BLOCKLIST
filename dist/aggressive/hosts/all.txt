@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1631
+# Total domains: 1646
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -63,6 +63,7 @@
 0.0.0.0 adgen-cdn.connatix.com
 0.0.0.0 adgen.connatix.com
 0.0.0.0 adjustevents.purevpn.com
+0.0.0.0 adjustyourtracking.vhx.tv
 0.0.0.0 adkernel.crakrevenue.com
 0.0.0.0 admitad.com
 0.0.0.0 adobedtm.com.sci-hub.tw
@@ -603,10 +604,12 @@
 0.0.0.0 collector.medallia.com
 0.0.0.0 collector.quantummetric.com
 0.0.0.0 collector.tealeaf.goacoustic.com
+0.0.0.0 collector.vhx.tv
 0.0.0.0 company.clearbit.com
 0.0.0.0 connect-event.vive.com
 0.0.0.0 connect.clearbit.com
 0.0.0.0 connect.transunion.com
+0.0.0.0 content.analytics-cdn.teachable.com
 0.0.0.0 contentsquare.com
 0.0.0.0 contentsquare.net
 0.0.0.0 conversantmedia.com
@@ -666,6 +669,7 @@
 0.0.0.0 data-axle.com
 0.0.0.0 data-collection.brightcove.com
 0.0.0.0 data.acxiom.com
+0.0.0.0 data.analytics-cdn.teachable.com
 0.0.0.0 data.conviva.com
 0.0.0.0 data.infutor.com
 0.0.0.0 data.mux.com
@@ -719,6 +723,7 @@
 0.0.0.0 engagement.brightcove.com
 0.0.0.0 epg-metrics.pluto.tv
 0.0.0.0 error-reporting.disneyplus.com
+0.0.0.0 error.ghost.org
 0.0.0.0 errorlogging.typewise.app
 0.0.0.0 errors.corsair.com
 0.0.0.0 errors.hbomax.com
@@ -900,10 +905,12 @@
 0.0.0.0 livesession.io
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 localad.naver.com
+0.0.0.0 log-filtering.memberful.com
 0.0.0.0 log-gateway.zoom.us
 0.0.0.0 log-internal-gateway.zoom.us
 0.0.0.0 log-net.zoom.us
 0.0.0.0 log.ai-type.com
+0.0.0.0 log.buymeacoffee.com
 0.0.0.0 log.facemoji.com
 0.0.0.0 log.nordvpn.com
 0.0.0.0 log.shazam.com
@@ -922,6 +929,8 @@
 0.0.0.0 logs-gateway.tabnine.com
 0.0.0.0 logs.1password.com
 0.0.0.0 logs.bobble.ai
+0.0.0.0 logs.circle.so
+0.0.0.0 logs.ghost.org
 0.0.0.0 logs.hulu.com
 0.0.0.0 logs.netflix.com
 0.0.0.0 logs.tandem.net
@@ -973,6 +982,7 @@
 0.0.0.0 metrics.branch.io
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.britbox.com
+0.0.0.0 metrics.buymeacoffee.com
 0.0.0.0 metrics.cambly.com
 0.0.0.0 metrics.cbs.com
 0.0.0.0 metrics.clarovideo.com
@@ -1290,8 +1300,10 @@
 0.0.0.0 stats.nicovideo.jp
 0.0.0.0 stats.nordvpn.com
 0.0.0.0 stats.stronglifts.com
+0.0.0.0 stats.subscribestar.adult
 0.0.0.0 stats.surfshark.com
 0.0.0.0 stats.tandf.co.uk
+0.0.0.0 stats.uscreen.io
 0.0.0.0 stats.waze.com
 0.0.0.0 stats.youku.com
 0.0.0.0 stg.jwpltx.com
@@ -1426,6 +1438,7 @@
 0.0.0.0 track.heatmap.com
 0.0.0.0 track.kakao.com
 0.0.0.0 track.linkconnector.com
+0.0.0.0 track.locals.com
 0.0.0.0 track.parsely.com
 0.0.0.0 track.researchrabbit.ai
 0.0.0.0 track.romanticai.com
@@ -1474,9 +1487,11 @@
 0.0.0.0 tracking.tradedoubler.com
 0.0.0.0 tracking.tubitv.com
 0.0.0.0 tracking.vivino.com
+0.0.0.0 tracking.zanfia.com
 0.0.0.0 tracknooks.abcfitness.com
 0.0.0.0 trackworld-model-1.apps.allenai.org
 0.0.0.0 trackworld-model-2.apps.allenai.org
+0.0.0.0 traffic-analytics.ghost.org
 0.0.0.0 trk.datify.link
 0.0.0.0 trk.hi.pvolve.com
 0.0.0.0 trk.pvolve.com
