@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 3641
+# Total domains: 3654
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -425,6 +425,7 @@
 ||analytics.gikken.co^
 ||analytics.gingersoftware.com^
 ||analytics.giphy.com^
+||analytics.gitlab.com^
 ||analytics.givelify.com^
 ||analytics.globoplay.globo.com^
 ||analytics.glossika.com^
@@ -1300,6 +1301,7 @@
 ||collector.clickdealer.com^
 ||collector.conviva.com^
 ||collector.exceptionless.io^
+||collector.github.com^
 ||collector.glassbox.com^
 ||collector.glassbox.digital^
 ||collector.inkitt.com^
@@ -1451,6 +1453,7 @@
 ||deeplink.adikteev.com^
 ||deeplink.admitad.com^
 ||deeplink.remerge.io^
+||default.exp-tas.com^
 ||defencebyte.com^
 ||defencebyte.net^
 ||deferred-deeplink.adikteev.com^
@@ -1614,6 +1617,7 @@
 ||events.devcycle.com^
 ||events.eu.launchdarkly.com^
 ||events.ff.harness.io^
+||events.gitlab.net^
 ||events.hotjar.com^
 ||events.intuit.launchdarkly.com^
 ||events.jwplayer.com^
@@ -1950,10 +1954,12 @@
 ||log.buymeacoffee.com^
 ||log.facemoji.com^
 ||log.getdropbox.com^
+||log.gitlab.net^
 ||log.inkitt.com^
 ||log.nordvpn.com^
 ||log.onesignal.com^
 ||log.optimizely.com^
+||log.pre.gitlab.net^
 ||log.shazam.com^
 ||log.soundhound.com^
 ||log.strm.yango.com^
@@ -2072,6 +2078,7 @@
 ||metabase.analytics.native-instruments.com^
 ||metaffiliation.com^
 ||metis.truecaller.com^
+||metric.sourceforge.io^
 ||metrics-a.wbx2.com^
 ||metrics-api.manjaro.org^
 ||metrics-api.openalex.org^
@@ -2128,6 +2135,7 @@
 ||metrics.fresha.com^
 ||metrics.fubo.tv^
 ||metrics.geforcenow.com^
+||metrics.gitlab.com^
 ||metrics.glarysoft.com^
 ||metrics.globo.com^
 ||metrics.glow.co^
@@ -2255,6 +2263,7 @@
 ||monetization-tracking.youtube.com^
 ||monetization.adikteev.com^
 ||monetize.rollerads.com^
+||monitoring-log.gitlab.net^
 ||monitoring.youbora.com^
 ||more.criteo.com^
 ||moreniche.com^
@@ -2293,6 +2302,7 @@
 ||netaffiliation.com^
 ||netfactor.com^
 ||network.w4.com^
+||new-sentry.gitlab.net^
 ||new-telemetry.insights.video.a2z.com^
 ||niad.analytics.elsevier.com^
 ||nielsen.com^
@@ -2314,6 +2324,7 @@
 ||o1158394.ingest.us.sentry.io^
 ||o207216.ingest.sentry.io^
 ||o33249.ingest.sentry.io^
+||observe.gitlab.com^
 ||offline-analytics.youtube.com^
 ||old-analytics.olacabs.com^
 ||omt.garmin.com^
@@ -2330,6 +2341,7 @@
 ||oracleinfinity.io^
 ||orbit-telemetry.ubi.com^
 ||origin-analytics.branch.io^
+||origin-tracker.githubusercontent.com^
 ||osint.au10tix.com^
 ||otel.observability.app.launchdarkly.com^
 ||otlp.bugsnag.com^
@@ -2665,6 +2677,7 @@
 ||sentry.clickdealer.com^
 ||sentry.codeium.com^
 ||sentry.elitehrv.com^
+||sentry.gitlab.net^
 ||sentry.highscore.com^
 ||sentry.hub.klippa.com^
 ||sentry.identomat.com^

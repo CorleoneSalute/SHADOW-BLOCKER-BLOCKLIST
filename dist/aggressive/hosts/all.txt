@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3713
+# Total domains: 3726
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -438,6 +438,7 @@
 0.0.0.0 analytics.gikken.co
 0.0.0.0 analytics.gingersoftware.com
 0.0.0.0 analytics.giphy.com
+0.0.0.0 analytics.gitlab.com
 0.0.0.0 analytics.givelify.com
 0.0.0.0 analytics.globoplay.globo.com
 0.0.0.0 analytics.glossika.com
@@ -1324,6 +1325,7 @@
 0.0.0.0 collector.clickdealer.com
 0.0.0.0 collector.conviva.com
 0.0.0.0 collector.exceptionless.io
+0.0.0.0 collector.github.com
 0.0.0.0 collector.glassbox.com
 0.0.0.0 collector.glassbox.digital
 0.0.0.0 collector.inkitt.com
@@ -1476,6 +1478,7 @@
 0.0.0.0 deeplink.adikteev.com
 0.0.0.0 deeplink.admitad.com
 0.0.0.0 deeplink.remerge.io
+0.0.0.0 default.exp-tas.com
 0.0.0.0 defencebyte.com
 0.0.0.0 defencebyte.net
 0.0.0.0 deferred-deeplink.adikteev.com
@@ -1641,6 +1644,7 @@
 0.0.0.0 events.devcycle.com
 0.0.0.0 events.eu.launchdarkly.com
 0.0.0.0 events.ff.harness.io
+0.0.0.0 events.gitlab.net
 0.0.0.0 events.hotjar.com
 0.0.0.0 events.intuit.launchdarkly.com
 0.0.0.0 events.jwplayer.com
@@ -1989,10 +1993,12 @@
 0.0.0.0 log.buymeacoffee.com
 0.0.0.0 log.facemoji.com
 0.0.0.0 log.getdropbox.com
+0.0.0.0 log.gitlab.net
 0.0.0.0 log.inkitt.com
 0.0.0.0 log.nordvpn.com
 0.0.0.0 log.onesignal.com
 0.0.0.0 log.optimizely.com
+0.0.0.0 log.pre.gitlab.net
 0.0.0.0 log.shazam.com
 0.0.0.0 log.soundhound.com
 0.0.0.0 log.strm.yango.com
@@ -2111,6 +2117,7 @@
 0.0.0.0 metabase.analytics.native-instruments.com
 0.0.0.0 metaffiliation.com
 0.0.0.0 metis.truecaller.com
+0.0.0.0 metric.sourceforge.io
 0.0.0.0 metrics-a.wbx2.com
 0.0.0.0 metrics-api.manjaro.org
 0.0.0.0 metrics-api.openalex.org
@@ -2167,6 +2174,7 @@
 0.0.0.0 metrics.fresha.com
 0.0.0.0 metrics.fubo.tv
 0.0.0.0 metrics.geforcenow.com
+0.0.0.0 metrics.gitlab.com
 0.0.0.0 metrics.glarysoft.com
 0.0.0.0 metrics.globo.com
 0.0.0.0 metrics.glow.co
@@ -2294,6 +2302,7 @@
 0.0.0.0 monetization-tracking.youtube.com
 0.0.0.0 monetization.adikteev.com
 0.0.0.0 monetize.rollerads.com
+0.0.0.0 monitoring-log.gitlab.net
 0.0.0.0 monitoring.youbora.com
 0.0.0.0 more.criteo.com
 0.0.0.0 moreniche.com
@@ -2333,6 +2342,7 @@
 0.0.0.0 netaffiliation.com
 0.0.0.0 netfactor.com
 0.0.0.0 network.w4.com
+0.0.0.0 new-sentry.gitlab.net
 0.0.0.0 new-telemetry.insights.video.a2z.com
 0.0.0.0 niad.analytics.elsevier.com
 0.0.0.0 nielsen.com
@@ -2354,6 +2364,7 @@
 0.0.0.0 o1158394.ingest.us.sentry.io
 0.0.0.0 o207216.ingest.sentry.io
 0.0.0.0 o33249.ingest.sentry.io
+0.0.0.0 observe.gitlab.com
 0.0.0.0 offline-analytics.youtube.com
 0.0.0.0 old-analytics.olacabs.com
 0.0.0.0 omt.garmin.com
@@ -2370,6 +2381,7 @@
 0.0.0.0 oracleinfinity.io
 0.0.0.0 orbit-telemetry.ubi.com
 0.0.0.0 origin-analytics.branch.io
+0.0.0.0 origin-tracker.githubusercontent.com
 0.0.0.0 osint.au10tix.com
 0.0.0.0 otel.observability.app.launchdarkly.com
 0.0.0.0 otlp.bugsnag.com
@@ -2721,6 +2733,7 @@
 0.0.0.0 sentry.clickdealer.com
 0.0.0.0 sentry.codeium.com
 0.0.0.0 sentry.elitehrv.com
+0.0.0.0 sentry.gitlab.net
 0.0.0.0 sentry.highscore.com
 0.0.0.0 sentry.hub.klippa.com
 0.0.0.0 sentry.identomat.com

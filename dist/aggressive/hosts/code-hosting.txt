@@ -1,0 +1,21 @@
+# ============================================================
+# CODE HOSTING BLOCKLIST - AGGRESSIVE
+# Total domains: 14
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 analytics.gitlab.com
+0.0.0.0 collector.github.com
+0.0.0.0 copilot-telemetry.githubusercontent.com
+0.0.0.0 default.exp-tas.com
+0.0.0.0 events.gitlab.net
+0.0.0.0 log.gitlab.net
+0.0.0.0 log.pre.gitlab.net
+0.0.0.0 metric.sourceforge.io
+0.0.0.0 metrics.gitlab.com
+0.0.0.0 monitoring-log.gitlab.net
+0.0.0.0 new-sentry.gitlab.net
+0.0.0.0 observe.gitlab.com
+0.0.0.0 origin-tracker.githubusercontent.com
+0.0.0.0 sentry.gitlab.net
