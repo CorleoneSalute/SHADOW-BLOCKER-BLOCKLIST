@@ -1,0 +1,20 @@
+# ============================================================
+# 2FA BLOCKLIST - BASIC
+# Total domains: 13
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+adobemetrics.okta.com
+analytics.authy.com
+analytics.duosecurity.com
+analytics.okta.com
+analytics.rsa.com
+data.product.lastpass.com
+event.okta.com
+log.2fas.com
+sentry-reporter.ente.io
+telemetry.access.securid.com
+telemetry.duosecurity.com
+telemetry.okta.com
+web-analytics.lastpass.com

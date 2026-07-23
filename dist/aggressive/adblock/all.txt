@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1646
+# Total domains: 1659
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -67,6 +67,7 @@
 ||adkernel.crakrevenue.com^
 ||admitad.com^
 ||adobedtm.com.sci-hub.tw^
+||adobemetrics.okta.com^
 ||adperio.com^
 ||ads-api.duolingo.com^
 ||ads-fa-darwin.hulu.com^
@@ -154,6 +155,7 @@
 ||analytics.api.brightcove.com^
 ||analytics.appsflyer.com^
 ||analytics.astrill.com^
+||analytics.authy.com^
 ||analytics.babbel.com^
 ||analytics.bear.app^
 ||analytics.beelinguapp.com^
@@ -196,6 +198,7 @@
 ||analytics.discoveryplus.com^
 ||analytics.disneynow.com^
 ||analytics.disneyplus.com^
+||analytics.duosecurity.com^
 ||analytics.elsaspeak.com^
 ||analytics.elsevier.com^
 ||analytics.enpass.io^
@@ -269,6 +272,7 @@
 ||analytics.nordvpn.com^
 ||analytics.notify.elsevier.com^
 ||analytics.obsidian.md^
+||analytics.okta.com^
 ||analytics.onepeloton.com^
 ||analytics.openai.com^
 ||analytics.openaire.eu^
@@ -301,6 +305,7 @@
 ||analytics.roboform.com^
 ||analytics.rocketlanguages.com^
 ||analytics.rosettastone.com^
+||analytics.rsa.com^
 ||analytics.rtlplus.com^
 ||analytics.rumble.com^
 ||analytics.runsignup.com^
@@ -674,6 +679,7 @@
 ||data.infutor.com^
 ||data.mux.com^
 ||data.oracleinfinity.io^
+||data.product.lastpass.com^
 ||data.youbora.com^
 ||datacollection.rec.net^
 ||datalogix.com^
@@ -739,6 +745,7 @@
 ||eu.uxcam.com^
 ||euc-onenote-telemetry.officeapps.live.com^
 ||event.appsflyer.com^
+||event.okta.com^
 ||event.vive.com^
 ||events-writer.eu.smartlook.cloud^
 ||events.character.ai^
@@ -909,6 +916,7 @@
 ||log-gateway.zoom.us^
 ||log-internal-gateway.zoom.us^
 ||log-net.zoom.us^
+||log.2fas.com^
 ||log.ai-type.com^
 ||log.buymeacoffee.com^
 ||log.facemoji.com^
@@ -1232,6 +1240,7 @@
 ||segment.untappd.com^
 ||segment.vivino.com^
 ||segmentcdn.usemotion.com^
+||sentry-reporter.ente.io^
 ||sentry.api.stronglifts.com^
 ||sentry.clickdealer.com^
 ||sentry.codeium.com^
@@ -1345,6 +1354,7 @@
 ||tealeafcloud.com^
 ||telemetry.1password.com^
 ||telemetry.1passwordservices.com^
+||telemetry.access.securid.com^
 ||telemetry.anydesk.com^
 ||telemetry.api.swiftkey.com^
 ||telemetry.astrill.com^
@@ -1361,6 +1371,7 @@
 ||telemetry.dataplatform.zing.coach^
 ||telemetry.dazn.com^
 ||telemetry.deepl.com^
+||telemetry.duosecurity.com^
 ||telemetry.espn.com^
 ||telemetry.expressvpn.com^
 ||telemetry.fubo.tv^
@@ -1377,6 +1388,7 @@
 ||telemetry.mux.com^
 ||telemetry.nordvpn.com^
 ||telemetry.nzxt.com^
+||telemetry.okta.com^
 ||telemetry.openai.com^
 ||telemetry.paramountplus.com^
 ||telemetry.peacocktv.com^
@@ -1572,6 +1584,7 @@
 ||w1.luckyorange.com^
 ||w4.com^
 ||wcs.naver.com^
+||web-analytics.lastpass.com^
 ||web-analytics.openaire.eu^
 ||web-sdk.smartlook.com^
 ||web-writer.eu.smartlook.cloud^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1599
+# Total domains: 1612
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -64,6 +64,7 @@
 0.0.0.0 adkernel.crakrevenue.com
 0.0.0.0 admitad.com
 0.0.0.0 adobedtm.com.sci-hub.tw
+0.0.0.0 adobemetrics.okta.com
 0.0.0.0 adperio.com
 0.0.0.0 ads-api.duolingo.com
 0.0.0.0 ads-fa-darwin.hulu.com
@@ -149,6 +150,7 @@
 0.0.0.0 analytics.api.brightcove.com
 0.0.0.0 analytics.appsflyer.com
 0.0.0.0 analytics.astrill.com
+0.0.0.0 analytics.authy.com
 0.0.0.0 analytics.babbel.com
 0.0.0.0 analytics.bear.app
 0.0.0.0 analytics.beelinguapp.com
@@ -191,6 +193,7 @@
 0.0.0.0 analytics.discoveryplus.com
 0.0.0.0 analytics.disneynow.com
 0.0.0.0 analytics.disneyplus.com
+0.0.0.0 analytics.duosecurity.com
 0.0.0.0 analytics.elsaspeak.com
 0.0.0.0 analytics.elsevier.com
 0.0.0.0 analytics.enpass.io
@@ -264,6 +267,7 @@
 0.0.0.0 analytics.nordvpn.com
 0.0.0.0 analytics.notify.elsevier.com
 0.0.0.0 analytics.obsidian.md
+0.0.0.0 analytics.okta.com
 0.0.0.0 analytics.onepeloton.com
 0.0.0.0 analytics.openai.com
 0.0.0.0 analytics.openaire.eu
@@ -296,6 +300,7 @@
 0.0.0.0 analytics.roboform.com
 0.0.0.0 analytics.rocketlanguages.com
 0.0.0.0 analytics.rosettastone.com
+0.0.0.0 analytics.rsa.com
 0.0.0.0 analytics.rtlplus.com
 0.0.0.0 analytics.rumble.com
 0.0.0.0 analytics.runsignup.com
@@ -661,6 +666,7 @@
 0.0.0.0 data.infutor.com
 0.0.0.0 data.mux.com
 0.0.0.0 data.oracleinfinity.io
+0.0.0.0 data.product.lastpass.com
 0.0.0.0 data.youbora.com
 0.0.0.0 datacollection.rec.net
 0.0.0.0 datalogix.com
@@ -725,6 +731,7 @@
 0.0.0.0 eu.uxcam.com
 0.0.0.0 euc-onenote-telemetry.officeapps.live.com
 0.0.0.0 event.appsflyer.com
+0.0.0.0 event.okta.com
 0.0.0.0 event.vive.com
 0.0.0.0 events-writer.eu.smartlook.cloud
 0.0.0.0 events.character.ai
@@ -883,6 +890,7 @@
 0.0.0.0 log-gateway.zoom.us
 0.0.0.0 log-internal-gateway.zoom.us
 0.0.0.0 log-net.zoom.us
+0.0.0.0 log.2fas.com
 0.0.0.0 log.ai-type.com
 0.0.0.0 log.buymeacoffee.com
 0.0.0.0 log.facemoji.com
@@ -1194,6 +1202,7 @@
 0.0.0.0 segment.taphunter.com
 0.0.0.0 segment.untappd.com
 0.0.0.0 segment.vivino.com
+0.0.0.0 sentry-reporter.ente.io
 0.0.0.0 sentry.api.stronglifts.com
 0.0.0.0 sentry.clickdealer.com
 0.0.0.0 sentry.codeium.com
@@ -1306,6 +1315,7 @@
 0.0.0.0 tealeafcloud.com
 0.0.0.0 telemetry.1password.com
 0.0.0.0 telemetry.1passwordservices.com
+0.0.0.0 telemetry.access.securid.com
 0.0.0.0 telemetry.anydesk.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.astrill.com
@@ -1322,6 +1332,7 @@
 0.0.0.0 telemetry.dataplatform.zing.coach
 0.0.0.0 telemetry.dazn.com
 0.0.0.0 telemetry.deepl.com
+0.0.0.0 telemetry.duosecurity.com
 0.0.0.0 telemetry.espn.com
 0.0.0.0 telemetry.expressvpn.com
 0.0.0.0 telemetry.fubo.tv
@@ -1338,6 +1349,7 @@
 0.0.0.0 telemetry.mux.com
 0.0.0.0 telemetry.nordvpn.com
 0.0.0.0 telemetry.nzxt.com
+0.0.0.0 telemetry.okta.com
 0.0.0.0 telemetry.openai.com
 0.0.0.0 telemetry.paramountplus.com
 0.0.0.0 telemetry.peacocktv.com
@@ -1525,6 +1537,7 @@
 0.0.0.0 w1.luckyorange.com
 0.0.0.0 w4.com
 0.0.0.0 wcs.naver.com
+0.0.0.0 web-analytics.lastpass.com
 0.0.0.0 web-analytics.openaire.eu
 0.0.0.0 web-sdk.smartlook.com
 0.0.0.0 web-writer.eu.smartlook.cloud
