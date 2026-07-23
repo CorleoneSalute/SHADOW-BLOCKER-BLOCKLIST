@@ -1,0 +1,37 @@
+# ============================================================
+# RELIGIOUS SPIRITUAL BLOCKLIST - AGGRESSIVE
+# Total domains: 30
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||analytics.abide.co^
+||analytics.athan.com^
+||analytics.bible.com^
+||analytics.faithlife.com^
+||analytics.givelify.com^
+||analytics.hallow.com^
+||analytics.insighttimer.com^
+||analytics.muslimpro.com^
+||analytics.quranmajeed.com^
+||analytics.zabihah.com^
+||api.xmode.io^
+||beaconsinspace.com^
+||data.locate-x.com^
+||digitalenvoy.com^
+||gravyanalytics.com^
+||locate-x.com^
+||oneaudience.com^
+||outlogic.io^
+||placed.com^
+||predicio.io^
+||resourceviewtracking.faithlife.com^
+||sdk.predic.io^
+||sense360.com^
+||signalframe.com^
+||track.mail.muslimpro.com^
+||tracking.muslimpro.com^
+||venntel.com^
+||www.x-mode.com^
+||x-mode.com^
+||xmode.io^

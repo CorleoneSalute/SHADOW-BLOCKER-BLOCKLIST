@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1667
+# Total domains: 1693
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -150,17 +150,20 @@
 ||analytics.1password.com^
 ||analytics.8x8.com^
 ||analytics.abema.tv^
+||analytics.abide.co^
 ||analytics.any.do^
 ||analytics.anydesk.com^
 ||analytics.api.brightcove.com^
 ||analytics.appsflyer.com^
 ||analytics.astrill.com^
+||analytics.athan.com^
 ||analytics.authy.com^
 ||analytics.babbel.com^
 ||analytics.bear.app^
 ||analytics.beelinguapp.com^
 ||analytics.beermenus.com^
 ||analytics.beyondtrust.com^
+||analytics.bible.com^
 ||analytics.bilibili.com^
 ||analytics.binge.com.au^
 ||analytics.blim.com^
@@ -207,6 +210,7 @@
 ||analytics.eventim.com^
 ||analytics.evernote.com^
 ||analytics.expressvpn.com^
+||analytics.faithlife.com^
 ||analytics.fandangoathome.com^
 ||analytics.fixme.it^
 ||analytics.fleksy.com^
@@ -215,8 +219,10 @@
 ||analytics.fubo.tv^
 ||analytics.gikken.co^
 ||analytics.gingersoftware.com^
+||analytics.givelify.com^
 ||analytics.globoplay.globo.com^
 ||analytics.glossika.com^
+||analytics.hallow.com^
 ||analytics.hbomax.com^
 ||analytics.hellochinese.cc^
 ||analytics.hellotalk.com^
@@ -227,6 +233,7 @@
 ||analytics.ieee.org^
 ||analytics.immutable.com^
 ||analytics.imtranslator.net^
+||analytics.insighttimer.com^
 ||analytics.ipvanish.com^
 ||analytics.iqiyi.com^
 ||analytics.italki.com^
@@ -262,6 +269,7 @@
 ||analytics.moovit.com^
 ||analytics.movistarplus.es^
 ||analytics.mubi.com^
+||analytics.muslimpro.com^
 ||analytics.mux.com^
 ||analytics.mxplayer.in^
 ||analytics.myfitnesspal.com^
@@ -300,6 +308,7 @@
 ||analytics.privateinternetaccess.com^
 ||analytics.protected.media^
 ||analytics.purevpn.com^
+||analytics.quranmajeed.com^
 ||analytics.rakutenmarketing.com^
 ||analytics.rarible.com^
 ||analytics.razerzone.com^
@@ -374,6 +383,7 @@
 ||analytics.yabla.com^
 ||analytics.youbora.com^
 ||analytics.youku.com^
+||analytics.zabihah.com^
 ||analytics.zee5.com^
 ||analytics.zoho.com^
 ||analytics.zoom.us^
@@ -448,6 +458,7 @@
 ||api.verve.com^
 ||api.visitor-analytics.io^
 ||api.wiland.com^
+||api.xmode.io^
 ||api.youbora.com^
 ||api.zipy.ai^
 ||api.zoominfo.com^
@@ -497,6 +508,7 @@
 ||beacon.shazam.com^
 ||beacon.shzcld.com^
 ||beacons.hulu.com^
+||beaconsinspace.com^
 ||beta.analytics.openaire.eu^
 ||biscience.com^
 ||bisnode.com^
@@ -685,6 +697,7 @@
 ||data.analytics-cdn.teachable.com^
 ||data.conviva.com^
 ||data.infutor.com^
+||data.locate-x.com^
 ||data.mux.com^
 ||data.oracleinfinity.io^
 ||data.product.lastpass.com^
@@ -705,6 +718,7 @@
 ||device-identity.bamgrid.com^
 ||device-metrics.hulu.com^
 ||digital.medallia.com^
+||digitalenvoy.com^
 ||direct.dnb.com^
 ||discoverorg.com^
 ||discovery.clearbit.com^
@@ -918,6 +932,7 @@
 ||livesession.io^
 ||livestats.kaltura.com^
 ||localad.naver.com^
+||locate-x.com^
 ||log-filtering.memberful.com^
 ||log-gateway.zoom.us^
 ||log-internal-gateway.zoom.us^
@@ -1112,6 +1127,7 @@
 ||o33249.ingest.sentry.io^
 ||offline-analytics.youtube.com^
 ||omt.garmin.com^
+||oneaudience.com^
 ||openreplay.com^
 ||opi.navdmp.com^
 ||oracleinfinity.io^
@@ -1150,6 +1166,7 @@
 ||pluto.tv.sc.omtrdc.net^
 ||post.analytics10.ticketmaster.com^
 ||pre.smartplugin.youbora.com^
+||predicio.io^
 ||preprocessor.heatmap.com^
 ||presentationtracking.netflix.com^
 ||prod.log.shortbread.aws.dev^
@@ -1192,6 +1209,7 @@
 ||relay.fullstory.com^
 ||resolve.fullcontact.com^
 ||resources.lotame.com^
+||resourceviewtracking.faithlife.com^
 ||reveal.clearbit.com^
 ||ringcentral.112.2o7.net^
 ||risk.clearbit.com^
@@ -1228,6 +1246,7 @@
 ||sdk.cuebiq.com^
 ||sdk.inmarket.com^
 ||sdk.mobilewalla.com^
+||sdk.predic.io^
 ||sdk.smartlook.com^
 ||sdk.uxcam.com^
 ||sdk.zipy.ai^
@@ -1241,6 +1260,7 @@
 ||segment.taphunter.com^
 ||segment.untappd.com^
 ||segment.vivino.com^
+||sense360.com^
 ||sentry-reporter.ente.io^
 ||sentry.api.stronglifts.com^
 ||sentry.clickdealer.com^
@@ -1263,6 +1283,7 @@
 ||shop.tags.elsevier.com^
 ||shopify.crazyegg.com^
 ||signal.truoptik.com^
+||signalframe.com^
 ||skadpostbacks.appsflyer.com^
 ||sl-tracking.fitonhealth.com^
 ||smaato.com^
@@ -1464,6 +1485,7 @@
 ||track.kakao.com^
 ||track.linkconnector.com^
 ||track.locals.com^
+||track.mail.muslimpro.com^
 ||track.parsely.com^
 ||track.researchrabbit.ai^
 ||track.romanticai.com^
@@ -1491,6 +1513,7 @@
 ||tracking.jwplayer.com^
 ||tracking.lastpass.com^
 ||tracking.morgen.so^
+||tracking.muslimpro.com^
 ||tracking.myfitnesspal.com^
 ||tracking.netaffiliation.com^
 ||tracking.newsletter.vivino.com^
@@ -1648,11 +1671,14 @@
 ||www.track.consensus.app^
 ||www.twipla.com^
 ||www.w4.com^
+||www.x-mode.com^
 ||www.zeydoo.com^
 ||www.zipy.ai^
 ||www07.clicktale.net^
 ||www2.navegg.com^
+||x-mode.com^
 ||x.clarity.ms^
+||xmode.io^
 ||xss.tw^
 ||y.clarity.ms^
 ||yceml.net^
