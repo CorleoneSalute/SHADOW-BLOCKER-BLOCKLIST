@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 2380
+# Total domains: 2461
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9,6 +9,7 @@
 0.0.0.0 02.sa.telemetry.zoom.us
 0.0.0.0 3dat.steelseries.com
 0.0.0.0 4cite.com
+0.0.0.0 a.ad.playstation.net
 0.0.0.0 a.clarity.ms
 0.0.0.0 a.plerdy.com
 0.0.0.0 a8clk.www.italki.com
@@ -17,6 +18,7 @@
 0.0.0.0 abilitec.acxiom.com
 0.0.0.0 abrt.fedoraproject.org
 0.0.0.0 abtest.netflix.com
+0.0.0.0 abtesting.roblox.com
 0.0.0.0 acd.navdmp.com
 0.0.0.0 acdn.navdmp.com
 0.0.0.0 acoustic.co
@@ -59,6 +61,7 @@
 0.0.0.0 ad.holalauncher.com
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 ad.mxplayer.in
+0.0.0.0 ad.playstation.net
 0.0.0.0 ad.search.naver.com
 0.0.0.0 ad.vrvm.com
 0.0.0.0 adapi.holalauncher.com
@@ -122,6 +125,8 @@
 0.0.0.0 ads.phonepe.com
 0.0.0.0 ads.pluto.tv
 0.0.0.0 ads.realnetworks.com
+0.0.0.0 ads.roblox.com
+0.0.0.0 ads.rockstargames.com
 0.0.0.0 ads.timesinternet.in
 0.0.0.0 ads.untappd.com
 0.0.0.0 ads.voot.com
@@ -224,12 +229,14 @@
 0.0.0.0 analytics.binge.com.au
 0.0.0.0 analytics.bird.co
 0.0.0.0 analytics.bitdefender.com
+0.0.0.0 analytics.blacknut.com
 0.0.0.0 analytics.blim.com
 0.0.0.0 analytics.blur.io
 0.0.0.0 analytics.bobble.ai
 0.0.0.0 analytics.bolt.eu
 0.0.0.0 analytics.booksy.com
 0.0.0.0 analytics.boomy.com
+0.0.0.0 analytics.boosteroid.com
 0.0.0.0 analytics.brain.fm
 0.0.0.0 analytics.branch.io
 0.0.0.0 analytics.britbox.com
@@ -291,6 +298,7 @@
 0.0.0.0 analytics.endel.io
 0.0.0.0 analytics.enpass.io
 0.0.0.0 analytics.envato.com
+0.0.0.0 analytics.epicgames.com
 0.0.0.0 analytics.espn.com
 0.0.0.0 analytics.evebyglow.com
 0.0.0.0 analytics.eventim.com
@@ -310,6 +318,7 @@
 0.0.0.0 analytics.fresha.com
 0.0.0.0 analytics.fubo.tv
 0.0.0.0 analytics.furbo.com
+0.0.0.0 analytics.geforcenow.com
 0.0.0.0 analytics.gikken.co
 0.0.0.0 analytics.gingersoftware.com
 0.0.0.0 analytics.givelify.com
@@ -360,6 +369,7 @@
 0.0.0.0 analytics.landr.com
 0.0.0.0 analytics.languagedrops.com
 0.0.0.0 analytics.lastpass.com
+0.0.0.0 analytics.learn.nvidia.com
 0.0.0.0 analytics.leonardo.ai
 0.0.0.0 analytics.li.me
 0.0.0.0 analytics.lingoda.com
@@ -372,6 +382,7 @@
 0.0.0.0 analytics.logmein.com
 0.0.0.0 analytics.looksrare.org
 0.0.0.0 analytics.loudly.com
+0.0.0.0 analytics.luna.amazon.com
 0.0.0.0 analytics.lww.com
 0.0.0.0 analytics.lyft.com
 0.0.0.0 analytics.lynx-r.com
@@ -383,6 +394,7 @@
 0.0.0.0 analytics.maps.me
 0.0.0.0 analytics.match.com
 0.0.0.0 analytics.max.com
+0.0.0.0 analytics.maximumsettings.com
 0.0.0.0 analytics.maya.live
 0.0.0.0 analytics.means.tv
 0.0.0.0 analytics.memrise.com
@@ -404,6 +416,7 @@
 0.0.0.0 analytics.myflotracker.com
 0.0.0.0 analytics.naturalcycles.com
 0.0.0.0 analytics.naver.com
+0.0.0.0 analytics.navigator-app.nvidia.com
 0.0.0.0 analytics.nbcuni.com
 0.0.0.0 analytics.nebula.tv
 0.0.0.0 analytics.netflix.com
@@ -450,6 +463,7 @@
 0.0.0.0 analytics.pixalate.com
 0.0.0.0 analytics.playgroundai.com
 0.0.0.0 analytics.playit.pk
+0.0.0.0 analytics.playstation.net
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.pluto.tv
 0.0.0.0 analytics.podcastle.ai
@@ -475,7 +489,9 @@
 0.0.0.0 analytics.ringcentral.co.uk
 0.0.0.0 analytics.ringcentral.com
 0.0.0.0 analytics.ringcentral.eu
+0.0.0.0 analytics.riotgames.com
 0.0.0.0 analytics.roamresearch.com
+0.0.0.0 analytics.roblox.com
 0.0.0.0 analytics.roboform.com
 0.0.0.0 analytics.rocketlanguages.com
 0.0.0.0 analytics.rockylinux.org
@@ -489,6 +505,7 @@
 0.0.0.0 analytics.samsungpay.com
 0.0.0.0 analytics.scielo.org
 0.0.0.0 analytics.scruff.com
+0.0.0.0 analytics.shadow.tech
 0.0.0.0 analytics.shazam.com
 0.0.0.0 analytics.simplenote.com
 0.0.0.0 analytics.skyshowtime.com
@@ -510,6 +527,7 @@
 0.0.0.0 analytics.starryai.com
 0.0.0.0 analytics.steelseries.com
 0.0.0.0 analytics.stickypassword.com
+0.0.0.0 analytics.store-jp.nintendo.com
 0.0.0.0 analytics.strava.com
 0.0.0.0 analytics.stronglifts.com
 0.0.0.0 analytics.styleseat.com
@@ -669,6 +687,7 @@
 0.0.0.0 api.verve.com
 0.0.0.0 api.visitor-analytics.io
 0.0.0.0 api.wiland.com
+0.0.0.0 api.xlogs.nvidia.com
 0.0.0.0 api.xmode.io
 0.0.0.0 api.youbora.com
 0.0.0.0 api.zipy.ai
@@ -732,6 +751,7 @@
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacon.shzcld.com
 0.0.0.0 beacons.hulu.com
+0.0.0.0 beacons.xboxlive.com
 0.0.0.0 beaconsinspace.com
 0.0.0.0 bemobtrcks.lalal.ai
 0.0.0.0 beta.analytics.openaire.eu
@@ -853,6 +873,7 @@
 0.0.0.0 clicktale.net
 0.0.0.0 clicktale.pantherssl.com
 0.0.0.0 clicktalecdn.sslcs.cdngc.net
+0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 client-telemetry.us-east-1.amazonaws.com
 0.0.0.0 clientlogs.tunnelbear.com
 0.0.0.0 cloud.tealeaf.com
@@ -1042,6 +1063,7 @@
 0.0.0.0 errors.razerzone.com
 0.0.0.0 errors.stripe.com
 0.0.0.0 errors.ubuntu.com
+0.0.0.0 errorservice.metrics.ea.com
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 etl.tindersparks.com
@@ -1075,6 +1097,7 @@
 0.0.0.0 events.mapbox.cn
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.mux.com
+0.0.0.0 events.telemetry.data.nvidia.com
 0.0.0.0 evernotemetrics.com
 0.0.0.0 evgen.appsflyer.com
 0.0.0.0 ewtracking.elsevier.com
@@ -1127,6 +1150,7 @@
 0.0.0.0 fullstory.net
 0.0.0.0 fwtrack.ticketnetwork.com
 0.0.0.0 g.clarity.ms
+0.0.0.0 galaxy-log.gog.com
 0.0.0.0 gallery-metrics.api.brightcove.com
 0.0.0.0 gambleonline.ca
 0.0.0.0 gamelogs.rec.net
@@ -1217,6 +1241,7 @@
 0.0.0.0 ingest.sessionstack.com
 0.0.0.0 ingest.zipy.ai
 0.0.0.0 inmarket.com
+0.0.0.0 insights-collector.gog.com
 0.0.0.0 insights.conviva.com
 0.0.0.0 insights.jumpshot.com
 0.0.0.0 insights.nordvpn.com
@@ -1290,6 +1315,10 @@
 0.0.0.0 log-gateway.zoom.us
 0.0.0.0 log-internal-gateway.zoom.us
 0.0.0.0 log-net.zoom.us
+0.0.0.0 log-upload-os.hoyoverse.com
+0.0.0.0 log-upload-os.mihoyo.com
+0.0.0.0 log-upload.hoyoverse.com
+0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log.2fas.com
 0.0.0.0 log.ai-type.com
 0.0.0.0 log.alipay.com
@@ -1319,6 +1348,7 @@
 0.0.0.0 logs.1password.com
 0.0.0.0 logs.alipay.com
 0.0.0.0 logs.bobble.ai
+0.0.0.0 logs.boosteroid.com
 0.0.0.0 logs.cachyos.org
 0.0.0.0 logs.circle.so
 0.0.0.0 logs.fitbark.com
@@ -1418,12 +1448,14 @@
 0.0.0.0 metrics.discoveryplus.com
 0.0.0.0 metrics.disneyplus.com
 0.0.0.0 metrics.duolingo.com
+0.0.0.0 metrics.ea.com
 0.0.0.0 metrics.espn.com
 0.0.0.0 metrics.evernote.com
 0.0.0.0 metrics.expressvpn.com
 0.0.0.0 metrics.flo.health
 0.0.0.0 metrics.fresha.com
 0.0.0.0 metrics.fubo.tv
+0.0.0.0 metrics.geforcenow.com
 0.0.0.0 metrics.globo.com
 0.0.0.0 metrics.glow.co
 0.0.0.0 metrics.gnome.org
@@ -1434,9 +1466,11 @@
 0.0.0.0 metrics.hyperx.com
 0.0.0.0 metrics.ipvanish.com
 0.0.0.0 metrics.jwplayer.com
+0.0.0.0 metrics.kaizen.nvidia.com
 0.0.0.0 metrics.kindara.com
 0.0.0.0 metrics.landr.com
 0.0.0.0 metrics.logitech.com
+0.0.0.0 metrics.luna.amazon.com
 0.0.0.0 metrics.lyft.com
 0.0.0.0 metrics.manjaro.org
 0.0.0.0 metrics.matchgroup.com
@@ -1471,7 +1505,10 @@
 0.0.0.0 metrics.razer.com
 0.0.0.0 metrics.replika.ai
 0.0.0.0 metrics.resonite.com
+0.0.0.0 metrics.riotgames.com
+0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.sci-hub.tw
+0.0.0.0 metrics.shadow.tech
 0.0.0.0 metrics.shazam.com
 0.0.0.0 metrics.skyshowtime.com
 0.0.0.0 metrics.snapcraft.io
@@ -1486,6 +1523,7 @@
 0.0.0.0 metrics.system76.com
 0.0.0.0 metrics.tavour.com
 0.0.0.0 metrics.teamviewer.com
+0.0.0.0 metrics.telemetry.data.nvidia.com
 0.0.0.0 metrics.trento.suse.com
 0.0.0.0 metrics.tubitv.com
 0.0.0.0 metrics.tunnelbear.com
@@ -1569,10 +1607,12 @@
 0.0.0.0 openreplay.com
 0.0.0.0 opi.navdmp.com
 0.0.0.0 oracleinfinity.io
+0.0.0.0 orbit-telemetry.ubi.com
 0.0.0.0 origin-analytics.branch.io
 0.0.0.0 otlp.bugsnag.com
 0.0.0.0 otlp.bugsnag.smartbear.com
 0.0.0.0 outlogic.io
+0.0.0.0 overseauspider.yuanshen.com
 0.0.0.0 p.clarity.ms
 0.0.0.0 p.plerdy.com
 0.0.0.0 packages-metrics.getsol.us
@@ -1669,6 +1709,7 @@
 0.0.0.0 realtime.luckyorange.com
 0.0.0.0 realtime.youbora.com
 0.0.0.0 rec.smartlook.com
+0.0.0.0 receive.p01.lp1.er.srv.nintendo.net
 0.0.0.0 recognicorp.com
 0.0.0.0 recommendations-telemetry.netflix.com
 0.0.0.0 recommendations.jwplayer.com
@@ -1695,8 +1736,10 @@
 0.0.0.0 rpi-imager-stats.raspberrypi.com
 0.0.0.0 rs.fullstory.com
 0.0.0.0 rs.livesession.io
+0.0.0.0 rsg.sc.omtrdc.net
 0.0.0.0 rt-clientstats-il.waze.com
 0.0.0.0 rtb.adsquare.com
+0.0.0.0 rum.battle.net
 0.0.0.0 rum.netflix.com
 0.0.0.0 rum.raygun.io
 0.0.0.0 rum.rollbar.com
@@ -1752,6 +1795,7 @@
 0.0.0.0 sentry.api.stronglifts.com
 0.0.0.0 sentry.clickdealer.com
 0.0.0.0 sentry.codeium.com
+0.0.0.0 sentry.highscore.com
 0.0.0.0 sentry.io
 0.0.0.0 sentry.protonvpn.com
 0.0.0.0 sentry.scielo.org
@@ -1792,17 +1836,22 @@
 0.0.0.0 smartplugin.youbora.com
 0.0.0.0 smetric.worldcat.org
 0.0.0.0 smetrics-ieeexplore.ieee.org
+0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 smetrics.axs.com
 0.0.0.0 smetrics.bitdefender.com
 0.0.0.0 smetrics.elsevier.com
 0.0.0.0 smetrics.engineeringvillage.com
+0.0.0.0 smetrics.eu.playstation.com
 0.0.0.0 smetrics.lww.com
 0.0.0.0 smetrics.majestic.co.uk
+0.0.0.0 smetrics.nintendo.com
 0.0.0.0 smetrics.petsmart.com
 0.0.0.0 smetrics.reaxys.com
 0.0.0.0 smetrics.sciencedirect.com
 0.0.0.0 smetrics.teambeachbody.com
 0.0.0.0 smetrics.totalwine.com
+0.0.0.0 smetrics.ubi.com
+0.0.0.0 smetrics.us.playstation.com
 0.0.0.0 solomath.com
 0.0.0.0 sp.backtrace.io
 0.0.0.0 sp.gotinder.com
@@ -1840,7 +1889,9 @@
 0.0.0.0 stats.avira.com
 0.0.0.0 stats.bilibili.com
 0.0.0.0 stats.bitdefender.com
+0.0.0.0 stats.blacknut.com
 0.0.0.0 stats.blur.io
+0.0.0.0 stats.boosteroid.com
 0.0.0.0 stats.bsplayer.com
 0.0.0.0 stats.calldorado.com
 0.0.0.0 stats.cleanvoice.ai
@@ -1878,6 +1929,7 @@
 0.0.0.0 stats.uscreen.io
 0.0.0.0 stats.waze.com
 0.0.0.0 stats.youku.com
+0.0.0.0 steamstats.valvesoftware.com
 0.0.0.0 stg.jwpltx.com
 0.0.0.0 stirista.com
 0.0.0.0 store.zipy.ai
@@ -1921,6 +1973,9 @@
 0.0.0.0 tealeaf.ibmcloud.com
 0.0.0.0 tealeafcloud.com
 0.0.0.0 telemetrics-collector.01.org
+0.0.0.0 telemetry-api.rockstargames.com
+0.0.0.0 telemetry-console.api.playstation.com
+0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telemetry-service.ubuntu.com
 0.0.0.0 telemetry.1password.com
 0.0.0.0 telemetry.1passwordservices.com
@@ -1929,6 +1984,7 @@
 0.0.0.0 telemetry.altered.ai
 0.0.0.0 telemetry.anydesk.com
 0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 telemetry.artpipe.epicgames.com
 0.0.0.0 telemetry.astrill.com
 0.0.0.0 telemetry.audionamix.com
 0.0.0.0 telemetry.avast.com
@@ -1940,15 +1996,19 @@
 0.0.0.0 telemetry.beyondtrust.com
 0.0.0.0 telemetry.bitdefender.com
 0.0.0.0 telemetry.bitmovin.com
+0.0.0.0 telemetry.blacknut.com
+0.0.0.0 telemetry.boosteroid.com
 0.0.0.0 telemetry.bsplayer.com
 0.0.0.0 telemetry.character.ai
 0.0.0.0 telemetry.clearlinux.org
 0.0.0.0 telemetry.clue.app
 0.0.0.0 telemetry.codeium.com
 0.0.0.0 telemetry.coder.com
+0.0.0.0 telemetry.commerce.xboxlive.com
 0.0.0.0 telemetry.corsair.com
 0.0.0.0 telemetry.crunchyroll.com
 0.0.0.0 telemetry.cyberghostvpn.com
+0.0.0.0 telemetry.data.nvidia.com
 0.0.0.0 telemetry.dataplatform.zing.coach
 0.0.0.0 telemetry.dazn.com
 0.0.0.0 telemetry.deepin.com
@@ -1959,6 +2019,7 @@
 0.0.0.0 telemetry.docker.com
 0.0.0.0 telemetry.dreamtonics.com
 0.0.0.0 telemetry.duosecurity.com
+0.0.0.0 telemetry.ea.com
 0.0.0.0 telemetry.elementary.io
 0.0.0.0 telemetry.elevenlabs.io
 0.0.0.0 telemetry.endel.io
@@ -1969,6 +2030,7 @@
 0.0.0.0 telemetry.fedoraproject.org
 0.0.0.0 telemetry.flo.health
 0.0.0.0 telemetry.fubo.tv
+0.0.0.0 telemetry.geforcenow.com
 0.0.0.0 telemetry.glow.co
 0.0.0.0 telemetry.grindr.com
 0.0.0.0 telemetry.hbomax.com
@@ -1985,6 +2047,7 @@
 0.0.0.0 telemetry.linuxmint.com
 0.0.0.0 telemetry.logitechg.com
 0.0.0.0 telemetry.logmein.com
+0.0.0.0 telemetry.luna.amazon.com
 0.0.0.0 telemetry.lyft.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.manjaro.org
@@ -2000,6 +2063,7 @@
 0.0.0.0 telemetry.naturalcycles.com
 0.0.0.0 telemetry.nordvpn.com
 0.0.0.0 telemetry.norton.com
+0.0.0.0 telemetry.nvidia.com
 0.0.0.0 telemetry.nzxt.com
 0.0.0.0 telemetry.okta.com
 0.0.0.0 telemetry.openai.com
@@ -2015,7 +2079,10 @@
 0.0.0.0 telemetry.purevpn.com
 0.0.0.0 telemetry.razer.com
 0.0.0.0 telemetry.remotepc.com
+0.0.0.0 telemetry.riotgames.com
 0.0.0.0 telemetry.roccat.com
+0.0.0.0 telemetry.rockstargames.com
+0.0.0.0 telemetry.shadow.tech
 0.0.0.0 telemetry.shazam.com
 0.0.0.0 telemetry.soundhound.com
 0.0.0.0 telemetry.soundverse.ai
@@ -2031,6 +2098,7 @@
 0.0.0.0 telemetry.uber.com
 0.0.0.0 telemetry.ubuntu.com
 0.0.0.0 telemetry.udio.com
+0.0.0.0 telemetry.unrealengine.com
 0.0.0.0 telemetry.untappd.com
 0.0.0.0 telemetry.varjo.com
 0.0.0.0 telemetry.vivino.com
@@ -2059,6 +2127,7 @@
 0.0.0.0 tqlkg.com
 0.0.0.0 trac.eprints-hosting.org
 0.0.0.0 trac.eprints.org
+0.0.0.0 trac.rockstargames.com
 0.0.0.0 trace.nordvpn.com
 0.0.0.0 track-apollo.teleport.varjo.com
 0.0.0.0 track-aws.m.ridewithvia.com
@@ -2127,6 +2196,7 @@
 0.0.0.0 tracking-api.italki.com
 0.0.0.0 tracking.admitad.com
 0.0.0.0 tracking.affilae.com
+0.0.0.0 tracking.api-web.shadow.tech
 0.0.0.0 tracking.api.cj.com
 0.0.0.0 tracking.appmetrica.yango.com
 0.0.0.0 tracking.appsflyer.com
@@ -2144,8 +2214,10 @@
 0.0.0.0 tracking.csc.flm.fujitsu.com
 0.0.0.0 tracking.cyberghostvpn.com
 0.0.0.0 tracking.effiliation.com
+0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.expressvpn.com
 0.0.0.0 tracking.fresha.com
+0.0.0.0 tracking.geforcenow.com
 0.0.0.0 tracking.hbomax.com
 0.0.0.0 tracking.hulu.com
 0.0.0.0 tracking.impact.com
@@ -2236,6 +2308,7 @@
 0.0.0.0 usagereports.elsevier.com
 0.0.0.0 user-metrics-3.bunnycdn.com
 0.0.0.0 user-metrics.bunnycdn.com
+0.0.0.0 uspider.yuanshen.com
 0.0.0.0 usr.navdmp.com
 0.0.0.0 utt.impactcdn.com
 0.0.0.0 uxcam.com
@@ -2246,6 +2319,7 @@
 0.0.0.0 v7event.stats.avast.com
 0.0.0.0 v9.stats.avast.com
 0.0.0.0 va-endpoint.com
+0.0.0.0 valvestats.valvesoftware.com
 0.0.0.0 vars.hotjar.com
 0.0.0.0 vars.webmaxy.com
 0.0.0.0 vc.webmaxy.io
@@ -2291,15 +2365,21 @@
 0.0.0.0 wcs.naver.com
 0.0.0.0 web-analytics.lastpass.com
 0.0.0.0 web-analytics.openaire.eu
+0.0.0.0 web-play.faro.highscore.com
+0.0.0.0 web-play.otel.highscore.com
 0.0.0.0 web-sdk.smartlook.com
 0.0.0.0 web-writer.eu.smartlook.cloud
 0.0.0.0 web-writer.us.smartlook.cloud
+0.0.0.0 web-www.faro.highscore.com
+0.0.0.0 web-www.otel.highscore.com
 0.0.0.0 web.uxcam.com
 0.0.0.0 webgains.io
 0.0.0.0 webmaxy.co
 0.0.0.0 webmaxy.com
 0.0.0.0 webmaxy.io
 0.0.0.0 websights.zoominfo.com
+0.0.0.0 webwww.faro.highscore.com
+0.0.0.0 webwww.traces.highscore.com
 0.0.0.0 weeklyad.petsmart.com
 0.0.0.0 whale-tracker.nftgo.io
 0.0.0.0 whoopsie.ubuntu.com
@@ -2364,6 +2444,7 @@
 0.0.0.0 www2.navegg.com
 0.0.0.0 x-mode.com
 0.0.0.0 x.clarity.ms
+0.0.0.0 xboxreporting.xboxlive.com
 0.0.0.0 xlate01.adultfriendfinder.com
 0.0.0.0 xmode.io
 0.0.0.0 xss.tw

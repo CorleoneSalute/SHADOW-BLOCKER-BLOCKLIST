@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 2334
+# Total domains: 2413
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9,12 +9,14 @@
 02.sa.telemetry.zoom.us
 3dat.steelseries.com
 4cite.com
+a.ad.playstation.net
 a.clarity.ms
 a.plerdy.com
 a8clk.www.italki.com
 abacus.epsilon.com
 abilitec.acxiom.com
 abrt.fedoraproject.org
+abtesting.roblox.com
 acd.navdmp.com
 acdn.navdmp.com
 acoustic.co
@@ -56,6 +58,7 @@ ad.crwdcntrl.net
 ad.holalauncher.com
 ad.linksynergy.com
 ad.mxplayer.in
+ad.playstation.net
 ad.search.naver.com
 ad.vrvm.com
 adapi.holalauncher.com
@@ -118,6 +121,8 @@ ads.paytm.com
 ads.peacocktv.com
 ads.phonepe.com
 ads.realnetworks.com
+ads.roblox.com
+ads.rockstargames.com
 ads.timesinternet.in
 ads.untappd.com
 ads.voot.com
@@ -220,12 +225,14 @@ analytics.bilibili.com
 analytics.binge.com.au
 analytics.bird.co
 analytics.bitdefender.com
+analytics.blacknut.com
 analytics.blim.com
 analytics.blur.io
 analytics.bobble.ai
 analytics.bolt.eu
 analytics.booksy.com
 analytics.boomy.com
+analytics.boosteroid.com
 analytics.brain.fm
 analytics.branch.io
 analytics.britbox.com
@@ -287,6 +294,7 @@ analytics.emastered.com
 analytics.endel.io
 analytics.enpass.io
 analytics.envato.com
+analytics.epicgames.com
 analytics.espn.com
 analytics.evebyglow.com
 analytics.eventim.com
@@ -306,6 +314,7 @@ analytics.foundation.app
 analytics.fresha.com
 analytics.fubo.tv
 analytics.furbo.com
+analytics.geforcenow.com
 analytics.gikken.co
 analytics.gingersoftware.com
 analytics.givelify.com
@@ -356,6 +365,7 @@ analytics.lalal.ai
 analytics.landr.com
 analytics.languagedrops.com
 analytics.lastpass.com
+analytics.learn.nvidia.com
 analytics.leonardo.ai
 analytics.li.me
 analytics.lingoda.com
@@ -368,6 +378,7 @@ analytics.logitech.com
 analytics.logmein.com
 analytics.looksrare.org
 analytics.loudly.com
+analytics.luna.amazon.com
 analytics.lww.com
 analytics.lyft.com
 analytics.lynx-r.com
@@ -379,6 +390,7 @@ analytics.mapbox.com
 analytics.maps.me
 analytics.match.com
 analytics.max.com
+analytics.maximumsettings.com
 analytics.maya.live
 analytics.means.tv
 analytics.memrise.com
@@ -400,6 +412,7 @@ analytics.myfitnesspal.com
 analytics.myflotracker.com
 analytics.naturalcycles.com
 analytics.naver.com
+analytics.navigator-app.nvidia.com
 analytics.nbcuni.com
 analytics.nebula.tv
 analytics.netflix.com
@@ -446,6 +459,7 @@ analytics.pimsleur.com
 analytics.pixalate.com
 analytics.playgroundai.com
 analytics.playit.pk
+analytics.playstation.net
 analytics.plex.tv
 analytics.pluto.tv
 analytics.podcastle.ai
@@ -471,7 +485,9 @@ analytics.ringcentral.ca
 analytics.ringcentral.co.uk
 analytics.ringcentral.com
 analytics.ringcentral.eu
+analytics.riotgames.com
 analytics.roamresearch.com
+analytics.roblox.com
 analytics.roboform.com
 analytics.rocketlanguages.com
 analytics.rockylinux.org
@@ -485,6 +501,7 @@ analytics.runtastic.com
 analytics.samsungpay.com
 analytics.scielo.org
 analytics.scruff.com
+analytics.shadow.tech
 analytics.shazam.com
 analytics.simplenote.com
 analytics.skyshowtime.com
@@ -506,6 +523,7 @@ analytics.stan.com.au
 analytics.starryai.com
 analytics.steelseries.com
 analytics.stickypassword.com
+analytics.store-jp.nintendo.com
 analytics.strava.com
 analytics.stronglifts.com
 analytics.styleseat.com
@@ -665,6 +683,7 @@ api.uxcam.com
 api.verve.com
 api.visitor-analytics.io
 api.wiland.com
+api.xlogs.nvidia.com
 api.xmode.io
 api.youbora.com
 api.zipy.ai
@@ -843,6 +862,7 @@ clicktale.com
 clicktale.net
 clicktale.pantherssl.com
 clicktalecdn.sslcs.cdngc.net
+client-telemetry.roblox.com
 client-telemetry.us-east-1.amazonaws.com
 clientlogs.tunnelbear.com
 cloud.tealeaf.com
@@ -1029,6 +1049,7 @@ errors.netflix.com
 errors.razerzone.com
 errors.stripe.com
 errors.ubuntu.com
+errorservice.metrics.ea.com
 espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
 etl.tindersparks.com
@@ -1062,6 +1083,7 @@ events.kaltura.com
 events.mapbox.cn
 events.mapbox.com
 events.mux.com
+events.telemetry.data.nvidia.com
 evernotemetrics.com
 evgen.appsflyer.com
 ewtracking.elsevier.com
@@ -1108,6 +1130,7 @@ fullstory.com
 fullstory.net
 fwtrack.ticketnetwork.com
 g.clarity.ms
+galaxy-log.gog.com
 gallery-metrics.api.brightcove.com
 gambleonline.ca
 gamelogs.rec.net
@@ -1196,6 +1219,7 @@ ingest.openreplay.com
 ingest.sessionstack.com
 ingest.zipy.ai
 inmarket.com
+insights-collector.gog.com
 insights.conviva.com
 insights.jumpshot.com
 insights.nordvpn.com
@@ -1265,6 +1289,10 @@ log-filtering.memberful.com
 log-gateway.zoom.us
 log-internal-gateway.zoom.us
 log-net.zoom.us
+log-upload-os.hoyoverse.com
+log-upload-os.mihoyo.com
+log-upload.hoyoverse.com
+log-upload.mihoyo.com
 log.2fas.com
 log.ai-type.com
 log.alipay.com
@@ -1294,6 +1322,7 @@ logs-gateway.tabnine.com
 logs.1password.com
 logs.alipay.com
 logs.bobble.ai
+logs.boosteroid.com
 logs.cachyos.org
 logs.circle.so
 logs.fitbark.com
@@ -1393,12 +1422,14 @@ metrics.descript.com
 metrics.discoveryplus.com
 metrics.disneyplus.com
 metrics.duolingo.com
+metrics.ea.com
 metrics.espn.com
 metrics.evernote.com
 metrics.expressvpn.com
 metrics.flo.health
 metrics.fresha.com
 metrics.fubo.tv
+metrics.geforcenow.com
 metrics.globo.com
 metrics.glow.co
 metrics.gnome.org
@@ -1409,9 +1440,11 @@ metrics.hulu.com
 metrics.hyperx.com
 metrics.ipvanish.com
 metrics.jwplayer.com
+metrics.kaizen.nvidia.com
 metrics.kindara.com
 metrics.landr.com
 metrics.logitech.com
+metrics.luna.amazon.com
 metrics.lyft.com
 metrics.manjaro.org
 metrics.matchgroup.com
@@ -1446,7 +1479,10 @@ metrics.privateinternetaccess.com
 metrics.razer.com
 metrics.replika.ai
 metrics.resonite.com
+metrics.riotgames.com
+metrics.roblox.com
 metrics.sci-hub.tw
+metrics.shadow.tech
 metrics.shazam.com
 metrics.skyshowtime.com
 metrics.snapcraft.io
@@ -1461,6 +1497,7 @@ metrics.surfshark.com
 metrics.system76.com
 metrics.tavour.com
 metrics.teamviewer.com
+metrics.telemetry.data.nvidia.com
 metrics.trento.suse.com
 metrics.tubitv.com
 metrics.tunnelbear.com
@@ -1543,10 +1580,12 @@ oneaudience.com
 openreplay.com
 opi.navdmp.com
 oracleinfinity.io
+orbit-telemetry.ubi.com
 origin-analytics.branch.io
 otlp.bugsnag.com
 otlp.bugsnag.smartbear.com
 outlogic.io
+overseauspider.yuanshen.com
 p.clarity.ms
 p.plerdy.com
 packages-metrics.getsol.us
@@ -1659,8 +1698,10 @@ rollbar.com
 rpi-imager-stats.raspberrypi.com
 rs.fullstory.com
 rs.livesession.io
+rsg.sc.omtrdc.net
 rt-clientstats-il.waze.com
 rtb.adsquare.com
+rum.battle.net
 rum.netflix.com
 rum.raygun.io
 rum.rollbar.com
@@ -1715,6 +1756,7 @@ sentry-reporter.ente.io
 sentry.api.stronglifts.com
 sentry.clickdealer.com
 sentry.codeium.com
+sentry.highscore.com
 sentry.io
 sentry.protonvpn.com
 sentry.scielo.org
@@ -1755,17 +1797,22 @@ smartlook.com
 smartplugin.youbora.com
 smetric.worldcat.org
 smetrics-ieeexplore.ieee.org
+smetrics.aem.playstation.com
 smetrics.axs.com
 smetrics.bitdefender.com
 smetrics.elsevier.com
 smetrics.engineeringvillage.com
+smetrics.eu.playstation.com
 smetrics.lww.com
 smetrics.majestic.co.uk
+smetrics.nintendo.com
 smetrics.petsmart.com
 smetrics.reaxys.com
 smetrics.sciencedirect.com
 smetrics.teambeachbody.com
 smetrics.totalwine.com
+smetrics.ubi.com
+smetrics.us.playstation.com
 solomath.com
 sp.backtrace.io
 sp.gotinder.com
@@ -1802,7 +1849,9 @@ stats.avg.com
 stats.avira.com
 stats.bilibili.com
 stats.bitdefender.com
+stats.blacknut.com
 stats.blur.io
+stats.boosteroid.com
 stats.bsplayer.com
 stats.calldorado.com
 stats.cleanvoice.ai
@@ -1840,6 +1889,7 @@ stats.tensor.trade
 stats.uscreen.io
 stats.waze.com
 stats.youku.com
+steamstats.valvesoftware.com
 stg.jwpltx.com
 stirista.com
 store.zipy.ai
@@ -1883,6 +1933,9 @@ tealeaf.com
 tealeaf.ibmcloud.com
 tealeafcloud.com
 telemetrics-collector.01.org
+telemetry-api.rockstargames.com
+telemetry-console.api.playstation.com
+telemetry-in.battle.net
 telemetry-service.ubuntu.com
 telemetry.1password.com
 telemetry.1passwordservices.com
@@ -1891,6 +1944,7 @@ telemetry.add.app
 telemetry.altered.ai
 telemetry.anydesk.com
 telemetry.api.swiftkey.com
+telemetry.artpipe.epicgames.com
 telemetry.astrill.com
 telemetry.audionamix.com
 telemetry.avast.com
@@ -1902,15 +1956,19 @@ telemetry.beatoven.ai
 telemetry.beyondtrust.com
 telemetry.bitdefender.com
 telemetry.bitmovin.com
+telemetry.blacknut.com
+telemetry.boosteroid.com
 telemetry.bsplayer.com
 telemetry.character.ai
 telemetry.clearlinux.org
 telemetry.clue.app
 telemetry.codeium.com
 telemetry.coder.com
+telemetry.commerce.xboxlive.com
 telemetry.corsair.com
 telemetry.crunchyroll.com
 telemetry.cyberghostvpn.com
+telemetry.data.nvidia.com
 telemetry.dataplatform.zing.coach
 telemetry.dazn.com
 telemetry.deepin.com
@@ -1921,6 +1979,7 @@ telemetry.divx.com
 telemetry.docker.com
 telemetry.dreamtonics.com
 telemetry.duosecurity.com
+telemetry.ea.com
 telemetry.elementary.io
 telemetry.elevenlabs.io
 telemetry.endel.io
@@ -1931,6 +1990,7 @@ telemetry.fadr.com
 telemetry.fedoraproject.org
 telemetry.flo.health
 telemetry.fubo.tv
+telemetry.geforcenow.com
 telemetry.glow.co
 telemetry.grindr.com
 telemetry.hbomax.com
@@ -1947,6 +2007,7 @@ telemetry.landr.com
 telemetry.linuxmint.com
 telemetry.logitechg.com
 telemetry.logmein.com
+telemetry.luna.amazon.com
 telemetry.lyft.com
 telemetry.malwarebytes.com
 telemetry.manjaro.org
@@ -1962,6 +2023,7 @@ telemetry.mxplayer.in
 telemetry.naturalcycles.com
 telemetry.nordvpn.com
 telemetry.norton.com
+telemetry.nvidia.com
 telemetry.nzxt.com
 telemetry.okta.com
 telemetry.openai.com
@@ -1977,7 +2039,10 @@ telemetry.proton.me
 telemetry.purevpn.com
 telemetry.razer.com
 telemetry.remotepc.com
+telemetry.riotgames.com
 telemetry.roccat.com
+telemetry.rockstargames.com
+telemetry.shadow.tech
 telemetry.shazam.com
 telemetry.soundhound.com
 telemetry.soundverse.ai
@@ -1993,6 +2058,7 @@ telemetry.tunnelbear.com
 telemetry.uber.com
 telemetry.ubuntu.com
 telemetry.udio.com
+telemetry.unrealengine.com
 telemetry.untappd.com
 telemetry.varjo.com
 telemetry.vivino.com
@@ -2021,6 +2087,7 @@ towerdata.com
 tqlkg.com
 trac.eprints-hosting.org
 trac.eprints.org
+trac.rockstargames.com
 trace.nordvpn.com
 track-apollo.teleport.varjo.com
 track-aws.m.ridewithvia.com
@@ -2089,6 +2156,7 @@ tracker.prf.hn
 tracking-api.italki.com
 tracking.admitad.com
 tracking.affilae.com
+tracking.api-web.shadow.tech
 tracking.api.cj.com
 tracking.appmetrica.yango.com
 tracking.appsflyer.com
@@ -2106,8 +2174,10 @@ tracking.crazyegg.com
 tracking.csc.flm.fujitsu.com
 tracking.cyberghostvpn.com
 tracking.effiliation.com
+tracking.epicgames.com
 tracking.expressvpn.com
 tracking.fresha.com
+tracking.geforcenow.com
 tracking.hbomax.com
 tracking.hulu.com
 tracking.impact.com
@@ -2198,6 +2268,7 @@ usage.trackjs.com
 usagereports.elsevier.com
 user-metrics-3.bunnycdn.com
 user-metrics.bunnycdn.com
+uspider.yuanshen.com
 usr.navdmp.com
 utt.impactcdn.com
 uxcam.com
@@ -2208,6 +2279,7 @@ v7.stats.avast.com
 v7event.stats.avast.com
 v9.stats.avast.com
 va-endpoint.com
+valvestats.valvesoftware.com
 vars.hotjar.com
 vars.webmaxy.com
 vc.webmaxy.io
@@ -2245,15 +2317,21 @@ waf-metrics.bunnycdn.com
 wcs.naver.com
 web-analytics.lastpass.com
 web-analytics.openaire.eu
+web-play.faro.highscore.com
+web-play.otel.highscore.com
 web-sdk.smartlook.com
 web-writer.eu.smartlook.cloud
 web-writer.us.smartlook.cloud
+web-www.faro.highscore.com
+web-www.otel.highscore.com
 web.uxcam.com
 webgains.io
 webmaxy.co
 webmaxy.com
 webmaxy.io
 websights.zoominfo.com
+webwww.faro.highscore.com
+webwww.traces.highscore.com
 weeklyad.petsmart.com
 whale-tracker.nftgo.io
 whoopsie.ubuntu.com
@@ -2318,6 +2396,7 @@ www07.clicktale.net
 www2.navegg.com
 x-mode.com
 x.clarity.ms
+xboxreporting.xboxlive.com
 xlate01.adultfriendfinder.com
 xmode.io
 xss.tw
