@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 2267
+# Total domains: 2277
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -186,6 +186,7 @@
 ||analytics.abide.co^
 ||analytics.ad.daum.net^
 ||analytics.add.app^
+||analytics.aerial.is^
 ||analytics.aiva.ai^
 ||analytics.altered.ai^
 ||analytics.amadeuscode.com^
@@ -227,11 +228,13 @@
 ||analytics.busuu.com^
 ||analytics.cambly.com^
 ||analytics.canalplus.com^
+||analytics.capture.app^
 ||analytics.careem.com^
 ||analytics.cba.kaspersky.com^
 ||analytics.cbsaavideo.com^
 ||analytics.cellarpass.com^
 ||analytics.cf.morgen.so^
+||analytics.changers.com^
 ||analytics.character.ai^
 ||analytics.chewy.com^
 ||analytics.clarovideo.com^
@@ -243,6 +246,7 @@
 ||analytics.cod.ed.gov^
 ||analytics.codeium.com^
 ||analytics.coffeemeetsbagel.com^
+||analytics.commons.earth^
 ||analytics.connectwise.com^
 ||analytics.conviva.com^
 ||analytics.corsair.com^
@@ -256,6 +260,7 @@
 ||analytics.dailywire.com^
 ||analytics.dashlane.com^
 ||analytics.dazn.com^
+||analytics.deedster.com^
 ||analytics.deepin.com^
 ||analytics.deepl.com^
 ||analytics.delectable.com^
@@ -325,10 +330,12 @@
 ||analytics.jackd.com^
 ||analytics.jitsi.net^
 ||analytics.joplincloud.com^
+||analytics.joro.tech^
 ||analytics.jwplayer.com^
 ||analytics.kaltura.com^
 ||analytics.keeper.io^
 ||analytics.kidoodle.tv^
+||analytics.klima.com^
 ||analytics.komoot.com^
 ||analytics.lalal.ai^
 ||analytics.landr.com^
@@ -402,6 +409,7 @@
 ||analytics.paramountplus.com^
 ||analytics.parrot.sh^
 ||analytics.parsely.com^
+||analytics.pawprint.eco^
 ||analytics.payoneer.com^
 ||analytics.paytm.com^
 ||analytics.pbskids.org^
@@ -524,6 +532,7 @@
 ||analytics.windscribe.com^
 ||analytics.wise.com^
 ||analytics.wordreference.com^
+||analytics.wren.co^
 ||analytics.www1-0.pad.squareup.com^
 ||analytics.xplayerapp.com^
 ||analytics.yabla.com^
@@ -1388,6 +1397,7 @@
 ||metrics.openai.com^
 ||metrics.opensuse.org^
 ||metrics.paramountplus.com^
+||metrics.pawprint.eco^
 ||metrics.peacocktv.com^
 ||metrics.piano.io^
 ||metrics.playit.pk^
