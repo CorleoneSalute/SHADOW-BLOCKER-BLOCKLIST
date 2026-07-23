@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1947
+# Total domains: 1967
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -71,6 +71,7 @@
 0.0.0.0 adobemetrics.okta.com
 0.0.0.0 adperio.com
 0.0.0.0 ads-api.duolingo.com
+0.0.0.0 ads-api.flaviar.com
 0.0.0.0 ads-fa-darwin.hulu.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-twitter.com.sci-hub.tw
@@ -89,6 +90,7 @@
 0.0.0.0 ads.disneyplus.com
 0.0.0.0 ads.emojixpress.com
 0.0.0.0 ads.espn.com
+0.0.0.0 ads.flaviar.com
 0.0.0.0 ads.fubo.tv
 0.0.0.0 ads.gomlab.com
 0.0.0.0 ads.hbomax.com
@@ -109,6 +111,7 @@
 0.0.0.0 ads.untappd.com
 0.0.0.0 ads.voot.com
 0.0.0.0 ads.waze.com
+0.0.0.0 ads.wineenthusiast.com
 0.0.0.0 ads.world.waze.com
 0.0.0.0 ads.zee5.com
 0.0.0.0 adsapi-proxy-il.waze.com
@@ -393,6 +396,7 @@
 0.0.0.0 analytics.teamviewer.com
 0.0.0.0 analytics.tensor.trade
 0.0.0.0 analytics.textra.me
+0.0.0.0 analytics.thirstie.com
 0.0.0.0 analytics.ticketmaster.es
 0.0.0.0 analytics.timesinternet.in
 0.0.0.0 analytics.tonal.com
@@ -1097,9 +1101,11 @@
 0.0.0.0 logs.1password.com
 0.0.0.0 logs.bobble.ai
 0.0.0.0 logs.circle.so
+0.0.0.0 logs.flaviar.com
 0.0.0.0 logs.ghost.org
 0.0.0.0 logs.hulu.com
 0.0.0.0 logs.netflix.com
+0.0.0.0 logs.reservebar.com
 0.0.0.0 logs.tandem.net
 0.0.0.0 logsystem.zoom.us
 0.0.0.0 logzilla.zoom.us
@@ -1220,6 +1226,7 @@
 0.0.0.0 metrics.steelseries.com
 0.0.0.0 metrics.styleseat.com
 0.0.0.0 metrics.surfshark.com
+0.0.0.0 metrics.tavour.com
 0.0.0.0 metrics.teamviewer.com
 0.0.0.0 metrics.tubitv.com
 0.0.0.0 metrics.tunnelbear.com
@@ -1484,9 +1491,11 @@
 0.0.0.0 smetrics.elsevier.com
 0.0.0.0 smetrics.engineeringvillage.com
 0.0.0.0 smetrics.lww.com
+0.0.0.0 smetrics.majestic.co.uk
 0.0.0.0 smetrics.reaxys.com
 0.0.0.0 smetrics.sciencedirect.com
 0.0.0.0 smetrics.teambeachbody.com
+0.0.0.0 smetrics.totalwine.com
 0.0.0.0 solomath.com
 0.0.0.0 sp.backtrace.io
 0.0.0.0 sports-analytics.paramountplus.com
@@ -1697,16 +1706,23 @@
 0.0.0.0 track.aitype.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.branch.io
+0.0.0.0 track.cg.wine.com
 0.0.0.0 track.cj.com
 0.0.0.0 track.clickbooth.com
 0.0.0.0 track.coder.com
 0.0.0.0 track.commissionfactory.com
 0.0.0.0 track.consensus.app
+0.0.0.0 track.corp.wine.com
+0.0.0.0 track.corpgift.wine.com
+0.0.0.0 track.corpgifts.wine.com
+0.0.0.0 track.corporate.wine.com
 0.0.0.0 track.cpamatica.com
 0.0.0.0 track.crazyegg.com
 0.0.0.0 track.ebsco.com
 0.0.0.0 track.flexlinks.com
 0.0.0.0 track.flexlinkspro.com
+0.0.0.0 track.gift.wine.com
+0.0.0.0 track.gifting.wine.com
 0.0.0.0 track.gingersoftware.com
 0.0.0.0 track.go.moovit.com
 0.0.0.0 track.gojek.com
@@ -1723,6 +1739,7 @@
 0.0.0.0 track.tiara.daum.net
 0.0.0.0 track.underarmour.com
 0.0.0.0 track.webgains.com
+0.0.0.0 track.winegifts.wine.com
 0.0.0.0 tracker.core.ac.uk
 0.0.0.0 tracker.gymshark.com
 0.0.0.0 tracker.prf.hn
@@ -1767,6 +1784,7 @@
 0.0.0.0 tracking.rakutenmarketing.com
 0.0.0.0 tracking.razer.com
 0.0.0.0 tracking.realnetworks.com
+0.0.0.0 tracking.reservebar.com
 0.0.0.0 tracking.ridewithvia.com
 0.0.0.0 tracking.rosettastone.com
 0.0.0.0 tracking.seatgeek.com
@@ -1775,6 +1793,7 @@
 0.0.0.0 tracking.styleseat.com
 0.0.0.0 tracking.surfshark.com
 0.0.0.0 tracking.teamviewer.com
+0.0.0.0 tracking.thirstie.com
 0.0.0.0 tracking.toroadvertising.com
 0.0.0.0 tracking.tradedoubler.com
 0.0.0.0 tracking.tubitv.com
@@ -1885,6 +1904,7 @@
 0.0.0.0 ws.zoominfo.com
 0.0.0.0 www.acoustic.com
 0.0.0.0 www.adperio.com
+0.0.0.0 www.ads.wineenthusiast.com
 0.0.0.0 www.advidi.com
 0.0.0.0 www.affilae.com
 0.0.0.0 www.awin1.com

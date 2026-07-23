@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1993
+# Total domains: 2013
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -74,6 +74,7 @@ adobedtm.com.sci-hub.tw
 adobemetrics.okta.com
 adperio.com
 ads-api.duolingo.com
+ads-api.flaviar.com
 ads-fa-darwin.hulu.com
 ads-resources.waze.com
 ads-twitter.com.sci-hub.tw
@@ -92,6 +93,7 @@ ads.crunchyroll.com
 ads.disneyplus.com
 ads.emojixpress.com
 ads.espn.com
+ads.flaviar.com
 ads.fubo.tv
 ads.gomlab.com
 ads.hbomax.com
@@ -113,6 +115,7 @@ ads.timesinternet.in
 ads.untappd.com
 ads.voot.com
 ads.waze.com
+ads.wineenthusiast.com
 ads.world.waze.com
 ads.zee5.com
 adsapi-proxy-il.waze.com
@@ -397,6 +400,7 @@ analytics.taphunter.com
 analytics.teamviewer.com
 analytics.tensor.trade
 analytics.textra.me
+analytics.thirstie.com
 analytics.ticketmaster.es
 analytics.timesinternet.in
 analytics.tonal.com
@@ -1122,9 +1126,11 @@ logs-gateway.tabnine.com
 logs.1password.com
 logs.bobble.ai
 logs.circle.so
+logs.flaviar.com
 logs.ghost.org
 logs.hulu.com
 logs.netflix.com
+logs.reservebar.com
 logs.tandem.net
 logsystem.zoom.us
 logzilla.zoom.us
@@ -1245,6 +1251,7 @@ metrics.stan.com.au
 metrics.steelseries.com
 metrics.styleseat.com
 metrics.surfshark.com
+metrics.tavour.com
 metrics.teamviewer.com
 metrics.tubitv.com
 metrics.tunnelbear.com
@@ -1521,9 +1528,11 @@ smetrics.bitdefender.com
 smetrics.elsevier.com
 smetrics.engineeringvillage.com
 smetrics.lww.com
+smetrics.majestic.co.uk
 smetrics.reaxys.com
 smetrics.sciencedirect.com
 smetrics.teambeachbody.com
+smetrics.totalwine.com
 solomath.com
 sp.backtrace.io
 sports-analytics.paramountplus.com
@@ -1735,16 +1744,23 @@ track-integration.gojek.com
 track.aitype.com
 track.appsflyer.com
 track.branch.io
+track.cg.wine.com
 track.cj.com
 track.clickbooth.com
 track.coder.com
 track.commissionfactory.com
 track.consensus.app
+track.corp.wine.com
+track.corpgift.wine.com
+track.corpgifts.wine.com
+track.corporate.wine.com
 track.cpamatica.com
 track.crazyegg.com
 track.ebsco.com
 track.flexlinks.com
 track.flexlinkspro.com
+track.gift.wine.com
+track.gifting.wine.com
 track.gingersoftware.com
 track.go.moovit.com
 track.gojek.com
@@ -1761,6 +1777,7 @@ track.stubhub.com
 track.tiara.daum.net
 track.underarmour.com
 track.webgains.com
+track.winegifts.wine.com
 tracker.core.ac.uk
 tracker.gymshark.com
 tracker.prf.hn
@@ -1805,6 +1822,7 @@ tracking.purevpn.com
 tracking.rakutenmarketing.com
 tracking.razer.com
 tracking.realnetworks.com
+tracking.reservebar.com
 tracking.ridewithvia.com
 tracking.rosettastone.com
 tracking.seatgeek.com
@@ -1813,6 +1831,7 @@ tracking.stubhub.com
 tracking.styleseat.com
 tracking.surfshark.com
 tracking.teamviewer.com
+tracking.thirstie.com
 tracking.toroadvertising.com
 tracking.tradedoubler.com
 tracking.tubitv.com
@@ -1931,6 +1950,7 @@ ws.sessioncam.com
 ws.zoominfo.com
 www.acoustic.com
 www.adperio.com
+www.ads.wineenthusiast.com
 www.advidi.com
 www.affilae.com
 www.awin1.com

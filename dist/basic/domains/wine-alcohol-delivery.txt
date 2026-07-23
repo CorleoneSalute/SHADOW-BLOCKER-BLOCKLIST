@@ -1,0 +1,34 @@
+# ============================================================
+# WINE ALCOHOL DELIVERY BLOCKLIST - BASIC
+# Total domains: 27
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+ads-api.flaviar.com
+ads.flaviar.com
+ads.wineenthusiast.com
+analytics.thirstie.com
+analytics.vivino.com
+logs.flaviar.com
+logs.reservebar.com
+metrics.tavour.com
+smetrics.majestic.co.uk
+smetrics.totalwine.com
+track.cg.wine.com
+track.corp.wine.com
+track.corpgift.wine.com
+track.corpgifts.wine.com
+track.corporate.wine.com
+track.gift.wine.com
+track.gifting.wine.com
+track.winegifts.wine.com
+tracking.newsletter.vivino.com
+tracking.reservebar.com
+tracking.thirstie.com
+tracking.vivino.com
+trk.vivino.com
+trk1.vivino.com
+trk2.vivino.com
+trk3.vivino.com
+www.ads.wineenthusiast.com
