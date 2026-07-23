@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1553
+# Total domains: 1612
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -11,6 +11,7 @@
 0.0.0.0 4cite.com
 0.0.0.0 a.clarity.ms
 0.0.0.0 a.plerdy.com
+0.0.0.0 a8clk.www.italki.com
 0.0.0.0 ab-test.hulu.com
 0.0.0.0 abacus.epsilon.com
 0.0.0.0 abilitec.acxiom.com
@@ -66,11 +67,13 @@
 0.0.0.0 admitad.com
 0.0.0.0 adobedtm.com.sci-hub.tw
 0.0.0.0 adperio.com
+0.0.0.0 ads-api.duolingo.com
 0.0.0.0 ads-fa-darwin.hulu.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-twitter.com.sci-hub.tw
 0.0.0.0 ads-v-darwin.hulu.com
 0.0.0.0 ads.api.cj.com
+0.0.0.0 ads.babbel.com
 0.0.0.0 ads.bitmovin.com
 0.0.0.0 ads.brightcove.com
 0.0.0.0 ads.cj.com
@@ -150,7 +153,9 @@
 0.0.0.0 analytics.api.brightcove.com
 0.0.0.0 analytics.appsflyer.com
 0.0.0.0 analytics.astrill.com
+0.0.0.0 analytics.babbel.com
 0.0.0.0 analytics.bear.app
+0.0.0.0 analytics.beelinguapp.com
 0.0.0.0 analytics.beermenus.com
 0.0.0.0 analytics.beyondtrust.com
 0.0.0.0 analytics.bilibili.com
@@ -159,6 +164,8 @@
 0.0.0.0 analytics.bobble.ai
 0.0.0.0 analytics.branch.io
 0.0.0.0 analytics.britbox.com
+0.0.0.0 analytics.busuu.com
+0.0.0.0 analytics.cambly.com
 0.0.0.0 analytics.canalplus.com
 0.0.0.0 analytics.cbsaavideo.com
 0.0.0.0 analytics.cellarpass.com
@@ -166,6 +173,7 @@
 0.0.0.0 analytics.character.ai
 0.0.0.0 analytics.clarovideo.com
 0.0.0.0 analytics.clickbank.com
+0.0.0.0 analytics.clozemaster.com
 0.0.0.0 analytics.cod.ed.gov
 0.0.0.0 analytics.codeium.com
 0.0.0.0 analytics.connectwise.com
@@ -180,12 +188,14 @@
 0.0.0.0 analytics.dailywire.com
 0.0.0.0 analytics.dashlane.com
 0.0.0.0 analytics.dazn.com
+0.0.0.0 analytics.deepl.com
 0.0.0.0 analytics.delectable.com
 0.0.0.0 analytics.dialpad.com
 0.0.0.0 analytics.digitalpour.com
 0.0.0.0 analytics.discoveryplus.com
 0.0.0.0 analytics.disneynow.com
 0.0.0.0 analytics.disneyplus.com
+0.0.0.0 analytics.elsaspeak.com
 0.0.0.0 analytics.elsevier.com
 0.0.0.0 analytics.enpass.io
 0.0.0.0 analytics.espn.com
@@ -195,17 +205,24 @@
 0.0.0.0 analytics.fandangoathome.com
 0.0.0.0 analytics.fixme.it
 0.0.0.0 analytics.fleksy.com
+0.0.0.0 analytics.forvo.com
 0.0.0.0 analytics.fubo.tv
+0.0.0.0 analytics.gikken.co
 0.0.0.0 analytics.gingersoftware.com
 0.0.0.0 analytics.globoplay.globo.com
+0.0.0.0 analytics.glossika.com
 0.0.0.0 analytics.hbomax.com
+0.0.0.0 analytics.hellochinese.cc
+0.0.0.0 analytics.hellotalk.com
 0.0.0.0 analytics.hide.me
 0.0.0.0 analytics.hotstar.com
 0.0.0.0 analytics.hulu.com
 0.0.0.0 analytics.hyperx.com
 0.0.0.0 analytics.ieee.org
+0.0.0.0 analytics.imtranslator.net
 0.0.0.0 analytics.ipvanish.com
 0.0.0.0 analytics.iqiyi.com
+0.0.0.0 analytics.italki.com
 0.0.0.0 analytics.jitsi.net
 0.0.0.0 analytics.joplincloud.com
 0.0.0.0 analytics.jwplayer.com
@@ -213,14 +230,25 @@
 0.0.0.0 analytics.keeper.io
 0.0.0.0 analytics.kidoodle.tv
 0.0.0.0 analytics.komoot.com
+0.0.0.0 analytics.languagedrops.com
 0.0.0.0 analytics.lastpass.com
+0.0.0.0 analytics.lingoda.com
+0.0.0.0 analytics.lingodeer.com
+0.0.0.0 analytics.lingokids.com
+0.0.0.0 analytics.lingq.com
+0.0.0.0 analytics.linguee.com
+0.0.0.0 analytics.lingvist.com
 0.0.0.0 analytics.logitech.com
 0.0.0.0 analytics.logmein.com
 0.0.0.0 analytics.lww.com
+0.0.0.0 analytics.makesyoufluent.com
+0.0.0.0 analytics.mangolanguages.com
 0.0.0.0 analytics.mapbox.com
 0.0.0.0 analytics.maps.me
 0.0.0.0 analytics.max.com
 0.0.0.0 analytics.means.tv
+0.0.0.0 analytics.memrise.com
+0.0.0.0 analytics.mondly.com
 0.0.0.0 analytics.moovit.com
 0.0.0.0 analytics.movistarplus.es
 0.0.0.0 analytics.mubi.com
@@ -243,15 +271,18 @@
 0.0.0.0 analytics.openai.com
 0.0.0.0 analytics.openaire.eu
 0.0.0.0 analytics.openalex.org
+0.0.0.0 analytics.palteca.com
 0.0.0.0 analytics.paramountplus.com
 0.0.0.0 analytics.parsely.com
 0.0.0.0 analytics.pbskids.org
 0.0.0.0 analytics.peacocktv.com
 0.0.0.0 analytics.piano.io
+0.0.0.0 analytics.pimsleur.com
 0.0.0.0 analytics.pixalate.com
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.pluto.tv
 0.0.0.0 analytics.prageru.com
+0.0.0.0 analytics.preply.com
 0.0.0.0 analytics.privateinternetaccess.com
 0.0.0.0 analytics.protected.media
 0.0.0.0 analytics.purevpn.com
@@ -266,6 +297,8 @@
 0.0.0.0 analytics.ringcentral.eu
 0.0.0.0 analytics.roamresearch.com
 0.0.0.0 analytics.roboform.com
+0.0.0.0 analytics.rocketlanguages.com
+0.0.0.0 analytics.rosettastone.com
 0.0.0.0 analytics.rtlplus.com
 0.0.0.0 analytics.rumble.com
 0.0.0.0 analytics.runsignup.com
@@ -275,6 +308,9 @@
 0.0.0.0 analytics.simplenote.com
 0.0.0.0 analytics.skyshowtime.com
 0.0.0.0 analytics.soundhound.com
+0.0.0.0 analytics.speaky.com
+0.0.0.0 analytics.speechace.com
+0.0.0.0 analytics.speechling.com
 0.0.0.0 analytics.splashtop.com
 0.0.0.0 analytics.stan.com.au
 0.0.0.0 analytics.steelseries.com
@@ -282,12 +318,15 @@
 0.0.0.0 analytics.strava.com
 0.0.0.0 analytics.stronglifts.com
 0.0.0.0 analytics.surfshark.com
+0.0.0.0 analytics.taalhammer.com
+0.0.0.0 analytics.tandem.net
 0.0.0.0 analytics.taphunter.com
 0.0.0.0 analytics.teamviewer.com
 0.0.0.0 analytics.ticketmaster.es
 0.0.0.0 analytics.tonal.com
 0.0.0.0 analytics.torguard.net
 0.0.0.0 analytics.tradedoubler.com
+0.0.0.0 analytics.transparent.com
 0.0.0.0 analytics.tubitv.com
 0.0.0.0 analytics.tunnelbear.com
 0.0.0.0 analytics.tv.apple.com
@@ -295,10 +334,13 @@
 0.0.0.0 analytics.underarmour.com
 0.0.0.0 analytics.unpaywall.org
 0.0.0.0 analytics.untappd.com
+0.0.0.0 analytics.verbling.com
 0.0.0.0 analytics.viaplay.com
 0.0.0.0 analytics.videoland.com
 0.0.0.0 analytics.vivino.com
 0.0.0.0 analytics.voot.com
+0.0.0.0 analytics.voxy.com
+0.0.0.0 analytics.vpc.duolingo.com
 0.0.0.0 analytics.vudu.com
 0.0.0.0 analytics.vyprvpn.com
 0.0.0.0 analytics.wavve.com
@@ -307,6 +349,8 @@
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.wiley.com
 0.0.0.0 analytics.windscribe.com
+0.0.0.0 analytics.wordreference.com
+0.0.0.0 analytics.yabla.com
 0.0.0.0 analytics.youbora.com
 0.0.0.0 analytics.youku.com
 0.0.0.0 analytics.zee5.com
@@ -537,6 +581,7 @@
 0.0.0.0 clientlogs.tunnelbear.com
 0.0.0.0 cloud.tealeaf.com
 0.0.0.0 cloudtrack.cal.com
+0.0.0.0 collect.babbel.io
 0.0.0.0 collect.biomedcentral.com
 0.0.0.0 collect.contentsquare.net
 0.0.0.0 collect.springer.com
@@ -659,6 +704,7 @@
 0.0.0.0 edge.permutive.app
 0.0.0.0 effiliation.com
 0.0.0.0 ekb.analytics.elsevier.com
+0.0.0.0 email.events.duolingo.com
 0.0.0.0 emetrics.engineeringvillage.com
 0.0.0.0 emjcd.com
 0.0.0.0 engage.kaltura.com
@@ -701,12 +747,15 @@
 0.0.0.0 experianmarketingservices.com
 0.0.0.0 experience.conviva.com
 0.0.0.0 experience.piano.io
+0.0.0.0 experimentation-grpc.deepl.com
+0.0.0.0 experimentation.deepl.com
 0.0.0.0 experiments.disneyplus.com
 0.0.0.0 experiments.hulu.com
 0.0.0.0 experiments.netflix.com
 0.0.0.0 eyeota.com
 0.0.0.0 eyeota.net
 0.0.0.0 f.clarity.ms
+0.0.0.0 fa.hellotalk.com
 0.0.0.0 factual.com
 0.0.0.0 feedback.hotjar.com
 0.0.0.0 files.crazyegg.com
@@ -755,6 +804,7 @@
 0.0.0.0 hitwise.com
 0.0.0.0 hotjar.com
 0.0.0.0 hotjar.io
+0.0.0.0 hs.deepl.com
 0.0.0.0 i.clarity.ms
 0.0.0.0 i.dev.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
@@ -863,6 +913,7 @@
 0.0.0.0 logs.bobble.ai
 0.0.0.0 logs.hulu.com
 0.0.0.0 logs.netflix.com
+0.0.0.0 logs.tandem.net
 0.0.0.0 logsystem.zoom.us
 0.0.0.0 logzilla.zoom.us
 0.0.0.0 looker.digital-science.com
@@ -879,6 +930,7 @@
 0.0.0.0 luckyorange.net
 0.0.0.0 m.clarity.ms
 0.0.0.0 m1.merkle.com
+0.0.0.0 marketing-tracker.babbel.com
 0.0.0.0 match.adsquare.com
 0.0.0.0 match.eyeota.net
 0.0.0.0 matomo.garmin.com
@@ -908,6 +960,7 @@
 0.0.0.0 metrics.branch.io
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.britbox.com
+0.0.0.0 metrics.cambly.com
 0.0.0.0 metrics.cbs.com
 0.0.0.0 metrics.clarovideo.com
 0.0.0.0 metrics.conviva.com
@@ -920,6 +973,7 @@
 0.0.0.0 metrics.dazn.com
 0.0.0.0 metrics.discoveryplus.com
 0.0.0.0 metrics.disneyplus.com
+0.0.0.0 metrics.duolingo.com
 0.0.0.0 metrics.espn.com
 0.0.0.0 metrics.evernote.com
 0.0.0.0 metrics.expressvpn.com
@@ -1193,6 +1247,7 @@
 0.0.0.0 sports-analytics.peacocktv.com
 0.0.0.0 sports-metrics.espn.com
 0.0.0.0 src.litix.io
+0.0.0.0 sre-logs.rosettastone.com
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 ssai.brightcove.com
 0.0.0.0 ssl2.cdngc.net
@@ -1250,6 +1305,7 @@
 0.0.0.0 tag.fullcontact.com
 0.0.0.0 tag.navdmp.com
 0.0.0.0 tag.zoominfo.com
+0.0.0.0 tagalog.mondly.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.crwdcntrl.net
@@ -1277,6 +1333,7 @@
 0.0.0.0 telemetry.cyberghostvpn.com
 0.0.0.0 telemetry.dataplatform.zing.coach
 0.0.0.0 telemetry.dazn.com
+0.0.0.0 telemetry.deepl.com
 0.0.0.0 telemetry.espn.com
 0.0.0.0 telemetry.expressvpn.com
 0.0.0.0 telemetry.fubo.tv
@@ -1362,6 +1419,7 @@
 0.0.0.0 tracker.core.ac.uk
 0.0.0.0 tracker.gymshark.com
 0.0.0.0 tracker.prf.hn
+0.0.0.0 tracking-api.italki.com
 0.0.0.0 tracking.admitad.com
 0.0.0.0 tracking.affilae.com
 0.0.0.0 tracking.api.cj.com
@@ -1389,6 +1447,7 @@
 0.0.0.0 tracking.purevpn.com
 0.0.0.0 tracking.rakutenmarketing.com
 0.0.0.0 tracking.razer.com
+0.0.0.0 tracking.rosettastone.com
 0.0.0.0 tracking.seatgeek.com
 0.0.0.0 tracking.shareasale.com
 0.0.0.0 tracking.stubhub.com

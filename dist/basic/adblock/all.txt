@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1509
+# Total domains: 1565
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -11,6 +11,7 @@
 ||4cite.com^
 ||a.clarity.ms^
 ||a.plerdy.com^
+||a8clk.www.italki.com^
 ||abacus.epsilon.com^
 ||abilitec.acxiom.com^
 ||acd.navdmp.com^
@@ -63,11 +64,13 @@
 ||admitad.com^
 ||adobedtm.com.sci-hub.tw^
 ||adperio.com^
+||ads-api.duolingo.com^
 ||ads-fa-darwin.hulu.com^
 ||ads-resources.waze.com^
 ||ads-twitter.com.sci-hub.tw^
 ||ads-v-darwin.hulu.com^
 ||ads.api.cj.com^
+||ads.babbel.com^
 ||ads.bitmovin.com^
 ||ads.brightcove.com^
 ||ads.cj.com^
@@ -145,7 +148,9 @@
 ||analytics.api.brightcove.com^
 ||analytics.appsflyer.com^
 ||analytics.astrill.com^
+||analytics.babbel.com^
 ||analytics.bear.app^
+||analytics.beelinguapp.com^
 ||analytics.beermenus.com^
 ||analytics.beyondtrust.com^
 ||analytics.bilibili.com^
@@ -154,6 +159,8 @@
 ||analytics.bobble.ai^
 ||analytics.branch.io^
 ||analytics.britbox.com^
+||analytics.busuu.com^
+||analytics.cambly.com^
 ||analytics.canalplus.com^
 ||analytics.cbsaavideo.com^
 ||analytics.cellarpass.com^
@@ -161,6 +168,7 @@
 ||analytics.character.ai^
 ||analytics.clarovideo.com^
 ||analytics.clickbank.com^
+||analytics.clozemaster.com^
 ||analytics.cod.ed.gov^
 ||analytics.codeium.com^
 ||analytics.connectwise.com^
@@ -175,12 +183,14 @@
 ||analytics.dailywire.com^
 ||analytics.dashlane.com^
 ||analytics.dazn.com^
+||analytics.deepl.com^
 ||analytics.delectable.com^
 ||analytics.dialpad.com^
 ||analytics.digitalpour.com^
 ||analytics.discoveryplus.com^
 ||analytics.disneynow.com^
 ||analytics.disneyplus.com^
+||analytics.elsaspeak.com^
 ||analytics.elsevier.com^
 ||analytics.enpass.io^
 ||analytics.espn.com^
@@ -190,17 +200,24 @@
 ||analytics.fandangoathome.com^
 ||analytics.fixme.it^
 ||analytics.fleksy.com^
+||analytics.forvo.com^
 ||analytics.fubo.tv^
+||analytics.gikken.co^
 ||analytics.gingersoftware.com^
 ||analytics.globoplay.globo.com^
+||analytics.glossika.com^
 ||analytics.hbomax.com^
+||analytics.hellochinese.cc^
+||analytics.hellotalk.com^
 ||analytics.hide.me^
 ||analytics.hotstar.com^
 ||analytics.hulu.com^
 ||analytics.hyperx.com^
 ||analytics.ieee.org^
+||analytics.imtranslator.net^
 ||analytics.ipvanish.com^
 ||analytics.iqiyi.com^
+||analytics.italki.com^
 ||analytics.jitsi.net^
 ||analytics.joplincloud.com^
 ||analytics.jwplayer.com^
@@ -208,14 +225,25 @@
 ||analytics.keeper.io^
 ||analytics.kidoodle.tv^
 ||analytics.komoot.com^
+||analytics.languagedrops.com^
 ||analytics.lastpass.com^
+||analytics.lingoda.com^
+||analytics.lingodeer.com^
+||analytics.lingokids.com^
+||analytics.lingq.com^
+||analytics.linguee.com^
+||analytics.lingvist.com^
 ||analytics.logitech.com^
 ||analytics.logmein.com^
 ||analytics.lww.com^
+||analytics.makesyoufluent.com^
+||analytics.mangolanguages.com^
 ||analytics.mapbox.com^
 ||analytics.maps.me^
 ||analytics.max.com^
 ||analytics.means.tv^
+||analytics.memrise.com^
+||analytics.mondly.com^
 ||analytics.moovit.com^
 ||analytics.movistarplus.es^
 ||analytics.mubi.com^
@@ -238,15 +266,18 @@
 ||analytics.openai.com^
 ||analytics.openaire.eu^
 ||analytics.openalex.org^
+||analytics.palteca.com^
 ||analytics.paramountplus.com^
 ||analytics.parsely.com^
 ||analytics.pbskids.org^
 ||analytics.peacocktv.com^
 ||analytics.piano.io^
+||analytics.pimsleur.com^
 ||analytics.pixalate.com^
 ||analytics.plex.tv^
 ||analytics.pluto.tv^
 ||analytics.prageru.com^
+||analytics.preply.com^
 ||analytics.privateinternetaccess.com^
 ||analytics.protected.media^
 ||analytics.purevpn.com^
@@ -261,6 +292,8 @@
 ||analytics.ringcentral.eu^
 ||analytics.roamresearch.com^
 ||analytics.roboform.com^
+||analytics.rocketlanguages.com^
+||analytics.rosettastone.com^
 ||analytics.rtlplus.com^
 ||analytics.rumble.com^
 ||analytics.runsignup.com^
@@ -270,6 +303,9 @@
 ||analytics.simplenote.com^
 ||analytics.skyshowtime.com^
 ||analytics.soundhound.com^
+||analytics.speaky.com^
+||analytics.speechace.com^
+||analytics.speechling.com^
 ||analytics.splashtop.com^
 ||analytics.stan.com.au^
 ||analytics.steelseries.com^
@@ -277,12 +313,15 @@
 ||analytics.strava.com^
 ||analytics.stronglifts.com^
 ||analytics.surfshark.com^
+||analytics.taalhammer.com^
+||analytics.tandem.net^
 ||analytics.taphunter.com^
 ||analytics.teamviewer.com^
 ||analytics.ticketmaster.es^
 ||analytics.tonal.com^
 ||analytics.torguard.net^
 ||analytics.tradedoubler.com^
+||analytics.transparent.com^
 ||analytics.tubitv.com^
 ||analytics.tunnelbear.com^
 ||analytics.tv.apple.com^
@@ -290,10 +329,13 @@
 ||analytics.underarmour.com^
 ||analytics.unpaywall.org^
 ||analytics.untappd.com^
+||analytics.verbling.com^
 ||analytics.viaplay.com^
 ||analytics.videoland.com^
 ||analytics.vivino.com^
 ||analytics.voot.com^
+||analytics.voxy.com^
+||analytics.vpc.duolingo.com^
 ||analytics.vudu.com^
 ||analytics.vyprvpn.com^
 ||analytics.wavve.com^
@@ -302,6 +344,8 @@
 ||analytics.webgains.io^
 ||analytics.wiley.com^
 ||analytics.windscribe.com^
+||analytics.wordreference.com^
+||analytics.yabla.com^
 ||analytics.youbora.com^
 ||analytics.youku.com^
 ||analytics.zee5.com^
@@ -526,6 +570,7 @@
 ||clientlogs.tunnelbear.com^
 ||cloud.tealeaf.com^
 ||cloudtrack.cal.com^
+||collect.babbel.io^
 ||collect.biomedcentral.com^
 ||collect.contentsquare.net^
 ||collect.springer.com^
@@ -645,6 +690,7 @@
 ||edge.permutive.app^
 ||effiliation.com^
 ||ekb.analytics.elsevier.com^
+||email.events.duolingo.com^
 ||emetrics.engineeringvillage.com^
 ||emjcd.com^
 ||engage.kaltura.com^
@@ -689,6 +735,7 @@
 ||eyeota.com^
 ||eyeota.net^
 ||f.clarity.ms^
+||fa.hellotalk.com^
 ||factual.com^
 ||feedback.hotjar.com^
 ||files.crazyegg.com^
@@ -840,6 +887,7 @@
 ||logs.bobble.ai^
 ||logs.hulu.com^
 ||logs.netflix.com^
+||logs.tandem.net^
 ||logsystem.zoom.us^
 ||logzilla.zoom.us^
 ||looker.digital-science.com^
@@ -856,6 +904,7 @@
 ||luckyorange.net^
 ||m.clarity.ms^
 ||m1.merkle.com^
+||marketing-tracker.babbel.com^
 ||match.adsquare.com^
 ||match.eyeota.net^
 ||matomo.garmin.com^
@@ -885,6 +934,7 @@
 ||metrics.branch.io^
 ||metrics.brightcove.com^
 ||metrics.britbox.com^
+||metrics.cambly.com^
 ||metrics.cbs.com^
 ||metrics.clarovideo.com^
 ||metrics.conviva.com^
@@ -897,6 +947,7 @@
 ||metrics.dazn.com^
 ||metrics.discoveryplus.com^
 ||metrics.disneyplus.com^
+||metrics.duolingo.com^
 ||metrics.espn.com^
 ||metrics.evernote.com^
 ||metrics.expressvpn.com^
@@ -1157,6 +1208,7 @@
 ||sports-analytics.paramountplus.com^
 ||sports-analytics.peacocktv.com^
 ||sports-metrics.espn.com^
+||sre-logs.rosettastone.com^
 ||srv.pixel.parsely.com^
 ||ssai.brightcove.com^
 ||ssl2.cdngc.net^
@@ -1214,6 +1266,7 @@
 ||tag.fullcontact.com^
 ||tag.navdmp.com^
 ||tag.zoominfo.com^
+||tagalog.mondly.com^
 ||tags.bkrtx.com^
 ||tags.bluekai.com^
 ||tags.crwdcntrl.net^
@@ -1241,6 +1294,7 @@
 ||telemetry.cyberghostvpn.com^
 ||telemetry.dataplatform.zing.coach^
 ||telemetry.dazn.com^
+||telemetry.deepl.com^
 ||telemetry.espn.com^
 ||telemetry.expressvpn.com^
 ||telemetry.fubo.tv^
@@ -1326,6 +1380,7 @@
 ||tracker.core.ac.uk^
 ||tracker.gymshark.com^
 ||tracker.prf.hn^
+||tracking-api.italki.com^
 ||tracking.admitad.com^
 ||tracking.affilae.com^
 ||tracking.api.cj.com^
@@ -1353,6 +1408,7 @@
 ||tracking.purevpn.com^
 ||tracking.rakutenmarketing.com^
 ||tracking.razer.com^
+||tracking.rosettastone.com^
 ||tracking.seatgeek.com^
 ||tracking.shareasale.com^
 ||tracking.stubhub.com^

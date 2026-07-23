@@ -1,0 +1,66 @@
+# ============================================================
+# LANGUAGE LEARNING TRANSLATION BLOCKLIST - AGGRESSIVE
+# Total domains: 59
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+a8clk.www.italki.com
+ads-api.duolingo.com
+ads.babbel.com
+analytics.babbel.com
+analytics.beelinguapp.com
+analytics.busuu.com
+analytics.cambly.com
+analytics.clozemaster.com
+analytics.deepl.com
+analytics.elsaspeak.com
+analytics.forvo.com
+analytics.gikken.co
+analytics.glossika.com
+analytics.hellochinese.cc
+analytics.hellotalk.com
+analytics.imtranslator.net
+analytics.italki.com
+analytics.languagedrops.com
+analytics.lingoda.com
+analytics.lingodeer.com
+analytics.lingokids.com
+analytics.lingq.com
+analytics.linguee.com
+analytics.lingvist.com
+analytics.makesyoufluent.com
+analytics.mangolanguages.com
+analytics.memrise.com
+analytics.mondly.com
+analytics.palteca.com
+analytics.pimsleur.com
+analytics.preply.com
+analytics.rocketlanguages.com
+analytics.rosettastone.com
+analytics.speaky.com
+analytics.speechace.com
+analytics.speechling.com
+analytics.taalhammer.com
+analytics.tandem.net
+analytics.transparent.com
+analytics.verbling.com
+analytics.voxy.com
+analytics.vpc.duolingo.com
+analytics.wordreference.com
+analytics.yabla.com
+collect.babbel.io
+email.events.duolingo.com
+experimentation-grpc.deepl.com
+experimentation.deepl.com
+fa.hellotalk.com
+hs.deepl.com
+logs.tandem.net
+marketing-tracker.babbel.com
+metrics.cambly.com
+metrics.duolingo.com
+sre-logs.rosettastone.com
+tagalog.mondly.com
+telemetry.deepl.com
+tracking-api.italki.com
+tracking.rosettastone.com
