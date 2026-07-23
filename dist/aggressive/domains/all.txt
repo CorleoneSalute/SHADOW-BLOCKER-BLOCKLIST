@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 2323
+# Total domains: 2380
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -68,10 +68,12 @@ adclarity.com
 adgen-cdn.connatix.com
 adgen.connatix.com
 adhoc.textra.me
+adjust.flo.health
 adjustevents.purevpn.com
 adjustyourtracking.vhx.tv
 adkernel.crakrevenue.com
 admitad.com
+admob.gpapps.com
 adobedtm.com.sci-hub.tw
 adobemetrics.okta.com
 adperio.com
@@ -100,6 +102,7 @@ ads.flaviar.com
 ads.fubo.tv
 ads.gentoo.org
 ads.gomlab.com
+ads.gpapps.com
 ads.hbomax.com
 ads.hotstar.com
 ads.hulu.com
@@ -112,6 +115,7 @@ ads.moovit.com
 ads.mxplayer.in
 ads.myfitnesspal.com
 ads.naver.com
+ads.ovia.com
 ads.paramountplus.com
 ads.paytm.com
 ads.peacocktv.com
@@ -163,6 +167,7 @@ alipaylog.com
 amagi.tv
 amp.navdmp.com
 amp.permutive.app
+amplitude.flo.health
 amplitude.usemotion.com
 an.avast.com
 analytic.underarmour.com
@@ -205,6 +210,7 @@ analytics.audionamix.com
 analytics.auphonic.com
 analytics.authy.com
 analytics.avast.com
+analytics.avawomen.com
 analytics.avcdn.net
 analytics.babbel.com
 analytics.badoo.com
@@ -263,6 +269,7 @@ analytics.curiositystream.com
 analytics.cyberghostvpn.com
 analytics.dailywire.com
 analytics.dashlane.com
+analytics.daysy.me
 analytics.dazn.com
 analytics.deedster.com
 analytics.deepin.com
@@ -285,15 +292,19 @@ analytics.endel.io
 analytics.enpass.io
 analytics.envato.com
 analytics.espn.com
+analytics.evebyglow.com
 analytics.eventim.com
 analytics.evernote.com
 analytics.expressvpn.com
 analytics.fadr.com
 analytics.faithlife.com
 analytics.fandangoathome.com
+analytics.femia.health
+analytics.fertilityfriend.com
 analytics.fitbark.com
 analytics.fixme.it
 analytics.fleksy.com
+analytics.flo.health
 analytics.forvo.com
 analytics.foundation.app
 analytics.fresha.com
@@ -304,14 +315,17 @@ analytics.gingersoftware.com
 analytics.givelify.com
 analytics.globoplay.globo.com
 analytics.glossika.com
+analytics.glowing.com
 analytics.gnome.org
 analytics.gomlab.com
 analytics.gotinder.com
 analytics.goyoapp.com
+analytics.gpapps.com
 analytics.hallow.com
 analytics.happn.com
 analytics.hbomax.com
 analytics.hellochinese.cc
+analytics.helloclue.com
 analytics.hellotalk.com
 analytics.hide.me
 analytics.hinge.co
@@ -339,6 +353,7 @@ analytics.jwplayer.com
 analytics.kaltura.com
 analytics.keeper.io
 analytics.kidoodle.tv
+analytics.kindara.com
 analytics.klima.com
 analytics.komoot.com
 analytics.lalal.ai
@@ -368,12 +383,14 @@ analytics.mapbox.com
 analytics.maps.me
 analytics.match.com
 analytics.max.com
+analytics.maya.live
 analytics.means.tv
 analytics.memrise.com
 analytics.mindbodyonline.com
 analytics.mixedinkey.com
 analytics.moises.ai
 analytics.mondly.com
+analytics.moodsapp.com
 analytics.moovit.com
 analytics.movistarplus.es
 analytics.mpay.samsung.com
@@ -384,6 +401,8 @@ analytics.muslimpro.com
 analytics.mux.com
 analytics.mxplayer.in
 analytics.myfitnesspal.com
+analytics.myflotracker.com
+analytics.naturalcycles.com
 analytics.naver.com
 analytics.nbcuni.com
 analytics.nebula.tv
@@ -409,6 +428,8 @@ analytics.openaire.eu
 analytics.openalex.org
 analytics.opensea.io
 analytics.opensuse.org
+analytics.ovia.com
+analytics.oviahealth.com
 analytics.palteca.com
 analytics.paramountplus.com
 analytics.parrot.sh
@@ -418,6 +439,8 @@ analytics.payoneer.com
 analytics.paytm.com
 analytics.pbskids.org
 analytics.peacocktv.com
+analytics.pepapp.com
+analytics.period-calendar.com
 analytics.petco.com
 analytics.petcube.com
 analytics.petdesk.com
@@ -432,6 +455,7 @@ analytics.pluto.tv
 analytics.podcastle.ai
 analytics.pof.com
 analytics.prageru.com
+analytics.premom.com
 analytics.preply.com
 analytics.privateinternetaccess.com
 analytics.protected.media
@@ -492,6 +516,7 @@ analytics.styleseat.com
 analytics.suno.ai
 analytics.superrare.com
 analytics.surfshark.com
+analytics.sympto.org
 analytics.taalhammer.com
 analytics.tandem.net
 analytics.taphunter.com
@@ -535,6 +560,7 @@ analytics.webgains.io
 analytics.wiley.com
 analytics.windscribe.com
 analytics.wise.com
+analytics.womanlog.com
 analytics.wordreference.com
 analytics.wren.co
 analytics.www1-0.pad.squareup.com
@@ -657,6 +683,7 @@ app.glitchtip.com
 appanalytics.tomtom.com
 apples-analytics.pad.squareup.com
 applog.bolt.eu
+appsflyer.flo.health
 appsignal-endpoint.net
 appsignal.com
 arc-metrics.corp.codeium.com
@@ -719,6 +746,7 @@ blog.adultfriendfinder.com
 bluekai.com
 bombora.com
 br.smartlook.cloud
+branch.flo.health
 bttracker.debian.org
 bug.kaspersky.com
 bugfender.com
@@ -1068,6 +1096,7 @@ eyeota.com
 eyeota.net
 f.clarity.ms
 fa.hellotalk.com
+facebook.flo.health
 faces3cdn.goforandroid.com
 factual.com
 faf.fedoraproject.org
@@ -1303,6 +1332,7 @@ logs.reservebar.com
 logs.tandem.net
 logsystem.zoom.us
 logzilla.zoom.us
+looker.babycenter.com
 looker.digital-science.com
 lotame.com
 lotame.io
@@ -1323,6 +1353,7 @@ m.clarity.ms
 m1.merkle.com
 maccosmetics.hello.stability.ai
 marketing-tracker.babbel.com
+marketing.flo.health
 mars.vive.com
 match.adsquare.com
 match.eyeota.net
@@ -1390,22 +1421,27 @@ metrics.duolingo.com
 metrics.espn.com
 metrics.evernote.com
 metrics.expressvpn.com
+metrics.flo.health
 metrics.fresha.com
 metrics.fubo.tv
 metrics.globo.com
+metrics.glow.co
 metrics.gnome.org
 metrics.hbomax.com
+metrics.helloclue.com
 metrics.hotstar.com
 metrics.hulu.com
 metrics.hyperx.com
 metrics.ipvanish.com
 metrics.jwplayer.com
+metrics.kindara.com
 metrics.landr.com
 metrics.logitech.com
 metrics.lyft.com
 metrics.manjaro.org
 metrics.matchgroup.com
 metrics.max.com
+metrics.maya.live
 metrics.media-amazon.com
 metrics.mindbodyonline.com
 metrics.moises.ai
@@ -1415,15 +1451,18 @@ metrics.murf.ai
 metrics.mux.com
 metrics.mxplayer.in
 metrics.mycanal.fr
+metrics.naturalcycles.com
 metrics.nbc.com
 metrics.netflix.com
 metrics.nickjr.com
 metrics.nordvpn.com
 metrics.openai.com
 metrics.opensuse.org
+metrics.oviahealth.com
 metrics.paramountplus.com
 metrics.pawprint.eco
 metrics.peacocktv.com
+metrics.period-tracker.com
 metrics.piano.io
 metrics.playit.pk
 metrics.plex.tv
@@ -1636,6 +1675,7 @@ recommendations.jwplayer.com
 recorder.sessionrewind.com
 recording.crazyegg.com
 referenceusa.com
+relay.flo.health
 relay.fullstory.com
 replay.sentry.io
 report-eu.appmetrica.yango.com
@@ -1903,6 +1943,7 @@ telemetry.bitmovin.com
 telemetry.bsplayer.com
 telemetry.character.ai
 telemetry.clearlinux.org
+telemetry.clue.app
 telemetry.codeium.com
 telemetry.coder.com
 telemetry.corsair.com
@@ -1926,7 +1967,9 @@ telemetry.espn.com
 telemetry.expressvpn.com
 telemetry.fadr.com
 telemetry.fedoraproject.org
+telemetry.flo.health
 telemetry.fubo.tv
+telemetry.glow.co
 telemetry.grindr.com
 telemetry.hbomax.com
 telemetry.hide.me
@@ -1954,6 +1997,7 @@ telemetry.mobile.api.mcafee.com
 telemetry.moises.ai
 telemetry.mux.com
 telemetry.mxplayer.in
+telemetry.naturalcycles.com
 telemetry.nordvpn.com
 telemetry.norton.com
 telemetry.nzxt.com
@@ -2037,20 +2081,32 @@ track.corporate.wine.com
 track.cpamatica.com
 track.crazyegg.com
 track.ebsco.com
+track.fertilityfriend.com
 track.flexlinks.com
 track.flexlinkspro.com
+track.flo.health
 track.gift.wine.com
 track.gifting.wine.com
 track.gingersoftware.com
+track.glow.co
 track.go.moovit.com
 track.gojek.com
 track.heatmap.com
+track.helloclue.com
 track.kakao.com
+track.kindara.com
 track.linkconnector.com
 track.locals.com
 track.mail.muslimpro.com
+track.maya.live
+track.myflotracker.com
+track.naturalcycles.com
+track.ovia.com
 track.parsely.com
 track.paytm.com
+track.period-tracker.com
+track.periodcalendar.net
+track.premom.com
 track.researchrabbit.ai
 track.romanticai.com
 track.stories.moovit.com
@@ -2059,6 +2115,7 @@ track.tiara.daum.net
 track.underarmour.com
 track.webgains.com
 track.winegifts.wine.com
+track.womanlog.com
 tracker.api.gnome.org
 tracker.core.ac.uk
 tracker.debian.org
