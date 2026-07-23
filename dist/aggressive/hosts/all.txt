@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3681
+# Total domains: 3704
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -302,6 +302,7 @@
 0.0.0.0 analytics.avawomen.com
 0.0.0.0 analytics.avcdn.net
 0.0.0.0 analytics.avid.com
+0.0.0.0 analytics.avis.com
 0.0.0.0 analytics.babbel.com
 0.0.0.0 analytics.badoo.com
 0.0.0.0 analytics.bear.app
@@ -401,6 +402,7 @@
 0.0.0.0 analytics.emeals.com
 0.0.0.0 analytics.endel.io
 0.0.0.0 analytics.enpass.io
+0.0.0.0 analytics.enterprise.com
 0.0.0.0 analytics.envato.com
 0.0.0.0 analytics.epicgames.com
 0.0.0.0 analytics.epicurious.com
@@ -432,6 +434,7 @@
 0.0.0.0 analytics.gamstop.co.uk
 0.0.0.0 analytics.geforcenow.com
 0.0.0.0 analytics.genie.retailmenot.com
+0.0.0.0 analytics.getaround.com
 0.0.0.0 analytics.gikken.co
 0.0.0.0 analytics.gingersoftware.com
 0.0.0.0 analytics.giphy.com
@@ -452,6 +455,7 @@
 0.0.0.0 analytics.helloclue.com
 0.0.0.0 analytics.hellofresh.com
 0.0.0.0 analytics.hellotalk.com
+0.0.0.0 analytics.hertz.com
 0.0.0.0 analytics.hide.me
 0.0.0.0 analytics.hinge.co
 0.0.0.0 analytics.hitnmix.com
@@ -667,6 +671,7 @@
 0.0.0.0 analytics.sidechef.com
 0.0.0.0 analytics.simplenote.com
 0.0.0.0 analytics.simplycodes.com
+0.0.0.0 analytics.sixt.com
 0.0.0.0 analytics.skyshowtime.com
 0.0.0.0 analytics.snapcraft.io
 0.0.0.0 analytics.soothe.com
@@ -722,6 +727,7 @@
 0.0.0.0 analytics.transparent.com
 0.0.0.0 analytics.tubitv.com
 0.0.0.0 analytics.tunnelbear.com
+0.0.0.0 analytics.turo.com
 0.0.0.0 analytics.tv.apple.com
 0.0.0.0 analytics.tving.com
 0.0.0.0 analytics.uber.com
@@ -766,6 +772,7 @@
 0.0.0.0 analytics.zee5.com
 0.0.0.0 analytics.zeel.com
 0.0.0.0 analytics.zenoti.com
+0.0.0.0 analytics.zipcar.com
 0.0.0.0 analytics.zoho.com
 0.0.0.0 analytics.zola.com
 0.0.0.0 analytics.zombodroid.com
@@ -1249,7 +1256,9 @@
 0.0.0.0 clearbit.com
 0.0.0.0 click.adikteev.com
 0.0.0.0 click.appsflyer.com
+0.0.0.0 click.e.avis.com
 0.0.0.0 click.e.fitbit.com
+0.0.0.0 click.emails.hertz.com
 0.0.0.0 click.insights.seon.io
 0.0.0.0 click.mail.crakrevenue.com
 0.0.0.0 click.remerge.io
@@ -1555,6 +1564,7 @@
 0.0.0.0 edge.fullstory.com
 0.0.0.0 edge.permutive.app
 0.0.0.0 effiliation.com
+0.0.0.0 ehi-analytics.com
 0.0.0.0 ekb.analytics.elsevier.com
 0.0.0.0 elmah.io
 0.0.0.0 email.events.duolingo.com
@@ -1566,6 +1576,7 @@
 0.0.0.0 engage.kaltura.com
 0.0.0.0 engage.youbora.com
 0.0.0.0 engagement.brightcove.com
+0.0.0.0 enterprise-analytics.com
 0.0.0.0 epg-metrics.pluto.tv
 0.0.0.0 epsonanalytics.com
 0.0.0.0 er2d2.criteo.com
@@ -1796,6 +1807,8 @@
 0.0.0.0 hellotracking.ticketmaster.com
 0.0.0.0 helloworld.supp0v3.com
 0.0.0.0 help.reimageplus.com
+0.0.0.0 hertz-analytics.com
+0.0.0.0 hertztrack.com
 0.0.0.0 hist.stats.avast.com
 0.0.0.0 hit.seznam.cz
 0.0.0.0 hitwise.com
@@ -1824,6 +1837,7 @@
 0.0.0.0 id.piano.io
 0.0.0.0 identity.zetaglobal.com
 0.0.0.0 identitylink.acxiom.com
+0.0.0.0 image.emails.hertz.com
 0.0.0.0 image.mail.crakrevenue.com
 0.0.0.0 imageproxy.us.criteo.net
 0.0.0.0 img.fullcontact.com
@@ -2022,6 +2036,7 @@
 0.0.0.0 logzilla.zoom.us
 0.0.0.0 looker.babycenter.com
 0.0.0.0 looker.digital-science.com
+0.0.0.0 looker.zipcar.com
 0.0.0.0 lotame.com
 0.0.0.0 lotame.io
 0.0.0.0 lp.superutils.co
@@ -2772,6 +2787,7 @@
 0.0.0.0 smetrics.couponcabin.com
 0.0.0.0 smetrics.elsevier.com
 0.0.0.0 smetrics.engineeringvillage.com
+0.0.0.0 smetrics.enterprise.com
 0.0.0.0 smetrics.eu.playstation.com
 0.0.0.0 smetrics.lww.com
 0.0.0.0 smetrics.majestic.co.uk
@@ -2806,6 +2822,7 @@
 0.0.0.0 ssai.brightcove.com
 0.0.0.0 sse-analytics.devcycle.com
 0.0.0.0 ssl2.cdngc.net
+0.0.0.0 sslanalytics.sixt.com
 0.0.0.0 sslcs.cdngc.net
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 ssp-sync.criteo.com
@@ -2959,6 +2976,7 @@
 0.0.0.0 t.contentsquare.net
 0.0.0.0 t.ptengine.com
 0.0.0.0 t.ptengine.jp
+0.0.0.0 ta.enterprise.com
 0.0.0.0 tag.bizo.com
 0.0.0.0 tag.bombora.com
 0.0.0.0 tag.fullcontact.com
@@ -3316,6 +3334,7 @@
 0.0.0.0 tracking.getinvisiblehand.com
 0.0.0.0 tracking.giphy.com
 0.0.0.0 tracking.hbomax.com
+0.0.0.0 tracking.hertz.com
 0.0.0.0 tracking.honey.io
 0.0.0.0 tracking.hulu.com
 0.0.0.0 tracking.image-line.com
@@ -3376,11 +3395,13 @@
 0.0.0.0 tracking.toroadvertising.com
 0.0.0.0 tracking.tradedoubler.com
 0.0.0.0 tracking.tubitv.com
+0.0.0.0 tracking.turo.com
 0.0.0.0 tracking.vagaro.com
 0.0.0.0 tracking.vivino.com
 0.0.0.0 tracking.weddingwire.com
 0.0.0.0 tracking.wisepops.com
 0.0.0.0 tracking.zanfia.com
+0.0.0.0 tracking.zipcar.com
 0.0.0.0 tracking.zola.com
 0.0.0.0 tracking1.paytm.com
 0.0.0.0 trackjs.com
@@ -3391,6 +3412,7 @@
 0.0.0.0 traffic-analytics.ghost.org
 0.0.0.0 trckr.petcube.com
 0.0.0.0 trino-analytics-ext.data.bird.co
+0.0.0.0 trk.agreements.hertz.com
 0.0.0.0 trk.datify.link
 0.0.0.0 trk.dowjones.com
 0.0.0.0 trk.eib.presonus.com
@@ -3412,6 +3434,7 @@
 0.0.0.0 ts04358.picpay.com
 0.0.0.0 tune-up.com
 0.0.0.0 tuneup.com
+0.0.0.0 turo-analytics.com
 0.0.0.0 tv-ads.adikteev.com
 0.0.0.0 tvinteractive.tv
 0.0.0.0 tvp-ads-log.samsungads.com

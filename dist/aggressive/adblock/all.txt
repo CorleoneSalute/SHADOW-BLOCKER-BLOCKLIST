@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3681
+# Total domains: 3704
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -302,6 +302,7 @@
 ||analytics.avawomen.com^
 ||analytics.avcdn.net^
 ||analytics.avid.com^
+||analytics.avis.com^
 ||analytics.babbel.com^
 ||analytics.badoo.com^
 ||analytics.bear.app^
@@ -401,6 +402,7 @@
 ||analytics.emeals.com^
 ||analytics.endel.io^
 ||analytics.enpass.io^
+||analytics.enterprise.com^
 ||analytics.envato.com^
 ||analytics.epicgames.com^
 ||analytics.epicurious.com^
@@ -432,6 +434,7 @@
 ||analytics.gamstop.co.uk^
 ||analytics.geforcenow.com^
 ||analytics.genie.retailmenot.com^
+||analytics.getaround.com^
 ||analytics.gikken.co^
 ||analytics.gingersoftware.com^
 ||analytics.giphy.com^
@@ -452,6 +455,7 @@
 ||analytics.helloclue.com^
 ||analytics.hellofresh.com^
 ||analytics.hellotalk.com^
+||analytics.hertz.com^
 ||analytics.hide.me^
 ||analytics.hinge.co^
 ||analytics.hitnmix.com^
@@ -667,6 +671,7 @@
 ||analytics.sidechef.com^
 ||analytics.simplenote.com^
 ||analytics.simplycodes.com^
+||analytics.sixt.com^
 ||analytics.skyshowtime.com^
 ||analytics.snapcraft.io^
 ||analytics.soothe.com^
@@ -722,6 +727,7 @@
 ||analytics.transparent.com^
 ||analytics.tubitv.com^
 ||analytics.tunnelbear.com^
+||analytics.turo.com^
 ||analytics.tv.apple.com^
 ||analytics.tving.com^
 ||analytics.uber.com^
@@ -766,6 +772,7 @@
 ||analytics.zee5.com^
 ||analytics.zeel.com^
 ||analytics.zenoti.com^
+||analytics.zipcar.com^
 ||analytics.zoho.com^
 ||analytics.zola.com^
 ||analytics.zombodroid.com^
@@ -1249,7 +1256,9 @@
 ||clearbit.com^
 ||click.adikteev.com^
 ||click.appsflyer.com^
+||click.e.avis.com^
 ||click.e.fitbit.com^
+||click.emails.hertz.com^
 ||click.insights.seon.io^
 ||click.mail.crakrevenue.com^
 ||click.remerge.io^
@@ -1555,6 +1564,7 @@
 ||edge.fullstory.com^
 ||edge.permutive.app^
 ||effiliation.com^
+||ehi-analytics.com^
 ||ekb.analytics.elsevier.com^
 ||elmah.io^
 ||email.events.duolingo.com^
@@ -1566,6 +1576,7 @@
 ||engage.kaltura.com^
 ||engage.youbora.com^
 ||engagement.brightcove.com^
+||enterprise-analytics.com^
 ||epg-metrics.pluto.tv^
 ||epsonanalytics.com^
 ||er2d2.criteo.com^
@@ -1796,6 +1807,8 @@
 ||hellotracking.ticketmaster.com^
 ||helloworld.supp0v3.com^
 ||help.reimageplus.com^
+||hertz-analytics.com^
+||hertztrack.com^
 ||hist.stats.avast.com^
 ||hit.seznam.cz^
 ||hitwise.com^
@@ -1824,6 +1837,7 @@
 ||id.piano.io^
 ||identity.zetaglobal.com^
 ||identitylink.acxiom.com^
+||image.emails.hertz.com^
 ||image.mail.crakrevenue.com^
 ||imageproxy.us.criteo.net^
 ||img.fullcontact.com^
@@ -2022,6 +2036,7 @@
 ||logzilla.zoom.us^
 ||looker.babycenter.com^
 ||looker.digital-science.com^
+||looker.zipcar.com^
 ||lotame.com^
 ||lotame.io^
 ||lp.superutils.co^
@@ -2772,6 +2787,7 @@
 ||smetrics.couponcabin.com^
 ||smetrics.elsevier.com^
 ||smetrics.engineeringvillage.com^
+||smetrics.enterprise.com^
 ||smetrics.eu.playstation.com^
 ||smetrics.lww.com^
 ||smetrics.majestic.co.uk^
@@ -2806,6 +2822,7 @@
 ||ssai.brightcove.com^
 ||sse-analytics.devcycle.com^
 ||ssl2.cdngc.net^
+||sslanalytics.sixt.com^
 ||sslcs.cdngc.net^
 ||sslwidget.criteo.com^
 ||ssp-sync.criteo.com^
@@ -2959,6 +2976,7 @@
 ||t.contentsquare.net^
 ||t.ptengine.com^
 ||t.ptengine.jp^
+||ta.enterprise.com^
 ||tag.bizo.com^
 ||tag.bombora.com^
 ||tag.fullcontact.com^
@@ -3316,6 +3334,7 @@
 ||tracking.getinvisiblehand.com^
 ||tracking.giphy.com^
 ||tracking.hbomax.com^
+||tracking.hertz.com^
 ||tracking.honey.io^
 ||tracking.hulu.com^
 ||tracking.image-line.com^
@@ -3376,11 +3395,13 @@
 ||tracking.toroadvertising.com^
 ||tracking.tradedoubler.com^
 ||tracking.tubitv.com^
+||tracking.turo.com^
 ||tracking.vagaro.com^
 ||tracking.vivino.com^
 ||tracking.weddingwire.com^
 ||tracking.wisepops.com^
 ||tracking.zanfia.com^
+||tracking.zipcar.com^
 ||tracking.zola.com^
 ||tracking1.paytm.com^
 ||trackjs.com^
@@ -3391,6 +3412,7 @@
 ||traffic-analytics.ghost.org^
 ||trckr.petcube.com^
 ||trino-analytics-ext.data.bird.co^
+||trk.agreements.hertz.com^
 ||trk.datify.link^
 ||trk.dowjones.com^
 ||trk.eib.presonus.com^
@@ -3412,6 +3434,7 @@
 ||ts04358.picpay.com^
 ||tune-up.com^
 ||tuneup.com^
+||turo-analytics.com^
 ||tv-ads.adikteev.com^
 ||tvinteractive.tv^
 ||tvp-ads-log.samsungads.com^

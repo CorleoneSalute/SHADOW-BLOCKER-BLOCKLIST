@@ -1,0 +1,30 @@
+# ============================================================
+# CAR RENTAL SHARING BLOCKLIST - AGGRESSIVE
+# Total domains: 23
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+analytics.avis.com
+analytics.enterprise.com
+analytics.getaround.com
+analytics.hertz.com
+analytics.sixt.com
+analytics.turo.com
+analytics.zipcar.com
+click.e.avis.com
+click.emails.hertz.com
+ehi-analytics.com
+enterprise-analytics.com
+hertz-analytics.com
+hertztrack.com
+image.emails.hertz.com
+looker.zipcar.com
+smetrics.enterprise.com
+sslanalytics.sixt.com
+ta.enterprise.com
+tracking.hertz.com
+tracking.turo.com
+tracking.zipcar.com
+trk.agreements.hertz.com
+turo-analytics.com
