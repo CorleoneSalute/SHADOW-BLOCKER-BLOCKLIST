@@ -1,0 +1,562 @@
+# ============================================================
+# Video Streaming Blocklist
+# Total domains: 368
+# Last updated: 2026-07-16
+# ============================================================
+
+# ============================================================
+# 1. VIDEO ANALYTIC PLATFORMS
+# ============================================================
+
+# --- Conviva (Enterprise Video Analytics) ---
+conviva.com
+conviva.ai
+pulse.conviva.com
+api.conviva.com
+insights.conviva.com
+metrics.conviva.com
+sdk.conviva.com
+collector.conviva.com
+data.conviva.com
+streaming.conviva.com
+pulse-us.conviva.com
+pulse-eu.conviva.com
+pulse-apac.conviva.com
+collector-us.conviva.com
+collector-eu.conviva.com
+analytics.conviva.com
+experience.conviva.com
+quality-analytics.conviva.com
+ads.conviva.com
+ad-analytics.conviva.com
+alerts.conviva.com
+intelligence.conviva.com
+cws.conviva.com
+
+# --- Mux Data / Litix (Video Analytics SDK) ---
+litix.mux.com
+analytics.mux.com
+data.mux.com
+metrics.mux.com
+telemetry.mux.com
+events.mux.com
+img.litix.io
+inferred.litix.io
+customdomains.litix.io
+
+# --- NPAW / Youbora (Video Analytics) ---
+youbora.com
+npaw.com
+analytics.youbora.com
+nqs.youbora.com
+collect.youbora.com
+realtime.youbora.com
+api.youbora.com
+data.youbora.com
+metrics.youbora.com
+nqs-us.youbora.com
+nqs-eu.youbora.com
+nqs-apac.youbora.com
+monitoring.youbora.com
+alerts.youbora.com
+engage.youbora.com
+smartplugin.youbora.com
+pre.smartplugin.youbora.com
+youboranqs01.com
+
+# --- Bitmovin Analytics ---
+bitmovin-analytics.net
+analytics-ingress-global.bitmovin.com
+analytics-ingress-us.bitmovin.com
+analytics-ingress-eu.bitmovin.com
+analytics-ingress-apac.bitmovin.com
+metrics.bitmovin.com
+telemetry.bitmovin.com
+ads.bitmovin.com
+
+# --- JW Player Tracking ---
+jwpltx.com
+s.c.jwpltx.com
+s.n.jwpltx.com
+s.jwpltx.com
+i.n.jwpltx.com
+n.jwpltx.com
+dev.jwpltx.com
+stg.jwpltx.com
+i.dev.jwpltx.com
+analytics.jwplayer.com
+tracking.jwplayer.com
+metrics.jwplayer.com
+events.jwplayer.com
+ads.jwplayer.com
+adserver.jwplayer.com
+recommendations.jwplayer.com
+adgen.connatix.com
+adgen-cdn.connatix.com
+youtrack.ops.connatix.com
+adserver.connatix.com
+
+# --- Brightcove Analytics ---
+metrics.brightcove.com
+analytics.api.brightcove.com
+data-collection.brightcove.com
+audience.api.brightcove.com
+engagement.brightcove.com
+ads.brightcove.com
+gallery-metrics.api.brightcove.com
+ssai.brightcove.com
+
+# --- Kaltura Analytics ---
+analytics.kaltura.com
+stats.kaltura.com
+livestats.kaltura.com
+engage.kaltura.com
+events.kaltura.com
+
+# --- Chartbeat ---
+chartbeat.com
+chartbeat.net
+ping.chartbeat.net
+video.chartbeat.com
+video-ping.chartbeat.net
+api.chartbeat.com
+api.chartbeat.net
+static.chartbeat.com
+
+# --- Parse.ly ---
+parsely.com
+analytics.parsely.com
+track.parsely.com
+video-analytics.parsely.com
+pixel.parsely.com
+srv.pixel.parsely.com
+
+# --- Piano.io / Tinypass ---
+piano.io
+analytics.piano.io
+metrics.piano.io
+video-analytics.piano.io
+id.piano.io
+experience.piano.io
+
+# --- Pixalate ---
+pixalate.com
+analytics.pixalate.com
+verification.pixalate.com
+video-verification.pixalate.com
+ctv-verification.pixalate.com
+
+# --- Protected Media ---
+protected.media
+verification.protected.media
+analytics.protected.media
+
+# --- Comscore Video ---
+vce.comscore.com
+video-census.comscore.com
+
+# ============================================================
+# 2. NETFLIX TELEMETRİ & ANALİTİK
+# ============================================================
+
+ichnaea.netflix.com
+ichnaea-web.netflix.com
+ichnaea-web.dradis.netflix.com
+ichnaea.dradis.netflix.com
+customerevents.netflix.com
+analytics.netflix.com
+metrics.netflix.com
+recommendations-telemetry.netflix.com
+api-logging.netflix.com
+logs.netflix.com
+logging.netflix.com
+errors.netflix.com
+crash-reports.netflix.com
+performance.netflix.com
+rum.netflix.com
+beacon.netflix.com
+presentationtracking.netflix.com
+nmtracking.netflix.com
+customerevents.us-west-2.prodaa.netflix.com
+ichnaea-web.geo.netflix.com
+ichnaea-web.us-west-2.prodaa.netflix.com
+
+# ============================================================
+# 3. YOUTUBE ANALİTİK
+# ============================================================
+
+youtube-analytics.googleapis.com
+video-stats.l.google.com
+live-metrics.youtube.com
+superchat-analytics.youtube.com
+monetization-tracking.youtube.com
+music-analytics.youtube.com
+ytmusic-analytics.googleapis.com
+background-play-metrics.youtube.com
+offline-analytics.youtube.com
+gaming-analytics.youtube.com
+kids-analytics.youtube.com
+youtube-kids-metrics.googleapis.com
+parental-control-metrics.youtubekids.com
+
+# ============================================================
+# 4. AMAZON PRİME VİDEO TELEMETRİ
+# ============================================================
+
+# --- Cihaz & Player Metrikleri ---
+player-telemetry.amazon.com
+video-player-metrics.amazon.com
+live-streaming-metrics.amazon.com
+channels-analytics.amazon.com
+channels-metrics.primevideo.com
+metrics.media-amazon.com
+
+# --- Telemetry Video Insights (a2z.com) ---
+telemetry.insights.video.a2z.com
+insights.video.a2z.com
+new-telemetry.insights.video.a2z.com
+global.telemetry.insights.video.a2z.com
+global-1.telemetry.insights.video.a2z.com
+global-2.telemetry.insights.video.a2z.com
+global-3.telemetry.insights.video.a2z.com
+us-east-1-1.telemetry.insights.video.a2z.com
+us-east-1-2.telemetry.insights.video.a2z.com
+us-east-1-3.telemetry.insights.video.a2z.com
+us-west-2-1.telemetry.insights.video.a2z.com
+eu-west-1-1.telemetry.insights.video.a2z.com
+ap-northeast-1-1.telemetry.insights.video.a2z.com
+ap-southeast-1-1.telemetry.insights.video.a2z.com
+ca-central-1-1.telemetry.insights.video.a2z.com
+sa-east-1-1.telemetry.insights.video.a2z.com
+
+# ============================================================
+# 5. DİSNEY+ / HULU / ESPN+ TELEMETRİ
+# ============================================================
+
+# --- Disney+ / BAMTech ---
+analytics.disneyplus.com
+metrics.disneyplus.com
+video-analytics.disneyplus.com
+ads.disneyplus.com
+error-reporting.disneyplus.com
+telemetry.bamgrid.com
+logging.bamgrid.com
+cdn-analytics.bamgrid.com
+disney.mobile-log.api.bamgrid.com
+ad-analytics.bamgrid.com
+crash.bamgrid.com
+device-identity.bamgrid.com
+
+# Disney+ 3. Taraf
+disneyplus.com.ssl.sc.omtrdc.net
+disney.demdex.net
+disney.my.sentry.io
+d9.flashtalking.com
+
+# --- Hulu ---
+analytics.hulu.com
+metrics.hulu.com
+telemetry.hulu.com
+tracking.hulu.com
+beacons.hulu.com
+device-metrics.hulu.com
+device-analytics.hulu.com
+errors.hulu.com
+crash-reports.hulu.com
+api-logging.hulu.com
+logs.hulu.com
+ads.hulu.com
+ads-v-darwin.hulu.com
+ads-fa-darwin.hulu.com
+ad-analytics.hulu.com
+ad-beacon.hulu.com
+
+# --- ESPN+ ---
+espn.hb.omtrdc.net
+espndotcom.tt.omtrdc.net
+analytics.espn.com
+metrics.espn.com
+telemetry.espn.com
+sports-metrics.espn.com
+video-analytics.espn.com
+ads.espn.com
+ad-metrics.espn.com
+
+# ============================================================
+# 6. HBO MAX / MAX TELEMETRİ
+# ============================================================
+
+analytics.hbomax.com
+metrics.hbomax.com
+telemetry.hbomax.com
+ads.hbomax.com
+ad-analytics.hbomax.com
+errors.hbomax.com
+crash-reports.hbomax.com
+tracking.hbomax.com
+analytics.max.com
+metrics.max.com
+telemetry.max.com
+analytics.discoveryplus.com
+metrics.discoveryplus.com
+
+# ============================================================
+# 7. PARAMOUNT+ / PLUTO TV TELEMETRİ
+# ============================================================
+
+# --- Paramount+ ---
+analytics.paramountplus.com
+metrics.paramountplus.com
+telemetry.paramountplus.com
+ads.paramountplus.com
+ad-analytics.paramountplus.com
+live-metrics.paramountplus.com
+sports-analytics.paramountplus.com
+saa.paramountplus.com
+cbsinteractive.hb.omtrdc.net
+analytics.cbsaavideo.com
+metrics.cbs.com
+saa.cbsi.com
+cbsi.demdex.net
+
+# --- Pluto TV ---
+analytics.pluto.tv
+metrics.pluto.tv
+telemetry.pluto.tv
+ad-analytics.pluto.tv
+beacon.pluto.tv
+epg-metrics.pluto.tv
+cdn-analytics.pluto.tv
+k.pluto.tv
+pluto.tv.sc.omtrdc.net
+
+# ============================================================
+# 8. PEACOCK TELEMETRİ
+# ============================================================
+
+analytics.peacocktv.com
+metrics.peacocktv.com
+telemetry.peacocktv.com
+ads.peacocktv.com
+ad-analytics.peacocktv.com
+ad-beacon.peacocktv.com
+live-metrics.peacocktv.com
+sports-analytics.peacocktv.com
+analytics.nbcuni.com
+metrics.nbc.com
+
+# ============================================================
+# 9. APPLE TV+ TELEMETRİ & REKLAM
+# ============================================================
+
+analytics.tv.apple.com
+player-telemetry.tv.apple.com
+
+# ============================================================
+# 10. TUBİ TELEMETRİ & 3. TARAF TRACKERLAR
+# ============================================================
+
+analytics.tubitv.com
+metrics.tubitv.com
+telemetry.tubitv.com
+ad-analytics.tubitv.com
+ad-beacon.tubitv.com
+tracking.tubitv.com
+
+# ============================================================
+# 11. BÖLGESEL — HİNDİSTAN
+# ============================================================
+
+analytics.hotstar.com
+metrics.hotstar.com
+telemetry.hotstar.com
+ads.hotstar.com
+ad-analytics.hotstar.com
+analytics.zee5.com
+metrics.zee5.com
+video-analytics.zee5.com
+ads.zee5.com
+analytics.voot.com
+metrics.voot.com
+ads.voot.com
+analytics.mxplayer.in
+metrics.mxplayer.in
+
+# ============================================================
+# 12. BÖLGESEL — DOĞU ASYA
+# ============================================================
+
+analytics.iqiyi.com
+stats.iqiyi.com
+video-analytics.iqiyi.com
+ads.iqiyi.com
+analytics.youku.com
+stats.youku.com
+analytics.bilibili.com
+stats.bilibili.com
+analytics.wavve.com
+metrics.wavve.com
+analytics.tving.com
+metrics.tving.com
+analytics.abema.tv
+metrics.abema.tv
+analytics.nicovideo.jp
+stats.nicovideo.jp
+
+# ============================================================
+# 13. SAMSUNG TV PLUS — ACR & REKLAM
+# ============================================================
+
+tvp-ads-log.samsungads.com
+
+# ============================================================
+# 14. VİZİO & DİĞER CİHAZ PLATFORMLARI
+# ============================================================
+
+vizio.adsmeasurement.com
+tvinteractive.tv
+amagi.tv
+
+# ============================================================
+# 15. SPOR STREAMING
+# ============================================================
+
+analytics.dazn.com
+metrics.dazn.com
+telemetry.dazn.com
+ad-analytics.dazn.com
+analytics.fubo.tv
+metrics.fubo.tv
+telemetry.fubo.tv
+ads.fubo.tv
+ad-analytics.fubo.tv
+
+# ============================================================
+# 16. BÖLGESEL & NİŞ PLATFORMLAR
+# ============================================================
+
+analytics.stan.com.au
+metrics.stan.com.au
+analytics.binge.com.au
+metrics.binge.com.au
+analytics.crave.ca
+metrics.crave.ca
+analytics.globoplay.globo.com
+metrics.globo.com
+analytics.clarovideo.com
+metrics.clarovideo.com
+analytics.blim.com
+analytics.movistarplus.es
+metrics.movistarplus.es
+analytics.skyshowtime.com
+metrics.skyshowtime.com
+analytics.canalplus.com
+metrics.mycanal.fr
+analytics.rtlplus.com
+analytics.videoland.com
+metrics.videoland.com
+analytics.viaplay.com
+metrics.viaplay.com
+analytics.britbox.com
+metrics.britbox.com
+analytics.mubi.com
+metrics.mubi.com
+analytics.curiositystream.com
+metrics.curiositystream.com
+documentary-analytics.curiositystream.com
+analytics.crunchyroll.com
+metrics.crunchyroll.com
+telemetry.crunchyroll.com
+video-analytics.crunchyroll.com
+player-metrics.crunchyroll.com
+ads.crunchyroll.com
+ad-analytics.crunchyroll.com
+analytics.nebula.tv
+metrics.watchnebula.com
+analytics.vudu.com
+metrics.vudu.com
+analytics.fandangoathome.com
+analytics.plex.tv
+metrics.plex.tv
+plex-attribution.plex.tv
+analytics.rumble.com
+analytics.means.tv
+analytics.dailywire.com
+metrics.dailywire.com
+analytics.prageru.com
+analytics.kidoodle.tv
+analytics.pbskids.org
+analytics.noggin.com
+metrics.nickjr.com
+analytics.disneynow.com
+
+# Mux Data / Litix (Video Analytics SDK) 
+
+src.litix.io !
+
+# Netflix
+abtest.netflix.com !
+experiments.netflix.com !
+player-telemetry.netflix.com !
+cdn-telemetry.netflix.com !
+rum.netflix.com !
+
+# Disney
+playback-metrics.disneyplus.com !
+experiments.disneyplus.com !
+ads.disneyplus.com !
+
+# Hulu
+player-metrics.hulu.com !
+playback-analytics.hulu.com !
+cdn-analytics.hulu.com !
+personalization.hulu.com !
+experiments.hulu.com !
+ab-test.hulu.com !
+live-metrics.hulu.com !
+live-analytics.hulu.com !
+
+# HBOMAX
+player-analytics.hbomax.com !
+video-metrics.hbomax.com !
+cdn-analytics.hbomax.com !
+personalization.hbomax.com !
+ads.hbomax.com !
+
+# PARAMOUNT+
+ads.paramountplus.com !
+saa.paramountplus.com !
+saa.cbsi.com !
+
+# PEACOCK TV
+ads.peacocktv.com !
+mt.ssai.peacocktv.com !
+
+# PLUTO TV
+ads.pluto.tv !
+ad-server.pluto.tv !
+player-metrics.pluto.tv !
+video-analytics.pluto.tv !
+channel-analytics.pluto.tv !
+
+# HİNDİSTAN
+video-analytics.hotstar.com !
+player-metrics.hotstar.com !
+live-sports-analytics.hotstar.com !
+cricket-metrics.hotstar.com !
+ads.hotstar.com !
+video-analytics.voot.com !
+video-analytics.mxplayer.in !
+ads.mxplayer.in !
+ads.zee5.com !
+
+# DOĞU ASYA
+video-analytics.youku.com !
+video-analytics.bilibili.com !
+live-analytics.bilibili.com !
+ads.iqiyi.com !
+
+# Niş
+video-analytics.vudu.com !
+player-metrics.vudu.com !
+ads.crunchyroll.com !
