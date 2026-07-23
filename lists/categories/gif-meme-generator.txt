@@ -1,0 +1,34 @@
+# ============================================================
+# GIF & MEME GENERATOR BLOCKLIST
+# Toplam Domain Sayısı: 19
+# Son Güncelleme: 16 Temmuz 2026 (2026-07-16)
+# ============================================================
+
+# --- GIPHY --- (9 domain)
+analytics.giphy.com
+tracking.giphy.com
+stats.giphy.com
+x.giphy.com
+ads.giphy.com
+ad-api.giphy.com
+www.ads.giphy.com
+giphy-analytics.giphy.com
+pingback.giphy.com
+
+# --- TENOR --- (3 domain)
+tracking.tenor.com
+telemetry.tenor.com
+ads.tenor.com
+
+# --- IMGFLIP --- (3 domain)
+analytics.imgflip.com
+stats.imgflip.com
+ads.imgflip.com
+
+# --- ZOMBODROID --- (3 domain)
+analytics.zombodroid.com
+telemetry.zombodroid.com
+ads.zombodroid.com
+
+# --- PIÑATA FARMS --- (1 domain)
+analytics.pinatafarm.com
