@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1920
+# Total domains: 1993
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -142,6 +142,7 @@
 0.0.0.0 afcyhf.com
 0.0.0.0 affilae.com
 0.0.0.0 agilityone.epsilon.com
+0.0.0.0 airbrake.io
 0.0.0.0 alerts.conviva.com
 0.0.0.0 alerts.youbora.com
 0.0.0.0 amagi.tv
@@ -453,9 +454,15 @@
 0.0.0.0 api-us.mouseflow.com
 0.0.0.0 api.acoustic.com
 0.0.0.0 api.adsquare.com
+0.0.0.0 api.airbrake.io
 0.0.0.0 api.analytics-iq.com
+0.0.0.0 api.appsignal.com
 0.0.0.0 api.atdata.com
+0.0.0.0 api.backtrace.io
 0.0.0.0 api.bombora.com
+0.0.0.0 api.bugfender.com
+0.0.0.0 api.bugsee.com
+0.0.0.0 api.bugsplat.com
 0.0.0.0 api.cdl.metrics.unpaywall.org
 0.0.0.0 api.chartbeat.com
 0.0.0.0 api.chartbeat.net
@@ -468,7 +475,9 @@
 0.0.0.0 api.datalogix.com
 0.0.0.0 api.decibelinsight.net
 0.0.0.0 api.dnb.com
+0.0.0.0 api.elmah.io
 0.0.0.0 api.eu.smartlook.cloud
+0.0.0.0 api.exceptionless.io
 0.0.0.0 api.eyeota.net
 0.0.0.0 api.fullcontact.com
 0.0.0.0 api.fullstory.com
@@ -477,13 +486,16 @@
 0.0.0.0 api.gosmspro.com
 0.0.0.0 api.gravyanalytics.com
 0.0.0.0 api.heatmap.com
+0.0.0.0 api.honeybadger.io
 0.0.0.0 api.hotjar.io
 0.0.0.0 api.infutor.com
 0.0.0.0 api.inspectlet.com
+0.0.0.0 api.instabug.com
 0.0.0.0 api.jumpshot.com
 0.0.0.0 api.livesession.io
 0.0.0.0 api.logrocket.io
 0.0.0.0 api.lotame.com
+0.0.0.0 api.luciq.ai
 0.0.0.0 api.luckyorange.com
 0.0.0.0 api.merkle.com
 0.0.0.0 api.mobilewalla.com
@@ -494,6 +506,9 @@
 0.0.0.0 api.permutive.com
 0.0.0.0 api.ptengine.com
 0.0.0.0 api.quantummetric.com
+0.0.0.0 api.raygun.com
+0.0.0.0 api.raygun.io
+0.0.0.0 api.rollbar.com
 0.0.0.0 api.safegraph.com
 0.0.0.0 api.sessioncam.com
 0.0.0.0 api.sessionrewind.com
@@ -519,9 +534,15 @@
 0.0.0.0 api.zoominfo.com
 0.0.0.0 apmebf.com
 0.0.0.0 app-analytics.lyft.com
+0.0.0.0 app-measurement.com
 0.0.0.0 app-measurement.uber.com
+0.0.0.0 app.bugsplat.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 app.glitchtip.com
 0.0.0.0 appanalytics.tomtom.com
 0.0.0.0 applog.bolt.eu
+0.0.0.0 appsignal-endpoint.net
+0.0.0.0 appsignal.com
 0.0.0.0 arc-metrics.corp.codeium.com
 0.0.0.0 asapp.navdmp.com
 0.0.0.0 ask.hotjar.com
@@ -557,6 +578,7 @@
 0.0.0.0 azurelogs.garmin.com
 0.0.0.0 b.clarity.ms
 0.0.0.0 background-play-metrics.youtube.com
+0.0.0.0 backtrace.io
 0.0.0.0 backup.gosmspro.com
 0.0.0.0 bard-telemetry.google.com
 0.0.0.0 bcp.crwdcntrl.net
@@ -578,7 +600,11 @@
 0.0.0.0 bombora.com
 0.0.0.0 br.smartlook.cloud
 0.0.0.0 bug.kaspersky.com
+0.0.0.0 bugfender.com
 0.0.0.0 bugreporting.rec.net
+0.0.0.0 bugsee.com
+0.0.0.0 bugsnag.com
+0.0.0.0 bugsplat.com
 0.0.0.0 bugtracker.akiflow.com
 0.0.0.0 bytes-event.vive.com
 0.0.0.0 c.cfjump.com
@@ -590,6 +616,7 @@
 0.0.0.0 cap.cyberlink.com
 0.0.0.0 captify.co
 0.0.0.0 captify.co.uk
+0.0.0.0 capture.trackjs.com
 0.0.0.0 cbsi.demdex.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cd.navdmp.com
@@ -680,6 +707,7 @@
 0.0.0.0 clientlogs.tunnelbear.com
 0.0.0.0 cloud.tealeaf.com
 0.0.0.0 cloudtrack.cal.com
+0.0.0.0 collect.airbrake.io
 0.0.0.0 collect.babbel.io
 0.0.0.0 collect.biomedcentral.com
 0.0.0.0 collect.contentsquare.net
@@ -693,6 +721,7 @@
 0.0.0.0 collector.callstats.io
 0.0.0.0 collector.clickdealer.com
 0.0.0.0 collector.conviva.com
+0.0.0.0 collector.exceptionless.io
 0.0.0.0 collector.glassbox.com
 0.0.0.0 collector.glassbox.digital
 0.0.0.0 collector.medallia.com
@@ -737,6 +766,8 @@
 0.0.0.0 crashes.1password.com
 0.0.0.0 crashes.dashlane.com
 0.0.0.0 crashes.ivpn.net
+0.0.0.0 crashlytics.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 crashreport.razer.com
 0.0.0.0 crazyegg.com
 0.0.0.0 cricket-metrics.hotstar.com
@@ -822,6 +853,7 @@
 0.0.0.0 edge.permutive.app
 0.0.0.0 effiliation.com
 0.0.0.0 ekb.analytics.elsevier.com
+0.0.0.0 elmah.io
 0.0.0.0 email.events.duolingo.com
 0.0.0.0 emailfootprint.norton.com
 0.0.0.0 emailtracking.soothe.com
@@ -842,8 +874,10 @@
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 etrack.np.norton.com
+0.0.0.0 eu-api.honeybadger.io
 0.0.0.0 eu-west-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 eu.fullstory.com
+0.0.0.0 eu.glitchtip.com
 0.0.0.0 eu.mouseflow.com
 0.0.0.0 eu.smartlook.cloud
 0.0.0.0 eu.uxcam.com
@@ -871,6 +905,7 @@
 0.0.0.0 ewtracking.elsevier.com
 0.0.0.0 exactdata.com
 0.0.0.0 exads.crakrevenue.com
+0.0.0.0 exceptionless.io
 0.0.0.0 exchange.adsquare.com
 0.0.0.0 exelate.com
 0.0.0.0 exelate.info
@@ -888,12 +923,17 @@
 0.0.0.0 fa.hellotalk.com
 0.0.0.0 faces3cdn.goforandroid.com
 0.0.0.0 factual.com
+0.0.0.0 fault.trackjs.com
 0.0.0.0 faults.norton.com
 0.0.0.0 faults.symantec.com
 0.0.0.0 fbanalytics.sandbox.game
 0.0.0.0 feedback.hotjar.com
 0.0.0.0 files.crazyegg.com
 0.0.0.0 finance.dnb.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 firebasecrashlytics.googleapis.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 flexlinks.com
 0.0.0.0 flexlinkspro.com
 0.0.0.0 formcomplete.zoominfo.com
@@ -916,9 +956,11 @@
 0.0.0.0 gemini-analytics.google.com
 0.0.0.0 geo-surf.com
 0.0.0.0 geoip.cactusglobal.com
+0.0.0.0 getsentry.com
 0.0.0.0 glassbox.com
 0.0.0.0 glassbox.digital
 0.0.0.0 glassboxdigital.com
+0.0.0.0 glitchtip.com
 0.0.0.0 global-1.telemetry.insights.video.a2z.com
 0.0.0.0 global-2.telemetry.insights.video.a2z.com
 0.0.0.0 global-3.telemetry.insights.video.a2z.com
@@ -943,11 +985,13 @@
 0.0.0.0 gtrack.go.moovit.com
 0.0.0.0 gtrack.stories.moovit.com
 0.0.0.0 h.clarity.ms
+0.0.0.0 heartbeat.exceptionless.io
 0.0.0.0 heatmap.com
 0.0.0.0 hellotracking.ticketmaster.com
 0.0.0.0 hist.stats.avast.com
 0.0.0.0 hit.seznam.cz
 0.0.0.0 hitwise.com
+0.0.0.0 honeybadger.io
 0.0.0.0 hotjar.com
 0.0.0.0 hotjar.io
 0.0.0.0 hs.deepl.com
@@ -991,6 +1035,7 @@
 0.0.0.0 insights.video.a2z.com
 0.0.0.0 inspectlet.com
 0.0.0.0 inspectlet.net
+0.0.0.0 instabug.com
 0.0.0.0 intake-lr.com
 0.0.0.0 integralmarket.goforandroid.com
 0.0.0.0 integralwall.goforandroid.com
@@ -999,11 +1044,14 @@
 0.0.0.0 intelligence.conviva.com
 0.0.0.0 intelligence.towerdata.com
 0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ips.bugfender.com
+0.0.0.0 ips.bugsee.com
 0.0.0.0 isapp.navdmp.com
 0.0.0.0 isc-tracking.eventim.com
 0.0.0.0 iscd.navdmp.com
 0.0.0.0 iscdn.navdmp.com
 0.0.0.0 isi-tracking.eventim.com
+0.0.0.0 items.rollbar.com
 0.0.0.0 j.clarity.ms
 0.0.0.0 j.navdmp.com
 0.0.0.0 jdoqocy.com
@@ -1090,6 +1138,7 @@
 0.0.0.0 lr-intake.com
 0.0.0.0 lrkt-in.com
 0.0.0.0 ltmsphrcl.net
+0.0.0.0 luciq.ai
 0.0.0.0 luckyorange.com
 0.0.0.0 luckyorange.net
 0.0.0.0 lzt.goforandroid.com
@@ -1250,6 +1299,9 @@
 0.0.0.0 nielsen.com
 0.0.0.0 nmc.nielsen.com
 0.0.0.0 nmtracking.netflix.com
+0.0.0.0 notifier-configs.airbrake.io
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 notify.bugsnag.smartbear.com
 0.0.0.0 npaw.com
 0.0.0.0 nqs-apac.youbora.com
 0.0.0.0 nqs-eu.youbora.com
@@ -1268,6 +1320,8 @@
 0.0.0.0 opi.navdmp.com
 0.0.0.0 oracleinfinity.io
 0.0.0.0 origin-analytics.branch.io
+0.0.0.0 otlp.bugsnag.com
+0.0.0.0 otlp.bugsnag.smartbear.com
 0.0.0.0 outlogic.io
 0.0.0.0 p.clarity.ms
 0.0.0.0 p.plerdy.com
@@ -1318,6 +1372,7 @@
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 prod.log.shortbread.aws.dev
 0.0.0.0 production.ads.cj.com
+0.0.0.0 profiling.sentry.io
 0.0.0.0 prospector.clearbit.com
 0.0.0.0 protected.media
 0.0.0.0 ps.eyeota.net
@@ -1330,6 +1385,8 @@
 0.0.0.0 pulse-eu.conviva.com
 0.0.0.0 pulse-us.conviva.com
 0.0.0.0 pulse.conviva.com
+0.0.0.0 pulse.raygun.com
+0.0.0.0 push.appsignal.com
 0.0.0.0 push.goforandroid.com
 0.0.0.0 q.clarity.ms
 0.0.0.0 qksrv.net
@@ -1344,6 +1401,8 @@
 0.0.0.0 rakutenadvertising.com
 0.0.0.0 rakutenmarketing.com
 0.0.0.0 rapleaf.com
+0.0.0.0 raygun.com
+0.0.0.0 raygun.io
 0.0.0.0 realnetworks.com
 0.0.0.0 realtime.luckyorange.com
 0.0.0.0 realtime.youbora.com
@@ -1355,6 +1414,7 @@
 0.0.0.0 recording.crazyegg.com
 0.0.0.0 referenceusa.com
 0.0.0.0 relay.fullstory.com
+0.0.0.0 replay.sentry.io
 0.0.0.0 report-eu.appmetrica.yango.com
 0.0.0.0 report.appmetrica.yango.com
 0.0.0.0 resolve.fullcontact.com
@@ -1366,11 +1426,14 @@
 0.0.0.0 risk.dnb.com
 0.0.0.0 rmmetrics.mcafee.com
 0.0.0.0 rnsfpw.net
+0.0.0.0 rollbar.com
 0.0.0.0 rs.fullstory.com
 0.0.0.0 rs.livesession.io
 0.0.0.0 rt-clientstats-il.waze.com
 0.0.0.0 rtb.adsquare.com
 0.0.0.0 rum.netflix.com
+0.0.0.0 rum.raygun.io
+0.0.0.0 rum.rollbar.com
 0.0.0.0 s.analytics10.ticketmaster.com
 0.0.0.0 s.c.jwpltx.com
 0.0.0.0 s.clarity.ms
@@ -1396,6 +1459,7 @@
 0.0.0.0 sdk.conviva.com
 0.0.0.0 sdk.cuebiq.com
 0.0.0.0 sdk.inmarket.com
+0.0.0.0 sdk.instabug.com
 0.0.0.0 sdk.mobilewalla.com
 0.0.0.0 sdk.predic.io
 0.0.0.0 sdk.smartlook.com
@@ -1417,6 +1481,7 @@
 0.0.0.0 sentry.api.stronglifts.com
 0.0.0.0 sentry.clickdealer.com
 0.0.0.0 sentry.codeium.com
+0.0.0.0 sentry.io
 0.0.0.0 sentry.protonvpn.com
 0.0.0.0 sentry.scielo.org
 0.0.0.0 sentry.scispace.com
@@ -1429,7 +1494,10 @@
 0.0.0.0 sessioncam.com
 0.0.0.0 sessioncam.net
 0.0.0.0 sessionrewind.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 sessions.bugsnag.smartbear.com
 0.0.0.0 sessionstack.com
+0.0.0.0 settings.crashlytics.com
 0.0.0.0 sftelemetry.sophos.com
 0.0.0.0 sg.smartlook.cloud
 0.0.0.0 sgtm.indrive.com
@@ -1457,6 +1525,7 @@
 0.0.0.0 smetrics.sciencedirect.com
 0.0.0.0 smetrics.teambeachbody.com
 0.0.0.0 solomath.com
+0.0.0.0 sp.backtrace.io
 0.0.0.0 sports-analytics.paramountplus.com
 0.0.0.0 sports-analytics.peacocktv.com
 0.0.0.0 sports-metrics.espn.com
@@ -1526,6 +1595,7 @@
 0.0.0.0 stream.clearbit.com
 0.0.0.0 streaming.conviva.com
 0.0.0.0 streme.fullcontact.com
+0.0.0.0 submit.backtrace.io
 0.0.0.0 sungymobile.com
 0.0.0.0 superchat-analytics.youtube.com
 0.0.0.0 surge.bombora.com
@@ -1749,6 +1819,7 @@
 0.0.0.0 tracking.vagaro.com
 0.0.0.0 tracking.vivino.com
 0.0.0.0 tracking.zanfia.com
+0.0.0.0 trackjs.com
 0.0.0.0 tracknooks.abcfitness.com
 0.0.0.0 trackworld-model-1.apps.allenai.org
 0.0.0.0 trackworld-model-2.apps.allenai.org
@@ -1775,6 +1846,7 @@
 0.0.0.0 ua.kakao.com
 0.0.0.0 ubimo.com
 0.0.0.0 unacast.com
+0.0.0.0 unreal.backtrace.io
 0.0.0.0 upload.uxcam.com
 0.0.0.0 urban-vpn.com
 0.0.0.0 urbanshield.com
@@ -1785,6 +1857,7 @@
 0.0.0.0 us.mouseflow.com
 0.0.0.0 us.smartlook.cloud
 0.0.0.0 us.uxcam.com
+0.0.0.0 usage.trackjs.com
 0.0.0.0 usagereports.elsevier.com
 0.0.0.0 usr.navdmp.com
 0.0.0.0 utt.impactcdn.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1920
+# Total domains: 1993
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -142,6 +142,7 @@
 ||afcyhf.com^
 ||affilae.com^
 ||agilityone.epsilon.com^
+||airbrake.io^
 ||alerts.conviva.com^
 ||alerts.youbora.com^
 ||amagi.tv^
@@ -453,9 +454,15 @@
 ||api-us.mouseflow.com^
 ||api.acoustic.com^
 ||api.adsquare.com^
+||api.airbrake.io^
 ||api.analytics-iq.com^
+||api.appsignal.com^
 ||api.atdata.com^
+||api.backtrace.io^
 ||api.bombora.com^
+||api.bugfender.com^
+||api.bugsee.com^
+||api.bugsplat.com^
 ||api.cdl.metrics.unpaywall.org^
 ||api.chartbeat.com^
 ||api.chartbeat.net^
@@ -468,7 +475,9 @@
 ||api.datalogix.com^
 ||api.decibelinsight.net^
 ||api.dnb.com^
+||api.elmah.io^
 ||api.eu.smartlook.cloud^
+||api.exceptionless.io^
 ||api.eyeota.net^
 ||api.fullcontact.com^
 ||api.fullstory.com^
@@ -477,13 +486,16 @@
 ||api.gosmspro.com^
 ||api.gravyanalytics.com^
 ||api.heatmap.com^
+||api.honeybadger.io^
 ||api.hotjar.io^
 ||api.infutor.com^
 ||api.inspectlet.com^
+||api.instabug.com^
 ||api.jumpshot.com^
 ||api.livesession.io^
 ||api.logrocket.io^
 ||api.lotame.com^
+||api.luciq.ai^
 ||api.luckyorange.com^
 ||api.merkle.com^
 ||api.mobilewalla.com^
@@ -494,6 +506,9 @@
 ||api.permutive.com^
 ||api.ptengine.com^
 ||api.quantummetric.com^
+||api.raygun.com^
+||api.raygun.io^
+||api.rollbar.com^
 ||api.safegraph.com^
 ||api.sessioncam.com^
 ||api.sessionrewind.com^
@@ -519,9 +534,15 @@
 ||api.zoominfo.com^
 ||apmebf.com^
 ||app-analytics.lyft.com^
+||app-measurement.com^
 ||app-measurement.uber.com^
+||app.bugsplat.com^
+||app.getsentry.com^
+||app.glitchtip.com^
 ||appanalytics.tomtom.com^
 ||applog.bolt.eu^
+||appsignal-endpoint.net^
+||appsignal.com^
 ||arc-metrics.corp.codeium.com^
 ||asapp.navdmp.com^
 ||ask.hotjar.com^
@@ -557,6 +578,7 @@
 ||azurelogs.garmin.com^
 ||b.clarity.ms^
 ||background-play-metrics.youtube.com^
+||backtrace.io^
 ||backup.gosmspro.com^
 ||bard-telemetry.google.com^
 ||bcp.crwdcntrl.net^
@@ -578,7 +600,11 @@
 ||bombora.com^
 ||br.smartlook.cloud^
 ||bug.kaspersky.com^
+||bugfender.com^
 ||bugreporting.rec.net^
+||bugsee.com^
+||bugsnag.com^
+||bugsplat.com^
 ||bugtracker.akiflow.com^
 ||bytes-event.vive.com^
 ||c.cfjump.com^
@@ -590,6 +616,7 @@
 ||cap.cyberlink.com^
 ||captify.co^
 ||captify.co.uk^
+||capture.trackjs.com^
 ||cbsi.demdex.net^
 ||cbsinteractive.hb.omtrdc.net^
 ||cd.navdmp.com^
@@ -680,6 +707,7 @@
 ||clientlogs.tunnelbear.com^
 ||cloud.tealeaf.com^
 ||cloudtrack.cal.com^
+||collect.airbrake.io^
 ||collect.babbel.io^
 ||collect.biomedcentral.com^
 ||collect.contentsquare.net^
@@ -693,6 +721,7 @@
 ||collector.callstats.io^
 ||collector.clickdealer.com^
 ||collector.conviva.com^
+||collector.exceptionless.io^
 ||collector.glassbox.com^
 ||collector.glassbox.digital^
 ||collector.medallia.com^
@@ -737,6 +766,8 @@
 ||crashes.1password.com^
 ||crashes.dashlane.com^
 ||crashes.ivpn.net^
+||crashlytics.com^
+||crashlyticsreports-pa.googleapis.com^
 ||crashreport.razer.com^
 ||crazyegg.com^
 ||cricket-metrics.hotstar.com^
@@ -822,6 +853,7 @@
 ||edge.permutive.app^
 ||effiliation.com^
 ||ekb.analytics.elsevier.com^
+||elmah.io^
 ||email.events.duolingo.com^
 ||emailfootprint.norton.com^
 ||emailtracking.soothe.com^
@@ -842,8 +874,10 @@
 ||espn.hb.omtrdc.net^
 ||espndotcom.tt.omtrdc.net^
 ||etrack.np.norton.com^
+||eu-api.honeybadger.io^
 ||eu-west-1-1.telemetry.insights.video.a2z.com^
 ||eu.fullstory.com^
+||eu.glitchtip.com^
 ||eu.mouseflow.com^
 ||eu.smartlook.cloud^
 ||eu.uxcam.com^
@@ -871,6 +905,7 @@
 ||ewtracking.elsevier.com^
 ||exactdata.com^
 ||exads.crakrevenue.com^
+||exceptionless.io^
 ||exchange.adsquare.com^
 ||exelate.com^
 ||exelate.info^
@@ -888,12 +923,17 @@
 ||fa.hellotalk.com^
 ||faces3cdn.goforandroid.com^
 ||factual.com^
+||fault.trackjs.com^
 ||faults.norton.com^
 ||faults.symantec.com^
 ||fbanalytics.sandbox.game^
 ||feedback.hotjar.com^
 ||files.crazyegg.com^
 ||finance.dnb.com^
+||firebase-settings.crashlytics.com^
+||firebasecrashlytics.googleapis.com^
+||firebaselogging-pa.googleapis.com^
+||firebaselogging.googleapis.com^
 ||flexlinks.com^
 ||flexlinkspro.com^
 ||formcomplete.zoominfo.com^
@@ -916,9 +956,11 @@
 ||gemini-analytics.google.com^
 ||geo-surf.com^
 ||geoip.cactusglobal.com^
+||getsentry.com^
 ||glassbox.com^
 ||glassbox.digital^
 ||glassboxdigital.com^
+||glitchtip.com^
 ||global-1.telemetry.insights.video.a2z.com^
 ||global-2.telemetry.insights.video.a2z.com^
 ||global-3.telemetry.insights.video.a2z.com^
@@ -943,11 +985,13 @@
 ||gtrack.go.moovit.com^
 ||gtrack.stories.moovit.com^
 ||h.clarity.ms^
+||heartbeat.exceptionless.io^
 ||heatmap.com^
 ||hellotracking.ticketmaster.com^
 ||hist.stats.avast.com^
 ||hit.seznam.cz^
 ||hitwise.com^
+||honeybadger.io^
 ||hotjar.com^
 ||hotjar.io^
 ||hs.deepl.com^
@@ -991,6 +1035,7 @@
 ||insights.video.a2z.com^
 ||inspectlet.com^
 ||inspectlet.net^
+||instabug.com^
 ||intake-lr.com^
 ||integralmarket.goforandroid.com^
 ||integralwall.goforandroid.com^
@@ -999,11 +1044,14 @@
 ||intelligence.conviva.com^
 ||intelligence.towerdata.com^
 ||ip-info.ff.avast.com^
+||ips.bugfender.com^
+||ips.bugsee.com^
 ||isapp.navdmp.com^
 ||isc-tracking.eventim.com^
 ||iscd.navdmp.com^
 ||iscdn.navdmp.com^
 ||isi-tracking.eventim.com^
+||items.rollbar.com^
 ||j.clarity.ms^
 ||j.navdmp.com^
 ||jdoqocy.com^
@@ -1090,6 +1138,7 @@
 ||lr-intake.com^
 ||lrkt-in.com^
 ||ltmsphrcl.net^
+||luciq.ai^
 ||luckyorange.com^
 ||luckyorange.net^
 ||lzt.goforandroid.com^
@@ -1250,6 +1299,9 @@
 ||nielsen.com^
 ||nmc.nielsen.com^
 ||nmtracking.netflix.com^
+||notifier-configs.airbrake.io^
+||notify.bugsnag.com^
+||notify.bugsnag.smartbear.com^
 ||npaw.com^
 ||nqs-apac.youbora.com^
 ||nqs-eu.youbora.com^
@@ -1268,6 +1320,8 @@
 ||opi.navdmp.com^
 ||oracleinfinity.io^
 ||origin-analytics.branch.io^
+||otlp.bugsnag.com^
+||otlp.bugsnag.smartbear.com^
 ||outlogic.io^
 ||p.clarity.ms^
 ||p.plerdy.com^
@@ -1318,6 +1372,7 @@
 ||presentationtracking.netflix.com^
 ||prod.log.shortbread.aws.dev^
 ||production.ads.cj.com^
+||profiling.sentry.io^
 ||prospector.clearbit.com^
 ||protected.media^
 ||ps.eyeota.net^
@@ -1330,6 +1385,8 @@
 ||pulse-eu.conviva.com^
 ||pulse-us.conviva.com^
 ||pulse.conviva.com^
+||pulse.raygun.com^
+||push.appsignal.com^
 ||push.goforandroid.com^
 ||q.clarity.ms^
 ||qksrv.net^
@@ -1344,6 +1401,8 @@
 ||rakutenadvertising.com^
 ||rakutenmarketing.com^
 ||rapleaf.com^
+||raygun.com^
+||raygun.io^
 ||realnetworks.com^
 ||realtime.luckyorange.com^
 ||realtime.youbora.com^
@@ -1355,6 +1414,7 @@
 ||recording.crazyegg.com^
 ||referenceusa.com^
 ||relay.fullstory.com^
+||replay.sentry.io^
 ||report-eu.appmetrica.yango.com^
 ||report.appmetrica.yango.com^
 ||resolve.fullcontact.com^
@@ -1366,11 +1426,14 @@
 ||risk.dnb.com^
 ||rmmetrics.mcafee.com^
 ||rnsfpw.net^
+||rollbar.com^
 ||rs.fullstory.com^
 ||rs.livesession.io^
 ||rt-clientstats-il.waze.com^
 ||rtb.adsquare.com^
 ||rum.netflix.com^
+||rum.raygun.io^
+||rum.rollbar.com^
 ||s.analytics10.ticketmaster.com^
 ||s.c.jwpltx.com^
 ||s.clarity.ms^
@@ -1396,6 +1459,7 @@
 ||sdk.conviva.com^
 ||sdk.cuebiq.com^
 ||sdk.inmarket.com^
+||sdk.instabug.com^
 ||sdk.mobilewalla.com^
 ||sdk.predic.io^
 ||sdk.smartlook.com^
@@ -1417,6 +1481,7 @@
 ||sentry.api.stronglifts.com^
 ||sentry.clickdealer.com^
 ||sentry.codeium.com^
+||sentry.io^
 ||sentry.protonvpn.com^
 ||sentry.scielo.org^
 ||sentry.scispace.com^
@@ -1429,7 +1494,10 @@
 ||sessioncam.com^
 ||sessioncam.net^
 ||sessionrewind.com^
+||sessions.bugsnag.com^
+||sessions.bugsnag.smartbear.com^
 ||sessionstack.com^
+||settings.crashlytics.com^
 ||sftelemetry.sophos.com^
 ||sg.smartlook.cloud^
 ||sgtm.indrive.com^
@@ -1457,6 +1525,7 @@
 ||smetrics.sciencedirect.com^
 ||smetrics.teambeachbody.com^
 ||solomath.com^
+||sp.backtrace.io^
 ||sports-analytics.paramountplus.com^
 ||sports-analytics.peacocktv.com^
 ||sports-metrics.espn.com^
@@ -1526,6 +1595,7 @@
 ||stream.clearbit.com^
 ||streaming.conviva.com^
 ||streme.fullcontact.com^
+||submit.backtrace.io^
 ||sungymobile.com^
 ||superchat-analytics.youtube.com^
 ||surge.bombora.com^
@@ -1749,6 +1819,7 @@
 ||tracking.vagaro.com^
 ||tracking.vivino.com^
 ||tracking.zanfia.com^
+||trackjs.com^
 ||tracknooks.abcfitness.com^
 ||trackworld-model-1.apps.allenai.org^
 ||trackworld-model-2.apps.allenai.org^
@@ -1775,6 +1846,7 @@
 ||ua.kakao.com^
 ||ubimo.com^
 ||unacast.com^
+||unreal.backtrace.io^
 ||upload.uxcam.com^
 ||urban-vpn.com^
 ||urbanshield.com^
@@ -1785,6 +1857,7 @@
 ||us.mouseflow.com^
 ||us.smartlook.cloud^
 ||us.uxcam.com^
+||usage.trackjs.com^
 ||usagereports.elsevier.com^
 ||usr.navdmp.com^
 ||utt.impactcdn.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1874
+# Total domains: 1947
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -138,6 +138,7 @@ adx.mxplayer.in
 afcyhf.com
 affilae.com
 agilityone.epsilon.com
+airbrake.io
 alerts.conviva.com
 alerts.youbora.com
 amagi.tv
@@ -449,9 +450,15 @@ api-logging.netflix.com
 api-us.mouseflow.com
 api.acoustic.com
 api.adsquare.com
+api.airbrake.io
 api.analytics-iq.com
+api.appsignal.com
 api.atdata.com
+api.backtrace.io
 api.bombora.com
+api.bugfender.com
+api.bugsee.com
+api.bugsplat.com
 api.cdl.metrics.unpaywall.org
 api.chartbeat.com
 api.chartbeat.net
@@ -464,7 +471,9 @@ api.cuebiq.com
 api.datalogix.com
 api.decibelinsight.net
 api.dnb.com
+api.elmah.io
 api.eu.smartlook.cloud
+api.exceptionless.io
 api.eyeota.net
 api.fullcontact.com
 api.fullstory.com
@@ -473,13 +482,16 @@ api.glassboxdigital.com
 api.gosmspro.com
 api.gravyanalytics.com
 api.heatmap.com
+api.honeybadger.io
 api.hotjar.io
 api.infutor.com
 api.inspectlet.com
+api.instabug.com
 api.jumpshot.com
 api.livesession.io
 api.logrocket.io
 api.lotame.com
+api.luciq.ai
 api.luckyorange.com
 api.merkle.com
 api.mobilewalla.com
@@ -490,6 +502,9 @@ api.permutive.app
 api.permutive.com
 api.ptengine.com
 api.quantummetric.com
+api.raygun.com
+api.raygun.io
+api.rollbar.com
 api.safegraph.com
 api.sessioncam.com
 api.sessionrewind.com
@@ -515,9 +530,15 @@ api.zipy.ai
 api.zoominfo.com
 apmebf.com
 app-analytics.lyft.com
+app-measurement.com
 app-measurement.uber.com
+app.bugsplat.com
+app.getsentry.com
+app.glitchtip.com
 appanalytics.tomtom.com
 applog.bolt.eu
+appsignal-endpoint.net
+appsignal.com
 arc-metrics.corp.codeium.com
 asapp.navdmp.com
 ask.hotjar.com
@@ -552,6 +573,7 @@ azira.com
 azurelogs.garmin.com
 b.clarity.ms
 background-play-metrics.youtube.com
+backtrace.io
 backup.gosmspro.com
 bard-telemetry.google.com
 bcp.crwdcntrl.net
@@ -573,7 +595,11 @@ bluekai.com
 bombora.com
 br.smartlook.cloud
 bug.kaspersky.com
+bugfender.com
 bugreporting.rec.net
+bugsee.com
+bugsnag.com
+bugsplat.com
 bugtracker.akiflow.com
 bytes-event.vive.com
 c.cfjump.com
@@ -584,6 +610,7 @@ ca-central-1-1.telemetry.insights.video.a2z.com
 cap.cyberlink.com
 captify.co
 captify.co.uk
+capture.trackjs.com
 cbsi.demdex.net
 cbsinteractive.hb.omtrdc.net
 cd.navdmp.com
@@ -670,6 +697,7 @@ client-telemetry.us-east-1.amazonaws.com
 clientlogs.tunnelbear.com
 cloud.tealeaf.com
 cloudtrack.cal.com
+collect.airbrake.io
 collect.babbel.io
 collect.biomedcentral.com
 collect.contentsquare.net
@@ -682,6 +710,7 @@ collector-us.conviva.com
 collector.acoustic.co
 collector.clickdealer.com
 collector.conviva.com
+collector.exceptionless.io
 collector.glassbox.com
 collector.glassbox.digital
 collector.medallia.com
@@ -726,6 +755,8 @@ crash.soundhound.com
 crashes.1password.com
 crashes.dashlane.com
 crashes.ivpn.net
+crashlytics.com
+crashlyticsreports-pa.googleapis.com
 crashreport.razer.com
 crazyegg.com
 crowdcontrol.lotame.com
@@ -809,6 +840,7 @@ edge.fullstory.com
 edge.permutive.app
 effiliation.com
 ekb.analytics.elsevier.com
+elmah.io
 email.events.duolingo.com
 emailfootprint.norton.com
 emailtracking.soothe.com
@@ -829,8 +861,10 @@ errors.razerzone.com
 espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
 etrack.np.norton.com
+eu-api.honeybadger.io
 eu-west-1-1.telemetry.insights.video.a2z.com
 eu.fullstory.com
+eu.glitchtip.com
 eu.mouseflow.com
 eu.smartlook.cloud
 eu.uxcam.com
@@ -858,6 +892,7 @@ evgen.appsflyer.com
 ewtracking.elsevier.com
 exactdata.com
 exads.crakrevenue.com
+exceptionless.io
 exchange.adsquare.com
 exelate.com
 exelate.info
@@ -869,12 +904,17 @@ f.clarity.ms
 fa.hellotalk.com
 faces3cdn.goforandroid.com
 factual.com
+fault.trackjs.com
 faults.norton.com
 faults.symantec.com
 fbanalytics.sandbox.game
 feedback.hotjar.com
 files.crazyegg.com
 finance.dnb.com
+firebase-settings.crashlytics.com
+firebasecrashlytics.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
 flexlinks.com
 flexlinkspro.com
 formcomplete.zoominfo.com
@@ -896,9 +936,11 @@ gateway.crakrevenue.com
 gateway.glassboxdigital.com
 gemini-analytics.google.com
 geo-surf.com
+getsentry.com
 glassbox.com
 glassbox.digital
 glassboxdigital.com
+glitchtip.com
 global-1.telemetry.insights.video.a2z.com
 global-2.telemetry.insights.video.a2z.com
 global-3.telemetry.insights.video.a2z.com
@@ -923,11 +965,13 @@ gtm-analytics.vividseats.com
 gtrack.go.moovit.com
 gtrack.stories.moovit.com
 h.clarity.ms
+heartbeat.exceptionless.io
 heatmap.com
 hellotracking.ticketmaster.com
 hist.stats.avast.com
 hit.seznam.cz
 hitwise.com
+honeybadger.io
 hotjar.com
 hotjar.io
 i.clarity.ms
@@ -970,6 +1014,7 @@ insights.nordvpn.com
 insights.video.a2z.com
 inspectlet.com
 inspectlet.net
+instabug.com
 intake-lr.com
 integralmarket.goforandroid.com
 integralwall.goforandroid.com
@@ -978,11 +1023,14 @@ integrations.smartlook.com
 intelligence.conviva.com
 intelligence.towerdata.com
 ip-info.ff.avast.com
+ips.bugfender.com
+ips.bugsee.com
 isapp.navdmp.com
 isc-tracking.eventim.com
 iscd.navdmp.com
 iscdn.navdmp.com
 isi-tracking.eventim.com
+items.rollbar.com
 j.clarity.ms
 j.navdmp.com
 jdoqocy.com
@@ -1065,6 +1113,7 @@ lr-ingest.io
 lr-intake.com
 lrkt-in.com
 ltmsphrcl.net
+luciq.ai
 luckyorange.com
 luckyorange.net
 lzt.goforandroid.com
@@ -1224,6 +1273,9 @@ niad.analytics.elsevier.com
 nielsen.com
 nmc.nielsen.com
 nmtracking.netflix.com
+notifier-configs.airbrake.io
+notify.bugsnag.com
+notify.bugsnag.smartbear.com
 npaw.com
 nqs-apac.youbora.com
 nqs-eu.youbora.com
@@ -1242,6 +1294,8 @@ openreplay.com
 opi.navdmp.com
 oracleinfinity.io
 origin-analytics.branch.io
+otlp.bugsnag.com
+otlp.bugsnag.smartbear.com
 outlogic.io
 p.clarity.ms
 p.plerdy.com
@@ -1282,6 +1336,7 @@ preprocessor.heatmap.com
 presentationtracking.netflix.com
 prod.log.shortbread.aws.dev
 production.ads.cj.com
+profiling.sentry.io
 prospector.clearbit.com
 protected.media
 ps.eyeota.net
@@ -1294,6 +1349,8 @@ pulse-apac.conviva.com
 pulse-eu.conviva.com
 pulse-us.conviva.com
 pulse.conviva.com
+pulse.raygun.com
+push.appsignal.com
 push.goforandroid.com
 q.clarity.ms
 qksrv.net
@@ -1308,6 +1365,8 @@ r.lrkt-in.com
 rakutenadvertising.com
 rakutenmarketing.com
 rapleaf.com
+raygun.com
+raygun.io
 realnetworks.com
 realtime.luckyorange.com
 realtime.youbora.com
@@ -1319,6 +1378,7 @@ recorder.sessionrewind.com
 recording.crazyegg.com
 referenceusa.com
 relay.fullstory.com
+replay.sentry.io
 report-eu.appmetrica.yango.com
 report.appmetrica.yango.com
 resolve.fullcontact.com
@@ -1330,11 +1390,14 @@ risk.clearbit.com
 risk.dnb.com
 rmmetrics.mcafee.com
 rnsfpw.net
+rollbar.com
 rs.fullstory.com
 rs.livesession.io
 rt-clientstats-il.waze.com
 rtb.adsquare.com
 rum.netflix.com
+rum.raygun.io
+rum.rollbar.com
 s.analytics10.ticketmaster.com
 s.c.jwpltx.com
 s.clarity.ms
@@ -1360,6 +1423,7 @@ sdk-writer.us.smartlook.cloud
 sdk.conviva.com
 sdk.cuebiq.com
 sdk.inmarket.com
+sdk.instabug.com
 sdk.mobilewalla.com
 sdk.predic.io
 sdk.smartlook.com
@@ -1380,6 +1444,7 @@ sentry-reporter.ente.io
 sentry.api.stronglifts.com
 sentry.clickdealer.com
 sentry.codeium.com
+sentry.io
 sentry.protonvpn.com
 sentry.scielo.org
 sentry.scispace.com
@@ -1392,7 +1457,10 @@ service.goforandroid.com
 sessioncam.com
 sessioncam.net
 sessionrewind.com
+sessions.bugsnag.com
+sessions.bugsnag.smartbear.com
 sessionstack.com
+settings.crashlytics.com
 sftelemetry.sophos.com
 sg.smartlook.cloud
 sgtm.indrive.com
@@ -1420,6 +1488,7 @@ smetrics.reaxys.com
 smetrics.sciencedirect.com
 smetrics.teambeachbody.com
 solomath.com
+sp.backtrace.io
 sports-analytics.paramountplus.com
 sports-analytics.peacocktv.com
 sports-metrics.espn.com
@@ -1488,6 +1557,7 @@ store.zipy.ai
 stream.clearbit.com
 streaming.conviva.com
 streme.fullcontact.com
+submit.backtrace.io
 sungymobile.com
 superchat-analytics.youtube.com
 surge.bombora.com
@@ -1711,6 +1781,7 @@ tracking.tubitv.com
 tracking.vagaro.com
 tracking.vivino.com
 tracking.zanfia.com
+trackjs.com
 tracknooks.abcfitness.com
 trackworld-model-1.apps.allenai.org
 trackworld-model-2.apps.allenai.org
@@ -1737,6 +1808,7 @@ u.clarity.ms
 ua.kakao.com
 ubimo.com
 unacast.com
+unreal.backtrace.io
 upload.uxcam.com
 urban-vpn.com
 urbanshield.com
@@ -1747,6 +1819,7 @@ us-west-2-1.telemetry.insights.video.a2z.com
 us.mouseflow.com
 us.smartlook.cloud
 us.uxcam.com
+usage.trackjs.com
 usagereports.elsevier.com
 usr.navdmp.com
 utt.impactcdn.com
