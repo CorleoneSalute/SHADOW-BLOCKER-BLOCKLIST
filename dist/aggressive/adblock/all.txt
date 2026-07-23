@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1164
+# Total domains: 1181
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -69,6 +69,7 @@
 ||ads.conviva.com^
 ||ads.crunchyroll.com^
 ||ads.disneyplus.com^
+||ads.emojixpress.com^
 ||ads.espn.com^
 ||ads.fubo.tv^
 ||ads.hbomax.com^
@@ -127,6 +128,7 @@
 ||analytics.bilibili.com^
 ||analytics.binge.com.au^
 ||analytics.blim.com^
+||analytics.bobble.ai^
 ||analytics.britbox.com^
 ||analytics.canalplus.com^
 ||analytics.cbsaavideo.com^
@@ -146,7 +148,9 @@
 ||analytics.disneyplus.com^
 ||analytics.espn.com^
 ||analytics.fandangoathome.com^
+||analytics.fleksy.com^
 ||analytics.fubo.tv^
+||analytics.gingersoftware.com^
 ||analytics.globoplay.globo.com^
 ||analytics.hbomax.com^
 ||analytics.hotstar.com^
@@ -203,6 +207,8 @@
 ||analytics.youbora.com^
 ||analytics.youku.com^
 ||analytics.zee5.com^
+||analyticshub.services.swiftkey.com^
+||analyticshub.swiftkey.com^
 ||anrdoezrs.net^
 ||ap-northeast-1-1.telemetry.insights.video.a2z.com^
 ||ap-southeast-1-1.telemetry.insights.video.a2z.com^
@@ -286,6 +292,8 @@
 ||audienceiq.com^
 ||avantmetrics.com^
 ||avention.com^
+||aw.bobble.ai^
+||aw.handcent.com^
 ||awin.co.uk^
 ||awin.com^
 ||awin.de^
@@ -496,6 +504,7 @@
 ||engagement.brightcove.com^
 ||epg-metrics.pluto.tv^
 ||error-reporting.disneyplus.com^
+||errorlogging.typewise.app^
 ||errors.hbomax.com^
 ||errors.hulu.com^
 ||errors.netflix.com^
@@ -642,12 +651,15 @@
 ||livesession.io^
 ||livestats.kaltura.com^
 ||localad.naver.com^
+||log.ai-type.com^
+||log.facemoji.com^
 ||logging.bamgrid.com^
 ||logging.netflix.com^
 ||logr-in.com^
 ||logr-ingest.com^
 ||logrocket.com^
 ||logrocket.io^
+||logs.bobble.ai^
 ||logs.hulu.com^
 ||logs.netflix.com^
 ||lotame.com^
@@ -962,6 +974,7 @@
 ||tealeaf.com^
 ||tealeaf.ibmcloud.com^
 ||tealeafcloud.com^
+||telemetry.api.swiftkey.com^
 ||telemetry.bamgrid.com^
 ||telemetry.bitmovin.com^
 ||telemetry.crunchyroll.com^
@@ -981,6 +994,7 @@
 ||telemetry.tubitv.com^
 ||telemetry.untappd.com^
 ||telemetry.vivino.com^
+||telemetrydoc.swiftkey.com^
 ||throtle.io^
 ||timeone.fr^
 ||timeone.io^
@@ -993,6 +1007,7 @@
 ||toroadvertisingmedia.com^
 ||towerdata.com^
 ||tqlkg.com^
+||track.aitype.com^
 ||track.cj.com^
 ||track.clickbooth.com^
 ||track.commissionfactory.com^
@@ -1000,6 +1015,7 @@
 ||track.crazyegg.com^
 ||track.flexlinks.com^
 ||track.flexlinkspro.com^
+||track.gingersoftware.com^
 ||track.go.moovit.com^
 ||track.heatmap.com^
 ||track.kakao.com^
@@ -1097,6 +1113,7 @@
 ||visitors.live^
 ||vizio.adsmeasurement.com^
 ||vofzpwh.com^
+||volcano.analytics.swiftkey.com^
 ||vrvm.com^
 ||w.clarity.ms^
 ||w1.luckyorange.com^

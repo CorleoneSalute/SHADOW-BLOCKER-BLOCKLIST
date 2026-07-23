@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 1125
+# Total domains: 1142
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -66,6 +66,7 @@
 0.0.0.0 ads.conviva.com
 0.0.0.0 ads.crunchyroll.com
 0.0.0.0 ads.disneyplus.com
+0.0.0.0 ads.emojixpress.com
 0.0.0.0 ads.espn.com
 0.0.0.0 ads.fubo.tv
 0.0.0.0 ads.hbomax.com
@@ -122,6 +123,7 @@
 0.0.0.0 analytics.bilibili.com
 0.0.0.0 analytics.binge.com.au
 0.0.0.0 analytics.blim.com
+0.0.0.0 analytics.bobble.ai
 0.0.0.0 analytics.britbox.com
 0.0.0.0 analytics.canalplus.com
 0.0.0.0 analytics.cbsaavideo.com
@@ -141,7 +143,9 @@
 0.0.0.0 analytics.disneyplus.com
 0.0.0.0 analytics.espn.com
 0.0.0.0 analytics.fandangoathome.com
+0.0.0.0 analytics.fleksy.com
 0.0.0.0 analytics.fubo.tv
+0.0.0.0 analytics.gingersoftware.com
 0.0.0.0 analytics.globoplay.globo.com
 0.0.0.0 analytics.hbomax.com
 0.0.0.0 analytics.hotstar.com
@@ -198,6 +202,8 @@
 0.0.0.0 analytics.youbora.com
 0.0.0.0 analytics.youku.com
 0.0.0.0 analytics.zee5.com
+0.0.0.0 analyticshub.services.swiftkey.com
+0.0.0.0 analyticshub.swiftkey.com
 0.0.0.0 anrdoezrs.net
 0.0.0.0 ap-northeast-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 ap-southeast-1-1.telemetry.insights.video.a2z.com
@@ -281,6 +287,8 @@
 0.0.0.0 audienceiq.com
 0.0.0.0 avantmetrics.com
 0.0.0.0 avention.com
+0.0.0.0 aw.bobble.ai
+0.0.0.0 aw.handcent.com
 0.0.0.0 awin.co.uk
 0.0.0.0 awin.com
 0.0.0.0 awin.de
@@ -485,6 +493,7 @@
 0.0.0.0 engagement.brightcove.com
 0.0.0.0 epg-metrics.pluto.tv
 0.0.0.0 error-reporting.disneyplus.com
+0.0.0.0 errorlogging.typewise.app
 0.0.0.0 errors.hbomax.com
 0.0.0.0 errors.hulu.com
 0.0.0.0 errors.netflix.com
@@ -623,12 +632,15 @@
 0.0.0.0 livesession.io
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 localad.naver.com
+0.0.0.0 log.ai-type.com
+0.0.0.0 log.facemoji.com
 0.0.0.0 logging.bamgrid.com
 0.0.0.0 logging.netflix.com
 0.0.0.0 logr-in.com
 0.0.0.0 logr-ingest.com
 0.0.0.0 logrocket.com
 0.0.0.0 logrocket.io
+0.0.0.0 logs.bobble.ai
 0.0.0.0 logs.hulu.com
 0.0.0.0 logs.netflix.com
 0.0.0.0 lotame.com
@@ -931,6 +943,7 @@
 0.0.0.0 tealeaf.com
 0.0.0.0 tealeaf.ibmcloud.com
 0.0.0.0 tealeafcloud.com
+0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.bamgrid.com
 0.0.0.0 telemetry.bitmovin.com
 0.0.0.0 telemetry.crunchyroll.com
@@ -950,6 +963,7 @@
 0.0.0.0 telemetry.tubitv.com
 0.0.0.0 telemetry.untappd.com
 0.0.0.0 telemetry.vivino.com
+0.0.0.0 telemetrydoc.swiftkey.com
 0.0.0.0 throtle.io
 0.0.0.0 timeone.fr
 0.0.0.0 timeone.io
@@ -962,6 +976,7 @@
 0.0.0.0 toroadvertisingmedia.com
 0.0.0.0 towerdata.com
 0.0.0.0 tqlkg.com
+0.0.0.0 track.aitype.com
 0.0.0.0 track.cj.com
 0.0.0.0 track.clickbooth.com
 0.0.0.0 track.commissionfactory.com
@@ -969,6 +984,7 @@
 0.0.0.0 track.crazyegg.com
 0.0.0.0 track.flexlinks.com
 0.0.0.0 track.flexlinkspro.com
+0.0.0.0 track.gingersoftware.com
 0.0.0.0 track.go.moovit.com
 0.0.0.0 track.heatmap.com
 0.0.0.0 track.kakao.com
@@ -1058,6 +1074,7 @@
 0.0.0.0 visitors.live
 0.0.0.0 vizio.adsmeasurement.com
 0.0.0.0 vofzpwh.com
+0.0.0.0 volcano.analytics.swiftkey.com
 0.0.0.0 vrvm.com
 0.0.0.0 w.clarity.ms
 0.0.0.0 w1.luckyorange.com
