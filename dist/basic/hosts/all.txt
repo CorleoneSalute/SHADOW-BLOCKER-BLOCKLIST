@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 2413
+# Total domains: 2468
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -227,6 +227,7 @@
 0.0.0.0 analytics.bitdefender.com
 0.0.0.0 analytics.blacknut.com
 0.0.0.0 analytics.blim.com
+0.0.0.0 analytics.blueberrysoftware.com
 0.0.0.0 analytics.blur.io
 0.0.0.0 analytics.bobble.ai
 0.0.0.0 analytics.bolt.eu
@@ -575,6 +576,7 @@
 0.0.0.0 analytics.windscribe.com
 0.0.0.0 analytics.wise.com
 0.0.0.0 analytics.womanlog.com
+0.0.0.0 analytics.wondershare.cc
 0.0.0.0 analytics.wordreference.com
 0.0.0.0 analytics.wren.co
 0.0.0.0 analytics.www1-0.pad.squareup.com
@@ -591,7 +593,51 @@
 0.0.0.0 analytics.zoom.us
 0.0.0.0 analytics.zoosk.com
 0.0.0.0 analytics.zorinos.com
+0.0.0.0 analytics01.techsmith.com
+0.0.0.0 analytics03.techsmith.com
+0.0.0.0 analytics05.techsmith.com
+0.0.0.0 analytics07.techsmith.com
+0.0.0.0 analytics09.techsmith.com
 0.0.0.0 analytics10.ticketmaster.com
+0.0.0.0 analytics11.techsmith.com
+0.0.0.0 analytics13.techsmith.com
+0.0.0.0 analytics15.techsmith.com
+0.0.0.0 analytics19.techsmith.com
+0.0.0.0 analytics21.techsmith.com
+0.0.0.0 analytics23.techsmith.com
+0.0.0.0 analytics25.techsmith.com
+0.0.0.0 analytics27.techsmith.com
+0.0.0.0 analytics28.techsmith.com
+0.0.0.0 analytics29.techsmith.com
+0.0.0.0 analytics30.techsmith.com
+0.0.0.0 analytics31.techsmith.com
+0.0.0.0 analytics32.techsmith.com
+0.0.0.0 analytics33.techsmith.com
+0.0.0.0 analytics34.techsmith.com
+0.0.0.0 analytics35.techsmith.com
+0.0.0.0 analytics36.techsmith.com
+0.0.0.0 analytics37.techsmith.com
+0.0.0.0 analytics38.techsmith.com
+0.0.0.0 analytics39.techsmith.com
+0.0.0.0 analytics40.techsmith.com
+0.0.0.0 analytics41.techsmith.com
+0.0.0.0 analytics42.techsmith.com
+0.0.0.0 analytics43.techsmith.com
+0.0.0.0 analytics44.techsmith.com
+0.0.0.0 analytics45.techsmith.com
+0.0.0.0 analytics46.techsmith.com
+0.0.0.0 analytics51.techsmith.com
+0.0.0.0 analytics52.techsmith.com
+0.0.0.0 analytics53.techsmith.com
+0.0.0.0 analytics54.techsmith.com
+0.0.0.0 analytics61.techsmith.com
+0.0.0.0 analytics62.techsmith.com
+0.0.0.0 analytics63.techsmith.com
+0.0.0.0 analytics64.techsmith.com
+0.0.0.0 analytics65.techsmith.com
+0.0.0.0 analytics66.techsmith.com
+0.0.0.0 analytics67.techsmith.com
+0.0.0.0 analytics68.techsmith.com
 0.0.0.0 analyticsapi.aiva.ai
 0.0.0.0 analyticshub.services.swiftkey.com
 0.0.0.0 analyticshub.swiftkey.com
@@ -1086,6 +1132,7 @@
 0.0.0.0 events.telemetry.data.nvidia.com
 0.0.0.0 evernotemetrics.com
 0.0.0.0 evgen.appsflyer.com
+0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 ewtracking.elsevier.com
 0.0.0.0 exactdata.com
 0.0.0.0 exads.crakrevenue.com
@@ -1108,6 +1155,7 @@
 0.0.0.0 faults.symantec.com
 0.0.0.0 fbanalytics.sandbox.game
 0.0.0.0 fedora-telemetry.org
+0.0.0.0 feedback.flashbackrecorder.com
 0.0.0.0 feedback.hotjar.com
 0.0.0.0 files.crazyegg.com
 0.0.0.0 finance.dnb.com
@@ -1128,6 +1176,7 @@
 0.0.0.0 fullcontact.com
 0.0.0.0 fullstory.com
 0.0.0.0 fullstory.net
+0.0.0.0 fwtrack.flashbackrecorder.com
 0.0.0.0 fwtrack.ticketnetwork.com
 0.0.0.0 g.clarity.ms
 0.0.0.0 galaxy-log.gog.com
@@ -1303,6 +1352,7 @@
 0.0.0.0 log.soundhound.com
 0.0.0.0 log.strm.yango.com
 0.0.0.0 log.stubhub.com
+0.0.0.0 log.svc.screencastify.com
 0.0.0.0 log.zoom.us
 0.0.0.0 log01.mtv.squareup.com
 0.0.0.0 logfiles.zoom.us
@@ -1988,6 +2038,7 @@
 0.0.0.0 telemetry.expressvpn.com
 0.0.0.0 telemetry.fadr.com
 0.0.0.0 telemetry.fedoraproject.org
+0.0.0.0 telemetry.flashbackrecorder.com
 0.0.0.0 telemetry.flo.health
 0.0.0.0 telemetry.fubo.tv
 0.0.0.0 telemetry.geforcenow.com
@@ -2015,6 +2066,7 @@
 0.0.0.0 telemetry.matchgroup.com
 0.0.0.0 telemetry.max.com
 0.0.0.0 telemetry.mcafee.com
+0.0.0.0 telemetry.mirillis.com
 0.0.0.0 telemetry.mixedinkey.com
 0.0.0.0 telemetry.mobile.api.mcafee.com
 0.0.0.0 telemetry.moises.ai
@@ -2053,6 +2105,7 @@
 0.0.0.0 telemetry.system76.com
 0.0.0.0 telemetry.tabnine.com
 0.0.0.0 telemetry.teamviewer.com
+0.0.0.0 telemetry.techsmith.com
 0.0.0.0 telemetry.tubitv.com
 0.0.0.0 telemetry.tunnelbear.com
 0.0.0.0 telemetry.uber.com
@@ -2208,6 +2261,8 @@
 0.0.0.0 tracking.reservebar.com
 0.0.0.0 tracking.ridewithvia.com
 0.0.0.0 tracking.rosettastone.com
+0.0.0.0 tracking.screencastify.com
+0.0.0.0 tracking.screenpal.com
 0.0.0.0 tracking.seatgeek.com
 0.0.0.0 tracking.shareasale.com
 0.0.0.0 tracking.stubhub.com

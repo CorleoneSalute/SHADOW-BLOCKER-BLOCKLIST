@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 2461
+# Total domains: 2516
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -231,6 +231,7 @@
 ||analytics.bitdefender.com^
 ||analytics.blacknut.com^
 ||analytics.blim.com^
+||analytics.blueberrysoftware.com^
 ||analytics.blur.io^
 ||analytics.bobble.ai^
 ||analytics.bolt.eu^
@@ -579,6 +580,7 @@
 ||analytics.windscribe.com^
 ||analytics.wise.com^
 ||analytics.womanlog.com^
+||analytics.wondershare.cc^
 ||analytics.wordreference.com^
 ||analytics.wren.co^
 ||analytics.www1-0.pad.squareup.com^
@@ -595,7 +597,51 @@
 ||analytics.zoom.us^
 ||analytics.zoosk.com^
 ||analytics.zorinos.com^
+||analytics01.techsmith.com^
+||analytics03.techsmith.com^
+||analytics05.techsmith.com^
+||analytics07.techsmith.com^
+||analytics09.techsmith.com^
 ||analytics10.ticketmaster.com^
+||analytics11.techsmith.com^
+||analytics13.techsmith.com^
+||analytics15.techsmith.com^
+||analytics19.techsmith.com^
+||analytics21.techsmith.com^
+||analytics23.techsmith.com^
+||analytics25.techsmith.com^
+||analytics27.techsmith.com^
+||analytics28.techsmith.com^
+||analytics29.techsmith.com^
+||analytics30.techsmith.com^
+||analytics31.techsmith.com^
+||analytics32.techsmith.com^
+||analytics33.techsmith.com^
+||analytics34.techsmith.com^
+||analytics35.techsmith.com^
+||analytics36.techsmith.com^
+||analytics37.techsmith.com^
+||analytics38.techsmith.com^
+||analytics39.techsmith.com^
+||analytics40.techsmith.com^
+||analytics41.techsmith.com^
+||analytics42.techsmith.com^
+||analytics43.techsmith.com^
+||analytics44.techsmith.com^
+||analytics45.techsmith.com^
+||analytics46.techsmith.com^
+||analytics51.techsmith.com^
+||analytics52.techsmith.com^
+||analytics53.techsmith.com^
+||analytics54.techsmith.com^
+||analytics61.techsmith.com^
+||analytics62.techsmith.com^
+||analytics63.techsmith.com^
+||analytics64.techsmith.com^
+||analytics65.techsmith.com^
+||analytics66.techsmith.com^
+||analytics67.techsmith.com^
+||analytics68.techsmith.com^
 ||analyticsapi.aiva.ai^
 ||analyticshub.services.swiftkey.com^
 ||analyticshub.swiftkey.com^
@@ -1100,6 +1146,7 @@
 ||events.telemetry.data.nvidia.com^
 ||evernotemetrics.com^
 ||evgen.appsflyer.com^
+||evs.sgmt.loom.com^
 ||ewtracking.elsevier.com^
 ||exactdata.com^
 ||exads.crakrevenue.com^
@@ -1128,6 +1175,7 @@
 ||faults.symantec.com^
 ||fbanalytics.sandbox.game^
 ||fedora-telemetry.org^
+||feedback.flashbackrecorder.com^
 ||feedback.hotjar.com^
 ||files.crazyegg.com^
 ||finance.dnb.com^
@@ -1148,6 +1196,7 @@
 ||fullcontact.com^
 ||fullstory.com^
 ||fullstory.net^
+||fwtrack.flashbackrecorder.com^
 ||fwtrack.ticketnetwork.com^
 ||g.clarity.ms^
 ||galaxy-log.gog.com^
@@ -1329,6 +1378,7 @@
 ||log.soundhound.com^
 ||log.strm.yango.com^
 ||log.stubhub.com^
+||log.svc.screencastify.com^
 ||log.zoom.us^
 ||log01.mtv.squareup.com^
 ||logfiles.zoom.us^
@@ -2028,6 +2078,7 @@
 ||telemetry.expressvpn.com^
 ||telemetry.fadr.com^
 ||telemetry.fedoraproject.org^
+||telemetry.flashbackrecorder.com^
 ||telemetry.flo.health^
 ||telemetry.fubo.tv^
 ||telemetry.geforcenow.com^
@@ -2055,6 +2106,7 @@
 ||telemetry.matchgroup.com^
 ||telemetry.max.com^
 ||telemetry.mcafee.com^
+||telemetry.mirillis.com^
 ||telemetry.mixedinkey.com^
 ||telemetry.mobile.api.mcafee.com^
 ||telemetry.moises.ai^
@@ -2093,6 +2145,7 @@
 ||telemetry.system76.com^
 ||telemetry.tabnine.com^
 ||telemetry.teamviewer.com^
+||telemetry.techsmith.com^
 ||telemetry.tubitv.com^
 ||telemetry.tunnelbear.com^
 ||telemetry.uber.com^
@@ -2248,6 +2301,8 @@
 ||tracking.reservebar.com^
 ||tracking.ridewithvia.com^
 ||tracking.rosettastone.com^
+||tracking.screencastify.com^
+||tracking.screenpal.com^
 ||tracking.seatgeek.com^
 ||tracking.shareasale.com^
 ||tracking.stubhub.com^
