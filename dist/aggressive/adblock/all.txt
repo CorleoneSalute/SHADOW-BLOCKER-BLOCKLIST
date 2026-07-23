@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 5092
+# Total domains: 5328
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,6 +10,9 @@
 ||0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||01.sa.telemetry.zoom.us^
 ||02.sa.telemetry.zoom.us^
+||1fhc-event.fhcasino.com^
+||1fhc-event2.fhcasino.com^
+||1mgas-log.fhcasino.com^
 ||3dat.steelseries.com^
 ||4cite.com^
 ||a.ad.playstation.net^
@@ -122,6 +125,7 @@
 ||ad.rus.xiaomi.com^
 ||ad.samsungadhub.com^
 ||ad.search.naver.com^
+||ad.srv.giantlottos.com^
 ||ad.vrvm.com^
 ||ad.xiaomi.com^
 ||ad1.gtie.dell.com^
@@ -144,6 +148,7 @@
 ||adikteev.com^
 ||adinfo.ra1.xlmc.sec.miui.com^
 ||adjust.flo.health^
+||adjust.stats.zynga.com^
 ||adjustevents.purevpn.com^
 ||adjustyourtracking.vhx.tv^
 ||adkernel.crakrevenue.com^
@@ -180,6 +185,8 @@
 ||ads.api.cj.com^
 ||ads.avast.com^
 ||ads.babbel.com^
+||ads.betfair.com^
+||ads.betfair.com.au^
 ||ads.bitmovin.com^
 ||ads.bizo.com^
 ||ads.brightcove.com^
@@ -221,9 +228,11 @@
 ||ads.lww.com^
 ||ads.lyft.com^
 ||ads.moovit.com^
+||ads.mrgreen.com^
 ||ads.mxplayer.in^
 ||ads.myfitnesspal.com^
 ||ads.naver.com^
+||ads.oddschecker.com^
 ||ads.oppomobile.com^
 ||ads.ovia.com^
 ||ads.paramountplus.com^
@@ -232,6 +241,7 @@
 ||ads.phonepe.com^
 ||ads.pluto.tv^
 ||ads.podbean.com^
+||ads.pokerist.com^
 ||ads.realnetworks.com^
 ||ads.remerge.io^
 ||ads.retargeter.com^
@@ -239,8 +249,10 @@
 ||ads.rockstargames.com^
 ||ads.samsung.com^
 ||ads.samsungads.com^
+||ads.sisal.it^
 ||ads.slidebean.com^
 ||ads.speedbit.com^
+||ads.suprnation.com^
 ||ads.t-mobile.com^
 ||ads.tenor.com^
 ||ads.timesinternet.in^
@@ -254,6 +266,7 @@
 ||ads.world.waze.com^
 ||ads.zee5.com^
 ||ads.zombodroid.com^
+||ads.zynga.com^
 ||ads1.huawei.com^
 ||ads2.ads.pof.com^
 ||ads5.huawei.com^
@@ -273,6 +286,8 @@
 ||adserver.mxplayer.in^
 ||adserver.podbean.com^
 ||adserver.remerge.io^
+||adserving-tmp.unibet.com^
+||adserving.unibet.com^
 ||adsfs-sdkconfig.heytapimage.com^
 ||adsfs.oppomobile.com^
 ||adsmanager.truecaller.com^
@@ -355,6 +370,7 @@
 ||ae-ad-1.myhuaweicloud.com^
 ||afb.accuweather.com^
 ||afcyhf.com^
+||aff.stake.com^
 ||affilae.com^
 ||afftrk.findoctave.com^
 ||agilityone.epsilon.com^
@@ -362,6 +378,7 @@
 ||ai-analytics.adyen.com^
 ||ai.adikteev.com^
 ||ai.analytics.weather.com^
+||ai.lb.stats.zynga.com^
 ||airbrake.io^
 ||aiseesoft.com^
 ||ak-ad-prod-2.cc.d.xiaomi.net^
@@ -380,13 +397,25 @@
 ||amplitude.usemotion.com^
 ||an.avast.com^
 ||analysis-rog-content-platform.asus.com^
+||analystday.playtika.com^
 ||analytic.underarmour.com^
 ||analytic.wysa.io^
+||analytics-api.crowncoinscasino.com^
+||analytics-api.grandesloterias.com^
 ||analytics-api.id.me^
+||analytics-api.lotto247.com^
 ||analytics-api.obefitness.com^
+||analytics-api.playusalotteries.com^
+||analytics-api.pulsz.com^
+||analytics-api.pulszbingo.com^
+||analytics-api.robin.markets^
 ||analytics-api.samsunghealthcn.com^
 ||analytics-api.t-mobile.com^
+||analytics-api.tombola.co.uk^
 ||analytics-api.vervemobile.com^
+||analytics-assets.gemini.com^
+||analytics-bridge.pokerist.com^
+||analytics-bridge01.pokerist.com^
 ||analytics-cdn.obefitness.com^
 ||analytics-ingress-apac.bitmovin.com^
 ||analytics-ingress-eu.bitmovin.com^
@@ -403,13 +432,19 @@
 ||analytics-preview.nokia.com^
 ||analytics-primary.trulioo.com^
 ||analytics-prod-gcp.ff.avast.com^
+||analytics-pub.pokerist.com^
 ||analytics-report.idwall.co^
 ||analytics-sdk-1.onfido.com^
 ||analytics-stage.ff.avast.com^
 ||analytics-v2.tensor.trade^
+||analytics-v2.thalesmarket.io^
+||analytics-worker.robin.markets^
 ||analytics.1password.com^
 ||analytics.3dmark.com^
 ||analytics.4kdownload.com^
+||analytics.888.com^
+||analytics.888casino.com^
+||analytics.888poker.com^
 ||analytics.8x8.com^
 ||analytics.abema.tv^
 ||analytics.abide.co^
@@ -430,6 +465,7 @@
 ||analytics.api.brightside.com^
 ||analytics.api.services.leonardo.ai^
 ||analytics.appsflyer.com^
+||analytics.aristocrat.com^
 ||analytics.art19.com^
 ||analytics.astrill.com^
 ||analytics.asus.com^
@@ -447,6 +483,7 @@
 ||analytics.avis.com^
 ||analytics.babbel.com^
 ||analytics.badoo.com^
+||analytics.bagelcode.com^
 ||analytics.bear.app^
 ||analytics.beatoven.ai^
 ||analytics.beelinguapp.com^
@@ -454,6 +491,7 @@
 ||analytics.beyondtrust.com^
 ||analytics.bible.com^
 ||analytics.bigdata.samsung.com^
+||analytics.bigfishgames.com^
 ||analytics.bigoven.com^
 ||analytics.bilibili.com^
 ||analytics.binge.com.au^
@@ -479,6 +517,7 @@
 ||analytics.bumble.com^
 ||analytics.busuu.com^
 ||analytics.buzzsprout.com^
+||analytics.bwin.com^
 ||analytics.cambly.com^
 ||analytics.canalplus.com^
 ||analytics.capitaloneshopping.com^
@@ -506,6 +545,7 @@
 ||analytics.cohostpodcasting.com^
 ||analytics.coinout.com^
 ||analytics.commons.earth^
+||analytics.comply.gig.com^
 ||analytics.connectwise.com^
 ||analytics.conviva.com^
 ||analytics.cookpad.com^
@@ -540,6 +580,7 @@
 ||analytics.disneynow.com^
 ||analytics.disneyplus.com^
 ||analytics.dowjones.com^
+||analytics.drift.trade^
 ||analytics.duosecurity.com^
 ||analytics.eatthismuch.com^
 ||analytics.ecrettmusic.com^
@@ -598,13 +639,16 @@
 ||analytics.glossika.com^
 ||analytics.glowing.com^
 ||analytics.gnome.org^
+||analytics.gnosis.io^
 ||analytics.gobble.com^
 ||analytics.gomlab.com^
 ||analytics.gotinder.com^
 ||analytics.goyoapp.com^
 ||analytics.gpapps.com^
+||analytics.grandesloterias.com^
 ||analytics.hallow.com^
 ||analytics.happn.com^
+||analytics.hardrock.com^
 ||analytics.hbomax.com^
 ||analytics.helloalma.com^
 ||analytics.hellochinese.cc^
@@ -675,11 +719,14 @@
 ||analytics.lingq.com^
 ||analytics.linguee.com^
 ||analytics.lingvist.com^
+||analytics.lnw.com^
 ||analytics.logitech.com^
 ||analytics.logmein.com^
 ||analytics.looksrare.org^
 ||analytics.loopcloud.com^
+||analytics.lotto247.com^
 ||analytics.loudly.com^
+||analytics.luckyslots.net^
 ||analytics.luna.amazon.com^
 ||analytics.lww.com^
 ||analytics.lyft.com^
@@ -700,7 +747,9 @@
 ||analytics.maya.live^
 ||analytics.mealime.com^
 ||analytics.means.tv^
+||analytics.megawinslots.com^
 ||analytics.memrise.com^
+||analytics.metawin.us^
 ||analytics.mindbodyonline.com^
 ||analytics.mixedinkey.com^
 ||analytics.mobileuc.o2.co.uk^
@@ -712,6 +761,7 @@
 ||analytics.motorola.com^
 ||analytics.movistarplus.es^
 ||analytics.mpay.samsung.com^
+||analytics.mrgreen.com^
 ||analytics.msi.com^
 ||analytics.mubert.com^
 ||analytics.mubi.com^
@@ -765,6 +815,7 @@
 ||analytics.ovia.com^
 ||analytics.oviahealth.com^
 ||analytics.palteca.com^
+||analytics.pancakeswap.finance^
 ||analytics.paprikaapp.com^
 ||analytics.paramountplus.com^
 ||analytics.parrot.sh^
@@ -788,6 +839,7 @@
 ||analytics.plantoeat.com^
 ||analytics.platejoy.com^
 ||analytics.playgroundai.com^
+||analytics.playhugelottos.com^
 ||analytics.playit.pk^
 ||analytics.playstation.net^
 ||analytics.plex.tv^
@@ -808,6 +860,7 @@
 ||analytics.presonus.com^
 ||analytics.prevailhealth.com^
 ||analytics.privateinternetaccess.com^
+||analytics.prizepicks.com^
 ||analytics.prizerebel.com^
 ||analytics.protected.media^
 ||analytics.purevpn.com^
@@ -836,6 +889,7 @@
 ||analytics.ringcentral.eu^
 ||analytics.riotgames.com^
 ||analytics.roamresearch.com^
+||analytics.robin.markets^
 ||analytics.roblox.com^
 ||analytics.roboform.com^
 ||analytics.rocketlanguages.com^
@@ -854,6 +908,7 @@
 ||analytics.samsungknox.com^
 ||analytics.samsungpay.com^
 ||analytics.scielo.org^
+||analytics.scientificgames.com^
 ||analytics.scruff.com^
 ||analytics.shadow.tech^
 ||analytics.shazam.com^
@@ -909,6 +964,7 @@
 ||analytics.teamviewer.com^
 ||analytics.tensor.trade^
 ||analytics.textra.me^
+||analytics.thalesmarket.io^
 ||analytics.theknot.com^
 ||analytics.thirstie.com^
 ||analytics.ticketmaster.es^
@@ -989,6 +1045,7 @@
 ||analytics.zoosk.com^
 ||analytics.zorinos.com^
 ||analytics.zte.com.cn^
+||analytics.zynga.com^
 ||analytics01.techsmith.com^
 ||analytics03.techsmith.com^
 ||analytics05.techsmith.com^
@@ -1082,6 +1139,8 @@
 ||api.adultfriendfinder.com^
 ||api.airbrake.io^
 ||api.analytics-iq.com^
+||api.analytics.gnosis.io^
+||api.analytics.robin.markets^
 ||api.appsignal.com^
 ||api.atdata.com^
 ||api.audiohook.com^
@@ -1207,6 +1266,7 @@
 ||app.ad-maven.com^
 ||app.adoperator.com^
 ||app.adprofex.com^
+||app.analytics.coinbase.com^
 ||app.analytics.t-mobile.com^
 ||app.bugsplat.com^
 ||app.coinis.com^
@@ -1594,6 +1654,7 @@
 ||click.oneplus.cn^
 ||click.remerge.io^
 ||click.stat.hao.360.cn^
+||click.stats.zynga.com^
 ||click.zetaglobal.com^
 ||clickagy.com^
 ||clickbank.com^
@@ -1613,6 +1674,7 @@
 ||client-telemetry.us-east-1.amazonaws.com^
 ||clientapi-samsung.dtignite.com^
 ||clientlogs.tunnelbear.com^
+||clientmetrics.betfair.com^
 ||cloud.tealeaf.com^
 ||cloudflareinsights.com^
 ||cloudi-in.browser.heytapmobile.com^
@@ -1675,6 +1737,7 @@
 ||collections.marketing.cmp.optimizely.com^
 ||collector-eu.conviva.com^
 ||collector-us.conviva.com^
+||collector-v2.spinxgames.com^
 ||collector.acoustic.co^
 ||collector.boutique.orange.fr^
 ||collector.callstats.io^
@@ -1688,10 +1751,31 @@
 ||collector.inkitt.com^
 ||collector.intel.com^
 ||collector.medallia.com^
+||collector.pokerstars.be^
+||collector.pokerstars.com^
+||collector.pokerstars.de^
+||collector.pokerstars.es^
+||collector.pokerstars.eu^
+||collector.pokerstars.fr^
+||collector.pokerstars.gr^
+||collector.pokerstars.it^
+||collector.pokerstars.net^
+||collector.pokerstars.pt^
+||collector.pokerstars.ro^
+||collector.pokerstars.uk^
+||collector.pokerstarsnj.com^
 ||collector.quantummetric.com^
+||collector.scopely.io^
+||collector.sh.pokerstars.de^
+||collector.sisal.pokerstars.it^
+||collector.spinxgames.com^
 ||collector.tealeaf.goacoustic.com^
 ||collector.usa.canon.com^
 ||collector.vhx.tv^
+||collector1-eu-central.pokerist.com^
+||collector1-eu-west.pokerist.com^
+||collector1-us-east.pokerist.com^
+||collector1-us-west.pokerist.com^
 ||commandersact.com^
 ||company.clearbit.com^
 ||conf-in-dc.heytapdl.com^
@@ -1777,6 +1861,7 @@
 ||csm.us.criteo.net^
 ||csm.va.us.criteo.net^
 ||csp-logger.prezi.com^
+||ct.zynga.com^
 ||cts.contentsquare.net^
 ||ctv-verification.pixalate.com^
 ||ctv.adikteev.com^
@@ -1832,7 +1917,9 @@
 ||data-in-ads.realmemobile.com^
 ||data-in.ads.oppomobile.com^
 ||data-talos.revolut.com^
+||data.a.fanatics.com^
 ||data.acxiom.com^
+||data.adobe.fanatics.com^
 ||data.ads.heytapmobi.com^
 ||data.ads.oppomobile.com^
 ||data.amd.com^
@@ -1857,6 +1944,7 @@
 ||data.samsungrs.com^
 ||data.sec.intl.miui.com^
 ||data.sec.miui.com^
+||data.t.fanatics.com^
 ||data.xiaoqiang.d.xiaomi.net^
 ||data.youbora.com^
 ||data.zetaglobal.com^
@@ -2035,6 +2123,7 @@
 ||emailfootprint.norton.com^
 ||emailretargeting.com^
 ||emailtracking.soothe.com^
+||emea-analytics.lnw.com^
 ||emetrics.engineeringvillage.com^
 ||emi-cube.ad.xiaomi.com^
 ||emjcd.com^
@@ -2070,6 +2159,7 @@
 ||et.topazlabs.com^
 ||etl.tindersparks.com^
 ||etl.xlmc.sec.miui.com^
+||etlogs.fantrax.com^
 ||etrack.np.norton.com^
 ||etrackcanon.csa.canon.com^
 ||etrackcanon.usa.canon.com^
@@ -2107,6 +2197,7 @@
 ||event.asus.com^
 ||event.c.mi.com^
 ||event.cn.msi.com^
+||event.collector.scopely.io^
 ||event.dc.heytapmobi.com^
 ||event.gigabyte.com^
 ||event.mackeeper.com^
@@ -2144,6 +2235,7 @@
 ||events-dre.op.dbankcloud.com^
 ||events-dre.op.hicloud.com^
 ||events-lon1.gfe.nvidia.com^
+||events-service.coinbase.com^
 ||events-stream.remerge.io^
 ||events-writer.eu.smartlook.cloud^
 ||events.adikteev.com^
@@ -2285,6 +2377,13 @@
 ||feedback.xmpush.global.xiaomi.com^
 ||feedback.xmpush.xiaomi.com^
 ||feedback2.hp.com^
+||fhc-event.fhcasino.com^
+||fhc-event2.fhcasino.com^
+||fid-br.ggpoker.com^
+||fid-pl.ggpoker.com^
+||fid-ua.ggpoker.com^
+||fid-ua1.ggpoker.com^
+||fid.ggpoker.com^
 ||filecure.com^
 ||files.crazyegg.com^
 ||filesigcheck.com^
@@ -2309,9 +2408,21 @@
 ||formcomplete.zoominfo.com^
 ||fortect.com^
 ||fp-api.data.sandbox.game^
+||fp-br.ggpoker.com^
 ||fp-metrics.shuftipro.com^
+||fp-pl.ggpoker.com^
+||fp-ua.ggpoker.com^
+||fp-ua1.ggpoker.com^
 ||fp.adultfriendfinder.com^
+||fp.bankrolla.com^
+||fp.coinbase.com^
+||fp.ggpoker.com^
 ||fp.passion.com^
+||fp.pulsz.com^
+||fp.underdogfantasy.com^
+||fp.web.tulotero.com^
+||fp.web.tulotero.es^
+||fp.web.tulotero.mx^
 ||fpmetrics.sumsub.com^
 ||fr-metrics.seetickets.com^
 ||fraud.adikteev.com^
@@ -2325,7 +2436,10 @@
 ||fullcontact.com^
 ||fullstory.com^
 ||fullstory.net^
+||fwtrack.asianconnect88.com^
+||fwtrack.casino.click^
 ||fwtrack.flashbackrecorder.com^
+||fwtrack.freespin.com^
 ||fwtrack.ticketnetwork.com^
 ||g.clarity.ms^
 ||galaksion.com^
@@ -2365,6 +2479,7 @@
 ||global.telemetry.insights.video.a2z.com^
 ||globalapi.ad.xiaomi.com^
 ||globalreport.ad.intl.xiaomi.com^
+||gm-telemetry.bfge.bigfishgames.com^
 ||go.samsungads.com^
 ||go2.samsungads.com^
 ||goacoustic.com^
@@ -2416,9 +2531,15 @@
 ||gs.amplitude.com^
 ||gs.eu.amplitude.com^
 ||gssganalytics.dell.com^
+||gstanalyticspoc.flutter.com^
 ||gstat.pandora.xiaomi.com^
 ||gtm-analytics.united.vividseats.com^
 ||gtm-analytics.vividseats.com^
+||gtm.br.ggpoker.com^
+||gtm.ggpoker.com^
+||gtm.latam.ggpoker.com^
+||gtm.replaypoker.com^
+||gtm.ua9.ggpoker.com^
 ||gtrack.go.moovit.com^
 ||gtrack.stories.moovit.com^
 ||guest.adultfriendfinder.com^
@@ -2428,7 +2549,9 @@
 ||gum.us.criteo.com^
 ||gumi.criteo.com^
 ||h.clarity.ms^
+||hads.huuuge.net^
 ||hb.criteo.com^
+||hc-tracking.huuuge.net^
 ||heartbeat.exceptionless.io^
 ||heatmap.com^
 ||hellotracking.ticketmaster.com^
@@ -2452,6 +2575,7 @@
 ||hitwise.com^
 ||hk.mibi.xiaomi.com^
 ||hlserve.com^
+||hmid.bfge.bigfishgames.com^
 ||honeybadger.io^
 ||honorsearch-dra.hiboard.hihonorcloud.com^
 ||honorsearch-drcn.hiboard.hihonorcloud.com^
@@ -2644,6 +2768,8 @@
 ||l.clarity.ms^
 ||lakegroupmedia.com^
 ||lapsing-users.adikteev.com^
+||laslucaads-util.scientificgames.com^
+||laslucaads.scientificgames.com^
 ||launches.appsflyer.com^
 ||lavasoft.com^
 ||lb-api.visitor-analytics.io^
@@ -2675,6 +2801,7 @@
 ||localad.naver.com^
 ||locate-x.com^
 ||log-abroad.avlyun.sec.miui.com^
+||log-collector.svctr.zynga.com^
 ||log-dra.platform.hihonorcloud.com^
 ||log-drcn.platform.hihonorcloud.com^
 ||log-dre.platform.hihonorcloud.com^
@@ -2700,12 +2827,15 @@
 ||log.apps.aericast.com^
 ||log.avlyun.sec.intl.miui.com^
 ||log.avlyun.sec.miui.com^
+||log.betdaq.com^
 ||log.buymeacoffee.com^
 ||log.carlcare.com^
 ||log.dji.com^
+||log.espn.com^
 ||log.facemoji.com^
 ||log.geniex.com^
 ||log.getdropbox.com^
+||log.ggpoker.com^
 ||log.gitlab.net^
 ||log.hios.com^
 ||log.honor.com^
@@ -2723,6 +2853,7 @@
 ||log.pre.gitlab.net^
 ||log.prezi.com^
 ||log.pt.xiaomi.com^
+||log.replaypoker.com^
 ||log.shazam.com^
 ||log.sonymobile.com^
 ||log.soundhound.com^
@@ -2750,7 +2881,9 @@
 ||logging.archlinux.org^
 ||logging.bamgrid.com^
 ||logging.bunnycdn.com^
+||logging.drift.trade^
 ||logging.facia.ai^
+||logging.fantrax.com^
 ||logging.netflix.com^
 ||logging.rarible.com^
 ||logr-in.com^
@@ -2770,15 +2903,18 @@
 ||logs.fitbark.com^
 ||logs.flaviar.com^
 ||logs.ghost.org^
+||logs.gnosis.io^
 ||logs.gnu.org^
 ||logs.guix.gnu.org^
 ||logs.harness.io^
 ||logs.hulu.com^
 ||logs.n.xiaomi.com^
 ||logs.netflix.com^
+||logs.replaypoker.com^
 ||logs.reservebar.com^
 ||logs.rmnapp.t-mobile.com^
 ||logs.tandem.net^
+||logs.thrillzz.com^
 ||logserver.hicloud.com^
 ||logserver.nzxcloud.cn^
 ||logserver3.hicloud.com^
@@ -2865,6 +3001,7 @@
 ||mc.adultfriendfinder.com^
 ||mcd.navdmp.com^
 ||mcdn.navdmp.com^
+||mcp.analytics.gnosis.io^
 ||mdm-sentry-win.cz.avg.com^
 ||mdm-sentry.cz.avg.com^
 ||mdm-sentry.us.avg.com^
@@ -2891,6 +3028,8 @@
 ||metabase.analytics.native-instruments.com^
 ||metaffiliation.com^
 ||metis.truecaller.com^
+||metric.luckyslots.net^
+||metric.megawinslots.com^
 ||metric.sourceforge.io^
 ||metric.vodafone.com.eg^
 ||metrics-a.wbx2.com^
@@ -2915,6 +3054,7 @@
 ||metrics-eric.oss.demo.coder.com^
 ||metrics-hd.ops.kobo.com^
 ||metrics-k.wbx2.com^
+||metrics-old.drift.trade^
 ||metrics-preview.vive.com^
 ||metrics-prom.perlego.com^
 ||metrics-r.wbx2.com^
@@ -2933,6 +3073,7 @@
 ||metrics.anthropic.com^
 ||metrics.att.com^
 ||metrics.avast.com^
+||metrics.betinasia.com^
 ||metrics.binge.com.au^
 ||metrics.bitdefender.com^
 ||metrics.bitmovin.com^
@@ -2964,6 +3105,8 @@
 ||metrics.discoveryplus.com^
 ||metrics.disneyplus.com^
 ||metrics.dmsp.dell.com^
+||metrics.draftkings.com^
+||metrics.drift.trade^
 ||metrics.dt.dbankcloud.cn^
 ||metrics.dt.dbankcloud.ru^
 ||metrics.dt.hicloud.com^
@@ -2975,6 +3118,7 @@
 ||metrics.evernote.com^
 ||metrics.evidation.com^
 ||metrics.expressvpn.com^
+||metrics.fanduel.com^
 ||metrics.fetch.com^
 ||metrics.fitbit.com^
 ||metrics.flo.health^
@@ -2987,6 +3131,7 @@
 ||metrics.globo.com^
 ||metrics.glow.co^
 ||metrics.gnome.org^
+||metrics.gnosischain.com^
 ||metrics.hbomax.com^
 ||metrics.helloclue.com^
 ||metrics.hotstar.com^
@@ -3017,6 +3162,7 @@
 ||metrics.max.com^
 ||metrics.maya.live^
 ||metrics.media-amazon.com^
+||metrics.megawinslots.com^
 ||metrics.mindbodyonline.com^
 ||metrics.moises.ai^
 ||metrics.motorola.com^
@@ -3044,6 +3190,7 @@
 ||metrics.period-tracker.com^
 ||metrics.perlego.com^
 ||metrics.piano.io^
+||metrics.playhugelottos.com^
 ||metrics.playit.pk^
 ||metrics.plex.tv^
 ||metrics.pluto.tv^
@@ -3062,6 +3209,7 @@
 ||metrics.roblox.com^
 ||metrics.sci-hub.tw^
 ||metrics.shadow.tech^
+||metrics.sharpxch.com^
 ||metrics.shazam.com^
 ||metrics.skyshowtime.com^
 ||metrics.slides.com^
@@ -3087,6 +3235,7 @@
 ||metrics.theknot.com^
 ||metrics.toluna.com^
 ||metrics.trento.suse.com^
+||metrics.trillonario.com^
 ||metrics.tubitv.com^
 ||metrics.tunnelbear.com^
 ||metrics.tving.com^
@@ -3134,6 +3283,7 @@
 ||metricstm.podcastle.ai^
 ||metrix.adultfriendfinder.com^
 ||metrix.ols.us.dell.com^
+||mgas-log.fhcasino.com^
 ||mi.telemetry.lab.norton.com^
 ||mibi.api.xiaomi.com^
 ||mibi.xiaomi.com^
@@ -3339,6 +3489,13 @@
 ||opi.navdmp.com^
 ||optimization.adikteev.com^
 ||optimization.remerge.io^
+||optimizely.hellomillions.com^
+||optimizely.mcluck.com^
+||optimizely.playfame.com^
+||optimizely.pulszbingo.com^
+||optimizely.scratchful.com^
+||optimizely.spinblitz.com^
+||optimizely.sportsmillions.com^
 ||optmstr.com^
 ||oracleinfinity.io^
 ||orangeads.fr^
@@ -3424,17 +3581,20 @@
 ||pixel-apac.zetaglobal.com^
 ||pixel-eu.zetaglobal.com^
 ||pixel-us.zetaglobal.com^
+||pixel.888.com^
 ||pixel.ad.intl.xiaomi.com^
 ||pixel.bizo.com^
 ||pixel.branch.io^
 ||pixel.criteo.com^
 ||pixel.crwdcntrl.net^
 ||pixel.datalogix.com^
+||pixel.jackpotgo.com^
 ||pixel.limeade.com^
 ||pixel.mercadopago.com^
 ||pixel.parsely.com^
 ||pixel.retargeter.com^
 ||pixel.slidebean.com^
+||pixel.sorceryreels.com^
 ||pixel.theknot.com^
 ||pixel.zetaglobal.com^
 ||pixel.zetalive.com^
@@ -3464,6 +3624,7 @@
 ||podscribe.com^
 ||podtrac.com^
 ||pointstone.com^
+||poker.track.zynga.com^
 ||popcon.debian.org^
 ||popcon.ubuntu.com^
 ||portfolio.adikteev.com^
@@ -3513,6 +3674,7 @@
 ||push.house^
 ||pushground.com^
 ||pushub.com^
+||pxl.sweepnext.com^
 ||q.clarity.ms^
 ||q.stripe.com^
 ||qksrv.net^
@@ -3522,6 +3684,7 @@
 ||qstanalytics.lenovo.com^
 ||quality-analytics.conviva.com^
 ||quantummetric.com^
+||r.ads.zynga.com^
 ||r.browser.intl.miui.com^
 ||r.browser.miui.com^
 ||r.clarity.ms^
@@ -3533,6 +3696,7 @@
 ||rakuten.dis.criteo.com^
 ||rakutenadvertising.com^
 ||rakutenmarketing.com^
+||ramble.bash-analytics.gsngames.com^
 ||rapidfirepublishpxy.ue1az.gotinder.com^
 ||rapleaf.com^
 ||raygun.com^
@@ -3566,6 +3730,7 @@
 ||regcure.com^
 ||regi.di.atlas.samsung.com^
 ||region.dbankedge.cn^
+||register.collector.scopely.io^
 ||registry-cleaner.net^
 ||registry-easy.com^
 ||registrybooster.com^
@@ -3628,6 +3793,7 @@
 ||rollerads.com^
 ||rosecitysoftware.com^
 ||router.tracking.miui.com^
+||rover.bash-analytics.gsngames.com^
 ||rpi-imager-stats.raspberrypi.com^
 ||rr.bizrate.com^
 ||rs.fullstory.com^
@@ -3646,8 +3812,10 @@
 ||rtb.da1.us.criteo.com^
 ||rtb.remerge.io^
 ||rtb.retargeter.com^
+||rtb.stats.zynga.com^
 ||rtb.us5.us.criteo.com^
 ||rtb.zetaglobal.com^
+||rtrack.lonestarcasino.com^
 ||ru-commonitor-stsdk.vivoglobal.com^
 ||ru-comonrt-stsdk.vivoglobal.com^
 ||ru-comort-stsdk.vivoglobal.com^
@@ -3788,6 +3956,7 @@
 ||sca-st-sl.vivoglobal.com^
 ||sca-stsdk.vivoglobal.com^
 ||sclpfybn.com^
+||scopely.io^
 ||script.crazyegg.com^
 ||script.hotjar.com^
 ||script.webmaxy.com^
@@ -3867,6 +4036,7 @@
 ||sentry.io.steinberg.net^
 ||sentry.klippa.com^
 ||sentry.minddoc.com^
+||sentry.predict.fun^
 ||sentry.protonvpn.com^
 ||sentry.pushwoosh.com^
 ||sentry.scielo.org^
@@ -3938,6 +4108,8 @@
 ||smetrics.amd.com^
 ||smetrics.axs.com^
 ||smetrics.bitdefender.com^
+||smetrics.blackjack.com^
+||smetrics.casino.org^
 ||smetrics.couponcabin.com^
 ||smetrics.directv.com^
 ||smetrics.ee.co.uk^
@@ -3955,26 +4127,34 @@
 ||smetrics.reaxys.com^
 ||smetrics.rejoyn.com^
 ||smetrics.rejoynhcp.com^
+||smetrics.replaypoker.com^
 ||smetrics.retailmenot.com^
 ||smetrics.samsung.com^
 ||smetrics.samsung.com.cn^
 ||smetrics.sciencedirect.com^
+||smetrics.sportsbet.com.au^
 ||smetrics.suunto.com^
 ||smetrics.t-mobile.com^
+||smetrics.tab.com.au^
 ||smetrics.teambeachbody.com^
 ||smetrics.three.co.uk^
 ||smetrics.totalwine.com^
 ||smetrics.ubi.com^
 ||smetrics.us.playstation.com^
 ||smetrics.v.vodafone.com^
+||smetrics.williamhill.com^
+||smetrics2.williamhill.com^
 ||sms-ads-in.heytapmobile.com^
 ||sms-ads-ru.heytapmobile.com^
 ||sms-sg.ads.heytapmobile.com^
 ||sms.ads.heytapmobi.com^
 ||sms.ads.oppomobile.com^
+||snow-track.playtika.com^
 ||softuna.com^
 ||solomath.com^
 ||solvusoft.com^
+||sp-track.fliptheswitch.com^
+||sp-track.sbotop.net^
 ||sp.backtrace.io^
 ||sp.gotinder.com^
 ||spaceseeker.com^
@@ -3987,10 +4167,13 @@
 ||sports-analytics.paramountplus.com^
 ||sports-analytics.peacocktv.com^
 ||sports-metrics.espn.com^
+||sptracking.bigfishcasino.com^
+||sptracking.jackpotmagicslots.com^
 ||src.litix.io^
 ||sre-logs.rosettastone.com^
 ||srv.pixel.parsely.com^
 ||ss-analytics.ee.co.uk^
+||ss.pulszcasino.com^
 ||ssai.brightcove.com^
 ||sse-analytics.devcycle.com^
 ||ssl2.cdngc.net^
@@ -4005,9 +4188,12 @@
 ||ssp.xiaomi.com^
 ||ssp.zetaglobal.com^
 ||sspapi-prd.samsungrs.com^
+||sstat.spreadex.com^
 ||sstats.bitdefender.com^
 ||sstats.epicurious.com^
 ||staging-diagnosis.ad.xiaomi.com^
+||stake.com^
+||stake.us^
 ||stat.360safe.com^
 ||stat.api.xiaomi.com^
 ||stat.avira.com^
@@ -4079,6 +4265,8 @@
 ||stats.magiceden.io^
 ||stats.mcafee.com^
 ||stats.mealime.com^
+||stats.megawinslots.com^
+||stats.metawin.us^
 ||stats.mixedinkey.com^
 ||stats.mubert.com^
 ||stats.mxplayer.in^
@@ -4089,6 +4277,8 @@
 ||stats.paypal.com^
 ||stats.playit.pk^
 ||stats.podbean.com^
+||stats.pokerist.com^
+||stats.productmadness.com^
 ||stats.puri.sm^
 ||stats.pusher.com^
 ||stats.rarible.com^
@@ -4105,7 +4295,9 @@
 ||stats.tensor.trade^
 ||stats.uscreen.io^
 ||stats.waze.com^
+||stats.wowvegas.com^
 ||stats.youku.com^
+||stats.zynga.com^
 ||statsigapi.net^
 ||statslogger.image-line.com^
 ||steamstats.valvesoftware.com^
@@ -4137,6 +4329,7 @@
 ||streaming.conviva.com^
 ||streme.fullcontact.com^
 ||stsdk.vivoglobal.com^
+||ststfstats.megawinslots.com^
 ||submit.backtrace.io^
 ||sungymobile.com^
 ||superantispyware.com^
@@ -4441,6 +4634,8 @@
 ||tiqcdn.cn^
 ||tiqcdn.com^
 ||tkqlhce.com^
+||tl-log.thelotter.us^
+||tmp-pixel.888.com^
 ||toolmatrix.plus^
 ||tools.luckyorange.com^
 ||tools.mouseflow.com^
@@ -4477,10 +4672,16 @@
 ||track.aitype.com^
 ||track.akamai.com^
 ||track.appsflyer.com^
+||track.bagelcode.com^
+||track.betsson.bet.ar^
 ||track.box.com^
 ||track.branch.io^
 ||track.capitaloneshopping.com^
+||track.casino.org^
+||track.cazino.com^
+||track.cbssports.com^
 ||track.cg.wine.com^
+||track.chalkboard.io^
 ||track.cint.com^
 ||track.cj.com^
 ||track.clickbooth.com^
@@ -4518,6 +4719,7 @@
 ||track.kindara.com^
 ||track.linkconnector.com^
 ||track.locals.com^
+||track.lottery.com^
 ||track.lyrahealth.com^
 ||track.m.nothing.tech^
 ||track.mail.muslimpro.com^
@@ -4531,6 +4733,8 @@
 ||track.paytm.com^
 ||track.period-tracker.com^
 ||track.periodcalendar.net^
+||track.plotx.io^
+||track.poker.zynga.com^
 ||track.premom.com^
 ||track.presentations.ai^
 ||track.pusher.com^
@@ -4569,6 +4773,7 @@
 ||tracker.quitgambling.com^
 ||tracker.remerge.io^
 ||tracker.samplicio.us^
+||tracker.williamhill.com^
 ||trackercollect.ddxq.mobi^
 ||trackerfeed.ddxq.mobi^
 ||tracking-adnet.vivo.com.cn^
@@ -4600,6 +4805,7 @@
 ||tracking.captivate.fm^
 ||tracking.ccleaner.com^
 ||tracking.cently.com^
+||tracking.chanced.com^
 ||tracking.chewy.com^
 ||tracking.cognitohq.com^
 ||tracking.cohostpodcasting.com^
@@ -4614,6 +4820,7 @@
 ||tracking.effiliation.com^
 ||tracking.epicgames.com^
 ||tracking.es.orange.com^
+||tracking.espn.com^
 ||tracking.eu.miui.com^
 ||tracking.europe.business.samsung.com^
 ||tracking.evidation.com^
@@ -4624,9 +4831,11 @@
 ||tracking.fetch.com^
 ||tracking.freedownloadmanager.org^
 ||tracking.fresha.com^
+||tracking.fun88.com^
 ||tracking.geforcenow.com^
 ||tracking.getinvisiblehand.com^
 ||tracking.giphy.com^
+||tracking.governorofpoker.com^
 ||tracking.hbomax.com^
 ||tracking.hertz.com^
 ||tracking.honey.io^
@@ -4658,7 +4867,9 @@
 ||tracking.newsletter.vivino.com^
 ||tracking.nordvpn.com^
 ||tracking.november-project.com^
+||tracking.oddschecker.com^
 ||tracking.oneplus.net^
+||tracking.orangegames.com^
 ||tracking.partnerize.com^
 ||tracking.payoneer.com^
 ||tracking.paytm.com^
@@ -4670,6 +4881,7 @@
 ||tracking.podscribe.com^
 ||tracking.privateinternetaccess.com^
 ||tracking.prizerebel.com^
+||tracking.punt.com^
 ||tracking.purevpn.com^
 ||tracking.rakutenmarketing.com^
 ||tracking.razer.com^
@@ -4691,6 +4903,7 @@
 ||tracking.smartbusiness.samsung.com^
 ||tracking.sonymobile.com^
 ||tracking.speedbit.com^
+||tracking.sportsbet.com.au^
 ||tracking.stubhub.com^
 ||tracking.styleseat.com^
 ||tracking.surfshark.com^
@@ -4708,6 +4921,7 @@
 ||tracking.tubitv.com^
 ||tracking.turo.com^
 ||tracking.turtlebeach.com^
+||tracking.unibet.com^
 ||tracking.upside.com^
 ||tracking.vagaro.com^
 ||tracking.vivino.com^
@@ -4716,11 +4930,14 @@
 ||tracking.vodafone.it^
 ||tracking.weddingwire.com^
 ||tracking.wisepops.com^
+||tracking.youdagames.com^
 ||tracking.zanfia.com^
 ||tracking.zipcar.com^
 ||tracking.zola.com^
 ||tracking1.paytm.com^
 ||trackjs.com^
+||trackju.lonestarcasino.com^
+||trackju.realprize.com^
 ||trackmymac.com^
 ||tracknooks.abcfitness.com^
 ||trackr.puri.sm^
@@ -4743,9 +4960,11 @@
 ||trk.gojek.com^
 ||trk.gonoise.com^
 ||trk.hi.pvolve.com^
+||trk.jackpota.com^
 ||trk.m.blueapron.com^
 ||trk.orange.be^
 ||trk.orange.com^
+||trk.pinnacle.com^
 ||trk.pvolve.com^
 ||trk.vivino.com^
 ||trk.www.orange.com^
@@ -4775,7 +4994,19 @@
 ||txmonitor.sumsub.com^
 ||u-id.cpc.heytapmobile.com^
 ||u.clarity.ms^
+||ua.ggpoker.com^
+||ua.intelligence.bigfishgames.com^
 ||ua.kakao.com^
+||ua1.ggpoker.com^
+||ua10.ggpoker.com^
+||ua2.ggpoker.com^
+||ua3.ggpoker.com^
+||ua4.ggpoker.com^
+||ua5.ggpoker.com^
+||ua6.ggpoker.com^
+||ua7.ggpoker.com^
+||ua8.ggpoker.com^
+||ua9.ggpoker.com^
 ||uapi-ads.realmemobile.com^
 ||uba.huaweicloud.com^
 ||ubacollect-drcn.cloud.dbankcloud.cn^
@@ -4906,6 +5137,7 @@
 ||web-www.faro.highscore.com^
 ||web-www.otel.highscore.com^
 ||web.uxcam.com^
+||webanalytics.sportingbet.com^
 ||webapp.driversupport.com^
 ||webgains.io^
 ||webhook.adikteev.com^
@@ -4942,6 +5174,7 @@
 ||winutilities.com^
 ||wise-analytics.com^
 ||wisepops.com^
+||woanalytics.gsn.com^
 ||woolog-us.wooclap.com^
 ||woolog.wooclap.com^
 ||ws.driverhive.com^
@@ -5042,6 +5275,7 @@
 ||xpu.samsungelectronics.com^
 ||xscmzs.tenki.jp^
 ||xss.tw^
+||xtracker.polymarket.com^
 ||y.clarity.ms^
 ||yamicsoft.com^
 ||yceml.net^
@@ -5067,6 +5301,7 @@
 ||yscyadx072901.minigame.vip^
 ||yscyadx072902.minigame.vip^
 ||ytmusic-analytics.googleapis.com^
+||yum.stats.zynga.com^
 ||z.clarity.ms^
 ||zasc-err-up.vivoglobal.com^
 ||zasc-onrt-stsdk.vivoglobal.com^
@@ -5097,3 +5332,4 @@
 ||zoom.info^
 ||zoominfo.com^
 ||zpu.samsungelectronics.com^
+||zyngaads.com^
