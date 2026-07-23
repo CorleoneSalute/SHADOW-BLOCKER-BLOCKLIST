@@ -1,0 +1,42 @@
+# ============================================================
+# CAR RENTAL & CAR SHARING BLOCKLIST
+# Toplam Domain Sayısı: 23
+# Son Güncelleme: 16 Temmuz 2026 (2026-07-16)
+# ============================================================
+
+# --- ENTERPRISE HOLDINGS --- (5 domain)
+enterprise-analytics.com
+ehi-analytics.com
+analytics.enterprise.com
+ta.enterprise.com
+smetrics.enterprise.com
+
+# --- HERTZ --- (7 domain)
+hertz-analytics.com
+hertztrack.com
+analytics.hertz.com
+tracking.hertz.com
+trk.agreements.hertz.com
+click.emails.hertz.com
+image.emails.hertz.com
+
+# --- AVIS BUDGET GROUP --- (2 domain)
+analytics.avis.com
+click.e.avis.com
+
+# --- SIXT --- (2 domain)
+analytics.sixt.com
+sslanalytics.sixt.com
+
+# --- ZIPCAR (Avis Budget) --- (3 domain)
+analytics.zipcar.com
+tracking.zipcar.com
+looker.zipcar.com
+
+# --- TURO --- (3 domain)
+turo-analytics.com
+analytics.turo.com
+tracking.turo.com
+
+# --- GETAROUND --- (1 domain)
+analytics.getaround.com
