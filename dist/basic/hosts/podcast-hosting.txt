@@ -1,0 +1,43 @@
+# ============================================================
+# PODCAST HOSTING BLOCKLIST - BASIC
+# Total domains: 36
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 adserver.podbean.com
+0.0.0.0 analytics.acast.com
+0.0.0.0 analytics.art19.com
+0.0.0.0 analytics.audioboom.com
+0.0.0.0 analytics.buzzsprout.com
+0.0.0.0 analytics.captivate.fm
+0.0.0.0 analytics.cohostpodcasting.com
+0.0.0.0 analytics.feedpress.it
+0.0.0.0 analytics.hubhopper.com
+0.0.0.0 analytics.iono.fm
+0.0.0.0 analytics.libsyn.com
+0.0.0.0 analytics.podbean.com
+0.0.0.0 analytics.podcaster.de
+0.0.0.0 analytics.podigee.com
+0.0.0.0 analytics.redcircle.com
+0.0.0.0 analytics.rss.com
+0.0.0.0 analytics.subsplash.com
+0.0.0.0 analytics.transistor.fm
+0.0.0.0 audiorella-data.com
+0.0.0.0 mobwsa.ximalaya.com
+0.0.0.0 stats.buzzsprout.com
+0.0.0.0 stats.libsyn.com
+0.0.0.0 stats.podbean.com
+0.0.0.0 swap.fm
+0.0.0.0 telemetry.art19.com
+0.0.0.0 track.kajabi.com
+0.0.0.0 tracking.acast.com
+0.0.0.0 tracking.buzzsprout.com
+0.0.0.0 tracking.captivate.fm
+0.0.0.0 tracking.cohostpodcasting.com
+0.0.0.0 tracking.feedpress.com
+0.0.0.0 tracking.feedpress.it
+0.0.0.0 tracking.podigee.com
+0.0.0.0 tracking.redcircle.com
+0.0.0.0 tracking.swap.fm
+0.0.0.0 xdcs-collector.ximalaya.com

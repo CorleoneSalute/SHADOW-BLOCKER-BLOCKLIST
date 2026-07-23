@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 2516
+# Total domains: 2572
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -54,6 +54,7 @@
 0.0.0.0 ad-beacon.tubitv.com
 0.0.0.0 ad-metrics.espn.com
 0.0.0.0 ad-server.pluto.tv
+0.0.0.0 ad.acast.com
 0.0.0.0 ad.admitad.com
 0.0.0.0 ad.alipay.com
 0.0.0.0 ad.apsalar.com
@@ -66,6 +67,7 @@
 0.0.0.0 ad.vrvm.com
 0.0.0.0 adapi.holalauncher.com
 0.0.0.0 adassets.waze.com
+0.0.0.0 adbarker.com
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adclarity.com
 0.0.0.0 adgen-cdn.connatix.com
@@ -86,6 +88,7 @@
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-twitter.com.sci-hub.tw
 0.0.0.0 ads-v-darwin.hulu.com
+0.0.0.0 ads.acast.com
 0.0.0.0 ads.alipay.com
 0.0.0.0 ads.api.cj.com
 0.0.0.0 ads.avast.com
@@ -109,6 +112,7 @@
 0.0.0.0 ads.hbomax.com
 0.0.0.0 ads.hotstar.com
 0.0.0.0 ads.hulu.com
+0.0.0.0 ads.iono.fm
 0.0.0.0 ads.iqiyi.com
 0.0.0.0 ads.jwplayer.com
 0.0.0.0 ads.kakaopay.com
@@ -124,6 +128,7 @@
 0.0.0.0 ads.peacocktv.com
 0.0.0.0 ads.phonepe.com
 0.0.0.0 ads.pluto.tv
+0.0.0.0 ads.podbean.com
 0.0.0.0 ads.realnetworks.com
 0.0.0.0 ads.roblox.com
 0.0.0.0 ads.rockstargames.com
@@ -143,12 +148,16 @@
 0.0.0.0 adsapi1.waze.com
 0.0.0.0 adsassets-ipv6.waze.com
 0.0.0.0 adsassets.waze.com
+0.0.0.0 adse.ximalaya.com
 0.0.0.0 adseaimg.apusapps.com
 0.0.0.0 adserver.connatix.com
 0.0.0.0 adserver.jwplayer.com
 0.0.0.0 adserver.mxplayer.in
+0.0.0.0 adserver.podbean.com
 0.0.0.0 adsquare.com
+0.0.0.0 adsrv.acast.com
 0.0.0.0 adstradata.com
+0.0.0.0 adswizz.acast.com
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 advanalytics.underarmour.com
 0.0.0.0 advertiser.petcube.com
@@ -198,6 +207,7 @@
 0.0.0.0 analytics.8x8.com
 0.0.0.0 analytics.abema.tv
 0.0.0.0 analytics.abide.co
+0.0.0.0 analytics.acast.com
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.add.app
 0.0.0.0 analytics.aerial.is
@@ -209,8 +219,10 @@
 0.0.0.0 analytics.api.brightcove.com
 0.0.0.0 analytics.api.services.leonardo.ai
 0.0.0.0 analytics.appsflyer.com
+0.0.0.0 analytics.art19.com
 0.0.0.0 analytics.astrill.com
 0.0.0.0 analytics.athan.com
+0.0.0.0 analytics.audioboom.com
 0.0.0.0 analytics.audionamix.com
 0.0.0.0 analytics.auphonic.com
 0.0.0.0 analytics.authy.com
@@ -244,8 +256,10 @@
 0.0.0.0 analytics.bsplayer.com
 0.0.0.0 analytics.bumble.com
 0.0.0.0 analytics.busuu.com
+0.0.0.0 analytics.buzzsprout.com
 0.0.0.0 analytics.cambly.com
 0.0.0.0 analytics.canalplus.com
+0.0.0.0 analytics.captivate.fm
 0.0.0.0 analytics.capture.app
 0.0.0.0 analytics.careem.com
 0.0.0.0 analytics.cba.kaspersky.com
@@ -264,6 +278,7 @@
 0.0.0.0 analytics.cod.ed.gov
 0.0.0.0 analytics.codeium.com
 0.0.0.0 analytics.coffeemeetsbagel.com
+0.0.0.0 analytics.cohostpodcasting.com
 0.0.0.0 analytics.commons.earth
 0.0.0.0 analytics.connectwise.com
 0.0.0.0 analytics.conviva.com
@@ -308,6 +323,7 @@
 0.0.0.0 analytics.fadr.com
 0.0.0.0 analytics.faithlife.com
 0.0.0.0 analytics.fandangoathome.com
+0.0.0.0 analytics.feedpress.it
 0.0.0.0 analytics.femia.health
 0.0.0.0 analytics.fertilityfriend.com
 0.0.0.0 analytics.fitbark.com
@@ -344,6 +360,7 @@
 0.0.0.0 analytics.hornet.com
 0.0.0.0 analytics.hotstar.com
 0.0.0.0 analytics.hp.com
+0.0.0.0 analytics.hubhopper.com
 0.0.0.0 analytics.hulu.com
 0.0.0.0 analytics.hyperx.com
 0.0.0.0 analytics.ieee.org
@@ -351,6 +368,7 @@
 0.0.0.0 analytics.imtranslator.net
 0.0.0.0 analytics.indrive.com
 0.0.0.0 analytics.insighttimer.com
+0.0.0.0 analytics.iono.fm
 0.0.0.0 analytics.ipvanish.com
 0.0.0.0 analytics.iqiyi.com
 0.0.0.0 analytics.italki.com
@@ -373,6 +391,7 @@
 0.0.0.0 analytics.learn.nvidia.com
 0.0.0.0 analytics.leonardo.ai
 0.0.0.0 analytics.li.me
+0.0.0.0 analytics.libsyn.com
 0.0.0.0 analytics.lingoda.com
 0.0.0.0 analytics.lingodeer.com
 0.0.0.0 analytics.lingokids.com
@@ -467,7 +486,11 @@
 0.0.0.0 analytics.playstation.net
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.pluto.tv
+0.0.0.0 analytics.podbean.com
+0.0.0.0 analytics.podcaster.de
 0.0.0.0 analytics.podcastle.ai
+0.0.0.0 analytics.podigee.com
+0.0.0.0 analytics.podtrac.com
 0.0.0.0 analytics.pof.com
 0.0.0.0 analytics.prageru.com
 0.0.0.0 analytics.premom.com
@@ -482,6 +505,7 @@
 0.0.0.0 analytics.razerzone.com
 0.0.0.0 analytics.realnetworks.com
 0.0.0.0 analytics.realvnc.com
+0.0.0.0 analytics.redcircle.com
 0.0.0.0 analytics.remotepc.com
 0.0.0.0 analytics.replika.ai
 0.0.0.0 analytics.respeecher.com
@@ -499,6 +523,7 @@
 0.0.0.0 analytics.rosettastone.com
 0.0.0.0 analytics.rover.com
 0.0.0.0 analytics.rsa.com
+0.0.0.0 analytics.rss.com
 0.0.0.0 analytics.rtlplus.com
 0.0.0.0 analytics.rumble.com
 0.0.0.0 analytics.runsignup.com
@@ -532,6 +557,7 @@
 0.0.0.0 analytics.strava.com
 0.0.0.0 analytics.stronglifts.com
 0.0.0.0 analytics.styleseat.com
+0.0.0.0 analytics.subsplash.com
 0.0.0.0 analytics.suno.ai
 0.0.0.0 analytics.superrare.com
 0.0.0.0 analytics.surfshark.com
@@ -549,6 +575,7 @@
 0.0.0.0 analytics.torguard.net
 0.0.0.0 analytics.tractive.com
 0.0.0.0 analytics.tradedoubler.com
+0.0.0.0 analytics.transistor.fm
 0.0.0.0 analytics.transparent.com
 0.0.0.0 analytics.tubitv.com
 0.0.0.0 analytics.tunnelbear.com
@@ -662,6 +689,7 @@
 0.0.0.0 api.analytics-iq.com
 0.0.0.0 api.appsignal.com
 0.0.0.0 api.atdata.com
+0.0.0.0 api.audiohook.com
 0.0.0.0 api.backtrace.io
 0.0.0.0 api.bombora.com
 0.0.0.0 api.bugfender.com
@@ -764,6 +792,8 @@
 0.0.0.0 attribution.branch.io
 0.0.0.0 audience.api.brightcove.com
 0.0.0.0 audienceiq.com
+0.0.0.0 audiohook.com
+0.0.0.0 audiorella-data.com
 0.0.0.0 auth.callstats.io
 0.0.0.0 avantmetrics.com
 0.0.0.0 avention.com
@@ -1604,6 +1634,7 @@
 0.0.0.0 mobile-sdk.smartlook.com
 0.0.0.0 mobilewalla.com
 0.0.0.0 mobility.safegraph.com
+0.0.0.0 mobwsa.ximalaya.com
 0.0.0.0 monetization-tracking.youtube.com
 0.0.0.0 monitoring.youbora.com
 0.0.0.0 moreniche.com
@@ -1712,6 +1743,9 @@
 0.0.0.0 plex-attribution.plex.tv
 0.0.0.0 plus.dnb.com
 0.0.0.0 pluto.tv.sc.omtrdc.net
+0.0.0.0 podcorn.com
+0.0.0.0 podscribe.com
+0.0.0.0 podtrac.com
 0.0.0.0 popcon.debian.org
 0.0.0.0 popcon.ubuntu.com
 0.0.0.0 post.analytics10.ticketmaster.com
@@ -1943,6 +1977,7 @@
 0.0.0.0 stats.blur.io
 0.0.0.0 stats.boosteroid.com
 0.0.0.0 stats.bsplayer.com
+0.0.0.0 stats.buzzsprout.com
 0.0.0.0 stats.calldorado.com
 0.0.0.0 stats.cleanvoice.ai
 0.0.0.0 stats.corsair.com
@@ -1956,6 +1991,7 @@
 0.0.0.0 stats.ivpn.net
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.kaspersky.com
+0.0.0.0 stats.libsyn.com
 0.0.0.0 stats.looksrare.org
 0.0.0.0 stats.magiceden.io
 0.0.0.0 stats.mcafee.com
@@ -1968,6 +2004,7 @@
 0.0.0.0 stats.opensea.io
 0.0.0.0 stats.paypal.com
 0.0.0.0 stats.playit.pk
+0.0.0.0 stats.podbean.com
 0.0.0.0 stats.rarible.com
 0.0.0.0 stats.raspberrypi.org
 0.0.0.0 stats.stronglifts.com
@@ -1992,6 +2029,7 @@
 0.0.0.0 surge.bombora.com
 0.0.0.0 surveys.hotjar.com
 0.0.0.0 surveystats.webmaxy.io
+0.0.0.0 swap.fm
 0.0.0.0 sygic.api.infinario.com
 0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 sync.eyeota.net
@@ -2034,6 +2072,7 @@
 0.0.0.0 telemetry.altered.ai
 0.0.0.0 telemetry.anydesk.com
 0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.artpipe.epicgames.com
 0.0.0.0 telemetry.astrill.com
 0.0.0.0 telemetry.audionamix.com
@@ -2215,6 +2254,7 @@
 0.0.0.0 track.gojek.com
 0.0.0.0 track.heatmap.com
 0.0.0.0 track.helloclue.com
+0.0.0.0 track.kajabi.com
 0.0.0.0 track.kakao.com
 0.0.0.0 track.kindara.com
 0.0.0.0 track.linkconnector.com
@@ -2247,6 +2287,8 @@
 0.0.0.0 tracker.opensuse.org
 0.0.0.0 tracker.prf.hn
 0.0.0.0 tracking-api.italki.com
+0.0.0.0 tracking.acast.com
+0.0.0.0 tracking.adbarker.com
 0.0.0.0 tracking.admitad.com
 0.0.0.0 tracking.affilae.com
 0.0.0.0 tracking.api-web.shadow.tech
@@ -2262,13 +2304,18 @@
 0.0.0.0 tracking.bolt.eu
 0.0.0.0 tracking.booksy.com
 0.0.0.0 tracking.bsplayer.com
+0.0.0.0 tracking.buzzsprout.com
+0.0.0.0 tracking.captivate.fm
 0.0.0.0 tracking.chewy.com
+0.0.0.0 tracking.cohostpodcasting.com
 0.0.0.0 tracking.crazyegg.com
 0.0.0.0 tracking.csc.flm.fujitsu.com
 0.0.0.0 tracking.cyberghostvpn.com
 0.0.0.0 tracking.effiliation.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.expressvpn.com
+0.0.0.0 tracking.feedpress.com
+0.0.0.0 tracking.feedpress.it
 0.0.0.0 tracking.fresha.com
 0.0.0.0 tracking.geforcenow.com
 0.0.0.0 tracking.hbomax.com
@@ -2293,11 +2340,15 @@
 0.0.0.0 tracking.pepperjam.com
 0.0.0.0 tracking.picpay.com
 0.0.0.0 tracking.playit.pk
+0.0.0.0 tracking.podcorn.com
+0.0.0.0 tracking.podigee.com
+0.0.0.0 tracking.podscribe.com
 0.0.0.0 tracking.privateinternetaccess.com
 0.0.0.0 tracking.purevpn.com
 0.0.0.0 tracking.rakutenmarketing.com
 0.0.0.0 tracking.razer.com
 0.0.0.0 tracking.realnetworks.com
+0.0.0.0 tracking.redcircle.com
 0.0.0.0 tracking.reservebar.com
 0.0.0.0 tracking.ridewithvia.com
 0.0.0.0 tracking.rosettastone.com
@@ -2308,6 +2359,7 @@
 0.0.0.0 tracking.stubhub.com
 0.0.0.0 tracking.styleseat.com
 0.0.0.0 tracking.surfshark.com
+0.0.0.0 tracking.swap.fm
 0.0.0.0 tracking.teamviewer.com
 0.0.0.0 tracking.thirstie.com
 0.0.0.0 tracking.toroadvertising.com
@@ -2412,6 +2464,7 @@
 0.0.0.0 vizio.adsmeasurement.com
 0.0.0.0 vofzpwh.com
 0.0.0.0 volcano.analytics.swiftkey.com
+0.0.0.0 voxnest.com
 0.0.0.0 vrvm.com
 0.0.0.0 w.clarity.ms
 0.0.0.0 w1.luckyorange.com
@@ -2450,6 +2503,7 @@
 0.0.0.0 www.ads.wineenthusiast.com
 0.0.0.0 www.advidi.com
 0.0.0.0 www.affilae.com
+0.0.0.0 www.audiohook.com
 0.0.0.0 www.awin1.com
 0.0.0.0 www.bytes-event.vive.com
 0.0.0.0 www.clarity.ms
@@ -2491,6 +2545,7 @@
 0.0.0.0 www.toroadvertising.com
 0.0.0.0 www.track.consensus.app
 0.0.0.0 www.twipla.com
+0.0.0.0 www.voxnest.com
 0.0.0.0 www.w4.com
 0.0.0.0 www.x-mode.com
 0.0.0.0 www.zeydoo.com
@@ -2500,6 +2555,7 @@
 0.0.0.0 x-mode.com
 0.0.0.0 x.clarity.ms
 0.0.0.0 xboxreporting.xboxlive.com
+0.0.0.0 xdcs-collector.ximalaya.com
 0.0.0.0 xlate01.adultfriendfinder.com
 0.0.0.0 xmode.io
 0.0.0.0 xss.tw

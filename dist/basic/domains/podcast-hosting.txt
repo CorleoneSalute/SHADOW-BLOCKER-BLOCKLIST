@@ -1,0 +1,43 @@
+# ============================================================
+# PODCAST HOSTING BLOCKLIST - BASIC
+# Total domains: 36
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+adserver.podbean.com
+analytics.acast.com
+analytics.art19.com
+analytics.audioboom.com
+analytics.buzzsprout.com
+analytics.captivate.fm
+analytics.cohostpodcasting.com
+analytics.feedpress.it
+analytics.hubhopper.com
+analytics.iono.fm
+analytics.libsyn.com
+analytics.podbean.com
+analytics.podcaster.de
+analytics.podigee.com
+analytics.redcircle.com
+analytics.rss.com
+analytics.subsplash.com
+analytics.transistor.fm
+audiorella-data.com
+mobwsa.ximalaya.com
+stats.buzzsprout.com
+stats.libsyn.com
+stats.podbean.com
+swap.fm
+telemetry.art19.com
+track.kajabi.com
+tracking.acast.com
+tracking.buzzsprout.com
+tracking.captivate.fm
+tracking.cohostpodcasting.com
+tracking.feedpress.com
+tracking.feedpress.it
+tracking.podigee.com
+tracking.redcircle.com
+tracking.swap.fm
+xdcs-collector.ximalaya.com

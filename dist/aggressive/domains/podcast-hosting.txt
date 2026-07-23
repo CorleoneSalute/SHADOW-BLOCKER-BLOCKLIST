@@ -1,0 +1,63 @@
+# ============================================================
+# PODCAST HOSTING BLOCKLIST - AGGRESSIVE
+# Total domains: 56
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+ad.acast.com
+adbarker.com
+ads.acast.com
+ads.iono.fm
+ads.podbean.com
+adse.ximalaya.com
+adserver.podbean.com
+adsrv.acast.com
+adswizz.acast.com
+analytics.acast.com
+analytics.art19.com
+analytics.audioboom.com
+analytics.buzzsprout.com
+analytics.captivate.fm
+analytics.cohostpodcasting.com
+analytics.feedpress.it
+analytics.hubhopper.com
+analytics.iono.fm
+analytics.libsyn.com
+analytics.podbean.com
+analytics.podcaster.de
+analytics.podigee.com
+analytics.podtrac.com
+analytics.redcircle.com
+analytics.rss.com
+analytics.subsplash.com
+analytics.transistor.fm
+api.audiohook.com
+audiohook.com
+audiorella-data.com
+mobwsa.ximalaya.com
+podcorn.com
+podscribe.com
+podtrac.com
+stats.buzzsprout.com
+stats.libsyn.com
+stats.podbean.com
+swap.fm
+telemetry.art19.com
+track.kajabi.com
+tracking.acast.com
+tracking.adbarker.com
+tracking.buzzsprout.com
+tracking.captivate.fm
+tracking.cohostpodcasting.com
+tracking.feedpress.com
+tracking.feedpress.it
+tracking.podcorn.com
+tracking.podigee.com
+tracking.podscribe.com
+tracking.redcircle.com
+tracking.swap.fm
+voxnest.com
+www.audiohook.com
+www.voxnest.com
+xdcs-collector.ximalaya.com
