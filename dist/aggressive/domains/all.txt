@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 2980
+# Total domains: 3047
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -11,6 +11,7 @@
 4cite.com
 a.ad.playstation.net
 a.clarity.ms
+a.optmstr.com
 a.plerdy.com
 a8clk.www.italki.com
 ab-test.adikteev.com
@@ -27,6 +28,8 @@ acoustic.com
 action.effiliation.com
 action.metaffiliation.com
 action.netaffiliation.com
+activity-log-improvements.feature.varify.io
+activity.wisepops.com
 acxiom-online.com
 acxiom.asia
 acxiom.co.uk
@@ -74,6 +77,7 @@ adassets.waze.com
 adbarker.com
 adcel.vrvm.com
 adclarity.com
+add-mapping-for-wrong-activity-log-classes.feature.varify.io
 adgen-cdn.connatix.com
 adgen.connatix.com
 adhoc.textra.me
@@ -110,6 +114,7 @@ ads.conviva.com
 ads.cozi.com
 ads.crunchyroll.com
 ads.disneyplus.com
+ads.dynamicyield.com
 ads.emojixpress.com
 ads.espn.com
 ads.flaviar.com
@@ -199,6 +204,7 @@ alipaylog.com
 amagi.tv
 amp.navdmp.com
 amp.permutive.app
+amplitude.com
 amplitude.flo.health
 amplitude.usemotion.com
 an.avast.com
@@ -323,6 +329,7 @@ analytics.deepin.com
 analytics.deepl.com
 analytics.delectable.com
 analytics.descript.com
+analytics.devcycle.com
 analytics.dialpad.com
 analytics.didichuxing.com
 analytics.digitalpour.com
@@ -497,6 +504,7 @@ analytics.openaire.eu
 analytics.openalex.org
 analytics.opensea.io
 analytics.opensuse.org
+analytics.optimizely.com
 analytics.ovia.com
 analytics.oviahealth.com
 analytics.palteca.com
@@ -776,6 +784,7 @@ api.dnb.com
 api.elmah.io
 api.eu.smartlook.cloud
 api.exceptionless.io
+api.exp-metrics.optimizely.com
 api.eyeota.net
 api.fullcontact.com
 api.fullstory.com
@@ -864,6 +873,8 @@ assets.adikteev.com
 assets.remerge.io
 assets.retargeter.com
 assets.zetaglobal.com
+assetsconfigcdn.org
+async-px.dynamicyield.com
 atdata.com
 ats.eccmp.com
 attr.appsflyer.com
@@ -903,6 +914,7 @@ b.da.us.criteo.com
 b.fr3.eu.criteo.com
 b.jp2.as.criteo.com
 b.nl3.eu.criteo.com
+b.optmstr.com
 b.sg1.as.criteo.com
 b.us5.us.criteo.com
 background-play-metrics.youtube.com
@@ -926,6 +938,7 @@ beaconsinspace.com
 bemobtrcks.lalal.ai
 beta.analytics.openaire.eu
 beta.sexart.adultfriendfinder.com
+beyondwickedmapping.org
 bid.adikteev.com
 bid.remerge.io
 bid.retargeter.com
@@ -960,6 +973,7 @@ bytes-event.vive.com
 c.cfjump.com
 c.clarity.ms
 c.ltmsphrcl.net
+c.optmstr.com
 c.st.ltmsphrcl.net
 c1.rfihub.net
 ca-central-1-1.telemetry.insights.video.a2z.com
@@ -1086,6 +1100,7 @@ cloud.tealeaf.com
 cloudflareinsights.com
 cloudtrack.cal.com
 clr.telemetry.intel.com
+cmp.optimizely.com
 cn.criteo.com
 cohorts.adikteev.com
 cohorts.remerge.io
@@ -1093,11 +1108,14 @@ collect.airbrake.io
 collect.babbel.io
 collect.biomedcentral.com
 collect.contentsquare.net
+collect.evergage.com
 collect.mindbodyonline.com
 collect.skrill.com
 collect.springer.com
 collect.youbora.com
 collection-point.api.gymshark.com
+collections.cmp.optimizely.com
+collections.marketing.cmp.optimizely.com
 collector-eu.conviva.com
 collector-us.conviva.com
 collector.acoustic.co
@@ -1128,6 +1146,7 @@ conversion.criteo.com
 conversion.remerge.io
 conversion.zetaglobal.com
 conversions.appsflyer.com
+convertexperiments.com
 conviva.ai
 conviva.com
 cookiecheck.criteo.com
@@ -1222,6 +1241,8 @@ data.analytics-cdn.teachable.com
 data.app-analytics.petdesk.com
 data.conviva.com
 data.infutor.com
+data.kameleoon.io
+data.kameleoon.net
 data.locate-x.com
 data.mux.com
 data.oracleinfinity.io
@@ -1333,6 +1354,9 @@ etrack.np.norton.com
 etrackcanon.csa.canon.com
 etrackcanon.usa.canon.com
 eu-api.honeybadger.io
+eu-data.experiment.dev
+eu-data.kameleoon.eu
+eu-data.kameleoon.io
 eu-west-1-1.telemetry.insights.video.a2z.com
 eu.adikteev.com
 eu.fullstory.com
@@ -1351,20 +1375,27 @@ eventlog-sd.norton.com
 eventlog.avg.com
 eventlog.avira.com
 eventlog.norton.com
+events-api.devcycle.com
 events-stream.remerge.io
 events-writer.eu.smartlook.cloud
 events.adikteev.com
 events.api.boomtrain.com
 events.character.ai
 events.cuebiq.com
+events.devcycle.com
+events.eu.launchdarkly.com
+events.ff.harness.io
 events.hotjar.com
+events.intuit.launchdarkly.com
 events.jwplayer.com
 events.kaltura.com
+events.launchdarkly.com
 events.mapbox.cn
 events.mapbox.com
 events.mux.com
 events.remerge.io
 events.retargeter.com
+events.statsigapi.net
 events.telemetry.data.nvidia.com
 events.zetaglobal.com
 evernotemetrics.com
@@ -1406,6 +1437,8 @@ fb.rtb.fr.eu.criteo.com
 fb.rtb.nl.eu.criteo.com
 fb.rtb.sv.us.criteo.com
 fbanalytics.sandbox.game
+featureassets.org
+featuregates.org
 fedora-telemetry.org
 feedback.flashbackrecorder.com
 feedback.hotjar.com
@@ -1448,6 +1481,7 @@ gemini-analytics.google.com
 geo-surf.com
 geoip.cactusglobal.com
 getsentry.com
+gha-metrics.ops.amplitude.com
 glassbox.com
 glassbox.digital
 glassboxdigital.com
@@ -1463,6 +1497,8 @@ goforandroid.com
 golead.pl
 gomo-apps.com
 gomo.com
+gong-eb.qubit.com
+gong-gc.qubit.com
 google-analytics.com.sci-hub.tw
 google-ua-analytics.raspberrypi.org
 googlesyndication.com.sci-hub.tw
@@ -1478,6 +1514,8 @@ gravyanalytics.com
 grid-bidder.criteo.com
 grindr-analytics.com
 grtyv.com
+gs.amplitude.com
+gs.eu.amplitude.com
 gtm-analytics.united.vividseats.com
 gtm-analytics.vividseats.com
 gtrack.go.moovit.com
@@ -1570,6 +1608,7 @@ interactive.adikteev.com
 interactive.remerge.io
 io.cmbus.app
 ip-info.ff.avast.com
+ip.varify.dev
 ips.bugfender.com
 ips.bugsee.com
 isapp.navdmp.com
@@ -1591,6 +1630,8 @@ jungroup.com
 jwpltx.com
 k.clarity.ms
 k.pluto.tv
+kaizen-data.kameleoon.eu
+kaizen-data.kameleoon.io
 kibana-log.cleverdialer.com
 kibanalogging.grindr.com
 kids-analytics.youtube.com
@@ -1641,6 +1682,7 @@ log.alipay.com
 log.buymeacoffee.com
 log.facemoji.com
 log.nordvpn.com
+log.optimizely.com
 log.shazam.com
 log.soundhound.com
 log.strm.yango.com
@@ -1649,6 +1691,7 @@ log.svc.screencastify.com
 log.zoom.us
 log01.mtv.squareup.com
 logfiles.zoom.us
+logger.kameleoon.io
 logger.sciencedirect.com
 logger.scite.ai
 logging.archlinux.org
@@ -1674,11 +1717,13 @@ logs.flaviar.com
 logs.ghost.org
 logs.gnu.org
 logs.guix.gnu.org
+logs.harness.io
 logs.hulu.com
 logs.netflix.com
 logs.reservebar.com
 logs.tandem.net
 logsystem.zoom.us
+logx.optimizely.com
 logzilla.zoom.us
 looker.babycenter.com
 looker.digital-science.com
@@ -1763,6 +1808,7 @@ metrics.buymeacoffee.com
 metrics.cambly.com
 metrics.cbs.com
 metrics.clarovideo.com
+metrics.convertexperiments.com
 metrics.conviva.com
 metrics.crave.ca
 metrics.crunchyroll.com
@@ -1908,6 +1954,8 @@ mx.navdmp.com
 mylead.global
 n.clarity.ms
 n.jwpltx.com
+na-data.kameleoon.eu
+na-data.kameleoon.io
 na1.fullstory.com
 name2domain.clearbit.com
 nano.adultfriendfinder.com
@@ -1943,12 +1991,15 @@ omt.garmin.com
 oneaudience.com
 open.zetaglobal.com
 openreplay.com
+opentag-stats.qubit.com
 opi.navdmp.com
 optimization.adikteev.com
 optimization.remerge.io
+optmstr.com
 oracleinfinity.io
 orbit-telemetry.ubi.com
 origin-analytics.branch.io
+otel.observability.app.launchdarkly.com
 otlp.bugsnag.com
 otlp.bugsnag.smartbear.com
 ott.adikteev.com
@@ -1958,6 +2009,7 @@ overseauspider.yuanshen.com
 p.clarity.ms
 p.plerdy.com
 p.rfihub.com
+p13nlog.optimizely.com
 packages-metrics.getsol.us
 pagesense.io
 par.service.criteo.net
@@ -2041,6 +2093,7 @@ prediction.remerge.io
 preprocessor.heatmap.com
 presentationtracking.netflix.com
 prod.log.shortbread.aws.dev
+prodregistryv2.org
 production.ads.cj.com
 profiling.sentry.io
 prospector.clearbit.com
@@ -2049,6 +2102,7 @@ ps.eyeota.net
 ptengine.com
 ptengine.jp
 pub.mylead.global
+pub.observability.app.launchdarkly.com
 public-api.adikteev.com
 publishertracking.api.cj.com
 pubnative.net
@@ -2077,6 +2131,7 @@ rapidfirepublishpxy.ue1az.gotinder.com
 rapleaf.com
 raygun.com
 raygun.io
+rcom-dump.dynamicyield.com
 rctnano.adultfriendfinder.com
 realnetworks.com
 realtime.adikteev.com
@@ -2145,6 +2200,7 @@ rtb.zetaglobal.com
 ru4.com
 rum.battle.net
 rum.netflix.com
+rum.optimizely.com
 rum.raygun.io
 rum.rollbar.com
 s.analytics10.ticketmaster.com
@@ -2198,9 +2254,11 @@ security.remerge.io
 sedt.infutor.com
 segment-api.rarible.com
 segment-cdn.rarible.com
+segment-membership.qubit.com
 segment.beermenus.com
 segment.delectable.com
 segment.opensea.io
+segment.statsig.com
 segment.taphunter.com
 segment.untappd.com
 segment.vivino.com
@@ -2287,6 +2345,7 @@ src.litix.io
 sre-logs.rosettastone.com
 srv.pixel.parsely.com
 ssai.brightcove.com
+sse-analytics.devcycle.com
 ssl2.cdngc.net
 sslcs.cdngc.net
 sslwidget.criteo.com
@@ -2366,6 +2425,7 @@ stats.tensor.trade
 stats.uscreen.io
 stats.waze.com
 stats.youku.com
+statsigapi.net
 steamstats.valvesoftware.com
 stg.jwpltx.com
 stirista.com
@@ -2543,6 +2603,7 @@ telemetry.shazam.com
 telemetry.soundhound.com
 telemetry.soundverse.ai
 telemetry.splashtop.com
+telemetry.split.io
 telemetry.stability.ai
 telemetry.steelseries.com
 telemetry.surfshark.com
@@ -2632,6 +2693,8 @@ track.mail.muslimpro.com
 track.maya.live
 track.myflotracker.com
 track.naturalcycles.com
+track.optimizely.com
+track.optimove.net
 track.ovia.com
 track.parsely.com
 track.paytm.com
@@ -2698,6 +2761,7 @@ tracking.impact.com
 tracking.info.paytm.com
 tracking.jwplayer.com
 tracking.lastpass.com
+tracking.launchdarkly.com
 tracking.mindbodyonline.com
 tracking.morgen.so
 tracking.movies.yango.com
@@ -2743,6 +2807,7 @@ tracking.tubitv.com
 tracking.vagaro.com
 tracking.vivino.com
 tracking.weddingwire.com
+tracking.wisepops.com
 tracking.zanfia.com
 tracking.zola.com
 tracking1.paytm.com
@@ -2848,6 +2913,7 @@ view.navdmp.com
 viewability.criteo.com
 visitor-analytics.io
 visitors.live
+vitalstatistix.launchdarkly.com
 vizio.adsmeasurement.com
 vofzpwh.com
 volcano.analytics.swiftkey.com
@@ -2892,6 +2958,7 @@ widgets.lotame.com
 wiland.com
 winback.remerge.io
 wise-analytics.com
+wisepops.com
 ws.inspectlet.com
 ws.livesession.io
 ws.sessioncam.com
