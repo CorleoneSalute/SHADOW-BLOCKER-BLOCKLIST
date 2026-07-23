@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 2108
+# Total domains: 2189
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -183,17 +183,24 @@
 ||analytics.abema.tv^
 ||analytics.abide.co^
 ||analytics.ad.daum.net^
+||analytics.add.app^
+||analytics.aiva.ai^
+||analytics.altered.ai^
+||analytics.amadeuscode.com^
 ||analytics.any.do^
 ||analytics.anydesk.com^
 ||analytics.api.brightcove.com^
 ||analytics.appsflyer.com^
 ||analytics.astrill.com^
 ||analytics.athan.com^
+||analytics.audionamix.com^
+||analytics.auphonic.com^
 ||analytics.authy.com^
 ||analytics.avast.com^
 ||analytics.avcdn.net^
 ||analytics.babbel.com^
 ||analytics.bear.app^
+||analytics.beatoven.ai^
 ||analytics.beelinguapp.com^
 ||analytics.beermenus.com^
 ||analytics.beyondtrust.com^
@@ -207,6 +214,8 @@
 ||analytics.bobble.ai^
 ||analytics.bolt.eu^
 ||analytics.booksy.com^
+||analytics.boomy.com^
+||analytics.brain.fm^
 ||analytics.branch.io^
 ||analytics.britbox.com^
 ||analytics.bsplayer.com^
@@ -221,7 +230,9 @@
 ||analytics.character.ai^
 ||analytics.chewy.com^
 ||analytics.clarovideo.com^
+||analytics.cleanvoice.ai^
 ||analytics.clickbank.com^
+||analytics.cloudbounce.com^
 ||analytics.clozemaster.com^
 ||analytics.cms.avira.com^
 ||analytics.cod.ed.gov^
@@ -241,6 +252,7 @@
 ||analytics.deepin.com^
 ||analytics.deepl.com^
 ||analytics.delectable.com^
+||analytics.descript.com^
 ||analytics.dialpad.com^
 ||analytics.didichuxing.com^
 ||analytics.digitalpour.com^
@@ -248,13 +260,19 @@
 ||analytics.disneynow.com^
 ||analytics.disneyplus.com^
 ||analytics.duosecurity.com^
+||analytics.ecrettmusic.com^
+||analytics.elevenlabs.io^
 ||analytics.elsaspeak.com^
 ||analytics.elsevier.com^
+||analytics.emastered.com^
+||analytics.endel.io^
 ||analytics.enpass.io^
+||analytics.envato.com^
 ||analytics.espn.com^
 ||analytics.eventim.com^
 ||analytics.evernote.com^
 ||analytics.expressvpn.com^
+||analytics.fadr.com^
 ||analytics.faithlife.com^
 ||analytics.fandangoathome.com^
 ||analytics.fitbark.com^
@@ -272,11 +290,14 @@
 ||analytics.glossika.com^
 ||analytics.gnome.org^
 ||analytics.gomlab.com^
+||analytics.goyoapp.com^
 ||analytics.hallow.com^
 ||analytics.hbomax.com^
 ||analytics.hellochinese.cc^
 ||analytics.hellotalk.com^
 ||analytics.hide.me^
+||analytics.hitnmix.com^
+||analytics.hooktheory.com^
 ||analytics.hotstar.com^
 ||analytics.hulu.com^
 ||analytics.hyperx.com^
@@ -288,6 +309,7 @@
 ||analytics.ipvanish.com^
 ||analytics.iqiyi.com^
 ||analytics.italki.com^
+||analytics.izotope.com^
 ||analytics.jitsi.net^
 ||analytics.joplincloud.com^
 ||analytics.jwplayer.com^
@@ -295,6 +317,8 @@
 ||analytics.keeper.io^
 ||analytics.kidoodle.tv^
 ||analytics.komoot.com^
+||analytics.lalal.ai^
+||analytics.landr.com^
 ||analytics.languagedrops.com^
 ||analytics.lastpass.com^
 ||analytics.li.me^
@@ -307,6 +331,7 @@
 ||analytics.logitech.com^
 ||analytics.logmein.com^
 ||analytics.looksrare.org^
+||analytics.loudly.com^
 ||analytics.lww.com^
 ||analytics.lyft.com^
 ||analytics.lynx-r.com^
@@ -320,11 +345,15 @@
 ||analytics.means.tv^
 ||analytics.memrise.com^
 ||analytics.mindbodyonline.com^
+||analytics.mixedinkey.com^
+||analytics.moises.ai^
 ||analytics.mondly.com^
 ||analytics.moovit.com^
 ||analytics.movistarplus.es^
 ||analytics.mpay.samsung.com^
+||analytics.mubert.com^
 ||analytics.mubi.com^
+||analytics.murf.ai^
 ||analytics.muslimpro.com^
 ||analytics.mux.com^
 ||analytics.mxplayer.in^
@@ -370,6 +399,7 @@
 ||analytics.playit.pk^
 ||analytics.plex.tv^
 ||analytics.pluto.tv^
+||analytics.podcastle.ai^
 ||analytics.prageru.com^
 ||analytics.preply.com^
 ||analytics.privateinternetaccess.com^
@@ -384,6 +414,7 @@
 ||analytics.realvnc.com^
 ||analytics.remotepc.com^
 ||analytics.replika.ai^
+||analytics.respeecher.com^
 ||analytics.revolut.com^
 ||analytics.ringcentral.ca^
 ||analytics.ringcentral.co.uk^
@@ -407,19 +438,25 @@
 ||analytics.skyshowtime.com^
 ||analytics.snapcraft.io^
 ||analytics.soothe.com^
+||analytics.soundful.com^
 ||analytics.soundhound.com^
+||analytics.soundraw.io^
+||analytics.soundverse.ai^
 ||analytics.spatial.io^
 ||analytics.speaky.com^
 ||analytics.speechace.com^
 ||analytics.speechling.com^
+||analytics.splashmusic.com^
 ||analytics.splashtop.com^
 ||analytics.squareup.com^
+||analytics.stability.ai^
 ||analytics.stan.com.au^
 ||analytics.steelseries.com^
 ||analytics.stickypassword.com^
 ||analytics.strava.com^
 ||analytics.stronglifts.com^
 ||analytics.styleseat.com^
+||analytics.suno.ai^
 ||analytics.superrare.com^
 ||analytics.surfshark.com^
 ||analytics.taalhammer.com^
@@ -442,6 +479,7 @@
 ||analytics.tving.com^
 ||analytics.uber.com^
 ||analytics.ubuntu.com^
+||analytics.udio.com^
 ||analytics.underarmour.com^
 ||analytics.unpaywall.org^
 ||analytics.untappd.com^
@@ -468,6 +506,7 @@
 ||analytics.www1-0.pad.squareup.com^
 ||analytics.xplayerapp.com^
 ||analytics.yabla.com^
+||analytics.yamaha.com^
 ||analytics.youbora.com^
 ||analytics.youku.com^
 ||analytics.zabihah.com^
@@ -478,6 +517,7 @@
 ||analytics.zoom.us^
 ||analytics.zorinos.com^
 ||analytics10.ticketmaster.com^
+||analyticsapi.aiva.ai^
 ||analyticshub.services.swiftkey.com^
 ||analyticshub.swiftkey.com^
 ||anrdoezrs.net^
@@ -629,6 +669,7 @@
 ||beacon.shzcld.com^
 ||beacons.hulu.com^
 ||beaconsinspace.com^
+||bemobtrcks.lalal.ai^
 ||beta.analytics.openaire.eu^
 ||biscience.com^
 ||bisnode.com^
@@ -928,6 +969,7 @@
 ||eu.smartlook.cloud^
 ||eu.uxcam.com^
 ||euc-onenote-telemetry.officeapps.live.com^
+||event-reg.yamaha.com^
 ||event.appsflyer.com^
 ||event.okta.com^
 ||event.vive.com^
@@ -1227,6 +1269,7 @@
 ||metrics-tracking.revolut.com^
 ||metrics.1password.com^
 ||metrics.abema.tv^
+||metrics.add.app^
 ||metrics.alipay.com^
 ||metrics.altlinux.org^
 ||metrics.anthropic.com^
@@ -1235,6 +1278,8 @@
 ||metrics.bitdefender.com^
 ||metrics.bitmovin.com^
 ||metrics.booksy.com^
+||metrics.boomy.com^
+||metrics.brain.fm^
 ||metrics.branch.io^
 ||metrics.brightcove.com^
 ||metrics.britbox.com^
@@ -1250,6 +1295,7 @@
 ||metrics.dailywire.com^
 ||metrics.dashlane.com^
 ||metrics.dazn.com^
+||metrics.descript.com^
 ||metrics.discoveryplus.com^
 ||metrics.disneyplus.com^
 ||metrics.duolingo.com^
@@ -1266,14 +1312,17 @@
 ||metrics.hyperx.com^
 ||metrics.ipvanish.com^
 ||metrics.jwplayer.com^
+||metrics.landr.com^
 ||metrics.logitech.com^
 ||metrics.lyft.com^
 ||metrics.manjaro.org^
 ||metrics.max.com^
 ||metrics.media-amazon.com^
 ||metrics.mindbodyonline.com^
+||metrics.moises.ai^
 ||metrics.movistarplus.es^
 ||metrics.mubi.com^
+||metrics.murf.ai^
 ||metrics.mux.com^
 ||metrics.mxplayer.in^
 ||metrics.mycanal.fr^
@@ -1298,10 +1347,12 @@
 ||metrics.skyshowtime.com^
 ||metrics.snapcraft.io^
 ||metrics.soundhound.com^
+||metrics.soundverse.ai^
 ||metrics.squareup.com^
 ||metrics.stan.com.au^
 ||metrics.steelseries.com^
 ||metrics.styleseat.com^
+||metrics.suno.ai^
 ||metrics.surfshark.com^
 ||metrics.system76.com^
 ||metrics.tavour.com^
@@ -1324,6 +1375,8 @@
 ||metrics.youbora.com^
 ||metrics.zee5.com^
 ||metrics.zenoti.com^
+||metrics2.boomy.com^
+||metricstm.podcastle.ai^
 ||mi.telemetry.lab.norton.com^
 ||mit.metrics.unpaywall.org^
 ||mixpanel.untappd.com^
@@ -1339,6 +1392,7 @@
 ||mouseflow.com^
 ||mrpdata.net^
 ||multiply.crwdcntrl.net^
+||multitrack.endel.io^
 ||music-analytics.youtube.com^
 ||musr.navdmp.com^
 ||mx.navdmp.com^
@@ -1509,6 +1563,7 @@
 ||safegraph.com^
 ||safegraph.io^
 ||salesgenie.com^
+||sblog.lalal.ai^
 ||sclpfybn.com^
 ||script.crazyegg.com^
 ||script.hotjar.com^
@@ -1538,6 +1593,7 @@
 ||segment.taphunter.com^
 ||segment.untappd.com^
 ||segment.vivino.com^
+||segments.hitnmix.com^
 ||sense360.com^
 ||sentry-reporter.ente.io^
 ||sentry.api.stronglifts.com^
@@ -1631,7 +1687,9 @@
 ||stats.blur.io^
 ||stats.bsplayer.com^
 ||stats.calldorado.com^
+||stats.cleanvoice.ai^
 ||stats.corsair.com^
+||stats.dreamtonics.com^
 ||stats.elementary.io^
 ||stats.expressvpn.com^
 ||stats.flathub.org^
@@ -1644,6 +1702,8 @@
 ||stats.looksrare.org^
 ||stats.magiceden.io^
 ||stats.mcafee.com^
+||stats.mixedinkey.com^
+||stats.mubert.com^
 ||stats.mxplayer.in^
 ||stats.nicovideo.jp^
 ||stats.nordvpn.com^
@@ -1708,14 +1768,18 @@
 ||telemetry.1password.com^
 ||telemetry.1passwordservices.com^
 ||telemetry.access.securid.com^
+||telemetry.add.app^
+||telemetry.altered.ai^
 ||telemetry.anydesk.com^
 ||telemetry.api.swiftkey.com^
 ||telemetry.astrill.com^
+||telemetry.audionamix.com^
 ||telemetry.avast.com^
 ||telemetry.avg.com^
 ||telemetry.avira.com^
 ||telemetry.aws-language-servers.us-east-1.amazonaws.com^
 ||telemetry.bamgrid.com^
+||telemetry.beatoven.ai^
 ||telemetry.beyondtrust.com^
 ||telemetry.bitdefender.com^
 ||telemetry.bitmovin.com^
@@ -1731,23 +1795,32 @@
 ||telemetry.dazn.com^
 ||telemetry.deepin.com^
 ||telemetry.deepl.com^
+||telemetry.descript.com^
 ||telemetry.didichuxing.com^
 ||telemetry.divx.com^
 ||telemetry.docker.com^
+||telemetry.dreamtonics.com^
 ||telemetry.duosecurity.com^
 ||telemetry.elementary.io^
+||telemetry.elevenlabs.io^
+||telemetry.endel.io^
+||telemetry.envato.com^
 ||telemetry.espn.com^
 ||telemetry.expressvpn.com^
+||telemetry.fadr.com^
 ||telemetry.fedoraproject.org^
 ||telemetry.fubo.tv^
 ||telemetry.hbomax.com^
 ||telemetry.hide.me^
+||telemetry.hitnmix.com^
 ||telemetry.hotstar.com^
 ||telemetry.hulu.com^
 ||telemetry.immutable.com^
 ||telemetry.insights.video.a2z.com^
 ||telemetry.ipvanish.com^
+||telemetry.izotope.com^
 ||telemetry.kaspersky.com^
+||telemetry.landr.com^
 ||telemetry.linuxmint.com^
 ||telemetry.logitechg.com^
 ||telemetry.logmein.com^
@@ -1757,7 +1830,9 @@
 ||telemetry.mapbox.com^
 ||telemetry.max.com^
 ||telemetry.mcafee.com^
+||telemetry.mixedinkey.com^
 ||telemetry.mobile.api.mcafee.com^
+||telemetry.moises.ai^
 ||telemetry.mux.com^
 ||telemetry.mxplayer.in^
 ||telemetry.nordvpn.com^
@@ -1771,6 +1846,7 @@
 ||telemetry.peacocktv.com^
 ||telemetry.playit.pk^
 ||telemetry.pluto.tv^
+||telemetry.podcastle.ai^
 ||telemetry.privateinternetaccess.com^
 ||telemetry.proton.me^
 ||telemetry.purevpn.com^
@@ -1779,7 +1855,9 @@
 ||telemetry.roccat.com^
 ||telemetry.shazam.com^
 ||telemetry.soundhound.com^
+||telemetry.soundverse.ai^
 ||telemetry.splashtop.com^
+||telemetry.stability.ai^
 ||telemetry.steelseries.com^
 ||telemetry.surfshark.com^
 ||telemetry.system76.com^
@@ -1789,11 +1867,14 @@
 ||telemetry.tunnelbear.com^
 ||telemetry.uber.com^
 ||telemetry.ubuntu.com^
+||telemetry.udio.com^
 ||telemetry.untappd.com^
 ||telemetry.varjo.com^
 ||telemetry.vivino.com^
+||telemetry.vocaloid.com^
 ||telemetry.vyprvpn.com^
 ||telemetry.windscribe.com^
+||telemetry.yamaha.com^
 ||telemetry.zenoti.com^
 ||telemetry.zoho.com^
 ||telemetry.zoom.us^
