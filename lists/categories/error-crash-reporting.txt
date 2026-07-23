@@ -1,0 +1,161 @@
+# Error & Crash Reporting Blocklist
+
+**Toplam domain sayısı:** 73
+**Son güncelleme:** 2026-07-18
+
+## SENTRY (5 domain)
+
+```
+app.getsentry.com
+getsentry.com
+profiling.sentry.io
+replay.sentry.io
+sentry.io
+```
+
+## ROLLBAR (4 domain)
+
+```
+api.rollbar.com
+items.rollbar.com
+rollbar.com
+rum.rollbar.com
+```
+
+## BUGSNAG (7 domain)
+
+```
+bugsnag.com
+notify.bugsnag.com
+notify.bugsnag.smartbear.com
+otlp.bugsnag.com
+otlp.bugsnag.smartbear.com
+sessions.bugsnag.com
+sessions.bugsnag.smartbear.com
+```
+
+## AIRBRAKE (4 domain)
+
+```
+airbrake.io
+api.airbrake.io
+collect.airbrake.io
+notifier-configs.airbrake.io
+```
+
+## RAYGUN (6 domain)
+
+```
+api.raygun.com
+api.raygun.io
+pulse.raygun.com
+raygun.com
+raygun.io
+rum.raygun.io
+```
+
+## HONEYBADGER (3 domain)
+
+```
+api.honeybadger.io
+eu-api.honeybadger.io
+honeybadger.io
+```
+
+## TRACKJS (4 domain)
+
+```
+capture.trackjs.com
+fault.trackjs.com
+trackjs.com
+usage.trackjs.com
+```
+
+## APPSIGNAL (4 domain)
+
+```
+api.appsignal.com
+appsignal-endpoint.net
+appsignal.com
+push.appsignal.com
+```
+
+## ELMAH.IO (2 domain)
+
+```
+api.elmah.io
+elmah.io
+```
+
+## BACKTRACE (5 domain)
+
+```
+api.backtrace.io
+backtrace.io
+sp.backtrace.io
+submit.backtrace.io
+unreal.backtrace.io
+```
+
+## EXCEPTIONLESS (4 domain)
+
+```
+api.exceptionless.io
+collector.exceptionless.io
+exceptionless.io
+heartbeat.exceptionless.io
+```
+
+## INSTABUG / LUCIQ (5 domain)
+
+```
+api.instabug.com
+api.luciq.ai
+instabug.com
+luciq.ai
+sdk.instabug.com
+```
+
+## FİREBASE CRASHLYTİCS (8 domain)
+
+```
+app-measurement.com
+crashlytics.com
+crashlyticsreports-pa.googleapis.com
+firebase-settings.crashlytics.com
+firebasecrashlytics.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
+settings.crashlytics.com
+```
+
+## BUGFENDER (3 domain)
+
+```
+api.bugfender.com
+bugfender.com
+ips.bugfender.com
+```
+
+## BUGSEE (3 domain)
+
+```
+api.bugsee.com
+bugsee.com
+ips.bugsee.com
+```
+
+## BUGSPLAT (3 domain)
+
+```
+api.bugsplat.com
+app.bugsplat.com
+bugsplat.com
+```
+
+## GLİTCHTİP (3 domain)
+
+```
+app.glitchtip.com
+eu.glitchtip.com
+glitchtip.com
