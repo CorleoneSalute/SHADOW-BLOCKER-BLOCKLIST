@@ -1,10 +1,11 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1229
+# Total domains: 1253
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+3dat.steelseries.com
 4cite.com
 a.clarity.ms
 a.plerdy.com
@@ -139,6 +140,7 @@ analytics.cellarpass.com
 analytics.clarovideo.com
 analytics.clickbank.com
 analytics.conviva.com
+analytics.corsair.com
 analytics.craft.do
 analytics.crave.ca
 analytics.crunchyroll.com
@@ -161,12 +163,14 @@ analytics.globoplay.globo.com
 analytics.hbomax.com
 analytics.hotstar.com
 analytics.hulu.com
+analytics.hyperx.com
 analytics.iqiyi.com
 analytics.joplincloud.com
 analytics.jwplayer.com
 analytics.kaltura.com
 analytics.kidoodle.tv
 analytics.komoot.com
+analytics.logitech.com
 analytics.mapbox.com
 analytics.maps.me
 analytics.max.com
@@ -194,12 +198,14 @@ analytics.pluto.tv
 analytics.prageru.com
 analytics.protected.media
 analytics.rakutenmarketing.com
+analytics.razerzone.com
 analytics.roamresearch.com
 analytics.rtlplus.com
 analytics.rumble.com
 analytics.simplenote.com
 analytics.skyshowtime.com
 analytics.stan.com.au
+analytics.steelseries.com
 analytics.taphunter.com
 analytics.tradedoubler.com
 analytics.tubitv.com
@@ -454,9 +460,12 @@ cr.fullcontact.com
 crakrevenue.com
 crash-reports.hbomax.com
 crash-reports.hulu.com
+crash-reports.logitech.com
 crash-reports.netflix.com
 crash.bamgrid.com
+crash.corsair.com
 crash.mapbox.com
+crashreport.razer.com
 crazyegg.com
 cricket-metrics.hotstar.com
 crowdcontrol.lotame.com
@@ -491,6 +500,7 @@ data.mux.com
 data.oracleinfinity.io
 data.youbora.com
 datalogix.com
+datapipeline.logitech.io
 dataquick.com
 dataseat.com
 decibelinsight.com
@@ -532,9 +542,11 @@ engagement.brightcove.com
 epg-metrics.pluto.tv
 error-reporting.disneyplus.com
 errorlogging.typewise.app
+errors.corsair.com
 errors.hbomax.com
 errors.hulu.com
 errors.netflix.com
+errors.razerzone.com
 espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
 eu-west-1-1.telemetry.insights.video.a2z.com
@@ -747,7 +759,9 @@ metrics.globo.com
 metrics.hbomax.com
 metrics.hotstar.com
 metrics.hulu.com
+metrics.hyperx.com
 metrics.jwplayer.com
+metrics.logitech.com
 metrics.max.com
 metrics.media-amazon.com
 metrics.movistarplus.es
@@ -763,8 +777,10 @@ metrics.peacocktv.com
 metrics.piano.io
 metrics.plex.tv
 metrics.pluto.tv
+metrics.razer.com
 metrics.skyshowtime.com
 metrics.stan.com.au
+metrics.steelseries.com
 metrics.tubitv.com
 metrics.tving.com
 metrics.viaplay.com
@@ -976,6 +992,7 @@ static.openreplay.com
 static.webmaxy.com
 stats.appsflyer.com
 stats.bilibili.com
+stats.corsair.com
 stats.iqiyi.com
 stats.kaltura.com
 stats.nicovideo.jp
@@ -1020,6 +1037,7 @@ tealeafcloud.com
 telemetry.api.swiftkey.com
 telemetry.bamgrid.com
 telemetry.bitmovin.com
+telemetry.corsair.com
 telemetry.crunchyroll.com
 telemetry.dazn.com
 telemetry.espn.com
@@ -1028,12 +1046,17 @@ telemetry.hbomax.com
 telemetry.hotstar.com
 telemetry.hulu.com
 telemetry.insights.video.a2z.com
+telemetry.logitechg.com
 telemetry.mapbox.com
 telemetry.max.com
 telemetry.mux.com
+telemetry.nzxt.com
 telemetry.paramountplus.com
 telemetry.peacocktv.com
 telemetry.pluto.tv
+telemetry.razer.com
+telemetry.roccat.com
+telemetry.steelseries.com
 telemetry.tubitv.com
 telemetry.untappd.com
 telemetry.vivino.com
@@ -1086,6 +1109,7 @@ tracking.newsletter.vivino.com
 tracking.partnerize.com
 tracking.pepperjam.com
 tracking.rakutenmarketing.com
+tracking.razer.com
 tracking.shareasale.com
 tracking.toroadvertising.com
 tracking.tradedoubler.com
