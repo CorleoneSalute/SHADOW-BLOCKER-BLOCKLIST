@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 3047
+# Total domains: 3054
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -270,6 +270,7 @@
 ||analytics.bitdefender.com^
 ||analytics.blacknut.com^
 ||analytics.blim.com^
+||analytics.blocksapp.io^
 ||analytics.blueapron.com^
 ||analytics.blueberrysoftware.com^
 ||analytics.blur.io^
@@ -371,6 +372,8 @@
 ||analytics.fresha.com^
 ||analytics.fubo.tv^
 ||analytics.furbo.com^
+||analytics.gamban.com^
+||analytics.gamstop.co.uk^
 ||analytics.geforcenow.com^
 ||analytics.gikken.co^
 ||analytics.gingersoftware.com^
@@ -547,6 +550,7 @@
 ||analytics.protected.media^
 ||analytics.purevpn.com^
 ||analytics.purplecarrot.com^
+||analytics.quitgenius.com^
 ||analytics.quranmajeed.com^
 ||analytics.rakutenmarketing.com^
 ||analytics.rarible.com^
@@ -2392,6 +2396,7 @@
 ||stats.elementary.io^
 ||stats.expressvpn.com^
 ||stats.flathub.org^
+||stats.gamstop.co.uk^
 ||stats.hide.me^
 ||stats.i.mdpi.com^
 ||stats.iqiyi.com^
@@ -2545,6 +2550,7 @@
 ||telemetry.flashbackrecorder.com^
 ||telemetry.flo.health^
 ||telemetry.fubo.tv^
+||telemetry.gamban.com^
 ||telemetry.geforcenow.com^
 ||telemetry.glow.co^
 ||telemetry.grindr.com^
@@ -2722,6 +2728,7 @@
 ||tracker.kali.org^
 ||tracker.opensuse.org^
 ||tracker.prf.hn^
+||tracker.quitgambling.com^
 ||tracker.remerge.io^
 ||tracking-api.italki.com^
 ||tracking.acast.com^

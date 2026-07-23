@@ -1,0 +1,14 @@
+# ============================================================
+# GAMBLING RECOVERY BLOCKLIST - BASIC
+# Total domains: 7
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 analytics.blocksapp.io
+0.0.0.0 analytics.gamban.com
+0.0.0.0 analytics.gamstop.co.uk
+0.0.0.0 analytics.quitgenius.com
+0.0.0.0 stats.gamstop.co.uk
+0.0.0.0 telemetry.gamban.com
+0.0.0.0 tracker.quitgambling.com
