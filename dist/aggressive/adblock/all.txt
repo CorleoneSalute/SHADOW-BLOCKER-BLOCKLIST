@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1536
+# Total domains: 1553
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -189,6 +189,7 @@
 ||analytics.elsevier.com^
 ||analytics.enpass.io^
 ||analytics.espn.com^
+||analytics.eventim.com^
 ||analytics.evernote.com^
 ||analytics.expressvpn.com^
 ||analytics.fandangoathome.com^
@@ -283,6 +284,7 @@
 ||analytics.surfshark.com^
 ||analytics.taphunter.com^
 ||analytics.teamviewer.com^
+||analytics.ticketmaster.es^
 ||analytics.tonal.com^
 ||analytics.torguard.net^
 ||analytics.tradedoubler.com^
@@ -310,6 +312,7 @@
 ||analytics.zee5.com^
 ||analytics.zoho.com^
 ||analytics.zoom.us^
+||analytics10.ticketmaster.com^
 ||analyticshub.services.swiftkey.com^
 ||analyticshub.swiftkey.com^
 ||anrdoezrs.net^
@@ -711,11 +714,13 @@
 ||flexlinks.com^
 ||flexlinkspro.com^
 ||formcomplete.zoominfo.com^
+||fr-metrics.seetickets.com^
 ||frtyb.com^
 ||ftjcfx.com^
 ||fullcontact.com^
 ||fullstory.com^
 ||fullstory.net^
+||fwtrack.ticketnetwork.com^
 ||g.clarity.ms^
 ||gallery-metrics.api.brightcove.com^
 ||gambleonline.ca^
@@ -739,10 +744,13 @@
 ||googlesyndication.com.sci-hub.tw^
 ||gravyanalytics.com^
 ||grtyv.com^
+||gtm-analytics.united.vividseats.com^
+||gtm-analytics.vividseats.com^
 ||gtrack.go.moovit.com^
 ||gtrack.stories.moovit.com^
 ||h.clarity.ms^
 ||heatmap.com^
+||hellotracking.ticketmaster.com^
 ||hit.seznam.cz^
 ||hitwise.com^
 ||hotjar.com^
@@ -792,8 +800,10 @@
 ||intelligence.conviva.com^
 ||intelligence.towerdata.com^
 ||isapp.navdmp.com^
+||isc-tracking.eventim.com^
 ||iscd.navdmp.com^
 ||iscdn.navdmp.com^
+||isi-tracking.eventim.com^
 ||j.clarity.ms^
 ||j.navdmp.com^
 ||jdoqocy.com^
@@ -837,6 +847,7 @@
 ||log.nordvpn.com^
 ||log.shazam.com^
 ||log.soundhound.com^
+||log.stubhub.com^
 ||log.zoom.us^
 ||logfiles.zoom.us^
 ||logger.sciencedirect.com^
@@ -1052,6 +1063,7 @@
 ||plex-attribution.plex.tv^
 ||plus.dnb.com^
 ||pluto.tv.sc.omtrdc.net^
+||post.analytics10.ticketmaster.com^
 ||pre.smartplugin.youbora.com^
 ||preprocessor.heatmap.com^
 ||presentationtracking.netflix.com^
@@ -1104,6 +1116,7 @@
 ||rt-clientstats-il.waze.com^
 ||rtb.adsquare.com^
 ||rum.netflix.com^
+||s.analytics10.ticketmaster.com^
 ||s.c.jwpltx.com^
 ||s.clarity.ms^
 ||s.clicktale.net^
@@ -1169,6 +1182,7 @@
 ||smartplugin.youbora.com^
 ||smetric.worldcat.org^
 ||smetrics-ieeexplore.ieee.org^
+||smetrics.axs.com^
 ||smetrics.elsevier.com^
 ||smetrics.engineeringvillage.com^
 ||smetrics.lww.com^
@@ -1342,6 +1356,7 @@
 ||track.researchrabbit.ai^
 ||track.romanticai.com^
 ||track.stories.moovit.com^
+||track.stubhub.com^
 ||track.underarmour.com^
 ||track.webgains.com^
 ||tracker.core.ac.uk^
@@ -1374,7 +1389,9 @@
 ||tracking.purevpn.com^
 ||tracking.rakutenmarketing.com^
 ||tracking.razer.com^
+||tracking.seatgeek.com^
 ||tracking.shareasale.com^
+||tracking.stubhub.com^
 ||tracking.surfshark.com^
 ||tracking.teamviewer.com^
 ||tracking.toroadvertising.com^

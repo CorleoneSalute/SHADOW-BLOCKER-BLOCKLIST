@@ -1,0 +1,24 @@
+# ============================================================
+# TICKETING LIVE EVENT BLOCKLIST - BASIC
+# Total domains: 17
+# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+analytics.eventim.com
+analytics.ticketmaster.es
+analytics10.ticketmaster.com
+fr-metrics.seetickets.com
+fwtrack.ticketnetwork.com
+gtm-analytics.united.vividseats.com
+gtm-analytics.vividseats.com
+hellotracking.ticketmaster.com
+isc-tracking.eventim.com
+isi-tracking.eventim.com
+log.stubhub.com
+post.analytics10.ticketmaster.com
+s.analytics10.ticketmaster.com
+smetrics.axs.com
+track.stubhub.com
+tracking.seatgeek.com
+tracking.stubhub.com

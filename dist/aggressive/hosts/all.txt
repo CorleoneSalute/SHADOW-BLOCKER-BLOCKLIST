@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 1536
+# Total domains: 1553
 # Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -189,6 +189,7 @@
 0.0.0.0 analytics.elsevier.com
 0.0.0.0 analytics.enpass.io
 0.0.0.0 analytics.espn.com
+0.0.0.0 analytics.eventim.com
 0.0.0.0 analytics.evernote.com
 0.0.0.0 analytics.expressvpn.com
 0.0.0.0 analytics.fandangoathome.com
@@ -283,6 +284,7 @@
 0.0.0.0 analytics.surfshark.com
 0.0.0.0 analytics.taphunter.com
 0.0.0.0 analytics.teamviewer.com
+0.0.0.0 analytics.ticketmaster.es
 0.0.0.0 analytics.tonal.com
 0.0.0.0 analytics.torguard.net
 0.0.0.0 analytics.tradedoubler.com
@@ -310,6 +312,7 @@
 0.0.0.0 analytics.zee5.com
 0.0.0.0 analytics.zoho.com
 0.0.0.0 analytics.zoom.us
+0.0.0.0 analytics10.ticketmaster.com
 0.0.0.0 analyticshub.services.swiftkey.com
 0.0.0.0 analyticshub.swiftkey.com
 0.0.0.0 anrdoezrs.net
@@ -711,11 +714,13 @@
 0.0.0.0 flexlinks.com
 0.0.0.0 flexlinkspro.com
 0.0.0.0 formcomplete.zoominfo.com
+0.0.0.0 fr-metrics.seetickets.com
 0.0.0.0 frtyb.com
 0.0.0.0 ftjcfx.com
 0.0.0.0 fullcontact.com
 0.0.0.0 fullstory.com
 0.0.0.0 fullstory.net
+0.0.0.0 fwtrack.ticketnetwork.com
 0.0.0.0 g.clarity.ms
 0.0.0.0 gallery-metrics.api.brightcove.com
 0.0.0.0 gambleonline.ca
@@ -739,10 +744,13 @@
 0.0.0.0 googlesyndication.com.sci-hub.tw
 0.0.0.0 gravyanalytics.com
 0.0.0.0 grtyv.com
+0.0.0.0 gtm-analytics.united.vividseats.com
+0.0.0.0 gtm-analytics.vividseats.com
 0.0.0.0 gtrack.go.moovit.com
 0.0.0.0 gtrack.stories.moovit.com
 0.0.0.0 h.clarity.ms
 0.0.0.0 heatmap.com
+0.0.0.0 hellotracking.ticketmaster.com
 0.0.0.0 hit.seznam.cz
 0.0.0.0 hitwise.com
 0.0.0.0 hotjar.com
@@ -792,8 +800,10 @@
 0.0.0.0 intelligence.conviva.com
 0.0.0.0 intelligence.towerdata.com
 0.0.0.0 isapp.navdmp.com
+0.0.0.0 isc-tracking.eventim.com
 0.0.0.0 iscd.navdmp.com
 0.0.0.0 iscdn.navdmp.com
+0.0.0.0 isi-tracking.eventim.com
 0.0.0.0 j.clarity.ms
 0.0.0.0 j.navdmp.com
 0.0.0.0 jdoqocy.com
@@ -837,6 +847,7 @@
 0.0.0.0 log.nordvpn.com
 0.0.0.0 log.shazam.com
 0.0.0.0 log.soundhound.com
+0.0.0.0 log.stubhub.com
 0.0.0.0 log.zoom.us
 0.0.0.0 logfiles.zoom.us
 0.0.0.0 logger.sciencedirect.com
@@ -1052,6 +1063,7 @@
 0.0.0.0 plex-attribution.plex.tv
 0.0.0.0 plus.dnb.com
 0.0.0.0 pluto.tv.sc.omtrdc.net
+0.0.0.0 post.analytics10.ticketmaster.com
 0.0.0.0 pre.smartplugin.youbora.com
 0.0.0.0 preprocessor.heatmap.com
 0.0.0.0 presentationtracking.netflix.com
@@ -1104,6 +1116,7 @@
 0.0.0.0 rt-clientstats-il.waze.com
 0.0.0.0 rtb.adsquare.com
 0.0.0.0 rum.netflix.com
+0.0.0.0 s.analytics10.ticketmaster.com
 0.0.0.0 s.c.jwpltx.com
 0.0.0.0 s.clarity.ms
 0.0.0.0 s.clicktale.net
@@ -1169,6 +1182,7 @@
 0.0.0.0 smartplugin.youbora.com
 0.0.0.0 smetric.worldcat.org
 0.0.0.0 smetrics-ieeexplore.ieee.org
+0.0.0.0 smetrics.axs.com
 0.0.0.0 smetrics.elsevier.com
 0.0.0.0 smetrics.engineeringvillage.com
 0.0.0.0 smetrics.lww.com
@@ -1342,6 +1356,7 @@
 0.0.0.0 track.researchrabbit.ai
 0.0.0.0 track.romanticai.com
 0.0.0.0 track.stories.moovit.com
+0.0.0.0 track.stubhub.com
 0.0.0.0 track.underarmour.com
 0.0.0.0 track.webgains.com
 0.0.0.0 tracker.core.ac.uk
@@ -1374,7 +1389,9 @@
 0.0.0.0 tracking.purevpn.com
 0.0.0.0 tracking.rakutenmarketing.com
 0.0.0.0 tracking.razer.com
+0.0.0.0 tracking.seatgeek.com
 0.0.0.0 tracking.shareasale.com
+0.0.0.0 tracking.stubhub.com
 0.0.0.0 tracking.surfshark.com
 0.0.0.0 tracking.teamviewer.com
 0.0.0.0 tracking.toroadvertising.com
