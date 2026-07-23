@@ -1,0 +1,32 @@
+# 2FA Apps Blocklist
+
+**Son Güncelleme:** 16 Temmuz 2026
+**Toplam Domain Sayısı:** 13
+
+```
+# AUTHY
+analytics.authy.com
+
+# DUO MOBILE
+analytics.duosecurity.com
+telemetry.duosecurity.com
+
+# OKTA VERIFY
+analytics.okta.com
+telemetry.okta.com
+adobemetrics.okta.com
+event.okta.com
+
+# RSA SECURID
+analytics.rsa.com
+telemetry.access.securid.com
+
+# LASTPASS AUTHENTICATOR
+web-analytics.lastpass.com
+data.product.lastpass.com
+
+# ENTE AUTH
+sentry-reporter.ente.io
+
+# 2FAS
+log.2fas.com
