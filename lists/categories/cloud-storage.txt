@@ -1,0 +1,39 @@
+# ============================================================
+# CLOUD STORAGE BLOCKLIST
+# Toplam Domain Sayısı: 20
+# Son Güncelleme: 16 Temmuz 2026 (2026-07-16)
+# ============================================================
+
+# --- DROPBOX --- (7 domain)
+log.getdropbox.com
+client-log.dropbox.com
+client-analytics.dropbox.com
+telemetry.dropbox.com
+beacon.dropbox.com
+marketing.dropbox.com
+dropboxexperiment.com !
+
+# --- BOX --- (4 domain)
+analytics.box.com
+client-log.box.com
+track.box.com
+realtimeanalytics.yext.com
+
+# --- MEGA --- (2 domain)
+reqstat.api.mega.co.nz
+stats.sfu.mega.co.nz
+
+# --- OWNCLOUD --- (3 domain)
+telemetry.owncloud.com
+graylog.owncloud.com
+crash-reports.owncloud.com
+
+# --- TRESORIT --- (1 domain)
+log.tresorit.com
+
+# --- JOTTACLOUD --- (1 domain)
+stats.jottacloud.com
+
+# --- KDRIVE / INFOMANIAK [Rev2] --- (2 domain)
+track.infomaniak.com
+analytics.infomaniak.com
