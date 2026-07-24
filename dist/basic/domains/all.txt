@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8315
+# Total domains: 8314
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3224,7 +3224,6 @@ evadav.com
 eval.bizrate.com
 evassmat.com
 event-api.realme.com
-event-reg.yamaha.com
 event-tracking.samsung.com
 event.appsflyer.com
 event.asrock.com
