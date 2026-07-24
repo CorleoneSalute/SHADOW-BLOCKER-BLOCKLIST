@@ -1,0 +1,218 @@
+PHOTO EDITING & FILTER BLOCKLIST 
+# Genel toplam: 77 domain
+# Son güncelleme: 2026-07-18
+
+# ================================================
+# DNS BLOCKLIST — TEMEL (SAFE)
+# Photo Editing & Filter Apps | 61 domain
+# ================================================
+
+# --- FaceApp (RU) ---
+analytics.faceapp.io
+
+# --- Lensa AI (RU) ---
+metrics.lensa-ai.com
+
+# --- Prisma (RU) ---
+metrics.prisma-ai.com
+
+# --- Reface (RU/UA) ---
+telemetry.reface.ai
+
+# --- Meitu (CN) ---
+analytics.meitu.com
+tracking.meitu.com
+metrics.meitu.com
+ads.meitu.com
+ad.meitu.com
+meitudata.com
+log.xiuxiu.com
+
+# --- BeautyPlus (CN) ---
+analytics.beautyplus.com
+
+# --- Remini (IT) ---
+analytics.remini.ai
+
+# --- Picsart (AM/US) ---
+analytics.picsart.com
+metrics.picsart.com
+tracking.picsart.com
+t.picsart.com
+
+# --- Pixlr (MY/SG) ---
+analytics.pixlr.com
+tracking.pixlr.com
+metrics.pixlr.com
+
+# --- Perfect Corp / YouCam (TW) ---
+analytics.perfectcorp.com
+tracking.perfectcorp.com
+
+# --- VSCO (US) ---
+analytics.vsco.co
+pixel.vsco.co
+logs-logstash.vsco.co
+logs-coordinating.vsco.co
+
+# --- Lightricks / Facetune / Photoleap (IL) ---
+analytics.lightricks.com
+default.analytics.lightricks.com
+integration.analytics.lightricks.com
+notld-analytics.dp.lightricks.com
+xcode-metrics.lightricks.com
+
+# --- Prequel (US) ---
+l.prequel.app
+sentry.prequel.app
+
+# --- SNOW Corp (KR) ---
+log.snow.me
+
+# ── Adobe Analytics / Omniture (Nesil 1-2) ───────────────────────────────
+# Adobe'nin analytics hit collection altyapısı.
+# Hiçbir uygulama işlevi bu domain'lere bağlı değildir.
+sc.omtrdc.net
+tt.omtrdc.net
+cdn.tt.omtrdc.net
+adobe.tt.omtrdc.net
+2o7.net
+adbemdigitalmediarebootprod2.112.2o7.net
+omniture.com
+
+# ── Adobe Audience Manager / Demdex ──────────────────────────────────────
+# Kullanıcı profilleme ve DMP veri toplama.
+# Hiçbir görsel içerik veya uygulama işlevi buraya bağlı değildir.
+demdex.net
+dpm.demdex.net
+adobe.demdex.net
+adobemobiledev.demdex.net
+
+# ── Adobe Telemetri ──────────────────────────────────────────────────────
+# Uygulama kullanım istatistikleri ve heartbeat telemetri.
+# Engellendiğinde uygulama sorunsuz çalışmaya devam eder.
+sstats.adobe.com
+hbrt.adobe.com
+
+# ── adobestats.io — Obfuscated Telemetri ─────────────────────────────────
+# Adobe'nin çok katmanlı rastgele subdomain sistemiyle gizlediği
+# telemetri altyapısı. 65+ obfuscation prefix kodu mevcut.
+# Wildcard tüm kombinasyonları kapsar.
+adobestats.io
+
+# ── Adobe Tag Management (DTM / Launch) ──────────────────────────────────
+# Adobe'nin tag container'larını dağıtan altyapı.
+# Üçüncü taraf tracking scriptlerini kullanıcıya iletiyor.
+adobedtm.com
+assets.adobedtm.com
+adobetag.com
+
+# ── Adobe Advertising Cloud / EverestTech ────────────────────────────────
+# Reklam dönüşüm takibi. Adobe Advertising Cloud altyapısı.
+# Hiçbir son kullanıcı işlevi buraya bağlı değildir.
+everesttech.net
+cm.everesttech.net
+www.everestjs.net
+
+# ── AEP Edge — Org-Specific Data Collection ──────────────────────────────
+# Her müşteri organizasyonuna özel AEP veri toplama endpoint'leri.
+# Format: <orgid>.data.adobedc.net
+# NOT: edge.adobedc.net bu wildcard'ın dışındadır → agresif listede.
+data.adobedc.net
+
+# ── Telemetri / Log / Crash Reporter ─────────────────────────────────────
+# Tamamen tek yönlü veri gönderimi. Son kullanıcıya sıfır etkisi.
+telemetry.adobe.io
+rdc.adobe.io
+udp.adobe.io
+crs.cr.adobe.com
+
+# ── Üçüncü Taraf Performans İzleme ───────────────────────────────────────
+# Adobe web uygulamalarına gömülü izleme script'leri.
+# Engellendiğinde sayfa ve uygulama işlevi bozulmaz.
+o1383653.ingest.sentry.io
+bam.nr-data.net
+
+# ================================================================
+# DNS BLOCKLIST — AGRESİF (EK DOMAINLER)
+# Temel listeye ekle | +16 domain
+# ================================================================
+
+# --- VSCO (US) ---
+# ⚠️ PARTIAL: A/B test ve feature flag sistemi.
+#   Engelleme → UI tutarsızlıkları, bazı özellikler gizlenebilir.
+experiment-api.vsco.co !
+
+# --- Lightricks (IL) ---
+# Creator marketing analytics platformu (Lightricks satın aldı)
+# Influencer kampanya tracking verisi toplar
+popularpays.com !
+
+# ── cc-api-data.adobe.io ─────────────────────────────────────────────────
+cc-api-data.adobe.io !
+# ETKİ: Creative Cloud veri API'si — hem telemetri hem CC sync trafiği taşır.
+#        Engellendiğinde CC Libraries sync, shared asset güncellemeleri ve
+#        uygulama tercihlerinin buluta yazılması sekteye uğrayabilir.
+#        CC uygulamaları çalışmaya devam eder ancak bulut senkronizasyonu
+#        gecikmeli veya eksik olabilir.
+
+# ── hz-telemetry.adobe.io ────────────────────────────────────────────────
+hz-telemetry.adobe.io !
+# ETKİ: Adobe Express (Hz platformu) telemetri endpoint'i.
+#        Engellendiğinde Express'in kullanıcıya özel öneri ve
+#        kişiselleştirme özelliklerinde bozulma olabilir.
+#        Temel düzenleme işlevleri (metin, görsel, şablon) ETKİLENMEZ.
+
+# ── edge.adobedc.net ─────────────────────────────────────────────────────
+edge.adobedc.net !
+# ETKİ: AEP Web SDK varsayılan veri toplama endpoint'i.
+#        Adobe Analytics, Target ve Audience Manager verisi buradan akar.
+#        Engellendiğinde:
+#        → Adobe Target personalizasyonu durur (A/B test içerikleri, öneri kutuları)
+#        → Adobe ürünü kullanan web sitelerinde boş içerik blokları oluşabilir
+#        → Adobe Analytics raporlaması kesilir
+#        Kullanıcının kendi bilgisayarındaki CC uygulamaları ETKİLENMEZ.
+
+# ── *.adobedc.net (wildcard) ─────────────────────────────────────────────
+adobedc.net !
+# ETKİ: Tüm Adobe Data Collection Network'ü engeller.
+#        Temel listedeki *.data.adobedc.net + edge.adobedc.net dahil.
+#        → Adobe Target tamamen durur
+#        → Adobe Analytics tamamen kesilir
+#        → Audience Manager segmentasyon kesilir
+#        → Adobe ürünü kullanan sitelerde kırık özellikler görünebilir
+#        NOT: Temel listede *.data.adobedc.net zaten varsa bu wildcard onu
+#        da kapsar; çakışma sorun değil, daha kapsamlı kural baskın gelir.
+
+# ── dmp-data.adobe.io ────────────────────────────────────────────────────
+dmp-data.adobe.io !
+# ETKİ: Adobe Audience Manager DMP veri API'si.
+#        Engellendiğinde Adobe ürünü kullanan sitelerde segment bazlı
+#        içerik kişiselleştirmesi çalışmaz (farklı kullanıcılara farklı
+#        banner/içerik gösterimi). CC uygulamaları ETKİLENMEZ.
+
+# ── p13n.adobe.io / p13n-mr.adobe.io ────────────────────────────────────
+p13n.adobe.io !
+p13n-mr.adobe.io !
+# ETKİ: Adobe Personalization servisi (p13n = personalization kısaltması).
+#        Kullanıcı profiline dayalı içerik kişiselleştirmesi için veri toplar.
+#        Engellendiğinde Adobe ürünü kullanan web sitelerinde kişiselleştirilmiş
+#        içerik gösterilmez; boş alanlar oluşabilir.
+#        p13n-mr.adobe.io multi-region varyantı, aynı etki geçerlidir.
+
+# ── esp.aptrinsic.com / esp-m.aptrinsic.com (Gainsight PX) ──────────────
+esp.aptrinsic.com !
+esp-m.aptrinsic.com !
+# ETKİ: Gainsight PX ürün analitiği ve in-app rehberlik servisi.
+#        Adobe uygulamalarındaki "Yenilikler" tooltip'leri, onboarding akışları
+#        ve feature announcement popup'ları bu servis üzerinden çalışır.
+#        Engellendiğinde bu rehberlik öğeleri görünmez.
+#        Temel uygulama işlevi (kaydetme, düzenleme vb.) ETKİLENMEZ.
+
+# ── js-agent.newrelic.com ────────────────────────────────────────────────
+js-agent.newrelic.com !
+# ETKİ: New Relic Browser Agent script kaynağı.
+#        Engellendiğinde New Relic JS yüklenemez; tarayıcı konsolunda
+#        JS hataları görünebilir. Sayfa işlevi genellikle bozulmaz ancak
+#        çok nadir durumlarda New Relic'e bağımlı sayfa öğelerinde
+#        gecikme yaşanabilir.
