@@ -1,0 +1,17 @@
+# ============================================================
+# AI VIDEO IMAGE GENERATION BLOCKLIST - AGGRESSIVE
+# Total domains: 10
+# Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 analytics.api.services.leonardo.ai
+0.0.0.0 analytics.craiyon.com
+0.0.0.0 analytics.leonardo.ai
+0.0.0.0 analytics.nightcafe.studio
+0.0.0.0 analytics.playgroundai.com
+0.0.0.0 analytics.stability.ai
+0.0.0.0 analytics.starryai.com
+0.0.0.0 maccosmetics.hello.stability.ai
+0.0.0.0 research-metrics.corp.playgroundai.com
+0.0.0.0 telemetry.stability.ai
