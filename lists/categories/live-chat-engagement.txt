@@ -1,0 +1,65 @@
+# ==================================================================
+# LIVE CHAT & ENGAGEMENT BLOCKLIST
+# Toplam Domain Sayisi: 23
+# Son Guncelleme: 18 Temmuz 2026
+# ==================================================================
+
+# BÖLÜM 1 — TEMEL LİSTE
+# Kural: False positive yok | Platform işlevi korunur
+#         Net tracking/telemetry amacı taşıyan domainler
+# ==================================================================
+
+# INTERCOM (5 domain)
+metrics.intercom.io
+frontend-telemetry.intercom.io
+intercom-reporting.com
+www.intercom-reporting.com
+
+# ZENDESK CHAT (ZOPIM) (1 domain)
+
+sentry.zopim.com
+
+# DRIFT (1 domain)
+analytics.drift.com
+
+# LIVECHAT (1 domain)
+tracking.livechatinc.com
+
+# SMARTSUPP (1 domain)
+analytics.smartsupp.com
+analytics-api.analytics-cluster.smartsupp.com
+
+# LIVEPERSON (1 domain)
+analytics.liveperson.net
+
+# ZENVIA (2 domain)
+logs-api.zenvia.com
+usage-reports-api.zenvia.com
+
+# OLARK (3 domain)
+logs.olark.com
+log.olark.com
+log1.olark.com
+
+# TIDIO (5 domain)
+sentry-new.tidio.co
+sentry.tidio.co
+es-logs.tidio.co
+tracking.tidio.com
+track.tidio.com
+
+# HELP SCOUT (1 domain)
+beaconapi.helpscout.net
+
+
+# ==================================================================
+# BÖLÜM 2 — AGRESİF LİSTE 
+==================================================================
+
+
+# LIVEPERSON (1 domain)
+
+va-a.liveperson.net !
+# LivePerson Visitor Analytics API endpoint'i.
+# [Tags, APIs & Real-time] bölümünde analytics.liveperson.net
+# ile aynı grupta; LP Tag sistemiyle birlikte çalışır.
