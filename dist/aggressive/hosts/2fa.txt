@@ -1,6 +1,6 @@
 # ============================================================
 # 2FA BLOCKLIST - AGGRESSIVE
-# Total domains: 13
+# Total domains: 11
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,8 +10,6 @@
 0.0.0.0 analytics.duosecurity.com
 0.0.0.0 analytics.okta.com
 0.0.0.0 analytics.rsa.com
-0.0.0.0 data.product.lastpass.com
-0.0.0.0 event.okta.com
 0.0.0.0 log.2fas.com
 0.0.0.0 sentry-reporter.ente.io
 0.0.0.0 telemetry.access.securid.com

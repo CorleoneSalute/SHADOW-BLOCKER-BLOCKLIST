@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8387
+# Total domains: 8385
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2862,7 +2862,6 @@
 0.0.0.0 data.mux.com
 0.0.0.0 data.nativo.com
 0.0.0.0 data.oracleinfinity.io
-0.0.0.0 data.product.lastpass.com
 0.0.0.0 data.samba.tv
 0.0.0.0 data.samsungrs.com
 0.0.0.0 data.sec.intl.miui.com
@@ -3265,7 +3264,6 @@
 0.0.0.0 event.mackeeper.com
 0.0.0.0 event.mi.com
 0.0.0.0 event.msi.com
-0.0.0.0 event.okta.com
 0.0.0.0 event.outbrain.com
 0.0.0.0 event.realme.com
 0.0.0.0 event.vanceai.com
