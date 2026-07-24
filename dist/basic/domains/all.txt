@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8313
+# Total domains: 8303
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1649,7 +1649,6 @@ api.instabug.com
 api.insticator.com
 api.iolo.com
 api.ironsrc.com
-api.jumpshot.com
 api.kadam.net
 api.lexicon.33across.com
 api.liftoff.io
@@ -3128,7 +3127,6 @@ elmah.io
 elog.vewd.com
 email.events.duolingo.com
 email.gh-mail.taboola.com
-emailfootprint.norton.com
 emailretargeting.com
 emailtracking.soothe.com
 emea-analytics.lnw.com
@@ -3437,8 +3435,6 @@ fastclick.net
 fastlane.rubiconproject.com
 fasttory.com
 fault.trackjs.com
-faults.norton.com
-faults.symantec.com
 fawright.com
 fb-analytics.com
 fb.rtb.fr.eu.criteo.com
@@ -3963,7 +3959,6 @@ insights-collector.gog.com
 insights.brightdata.com
 insights.conviva.com
 insights.hybrid.ai
-insights.jumpshot.com
 insights.nordvpn.com
 insights.video.a2z.com
 insightsreports.bizrate.com
@@ -4000,7 +3995,6 @@ iolosystem.com
 iolovpn.com
 ioptimizer.com
 iosads24.adcolony.com
-ip-info.ff.avast.com
 ipcheck0.jdownloader.org
 ipgrabber.ru
 ipgraber.ru
@@ -4060,7 +4054,6 @@ jssdk.rayjump.com
 jstrp.adform.net
 juads.vmall.com
 jubaoads.360.cn
-jumpshot.com
 jungroup.com
 jv16powertools.com
 jwpltx.com
@@ -4418,7 +4411,6 @@ logrocket.com
 logrocket.io
 logs-api.zenvia.com
 logs-coordinating.vsco.co
-logs-ext.bitdefender.com
 logs-gateway.tabnine.com
 logs-logstash.vsco.co
 logs.1password.com
@@ -4937,7 +4929,6 @@ miuiboot.tracking.intl.miui.com
 miuiboot.tracking.miui.com
 mixer.cupid.ptqy.gitv.tv
 mixpanel.untappd.com
-mkt.pcpitstop.com
 ml.adikteev.com
 ml.remerge.io
 mlog.search.xiaomi.net
@@ -5449,7 +5440,6 @@ piano.io
 pico.logs.roku.com
 picocurl.com
 ping-hk.taboola.com
-ping.avast.com
 ping.chartbeat.net
 pingback.giphy.com
 pintient.com

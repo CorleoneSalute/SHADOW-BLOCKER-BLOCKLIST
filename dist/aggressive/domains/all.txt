@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8565
+# Total domains: 8558
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1683,7 +1683,6 @@ api.instabug.com
 api.insticator.com
 api.iolo.com
 api.ironsrc.com
-api.jumpshot.com
 api.kadam.net
 api.lexicon.33across.com
 api.liftoff.io
@@ -3213,7 +3212,6 @@ elmah.io
 elog.vewd.com
 email.events.duolingo.com
 email.gh-mail.taboola.com
-emailfootprint.norton.com
 emailretargeting.com
 emailtracking.soothe.com
 emea-analytics.lnw.com
@@ -4109,7 +4107,6 @@ insights-collector.gog.com
 insights.brightdata.com
 insights.conviva.com
 insights.hybrid.ai
-insights.jumpshot.com
 insights.nordvpn.com
 insights.video.a2z.com
 insightsreports.bizrate.com
@@ -4146,7 +4143,6 @@ iolosystem.com
 iolovpn.com
 ioptimizer.com
 iosads24.adcolony.com
-ip-info.ff.avast.com
 ip-info.ff.avast.sec.miui.com
 ipcheck0.jdownloader.org
 ipgrabber.ru
@@ -4208,7 +4204,6 @@ jssdk.rayjump.com
 jstrp.adform.net
 juads.vmall.com
 jubaoads.360.cn
-jumpshot.com
 jungroup.com
 jv16powertools.com
 jwpltx.com
@@ -4577,7 +4572,6 @@ logrocket.com
 logrocket.io
 logs-api.zenvia.com
 logs-coordinating.vsco.co
-logs-ext.bitdefender.com
 logs-gateway.tabnine.com
 logs-logstash.vsco.co
 logs.1password.com
@@ -5634,7 +5628,6 @@ piano.io
 pico.logs.roku.com
 picocurl.com
 ping-hk.taboola.com
-ping.avast.com
 ping.chartbeat.net
 pingback.giphy.com
 pintient.com

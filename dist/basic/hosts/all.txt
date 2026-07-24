@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8313
+# Total domains: 8303
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1649,7 +1649,6 @@
 0.0.0.0 api.insticator.com
 0.0.0.0 api.iolo.com
 0.0.0.0 api.ironsrc.com
-0.0.0.0 api.jumpshot.com
 0.0.0.0 api.kadam.net
 0.0.0.0 api.lexicon.33across.com
 0.0.0.0 api.liftoff.io
@@ -3128,7 +3127,6 @@
 0.0.0.0 elog.vewd.com
 0.0.0.0 email.events.duolingo.com
 0.0.0.0 email.gh-mail.taboola.com
-0.0.0.0 emailfootprint.norton.com
 0.0.0.0 emailretargeting.com
 0.0.0.0 emailtracking.soothe.com
 0.0.0.0 emea-analytics.lnw.com
@@ -3437,8 +3435,6 @@
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fasttory.com
 0.0.0.0 fault.trackjs.com
-0.0.0.0 faults.norton.com
-0.0.0.0 faults.symantec.com
 0.0.0.0 fawright.com
 0.0.0.0 fb-analytics.com
 0.0.0.0 fb.rtb.fr.eu.criteo.com
@@ -3963,7 +3959,6 @@
 0.0.0.0 insights.brightdata.com
 0.0.0.0 insights.conviva.com
 0.0.0.0 insights.hybrid.ai
-0.0.0.0 insights.jumpshot.com
 0.0.0.0 insights.nordvpn.com
 0.0.0.0 insights.video.a2z.com
 0.0.0.0 insightsreports.bizrate.com
@@ -4000,7 +3995,6 @@
 0.0.0.0 iolovpn.com
 0.0.0.0 ioptimizer.com
 0.0.0.0 iosads24.adcolony.com
-0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipcheck0.jdownloader.org
 0.0.0.0 ipgrabber.ru
 0.0.0.0 ipgraber.ru
@@ -4060,7 +4054,6 @@
 0.0.0.0 jstrp.adform.net
 0.0.0.0 juads.vmall.com
 0.0.0.0 jubaoads.360.cn
-0.0.0.0 jumpshot.com
 0.0.0.0 jungroup.com
 0.0.0.0 jv16powertools.com
 0.0.0.0 jwpltx.com
@@ -4418,7 +4411,6 @@
 0.0.0.0 logrocket.io
 0.0.0.0 logs-api.zenvia.com
 0.0.0.0 logs-coordinating.vsco.co
-0.0.0.0 logs-ext.bitdefender.com
 0.0.0.0 logs-gateway.tabnine.com
 0.0.0.0 logs-logstash.vsco.co
 0.0.0.0 logs.1password.com
@@ -4937,7 +4929,6 @@
 0.0.0.0 miuiboot.tracking.miui.com
 0.0.0.0 mixer.cupid.ptqy.gitv.tv
 0.0.0.0 mixpanel.untappd.com
-0.0.0.0 mkt.pcpitstop.com
 0.0.0.0 ml.adikteev.com
 0.0.0.0 ml.remerge.io
 0.0.0.0 mlog.search.xiaomi.net
@@ -5449,7 +5440,6 @@
 0.0.0.0 pico.logs.roku.com
 0.0.0.0 picocurl.com
 0.0.0.0 ping-hk.taboola.com
-0.0.0.0 ping.avast.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pintient.com
