@@ -1,10 +1,9 @@
 # Antivirus Software Blocklist
 
-**Son Güncelleme:** 16 Temmuz 2026
-**Toplam Domain Sayısı:** 74
+# Total domains: 74
+# Last update: 2026/07/16
 
-```
-# AVAST — Telemetri & Analitik
+# AVAST
 stats.avast.com
 v7.stats.avast.com
 v7event.stats.avast.com
@@ -19,18 +18,11 @@ analytics.avcdn.net
 analytics-prod-gcp.ff.avast.com
 analytics-stage.ff.avast.com
 analytics.ns1.ff.avast.com
-ping.avast.com
 an.avast.com
 ans.avast.com                   
-ip-info.ff.avast.com
 ads.avast.com
 
-# AVAST — Jumpshot (kapatıldı 2020, hâlâ aktif domain)
-jumpshot.com
-insights.jumpshot.com
-api.jumpshot.com
-
-# AVG — Telemetri
+# AVG
 tracking.avg.com
 telemetry.avg.com
 stats.avg.com
@@ -44,15 +36,14 @@ mdm-sentry-win.cz.avg.com
 telemetry.norton.com
 stats.norton.com
 analytics-login.norton.com
-emailfootprint.norton.com
 etrack.np.norton.com
 eventlog-failtest.norton.com
 eventlog-sd-beta.norton.com
 eventlog-sd.norton.com
 eventlog.norton.com
 mi.telemetry.lab.norton.com
-faults.norton.com
-faults.symantec.com
+faults.norton.com !
+faults.symantec.com !
 
 # McAFEE / TRELLIX
 rmmetrics.mcafee.com
@@ -74,7 +65,6 @@ telemetry.bitdefender.com
 stats.bitdefender.com
 analytics.bitdefender.com
 sstats.bitdefender.com
-logs-ext.bitdefender.com
 metrics.bitdefender.com
 smetrics.bitdefender.com
 
@@ -100,4 +90,4 @@ easyad.360.cn
 jubaoads.360.cn
 
 # PC MATIC
-mkt.pcpitstop.com    
+mkt.pcpitstop.com !    
