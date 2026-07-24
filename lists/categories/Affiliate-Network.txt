@@ -1,8 +1,6 @@
-# ============================================================
 # AFFILIATE NETWORK BLOCKLIST
 # Total domains: 162
 # Last update: 2026-07-16
-# ============================================================
 
 # --- CJ AFFILIATE --- (28 domain)
 ads.api.cj.com
@@ -208,7 +206,7 @@ www.mylead.global
 golead.pl
 pub.mylead.global
 
-# --- MORENICHE (NOT: moreniche.com satilmis, gambleonline.ca adresine yonlendiriyor) --- (3 domain)
+# --- MORENICHE ("NOTE: moreniche.com has been sold and is redirecting to gambleonline.ca") --- (3 domain)
 moreniche.com
 www.moreniche.com
 gambleonline.ca
