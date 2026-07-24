@@ -1,14 +1,9 @@
 # AI chatbots & LLM Blocklist
 
-**Son Güncelleme:** 16 Temmuz 2026
-**Toplam Domain Sayısı:** 37 (Temel: 36 + Aggressive Ek: 1)
+# Last update: 2026/07/16
+# Total domains: 37
 
-```
-# ═══════════════════════════════════════
-# TEMEL LİSTE
-# ═══════════════════════════════════════
-
-# Companion AI — Tracking Subdomains
+# Companion AI
 analytics.replika.ai
 metrics.replika.ai
 analytics.character.ai
@@ -30,7 +25,8 @@ telemetry.coder.com
 track.coder.com
 
 # Code Assistants — Amazon Q Developer
-client-telemetry.us-east-1.amazonaws.com             
+
+client-telemetry.us-east-1.amazonaws.com     
 telemetry.aws-language-servers.us-east-1.amazonaws.com
 prod.log.shortbread.aws.dev
 
@@ -44,9 +40,6 @@ arc-metrics.corp.codeium.com
 telemetry.tabnine.com
 logs-gateway.tabnine.com
 
-# Microsoft Copilot & Bing
-cdp.copilot.microsoft.com
-
 # ChatGPT / OpenAI
 o.openai.com
 telemetry.openai.com
@@ -58,6 +51,8 @@ o33249.ingest.sentry.io
 # Claude / Anthropic
 metrics.anthropic.com
 o1158394.ingest.us.sentry.io
+statsig.anthropic.com ! # Anthropic feature flag & A/B experimentation (Statsig)
+# ⚠️ WARNING: Blocking this domain may break UI functionality - missing features and errors may result.
 
 # Gemini / Google AI
 gemini-analytics.google.com
@@ -66,11 +61,3 @@ bard-telemetry.google.com
 # Romantic AI — 3. Parti Tracker
 track.romanticai.com
 zemomedia.com
-
-# ═══════════════════════════════════════
-# AGGRESSIVE LIST
-# ═══════════════════════════════════════
-
-# Claude / Anthropic
-statsig.anthropic.com ! # Anthropic feature flag & A/B experimentation (Statsig)
-# ⚠️ BREAKS: Engellenirse UI davranışı bozulabilir (özellik görünmeme, hata)
