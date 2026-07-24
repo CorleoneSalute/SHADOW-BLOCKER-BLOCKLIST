@@ -68,7 +68,7 @@ logger.scite.ai
 # SCILIT (MDPI)
 stats.i.mdpi.com
 
-# ERIC (ABD Eğitim Bakanlığı)
+# ERIC (U.S. Department of Education)
 analytics-origin.cod.ed.gov
 analytics.cod.ed.gov
 
