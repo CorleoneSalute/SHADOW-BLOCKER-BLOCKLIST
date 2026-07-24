@@ -1,0 +1,434 @@
+# ============================================================
+# URL SHORTENER / LINK TRACKING BLOCKLIST
+# Toplam Domain Sayısı: 321
+# Son Güncelleme: (2026-07-16)
+============================================================
+
+# --- BITLY --- (4 domain)
+bitly.lc !
+bityl.co !
+tracking.bitly.com
+analytics.bitly.com
+
+# --- REBRANDLY --- (3 domain)
+tracking.rebrandly.com
+pixel.rebrandly.com
+ads.rebrandly.com
+
+# --- SHORT.IO --- (3 domain)
+shortcm.li !
+shortcm.xyz !
+analytics.short.io
+
+# --- TIER 3 - RUSYA --- (1 domain)
+ezstat.ru
+
+# --- TIER 3 - VİETNAM --- (1 domain)
+bcvc.live !
+
+# --- TIER 3 - KORE --- (1 domain)
+han.gl !
+
+# --- TIER 3 - ENDONEZYA (S.ID) --- (1 domain)
+analytics.s.id
+
+# --- TIER 3 - TAİWAN (LİHİ NETWORK) --- (2 domain)
+lihi1.com !
+lihi3.cc !
+
+# --- TIER 4 - ADF.LY NETWORK --- (147 domain)
+adf.ly
+j.gs
+q.gs
+u.bb
+ay.gy
+atominik.com
+cdn.adf.ly
+login.adf.ly
+logo.adf.ly
+static.adf.ly
+support.adf.ly
+v1.adf.ly
+web1.adf.ly
+s1-adfly.com
+cdn.ay.gy
+login.ay.gy
+microify.com
+bluenik.com
+tinyium.com
+babblecase.com
+riffhold.com
+pintient.com
+battleate.com
+casualient.com
+mmoity.com
+getrom.net
+zo.ee
+atomcurve.com
+bitigee.com
+flyserve.co
+tinyical.com
+picocurl.com
+simizer.com
+dataurbia.com
+viahold.com
+api.adf.ly
+kb.adf.ly
+v2.adf.ly
+mail.adf.ly
+custom.adf.ly
+api.ay.gy
+web3.adf.ly
+adult.xyz
+acconpit.com
+aciterar.com
+aclabink.com
+activeation.com
+activeterium.com
+agileurbia.com
+android-zone.org
+anthargo.com
+aporasal.net
+aspedrom.com
+atabencot.net
+atharori.net
+beteshis.com
+blaleela.com
+botemoda.com
+briskrange.com
+brisktopia.com
+caneddir.com
+cesinthi.com
+chinnica.net
+cigorsica.com
+clesolea.com
+coginator.com
+cogismith.com
+combostruct.com
+cowner.net
+crefranek.com
+criarysm.com
+dapalan.com
+dashsphere.com
+deciomm.com
+detonnot.com
+ducolomal.com
+ecleneue.com
+eleburic.com
+ethobleo.com
+eunsetee.com
+evassmat.com
+evolterr.com
+extrecey.com
+fainbory.com
+fasttory.com
+fawright.com
+fiaharam.net
+fumacrom.com
+furtelec.com
+gatustox.net
+gdanstum.net
+gloyah.net
+greponozy.com
+gusimp.net
+hideadew.com
+hinafinea.com
+homoluath.com
+hopigrarn.com
+hurirk.net
+infopade.com
+intamema.com
+ivononic.com
+kaitect.com
+keistaru.com
+kializer.com
+kibuilder.com
+kimechanic.com
+kudoflow.com
+larati.net
+legeerook.com
+libittarc.com
+linkjaunt.com
+locinealy.com
+lopoteam.com
+maetrimal.com
+meriabub.net
+metastead.com
+morebatet.com
+motriael.com
+movincle.com
+neswery.com
+nimbleinity.com
+onisedeo.com
+onizatop.net
+optitopt.com
+orablyro.com
+pheecith.com
+pladollmo.com
+prereheus.com
+quainator.com
+quamiller.com
+raboninco.com
+rainonit.com
+rantenah.com
+rapidteria.com
+rapidtory.com
+regecish.net
+scapognel.com
+scuseami.net
+skamaker.com
+skamason.com
+sluppend.com
+smeartha.com
+sprysphere.com
+stratoplot.com
+streamvoyage.com
+svencrai.com
+
+# --- TIER 4 - LINKBUCKS --- (5 domain)
+linkbucks.com
+any.gs
+cash4links.co
+amy.gs
+tinylink.co
+
+# --- TIER 4 - SPAM SHORTENER'LAR --- (6 domain)
+ity.im
+cli.gs
+tinyarro.ws
+ta.gd
+zip.net
+shink.in
+
+# --- TIER 4 - ŞÜPHELİ / GÜVENİLMEZ --- (29 domain)
+shorturl.at
+cutt.ly
+cutt.bio
+api.cutt.ly
+2s.ms
+clk.sh
+clksh.com
+short.gy
+exe.io !
+api.exe.io
+soo.gd
+gg.gg
+tiny.one
+za.gl
+za.uy
+zee.gl
+ay.live
+bit.do
+x.co
+l.wl.co
+shorturl.ae
+shorturl.asia
+shorturl.com
+shorturl.gg
+www.shrunken.com
+cutyion.com
+cuttlinks.com
+cutly.in
+vplink.in
+
+# --- TIER 4 - MALWARE DAĞITIMI --- (7 domain)
+ois.is
+c-lick.click
+t-e.site
+r-o.pro
+g16g.com
+cnhv.co
+bt.ly
+
+# --- TIER 4 - QR KOD İSTİSMARI --- (2 domain)
+qrco.de
+api.qrco.de
+
+# --- TIER 4 - IP LOGGER / TRACKER --- (7 domain)
+iplogger.co
+iplogger.com
+iplogger.info
+iplogger.org
+iplogger.ru
+ipgrabber.ru
+ipgraber.ru
+
+# --- TIER 5 - CLICKMETER --- (2 domain)
+clickmeter.com
+clkmr.com
+
+# --- TIER 5 - KUTT.IT --- (1 domain)
+kutt.it !
+
+# --- TIER 5 - REPLUG --- (3 domain)
+rplg.co
+replug.io
+replug.link
+
+# --- TIER 5 - JOTURL --- (2 domain)
+trk.joturl.com
+track.joturl.com
+
+# --- TIER 5 - PIXELME --- (6 domain)
+pixelme.me
+pixel.me
+pxlme.me
+getpixelme.com
+pixelme.app
+pixelme.io
+
+# --- TIER 5 - LINKJOY --- (2 domain)
+linkjoy.io
+scottnesbitt.io # ⚠️ (Domain satılmış, scam kumar sitesine yönlendiriyor)
+
+# --- TIER 5 - DİĞER TİCARİ PLATFORMLAR --- (4 domain)
+urlshorter.com
+slink.to
+pxl.to
+www.pxl.to
+
+# --- TIER 7 - EK SHORTENER'LAR --- (17 domain)
+ads.tinu.be
+yaso.su
+track.foxlyme.com
+lms.analytics.lc.cx
+stats2.u.to
+www.gstat.u.to
+gstat.u.to
+xurl.es
+zeep.ly
+zi.ma
+lmy.de
+tpmr.com
+supr.link
+ourl.cn
+lnk.do
+shorten.so
+shorter.me
+
+# --- TIER 8 - LINKVERTISE --- (8 domain)
+linkvertise.com !
+ad-server.linkvertise.com
+ads-preview.linkvertise.com
+cdn.advertiser.linkvertise.com
+temp-ads.linkvertise.com
+api-advertiser.linkvertise.com
+advertiser.linkvertise.com
+migrate-adfly.linkvertise.com
+
+# --- TIER 8 - WORK.INK --- (4 domain)
+temu.work.ink
+opera-banner-router.work.ink
+tr.work.ink
+sentry.work.ink
+
+# --- TIER 8 - SHORTE.ST --- (3 domain)
+analytics.shorte.st
+collector.shorte.st
+tracking.shorte.st
+
+# --- TIER 8 - UII.IO --- (1 domain)
+uii.io # ⚠️ (scam)
+
+# --- TIER 8 - LINKREX --- (2 domain)
+linkrex.net
+xut.io # ⚠️ (scam)
+
+# --- TIER 8 - ADFOC.US --- (1 domain)
+adfoc.us # ⚠️ (scam)
+
+# --- TIER 8 - CPMLINK --- (1 domain)
+cpmlink.net # ⚠️ (scam)
+
+# --- TIER 8 - URLCASH --- (2 domain)
+urlcash.com
+urlcash.net # ⚠️ (scam)
+
+# --- TIER 8 - PAYSKIP --- (2 domain)
+payskip.org !
+payskip.me !
+
+# --- TIER 8 - SPASTE --- (1 domain)
+spaste.com !
+
+# --- TIER 8 - CLICKSFLY --- (4 domain)
+clicksfly.com !
+api.clicksfly.com
+app.clicksfly.com
+clk.asia
+
+# --- TIER 8 - ADSHRINK --- (1 domain)
+adshrink.it !
+
+# --- TIER 8 - VIVADS --- (1 domain)
+vivads.net !
+
+# --- TIER 8 - OKE.IO --- (1 domain)
+oke.io !
+
+# --- TIER 8 - DZ4LINK --- (1 domain)
+dz4link.com # ⚠️ (adware, PUP)
+
+# --- TIER 8 - ADMYLINK --- (1 domain)
+admylink.com !
+
+# --- TIER 8 - ICUTLINK --- (1 domain)
+icutlink.com !
+
+# --- TIER 8 - SHRTFLY --- (2 domain)
+shrtfly.com
+analytics.shrtfly.com
+
+# --- TIER 8 - GESTYY --- (1 domain)
+gestyy.com # ⚠️ (adware, virus)
+
+# --- TIER 8 - AYLINK --- (1 domain)
+aylink.co !
+
+# --- TIER 8 - FC.LC --- (2 domain)
+fc.lc !
+fc-lc.com
+
+# --- TIER 8 - COINURL --- (1 domain)
+coinurl.com !
+
+# --- TIER 8 - CUR.LV --- (1 domain)
+cur.lv !
+
+# --- TIER 8 - ADLOCK --- (1 domain)
+adlock.org !
+
+# --- TIER 8 - LINKSHRINK --- (1 domain)
+linkshrink.net # ⚠️ (malware)
+
+# --- TIER 8 - SAFELINKING --- (1 domain)
+safelinking.net # ⚠️ (2024 veri sızıntısı, güvenilmez altyapı)
+
+# --- TIER 8 - CUTWIN --- (1 domain)
+cutwin.com !
+
+# --- TIER 8 - EK MONETİZASYON --- (3 domain)
+smoner.com !
+uskip.me !
+exee.io !
+
+# --- TIER 9 - ANKET SCAM VE KİMLİK AVCILIĞI --- (5 domain)
+linksfly.me 
+linksfly.link 
+linkfly.to 
+shortener.space 
+vt7.site 
+
+# --- TIER 10 - GEÇİCİ / TEK KULLANIMLIK --- (7 domain)
+1ty.me !
+thislinkwillselfdestruct.com !
+tlwsd.in !
+dyinglinks.com !
+url.dev !
+burn.link !
+protonurl.ch !
+
+# --- TIER 11 - SMS ABONELİK TUZAKLARI --- (3 domain)
+alturl.com 
+lc.chat 
+minm.xyz 
