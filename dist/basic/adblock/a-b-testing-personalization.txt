@@ -1,7 +1,7 @@
 # ============================================================
 # A B TESTING PERSONALIZATION BLOCKLIST - BASIC
 # Total domains: 66
-# Generated: 2026-07-23 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
