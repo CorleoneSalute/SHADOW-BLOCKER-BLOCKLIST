@@ -1,6 +1,6 @@
 # ============================================================
-# SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 710
+# SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
+# Total domains: 736
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -139,6 +139,7 @@ atlassolutions.com
 aws-glue.sc-prod.net
 bds.snssdk.com
 bizographics.com
+bpgslb.com
 cbx.rtb.linkedin.com
 cdn.linkedin.oribi.io
 click.learn.ads.snapchat.com
@@ -146,6 +147,8 @@ clientmetrics.twitter.com
 cloud.learn.ads.snapchat.com
 collector-ops.twitter.com
 collector.reddit.com
+connect.facebook.com
+connect.facebook.net
 convtrack.facebook.com
 crash-reports.facebook.com
 ct.pinterest.com
@@ -155,6 +158,7 @@ diana-errors-web.sidechat.lol
 direct-response-gcp.api.snapchat.com
 dpm.demdex.net
 dtu-analytics.mobile.ig.com
+dvaitas.lt
 error.facebook.com
 error.reddit.com
 errors.lynda.com
@@ -172,7 +176,27 @@ facebook-analytics.com
 facebookads.com
 fb-analytics.com
 fbthirdpartypixel.com
+frontier-i18n.tiktokv.com
+frontier-my2.tiktokv.com
+frontier-ru.tiktokv.com
+frontier-ttp2.tiktokv.us
+frontier-va.tiktokv.com
+frontier.amemv.com
 frontier.byteoversea.com
+frontier.tiktokv-eu.com
+frontier.tiktokv.com
+frontier.tiktokv.eu
+frontier.tiktokv.us
+frontier100-normal-alisg.tiktokv.com
+frontier100-normal-useast1a.tiktokv.com
+frontier16-alisg.tiktokv.com
+frontier16-normal-no1a.tiktokv.eu
+frontier16-normal-useastred.tiktokv.eu
+frontier23-normal-alisg.tiktokv.com
+frontier23-normal-useast1a.tiktokv.com
+frontier4-pp-lf.amemv.com
+frontier4-pp-lq.amemv.com
+frontier4-pp.amemv.com
 fwx.rtb.linkedin.com
 gecko-pangle-sg.byteoversea.com
 gplog-sg.byteoversea.com
@@ -681,6 +705,8 @@ tracks.reddit.com
 trk-v4.pinterest.com
 trk.pinterest.com
 tsearch.snssdk.com
+ttdns2.com
+ttdns3.com
 ug-sg.byteoversea.com
 ug.snssdk.com
 url4077.ads-service.tiktok.com
