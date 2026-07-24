@@ -1,18 +1,19 @@
 # Academic Research Blocklist
 
-# Last update: 16 Temmuz 2026
+# Last update: 2026/07/16
 # Total domains: 70
 
 ```
 # ELSEVIER
 analytics.elsevier.com
 analytics.notify.elsevier.com
-dotcom-preview.tags.elsevier.com
-dotcom.tags.elsevier.com
+tags.elsevier.com !
+dotcom-preview.tags.elsevier.com !
+dotcom.tags.elsevier.com !
 ekb.analytics.elsevier.com
 ewtracking.elsevier.com
 niad.analytics.elsevier.com
-shop.tags.elsevier.com
+shop.tags.elsevier.com !
 smetrics.elsevier.com
 usagereports.elsevier.com
 logger.sciencedirect.com
