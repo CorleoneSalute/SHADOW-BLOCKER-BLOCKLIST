@@ -1,0 +1,567 @@
+# ==================================================================
+# SMART TV BLOCKLIST
+# Toplam Domain Sayisi: 481
+# Son Guncelleme: 18 Temmuz 2026
+# ==================================================================
+
+# SAMSUNG (75 domain)
+============================================================
+smetrics.samsung.com
+smetrics.samsung.com.cn
+event-tracking.samsung.com
+nmetrics.samsung.com
+analytics.bigdata.samsung.com
+analytics.samsungedo.com
+api-diagmon.samsungdm.com
+diagmon-policy.samsungdm.com
+diagmon-serviceapi.samsungdm.com
+report.gras.samsungdm.com
+acr-eu-prd.samsungcloud.tv
+otnstats.samsungcloud.tv
+market-analysis.samsungcloud.tv
+acr-us-prd.samsungcloud.tv
+acr-au-prd.samsungcloud.tv
+acr-br-prd.samsungcloud.tv
+acr-ca-prd.samsungcloud.tv
+acr-in-prd.samsungcloud.tv
+acr-kr-prd.samsungcloud.tv
+acr-mx-prd.samsungcloud.tv
+acr0.samsungcloudsolution.com
+log-config.samsungacr.com
+log-ingestion.samsungacr.com
+log-ingestion-eu.samsungacr.com
+log-ingestion-ap2.samsungacr.com
+log-ingestion-kr.samsungacr.com
+log-ingestion-sa.samsungacr.com
+log-ingestion-v1-ap2.samsungacr.com
+log-ingestion-v2-ap2.samsungacr.com
+s3-config.samsungacr.com
+www.samsungacr.com
+targeted-config-test.samsungacr.com
+log-1.samsungacr.com
+log-2.samsungacr.com
+log-3.samsungacr.com
+samsungads.com
+config.samsungads.com
+events.samsungads.com
+ad-server.samsungads.com
+api-dooh.samsungads.com
+dsp.samsungads.com
+go.samsungads.com
+go2.samsungads.com
+rtb-config.samsungads.com
+tvp-ads-log.samsungads.com
+apu.samsungelectronics.com
+upu.samsungelectronics.com
+dpu.samsungelectronics.com
+kpu.samsungelectronics.com
+bpu.samsungelectronics.com
+cpu.samsungelectronics.com
+xpu.samsungelectronics.com
+ypu.samsungelectronics.com
+zpu.samsungelectronics.com
+devicelog.samsungcloudsolution.net
+prderrordumpssm.samsungcloudsolution.com
+prderrordumphsm.samsungcloudsolution.com
+log.internetat.tv
+samsunganalytics.com
+samsunganalytics.net
+samsungadhub.com
+ad.samsungadhub.com
+ads.samsungads.com
+rd.samsungadhub.com
+www.samsungadhub.com
+ww25.ad.samsungadhub.com
+tvx.adgrx.com
+adgrx.com
+ads.aimitv.com
+samsungtvads.com
+samsungrm.com
+www.samsungrm.com
+samsungrm.net
+test.samsungrm.net
+www.samsungrm.net
+
+# LG (55 domain)
+============================================================
+ad.lgsmartad.com
+us.info.lgsmartad.com
+us.ad.lgsmartad.com
+us.cdpbeacon.lgtvcommon.com
+videoads.lgtvcommon.com
+cdpbeacon2.lgtvcommon.com
+us.cdpsvc.lgtvcommon.com
+us.nudge.lgtvcommon.com
+us.rdx2.lgtvsdp.com
+us.lgsmartad.com
+jp.rdx2.lgtvsdp.com
+jp.info.lgsmartad.com
+jp.ad.lgsmartad.com
+de.rdx2.lgtvsdp.com
+de.info.lgsmartad.com
+de.ad.lgsmartad.com
+fr.rdx2.lgtvsdp.com
+kr.info.lgsmartad.com
+GB.info.lgsmartad.com
+info.lgsmartad.com
+lgads.tv
+www.lgads.tv
+ngfts.lge.com
+lgads.lge.com
+lgadsapi.lge.com
+aic-ngfts.lge.com
+eic-ngfts.lge.com
+kic-ngfts.lge.com
+qt2-ngfts.lge.com
+ruc-ngfts.lge.com
+kic-ngfts.lge.com.edgekey.net
+eic-ngfts.lge.com.edgekey.net
+qt2-ngfts.lge.com.edgekey.net
+ad.lgappstv.com
+yumenetworks.com
+lgad.cjpowercast.com.edgesuite.net
+lgad.cjpowercast.com
+smartclip.com
+smartclip.net
+bl-server.alphonso.tv
+clockskew.alphonso.tv
+prov-lg.alphonso.tv
+alphonso.tv
+aic.nudge.lgtvcommon.com
+cdpbeacon.lgtvcommon.com
+cdpsvc.lgtvcommon.com
+nudge.lgtvcommon.com
+aic.cdpbeacon.lgtvcommon.com
+aic.cdpsvc.lgtvcommon.com
+eic.cdpbeacon.lgtvcommon.com
+eic.cdpsvc.lgtvcommon.com
+eic.nudge.lgtvcommon.com
+rum.beusable.net
+go-mpulse.net
+s.go-mpulse.net
+
+# VIZIO (6 domain)
+============================================================
+tvinteractive.tv
+log.vizio.com
+inscape.tv
+www.inscape.tv
+data.inscape.tv
+api.inscape.tv
+
+# SONY BRAVIA (13 domain)
+============================================================
+flingo.tv
+api.flingo.tv
+call.me.sel.sony.com
+facemap.foldlife.net
+ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
+ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
+api.cid.samba.tv
+preferences.cid.samba.tv
+control.tvinteractive.tv
+control2.tvinteractive.tv
+mcp.tvinteractive.tv
+tvmeta-dynamic.tvinteractive.tv
+control-zoo-dai-default.tvinteractive.tv
+
+# TCL (9 domain)
+============================================================
+analysis.leiniao.com
+hwads-o.res.leiniao.com
+post.analysis.leiniao.com
+s.analysis.leiniao.com
+hw-tdp-o.api.leiniao.com
+hwtpc-o.api.leiniao.com
+ads.alcatel.tcl.com
+ads.tcl.com
+eads.tcl.com
+
+# HISENSE / VIDAA (6 domain)
+============================================================
+analytic.hisensetv.com
+logs.hisensetv.com
+metrics.hisensetv.com
+stats.hisensetv.com
+abtest-tv.vidaahub.com !
+rsc-ads.vidaahub.com !
+
+# PHILIPS (2 domain)
+============================================================
+ad.nettvservices.com
+tv2k9ad.nettvservices.com
+
+# PANASONIC VIERA (48 domain)
+============================================================
+sgw-analytics.panasonic.com
+smetrics-cns.panasonic.com
+smetrics.panasonic.com
+track.me.eu.panasonic.com
+track.te.eu.panasonic.com
+track.tr.eu.panasonic.com
+tups-ads.eww.panasonic.com
+0077777700140002.myhomescreen.tv
+collect.myhomescreen.tv
+usage.myhomescreen.tv
+collect-us-fy2014.myhomescreen.tv
+collect-us-fy2015.myhomescreen.tv
+collect-us-fy2016.myhomescreen.tv
+collect-us-fy2017.myhomescreen.tv
+collect-us-fy2018.myhomescreen.tv
+collect-us-fy2019.myhomescreen.tv
+collect-us-fy2020.myhomescreen.tv
+collect-us-fy2021.myhomescreen.tv
+collect-us-fy2022.myhomescreen.tv
+usage-us-fy2014.myhomescreen.tv
+usage-us-fy2015.myhomescreen.tv
+usage-us-fy2016.myhomescreen.tv
+usage-us-fy2017.myhomescreen.tv
+usage-us-fy2018.myhomescreen.tv
+usage-us-fy2019.myhomescreen.tv
+usage-us-fy2020.myhomescreen.tv
+usage-us-fy2021.myhomescreen.tv
+usage-us-fy2022.myhomescreen.tv
+collect-eu-fy2014.myhomescreen.tv
+collect-eu-fy2015.myhomescreen.tv
+collect-eu-fy2016.myhomescreen.tv
+collect-eu-fy2017.myhomescreen.tv
+collect-eu-fy2018.myhomescreen.tv
+collect-eu-fy2019.myhomescreen.tv
+collect-eu-fy2020.myhomescreen.tv
+collect-eu-fy2021.myhomescreen.tv
+collect-eu-fy2022.myhomescreen.tv
+usage-eu-fy2014.myhomescreen.tv
+usage-eu-fy2015.myhomescreen.tv
+usage-eu-fy2016.myhomescreen.tv
+usage-eu-fy2017.myhomescreen.tv
+usage-eu-fy2018.myhomescreen.tv
+usage-eu-fy2019.myhomescreen.tv
+usage-eu-fy2020.myhomescreen.tv
+usage-eu-fy2021.myhomescreen.tv
+usage-eu-fy2022.myhomescreen.tv
+vindicosuite.com
+x2.vindicosuite.com
+
+# ROKU (135 domain)
+============================================================
+ads.roku.com
+advertising.roku.com
+ads-partners.roku.com
+admin-advertising.roku.com
+advertising-v3.roku.com
+adservices.roku.com
+api.ads.roku.com
+delta-staging.ads.roku.com
+identity.ads.roku.com
+identity-dev.ads.roku.com
+info.ads.roku.com
+login.ads.roku.com
+preferences.ads.roku.com
+cdn.tcom.ads.roku.com
+info.advertising.roku.com
+ads.beta.roku.com
+api.ads.beta.roku.com
+ads.staging.roku.com
+login.ads.staging.roku.com
+ravm.tv
+display.ravm.tv
+raps.ravm.tv
+rxr.ravm.tv
+cdn.ravm.tv
+p.ravm.tv
+www.ravm.tv
+cnames.raps.ravm.tv
+demo.raps.ravm.tv
+hb-4y7w.raps.ravm.tv
+hb-e8zk.raps.ravm.tv
+hb-gf26.raps.ravm.tv
+hb-kl5v.raps.ravm.tv
+hb-m9sn.raps.ravm.tv
+hb-njub.raps.ravm.tv
+hb-r93v.raps.ravm.tv
+hb-t5u9.raps.ravm.tv
+hb-tm7d.raps.ravm.tv
+hb-w4a8.raps.ravm.tv
+i.ads.roku.com
+p.ads.roku.com
+ads-aka-us-east-1.delivery.roku.com
+ads-aka-us-west-2.delivery.roku.com
+ads-cf-us-east-1.delivery.roku.com
+ads-cf-us-west-2.delivery.roku.com
+ads-us-east-1.delivery.roku.com
+ads-us-east-2.delivery.roku.com
+ads-us-west-2.delivery.roku.com
+ads.gcp.roku.com
+us-east4.ads.gcp.roku.com
+us-west1.ads.gcp.roku.com
+advertising.us-east-1.msc.roku.com
+advertising-v3.us-east-1.msc.roku.com
+blog-advertising.msc.roku.com
+blog-advertising-v2.us-east-1.msc.roku.com
+ravm-staging.data.roku.com
+samples.voice.cti.roku.com
+logs.roku.com
+pixel2.web.roku.com
+beacon.roku.com
+es-logger.bdp.roku.com
+es-logger-dns.bdp.roku.com
+scribe.logs.bdp.roku.com
+beacon.web.roku.com
+scribe.logs.roku.com
+austin.logs.roku.com
+bailey.logs.roku.com
+benjamin.logs.roku.com
+benjamin-w.logs.roku.com
+brewster.logs.roku.com
+camden.logs.roku.com
+cooper.logs.roku.com
+customer-service.logs.roku.com
+digdug.logs.roku.com
+digdug-g2.logs.roku.com
+esp.logs.roku.com
+external.logs.roku.com
+aws.external.logs.roku.com
+use1.aws.external.logs.roku.com
+g3.logs.roku.com
+giga.logs.roku.com
+gilbert.logs.roku.com
+griffin.logs.roku.com
+hereford.logs.roku.com
+lagrange.logs.roku.com
+liberty.logs.roku.com
+littlefield.logs.roku.com
+lockhart.logs.roku.com
+logan.logs.roku.com
+longview.logs.roku.com
+lt.logs.roku.com
+madison.logs.roku.com
+marlin.logs.roku.com
+midland.logs.roku.com
+mobile.logs.roku.com
+mustang.logs.roku.com
+nemo.logs.roku.com
+paolo.logs.roku.com
+pico.logs.roku.com
+richmond.logs.roku.com
+rockett.logs.roku.com
+rollingwood.logs.roku.com
+sugarland.logs.roku.com
+tyler.logs.roku.com
+victoria.logs.roku.com
+weighted.logs.roku.com
+windsor.logs.roku.com
+amarillo.logs.roku.com
+bryan.logs.roku.com
+os-12-5-alpha.logs.roku.com
+acr.roku.com
+admon.acr.roku.com
+admon-api.acr.roku.com
+adview.acr.roku.com
+admon.ca.acr.roku.com
+ca-service.acr.roku.com
+channels.acr.roku.com
+grafana.acr.roku.com
+tvacr-tools.acr.roku.com
+us-service.acr.roku.com
+cdp.cloud.roku.com
+analytics.roku.com
+metrics.roku.com
+telemetry.roku.com
+customer-feedbacks.web.roku.com
+logs.sr.roku.com
+traces.sr.roku.com
+userdata.sr.roku.com
+traces.dev.sr.roku.com
+logs.dev.sr.roku.com
+userdata.dev.sr.roku.com
+track.sr.roku.com
+pixel.web.roku.com
+w55c.net
+ads.w55c.net
+roku.adsmeasurement.com
+
+# AMAZON FIRE TV (20 domain)
+============================================================
+unagi-na.amazon.com
+unagi-eu.amazon.com
+unagi-fe.amazon.com
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+device-metrics-us-ud.amazon.com
+kinesis.us-east-1.amazonaws.com
+digprjsurvey.amazon.eu
+mobileanalytics.us-east-1.amazonaws.com
+telemetry.insights.video.a2z.com
+insights.video.a2z.com
+bugsnag.appstore.a2z.com
+firetv.bugsnag.appstore.a2z.com
+notify.firetv.bugsnag.appstore.a2z.com
+notify.bugsnag.appstore.a2z.com
+config.ioam.de
+de.ioam.de
+secure-eu.imrworldwide.com
+logs1409.xiti.com
+tracksrv.zdf.de
+
+# TOSHIBA (7 domain)
+============================================================
+samba.tv
+api.samba.tv
+data.samba.tv
+events.cid.samba.tv
+platform.cid.samba.tv
+7345023508.fxm9485766783.com
+7345023508.fxmconnect.com
+
+# SKYWORTH / COOCAA (5 domain)
+============================================================
+gz-data.com
+gozendata.com
+analysis.coolita.com
+post.analysis.coolita.com
+s.analysis.coolita.com
+
+# VESTEL / TIVO OS (12 domain)
+============================================================
+adgwy.tivo.com
+advertising.tivo.com
+adapi.tivo.com
+pixel.tivo.com
+prod.adgwy.tivo.com
+log.core.cloud.vewd.com
+analytics-embedded.cloud.vewd.com
+analytics.vewd.com
+custom-analytics.cloud.vewd.com
+elog.vewd.com
+log-legacy.core.cloud.vewd.com
+sdklog.cloud.vewd.com
+
+# TITAN OS (3 domain)
+============================================================
+analytics.titanos.tv
+ads.titanos.tv
+titan-ads.tv
+
+# SKY GLASS / SKY STREAM (1 domain)
+============================================================
+skyadsmart.com
+
+# WHALE OS (Zeasn) (2 domain)
+============================================================
+analytics.whaletv.com
+collect.whaletv.com
+
+# FOXXUM OS (2 domain)
+============================================================
+analytics.foxxum.com
+sentry1.foxxum.com
+
+# MULTI-PLATFORM ACR / ANALYTICS (2 domain)
+============================================================
+digitalsmiths.net
+hbbtv-track.redbutton.de
+
+# THIRD-PARTY PROXY / DATA NETWORK (Bright Data) — ⚠️ Israel proxyware (59 domain)
+============================================================
+brightdata.com !
+community.brightdata.com
+dcmp.brightdata.com
+demos.brightdata.com
+dl.brightdata.com
+dl.dev.brightdata.com
+dl.staging.brightdata.com
+docs.brightdata.com
+forti.home.brightdata.com
+get.brightdata.com
+gitlab.brightdata.com
+help.brightdata.com
+insights-api-ms.brightdata.com
+insights-api.brightdata.com
+insights.brightdata.com
+learncyber.brightdata.com
+login.brightdata.com
+mx.brightdata.com
+sdk-video.brightdata.com
+sl.brightdata.com
+brightdata.de
+brightdata.digital
+brightdata.work
+luminati.io
+luminatinet.com !
+brdtnet.com
+avhk-test.brdtnet.com
+avhk-test2.brdtnet.com
+avhk.conf.brdtnet.com
+avhk2.conf.brdtnet.com
+avhk3.conf.brdtnet.com
+avva.conf.brdtnet.com
+datasets-automation-server.brdtnet.com
+proxyjs.test.brdtnet.com
+bright-sdk.com
+cdn.bright-sdk.com
+docs.bright-sdk.com
+help.bright-sdk.com
+lum-sdk.io
+clientsdk.luminatinet.com
+luminati-china.io !
+clientsdk.luminati-china.io
+luminati-holanetworksltd.netdna-ssl.com
+brdtest.com
+123superproxy.com !
+l-agent.me !
+perr.l-agent.me
+l-err.biz !
+perr.l-err.biz
+perr.h-cdn.com
+tracker-server.high-cdn.com
+0i.sh-cdn.com
+earnapp.com !
+client.earnapp.com
+proxyjs.brdtnet.com
+proxyjs.luminatinet.com
+proxyjs.bright-sdk.com
+clientsdk.bright-sdk.com
+clientsdk.brdtnet.com
+
+# AGRESİF LİSTE - EK DOMAINLER (Temel listeye ek olarak)
+# Aşağıdaki gruplar, engellendiğinde bazı özellikleri bozabilecek
+# "track" domainleridir. Her grubun neden risk taşıdığı yorum
+# satırında belirtilmiştir.
+# ==================================================================
+
+# Samsung (1 domain)
+# ads.aimitv.com: istek başarısız olursa bazı haber uygulamalarında video kısa süre takılabilir.
+ads.aimitv.com !
+
+# LG: Kişiselleştirme / Recommendation (öneri motoru) (14 domain)
+# Ana ekrandaki "sizin için önerilenler" satırını besler. lgrecommends.lgappstv.com ayrıca Content Store (Uygulamalar) ekranındaki önerilen-uygulama bölümünü de etkileyebilir; bloklarsan bu ekranın görünümü/davranışı değişebilir, oynatma işlevi etkilenmez.
+us.homeprv.lgtvcommon.com !
+us.rdl.lgtvcommon.com !
+us.recommend.lgtvcommon.com !
+de.lgrecommends.lgappstv.com !
+lgrecommends.lgappstv.com !
+homeprv.lgtvcommon.com !
+rdl.lgtvcommon.com !
+recommend.lgtvcommon.com !
+aic.homeprv.lgtvcommon.com !
+aic.rdl.lgtvcommon.com !
+aic.recommend.lgtvcommon.com !
+eic.homeprv.lgtvcommon.com !
+eic.rdl.lgtvcommon.com !
+eic.recommend.lgtvcommon.com !
+
+# Vizio: Reklam sunucusu (WatchFree+ ile bağlantılı) (1 domain)
+# Vizio'nun ücretsiz reklamlı kanalı WatchFree+ bazı yayınlarda reklamı videoya sunucu tarafında (SSAI) ekliyor. Bu domain engellenirse WatchFree+ içerikleri arada donabilir veya yüklenmeyebilir.
+ads.vizio.com ! 
+
+# Google / Android TV: belirsiz/doğrulanamamış googleapis uç noktaları (1 domain)
+# İsimlendirme telemetri gibi görünüyor ancak arama/öneri fonksiyonuna bağlanmış olabilir; düşük-orta risk.
+androidtvwatsonfe-pa.googleapis.com !
+
+# Hisense / VIDAA: kişiselleştirme ve doğrulanamamış servisler (1 domain)
+# recommend-ui-af sadece ana ekran önerilerini etkiler.
+recommend-ui-af.vidaahub.com !
+
+# Titan OS: reklam ve öneri motoru (1 domain)
+# ads.titanos.tv / titan-ads.tv ana ekran reklam kutularını, thinkanalytics.com ise kişiselleştirilmiş içerik önerilerini besler. İkisi de sadece kozmetik/öneri etkisi yapar, oynatmayı bozmaz.
+thinkanalytics.com !
