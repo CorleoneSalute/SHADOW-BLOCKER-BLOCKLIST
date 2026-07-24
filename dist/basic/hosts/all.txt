@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8316
+# Total domains: 8315
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2375,7 +2375,6 @@
 0.0.0.0 cdnrep.reimageplus.com
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 cdp.cloud.roku.com
-0.0.0.0 cdp.copilot.microsoft.com
 0.0.0.0 cdpbeacon.lgtvcommon.com
 0.0.0.0 cdpbeacon2.lgtvcommon.com
 0.0.0.0 cdpsvc.lgtvcommon.com

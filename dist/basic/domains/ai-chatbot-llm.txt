@@ -1,6 +1,6 @@
 # ============================================================
 # AI CHATBOT LLM BLOCKLIST - BASIC
-# Total domains: 36
+# Total domains: 35
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -12,7 +12,6 @@ analytics.replika.ai
 arc-metrics.corp.codeium.com
 bard-telemetry.google.com
 blobs.pixel.coder.com
-cdp.copilot.microsoft.com
 client-telemetry.us-east-1.amazonaws.com
 copilot-telemetry.githubusercontent.com
 events.character.ai
