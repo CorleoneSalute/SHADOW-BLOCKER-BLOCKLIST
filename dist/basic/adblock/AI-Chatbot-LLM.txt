@@ -1,0 +1,42 @@
+# ============================================================
+# AI CHATBOT LLM BLOCKLIST - BASIC
+# Total domains: 35
+# Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||analytics.character.ai^
+||analytics.codeium.com^
+||analytics.openai.com^
+||analytics.replika.ai^
+||arc-metrics.corp.codeium.com^
+||bard-telemetry.google.com^
+||blobs.pixel.coder.com^
+||client-telemetry.us-east-1.amazonaws.com^
+||copilot-telemetry.githubusercontent.com^
+||events.character.ai^
+||gemini-analytics.google.com^
+||logs-gateway.tabnine.com^
+||metrics-eric.oss.demo.coder.com^
+||metrics.anthropic.com^
+||metrics.openai.com^
+||metrics.replika.ai^
+||o.openai.com^
+||o1158394.ingest.us.sentry.io^
+||o207216.ingest.sentry.io^
+||o33249.ingest.sentry.io^
+||prod.log.shortbread.aws.dev^
+||sa.coder.com^
+||sentry.codeium.com^
+||sentry.xinchenai.com^
+||service.githubusercontent.com^
+||telemetry.aws-language-servers.us-east-1.amazonaws.com^
+||telemetry.character.ai^
+||telemetry.codeium.com^
+||telemetry.coder.com^
+||telemetry.openai.com^
+||telemetry.tabnine.com^
+||track.coder.com^
+||track.romanticai.com^
+||v1.telemetry.coder.com^
+||zemomedia.com^
