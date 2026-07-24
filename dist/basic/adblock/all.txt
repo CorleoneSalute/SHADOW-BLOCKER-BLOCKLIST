@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8385
+# Total domains: 8319
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -41,7 +41,6 @@
 ||a.ligatus.com^
 ||a.market.mi-img.com^
 ||a.mgid.com^
-||a.optmstr.com^
 ||a.plerdy.com^
 ||a.relayto.com^
 ||a.rfihub.com^
@@ -110,9 +109,7 @@
 ||action.netaffiliation.com^
 ||activeation.com^
 ||activeterium.com^
-||activity-log-improvements.feature.varify.io^
 ||activity.browser.intl.miui.com^
-||activity.wisepops.com^
 ||acuityads.com^
 ||acuityplatform.com^
 ||acxiom-online.com^
@@ -243,7 +240,6 @@
 ||adcel.vrvm.com^
 ||adclarity.com^
 ||adcolony.com^
-||add-mapping-for-wrong-activity-log-classes.feature.varify.io^
 ||addoncrop.com^
 ||adelphic.com^
 ||adex2.fwmrm.net^
@@ -383,7 +379,6 @@
 ||ads.crunchyroll.com^
 ||ads.disneyplus.com^
 ||ads.districtm.ca^
-||ads.dynamicyield.com^
 ||ads.e-planning.net^
 ||ads.emojixpress.com^
 ||ads.espn.com^
@@ -917,7 +912,6 @@
 ||analytics.delectable.com^
 ||analytics.dell.com^
 ||analytics.descript.com^
-||analytics.devcycle.com^
 ||analytics.dialpad.com^
 ||analytics.didichuxing.com^
 ||analytics.digital.orange.es^
@@ -1169,7 +1163,6 @@
 ||analytics.opensea.io^
 ||analytics.opensuse.org^
 ||analytics.oppo.com^
-||analytics.optimizely.com^
 ||analytics.orange.com^
 ||analytics.orange.ro^
 ||analytics.otsuka-us.com^
@@ -1632,7 +1625,6 @@
 ||api.events.bsky.app^
 ||api.exceptionless.io^
 ||api.exe.io^
-||api.exp-metrics.optimizely.com^
 ||api.eyeota.net^
 ||api.flingo.tv^
 ||api.fluct.jp^
@@ -1888,8 +1880,6 @@
 ||assets.sublimeskinz.com^
 ||assets.taboola.com^
 ||assets.zetaglobal.com^
-||assetsconfigcdn.org^
-||async-px.dynamicyield.com^
 ||at-us-east.amazon-adsystem.com^
 ||atabencot.net^
 ||atdata.com^
@@ -1963,7 +1953,6 @@
 ||b.jp2.as.criteo.com^
 ||b.ligatus.com^
 ||b.nl3.eu.criteo.com^
-||b.optmstr.com^
 ||b.sg1.as.criteo.com^
 ||b.sharethrough.com^
 ||b.us5.us.criteo.com^
@@ -2025,7 +2014,6 @@
 ||beta.sexart.adultfriendfinder.com^
 ||beta.telemetry.gfe.nvidia.com^
 ||beteshis.com^
-||beyondwickedmapping.org^
 ||bfmio.com^
 ||bh.contextweb.com^
 ||bid.3lift.com^
@@ -2133,7 +2121,6 @@
 ||c.gumgum.com^
 ||c.ltmsphrcl.net^
 ||c.mgid.com^
-||c.optmstr.com^
 ||c.st.ltmsphrcl.net^
 ||c.taboola.com^
 ||c.telemetry.intel.com^
@@ -2505,7 +2492,6 @@
 ||cm.ipinyou.com^
 ||cm.mgid.com^
 ||cm2.adform.net^
-||cmp.optimizely.com^
 ||cms.analytics.yahoo.com^
 ||cn-zh-ort-stsdk.vivoglobal.com^
 ||cn-zh-prt-stsdk.vivoglobal.com^
@@ -2557,7 +2543,6 @@
 ||collect.babbel.io^
 ||collect.biomedcentral.com^
 ||collect.contentsquare.net^
-||collect.evergage.com^
 ||collect.ficfun.com^
 ||collect.in.lyra.com^
 ||collect.mindbodyonline.com^
@@ -2580,8 +2565,6 @@
 ||collection.uae.passfort.com^
 ||collection.us.maxsight.com^
 ||collection.us.passfort.com^
-||collections.cmp.optimizely.com^
-||collections.marketing.cmp.optimizely.com^
 ||collector-eu.conviva.com^
 ||collector-ops.twitter.com^
 ||collector-us.conviva.com^
@@ -2672,7 +2655,6 @@
 ||conversion.remerge.io^
 ||conversion.zetaglobal.com^
 ||conversions.appsflyer.com^
-||convertexperiments.com^
 ||conveump.taboola.com^
 ||convhkmp.taboola.com^
 ||conviva.ai^
@@ -2851,8 +2833,6 @@
 ||data.infutor.com^
 ||data.inscape.tv^
 ||data.ironsrc.com^
-||data.kameleoon.io^
-||data.kameleoon.net^
 ||data.locate-x.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
@@ -3217,9 +3197,6 @@
 ||ets-us-east-1.track.smaato.net^
 ||eu-1.nebula-collector.huawei.com^
 ||eu-api.honeybadger.io^
-||eu-data.experiment.dev^
-||eu-data.kameleoon.eu^
-||eu-data.kameleoon.io^
 ||eu-eb2.3lift.com^
 ||eu-errup.vivoglobal.com^
 ||eu-onrt-stsdk.vivoglobal.com^
@@ -3275,7 +3252,6 @@
 ||eventlog.avira.com^
 ||eventlog.norton.com^
 ||eventos.asus.com^
-||events-api.devcycle.com^
 ||events-dc1.gfe.nvidia.com^
 ||events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn^
 ||events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn^
@@ -3319,21 +3295,16 @@
 ||events.content.ad^
 ||events.cuebiq.com^
 ||events.current.us^
-||events.devcycle.com^
 ||events.dianomi.com^
-||events.eu.launchdarkly.com^
 ||events.fetch.com^
-||events.ff.harness.io^
 ||events.fyber.com^
 ||events.gfe.nvidia.com^
 ||events.gfestage.nvidia.com^
 ||events.gitlab.net^
 ||events.hotjar.com^
 ||events.ibotta.com^
-||events.intuit.launchdarkly.com^
 ||events.jwplayer.com^
 ||events.kaltura.com^
-||events.launchdarkly.com^
 ||events.ligatus.com^
 ||events.mapbox.cn^
 ||events.mapbox.com^
@@ -3351,7 +3322,6 @@
 ||events.samsungads.com^
 ||events.seedtag.com^
 ||events.start.io^
-||events.statsigapi.net^
 ||events.supersonicads.com^
 ||events.surveyjunkie.com^
 ||events.sweatco.in^
@@ -3486,8 +3456,6 @@
 ||fcleaner.com^
 ||fe02.lg.xiaomi.com^
 ||fe05.lg.xiaomi.com^
-||featureassets.org^
-||featuregates.org^
 ||fedora-telemetry.org^
 ||feedback-global.youpin.mi-img.com^
 ||feedback.amd.com^
@@ -3641,7 +3609,6 @@
 ||getrom.net^
 ||getsentry.com^
 ||gg.gg^
-||gha-metrics.ops.amplitude.com^
 ||giga.logs.roku.com^
 ||gilbert.logs.roku.com^
 ||giphy-analytics.giphy.com^
@@ -3677,8 +3644,6 @@
 ||golead.pl^
 ||gomo-apps.com^
 ||gomo.com^
-||gong-eb.qubit.com^
-||gong-gc.qubit.com^
 ||google-ads-mcp.ourritual.com^
 ||google-analytics.com.sci-hub.tw^
 ||google-ua-analytics.raspberrypi.org^
@@ -3721,8 +3686,6 @@
 ||grs.hihonorcloud.com^
 ||grs.platform.dbankcloud.ru^
 ||grtyv.com^
-||gs.amplitude.com^
-||gs.eu.amplitude.com^
 ||gssganalytics.dell.com^
 ||gsspat.jp^
 ||gstanalyticspoc.flutter.com^
@@ -4043,7 +4006,6 @@
 ||ioptimizer.com^
 ||iosads24.adcolony.com^
 ||ip-info.ff.avast.com^
-||ip.varify.dev^
 ||ipcheck0.jdownloader.org^
 ||ipgrabber.ru^
 ||ipgraber.ru^
@@ -4112,8 +4074,6 @@
 ||kadam.net^
 ||kadam.network^
 ||kaitect.com^
-||kaizen-data.kameleoon.eu^
-||kaizen-data.kameleoon.io^
 ||kayzen.io^
 ||kb.adf.ly^
 ||kdtrk.net^
@@ -4326,7 +4286,6 @@
 ||log.oneplus.net^
 ||log.onesignal.com^
 ||log.oppo.com^
-||log.optimizely.com^
 ||log.outbrain.com^
 ||log.pandora.xiaomi.com^
 ||log.pgre.dell.com^
@@ -4437,7 +4396,6 @@
 ||logbk.tiktokv.com^
 ||logfiles.zoom.us^
 ||logforward.browser.heytapmobi.com^
-||logger.kameleoon.io^
 ||logger.reddit.com^
 ||logger.sciencedirect.com^
 ||logger.scite.ai^
@@ -4485,7 +4443,6 @@
 ||logs.gnosis.io^
 ||logs.gnu.org^
 ||logs.guix.gnu.org^
-||logs.harness.io^
 ||logs.hisensetv.com^
 ||logs.hulu.com^
 ||logs.ironsrc.mobi^
@@ -4525,7 +4482,6 @@
 ||logtracker.orange.pl^
 ||logupdate.avlyun.sec.miui.com^
 ||logupload.oneplus.net^
-||logx.optimizely.com^
 ||logzilla.zoom.us^
 ||longview.logs.roku.com^
 ||looker.babycenter.com^
@@ -4747,7 +4703,6 @@
 ||metrics.checkout51.com^
 ||metrics.clarovideo.com^
 ||metrics.coinout.com^
-||metrics.convertexperiments.com^
 ||metrics.conviva.com^
 ||metrics.crave.ca^
 ||metrics.crunchyroll.com^
@@ -5188,8 +5143,6 @@
 ||n.clarity.ms^
 ||n.jwpltx.com^
 ||n.systemlog.me^
-||na-data.kameleoon.eu^
-||na-data.kameleoon.io^
 ||na-eb2.3lift.com^
 ||na1.fullstory.com^
 ||name2domain.clearbit.com^
@@ -5354,7 +5307,6 @@
 ||open.rubiconproject.com^
 ||open.zetaglobal.com^
 ||openreplay.com^
-||opentag-stats.qubit.com^
 ||opera-banner-router.work.ink^
 ||opi.navdmp.com^
 ||oppo.analytics.glance.inmobi.com^
@@ -5363,7 +5315,6 @@
 ||option.deepintent.com^
 ||optiserve.adblade.com^
 ||optitopt.com^
-||optmstr.com^
 ||orablyro.com^
 ||oracleinfinity.io^
 ||orangeads.fr^
@@ -5382,7 +5333,6 @@
 ||osb-krsvc.samsungqbe.com^
 ||osint.au10tix.com^
 ||otel.atmeta.com^
-||otel.observability.app.launchdarkly.com^
 ||oth.dt00.net^
 ||oth.dt07.net^
 ||oth.mgid.com^
@@ -5418,7 +5368,6 @@
 ||p.xad.com^
 ||p.yieldlab.net^
 ||p1.zemanta.com^
-||p13nlog.optimizely.com^
 ||p16-ad-sg.ibyteimg.com^
 ||p16-ad.byteoversea.com^
 ||p3-ad-sign.byteimg.com^
@@ -5676,7 +5625,6 @@
 ||prod.log.shortbread.aws.dev^
 ||prod.logs.infra.yoti.com^
 ||prod.logs.yoti.com^
-||prodregistryv2.org^
 ||production.ads.cj.com^
 ||profiling.sentry.io^
 ||prospector.clearbit.com^
@@ -5692,7 +5640,6 @@
 ||ptengine.com^
 ||ptengine.jp^
 ||pub.mylead.global^
-||pub.observability.app.launchdarkly.com^
 ||pubads.g.doubleclick.net^
 ||pubguard.com^
 ||pubguard.io^
@@ -5786,7 +5733,6 @@
 ||rcm-eu.amazon-adsystem.com^
 ||rcm-fe.amazon-adsystem.com^
 ||rcm-na.amazon-adsystem.com^
-||rcom-dump.dynamicyield.com^
 ||rctnano.adultfriendfinder.com^
 ||rd.samsungadhub.com^
 ||rdc.adobe.io^
@@ -6050,7 +5996,6 @@
 ||rum.battle.net^
 ||rum.beusable.net^
 ||rum.netflix.com^
-||rum.optimizely.com^
 ||rum.raygun.io^
 ||rum.rollbar.com^
 ||rum1.perf.linkedin.com^
@@ -6340,11 +6285,9 @@
 ||seedtag.com^
 ||segment-api.rarible.com^
 ||segment-cdn.rarible.com^
-||segment-membership.qubit.com^
 ||segment.beermenus.com^
 ||segment.delectable.com^
 ||segment.opensea.io^
-||segment.statsig.com^
 ||segment.taphunter.com^
 ||segment.untappd.com^
 ||segment.vivino.com^
@@ -6609,7 +6552,6 @@
 ||ssbsync-global.smartadserver.com^
 ||ssbsync.smartadserver.com^
 ||ssc.33across.com^
-||sse-analytics.devcycle.com^
 ||ssl2.cdngc.net^
 ||sslanalytics.sixt.com^
 ||sslcs.cdngc.net^
@@ -6785,7 +6727,6 @@
 ||stats1.reddit.com^
 ||stats2.reddit.com^
 ||stats2.u.to^
-||statsigapi.net^
 ||statslogger.image-line.com^
 ||steamstats.valvesoftware.com^
 ||stg-data-f.ads.heytapmobile.com^
@@ -7163,7 +7104,6 @@
 ||telemetry.soundverse.ai^
 ||telemetry.speedbit.com^
 ||telemetry.splashtop.com^
-||telemetry.split.io^
 ||telemetry.stability.ai^
 ||telemetry.steelseries.com^
 ||telemetry.steinberg.net^
@@ -7416,8 +7356,6 @@
 ||track.myflotracker.com^
 ||track.nativo.com^
 ||track.naturalcycles.com^
-||track.optimizely.com^
-||track.optimove.net^
 ||track.outbrain.com^
 ||track.ovia.com^
 ||track.parsely.com^
@@ -7572,7 +7510,6 @@
 ||tracking.jwplayer.com^
 ||tracking.kelkoo.com^
 ||tracking.lastpass.com^
-||tracking.launchdarkly.com^
 ||tracking.livechatinc.com^
 ||tracking.loopcloud.com^
 ||tracking.meitu.com^
@@ -7663,7 +7600,6 @@
 ||tracking.vodafone.com^
 ||tracking.vodafone.it^
 ||tracking.weddingwire.com^
-||tracking.wisepops.com^
 ||tracking.www.linkedin-ei.com^
 ||tracking.youdagames.com^
 ||tracking.zanfia.com^
@@ -8030,7 +7966,6 @@
 ||visitor.omnitagjs.com^
 ||visitors.live^
 ||vistarmedia.com^
-||vitalstatistix.launchdarkly.com^
 ||vitsoft.net^
 ||vizio.adsmeasurement.com^
 ||vofzpwh.com^
@@ -8131,7 +8066,6 @@
 ||winthruster.com^
 ||winutilities.com^
 ||wise-analytics.com^
-||wisepops.com^
 ||wms-eu.amazon-adsystem.com^
 ||wms-fe.amazon-adsystem.com^
 ||wms-na.amazon-adsystem.com^
