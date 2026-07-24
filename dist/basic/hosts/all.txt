@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 7957
+# Total domains: 7978
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -660,6 +660,7 @@
 0.0.0.0 analytic.tiktok.com
 0.0.0.0 analytic.underarmour.com
 0.0.0.0 analytic.wysa.io
+0.0.0.0 analytics-api.analytics-cluster.smartsupp.com
 0.0.0.0 analytics-api.crowncoinscasino.com
 0.0.0.0 analytics-api.grandesloterias.com
 0.0.0.0 analytics-api.id.me
@@ -865,6 +866,7 @@
 0.0.0.0 analytics.disneynow.com
 0.0.0.0 analytics.disneyplus.com
 0.0.0.0 analytics.dowjones.com
+0.0.0.0 analytics.drift.com
 0.0.0.0 analytics.drift.trade
 0.0.0.0 analytics.duosecurity.com
 0.0.0.0 analytics.eatthismuch.com
@@ -1014,6 +1016,7 @@
 0.0.0.0 analytics.linguee.com
 0.0.0.0 analytics.lingvist.com
 0.0.0.0 analytics.linkedin.com
+0.0.0.0 analytics.liveperson.net
 0.0.0.0 analytics.lnw.com
 0.0.0.0 analytics.logitech.com
 0.0.0.0 analytics.logly.co.jp
@@ -1227,6 +1230,7 @@
 0.0.0.0 analytics.sixt.com
 0.0.0.0 analytics.skyshowtime.com
 0.0.0.0 analytics.slidebean.com
+0.0.0.0 analytics.smartsupp.com
 0.0.0.0 analytics.smartyads.com
 0.0.0.0 analytics.snapchat.com
 0.0.0.0 analytics.snapcraft.io
@@ -1928,6 +1932,7 @@
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacon.shzcld.com
 0.0.0.0 beacon.taboola.com
+0.0.0.0 beaconapi.helpscout.net
 0.0.0.0 beacons.hulu.com
 0.0.0.0 beaconsinspace.com
 0.0.0.0 beeswax.com
@@ -3016,6 +3021,7 @@
 0.0.0.0 errors.ubuntu.com
 0.0.0.0 errorservice.metrics.ea.com
 0.0.0.0 errorsmart.com
+0.0.0.0 es-logs.tidio.co
 0.0.0.0 es.reimageplus.com
 0.0.0.0 eskimi.com
 0.0.0.0 esp.rtbhouse.com
@@ -3384,6 +3390,7 @@
 0.0.0.0 frameplay.gg
 0.0.0.0 fraud.adikteev.com
 0.0.0.0 fraud.remerge.io
+0.0.0.0 frontend-telemetry.intercom.io
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 frtyb.com
 0.0.0.0 ft-sentry-a.hetangsmart.com
@@ -3804,6 +3811,7 @@
 0.0.0.0 interact.taboola.com
 0.0.0.0 interactive.adikteev.com
 0.0.0.0 interactive.remerge.io
+0.0.0.0 intercom-reporting.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com
 0.0.0.0 inv-nets-us.admixer.net
@@ -4063,6 +4071,7 @@
 0.0.0.0 log.nordvpn.com
 0.0.0.0 log.nothing.tech
 0.0.0.0 log.nubia.com
+0.0.0.0 log.olark.com
 0.0.0.0 log.oneplus.net
 0.0.0.0 log.onesignal.com
 0.0.0.0 log.oppo.com
@@ -4098,6 +4107,7 @@
 0.0.0.0 log.zoom.us
 0.0.0.0 log.zte.com.cn
 0.0.0.0 log01.mtv.squareup.com
+0.0.0.0 log1.olark.com
 0.0.0.0 log1.reddit.com
 0.0.0.0 log15-normal-alisg.tiktokv.com
 0.0.0.0 log15-normal-useast1a.tiktokv.com
@@ -4197,6 +4207,7 @@
 0.0.0.0 logr-ingest.com
 0.0.0.0 logrocket.com
 0.0.0.0 logrocket.io
+0.0.0.0 logs-api.zenvia.com
 0.0.0.0 logs-coordinating.vsco.co
 0.0.0.0 logs-ext.bitdefender.com
 0.0.0.0 logs-gateway.tabnine.com
@@ -4222,6 +4233,7 @@
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logs.n.xiaomi.com
 0.0.0.0 logs.netflix.com
+0.0.0.0 logs.olark.com
 0.0.0.0 logs.reddit.com
 0.0.0.0 logs.replaypoker.com
 0.0.0.0 logs.reservebar.com
@@ -4519,6 +4531,7 @@
 0.0.0.0 metrics.image-line.com
 0.0.0.0 metrics.infra.yoti.com
 0.0.0.0 metrics.intel.com
+0.0.0.0 metrics.intercom.io
 0.0.0.0 metrics.internetdownloadmanager.com
 0.0.0.0 metrics.ipvanish.com
 0.0.0.0 metrics.joinhoney.com
@@ -6015,6 +6028,7 @@
 0.0.0.0 selectmedia.asia
 0.0.0.0 send.microad.jp
 0.0.0.0 sense360.com
+0.0.0.0 sentry-new.tidio.co
 0.0.0.0 sentry-read.svc.overdrive.com
 0.0.0.0 sentry-reporter.ente.io
 0.0.0.0 sentry.api.stronglifts.com
@@ -6043,8 +6057,10 @@
 0.0.0.0 sentry.sumsub.com
 0.0.0.0 sentry.sync.me
 0.0.0.0 sentry.system76.com
+0.0.0.0 sentry.tidio.co
 0.0.0.0 sentry.work.ink
 0.0.0.0 sentry.xinchenai.com
+0.0.0.0 sentry.zopim.com
 0.0.0.0 sentry2-client.cos.io
 0.0.0.0 sentry2.cos.io
 0.0.0.0 sentry2.sync.me
@@ -7086,6 +7102,7 @@
 0.0.0.0 track.stories.moovit.com
 0.0.0.0 track.stubhub.com
 0.0.0.0 track.tiara.daum.net
+0.0.0.0 track.tidio.com
 0.0.0.0 track.topcashback.com
 0.0.0.0 track.u.send.microad.jp
 0.0.0.0 track.underarmour.com
@@ -7205,6 +7222,7 @@
 0.0.0.0 tracking.kelkoo.com
 0.0.0.0 tracking.lastpass.com
 0.0.0.0 tracking.launchdarkly.com
+0.0.0.0 tracking.livechatinc.com
 0.0.0.0 tracking.loopcloud.com
 0.0.0.0 tracking.meitu.com
 0.0.0.0 tracking.micron.com
@@ -7277,6 +7295,7 @@
 0.0.0.0 tracking.tenor.com
 0.0.0.0 tracking.theknot.com
 0.0.0.0 tracking.thirstie.com
+0.0.0.0 tracking.tidio.com
 0.0.0.0 tracking.toluna.com
 0.0.0.0 tracking.topcashback.com
 0.0.0.0 tracking.toroadvertising.com
@@ -7474,6 +7493,7 @@
 0.0.0.0 us.tracker.parrot.sh
 0.0.0.0 us.uxcam.com
 0.0.0.0 us01.rayjump.com
+0.0.0.0 usage-reports-api.zenvia.com
 0.0.0.0 usage.trackjs.com
 0.0.0.0 usagereports.elsevier.com
 0.0.0.0 use-tor.adsrvr.org
@@ -7776,6 +7796,7 @@
 0.0.0.0 www.hybrid.ru
 0.0.0.0 www.illumin.com
 0.0.0.0 www.imonetizeit.com
+0.0.0.0 www.intercom-reporting.com
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.js-pixel.limeade.com
 0.0.0.0 www.kibanalogging.grindr.com

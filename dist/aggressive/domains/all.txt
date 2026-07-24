@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8176
+# Total domains: 8198
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -685,6 +685,7 @@ analystday.playtika.com
 analytic.tiktok.com
 analytic.underarmour.com
 analytic.wysa.io
+analytics-api.analytics-cluster.smartsupp.com
 analytics-api.crowncoinscasino.com
 analytics-api.grandesloterias.com
 analytics-api.id.me
@@ -890,6 +891,7 @@ analytics.discoveryplus.com
 analytics.disneynow.com
 analytics.disneyplus.com
 analytics.dowjones.com
+analytics.drift.com
 analytics.drift.trade
 analytics.duosecurity.com
 analytics.eatthismuch.com
@@ -1039,6 +1041,7 @@ analytics.lingq.com
 analytics.linguee.com
 analytics.lingvist.com
 analytics.linkedin.com
+analytics.liveperson.net
 analytics.lnw.com
 analytics.logitech.com
 analytics.logly.co.jp
@@ -1253,6 +1256,7 @@ analytics.simplycodes.com
 analytics.sixt.com
 analytics.skyshowtime.com
 analytics.slidebean.com
+analytics.smartsupp.com
 analytics.smartyads.com
 analytics.snapchat.com
 analytics.snapcraft.io
@@ -1965,6 +1969,7 @@ beacon.sharethrough.com
 beacon.shazam.com
 beacon.shzcld.com
 beacon.taboola.com
+beaconapi.helpscout.net
 beacons.hulu.com
 beacons.xboxlive.com
 beaconsinspace.com
@@ -3088,6 +3093,7 @@ errors.stripe.com
 errors.ubuntu.com
 errorservice.metrics.ea.com
 errorsmart.com
+es-logs.tidio.co
 es.reimageplus.com
 eskimi.com
 esp-m.aptrinsic.com
@@ -3469,6 +3475,7 @@ frameplay.com
 frameplay.gg
 fraud.adikteev.com
 fraud.remerge.io
+frontend-telemetry.intercom.io
 frontier-i18n.tiktokv.com
 frontier-my2.tiktokv.com
 frontier-ru.tiktokv.com
@@ -3933,6 +3940,7 @@ intelligence.towerdata.com
 interact.taboola.com
 interactive.adikteev.com
 interactive.remerge.io
+intercom-reporting.com
 intg.snapchat.com
 intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com
 inv-nets-us.admixer.net
@@ -4202,6 +4210,7 @@ log.motorola.com
 log.nordvpn.com
 log.nothing.tech
 log.nubia.com
+log.olark.com
 log.oneplus.net
 log.onesignal.com
 log.oppo.com
@@ -4237,6 +4246,7 @@ log.youpin.mi.com
 log.zoom.us
 log.zte.com.cn
 log01.mtv.squareup.com
+log1.olark.com
 log1.reddit.com
 log15-normal-alisg.tiktokv.com
 log15-normal-useast1a.tiktokv.com
@@ -4336,6 +4346,7 @@ logr-in.com
 logr-ingest.com
 logrocket.com
 logrocket.io
+logs-api.zenvia.com
 logs-coordinating.vsco.co
 logs-ext.bitdefender.com
 logs-gateway.tabnine.com
@@ -4361,6 +4372,7 @@ logs.hulu.com
 logs.ironsrc.mobi
 logs.n.xiaomi.com
 logs.netflix.com
+logs.olark.com
 logs.reddit.com
 logs.replaypoker.com
 logs.reservebar.com
@@ -4658,6 +4670,7 @@ metrics.idfy.com
 metrics.image-line.com
 metrics.infra.yoti.com
 metrics.intel.com
+metrics.intercom.io
 metrics.internetdownloadmanager.com
 metrics.ipvanish.com
 metrics.joinhoney.com
@@ -6194,6 +6207,7 @@ select.beachfront.io
 selectmedia.asia
 send.microad.jp
 sense360.com
+sentry-new.tidio.co
 sentry-read.svc.overdrive.com
 sentry-reporter.ente.io
 sentry.api.stronglifts.com
@@ -6222,8 +6236,10 @@ sentry.squareup.com
 sentry.sumsub.com
 sentry.sync.me
 sentry.system76.com
+sentry.tidio.co
 sentry.work.ink
 sentry.xinchenai.com
+sentry.zopim.com
 sentry2-client.cos.io
 sentry2.cos.io
 sentry2.sync.me
@@ -7281,6 +7297,7 @@ track.start.io
 track.stories.moovit.com
 track.stubhub.com
 track.tiara.daum.net
+track.tidio.com
 track.topcashback.com
 track.u.send.microad.jp
 track.underarmour.com
@@ -7401,6 +7418,7 @@ tracking.jwplayer.com
 tracking.kelkoo.com
 tracking.lastpass.com
 tracking.launchdarkly.com
+tracking.livechatinc.com
 tracking.loopcloud.com
 tracking.meitu.com
 tracking.micron.com
@@ -7475,6 +7493,7 @@ tracking.teamviewer.com
 tracking.tenor.com
 tracking.theknot.com
 tracking.thirstie.com
+tracking.tidio.com
 tracking.toluna.com
 tracking.topcashback.com
 tracking.toroadvertising.com
@@ -7677,6 +7696,7 @@ us.smartlook.cloud
 us.tracker.parrot.sh
 us.uxcam.com
 us01.rayjump.com
+usage-reports-api.zenvia.com
 usage.trackjs.com
 usagereports.elsevier.com
 use-tor.adsrvr.org
@@ -7717,6 +7737,7 @@ v3.log.moji.com
 v7.stats.avast.com
 v7event.stats.avast.com
 v9.stats.avast.com
+va-a.liveperson.net
 va-endpoint.com
 va-g2.gumgum.com
 va-lb.gumgum.com
@@ -7992,6 +8013,7 @@ www.hybrid.ai
 www.hybrid.ru
 www.illumin.com
 www.imonetizeit.com
+www.intercom-reporting.com
 www.ipinyou.com
 www.js-pixel.limeade.com
 www.kibanalogging.grindr.com

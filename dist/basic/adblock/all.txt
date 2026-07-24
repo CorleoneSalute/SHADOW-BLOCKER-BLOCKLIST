@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 7957
+# Total domains: 7978
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -660,6 +660,7 @@
 ||analytic.tiktok.com^
 ||analytic.underarmour.com^
 ||analytic.wysa.io^
+||analytics-api.analytics-cluster.smartsupp.com^
 ||analytics-api.crowncoinscasino.com^
 ||analytics-api.grandesloterias.com^
 ||analytics-api.id.me^
@@ -865,6 +866,7 @@
 ||analytics.disneynow.com^
 ||analytics.disneyplus.com^
 ||analytics.dowjones.com^
+||analytics.drift.com^
 ||analytics.drift.trade^
 ||analytics.duosecurity.com^
 ||analytics.eatthismuch.com^
@@ -1014,6 +1016,7 @@
 ||analytics.linguee.com^
 ||analytics.lingvist.com^
 ||analytics.linkedin.com^
+||analytics.liveperson.net^
 ||analytics.lnw.com^
 ||analytics.logitech.com^
 ||analytics.logly.co.jp^
@@ -1227,6 +1230,7 @@
 ||analytics.sixt.com^
 ||analytics.skyshowtime.com^
 ||analytics.slidebean.com^
+||analytics.smartsupp.com^
 ||analytics.smartyads.com^
 ||analytics.snapchat.com^
 ||analytics.snapcraft.io^
@@ -1928,6 +1932,7 @@
 ||beacon.shazam.com^
 ||beacon.shzcld.com^
 ||beacon.taboola.com^
+||beaconapi.helpscout.net^
 ||beacons.hulu.com^
 ||beaconsinspace.com^
 ||beeswax.com^
@@ -3016,6 +3021,7 @@
 ||errors.ubuntu.com^
 ||errorservice.metrics.ea.com^
 ||errorsmart.com^
+||es-logs.tidio.co^
 ||es.reimageplus.com^
 ||eskimi.com^
 ||esp.rtbhouse.com^
@@ -3384,6 +3390,7 @@
 ||frameplay.gg^
 ||fraud.adikteev.com^
 ||fraud.remerge.io^
+||frontend-telemetry.intercom.io^
 ||frontier.byteoversea.com^
 ||frtyb.com^
 ||ft-sentry-a.hetangsmart.com^
@@ -3804,6 +3811,7 @@
 ||interact.taboola.com^
 ||interactive.adikteev.com^
 ||interactive.remerge.io^
+||intercom-reporting.com^
 ||intg.snapchat.com^
 ||intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com^
 ||inv-nets-us.admixer.net^
@@ -4063,6 +4071,7 @@
 ||log.nordvpn.com^
 ||log.nothing.tech^
 ||log.nubia.com^
+||log.olark.com^
 ||log.oneplus.net^
 ||log.onesignal.com^
 ||log.oppo.com^
@@ -4098,6 +4107,7 @@
 ||log.zoom.us^
 ||log.zte.com.cn^
 ||log01.mtv.squareup.com^
+||log1.olark.com^
 ||log1.reddit.com^
 ||log15-normal-alisg.tiktokv.com^
 ||log15-normal-useast1a.tiktokv.com^
@@ -4197,6 +4207,7 @@
 ||logr-ingest.com^
 ||logrocket.com^
 ||logrocket.io^
+||logs-api.zenvia.com^
 ||logs-coordinating.vsco.co^
 ||logs-ext.bitdefender.com^
 ||logs-gateway.tabnine.com^
@@ -4222,6 +4233,7 @@
 ||logs.ironsrc.mobi^
 ||logs.n.xiaomi.com^
 ||logs.netflix.com^
+||logs.olark.com^
 ||logs.reddit.com^
 ||logs.replaypoker.com^
 ||logs.reservebar.com^
@@ -4519,6 +4531,7 @@
 ||metrics.image-line.com^
 ||metrics.infra.yoti.com^
 ||metrics.intel.com^
+||metrics.intercom.io^
 ||metrics.internetdownloadmanager.com^
 ||metrics.ipvanish.com^
 ||metrics.joinhoney.com^
@@ -6015,6 +6028,7 @@
 ||selectmedia.asia^
 ||send.microad.jp^
 ||sense360.com^
+||sentry-new.tidio.co^
 ||sentry-read.svc.overdrive.com^
 ||sentry-reporter.ente.io^
 ||sentry.api.stronglifts.com^
@@ -6043,8 +6057,10 @@
 ||sentry.sumsub.com^
 ||sentry.sync.me^
 ||sentry.system76.com^
+||sentry.tidio.co^
 ||sentry.work.ink^
 ||sentry.xinchenai.com^
+||sentry.zopim.com^
 ||sentry2-client.cos.io^
 ||sentry2.cos.io^
 ||sentry2.sync.me^
@@ -7086,6 +7102,7 @@
 ||track.stories.moovit.com^
 ||track.stubhub.com^
 ||track.tiara.daum.net^
+||track.tidio.com^
 ||track.topcashback.com^
 ||track.u.send.microad.jp^
 ||track.underarmour.com^
@@ -7205,6 +7222,7 @@
 ||tracking.kelkoo.com^
 ||tracking.lastpass.com^
 ||tracking.launchdarkly.com^
+||tracking.livechatinc.com^
 ||tracking.loopcloud.com^
 ||tracking.meitu.com^
 ||tracking.micron.com^
@@ -7277,6 +7295,7 @@
 ||tracking.tenor.com^
 ||tracking.theknot.com^
 ||tracking.thirstie.com^
+||tracking.tidio.com^
 ||tracking.toluna.com^
 ||tracking.topcashback.com^
 ||tracking.toroadvertising.com^
@@ -7474,6 +7493,7 @@
 ||us.tracker.parrot.sh^
 ||us.uxcam.com^
 ||us01.rayjump.com^
+||usage-reports-api.zenvia.com^
 ||usage.trackjs.com^
 ||usagereports.elsevier.com^
 ||use-tor.adsrvr.org^
@@ -7776,6 +7796,7 @@
 ||www.hybrid.ru^
 ||www.illumin.com^
 ||www.imonetizeit.com^
+||www.intercom-reporting.com^
 ||www.ipinyou.com^
 ||www.js-pixel.limeade.com^
 ||www.kibanalogging.grindr.com^
