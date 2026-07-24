@@ -40,7 +40,7 @@ analytics.loudly.com
 ## ECRETT MUSIC (1 domain)
 analytics.ecrettmusic.com
 
-## SPLASH PRO (old)
+## SPLASH PRO
 analytics.splashmusic.com
 
 ## ELEVEN LABS (2 domain)
@@ -53,7 +53,7 @@ telemetry.dreamtonics.com
 
 ## VOCALOID / YAMAHA (4 domain)
 analytics.yamaha.com
-event-reg.yamaha.com
+event-reg.yamaha.com !
 telemetry.vocaloid.com
 telemetry.yamaha.com
 
