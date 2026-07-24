@@ -1,8 +1,6 @@
-# ============================================================
 # A/B TESTING & PERSONALIZATION BLOCKLIST
-# Toplam Domain Sayisi: 67
-# Son Guncelleme: 18 Temmuz 2026
-# ============================================================
+# Total domains: 66
+# Last update: 2026/07/18
 
 # OPTIMIZELY (10 domain)
 logx.optimizely.com
@@ -28,8 +26,7 @@ data.kameleoon.io
 na-data.kameleoon.eu
 kaizen-data.kameleoon.eu
 
-# VARIFY.IO (3 domain)
-ip.varify.dev
+# VARIFY.IO (2 domain)
 add-mapping-for-wrong-activity-log-classes.feature.varify.io
 activity-log-improvements.feature.varify.io
 
@@ -41,7 +38,7 @@ metrics.convertexperiments.com
 telemetry.split.io
 
 # LAUNCHDARKLY (7 domain)
-events.launchdarkly.com
+events.launchdarkly.com !
 tracking.launchdarkly.com
 events.eu.launchdarkly.com
 events.intuit.launchdarkly.com
