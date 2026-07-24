@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8314
+# Total domains: 8313
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3181,7 +3181,6 @@
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 et-gcp.33across.com
-0.0.0.0 et.topazlabs.com
 0.0.0.0 ethobleo.com
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 etl.xlmc.sec.miui.com
