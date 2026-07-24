@@ -1,0 +1,68 @@
+# ============================================================
+# PHOTO EDITING FILTER BLOCKLIST - BASIC
+# Total domains: 61
+# Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||2o7.net^
+||ad.meitu.com^
+||adbemdigitalmediarebootprod2.112.2o7.net^
+||adobe.demdex.net^
+||adobe.tt.omtrdc.net^
+||adobedtm.com^
+||adobemobiledev.demdex.net^
+||adobestats.io^
+||adobetag.com^
+||ads.meitu.com^
+||analytics.beautyplus.com^
+||analytics.faceapp.io^
+||analytics.lightricks.com^
+||analytics.meitu.com^
+||analytics.perfectcorp.com^
+||analytics.picsart.com^
+||analytics.pixlr.com^
+||analytics.remini.ai^
+||analytics.vsco.co^
+||assets.adobedtm.com^
+||bam.nr-data.net^
+||cdn.tt.omtrdc.net^
+||cm.everesttech.net^
+||crs.cr.adobe.com^
+||data.adobedc.net^
+||default.analytics.lightricks.com^
+||demdex.net^
+||dpm.demdex.net^
+||everesttech.net^
+||hbrt.adobe.com^
+||integration.analytics.lightricks.com^
+||l.prequel.app^
+||log.snow.me^
+||log.xiuxiu.com^
+||logs-coordinating.vsco.co^
+||logs-logstash.vsco.co^
+||meitudata.com^
+||metrics.lensa-ai.com^
+||metrics.meitu.com^
+||metrics.picsart.com^
+||metrics.pixlr.com^
+||metrics.prisma-ai.com^
+||notld-analytics.dp.lightricks.com^
+||o1383653.ingest.sentry.io^
+||omniture.com^
+||pixel.vsco.co^
+||rdc.adobe.io^
+||sc.omtrdc.net^
+||sentry.prequel.app^
+||sstats.adobe.com^
+||t.picsart.com^
+||telemetry.adobe.io^
+||telemetry.reface.ai^
+||tracking.meitu.com^
+||tracking.perfectcorp.com^
+||tracking.picsart.com^
+||tracking.pixlr.com^
+||tt.omtrdc.net^
+||udp.adobe.io^
+||www.everestjs.net^
+||xcode-metrics.lightricks.com^
