@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8319
+# Total domains: 8316
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3013,8 +3013,6 @@
 0.0.0.0 docs.brightdata.com
 0.0.0.0 documentary-analytics.curiositystream.com
 0.0.0.0 donorbase.com
-0.0.0.0 dotcom-preview.tags.elsevier.com
-0.0.0.0 dotcom.tags.elsevier.com
 0.0.0.0 doubleclick.net
 0.0.0.0 download-samsung.dtignite.com
 0.0.0.0 download.reimage.com
@@ -6401,7 +6399,6 @@
 0.0.0.0 shealth-analytics-api.samsunghealth.com
 0.0.0.0 shence-log.kwai.com
 0.0.0.0 shink.in
-0.0.0.0 shop.tags.elsevier.com
 0.0.0.0 shopify.crazyegg.com
 0.0.0.0 shoppinganalytics-pa.googleapis.com
 0.0.0.0 short.gy

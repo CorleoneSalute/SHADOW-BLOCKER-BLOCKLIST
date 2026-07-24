@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8565
+# Total domains: 8566
 # Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7110,6 +7110,7 @@
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags.brightroll.com
 0.0.0.0 tags.crwdcntrl.net
+0.0.0.0 tags.elsevier.com
 0.0.0.0 tags.mindbodyonline.com
 0.0.0.0 tags.retargeter.com
 0.0.0.0 tags.zetaglobal.com
