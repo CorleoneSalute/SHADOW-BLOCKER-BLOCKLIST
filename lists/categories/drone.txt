@@ -1,14 +1,13 @@
-# ================================================
 # CONSUMER DRONE CONTROL APPS BLOCKLIST 
-# Domain sayısı: 5
-# Son güncelleme: 2026-07-20
-# ================================================
+# Total domains: 5
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
 
-# --- DJI (Saf Telemetri & Tracking Endpointleri) ---
+# DJI
 stat.dji.com
 log.dji.com
 crash.dji.com
 telemetry.dji.com
 
-# --- PowerVision ---
+# PowerVision
 analytics.powervision.me
