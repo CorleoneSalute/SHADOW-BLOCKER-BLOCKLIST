@@ -1,73 +1,48 @@
 # Digital Wallet & Payment Processor Blocklist
 
-**Toplam domain sayısı:** 45
-**Son güncelleme:** 2026-07-18
+# Total domains: 45
+# Last update: 2026/07/18
+# Note: trailing "!" marks a domain as aggressive-only
 
-## SAMSUNG PAY (2 domain)
-
-```
+# SAMSUNG PAY
 analytics.mpay.samsung.com
 analytics.samsungpay.com
-```
 
-## PAYPAL (4 domain)
-
-```
+# PAYPAL
 paypal.112.2o7.net
 paypal.demdex.net
 paypal.tt.omtrdc.net
-stats.paypal.com
-```
+stats.paypal.com !
 
-## CASH APP / SQUARE (6 domain)
-
-```
+# CASH APP / SQUARE
 analytics.squareup.com
 analytics.www1-0.pad.squareup.com
 apples-analytics.pad.squareup.com
 log01.mtv.squareup.com
 metrics.squareup.com
 sentry.squareup.com
-```
 
-## STRIPE (2 domain)
+# STRIPE
+errors.stripe.com !
+q.stripe.com !
 
-```
-errors.stripe.com
-q.stripe.com
-```
-
-## WISE (2 domain)
-
-```
+# WISE
 analytics.wise.com
 wise-analytics.com
-```
 
-## REVOLUT (3 domain)
-
-```
+# REVOLUT
 analytics.revolut.com
 data-talos.revolut.com
 metrics-tracking.revolut.com
-```
 
-## 2CHECKOUT / AVANGATE (1 domain)
-
-```
+# 2CHECKOUT / AVANGATE
 tracking.avangate.net
-```
 
-## PAYONEER (2 domain)
-
-```
+# PAYONEER
 analytics.payoneer.com
 tracking.payoneer.com
-```
 
-## PAYTM (7 domain)
-
-```
+# PAYTM
 ads.paytm.com
 analytics.paytm.com
 blog.ads.paytm.com
@@ -75,59 +50,35 @@ track.paytm.com
 tracking.info.paytm.com
 tracking.paytm.com
 tracking1.paytm.com
-```
 
-## ALIPAY — Alibaba Tracking Ekosistemi (6 domain)
-
-```
+# ALIPAY
 ad.alipay.com
 ads.alipay.com
 alipaylog.com
 log.alipay.com
 logs.alipay.com
 metrics.alipay.com
-```
 
-## SKRILL (2 domain)
-
-```
+# SKRILL
 collect.skrill.com
 sgtm.skrill.com
-```
 
-## PHONEPE (1 domain)
-
-```
+# PHONEPE
 ads.phonepe.com
-```
 
-## KAKAO PAY (1 domain)
-
-```
+# KAKAO PAY
 ads.kakaopay.com
-```
 
-## ADYEN (2 domain)
-
-```
+# ADYEN
 ai-analytics.adyen.com
 sgtm.adyen.com
-```
 
-## MERCADO PAGO (1 domain)
-
-```
+# MERCADO PAGO
 pixel.mercadopago.com
-```
 
-## PICPAY (2 domain)
-
-```
+# PICPAY
 tracking.picpay.com
 ts04358.picpay.com
-```
 
-## COINS.PH (1 domain)
-
-```
+# COINS.PH
 track-marketing.coins.ph
