@@ -2,6 +2,7 @@
 
 # Total domains: 74
 # Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
 
 # AVAST
 stats.avast.com
