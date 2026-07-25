@@ -2,6 +2,7 @@
 
 # Total domains: 14
 # Last update: 2026/07/20
+# Note: trailing "!" marks a domain as aggressive-only
 
 # GitHub
 collector.github.com
