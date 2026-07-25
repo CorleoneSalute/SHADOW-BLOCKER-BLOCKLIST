@@ -2,7 +2,7 @@
 # Total domains: 162
 # Last update: 2026-07-16
 
-# --- CJ AFFILIATE --- (28 domain)
+# CJ AFFILIATE
 ads.api.cj.com
 production.ads.cj.com
 ads.cj.com
@@ -32,7 +32,7 @@ track.cj.com
 cj.dotomi.com
 cjads.com
 
-# --- RAKUTEN ADVERTISING --- (7 domain)
+# RAKUTEN ADVERTISING
 rakutenmarketing.com
 link-share.com
 linkshare.com
@@ -41,7 +41,7 @@ tracking.rakutenmarketing.com
 analytics.rakutenmarketing.com
 rakutenadvertising.com
 
-# --- IMPACT --- (6 domain)
+# IMPACT
 impactradius-event.com
 impact-ad.net
 d.impactradius-event.com
@@ -49,7 +49,7 @@ tracking.impact.com
 utt.impactcdn.com
 impactcdn.com
 
-# --- AWIN --- (16 domain)
+# AWIN
 awin.com
 awin1.com
 www.awin1.com
@@ -67,59 +67,59 @@ awin.es
 awin.pl
 awin.nl
 
-# --- SHAREASALE --- (3 domain)
+# SHAREASALE
 shareasale-analytics.com
 www.shareasale-analytics.com
 tracking.shareasale.com
 
-# --- PARTNERIZE --- (3 domain)
+# PARTNERIZE
 performancehorizon.com
 tracker.prf.hn
 tracking.partnerize.com
 
-# --- FLEXOFFERS --- (5 domain)
+# FLEXOFFERS
 flexlinks.com
 www.flexlinks.com
 track.flexlinks.com
 flexlinkspro.com
 track.flexlinkspro.com
 
-# --- CLICKBANK --- (3 domain)
+# CLICKBANK
 clickbank.com
 clickbank.net
 analytics.clickbank.com
 
-# --- ADMITAD --- (5 domain)
+# ADMITAD
 admitad.com
 ad.admitad.com
 clicks.admitad.com
 deeplink.admitad.com
 tracking.admitad.com
 
-# --- TRADEDOUBLER --- (2 domain)
+# TRADEDOUBLER
 analytics.tradedoubler.com
 tracking.tradedoubler.com
 
-# --- WEBGAINS --- (3 domain)
+# WEBGAINS
 track.webgains.com
 webgains.io
 analytics.webgains.io
 
-# --- PEPPERJAM / ASCEND --- (3 domain)
+# PEPPERJAM / ASCEND
 pepperjam.com
 www.pepperjam.com
 tracking.pepperjam.com
 
-# --- AVANTLINK --- (2 domain)
+# AVANTLINK
 tracking.avantlink.com
 avantmetrics.com
 
-# --- AFFILAE --- (3 domain)
+# AFFILAE
 affilae.com
 www.affilae.com
 tracking.affilae.com
 
-# --- NETAFFILIATION --- (8 domain)
+# NETAFFILIATION
 netaffiliation.com
 www.netaffiliation.com
 action.netaffiliation.com
@@ -129,37 +129,37 @@ metaffiliation.com
 www.metaffiliation.com
 action.metaffiliation.com
 
-# --- EFFILIATION --- (4 domain)
+# EFFILIATION
 effiliation.com
 www.effiliation.com
 action.effiliation.com
 tracking.effiliation.com
 
-# --- COMMISSION FACTORY --- (4 domain)
+# COMMISSION FACTORY
 track.commissionfactory.com
 cfjump.com
 t.cfjump.com
 c.cfjump.com
 
-# --- LINKCONNECTOR --- (3 domain)
+# LINKCONNECTOR
 linkconnector.com
 www.linkconnector.com
 track.linkconnector.com
 
-# --- MAXBOUNTY --- (4 domain)
+# MAXBOUNTY
 maxbounty.com
 www.maxbounty.com
 mb01.com
 mb103.com
 
-# --- PERFORM[CB] --- (5 domain)
+# PERFORM[CB]
 clickbooth.com
 www.clickbooth.com
 track.clickbooth.com
 adperio.com
 www.adperio.com
 
-# --- CRAKREVENUE --- (10 domain)
+# CRAKREVENUE
 crakrevenue.com
 www.crakrevenue.com
 adkernel.crakrevenue.com
@@ -171,47 +171,47 @@ image.mail.crakrevenue.com
 frtyb.com
 grtyv.com
 
-# --- CLICKDEALER --- (2 domain)
+# CLICKDEALER
 collector.clickdealer.com
 sentry.clickdealer.com
 
-# --- TORO ADVERTISING --- (4 domain)
+# TORO ADVERTISING
 toroadvertising.com
 www.toroadvertising.com
 tracking.toroadvertising.com
 toroadvertisingmedia.com
 
-# --- IMONETIZEIT --- (4 domain)
+# IMONETIZEIT
 imonetizeit.com
 www.imonetizeit.com
 imi4rd.com
 imonetizeit.net
 
-# --- ADVIDI --- (2 domain)
+# ADVIDI
 advidi.com
 www.advidi.com
 
-# --- CPAMATICA --- (3 domain)
+# CPAMATICA
 cpamatica.io
 www.cpamatica.io
 track.cpamatica.com
 
-# --- ZEYDOO --- (2 domain)
+# ZEYDOO
 zeydoo.com
 www.zeydoo.com
 
-# --- MYLEAD --- (4 domain)
+# MYLEAD
 mylead.global
 www.mylead.global
 golead.pl
 pub.mylead.global
 
-# --- MORENICHE ("NOTE: moreniche.com has been sold and is redirecting to gambleonline.ca") --- (3 domain)
+# MORENICHE (NOTE: moreniche.com has been sold and is redirecting to gambleonline.ca)
 moreniche.com
 www.moreniche.com
 gambleonline.ca
 
-# --- TIMEONE PERFORMANCE --- (7 domain)
+# TIMEONE PERFORMANCE
 timeone.io
 www.timeone.io
 timeone.fr
@@ -220,10 +220,10 @@ timeonegroup.fr
 performance.timeone.io
 performance.timeonegroup.com
 
-# --- W4 --- (3 domain)
+# W4
 w4.com
 www.w4.com
 network.w4.com
 
-# --- DATIFY.LINK --- (1 domain)
+# DATIFY.LINK
 trk.datify.link
