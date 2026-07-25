@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8299
+# Total domains: 8298
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3660,7 +3660,6 @@ graphics.adultfriendfinder.com
 graphql.adikteev.com
 graphql.remerge.io
 gravyanalytics.com
-graylog.owncloud.com
 greponozy.com
 grid-bidder.criteo.com
 griffin.logs.roku.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8299
+# Total domains: 8298
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3660,7 +3660,6 @@
 0.0.0.0 graphql.adikteev.com
 0.0.0.0 graphql.remerge.io
 0.0.0.0 gravyanalytics.com
-0.0.0.0 graylog.owncloud.com
 0.0.0.0 greponozy.com
 0.0.0.0 grid-bidder.criteo.com
 0.0.0.0 griffin.logs.roku.com

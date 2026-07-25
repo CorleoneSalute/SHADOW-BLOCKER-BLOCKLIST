@@ -1,6 +1,6 @@
 # ============================================================
 # CLOUD STORAGE BLOCKLIST - AGGRESSIVE
-# Total domains: 20
+# Total domains: 19
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -13,7 +13,6 @@
 ||client-log.dropbox.com^
 ||crash-reports.owncloud.com^
 ||dropboxexperiment.com^
-||graylog.owncloud.com^
 ||log.getdropbox.com^
 ||log.tresorit.com^
 ||marketing.dropbox.com^
