@@ -2,6 +2,7 @@
 
 # Last update: 2026/07/16
 # Total domains: 37
+# Note: trailing "!" marks a domain as aggressive-only
 
 # Companion AI
 analytics.replika.ai
