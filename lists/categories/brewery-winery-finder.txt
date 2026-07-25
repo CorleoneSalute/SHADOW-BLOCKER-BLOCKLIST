@@ -1,4 +1,5 @@
-# Brewery & Winery Finder Blocklist 
+# Brewery & Winery Finder Blocklist
+
 # Total domains: 23
 # Last update: 2026/07/16
 # Notes: trailing "!" marks a domain as aggressive-only
