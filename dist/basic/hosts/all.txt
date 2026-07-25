@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8302
+# Total domains: 8301
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3180,7 +3180,6 @@
 0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 et-gcp.33across.com
 0.0.0.0 ethobleo.com
-0.0.0.0 etl.tindersparks.com
 0.0.0.0 etl.xlmc.sec.miui.com
 0.0.0.0 etlogs.fantrax.com
 0.0.0.0 etrack.np.norton.com
