@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8592
+# Total domains: 8591
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5820,7 +5820,6 @@
 ||preview.e-planning.net^
 ||primis.tech^
 ||privacy-proxy.usercentrics.eu^
-||privacynq.com^
 ||privacyreviver.com^
 ||private.dianomi.com^
 ||probe-target.criteo.net^

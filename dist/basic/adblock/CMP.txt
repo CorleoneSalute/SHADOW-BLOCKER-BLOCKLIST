@@ -1,6 +1,6 @@
 # ============================================================
 # CMP BLOCKLIST - BASIC
-# Total domains: 9
+# Total domains: 8
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,7 +10,6 @@
 ||d2zv5rkii46miq.cloudfront.net^
 ||log.cookieyes.com^
 ||mms.sp-prod.net^
-||privacynq.com^
 ||report.cookie-script.com^
 ||summerhamster.com^
 ||tattle.api.osano.com^

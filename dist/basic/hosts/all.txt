@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8307
+# Total domains: 8306
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5596,7 +5596,6 @@
 0.0.0.0 preview.crm.sms.miui.com
 0.0.0.0 preview.e-planning.net
 0.0.0.0 primis.tech
-0.0.0.0 privacynq.com
 0.0.0.0 privacyreviver.com
 0.0.0.0 private.dianomi.com
 0.0.0.0 probe-target.criteo.net

@@ -1,6 +1,6 @@
 # ============================================================
 # CMP BLOCKLIST - AGGRESSIVE
-# Total domains: 38
+# Total domains: 37
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -33,7 +33,6 @@ mms.sp-prod.net
 mobile-data.onetrust.io
 pm.sourcepoint.mgr.consensu.org
 privacy-proxy.usercentrics.eu
-privacynq.com
 region-eu.cookiehub.net
 report.cookie-script.com
 sourcepoint.mgr.consensu.org
