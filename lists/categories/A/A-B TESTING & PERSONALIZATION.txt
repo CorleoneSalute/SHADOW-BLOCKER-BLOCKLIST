@@ -1,8 +1,9 @@
 # A/B TESTING & PERSONALIZATION BLOCKLIST
 # Total domains: 66
 # Last update: 2026/07/18
+# Note: trailing "!" marks a domain as aggressive-only
 
-# OPTIMIZELY (10 domain)
+# OPTIMIZELY
 logx.optimizely.com
 p13nlog.optimizely.com
 log.optimizely.com
@@ -14,7 +15,7 @@ cmp.optimizely.com
 rum.optimizely.com
 track.optimizely.com
 
-# KAMELEOON (10 domain)
+# KAMELEOON
 logger.kameleoon.io
 data.kameleoon.net
 eu-data.kameleoon.eu
@@ -26,18 +27,18 @@ data.kameleoon.io
 na-data.kameleoon.eu
 kaizen-data.kameleoon.eu
 
-# VARIFY.IO (2 domain)
+# VARIFY.IO
 add-mapping-for-wrong-activity-log-classes.feature.varify.io
 activity-log-improvements.feature.varify.io
 
-# CONVERT.COM (2 domain)
+# CONVERT.COM
 convertexperiments.com
 metrics.convertexperiments.com
 
-# SPLIT.IO (1 domain)
+# SPLIT.IO
 telemetry.split.io
 
-# LAUNCHDARKLY (7 domain)
+# LAUNCHDARKLY
 events.launchdarkly.com !
 tracking.launchdarkly.com
 events.eu.launchdarkly.com
@@ -46,13 +47,13 @@ vitalstatistix.launchdarkly.com
 otel.observability.app.launchdarkly.com
 pub.observability.app.launchdarkly.com
 
-# DEVCYCLE (4 domain)
+# DEVCYCLE
 events.devcycle.com
 sse-analytics.devcycle.com
 events-api.devcycle.com
 analytics.devcycle.com
 
-# STATSIG (8 domain)
+# STATSIG
 segment.statsig.com
 statsigapi.net
 events.statsigapi.net
@@ -62,39 +63,39 @@ assetsconfigcdn.org
 prodregistryv2.org
 beyondwickedmapping.org
 
-# HARNESS FEATURE FLAGS (2 domain)
+# HARNESS FEATURE FLAGS
 events.ff.harness.io
 logs.harness.io
 
-# AMPLITUDE EXPERIMENT (4 domain)
+# AMPLITUDE EXPERIMENT
 amplitude.com !
 gs.amplitude.com
 gs.eu.amplitude.com
 gha-metrics.ops.amplitude.com
 
-# DYNAMIC YIELD (3 domain)
+# DYNAMIC YIELD
 ads.dynamicyield.com
 async-px.dynamicyield.com
 rcom-dump.dynamicyield.com
 
-# EVERGAGE (Salesforce Interaction Studio) (1 domain)
+# EVERGAGE (Salesforce Interaction Studio)
 collect.evergage.com
 
-# QUBIT (Coveo) (4 domain)
+# QUBIT (Coveo)
 opentag-stats.qubit.com
 gong-eb.qubit.com
 gong-gc.qubit.com
 segment-membership.qubit.com
 
-# WISEPOPS (3 domain)
+# WISEPOPS
 wisepops.com
 activity.wisepops.com
 tracking.wisepops.com
 
-# OPTIMOVE (1 domain)
+# OPTIMOVE
 track.optimove.net
 
-# OPTINMONSTER (Anti-Adblocker) (4 domain)
+# OPTINMONSTER
 optmstr.com
 a.optmstr.com
 b.optmstr.com
