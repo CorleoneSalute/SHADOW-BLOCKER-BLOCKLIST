@@ -1,7 +1,8 @@
 # 2FA Apps Blocklist
 
-Total domains: 11
-Last update: 2026/07/16
+# Total domains: 11
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
 
 # AUTHY
 analytics.authy.com
