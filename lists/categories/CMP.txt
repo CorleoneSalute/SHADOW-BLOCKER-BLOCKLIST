@@ -20,7 +20,8 @@ summerhamster.com
 d2zv5rkii46miq.cloudfront.net
 d3fkv551xkjrmm.cloudfront.net !
 
-# Geolocation & Region Detection (aggressive: breaks region-based consent flow)
+# Geolocation & Region Detection # ⚠️ Geolocation-based profiling domains.
+Blocking causes CMP failure to identify applicable regulations (GDPR/CCPA) - consent banner won't load or all consents auto-accepted.
 geolocation.onetrust.com !
 geo.cookiebot.com !
 geolocation.sourcepoint.com !
@@ -29,7 +30,7 @@ geo.uniconsent.com !
 geolocation.seersco.com !
 region-eu.cookiehub.net !
 
-# --- Cross-Site Consent Synchronization (aggressive: breaks saved consent preferences) ---
+# Cross-Site Consent Synchronization "# ⚠️ Domains that synchronize user consent IDs across sites — tracking vector.If these domains are blocked, user's saved consent preferences cannot be loaded; consent banner reappears on every visit."
 consent.onetrust.com !
 consent-api.onetrust.com !
 cookies-data.onetrust.io !
@@ -46,11 +47,8 @@ consent-eu.cookiehub.net !
 ds.cookiehub.net !
 
 # IAB TCF Consent String Infrastructure
+# ⚠️ Domains that carry user consent tokens via consensu.org — IAB ecosystem tracking infrastructure
 sourcepoint.mgr.consensu.org !
 pm.sourcepoint.mgr.consensu.org !
 amp.pm.sourcepoint.mgr.consensu.org !
 cdn.consentmanager.mgr.consensu.org !
-
-# Data Collection & Storage (function-dependent, aggressive)
-store.sp-prod.net !
-wrapper-api.sp-prod.net !
