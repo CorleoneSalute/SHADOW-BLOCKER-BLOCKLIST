@@ -1,10 +1,9 @@
-# ============================================================
-Deep Linking Blocklist
+# Deep Linking Blocklist
 # Total domains: 22
-# Last update: (2026-07-16)
-# ============================================================
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
 
-# --- Branch | Analytics & Attribution --- (6 domain)
+# Branch
 analytics.branch.io
 origin-analytics.branch.io
 attribution.branch.io
@@ -12,7 +11,7 @@ track.branch.io
 pixel.branch.io
 metrics.branch.io
 
-# --- AppsFlyer | Click / Impression / Event / Attribution --- (16 domain)
+# AppsFlyer
 t.appsflyer.com
 click.appsflyer.com
 impression.appsflyer.com
