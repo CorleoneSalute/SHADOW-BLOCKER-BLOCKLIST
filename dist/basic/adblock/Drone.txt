@@ -1,0 +1,12 @@
+# ============================================================
+# DRONE BLOCKLIST - BASIC
+# Total domains: 5
+# Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||analytics.powervision.me^
+||crash.dji.com^
+||log.dji.com^
+||stat.dji.com^
+||telemetry.dji.com^
