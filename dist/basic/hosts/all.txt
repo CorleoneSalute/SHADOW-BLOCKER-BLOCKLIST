@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8301
+# Total domains: 8298
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3165,7 +3165,6 @@
 0.0.0.0 errors.netflix.com
 0.0.0.0 errors.razerzone.com
 0.0.0.0 errors.reddit.com
-0.0.0.0 errors.stripe.com
 0.0.0.0 errors.ubuntu.com
 0.0.0.0 errorservice.metrics.ea.com
 0.0.0.0 errorsmart.com
@@ -5662,7 +5661,6 @@
 0.0.0.0 pxlme.me
 0.0.0.0 q.clarity.ms
 0.0.0.0 q.gs
-0.0.0.0 q.stripe.com
 0.0.0.0 qksrv.net
 0.0.0.0 qksz.net
 0.0.0.0 qlik.analytics.weather.com
@@ -6677,7 +6675,6 @@
 0.0.0.0 stats.norton.com
 0.0.0.0 stats.old.reddit.com
 0.0.0.0 stats.opensea.io
-0.0.0.0 stats.paypal.com
 0.0.0.0 stats.playit.pk
 0.0.0.0 stats.podbean.com
 0.0.0.0 stats.pokerist.com

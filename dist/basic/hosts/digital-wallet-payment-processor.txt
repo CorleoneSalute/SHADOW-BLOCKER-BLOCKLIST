@@ -1,6 +1,6 @@
 # ============================================================
 # DIGITAL WALLET PAYMENT PROCESSOR BLOCKLIST - BASIC
-# Total domains: 45
+# Total domains: 42
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -24,7 +24,6 @@
 0.0.0.0 blog.ads.paytm.com
 0.0.0.0 collect.skrill.com
 0.0.0.0 data-talos.revolut.com
-0.0.0.0 errors.stripe.com
 0.0.0.0 log.alipay.com
 0.0.0.0 log01.mtv.squareup.com
 0.0.0.0 logs.alipay.com
@@ -35,11 +34,9 @@
 0.0.0.0 paypal.demdex.net
 0.0.0.0 paypal.tt.omtrdc.net
 0.0.0.0 pixel.mercadopago.com
-0.0.0.0 q.stripe.com
 0.0.0.0 sentry.squareup.com
 0.0.0.0 sgtm.adyen.com
 0.0.0.0 sgtm.skrill.com
-0.0.0.0 stats.paypal.com
 0.0.0.0 track-marketing.coins.ph
 0.0.0.0 track.paytm.com
 0.0.0.0 tracking.avangate.net
