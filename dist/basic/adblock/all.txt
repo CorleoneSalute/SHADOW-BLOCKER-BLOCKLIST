@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8298
+# Total domains: 8310
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -688,6 +688,7 @@
 ||america-ad.360yield.com^
 ||amobee.com^
 ||amp.ad.sina.com.cn^
+||amp.didomi.io^
 ||amp.navdmp.com^
 ||amp.permutive.app^
 ||amp.taboola.com^
@@ -889,6 +890,7 @@
 ||analytics.comply.gig.com^
 ||analytics.connectwise.com^
 ||analytics.conviva.com^
+||analytics.cookielaw.org^
 ||analytics.cookpad.com^
 ||analytics.copymethat.com^
 ||analytics.corsair.com^
@@ -2782,7 +2784,9 @@
 ||d2oh4tlt9mrke9.cloudfront.net^
 ||d2ojpxxtu63wzl.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
+||d2zv5rkii46miq.cloudfront.net^
 ||d3anogn3pbtk4v.cloudfront.net^
+||d3fkv551xkjrmm.cloudfront.net^
 ||d3ikprf0m31yc7.cloudfront.net^
 ||d3von6il1wr7wo.cloudfront.net^
 ||d6y1.ads.pof.com^
@@ -2965,6 +2969,7 @@
 ||dis.eu.criteo.com^
 ||dis.nl.eu.criteo.com^
 ||dis.us.criteo.com^
+||disclaimer-api.goadopt.io^
 ||discover.outbrain.com^
 ||discover.taboola.com^
 ||discoverorg.com^
@@ -4248,6 +4253,7 @@
 ||log.buymeacoffee.com^
 ||log.byteoversea.com^
 ||log.carlcare.com^
+||log.cookieyes.com^
 ||log.core.cloud.vewd.com^
 ||log.dji.com^
 ||log.espn.com^
@@ -4928,6 +4934,7 @@
 ||ml.remerge.io^
 ||mlog.search.xiaomi.net^
 ||mmoity.com^
+||mms.sp-prod.net^
 ||mntn.com^
 ||moa-upload-eu.allawnos.com^
 ||moa-upload-in.allawnos.com^
@@ -5591,6 +5598,7 @@
 ||preview.crm.sms.miui.com^
 ||preview.e-planning.net^
 ||primis.tech^
+||privacynq.com^
 ||privacyreviver.com^
 ||private.dianomi.com^
 ||probe-target.criteo.net^
@@ -5774,6 +5782,7 @@
 ||report-in.uc.heytapmobile.com^
 ||report-sg.uc.heytapmobile.com^
 ||report.appmetrica.yango.com^
+||report.cookie-script.com^
 ||report.gras.samsungdm.com^
 ||report.n.xiaomi.com^
 ||reporting.360yield.com^
@@ -6725,6 +6734,7 @@
 ||stickyadstv.com^
 ||stirista.com^
 ||stopzilla.com^
+||storage.osano.com^
 ||storage.outbrain.com^
 ||store.criteo.com^
 ||store.zipy.ai^
@@ -6750,6 +6760,7 @@
 ||sublimeskinz.com^
 ||submit.backtrace.io^
 ||sugarland.logs.roku.com^
+||summerhamster.com^
 ||sungymobile.com^
 ||superantispyware.com^
 ||superchat-analytics.youtube.com^
@@ -6888,6 +6899,7 @@
 ||target-us.samsung.com^
 ||targeted-config-test.samsungacr.com^
 ||targeting.unrulymedia.com^
+||tattle.api.osano.com^
 ||taurusx.com^
 ||tbm.snssdk.com^
 ||tcf.seedtag.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8554
+# Total domains: 8593
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -718,8 +718,10 @@
 ||america-ad.360yield.com^
 ||amobee.com^
 ||amp.ad.sina.com.cn^
+||amp.didomi.io^
 ||amp.navdmp.com^
 ||amp.permutive.app^
+||amp.pm.sourcepoint.mgr.consensu.org^
 ||amp.taboola.com^
 ||amplify-api.outbrain.com^
 ||amplify-assets.outbrain.com^
@@ -919,6 +921,7 @@
 ||analytics.comply.gig.com^
 ||analytics.connectwise.com^
 ||analytics.conviva.com^
+||analytics.cookielaw.org^
 ||analytics.cookpad.com^
 ||analytics.copymethat.com^
 ||analytics.corsair.com^
@@ -2321,6 +2324,7 @@
 ||cdn.compass.microad.jp^
 ||cdn.connectad.io^
 ||cdn.connectadrealtime.com^
+||cdn.consentmanager.mgr.consensu.org^
 ||cdn.content.ad^
 ||cdn.cp.ligatus.com^
 ||cdn.decibelinsight.net^
@@ -2690,6 +2694,14 @@
 ||connectad.io^
 ||connectadrealtime.com^
 ||connectid.yahoo.com^
+||consent-api.onetrust.com^
+||consent-eu.cookiehub.net^
+||consent.cookiebot.com^
+||consent.cookiebot.eu^
+||consent.cookiehub.net^
+||consent.onetrust.com^
+||consentcdn.cookiebot.com^
+||consentcdn.cookiebot.eu^
 ||console.fyber.com^
 ||content-ad.net^
 ||content.ad^
@@ -2721,6 +2733,7 @@
 ||convnjmp.taboola.com^
 ||convtrack.facebook.com^
 ||cookiecheck.criteo.com^
+||cookies-data.onetrust.io^
 ||cool.co^
 ||cooper.logs.roku.com^
 ||copilot-telemetry.githubusercontent.com^
@@ -2847,7 +2860,9 @@
 ||d2oh4tlt9mrke9.cloudfront.net^
 ||d2ojpxxtu63wzl.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
+||d2zv5rkii46miq.cloudfront.net^
 ||d3anogn3pbtk4v.cloudfront.net^
+||d3fkv551xkjrmm.cloudfront.net^
 ||d3ikprf0m31yc7.cloudfront.net^
 ||d3von6il1wr7wo.cloudfront.net^
 ||d6y1.ads.pof.com^
@@ -3032,6 +3047,7 @@
 ||dis.eu.criteo.com^
 ||dis.nl.eu.criteo.com^
 ||dis.us.criteo.com^
+||disclaimer-api.goadopt.io^
 ||discover.outbrain.com^
 ||discover.taboola.com^
 ||discoverorg.com^
@@ -3119,6 +3135,7 @@
 ||drivescrubber.com^
 ||dropboxexperiment.com^
 ||drp.su^
+||ds.cookiehub.net^
 ||dsadata.intel.com^
 ||dsp-api.smartyads.com^
 ||dsp-cdn.eskimi.com^
@@ -3711,7 +3728,13 @@
 ||geo-dra.platform.hicloud.com^
 ||geo-drcn.platform.hicloud.com^
 ||geo-surf.com^
+||geo.cookiebot.com^
+||geo.privacy-center.org^
+||geo.uniconsent.com^
 ||geoip.cactusglobal.com^
+||geolocation.onetrust.com^
+||geolocation.seersco.com^
+||geolocation.sourcepoint.com^
 ||geologgera1.geodell.dell.com^
 ||geologgeran.us.dell.com^
 ||geologgerbn.us.dell.com^
@@ -4410,6 +4433,7 @@
 ||log.buymeacoffee.com^
 ||log.byteoversea.com^
 ||log.carlcare.com^
+||log.cookieyes.com^
 ||log.core.cloud.vewd.com^
 ||log.dji.com^
 ||log.espn.com^
@@ -5093,6 +5117,7 @@
 ||ml.remerge.io^
 ||mlog.search.xiaomi.net^
 ||mmoity.com^
+||mms.sp-prod.net^
 ||mntn.com^
 ||moa-upload-eu.allawnos.com^
 ||moa-upload-in.allawnos.com^
@@ -5110,6 +5135,7 @@
 ||mobile-api.revcontent.com^
 ||mobile-api.taboola.com^
 ||mobile-crash-reporting.facebook.com^
+||mobile-data.onetrust.io^
 ||mobile-sdk.smartlook.com^
 ||mobile.anycast.adnxs.com^
 ||mobile.logs.roku.com^
@@ -5733,6 +5759,7 @@
 ||plista87.plista.com^
 ||plus.dnb.com^
 ||pluto.tv.sc.omtrdc.net^
+||pm.sourcepoint.mgr.consensu.org^
 ||pmc-reporting.criteo.net^
 ||pnrt-stsdk.vivoglobal.com^
 ||pnrt.stsdk.vivoglobal.com^
@@ -5792,6 +5819,8 @@
 ||preview.crm.sms.miui.com^
 ||preview.e-planning.net^
 ||primis.tech^
+||privacy-proxy.usercentrics.eu^
+||privacynq.com^
 ||privacyreviver.com^
 ||private.dianomi.com^
 ||probe-target.criteo.net^
@@ -5954,6 +5983,7 @@
 ||regcure.com^
 ||regecish.net^
 ||regi.di.atlas.samsung.com^
+||region-eu.cookiehub.net^
 ||region.dbankedge.cn^
 ||register.collector.scopely.io^
 ||registry-cleaner.net^
@@ -5981,6 +6011,7 @@
 ||report-in.uc.heytapmobile.com^
 ||report-sg.uc.heytapmobile.com^
 ||report.appmetrica.yango.com^
+||report.cookie-script.com^
 ||report.gras.samsungdm.com^
 ||report.n.xiaomi.com^
 ||reporting.360yield.com^
@@ -6711,6 +6742,7 @@
 ||solvusoft.com^
 ||sonobi.com^
 ||soo.gd^
+||sourcepoint.mgr.consensu.org^
 ||sovrn.com^
 ||sovrn.net^
 ||sp-track.fliptheswitch.com^
@@ -6942,8 +6974,10 @@
 ||stickyadstv.com^
 ||stirista.com^
 ||stopzilla.com^
+||storage.osano.com^
 ||storage.outbrain.com^
 ||store.criteo.com^
+||store.sp-prod.net^
 ||store.zipy.ai^
 ||storeconfig.mistat.intl.xiaomi.com^
 ||storeconfig.mistat.xiaomi.com^
@@ -6968,6 +7002,7 @@
 ||sublimeskinz.com^
 ||submit.backtrace.io^
 ||sugarland.logs.roku.com^
+||summerhamster.com^
 ||sungymobile.com^
 ||superantispyware.com^
 ||superchat-analytics.youtube.com^
@@ -7111,6 +7146,7 @@
 ||targeted-config-test.samsungacr.com^
 ||targeting.unrulymedia.com^
 ||tatari.tv^
+||tattle.api.osano.com^
 ||taurusx.com^
 ||tbm.snssdk.com^
 ||tcf.seedtag.com^
@@ -7935,6 +7971,7 @@
 ||ubacollect-drcn.cloud.dbankcloud.cn^
 ||ubimo.com^
 ||ubuntu-report.canonical.com^
+||uc.api.osano.com^
 ||udp.adobe.io^
 ||ug-sg.byteoversea.com^
 ||ug.snssdk.com^
@@ -7951,6 +7988,7 @@
 ||ungads.com^
 ||uniblue.com^
 ||unifiedbidding.ad.smaato.net^
+||unifiedconsent.osano.com^
 ||uninstall.remerge.io^
 ||union.pangleglobal.com^
 ||unityads.unity3d.com^
@@ -8304,6 +8342,7 @@
 ||woolog-us.wooclap.com^
 ||woolog.wooclap.com^
 ||wp-cdn.undertone.com^
+||wrapper-api.sp-prod.net^
 ||ws-eu.amazon-adsystem.com^
 ||ws.driverhive.com^
 ||ws.inspectlet.com^

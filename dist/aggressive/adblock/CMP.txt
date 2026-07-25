@@ -1,0 +1,46 @@
+# ============================================================
+# CMP BLOCKLIST - AGGRESSIVE
+# Total domains: 39
+# Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||amp.didomi.io^
+||amp.pm.sourcepoint.mgr.consensu.org^
+||analytics.cookielaw.org^
+||cdn.consentmanager.mgr.consensu.org^
+||consent-api.onetrust.com^
+||consent-eu.cookiehub.net^
+||consent.cookiebot.com^
+||consent.cookiebot.eu^
+||consent.cookiehub.net^
+||consent.onetrust.com^
+||consentcdn.cookiebot.com^
+||consentcdn.cookiebot.eu^
+||cookies-data.onetrust.io^
+||d2zv5rkii46miq.cloudfront.net^
+||d3fkv551xkjrmm.cloudfront.net^
+||disclaimer-api.goadopt.io^
+||ds.cookiehub.net^
+||geo.cookiebot.com^
+||geo.privacy-center.org^
+||geo.uniconsent.com^
+||geolocation.onetrust.com^
+||geolocation.seersco.com^
+||geolocation.sourcepoint.com^
+||log.cookieyes.com^
+||mms.sp-prod.net^
+||mobile-data.onetrust.io^
+||pm.sourcepoint.mgr.consensu.org^
+||privacy-proxy.usercentrics.eu^
+||privacynq.com^
+||region-eu.cookiehub.net^
+||report.cookie-script.com^
+||sourcepoint.mgr.consensu.org^
+||storage.osano.com^
+||store.sp-prod.net^
+||summerhamster.com^
+||tattle.api.osano.com^
+||uc.api.osano.com^
+||unifiedconsent.osano.com^
+||wrapper-api.sp-prod.net^

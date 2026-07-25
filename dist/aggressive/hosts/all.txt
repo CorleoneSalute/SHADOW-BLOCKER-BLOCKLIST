@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8554
+# Total domains: 8593
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -718,8 +718,10 @@
 0.0.0.0 america-ad.360yield.com
 0.0.0.0 amobee.com
 0.0.0.0 amp.ad.sina.com.cn
+0.0.0.0 amp.didomi.io
 0.0.0.0 amp.navdmp.com
 0.0.0.0 amp.permutive.app
+0.0.0.0 amp.pm.sourcepoint.mgr.consensu.org
 0.0.0.0 amp.taboola.com
 0.0.0.0 amplify-api.outbrain.com
 0.0.0.0 amplify-assets.outbrain.com
@@ -919,6 +921,7 @@
 0.0.0.0 analytics.comply.gig.com
 0.0.0.0 analytics.connectwise.com
 0.0.0.0 analytics.conviva.com
+0.0.0.0 analytics.cookielaw.org
 0.0.0.0 analytics.cookpad.com
 0.0.0.0 analytics.copymethat.com
 0.0.0.0 analytics.corsair.com
@@ -2321,6 +2324,7 @@
 0.0.0.0 cdn.compass.microad.jp
 0.0.0.0 cdn.connectad.io
 0.0.0.0 cdn.connectadrealtime.com
+0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cdn.content.ad
 0.0.0.0 cdn.cp.ligatus.com
 0.0.0.0 cdn.decibelinsight.net
@@ -2690,6 +2694,14 @@
 0.0.0.0 connectad.io
 0.0.0.0 connectadrealtime.com
 0.0.0.0 connectid.yahoo.com
+0.0.0.0 consent-api.onetrust.com
+0.0.0.0 consent-eu.cookiehub.net
+0.0.0.0 consent.cookiebot.com
+0.0.0.0 consent.cookiebot.eu
+0.0.0.0 consent.cookiehub.net
+0.0.0.0 consent.onetrust.com
+0.0.0.0 consentcdn.cookiebot.com
+0.0.0.0 consentcdn.cookiebot.eu
 0.0.0.0 console.fyber.com
 0.0.0.0 content-ad.net
 0.0.0.0 content.ad
@@ -2721,6 +2733,7 @@
 0.0.0.0 convnjmp.taboola.com
 0.0.0.0 convtrack.facebook.com
 0.0.0.0 cookiecheck.criteo.com
+0.0.0.0 cookies-data.onetrust.io
 0.0.0.0 cool.co
 0.0.0.0 cooper.logs.roku.com
 0.0.0.0 copilot-telemetry.githubusercontent.com
@@ -2847,7 +2860,9 @@
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2ojpxxtu63wzl.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
+0.0.0.0 d2zv5rkii46miq.cloudfront.net
 0.0.0.0 d3anogn3pbtk4v.cloudfront.net
+0.0.0.0 d3fkv551xkjrmm.cloudfront.net
 0.0.0.0 d3ikprf0m31yc7.cloudfront.net
 0.0.0.0 d3von6il1wr7wo.cloudfront.net
 0.0.0.0 d6y1.ads.pof.com
@@ -3032,6 +3047,7 @@
 0.0.0.0 dis.eu.criteo.com
 0.0.0.0 dis.nl.eu.criteo.com
 0.0.0.0 dis.us.criteo.com
+0.0.0.0 disclaimer-api.goadopt.io
 0.0.0.0 discover.outbrain.com
 0.0.0.0 discover.taboola.com
 0.0.0.0 discoverorg.com
@@ -3119,6 +3135,7 @@
 0.0.0.0 drivescrubber.com
 0.0.0.0 dropboxexperiment.com
 0.0.0.0 drp.su
+0.0.0.0 ds.cookiehub.net
 0.0.0.0 dsadata.intel.com
 0.0.0.0 dsp-api.smartyads.com
 0.0.0.0 dsp-cdn.eskimi.com
@@ -3711,7 +3728,13 @@
 0.0.0.0 geo-dra.platform.hicloud.com
 0.0.0.0 geo-drcn.platform.hicloud.com
 0.0.0.0 geo-surf.com
+0.0.0.0 geo.cookiebot.com
+0.0.0.0 geo.privacy-center.org
+0.0.0.0 geo.uniconsent.com
 0.0.0.0 geoip.cactusglobal.com
+0.0.0.0 geolocation.onetrust.com
+0.0.0.0 geolocation.seersco.com
+0.0.0.0 geolocation.sourcepoint.com
 0.0.0.0 geologgera1.geodell.dell.com
 0.0.0.0 geologgeran.us.dell.com
 0.0.0.0 geologgerbn.us.dell.com
@@ -4410,6 +4433,7 @@
 0.0.0.0 log.buymeacoffee.com
 0.0.0.0 log.byteoversea.com
 0.0.0.0 log.carlcare.com
+0.0.0.0 log.cookieyes.com
 0.0.0.0 log.core.cloud.vewd.com
 0.0.0.0 log.dji.com
 0.0.0.0 log.espn.com
@@ -5093,6 +5117,7 @@
 0.0.0.0 ml.remerge.io
 0.0.0.0 mlog.search.xiaomi.net
 0.0.0.0 mmoity.com
+0.0.0.0 mms.sp-prod.net
 0.0.0.0 mntn.com
 0.0.0.0 moa-upload-eu.allawnos.com
 0.0.0.0 moa-upload-in.allawnos.com
@@ -5110,6 +5135,7 @@
 0.0.0.0 mobile-api.revcontent.com
 0.0.0.0 mobile-api.taboola.com
 0.0.0.0 mobile-crash-reporting.facebook.com
+0.0.0.0 mobile-data.onetrust.io
 0.0.0.0 mobile-sdk.smartlook.com
 0.0.0.0 mobile.anycast.adnxs.com
 0.0.0.0 mobile.logs.roku.com
@@ -5733,6 +5759,7 @@
 0.0.0.0 plista87.plista.com
 0.0.0.0 plus.dnb.com
 0.0.0.0 pluto.tv.sc.omtrdc.net
+0.0.0.0 pm.sourcepoint.mgr.consensu.org
 0.0.0.0 pmc-reporting.criteo.net
 0.0.0.0 pnrt-stsdk.vivoglobal.com
 0.0.0.0 pnrt.stsdk.vivoglobal.com
@@ -5792,6 +5819,8 @@
 0.0.0.0 preview.crm.sms.miui.com
 0.0.0.0 preview.e-planning.net
 0.0.0.0 primis.tech
+0.0.0.0 privacy-proxy.usercentrics.eu
+0.0.0.0 privacynq.com
 0.0.0.0 privacyreviver.com
 0.0.0.0 private.dianomi.com
 0.0.0.0 probe-target.criteo.net
@@ -5954,6 +5983,7 @@
 0.0.0.0 regcure.com
 0.0.0.0 regecish.net
 0.0.0.0 regi.di.atlas.samsung.com
+0.0.0.0 region-eu.cookiehub.net
 0.0.0.0 region.dbankedge.cn
 0.0.0.0 register.collector.scopely.io
 0.0.0.0 registry-cleaner.net
@@ -5981,6 +6011,7 @@
 0.0.0.0 report-in.uc.heytapmobile.com
 0.0.0.0 report-sg.uc.heytapmobile.com
 0.0.0.0 report.appmetrica.yango.com
+0.0.0.0 report.cookie-script.com
 0.0.0.0 report.gras.samsungdm.com
 0.0.0.0 report.n.xiaomi.com
 0.0.0.0 reporting.360yield.com
@@ -6711,6 +6742,7 @@
 0.0.0.0 solvusoft.com
 0.0.0.0 sonobi.com
 0.0.0.0 soo.gd
+0.0.0.0 sourcepoint.mgr.consensu.org
 0.0.0.0 sovrn.com
 0.0.0.0 sovrn.net
 0.0.0.0 sp-track.fliptheswitch.com
@@ -6942,8 +6974,10 @@
 0.0.0.0 stickyadstv.com
 0.0.0.0 stirista.com
 0.0.0.0 stopzilla.com
+0.0.0.0 storage.osano.com
 0.0.0.0 storage.outbrain.com
 0.0.0.0 store.criteo.com
+0.0.0.0 store.sp-prod.net
 0.0.0.0 store.zipy.ai
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storeconfig.mistat.xiaomi.com
@@ -6968,6 +7002,7 @@
 0.0.0.0 sublimeskinz.com
 0.0.0.0 submit.backtrace.io
 0.0.0.0 sugarland.logs.roku.com
+0.0.0.0 summerhamster.com
 0.0.0.0 sungymobile.com
 0.0.0.0 superantispyware.com
 0.0.0.0 superchat-analytics.youtube.com
@@ -7111,6 +7146,7 @@
 0.0.0.0 targeted-config-test.samsungacr.com
 0.0.0.0 targeting.unrulymedia.com
 0.0.0.0 tatari.tv
+0.0.0.0 tattle.api.osano.com
 0.0.0.0 taurusx.com
 0.0.0.0 tbm.snssdk.com
 0.0.0.0 tcf.seedtag.com
@@ -7935,6 +7971,7 @@
 0.0.0.0 ubacollect-drcn.cloud.dbankcloud.cn
 0.0.0.0 ubimo.com
 0.0.0.0 ubuntu-report.canonical.com
+0.0.0.0 uc.api.osano.com
 0.0.0.0 udp.adobe.io
 0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 ug.snssdk.com
@@ -7951,6 +7988,7 @@
 0.0.0.0 ungads.com
 0.0.0.0 uniblue.com
 0.0.0.0 unifiedbidding.ad.smaato.net
+0.0.0.0 unifiedconsent.osano.com
 0.0.0.0 uninstall.remerge.io
 0.0.0.0 union.pangleglobal.com
 0.0.0.0 unityads.unity3d.com
@@ -8304,6 +8342,7 @@
 0.0.0.0 woolog-us.wooclap.com
 0.0.0.0 woolog.wooclap.com
 0.0.0.0 wp-cdn.undertone.com
+0.0.0.0 wrapper-api.sp-prod.net
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 ws.driverhive.com
 0.0.0.0 ws.inspectlet.com
