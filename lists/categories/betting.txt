@@ -1,231 +1,151 @@
-################################################################
 # BETTING BLOCKLIST
-# Toplam benzersiz domain: 237
-# Platform/kategori sayisi: 85
-# Son guncelleme: 20 Temmuz 2026
-################################################################
+# Total domains: 237
+# Total platforms: 85
+# Last update: 2026/07/16
 
-################################################################
 # DraftKings
-################################################################
 metrics.draftkings.com
 
-################################################################
 # FanDuel
-################################################################
 metrics.fanduel.com
 
-################################################################
 # Betfair
-################################################################
 clientmetrics.betfair.com
 ads.betfair.com
 ads.betfair.com.au
 
-################################################################
 # ESPN Fantasy
-################################################################
 tracking.espn.com
 log.espn.com
 
-################################################################
 # PrizePicks
-################################################################
 analytics.prizepicks.com
 
-################################################################
 # Lottery.com
-################################################################
 track.lottery.com
 
-################################################################
 # PlayHugeLottos
-################################################################
 metrics.playhugelottos.com
 analytics.playhugelottos.com
 
-################################################################
 # GiantLottos
-################################################################
 ad.srv.giantlottos.com
 
-################################################################
 # Lotto247
-################################################################
 analytics-api.lotto247.com
 analytics.lotto247.com
 
-################################################################
 # GrandesLoterias
-################################################################
 analytics-api.grandesloterias.com
 analytics.grandesloterias.com
 
-################################################################
 # PlayUSALotteries
-################################################################
 analytics-api.playusalotteries.com
 
-################################################################
 # Scientific Games / Light & Wonder
-################################################################
 analytics.scientificgames.com
 laslucaads-util.scientificgames.com
 laslucaads.scientificgames.com
 
-################################################################
 # Chalkboard
-################################################################
 track.chalkboard.io
 
-################################################################
 # Fantrax
-################################################################
 etlogs.fantrax.com
 logging.fantrax.com
 
-################################################################
 # TheLotter
-################################################################
 tl-log.thelotter.us
 
-################################################################
 # Thrillzz
-################################################################
 logs.thrillzz.com
 
-################################################################
-# Fanatics Sportsbook (Adobe Analytics kalıbı)
-################################################################
+# Fanatics Sportsbook
 data.a.fanatics.com
 data.adobe.fanatics.com
 data.t.fanatics.com
 
-################################################################
 # WinTrillions
-################################################################
 metrics.trillonario.com
 
-################################################################
 # Underdog Fantasy
-################################################################
 fp.underdogfantasy.com
 
-################################################################
 # Tulotero
-################################################################
 fp.web.tulotero.com
 fp.web.tulotero.es
 fp.web.tulotero.mx
 
-################################################################
 # CBS Sports
-################################################################
 track.cbssports.com
 
-################################################################
 # Coinbase
-################################################################
 app.analytics.coinbase.com
-events-service.coinbase.com
+events-service.coinbase.com !
 fp.coinbase.com
 
-################################################################
 # Gemini
-################################################################
 analytics-assets.gemini.com
 
-################################################################
 # Polymarket
-################################################################
 xtracker.polymarket.com
 
-################################################################
 # Robin Markets
-################################################################
 analytics.robin.markets
 analytics-worker.robin.markets
 analytics-api.robin.markets
 api.analytics.robin.markets
 
-################################################################
 # Gnosis / Gnosis Chain
-################################################################
 analytics.gnosis.io
 mcp.analytics.gnosis.io
 api.analytics.gnosis.io
 metrics.gnosischain.com
 logs.gnosis.io
 
-################################################################
 # Drift Protocol
-################################################################
 metrics.drift.trade
 analytics.drift.trade
 logging.drift.trade
 metrics-old.drift.trade
 
-################################################################
 # Overtime / Thales
-################################################################
 analytics-v2.thalesmarket.io
 analytics.thalesmarket.io
 
-################################################################
 # PlotX
-################################################################
 track.plotx.io
 
-################################################################
 # PancakeSwap Prediction
-################################################################
 analytics.pancakeswap.finance
 
-################################################################
 # Predict.fun
-################################################################
 sentry.predict.fun
 
-################################################################
 # AsianConnect88
-################################################################
 fwtrack.asianconnect88.com
 
-################################################################
 # Pinnacle
-################################################################
 trk.pinnacle.com
 
-################################################################
 # SBOTOP
-################################################################
 sp-track.sbotop.net
 
-################################################################
 # Fun88
-################################################################
 tracking.fun88.com
 
-################################################################
 # Betsson
-################################################################
 track.betsson.bet.ar
 
-################################################################
 # Unibet / Kindred
-################################################################
 adserving.unibet.com
 adserving-tmp.unibet.com
 tracking.unibet.com
 
-################################################################
 # Bwin
-################################################################
 analytics.bwin.com
 
-################################################################
 # 888 Holdings
-################################################################
 tmp-pixel.888.com
 pixel.888.com
 analytics.888.com
@@ -234,56 +154,38 @@ analytics.888poker.com
 analytics.mrgreen.com
 ads.mrgreen.com
 
-################################################################
 # William Hill
-################################################################
 tracker.williamhill.com
 smetrics2.williamhill.com
 smetrics.williamhill.com
 
-################################################################
-# Entain Diğer Markalar
-################################################################
+# Sporting Bet
 webanalytics.sportingbet.com
 
-################################################################
 # TAB / Tabcorp
-################################################################
 smetrics.tab.com.au
 
-################################################################
 # Sportsbet / Flutter
-################################################################
 tracking.sportsbet.com.au
 smetrics.sportsbet.com.au
 
-################################################################
-# Flutter Diğer Markalar
-################################################################
+# Flutter Owned Other Companys
 ads.sisal.it
 tracking.oddschecker.com
 ads.oddschecker.com
 analytics-api.tombola.co.uk
 
-################################################################
 # Betdaq
-################################################################
 log.betdaq.com
 
-################################################################
 # SharpX / Sharp Exchange
-################################################################
 metrics.sharpxch.com
 metrics.betinasia.com
 
-################################################################
 # Spreadex
-################################################################
 sstat.spreadex.com
 
-################################################################
 # Zynga
-################################################################
 analytics.zynga.com
 stats.zynga.com
 ct.zynga.com
@@ -299,48 +201,34 @@ rtb.stats.zynga.com
 track.poker.zynga.com
 yum.stats.zynga.com
 
-################################################################
 # Big Fish Casino / BFGE
-################################################################
 analytics.bigfishgames.com
 gm-telemetry.bfge.bigfishgames.com
 ua.intelligence.bigfishgames.com
 hmid.bfge.bigfishgames.com
 sptracking.bigfishcasino.com
 
-################################################################
 # Huuuge Casino
-################################################################
 hc-tracking.huuuge.net
 hads.huuuge.net
 
-################################################################
 # DoubleDown Casino
-################################################################
 ads.suprnation.com
 
-################################################################
 # Slotomania / Playtika
-################################################################
 snow-track.playtika.com
 analystday.playtika.com
 
-################################################################
 # GSN Casino
-################################################################
 woanalytics.gsn.com
 ramble.bash-analytics.gsngames.com
 rover.bash-analytics.gsngames.com
 
-################################################################
 # Light & Wonder / SciPlay
-################################################################
 analytics.lnw.com
 emea-analytics.lnw.com
 
-################################################################
 # GGPoker / ClubGG
-################################################################
 gtm.ggpoker.com
 gtm.br.ggpoker.com
 gtm.latam.ggpoker.com
@@ -368,9 +256,7 @@ ua7.ggpoker.com
 ua8.ggpoker.com
 ua9.ggpoker.com
 
-################################################################
 # PokerStars
-################################################################
 collector.pokerstars.eu
 collector.pokerstars.com
 collector.pokerstars.net
@@ -388,9 +274,7 @@ collector.pokerstars.es
 collector.pokerstars.be
 collector.pokerstars.gr
 
-################################################################
 # Replay Poker
-################################################################
 gtm.replaypoker.com
 log.replaypoker.com
 logs.replaypoker.com
@@ -398,57 +282,41 @@ smetrics.replaypoker.com
 smetrics.casino.org
 track.casino.org
 
-################################################################
 # Scopely (Bingo Bash)
-################################################################
 scopely.io
 event.collector.scopely.io
 register.collector.scopely.io
 collector.scopely.io
 
-################################################################
 # Club Vegas / Bagelcode
-################################################################
 track.bagelcode.com
 analytics.bagelcode.com
 
-################################################################
 # Pulsz Casino
-################################################################
 analytics-api.pulsz.com
 fp.pulsz.com
-optimizely.pulsz.com ! # ⚠️ A/B test (deney) platformu. Bazı sayfa bölümleri deney sonucu beklenerek gösterilir; bloklanırsa o bölüm boş kalabilir veya yavaş yüklenebilir.
+optimizely.pulsz.com ! # ⚠️ A/B Testing Platform. Some page sections render conditionally based on experiment results; if blocked, sections may appear empty or load slowly.
 ss.pulszcasino.com
 analytics-api.pulszbingo.com
 optimizely.pulszbingo.com !
 
-################################################################
-# Stake # ⚠️ Çok fazla kullanıcı şikayeti ve scam olduğuna dair geri bildirimler var, güvenilmez site kullanılmamalı
-################################################################
+# Stake # ⚠️ WARNING: Numerous user reports of scams and fraudulent activity. Site is untrustworthy and should be avoided.
 stake.com 
 stake.us 
 aff.stake.com 
 
-################################################################
 # Lucky Slots
-################################################################
 analytics.luckyslots.net
 metric.luckyslots.net
 
-################################################################
 # Plarium / Heart of Vegas
-################################################################
 analytics.aristocrat.com
 stats.productmadness.com
 
-################################################################
 # Jackpot Magic Slots
-################################################################
 sptracking.jackpotmagicslots.com
 
-################################################################
 # Full House Casino
-################################################################
 1fhc-event.fhcasino.com
 1fhc-event2.fhcasino.com
 1mgas-log.fhcasino.com
@@ -456,30 +324,22 @@ fhc-event.fhcasino.com
 fhc-event2.fhcasino.com
 mgas-log.fhcasino.com
 
-################################################################
 # Gold Fish Casino Slots
-################################################################
 sp-track.fliptheswitch.com
 
-################################################################
 # Mega Win Slots
-################################################################
 analytics.megawinslots.com
 metric.megawinslots.com
 metrics.megawinslots.com
 stats.megawinslots.com
 ststfstats.megawinslots.com
 
-################################################################
 # Governor of Poker (Youda / Playtika)
-################################################################
 tracking.governorofpoker.com
 tracking.youdagames.com
 tracking.orangegames.com
 
-################################################################
 # Pokerist / KamaGames
-################################################################
 ads.pokerist.com
 analytics-bridge.pokerist.com
 analytics-bridge01.pokerist.com
@@ -491,37 +351,25 @@ collector1-us-west.pokerist.com
 stats.pokerist.com
 smetrics.blackjack.com
 
-################################################################
 # Lotsa Slots (SpinX Games / Netmarble)
-################################################################
 collector.spinxgames.com
 collector-v2.spinxgames.com
 
-################################################################
 # WOW Vegas / Rolla / MetaWin (MW Services Ltd — Gibraltar)
-################################################################
 stats.wowvegas.com
 analytics.metawin.us
 stats.metawin.us
 
-################################################################
 # McLuck Casino (B-Two Operations)
-################################################################
 optimizely.mcluck.com !
 
-################################################################
 # Crown Coins (Sunflower Limited)
-################################################################
 analytics-api.crowncoinscasino.com
 
-################################################################
 # Hard Rock Social Casino / Hard Rock Games
-################################################################
 analytics.hardrock.com
 
-################################################################
 # Jackpota / Hello Millions / SpinBlitz / MegaBonanza / PlayFame (B-Two Operations)
-################################################################
 optimizely.hellomillions.com !
 trk.jackpota.com
 optimizely.spinblitz.com !
@@ -529,55 +377,35 @@ optimizely.scratchful.com !
 optimizely.sportsmillions.com !
 optimizely.playfame.com !
 
-################################################################
 # Lavish Luck (Prudent Owl Limited)
-################################################################
 pixel.sorceryreels.com
 analytics.comply.gig.com
 
-################################################################
 # RealPlay Tech Inc
-################################################################
 rtrack.lonestarcasino.com
 trackju.lonestarcasino.com
 trackju.realprize.com
 
-################################################################
 # Punt.com (Gold Coin Group)
-################################################################
 tracking.punt.com
 
-################################################################
 # Chanced Casino
-################################################################
 tracking.chanced.com
 
-################################################################
 # Casino.Click (CasinoClick LLC)
-################################################################
 fwtrack.casino.click
 
-################################################################
 # SweepNext (Boostora LTD — Cyprus)
-################################################################
 pxl.sweepnext.com
 
-################################################################
 # Bankrolla
-################################################################
 fp.bankrolla.com
 
-################################################################
 # Mega Frenzy / Sweeptastic / Cazino (Heuston Gaming Malta)
-################################################################
 track.cazino.com
 
-################################################################
 # FreeSpin
-################################################################
 fwtrack.freespin.com
 
-################################################################
 # JackpotGo
-################################################################
 pixel.jackpotgo.com
