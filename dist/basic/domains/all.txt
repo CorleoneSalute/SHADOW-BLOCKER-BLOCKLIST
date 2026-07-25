@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8303
+# Total domains: 8302
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3265,7 +3265,6 @@ events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 events-dre.op.dbankcloud.com
 events-dre.op.hicloud.com
 events-lon1.gfe.nvidia.com
-events-service.coinbase.com
 events-ssc.33across.com
 events-stream.remerge.io
 events-v2.redditmedia.com

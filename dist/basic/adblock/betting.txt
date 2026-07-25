@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 229
+# Total domains: 228
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -96,7 +96,6 @@
 ||emea-analytics.lnw.com^
 ||etlogs.fantrax.com^
 ||event.collector.scopely.io^
-||events-service.coinbase.com^
 ||fhc-event.fhcasino.com^
 ||fhc-event2.fhcasino.com^
 ||fid-br.ggpoker.com^
