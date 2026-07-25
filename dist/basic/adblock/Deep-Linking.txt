@@ -1,0 +1,29 @@
+# ============================================================
+# DEEP LINKING BLOCKLIST - BASIC
+# Total domains: 22
+# Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||analytics.appsflyer.com^
+||analytics.branch.io^
+||attr.appsflyer.com^
+||attribution.branch.io^
+||click.appsflyer.com^
+||conversion.appsflyer.com^
+||conversions.appsflyer.com^
+||event.appsflyer.com^
+||evgen.appsflyer.com^
+||impression.appsflyer.com^
+||impressions.appsflyer.com^
+||inapps.appsflyer.com^
+||launches.appsflyer.com^
+||metrics.branch.io^
+||origin-analytics.branch.io^
+||pixel.branch.io^
+||skadpostbacks.appsflyer.com^
+||stats.appsflyer.com^
+||t.appsflyer.com^
+||track.appsflyer.com^
+||track.branch.io^
+||tracking.appsflyer.com^
