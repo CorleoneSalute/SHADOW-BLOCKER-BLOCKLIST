@@ -1,6 +1,6 @@
 # ============================================================
 # CODE HOSTING BLOCKLIST - BASIC
-# Total domains: 14
+# Total domains: 10
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8,14 +8,10 @@
 analytics.gitlab.com
 collector.github.com
 copilot-telemetry.githubusercontent.com
-default.exp-tas.com
-events.gitlab.net
 log.gitlab.net
 log.pre.gitlab.net
 metric.sourceforge.io
 metrics.gitlab.com
 monitoring-log.gitlab.net
 new-sentry.gitlab.net
-observe.gitlab.com
-origin-tracker.githubusercontent.com
 sentry.gitlab.net

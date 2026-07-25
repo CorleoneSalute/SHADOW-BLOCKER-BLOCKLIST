@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8306
+# Total domains: 8302
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2909,7 +2909,6 @@
 ||deeplink.admitad.com^
 ||deeplink.remerge.io^
 ||default.analytics.lightricks.com^
-||default.exp-tas.com^
 ||default.tracking.miui.com^
 ||defencebyte.com^
 ||defencebyte.net^
@@ -3293,7 +3292,6 @@
 ||events.fyber.com^
 ||events.gfe.nvidia.com^
 ||events.gfestage.nvidia.com^
-||events.gitlab.net^
 ||events.hotjar.com^
 ||events.ibotta.com^
 ||events.jwplayer.com^
@@ -5235,7 +5233,6 @@
 ||oath.com^
 ||ob-retarget.com^
 ||oblookup.com^
-||observe.gitlab.com^
 ||obus-cn.dc.heytapmobi.com^
 ||obus-config-cn.heytapmobi.com^
 ||obus-dc-eu.heytapmobile.com^
@@ -5307,7 +5304,6 @@
 ||orbit-telemetry.ubi.com^
 ||oribi.io^
 ||origin-analytics.branch.io^
-||origin-tracker.githubusercontent.com^
 ||orsdls.di.runestone.samsung.com^
 ||orsfs.di.runestone.samsung.com^
 ||orsplc.di.runestone.samsung.com^
