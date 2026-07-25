@@ -3,17 +3,17 @@
 # Total domains: 9
 # Last update: 2026-07-19
 
-## Topaz Labs (5 domain)
+## Topaz Labs
 analytics.topazlabs.com
 et.topazlabs.com !
 rkhbxm26.topazlabs.com
 sgtm.topazlabs.com
 telemetry.topazlabs.com
 
-## Let's Enhance / Claid.AI (1 domain)
+## Let's Enhance / Claid.AI
 analytics.letsenhance.io
 
-## Vance AI (3 domain)
+## Vance AI
 analytics.vanceai.com
 event.vanceai.com
 track.vanceai.com
