@@ -1,9 +1,8 @@
 # Calendar & Task Management Blocklist
-
-# Last update: 2026-7-16
 # Total domains:9
+# Last update: 2026-7-16
+# Note: trailing "!" marks a domain as aggressive-only
 
-```
 # Morgen
 tracking.morgen.so
 analytics.cf.morgen.so
