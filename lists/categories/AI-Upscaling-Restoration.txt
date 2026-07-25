@@ -2,6 +2,7 @@
 
 # Total domains: 9
 # Last update: 2026-07-19
+# Note: trailing "!" marks a domain as aggressive-only
 
 ## Topaz Labs
 analytics.topazlabs.com
