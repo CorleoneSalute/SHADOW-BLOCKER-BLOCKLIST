@@ -12,14 +12,13 @@ tattle.api.osano.com
 
 # Data Collection
 mms.sp-prod.net
-storage.osano.com
 amp.didomi.io
-disclaimer-api.goadopt.io
+disclaimer-api.goadopt.io !
 
 # Covert / Obfuscated Tracking
 summerhamster.com
 d2zv5rkii46miq.cloudfront.net
-d3fkv551xkjrmm.cloudfront.net
+d3fkv551xkjrmm.cloudfront.net !
 privacynq.com
 
 # Geolocation & Region Detection (aggressive: breaks region-based consent flow)
