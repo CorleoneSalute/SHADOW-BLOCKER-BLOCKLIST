@@ -1,6 +1,6 @@
 # ============================================================
 # CMP BLOCKLIST - AGGRESSIVE
-# Total domains: 37
+# Total domains: 35
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -36,9 +36,7 @@
 0.0.0.0 region-eu.cookiehub.net
 0.0.0.0 report.cookie-script.com
 0.0.0.0 sourcepoint.mgr.consensu.org
-0.0.0.0 store.sp-prod.net
 0.0.0.0 summerhamster.com
 0.0.0.0 tattle.api.osano.com
 0.0.0.0 uc.api.osano.com
 0.0.0.0 unifiedconsent.osano.com
-0.0.0.0 wrapper-api.sp-prod.net

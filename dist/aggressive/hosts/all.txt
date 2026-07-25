@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8591
+# Total domains: 8589
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6975,7 +6975,6 @@
 0.0.0.0 stopzilla.com
 0.0.0.0 storage.outbrain.com
 0.0.0.0 store.criteo.com
-0.0.0.0 store.sp-prod.net
 0.0.0.0 store.zipy.ai
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 storeconfig.mistat.xiaomi.com
@@ -8340,7 +8339,6 @@
 0.0.0.0 woolog-us.wooclap.com
 0.0.0.0 woolog.wooclap.com
 0.0.0.0 wp-cdn.undertone.com
-0.0.0.0 wrapper-api.sp-prod.net
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 ws.driverhive.com
 0.0.0.0 ws.inspectlet.com
