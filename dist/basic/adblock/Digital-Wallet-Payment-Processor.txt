@@ -1,0 +1,49 @@
+# ============================================================
+# DIGITAL WALLET PAYMENT PROCESSOR BLOCKLIST - BASIC
+# Total domains: 42
+# Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||ad.alipay.com^
+||ads.alipay.com^
+||ads.kakaopay.com^
+||ads.paytm.com^
+||ads.phonepe.com^
+||ai-analytics.adyen.com^
+||alipaylog.com^
+||analytics.mpay.samsung.com^
+||analytics.payoneer.com^
+||analytics.paytm.com^
+||analytics.revolut.com^
+||analytics.samsungpay.com^
+||analytics.squareup.com^
+||analytics.wise.com^
+||analytics.www1-0.pad.squareup.com^
+||apples-analytics.pad.squareup.com^
+||blog.ads.paytm.com^
+||collect.skrill.com^
+||data-talos.revolut.com^
+||log.alipay.com^
+||log01.mtv.squareup.com^
+||logs.alipay.com^
+||metrics-tracking.revolut.com^
+||metrics.alipay.com^
+||metrics.squareup.com^
+||paypal.112.2o7.net^
+||paypal.demdex.net^
+||paypal.tt.omtrdc.net^
+||pixel.mercadopago.com^
+||sentry.squareup.com^
+||sgtm.adyen.com^
+||sgtm.skrill.com^
+||track-marketing.coins.ph^
+||track.paytm.com^
+||tracking.avangate.net^
+||tracking.info.paytm.com^
+||tracking.payoneer.com^
+||tracking.paytm.com^
+||tracking.picpay.com^
+||tracking1.paytm.com^
+||ts04358.picpay.com^
+||wise-analytics.com^
