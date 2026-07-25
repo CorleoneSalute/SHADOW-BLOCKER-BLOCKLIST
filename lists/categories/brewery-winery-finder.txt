@@ -1,17 +1,16 @@
-# ============================================================
-# CATEGORY: Brewery & Winery Finder
-# Format: canonical plain-domain master (source of truth)
+# Brewery & Winery Finder Blocklist 
+# Total domains: 23
+# Last update: 2026/07/16
 # Notes: trailing "!" marks a domain as aggressive-only
-# ============================================================
 
-# --- UNTAPPD ---
+# UNTAPPD
 ads.untappd.com
 analytics.untappd.com
 mixpanel.untappd.com
 segment.untappd.com
 telemetry.untappd.com
 
-# --- VIVINO ---
+# VIVINO
 analytics-pbl.vivino.com
 analytics.vivino.com
 segment.vivino.com
@@ -23,20 +22,20 @@ trk1.vivino.com
 trk2.vivino.com
 trk3.vivino.com
 
-# --- BEERMENUS ---
+# BEERMENUS
 analytics.beermenus.com
 segment.beermenus.com
 
-# --- CELLARPASS ---
+# CELLARPASS
 analytics.cellarpass.com
 
-# --- DELECTABLE ---
+# DELECTABLE
 analytics.delectable.com
 segment.delectable.com
 
-# --- DIGITALPOUR ---
+# DIGITALPOUR
 analytics.digitalpour.com
 
-# --- TAPHUNTER ---
+# TAPHUNTER
 analytics.taphunter.com
 segment.taphunter.com
