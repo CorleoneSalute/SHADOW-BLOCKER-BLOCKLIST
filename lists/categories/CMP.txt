@@ -1,28 +1,28 @@
-# ============================================================
-# CATEGORY: CMP / Consent
-# Format: canonical plain-domain master (source of truth)
-# Notes: trailing "!" marks a domain as aggressive-only
-# ============================================================
+# CMP (Consent Management Platform) Blocklist
 
-# --- Analytics & Telemetry ---
+# Total domains: 39
+# Last update: 2026/07/16
+# Notes: trailing "!" marks a domain as aggressive-only
+
+# Analytics & Telemetry
 analytics.cookielaw.org
 log.cookieyes.com
 report.cookie-script.com
 tattle.api.osano.com
 
-# --- Data Collection ---
+# Data Collection
 mms.sp-prod.net
 storage.osano.com
 amp.didomi.io
 disclaimer-api.goadopt.io
 
-# --- Covert / Obfuscated Tracking ---
+# Covert / Obfuscated Tracking
 summerhamster.com
 d2zv5rkii46miq.cloudfront.net
 d3fkv551xkjrmm.cloudfront.net
 privacynq.com
 
-# --- Geolocation & Region Detection (aggressive: breaks region-based consent flow) ---
+# Geolocation & Region Detection (aggressive: breaks region-based consent flow)
 geolocation.onetrust.com !
 geo.cookiebot.com !
 geolocation.sourcepoint.com !
@@ -47,12 +47,12 @@ consent.cookiehub.net !
 consent-eu.cookiehub.net !
 ds.cookiehub.net !
 
-# --- IAB TCF Consent String Infrastructure ---
+# IAB TCF Consent String Infrastructure
 sourcepoint.mgr.consensu.org !
 pm.sourcepoint.mgr.consensu.org !
 amp.pm.sourcepoint.mgr.consensu.org !
 cdn.consentmanager.mgr.consensu.org !
 
-# --- Data Collection & Storage (function-dependent, aggressive) ---
+# Data Collection & Storage (function-dependent, aggressive)
 store.sp-prod.net !
 wrapper-api.sp-prod.net !
