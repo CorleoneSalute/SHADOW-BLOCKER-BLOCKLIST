@@ -1,6 +1,6 @@
 # ============================================================
 # CAR RENTAL SHARING BLOCKLIST - BASIC
-# Total domains: 23
+# Total domains: 20
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -12,13 +12,10 @@
 0.0.0.0 analytics.sixt.com
 0.0.0.0 analytics.turo.com
 0.0.0.0 analytics.zipcar.com
-0.0.0.0 click.e.avis.com
-0.0.0.0 click.emails.hertz.com
 0.0.0.0 ehi-analytics.com
 0.0.0.0 enterprise-analytics.com
 0.0.0.0 hertz-analytics.com
 0.0.0.0 hertztrack.com
-0.0.0.0 image.emails.hertz.com
 0.0.0.0 looker.zipcar.com
 0.0.0.0 smetrics.enterprise.com
 0.0.0.0 sslanalytics.sixt.com

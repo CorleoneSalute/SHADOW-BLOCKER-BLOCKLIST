@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8558
+# Total domains: 8555
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2480,9 +2480,7 @@
 ||click.adikteev.com^
 ||click.appsflyer.com^
 ||click.dianomi.com^
-||click.e.avis.com^
 ||click.e.fitbit.com^
-||click.emails.hertz.com^
 ||click.hicloud.com^
 ||click.insights.seon.io^
 ||click.learn.ads.snapchat.com^
@@ -3987,7 +3985,6 @@
 ||il-vid-gw.taboola.com^
 ||illumin.com^
 ||im-apps.net^
-||image.emails.hertz.com^
 ||image.mail.crakrevenue.com^
 ||imageproxy.as.criteo.net^
 ||imageproxy.eu.criteo.net^

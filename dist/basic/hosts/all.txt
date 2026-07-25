@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8302
+# Total domains: 8299
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2424,9 +2424,7 @@
 0.0.0.0 click.adikteev.com
 0.0.0.0 click.appsflyer.com
 0.0.0.0 click.dianomi.com
-0.0.0.0 click.e.avis.com
 0.0.0.0 click.e.fitbit.com
-0.0.0.0 click.emails.hertz.com
 0.0.0.0 click.hicloud.com
 0.0.0.0 click.insights.seon.io
 0.0.0.0 click.learn.ads.snapchat.com
@@ -3839,7 +3837,6 @@
 0.0.0.0 il-vid-gw.taboola.com
 0.0.0.0 illumin.com
 0.0.0.0 im-apps.net
-0.0.0.0 image.emails.hertz.com
 0.0.0.0 image.mail.crakrevenue.com
 0.0.0.0 imageproxy.as.criteo.net
 0.0.0.0 imageproxy.eu.criteo.net
