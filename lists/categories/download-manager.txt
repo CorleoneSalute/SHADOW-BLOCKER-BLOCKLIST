@@ -1,10 +1,10 @@
-# ============================================================
 # DOWNLOAD MANAGER BLOCKLIST
-# Toplam Domain Sayısı: 24
-# Son Güncelleme: 16 Temmuz 2026 (2026-07-16)
-# ============================================================
 
-# --- IDM (Internet Download Manager / Tonec Inc.) --- (7 domain)
+# Total domains: 24
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
+
+# IDM (Internet Download Manager / Tonec Inc.)
 stats.internetdownloadmanager.com
 analytics.tonec.com
 telemetry.internetdownloadmanager.com
@@ -13,14 +13,14 @@ tracking.internetdownloadmanager.com
 ads.internetdownloadmanager.com
 extension-telemetry.internetdownloadmanager.com
 
-# --- FDM (Free Download Manager) --- (5 domain)
+# FDM (Free Download Manager)
 stat.freedownloadmanager.org
 analytics.freedownloadmanager.org
 telemetry.freedownloadmanager.org
 metrics.freedownloadmanager.org
 tracking.freedownloadmanager.org
 
-# --- DAP (Download Accelerator Plus / SpeedBit) --- (6 domain)
+# DAP (Download Accelerator Plus / SpeedBit)
 analytics.speedbit.com
 tracking.speedbit.com
 stats.speedbit.com
@@ -28,15 +28,15 @@ telemetry.speedbit.com
 metrics.speedbit.com
 ads.speedbit.com
 
-# --- JDownloader --- (4 domain)
+# JDownloader
 stats.jdownloader.org
 analytics.my.jdownloader.org
 telemetry.jdownloader.org
 ipcheck0.jdownloader.org
 
-# --- 4K Video Downloader Plus --- (1 domain)
+# 4K Video Downloader Plus
 analytics.4kdownload.com
 
-# --- Vidow / AddOnCrop --- (1 domain)
-# AddOnCrop: tarayıcı uzantısına reklam enjekte eden ağ
+# Vidow / AddOnCrop
+# ⚠️ AddOnCrop: Network injecting ads into browser extension
 addoncrop.com
