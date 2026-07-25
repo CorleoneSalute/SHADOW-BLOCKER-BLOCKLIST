@@ -19,7 +19,6 @@ disclaimer-api.goadopt.io !
 summerhamster.com
 d2zv5rkii46miq.cloudfront.net
 d3fkv551xkjrmm.cloudfront.net !
-privacynq.com
 
 # Geolocation & Region Detection (aggressive: breaks region-based consent flow)
 geolocation.onetrust.com !
