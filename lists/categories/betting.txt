@@ -1,4 +1,5 @@
 # BETTING BLOCKLIST
+
 # Total domains: 237
 # Total platforms: 85
 # Last update: 2026/07/16
