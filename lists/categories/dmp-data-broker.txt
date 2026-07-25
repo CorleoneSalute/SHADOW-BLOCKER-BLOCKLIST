@@ -1,13 +1,11 @@
-# ============================================================
 # DMP & Data Broker Blocklist 
 # Total domains: 244
 # Last update: 16-7-26
-# ============================================================
+# Note: trailing "!" marks a domain as aggressive-only
 
-🔴 VERİ BROKER'LAR & DMP  (198 domain)
-===============================================
+🔴 DATA BROKERS & DMP
 
-# ACXIOM (17 domain)
+# ACXIOM
 acxiom.com
 acxiom.net
 acxiom.uk
@@ -26,20 +24,20 @@ abilitec.acxiom.com
 identitylink.acxiom.com
 t.acxiom-online.com
 
-# EXPERIAN (5 domain)
+# EXPERIAN
 experianmarketingservices.com !
 audienceiq.com
 hitwise.com
 eccmp.com !
 ats.eccmp.com
 
-# EPSILON (4 domain)
+# EPSILON
 conversantmedia.com
 conversantmedia.eu
 abacus.epsilon.com
 agilityone.epsilon.com
 
-# ORACLE DATA CLOUD (BlueKai DMP) (9 domain)
+# ORACLE DATA CLOUD (BlueKai DMP)
 bluekai.com
 bkrtx.com
 tags.bluekai.com
@@ -50,7 +48,7 @@ datalogix.com
 api.datalogix.com
 pixel.datalogix.com
 
-# LOTAME (23 domain)
+# LOTAME
 lotame.com
 lotame.io
 api.lotame.com
@@ -75,7 +73,7 @@ bcp.st.crwdcntrl.net
 c.st.ltmsphrcl.net
 ts.crwdcntrl.net
 
-# EYEOTA (6 domain)
+# EYEOTA
 eyeota.net
 eyeota.com
 ps.eyeota.net
@@ -83,7 +81,7 @@ api.eyeota.net
 match.eyeota.net
 sync.eyeota.net
 
-# TRANSUNION (TruAudience + Neustar) (8 domain)
+# TRANSUNION (TruAudience + Neustar)
 truoptik.com
 api.transunion.com
 connect.transunion.com
@@ -93,11 +91,11 @@ truaudience.com
 truaudience.transunion.com
 truaudience.tru-signal.com
 
-# WILAND (2 domain)
+# WILAND
 wiland.com
 api.wiland.com
 
-# MERKLE (Dentsu Aegis) (9 domain)
+# MERKLE (Dentsu Aegis)
 merkle.com
 merkleinc.com
 api.merkle.com
@@ -108,14 +106,14 @@ dentsu.co.jp
 m1.merkle.com
 4cite.com
 
-# BOMBORA (B2B intent data) (5 domain)
+# BOMBORA (B2B intent data)
 bombora.com
 api.bombora.com
 surge.bombora.com
 tag.bombora.com
 netfactor.com
 
-# ZOOMINFO (9 domain)
+# ZOOMINFO
 zoominfo.com
 zoom.info
 discoverorg.com
@@ -126,7 +124,7 @@ tag.zoominfo.com
 formcomplete.zoominfo.com
 clickagy.com
 
-# CLEARBIT (HubSpot Breeze Intelligence) (13 domain)
+# CLEARBIT (HubSpot Breeze Intelligence)
 clearbit.com
 api.clearbit.com
 reveal.clearbit.com
@@ -141,7 +139,7 @@ person-stream.clearbit.com
 stream.clearbit.com
 d2ojpxxtu63wzl.cloudfront.net
 
-# FULLCONTACT (Ziff Davis) (8 domain)
+# FULLCONTACT (Ziff Davis)
 fullcontact.com
 api.fullcontact.com
 resolve.fullcontact.com
@@ -151,7 +149,7 @@ cr.fullcontact.com
 streme.fullcontact.com
 ziffmedia.com
 
-# TOWERDATA / ATDATA (6 domain)
+# TOWERDATA / ATDATA
 towerdata.com
 rapleaf.com
 api.towerdata.com
@@ -159,26 +157,26 @@ intelligence.towerdata.com
 atdata.com
 api.atdata.com
 
-# INFUTOR (4 domain)
+# INFUTOR
 infutor.com
 api.infutor.com
 data.infutor.com
 sedt.infutor.com
 
-# STIRISTA (2 domain)
+# STIRISTA
 stirista.com
 api.stirista.com
 
-# TAPAD (Cross-device — Experian) (3 domain)
+# TAPAD (Cross-device — Experian)
 tapad.com
 api.tapad.com
 tapestry.tapad.com
 
-# ANALYTICS IQ (2 domain)
+# ANALYTICS IQ
 analytics-iq.com
 api.analytics-iq.com
 
-# PERMUTIVE (DMP) (7 domain)
+# PERMUTIVE (DMP)
 permutive.com
 permutive.app
 api.permutive.com
@@ -187,7 +185,7 @@ cdn.permutive.app
 amp.permutive.app
 edge.permutive.app
 
-# DUN & BRADSTREET (10 domain)
+# DUN & BRADSTREET
 dnb.com
 direct.dnb.com
 plus.dnb.com
@@ -199,14 +197,14 @@ dunandbradstreet.com
 bisnode.com
 avention.com
 
-# NIELSEN MARKETING CLOUD / EXELATE (5 domain)
+# NIELSEN MARKETING CLOUD / EXELATE
 exelate.com
 exelate.info
 nmc.nielsen.com
 nielsen.com
 mrpdata.net
 
-# DATA AXLE (eski Infogroup) (9 domain)
+# DATA AXLE (Infogroup)
 data-axle.com
 infogroup.com
 exactdata.com
@@ -217,7 +215,7 @@ salesgenie.com
 listgiant.com
 adstradata.com
 
-# NAVEGG (LATAM DMP) (28 domain)
+# NAVEGG (LATAM DMP)
 navegg.com
 navegg.com.br
 www2.navegg.com
@@ -247,53 +245,52 @@ asapp.navdmp.com
 musr.navdmp.com
 vht.navdmp.com
 
-# THROTLE (Identity resolution) (1 domain)
+# THROTLE (Identity resolution)
 throtle.io
 
-# CORELOGIC → COTALITY (3 domain)
+# CORELOGIC → COTALITY
 corelogic.com
 cotality.com
 dataquick.com
 
 
-🟠 MOBİL DATA BROKER'LAR (Location Tracking)  (46 domain)
-===============================================
+🟠 MOBILE DATA BROKERS (Location Tracking)
 
-# FACTUAL / FOURSQUARE (1 domain)
+# FACTUAL / FOURSQUARE
 factual.com
 
-# SAFEGRAPH (4 domain)
+# SAFEGRAPH
 safegraph.com
 safegraph.io
 api.safegraph.com
 mobility.safegraph.com
 
-# CUEBIQ (4 domain)
+# CUEBIQ
 cuebiq.com
 api.cuebiq.com
 sdk.cuebiq.com
 events.cuebiq.com
 
-# MOBILEWALLA (FTC Aralık 2024 kısıtladı) (3 domain)
+# MOBILEWALLA (FTC Aralık 2024 kısıtladı)
 mobilewalla.com
 api.mobilewalla.com
 sdk.mobilewalla.com
 
-# ADSQUARE (5 domain)
+# ADSQUARE
 adsquare.com
 api.adsquare.com
 exchange.adsquare.com
 rtb.adsquare.com
 match.adsquare.com
 
-# PLACED (Foursquare-owned) (1 domain)
+# PLACED (Foursquare-owned)
 placed.com
 
-# UBIMO → VERICAST (2 domain)
+# UBIMO → VERICAST
 ubimo.com
 api.ubimo.com
 
-# VERVE GROUP (14 domain)
+# VERVE GROUP
 verve.com
 vervemobile.com
 vrvm.com
@@ -316,15 +313,15 @@ gravyanalytics.com
 api.gravyanalytics.com
 venntel.com
 
-# OUTLOGIC (eski X-Mode — FTC Nisan 2024 kısıtladı) (1 domain)
+# OUTLOGIC (eski X-Mode — FTC Nisan 2024 kısıtladı)
 outlogic.io
 
-# NEAR → AZIRA (Chapter 11 — Azira olarak devam ediyor) (4 domain)
+# NEAR → AZIRA (Chapter 11 — Azira olarak devam ediyor)
 near.co
 near.com
 api.near.co
 azira.com
 
-# INMARKET (FTC Ocak 2024 kısıtladı) (2 domain)
+# INMARKET (FTC Ocak 2024 kısıtladı)
 inmarket.com
 sdk.inmarket.com
