@@ -1,0 +1,15 @@
+# ============================================================
+# CDN EDGE NETWORK BLOCKLIST - BASIC
+# Total domains: 8
+# Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||api-logging.bunnycdn.com^
+||cloudflareinsights.com^
+||logging.bunnycdn.com^
+||static.cloudflareinsights.com^
+||track.akamai.com^
+||user-metrics-3.bunnycdn.com^
+||user-metrics.bunnycdn.com^
+||waf-metrics.bunnycdn.com^
