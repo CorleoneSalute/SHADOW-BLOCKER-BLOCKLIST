@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8593
+# Total domains: 8592
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6974,7 +6974,6 @@
 0.0.0.0 stickyadstv.com
 0.0.0.0 stirista.com
 0.0.0.0 stopzilla.com
-0.0.0.0 storage.osano.com
 0.0.0.0 storage.outbrain.com
 0.0.0.0 store.criteo.com
 0.0.0.0 store.sp-prod.net

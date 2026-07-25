@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8310
+# Total domains: 8307
 # Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2786,7 +2786,6 @@ d2ojpxxtu63wzl.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2zv5rkii46miq.cloudfront.net
 d3anogn3pbtk4v.cloudfront.net
-d3fkv551xkjrmm.cloudfront.net
 d3ikprf0m31yc7.cloudfront.net
 d3von6il1wr7wo.cloudfront.net
 d6y1.ads.pof.com
@@ -2969,7 +2968,6 @@ dis.criteo.com
 dis.eu.criteo.com
 dis.nl.eu.criteo.com
 dis.us.criteo.com
-disclaimer-api.goadopt.io
 discover.outbrain.com
 discover.taboola.com
 discoverorg.com
@@ -6734,7 +6732,6 @@ stgdata-ads-fr.heytapmobile.com
 stickyadstv.com
 stirista.com
 stopzilla.com
-storage.osano.com
 storage.outbrain.com
 store.criteo.com
 store.zipy.ai
