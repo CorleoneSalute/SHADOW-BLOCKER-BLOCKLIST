@@ -1,12 +1,11 @@
-# ================================================
 # DATING APPS BLOCKLIST 
-# Domain sayısı: 59
-# Son güncelleme: 2026-07-18
-# ================================================
+# Total domains: 59
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
 
 # Tinder
 analytics.gotinder.com
-etl.tindersparks.com
+etl.tindersparks.com !
 sp.gotinder.com
 rapidfirepublishpxy.ue1az.gotinder.com
 
@@ -32,57 +31,41 @@ d6y4.ads.pof.com
 d6y5.ads.pof.com
 t.ads.pof.com
 
-# Match Group Merkezi Altyapı
+# Match Group
 telemetry.matchgroup.com
 metrics.matchgroup.com
 mtch-analytics.com
 matchanalytics.com
 
-# -----------------------------------------------------------
-# [GRINDR] — Analytics / Events / Telemetry
-# -----------------------------------------------------------
+# GRINDR
 grindr-analytics.com
 telemetry.grindr.com
 crash.grindr.com
 kibanalogging.grindr.com
 www.kibanalogging.grindr.com
 
-# -----------------------------------------------------------
-# [PERRY STREET — Scruff / Jack'd]
-# -----------------------------------------------------------
+# PERRY STREET — Scruff / Jack'd
 analytics.scruff.com
 analytics.jackd.com
 
-# -----------------------------------------------------------
-# [HORNET]
-# -----------------------------------------------------------
+# HORNET
 analytics.hornet.com
 
-# -----------------------------------------------------------
-# [COFFEE MEETS BAGEL]
-# -----------------------------------------------------------
+# COFFEE MEETS BAGEL
 analytics.coffeemeetsbagel.com
 io.cmbus.app
 
-# -----------------------------------------------------------
-# [HAPPN]
-# -----------------------------------------------------------
+# HAPPN
 analytics.happn.com
 
-# -----------------------------------------------------------
-# [BADOO / BUMBLE INC.]
-# -----------------------------------------------------------
+# BADOO / BUMBLE INC.
 analytics.badoo.com
 
-# -----------------------------------------------------------
-# [ZOOSK]
-# -----------------------------------------------------------
+# ZOOSK
 analytics.zoosk.com
 
 # ⚠️ ADWARE PUP BLOCK ALL DOMAINS
-# -----------------------------------------------------------
 # [ADULT FRIENDFINDER — FriendFinder Networks]
-# -----------------------------------------------------------
 adultfriendfinder.com
 api.adultfriendfinder.com
 beta.sexart.adultfriendfinder.com
