@@ -1,7 +1,7 @@
 # ============================================================
 # AI VIDEO IMAGE GENERATION BLOCKLIST - BASIC
 # Total domains: 10
-# Generated: 2026-07-24 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
