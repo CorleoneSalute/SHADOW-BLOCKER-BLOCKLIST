@@ -1,24 +1,17 @@
 # CDN & Edge Network Blocklist
 
-**Toplam domain sayısı:** 8
-**Son güncelleme:** 2026-07-18
+# Total domains: 8
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
 
-## CLOUDFLARE (2 domain)
-
-```
+# CLOUDFLARE
 cloudflareinsights.com
 static.cloudflareinsights.com
-```
 
-## AKAMAI (1 domain)
-
-```
+# AKAMAI
 track.akamai.com
-```
 
-## BUNNYCDN (5 domain)
-
-```
+# BUNNYCDN
 api-logging.bunnycdn.com
 logging.bunnycdn.com
 user-metrics-3.bunnycdn.com
