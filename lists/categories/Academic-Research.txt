@@ -2,8 +2,8 @@
 
 # Last update: 2026/07/16
 # Total domains: 70
+# Note: trailing "!" marks a domain as aggressive-only
 
-```
 # ELSEVIER
 analytics.elsevier.com
 analytics.notify.elsevier.com
