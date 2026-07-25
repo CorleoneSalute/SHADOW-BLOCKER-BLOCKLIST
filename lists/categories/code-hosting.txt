@@ -1,32 +1,24 @@
 # Code Hosting Blocklist
 
-**Toplam domain sayısı:** 14
-**Son güncelleme:** 2026-07-20
+# Total domains: 14
+# Last update: 2026/07/20
 
-## GitHub (4 domain)
-
-```
+# GitHub
 collector.github.com
 copilot-telemetry.githubusercontent.com
-default.exp-tas.com
-origin-tracker.githubusercontent.com
-```
+default.exp-tas.com !
+origin-tracker.githubusercontent.com !
 
-## GitLab (9 domain)
-
-```
+# GitLab
 analytics.gitlab.com
-events.gitlab.net
+events.gitlab.net !
 log.gitlab.net
 log.pre.gitlab.net
 metrics.gitlab.com
 monitoring-log.gitlab.net
 new-sentry.gitlab.net
-observe.gitlab.com
+observe.gitlab.com !
 sentry.gitlab.net
-```
 
-## SourceForge (1 domain)
-
-```
+# SourceForge
 metric.sourceforge.io
