@@ -1,6 +1,6 @@
 # CLOUD STORAGE BLOCKLIST
 
-# Total domains: 20
+# Total domains: 19
 # Last update: 2026/07/16
 # Note: trailing "!" marks a domain as aggressive-only
 
