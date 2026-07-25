@@ -3,161 +3,161 @@
 # Total domains: 81
 # Last update: 2026-07-18
 
-## SUNO AI (2 domain)
+## SUNO AI
 analytics.suno.ai
 metrics.suno.ai
 
-## UDIO (2 domain)
+## UDIO
 analytics.udio.com
 telemetry.udio.com
 
-## SOUNDFUL (1 domain)
+## SOUNDFUL
 analytics.soundful.com
 
-## MUBERT (2 domain)
+## MUBERT
 analytics.mubert.com
 stats.mubert.com
 
-## AIVA (2 domain)
+## AIVA
 analytics.aiva.ai
 analyticsapi.aiva.ai
 
-## BOOMY (3 domain)
+## BOOMY
 analytics.boomy.com
 metrics.boomy.com
 metrics2.boomy.com
 
-## SOUNDRAW (1 domain)
+## SOUNDRAW
 analytics.soundraw.io
 
-## BEATOVEN.AI (2 domain)
+## BEATOVEN.AI
 analytics.beatoven.ai
 telemetry.beatoven.ai
 
-## LOUDLY (1 domain)
+## LOUDLY
 analytics.loudly.com
 
-## ECRETT MUSIC (1 domain)
+## ECRETT MUSIC
 analytics.ecrettmusic.com
 
 ## SPLASH PRO
 analytics.splashmusic.com
 
-## ELEVEN LABS (2 domain)
+## ELEVEN LABS
 analytics.elevenlabs.io
 telemetry.elevenlabs.io
 
-## SYNTHESIZER V (Dreamtonics) (2 domain)
+## SYNTHESIZER V (Dreamtonics)
 stats.dreamtonics.com
 telemetry.dreamtonics.com
 
-## VOCALOID / YAMAHA (4 domain)
+## VOCALOID / YAMAHA
 analytics.yamaha.com
 event-reg.yamaha.com !
 telemetry.vocaloid.com
 telemetry.yamaha.com
 
-## ALTERED STUDIO (2 domain)
+## ALTERED STUDIO
 analytics.altered.ai
 telemetry.altered.ai
 
-## RESPEECHER (1 domain)
+## RESPEECHER
 analytics.respeecher.com
 
-## DESCRIPT (Overdub) (3 domain)
+## DESCRIPT (Overdub)
 analytics.descript.com
 metrics.descript.com
 telemetry.descript.com
 
-## MURF.AI (2 domain)
+## MURF.AI
 analytics.murf.ai
 metrics.murf.ai
 
-## LANDR (3 domain)
+## LANDR
 analytics.landr.com
 metrics.landr.com
 telemetry.landr.com
 
-## EMASTERED / IZOTOPE (3 domain)
+## EMASTERED / IZOTOPE
 analytics.emastered.com
 analytics.izotope.com
 telemetry.izotope.com
 
-## CLOUDBOUNCE (1 domain)
+## CLOUDBOUNCE
 analytics.cloudbounce.com
 
-## AMADEUS CODE (1 domain)
+## AMADEUS CODE
 analytics.amadeuscode.com
 
-## HOOKTHEORY / HOOKPAD (1 domain)
+## HOOKTHEORY / HOOKPAD
 analytics.hooktheory.com
 
-## CAPTAIN PLUGINS / MIXED IN KEY (3 domain)
+## CAPTAIN PLUGINS / MIXED IN KEY
 analytics.mixedinkey.com
 stats.mixedinkey.com
 telemetry.mixedinkey.com
 
-## MOISES.AI (3 domain)
+## MOISES.AI
 analytics.moises.ai
 metrics.moises.ai
 telemetry.moises.ai
 
-## LALAL.AI (3 domain)
+## LALAL.AI
 analytics.lalal.ai
 bemobtrcks.lalal.ai
 sblog.lalal.ai
 
-## RIPX / HIT'N'MIX (3 domain)
+## RIPX / HIT'N'MIX
 analytics.hitnmix.com
 segments.hitnmix.com
 telemetry.hitnmix.com
 
-## FADR (2 domain)
+## FADR
 analytics.fadr.com
 telemetry.fadr.com
 
-## AUDIONAMIX (2 domain)
+## AUDIONAMIX
 analytics.audionamix.com
 telemetry.audionamix.com
 
-## STABILITY AI / STABLE AUDIO (2 domain)
+## STABILITY AI / STABLE AUDIO
 analytics.stability.ai
 telemetry.stability.ai
 
-## CLEANVOICE AI (2 domain)
+## CLEANVOICE AI
 analytics.cleanvoice.ai
 stats.cleanvoice.ai
 
-## AUPHONIC (1 domain)
+## AUPHONIC
 analytics.auphonic.com
 
-## PODCASTLE / ASYNC (rebrand) (3 domain)
+## PODCASTLE / ASYNC (rebrand)
 analytics.podcastle.ai
 metricstm.podcastle.ai
 telemetry.podcastle.ai
 
-## GOYO (1 domain)
+## GOYO
 analytics.goyoapp.com
 
-## SOUNDVERSE AI (3 domain)
+## SOUNDVERSE AI
 analytics.soundverse.ai
 metrics.soundverse.ai
 telemetry.soundverse.ai
 
-## SOUNDGEN / AUDIO DESIGN DESK (add.app) (3 domain)
+## SOUNDGEN / AUDIO DESIGN DESK (add.app)
 analytics.add.app
 metrics.add.app
 telemetry.add.app
 
-## ENVATO SOUNDGEN (2 domain)
+## ENVATO SOUNDGEN
 analytics.envato.com
 telemetry.envato.com
 
-## BRAIN.FM (2 domain)
+## BRAIN.FM
 analytics.brain.fm
 metrics.brain.fm
 
-## ENDEL (3 domain)
+## ENDEL
 analytics.endel.io
 multitrack.endel.io
 telemetry.endel.io
