@@ -1,0 +1,31 @@
+# ============================================================
+# DOWNLOAD MANAGER BLOCKLIST - BASIC
+# Total domains: 24
+# Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 addoncrop.com
+0.0.0.0 ads.internetdownloadmanager.com
+0.0.0.0 ads.speedbit.com
+0.0.0.0 analytics.4kdownload.com
+0.0.0.0 analytics.freedownloadmanager.org
+0.0.0.0 analytics.my.jdownloader.org
+0.0.0.0 analytics.speedbit.com
+0.0.0.0 analytics.tonec.com
+0.0.0.0 extension-telemetry.internetdownloadmanager.com
+0.0.0.0 ipcheck0.jdownloader.org
+0.0.0.0 metrics.freedownloadmanager.org
+0.0.0.0 metrics.internetdownloadmanager.com
+0.0.0.0 metrics.speedbit.com
+0.0.0.0 stat.freedownloadmanager.org
+0.0.0.0 stats.internetdownloadmanager.com
+0.0.0.0 stats.jdownloader.org
+0.0.0.0 stats.speedbit.com
+0.0.0.0 telemetry.freedownloadmanager.org
+0.0.0.0 telemetry.internetdownloadmanager.com
+0.0.0.0 telemetry.jdownloader.org
+0.0.0.0 telemetry.speedbit.com
+0.0.0.0 tracking.freedownloadmanager.org
+0.0.0.0 tracking.internetdownloadmanager.com
+0.0.0.0 tracking.speedbit.com
