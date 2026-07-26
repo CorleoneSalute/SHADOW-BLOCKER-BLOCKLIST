@@ -6369,6 +6369,7 @@ sgsnssdk.com
 sgtm.adyen.com
 sgtm.indrive.com
 sgtm.skrill.com
+sgtm.storytel.com
 sgtm.topazlabs.com
 sgw-analytics.panasonic.com
 sh.adingo.jp
@@ -7296,7 +7297,6 @@ track.crazyegg.com
 track.ctx.app.danharris.com
 track.dianomi.com
 track.ebsco.com
-track.email.webnovel.com
 track.factor75.com
 track.fertilityfriend.com
 track.flexlinks.com

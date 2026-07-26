@@ -28,6 +28,6 @@ metrics.perlego.com
 nxad.nextory.com
 nxads.nextory.com
 sentry-read.svc.overdrive.com
-track.email.webnovel.com
+sgtm.storytel.com
 track.register.webnovel.com
 tracking.mytolino.com

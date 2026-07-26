@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8589
+# Total domains: 8588
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7558,7 +7558,6 @@
 0.0.0.0 track.ctx.app.danharris.com
 0.0.0.0 track.dianomi.com
 0.0.0.0 track.ebsco.com
-0.0.0.0 track.email.webnovel.com
 0.0.0.0 track.factor75.com
 0.0.0.0 track.fertilityfriend.com
 0.0.0.0 track.flexlinks.com

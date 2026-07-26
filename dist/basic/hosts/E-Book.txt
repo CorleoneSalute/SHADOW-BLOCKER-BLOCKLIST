@@ -28,6 +28,6 @@
 0.0.0.0 nxad.nextory.com
 0.0.0.0 nxads.nextory.com
 0.0.0.0 sentry-read.svc.overdrive.com
-0.0.0.0 track.email.webnovel.com
+0.0.0.0 sgtm.storytel.com
 0.0.0.0 track.register.webnovel.com
 0.0.0.0 tracking.mytolino.com

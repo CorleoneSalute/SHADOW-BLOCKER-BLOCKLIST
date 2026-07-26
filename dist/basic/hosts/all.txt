@@ -6369,6 +6369,7 @@
 0.0.0.0 sgtm.adyen.com
 0.0.0.0 sgtm.indrive.com
 0.0.0.0 sgtm.skrill.com
+0.0.0.0 sgtm.storytel.com
 0.0.0.0 sgtm.topazlabs.com
 0.0.0.0 sgw-analytics.panasonic.com
 0.0.0.0 sh.adingo.jp
@@ -7296,7 +7297,6 @@
 0.0.0.0 track.ctx.app.danharris.com
 0.0.0.0 track.dianomi.com
 0.0.0.0 track.ebsco.com
-0.0.0.0 track.email.webnovel.com
 0.0.0.0 track.factor75.com
 0.0.0.0 track.fertilityfriend.com
 0.0.0.0 track.flexlinks.com

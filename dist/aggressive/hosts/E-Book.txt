@@ -1,6 +1,6 @@
 # ============================================================
 # E BOOK BLOCKLIST - AGGRESSIVE
-# Total domains: 28
+# Total domains: 27
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -30,6 +30,5 @@
 0.0.0.0 recommendations.springernature.com
 0.0.0.0 sentry-read.svc.overdrive.com
 0.0.0.0 sgtm.storytel.com
-0.0.0.0 track.email.webnovel.com
 0.0.0.0 track.register.webnovel.com
 0.0.0.0 tracking.mytolino.com
