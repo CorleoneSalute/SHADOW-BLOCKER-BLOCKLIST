@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8591
+# Total domains: 8584
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2901,7 +2901,6 @@ data.adobedc.net
 data.ads.heytapmobi.com
 data.ads.oppomobile.com
 data.adsrvr.org
-data.amd.com
 data.analytics-cdn.teachable.com
 data.app-analytics.petdesk.com
 data.conviva.com
@@ -3137,7 +3136,6 @@ drivescrubber.com
 dropboxexperiment.com
 drp.su
 ds.cookiehub.net
-dsadata.intel.com
 dsp-api.smartyads.com
 dsp-cdn.eskimi.com
 dsp-trk.eskimi.com
@@ -3334,7 +3332,6 @@ event.c.mi.com
 event.cn.msi.com
 event.collector.scopely.io
 event.dc.heytapmobi.com
-event.gigabyte.com
 event.mackeeper.com
 event.mi.com
 event.msi.com
@@ -3378,7 +3375,6 @@ events.3lift.com
 events.adblade.com
 events.adikteev.com
 events.admix.in
-events.amd.com
 events.anzu.io
 events.api.boomtrain.com
 events.api.gamma.app
@@ -3566,7 +3562,6 @@ fe05.lg.xiaomi.com
 featureinfo-service-sg.allawnos.com
 fedora-telemetry.org
 feedback-global.youpin.mi-img.com
-feedback.amd.com
 feedback.d.xiaomi.com
 feedback.flashbackrecorder.com
 feedback.hotjar.com
@@ -3577,7 +3572,6 @@ feedback.pt.rus.xiaomi.com
 feedback.pt.xiaomi.com
 feedback.xmpush.global.xiaomi.com
 feedback.xmpush.xiaomi.com
-feedback2.hp.com
 fhc-event.fhcasino.com
 fhc-event2.fhcasino.com
 fiaharam.net
@@ -6873,7 +6867,6 @@ static.yieldmo.com
 static.youappi.com
 static.zergnet.com
 static.zetaglobal.com
-statistics.amd.com
 statistics.vivo.com
 stats-and-reports.booksy.com
 stats.apps.allenai.org

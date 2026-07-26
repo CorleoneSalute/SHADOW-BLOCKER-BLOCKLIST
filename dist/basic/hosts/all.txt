@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8294
+# Total domains: 8285
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2823,7 +2823,6 @@
 0.0.0.0 data.ads.heytapmobi.com
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 data.adsrvr.org
-0.0.0.0 data.amd.com
 0.0.0.0 data.analytics-cdn.teachable.com
 0.0.0.0 data.app-analytics.petdesk.com
 0.0.0.0 data.conviva.com
@@ -3045,7 +3044,6 @@
 0.0.0.0 driverupdate.net
 0.0.0.0 drivescrubber.com
 0.0.0.0 drp.su
-0.0.0.0 dsadata.intel.com
 0.0.0.0 dsp-api.smartyads.com
 0.0.0.0 dsp-cdn.eskimi.com
 0.0.0.0 dsp-trk.eskimi.com
@@ -3220,14 +3218,11 @@
 0.0.0.0 event-api.realme.com
 0.0.0.0 event-tracking.samsung.com
 0.0.0.0 event.appsflyer.com
-0.0.0.0 event.asrock.com
-0.0.0.0 event.asus.com
 0.0.0.0 event.bidmachine.io
 0.0.0.0 event.c.mi.com
 0.0.0.0 event.cn.msi.com
 0.0.0.0 event.collector.scopely.io
 0.0.0.0 event.dc.heytapmobi.com
-0.0.0.0 event.gigabyte.com
 0.0.0.0 event.mackeeper.com
 0.0.0.0 event.mi.com
 0.0.0.0 event.msi.com
@@ -3270,7 +3265,6 @@
 0.0.0.0 events.adblade.com
 0.0.0.0 events.adikteev.com
 0.0.0.0 events.admix.in
-0.0.0.0 events.amd.com
 0.0.0.0 events.anzu.io
 0.0.0.0 events.api.boomtrain.com
 0.0.0.0 events.api.gamma.app
@@ -3444,7 +3438,6 @@
 0.0.0.0 fe05.lg.xiaomi.com
 0.0.0.0 fedora-telemetry.org
 0.0.0.0 feedback-global.youpin.mi-img.com
-0.0.0.0 feedback.amd.com
 0.0.0.0 feedback.d.xiaomi.com
 0.0.0.0 feedback.flashbackrecorder.com
 0.0.0.0 feedback.hotjar.com
@@ -3455,7 +3448,6 @@
 0.0.0.0 feedback.pt.xiaomi.com
 0.0.0.0 feedback.xmpush.global.xiaomi.com
 0.0.0.0 feedback.xmpush.xiaomi.com
-0.0.0.0 feedback2.hp.com
 0.0.0.0 fhc-event.fhcasino.com
 0.0.0.0 fhc-event2.fhcasino.com
 0.0.0.0 fiaharam.net
@@ -6618,7 +6610,6 @@
 0.0.0.0 static.youappi.com
 0.0.0.0 static.zergnet.com
 0.0.0.0 static.zetaglobal.com
-0.0.0.0 statistics.amd.com
 0.0.0.0 statistics.vivo.com
 0.0.0.0 stats-and-reports.booksy.com
 0.0.0.0 stats.apps.allenai.org
