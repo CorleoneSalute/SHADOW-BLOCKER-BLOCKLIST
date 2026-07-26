@@ -1,0 +1,124 @@
+# ID VERIFICATION & KYC BLOCKLIST 
+# Total domains: 64
+# Last update: (2026-07-16)
+# Note: trailing "!" marks a domain as aggressive-only
+
+# JUMIO
+analytics.jumio.com    
+
+# ONFIDO
+analytics-sdk.onfido.com    
+analytics-sdk-1.onfido.com    
+
+# SUMSUB
+txmonitor.sumsub.com    
+sentry.sumsub.com    
+fpmetrics.sumsub.com    
+
+# PERSONA
+segment.withpersona.com
+
+# SOCURE
+device-fingerprint.socure.com
+
+# SHUFTİ PRO
+fp-metrics.shuftipro.com
+
+# AU10TİX
+osint.au10tix.com    
+
+# FACIA.AI
+tracking.facia.ai    
+dtrack.facia.ai    
+logging.facia.ai    
+
+# SEON.IO — Device Intelligence
+seondnsresolve.com    # ⚠️ (DNS-level fingerprinting)
+deviceinfresolver.com    # ⚠️ Device fingerprint resolver service
+deviceinf.com
+resources.cdn.seon.io ! # ⚠️ SEON tracking script distribution CDN endpoint
+click.insights.seon.io
+seon.io !
+
+# TRULIOO
+analytics-primary.trulioo.com
+
+# IDNOW
+metrics.eu.platform.idnow.io
+
+# COGNITO (CognitoHQ)
+tracking.cognitohq.com
+
+# INCODE
+analytics.incode.com
+
+# IDWALL (Brazil)
+ads.idwall.co
+analytics-report.idwall.co
+
+# IDFY (India)
+metrics.idfy.com
+
+# YOTI
+metrics.infra.yoti.com
+prod.logs.yoti.com
+prod.logs.infra.yoti.com
+
+# ID.ME
+analytics-api.id.me
+analytics.id.me
+
+# DOW JONES RISK & COMPLIANCE
+analytics.dowjones.com
+tracking.dowjones.com
+trk.dowjones.com
+
+# LEXISNEXIS BRIDGER
+collection.risk.lexisnexis.com
+track-dr.risk.lexisnexis.com
+track.risk.lexisnexis.com
+tracking.risk.lexisnexis.com
+
+# FRACTAL ID
+fmtrack1.fractal.id
+
+# PASSFORT (Moody's Maxsight)
+collect.passfort.com
+collect.uae.passfort.com
+collection.passfort.com
+collection.uae.passfort.com
+collection.us.passfort.com
+collection.ae.maxsight.com
+collection.eu.maxsight.com
+collection.us.maxsight.com
+
+# IDENTOMAT
+sentry.identomat.com
+
+# IDSCAN.NET
+youtrack.idscan.net
+
+# VERIDAS
+fn.us.metricscdn2.eu.veri-das.com
+metrics.veridas.com
+metricscdn.eu.veri-das.com
+metricscdn.us.veri-das.com
+metricscdn.veri-das.com
+metricscdn2.eu.veri-das.com
+
+# KLIPPA (DocHorizon)
+dependencytrack-api.hub.klippa.com
+dependencytrack.hub.klippa.com
+sentry.hub.klippa.com
+sentry.klippa.com
+
+# AMANI AI
+metrics.amani.ai
+
+# PREMBLY (Identity Pass)
+analytics.prembly.com
+
+# UBBLE
+vault.analytics.ubble.ai
+logging-web.env.ubble.ai
+logging-janus.env.ubble.ai
