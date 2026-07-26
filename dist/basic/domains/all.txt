@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8295
+# Total domains: 8294
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5435,7 +5435,6 @@ pico.logs.roku.com
 picocurl.com
 ping-hk.taboola.com
 ping.chartbeat.net
-pingback.giphy.com
 pintient.com
 pips.taboola.com
 pix.as.criteo.net

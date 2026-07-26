@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8295
+# Total domains: 8294
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5435,7 +5435,6 @@
 0.0.0.0 picocurl.com
 0.0.0.0 ping-hk.taboola.com
 0.0.0.0 ping.chartbeat.net
-0.0.0.0 pingback.giphy.com
 0.0.0.0 pintient.com
 0.0.0.0 pips.taboola.com
 0.0.0.0 pix.as.criteo.net
