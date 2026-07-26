@@ -8,7 +8,7 @@
 telemetry.riotgames.com
 analytics.riotgames.com
 metrics.riotgames.com
-ekg.riotgames.com !  # ⚠️ Vanguard anti-cheat ve oyun istemcisinin servis sağlık kontrolü (heartbeat) için kullandığı endpoint. Engellenmesi Vanguard başlatma hatasına ve oyuna giriş yapılamamasına yol açabilir.
+ekg.riotgames.com ! # ⚠️ Vanguard anti-cheat and game client health check (heartbeat) endpoint. Blocking may cause Vanguard launch errors and prevent login.
 
 # HOYOVERSE / MIHOYO
 log-upload.mihoyo.com
@@ -47,7 +47,7 @@ rum.battle.net
 
 # XBOX / MICROSOFT
 beacons.xboxlive.com !
-beacons-origin.xboxlive.com ! # ⚠️ Çevrimiçi görünürlük (online/offline status) bozulabilir; Xbox Live bağlantı tespitini etkileyebilir.
+beacons-origin.xboxlive.com ! # ⚠️ Online/offline status may degrade; may affect Xbox Live connectivity detection.
 telemetry.commerce.xboxlive.com
 xboxreporting.xboxlive.com
 
