@@ -1,11 +1,10 @@
 # ============================================================
 # GAMING PERIPHERALS BLOCKLIST - BASIC
-# Total domains: 24
+# Total domains: 20
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
-3dat.steelseries.com
 analytics.corsair.com
 analytics.hyperx.com
 analytics.logitech.com
@@ -14,9 +13,6 @@ analytics.steelseries.com
 crash-reports.logitech.com
 crash.corsair.com
 crashreport.razer.com
-datapipeline.logitech.io
-errors.corsair.com
-errors.razerzone.com
 metrics.hyperx.com
 metrics.logitech.com
 metrics.razer.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8594
+# Total domains: 8590
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -25,7 +25,6 @@
 ||33across.com^
 ||33across.net^
 ||360yield.com^
-||3dat.steelseries.com^
 ||4cite.com^
 ||7345023508.fxm9485766783.com^
 ||7345023508.fxmconnect.com^
@@ -2951,7 +2950,6 @@
 ||dataf.ads.oppomobile.com^
 ||datalogix.com^
 ||dataperformance.vodafone.it^
-||datapipeline.logitech.io^
 ||dataquick.com^
 ||datarecoverydownload.com^
 ||dataseat.com^
@@ -3261,13 +3259,11 @@
 ||error.reddit.com^
 ||errorlogging.typewise.app^
 ||errorrepair.com^
-||errors.corsair.com^
 ||errors.elementary.io^
 ||errors.hbomax.com^
 ||errors.hulu.com^
 ||errors.lynda.com^
 ||errors.netflix.com^
-||errors.razerzone.com^
 ||errors.reddit.com^
 ||errors.stripe.com^
 ||errors.ubuntu.com^
