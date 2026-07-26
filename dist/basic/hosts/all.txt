@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8298
-# Generated: 2026-07-25 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8297
+# Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -6369,7 +6369,6 @@
 0.0.0.0 sgtm.adyen.com
 0.0.0.0 sgtm.indrive.com
 0.0.0.0 sgtm.skrill.com
-0.0.0.0 sgtm.storytel.com
 0.0.0.0 sgtm.topazlabs.com
 0.0.0.0 sgw-analytics.panasonic.com
 0.0.0.0 sh.adingo.jp

@@ -1,0 +1,33 @@
+# ============================================================
+# E BOOK BLOCKLIST - BASIC
+# Total domains: 26
+# Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+adbox.nextory.com
+analytics.bluefirereader.com
+analytics.nextory.com
+analytics.overdrive.com
+api.nxads.nextory.com
+books-analytics-events.apple.com
+books-analytics-events.news.apple-dns.net
+bookstats.kobo.com
+codemetrics.springernature.com
+collect.ficfun.com
+collect.springernature.com
+collector.inkitt.com
+fionread-ta-g7g.amazon.com
+kindle-ta-g7g.amazon.com
+kindle-unlimited-logging.amazon.com
+log.inkitt.com
+metrics-hd.ops.kobo.com
+metrics-prom.perlego.com
+metrics.libbyapp.com
+metrics.perlego.com
+nxad.nextory.com
+nxads.nextory.com
+sentry-read.svc.overdrive.com
+track.email.webnovel.com
+track.register.webnovel.com
+tracking.mytolino.com
