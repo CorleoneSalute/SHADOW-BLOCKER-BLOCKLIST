@@ -15,6 +15,7 @@ experimentation-grpc.deepl.com !
 ads-api.duolingo.com
 analytics.vpc.duolingo.com
 metrics.duolingo.com
+zombie.duolingo.com !
 
 # BABBEL
 analytics.babbel.com
