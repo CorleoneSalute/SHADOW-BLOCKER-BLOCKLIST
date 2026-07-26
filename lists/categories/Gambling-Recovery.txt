@@ -1,0 +1,21 @@
+# GAMBLING RECOVERY BLOCKLIST
+# Total domains: 7
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
+
+# Gamban
+telemetry.gamban.com
+analytics.gamban.com
+
+# GamStop UK
+analytics.gamstop.co.uk
+stats.gamstop.co.uk
+
+# Quit Genius / Pelago
+analytics.quitgenius.com
+
+# Blocks App
+analytics.blocksapp.io
+
+# Quit Gambling
+tracker.quitgambling.com
