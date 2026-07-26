@@ -1,0 +1,133 @@
+#  — GAMING BLOCKLIST 
+
+# Total domains: 90
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
+
+# RIOT GAMES / VANGUARD
+telemetry.riotgames.com
+analytics.riotgames.com
+metrics.riotgames.com
+ekg.riotgames.com !  # ⚠️ Vanguard anti-cheat ve oyun istemcisinin servis sağlık kontrolü (heartbeat) için kullandığı endpoint. Engellenmesi Vanguard başlatma hatasına ve oyuna giriş yapılamamasına yol açabilir.
+
+# HOYOVERSE / MIHOYO
+log-upload.mihoyo.com
+log-upload-os.mihoyo.com
+log-upload.hoyoverse.com
+log-upload-os.hoyoverse.com
+overseauspider.yuanshen.com
+uspider.yuanshen.com
+
+# EPIC GAMES / UNREAL ENGINE
+tracking.epicgames.com
+analytics.epicgames.com
+telemetry.unrealengine.com
+telemetry.artpipe.epicgames.com
+
+# EA / ORIGIN APP
+telemetry.ea.com
+metrics.ea.com
+errorservice.metrics.ea.com
+
+# UBISOFT CONNECT
+# Kaynak: "Telemetry" bölümü
+orbit-telemetry.ubi.com
+smetrics.ubi.com
+
+# ROCKSTAR GAMES
+telemetry.rockstargames.com
+telemetry-api.rockstargames.com
+ads.rockstargames.com
+trac.rockstargames.com
+rsg.sc.omtrdc.net
+
+# BATTLE.NET / BLIZZARD
+telemetry-in.battle.net
+rum.battle.net
+
+# XBOX / MICROSOFT
+beacons.xboxlive.com !
+beacons-origin.xboxlive.com ! # ⚠️ Çevrimiçi görünürlük (online/offline status) bozulabilir; Xbox Live bağlantı tespitini etkileyebilir.
+telemetry.commerce.xboxlive.com
+xboxreporting.xboxlive.com
+
+# PLAYSTATION NETWORK
+telemetry-console.api.playstation.com
+smetrics.eu.playstation.com
+smetrics.us.playstation.com
+smetrics.aem.playstation.com
+telemetry-config.playstation.com ! # ⚠️ PSN SDK yapılandırma hatası, bazı title'larda bağlantı sorunu riski.
+a.ad.playstation.net
+ad.playstation.net
+analytics.playstation.net
+
+# NINTENDO SWITCH
+analytics.store-jp.nintendo.com
+smetrics.nintendo.com
+receive.p01.lp1.er.srv.nintendo.net !
+receive-lp1.er.srv.nintendo.net ! # ⚠️ Hata raporlama kesilir, bazı title'larda crash sonrası recovery akışı bozulabilir.
+receive.p01.lp1.dg.srv.nintendo.net ! # ⚠️
+receive-lp1.dg.srv.nintendo.net ! # ⚠️ Switch sistem tanılama ve potansiyel olarak firmware güncelleme kontrolü etkilenebilir.
+
+# AMAZON GAMES / LUNA
+analytics.luna.amazon.com
+telemetry.luna.amazon.com
+metrics.luna.amazon.com
+
+# ROBLOX
+client-telemetry.roblox.com
+metrics.roblox.com
+ecsv2.roblox.com ! # ⚠️ Roblox istemci yapılandırma hatası, bazı oyun içi sistemler beklenmedik davranış gösterebilir.
+abtesting.roblox.com
+ads.roblox.com
+analytics.roblox.com
+
+# GOG GALAXY
+insights-collector.gog.com
+galaxy-log.gog.com
+
+# GEFORCE NOW / NVIDIA
+analytics.geforcenow.com
+telemetry.geforcenow.com
+tracking.geforcenow.com
+metrics.geforcenow.com
+telemetry.gfe.nvidia.com ! # ⚠️ GeForce Experience güncelleme ve overlay sistemi etkilenebilir.
+telemetry.nvidia.com
+analytics.navigator-app.nvidia.com
+analytics.learn.nvidia.com
+api.xlogs.nvidia.com
+events.telemetry.data.nvidia.com
+metrics.telemetry.data.nvidia.com
+metrics.teleport.nvidia.com ! # ⚠️ GeForce Now streaming oturum kalitesi ve bağlantı yönetimi etkilenebilir.
+metrics.kaizen.nvidia.com
+telemetry.data.nvidia.com
+
+# SHADOW PC
+analytics.shadow.tech
+telemetry.shadow.tech
+metrics.shadow.tech
+tracking.api-web.shadow.tech
+
+# BOOSTEROID
+analytics.boosteroid.com
+stats.boosteroid.com
+telemetry.boosteroid.com
+logs.boosteroid.com
+
+# BLACKNUT
+analytics.blacknut.com
+telemetry.blacknut.com
+stats.blacknut.com
+
+# MAXIMUM SETTINGS
+analytics.maximumsettings.com
+
+# HIGHSCORE
+# Grafana Faro = client-side frontend user session tracking
+web-play.faro.highscore.com
+web-www.faro.highscore.com
+webwww.faro.highscore.com
+webwww.traces.highscore.com
+sentry.highscore.com
+web-play.otel.highscore.com
+web-www.otel.highscore.com
