@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8588
+# Total domains: 8594
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -426,6 +426,7 @@
 0.0.0.0 ads.iqiyi.com
 0.0.0.0 ads.jwplayer.com
 0.0.0.0 ads.kakaopay.com
+0.0.0.0 ads.life360.com
 0.0.0.0 ads.linkedin-ei.com
 0.0.0.0 ads.linkedin.cn
 0.0.0.0 ads.linkedin.com
@@ -530,6 +531,7 @@
 0.0.0.0 adsapisam.snapchat.com
 0.0.0.0 adsassets-ipv6.waze.com
 0.0.0.0 adsassets.waze.com
+0.0.0.0 adsconfig.life360.com
 0.0.0.0 adse.ximalaya.com
 0.0.0.0 adseaimg.apusapps.com
 0.0.0.0 adserv.reddit.com
@@ -728,6 +730,7 @@
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 amplitude.flo.health
+0.0.0.0 amplitude.life360.com
 0.0.0.0 amplitude.usemotion.com
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 amy.gs
@@ -3815,6 +3818,9 @@
 0.0.0.0 griffin.logs.roku.com
 0.0.0.0 grindr-analytics.com
 0.0.0.0 groundtruth.com
+0.0.0.0 growthbook-proxy.citizen.com
+0.0.0.0 growthbook.citizen.com
+0.0.0.0 growthbook.server.citizen.com
 0.0.0.0 grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn
 0.0.0.0 grs-dbankcloud-asia-dra.appacc.dbankedge.cn
 0.0.0.0 grs-dbankcloud-com-dra.appacc.dbankedge.cn

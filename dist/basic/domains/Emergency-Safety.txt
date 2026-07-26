@@ -1,0 +1,10 @@
+# ============================================================
+# EMERGENCY SAFETY BLOCKLIST - BASIC
+# Total domains: 3
+# Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+ads.life360.com
+adsconfig.life360.com
+amplitude.life360.com

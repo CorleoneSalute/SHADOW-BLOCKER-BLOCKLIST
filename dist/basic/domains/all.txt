@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8297
+# Total domains: 8300
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -408,6 +408,7 @@ ads.internetdownloadmanager.com
 ads.iqiyi.com
 ads.jwplayer.com
 ads.kakaopay.com
+ads.life360.com
 ads.linkedin-ei.com
 ads.linkedin.cn
 ads.linkedin.com
@@ -509,6 +510,7 @@ adsapimus.snapchat.com
 adsapisam.snapchat.com
 adsassets-ipv6.waze.com
 adsassets.waze.com
+adsconfig.life360.com
 adseaimg.apusapps.com
 adserv.reddit.com
 adserve.dianomi.com
@@ -697,6 +699,7 @@ amplify-assets.outbrain.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
 amplitude.flo.health
+amplitude.life360.com
 amplitude.usemotion.com
 ams1-ib.adnxs.com
 amy.gs
