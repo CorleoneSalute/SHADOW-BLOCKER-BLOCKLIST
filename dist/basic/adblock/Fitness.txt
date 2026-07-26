@@ -1,0 +1,42 @@
+# ============================================================
+# FITNESS BLOCKLIST - BASIC
+# Total domains: 35
+# Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||ads.myfitnesspal.com^
+||advanalytics.underarmour.com^
+||analytic.underarmour.com^
+||analytics-api.obefitness.com^
+||analytics-cdn.obefitness.com^
+||analytics.myfitnesspal.com^
+||analytics.noom.com^
+||analytics.onepeloton.com^
+||analytics.runsignup.com^
+||analytics.runtastic.com^
+||analytics.strava.com^
+||analytics.stronglifts.com^
+||analytics.tonal.com^
+||analytics.underarmour.com^
+||awslogs.garmin.com^
+||azurelogs.garmin.com^
+||collection-point.api.gymshark.com^
+||js-pixel.limeade.com^
+||matomo.garmin.com^
+||omt.garmin.com^
+||pixel.limeade.com^
+||sentry.api.stronglifts.com^
+||sl-tracking.fitonhealth.com^
+||smetrics.teambeachbody.com^
+||stats.stronglifts.com^
+||telemetry.dataplatform.zing.coach^
+||track.underarmour.com^
+||tracker.gymshark.com^
+||tracking.myfitnesspal.com^
+||tracking.november-project.com^
+||tracknooks.abcfitness.com^
+||trk.hi.pvolve.com^
+||trk.pvolve.com^
+||www.js-pixel.limeade.com^
+||www.pixel.limeade.com^

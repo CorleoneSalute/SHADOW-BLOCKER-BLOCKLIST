@@ -1,0 +1,42 @@
+# ============================================================
+# FITNESS BLOCKLIST - AGGRESSIVE
+# Total domains: 35
+# Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 ads.myfitnesspal.com
+0.0.0.0 advanalytics.underarmour.com
+0.0.0.0 analytic.underarmour.com
+0.0.0.0 analytics-api.obefitness.com
+0.0.0.0 analytics-cdn.obefitness.com
+0.0.0.0 analytics.myfitnesspal.com
+0.0.0.0 analytics.noom.com
+0.0.0.0 analytics.onepeloton.com
+0.0.0.0 analytics.runsignup.com
+0.0.0.0 analytics.runtastic.com
+0.0.0.0 analytics.strava.com
+0.0.0.0 analytics.stronglifts.com
+0.0.0.0 analytics.tonal.com
+0.0.0.0 analytics.underarmour.com
+0.0.0.0 awslogs.garmin.com
+0.0.0.0 azurelogs.garmin.com
+0.0.0.0 collection-point.api.gymshark.com
+0.0.0.0 js-pixel.limeade.com
+0.0.0.0 matomo.garmin.com
+0.0.0.0 omt.garmin.com
+0.0.0.0 pixel.limeade.com
+0.0.0.0 sentry.api.stronglifts.com
+0.0.0.0 sl-tracking.fitonhealth.com
+0.0.0.0 smetrics.teambeachbody.com
+0.0.0.0 stats.stronglifts.com
+0.0.0.0 telemetry.dataplatform.zing.coach
+0.0.0.0 track.underarmour.com
+0.0.0.0 tracker.gymshark.com
+0.0.0.0 tracking.myfitnesspal.com
+0.0.0.0 tracking.november-project.com
+0.0.0.0 tracknooks.abcfitness.com
+0.0.0.0 trk.hi.pvolve.com
+0.0.0.0 trk.pvolve.com
+0.0.0.0 www.js-pixel.limeade.com
+0.0.0.0 www.pixel.limeade.com
