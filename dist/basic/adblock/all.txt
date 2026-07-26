@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8287
+# Total domains: 8284
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3126,7 +3126,6 @@
 ||eleburic.com^
 ||elmah.io^
 ||elog.vewd.com^
-||email.events.duolingo.com^
 ||email.gh-mail.taboola.com^
 ||emailretargeting.com^
 ||emailtracking.soothe.com^
@@ -3382,7 +3381,6 @@
 ||ezstat.ru^
 ||f.clarity.ms^
 ||f1.g.mi.com^
-||fa.hellotalk.com^
 ||facebook-admanager.com^
 ||facebook-analytics.com^
 ||facebook.flo.health^
@@ -6861,7 +6859,6 @@
 ||tag.vidazoo.com^
 ||tag.zetaglobal.com^
 ||tag.zoominfo.com^
-||tagalog.mondly.com^
 ||tagcommander.com^
 ||tags.bkrtx.com^
 ||tags.bluekai.com^

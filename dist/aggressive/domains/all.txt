@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8586
+# Total domains: 8582
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3226,7 +3226,6 @@ ekb.analytics.elsevier.com
 eleburic.com
 elmah.io
 elog.vewd.com
-email.events.duolingo.com
 email.gh-mail.taboola.com
 emailretargeting.com
 emailtracking.soothe.com
@@ -3502,7 +3501,6 @@ eyeota.net
 ezstat.ru
 f.clarity.ms
 f1.g.mi.com
-fa.hellotalk.com
 facebook-admanager.com
 facebook-analytics.com
 facebook.flo.health
@@ -3940,7 +3938,6 @@ hotjar.io
 hpanalytics.net
 hppstelemetry.com
 hptouchpointanalytics.com
-hs.deepl.com
 hslogger-app.prezi.com
 html5.adsrvr.org
 huawei-api.taboola.com
@@ -7121,7 +7118,6 @@ tag.simpli.fi
 tag.vidazoo.com
 tag.zetaglobal.com
 tag.zoominfo.com
-tagalog.mondly.com
 tagassistant.google.com
 tagcommander.com
 tagmanager.google.com
