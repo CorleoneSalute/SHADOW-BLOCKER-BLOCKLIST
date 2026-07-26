@@ -1,9 +1,9 @@
 # Fitness Blocklist
 
-# Last update: 16 Temmuz 2026
 # Total domains: 35
+# Last update: 16 Temmuz 2026
+# Note: trailing "!" marks a domain as aggressive-only
 
-```
 # MyFitnessPal
 analytics.myfitnesspal.com
 tracking.myfitnesspal.com
