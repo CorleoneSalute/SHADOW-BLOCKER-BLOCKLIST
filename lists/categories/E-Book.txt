@@ -14,7 +14,6 @@ bookstats.kobo.com
 
 # WEBNOVEL / TENCENT
 track.register.webnovel.com
-track.email.webnovel.com
 
 # APPLE BOOKS
 books-analytics-events.apple.com
@@ -23,11 +22,11 @@ books-analytics-events.news.apple-dns.net
 # OVERDRIVE / LIBBY
 analytics.overdrive.com
 metrics.libbyapp.com
-# Overdrive'a özgü Sentry instance (sentry.io wildcard dışında kalır)
+# Overdrive-specific Sentry instance (falls outside sentry.io wildcard)
 sentry-read.svc.overdrive.com
 
 # SPRİNGER NATURE
-# Hangi makaleleri okuduğunu izleyerek öneri profili oluşturur
+# Builds recommendation profile by tracking which articles user reads
 recommendations.springernature.com !
 collect.springernature.com
 codemetrics.springernature.com
@@ -36,7 +35,7 @@ codemetrics.springernature.com
 analytics.bluefirereader.com
 
 # STORYTEL
-sgtm.storytel.com !
+sgtm.storytel.com
 
 # NEXTORY
 adbox.nextory.com
