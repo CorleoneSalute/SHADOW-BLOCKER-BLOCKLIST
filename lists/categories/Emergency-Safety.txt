@@ -1,0 +1,15 @@
+# EMERGENCY & SAFETY BLOCKLIST
+# Total domains: 6
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
+
+# CITIZEN
+# ⚠️ NOTE: A/B personalization will be disabled
+growthbook.citizen.com !
+growthbook-proxy.citizen.com !
+growthbook.server.citizen.com !
+
+# LIFE360
+ads.life360.com
+adsconfig.life360.com
+amplitude.life360.com
