@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 79
+# Total domains: 83
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -43,9 +43,12 @@ metrics.riotgames.com
 metrics.roblox.com
 metrics.shadow.tech
 metrics.telemetry.data.nvidia.com
+metrics.teleport.nvidia.com
 orbit-telemetry.ubi.com
 overseauspider.yuanshen.com
-receive.p01.lp1.er.srv.nintendo.net
+receive-lp1.dg.srv.nintendo.net
+receive-lp1.er.srv.nintendo.net
+receive.p01.lp1.dg.srv.nintendo.net
 rsg.sc.omtrdc.net
 rum.battle.net
 sentry.highscore.com
@@ -66,6 +69,7 @@ telemetry.commerce.xboxlive.com
 telemetry.data.nvidia.com
 telemetry.ea.com
 telemetry.geforcenow.com
+telemetry.gfe.nvidia.com
 telemetry.luna.amazon.com
 telemetry.nvidia.com
 telemetry.riotgames.com

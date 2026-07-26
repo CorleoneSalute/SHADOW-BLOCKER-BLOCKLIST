@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - BASIC
-# Total domains: 77
+# Total domains: 79
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -42,6 +42,7 @@ metrics.riotgames.com
 metrics.roblox.com
 metrics.shadow.tech
 metrics.telemetry.data.nvidia.com
+metrics.teleport.nvidia.com
 orbit-telemetry.ubi.com
 overseauspider.yuanshen.com
 rsg.sc.omtrdc.net
@@ -64,6 +65,7 @@ telemetry.commerce.xboxlive.com
 telemetry.data.nvidia.com
 telemetry.ea.com
 telemetry.geforcenow.com
+telemetry.gfe.nvidia.com
 telemetry.luna.amazon.com
 telemetry.nvidia.com
 telemetry.riotgames.com

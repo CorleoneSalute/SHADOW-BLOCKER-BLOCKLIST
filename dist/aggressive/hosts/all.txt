@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8588
+# Total domains: 8591
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5025,6 +5025,7 @@
 0.0.0.0 metrics.teamviewer.com
 0.0.0.0 metrics.telemetry.data.nvidia.cn
 0.0.0.0 metrics.telemetry.data.nvidia.com
+0.0.0.0 metrics.teleport.nvidia.com
 0.0.0.0 metrics.theknot.com
 0.0.0.0 metrics.toluna.com
 0.0.0.0 metrics.trento.suse.com
@@ -5963,7 +5964,9 @@
 0.0.0.0 realtimeanalytics.yext.com
 0.0.0.0 rec.plista.com
 0.0.0.0 rec.smartlook.com
-0.0.0.0 receive.p01.lp1.er.srv.nintendo.net
+0.0.0.0 receive-lp1.dg.srv.nintendo.net
+0.0.0.0 receive-lp1.er.srv.nintendo.net
+0.0.0.0 receive.p01.lp1.dg.srv.nintendo.net
 0.0.0.0 recimg.com
 0.0.0.0 recognicorp.com
 0.0.0.0 recommend-ui-af.vidaahub.com

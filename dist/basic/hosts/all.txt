@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8294
+# Total domains: 8295
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4834,6 +4834,7 @@
 0.0.0.0 metrics.teamviewer.com
 0.0.0.0 metrics.telemetry.data.nvidia.cn
 0.0.0.0 metrics.telemetry.data.nvidia.com
+0.0.0.0 metrics.teleport.nvidia.com
 0.0.0.0 metrics.theknot.com
 0.0.0.0 metrics.toluna.com
 0.0.0.0 metrics.trento.suse.com
