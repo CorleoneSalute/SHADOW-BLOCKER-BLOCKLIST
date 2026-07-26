@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8296
+# Total domains: 8294
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6704,7 +6704,6 @@
 0.0.0.0 stats2.reddit.com
 0.0.0.0 stats2.u.to
 0.0.0.0 statslogger.image-line.com
-0.0.0.0 steamstats.valvesoftware.com
 0.0.0.0 stg-data-f.ads.heytapmobile.com
 0.0.0.0 stg-data-id.ads.heytapmobile.com
 0.0.0.0 stg-data-in.ads.heytapmobile.com
@@ -7846,7 +7845,6 @@
 0.0.0.0 vaali-mcs.byteoversea.com
 0.0.0.0 vad-bid.adsrvr.org
 0.0.0.0 vae-bid.adsrvr.org
-0.0.0.0 valvestats.valvesoftware.com
 0.0.0.0 vam-bid.adsrvr.org
 0.0.0.0 vars.hotjar.com
 0.0.0.0 vars.webmaxy.com

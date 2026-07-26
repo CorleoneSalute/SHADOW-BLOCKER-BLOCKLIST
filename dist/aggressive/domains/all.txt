@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8590
+# Total domains: 8588
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6957,7 +6957,6 @@ stats1.reddit.com
 stats2.reddit.com
 stats2.u.to
 statslogger.image-line.com
-steamstats.valvesoftware.com
 stg-data-f.ads.heytapmobile.com
 stg-data-id.ads.heytapmobile.com
 stg-data-in.ads.heytapmobile.com
@@ -8126,7 +8125,6 @@ vaali-mcs-useast2a.byteoversea.com
 vaali-mcs.byteoversea.com
 vad-bid.adsrvr.org
 vae-bid.adsrvr.org
-valvestats.valvesoftware.com
 vam-bid.adsrvr.org
 vars.hotjar.com
 vars.webmaxy.com
