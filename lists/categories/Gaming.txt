@@ -1,4 +1,4 @@
-#  — GAMING BLOCKLIST 
+# GAMING BLOCKLIST 
 
 # Total domains: 90
 # Last update: 2026/07/16
