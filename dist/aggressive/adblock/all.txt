@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8582
+# Total domains: 8583
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8582,6 +8582,7 @@
 ||zo.ee^
 ||zohoinsights.com^
 ||zohotagmanager.cdn.pagesense.io^
+||zombie.duolingo.com^
 ||zoom.info^
 ||zoomd.com^
 ||zoominfo.com^

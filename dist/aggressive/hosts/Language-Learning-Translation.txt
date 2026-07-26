@@ -1,6 +1,6 @@
 # ============================================================
 # LANGUAGE LEARNING TRANSLATION BLOCKLIST - AGGRESSIVE
-# Total domains: 55
+# Total domains: 56
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -60,3 +60,4 @@
 0.0.0.0 telemetry.deepl.com
 0.0.0.0 tracking-api.italki.com
 0.0.0.0 tracking.rosettastone.com
+0.0.0.0 zombie.duolingo.com
