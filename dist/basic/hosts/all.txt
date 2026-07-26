@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8285
+# Total domains: 8287
 # Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -765,6 +765,7 @@
 0.0.0.0 analytics-report.idwall.co
 0.0.0.0 analytics-ru.tiktok.com
 0.0.0.0 analytics-sdk-1.onfido.com
+0.0.0.0 analytics-sdk.onfido.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics-stage.ff.avast.com
 0.0.0.0 analytics-test.tiktok.com
@@ -2940,6 +2941,7 @@
 0.0.0.0 device-metrics-us-ud.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics.hulu.com
+0.0.0.0 deviceinf.com
 0.0.0.0 devicelog.samsungcloudsolution.net
 0.0.0.0 di.runestone.samsung.com
 0.0.0.0 diagmon-policy.samsungdm.com
