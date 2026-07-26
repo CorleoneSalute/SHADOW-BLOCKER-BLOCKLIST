@@ -1,30 +1,24 @@
 # Error & Crash Reporting Blocklist
 
-**Toplam domain sayısı:** 73
-**Son güncelleme:** 2026-07-18
+# Total domains: 73
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
 
-## SENTRY (5 domain)
-
-```
+# SENTRY
 app.getsentry.com
 getsentry.com
 profiling.sentry.io
 replay.sentry.io
 sentry.io
-```
 
-## ROLLBAR (4 domain)
+# ROLLBAR
 
-```
 api.rollbar.com
 items.rollbar.com
 rollbar.com
 rum.rollbar.com
-```
 
-## BUGSNAG (7 domain)
-
-```
+# BUGSNAG
 bugsnag.com
 notify.bugsnag.com
 notify.bugsnag.smartbear.com
@@ -32,93 +26,65 @@ otlp.bugsnag.com
 otlp.bugsnag.smartbear.com
 sessions.bugsnag.com
 sessions.bugsnag.smartbear.com
-```
 
-## AIRBRAKE (4 domain)
-
-```
+# AIRBRAKE
 airbrake.io
 api.airbrake.io
 collect.airbrake.io
 notifier-configs.airbrake.io
-```
 
-## RAYGUN (6 domain)
-
-```
+# RAYGUN
 api.raygun.com
 api.raygun.io
 pulse.raygun.com
 raygun.com
 raygun.io
 rum.raygun.io
-```
 
-## HONEYBADGER (3 domain)
+# HONEYBADGER
 
-```
 api.honeybadger.io
 eu-api.honeybadger.io
 honeybadger.io
-```
 
-## TRACKJS (4 domain)
+# TRACKJS
 
-```
 capture.trackjs.com
 fault.trackjs.com
 trackjs.com
 usage.trackjs.com
-```
 
-## APPSIGNAL (4 domain)
-
-```
+# APPSIGNAL
 api.appsignal.com
 appsignal-endpoint.net
 appsignal.com
 push.appsignal.com
-```
 
-## ELMAH.IO (2 domain)
-
-```
+# ELMAH.IO
 api.elmah.io
 elmah.io
-```
 
-## BACKTRACE (5 domain)
-
-```
+# BACKTRACE
 api.backtrace.io
 backtrace.io
 sp.backtrace.io
 submit.backtrace.io
 unreal.backtrace.io
-```
 
-## EXCEPTIONLESS (4 domain)
-
-```
+# EXCEPTIONLESS
 api.exceptionless.io
 collector.exceptionless.io
 exceptionless.io
 heartbeat.exceptionless.io
-```
 
-## INSTABUG / LUCIQ (5 domain)
-
-```
+# INSTABUG / LUCIQ
 api.instabug.com
 api.luciq.ai
 instabug.com
 luciq.ai
 sdk.instabug.com
-```
 
-## FİREBASE CRASHLYTİCS (8 domain)
-
-```
+# FIREBASE CRASHLYTICS
 app-measurement.com
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
@@ -127,35 +93,23 @@ firebasecrashlytics.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 settings.crashlytics.com
-```
 
-## BUGFENDER (3 domain)
-
-```
+# BUGFENDER
 api.bugfender.com
 bugfender.com
 ips.bugfender.com
-```
 
-## BUGSEE (3 domain)
-
-```
+# BUGSEE
 api.bugsee.com
 bugsee.com
 ips.bugsee.com
-```
 
-## BUGSPLAT (3 domain)
-
-```
+# BUGSPLAT
 api.bugsplat.com
 app.bugsplat.com
 bugsplat.com
-```
 
-## GLİTCHTİP (3 domain)
-
-```
+# GLITCHTIP
 app.glitchtip.com
 eu.glitchtip.com
 glitchtip.com
