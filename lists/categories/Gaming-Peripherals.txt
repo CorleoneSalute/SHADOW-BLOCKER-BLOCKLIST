@@ -1,5 +1,5 @@
 # GAMING PERIPHERALS BLOCKLIST
-# Total domains: 24
+# Total domains: 20
 # Last update: (2026-07-16)
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -9,27 +9,23 @@ analytics.razerzone.com
 tracking.razer.com
 metrics.razer.com
 crashreport.razer.com
-errors.razerzone.com
 
 # LOGITECH
 analytics.logitech.com
 telemetry.logitechg.com
 crash-reports.logitech.com
 metrics.logitech.com
-datapipeline.logitech.io
 
 # CORSAIR
 analytics.corsair.com
 telemetry.corsair.com
 stats.corsair.com
 crash.corsair.com
-errors.corsair.com
 
 # STEELSERIES
 analytics.steelseries.com
 telemetry.steelseries.com
 metrics.steelseries.com
-3dat.steelseries.com
 
 # HYPERX (HP)
 analytics.hyperx.com
