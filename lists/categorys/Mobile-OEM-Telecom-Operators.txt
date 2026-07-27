@@ -1,7 +1,8 @@
-# Mobile OEM & Carrier Telemetry Blocklist
+# Mobile OEM & Telecom Operators Blocklist
 
-**Toplam domain sayısı:** 1102
-**Son güncelleme:** 2026-07-20
+# Total domains: 1102
+Last update: 2026-07-20
+# Note: trailing "!" marks a domain as aggressive-only
 
 ## SAMSUNG (218 domain)
 
@@ -29,7 +30,7 @@ sspapi-prd.samsungrs.com
 stats.samsungpass.com
 ```
 
-### Diagnostics / Cihaz Telemetrisi (16 domain)
+### Diagnostics (16 domain)
 
 ```
 api-diagmon.samsungdm.com
@@ -94,7 +95,7 @@ tracking.mkt-email.samsungsds.com
 tracking.smartbusiness.samsung.com
 ```
 
-### Reklam (Ads) (26 domain)
+### Ads (26 domain)
 
 ```
 ad-sdk.samsungapps.com
@@ -125,7 +126,7 @@ ww25.ad.samsungadhub.com
 www.samsungtvads.com
 ```
 
-### 3. Parti Tracker SDK'lari (Adobe/Qualtrics/useinsider vb.) (119 domain)
+### Third party tracker SDK (Adobe/Qualtrics/useinsider etc.) (119 domain)
 
 ```
 clientapi-samsung.dtignite.com
@@ -296,7 +297,7 @@ tracking.miui.com
 tracking.rus.miui.com
 ```
 
-### Guvenlik altyapisi (analitik + riskli parcalar bir arada) (25 domain)
+### Security infrastructure (analytics + risky components combined) (25 domain)
 
 ```
 ad.india.miui.com
@@ -326,7 +327,7 @@ update.avlyun.sec.miui.com
 xlmc.sec.miui.com
 ```
 
-### SMS ile ilgili veri/istatistik uclari (3 domain)
+### SMS track (3 domain)
 
 ```
 api.sms.intl.miui.com
@@ -334,7 +335,7 @@ in-miuilog.sms.intl.xiaomi.com
 preview.crm.sms.miui.com
 ```
 
-### Toplu veri/feedback altyapisi (29 domain)
+### Bulk data/feedback collection infrastructure (29 domain)
 
 ```
 bugreport.pt.xiaomi.com
@@ -368,7 +369,7 @@ mqs-log.miui.com
 native.feedback.miui.com
 ```
 
-### Reklam (Xiaomi Ad Network) (56 domain)
+### Xiaomi Ad Network (56 domain)
 
 ```
 ad.eu.xiaomi.com
@@ -429,7 +430,7 @@ zeus.ad.intl.xiaomi.com
 zeus.ad.xiaomi.com
 ```
 
-### Tarayici icinde takip/kisisellestirme (19 domain)
+### In-browser track (19 domain)
 
 ```
 activity.browser.intl.miui.com
@@ -453,7 +454,7 @@ stat.pandora.xiaomi.com
 t7z.cupid.ptqy.gitv.tv
 ```
 
-### CDN uzerinden mistat/ad aynalari (13 domain)
+### CDN based ad/mistat mirrors (13 domain)
 
 ```
 ad.intl.xiaomi.com.edgesuite.net
@@ -471,7 +472,7 @@ traffic-media.co
 traffic-media.co.uk
 ```
 
-### Diger (Union/MIBI/LBS vb.) (13 domain)
+### Others (Union/MIBI/LBS etc.) (13 domain)
 
 ```
 a.union.mi.com
@@ -489,7 +490,7 @@ secure.report.iss.xiaomi.com
 ssp.xiaomi.com
 ```
 
-### Subdomain Finder (Ek Domainler) (19 domain)
+### Subdomain Finder (19 domain)
 
 ```
 a.market.mi-img.com
@@ -684,7 +685,7 @@ uba.huaweicloud.com
 ubacollect-drcn.cloud.dbankcloud.cn
 ```
 
-### Subdomain Finder (Ek Domainler) (22 domain)
+### Subdomain Finder (22 domain)
 
 ```
 ad-dra.dt.dbankcloud.com
@@ -889,7 +890,7 @@ userprofile.push.heytapmobi.com !
 wifi.ads.oppomobile.com
 ```
 
-### Subdomain Finder (Ek Domainler) (20 domain)
+### Subdomain Finder (20 domain)
 
 ```
 adx-ads.realmemobile.com
@@ -1165,7 +1166,7 @@ dapi.hmdglobal.net !
 mobilereporting.ext.nokia.com
 ```
 
-## TRANSSION (Tecno / Infinix / Itel) — Kaynak "en agresif takip" diyor (31 domain)
+## TRANSSION (Tecno / Infinix / Itel) (31 domain)
 
 ```
 activity.ahagamecenter.com !
@@ -1201,7 +1202,7 @@ yscyadx072901.minigame.vip
 yscyadx072902.minigame.vip
 ```
 
-## ABD OPERATORLERI (17 domain)
+## US Telecom Operators (17 domain)
 
 ### ATT (6 domain)
 
@@ -1235,7 +1236,7 @@ metrics-svc-ext.t-mobile.com
 smetrics.t-mobile.com
 ```
 
-## ULUSLARARASI OPERATORLER (36 domain)
+## Global Telecom Operators (36 domain)
 
 ### Vodofone (19 domain)
 
