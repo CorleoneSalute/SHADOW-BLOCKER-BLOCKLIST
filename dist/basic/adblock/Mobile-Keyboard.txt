@@ -1,0 +1,24 @@
+# ============================================================
+# MOBILE KEYBOARD BLOCKLIST - BASIC
+# Total domains: 17
+# Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||ads.emojixpress.com^
+||analytics.bobble.ai^
+||analytics.fleksy.com^
+||analytics.gingersoftware.com^
+||analyticshub.services.swiftkey.com^
+||analyticshub.swiftkey.com^
+||aw.bobble.ai^
+||aw.handcent.com^
+||errorlogging.typewise.app^
+||log.ai-type.com^
+||log.facemoji.com^
+||logs.bobble.ai^
+||telemetry.api.swiftkey.com^
+||telemetrydoc.swiftkey.com^
+||track.aitype.com^
+||track.gingersoftware.com^
+||volcano.analytics.swiftkey.com^
