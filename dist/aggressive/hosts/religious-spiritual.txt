@@ -1,7 +1,7 @@
 # ============================================================
 # RELIGIOUS SPIRITUAL BLOCKLIST - AGGRESSIVE
 # Total domains: 30
-# Generated: 2026-07-26 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
