@@ -1,0 +1,18 @@
+# ============================================================
+# PRINTER SCANNER BLOCKLIST - BASIC
+# Total domains: 11
+# Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||analytics.hp.com^
+||collector.usa.canon.com^
+||e-tracking.fujitsu.com^
+||epsonanalytics.com^
+||etrackcanon.csa.canon.com^
+||etrackcanon.usa.canon.com^
+||hpanalytics.net^
+||hppstelemetry.com^
+||hptouchpointanalytics.com^
+||touchpointanalytics.hp.com^
+||tracking.csc.flm.fujitsu.com^
