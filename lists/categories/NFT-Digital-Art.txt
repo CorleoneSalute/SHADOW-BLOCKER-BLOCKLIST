@@ -1,9 +1,9 @@
 # NFT & Digital Art Blocklist
 
-**Son Güncelleme:** 16 Temmuz 2026
-**Toplam Domain Sayısı:** 26
+# Total domains: 26
+# Last update: 2026/07/16
 
-```
+
 # OPENSEA
 analytics.opensea.io
 telemetry.opensea.io
