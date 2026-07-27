@@ -1,0 +1,11 @@
+# ============================================================
+# MOBILE LAUNCHER BLOCKLIST - AGGRESSIVE
+# Total domains: 4
+# Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 ad.holalauncher.com
+0.0.0.0 adapi.holalauncher.com
+0.0.0.0 adseaimg.apusapps.com
+0.0.0.0 solomath.com
