@@ -1,0 +1,38 @@
+# ============================================================
+# MENTAL HEALTH BLOCKLIST - BASIC
+# Total domains: 31
+# Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+ad.donefirst.com
+afftrk.findoctave.com
+analytic.wysa.io
+analytics.api.brightside.com
+analytics.helloalma.com
+analytics.lyrahealth.com
+analytics.mavidahealth.com
+analytics.otsuka-us.com
+analytics.prevailhealth.com
+analytics.woebothealth.com
+analytics.wysa.io
+analyticsdr.otsuka-us.com
+collect.in.lyra.com
+dtrack.wysa.io
+events.betterhelp.com
+google-ads-mcp.ourritual.com
+looker.ourritual.com
+metrics.calmerry.com
+sentry.minddoc.com
+sgtm.talkspace.com
+smetrics.medical.otsuka-us.com
+smetrics.medicalinformation.otsuka-us.com
+smetrics.otsuka-us.com
+smetrics.rejoyn.com
+smetrics.rejoynhcp.com
+t.helloklarity.com
+telemetry.otsuka-us.com
+track.ctx.app.danharris.com
+track.headway.co
+track.lyrahealth.com
+tracker.lyrahealth.com
