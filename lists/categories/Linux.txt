@@ -2,6 +2,7 @@
 
 # Total domains: 71
 # Last update: 2026-07-18
+# Note: trailing "!" marks a domain as aggressive-only
 
 # Analytics & Telemetry — Ubuntu / Canonical
 analytics.ubuntu.com
