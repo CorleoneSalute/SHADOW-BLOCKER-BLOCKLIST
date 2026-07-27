@@ -1,16 +1,14 @@
 # Local Video & Audio Players Blocklist
 
-**Toplam domain sayısı:** 39
-**Son güncelleme:** 2026-07-17
+# Total domains: 39
+# Last update: 2026-07-17
+# Note: trailing "!" marks a domain as aggressive-only
 
-## MX PLAYER — Analytics & Ads (12 domain)
-
-```
+## MX PLAYER
 ad.mxplayer.in
 ads.mxplayer.in
 ads.timesinternet.in
 adserver.mxplayer.in
-adx.mxplayer.in
 analytics.mxplayer.in
 analytics.timesinternet.in
 metrics.mxplayer.in
@@ -18,69 +16,45 @@ stats.mxplayer.in
 telemetry.mxplayer.in
 tilanalytics.timesinternet.in
 tracking.mxplayer.in
-```
 
-## XPLAYER — Analytics (1 domain)
-
-```
+## XPLAYER
 analytics.xplayerapp.com
-```
 
-## PLAYIT — Analytics & Lenovo Telemetri (5 domain)
-
-```
+## PLAYIT
 analytics.playit.pk
 metrics.playit.pk
 stats.playit.pk
 telemetry.playit.pk
 tracking.playit.pk
-```
 
-## BSPLAYER — Analytics (5 domain)
-
-```
+## BSPLAYER
 ads.bsplayer.com
 analytics.bsplayer.com
 stats.bsplayer.com
 telemetry.bsplayer.com
 tracking.bsplayer.com
-```
 
-## GOM PLAYER — Ads & Analytics (2 domain)
-
-```
+## GOM PLAYER
 ads.gomlab.com
 analytics.gomlab.com
-```
 
-## POTPLAYER — Tracking & Ads (Kakao/Daum) (7 domain)
-
-```
+## POTPLAYER (Kakao/Daum)
 adverweb.cjenm.com
+ad.daum.net
 analytics.ad.daum.net
 display.ad.daum.net
 kyson.ad.daum.net
 stat.tiara.g.daum.net
 stat.tiara.kakao.com
 track.tiara.daum.net
-```
 
-## CYBERLINK (PowerDVD) — Telemetri (2 domain)
-
-```
-cap.cyberlink.com
+## CYBERLINK (PowerDVD)
 crash.cyberlink.com
-```
 
-## DIVX — Telemetri (1 domain)
-
-```
+## DIVX
 telemetry.divx.com
-```
 
-## REALPLAYER — Spyware geçmişi (4 domain)
-
-```
+## REALPLAYER - Spyware history
 ads.realnetworks.com
 analytics.realnetworks.com
 realnetworks.com
