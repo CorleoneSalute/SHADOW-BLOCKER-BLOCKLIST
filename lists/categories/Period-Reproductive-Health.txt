@@ -1,10 +1,9 @@
-# ================================================
 # PERIOD & REPRODUCTIVE HEALTH BLOCKLIST 
-# Domain sayısı: 57
-# Son güncelleme: 2026-07-18
-# ================================================
+# Total domains: 57
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
 
-# --- Flo Health ---
+# Flo Health
 analytics.flo.health
 track.flo.health
 metrics.flo.health
@@ -17,88 +16,88 @@ branch.flo.health
 amplitude.flo.health
 relay.flo.health
 
-# --- Clue (BioWink) ---
+# Clue (BioWink)
 analytics.helloclue.com
 track.helloclue.com
 metrics.helloclue.com
 telemetry.clue.app
 
-# --- GP Apps / Period Tracker ---
+# GP Apps / Period Tracker
 analytics.gpapps.com
 track.period-tracker.com
 metrics.period-tracker.com
 ads.gpapps.com
 admob.gpapps.com
 
-# --- Ovia Health (LabCorp) ---
+# Ovia Health (LabCorp)
 analytics.ovia.com
 analytics.oviahealth.com
 track.ovia.com
 metrics.oviahealth.com
 ads.ovia.com
 
-# --- Glow / Nurture (Upward Labs Holdings) ---
+# Glow / Nurture (Upward Labs Holdings)
 analytics.glowing.com
 track.glow.co
 metrics.glow.co
 telemetry.glow.co
 
-# --- Eve by Glow ---
+# Eve by Glow
 analytics.evebyglow.com
 
-# --- Kindara ---
+# Kindara
 analytics.kindara.com
 track.kindara.com
 metrics.kindara.com
 
-# --- Natural Cycles ---
+# Natural Cycles
 analytics.naturalcycles.com
 metrics.naturalcycles.com
 track.naturalcycles.com
 telemetry.naturalcycles.com
 
-# --- Fertility Friend ---
+# Fertility Friend
 analytics.fertilityfriend.com
 track.fertilityfriend.com
 
-# --- MyFlo (FLO Living) ---
+# MyFlo (FLO Living)
 analytics.myflotracker.com
 track.myflotracker.com
 
-# --- Period Calendar (Life / SimpleInnovation) ---
+# Period Calendar (Life / SimpleInnovation)
 analytics.period-calendar.com
 track.periodcalendar.net
 
-# --- Maya (Plackal) ---
+# Maya (Plackal)
 analytics.maya.live
 track.maya.live
 metrics.maya.live
 
-# --- WomanLog (Pro Active App) ---
+# WomanLog (Pro Active App)
 analytics.womanlog.com
 track.womanlog.com
 
-# --- BabyCenter ---
+# BabyCenter
 looker.babycenter.com
 
-# --- Premom (Easy Healthcare — FTC cezalı) ---
+# Premom (Easy Healthcare — FTC cezalı)
 analytics.premom.com
 track.premom.com
 
-# --- Femia (Welltech / Magicfit) ---
+# Femia (Welltech / Magicfit)
 analytics.femia.health
 
-# --- Pepapp (Pepapp Teknoloji) ---
+# Pepapp (Pepapp Technology)
 analytics.pepapp.com
 
-# --- Moody Month ---
+# Moody Month
 analytics.moodsapp.com
 
-# --- Ava (Ava Science) ---
+# Ava (Ava Science)
 analytics.avawomen.com
 
-# --- Daysy (Valley Electronics) ---
+# Daysy (Valley Electronics)
 analytics.daysy.me
 
-# --- Sympto ---
+# Sympto
 analytics.sympto.org
