@@ -1,36 +1,30 @@
-# ============================================================
-# PUSH NOTIFICATION BLOCKLIST - MASTER LISTE
-# Toplam Domain Sayısı: 89
-# Son Güncelleme: 16 Temmuz 2026 (2026-07-16)
-# ============================================================
+# PUSH NOTIFICATION BLOCKLIST
+# Total domains: 89
+# Last update: (2026-07-16)
+# Note: trailing "!" marks a domain as aggressive-only
 
-# --- OneSignal --- (1 domain)
-# telemetri log endpoint
+# OneSignal
 log.onesignal.com
 
-# --- Pushwoosh --- (3 domain)
-# click redirect / tracking
+# Pushwoosh
 post-log.pushwoosh.com
 weblog.pushwoosh.com
 sentry.pushwoosh.com
 
-# --- Pusher Beams --- (2 domain)
-# istatistik toplama
+# Pusher Beams
 stats.pusher.com
 track.pusher.com
 
-# ----------------------------------------------------------------
-# PUSH REKLAM AĞLARI
-# ----------------------------------------------------------------
+# PUSH AD NETWORK
 
-# --- RollerAds --- (5 domain)
+# RollerAds
 rollerads.com
 app.rollerads.com
 monetize.rollerads.com
 cdn.rollerads.com
 api.rollerads.com
 
-# --- AdMaven --- (6 domain)
+# AdMaven
 ad-maven.com
 admaven.com
 app.ad-maven.com
@@ -38,64 +32,64 @@ api.ad-maven.com
 cdn.ad-maven.com
 publishers.ad-maven.com
 
-# --- RichAds --- (5 domain)
+# RichAds
 richads.com
 richpush.co
 app.richads.com
 api.richads.com
 cdn.richads.com
 
-# --- PushGround --- (4 domain)
+# PushGround
 pushground.com
 app.pushground.com
 api.pushground.com
 cdn.pushground.com
 
-# --- EvaDav --- (4 domain)
+# EvaDav
 evadav.com
 app.evadav.com
 api.evadav.com
 cdn.evadav.com
 
-# --- ROIads --- (4 domain)
+# ROIads
 roiads.co
 app.roiads.co
 api.roiads.co
 cdn.roiads.co
 
-# --- Kadam --- (5 domain)
+# Kadam
 kadam.net
 kadam.network
 kdtrk.net
 app.kadam.net
 api.kadam.net
 
-# --- Push.House --- (5 domain)
+# Push.House
 push.house
 partners.house
 app.push.house
 api.push.house
 cdn.push.house
 
-# --- Galaksion --- (5 domain)
+# Galaksion
 galaksion.com
 galaksion.online
 app.galaksion.com
 ssp.galaksion.com
 api.galaksion.com
 
-# --- UngAds --- (4 domain)
+# UngAds
 ungads.com
 app.ungads.com
 api.ungads.com
 cdn.ungads.com
 
-# --- PusHub --- (3 domain)
+# PusHub
 pushub.com
 app.pushub.com
 api.pushub.com
 
-# --- Mobidea Push --- (6 domain)
+# Mobidea Push
 mobidea.com
 mobideapush.com
 www.mobideapush.com
@@ -103,38 +97,38 @@ app.mobidea.com
 api.mobidea.com
 tracker.mobidea.com
 
-# --- Dao.Ad --- (4 domain)
+# Dao.Ad
 dao.ad
 daopush.com
 daopush-api.info
 api.daopush-api.info
 
-# --- AdProfex --- (4 domain)
+# AdProfex
 adprofex.com
 app.adprofex.com
 api.adprofex.com
 cdn.adprofex.com
 
-# --- AdOperator --- (4 domain)
+# AdOperator
 adoperator.com
 app.adoperator.com
 api.adoperator.com
 cdn.adoperator.com
 
-# --- OnClickA --- (5 domain)
+# OnClickA
 onclicka.com
 onclickad.com
 app.onclicka.com
 api.onclicka.com
 cdn.onclicka.com
 
-# --- MyBid --- (4 domain)
+# MyBid
 mybid.io
 mybid.partners
 app.mybid.io
 api.mybid.io
 
-# --- Coinis --- (6 domain)
+# Coinis
 coinis.com
 app.coinis.com
 api.coinis.com
