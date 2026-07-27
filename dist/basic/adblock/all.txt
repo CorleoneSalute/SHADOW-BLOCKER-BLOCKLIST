@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8279
+# Total domains: 8281
 # Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -16,6 +16,7 @@
 ||1fhc-event.fhcasino.com^
 ||1fhc-event2.fhcasino.com^
 ||1mgas-log.fhcasino.com^
+||1password.drift.click^
 ||1rx.io^
 ||247realmedia.com^
 ||2o7.net^
@@ -408,6 +409,7 @@
 ||ads.iqiyi.com^
 ||ads.jwplayer.com^
 ||ads.kakaopay.com^
+||ads.lastpass.com^
 ||ads.life360.com^
 ||ads.linkedin-ei.com^
 ||ads.linkedin.cn^

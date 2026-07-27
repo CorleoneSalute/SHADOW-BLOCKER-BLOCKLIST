@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8579
+# Total domains: 8581
 # Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -17,6 +17,7 @@
 0.0.0.0 1fhc-event.fhcasino.com
 0.0.0.0 1fhc-event2.fhcasino.com
 0.0.0.0 1mgas-log.fhcasino.com
+0.0.0.0 1password.drift.click
 0.0.0.0 1rx.io
 0.0.0.0 1ty.me
 0.0.0.0 247realmedia.com
@@ -426,6 +427,7 @@
 0.0.0.0 ads.iqiyi.com
 0.0.0.0 ads.jwplayer.com
 0.0.0.0 ads.kakaopay.com
+0.0.0.0 ads.lastpass.com
 0.0.0.0 ads.life360.com
 0.0.0.0 ads.linkedin-ei.com
 0.0.0.0 ads.linkedin.cn
