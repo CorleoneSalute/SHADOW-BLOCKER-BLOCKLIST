@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8580
+# Total domains: 8579
 # Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3918,7 +3918,6 @@
 ||hisearch-drru.dt.dbankcloud.com^
 ||hisearch-drru.dt.dbankcloud.ru^
 ||hist.stats.avast.com^
-||hit.seznam.cz^
 ||hitwise.com^
 ||hivestack.com^
 ||hk.mibi.xiaomi.com^

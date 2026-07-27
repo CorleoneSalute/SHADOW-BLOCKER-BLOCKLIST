@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8281
+# Total domains: 8280
 # Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3745,7 +3745,6 @@
 0.0.0.0 hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn
 0.0.0.0 hisearch-dra-dt-dbankcloud-com-dra.edge.dbankedge.cn
 0.0.0.0 hist.stats.avast.com
-0.0.0.0 hit.seznam.cz
 0.0.0.0 hitwise.com
 0.0.0.0 hivestack.com
 0.0.0.0 hk.mibi.xiaomi.com
