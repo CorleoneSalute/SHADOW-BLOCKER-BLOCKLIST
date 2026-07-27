@@ -1,0 +1,60 @@
+# PRICE & COUPON BLOCKLIST
+# Total domains: 30
+# Last update: (2026-07-16)
+# Note: trailing "!" marks a domain as aggressive-only
+
+# Honey
+analytics.joinhoney.com
+tracking.honey.io
+telemetry.joinhoney.com
+metrics.joinhoney.com
+dash-analytics.joinhoney.com
+
+# Capital One Shopping
+analytics.capitaloneshopping.com
+track.capitaloneshopping.com
+telemetry.capitaloneshopping.com
+
+# RetailMeNot
+analytics.retailmenot.com
+smetrics.retailmenot.com
+
+# SimplyCodes
+analytics.simplycodes.com
+tracking.simplycodes.com
+
+# Coupert
+analytics.coupert.com
+
+# Bizrate / Connexity
+tracking.connexity.com
+rr.bizrate.com !
+
+# Kelkoo
+tracking.kelkoo.com
+
+# Google Shopping Extension
+shoppinganalytics-pa.googleapis.com
+
+# BeFrugal
+tracking.befrugal.com
+
+# TopCashback
+tracking.topcashback.com
+track.topcashback.com
+caa-analytics.topcashback.com
+
+# Cently
+tracking.cently.com
+
+# RetailMeNot Genie extension
+tracking.retailmenot.com
+analytics.genie.retailmenot.com
+
+# CouponCabin Sidekick
+tracking.couponcabin.com
+smetrics.couponcabin.com
+www.smetrics.couponcabin.com
+
+# InvisibleHand
+tracking.getinvisiblehand.com
