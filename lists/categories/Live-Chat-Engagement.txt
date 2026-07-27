@@ -1,0 +1,47 @@
+# LIVE CHAT & ENGAGEMENT BLOCKLIST
+# Total domains: 23
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
+
+# INTERCOM
+metrics.intercom.io
+frontend-telemetry.intercom.io
+intercom-reporting.com
+www.intercom-reporting.com
+
+# ZENDESK CHAT (ZOPIM)
+
+sentry.zopim.com
+
+# DRIFT
+analytics.drift.com
+
+# LIVECHAT
+tracking.livechatinc.com
+va-a.liveperson.net !
+
+# SMARTSUPP
+analytics.smartsupp.com
+analytics-api.analytics-cluster.smartsupp.com
+
+# LIVEPERSON
+analytics.liveperson.net
+
+# ZENVIA
+logs-api.zenvia.com
+usage-reports-api.zenvia.com
+
+# OLARK
+logs.olark.com
+log.olark.com
+log1.olark.com
+
+# TIDIO
+sentry-new.tidio.co
+sentry.tidio.co
+es-logs.tidio.co
+tracking.tidio.com
+track.tidio.com
+
+# HELP SCOUT
+beaconapi.helpscout.net !
