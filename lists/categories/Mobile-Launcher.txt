@@ -1,0 +1,15 @@
+# Mobile Launcher Blocklist
+
+# Total domains: 4
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
+
+# SOLO LAUNCHER (Newborntown) — AD network
+solomath.com
+
+# APUS LAUNCHER
+adseaimg.apusapps.com
+
+# HOLA LAUNCHER
+adapi.holalauncher.com
+ad.holalauncher.com
