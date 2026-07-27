@@ -1,0 +1,33 @@
+# ============================================================
+# NFT DIGITAL ART BLOCKLIST - BASIC
+# Total domains: 26
+# Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 analytics-v2.tensor.trade
+0.0.0.0 analytics.blur.io
+0.0.0.0 analytics.foundation.app
+0.0.0.0 analytics.immutable.com
+0.0.0.0 analytics.looksrare.org
+0.0.0.0 analytics.magiceden.io
+0.0.0.0 analytics.nftgo.io
+0.0.0.0 analytics.nftscan.com
+0.0.0.0 analytics.opensea.io
+0.0.0.0 analytics.rarible.com
+0.0.0.0 analytics.superrare.com
+0.0.0.0 analytics.tensor.trade
+0.0.0.0 logging.rarible.com
+0.0.0.0 segment-api.rarible.com
+0.0.0.0 segment-cdn.rarible.com
+0.0.0.0 segment.opensea.io
+0.0.0.0 stats.blur.io
+0.0.0.0 stats.looksrare.org
+0.0.0.0 stats.magiceden.io
+0.0.0.0 stats.opensea.io
+0.0.0.0 stats.rarible.com
+0.0.0.0 stats.superrare.com
+0.0.0.0 stats.tensor.trade
+0.0.0.0 telemetry.immutable.com
+0.0.0.0 telemetry.opensea.io
+0.0.0.0 whale-tracker.nftgo.io
