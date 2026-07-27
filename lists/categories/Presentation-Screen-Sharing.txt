@@ -1,46 +1,45 @@
-# ============================================================
 # PRESENTATION & SCREEN SHARING TOOLS BLOCKLIST
-# Toplam Domain Sayisi: 21
-# Son Guncelleme: 18 Temmuz 2026
-# ============================================================
+# Total domains: 21
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
 
-# Prezi (5 domain)
+# Prezi
 log.prezi.com
 log-fallback.prezi.com
 bandar-logger.prezi.com
 csp-logger.prezi.com
 hslogger-app.prezi.com
 
-# Gamma (1 domain)
+# Gamma
 events.api.gamma.app
 
-# Wooclap (2 domain)
+# Wooclap
 woolog.wooclap.com
 woolog-us.wooclap.com
 
-# AnyMeeting (1 domain)
+# AnyMeeting
 firelogs.anymeeting.com
 
-# Loom (1 domain)
+# Loom
 evs.sgmt.loom.com
 
-# Slidebean (3 domain)
+# Slidebean
 analytics.slidebean.com
 pixel.slidebean.com
 ads.slidebean.com
 
-# AeriCast / Optisigns (4 domain)
+# AeriCast / Optisigns
 log.apps.aericast.com
 telemetry-analytic-api.optisigns.com
 ads-portal-api-gateway.optisigns.com
 p.optisigns.com
 
-# RELAYTO (2 domain)
+# RELAYTO
 analytics.relayto.com
 a.relayto.com
 
-# Presentations.AI (1 domain)
+# Presentations.AI
 track.presentations.ai
 
-# Slides.com (1 domain)
+# Slides.com
 metrics.slides.com
