@@ -1,10 +1,9 @@
-# ============================================================
 # MUSIC PRODUCTION & DAW BLOCKLIST
-# Toplam Domain Sayisi: 31
-# Son Guncelleme: 18 Temmuz 2026
-# ============================================================
+# Total domains: 31
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
 
-# FL Studio (6 domain)
+# FL Studio
 analytics.image-line.com
 telemetry.image-line.com
 stats.image-line.com
@@ -12,45 +11,45 @@ metrics.image-line.com
 tracking.image-line.com
 statslogger.image-line.com
 
-# Ableton (4 domain)
+# Ableton
 analytics.ableton.com
 telemetry.ableton.com
 metrics.ableton.com
 tracking.ableton.com
 
-# Steinberg (3 domain)
+# Steinberg
 analytics.steinberg.net
 telemetry.steinberg.net
 sentry.io.steinberg.net
 
-# PreSonus / Fender Studio Pro (5 domain)
+# PreSonus / Fender Studio Pro
 analytics.presonus.com
 telemetry.presonus.com
 metrics.presonus.com
 trk.eib.presonus.com
 segmentapi.presonus.com
 
-# Avid (3 domain)
+# Avid
 analytics.avid.com
 telemetry.avid.com
 crashreport1.avid.com
 
-# Splice (1 domain)
+# Splice
 analytics.splice.com
 
-# Loopcloud (2 domain)
+# Loopcloud
 analytics.loopcloud.com
 tracking.loopcloud.com
 
-# Audacity (2 domain)
+# Audacity
 telemetry.audacityteam.org
 sentry.audacityteam.org
 
-# Native Instruments (3 domain)
+# Native Instruments
 analytics.native-instruments.com
 telemetry.native-instruments.com
 metabase.analytics.native-instruments.com
 
-# Waves (2 domain)
+# Waves
 analytics.waves.com
 telemetry.waves.com
