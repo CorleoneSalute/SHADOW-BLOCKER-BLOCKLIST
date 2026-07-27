@@ -1,38 +1,37 @@
-# ============================================================
 # MOBILE KEYBOARD BLOCKLIST 
 # Total domains: 17
 # Last update: (2026-07-16)
-# ============================================================
+# Note: trailing "!" marks a domain as aggressive-only
 
-# --- ai.type --- (2 domain)
+# ai.type
 track.aitype.com
 log.ai-type.com
 
-# --- Facemoji --- (1 domain)
+# Facemoji
 log.facemoji.com 
 
-# --- Fleksy --- (1 domain)
+# Fleksy
 analytics.fleksy.com
 
-# --- Bobble AI --- (3 domain)
+# Bobble AI
 analytics.bobble.ai
 aw.bobble.ai
 logs.bobble.ai
 
-# --- Ginger Software --- (2 domain)
+# Ginger Software
 analytics.gingersoftware.com
 track.gingersoftware.com
 
-# --- Handcent --- (1 domain)
+# Handcent
 aw.handcent.com
 
-# --- Emoji+ Keyboard --- (1 domain)
+# Emoji+ Keyboard
 ads.emojixpress.com
 
-# --- Typewise --- (1 domain)
+# Typewise
 errorlogging.typewise.app
 
-# --- Microsoft SwiftKey --- (5 domain)
+# Microsoft SwiftKey
 telemetry.api.swiftkey.com
 analyticshub.services.swiftkey.com
 analyticshub.swiftkey.com
