@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8280
+# Total domains: 8279
 # Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8278,7 +8278,6 @@ znewylzpqds1jt1sh-samsunggdc.siteintercept.qualtrics.com
 znexudtrhw0nwrmga-seasamsung.siteintercept.qualtrics.com
 zneysvtqyfhzf6n4p-samsungeurope.siteintercept.qualtrics.com
 zo.ee
-zohoinsights.com
 zohotagmanager.cdn.pagesense.io
 zoom.info
 zoomd.com

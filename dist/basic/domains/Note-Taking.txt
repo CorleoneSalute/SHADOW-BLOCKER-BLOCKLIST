@@ -1,0 +1,32 @@
+# ============================================================
+# NOTE TAKING BLOCKLIST - BASIC
+# Total domains: 25
+# Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+analytics.bear.app
+analytics.craft.do
+analytics.cs.zohohost.com
+analytics.evernote.com
+analytics.joplincloud.com
+analytics.obsidian.md
+analytics.roamresearch.com
+analytics.simplenote.com
+analytics.zoho.com
+cdn-ae.pagesense.io
+cdn-au.pagesense.io
+cdn-ca.pagesense.io
+cdn-eu.pagesense.io
+cdn-in.pagesense.io
+cdn-inec.pagesense.io
+cdn-jp.pagesense.io
+cdn-lz.pagesense.io
+cdn-sa.pagesense.io
+cdn-sg.pagesense.io
+cdn.pagesense.io
+euc-onenote-telemetry.officeapps.live.com
+evernotemetrics.com
+metrics.evernote.com
+pagesense.io
+zohotagmanager.cdn.pagesense.io
