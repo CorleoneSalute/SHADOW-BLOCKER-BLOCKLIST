@@ -1,10 +1,9 @@
-# ============================================================
 # NAVIGATION & MAPPING BLOCKLIST
 # Total domains: 46
 # Last update: (2026-07-16)
-# ============================================================
+# Note: trailing "!" marks a domain as aggressive-only
 
-# --- WAZE — Reklam & İstatistik --- (21 domain)
+# WAZE
 analytics.waze.com
 ads.waze.com
 ads.world.waze.com
@@ -27,18 +26,17 @@ adsassets-ipv6.waze.com
 advil.waze.com
 advilapsoutheast1.waze.com
 
-# --- MAPBOX — Telemetri & Analytics --- (5 domain)
-# Mapbox SDK, konum olaylarını (her rota başlatma, konum ping vb.) bu endpointlere iletir. Harita render ve routing'i etkilemez.
+# MAPBOX
 events.mapbox.com
 analytics.mapbox.com
 telemetry.mapbox.com
 events.mapbox.cn
 crash.mapbox.com
 
-# --- TOMTOM --- (1 domain)
+# TOMTOM
 appanalytics.tomtom.com
 
-# --- MOOVIT --- (6 domain)
+# MOOVIT
 ads.moovit.com
 analytics.moovit.com
 track.stories.moovit.com
@@ -46,19 +44,14 @@ track.go.moovit.com
 gtrack.stories.moovit.com
 gtrack.go.moovit.com
 
-# --- MAPS.ME --- (2 domain)
+# MAPS.ME
 analytics.maps.me
 stat.maps.me
 
-# --- KOMOOT --- (1 domain)
+# KOMOOT
 analytics.komoot.com
 
-# --- MAPY.CZ / SEZNAM --- (1 domain)
-# Seznam'ın web tracking pixel servisi. Harita fonksiyonundan bağımsız.
-hit.seznam.cz
-
-# --- NAVER MAP --- (6 domain)
-# Naver Web Comprehensive Statistics — Naver'ın birincil analytics altyapısı.
+# NAVER MAP
 wcs.naver.com
 ad.search.naver.com
 ads.naver.com
@@ -66,10 +59,9 @@ analytics.naver.com
 localad.naver.com
 searchad.naver.com
 
-# --- KAKAO MAP --- (2 domain)
+# KAKAO MAP
 track.kakao.com
 ua.kakao.com
 
-# --- SYGIC --- (1 domain)
-# Infinario/Exponea: Sygic'in entegre ettiği pazarlama otomasyon SDK'sı.
+# SYGIC
 sygic.api.infinario.com
