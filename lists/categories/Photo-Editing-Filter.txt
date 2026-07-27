@@ -1,25 +1,21 @@
 PHOTO EDITING & FILTER BLOCKLIST 
-# Genel toplam: 77 domain
-# Son güncelleme: 2026-07-18
+# Total domains: 77 domain
+# Last update: 2026-07-18
+# Note: trailing "!" marks a domain as aggressive-only
 
-# ================================================
-# DNS BLOCKLIST — TEMEL (SAFE)
-# Photo Editing & Filter Apps | 61 domain
-# ================================================
-
-# --- FaceApp (RU) ---
+# FaceApp
 analytics.faceapp.io
 
-# --- Lensa AI (RU) ---
+# Lensa AI
 metrics.lensa-ai.com
 
-# --- Prisma (RU) ---
+# Prisma
 metrics.prisma-ai.com
 
-# --- Reface (RU/UA) ---
+# Reface
 telemetry.reface.ai
 
-# --- Meitu (CN) ---
+# Meitu
 analytics.meitu.com
 tracking.meitu.com
 metrics.meitu.com
@@ -28,50 +24,49 @@ ad.meitu.com
 meitudata.com
 log.xiuxiu.com
 
-# --- BeautyPlus (CN) ---
+# BeautyPlus
 analytics.beautyplus.com
 
-# --- Remini (IT) ---
+# Remini
 analytics.remini.ai
 
-# --- Picsart (AM/US) ---
+# Picsart
 analytics.picsart.com
 metrics.picsart.com
 tracking.picsart.com
 t.picsart.com
 
-# --- Pixlr (MY/SG) ---
+# Pixlr
 analytics.pixlr.com
 tracking.pixlr.com
 metrics.pixlr.com
 
-# --- Perfect Corp / YouCam (TW) ---
+# Perfect Corp / YouCam
 analytics.perfectcorp.com
 tracking.perfectcorp.com
 
-# --- VSCO (US) ---
+# VSCO
 analytics.vsco.co
 pixel.vsco.co
 logs-logstash.vsco.co
 logs-coordinating.vsco.co
 
-# --- Lightricks / Facetune / Photoleap (IL) ---
+# Lightricks / Facetune / Photoleap
 analytics.lightricks.com
 default.analytics.lightricks.com
 integration.analytics.lightricks.com
 notld-analytics.dp.lightricks.com
 xcode-metrics.lightricks.com
 
-# --- Prequel (US) ---
+# Prequel
 l.prequel.app
 sentry.prequel.app
 
-# --- SNOW Corp (KR) ---
+# SNOW Corp
 log.snow.me
 
 # ── Adobe Analytics / Omniture (Nesil 1-2) ───────────────────────────────
-# Adobe'nin analytics hit collection altyapısı.
-# Hiçbir uygulama işlevi bu domain'lere bağlı değildir.
+# Adobe analytics hit collection
 sc.omtrdc.net
 tt.omtrdc.net
 cdn.tt.omtrdc.net
@@ -88,7 +83,7 @@ dpm.demdex.net
 adobe.demdex.net
 adobemobiledev.demdex.net
 
-# ── Adobe Telemetri ──────────────────────────────────────────────────────
+# ── Adobe Telemetry ──────────────────────────────────────────────────────
 # Uygulama kullanım istatistikleri ve heartbeat telemetri.
 # Engellendiğinde uygulama sorunsuz çalışmaya devam eder.
 sstats.adobe.com
