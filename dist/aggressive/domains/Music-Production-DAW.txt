@@ -1,0 +1,38 @@
+# ============================================================
+# MUSIC PRODUCTION DAW BLOCKLIST - AGGRESSIVE
+# Total domains: 31
+# Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+analytics.ableton.com
+analytics.avid.com
+analytics.image-line.com
+analytics.loopcloud.com
+analytics.native-instruments.com
+analytics.presonus.com
+analytics.splice.com
+analytics.steinberg.net
+analytics.waves.com
+crashreport1.avid.com
+metabase.analytics.native-instruments.com
+metrics.ableton.com
+metrics.image-line.com
+metrics.presonus.com
+segmentapi.presonus.com
+sentry.audacityteam.org
+sentry.io.steinberg.net
+stats.image-line.com
+statslogger.image-line.com
+telemetry.ableton.com
+telemetry.audacityteam.org
+telemetry.avid.com
+telemetry.image-line.com
+telemetry.native-instruments.com
+telemetry.presonus.com
+telemetry.steinberg.net
+telemetry.waves.com
+tracking.ableton.com
+tracking.image-line.com
+tracking.loopcloud.com
+trk.eib.presonus.com
