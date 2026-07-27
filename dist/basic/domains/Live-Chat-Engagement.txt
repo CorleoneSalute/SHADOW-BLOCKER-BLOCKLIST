@@ -1,0 +1,27 @@
+# ============================================================
+# LIVE CHAT ENGAGEMENT BLOCKLIST - BASIC
+# Total domains: 20
+# Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+analytics-api.analytics-cluster.smartsupp.com
+analytics.drift.com
+analytics.liveperson.net
+analytics.smartsupp.com
+es-logs.tidio.co
+frontend-telemetry.intercom.io
+intercom-reporting.com
+log.olark.com
+log1.olark.com
+logs-api.zenvia.com
+logs.olark.com
+metrics.intercom.io
+sentry-new.tidio.co
+sentry.tidio.co
+sentry.zopim.com
+track.tidio.com
+tracking.livechatinc.com
+tracking.tidio.com
+usage-reports-api.zenvia.com
+www.intercom-reporting.com

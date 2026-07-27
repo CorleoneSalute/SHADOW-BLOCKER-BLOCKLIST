@@ -1,0 +1,29 @@
+# ============================================================
+# LIVE CHAT ENGAGEMENT BLOCKLIST - AGGRESSIVE
+# Total domains: 22
+# Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 analytics-api.analytics-cluster.smartsupp.com
+0.0.0.0 analytics.drift.com
+0.0.0.0 analytics.liveperson.net
+0.0.0.0 analytics.smartsupp.com
+0.0.0.0 beaconapi.helpscout.net
+0.0.0.0 es-logs.tidio.co
+0.0.0.0 frontend-telemetry.intercom.io
+0.0.0.0 intercom-reporting.com
+0.0.0.0 log.olark.com
+0.0.0.0 log1.olark.com
+0.0.0.0 logs-api.zenvia.com
+0.0.0.0 logs.olark.com
+0.0.0.0 metrics.intercom.io
+0.0.0.0 sentry-new.tidio.co
+0.0.0.0 sentry.tidio.co
+0.0.0.0 sentry.zopim.com
+0.0.0.0 track.tidio.com
+0.0.0.0 tracking.livechatinc.com
+0.0.0.0 tracking.tidio.com
+0.0.0.0 usage-reports-api.zenvia.com
+0.0.0.0 va-a.liveperson.net
+0.0.0.0 www.intercom-reporting.com

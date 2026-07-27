@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8284
+# Total domains: 8283
 # Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2007,7 +2007,6 @@ beacon.shazam.com
 beacon.shzcld.com
 beacon.taboola.com
 beacon.web.roku.com
-beaconapi.helpscout.net
 beacons.hulu.com
 beaconsinspace.com
 beeswax.com
