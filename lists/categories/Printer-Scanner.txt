@@ -1,0 +1,23 @@
+# PRINTER & SCANNER BLOCKLIST
+# Total domains: 11
+# Last update: 2026/07/16  
+# Note: trailing "!" marks a domain as aggressive-only
+
+# HP
+analytics.hp.com
+touchpointanalytics.hp.com
+hppstelemetry.com
+hpanalytics.net
+hptouchpointanalytics.com
+
+# Epson
+epsonanalytics.com
+
+# Canon
+etrackcanon.usa.canon.com
+etrackcanon.csa.canon.com
+collector.usa.canon.com
+
+# Fujitsu / PFU (ScanSnap)
+tracking.csc.flm.fujitsu.com
+e-tracking.fujitsu.com
