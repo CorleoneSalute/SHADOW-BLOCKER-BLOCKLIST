@@ -1,0 +1,31 @@
+# PHONE DIALER & CALL MANAGEMENT BLOCKLIST 
+# Total domains: 14
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
+
+# Truecaller
+ads.truecaller.com
+ads-media.truecaller.com
+adsmanager.truecaller.com
+advertisers.truecaller.com
+metis.truecaller.com
+
+# Truecaller + GetContact 
+pbssrv-centralevents.com
+trucaller.com  # Truecaller typosquatting
+
+# Eyecon
+logs.eyecon-app.com
+
+# Sync.ME LTD
+analytics.sync.me
+sentry.sync.me
+sentry2.sync.me
+
+# Should I Answer
+stats.shouldianswer.net
+
+# Bharatiya mobile mobileads.bharatiyamobile.com
+
+# Clever Dialer
+kibana-log.cleverdialer.com
