@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8281
+# Total domains: 8278
 # Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3213,7 +3213,6 @@
 ||europe.event-tracking.samsung.com^
 ||euw.unrulymedia.com^
 ||evadav.com^
-||eval.bizrate.com^
 ||evassmat.com^
 ||event-api.realme.com^
 ||event-tracking.samsung.com^
@@ -3944,7 +3943,6 @@
 ||insights.hybrid.ai^
 ||insights.nordvpn.com^
 ||insights.video.a2z.com^
-||insightsreports.bizrate.com^
 ||insparq.adblade.com^
 ||inspectlet.com^
 ||inspectlet.net^
@@ -5827,7 +5825,6 @@
 ||rover.bash-analytics.gsngames.com^
 ||rpi-imager-stats.raspberrypi.com^
 ||rplg.co^
-||rr.bizrate.com^
 ||rs.fullstory.com^
 ||rs.livesession.io^
 ||rsg.sc.omtrdc.net^

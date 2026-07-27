@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8581
+# Total domains: 8579
 # Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3320,7 +3320,6 @@
 ||europe.event-tracking.samsung.com^
 ||euw.unrulymedia.com^
 ||evadav.com^
-||eval.bizrate.com^
 ||evassmat.com^
 ||event-api.realme.com^
 ||event-reg.yamaha.com^
@@ -4122,7 +4121,6 @@
 ||insights.hybrid.ai^
 ||insights.nordvpn.com^
 ||insights.video.a2z.com^
-||insightsreports.bizrate.com^
 ||insparq.adblade.com^
 ||inspectlet.com^
 ||inspectlet.net^
