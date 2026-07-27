@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8283
+# Total domains: 8282
 # Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -171,6 +171,7 @@
 0.0.0.0 ad.cookpad.jp
 0.0.0.0 ad.criteo.com
 0.0.0.0 ad.crwdcntrl.net
+0.0.0.0 ad.daum.net
 0.0.0.0 ad.dco.quantcast.com
 0.0.0.0 ad.donefirst.com
 0.0.0.0 ad.doubleclick.net
@@ -631,7 +632,6 @@
 0.0.0.0 adx.ads.heytapmobile.com
 0.0.0.0 adx.ads.oppomobile.com
 0.0.0.0 adx.huawei.com
-0.0.0.0 adx.mxplayer.in
 0.0.0.0 adx.rtb.linkedin.com
 0.0.0.0 adx.tv.mi.com
 0.0.0.0 adx.zetaglobal.com
@@ -2188,7 +2188,6 @@
 0.0.0.0 callback.remerge.io
 0.0.0.0 camden.logs.roku.com
 0.0.0.0 caneddir.com
-0.0.0.0 cap.cyberlink.com
 0.0.0.0 capi.hybrid.ai
 0.0.0.0 captify.co
 0.0.0.0 captify.co.uk

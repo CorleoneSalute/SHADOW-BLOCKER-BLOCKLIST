@@ -1,0 +1,45 @@
+# ============================================================
+# LOCAL VIDEO AUDIO PLAYER BLOCKLIST - AGGRESSIVE
+# Total domains: 38
+# Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+ad.daum.net
+ad.mxplayer.in
+ads.bsplayer.com
+ads.gomlab.com
+ads.mxplayer.in
+ads.realnetworks.com
+ads.timesinternet.in
+adserver.mxplayer.in
+adverweb.cjenm.com
+analytics.ad.daum.net
+analytics.bsplayer.com
+analytics.gomlab.com
+analytics.mxplayer.in
+analytics.playit.pk
+analytics.realnetworks.com
+analytics.timesinternet.in
+analytics.xplayerapp.com
+crash.cyberlink.com
+display.ad.daum.net
+kyson.ad.daum.net
+metrics.mxplayer.in
+metrics.playit.pk
+realnetworks.com
+stat.tiara.g.daum.net
+stat.tiara.kakao.com
+stats.bsplayer.com
+stats.mxplayer.in
+stats.playit.pk
+telemetry.bsplayer.com
+telemetry.divx.com
+telemetry.mxplayer.in
+telemetry.playit.pk
+tilanalytics.timesinternet.in
+track.tiara.daum.net
+tracking.bsplayer.com
+tracking.mxplayer.in
+tracking.playit.pk
+tracking.realnetworks.com
