@@ -5136,7 +5136,6 @@
 0.0.0.0 mobile.logs.roku.com
 0.0.0.0 mobile.outbrain.com
 0.0.0.0 mobile.zetaglobal.com
-0.0.0.0 mobileads.bharatiyamobile.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobilefeedback.twitter.com
 0.0.0.0 mobilelogs.supersonic.com
@@ -5591,6 +5590,7 @@
 0.0.0.0 pbs.360yield.com
 0.0.0.0 pbs.getpublica.com
 0.0.0.0 pbs.sharethrough.com
+0.0.0.0 pbssrv-centralevents.com
 0.0.0.0 pbx.connectad.io
 0.0.0.0 pc-clarity.us.dell.com
 0.0.0.0 pc-mon-va.byteoversea.com

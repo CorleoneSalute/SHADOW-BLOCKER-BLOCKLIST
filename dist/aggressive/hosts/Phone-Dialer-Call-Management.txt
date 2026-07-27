@@ -1,0 +1,19 @@
+# ============================================================
+# PHONE DIALER CALL MANAGEMENT BLOCKLIST - AGGRESSIVE
+# Total domains: 12
+# Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 ads-media.truecaller.com
+0.0.0.0 ads.truecaller.com
+0.0.0.0 adsmanager.truecaller.com
+0.0.0.0 advertisers.truecaller.com
+0.0.0.0 analytics.sync.me
+0.0.0.0 kibana-log.cleverdialer.com
+0.0.0.0 logs.eyecon-app.com
+0.0.0.0 metis.truecaller.com
+0.0.0.0 pbssrv-centralevents.com
+0.0.0.0 sentry.sync.me
+0.0.0.0 sentry2.sync.me
+0.0.0.0 stats.shouldianswer.net

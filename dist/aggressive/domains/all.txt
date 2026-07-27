@@ -5136,7 +5136,6 @@ mobile.anycast.adnxs.com
 mobile.logs.roku.com
 mobile.outbrain.com
 mobile.zetaglobal.com
-mobileads.bharatiyamobile.com
 mobileanalytics.us-east-1.amazonaws.com
 mobilefeedback.twitter.com
 mobilelogs.supersonic.com
@@ -5591,6 +5590,7 @@ pb.bi.gitv.tv
 pbs.360yield.com
 pbs.getpublica.com
 pbs.sharethrough.com
+pbssrv-centralevents.com
 pbx.connectad.io
 pc-clarity.us.dell.com
 pc-mon-va.byteoversea.com
