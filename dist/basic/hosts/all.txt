@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8282
+# Total domains: 8280
 # Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2449,7 +2449,6 @@
 0.0.0.0 clickmeter.com
 0.0.0.0 clickny.taboola.com
 0.0.0.0 clicks.admitad.com
-0.0.0.0 clicks.blueapron.com
 0.0.0.0 clickstream-os.com
 0.0.0.0 clicktale.com
 0.0.0.0 clicktale.net
@@ -7618,7 +7617,6 @@
 0.0.0.0 trk.hi.pvolve.com
 0.0.0.0 trk.jackpota.com
 0.0.0.0 trk.joturl.com
-0.0.0.0 trk.m.blueapron.com
 0.0.0.0 trk.orange.be
 0.0.0.0 trk.orange.com
 0.0.0.0 trk.pinnacle.com
