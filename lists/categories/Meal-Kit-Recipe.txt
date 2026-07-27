@@ -1,0 +1,96 @@
+# MEAL KIT & RECIPE BLOCKLIST
+# Total domains: 38
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
+
+# HelloFresh Group
+analytics.hellofresh.com
+track.hellofresh.com
+
+# Blue Apron
+analytics.blueapron.com
+
+# Sun Basket
+analytics.sunbasket.com
+
+# Home Chef
+analytics.homechef.com
+
+# Factor75
+analytics.factor75.com
+track.factor75.com
+
+# Purple Carrot
+analytics.purplecarrot.com
+
+# Gobble
+analytics.gobble.com
+track.gobble.com
+
+# Hungryroot
+analytics.hungryroot.com
+
+# Marley Spoon
+analytics.marleyspoon.com
+ziplog.marleyspoon.com
+
+# Tovala
+analytics.tovala.com
+
+# Tasty (BuzzFeed)
+analytics.tasty.co
+
+# Allrecipes (People Inc.)
+analytics.allrecipes.com
+
+# Food Network
+analytics.foodnetwork.com
+
+# BigOven
+analytics.bigoven.com
+
+# Epicurious (Condé Nast)
+analytics.epicurious.com
+sstats.epicurious.com
+
+# Cookpad
+analytics.cookpad.com
+ad.cookpad.com
+ad.cookpad.jp
+
+# SideChef
+analytics.sidechef.com
+
+# Kitchen Stories
+analytics.kitchenstories.com
+
+# Mealime
+analytics.mealime.com
+stats.mealime.com
+
+# Paprika
+analytics.paprikaapp.com
+
+# Plan to Eat
+analytics.plantoeat.com
+
+# Prepear
+analytics.prepear.com
+
+# Samsung Food / Whisk
+analytics.samsungfood.com
+
+# Copy Me That
+analytics.copymethat.com
+
+# eMeals
+analytics.emeals.com
+
+# AnyList
+analytics.anylist.com
+
+# Eat This Much
+analytics.eatthismuch.com
+
+# PlateJoy (RVO Health)
+analytics.platejoy.com
