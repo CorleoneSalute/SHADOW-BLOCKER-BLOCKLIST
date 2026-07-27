@@ -1,0 +1,20 @@
+# MUSIC RECOGNITION BLOCKLIST
+# Last update: 2026-7-16
+# Total domains: 12
+# Note: trailing "!" marks a domain as aggressive-only
+
+# SHAZAM (Apple Inc.)
+analytics.shazam.com
+metrics.shazam.com
+telemetry.shazam.com
+beacon.shazam.com
+beacon.shzcld.com
+crash.shazam.com
+log.shazam.com
+
+# SOUNDHOUND
+analytics.soundhound.com
+telemetry.soundhound.com
+metrics.soundhound.com
+crash.soundhound.com
+log.soundhound.com
