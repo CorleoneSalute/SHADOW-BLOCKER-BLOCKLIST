@@ -1,12 +1,9 @@
-# ============================================================
 # Video Streaming Blocklist
 # Total domains: 368
 # Last updated: 2026-07-16
-# ============================================================
+# Note: trailing "!" marks a domain as aggressive-only
 
-# ============================================================
-# 1. VIDEO ANALYTIC PLATFORMS
-# ============================================================
+# VIDEO ANALYTIC PLATFORMS
 
 # --- Conviva (Enterprise Video Analytics) ---
 conviva.com
@@ -155,9 +152,7 @@ analytics.protected.media
 vce.comscore.com
 video-census.comscore.com
 
-# ============================================================
-# 2. NETFLIX TELEMETRİ & ANALİTİK
-# ============================================================
+# NETFLIX
 
 ichnaea.netflix.com
 ichnaea-web.netflix.com
@@ -181,9 +176,7 @@ customerevents.us-west-2.prodaa.netflix.com
 ichnaea-web.geo.netflix.com
 ichnaea-web.us-west-2.prodaa.netflix.com
 
-# ============================================================
-# 3. YOUTUBE ANALİTİK
-# ============================================================
+# 3. YOUTUBE
 
 youtube-analytics.googleapis.com
 video-stats.l.google.com
@@ -199,11 +192,9 @@ kids-analytics.youtube.com
 youtube-kids-metrics.googleapis.com
 parental-control-metrics.youtubekids.com
 
-# ============================================================
-# 4. AMAZON PRİME VİDEO TELEMETRİ
-# ============================================================
+# 4. AMAZON PRIME
 
-# --- Cihaz & Player Metrikleri ---
+# --- Device & Player Metrics ---
 player-telemetry.amazon.com
 video-player-metrics.amazon.com
 live-streaming-metrics.amazon.com
@@ -229,9 +220,7 @@ ap-southeast-1-1.telemetry.insights.video.a2z.com
 ca-central-1-1.telemetry.insights.video.a2z.com
 sa-east-1-1.telemetry.insights.video.a2z.com
 
-# ============================================================
-# 5. DİSNEY+ / HULU / ESPN+ TELEMETRİ
-# ============================================================
+# 5. DİSNEY+ / HULU / ESPN+
 
 # --- Disney+ / BAMTech ---
 analytics.disneyplus.com
@@ -247,7 +236,7 @@ ad-analytics.bamgrid.com
 crash.bamgrid.com
 device-identity.bamgrid.com
 
-# Disney+ 3. Taraf
+# Disney+ Third Party Domains
 disneyplus.com.ssl.sc.omtrdc.net
 disney.demdex.net
 disney.my.sentry.io
@@ -282,9 +271,7 @@ video-analytics.espn.com
 ads.espn.com
 ad-metrics.espn.com
 
-# ============================================================
-# 6. HBO MAX / MAX TELEMETRİ
-# ============================================================
+# 6. HBO MAX / MAX
 
 analytics.hbomax.com
 metrics.hbomax.com
@@ -300,9 +287,7 @@ telemetry.max.com
 analytics.discoveryplus.com
 metrics.discoveryplus.com
 
-# ============================================================
-# 7. PARAMOUNT+ / PLUTO TV TELEMETRİ
-# ============================================================
+# 7. PARAMOUNT+ / PLUTO TV
 
 # --- Paramount+ ---
 analytics.paramountplus.com
@@ -330,9 +315,7 @@ cdn-analytics.pluto.tv
 k.pluto.tv
 pluto.tv.sc.omtrdc.net
 
-# ============================================================
-# 8. PEACOCK TELEMETRİ
-# ============================================================
+# PEACOCK
 
 analytics.peacocktv.com
 metrics.peacocktv.com
@@ -345,16 +328,12 @@ sports-analytics.peacocktv.com
 analytics.nbcuni.com
 metrics.nbc.com
 
-# ============================================================
-# 9. APPLE TV+ TELEMETRİ & REKLAM
-# ============================================================
+# 9. APPLE TV+
 
 analytics.tv.apple.com
 player-telemetry.tv.apple.com
 
-# ============================================================
-# 10. TUBİ TELEMETRİ & 3. TARAF TRACKERLAR
-# ============================================================
+# 10. TUBI
 
 analytics.tubitv.com
 metrics.tubitv.com
@@ -363,9 +342,7 @@ ad-analytics.tubitv.com
 ad-beacon.tubitv.com
 tracking.tubitv.com
 
-# ============================================================
-# 11. BÖLGESEL — HİNDİSTAN
-# ============================================================
+# REGIONAL — INDIA
 
 analytics.hotstar.com
 metrics.hotstar.com
@@ -382,9 +359,7 @@ ads.voot.com
 analytics.mxplayer.in
 metrics.mxplayer.in
 
-# ============================================================
-# 12. BÖLGESEL — DOĞU ASYA
-# ============================================================
+# REGIONAL — EAST ASYA
 
 analytics.iqiyi.com
 stats.iqiyi.com
@@ -403,22 +378,18 @@ metrics.abema.tv
 analytics.nicovideo.jp
 stats.nicovideo.jp
 
-# ============================================================
-# 13. SAMSUNG TV PLUS — ACR & REKLAM
-# ============================================================
+# SAMSUNG TV PLUS
 
 tvp-ads-log.samsungads.com
 
-# ============================================================
-# 14. VİZİO & DİĞER CİHAZ PLATFORMLARI
-# ============================================================
+# VİZİO
 
 vizio.adsmeasurement.com
 tvinteractive.tv
 amagi.tv
 
 # ============================================================
-# 15. SPOR STREAMING
+# SPOR STREAMING
 # ============================================================
 
 analytics.dazn.com
@@ -431,9 +402,7 @@ telemetry.fubo.tv
 ads.fubo.tv
 ad-analytics.fubo.tv
 
-# ============================================================
-# 16. BÖLGESEL & NİŞ PLATFORMLAR
-# ============================================================
+# REGIONAL & NICHE PLATFORMS
 
 analytics.stan.com.au
 metrics.stan.com.au
@@ -539,7 +508,7 @@ player-metrics.pluto.tv !
 video-analytics.pluto.tv !
 channel-analytics.pluto.tv !
 
-# HİNDİSTAN
+# INDIA
 video-analytics.hotstar.com !
 player-metrics.hotstar.com !
 live-sports-analytics.hotstar.com !
@@ -550,13 +519,13 @@ video-analytics.mxplayer.in !
 ads.mxplayer.in !
 ads.zee5.com !
 
-# DOĞU ASYA
+# EAST ASYA
 video-analytics.youku.com !
 video-analytics.bilibili.com !
 live-analytics.bilibili.com !
 ads.iqiyi.com !
 
-# Niş
+# Niche
 video-analytics.vudu.com !
 player-metrics.vudu.com !
 ads.crunchyroll.com !
