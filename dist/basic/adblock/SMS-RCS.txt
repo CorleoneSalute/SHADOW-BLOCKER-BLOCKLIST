@@ -1,0 +1,32 @@
+# ============================================================
+# SMS RCS BLOCKLIST - BASIC
+# Total domains: 25
+# Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||adhoc.textra.me^
+||analytics.textra.me^
+||api.gosmspro.com^
+||backup.gosmspro.com^
+||cdn.gosmspro.com^
+||conf.api.hk.goforandroid.com^
+||faces3cdn.goforandroid.com^
+||goappdl.goforandroid.com^
+||goconfigsync.3g.cn^
+||goforandroid.com^
+||gomo-apps.com^
+||gomo.com^
+||gosms.com^
+||gosms.goforandroid.com^
+||gosmspro.com^
+||integralmarket.goforandroid.com^
+||integralwall.goforandroid.com^
+||lzt.goforandroid.com^
+||media.gosmspro.com^
+||push.goforandroid.com^
+||service.goforandroid.com^
+||stats.calldorado.com^
+||sungymobile.com^
+||xss.tw^
+||zcamera.lzt.goforandroid.com^
