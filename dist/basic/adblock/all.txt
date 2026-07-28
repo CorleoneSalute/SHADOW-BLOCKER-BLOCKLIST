@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8276
+# Total domains: 8277
 # Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7050,6 +7050,7 @@
 ||telemetry.presonus.com^
 ||telemetry.privateinternetaccess.com^
 ||telemetry.proton.me^
+||telemetry.protonvpn.com^
 ||telemetry.purevpn.com^
 ||telemetry.razer.com^
 ||telemetry.reface.ai^

@@ -1,0 +1,65 @@
+# ============================================================
+# VPN PROXY BLOCKLIST - AGGRESSIVE
+# Total domains: 58
+# Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+adclarity.com
+adjustevents.purevpn.com
+analytics.astrill.com
+analytics.cyberghostvpn.com
+analytics.expressvpn.com
+analytics.hide.me
+analytics.ipvanish.com
+analytics.nordvpn.com
+analytics.privateinternetaccess.com
+analytics.purevpn.com
+analytics.surfshark.com
+analytics.torguard.net
+analytics.tunnelbear.com
+analytics.vyprvpn.com
+analytics.windscribe.com
+biscience.com
+clickstream-os.com
+clientlogs.tunnelbear.com
+crashes.ivpn.net
+geo-surf.com
+insights.nordvpn.com
+log.nordvpn.com
+metrics.cyberghostvpn.com
+metrics.expressvpn.com
+metrics.ipvanish.com
+metrics.nordvpn.com
+metrics.privateinternetaccess.com
+metrics.surfshark.com
+metrics.tunnelbear.com
+sclpfybn.com
+sentry.protonvpn.com
+stats.expressvpn.com
+stats.hide.me
+stats.ivpn.net
+stats.nordvpn.com
+stats.surfshark.com
+telemetry.astrill.com
+telemetry.cyberghostvpn.com
+telemetry.expressvpn.com
+telemetry.hide.me
+telemetry.ipvanish.com
+telemetry.nordvpn.com
+telemetry.privateinternetaccess.com
+telemetry.protonvpn.com
+telemetry.purevpn.com
+telemetry.surfshark.com
+telemetry.tunnelbear.com
+telemetry.vyprvpn.com
+telemetry.windscribe.com
+trace.nordvpn.com
+tracking.cyberghostvpn.com
+tracking.expressvpn.com
+tracking.nordvpn.com
+tracking.privateinternetaccess.com
+tracking.purevpn.com
+tracking.surfshark.com
+urban-vpn.com
+urbanshield.com

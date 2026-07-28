@@ -1,0 +1,65 @@
+# ============================================================
+# VPN PROXY BLOCKLIST - AGGRESSIVE
+# Total domains: 58
+# Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 adclarity.com
+0.0.0.0 adjustevents.purevpn.com
+0.0.0.0 analytics.astrill.com
+0.0.0.0 analytics.cyberghostvpn.com
+0.0.0.0 analytics.expressvpn.com
+0.0.0.0 analytics.hide.me
+0.0.0.0 analytics.ipvanish.com
+0.0.0.0 analytics.nordvpn.com
+0.0.0.0 analytics.privateinternetaccess.com
+0.0.0.0 analytics.purevpn.com
+0.0.0.0 analytics.surfshark.com
+0.0.0.0 analytics.torguard.net
+0.0.0.0 analytics.tunnelbear.com
+0.0.0.0 analytics.vyprvpn.com
+0.0.0.0 analytics.windscribe.com
+0.0.0.0 biscience.com
+0.0.0.0 clickstream-os.com
+0.0.0.0 clientlogs.tunnelbear.com
+0.0.0.0 crashes.ivpn.net
+0.0.0.0 geo-surf.com
+0.0.0.0 insights.nordvpn.com
+0.0.0.0 log.nordvpn.com
+0.0.0.0 metrics.cyberghostvpn.com
+0.0.0.0 metrics.expressvpn.com
+0.0.0.0 metrics.ipvanish.com
+0.0.0.0 metrics.nordvpn.com
+0.0.0.0 metrics.privateinternetaccess.com
+0.0.0.0 metrics.surfshark.com
+0.0.0.0 metrics.tunnelbear.com
+0.0.0.0 sclpfybn.com
+0.0.0.0 sentry.protonvpn.com
+0.0.0.0 stats.expressvpn.com
+0.0.0.0 stats.hide.me
+0.0.0.0 stats.ivpn.net
+0.0.0.0 stats.nordvpn.com
+0.0.0.0 stats.surfshark.com
+0.0.0.0 telemetry.astrill.com
+0.0.0.0 telemetry.cyberghostvpn.com
+0.0.0.0 telemetry.expressvpn.com
+0.0.0.0 telemetry.hide.me
+0.0.0.0 telemetry.ipvanish.com
+0.0.0.0 telemetry.nordvpn.com
+0.0.0.0 telemetry.privateinternetaccess.com
+0.0.0.0 telemetry.protonvpn.com
+0.0.0.0 telemetry.purevpn.com
+0.0.0.0 telemetry.surfshark.com
+0.0.0.0 telemetry.tunnelbear.com
+0.0.0.0 telemetry.vyprvpn.com
+0.0.0.0 telemetry.windscribe.com
+0.0.0.0 trace.nordvpn.com
+0.0.0.0 tracking.cyberghostvpn.com
+0.0.0.0 tracking.expressvpn.com
+0.0.0.0 tracking.nordvpn.com
+0.0.0.0 tracking.privateinternetaccess.com
+0.0.0.0 tracking.purevpn.com
+0.0.0.0 tracking.surfshark.com
+0.0.0.0 urban-vpn.com
+0.0.0.0 urbanshield.com
