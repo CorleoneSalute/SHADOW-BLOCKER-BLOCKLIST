@@ -1,8 +1,6 @@
-# ==================================================================
 # SMART TV BLOCKLIST
-# Toplam Domain Sayisi: 481
-# Son Guncelleme: 18 Temmuz 2026
-# ==================================================================
+# Total domains: 481
+# Last update: 2026/07/16
 
 # SAMSUNG (75 domain)
 ============================================================
@@ -523,18 +521,14 @@ proxyjs.bright-sdk.com
 clientsdk.bright-sdk.com
 clientsdk.brdtnet.com
 
-# AGRESİF LİSTE - EK DOMAINLER (Temel listeye ek olarak)
-# Aşağıdaki gruplar, engellendiğinde bazı özellikleri bozabilecek
-# "track" domainleridir. Her grubun neden risk taşıdığı yorum
-# satırında belirtilmiştir.
+# AGGRESSIVE LIST
 # ==================================================================
 
-# Samsung (1 domain)
-# ads.aimitv.com: istek başarısız olursa bazı haber uygulamalarında video kısa süre takılabilir.
+# Samsung (1 domain) ⚠️ Failed requests may cause temporary video freezes in news apps.
 ads.aimitv.com !
 
-# LG: Kişiselleştirme / Recommendation (öneri motoru) (14 domain)
-# Ana ekrandaki "sizin için önerilenler" satırını besler. lgrecommends.lgappstv.com ayrıca Content Store (Uygulamalar) ekranındaki önerilen-uygulama bölümünü de etkileyebilir; bloklarsan bu ekranın görünümü/davranışı değişebilir, oynatma işlevi etkilenmez.
+# LG Recommendation (14 domain)
+Feeds "Recommended for You" row on home screen and recommended apps section in Content Store. Blocking may alter the appearance or behavior of these screens.
 us.homeprv.lgtvcommon.com !
 us.rdl.lgtvcommon.com !
 us.recommend.lgtvcommon.com !
@@ -550,18 +544,14 @@ eic.homeprv.lgtvcommon.com !
 eic.rdl.lgtvcommon.com !
 eic.recommend.lgtvcommon.com !
 
-# Vizio: Reklam sunucusu (WatchFree+ ile bağlantılı) (1 domain)
-# Vizio'nun ücretsiz reklamlı kanalı WatchFree+ bazı yayınlarda reklamı videoya sunucu tarafında (SSAI) ekliyor. Bu domain engellenirse WatchFree+ içerikleri arada donabilir veya yüklenmeyebilir.
+# Vizio (WatchFree+) (1 domain) ⚠️ Vizio's WatchFree+ free ad-supported channel uses server-side ad insertion (SSAI) for content delivery. Blocking may cause intermittent freezing or content load failures.
 ads.vizio.com ! 
 
-# Google / Android TV: belirsiz/doğrulanamamış googleapis uç noktaları (1 domain)
-# İsimlendirme telemetri gibi görünüyor ancak arama/öneri fonksiyonuna bağlanmış olabilir; düşük-orta risk.
+# Google / Android TV
 androidtvwatsonfe-pa.googleapis.com !
 
-# Hisense / VIDAA: kişiselleştirme ve doğrulanamamış servisler (1 domain)
-# recommend-ui-af sadece ana ekran önerilerini etkiler.
+# Hisense / VIDAA
 recommend-ui-af.vidaahub.com !
 
-# Titan OS: reklam ve öneri motoru (1 domain)
-# ads.titanos.tv / titan-ads.tv ana ekran reklam kutularını, thinkanalytics.com ise kişiselleştirilmiş içerik önerilerini besler. İkisi de sadece kozmetik/öneri etkisi yapar, oynatmayı bozmaz.
+# Titan OS (1 domain)
 thinkanalytics.com !
