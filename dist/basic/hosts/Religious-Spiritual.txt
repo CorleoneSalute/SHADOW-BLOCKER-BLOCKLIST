@@ -1,0 +1,37 @@
+# ============================================================
+# RELIGIOUS SPIRITUAL BLOCKLIST - BASIC
+# Total domains: 30
+# Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 analytics.abide.co
+0.0.0.0 analytics.athan.com
+0.0.0.0 analytics.bible.com
+0.0.0.0 analytics.faithlife.com
+0.0.0.0 analytics.givelify.com
+0.0.0.0 analytics.hallow.com
+0.0.0.0 analytics.insighttimer.com
+0.0.0.0 analytics.muslimpro.com
+0.0.0.0 analytics.quranmajeed.com
+0.0.0.0 analytics.zabihah.com
+0.0.0.0 api.xmode.io
+0.0.0.0 beaconsinspace.com
+0.0.0.0 data.locate-x.com
+0.0.0.0 digitalenvoy.com
+0.0.0.0 gravyanalytics.com
+0.0.0.0 locate-x.com
+0.0.0.0 oneaudience.com
+0.0.0.0 outlogic.io
+0.0.0.0 placed.com
+0.0.0.0 predicio.io
+0.0.0.0 resourceviewtracking.faithlife.com
+0.0.0.0 sdk.predic.io
+0.0.0.0 sense360.com
+0.0.0.0 signalframe.com
+0.0.0.0 track.mail.muslimpro.com
+0.0.0.0 tracking.muslimpro.com
+0.0.0.0 venntel.com
+0.0.0.0 www.x-mode.com
+0.0.0.0 x-mode.com
+0.0.0.0 xmode.io
