@@ -1,0 +1,13 @@
+# ============================================================
+# TMS BLOCKLIST - BASIC
+# Total domains: 6
+# Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||commandersact.com^
+||tagcommander.com^
+||tealium.com^
+||tealium.hs.llnwd.net^
+||tealiumiq.com^
+||tx.mailfoogae.appspot.com^
