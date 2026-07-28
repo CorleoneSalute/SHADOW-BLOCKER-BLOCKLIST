@@ -1,9 +1,9 @@
 # Subscription-Based Platforms Blocklist
 
-**Son Güncelleme:** 16 Temmuz 2026
-**Toplam Domain Sayısı:** 15
+# Total domains: 15
+# Last update: 16 Temmuz 2026
+# Note: trailing "!" marks a domain as aggressive-only
 
-```
 # BUY ME A COFFEE
 metrics.buymeacoffee.com
 log.buymeacoffee.com
