@@ -1,0 +1,46 @@
+# REMOTE DESKTOP & REMOTE ACCESS BLOCKLIST
+# Total domains: 20
+# Last update: 2026-07-16
+# Note: trailing "!" marks a domain as aggressive-only
+
+# TEAMVIEWER
+analytics.teamviewer.com
+telemetry.teamviewer.com
+tracking.teamviewer.com
+metrics.teamviewer.com
+
+# ANYDESK
+analytics.anydesk.com
+telemetry.anydesk.com
+
+# LOGMEIN / GOTO
+analytics.logmein.com
+telemetry.logmein.com
+
+# SPLASHTOP
+analytics.splashtop.com
+telemetry.splashtop.com
+
+# REALVNC
+analytics.realvnc.com
+
+# NOMACHINE
+analytics.nomachine.com
+
+# BEYONDTRUST
+analytics.beyondtrust.com
+telemetry.beyondtrust.com
+
+# CONNECTWISE CONTROL
+analytics.connectwise.com
+
+# REMOTEPC (iDrive)
+analytics.remotepc.com
+telemetry.remotepc.com
+
+# ZOHO ASSIST
+analytics.zoho.com
+telemetry.zoho.com
+
+# FIXME.IT (TechInLine)
+analytics.fixme.it
