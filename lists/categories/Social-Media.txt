@@ -1,9 +1,8 @@
 # Social Media Blocklist
 
-**Toplam domain sayısı:** 742
-**Son güncelleme:** 2026-07-23
-
-## TEMEL (SAFE) (718 domain)
+# Total domains: 742
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
 
 ### META (30 domain)
 
@@ -42,7 +41,7 @@ xz.fbcdn.net
 
 ### LINKEDIN (107 domain)
 
-**Reklam & RTB** (33 domain)
+# AD & RTB (33 domain)
 
 ```
 adx.rtb.linkedin.com
@@ -80,13 +79,13 @@ us-east-1.dc.ads.linkedin.com
 us-west-2.dc.ads.linkedin.com
 ```
 
-**Üçüncü taraf reklam ağı** (1 domain)
+# Third Party AD Network (1 domain)
 
 ```
 bizographics.com
 ```
 
-**RUM / Telemetri** (23 domain)
+# RUM (23 domain)
 
 ```
 rum10.perf.linkedin.com
@@ -114,7 +113,7 @@ rum8.perf.linkedin.com
 rum9.perf.linkedin.com
 ```
 
-**LinkedIn Insight Tag (piksel)** (1 domain)
+# LinkedIn Insight Tag (pixel) (1 domain)
 
 ```
 snap.licdn.com
@@ -174,7 +173,7 @@ us-west-2.imp2.ads.linkedin.com
 
 ### TIKTOK / BYTEDANCE (448 domain)
 
-**Ana Analytics** (31 domain)
+**Core Analytics** (31 domain)
 
 ```
 analytic.tiktok.com
@@ -219,7 +218,7 @@ affiliate.tiktok.com
 analytics.tiktokv.com
 ```
 
-**Reklam Serving** (27 domain)
+**AD Serving** (27 domain)
 
 ```
 ad-instantpage-ru.tiktokv.com
@@ -251,7 +250,7 @@ url4077.ads-service.tiktok.com
 v16-ad.byteoversea.com
 ```
 
-**tiktokv.com log* (Uygulama Logu)** (70 domain)
+**tiktokv.com log* (App Log)** (70 domain)
 
 ```
 applog.tiktokv.com
@@ -516,7 +515,7 @@ xlog16-platform-ycru.tiktokv.com
 xlog16-tmp-normal-useast1a.tiktokv.com
 ```
 
-**tiktokv.eu Telemetri** (9 domain)
+**tiktokv.eu Telemetry** (9 domain)
 
 ```
 log16-normal-no1a.tiktokv.eu
@@ -530,7 +529,7 @@ rtlog16-normal-no1a.tiktokv.eu
 rtlog16-normal-useastred.tiktokv.eu
 ```
 
-**tiktokv.us Telemetri** (12 domain)
+**tiktokv.us Telemetry** (12 domain)
 
 ```
 log.tiktokv.us
@@ -547,7 +546,7 @@ rtlog16-normal-useast5.tiktokv.us
 rtlog16-normal-useast8.tiktokv.us
 ```
 
-**Konum Track** (14 domain)
+**Location Track** (14 domain)
 
 ```
 location-i18n.tiktokv.com
@@ -566,7 +565,7 @@ location.tiktokv.com
 location.us.tiktokv.com
 ```
 
-**us.tiktokv.com Telemetri** (20 domain)
+**us.tiktokv.com Telemetry** (20 domain)
 
 ```
 log.us.tiktokv.com
@@ -691,7 +690,7 @@ vcl-brain.snssdk.com
 xlog.snssdk.com
 ```
 
-**Diğer Tracking Domainleri** (5 domain)
+**Other Tracking Domains** (5 domain)
 
 ```
 applog.musical.ly
@@ -701,7 +700,7 @@ mon.musical.ly
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 ```
 
-**Altyapı Monitoring** (1 domain)
+**Monitoring** (1 domain)
 
 ```
 ibytedapm.com
@@ -895,7 +894,7 @@ shence-log.kwai.com
 diana-errors-web.sidechat.lol
 ```
 
-## AGRESİF (Ek - Etki Olabilir) (24 domain)
+## AGGRESSIVE LIST (24 domain)
 
 ### TIKTOK / BYTEDANCE (24 domain)
 
@@ -924,7 +923,7 @@ frontier4-pp-lq.amemv.com !
 frontier4-pp.amemv.com !
 ```
 
-**DNS Tracking Altyapısı (CNAME)** (4 domain)
+**DNS Tracking (CNAME)** (4 domain)
 
 ```
 bpgslb.com !
