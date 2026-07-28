@@ -1,12 +1,11 @@
 # Religious & Spiritual Blocklist
 
-**Son Güncelleme:** 16 Temmuz 2026
-**Toplam Domain Sayısı:** 30
+# Total domains: 30
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
 
-```
-# ══════════════════════════════════════
-# KATEGORİ 1 — DATA BROKERS (En Tehlikeli)
-# Konum/din verilerini hükümete/orduya satan servisler
+# DATA BROKERS
+# ⚠️ Location/Religious data services selling to government/military
 # ══════════════════════════════════════
 
 # Predicio — Muslim Pro'nun askeri veri satış ortağı
@@ -34,14 +33,11 @@ placed.com
 sense360.com
 oneaudience.com
 
-# SignalFrame / BeaconsInSpace — WiFi & beacon konum takibi
+# SignalFrame / BeaconsInSpace — WiFi & beacon location track
 signalframe.com
 beaconsinspace.com
 
-# ══════════════════════════════════════
-# KATEGORİ 2 — PLATFORM ANALİTİK SUBDOMAİNLERİ
-# Açıkça analytics/tracking amacı taşıyan subdomainler
-# ══════════════════════════════════════
+# Platform Spesific Domains
 
 # Muslim Pro
 analytics.muslimpro.com
@@ -54,7 +50,7 @@ analytics.athan.com
 # Quran Majeed
 analytics.quranmajeed.com
 
-# Zabihah (Helal Yemek)
+# Zabihah (Halal food)
 analytics.zabihah.com
 
 # YouVersion / Bible.com
