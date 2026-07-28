@@ -1,11 +1,9 @@
-# ================================================
 #  SCREEN RECORDER BLOCKLIST
-# Domain sayısı: 55
-# Son güncelleme: 2026-07-18
-# ================================================
+# Total domains: 55
+# Last update: 2026-07-18
+# Note: trailing "!" marks a domain as aggressive-only
 
-# --- TechSmith (Camtasia / Snagit) ---
-# OS sayım telemetrisi, kullanım verisi iletimi
+# TechSmith (Camtasia / Snagit)
 telemetry.techsmith.com
 analytics01.techsmith.com
 analytics03.techsmith.com
@@ -52,24 +50,23 @@ analytics66.techsmith.com
 analytics67.techsmith.com
 analytics68.techsmith.com
 
-# --- Blueberry Software (FlashBack Recorder) ---
+# Blueberry Software (FlashBack Recorder)
 analytics.blueberrysoftware.com
 telemetry.flashbackrecorder.com
-feedback.flashbackrecorder.com
 fwtrack.flashbackrecorder.com
 
-# --- Mirillis (Action!) ---
+# Mirillis (Action!)
 telemetry.mirillis.com
 
-# --- Loom (Atlassian) ---
+# Loom (Atlassian)
 evs.sgmt.loom.com
 
-# --- ScreenPal / Screencast-O-Matic ---
+# ScreenPal / Screencast-O-Matic
 tracking.screenpal.com
 
-# --- Wondershare (DemoCreator) ---
+# Wondershare (DemoCreator)
 analytics.wondershare.cc
 
-# --- Screencastify ---
+# Screencastify
 log.svc.screencastify.com
 tracking.screencastify.com
