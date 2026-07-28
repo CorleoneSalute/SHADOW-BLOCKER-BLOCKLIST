@@ -1,9 +1,9 @@
 # SMS & RCS Blocklist
 
-**Son Güncelleme:** 16 Temmuz 2026
-**Toplam Domain Sayısı:** 25
+# Total domains:25
+# Last update:16 Temmuz 2026
+# Note: trailing "!" marks a domain as aggressive-only
 
-```
 # GO SMS PRO (DANGEROUS — Privacy Leak, Unpatched)
 
 # Core
@@ -23,7 +23,7 @@ service.goforandroid.com
 push.goforandroid.com
 conf.api.hk.goforandroid.com
 
-# CDN & Media (privacy leak kaynağı)
+# CDN & Media (privacy leak domains)
 faces3cdn.goforandroid.com
 goappdl.goforandroid.com
 
@@ -34,7 +34,7 @@ integralwall.goforandroid.com
 integralmarket.goforandroid.com
 xss.tw
 
-# Config Sync (Çin sunucusu)
+# Config Sync
 goconfigsync.3g.cn
 
 # Web Portals
