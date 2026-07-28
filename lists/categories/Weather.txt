@@ -1,0 +1,40 @@
+# WEATHER BLOCKLIST
+# Total domains: 25
+# Last update: (2026-07-16)
+# Note: trailing "!" marks a domain as aggressive-only
+
+# TWC
+ibm-weather-beacon.com
+weather-beacon.com
+qlik.analytics.weather.com
+metrics.qa.max.weather.com
+jenkins.analytics.weather.com
+dataanalyst.mercury.weather.com
+ai.analytics.weather.com
+
+# WEATHERBUG
+ads.weatherbug.com
+advertising.weatherbug.com
+dsx.weather.com ! # ⚠️ WARNING: A/B Testing/Personalization; Weather Widget and Custom Content May Break
+v.w-x.co !
+s.w-x.co !
+
+# ACCUWEATHER
+accuweather-beacon.com
+ads.accuweather.com
+advertising.accuweather.com
+ad-engine.accuweather.com
+afb.accuweather.com
+location.accuweather.com ! # ⚠️ WARNING: Location Tracking; App Falls Back to Default Location When Blocked
+dsx.accuweather.com ! # ⚠️ WARNING: A/B Testing/Personalization; Weather Widget and Custom Content May Break
+
+# MOJI WEATHER (墨迹天气)
+v1.log.moji.com
+v2.log.moji.com
+v3.log.moji.com
+
+# 2345 WEATHER (2345天气)
+2345.com # ⚠️ PUP
+
+# TENKI.JP (Japan Weather Association)
+xscmzs.tenki.jp
