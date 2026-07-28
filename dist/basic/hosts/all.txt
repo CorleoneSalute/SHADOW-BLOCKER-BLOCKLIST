@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8277
+# Total domains: 8276
 # Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2429,7 +2429,6 @@
 0.0.0.0 click.adikteev.com
 0.0.0.0 click.appsflyer.com
 0.0.0.0 click.dianomi.com
-0.0.0.0 click.e.fitbit.com
 0.0.0.0 click.hicloud.com
 0.0.0.0 click.insights.seon.io
 0.0.0.0 click.learn.ads.snapchat.com

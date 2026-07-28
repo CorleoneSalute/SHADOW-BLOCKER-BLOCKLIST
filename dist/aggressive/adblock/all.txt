@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8578
+# Total domains: 8577
 # Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2488,7 +2488,6 @@
 ||click.adikteev.com^
 ||click.appsflyer.com^
 ||click.dianomi.com^
-||click.e.fitbit.com^
 ||click.hicloud.com^
 ||click.insights.seon.io^
 ||click.learn.ads.snapchat.com^
