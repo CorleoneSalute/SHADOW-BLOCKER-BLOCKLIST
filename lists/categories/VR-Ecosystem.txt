@@ -1,9 +1,9 @@
 # VR Ecosystem Blocklist
 
-**Son Güncelleme:** 16 Temmuz 2026
-**Toplam Domain Sayısı:** 19
+# Last update: 16 Temmuz 2026
+# Total domains: 19
+# Note: trailing "!" marks a domain as aggressive-only
 
-```
 # VRCHAT
 analytics.vrchat.cloud
 
@@ -30,11 +30,5 @@ fbanalytics.sandbox.game
 fp-api.data.sandbox.game
 
 # HTC VIVE
-mars.vive.com
-bytes-event.vive.com
-www.bytes-event.vive.com
-connect-event.vive.com
-www.connect-event.vive.com
-event.vive.com
 metrics-preview.vive.com
 metrics.vive.com
