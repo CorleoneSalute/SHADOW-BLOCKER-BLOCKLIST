@@ -1,0 +1,32 @@
+# SUSTAINABILITY & CARBON TRACKING BLOCKLIST 
+# Total domains: 10
+# Last update: 2026-07-18
+# Note: trailing "!" marks a domain as aggressive-only
+
+# Joro
+analytics.joro.tech
+
+# Wren
+analytics.wren.co
+
+# Pawprint
+metrics.pawprint.eco
+analytics.pawprint.eco
+
+# Deedster
+analytics.deedster.com
+
+# Klima
+analytics.klima.com
+
+# Capture
+analytics.capture.app
+
+# Aerial
+analytics.aerial.is
+
+# Commons
+analytics.commons.earth
+
+# Changers
+analytics.changers.com
