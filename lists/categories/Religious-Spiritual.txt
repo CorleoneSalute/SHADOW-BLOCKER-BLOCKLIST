@@ -6,19 +6,18 @@
 
 # DATA BROKERS
 # ⚠️ Location/Religious data services selling to government/military
-# ══════════════════════════════════════
 
-# Predicio — Muslim Pro'nun askeri veri satış ortağı
+# Predicio # Muslim Pro's Military Data Broker
 predicio.io
 sdk.predic.io
 
 # Gravy Analytics — ICE/FBI location pipeline
 gravyanalytics.com
 
-# Venntel — DHS/ICE/FBI'a konum verisi satar
+# Venntel — Sells Location Data to DHS/ICE/FBI
 venntel.com
 
-# X-Mode / Outlogic / Locate X — ABD ordusu konumu
+# X-Mode / Outlogic / Locate X — Sells location data to U.S. military
 xmode.io
 api.xmode.io
 x-mode.com
@@ -28,7 +27,8 @@ data.locate-x.com
 outlogic.io
 digitalenvoy.com
 
-# Placed / Sense360 / OneAudience — davranışsal data brokerlar
+# Placed / Sense360 / OneAudience
+Behavioral data brokers
 placed.com
 sense360.com
 oneaudience.com
