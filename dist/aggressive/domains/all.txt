@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8579
+# Total domains: 8578
 # Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3562,7 +3562,6 @@ featureinfo-service-sg.allawnos.com
 fedora-telemetry.org
 feedback-global.youpin.mi-img.com
 feedback.d.xiaomi.com
-feedback.flashbackrecorder.com
 feedback.hotjar.com
 feedback.intl.miui.com
 feedback.miui.com

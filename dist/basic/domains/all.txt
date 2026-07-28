@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8278
+# Total domains: 8277
 # Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3437,7 +3437,6 @@ fe05.lg.xiaomi.com
 fedora-telemetry.org
 feedback-global.youpin.mi-img.com
 feedback.d.xiaomi.com
-feedback.flashbackrecorder.com
 feedback.hotjar.com
 feedback.intl.miui.com
 feedback.miui.com
