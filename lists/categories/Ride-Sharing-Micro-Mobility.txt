@@ -1,46 +1,33 @@
 # Ride-Sharing & Micro-Mobility Blocklist
 
-**Toplam domain sayısı:** 45
-**Son güncelleme:** 2026-07-17
+# Total domains: 45
+# Last update: 2026-07-17
+# Note: trailing "!" marks a domain as aggressive-only
 
-## UBER: Platform Analytics (6 domain)
-
-```
+# UBER
 analytics.uber.com
 app-measurement.uber.com
 crash-analytics.uber.com
 metrics.uber.com
 mobile-analytics.uber.com
 telemetry.uber.com
-```
 
-## LYFT: Platform Analytics (6 domain)
-
-```
+# LYFT
 ads.lyft.com
 analytics.lyft.com
 app-analytics.lyft.com
 metrics.lyft.com
 mobile-analytics.lyft.com
 telemetry.lyft.com
-```
 
-## DiDi: Platform Analytics (2 domain)
-
-```
+# DiDi
 analytics.didichuxing.com
 telemetry.didichuxing.com
-```
 
-## GRAB: Reklam Platformu (1 domain)
-
-```
+# GRAB
 grabads.com
-```
 
-## BOLT: Platform Analytics (8 domain)
-
-```
+# BOLT
 analytics.bolt.eu
 applog.bolt.eu
 dcexcelsior.applog.bolt.eu
@@ -49,70 +36,43 @@ dummy.applog.bolt.eu
 m-prelive-bolt-eu.applog.bolt.eu
 m-taxify-eu.applog.bolt.eu
 tracking.bolt.eu
-```
 
-## CAREEM: Platform Analytics (3 domain)
-
-```
+# CAREEM
 ads.careem.com
 analytics.careem.com
 customer-track.careem.com
-```
 
-## OLA: Platform Analytics (2 domain)
-
-```
+# OLA
 analytics.olacabs.com
 old-analytics.olacabs.com
-```
 
-## LIME: Platform Analytics (1 domain)
-
-```
+# LIME
 analytics.li.me
-```
 
-## BIRD: Platform Analytics (3 domain)
-
-```
+# BIRD
 analytics.bird.co
 api-analytics.bird.co
 trino-analytics-ext.data.bird.co
-```
 
-## VOI: Platform Analytics & Pazarlama (1 domain)
-
-```
+# VOI
 analytics.voiscooters.com
-```
 
-## inDRIVE: Server-Side Tag Manager (2 domain)
-
-```
+# inDRIVE
 analytics.indrive.com
 sgtm.indrive.com
-```
 
-## GOJEK: URL & Tracking (3 domain)
-
-```
+# GOJEK
 track-integration.gojek.com
 track.gojek.com
 trk.gojek.com
-```
 
-## Yango (Afrika & Global — Yandex) (5 domain)
-
-```
+# Yango
 log.strm.yango.com
 report-eu.appmetrica.yango.com
 report.appmetrica.yango.com
 tracking.appmetrica.yango.com
 tracking.movies.yango.com
-```
 
-## Via (Microtransit) (2 domain)
-
-```
+# Via (Microtransit)
 track-aws.m.ridewithvia.com
 tracking.ridewithvia.com
