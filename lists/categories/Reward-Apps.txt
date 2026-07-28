@@ -1,0 +1,110 @@
+# REWARD & INCENTIVE APPS BLOCKLIST 
+# Total domains: 67
+# Last update: 2026-07-20
+
+# Swagbucks
+metrics.swagbucks.com
+tracking.swagbucks.com
+analytics.swagbucks.com
+collect.swagbucks.com
+advertise.swagbucks.com
+
+# InboxDollars # ⚠️ Scam Review Sites and Low-Rated Untrustworthy Sites by Users
+inboxdollars.com
+inboxpounds.co.uk
+dailyrewards.com
+
+# Survey Junkie / DISQO
+surveyjunkie.com ! 
+tracking.surveyjunkie.com
+analytics.surveyjunkie.com
+metrics.surveyjunkie.com
+events.surveyjunkie.com
+collect.surveyjunkie.com
+disqo.com !
+
+# Toluna
+tracking.toluna.com
+analytics.toluna.com
+metrics.toluna.com
+analytics.tolunastart.com
+
+# PrizeRebel
+prizerebel.com # ⚠️ Scam Review Site and Low-Rated Untrustworthy Site by Users
+tracking.prizerebel.com
+analytics.prizerebel.com
+metrics.prizerebel.com
+
+# Ibotta
+tracking.ibotta.com
+analytics.ibotta.com
+metrics.ibotta.com
+events.ibotta.com
+
+# Fetch Rewards
+tracking.fetch.com
+analytics.fetch.com
+metrics.fetch.com
+events.fetch.com
+data.fetch.com
+app-events.fetch.com
+
+# Checkout 51 # ⚠️ Untrustworthy platform with frequent account termination and fund seizure complaints; poorly rated by users.
+checkout51.com 
+analytics.checkout51.com
+metrics.checkout51.com
+
+# CoinOut
+coinout.com # ⚠️ Extremely Low User Rating - Dangerous for Privacy & Security; Should Not Be Used
+tracking.coinout.com
+analytics.coinout.com
+metrics.coinout.com
+
+# GetMiles # ⚠️ Closed and Domain Sold to Gambling Company
+getmiles.com
+
+# Upside (GetUpside)
+tracking.upside.com
+analytics.upside.com
+metrics.upside.com
+events.upside.com
+
+# MoneMoney # ⚠️ Privacy Risk: Requests SMS read permission allowing access to all messages, including banking transactions, 2FA codes, and social media notifications.
+moneysms.co
+tracking.moneysms.co
+analytics.moneysms.co
+
+# --- Current Rewards / Mode Mobile ---
+tracking.current.us
+analytics.current.us
+metrics.current.us
+events.current.us
+
+# Sweatcoin # ⚠️ Low User Rating and Flagged as Potential Scam
+sweatco.in
+analytics.sweatco.in
+metrics.sweatco.in
+events.sweatco.in
+
+# Achievement / Evidation
+tracking.evidation.com
+analytics.evidation.com
+metrics.evidation.com
+
+# ReceiptPal
+tracking.receiptpal.com
+analytics.receiptpal.com
+metrics.receiptpal.com
+
+# ReceiptHog
+tracking.receipthog.com
+analytics.receipthog.com
+
+# Common Survey Providers
+
+# Samplicio
+tracker.samplicio.us
+
+# Cint
+collector.cint.com
+track.cint.com
