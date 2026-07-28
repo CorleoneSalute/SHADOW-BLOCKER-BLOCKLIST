@@ -1,20 +1,16 @@
 # VPN & Proxy Blocklist
 
-**Son Güncelleme:** 16 Temmuz 2026
-**Toplam Domain Sayısı:** 60
+# Last update: 16 Temmuz 2026
+# Total domains: 60
+# Note: trailing "!" marks a domain as aggressive-only
 
-```
 # IVPN
 crashes.ivpn.net
 stats.ivpn.net
 
 # PROTONVPN
-telemetry.protonvpn.com   # [telemetry]
+telemetry.protonvpn.com
 sentry.protonvpn.com
-
-##############################################################
-# BÖLÜM 2 — TIER 2-3: QUESTIONABLE VPNs
-##############################################################
 
 # NORDVPN (Nord Security)
 analytics.nordvpn.com
@@ -89,13 +85,11 @@ analytics.torguard.net
 analytics.astrill.com     
 telemetry.astrill.com     
 
-##############################################################
-# BÖLÜM 3 — TIER 4-5: DANGEROUS VPNs
-##############################################################
-
 # URBAN VPN
-# ⚠️ ÖNEMLİ NOT: Temmuz 2025 tespiti — ChatGPT, Claude ve Gemini
-# konuşmalarını MITM ile yakalayıp BiScience'a satıyor. Asla kullanmayın.
+# ⚠️ CRITICAL: Urban VPN Proxy secretly intercepts ChatGPT, Claude, 
+# Gemini conversations since July 2025 and sells to BiScience.
+# Affects: 6M+ users across Chrome/Edge extensions
+# Do not use - uninstall immediately if installed
 urban-vpn.com
 analytics.urban-vpn.com   # [analytics] — AI konuşma yakalama altyapısı
 stats.urban-vpn.com       # [analytics] — AI konuşma yakalama altyapısı
