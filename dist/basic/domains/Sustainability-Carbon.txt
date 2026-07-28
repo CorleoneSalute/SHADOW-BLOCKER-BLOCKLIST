@@ -1,0 +1,17 @@
+# ============================================================
+# SUSTAINABILITY CARBON BLOCKLIST - BASIC
+# Total domains: 10
+# Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+analytics.aerial.is
+analytics.capture.app
+analytics.changers.com
+analytics.commons.earth
+analytics.deedster.com
+analytics.joro.tech
+analytics.klima.com
+analytics.pawprint.eco
+analytics.wren.co
+metrics.pawprint.eco
