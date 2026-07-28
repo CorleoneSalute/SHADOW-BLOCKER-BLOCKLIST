@@ -1,0 +1,27 @@
+# ============================================================
+# WEATHER BLOCKLIST - AGGRESSIVE
+# Total domains: 20
+# Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||accuweather-beacon.com^
+||ad-engine.accuweather.com^
+||ads.accuweather.com^
+||ads.weatherbug.com^
+||advertising.accuweather.com^
+||advertising.weatherbug.com^
+||afb.accuweather.com^
+||ai.analytics.weather.com^
+||dataanalyst.mercury.weather.com^
+||ibm-weather-beacon.com^
+||jenkins.analytics.weather.com^
+||metrics.qa.max.weather.com^
+||qlik.analytics.weather.com^
+||s.w-x.co^
+||v.w-x.co^
+||v1.log.moji.com^
+||v2.log.moji.com^
+||v3.log.moji.com^
+||weather-beacon.com^
+||xscmzs.tenki.jp^

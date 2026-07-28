@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8576
+# Total domains: 8578
 # Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6277,6 +6277,7 @@
 ||s.update.3lift.com^
 ||s.update.adsrvr.org^
 ||s.update.criteo.com^
+||s.w-x.co^
 ||s1-adfly.com^
 ||s1.adform.net^
 ||s1.fwmrm.net^
@@ -8092,6 +8093,7 @@
 ||v.clarity.ms^
 ||v.plerdy.com^
 ||v.vungle.com^
+||v.w-x.co^
 ||v1.adf.ly^
 ||v1.log.moji.com^
 ||v1.telemetry.coder.com^
