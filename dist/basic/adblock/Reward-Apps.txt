@@ -1,0 +1,70 @@
+# ============================================================
+# REWARD APPS BLOCKLIST - BASIC
+# Total domains: 63
+# Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||advertise.swagbucks.com^
+||analytics.checkout51.com^
+||analytics.coinout.com^
+||analytics.current.us^
+||analytics.evidation.com^
+||analytics.fetch.com^
+||analytics.ibotta.com^
+||analytics.moneysms.co^
+||analytics.prizerebel.com^
+||analytics.receipthog.com^
+||analytics.receiptpal.com^
+||analytics.surveyjunkie.com^
+||analytics.swagbucks.com^
+||analytics.sweatco.in^
+||analytics.toluna.com^
+||analytics.tolunastart.com^
+||analytics.upside.com^
+||app-events.fetch.com^
+||checkout51.com^
+||collect.surveyjunkie.com^
+||collect.swagbucks.com^
+||collector.cint.com^
+||dailyrewards.com^
+||data.fetch.com^
+||events.current.us^
+||events.fetch.com^
+||events.ibotta.com^
+||events.surveyjunkie.com^
+||events.sweatco.in^
+||events.upside.com^
+||getmiles.com^
+||inboxdollars.com^
+||inboxpounds.co.uk^
+||metrics.checkout51.com^
+||metrics.coinout.com^
+||metrics.current.us^
+||metrics.evidation.com^
+||metrics.fetch.com^
+||metrics.ibotta.com^
+||metrics.prizerebel.com^
+||metrics.receiptpal.com^
+||metrics.surveyjunkie.com^
+||metrics.swagbucks.com^
+||metrics.sweatco.in^
+||metrics.toluna.com^
+||metrics.upside.com^
+||moneysms.co^
+||sweatco.in^
+||track.cint.com^
+||tracker.samplicio.us^
+||tracking.coinout.com^
+||tracking.current.us^
+||tracking.evidation.com^
+||tracking.fetch.com^
+||tracking.ibotta.com^
+||tracking.moneysms.co^
+||tracking.prizerebel.com^
+||tracking.receipthog.com^
+||tracking.receiptpal.com^
+||tracking.surveyjunkie.com^
+||tracking.swagbucks.com^
+||tracking.toluna.com^
+||tracking.upside.com^

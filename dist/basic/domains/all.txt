@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8270
+# Total domains: 8275
 # Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2390,6 +2390,7 @@ channels.acr.roku.com
 chartbeat.com
 chartbeat.net
 chartboost.com
+checkout51.com
 chi2only.outbrain.com
 chinnica.net
 chocolateplatform.com
@@ -2794,6 +2795,7 @@ d6y4.ads.pof.com
 d6y5.ads.pof.com
 d845108.t43.tonichost.com
 d9.flashtalking.com
+dailyrewards.com
 daisy.ubuntu.com
 dao.ad
 daopush-api.info
@@ -3574,6 +3576,7 @@ geologgeran.us.dell.com
 geologgerbn.us.dell.com
 get.brightdata.com
 getadlib.com
+getmiles.com
 getmydrivers.com
 getpixelme.com
 getpublica.com
@@ -5003,6 +5006,7 @@ monbk.tiktokv.com
 monetization-tracking.youtube.com
 monetization.adikteev.com
 monetize.rollerads.com
+moneysms.co
 monitor-stsdk.vivoglobal.com
 monitoring-log.gitlab.net
 monitoring.youbora.com
@@ -6753,6 +6757,7 @@ surveys.hotjar.com
 surveystats.webmaxy.io
 svencrai.com
 swap.fm
+sweatco.in
 sweeps5164.yourmonday97.live
 switchadhub.com
 sws.ligatus.com

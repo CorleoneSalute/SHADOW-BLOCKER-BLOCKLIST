@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8571
+# Total domains: 8576
 # Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2449,6 +2449,7 @@
 0.0.0.0 chartbeat.com
 0.0.0.0 chartbeat.net
 0.0.0.0 chartboost.com
+0.0.0.0 checkout51.com
 0.0.0.0 chi2only.outbrain.com
 0.0.0.0 chinnica.net
 0.0.0.0 chocolateplatform.com
@@ -2872,6 +2873,7 @@
 0.0.0.0 d6y5.ads.pof.com
 0.0.0.0 d845108.t43.tonichost.com
 0.0.0.0 d9.flashtalking.com
+0.0.0.0 dailyrewards.com
 0.0.0.0 daisy.ubuntu.com
 0.0.0.0 dao.ad
 0.0.0.0 daopush-api.info
@@ -3727,6 +3729,7 @@
 0.0.0.0 geologgerbn.us.dell.com
 0.0.0.0 get.brightdata.com
 0.0.0.0 getadlib.com
+0.0.0.0 getmiles.com
 0.0.0.0 getmydrivers.com
 0.0.0.0 getpixelme.com
 0.0.0.0 getpublica.com
@@ -5198,6 +5201,7 @@
 0.0.0.0 monetization-tracking.youtube.com
 0.0.0.0 monetization.adikteev.com
 0.0.0.0 monetize.rollerads.com
+0.0.0.0 moneysms.co
 0.0.0.0 monitor-stsdk.vivoglobal.com
 0.0.0.0 monitoring-log.gitlab.net
 0.0.0.0 monitoring.youbora.com
@@ -7013,6 +7017,7 @@
 0.0.0.0 surveystats.webmaxy.io
 0.0.0.0 svencrai.com
 0.0.0.0 swap.fm
+0.0.0.0 sweatco.in
 0.0.0.0 sweeps5164.yourmonday97.live
 0.0.0.0 switchadhub.com
 0.0.0.0 sws.ligatus.com
