@@ -1,0 +1,22 @@
+# WEDDING BLOCKLIST
+# Total domains: 12
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
+
+# THE KNOT / WEDDINGWIRE (TKWW)
+analytics.theknot.com
+tracking.theknot.com
+metrics.theknot.com
+pixel.theknot.com
+analytics.weddingwire.com
+tracking.weddingwire.com
+
+# ZOLA
+analytics.zola.com
+tracking.zola.com
+pixel.zola.com
+api.web-trk.zola.com
+evs.web-trk.zola.com
+
+# JOY (WithJoy)
+analytics.withjoy.com
