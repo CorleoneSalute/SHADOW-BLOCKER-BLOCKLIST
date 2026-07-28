@@ -1,0 +1,48 @@
+# SMARTWATCH & WEARABLES BLOCKLIST
+# Total domains:24
+# Last update: 16 Temmuz 2026 (2026-07-16)
+# Note: trailing "!" marks a domain as aggressive-only
+
+# FITBIT (Google-owned)
+analytics.fitbit.com
+telemetry.fitbit.com
+metrics.fitbit.com
+ads.fitbit.com
+ad-analytics.fitbit.com
+
+# SAMSUNG GALAXY WATCH / HEALTH
+analytics.samsunghealth.com
+shealth-analytics-api.samsunghealth.com
+analytics-api.samsunghealthcn.com
+
+# XIAOMI / HUAMI / ZEPP / AMAZFIT
+api-analytics.huami.com
+app-analytics.huami.com
+clarity.zepp.com
+
+# POLAR
+analytics.polar.com
+telemetry.polar.com
+tracker.polar.com
+
+# Suunto
+smetrics.suunto.com
+
+# Ouroring
+advisor-analytics.ouraring.com
+
+# NOISE (India - Nexxbase)
+trk.gonoise.com
+
+# REEBOK SMART RING
+metrics.reebok.com
+
+# COLMI / FITCLOUDPRO (OEM WHITE-LABEL)
+"# ⚠️ FitCloudPro: OEM app serving Lemfo, Zeblaze, Lige, Kospet, BOULT and 100+ brands."
+ft-sentry-a.hetangsmart.com
+ft-sentry-i.hetangsmart.com
+ft-sentry.hetangsmart.com
+ft-sentry2.hetangsmart.com
+
+# ELITE HRV
+sentry.elitehrv.com
