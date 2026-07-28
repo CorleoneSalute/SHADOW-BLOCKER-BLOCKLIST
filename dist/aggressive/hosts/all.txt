@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8572
+# Total domains: 8571
 # Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7190,7 +7190,6 @@
 0.0.0.0 telemetry.beyondtrust.com
 0.0.0.0 telemetry.bitdefender.com
 0.0.0.0 telemetry.bitmovin.com
-0.0.0.0 telemetry.bitsum.com
 0.0.0.0 telemetry.blacknut.com
 0.0.0.0 telemetry.boosteroid.com
 0.0.0.0 telemetry.bsplayer.com
