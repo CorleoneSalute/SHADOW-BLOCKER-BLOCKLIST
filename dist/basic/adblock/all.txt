@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8277
+# Total domains: 8271
 # Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2115,7 +2115,6 @@
 ||bugtracker.akiflow.com^
 ||build-metrics.getsol.us^
 ||bytedanceapi.com^
-||bytes-event.vive.com^
 ||byyd.me^
 ||c-all.telemetry.intel.com^
 ||c-lick.click^
@@ -2624,7 +2623,6 @@
 ||config.seedtag.com^
 ||config.unityads.unity3d.com^
 ||configv2.unityads.unity3d.com^
-||connect-event.vive.com^
 ||connect.clearbit.com^
 ||connect.criteo.com^
 ||connect.transunion.com^
@@ -3227,7 +3225,6 @@
 ||event.outbrain.com^
 ||event.realme.com^
 ||event.vanceai.com^
-||event.vive.com^
 ||eventlog-failtest.norton.com^
 ||eventlog-sd-beta.norton.com^
 ||eventlog-sd.norton.com^
@@ -4522,7 +4519,6 @@
 ||marketing.flo.health^
 ||marketing.outbrain.com^
 ||marlin.logs.roku.com^
-||mars.vive.com^
 ||match.360yield.com^
 ||match.adsquare.com^
 ||match.adsrvr.org^
@@ -8059,11 +8055,9 @@
 ||www.beeswax.com^
 ||www.bidtheatre.com^
 ||www.blockchain-ads.com^
-||www.bytes-event.vive.com^
 ||www.byyd.me^
 ||www.clarity.ms^
 ||www.clickbooth.com^
-||www.connect-event.vive.com^
 ||www.coreads-console.cambridge.org^
 ||www.coreads-static.cambridge.org^
 ||www.coreads.cambridge.org^

@@ -1,0 +1,20 @@
+# ============================================================
+# VR ECOSYSTEM BLOCKLIST - AGGRESSIVE
+# Total domains: 13
+# Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+analytics.lynx-r.com
+analytics.spatial.io
+analytics.vrchat.cloud
+bugreporting.rec.net
+datacollection.rec.net
+fbanalytics.sandbox.game
+fp-api.data.sandbox.game
+gamelogs.rec.net
+metrics-preview.vive.com
+metrics.resonite.com
+metrics.vive.com
+telemetry.varjo.com
+track-apollo.teleport.varjo.com
