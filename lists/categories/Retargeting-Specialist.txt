@@ -1,17 +1,15 @@
-# ============================================================
 # RETARGETING SPECIALIST BLOCKLIST 
-# Toplam Domain Sayisi: 346
-# Son Guncelleme: 18 Temmuz 2026
-# ============================================================
+# Total domains: 346
+# Last update: 18 Temmuz 2026
+# Note: trailing "!" marks a domain as aggressive-only
 
 🔴 CRITEO  (99 domain)
-===============================================
 
-# Ana domainler (2 domain)
+# Core domains (2 domain)
 criteo.com
 criteo.net
 
-# Satın alınan domainler (3 domain)
+# Purchased Domains (3 domain)
 hlserve.com
 emailretargeting.com
 dnacdn.net
@@ -44,7 +42,7 @@ d.eu.criteo.com
 d.as.criteo.com
 dynamic.criteo.com
 
-# Regional CAS Endpoint'leri (10 domain)
+# Regional CAS Endpoints (10 domain)
 cas.us-east-1.criteo.com
 cas.us-west-2.criteo.com
 cas.eu-west-1.criteo.com
@@ -66,7 +64,7 @@ dis.criteo.com
 dis.eu.criteo.com
 dis.us.criteo.com
 
-# RTB Altyapısı (13 domain)
+# RTB domains (13 domain)
 rtb.us5.us.criteo.com
 rtb.da.us.criteo.com
 rtb.da1.us.criteo.com
@@ -111,7 +109,7 @@ api.criteo.com
 partner.criteo.com
 integrations.criteo.com
 
-# Ölçüm (5 domain)
+# Measurement (5 domain)
 measurement.criteo.com
 measurement-api.criteo.com
 conversion.criteo.com
@@ -123,7 +121,7 @@ csm.us.criteo.net
 csm.va.us.criteo.net
 imageproxy.us.criteo.net
 
-# Bölgesel Altyapı (kullanıcıya ulaşan) (6 domain)
+# Regional domains (6 domain)
 rakuten.dis.criteo.com
 bam.fr.eu.criteo.com
 bam.nl.eu.criteo.com
@@ -131,7 +129,7 @@ dis.nl.eu.criteo.com
 cn.criteo.com
 par.service.criteo.net
 
-# Çeşitli servis endpoint'leri (5 domain)
+# Various Service Endpoints (5 domain)
 cookiecheck.criteo.com
 er2d2.criteo.com
 more.criteo.com
@@ -146,7 +144,7 @@ storetail.io
 🔵 RETARGETER / ZETA GLOBAL  (94 domain)
 ===============================================
 
-# Retargeter (ana ve tracking) (19 domain)
+# Retargeter (core and tracking domains) (19 domain)
 retargeter.com
 tags.retargeter.com
 pixel.retargeter.com
@@ -167,7 +165,7 @@ rtb.retargeter.com
 bid.retargeter.com
 exchange.retargeter.com
 
-# Zeta Global (ana) (5 domain)
+# Zeta Global (core domains) (5 domain)
 zetaglobal.com
 zeta-global.com
 zetaglobal.io
@@ -212,7 +210,7 @@ cdn.zetaglobal.com
 assets.zetaglobal.com
 static.zetaglobal.com
 
-# API (tracking entegrasyonları) (5 domain)
+# API (tracking) (5 domain)
 api.zetaglobal.com
 api.zetaglobal.net
 api-us.zetaglobal.com
@@ -226,13 +224,13 @@ sdk-android.zetaglobal.com
 mobile.zetaglobal.com
 m.zetaglobal.com
 
-# Attribution & Ölçüm (4 domain)
+# Attribution & Measurement (4 domain)
 attribution.zetaglobal.com
 conversion.zetaglobal.com
 measurement.zetaglobal.com
 metrics.zetaglobal.com
 
-# Kimlik Çözümleme (4 domain)
+# Identity Resolution (4 domain)
 identity.zetaglobal.com
 graph.zetaglobal.com
 match.zetaglobal.com
@@ -249,7 +247,7 @@ rfihub.net
 p.rfihub.com
 c1.rfihub.net
 
-# Zync Container (kimlik çözümleme) (2 domain)
+# Zync Container (Identity Resolution) (2 domain)
 rezync.com
 live.rezync.com
 
@@ -259,14 +257,14 @@ cdn.boomtrain.com
 recommendations.api.boomtrain.com
 events.api.boomtrain.com
 
-# Diğer satın alınan tracking varlıkları (2 domain)
+# Other Purchased Tracking Assets (2 domain)
 ru4.com
 xplusone.com
 
 # Zeta/LiveIntent Cross-ID (1 domain)
 i.lidam.com
 
-# Bizo (LinkedIn'e satılmadan önceki programatik kol) (6 domain)
+# Bizo (Programmatic Arm Pre-LinkedIn Acquisition) (6 domain)
 bizo.com
 pixel.bizo.com
 tag.bizo.com
@@ -282,7 +280,7 @@ pixel.zetalive.com
 🟢 ADIKTEEV  (83 domain)
 ===============================================
 
-# Ana domainler (1 domain)
+# Core domain (1 domain)
 adikteev.com
 
 # SDK & CDN (5 domain)
@@ -363,7 +361,7 @@ cross-promo.adikteev.com
 xpromo.adikteev.com
 portfolio.adikteev.com
 
-# ML / Optimizasyon (4 domain)
+# ML / Optimization (4 domain)
 ml.adikteev.com
 ai.adikteev.com
 prediction.adikteev.com
@@ -374,18 +372,18 @@ webhook.adikteev.com
 webhooks.adikteev.com
 callback.adikteev.com
 
-# Gelir & LTV (4 domain)
+# Revenue & LTV (4 domain)
 revenue.adikteev.com
 ltv.adikteev.com
 iap.adikteev.com
 monetization.adikteev.com
 
-# Fraud & Güvenlik (3 domain)
+# Fraud & Security (3 domain)
 fraud.adikteev.com
 antifraud.adikteev.com
 security.adikteev.com
 
-# Incrementality & Ölçüm (3 domain)
+# Incrementality & Measurement (3 domain)
 incrementality.adikteev.com
 measurement.adikteev.com
 lift-studies.adikteev.com
@@ -399,7 +397,7 @@ tv-ads.adikteev.com
 ab-test.adikteev.com
 experiments.adikteev.com
 
-# Bölgesel API (6 domain)
+# Regional API (6 domain)
 api-us.adikteev.com
 api-eu.adikteev.com
 api-apac.adikteev.com
@@ -407,7 +405,7 @@ us.adikteev.com
 eu.adikteev.com
 asia.adikteev.com
 
-# Partner / Entegrasyon (2 domain)
+# Partner / Integrations (2 domain)
 partners.adikteev.com
 integrations.adikteev.com
 
@@ -415,7 +413,7 @@ integrations.adikteev.com
 🟣 REMERGE  (70 domain)
 ===============================================
 
-# Ana domainler (1 domain)
+# Core domains (1 domain)
 remerge.io
 
 # Tracking & Attribution (7 domain)
@@ -494,7 +492,7 @@ fraud.remerge.io
 antifraud.remerge.io
 security.remerge.io
 
-# ML / Optimizasyon (3 domain)
+# ML / Optimization (3 domain)
 ml.remerge.io
 prediction.remerge.io
 optimization.remerge.io
@@ -503,7 +501,7 @@ optimization.remerge.io
 cross-promo.remerge.io
 xpromo.remerge.io
 
-# Gelir & LTV (3 domain)
+# Revenue & LTV (3 domain)
 revenue.remerge.io
 iap.remerge.io
 ltv.remerge.io
@@ -520,11 +518,11 @@ winback.remerge.io
 ctv.remerge.io
 ott.remerge.io
 
-# Bölgesel API (3 domain)
+# Regional API (3 domain)
 api-us.remerge.io
 api-eu.remerge.io
 api-apac.remerge.io
 
-# Partner / Entegrasyon (2 domain)
+# Partner / Integration (2 domain)
 partners.remerge.io
 integrations.remerge.io
