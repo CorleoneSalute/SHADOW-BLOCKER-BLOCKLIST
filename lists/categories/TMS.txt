@@ -1,25 +1,24 @@
-# ================================================
 # TAG MANAGEMENT SYSTEMS (TMS) BLOCKLIST 
-# Domain sayısı: 12
-# Son güncelleme: 2026-07-18
-# ================================================
+# Total domains: 12
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
 
-# --- Google Tag Manager ---
+# Google Tag Manager
 googletagmanager.com !
 tagmanager.google.com ! 
 tagassistant.google.com ! 
 tx.mailfoogae.appspot.com
 
-# --- Tealium ---
+# Tealium
 tealiumiq.com
 tealium.com
 tiqcdn.com ! 
 tiqcdn.cn ! 
 tealium.hs.llnwd.net
 
-# --- Ensighten ---
+# Ensighten
 ensighten.com ! 
 
-# --- Commanders Act / Tag Commander ---
+# Commanders Act / Tag Commander
 tagcommander.com
 commandersact.com
