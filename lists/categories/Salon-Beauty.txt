@@ -1,9 +1,9 @@
 # Salon & Beauty Blocklist
 
-**Son Güncelleme:** 16 Temmuz 2026
-**Toplam Domain Sayısı:** 25
+# Total domains: 25
+# Last update: 16 Temmuz 2026
+# Note: trailing "!" marks a domain as aggressive-only
 
-```
 # STYLESEAT
 analytics.styleseat.com
 metrics.styleseat.com
