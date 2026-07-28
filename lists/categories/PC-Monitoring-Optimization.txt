@@ -1,7 +1,7 @@
 # PC MONITORING & OPTIMIZATION SOFTWARES BLOCKLIST
 # Total domains: 287
 # Last update: (2026-07-16)
-
+# Note: trailing "!" marks a domain as aggressive-only
 
 # SCAREWARE / PUP / MALWARE
 
