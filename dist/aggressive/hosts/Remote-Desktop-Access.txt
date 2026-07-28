@@ -1,0 +1,27 @@
+# ============================================================
+# REMOTE DESKTOP ACCESS BLOCKLIST - AGGRESSIVE
+# Total domains: 20
+# Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 analytics.anydesk.com
+0.0.0.0 analytics.beyondtrust.com
+0.0.0.0 analytics.connectwise.com
+0.0.0.0 analytics.fixme.it
+0.0.0.0 analytics.logmein.com
+0.0.0.0 analytics.nomachine.com
+0.0.0.0 analytics.realvnc.com
+0.0.0.0 analytics.remotepc.com
+0.0.0.0 analytics.splashtop.com
+0.0.0.0 analytics.teamviewer.com
+0.0.0.0 analytics.zoho.com
+0.0.0.0 metrics.teamviewer.com
+0.0.0.0 telemetry.anydesk.com
+0.0.0.0 telemetry.beyondtrust.com
+0.0.0.0 telemetry.logmein.com
+0.0.0.0 telemetry.remotepc.com
+0.0.0.0 telemetry.splashtop.com
+0.0.0.0 telemetry.teamviewer.com
+0.0.0.0 telemetry.zoho.com
+0.0.0.0 tracking.teamviewer.com

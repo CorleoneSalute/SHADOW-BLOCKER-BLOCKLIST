@@ -1,7 +1,7 @@
 # ============================================================
 # 2FA BLOCKLIST - BASIC
 # Total domains: 11
-# Generated: 2026-07-27 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 

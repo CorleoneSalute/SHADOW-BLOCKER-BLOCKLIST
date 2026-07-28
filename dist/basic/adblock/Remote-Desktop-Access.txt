@@ -1,0 +1,27 @@
+# ============================================================
+# REMOTE DESKTOP ACCESS BLOCKLIST - BASIC
+# Total domains: 20
+# Generated: 2026-07-28 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||analytics.anydesk.com^
+||analytics.beyondtrust.com^
+||analytics.connectwise.com^
+||analytics.fixme.it^
+||analytics.logmein.com^
+||analytics.nomachine.com^
+||analytics.realvnc.com^
+||analytics.remotepc.com^
+||analytics.splashtop.com^
+||analytics.teamviewer.com^
+||analytics.zoho.com^
+||metrics.teamviewer.com^
+||telemetry.anydesk.com^
+||telemetry.beyondtrust.com^
+||telemetry.logmein.com^
+||telemetry.remotepc.com^
+||telemetry.splashtop.com^
+||telemetry.teamviewer.com^
+||telemetry.zoho.com^
+||tracking.teamviewer.com^
