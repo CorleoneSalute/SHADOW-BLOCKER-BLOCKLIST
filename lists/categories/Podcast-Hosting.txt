@@ -1,0 +1,117 @@
+# PODCAST HOSTING BLOCKLIST 
+# Total domains: 56
+# Last update: 2026-07-18
+# Note: trailing "!" marks a domain as aggressive-only
+
+# BUZZSPROUT
+analytics.buzzsprout.com
+stats.buzzsprout.com
+tracking.buzzsprout.com
+
+# LIBSYN
+stats.libsyn.com
+analytics.libsyn.com
+
+# PODBEAN
+stats.podbean.com
+analytics.podbean.com
+adserver.podbean.com
+
+# TRANSISTOR
+analytics.transistor.fm
+
+# CAPTIVATE
+analytics.captivate.fm
+tracking.captivate.fm
+
+# ACAST
+analytics.acast.com
+tracking.acast.com
+
+# REDCIRCLE
+analytics.redcircle.com
+tracking.redcircle.com
+
+# AUDIOBOOM
+analytics.audioboom.com
+
+# ART19 (Amazon)
+analytics.art19.com
+telemetry.art19.com
+
+# SUBSPLASH
+analytics.subsplash.com
+
+# XIMALAYA
+xdcs-collector.ximalaya.com
+mobwsa.ximalaya.com
+
+# PODCASTER.DE
+analytics.podcaster.de
+
+# KAJABI
+track.kajabi.com
+
+# IONO.FM
+analytics.iono.fm
+
+# COHOST PODCASTING
+analytics.cohostpodcasting.com
+tracking.cohostpodcasting.com
+
+# PODIGEE
+analytics.podigee.com
+tracking.podigee.com
+
+# RSS.COM
+analytics.rss.com
+
+# HUBHOPPER
+analytics.hubhopper.com
+
+# FEEDPRESS  
+tracking.feedpress.com
+tracking.feedpress.it
+analytics.feedpress.it
+
+# AUDIORELLA ANALYTICS
+audiorella-data.com
+swap.fm
+tracking.swap.fm
+
+# AUDIOHOOK  —  Podcast Ad Attribution Platform
+# ⚠️ Audiohook integration — ad attribution breaks on integrated podcast networks
+# ════════════════════════════════════════════════════════════
+audiohook.com ! 
+www.audiohook.com !
+api.audiohook.com !
+
+# PODTRAC
+podtrac.com ! 
+analytics.podtrac.com !
+
+# PODSCRIBE
+podscribe.com !
+tracking.podscribe.com !
+
+# PODCORN
+podcorn.com !
+tracking.podcorn.com !
+
+# Podcast Ads
+# ⚠️ May cause silence in ad breaks; rarely, playback may stall
+ads.podbean.com !
+ad.acast.com !
+ads.acast.com !
+adswizz.acast.com !
+adsrv.acast.com !
+adse.ximalaya.com !
+ads.iono.fm !
+
+# ADBARKER
+adbarker.com !
+tracking.adbarker.com !
+
+# VOXNEST (iHeartMedia-acquired) — Spreaker/iHeart Ad Analytics
+voxnest.com !
+www.voxnest.com !
