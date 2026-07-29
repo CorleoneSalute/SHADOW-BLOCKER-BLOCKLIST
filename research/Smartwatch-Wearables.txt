@@ -1,0 +1,2499 @@
+⌚ SMARTWATCH & WEARABLES RESEARCH LIST
+
+🔴 TIER 1: FITBIT (GOOGLE-OWNED)
+
+Core
+
+0.0.0.0 fitbit.com
+
+0.0.0.0 fitbit.net
+
+0.0.0.0 www.fitbit.com
+
+0.0.0.0 api.fitbit.com
+
+0.0.0.0 client.fitbit.com
+
+0.0.0.0 static.fitbit.com
+
+0.0.0.0 push.fitbit.com
+
+0.0.0.0 notifications.fitbit.com
+
+0.0.0.0 coaching.fitbit.com
+
+0.0.0.0 labs.fitbit.com
+
+0.0.0.0 live.fitbit.com
+
+0.0.0.0 help.fitbit.com
+
+0.0.0.0 dev.fitbit.com
+
+Cloud & CDN
+
+0.0.0.0 cdn.fitbit.com
+
+0.0.0.0 cloudfront-cdn.fitbit.com
+
+0.0.0.0 s3-fitbit.amazonaws.com
+
+0.0.0.0 fitbit-production.s3.amazonaws.com
+
+Analytics
+
+0.0.0.0 analytics.fitbit.com
+
+0.0.0.0 telemetry.fitbit.com
+
+0.0.0.0 metrics.fitbit.com
+
+0.0.0.0 events.fitbit.com
+
+Premium
+
+0.0.0.0 premium.fitbit.com
+
+0.0.0.0 fitbitpremium.com
+
+Health Solutions
+
+0.0.0.0 healthsolutions.fitbit.com
+
+0.0.0.0 fitbit-health.com
+
+0.0.0.0 wellness.fitbit.com
+
+0.0.0.0 workplacewellness.fitbit.com
+
+Google Health
+
+0.0.0.0 googlehealth.fitbit.com
+
+0.0.0.0 health.google.com
+
+0.0.0.0 fit.google.com
+
+0.0.0.0 fitness.googleapis.com
+
+0.0.0.0 healthcare.googleapis.com
+
+0.0.0.0 fit-api.google.com
+
+0.0.0.0 fitness-data.googleapis.com
+
+0.0.0.0 fit-sync.google.com
+
+API & Auth
+
+0.0.0.0 api-prod.fitbit.com
+
+0.0.0.0 api-client.fitbit.com
+
+0.0.0.0 api.fitbit.net
+
+0.0.0.0 oauth.fitbit.com
+
+0.0.0.0 studio.fitbit.com
+
+Social
+
+0.0.0.0 social.fitbit.com
+
+0.0.0.0 community.fitbit.com
+
+0.0.0.0 forums.fitbit.com
+
+Firmware & OTA
+
+0.0.0.0 device-firmware.fitbit.com
+
+0.0.0.0 ota.fitbit.com
+
+0.0.0.0 update.fitbit.com
+
+0.0.0.0 firmware-cdn.fitbit.com
+
+Ads
+
+0.0.0.0 ads.fitbit.com
+
+0.0.0.0 ad-analytics.fitbit.com
+
+App Gallery
+
+0.0.0.0 connect.fitbit.com
+
+0.0.0.0 apps.fitbit.com
+
+0.0.0.0 gallery.fitbit.com
+
+0.0.0.0 appgallery.fitbit.com
+
+Pay
+
+0.0.0.0 pay.fitbit.com
+
+🔴 TIER 2: APPLE WATCH / HEALTH
+
+Health & HealthKit
+
+0.0.0.0 health.apple.com
+
+0.0.0.0 apple-health.net
+
+0.0.0.0 apple-healthkit.com
+
+0.0.0.0 activitysharing.apple.com
+
+0.0.0.0 fit-notifications.apple.com
+
+0.0.0.0 healthrecords.apple.com
+
+Fitness+
+
+0.0.0.0 fitness.apple.com
+
+0.0.0.0 fitnessplus.apple.com
+
+0.0.0.0 fitness-api.apple.com
+
+iCloud Health Sync
+
+0.0.0.0 icloud-health.net
+
+0.0.0.0 apple-health-sync.net
+
+Workout
+
+0.0.0.0 workout-routing.apple.com
+
+0.0.0.0 workout.apple.com
+
+HealthKit API
+
+0.0.0.0 healthkit-api.apple.com
+
+0.0.0.0 health-api.apple.com
+
+Research
+
+0.0.0.0 research.apple.com
+
+0.0.0.0 researchkit.apple.com
+
+0.0.0.0 studies.apple.com
+
+0.0.0.0 health-studies.apple.com
+
+Watch
+
+0.0.0.0 watch.apple.com
+
+0.0.0.0 watchos.apple.com
+
+🔴 TIER 3: SAMSUNG GALAXY WATCH / HEALTH
+
+Samsung Health Core
+
+0.0.0.0 shealth.samsung.com
+
+0.0.0.0 samsung-health.com
+
+0.0.0.0 samsunghealth.com
+
+0.0.0.0 health.samsung.com
+
+0.0.0.0 health.samsungmobile.com
+
+0.0.0.0 data-api.samsunghealth.com
+
+0.0.0.0 partner.samsung.com
+
+0.0.0.0 research.samsung.com
+
+Wearables
+
+0.0.0.0 gear.samsung.com
+
+0.0.0.0 galaxy-wearable.com
+
+0.0.0.0 samsunggear.com
+
+0.0.0.0 galaxywearable.com
+
+0.0.0.0 wearable.samsung.com
+
+0.0.0.0 gearfit.samsung.com
+
+Account & SSO
+
+0.0.0.0 account.samsung.com
+
+0.0.0.0 samsungaccount.com
+
+0.0.0.0 sso.samsung.com
+
+0.0.0.0 api.samsung.com
+
+Analytics
+
+0.0.0.0 analytics.samsunghealth.com
+
+0.0.0.0 telemetry.samsung.com
+
+0.0.0.0 data.samsung.com
+
+0.0.0.0 metrics.samsung.com
+
+0.0.0.0 analytics.bigdata.samsung.com
+
+0.0.0.0 bigdata.ssp.samsung.com
+
+0.0.0.0 smetrics.samsung.com
+
+0.0.0.0 nmetrics.samsung.com
+
+0.0.0.0 nmetrics.samsungmobile.com
+
+Cloud
+
+0.0.0.0 samsungcloud.com
+
+0.0.0.0 cloud.samsung.com
+
+0.0.0.0 samsunghealth-cloud.com
+
+Health SDK & API
+
+0.0.0.0 health-api.samsung.com
+
+0.0.0.0 shealth-api.samsung.com
+
+0.0.0.0 health-sync.samsung.com
+
+0.0.0.0 partner-health-api.samsung.com
+
+0.0.0.0 developer.samsung.com
+
+Cloud Solution
+
+0.0.0.0 samsungcloudsolution.com
+
+0.0.0.0 samsungcloudsolution.net
+
+0.0.0.0 devicelog.samsungcloudsolution.net
+
+0.0.0.0 prderrordumphsm.samsungcloudsolution.com
+
+0.0.0.0 prderrordumpssm.samsungcloudsolution.net
+
+Health Analytics
+
+0.0.0.0 shealth-analytics-api.samsunghealth.com
+
+0.0.0.0 shealth-analytics-stg-api.samsunghealth.com
+
+0.0.0.0 analytics-api.samsunghealthcn.com
+
+0.0.0.0 samsunghealthcn.com
+
+0.0.0.0 analytics.samsungedo.com
+
+0.0.0.0 samsungedo.com
+
+China (Critical)
+
+0.0.0.0 cn-api.mcsvc.samsung.com.cn
+
+0.0.0.0 push.samsungosp.com.cn
+
+0.0.0.0 china-gld.push.samsungosp.com.cn
+
+0.0.0.0 samsungosp.com.cn
+
+0.0.0.0 smetrics.samsung.com.cn
+
+🔴 TIER 4: GARMIN
+
+⚠️ Firstbeat Analytics (Garmin HRV/Recovery), Connect IQ, Live Tracking
+dahil.
+
+Connect Core
+
+0.0.0.0 connect.garmin.com
+
+0.0.0.0 garminconnect.com
+
+0.0.0.0 www.garminconnect.com
+
+0.0.0.0 api.garmin.com
+
+0.0.0.0 static.garminconnect.com
+
+0.0.0.0 oauth1.garmin.com
+
+0.0.0.0 oauth2.garmin.com
+
+0.0.0.0 sso-api.garmin.com
+
+0.0.0.0 gcm.garmin.com
+
+0.0.0.0 notifications.garmin.com
+
+0.0.0.0 wellness.garmin.com
+
+0.0.0.0 corporate.garmin.com
+
+0.0.0.0 discover.garmin.com
+
+0.0.0.0 push.garmin.com
+
+0.0.0.0 cdn.connect.garmin.com
+
+CDN & Static
+
+0.0.0.0 garmincdn.com
+
+0.0.0.0 garmin.cn
+
+0.0.0.0 static.garmin.com
+
+0.0.0.0 assets.garmin.com
+
+0.0.0.0 images.garmin.com
+
+Cloud & Services
+
+0.0.0.0 cloud.garmin.com
+
+0.0.0.0 cloudapi.garmin.com
+
+0.0.0.0 services.garmin.com
+
+0.0.0.0 prod.services.garmin.com
+
+Analytics & Telemetry
+
+0.0.0.0 analytics.garmin.com
+
+0.0.0.0 metrics.garmin.com
+
+0.0.0.0 telemetry.garmin.com
+
+0.0.0.0 events.garmin.com
+
+0.0.0.0 data.garmin.com
+
+Device Sync
+
+0.0.0.0 device.garmin.com
+
+0.0.0.0 sync.garmin.com
+
+0.0.0.0 edge.garmin.com
+
+0.0.0.0 device-api.garmin.com
+
+Express / Desktop
+
+0.0.0.0 express.garmin.com
+
+0.0.0.0 download.garmin.com
+
+0.0.0.0 software.garmin.com
+
+0.0.0.0 updates.garmin.com
+
+Maps
+
+0.0.0.0 maps.garmin.com
+
+0.0.0.0 navigate.garmin.com
+
+0.0.0.0 geocache.garmin.com
+
+0.0.0.0 mapdata.garmin.com
+
+Pay & Wallet
+
+0.0.0.0 pay.garmin.com
+
+0.0.0.0 wallet.garmin.com
+
+Product Lines
+
+0.0.0.0 fenix.garmin.com
+
+0.0.0.0 forerunner.garmin.com
+
+0.0.0.0 vivo.garmin.com
+
+0.0.0.0 vivoactive.garmin.com
+
+0.0.0.0 instinct.garmin.com
+
+Health / Medical
+
+0.0.0.0 health.garmin.com
+
+0.0.0.0 garminhealth.com
+
+0.0.0.0 medical.garmin.com
+
+0.0.0.0 enterprise-health.garmin.com
+
+Connect IQ
+
+0.0.0.0 developer.garmin.com
+
+0.0.0.0 connectiq.garmin.com
+
+0.0.0.0 apps.garmin.com
+
+0.0.0.0 store.connectiq.garmin.com
+
+0.0.0.0 apps-developer.garmin.com
+
+Social
+
+0.0.0.0 community.garmin.com
+
+0.0.0.0 forums.garmin.com
+
+0.0.0.0 social.garmin.com
+
+Live Tracking
+
+0.0.0.0 livetrack.garmin.com
+
+0.0.0.0 tracking.garmin.com
+
+0.0.0.0 share.garmin.com
+
+Courses & Segments
+
+0.0.0.0 courses.garmin.com
+
+0.0.0.0 segments.garmin.com
+
+Firstbeat Analytics
+
+0.0.0.0 insights.garmin.com
+
+0.0.0.0 firstbeat.garmin.com
+
+0.0.0.0 firstbeat.com
+
+0.0.0.0 firstbeatanalytics.com
+
+0.0.0.0 support.firstbeat.com
+
+0.0.0.0 support.firstbeatsports.com
+
+3rd Party
+
+0.0.0.0 strava-connect.garmin.com
+
+0.0.0.0 training-peaks.garmin.com
+
+0.0.0.0 trainingpeaks.garmin.com
+
+SSO & Developer
+
+0.0.0.0 sso.garmin.com
+
+0.0.0.0 apis.garmin.com
+
+0.0.0.0 developerportal.garmin.com
+
+Mobile & Portal
+
+0.0.0.0 mobile.garmin.com
+
+0.0.0.0 my.garmin.com
+
+0.0.0.0 id.garmin.com
+
+0.0.0.0 pro.garmin.com
+
+0.0.0.0 login.garmin.com
+
+0.0.0.0 training.garmin.com
+
+0.0.0.0 explore.garmin.com
+
+0.0.0.0 video.garmin.com
+
+0.0.0.0 blog.garmin.com
+
+0.0.0.0 blogs.garmin.com
+
+0.0.0.0 feedback.garmin.com
+
+0.0.0.0 kb.garmin.com
+
+0.0.0.0 sandbox.garmin.com
+
+0.0.0.0 sports.garmin.com
+
+0.0.0.0 info.garmin.com
+
+0.0.0.0 pilot.garmin.com
+
+0.0.0.0 myaccount.garmin.com
+
+0.0.0.0 live.garmin.com
+
+0.0.0.0 cmc.garmin.com
+
+Additional
+
+0.0.0.0 factory.garmin.com
+
+0.0.0.0 mango.garmin.com
+
+0.0.0.0 diamond.garmin.com
+
+0.0.0.0 betatest.garmin.com
+
+0.0.0.0 navigator.garmin.com
+
+0.0.0.0 inreach.garmin.com
+
+0.0.0.0 fly.garmin.com
+
+0.0.0.0 careers.garmin.com
+
+0.0.0.0 ssotest.garmin.com
+
+0.0.0.0 sftp2.garmin.com
+
+0.0.0.0 aqua.garmin.com
+
+0.0.0.0 apitest.garmin.com
+
+0.0.0.0 apple.garmin.com
+
+0.0.0.0 guest.garmin.com
+
+0.0.0.0 www-origin.garmin.com
+
+0.0.0.0 golf.garmin.com
+
+0.0.0.0 bronze.garmin.com
+
+0.0.0.0 legacy.garmin.com
+
+0.0.0.0 api-it.dealers.garmin.com
+
+0.0.0.0 www8.garmin.com
+
+0.0.0.0 support.garmin.com
+
+0.0.0.0 silver.garmin.com
+
+🔴 TIER 5: XIAOMI / HUAMI / ZEPP / AMAZFIT
+
+Mi Fit / Huami Core
+
+0.0.0.0 mifit.huami.com
+
+0.0.0.0 huami.com
+
+0.0.0.0 huamimi.com
+
+0.0.0.0 api-mifit.huami.com
+
+0.0.0.0 api-mifit-cn.huami.com
+
+0.0.0.0 api-mifit-de2.huami.com
+
+0.0.0.0 api-mifit-sg2.huami.com
+
+0.0.0.0 api-mifit-cn2.huami.com
+
+0.0.0.0 api-mifit-ru.huami.com
+
+0.0.0.0 api-mifit-jp.huami.com
+
+0.0.0.0 api-watch.huami.com
+
+0.0.0.0 api-analytics.huami.com
+
+0.0.0.0 app-analytics.huami.com
+
+0.0.0.0 account.huami.com
+
+0.0.0.0 user.huami.com
+
+0.0.0.0 wearables.huami.com
+
+0.0.0.0 firmware.huami.com
+
+0.0.0.0 api-user.huami.com
+
+0.0.0.0 api-mifit-de.huami.com
+
+0.0.0.0 run.mifit.huami.com
+
+0.0.0.0 docs.huami.com
+
+Zepp (Huami Rebrand)
+
+0.0.0.0 zepp.com
+
+0.0.0.0 zepphealth.com
+
+0.0.0.0 api.zepp.com
+
+0.0.0.0 cn.zepp.com
+
+0.0.0.0 global.zepp.com
+
+0.0.0.0 account.zepp.com
+
+0.0.0.0 app.zepp.com
+
+0.0.0.0 auth.zepp.com
+
+0.0.0.0 watch.zepp.com
+
+0.0.0.0 support.zepp.com
+
+0.0.0.0 developer.zepp.com
+
+0.0.0.0 docs.zepp.com
+
+0.0.0.0 zeppos.zepp.com
+
+Amazfit
+
+0.0.0.0 amazfit.com
+
+0.0.0.0 amazfitapp.com
+
+0.0.0.0 api.amazfit.com
+
+0.0.0.0 cn.amazfit.com
+
+0.0.0.0 us.amazfit.com
+
+0.0.0.0 eu.amazfit.com
+
+0.0.0.0 global.amazfit.com
+
+0.0.0.0 support.amazfit.com
+
+Xiaomi Cloud (CCP)
+
+0.0.0.0 micloud.xiaomi.com
+
+0.0.0.0 micloud.xiaomi.net
+
+0.0.0.0 account.xiaomi.com
+
+0.0.0.0 i.mi.com
+
+0.0.0.0 hm.mi-ae.com
+
+0.0.0.0 resolver.gslb.mi-idc.com
+
+Xiaomi Account
+
+0.0.0.0 login.mi.com
+
+0.0.0.0 api.account.xiaomi.com
+
+0.0.0.0 account.xiaomi.net
+
+Push Notifications
+
+0.0.0.0 api.push.xiaomi.com
+
+0.0.0.0 register.xmpush.xiaomi.com
+
+0.0.0.0 c.mi.com
+
+0.0.0.0 api.xmpush.global.xiaomi.com
+
+0.0.0.0 register.xmpush.global.xiaomi.com
+
+0.0.0.0 vip-api.xmpush.xiaomi.com
+
+0.0.0.0 vip-api.xmpush.global.xiaomi.com
+
+🔴 TIER 6: HUAWEI
+
+Health & Wearables
+
+0.0.0.0 health.huawei.com
+
+0.0.0.0 huaweihealth.com
+
+0.0.0.0 healthcloud.huawei.com
+
+0.0.0.0 health-cloud.huawei.com
+
+0.0.0.0 push-api.cloud.huawei.com
+
+0.0.0.0 connect-api.cloud.huawei.com
+
+0.0.0.0 connect-drcn.hicloud.com
+
+0.0.0.0 uniportal.huawei.com
+
+0.0.0.0 wearable.huawei.com
+
+0.0.0.0 hihealth.huawei.com
+
+0.0.0.0 watch.huawei.com
+
+Account
+
+0.0.0.0 id1.cloud.huawei.com
+
+0.0.0.0 hwid.huawei.com
+
+0.0.0.0 account.huawei.com
+
+0.0.0.0 login.cloud.huawei.com
+
+0.0.0.0 oauth.cloud.huawei.com
+
+0.0.0.0 api.cloud.huawei.com
+
+0.0.0.0 push.huawei.com
+
+0.0.0.0 developer.huawei.com
+
+0.0.0.0 agconnect.huawei.com
+
+Cloud
+
+0.0.0.0 cloud.huawei.com
+
+0.0.0.0 services.cloud.huawei.com
+
+0.0.0.0 drcn.huawei.com
+
+Analytics & Logging
+
+0.0.0.0 metrics.huawei.com
+
+0.0.0.0 analytics.huawei.com
+
+0.0.0.0 logservice.hicloud.com
+
+0.0.0.0 logbak.hicloud.com
+
+0.0.0.0 data.hicloud.com
+
+0.0.0.0 ads.cloud.huawei.com
+
+0.0.0.0 uba.huaweicloud.com
+
+Regional
+
+0.0.0.0 health.vmall.com
+
+0.0.0.0 cn.health.huawei.com
+
+0.0.0.0 eu.health.huawei.com
+
+0.0.0.0 ru.health.huawei.com
+
+0.0.0.0 logservice.vmall.com
+
+HMS Core
+
+0.0.0.0 hmscore.huawei.com
+
+🔴 TIER 7: POLAR
+
+⚠️ Polar Electro — Finnland. AccessLink API + Polar Club + Team Pro.
+
+Polar Flow Core
+
+0.0.0.0 polar.com
+
+0.0.0.0 www.polar.com
+
+0.0.0.0 flow.polar.com
+
+0.0.0.0 admin.polaraccesslink.com
+
+0.0.0.0 accesslink.polar.com
+
+0.0.0.0 polaraccesslink.com
+
+0.0.0.0 www.polaraccesslink.com
+
+0.0.0.0 account.polar.com
+
+0.0.0.0 polartraining.com
+
+0.0.0.0 polarbeat.com
+
+API & Developer
+
+0.0.0.0 api.polar.com
+
+0.0.0.0 developer.polar.com
+
+0.0.0.0 data.polar.com
+
+Analytics & Telemetry
+
+0.0.0.0 analytics.polar.com
+
+0.0.0.0 telemetry.polar.com
+
+0.0.0.0 events.polar.com
+
+0.0.0.0 tracker.polar.com
+
+Auth & Services
+
+0.0.0.0 auth.polar.com
+
+0.0.0.0 register.polar.com
+
+0.0.0.0 service.polar.com
+
+Content & Media
+
+0.0.0.0 support.polar.com
+
+0.0.0.0 files.polar.com
+
+0.0.0.0 fs.polar.com
+
+0.0.0.0 media.polar.com
+
+0.0.0.0 static.polar.com
+
+0.0.0.0 blog.polar.com
+
+0.0.0.0 cdn.polar.com
+
+Business & Marketing
+
+0.0.0.0 marketing.polar.com
+
+0.0.0.0 newsletter.polar.com
+
+0.0.0.0 survey.polar.com
+
+0.0.0.0 corporate.polar.com
+
+0.0.0.0 studio.polar.com
+
+0.0.0.0 club.polar.com
+
+0.0.0.0 store.polar.com
+
+Updates & Push
+
+0.0.0.0 updates.polar.com
+
+0.0.0.0 push.polar.com
+
+0.0.0.0 firmware-management.polar.com
+
+0.0.0.0 hb.polar.com
+
+Research & Team
+
+0.0.0.0 research.polar.com
+
+0.0.0.0 teampro.polar.com
+
+Status & NTP
+
+0.0.0.0 status.polar.com
+
+0.0.0.0 ntp1.polar.com
+
+0.0.0.0 ntp2.polar.com
+
+0.0.0.0 adam.polar.com
+
+🔴 TIER 8: SUUNTO
+
+Suunto App
+
+0.0.0.0 suunto.com
+
+0.0.0.0 www.suunto.com
+
+0.0.0.0 cloudapi.suunto.com
+
+0.0.0.0 cloudapi-oauth.suunto.com
+
+0.0.0.0 apizone.suunto.com
+
+0.0.0.0 sports-tracker.com
+
+0.0.0.0 app.suunto.com
+
+0.0.0.0 aspartnercontent.blob.core.windows.net
+
+Support & Community
+
+0.0.0.0 support.suunto.com
+
+0.0.0.0 forum.suunto.com
+
+0.0.0.0 developer.suunto.com
+
+0.0.0.0 suuntoplus.suunto.com
+
+Deprecated
+
+0.0.0.0 movescount.com
+
+🔴 TIER 9: WHOOP
+
+Core
+
+0.0.0.0 whoop.com
+
+0.0.0.0 app.whoop.com
+
+0.0.0.0 api.whoop.com
+
+0.0.0.0 api.prod.whoop.com
+
+0.0.0.0 id.whoop.com
+
+0.0.0.0 join.whoop.com
+
+0.0.0.0 support.whoop.com
+
+0.0.0.0 developer.whoop.com
+
+0.0.0.0 developer-dashboard.whoop.com
+
+0.0.0.0 external-developer-portal.whoop.com
+
+0.0.0.0 status.whoop.com
+
+CDN & Media
+
+0.0.0.0 cdn.whoop.com
+
+0.0.0.0 assets.whoop.com
+
+0.0.0.0 media.whoop.com
+
+0.0.0.0 blog.whoop.com
+
+Store & Team
+
+0.0.0.0 store.whoop.com
+
+0.0.0.0 team.whoop.com
+
+🔴 TIER 10: OURA RING
+
+Core
+
+0.0.0.0 ouraring.com
+
+0.0.0.0 api.ouraring.com
+
+0.0.0.0 v2.api.ouraring.com
+
+0.0.0.0 cloud.ouraring.com
+
+0.0.0.0 developer.ouraring.com
+
+0.0.0.0 partnersupport.ouraring.com
+
+0.0.0.0 auth.ouraring.com
+
+0.0.0.0 support.ouraring.com
+
+CDN & App
+
+0.0.0.0 cdn.ouraring.com
+
+0.0.0.0 static.ouraring.com
+
+0.0.0.0 app.ouraring.com
+
+0.0.0.0 push.ouraring.com
+
+Partner Acquisitions 2024
+
+0.0.0.0 spartascience.com
+
+0.0.0.0 api.spartascience.com
+
+0.0.0.0 getveri.com
+
+0.0.0.0 api.getveri.com
+
+🔴 TIER 11: WITHINGS
+
+Core
+
+0.0.0.0 withings.com
+
+0.0.0.0 withings.net
+
+0.0.0.0 wbsapi.withings.net
+
+0.0.0.0 wbsapi.withings.com
+
+0.0.0.0 account.withings.com
+
+0.0.0.0 healthmate.withings.com
+
+0.0.0.0 developer.withings.com
+
+0.0.0.0 oauth.withings.com
+
+0.0.0.0 scalews.withings.com
+
+0.0.0.0 api.withings.com
+
+0.0.0.0 myhealthmate.withings.com
+
+CDN & Services
+
+0.0.0.0 cdn.withings.com
+
+0.0.0.0 push.withings.com
+
+0.0.0.0 static.withings.com
+
+0.0.0.0 corporate.withings.com
+
+Health Solutions
+
+0.0.0.0 withingshealthsolutions.com
+
+0.0.0.0 withingshealth.com
+
+🔴 TIER 12: COROS
+
+Core
+
+0.0.0.0 coros.com
+
+0.0.0.0 t.coros.com
+
+0.0.0.0 api.coros.com
+
+0.0.0.0 open.coros.com
+
+0.0.0.0 support.coros.com
+
+Training Hub API
+
+0.0.0.0 trainingapi.coros.com
+
+0.0.0.0 cdn.coros.com
+
+0.0.0.0 static.coros.com
+
+0.0.0.0 firmware.coros.com
+
+0.0.0.0 push.coros.com
+
+0.0.0.0 store.coros.com
+
+Regional STS
+
+0.0.0.0 sts-eu.coros.com
+
+0.0.0.0 sts-us.coros.com
+
+0.0.0.0 sts-cn.coros.com
+
+🔴 TIER 13: FOSSIL GROUP (DISCONTINUED January 2024)
+
+⚠️ DISCONTINUED January 2024
+
+Fossil
+
+0.0.0.0 api.fossil.com
+
+0.0.0.0 support.fossilgroup.com
+
+0.0.0.0 services.fossilgroup.com
+
+Skagen Connected
+
+0.0.0.0 api.skagen.linkplatforms.com
+
+🔴 TIER 14: TICWATCH / MOBVOI (DISCONTINUED 2025)
+
+⚠️ PLATFORM DURUMU: DISCONTINUED  2025
+
+TicWatch / Mobvoi
+
+0.0.0.0 mobvoi.com
+
+0.0.0.0 ai.mobvoi.com
+
+0.0.0.0 chumenwenwen.com
+
+0.0.0.0 developer.chumenwenwen.com
+
+0.0.0.0 ticdesign.chumenwenwen.com
+
+0.0.0.0 www.chumenwenwen.com
+
+0.0.0.0 forum.mobvoi.com
+
+🔴 TIER 15: ONEPLUS WATCH
+
+Core
+
+0.0.0.0 open.oneplus.net
+
+0.0.0.0 onepluscommunityserver.com
+
+0.0.0.0 telemetry.oneplus.com
+
+0.0.0.0 oneplus.com
+
+0.0.0.0 www.oneplus.com
+
+API & Services
+
+0.0.0.0 account.oneplus.com
+
+0.0.0.0 api.oneplus.com
+
+0.0.0.0 cdn.oneplus.com
+
+0.0.0.0 firmware.oneplus.com
+
+0.0.0.0 push.oneplus.com
+
+0.0.0.0 log.oneplus.com
+
+0.0.0.0 crash.oneplus.com
+
+0.0.0.0 update.oneplus.com
+
+0.0.0.0 ota.oneplus.com
+
+0.0.0.0 oxygenos.oneplus.com
+
+Community
+
+0.0.0.0 community.oneplus.com
+
+🔴 TIER 16: OPPO / HEYTAP (ColorOS)
+
+ColorOS Core
+
+0.0.0.0 heytap.com
+
+0.0.0.0 heytapdl.com
+
+0.0.0.0 heytapdownload.com
+
+0.0.0.0 heytapmobile.com
+
+0.0.0.0 heytapmobi.com
+
+0.0.0.0 heytapimage.com
+
+0.0.0.0 allawnos.com
+
+0.0.0.0 allawntech.com
+
+0.0.0.0 coloros.com
+
+0.0.0.0 api.coloros.com
+
+0.0.0.0 oppomobile.com
+
+0.0.0.0 connect.oppo.com
+
+0.0.0.0 brand.heytap.com
+
+0.0.0.0 watch.oppo.com
+
+allawnos.com (ColorOS Cloud)
+
+0.0.0.0 conn1.coloros.com
+
+0.0.0.0 conn2.coloros.com
+
+0.0.0.0 conn3.coloros.com
+
+0.0.0.0 conn4.coloros.com
+
+0.0.0.0 conn5.coloros.com
+
+0.0.0.0 foreign.coloros.com
+
+0.0.0.0 guif.coloros.com
+
+0.0.0.0 guif-eu.coloros.com
+
+0.0.0.0 icosa-sg.coloros.com
+
+0.0.0.0 icota-eu.coloros.com
+
+0.0.0.0 ifrus.coloros.com
+
+0.0.0.0 ifsau.coloros.com
+
+0.0.0.0 log-eap.coloros.com
+
+0.0.0.0 moa-upload-online.coloros.com
+
+0.0.0.0 smartcard.apps.coloros.com
+
+heytapimage CDN
+
+0.0.0.0 adsfs-sdkconfig.heytapimage.com
+
+0.0.0.0 ums-rum-cn.heytapimage.com
+
+0.0.0.0 ums-rum-global.heytapimage.com
+
+heytapmobi Ads & Analytics
+
+0.0.0.0 ads.heytapmobi.com
+
+0.0.0.0 adx.ads.heytapmobi.com
+
+0.0.0.0 bdapi.ads.heytapmobi.com
+
+0.0.0.0 data.ads.heytapmobi.com
+
+0.0.0.0 sms.ads.heytapmobi.com
+
+0.0.0.0 cl-data.ads.heytapmobi.com
+
+0.0.0.0 darvin-ec.ads.heytapmobi.com
+
+0.0.0.0 logforward.browser.heytapmobi.com
+
+0.0.0.0 stat.browser.heytapmobi.com
+
+0.0.0.0 api-cn.cdo.heytapmobi.com
+
+0.0.0.0 api-gl.cdo.heytapmobi.com
+
+0.0.0.0 dragate-cn.dc.heytapmobi.com
+
+0.0.0.0 dragate-in.dc.heytapmobi.com
+
+0.0.0.0 dragate-sg.dc.heytapmobi.com
+
+0.0.0.0 mdp-usertrace-cn.heytapmobi.com
+
+0.0.0.0 obus-config-cn.heytapmobi.com
+
+0.0.0.0 obus-dc2-cn.heytapmobi.com
+
+0.0.0.0 obus-jssdk-cn.heytapmobi.com
+
+0.0.0.0 omes-sec.heytapmobi.com
+
+0.0.0.0 dcintl.push.heytapmobi.com
+
+0.0.0.0 device-ups.push.heytapmobi.com
+
+0.0.0.0 ums-telemetry-cn.heytapmobi.com
+
+heytapmobile Global Ads
+
+0.0.0.0 ads.heytapmobile.com
+
+0.0.0.0 bdapi-id.ads.heytapmobile.com
+
+0.0.0.0 bdapi-in.ads.heytapmobile.com
+
+0.0.0.0 cl-data-f.ads.heytapmobile.com
+
+0.0.0.0 stg-data-in.ads.heytapmobile.com
+
+0.0.0.0 browser-api-gl.heytapmobile.com
+
+0.0.0.0 browser-api-in.heytapmobile.com
+
+0.0.0.0 browser-api-ru.heytapmobile.com
+
+0.0.0.0 api-gl.cdo.heytapmobile.com
+
+0.0.0.0 dragate-in-dc.heytapmobile.com
+
+0.0.0.0 mdp-usertrace-in.heytapmobile.com
+
+0.0.0.0 mdp-usertrace-sg.heytapmobile.com
+
+0.0.0.0 obus-dc2-in.heytapmobile.com
+
+0.0.0.0 obus-jssdk-in.heytapmobile.com
+
+0.0.0.0 obus-jssdk-sg.heytapmobile.com
+
+0.0.0.0 push.heytapmobile.com
+
+0.0.0.0 dcintl.push.heytapmobile.com
+
+0.0.0.0 shortintl.push.heytapmobile.com
+
+0.0.0.0 sms-ads-in.heytapmobile.com
+
+0.0.0.0 report-eu.uc.heytapmobile.com
+
+0.0.0.0 report-in.uc.heytapmobile.com
+
+0.0.0.0 report-sg.uc.heytapmobile.com
+
+oppomobile.com Ads
+
+0.0.0.0 adx.ads.oppomobile.com
+
+0.0.0.0 bdapi.ads.oppomobile.com
+
+0.0.0.0 data.ads.oppomobile.com
+
+0.0.0.0 sapi.ads.oppomobile.com
+
+0.0.0.0 sms.ads.oppomobile.com
+
+0.0.0.0 adsfs.oppomobile.com
+
+0.0.0.0 dragate.dc.oppomobile.com
+
+0.0.0.0 dragate-sg.dc.oppomobile.com
+
+Diğer
+
+0.0.0.0 hizonetech.com
+
+0.0.0.0 finosfin.com
+
+0.0.0.0 nearme.com.cn
+
+🔴 TIER 17: REALME
+
+Core
+
+0.0.0.0 realme.com
+
+0.0.0.0 realme.com.cn
+
+0.0.0.0 realmemobile.com
+
+0.0.0.0 realmecommunity.com
+
+0.0.0.0 realmelink.com
+
+Dizo (Realme TechLife)
+
+0.0.0.0 dizo.net
+
+0.0.0.0 dizo.com
+
+🔴 TIER 18: HONOR (Huawei Spinoff 2020)
+
+Core
+
+0.0.0.0 honor.com
+
+0.0.0.0 cloud.honor.com
+
+0.0.0.0 hihonor.com
+
+0.0.0.0 honor.cn
+
+0.0.0.0 honorcloud.com
+
+API & Services
+
+0.0.0.0 api.hihonor.com
+
+0.0.0.0 push.hihonor.com
+
+0.0.0.0 update.hihonor.com
+
+0.0.0.0 developer.hihonor.com
+
+hihonorcloud (→ TIER 6 listesi)
+
+0.0.0.0 hihonorcloud.com
+
+🔴 TIER 19: NOISE (India - Nexxbase)
+
+Core
+
+0.0.0.0 gonoise.com
+
+0.0.0.0 noisehq.com
+
+0.0.0.0 imaginemarketingindia.com
+
+0.0.0.0 nexxbase.in
+
+API & Services
+
+0.0.0.0 help.gonoise.com
+
+0.0.0.0 api.gonoise.com
+
+0.0.0.0 app.gonoise.com
+
+0.0.0.0 cdn.gonoise.com
+
+0.0.0.0 noisehealthapi.com
+
+🔴 TIER 20: FIRE-BOLTT (India)
+
+⚠️ com.wiiteer.fireboltt (Wiiteer SDK — China)
+
+Core
+
+0.0.0.0 fireboltt.com
+
+0.0.0.0 fireboltt.in
+
+Wiiteer SDK
+
+0.0.0.0 wiiteer.com
+
+0.0.0.0 api.wiiteer.com
+
+0.0.0.0 cloud.wiiteer.com
+
+API & CDN
+
+0.0.0.0 api.fireboltt.com
+
+0.0.0.0 cdn.fireboltt.com
+
+0.0.0.0 bolttgames.com
+
+🔴 TIER 21: BOAT (India)
+
+⚠️ com.sirenatech — Sirena Tech (China OEM)
+
+Core
+
+0.0.0.0 boat-lifestyle.com
+
+0.0.0.0 boatlifestyle.com
+
+0.0.0.0 support.boat-lifestyle.com
+
+0.0.0.0 imaginemarketingindia.com
+
+Sirena Tech SDK
+
+0.0.0.0 sirenatech.com
+
+API & CDN
+
+0.0.0.0 api.boat-lifestyle.com
+
+0.0.0.0 cdn.boat-lifestyle.com
+
+0.0.0.0 app.boat-lifestyle.com
+
+🔴 TIER 22: ULTRAHUMAN RING AIR
+
+Core
+
+0.0.0.0 ultrahuman.com
+
+0.0.0.0 api.ultrahuman.com
+
+0.0.0.0 ultrasignal.ultrahuman.com
+
+0.0.0.0 cyborg.ultrahuman.com
+
+0.0.0.0 blog.ultrahuman.com
+
+API & Services
+
+0.0.0.0 partner.ultrahuman.com
+
+0.0.0.0 app.ultrahuman.com
+
+0.0.0.0 cdn.ultrahuman.com
+
+0.0.0.0 firmware.ultrahuman.com
+
+0.0.0.0 m1.ultrahuman.com
+
+0.0.0.0 neo.ultrahuman.com
+
+0.0.0.0 air.ultrahuman.com
+
+🔴 TIER 23: RINGCONN GEN 2
+
+Core
+
+0.0.0.0 ringconn.com
+
+🔴 TIER 24: SAMSUNG GALAXY RING
+
+→ TIER 3 (Samsung)
+
+0.0.0.0 shealth.samsung.com
+
+0.0.0.0 health.samsung.com
+
+🔴 TIER 25: AMAZFIT HELIO RING
+
+→ TIER 5 (Zepp)
+
+0.0.0.0 zepp.com
+
+0.0.0.0 api.zepp.com
+
+🔴 TIER 26: REEBOK SMART RING (2025)
+
+Core
+
+0.0.0.0 reeboksmartring.com
+
+0.0.0.0 reebok.com
+
+🔴 TIER 27: SANDBAR STREAM RING (2026)
+
+⚠️ AI voice note ring — fitness tracker DEĞİL! Summer 2026 launch
+
+Core
+
+0.0.0.0 sandbar.com
+
+🔴 TIER 28: VERTU AI DIAMOND RING / META RING
+
+Core
+
+0.0.0.0 vertu.com
+
+0.0.0.0 offical-vertu.myshopify.com
+
+🔴 TIER 29: XIAOMI SMART RING (Upcoming)
+
+→ TIER 5 (Xiaomi)
+
+0.0.0.0 zepp.com
+
+0.0.0.0 huami.com
+
+🔴 TIER 30: HUME BAND
+
+Core
+
+0.0.0.0 humehealth.com
+
+0.0.0.0 humeband.com
+
+🔴 TIER 31: DIZO (Realme TechLife)
+
+Core
+
+0.0.0.0 dizo.net
+
+0.0.0.0 dizo.com
+
+0.0.0.0 realmelink.com
+
+🔴 TIER 32: COLMI / FITCLOUDPRO (OEM WHITE-LABEL)
+
+⚠️ FitCloudPro: Lemfo, Zeblaze, Lige, Kospet, BOULT, 100+ marka için OEM
+app. Tencent Bugly SDK.
+
+Colmi
+
+0.0.0.0 colmi.com
+
+0.0.0.0 colmi.info
+
+FitCloudPro (Shenzhen Topstep)
+
+0.0.0.0 fitcloud.hetangsmart.com
+
+0.0.0.0 fitcloudpro.app
+
+0.0.0.0 fitcloudpro.org
+
+0.0.0.0 fitcloudpro.com
+
+0.0.0.0 api.fitcloudpro.com
+
+0.0.0.0 cdn.fitcloudpro.com
+
+0.0.0.0 hetangsmart.com
+
+0.0.0.0 www.hetangsmart.com
+
+0.0.0.0 life-content.idoocloud.com
+
+DaFit / MoYoung (Colmi Fit)
+
+0.0.0.0 moyoung.com
+
+0.0.0.0 www.moyoung.com
+
+0.0.0.0 api.moyoung.com
+
+0.0.0.0 crrepa.com
+
+0.0.0.0 api2.crrepa.com
+
+0.0.0.0 api.crrepa.com
+
+0.0.0.0 ctdd03api.com
+
+Tencent Bugly SDK 
+
+0.0.0.0 bugly.qq.com
+
+0.0.0.0 ios.bugly.qq.com
+
+0.0.0.0 android.bugly.qq.com
+
+0.0.0.0 o.bugly.qq.com
+
+0.0.0.0 otheve.beacon.qq.com
+
+0.0.0.0 beacon.qq.com
+
+🔴 TIER 33: LEMFO
+
+⚠️ FitCloudPro 
+
+Core
+
+0.0.0.0 lemfo.net
+
+0.0.0.0 lemfo.com
+
+🔴 TIER 34: ZEBLAZE
+
+⚠️ FitCloudPro
+
+Core
+
+0.0.0.0 zeblaze.com
+
+0.0.0.0 zeblaze.info
+
+0.0.0.0 support.zeblaze.com
+
+0.0.0.0 cdn.zeblaze.com
+
+0.0.0.0 app.zeblaze.com
+
+🔴 TIER 35: KOSPET
+
+⚠️ FitCloudPro 
+
+Core
+
+0.0.0.0 kospet.com
+
+0.0.0.0 us.kospet.com
+
+🔴 TIER 36: LENOVO WATCH (GÜVENLİK UYARISI)
+
+⚠️ Vulnerabilities fixed Ocak 2019 (firmware update). No-encryption HTTP,
+plain-text credentials.
+
+Core
+
+0.0.0.0 prod.api.app.d-map.cn
+
+🔴 TIER 37: ALFAWISE (DISCONTINUED)
+
+Core
+
+0.0.0.0 alfawiseshop.com
+
+🔴 TIER 38: FINOW
+
+Core
+
+0.0.0.0 finowatch.com
+
+🔴 TIER 39: LIGE
+
+⚠️ FitCloudPro and Da Fit 
+
+Core
+
+0.0.0.0 d7669195.app-ads-txt.com
+
+🔴 TIER 40: VALDUS (OEM/ODM)
+
+Core
+
+0.0.0.0 valdus.com
+
+0.0.0.0 shop.valdus.com
+
+0.0.0.0 valdus.en.alibaba.com
+
+🔴 TIER 41: IMOO (Kids Smartwatch - BBK Electronics)
+
+Core
+
+0.0.0.0 imoo.com
+
+0.0.0.0 imoo.me
+
+0.0.0.0 imoostore.com
+
+0.0.0.0 imoostore.in
+
+0.0.0.0 uk.imoostore.com
+
+API & Services
+
+0.0.0.0 api.imoo.com
+
+0.0.0.0 api.imoo.me
+
+0.0.0.0 account.imoo.com
+
+0.0.0.0 cloud.imoo.com
+
+0.0.0.0 push.imoo.com
+
+0.0.0.0 location.imoo.com
+
+0.0.0.0 gps.imoo.com
+
+0.0.0.0 firmware.imoo.com
+
+0.0.0.0 cdn.imoo.com
+
+0.0.0.0 static.imoo.com
+
+0.0.0.0 map.imoo.com
+
+Xiaotiancai China Backend 
+
+0.0.0.0 xiaotiancai.com
+
+0.0.0.0 api.xiaotiancai.com
+
+0.0.0.0 xtc.cn
+
+0.0.0.0 api.xtc.cn
+
+🔴 TIER 42: CITIZEN CZ SMART
+
+⚠️ WearOS 
+
+Core
+
+0.0.0.0 citizenwatch.com
+
+0.0.0.0 dev.citizenwatch.com
+
+🔴 TIER 43: TAG HEUER CONNECTED
+
+⚠️ WearOS 
+
+Core
+
+0.0.0.0 tagheuer.com
+
+🔴 TIER 44: MONTBLANC SUMMIT
+
+⚠️ WearOS 
+
+Core
+
+0.0.0.0 montblanc.com
+
+🔴 TIER 45: MICHAEL KORS ACCESS (Fossil Group)
+
+⚠️ Fossil Group backend 
+
+Core
+
+0.0.0.0 michaelkors.com
+
+0.0.0.0 services.fossilgroup.com
+
+🔴 TIER 46: HEALTH CONNECT (Google/Android)
+
+⚠️ On-device API (no web domains). Package:
+com.google.android.apps.healthdata
+
+Core
+
+0.0.0.0 healthconnect.googleapis.com
+
+0.0.0.0 wear-health-services.googleapis.com
+
+0.0.0.0 android.googleapis.com
+
+0.0.0.0 play-services-wearable.googleapis.com
+
+0.0.0.0 health.google
+
+🔴 TIER 47: ATHLYTIC
+
+⚠️ Apple HealthKit only (on-device, no web API)
+
+Core
+
+0.0.0.0 athlytic.ai
+
+0.0.0.0 athlyticapp.com
+
+0.0.0.0 app.athlytic.io
+
+0.0.0.0 athlytic.io
+
+🔴 TIER 48: ELITE HRV
+
+⚠️ Elite HRV → Spren olarak rebranding (2023)
+
+Elite HRV
+
+0.0.0.0 elitehrv.com
+
+0.0.0.0 api.elitehrv.com
+
+0.0.0.0 help.elitehrv.com
+
+0.0.0.0 app.elitehrv.com
+
+0.0.0.0 auth.elitehrv.com
+
+0.0.0.0 cdn.elitehrv.com
+
+Spren (Rebranding 2023)
+
+0.0.0.0 spren.com
+
+0.0.0.0 api.spren.com
+
+0.0.0.0 app.spren.com
+
+🔴 TIER 49: MORPHEUS
+
+⚠️ Garmin Connect integration (beta)
+
+Core
+
+0.0.0.0 trainwithmorpheus.com
+
+0.0.0.0 morpheus.fit
+
+0.0.0.0 support.trainwithmorpheus.com
+
+0.0.0.0 app.trainwithmorpheus.com
+
+0.0.0.0 api.trainwithmorpheus.com
+
+0.0.0.0 cdn.trainwithmorpheus.com
+
+🔴 TIER 50: TRAINING TODAY
+
+⚠️ Apple HealthKit only (on-device, no web API)
+
+Core
+
+0.0.0.0 trainingtoday.com
+
+🔴 TIER 51: WEAR OS (Google)
+
+Core
+
+0.0.0.0 wearos.google.com
+
+0.0.0.0 android.googleapis.com
+
+0.0.0.0 telemetry.googleapis.com
+
+🔴 TIER 52: CASIO G-SHOCK / EDIFICE / PRO TREK
+
+⚠️ Casio ID account system. casio-intl.com → casio.com/intl
+
+Core
+
+0.0.0.0 cws.casio-intl.com
+
+0.0.0.0 web.casio.jp
+
+0.0.0.0 casio-intl.com
+
+0.0.0.0 world.g-shock.com
+
+G-SHOCK MOVE App
+
+0.0.0.0 gshock.casio.com
+
+0.0.0.0 gshockmove.casio.com
+
+Casio ID / Account
+
+0.0.0.0 id.casio-intl.com
+
+0.0.0.0 account.casio-intl.com
+
+0.0.0.0 api.casio-intl.com
+
+0.0.0.0 id.casio.com
+
+0.0.0.0 account.casio.com
+
+0.0.0.0 api.casio.com
+
+🔴 TIER 53: VERYFIT / VERYFITPRO (OEM White-Label - Shenzhen DO)
+
+⚠️ CRITICAL: Unpatched 2022 API vulnerability remains; transmits login credentials, passwords, IMEI, and GPS coordinates over unencrypted HTTP.
+
+Core
+
+0.0.0.0 veryfit.app
+
+0.0.0.0 api.veryfit.app
+
+0.0.0.0 app.veryfit.app
+
+0.0.0.0 idoocn.com
+
+0.0.0.0 idoocloud.com
+
+0.0.0.0 idoosmart.com
+
+0.0.0.0 www.idoosmart.com
+
+0.0.0.0 iwownfit.com
+
+0.0.0.0 www.iwownfit.com
+
+idoocloud Subdomainler
+
+0.0.0.0 h5.idoocloud.com
+
+0.0.0.0 api.idoocloud.com
+
+0.0.0.0 app.idoocloud.com
+
+0.0.0.0 firmware.idoocloud.com
+
+0.0.0.0 ota.idoocloud.com
+
+0.0.0.0 file.idoocloud.com
+
+0.0.0.0 static.idoocloud.com
+
+0.0.0.0 life-content.idoocloud.com
+
+AutoNavi/Gaode GPS (Privacy policy'de belirtilmiş)
+
+0.0.0.0 amap.com
+
+0.0.0.0 restapi.amap.com
+
+0.0.0.0 apicloud.amap.com
+
+0.0.0.0 vhws.amap.com
+
+Tencent Bugly SDK
+
+0.0.0.0 bugly.qq.com
+
+0.0.0.0 ios.bugly.qq.com
+
+iWOWN (OEM - Timex iConnect)
+
+0.0.0.0 iwownfit.com
+
+0.0.0.0 www.iwownfit.com
+
+🔴 TIER 54: CMF WATCH (by Nothing)
+
+⚠️ Server-based pairing: authentication key 
+
+Nothing Core
+
+0.0.0.0 nothing.tech
+
+0.0.0.0 us.nothing.tech
+
+0.0.0.0 uk.nothing.tech
+
+0.0.0.0 nothing.community
+
+0.0.0.0 support.nothing.tech
+
+Nothing X App & API
+
+0.0.0.0 x.nothing.tech
+
+0.0.0.0 api.nothing.tech
+
+0.0.0.0 cdn.nothing.tech
+
+0.0.0.0 cloud.nothing.tech
+
+0.0.0.0 firmware.nothing.tech
+
+0.0.0.0 push.nothing.tech
+
+0.0.0.0 analytics.nothing.tech
+
+0.0.0.0 telemetry.nothing.tech
+
+0.0.0.0 ota.nothing.tech
+
+0.0.0.0 dial.nothing.tech
+
+CMF (standalone)
+
+0.0.0.0 cmf.tech
+
+0.0.0.0 intl.cmf.tech
+
+0.0.0.0 api.cmf.tech
+
+0.0.0.0 app.cmf.tech
+
+0.0.0.0 firmware.cmf.tech
+
+0.0.0.0 cdn.cmf.tech
+
+🔴 TIER 55: VIVO WATCH (BBK Electronics)
+
+Vivo Core
+
+0.0.0.0 vivo.com
+
+0.0.0.0 passport.vivo.com
+
+0.0.0.0 my-passport.vivo.com
+
+0.0.0.0 account.vivo.com
+
+0.0.0.0 cloud.vivo.com
+
+0.0.0.0 api.vivo.com
+
+0.0.0.0 userappeal.vivo.com.cn
+
+Vivo Ads
+
+0.0.0.0 ads-api.vivo.com
+
+0.0.0.0 adxlog-adnet.vivo.com.cn
+
+0.0.0.0 dsplog-adnet.vivo.com.cn
+
+0.0.0.0 tracking-adnet.vivo.com.cn
+
+vivoglobal.com SDK Core
+
+0.0.0.0 vivoglobal.com
+
+0.0.0.0 stsdk.vivoglobal.com
+
+0.0.0.0 onrt.stsdk.vivoglobal.com
+
+0.0.0.0 ort.stsdk.vivoglobal.com
+
+0.0.0.0 pnrt.stsdk.vivoglobal.com
+
+0.0.0.0 prt.stsdk.vivoglobal.com
+
+0.0.0.0 err-up.vivoglobal.com
+
+0.0.0.0 err.up.vivoglobal.com
+
+0.0.0.0 monitor-stsdk.vivoglobal.com
+
+0.0.0.0 onrt-stsdk.vivoglobal.com
+
+0.0.0.0 ort-stsdk.vivoglobal.com
+
+0.0.0.0 pnrt-stsdk.vivoglobal.com
+
+0.0.0.0 prt-stsdk.vivoglobal.com
+
+vivoglobal Asia Region
+
+0.0.0.0 asia-stsdk.vivoglobal.com
+
+0.0.0.0 asia-onrt-stsdk.vivoglobal.com
+
+0.0.0.0 asia-ort-stsdk.vivoglobal.com
+
+0.0.0.0 asia-pnrt-stsdk.vivoglobal.com
+
+0.0.0.0 asia-prt-stsdk.vivoglobal.com
+
+0.0.0.0 asia-monitor-stsdk.vivoglobal.com
+
+0.0.0.0 asia-adlog.vivoglobal.com
+
+0.0.0.0 asia-err-up.vivoglobal.com
+
+0.0.0.0 asia-cota.vivoglobal.com
+
+0.0.0.0 asia-exstsdk.vivoglobal.com
+
+vivoglobal India Region
+
+0.0.0.0 in-stsdk.vivoglobal.com
+
+0.0.0.0 in-onrt-stsdk.vivoglobal.com
+
+0.0.0.0 in-ort-stsdk.vivoglobal.com
+
+0.0.0.0 in-pnrt-stsdk.vivoglobal.com
+
+0.0.0.0 in-prt-stsdk.vivoglobal.com
+
+0.0.0.0 in-monitor-stsdk.vivoglobal.com
+
+0.0.0.0 in-adlog.vivoglobal.com
+
+0.0.0.0 in-errup.vivoglobal.com
+
+0.0.0.0 in-adreq.vivoglobal.com
+
+0.0.0.0 in-cota.vivoglobal.com
+
+vivoglobal EU Region
+
+0.0.0.0 eu-stsdk.vivoglobal.com
+
+0.0.0.0 eu-onrt-stsdk.vivoglobal.com
+
+0.0.0.0 eu-ort-stsdk.vivoglobal.com
+
+0.0.0.0 eu-pnrt-stsdk.vivoglobal.com
+
+0.0.0.0 eu-errup.vivoglobal.com
+
+0.0.0.0 eu-cota.vivoglobal.com
+
+vivoglobal Russia Region
+
+0.0.0.0 ru-stsdk.vivoglobal.com
+
+0.0.0.0 ru-onrt-stsdk.vivoglobal.com
+
+0.0.0.0 ru-pnrt-stsdk.vivoglobal.com
+
+0.0.0.0 ru-err-up.vivoglobal.com
+
+0.0.0.0 ru-exstsdk.vivoglobal.com
+
+0.0.0.0 ru-monitor-stsdk.vivoglobal.com
+
+vivoglobal Turkey/Mexico/Other
+
+0.0.0.0 tr-stsdk.vivoglobal.com
+
+0.0.0.0 tr-onrt-stsdk.vivoglobal.com
+
+0.0.0.0 tr-err-up.vivoglobal.com
+
+0.0.0.0 mx-stsdk.vivoglobal.com
+
+0.0.0.0 mx-onrt-stsdk.vivoglobal.com
+
+0.0.0.0 mx-err-up.vivoglobal.com
+
+0.0.0.0 kz-stsdk.vivoglobal.com
+
+0.0.0.0 co-stsdk.vivoglobal.com
+
+0.0.0.0 sca-stsdk.vivoglobal.com
+
+0.0.0.0 zasc-stsdk.vivoglobal.com
+
+DDXq + wwstat (3rd party)
+
+0.0.0.0 ddxq.mobi
+
+0.0.0.0 trackercollect.ddxq.mobi
+
+0.0.0.0 trackerfeed.ddxq.mobi
+
+0.0.0.0 wwstat.com
+
+0.0.0.0 vhs.wwstat.com
+
+🔴 TIER 56: MOTOROLA MOTO WATCH
+
+⚠️ Polar partnership (2026 model)
+
+Core
+
+0.0.0.0 motorola.com
+
+0.0.0.0 support.motowatch.com
+
+🔴 TIER 57: GOOGLE PIXEL WATCH
+
+⚠️ Fitbit + Wear OS
+
+→ TIER 1 + TIER 51
+
+0.0.0.0 fitbit.com
+
+0.0.0.0 wearos.google.com
+
+🔴 TIER 58: PEBBLE (2025-2026 RELAUNCH)
+
+⚠️ Open-source PebbleOS
+
+Rebble Web Services
+
+0.0.0.0 rebble.io
+
+0.0.0.0 boot.rebble.io
+
+0.0.0.0 auth.rebble.io
+
+0.0.0.0 apps.rebble.io
+
+0.0.0.0 api.rebble.io
+
+0.0.0.0 timeline.rebble.io
+
+0.0.0.0 weather.rebble.io
+
+0.0.0.0 dictation.rebble.io
+
+0.0.0.0 cohorts.rebble.io
+
+0.0.0.0 help.rebble.io
+
+0.0.0.0 dev-portal.rebble.io
+
+0.0.0.0 developer.rebble.io
+
+repebble.com (Core Devices / Eric Migicovsky)
+
+0.0.0.0 repebble.com
+
+0.0.0.0 apps.repebble.com
+
+0.0.0.0 cloud.repebble.com
+
+0.0.0.0 api.repebble.com
+
+0.0.0.0 auth.repebble.com
+
+0.0.0.0 firmware.repebble.com
+
+0.0.0.0 store.repebble.com
+
+0.0.0.0 cdn.repebble.com
+
+0.0.0.0 timeline.repebble.com
+
+Eski Pebble
+
+0.0.0.0 getpebble.com
+
+0.0.0.0 boot.getpebble.com
+
+0.0.0.0 auth.getpebble.com
+
+0.0.0.0 apps.getpebble.com
+
+0.0.0.0 timeline-sync.getpebble.com
+
+0.0.0.0 pb-collector.getpebble.com
+
+0.0.0.0 cloudpebble.net
+
+🔴 TIER 59: ASUS VIVOWATCH
+
+⚠️ ASUS account ile cloud sync (Medical-grade tracking)
+
+Core
+
+0.0.0.0 asus.com
+
+0.0.0.0 account.asus.com
+
+0.0.0.0 cloud.asus.com
+
+0.0.0.0 zentalk.asus.com
+
+0.0.0.0 support.asus.com
+
+🔴 TIER 60: BOULT (India #3 - IDC Q3 2024)
+
+⚠️ KRİTİK: Package com.topstep.dbt — FitCloudPro (Shenzhen Topstep) ile
+AYNI.
+
+Core
+
+0.0.0.0 boultaudio.com
+
+→ FitCloudPro (TIER 32)
+
+0.0.0.0 hetangsmart.com
+
+0.0.0.0 fitcloudpro.app
+
+0.0.0.0 bugly.qq.com
+
+🔴 TIER 61: TITAN (India - Tata Group)
+
+⚠️ Edge computing (data on-device), Alexa integration, Hug Innovations
+(Hyderabad)
+
+Core
+
+0.0.0.0 titan.co.in
+
+0.0.0.0 titancompany.in
+
+0.0.0.0 titanworld.com
+
+🔴 TIER 62: PI RING (India #2 Smart Ring)
+
+⚠️ Shopify processor, cloud storage unspecified, "Made in India"
+(assembly)
+
+Core
+
+0.0.0.0 piring.co.in
+
+🔴 TIER 63: CIRCULAR RING (France - Paris)
+
+⚠️ AWS Paris, GDPR compliant, CASA Tier 2 certified, FDA-cleared ECG
+(Ring 2)
+
+Core
+
+0.0.0.0 circular.xyz
+
+0.0.0.0 www.circular.xyz
+
+API & Services
+
+0.0.0.0 api.circular.xyz
+
+0.0.0.0 app.circular.xyz
+
+0.0.0.0 cloud.circular.xyz
+
+0.0.0.0 firmware.circular.xyz
+
+0.0.0.0 cdn.circular.xyz
+
+0.0.0.0 auth.circular.xyz
+
+0.0.0.0 partner.circular.xyz
+
+🔴 TIER 64: ACER FREESENSE RING (Taiwan)
+
+⚠️ No subscription, $199-$250
+
+Core
+
+0.0.0.0 acer.com
+
+0.0.0.0 acergadget.com
+
+🔴 TIER 65: VIV RING (South Korea)
+
+⚠️ Biometric + sound therapy, Gangnam Severance Hospital clinical trials
+
+Core
+
+0.0.0.0 vivring.ai
+
+0.0.0.0 www.vivring.ai
+
+🔴 TIER 66: MOVANO EVIE RING (USA - Women's Health)
+
+⚠️ FDA 510(k) cleared (EvieMED Ring - Aralık 2024). 
+
+Core
+
+0.0.0.0 movanohealth.com
+
+0.0.0.0 eviering.com
+
+0.0.0.0 www.eviering.com
+
+API & Services
+
+0.0.0.0 api.movanohealth.com
+
+0.0.0.0 app.movanohealth.com
+
+0.0.0.0 cloud.movanohealth.com
+
+0.0.0.0 api.eviering.com
+
+0.0.0.0 cdn.eviering.com
+
+EvieAI (Ocak 2025)
+
+0.0.0.0 evieai.com
+
+🔴 TIER 67: PREVENTION CIRCUL+ (USA - BodiMetrics)
+
+⚠️ FDA 510(k) cleared, medical-grade, blood pressure (PPG
+cuff-calibrated)
+
+Core
+
+0.0.0.0 circul.health
+
+0.0.0.0 bodimetrics.com
+
+0.0.0.0 circulsense.com
+
+API & Services
+
+0.0.0.0 app.circul.health
+
+0.0.0.0 cloud.circul.health
+
+0.0.0.0 api.bodimetrics.com
+
+EnsoData Partnership (2024)
+
+0.0.0.0 ensodata.io
+
+0.0.0.0 api.ensodata.io
+
+🔴 TIER 68: TIMEX iCONNECT (USA Brand - CHINA OEM)
+
+⚠️ : Package com.iwown — Shenzhen IWOWN Technology Co., Ltd. (ÇİN
+OEM). Timex ABD brand!
+
+Timex
+
+0.0.0.0 timex.com
+
+iWOWN OEM (Shenzhen)
+
+0.0.0.0 iwownfit.com
+
+0.0.0.0 www.iwownfit.com
+
+🔴 TIER 69: SIMBA SMARTWATCH (China OEM/ODM)
+
+Core
+
+0.0.0.0 cnsimba.com
+
+0.0.0.0 www.cnsimba.com
+
+0.0.0.0 simba-hz.com
