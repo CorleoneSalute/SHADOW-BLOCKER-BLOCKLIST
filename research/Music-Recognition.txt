@@ -1,0 +1,524 @@
+🎵 MUSIC RECOGNITION RESEARCH LIST
+
+🎵 SHAZAM (Apple Inc.)
+
+Core Services
+
+shazam.com
+
+www.shazam.com
+
+amp.shazam.com
+
+Mobile API
+
+api.shazam.com
+
+api-partner.shazam.com
+
+Recognition Engine
+
+recognize.shazam.com
+
+fp.shazam.com
+
+fingerprint.shazam.com
+
+Developer / Partner
+
+connect.shazam.com
+
+artists.shazam.com
+
+developer.shazam.com
+
+Auth
+
+auth.shazam.com
+
+accounts.shazam.com
+
+Push / WebSocket
+
+push.shazam.com
+
+ws.shazam.com
+
+notifications.shazam.com
+
+CDN
+
+cdn.shazam.com
+
+cdn-content.shazam.com
+
+static.shazam.com
+
+Analytics / Telemetry
+
+analytics.shazam.com
+
+metrics.shazam.com
+
+events.shazam.com
+
+telemetry.shazam.com
+
+beacon.shazam.com
+
+beacon.shzcld.com
+
+crash.shazam.com
+
+log.shazam.com
+
+Media
+
+images.shazam.com
+
+media.shazam.com
+
+Store / Commerce
+
+store.shazam.com
+
+Corporate
+
+investor.shazam.com
+
+corporate.shazam.com
+
+Apple Integration (Parent Company)
+
+*.apple.com
+
+apple-analytics.com
+
+metrics.apple.com
+
+xp.apple.com
+
+iadsdk.apple.com
+
+init.itunes.apple.com
+
+metrics.icloud.com
+
+shazam-insights.cdn-apple.com
+
+*.cdn-apple.com
+
+Legacy Domains
+
+shz.am
+
+*.shz.am
+
+🎵 SOUNDHOUND (SoundHound AI, Inc.)
+
+Core Services
+
+soundhound.com
+
+www.soundhound.com
+
+app.soundhound.com
+
+API
+
+api.soundhound.com
+
+api-v2.soundhound.com
+
+Recognition
+
+recognition.soundhound.com
+
+query.soundhound.com
+
+CDN
+
+cdn.soundhound.com
+
+assets.soundhound.com
+
+static.soundhound.com
+
+Analytics
+
+analytics.soundhound.com
+
+telemetry.soundhound.com
+
+metrics.soundhound.com
+
+events.soundhound.com
+
+Push / Crash / Logs
+
+push.soundhound.com
+
+crash.soundhound.com
+
+log.soundhound.com
+
+Developer / Status
+
+developer.soundhound.com
+
+status.soundhound.com
+
+ir.soundhound.com
+
+Media
+
+media.soundhound.com
+
+images.soundhound.com
+
+Automotive
+
+auto.soundhound.com
+
+automotive.soundhound.com
+
+music.soundhound.com
+
+SoundHound AI
+
+soundhoundai.com
+
+www.soundhoundai.com
+
+Legacy — Midomi (CLOSED 2025)
+
+midomi.com
+
+www.midomi.com
+
+search.midomi.com
+
+secureapi.midomi.com
+
+data.midomi.com
+
+clientlog.midomi.com
+
+static.midomi.com
+
+🎵 AUDD MUSIC RECOGNITION
+
+Core Services
+
+audd.io
+
+www.audd.io
+
+enterprise.audd.io
+
+API
+
+api.audd.io
+
+dashboard.audd.io
+
+docs.audd.io
+
+API Endpoints
+
+api.audd.io/longpoll/
+
+api.audd.io/addStream/
+
+api.audd.io/getStreams/
+
+api.audd.io/setCallbackUrl/
+
+api.audd.io/getCallbackUrl/
+
+WebSocket
+
+wss://api.audd.io/ws/
+
+Analytics / Stream / Radio
+
+analytics.audd.io
+
+streams.audd.io
+
+changelog.audd.io
+
+radio.audd.io
+
+Widget / Helper
+
+audd.tech
+
+widget.audd.tech
+
+audd.tech/empty/
+
+Alternative / Related
+
+auddios.com
+
+lis.tn
+
+🎵 AUDIOTAG
+
+Core
+
+audiotag.info
+
+www.audiotag.info
+
+user.audiotag.info
+
+front.audiotag.info
+
+api.audiotag.info
+
+Features
+
+audiotag.info/apisection
+
+audiotag.info/faq
+
+audiotag.info/about
+
+audiotag.info/news
+
+audiotag.info/music_search
+
+audiotag.info/recent_additions
+
+front.audiotag.info/radiotag
+
+API Documentation
+
+user.audiotag.info/doc/AudioTag-API_v1.0.pdf
+
+Related Company (Audio Watermarking)
+
+audiowatermarking.com
+
+www.audiowatermarking.com
+
+audiowatermarking.info
+
+www.audiowatermarking.info
+
+🎵 AHA MUSIC (Browser Extension)
+
+Core
+
+aha-music.com
+
+www.aha-music.com
+
+API / Backend
+
+api.aha-music.com
+
+backend.aha-music.com
+
+Privacy
+
+aha-music.com/privacy-policy
+
+aha-music.com/privacy-policy.html
+
+Social Media
+
+twitter.com/MusicIdentifier
+
+Chrome Web Store
+
+chrome.google.com/webstore/detail/dpacanjfikmhoddligfbehkpomnbgblf
+
+chromewebstore.google.com/detail/dpacanjfikmhoddligfbehkpomnbgblf
+
+Edge Add-ons
+
+microsoftedge.microsoft.com/addons/detail/ejfccgmelcclnoadalcepdmnpgcnglfc
+
+Analytics (Third-party)
+
+google-analytics.com
+
+tools.google.com/dlpage/gaoptout
+
+🎵 WATZATSONG
+
+Core
+
+watzatsong.com
+
+www.watzatsong.com
+
+forum.watzatsong.com
+
+🎵 SOLY — SONG AND LYRICS FINDER
+
+Core
+
+solyexploremusic.com
+
+🎵 TYNLAU (macOS)
+
+Core
+
+leonspok.com/tynlau/
+
+leonspok.com
+
+🎵 TRACKID (SONY MOBILE) — CLOSED
+
+Core (Historical)
+
+trackid.sonymobile.com
+
+🎵 MRA (MUSIC RECOGNITION APPLICATION)
+
+Core
+
+mra.jadquir.com
+
+jadquir.com
+
+jadquir.xyz
+
+GitHub
+
+github.com/Jadquir/MRA-Website
+
+github.com/Jadquir/mra-files
+
+CDN
+
+cdn.buymeacoffee.com
+
+cdnjs.buymeacoffee.com
+
+🎵 AUDIGGLE
+
+Core
+
+audiggle.com
+
+www.audiggle.com
+
+Legacy / Archive
+
+websites.milonic.com/audiggle.com
+
+🎵 BEATFIND (MUSIC RECOGNIZER)
+
+Core
+
+(Android app — web domain yok)
+
+Google Play
+
+play.google.com/store/apps/details?id=com.beat.light
+
+🎵 SONG FINDER — SONG IDENTIFIER
+
+Privacy Policy
+
+moobytech.github.io/Song-finder/Privacy-Policy.html
+
+GitHub
+
+github.com/moobytech/Song-finder
+
+Google Play
+
+play.google.com/store/apps/details?id=com.songfinder.recognizer
+
+🎵 MUSIC RECOGNITION — FIND SONGS
+
+Core
+
+songrecognition.app
+
+songrecognition.app/PrivacyAgreement.html
+
+Google Play
+
+play.google.com/store/apps/details?id=com.light.music.recognition
+
+🎵 SONG FINDER & IDENTIFIER (Browser Extension)
+
+Core
+
+song-finder-extension.vercel.app
+
+Chrome Web Store
+
+chromewebstore.google.com/detail/ddpodfdgekangnmkkanmeeaaddnagfob
+
+🎵 FLAIRMAX (Windows UWP)
+
+Core
+
+(Microsoft Store uygulaması — web domain yok)
+
+Microsoft Store
+
+microsoft.com/store
+
+apps.microsoft.com
+
+🎵 AUDILE (Android Open-Source)
+
+GitHub
+
+github.com/aleksey-saenko/MusicRecognizer
+
+F-Droid
+
+f-droid.org (com.mrsep.musicrecognizer)
+
+🎵 MOUSAI (Linux)
+
+GitHub
+
+github.com/SeaDve/Mousai
+
+Flathub
+
+flathub.org (io.github.seadve.Mousai)
+
+🎵 SONGREC (Linux)
+
+GitHub
+
+github.com/marin-m/SongRec
+
+
+🎵 SHAZAM FOR REAL (Open-Source Console Client)
+
+GitHub
+
+github.com (Cross-platform .NET Shazam console client)
+
+🎵 AUDIRE (Open-Source)
+
+GitHub
+
+github.com/alexmercerind/audire
+
+Flutter / Dart Bağımlılıkları
+
+pub.dev
+
+storage.googleapis.com
+
+🌐 OPEN SOURCE TOOLS — SHARED DEPENDENCIES
+
+AcoustID — Fingerprint Service
+
+acoustid.org
+
+api.acoustid.org
