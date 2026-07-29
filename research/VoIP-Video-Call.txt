@@ -1,0 +1,1151 @@
+VoIP & VIDEO CALL SERVICES RESEARCH LIST
+
+🔴 GOOGLE MEET / DUO / VOICE
+
+Core Services
+
+-   meet.google.com
+
+-   duo.google.com
+
+-   meetings.google.com
+
+-   apps.google.com
+
+-   hangouts.google.com
+
+-   talkgadget.google.com
+
+-   .googlevideo.com
+
+-   voice.google.com
+
+-   www.google.com/voice
+
+-   clients6.google.com
+
+Infrastructure
+
+-   relay.google.com
+
+-   meetings-telemetry.goog
+
+-   .telephony.goog
+
+-   rtpproxy.google.com
+
+-   workspace.turns.goog
+
+-   meet.turns.goog
+
+-   stream.meet.google.com
+
+-   hangouts.googleapis.com
+
+-   docs.google.com
+
+-   meetings.googleapis.com
+
+-   hangouts.clients6.google.com
+
+-   fcmconnection.googleapis.com
+
+-   .clients[0-9].google.com
+
+-   meet-autopush.sandbox.google.com
+
+Network
+
+-   UDP Ports: 19302-19309
+
+-   clients2.google.com 
+
+-   clients4.google.com 
+
+-   www.gstatic.com
+
+-   fonts.gstatic.com 
+
+-   lh3.googleusercontent.com 
+
+-   meetings.clients6.google.com 
+
+-   accounts.google.com 
+
+-   apis.google.com 
+
+-   feedback.googleusercontent.com 
+
+-   .gstatic.com 
+
+-   .googleapis.com 
+
+-   .googleusercontent.com 
+
+-   .1e100.net 
+
+🔴 ZOOM
+
+Core Services
+
+-   zoom.us
+
+-   api.zoom.us
+
+-   .zoom.us
+
+-   www.zoom.us
+
+-   zoom.com
+
+-   zoomgov.com
+
+-   zmwebinar.com
+
+-   zoomdev.us
+
+-   zmcommunity.com
+
+Regional Web Servers
+
+-   us01web.zoom.us
+
+-   us02web.zoom.us
+
+-   us03web.zoom.us
+
+-   us04web.zoom.us
+
+-   us05web.zoom.us
+
+-   eu01web.zoom.us
+
+-   eu02web.zoom.us
+
+-   ap01web.zoom.us
+
+-   ap02web.zoom.us
+
+-   ca01web.zoom.us
+
+-   in01web.zoom.us
+
+-   au01web.zoom.us
+
+-   cn01web.zoom.us
+
+Cloud Infrastructure
+
+-   rwcva.cloud.zoom.us
+
+-   rwcff.cloud.zoom.us
+
+-   .cloud.zoom.us
+
+Additional Services
+
+-   .zoomcdn.com
+
+-   rwcff.zoom.us
+
+-   rwg.zoom.us
+
+-   logfiles.zoom.us
+
+-   .zoom.us:3478
+
+-   .zoom.us:3479
+
+Analytics
+
+-   analytics.zoom.us
+
+-   telemetry.zoom.us
+
+-   zpns.zoom.us
+
+-   us01zpns.zoom.us
+
+-   us02zpns.zoom.us
+
+-   app.zoom.us/metrics
+
+-   marketplace.zoom.us 
+
+-   community.zoom.us 
+
+-   support.zoom.us 
+
+-   download.zoom.us 
+
+-   assets.zoom.us
+
+-   roomsconfig.zoom.us 
+
+-   .cloudfront.net 
+
+Note: TCP/UDP 5090-5091 (Zoom Phone), UDP 20000-64000 (Media)
+
+🔴 FACETIME / iMESSAGE
+
+Core Services
+
+-   .ess.apple.com
+
+-   init.push.apple.com
+
+-   init-p01st.push.apple.com
+
+-   init-p01md.apple.com
+
+-   albert.apple.com
+
+-   bag.itunes.apple.com
+
+-   gs-loc.apple.com
+
+-   identity.ess.apple.com
+
+-   profile.ess.apple.com
+
+-   service.ess.apple.com
+
+-   init.ess.apple.com
+
+-   init.ess.g.aaplimg.com
+
+-   deviceenrollment.apple.com
+
+-   humb.apple.com
+
+-   pancake.apple.com
+
+-   iprofiles.apple.com
+
+-   idiagnostics.apple.com
+
+Push Notification Services
+
+-   [0-255]-courier.push.apple.com
+
+-   [1-50]-courier.push.apple.com
+
+-   .courier.push.apple.com
+
+-   courier.sandbox.push.apple.com
+
+Additional Services
+
+-   profile.ess.apple.com
+
+-   query.ess.apple.com
+
+-   registration.ess.apple.com
+
+-   gateway.icloud.com
+
+-   gsa.apple.com
+
+-   service.ess.apple.com
+
+-   service2.ess.apple.com
+
+-   configuration.apple.com
+
+-   configuration.ls.apple.com
+
+-   .ls.apple.com
+
+-   captive.apple.com
+
+-   .push.apple.com 
+
+-   identity.apple.com 
+
+-   gs.apple.com 
+
+-   static.ips.apple.com 
+
+-   tbsc.apple.com 
+
+-   sq-device.apple.com 
+
+-   time.apple.com 
+
+-   time-ios.apple.com 
+
+-   time-macos.apple.com 
+
+-   gsa.apple.com 
+
+-   id.apple.com 
+
+-   idmsa.apple.com 
+
+-   appleid.cdn-apple.com 
+
+-   .icloud.com 
+
+-   icloud.com 
+
+-   setup.icloud.com 
+
+-   .apple.com 
+
+-   .cdn-apple.com 
+
+-   .mzstatic.com 
+
+-   updates.cdn-apple.com 
+
+-   updates-http.cdn-apple.com 
+
+🔴 IMO
+
+Core Services
+
+-   imo.im
+
+-   api.imo.im
+
+-   cdn.imo.im
+
+-   voip.imo.im
+
+-   media.imo.im
+
+🔴 WEBEX (Cisco)
+
+Core Services
+
+-   webex.com
+
+-   .webex.com
+
+-   api.ciscospark.com
+
+-   wbx2.com
+
+-   .wbx2.com
+
+-   webexcontent.com
+
+-   ciscospark.com
+
+-   .ciscospark.com
+
+-   as13445.net
+
+-   webexapis.com
+
+-   .webexapis.com
+
+Infrastructure
+
+-   identity.webex.com
+
+-   identity-eu.webex.com
+
+-   idbroker.webex.com
+
+-   idbroker-secondary.webex.com
+
+-   idbroker-b-us.webex.com
+
+-   idbroker-eu.webex.com
+
+-   atlas-a.wbx2.com
+
+-   xapi-a.wbx2.com
+
+-   xapi-k.wbx2.com
+
+-   xapi-r.wbx2.com
+
+-   xapi.gov.ciscospark.com
+
+-   u2c-k.wbx2.com
+
+Regional Services
+
+-   files-api-a.wbx2.com
+
+-   files-api-r.wbx2.com
+
+-   files-api-k.wbx2.com
+
+-   metrics-a.wbx2.com
+
+-   metrics-r.wbx2.com
+
+-   metrics-k.wbx2.com
+
+-   conv-a.wbx2.com
+
+-   conv-r.wbx2.com
+
+-   conv-k.wbx2.com
+
+-   locus-a.wbx2.com
+
+-   locus-r.wbx2.com
+
+-   locus-k.wbx2.com
+
+-   u2c-a.wbx2.com
+
+-   u2c-r.wbx2.com
+
+-   license-a.wbx2.com
+
+Additional Services
+
+-   insight-orchestrator.wxcc-us1.cisco.com
+
+-   insight-orchestrator.prod-us1.rtmsprod.net
+
+-   wsconnector.wxcc-us1.cisco.com
+
+-   wsconnector.prod-us1.rtmsprod.net
+
+-   .ciscoservice.com
+
+-   .ciscoccservice.com
+
+-   .split.io
+
+-   .rtmsprod.net
+
+-   .rackcdn.com
+
+-   people-webex.accompany.com
+
+-   storage101.dfw1.clouddrive.com
+
+-   activation.webex.com 
+
+-   admin.webex.com 
+
+-   analytics.webex.com 
+
+-   broadworks.webex.com 
+
+-   calling.webex.com 
+
+-   .broadcloudpbx.net 
+
+-   .broadsoft.com 
+
+-   .sipflash.com 
+
+-   .a.akamaiedge.net 
+
+-   .akamaized.net 
+
+-   .akamaihd.net 
+
+-   .statuspage.io 
+
+-   .omtrdc.net 
+
+-   .demdex.net 
+
+🔴 GOTOMEETING (LogMeIn / GoTo)
+
+Core Services
+
+-   gotomeeting.com
+
+-   .gotomeeting.com
+
+-   global.gotomeeting.com
+
+-   authentication.logmeininc.com
+
+-   api.getgo.com
+
+-   secure.logmein.com
+
+-   secure.logmeinrescue.com
+
+-   join.me
+
+Additional Services
+
+-   goto.com
+
+-   goto-developer.logmeininc.com
+
+-   cdngetgo.com
+
+-   getgocdn.com
+
+-   getgoservices.com
+
+-   getgoservices.net
+
+-   goto-rtc.com
+
+-   raas.io
+
+-   logme.in
+
+-   gotomeet.at
+
+-   gotomeet.me
+
+-   joingotomeeting.com
+
+-   openvoice.com
+
+-   personify.live
+
+-   nuvixa.com
+
+-   gofastchat.com
+
+-   gotowebinar.com
+
+-   gototraining.com
+
+-   expertcity.com
+
+-   filestackapi.com
+
+-   cloudfront.net
+
+-   ingest.sentry.io
+
+-   internap.net
+
+-   internapcdn.net
+
+-   launchdarkly.com
+
+-   logmein.eu
+
+-   logmein.com 
+
+-   .logmein.com 
+
+-   logmeininc.com 
+
+-   .logmeininc.com 
+
+-   .logmeinusercontent.com 
+
+-   .browse.logmeinusercontent.com 
+
+-   .logmeinrescue.com 
+
+-   .logmeinrescue.eu 
+
+-   .logmein-gateway.com 
+
+-   .accounts.logme.in 
+
+-   .lastpass.com 
+
+-   .lastpass.eu 
+
+-   .gtc.goto.com 
+
+-   goto-ipblocks.live.gtc.goto.com 
+
+🔴 RINGCENTRAL
+
+Core Services
+
+-   ringcentral.com
+
+-   .ringcentral.com
+
+-   platform.ringcentral.com
+
+-   media.ringcentral.com
+
+Infrastructure
+
+-   pp.ringcentral.com
+
+-   sip.ringcentral.com
+
+-   service.ringcentral.com
+
+-   login.ringcentral.com
+
+-   app.ringcentral.com
+
+-   analytics.ringcentral.com
+
+-   analytics.ringcentral.eu
+
+-   platform.devtest.ringcentral.com
+
+Virtual ACD
+
+-   vacd.biz
+
+-   virtualacd.biz
+
+-   aws80.vacd.biz
+
+-   aws82.virtualacd.biz
+
+-   www.ringcentral.com 
+
+-   status.ringcentral.com 
+
+-   support.ringcentral.com 
+
+-   discovery.ringcentral.biz 
+
+-   accounts.ringcentral.com 
+
+-   service.ringcentral.co.uk 
+
+-   service.ringcentral.eu 
+
+-   login.ringcentral.co.uk 
+
+-   login.ringcentral.eu 
+
+-   analytics.ringcentral.ca 
+
+-   analytics.ringcentral.co.uk 
+
+-   v.ringcentral.com 
+
+-   api-meet.ringcentral.com 
+
+-   api.ringcentral.com 
+
+-   api-mucc.ringcentral.com 
+
+-   edr.ringcentral.com 
+
+-   downloads.ringcentral.com 
+
+-   .glip.com 
+
+-   mvp.ringcentral.com 
+
+-   dl.mvp.ringcentral.com 
+
+-   ringcentral.pubnubapi.com 
+
+-   ringcentral-0.pubnubapi.com 
+
+-   ringcentral-1.pubnubapi.com 
+
+-   ringcentral-2.pubnubapi.com 
+
+-   ringcentral-3.pubnubapi.com 
+
+-   ringcentral-4.pubnubapi.com 
+
+-   ringcentral-5.pubnubapi.com 
+
+-   ringcentral-6.pubnubapi.com 
+
+-   ringcentral-7.pubnubapi.com 
+
+-   ringcentral-8.pubnubapi.com 
+
+-   ringcentral-9.pubnubapi.com 
+
+-   .launchdarkly.com 
+
+-   app.launchdarkly.com 
+
+-   events.launchdarkly.com 
+
+-   clientstream.launchdarkly.com 
+
+-   mobile.launchdarkly.com 
+
+-   mpsnare.iesnare.com 
+
+-   ringcentral.112.2o7.net 
+
+-   www.filestackapi.com 
+
+-   glip-vault-1.s3.amazonaws.com 
+
+-   glip-vault-1.s3-accelerate.amazonaws.com 
+
+-   rcv.testrtc.com 
+
+-   api.nettest.testrtc.com 
+
+-   api.giphy.com 
+
+-   media0.giphy.com 
+
+-   media1.giphy.com 
+
+-   media2.giphy.com 
+
+-   media3.giphy.com 
+
+-   media4.giphy.com 
+
+-   i.embed.ly 
+
+🔴 8X8
+
+Core Services
+
+-   8x8.com
+
+-   .8x8.com
+
+-   api.8x8.com
+
+-   analytics.8x8.com
+
+-   platform.8x8.com
+
+-   sip.8x8.com
+
+-   vcc.8x8.com
+
+-   api.teamsurfboard.com
+
+-   .jitsi.8x8.com
+
+-   .wavecell.8x8.com
+
+VCC Regional Infrastructure
+
+-   vcc-na1.8x8.com
+
+-   vcc-na2.8x8.com
+
+-   vcc-na3.8x8.com
+
+-   vcc-na4.8x8.com
+
+-   vcc-na5.8x8.com
+
+-   vcc-eu1.8x8.com
+
+-   vcc-eu2.8x8.com
+
+-   vcc-au1.8x8.com
+
+-   vcc-sb1.8x8.com
+
+Additional Services
+
+-   meet.8x8.com
+
+-   8x8.vc
+
+-   jaas.8x8.vc
+
+-   stage.8x8.vc
+
+-   work.8x8.com
+
+-   analytics-portal.8x8.com
+
+-   developer.8x8.com
+
+-   wavecell.com
+
+-   callstats.io
+
+-   auth.callstats.io
+
+-   collector.callstats.io
+
+-   api.amplitude.com
+
+-   .8x8.vc 
+
+-   jitsi.net 
+
+-   .jitsi.net 
+
+-   www.gravatar.com 
+
+-   .youtube.com 
+
+-   .dropboxapi.com 
+
+-   .dropboxstatic.com 
+
+-   .dropbox.com 
+
+-   .dropboxusercontent.com 
+
+-   dropboxcaptcha.com 
+
+-   .microsoftonline.com 
+
+-   .msauth.net 
+
+-   .live.com 
+
+-   www.google-analytics.com 
+
+-   .gstatic.com 
+
+-   .googleapis.com 
+
+-   .google.com 
+
+-   .googleusercontent.com 
+
+🔴 DIALPAD
+
+Core Services
+
+-   dialpad.com
+
+-   .dialpad.com
+
+-   api.dialpad.com
+
+-   analytics.dialpad.com
+
+-   dialpad.com/es
+
+-   dialpad.com/app
+
+-   dialpad.com/analytics
+
+-   dialpad.com/api/v2
+
+-   realtime.dialpad.com
+
+-   .dialpad.net 
+
+-   .ubervoip.net 
+
+-   .dialpadcdn.com 
+
+-   dialpadcdn.com 
+
+-   static.dialpadcdn.com 
+
+-   turn.ubervoip.net 
+
+-   turn.dialpad.net 
+
+-   uvwss.ubervoip.net 
+
+-   uvwss.dialpad.net 
+
+-   uvwss2.ubervoip.net 
+
+-   uvwss2.dialpad.net 
+
+-   ubervoice.ubervoip.net 
+
+-   ubervoice.dialpad.net 
+
+-   ubervoice2.ubervoip.net 
+
+-   ubervoice2.dialpad.net 
+
+-   realtime2.push.dialpad.com 
+
+-   realtime3.push.dialpad.com 
+
+-   .twil.io 
+
+-   failover.dialpad.com 
+
+-   prov.dialpad.com 
+
+-   storage.googleapis.com 
+
+-   .poly.com 
+
+-   downloads.polycom.com 
+
+-   .yealink.com 
+
+-   .ymcs.yealink.com 
+
+-   firmware.grandstream.com 
+
+-   .gdms.cloud 
+
+-   rcs.mitel.com 
+
+-   pool.ntp.org 
+
+-   time.google.com 
+
+-   time2.google.com 
+
+🔴 WHEREBY
+
+Core Services
+
+-   whereby.com
+
+-   .whereby.com
+
+-   signal.whereby.com
+
+-   srv.whereby.com
+
+-   api.whereby.com
+
+Infrastructure
+
+-   api.whereby.dev
+
+-   cdn.srv.whereby.com
+
+-   rtcstats.srv.whereby.com
+
+-   any.sfu.whereby.com
+
+-   .sfu.whereby.com
+
+-   .turn.whereby.com
+
+-   .sfu.svc.whereby.com
+
+-   .svc.whereby.com
+
+-   .turn.svc.whereby.com
+
+-   whereby.dev
+
+-   .whereby.dev
+
+-   whrby.net
+
+-   .whrby.net
+
+Legacy Appearin Domains
+
+-   turnserver.appearin.net
+
+-   rtcstats.appearin.net
+
+-   signal.appearin.net
+
+-   sfu.appearin.net
+
+3rd Party Services
+
+-   .posthog.com
+
+-   .helpscout.net
+
+-   .amazonaws.net
+
+-   .cloudfront.net
+
+-   .intercom.io
+
+-   intercom.help
+
+-   .intercomcdn.com
+
+🔴 AROUND [CLOSED]
+
+Core Services
+
+-   around.co
+
+-   .around.co
+
+-   api.around.co
+
+🔴 JITSI MEET / 8x8
+
+Core Services
+
+-   meet.jit.si
+
+-   8x8.vc
+
+-   jitsi.org
+
+Additional Services
+
+-   stage.8x8.vc
+
+-   api.amplitude.com
+
+-   api.callstats.io
+
+-   auth.callstats.io
+
+-   collector.callstats.io
+
+-   rtcstats-server.jitsi.net
+
+-   web-cdn.jitsi.net
+
+-   .jitsi.net
+
+-   meet-jit-si-turnrelay.jitsi.net
+
+-   api.jitsi.net
+
+-   download.jitsi.org
+
+-   jaas.8x8.vc
+
+-   analytics.jitsi.net 
+
+-   config.jitsi.net 
+
+Note: UDP 10000-20000 (JVB Media), TCP 4443 (JVB fallback), TCP/UDP 5349 (TURN/coturn)
+
+🔴 BIGBLUEBUTTON
+
+Core Services
+
+-   bigbluebutton.org
+
+-   .bigbluebutton.org
+
+-   ubuntu.bigbluebutton.org
+
+-   docs.bigbluebutton.org
+
+-   .blindsidenetworks.com 
+
+-   .hosted.blindsidenetworks.com 
+
+-   .letsencrypt.org 
+
+-   acme-v02.api.letsencrypt.org 
+
+-   r3.o.letsencrypt.org 
+
+Note: TCP 80, 443, 1935, 7443 — UDP 16384-32768 (FreeSWITCH/mediasoup RTP)
+
+🔴 JAMI (Decentralized)
+
+Core Services
+
+-   jami.net
+
+-   jami.biz
+
+-   forum.jami.net
+
+-   git.jami.net
+
+-   ns.jami.net
+
+-   dl.jami.net
+
+Infrastructure
+
+-   bootstrap.jami.net:4222
+
+-   docs.jami.net
+
+-   review.jami.net
+
+-   data.jami.net 
+
+-   news.jami.net 
+
+-   account.jami.net 
+
+🔴 TALKATONE
+
+Core Services
+
+-   talkatone.com
+
+-   talkatone.zendesk.com
+
+-   UDP Port: :19295
+
+-   api.talkatone.com 
+
+-   cdn.talkatone.com 
+
+-   push.talkatone.com 
+
+-   static.talkatone.com 
+
+-   voice.google.com 
+
+-   .googleapis.com 
+
+🔴 DINGTONE
+
+Core Services
+
+-   dingtone.me
+
+-   www.dingtone.me
+
+-   api.dingtone.me 
+
+-   cdn.dingtone.me 
+
+-   push.dingtone.me 
+
+-   media.dingtone.me 
+
+-   static.dingtone.me 
+
+-   support.dingtone.me 
+
+🔴 TALK360
+
+Core Services
+
+-   talk360.com
+
+-   www.talk360.com
+
+-   support.talk360.com
+
+-   help.talk360.com
+
+-   api.talk360.com 
+
+-   cdn.talk360.com 
+
+-   push.talk360.com 
+
+-   app.talk360.com 
+
+-   media.talk360.com 
+
+🔴 JUSTALK
+
+Core Services
+
+-   justalk.com
+
+-   api.justalk.com
+
+-   kids.justalk.com
+
+Note: Juphoon Cloud (backend provider)
+
+-   .juphoon.com 
+
+-   api.juphoon.com 
+
+-   push.juphoon.com 
+
+-   im.justalk.com 
+
+-   cdn.justalk.com 
+
+🔴 FACECALL
+
+Core Services
+
+-   facecall.com
+
+-   www.facecall.com
