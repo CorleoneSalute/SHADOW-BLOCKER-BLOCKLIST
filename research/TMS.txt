@@ -1,0 +1,371 @@
+TMS RESEARCH LIST
+
+1️⃣  Google Tag Manager
+
+Core Platform
+
+Domain / Endpoint  Not
+googletagmanager.com
+tagmanager.google.com
+*.googletagmanager.com
+www.googletagmanager.com
+gateway.googletagmanager.com
+
+
+GTM Scripts
+
+Domain / Endpoint  Not
+www.googletagmanager.com/gtm.js
+www.googletagmanager.com/gtag/js
+www.googletagmanager.com/gtm-android/
+www.googletagmanager.com/gtm-ios/
+
+GTM API & Services
+
+Domain / Endpoint  Not
+gtm-*.appspot.com
+*.run.app
+*.a.run.app
+gtm-msr.appspot.com
+gtm-sgtm.appspot.com
+ tx.mailfoogae.appspot.com
+Server-Side GTM Regional
+
+Domain / Endpoint  Not
+gtm-us1.appspot.com
+gtm-us2.appspot.com
+gtm-eu1.appspot.com
+gtm-au1.appspot.com
+gtm-asia1.appspot.com
+
+Cloud Run Regional Endpoints
+
+Domain / Endpoint  Not
+*.us-central1.run.app
+*.europe-west1.run.app
+*.asia-northeast1.run.app
+GTM Preview & Debug
+
+Domain / Endpoint  Not
+tagassistant.google.com
+tagmanager.google.com/ns.html
+tagmanager.google.com/a
+
+Google Analytics 4 (CSP) 
+
+Domain / Endpoint  Not
+*.google-analytics.com 
+*.analytics.google.com 
+Google Ads / Remarketing / Floodlight (CSP) 
+
+Google Ads, Remarketing ve Floodlight tag'leri için gerekli.
+
+Domain / Endpoint  Not
+www.googleadservices.com 
+googleads.g.doubleclick.net  
+pagead2.googlesyndication.com  
+ad.doubleclick.net  
+ade.googlesyndication.com  
+adservice.google.com  
+*.fls.doubleclick.net  
+*.g.doubleclick.net  
+google.com  
+
+GTM Preview Mode — Font/Static (CSP) 
+
+Domain / Endpoint  Not
+fonts.googleapis.com 
+fonts.gstatic.com  
+ssl.gstatic.com  
+www.gstatic.com 
+ 
+First-Party Serving
+
+Domain / Endpoint  Not
+G-{TAG_ID}.fps.goog
+*.fps.goog
+
+Firebase Integration (GTM Mobile)
+
+Domain / Endpoint  Not
+firebaseinstallations.googleapis.com
+firebase-settings.crashlytics.com
+app-measurement.com
+firebase.googleapis.com
+firebaseremoteconfig.googleapis.com
+firebasedynamiclinks.googleapis.com
+app-measurement.appspot.com
+Setup & Health
+
+Domain / Endpoint  Not
+googletagmanager.com/static/serverjs/setup.sh
+{server-url}/healthy
+gcr.io/cloud-tagging-10302018/gtm-cloud-image:stable
+
+
+2️⃣  Adobe Launch / DTM
+
+Core Platform
+
+Domain / Endpoint  Not
+assets.adobedtm.com
+launch.adobe.com
+cdn.adobe.io
+satellitelib.adobe.com
+cdn.adobe.com
+launch-cdn.adobe.io
+
+Experience Platform Data Collection (Edge Network)
+
+Domain / Endpoint  Not
+edge.adobedc.net
+*.adobedc.net
+edge-int.adobedc.net
+server.adobedc.net
+<company>.data.adobedc.net 
+
+Adobe I/O & Platform API
+
+Domain / Endpoint  Not
+platform.adobe.io
+data.adobe.io
+reactor.adobe.io
+mc.adobe.io
+developer.adobe.com
+developer.adobelaunch.com
+
+Experience Cloud Portals
+
+Domain / Endpoint  Not
+experiencecloud.adobe.com
+experienceleague.adobe.com
+adminconsole.adobe.com
+
+Adobe Analytics & Demdex (Audience Manager)
+
+Domain / Endpoint  
+omtrdc.net
+*.omtrdc.net
+tt.omtrdc.net
+mboxedge*.tt.omtrdc.net
+*.tt.omtrdc.net
+tttarget.tt.omtrdc.net
+2o7.net
+*.2o7.net
+demdex.net
+dpm.demdex.net
+adobe.demdex.net  
+adobemobiledev.demdex.net  
+adobe.tt.omtrdc.net  
+cdn.tt.omtrdc.net  
+*.omniture.com 
+sstats.adobe.com 
+
+Adobe IMS / Authentication
+
+Domain / Endpoint  Not
+ims-na1.adobelogin.com  
+ims-prod06.adobelogin.com  
+ims-prod07.adobelogin.com  
+static.adobelogin.com  
+adobeid-na1.services.adobe.com  
+auth.services.adobe.com  
+
+Launch Environment CDN Paths
+
+Domain / Endpoint  Not
+assets.adobedtm.com/extensions/
+assets.adobedtm.com/staging/
+assets.adobedtm.com/production/
+
+3️⃣  Tealium 
+
+Core Platform
+
+Domain / Endpoint  Not
+tealiumiq.com
+tiqcdn.com
+tags.tiqcdn.com
+*.tiqcdn.com
+my.tealiumiq.com
+
+iQ Tag Management CDN
+
+Domain / Endpoint  Not
+tags.tiqcdn.com
+tags-eu.tiqcdn.com  
+tags.tiqcdn.cn  
+
+Tealium Collect — Collection Endpoints 
+
+Domain / Endpoint  
+collect.tealiumiq.com
+mobile-collect.tealiumiq.com
+collect-eu-central-1.tealiumiq.com
+collect-eu-west-1.tealiumiq.com
+collect-eu-west-2.tealiumiq.com
+collect-eu-west-3.tealiumiq.com
+collect-us-east-1.tealiumiq.com
+collect-us-east-2.tealiumiq.com
+collect-us-west-1.tealiumiq.com
+collect-us-west-2.tealiumiq.com
+collect-ap-east-1.tealiumiq.com
+collect-ap-northeast-1.tealiumiq.com
+collect-ap-northeast-2.tealiumiq.com
+collect-ap-northeast-3.tealiumiq.com
+collect-ap-southeast-1.tealiumiq.com
+collect-ap-southeast-2.tealiumiq.com
+collect-ap-south-1.tealiumiq.com
+collect-ca-central-1.tealiumiq.com
+collect-sa-east-1.tealiumiq.com
+
+Visitor Service / Data Layer Enrichment
+
+Domain / Endpoint  Not
+visitor-service.tealiumiq.com
+visitor-service-ap-east-1.tealiumiq.com
+visitor-service-ap-northeast-1.tealiumiq.com
+visitor-service-ap-northeast-2.tealiumiq.com
+visitor-service-ap-northeast-3.tealiumiq.com
+visitor-service-ap-southeast-1.tealiumiq.com
+visitor-service-ap-southeast-2.tealiumiq.com
+visitor-service-ap-south-1.tealiumiq.com
+visitor-service-ca-central-1.tealiumiq.com
+visitor-service-eu-central-1.tealiumiq.com
+visitor-service-eu-west-1.tealiumiq.com
+visitor-service-eu-west-2.tealiumiq.com
+visitor-service-eu-west-3.tealiumiq.com
+visitor-service-sa-east-1.tealiumiq.com
+visitor-service-us-east-1.tealiumiq.com
+visitor-service-us-east-2.tealiumiq.com
+visitor-service-us-west-1.tealiumiq.com
+visitor-service-us-west-2.tealiumiq.com
+
+Tealium CDN
+
+Domain / Endpoint  
+tealium.hs.llnwd.net
+cdn.tealium.com
+Tealium API & Management
+
+Domain / Endpoint  
+api.tealiumiq.com
+uconnect.tealiumiq.com
+api-gateway.tealiumiq.com
+EventStream & AudienceStream
+
+Domain / Endpoint  
+eventstream.tealium.com
+datacloud.tealium.com
+audiencestream.tealiumiq.com
+
+Private Cloud
+
+Domain / Endpoint  Not
+pc-hmt-collect.tealiumiq.com 
+
+4️⃣  Ensighten 
+
+
+Core Platform
+
+Domain / Endpoint  
+ensighten.com
+nexus.ensighten.com
+
+CDN
+
+Domain / Endpoint  
+cdn.ensighten.com
+d2oohplt63x3l2.cloudfront.net
+
+API & Management
+
+Domain / Endpoint  
+api.ensighten.com
+manage.ensighten.com
+
+Test / Stage
+
+Domain / Endpoint  
+nexus-test.ensighten.com
+stage.nexus.ensighten.com
+
+Activation, Privacy & DNS
+
+Domain / Endpoint  
+*.activate.ensighten.com
+data.privacy.ensighten.com
+iab.ensighten.com
+ns1.ensighten.com
+
+Support & Learning
+
+Domain / Endpoint  
+academy.ensighten.com
+help.ensighten.com
+
+5️⃣  Commanders Act / Tag Commander 
+
+Core Platform
+
+Domain / Endpoint  
+tagcommander.com
+commandersact.com
+
+CDN Hosting
+
+Domain / Endpoint  
+cdn.tagcommander.com
+cdn.trustcommander.net
+
+Commander1 — Data Collection
+
+Domain / Endpoint  
+commander1.com
+*.commander1.com
+collect.commander1.com
+privacy.commander1.com
+engage.commander1.com
+sync.commander1.com 
+engage.commander1.com/reach  
+engage.commander1.com/tagsperf 
+engage.commander1.com/dms
+
+Collection Endpoint Paths
+
+Domain / Endpoint  Not
+*.commander1.com/v3
+*.commander1.com/c3
+*.commander1.com/w3
+*.commander1.com/s3
+*.commander1.com/cs3
+*.commander1.com/o3
+*.commander1.com/mix/cs3
+*.commander1.com/dg3/
+*.commander1.com/dc3/
+Server-Side Tracking
+
+Domain / Endpoint  
+serversideXXX.tagcommander.com
+serversideXXX.commander1.com
+
+TrustCommander (Privacy / Consent)
+
+Domain / Endpoint  
+trustcommander.com
+trustcommander.net
+privacy.trustcommander.net
+privacy-consent.trustcommander.net
+API & Management 
+
+Domain / Endpoint  
+manager.tagcommander.com  
+manager.commander1.com  
+app.commandersact.com  
+
+Community & Docs
+
+Domain / Endpoint  
+community.commandersact.com
+doc.commandersact.com
