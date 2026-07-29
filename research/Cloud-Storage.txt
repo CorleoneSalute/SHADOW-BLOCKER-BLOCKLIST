@@ -1,0 +1,1251 @@
+☁️ CLOUD STORAGE RESEARCH LIST
+======================================================================
+
+## 🔴 GOOGLE DRIVE
+
+### CORE SERVICES
+```
+drive.google.com
+docs.google.com
+sheets.google.com
+slides.google.com
+forms.google.com
+drawings.google.com
+one.google.com
+workspace.google.com
+admin.google.com
+sites.google.com
+```
+
+### AUTHENTICATION
+```
+accounts.google.com
+myaccount.google.com
+oauth2.googleapis.com
+token.googleapis.com
+securetoken.googleapis.com
+sts.googleapis.com
+iamcredentials.googleapis.com
+pki.goog
+crl.pki.goog
+ocsp.pki.goog
+```
+
+### API
+```
+www.googleapis.com
+drive.googleapis.com
+driveactivity.googleapis.com
+docs.googleapis.com
+sheets.googleapis.com
+slides.googleapis.com
+forms.googleapis.com
+storage.googleapis.com
+people.googleapis.com
+script.googleapis.com
+cloudsearch.googleapis.com
+vault.googleapis.com
+```
+
+### CONTENT DELIVERY
+```
+*.googleusercontent.com
+*.drive.google.com
+drive-thirdparty.googleusercontent.com
+*.gstatic.com
+fonts.googleapis.com
+```
+
+### SYNC & UPLOAD
+```
+upload.google.com
+dl.google.com
+backup.googleapis.com
+mobilesync-pa.googleapis.com
+```
+
+### GOOGLE PHOTOS
+```
+photos.google.com
+photos.googleapis.com
+lh.googleusercontent.com
+```
+
+---
+
+## 🔴 MICROSOFT ONEDRIVE
+
+### CORE SERVICES
+```
+onedrive.com
+www.onedrive.com
+onedrive.live.com
+1drv.com
+1drv.ms
+skydrive.live.com
+```
+
+### AUTHENTICATION
+```
+login.live.com
+login.microsoftonline.com
+login.windows.net
+account.microsoft.com
+oauth.live.com
+aadcdn.msauth.net
+aadcdn.msftauth.net
+```
+
+### API
+```
+graph.microsoft.com
+apis.live.net
+api.onedrive.com
+api.onedrive.live.com
+```
+
+### SYNC & CONTENT
+```
+skyapi.onedrive.live.com
+skyapi.live.net
+skyapi.onedrive.com
+storage.live.com
+*.storage.live.com
+*.files.1drv.com
+*.onedrive.live.com
+*.livefilestore.com
+docs.live.net
+g.live.com
+p.sfx.ms
+oneclient.sfx.ms
+odc.officeapps.live.com
+```
+
+### OFFICE ONLINE
+```
+officeapps.live.com
+office.live.com
+office.com
+www.office.com
+```
+
+### ONEDRIVE FOR BUSINESS
+```
+*.sharepoint.com
+*.onmicrosoft.com
+spoprod-a.akamaihd.net
+spoppe-a.akamaihd.net
+```
+
+### PHOTOS
+```
+photos.live.com
+
+
+🔴 DROPBOX — COMPLETE BLOCKLIST
+-------------------------------
+CORE SERVICES
+dropbox.com
+www.dropbox.com
+www.db.tt
+db.tt
+dropbox.tech
+addtodropbox.com
+dropboxbusiness.com
+dropboxcaptcha.com
+dropboxexperiment.com
+dropboxforums.com
+dropboxforum.com
+dropboxinsiders.com
+dropboxlegal.com
+dropboxmail.com
+dropboxpartners.com
+dropboxteam.com
+docsend.com
+hellofax.com
+getdropbox.com
+links.dropbox.com
+dash.ai
+
+CONTENT DELIVERY
+dl.dropboxusercontent.com
+*.dropboxusercontent.com
+photos.dropbox.com
+ucarecdn.com
+dl-eu.dropboxusercontent.com
+*.dl-eu.dropboxusercontent.com
+dl-au.dropboxusercontent.com
+*.dl-au.dropboxusercontent.com
+dl-jp.dropboxusercontent.com
+*.dl-jp.dropboxusercontent.com
+dl-uk.dropboxusercontent.com
+*.dl-uk.dropboxusercontent.com
+dl-eu.dropbox.com
+dl-au.dropbox.com
+dl-jp.dropbox.com
+dl-uk.dropbox.com
+dl-web-eu.dropbox.com
+dl-web-au.dropbox.com
+dl-web-jp.dropbox.com
+dl-web-uk.dropbox.com
+dl-client.dropbox.com
+dl-doc.dropbox.com
+dl-doc.dropboxusercontent.com
+api-content-eu.dropbox.com
+api-content1-eu.dropbox.com
+api-content-au.dropbox.com
+api-content1-au.dropbox.com
+api-content-jp.dropbox.com
+api-content1-jp.dropbox.com
+api-content-uk.dropbox.com
+api-content1-uk.dropbox.com
+content.dropboxapi.com
+content-eu.dropboxapi.com
+content-au.dropboxapi.com
+content-jp.dropboxapi.com
+content-uk.dropboxapi.com
+api-content-photos.dropbox.com
+files-eu.dropbox.com
+files-au.dropbox.com
+files-jp.dropbox.com
+files-uk.dropbox.com
+showbox-tr.dropbox.com
+showbox-eu.dropbox.com
+showbox-au.dropbox.com
+showbox-jp.dropbox.com
+showbox-uk.dropbox.com
+paper-attachments.s3.amazonaws.com
+
+API SERVICES
+api.dropbox.com
+api.dropboxapi.com
+api-content.dropbox.com
+api-content-warp.dropbox.com
+notify.dropbox.com
+api-d.dropbox.com
+client-web.dropbox.com
+
+SYNC
+client.dropbox.com
+client-lb.dropbox.com
+bolt.dropbox.com
+bolt.v.dropbox.com
+uc.dropbox.com
+block.dropbox.com
+d.dropbox.com
+dl-web.dropbox.com
+
+DROPBOX PAPER
+paper.dropbox.com
+paper-attachments.dropbox.com
+paper.dropboxstatic.com
+
+CAPTCHA / SECURITY
+c.evidon.com
+cdn.arkoselabs.com
+consent.dropbox.com
+ungated.dropbox.com
+dropbox-api.arkoselabs.com
+dropbox-dns.com
+l.evidon.com
+
+TELEMETRY
+log.getdropbox.com
+client-log.dropbox.com
+client-analytics.dropbox.com
+telemetry.dropbox.com
+thunder.dropbox.com
+beacon.dropbox.com
+marketing.dropbox.com
+
+STATIC ASSETS
+*.dropboxstatic.com
+www.dropboxstatic.com
+cfl.dropboxstatic.com
+aem.dropbox.com
+
+
+## 🔴 ICLOUD
+
+### CORE SERVICES
+```
+icloud.com
+www.icloud.com
+*.icloud.com
+setup.icloud.com
+statici.icloud.com
+```
+
+### AUTHENTICATION
+```
+appleid.apple.com
+appleid.cdn-apple.com
+idmsa.apple.com
+identity.apple.com
+```
+
+### ICLOUD DRIVE
+```
+*.icloud-content.com
+cvws.icloud-content.com
+*.apple-cloudkit.com
+api.apple-cloudkit.com
+ckdatabasews.icloud.com
+ckdeviceservice.icloud.com
+p25-ckdatabasews.icloud.com
+p44-ckdatabasews.icloud.com
+p55-ckdatabasews.icloud.com
+gateway.icloud.com
+```
+
+### PHOTOS
+```
+p*-content.icloud.com
+p.content.icloud.com
+```
+
+### MAIL
+```
+*.mail.icloud.com
+smtp.mail.me.com
+imap.mail.me.com
+mx01.mail.icloud.com
+mx02.mail.icloud.com
+```
+
+### FIND MY
+```
+fmipmobile.icloud.com
+fmip.icloud.com
+fmfmobile.icloud.com
+
+
+🔴 BOX — COMPLETE BLOCKLIST
+---------------------------
+CORE SERVICES
+box.com
+www.box.com
+app.box.com
+rtg.services.box.com
+sso.services.box.net
+2.realtime.services.box.net
+notes.services.box.com
+track.box.com
+ent.box.com
+account.box.com
+www.box.net
+*.box.net
+*.services.box.com
+box-test.com
+edit.boxlocalhost.com
+*.boxlocalhost.com
+
+API SERVICES
+api.box.com
+upload.box.com
+upload.app.box.com
+upload.ent.box.com
+upload.box.net
+
+CONTENT DELIVERY
+dl.boxcloud.com
+*.boxcloud.com
+public.boxcloud.com
+dl2.boxcloud.com
+dl3.boxcloud.com
+dl4.boxcloud.com
+dl5.boxcloud.com
+dl6.boxcloud.com
+dl7.boxcloud.com
+dl8.boxcloud.com
+dl9.boxcloud.com
+dl10.boxcloud.com
+dl11.boxcloud.com
+dl12.boxcloud.com
+dl13.boxcloud.com
+dl14.boxcloud.com
+dl15.boxcloud.com
+dl16.boxcloud.com
+dl17.boxcloud.com
+dl18.boxcloud.com
+dl19.boxcloud.com
+dl20.boxcloud.com
+cdn01.boxcdn.net
+cdn02.boxcdn.net
+cdn03.boxcdn.net
+cdn04.boxcdn.net
+cdn05.boxcdn.net
+cdn06.boxcdn.net
+cdn07.boxcdn.net
+cdn08.boxcdn.net
+cdn09.boxcdn.net
+cdn10.boxcdn.net
+cdn11.boxcdn.net
+cdn12.boxcdn.net
+cdn13.boxcdn.net
+cdn14.boxcdn.net
+cdn15.boxcdn.net
+cdn16.boxcdn.net
+cdn17.boxcdn.net
+cdn18.boxcdn.net
+cdn19.boxcdn.net
+cdn20.boxcdn.net
+e3.boxcdn.net
+
+CAPTCHA
+captcha.boxcdn.net
+images-captcha.boxcdn.net
+newassets-captcha.boxcdn.net
+reportapi-captcha.boxcdn.net
+
+TELEMETRY
+analytics.box.com
+client-log.box.com
+
+ADDITIONAL SERVICES
+assets.box.com
+blog.box.com
+community.box.com
+developer.box.com
+docs.box.com
+status.box.com
+support.box.com
+liveapi-cached.yext.com
+liveapi.yext.com
+realtimeanalytics.yext.com
+
+
+🔴 MEGA — COMPLETE BLOCKLIST
+----------------------------
+CORE SERVICES
+mega.nz
+mega.io
+mega.co.nz
+
+API SERVICES
+g.api.mega.co.nz
+eu.api.mega.co.nz
+reqstat.api.mega.co.nz
+
+CONTENT DELIVERY
+*.megausercontent.com
+cms.mega.nz
+eu.static.mega.co.nz
+*.userstorage.mega.co.nz
+g.static.mega.co.nz
+g.cdn1.mega.co.nz
+
+NAMESERVERS
+nslu1.mega.co.nz
+nslu2.mega.co.nz
+nsnl1.mega.co.nz
+nsnl2.mega.co.nz
+
+DEVELOPER
+code.developers.mega.co.nz
+
+
+🔴 PCLOUD — COMPLETE BLOCKLIST
+------------------------------
+CORE SERVICES
+pcloud.com
+my.pcloud.com
+docs.pcloud.com
+
+API SERVICES
+api.pcloud.com
+eapi.pcloud.com
+bapi.pcloud.com
+api1.pcloud.com
+api2.pcloud.com
+api3.pcloud.com
+api4.pcloud.com
+api5.pcloud.com
+api6.pcloud.com
+api7.pcloud.com
+binapi.pcloud.com
+bineapi.pcloud.com
+
+CONTENT DELIVERY
+filelink.pcloud.com
+
+
+🔴 MEDIAFIRE — COMPLETE BLOCKLIST
+---------------------------------
+CORE SERVICES
+mediafire.com
+www.mediafire.com
+app.mediafire.com
+www1.mediafire.com
+www2.mediafire.com
+
+CONTENT DELIVERY
+download*.mediafire.com
+*.mfcache.com
+static.mediafire.com
+
+
+🔴 4SHARED — COMPLETE BLOCKLIST
+-------------------------------
+CORE SERVICES
+4shared.com
+www.4shared.com
+search.4shared.com
+upload.4shared.com
+
+API SERVICES
+api.4shared.com
+
+CONTENT DELIVERY
+dc*.4shared.com
+*.4s.io
+dc439.4s.io
+
+🔴 BACKBLAZE B2 — COMPLETE BLOCKLIST
+------------------------------------
+CORE SERVICES
+backblaze.com
+backblazeb2.com
+
+API SERVICES
+api.backblazeb2.com
+
+STORAGE ENDPOINTS
+f000.backblazeb2.com
+f001.backblazeb2.com
+f002.backblazeb2.com
+f003.backblazeb2.com
+f004.backblazeb2.com
+f005.backblazeb2.com
+f006.backblazeb2.com
+*.backblazeb2.com
+upload.backblazeb2.com
+download.backblazeb2.com
+s3.us-west-000.backblazeb2.com
+s3.us-west-001.backblazeb2.com
+s3.us-west-002.backblazeb2.com
+s3.us-west-004.backblazeb2.com
+s3.us-east-005.backblazeb2.com
+s3.eu-central-003.backblazeb2.com
+
+
+🔴 BACKBLAZE COMPUTER BACKUP — COMPLETE BLOCKLIST
+-------------------------------------------------
+CORE SERVICES
+backblaze.com
+www.backblaze.com
+secure.backblaze.com
+help.backblaze.com
+
+BACKUP SERVERS
+*.backblaze.com
+ca*.backblaze.com
+
+
+🔴 WASABI — COMPLETE BLOCKLIST
+------------------------------
+CORE SERVICES
+wasabi.com
+console.wasabisys.com
+status.wasabi.com
+
+STORAGE ENDPOINTS
+s3.wasabisys.com
+*.wasabisys.com
+s3.us-east-1.wasabisys.com
+s3.us-east-2.wasabisys.com
+s3.us-central-1.wasabisys.com
+s3.us-west-1.wasabisys.com
+s3.eu-central-1.wasabisys.com
+s3.eu-central-2.wasabisys.com
+s3.eu-west-1.wasabisys.com
+s3.eu-west-2.wasabisys.com
+s3.ap-northeast-1.wasabisys.com
+s3.ap-northeast-2.wasabisys.com
+s3.ap-southeast-1.wasabisys.com
+s3.ap-southeast-2.wasabisys.com
+s3.ca-central-1.wasabisys.com
+s3.nl-1.wasabisys.com
+s3.uk-1.wasabisys.com
+s3.fr-1.wasabisys.com
+s3.ap-southeast-2.wasabisys.com
+s3.me-central-1.wasabisys.com
+s3.ap-south-1.wasabisys.com
+s3.ap-northeast-1-ntt.wasabisys.com
+
+API SERVICES
+iam.wasabisys.com
+sts.wasabisys.com
+wacm.wasabisys.com
+partner.wasabisys.com
+
+
+🔴 EGNYTE — COMPLETE BLOCKLIST
+------------------------------
+CORE SERVICES
+egnyte.com
+*.egnyte.com
+developers.egnyte.com
+eu.egnyte.com
+egnyte.io
+qa-egnyte.com
+
+CDN / AUTH
+egnytecdn.com
+*.egnytecdn.com
+egnyte-cdn.com
+egnytecloud.com
+auth.egnyte.com
+signin.egnyte.com
+
+
+🔴 IDRIVE — COMPLETE BLOCKLIST
+------------------------------
+CORE SERVICES
+idrive.com
+idrivee2.com
+idrivee2-1.com
+idrivecompute.io
+idriveonlinebackup.com
+idrive.net
+www.idrivee2.com
+*.idrive.com
+backup.idrive.com
+media.idrive.com
+evault.idriveonlinebackup.com
+
+API ENDPOINTS
+api.idrivee2.com
+console.idrivee2.com
+
+REGIONAL STORAGE ENDPOINTS
+storage-iad3a.cloud.verizon.com
+storage-ams1a.cloud.verizon.com
+storage-ushaa.cloud.verizon.com
+*.edgedrive.com
+
+
+🔴 VERIZON CLOUD — COMPLETE BLOCKLIST
+-------------------------------------
+CORE SERVICES
+verizoncloud.com
+my.cloud.verizon.com
+
+API ENDPOINTS
+cloudapis.verizon.com
+thingspace.verizon.com
+core.thingspace.verizon.com
+
+STORAGE ENDPOINTS
+storage-iad3a.cloud.verizon.com
+storage-ams1a.cloud.verizon.com
+storage-ushaa.cloud.verizon.com
+
+LEGACY MESSAGING (NO LONGER SUPPORTED 2025)
+vtext.com
+vzwpix.com
+
+
+🛡️ NEXTCLOUD — SELF-HOSTED
+---------------------------
+PUBLIC INSTANCES
+nextcloud.com
+apps.nextcloud.com
+cloud.nextcloud.com
+help.nextcloud.com
+updates.nextcloud.com
+download.nextcloud.com
+lookup-server-connector.nextcloud.com
+push-notifications.nextcloud.com
+lookup.nextcloud.com
+lookup-v2.nextcloud.com
+
+
+🛡️ OWNCLOUD — SELF-HOSTED
+--------------------------
+PUBLIC INSTANCES
+owncloud.com
+owncloud.online (DISCONTINUED)
+owncloud.dev
+doc.owncloud.com
+marketplace.owncloud.com
+telemetry.owncloud.com
+central.owncloud.org
+www.owncloud.com
+owncloud.org
+kiteworks.com
+
+
+🛡️ SEAFILE — SELF-HOSTED
+-------------------------
+PUBLIC INSTANCES
+seafile.com
+cloud.seafile.com
+seacloud.cc (CLOSED - Registration closed ~2020)
+download.seafile.com
+seafile-api.readme.io
+manual.seafile.com
+forum.seafile.com
+*.seafile.com
+seatable.io
+*.seatable.io
+
+
+🛡️ ZERO-KNOWLEDGE (E2EE - PRIVACY-FOCUSED)
+-------------------------------------------
+
+PROTONDRIVE (Switzerland - E2EE)
+--------------------------------
+CORE SERVICES
+drive.proton.me
+proton.me
+api.protonmail.com
+api.protonmail.ch
+account.proton.me
+account.protonmail.com
+*.protonvpn.com
+mail.proton.me
+calendar.proton.me
+vpn.proton.me
+pass.proton.me
+pm.me
+protonmail.ch
+*.protonweb.com
+pmecdn.protonweb.com
+lumo.proton.me
+
+API ENDPOINTS
+drive-api.proton.me
+mail-api.proton.me
+pass-api.proton.me
+verify-api.proton.me
+vpn-api.proton.me
+account-api.proton.me
+calendar-api.proton.me
+
+STORAGE
+zrh-storage.proton.me
+
+DNS/STATUS
+ns1.proton.me
+ns2.proton.me
+ns3.proton.me
+reports.proton.me
+status.proton.me
+
+
+TRESORIT (Switzerland/Hungary - E2EE)
+-------------------------------------
+CORE SERVICES
+tresorit.com
+web.tresorit.com
+*.tresorit.io
+api.tresorit.com
+*.tresorit.net
+app.tresorit.com
+manage.tresorit.io
+support.tresorit.com
+subscribeapi.tresorit.com
+webapi.tresorit.com
+accountapi.tresorit.com
+sendapi.tresorit.com
+send.tresorit.com
+log.tresorit.com
+login.tresorit.com
+storage2.tresorit.com
+share.tresorit.com
+rmsapi.tresorit.com
+tresor.it
+tresoritusercontent.com
+branding.tresoritusercontent.com
+tresoritusercontent.azurewebsites.net
+cdn.tresorit.com
+installer.tresorit.com
+
+CDN / AZURE
+az579219.vo.msecnd.net
+webclient-cdn-v2.azureedge.net
+brandingstorage.azureedge.net
+webclient-cdn.azureedge.net
+northeurope-0.in.applicationinsights.azure.com
+northeurope-2.in.applicationinsights.azure.com
+
+INTEGRATIONS
+google.ext.tresorit.com
+ext-google-cdn.tresorit.com
+m365.ext.tresorit.com
+ext-m365-cdn.tresorit.com
+teams.ext.tresorit.com
+ext-teams-cdn.tresorit.com
+
+AZURE STORAGE (File Storage Pattern)
+filestorage00.blob.core.windows.net
+filestorage00-internetrouting.blob.core.windows.net
+filestorage00-microsoftrouting.blob.core.windows.net
+*.blob.core.windows.net (filestorage00–99 pattern)
+
+
+SYNC.COM (Canada - E2EE)
+------------------------
+CORE SERVICES
+sync.com
+cp.sync.com
+api.sync.com
+link.sync.com
+secure.sync.com
+www.sync.com
+app.sync.com
+files.sync.com
+static.sync.com
+help.sync.com
+blog.sync.com
+status.sync.com
+
+
+ICEDRIVE (E2EE)
+---------------
+CORE SERVICES
+icedrive.net
+api.icedrive.net
+docs.icedrive.net
+
+
+FILEN (E2EE)
+------------
+CORE SERVICES
+filen.io
+gateway.filen.io
+docs.filen.io
+docs.cli.filen.io
+
+INGEST ENDPOINTS
+ingest.filen.io
+ingest.filen.net
+ingest.filen-1.net
+ingest.filen-2.net
+ingest.filen-3.net
+ingest.filen-4.net
+ingest.filen-5.net
+ingest.filen-6.net
+
+EGEST ENDPOINTS
+egest.filen.io
+egest.filen.net
+egest.filen-1.net
+egest.filen-2.net
+egest.filen-3.net
+egest.filen-4.net
+egest.filen-5.net
+egest.filen-6.net
+
+
+INTERNXT (Spain - E2EE)
+-----------------------
+CORE SERVICES
+internxt.com
+drive.internxt.com
+api.internxt.com
+send.internxt.com
+mail.internxt.com
+meet.internxt.com
+help.internxt.com
+blog.internxt.com
+news.internxt.com
+antivirus.internxt.com
+cleaner.internxt.com
+status.internxt.com
+
+API / STORAGE
+gateway.api.internxt.com
+storage.internxt.com
+bridge.internxt.com
+s3.internxt.com
+eu-west-1.internxt.com
+
+
+🔴 DRIME (France - E2EE)
+------------------------
+CORE SERVICES
+drime.cloud
+app.drime.cloud
+support.drime.cloud
+status.drime.cloud
+cli.drime.cloud
+*.drime.cloud
+api.drime.cloud
+storage.drime.cloud
+
+STATIC/CDN
+framerusercontent.com
+
+
+🔴 KDRIVE by INFOMANIAK (Switzerland)
+-------------------------------------
+CORE SERVICES
+kdrive.infomaniak.com
+drive.infomaniak.com
+manager.infomaniak.com
+infomaniak.com
+*.infomaniak.com
+mail.infomaniak.com
+etik.infomaniak.com
+collaborative.infomaniak.com
+swiss-backup.infomaniak.com
+news.infomaniak.com
+
+WEBDAV/SYNC
+connect.drive.infomaniak.com
+*.connect.kdrive.infomaniak.com
+sync.infomaniak.com
+config.infomaniak.com
+
+API/AUTH
+developer.infomaniak.com
+api.infomaniak.com
+keystone.pub1.infomaniak.cloud
+
+
+🔴 KOOFR (Slovenia)
+-------------------
+CORE SERVICES
+koofr.eu
+app.koofr.net
+koofr.net
+api.koofr.net
+storage.koofr.net
+cdn.koofr.net
+rclone.koofr.net
+
+
+🔴 JOTTACLOUD (Norway)
+----------------------
+CORE SERVICES
+jottacloud.com
+www.jottacloud.com
+docs.jottacloud.com
+
+API/JFS
+jfs.jottacloud.com
+www.jottacloud.com/jfs
+api.jottacloud.com
+id.jottacloud.com
+login.jottacloud.com
+stats.jottacloud.com
+
+WHITE LABEL BRANDS
+getsky.no
+elkjopcloud.no
+elgiganten.se
+telia.se
+telia.no
+tele2.se
+onlime.ch
+telicloud.no
+pluscloud.no
+nextgentel.no
+
+
+🔴 OPENDRIVE (USA)
+------------------
+CORE SERVICES
+opendrive.com
+www.opendrive.com
+od.lk
+
+API ENDPOINTS
+web.opendrive.com
+ai2.opendrive.com
+api.opendrive.com
+
+DOWNLOAD/CDN
+dl.opendrive.com
+
+
+🔴 TERABOX (Japan/Flextech Inc.)
+--------------------------------
+CORE SERVICES
+terabox.com
+www.terabox.com
+blog.terabox.com
+teraboxapp.com
+1024terabox.com
+1024-terabox.com
+1024tera.com
+1024tera.co
+4funbox.com
+4funbox.in
+4funbox.co
+mirrobox.com
+nephobox.com
+freeterabox.com
+tibibox.com
+momerybox.com
+gibibox.com
+pebibox.com
+bestclouddrive.com
+terafileshare.com
+teraboxshare.com
+terasharelink.com
+terasharefile.com
+terashareus.com
+tera1024box.com
+terabox.app
+terabox.fun
+terabox.link
+teraboxlink.com
+teraboxurl.com
+
+API/CDN
+ymg-api.terabox.com
+c-jp.terabox.com
+d.terabox.com
+nrd.terabox.com
+pc-client.terabox.com
+
+PARENT COMPANY
+flextech-official.com
+
+
+🔴 DEGOO (Sweden)
+-----------------
+CORE SERVICES
+degoo.com
+www.degoo.com
+app.degoo.com
+api.degoo.com
+cdn.degoo.com
+storage.degoo.com
+
+
+🔴 BLOMP (USA)
+--------------
+CORE SERVICES
+blomp.com
+www.blomp.com
+www9.blomp.com
+dashboard.blomp.com
+
+API/AUTH
+authenticate.blomp.com
+authenticate.ain.net
+api.blomp.com
+storage.blomp.com
+*.ain.net
+
+
+🔴 ZOOLZ / BIGMIND (UK/Genie9)
+------------------------------
+CORE SERVICES
+zoolz.com
+www.zoolz.com
+bigmind.genie9.com
+bigmindwiki.genie9.com
+genie9.com
+www.genie9.com
+cloud.genie9.com
+backup.genie9.com
+storage.genie9.com
+api.genie9.com
+*.genie9.com
+
+
+🔴 SPIDEROAK ONE (USA)
+----------------------
+CORE SERVICES
+spideroak.com
+www.spideroak.com
+spideroak.support
+storage.spideroak.com
+sync.spideroak.com
+hive.spideroak.com
+
+API ENDPOINTS
+api.spideroak.com
+
+
+🔴 CARBONITE (USA/OpenText)
+---------------------------
+CORE SERVICES
+carbonite.com
+www.carbonite.com
+support.carbonite.com
+carboniteserver.com
+*.carboniteserver.com
+opentext.com
+api.carbonite.com
+members.carbonite.com
+
+VAULT/BACKUP ENDPOINTS
+*.mysecuredatavault.com
+red-*.mysecuredatavault.com
+
+
+🔴 LIVEDRIVE (UK/j2 Global)
+---------------------------
+CORE SERVICES
+livedrive.com
+www.livedrive.com
+api.livedrive.com
+app.livedrive.com
+cdn.livedrive.com
+briefcase.livedrive.com
+storage.livedrive.com
+*.j2global.com
+j2global.com
+
+
+🔴 CHINESE CLOUD SERVICES
+-------------------------
+
+BAIDU CLOUD (Baidu Pan)
+-----------------------
+CORE SERVICES
+pan.baidu.com
+yun.baidu.com
+pcs.baidu.com
+c.pcs.baidu.com
+d.pcs.baidu.com
+developer.baidu.com
+openapi.baidu.com
+passport.baidu.com
+bdstatic.com
+*.bdstatic.com
+baidubce.com
+*.baidubce.com
+bce.baidu.com
+nj02cmcc.baidupcs.com
+nj02ct.baidupcs.com
+nj02un.baidupcs.com
+
+CDN
+lx.cdn.baidupcs.com
+*.cdn.baidupcs.com
+
+
+TENCENT WEIYUN
+--------------
+CORE SERVICES
+weiyun.com
+www.weiyun.com
+njc-download.weiyun.com
+www.weiyun.com/disk/index-en.html
+dldir1.qq.com
+
+
+ALIBABA CLOUD DRIVE (Alipan)
+----------------------------
+CORE SERVICES
+aliyundrive.com
+www.aliyundrive.com
+www.alipan.com
+api.nn.ci
+api.iots.vip
+alist.nn.ci
+auth.aliyundrive.com
+auth.alipan.com
+api.oplist.org
+alicloud.com
+*.alicdn.com
+gw.api.alipan.com
+openapi.alipan.com
+*.alipan.com
+
+
+360 CLOUD
+---------
+CORE SERVICES
+yunpan.360.cn
+eyun.360.cn
+login.360.cn
+q.smart.360.cn
+yunpan.cn
+down.360safe.com
+p0.ssl.qhimg.com
+www.360.cn
+c.360.cn
+safe.360.cn
+cloud.360.cn
+i.360.cn
+
+
+🔴 REGIONAL CLOUD SERVICES
+--------------------------
+
+YANDEX DISK (Russia)
+--------------------
+CORE SERVICES
+disk.yandex.com
+disk.yandex.ru
+downloader.disk.yandex.ru
+cloud-api.yandex.net
+downloader.dst.yandex.ru
+webdav.yandex.ru
+oauth.yandex.ru
+tech.yandex.ru
+passport.yandex.ru
+disk.yandex.net
+yandex.ru
+yastatic.net
+mc.yandex.ru
+metrika.yandex.ru
+storage.yandexcloud.net
+*.storage.yandexcloud.net
+login.yandex.com
+loginza.yandex.ru
+id.yandex.ru
+uploader.disk.yandex.net
+downloader.disk.yandex.net
+
+
+MAIL.RU CLOUD (Russia / VK)
+---------------------------
+CORE SERVICES
+cloud.mail.ru
+
+UPLOAD/CONTENT
+cloclo21-upload.cloud.mail.ru
+cloclo4.cldmail.ru
+cloclo*.datacloudmail.ru
+cloclo44.datacloudmail.ru
+cloclo*.cloud.mail.ru
+cloclo4.cloud.mail.ru
+cloclo13.datacloudmail.ru
+cloclo*.cldmail.ru
+api.mail.ru
+mcs.mail.ru
+hb.bizmrg.com
+*.hb.bizmrg.com
+*.mcs.mail.ru
+vk.com
+
+
+NAVER MYBOX (South Korea)
+-------------------------
+CORE SERVICES
+mybox.naver.com
+nid.naver.com
+help.naver.com
+cloud.naver.com
+api.ncloud.com
+storage.ncloud.com
+*.ncloud.com
+ssl.pstatic.net
+nstatic.net
+ndrive.naver.com
+static.nid.naver.com
+
+
+HIVENET (Switzerland)
+---------------------
+CORE SERVICES
+hivenet.com
+hivedisk.com
+help.hivenet.com
+docs.hivenet.com
+app.hivenet.com
+send.hivenet.com
+compute.hivenet.com
+api.hivenet.com
+cdn.hivenet.com
+status.hivenet.com
+*.hivenet.com
