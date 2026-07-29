@@ -5,6 +5,7 @@ Reads canonical category master files from lists/categories/*.txt
 and generates ready-to-use blocklists under dist/.
 """
 
+import shutil
 import re
 import sys
 from pathlib import Path
@@ -87,6 +88,9 @@ def build():
     if not CATEGORIES_DIR.exists():
         print(f"ERROR: {CATEGORIES_DIR} not found", file=sys.stderr)
         sys.exit(1)
+
+    if DIST_DIR.exists():
+        shutil.rmtree(DIST_DIR)
 
     master_files = sorted(CATEGORIES_DIR.glob("*.txt"))
     if not master_files:
