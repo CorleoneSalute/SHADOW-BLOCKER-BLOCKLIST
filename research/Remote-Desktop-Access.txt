@@ -1,0 +1,887 @@
+REMOTE DESKTOP & REMOTE ACCESS RESEARCH LIST
+
+============================================================
+1. TEAMVIEWER
+============================================================
+
+[ Core Services ]
+teamviewer.com
+www.teamviewer.com
+login.teamviewer.com
+teamviewer.cn
+tvcdn.de
+
+[ API & Router Servers (master1–16, router1–16) ]
+master.teamviewer.com
+master1.teamviewer.com
+master2.teamviewer.com
+master3.teamviewer.com
+master4.teamviewer.com
+master5.teamviewer.com
+master6.teamviewer.com
+master7.teamviewer.com
+master8.teamviewer.com
+master9.teamviewer.com
+master10.teamviewer.com
+master11.teamviewer.com
+master12.teamviewer.com
+master13.teamviewer.com
+master14.teamviewer.com
+master15.teamviewer.com
+master16.teamviewer.com
+router.teamviewer.com
+router1.teamviewer.com
+router2.teamviewer.com
+router3.teamviewer.com
+router4.teamviewer.com
+router5.teamviewer.com
+router6.teamviewer.com
+router7.teamviewer.com
+router8.teamviewer.com
+router9.teamviewer.com
+router10.teamviewer.com
+router11.teamviewer.com
+router12.teamviewer.com
+router13.teamviewer.com
+router14.teamviewer.com
+router15.teamviewer.com
+router16.teamviewer.com
+dyngate.teamviewer.com
+api.teamviewer.com
+webapi.teamviewer.com
+client.teamviewer.com
+configdl.teamviewer.com
+
+[ Download / Updates ]
+download.teamviewer.com
+dl.teamviewer.com
+update.teamviewer.com
+
+[ Analytics & Telemetry ]
+analytics.teamviewer.com
+telemetry.teamviewer.com
+tracking.teamviewer.com
+metrics.teamviewer.com
+
+[ Session Logging ]
+logging.teamviewer.com
+audit.teamviewer.com
+
+[ Management Console / Meeting ]
+manage.teamviewer.com
+web.teamviewer.com
+meeting.teamviewer.com
+blizz.com
+
+[ CDN & Platform ]
+cdn.teamviewer.com
+*.teamviewer-us.com
+*.teamviewer-svc.com
+*.data.adobedc.net
+*.mktoweb.com
+*.azureedge.net
+*.cloudflare.net
+*.trafficmanager.net
+*.onvanilla.net
+www.recaptcha.net
+www.gstatic.com
+cdn.cookielaw.org
+
+[ Other ]
+*.servicecamp.com
+dyngate.com
+
+service.teamviewer.com
+compliance.teamviewer.com 
+community.teamviewer.com
+sso.teamviewer.com
+auth.teamviewer.com
+feedback.teamviewer.com 
+ping.teamviewer.com 
+go.teamviewer.com 
+*.frontlineworker.com
+functions.svc.frontlineworker.com
+
+============================================================
+2. ANYDESK
+============================================================
+
+[ Core Services ]
+anydesk.com
+www.anydesk.com
+my.anydesk.com
+
+[ Network / Relay ]
+net.anydesk.com
+relay.anydesk.com
+boot.net.anydesk.com
+*.ad.anydesk.com
+*.net.anydesk.com
+relay-*.net.anydesk.com
+
+[ API / Download / Updates ]
+api.anydesk.com
+download.anydesk.com
+get.anydesk.com
+update.anydesk.com
+
+[ Analytics / License / CDN ]
+analytics.anydesk.com
+telemetry.anydesk.com
+license.anydesk.com
+cdn.anydesk.com
+
+relay.net.anydesk.com 
+support.anydesk.com 
+blog.anydesk.com 
+
+============================================================
+3. CHROME REMOTE DESKTOP (GOOGLE)
+============================================================
+
+[ Core Services ]
+remotedesktop.google.com
+chrome.google.com/remotedesktop
+remotedesktop.google.com/access
+remotedesktop.google.com/support
+remotedesktop.google.com/_/oauthredirect
+
+[ Google Integration ]
+*.googleapis.com
+*.google.com
+accounts.google.com
+remotedesktop-pa.googleapis.com
+chromoting-client.talkgadget.google.com
+chromoting-oauth.talkgadget.google.com
+chromoting-host.talkgadget.google.com
+console.developers.google.com
+
+[ Analytics / Chrome Sync ]
+google-analytics.com
+*.google-analytics.com
+*.googletagmanager.com
+clients*.google.com
+www.gstatic.com
+
+============================================================
+4. MICROSOFT REMOTE DESKTOP (RDP)
+============================================================
+
+[ Windows Core ]
+*.microsoft.com
+*.windows.com
+*.live.com
+*.msn.com
+
+[ Diagnostics & Telemetry ]
+watson.microsoft.com
+watson.live.com
+watson.telemetry.microsoft.com
+watson.telemetry.microsoft.com.nsatc.net
+watson.ppe.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com.nsatc.net
+oca.telemetry.microsoft.com
+oca.telemetry.microsoft.com.nsatc.net
+oca.microsoft.com
+sqm.telemetry.microsoft.com
+sqm.telemetry.microsoft.com.nsatc.net
+sqm.df.telemetry.microsoft.com
+vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+vortex-sandbox.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+v20.vortex-win.data.microsoft.com
+cy2.vortex.data.microsoft.com.akadns.net
+vortex-bn2.metron.live.com.nsatc.net
+vortex-cy2.metron.live.com.nsatc.net
+settings-win.data.microsoft.com
+settings-sandbox.data.microsoft.com
+events.data.microsoft.com
+df.telemetry.microsoft.com
+reports.wes.df.telemetry.microsoft.com
+wes.df.telemetry.microsoft.com
+services.wes.df.telemetry.microsoft.com
+telemetry.microsoft.com
+telemetry.appex.bing.net
+telemetry.urs.microsoft.com
+telemetry.remoteapp.windowsazure.com
+survey.watson.microsoft.com
+umwatsonc.telemetry.microsoft.com
+kmwatsonc.telemetry.microsoft.com
+umwatsonrouting.trafficmanager.net
+
+[ Azure / Cloud RDP ]
+*.azure.com
+*.azureedge.net
+*.windowsazure.com
+*.blob.core.windows.net
+*.cloudapp.net
+*.trafficmanager.net
+
+[ Microsoft 365 / Windows Update ]
+*.office.com
+*.office365.com
+update.microsoft.com
+*.windowsupdate.com
+
+============================================================
+5. LOGMEIN / GOTO (GOTO COMPANY)
+============================================================
+
+[ LogMeIn Core ]
+logmein.com
+www.logmein.com
+secure.logmein.com
+logmein-gateway.com
+logmeininc.com
+authentication.logmein.com
+gateway.logmein.com
+pro.logmein.com
+central.logmein.com
+
+[ LogMeIn Rescue ]
+secure.logmeinrescue.com
+applets.logmeinrescue.com
+rescue.com
+
+[ Hamachi VPN ]
+hamachi.com
+*.hamachi.cc
+vpn.net
+
+[ GoTo Products ]
+goto.com
+gotomypc.com
+www.gotomypc.com
+status.gotomypc.com
+gotoassist.com
+citrixonline.com
+citrixonlinecdn.com
+expertcity.com
+
+[ Analytics & CDN ]
+analytics.logmein.com
+telemetry.logmein.com
+cdn.logmein.com
+*.akadns.net
+
+getgo.com 
+*.getgo.com
+api.getgo.com
+launch.getgo.com 
+getgocdn.com
+developer.goto.com
+status.goto.com 
+authentication.logmeininc.com 
+simple-help.com
+
+============================================================
+6. SPLASHTOP
+============================================================
+
+[ Core Services ]
+splashtop.com
+www.splashtop.com
+my.splashtop.com
+
+[ Relay / Gateway ]
+relay.splashtop.com
+st-relay.splashtop.com
+*.relay.splashtop.com
+.mobile-relay.splashtop.com
+st-gw.splashtop.com
+gw*.splashtop.com
+
+[ API Servers (v3 / v2) ]
+st-v3.api.splashtop.com
+st-v3-g3.api.splashtop.com
+st-v3-src.api.splashtop.com
+st-v3-src-g3.api.splashtop.com
+st-relay-v3.api.splashtop.com
+st-relay-v3-g3.api.splashtop.com
+st-lookup-v1.api.splashtop.com
+st-lookup-v1-g3.api.splashtop.com
+st2.api.splashtop.com
+st2-relay.api.splashtop.com
+api.splashtop.com
+*.api.splashtop.com
+
+[ Services / Auth ]
+auth.splashtop.com
+business.splashtop.com
+sos.splashtop.com
+sn.splashtop.com
+cdn.splashtop.com
+
+[ Download / Updates ]
+download.splashtop.com
+update.splashtop.com
+*.cloudfront.net
+*.amazonaws.com
+
+[ Analytics ]
+analytics.splashtop.com
+telemetry.splashtop.com
+ssl-ccp.godaddy.com
+
+
+*.api.splashtop.eu 
+update-g3.splashtop.com 
+
+============================================================
+7. VNC 
+============================================================
+
+[ RealVNC ]
+realvnc.com
+www.realvnc.com
+manage.realvnc.com
+account.realvnc.com
+*.realvnc.com
+vnc-cloud.realvnc.com
+vncconnect.realvnc.com
+analytics.realvnc.com
+
+[ RealVNC 
+download.realvnc.com 
+discover.realvnc.com 
+help.realvnc.com 
+
+TightVNC 
+tightvnc.com
+
+[TigerVNC 
+tigervnc.org
+
+UltraVNC
+uvnc.com
+
+[TurboVNC 
+turbovnc.org
+
+[noVNC 
+novnc.com
+
+LibVNC 
+libvnc.github.io
+
+============================================================
+8. NOMACHINE (NX PROTOCOL)
+============================================================
+
+[ Core Services ]
+nomachine.com
+www.nomachine.com
+service.nomachine.com
+update.nomachine.com
+download.nomachine.com
+cloud.nomachine.com
+analytics.nomachine.com
+
+============================================================
+9. BEYONDTRUST (BOMGAR)
+============================================================
+
+[ Core Services ]
+beyondtrust.com
+www.beyondtrust.com
+remote.beyondtrust.com
+*.bomgar.com
+support.bomgar.com
+bomgar.com
+services.beyondtrust.com
+api.beyondtrust.com
+analytics.beyondtrust.com
+telemetry.beyondtrust.com
+
+beyondtrustcloud.com
+cloud.beyondtrust.com 
+stun.bomgar.com 
+
+============================================================
+10. CONNECTWISE CONTROL (SCREENCONNECT)
+============================================================
+
+[ Core Services ]
+control.connectwise.com
+screenconnect.connectwise.com
+screenconnect.com
+www.screenconnect.com
+*.connectwise.com
+*.connectwisecontrol.com
+servers.screenconnect.com
+cloud.screenconnect.com
+screenconnect.trafficmanager.net
+*.screenconnect.net
+*.hostedrmm.com
+instance-*-relay.screenconnect.com
+analytics.connectwise.com
+server-aws*.screenconnect.com
+
+[ Entegrasyonlar ]
+*.webrootcloudav.com
+*.p4.webrootcloudav.com
+*.compute.amazonaws.com
+
+manage.connectwise.com 
+docs.connectwise.com
+
+============================================================
+11. DAMEWARE (SOLARWINDS)
+============================================================
+
+[ Core Services ]
+dameware.com
+www.dameware.com
+solarwinds.com
+www.solarwinds.com
+
+============================================================
+12. REMOTEPC (IDRIVE)
+============================================================
+
+[ Core Services ]
+remotepc.com
+www.remotepc.com
+my.remotepc.com
+download.remotepc.com
+analytics.remotepc.com
+telemetry.remotepc.com
+
+============================================================
+13. ZOHO ASSIST
+============================================================
+
+[ Core Services ]
+zohoassist.com
+www.zohoassist.com
+assist.zoho.com
+assist.zoho.in
+assist.zoho.eu
+assist.zoho.com.au
+assist.zoho.com.cn
+gateway.zohoassist.com
+
+[ Zoho Altyapısı ]
+*.zoho.com
+*.zohocdn.com
+*.zohocdn.com.cn
+join.zoho.com
+zoho.eu
+zoho.in
+zohopublic.com
+zohopublic.in
+*.zohopublic.eu
+zohostatic.com
+*.zohostatic.eu
+creator.cs.zohohost.com
+creator.cs.zohohost.eu
+analytics.zoho.com
+telemetry.zoho.com
+crm.zoho.com
+
+*.zohoassist.eu 
+*.zohoassist.in 
+*.zohoassist.com.au 
+
+============================================================
+14. FIXME.IT / SETME (TECHINLINE)
+============================================================
+FixMe.IT
+fixme.it
+www.fixme.it
+app.fixme.it
+service.fixme.it
+relay.fixme.it
+*.techinline.net
+analytics.fixme.it
+
+[ SetMe ]
+setme.net
+www.setme.net
+set.me
+portal.set.me
+portal.setme.net
+
+TechInLine
+techinline.net
+www.techinline.net
+techinline.com
+www.techinline.com
+blog.techinline.com
+
+*.amazonaws.com
+*.compute.amazonaws.com
+*.azure.com
+*.azureedge.net
+*.cloudapp.net
+
+============================================================
+15. AEROADMIN
+============================================================
+
+[ Core Services ]
+aeroadmin.com
+www.aeroadmin.com
+aeroadmin.org
+www.aeroadmin.org
+
+============================================================
+900100.net
+============================================================
+sims.aeroadmin.com
+2ports.aeroadmin.com
+*.aeroadmin.com
+
+============================================================
+16. AMMYY ADMIN
+============================================================
+
+[ Core Services ]
+ammyy.com
+www.ammyy.com
+rl.ammyy.com
+
+============================================================
+17. LITEMANAGER
+============================================================
+
+[ Core Services ]
+litemanager.com
+www.litemanager.com
+litemanager.org
+www.litemanager.org
+
+litemanager.ru 
+
+============================================================
+18. GETSCREEN.ME
+============================================================
+
+[ Core Services ]
+getscreen.me
+www.getscreen.me
+go.getscreen.me
+api.getscreen.me
+docs.getscreen.me
+status.getscreen.me
+blog.getscreen.me
+cdn.getscreen.me
+*.getscreen.me
+
+============================================================
+19. ULTRAVIEWER
+============================================================
+
+[ Core Services ]
+ultraviewer.net
+www.ultraviewer.net
+update.ultraviewer.net
+hostmaster.ultraviewer.net
+server1.ultraviewer.net
+server2.ultraviewer.net
+server*.ultraviewer.net
+nsbak.pavietnam.net
+
+============================================================
+20. XPRA
+============================================================
+
+[ Core Services ]
+xpra.org
+www.xpra.org
+xpra.org/src
+xpra.org/beta
+xpra.org/dists
+xpra.org/html5
+xpra.org/xpra.asc
+
+============================================================
+21. X2GO
+============================================================
+
+[ Core Services ]
+x2go.org
+wiki.x2go.org
+packages.x2go.org
+
+============================================================
+
+============================================================
+23. THINVNC / THINFINITY (CYBELE SOFTWARE)
+============================================================
+
+[ Core Services ]
+cybelesoft.com
+www.cybelesoft.com
+files.cybelesoft.com
+blog.cybelesoft.com
+
+============================================================
+24. NETSUPPORT MANAGER
+============================================================
+
+[ Core Services ]
+netsupportmanager.com
+www.netsupportmanager.com
+netsupportsoftware.com
+www.netsupportsoftware.com
+support.netsupportsoftware.com
+kb.netsupportsoftware.com
+download.netsupportsoftware.com
+resources.netsupportsoftware.com
+netsupportschool.com
+netsupportdna.com
+netsupportnotify.com
+
+============================================================
+25. RUSTDESK
+============================================================
+
+[ Core Services ]
+rustdesk.com
+
+[ YENİ Eklenen Domainler 
+id.rustdesk.com 
+rs-ny.rustdesk.com 
+rs-sg.rustdesk.com 
+rs-*.rustdesk.com 
+
+============================================================
+
+============================================================
+27. REMMINA
+============================================================
+
+[ Core Services ]
+remmina.org
+
+============================================================
+28. DWSERVICE
+============================================================
+
+[ Core Services ]
+dwservice.net
+www.dwservice.net
+
+node*.dwservice.net 
+news.dwservice.net 
+docs.dwservice.net 
+
+============================================================
+29. HOPTODESK
+============================================================
+
+[ Core Services ]
+hoptodesk.com
+www.hoptodesk.com
+api.hoptodesk.com
+help.hoptodesk.com
+
+relay.hoptodesk.com 
+
+============================================================
+30. MREMOTENG
+============================================================
+
+[ Core Services ]
+mremoteng.org
+
+============================================================
+31. REMOTE UTILITIES
+============================================================
+
+[ Core Services ]
+remoteutilities.com
+www.remoteutilities.com
+id.remoteutilities.com
+
+update.remoteutilities.com 
+
+============================================================
+32. SUPREMO (NANOSYSTEMS)
+============================================================
+
+[ Core Services ]
+supremocontrol.com
+www.supremocontrol.com
+console.supremocontrol.com
+*.supremocontrol.com
+license.nanosystems.it
+nanosystems.it
+*.nanosystems.com
+*.nanosystems.it
+
+shop.nanosystems.it
+
+============================================================
+33. TODESK / DESKIN (ZULER TECHNOLOGY)
+============================================================
+
+[ Core Services ]
+todesk.com
+www.todesk.com
+deskin.io
+www.deskin.io
+enterprise.deskin.io
+my.deskin.io
+dl.todesk.com
+download-todesk.com
+download.deskin.io
+authds.todesk.com
+zuler.com
+www.zuler.com
+
+api.todesk.com 
+relay.todesk.com 
+update.todesk.com 
+*.todesk.com 
+
+============================================================
+34. AWESUN / AWERAY (ORAY)
+============================================================
+
+[ Core Services ]
+awesun.aweray.com
+sunlogin.oray.com
+www.aweray.com
+client.oray.net
+service.oray.com
+service.aweray.com
+ask.oray.com
+sun.aweray.com
+oray.com
+oray.net
+oraybeta.com
+aweray.com
+support.aweray.com
+download.aweray.com
+awesun.aweray.com/en/download
+aweseed.com
+aweshell.com
+
+============================================================
+35. REMOTETOPC
+============================================================
+
+[ Core Services ]
+remotetopc.com
+www.remotetopc.com
+
+[ YENİ (CDN) ]
+remotetopc.b-cdn.net 
+
+============================================================
+36. IPERIUS REMOTE (ENTER SOFTWARE)
+============================================================
+
+[ Core Services ]
+iperiusremote.com
+www.iperiusremote.com
+entersoftware.it
+www.entersoftware.it
+iperiusbackup.com
+iperiusbackup.net
+www.iperiusbackup.net
+console.iperius.com
+iperisconsole.com
+www.iperiusconsole.com
+iperiusstorage.com
+
+global.iperius-rs.com 
+global.iperius-rc.com 
+
+============================================================
+37. JUMP DESKTOP (PHASE FIVE SYSTEMS)
+============================================================
+
+[ Core Services ]
+jumpdesktop.com
+www.jumpdesktop.com
+jumpdesktop.online
+support.jumpdesktop.com
+
+neuron.jumpdesktop.com
+relay-*.jumpdesktop.com 
+jumpto.me 
+
+============================================================
+38. ISL ONLINE (XLAB / PDQ)
+============================================================
+
+[ Core Services ]
+islonline.com
+www.islonline.com
+islonline.net
+www.islonline.net
+isllight.islonline.net
+*.islonline.net
+*.islonline.com
+*.islonline-sandbox.net
+*.islonline-sandbox.com
+help.islonline.com
+islonline.helpjuice.com
+xlab.si
+www.xlab.si
+
+stun.islonline.net
+turn.islonline.net 
+proxy-*.islonline.net 
+
+============================================================
+39. ANYVIEWER (AOMEI)
+============================================================
+
+[ Core Services ]
+anyviewer.com
+www.anyviewer.com
+*.cloudflare.net
+
+============================================================
+40. REEMO (REEMO SAS)
+============================================================
+
+[ Core Services ]
+reemo.io
+www.reemo.io
+preprod.reemo.io
+portal.reemo.io
+restapi.reemo.io
+static.reemo.io
+download.reemo.io
+signal.reemo.io
+*.cloud.reemo.io
+*-signal.cloud.reemo.io
+turn.reemo.io
+turn2.reemo.io
+doc.reemo.io
+docfr.reemo.io
+blog.reemo.io
+
+============================================================
+41. RADMIN (FAMATECH)
+============================================================
+
+[ Core Services ]
+radmin.com
+www.radmin.com 
+radmin-vpn.com
+www.radmin-vpn.com 
+famatech.com
+helpdesk.radmin.com 
+download.radmin.com 
+radmin-club.com 
+
+============================================================
+42. PARALLELS ACCESS
+============================================================
+
+[ Core Services ]
+parallels.com 
+www.parallels.com 
+access.parallels.com 
+my.parallels.com 
+download.parallels.com 
+update.parallels.com 
+*.parallels.com 
