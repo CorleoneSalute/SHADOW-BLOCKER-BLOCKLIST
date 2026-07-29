@@ -1,0 +1,182 @@
+CONSENT MANAGEMENT PLATFORMS (CMP) RESEARCH LIST
+════════════════════════════════════════════════════════════════════════════════ 🔴 CRITICAL — Major CMPs (Cross-Site Tracking Potential) ════════════════════════════════════════════════════════════════════════════════ ┌─ 🔴 OneTrust / CookiePro └────────────────────────────────────────────────────────────────────────────── cookielaw.org 
+cdn.cookielaw.org 
+onetrust.com 
+cookiepro.com 
+optanon.com 
+geolocation.onetrust.com api.cookielaw.org privacyportal.onetrust.com analytics.cookielaw.org 
+cookie-cdn.cookiepro.com api.onetrust.com 
+cdn-ukwest.onetrust.com 
+cdn-apac.onetrust.com
+ cdn-apacau.onetrust.com optanon.blob.core.windows.net 
+cookies-data.onetrust.io 
+app.onetrust.com 
+my.onetrust.com 
+consent-api.onetrust.com consent.onetrust.com scripttemplates.onetrust.com privacyportal-apac.onetrust.com privacyportal-au.onetrust.com privacyportal-cdn.onetrust.com privacyportal-de.onetrust.com privacyportal-eu.onetrust.com privacyportal-na01.onetrust.com privacyportal-uk.onetrust.com
+ cdn-au.onetrust.com
+ otprivacy.com
+ otcc-demo.otprivacy.com developer.onetrust.com
+ mobile-data.onetrust.io explore.onetrust.com
+
+ ┌─ 🔴 CookieYes ⭐ (Google Gold CMP) └────────────────────────────────────────────────────────────────────────────── cdn-cookieyes.com 
+cookieyes.com 
+app.cookieyes.com 
+api.cookieyes.com feedback.cookieyes.com 
+*.cookieyes.com
+log.cookieyes.com 
+
+┌─ 🔴 Ketch ⭐ (Enterprise CMP) └────────────────────────────────────────────────────────────────────────────── global.ketchcdn.com
+ ketchcdn.com 
+*.ketchcdn.com 
+ketch.com 
+app.ketch.com 
+api.ketch.com 
+developers.ketch.com 
+privacy.ketch.com 
+
+┌─ 🔴 CookieScript ⭐ (Google Gold CMP) └────────────────────────────────────────────────────────────────────────────── cdn.cookie-script.com
+ cookie-script.com 
+api.cookie-script.com
+ help.cookie-script.com 
+report.cookie-script.com 
+
+┌─ 🔴 Concord ⭐ (Google Gold CMP - Dec 2024) └────────────────────────────────────────────────────────────────────────────── api.concord.tech
+ admin.concord.tech 
+concord.tech
+ developers.concord.tech 
+cdn.concord.tech 
+embed.concord.tech 
+
+┌─ 🔴 Enzuzo ⭐ (Google Gold CMP - Canadian) └────────────────────────────────────────────────────────────────────────────── enzuzo.com 
+app.enzuzo.com 
+cdn.enzuzo.com 
+api.enzuzo.com 
+ help.enzuzo.com ══════════════════════════════════════════════════════════════════════════════
+
+══ 🟠 HIGH PRIORITY — Major CMPs ════════════════════════════════════════════════════════════════════════════════ ┌─ 🟠 Cookiebot └────────────────────────────────────────────────────────────────────────────── cookiebot.com 
+consent.cookiebot.com consentcdn.cookiebot.com geo.cookiebot.com
+ api.cookiebot.com 
+cookiebot.azurefd.net consent.cookiebot.eu consentcdn.cookiebot.eu imgsct.cookiebot.com manage.cookiebot.com admin.cookiebot.com
+
+ ┌─ 🟠 Sourcepoint └────────────────────────────────────────────────────────────────────────────── sourcepoint.com 
+cdn.privacy-mgmt.com
+ message.privacy-mgmt.com
+ cdn.sp-prod.net sourcepoint.mgr.consensu.org 
+cert.privacy-mgmt.com geolocation.sourcepoint.com assets.sourcepoint.com 
+api.privacy-mgmt.com 
+d2zv5rkii46miq.cloudfront.net
+ mms.sp-prod.net 
+message.sp-prod.net summerhamster.com 
+api.sourcepoint.com
+ wrapper-api.sp-prod.net 
+ccpa.sp-prod.net amp.pm.sourcepoint.mgr.consensu.org pm.sourcepoint.mgr.consensu.org d3fkv551xkjrmm.cloudfront.net  
+*.privacy-mgmt.com
+ *.sp-prod.net 
+store.sp-prod.net 
+docs.sourcepoint.com
+
+ ┌─ 🟠 Consent Studio ⭐ (Google Silver CMP) └────────────────────────────────────────────────────────────────────────────── consent.studio 
+
+┌─ 🟠 CookieFirst (Google Certified CMP) └────────────────────────────────────────────────────────────────────────────── consent.cookiefirst.com
+ cookiefirst.com 
+api.cookiefirst.com
+ banner.cookiefirst.com support.cookiefirst.com ══════════════════════════════════════════════════════════════════════════════
+
+══ 🟡 MEDIUM PRIORITY — Mid-Tier CMPs ════════════════════════════════════════════════════════════════════════════════ 
+
+┌─ 🟡 Didomi └────────────────────────────────────────────────────────────────────────────── didomi.io 
+sdk.privacy-center.org 
+consent.didomi.io 
+api.privacy-center.org 
+api.didomi.io 
+privacy-center.org 
+cmp.didomi.io 
+console.didomi.io sdk.didomi.io geo.privacy-center.org 
+notice.didomi.io 
+ amp.didomi.io
+ developers.didomi.io 
+
+┌─ 🟡 Osano └────────────────────────────────────────────────────────────────────────────── osano.com 
+cmp.osano.com 
+consent.api.osano.com tattle.api.osano.com 
+uc.api.osano.com 
+my.osano.com 
+developers.osano.com çunifiedconsent.osano.com cdn.osano.com
+ storage.osano.com
+
+ ┌─ 🟡 Usercentrics └────────────────────────────────────────────────────────────────────────────── usercentrics.com 
+app.usercentrics.eu
+ sdk.usercentrics.eu 
+api.usercentrics.eu web.cmp.usercentrics.eu web.eu1.cmp.usercentrics.eu account.usercentrics.eu
+ privacy-proxy.usercentrics.eu *.usercentrics.eu 
+*.cmp.usercentrics.eu graphql.usercentrics.eu aggregator.service.usercentrics.eu
+
+┌─ 🟡 UniConsent ⭐⭐ (IAB TCF 2.2 Certified) └────────────────────────────────────────────────────────────────────────────── uniconsent.com 
+www.uniconsent.com cmp.uniconsent.com
+ app.uniconsent.com 
+consent.preference-center.com cdn.uniconsent.com 
+api.uniconsent.com 
+geo.uniconsent.com 
+
+┌─ 🟡 Seers AI ⭐⭐ (Google Gold CMP - AI-Powered) └────────────────────────────────────────────────────────────────────────────── seers.ai 
+seersco.com
+ dashboard.seersco.com
+ cmp.seersco.com
+ cdn.seersco.com 
+app.seersco.com 
+support.seersco.com seerssupport.zendesk.com api.seersco.com 
+geolocation.seersco.com 
+
+┌─ 🟡 CookieHub ⭐⭐ (Google Certified - 30K+ Websites) └────────────────────────────────────────────────────────────────────────────── cookiehub.com 
+cookiehub.net 
+cdn.cookiehub.eu 
+dash.cookiehub.com
+ www.cookiehub.com 
+ds.cookiehub.net 
+consent.cookiehub.net 
+consent-eu.cookiehub.net 
+region-eu.cookiehub.net support.cookiehub.com docs.cookiehub.com 
+
+┌─ 🟡 Secure Privacy ⭐⭐⭐ (Google Gold - 1.4M+ Websites) └────────────────────────────────────────────────────────────────────────────── secureprivacy.ai 
+app.secureprivacy.ai support.secureprivacy.ai cdn.secureprivacy.ai 
+api.secureprivacy.ai ════════════════════════════════════════════════════════════════════════════════ 
+
+🟢 LOW PRIORITY — Smaller/Regional CMPs ════════════════════════════════════════════════════════════════════════════════ 
+
+┌─ 🟢 Civic (CivicUK) └────────────────────────────────────────────────────────────────────────────── civicuk.com
+ cc.cdn.civiccomputing.com apikeys.civicuk.com 
+cookie-control.civicuk.com civiccomputing.com
+ account.civicuk.com 
+
+┌─ 🟢 CCM19 (German CMP - EU Only) └────────────────────────────────────────────────────────────────────────────── ccm19.de api.ccm19.de www.docs.ccm19.de
+docs.ccm19.de
+
+ ┌─ 🟢 AdOpt (Brazilian CMP) └────────────────────────────────────────────────────────────────────────────── goadopt.io 
+dash.goadopt.io 
+static.goadopt.io 
+disclaimer-api.goadopt.io
+ adopt-api.goadopt.io 
+
+┌─ 🟢 Axeptio └────────────────────────────────────────────────────────────────────────────── axeptio.eu 
+static.axept.io 
+axept.io 
+*.axept.io 
+*.axeptio.eu 
+*.axeptio.tech 
+axeptio.imgix.net 
+axeptio-videos.imgix.net 
+fonts.axept.io 
+api.axept.io 
+support.axeptio.eu 
+
+┌─ 🟢 ConsentManager.net └────────────────────────────────────────────────────────────────────────────── consentmanager.net delivery.consentmanager.net cdn.consentmanager.net [cdn.consentmanager.mgr.consensu.org help.consentmanager.net app.consentmanager.net
+
+ ┌─ 🟢 CookieInformation └────────────────────────────────────────────────────────────────────────────── cookieinformation.com app.cookieinformation.com policy.app.cookieinformation.com support.cookieinformation.com ══════════════════════════════════════════════════════════════════════════════
+
+══ 🔵 NICHE / SPECIALIZED CMPs ════════════════════════════════════════════════════════════════════════════════ ┌─ 🔵 PrivacyCheq ⭐ (COPPA/Mobile-First API-Based CMP) └────────────────────────────────────────────────────────────────────────────── privacycheq.com 
+new.privacycheq.com www.privacycheq.com 
+consentcheq.com
+ agecheq.com 
+api.privacycheq.com 
+api.consentcheq.com cdn.consentcheq.com 
+privacynq.com ═════════════════════════════════════════════════════════════════════════════
