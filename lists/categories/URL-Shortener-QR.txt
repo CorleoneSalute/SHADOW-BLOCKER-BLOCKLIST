@@ -1,8 +1,7 @@
-# ============================================================
 # URL SHORTENER / LINK TRACKING BLOCKLIST
-# Toplam Domain Sayısı: 321
-# Son Güncelleme: (2026-07-16)
-============================================================
+# Total domains: 321
+# Last update: 2026/07/16
+# Note: trailing "!" marks a domain as aggressive-only
 
 # --- BITLY --- (4 domain)
 bitly.lc !
@@ -20,19 +19,19 @@ shortcm.li !
 shortcm.xyz !
 analytics.short.io
 
-# --- TIER 3 - RUSYA --- (1 domain)
+# --- RUSSIA --- (1 domain)
 ezstat.ru
 
-# --- TIER 3 - VİETNAM --- (1 domain)
+# --- VIETNAM --- (1 domain)
 bcvc.live !
 
-# --- TIER 3 - KORE --- (1 domain)
+# --- KOREA --- (1 domain)
 han.gl !
 
-# --- TIER 3 - ENDONEZYA (S.ID) --- (1 domain)
+# --- INDONESIA (S.ID) --- (1 domain)
 analytics.s.id
 
-# --- TIER 3 - TAİWAN (LİHİ NETWORK) --- (2 domain)
+# --- TAIWAN (LİHİ NETWORK) --- (2 domain)
 lihi1.com !
 lihi3.cc !
 
@@ -185,14 +184,14 @@ stratoplot.com
 streamvoyage.com
 svencrai.com
 
-# --- TIER 4 - LINKBUCKS --- (5 domain)
+# --- LINKBUCKS --- (5 domain)
 linkbucks.com
 any.gs
 cash4links.co
 amy.gs
 tinylink.co
 
-# --- TIER 4 - SPAM SHORTENER'LAR --- (6 domain)
+# --- SPAM SHORTENERS --- (6 domain)
 ity.im
 cli.gs
 tinyarro.ws
@@ -200,7 +199,7 @@ ta.gd
 zip.net
 shink.in
 
-# --- TIER 4 - ŞÜPHELİ / GÜVENİLMEZ --- (29 domain)
+# --- SUSPICIOUS / UNTRUSTWORTHY --- (29 domain)
 shorturl.at
 cutt.ly
 cutt.bio
@@ -231,7 +230,7 @@ cuttlinks.com
 cutly.in
 vplink.in
 
-# --- TIER 4 - MALWARE DAĞITIMI --- (7 domain)
+# --- MALWARE DISTRIBUTION --- (7 domain)
 ois.is
 c-lick.click
 t-e.site
@@ -240,11 +239,11 @@ g16g.com
 cnhv.co
 bt.ly
 
-# --- TIER 4 - QR KOD İSTİSMARI --- (2 domain)
+# --- QR CODE ABUSE --- (2 domain)
 qrco.de
 api.qrco.de
 
-# --- TIER 4 - IP LOGGER / TRACKER --- (7 domain)
+# --- IP LOGGER / TRACKER --- (7 domain)
 iplogger.co
 iplogger.com
 iplogger.info
@@ -253,23 +252,23 @@ iplogger.ru
 ipgrabber.ru
 ipgraber.ru
 
-# --- TIER 5 - CLICKMETER --- (2 domain)
+# --- CLICKMETER --- (2 domain)
 clickmeter.com
 clkmr.com
 
-# --- TIER 5 - KUTT.IT --- (1 domain)
+# --- KUTT.IT --- (1 domain)
 kutt.it !
 
-# --- TIER 5 - REPLUG --- (3 domain)
+# --- REPLUG --- (3 domain)
 rplg.co
 replug.io
 replug.link
 
-# --- TIER 5 - JOTURL --- (2 domain)
+# --- JOTURL --- (2 domain)
 trk.joturl.com
 track.joturl.com
 
-# --- TIER 5 - PIXELME --- (6 domain)
+# --- PIXELME --- (6 domain)
 pixelme.me
 pixel.me
 pxlme.me
@@ -277,17 +276,17 @@ getpixelme.com
 pixelme.app
 pixelme.io
 
-# --- TIER 5 - LINKJOY --- (2 domain)
+# --- LINKJOY --- (2 domain)
 linkjoy.io
-scottnesbitt.io # ⚠️ (Domain satılmış, scam kumar sitesine yönlendiriyor)
+scottnesbitt.io # ⚠️ (Domain has been sold and now redirects to a fraudulent gambling site)
 
-# --- TIER 5 - DİĞER TİCARİ PLATFORMLAR --- (4 domain)
+# --- OTHER COMMERCIAL PLATFORMS --- (4 domain)
 urlshorter.com
 slink.to
 pxl.to
 www.pxl.to
 
-# --- TIER 7 - EK SHORTENER'LAR --- (17 domain)
+# --- More SHORTENER --- (17 domain)
 ads.tinu.be
 yaso.su
 track.foxlyme.com
@@ -306,7 +305,7 @@ lnk.do
 shorten.so
 shorter.me
 
-# --- TIER 8 - LINKVERTISE --- (8 domain)
+# --- LINKVERTISE --- (8 domain)
 linkvertise.com !
 ad-server.linkvertise.com
 ads-preview.linkvertise.com
@@ -316,110 +315,110 @@ api-advertiser.linkvertise.com
 advertiser.linkvertise.com
 migrate-adfly.linkvertise.com
 
-# --- TIER 8 - WORK.INK --- (4 domain)
+# --- WORK.INK --- (4 domain)
 temu.work.ink
 opera-banner-router.work.ink
 tr.work.ink
 sentry.work.ink
 
-# --- TIER 8 - SHORTE.ST --- (3 domain)
+# --- SHORTE.ST --- (3 domain)
 analytics.shorte.st
 collector.shorte.st
 tracking.shorte.st
 
-# --- TIER 8 - UII.IO --- (1 domain)
+# --- UII.IO --- (1 domain)
 uii.io # ⚠️ (scam)
 
-# --- TIER 8 - LINKREX --- (2 domain)
+# --- LINKREX --- (2 domain)
 linkrex.net
 xut.io # ⚠️ (scam)
 
-# --- TIER 8 - ADFOC.US --- (1 domain)
+# --- ADFOC.US --- (1 domain)
 adfoc.us # ⚠️ (scam)
 
-# --- TIER 8 - CPMLINK --- (1 domain)
+# --- CPMLINK --- (1 domain)
 cpmlink.net # ⚠️ (scam)
 
-# --- TIER 8 - URLCASH --- (2 domain)
+# --- URLCASH --- (2 domain)
 urlcash.com
 urlcash.net # ⚠️ (scam)
 
-# --- TIER 8 - PAYSKIP --- (2 domain)
+# --- PAYSKIP --- (2 domain)
 payskip.org !
 payskip.me !
 
-# --- TIER 8 - SPASTE --- (1 domain)
+# --- SPASTE --- (1 domain)
 spaste.com !
 
-# --- TIER 8 - CLICKSFLY --- (4 domain)
+# --- CLICKSFLY --- (4 domain)
 clicksfly.com !
 api.clicksfly.com
 app.clicksfly.com
 clk.asia
 
-# --- TIER 8 - ADSHRINK --- (1 domain)
+# --- ADSHRINK --- (1 domain)
 adshrink.it !
 
-# --- TIER 8 - VIVADS --- (1 domain)
+# --- VIVADS --- (1 domain)
 vivads.net !
 
-# --- TIER 8 - OKE.IO --- (1 domain)
+# --- OKE.IO --- (1 domain)
 oke.io !
 
-# --- TIER 8 - DZ4LINK --- (1 domain)
+# --- DZ4LINK --- (1 domain)
 dz4link.com # ⚠️ (adware, PUP)
 
-# --- TIER 8 - ADMYLINK --- (1 domain)
+# --- ADMYLINK --- (1 domain)
 admylink.com !
 
-# --- TIER 8 - ICUTLINK --- (1 domain)
+# --- ICUTLINK --- (1 domain)
 icutlink.com !
 
-# --- TIER 8 - SHRTFLY --- (2 domain)
+# --- SHRTFLY --- (2 domain)
 shrtfly.com
 analytics.shrtfly.com
 
-# --- TIER 8 - GESTYY --- (1 domain)
+# --- GESTYY --- (1 domain)
 gestyy.com # ⚠️ (adware, virus)
 
-# --- TIER 8 - AYLINK --- (1 domain)
+# --- AYLINK --- (1 domain)
 aylink.co !
 
-# --- TIER 8 - FC.LC --- (2 domain)
+# --- FC.LC --- (2 domain)
 fc.lc !
 fc-lc.com
 
-# --- TIER 8 - COINURL --- (1 domain)
+# --- COINURL --- (1 domain)
 coinurl.com !
 
-# --- TIER 8 - CUR.LV --- (1 domain)
+# --- CUR.LV --- (1 domain)
 cur.lv !
 
-# --- TIER 8 - ADLOCK --- (1 domain)
+# --- ADLOCK --- (1 domain)
 adlock.org !
 
-# --- TIER 8 - LINKSHRINK --- (1 domain)
+# --- LINKSHRINK --- (1 domain)
 linkshrink.net # ⚠️ (malware)
 
-# --- TIER 8 - SAFELINKING --- (1 domain)
-safelinking.net # ⚠️ (2024 veri sızıntısı, güvenilmez altyapı)
+# --- SAFELINKING --- (1 domain)
+safelinking.net # ⚠️ (2024 Data Breach - Untrustworthy Infrastructure)
 
-# --- TIER 8 - CUTWIN --- (1 domain)
+# --- CUTWIN --- (1 domain)
 cutwin.com !
 
-# --- TIER 8 - EK MONETİZASYON --- (3 domain)
+# --- More Shortener --- (3 domain)
 smoner.com !
 uskip.me !
 exee.io !
 
-# --- TIER 9 - ANKET SCAM VE KİMLİK AVCILIĞI --- (5 domain)
+# --- SURVEY SCAM AND IDENTITY PHISHING --- (5 domain)
 linksfly.me 
 linksfly.link 
 linkfly.to 
 shortener.space 
 vt7.site 
 
-# --- TIER 10 - GEÇİCİ / TEK KULLANIMLIK --- (7 domain)
+# --- TEMPORARY / DISPOSABLE --- (7 domain)
 1ty.me !
 thislinkwillselfdestruct.com !
 tlwsd.in !
@@ -428,7 +427,7 @@ url.dev !
 burn.link !
 protonurl.ch !
 
-# --- TIER 11 - SMS ABONELİK TUZAKLARI --- (3 domain)
+# --- SMS SUBSCRIPTION TRAPS --- (3 domain)
 alturl.com 
 lc.chat 
 minm.xyz 
