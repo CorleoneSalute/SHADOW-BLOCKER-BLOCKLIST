@@ -1,4 +1,4 @@
-# VOIP & VIDEO CALL BLOCKLIST
+# VoIP & VIDEO CALL BLOCKLIST
 # Last update: 2026-7-16
 # Total domains: 28
 # Note: trailing "!" marks a domain as aggressive-only
