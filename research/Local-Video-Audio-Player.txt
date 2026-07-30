@@ -1,0 +1,2189 @@
+LOCAL VIDEO & AUDIO PLAYERS RESEARCH LIST
+
+🇨🇳 CHINESE VIDEO PLAYERS
+
+=== MX PLAYER (Times Internet) ===
+
+Core Domains (Times Internet era)
+
+-   mxplayer.in
+
+-   www.mxplayer.in
+
+-   api.mxplayer.in
+
+-   mxcdn.in
+
+-   mx.mxplayer.in
+
+-   player.mxplayer.in
+
+-   api.mxplay.com
+
+-   api-gateway.mxplayer.in
+
+-   links.mxplayer.in
+
+-   mxplayeronline.onelink.me
+
+Streaming CDN
+
+-   mxplayer-vod.akamaized.net
+
+-   mxplayerott.akamaized.net
+
+-   mxplayer-prod.akamaized.net
+
+-   img.mxplayer.in
+
+-   images.mxplayer.in
+
+-   static.mxplayer.in
+
+Analytics & Telemetry
+
+-   analytics.mxplayer.in
+
+-   events.mxplayer.in
+
+-   telemetry.mxplayer.in
+
+-   metrics.mxplayer.in
+
+-   tracking.mxplayer.in
+
+-   stats.mxplayer.in
+
+Advertising
+
+-   ads.mxplayer.in
+
+-   adserver.mxplayer.in
+
+-   ad.mxplayer.in
+
+-   adx.mxplayer.in
+
+API Infrastructure
+
+-   graphql.mxplayer.in
+
+-   auth.mxplayer.in
+
+-   gateway.mxplayer.in
+
+-   login.mxplayer.in
+
+-   user.mxplayer.in
+
+Parent Company (Times Internet)
+
+-   timesinternet.in
+
+-   www.timesinternet.in
+
+-   ads.timesinternet.in
+
+-   analytics.timesinternet.in
+
+-   api.timesinternet.in
+
+=== XPLAYER (InShot Inc. - CHINA) ===
+
+XPlayer Official
+
+-   xplayerapp.com
+
+-   www.xplayerapp.com
+
+-   api.xplayerapp.com
+
+-   cdn.xplayerapp.com
+
+-   download.xplayerapp.com
+
+-   update.xplayerapp.com
+
+Analytics & Telemetry
+
+-   analytics.xplayerapp.com
+
+-   events.xplayerapp.com
+
+★ InShot Inc. (Parent Company) 
+
+-   ★ inshot.com
+
+-   ★ www.inshot.com
+
+-   ★ inshotapp.com
+
+-   ★ api.inshotapp.com
+
+-   ★ cdn.inshotapp.com
+
+-   ★ inshot.app
+
+-   ★ inshot.dev
+
+Chinese Ad Networks (Umeng - Alibaba)
+
+-   umeng.com
+
+-   umtrack.com
+
+-   umeng.co
+
+-   umsns.com
+
+-   alog.umeng.com
+
+-   ulogs.umeng.com
+
+-   umengcloud.com
+
+-   1alog.umeng.com
+
+-   aaid.umeng.com
+
+-   account.umeng.com
+
+-   acda.umeng.com
+
+-   api.umeng.com
+
+-   au.umeng.com
+
+-   autils.umeng.com
+
+-   client.cpd.umeng.com
+
+-   client.mpd.umeng.com
+
+-   cpd.umeng.com
+
+-   et.umeng.com
+
+-   log.umeng.com
+
+-   msg.umeng.com
+
+-   mpd.umeng.com
+
+-   oc.umeng.com
+
+-   plbslog.umeng.com
+
+-   pmsapi.umeng.com
+
+-   pmsg.umeng.com
+
+-   uapp.umeng.com
+
+-   ugame.umeng.com
+
+-   ulog.umeng.com
+
+-   uop.umeng.com
+
+-   upush.umeng.com
+
+-   ack.upush.umeng.com
+
+-   utmconfig.umeng.com
+
+-   utoken.umeng.com
+
+-   uweb.umeng.com
+
+-   video.umeng.com
+
+-   web.umeng.com
+
+-   weiw.umeng.com
+
+-   workbench.umeng.com
+
+-   api.wsq.umeng.com
+
+-   wsq.umeng.com
+
+=== PLAYIT (Lenovo/Infinitum - CHINA) ===
+
+-   playit.pk
+
+-   www.playit.pk
+
+-   api.playit.pk
+
+-   cdn.playit.pk
+
+-   stream.playit.pk
+
+-   download.playit.pk
+
+-   update.playit.pk
+
+-   playit.app
+
+Infinitum Technology (Developer)
+
+-   infinitum.co
+
+-   www.infinitum.co
+
+-   api.infinitum.co
+
+-   cdn.infinitum.co
+
+-   analytics.infinitum.co
+
+Analytics
+
+-   analytics.playit.pk
+
+-   telemetry.playit.pk
+
+-   events.playit.pk
+
+-   metrics.playit.pk
+
+-   tracking.playit.pk
+
+-   stats.playit.pk
+
+Lenovo (Parent Company)
+
+-   lenovomm.com
+
+-   www.lenovomm.com
+
+-   mobileapi.lenovo.com
+
+-   appcloud.lenovo.com
+
+-   lenovo-em.com
+
+-   api.lenovomm.com
+
+-   analytics.lenovomm.com
+
+=== BSPLAYER (BST Labs) ===
+
+-   bsplayer.com
+
+-   www.bsplayer.com
+
+-   api.bsplayer.com
+
+-   cdn.bsplayer.com
+
+-   update.bsplayer.com
+
+-   download.bsplayer.com
+
+-   forum.bsplayer.com
+
+-   bstlabs.com
+
+-   www.bstlabs.com
+
+-   api.bstlabs.com
+
+Analytics
+
+-   analytics.bsplayer.com
+
+-   stats.bsplayer.com
+
+-   telemetry.bsplayer.com
+
+-   tracking.bsplayer.com
+
+Subtitle Servers
+
+-   api.bsplayer-subtitles.com
+
+-   s1.api.bsplayer-subtitles.com
+
+-   s2.api.bsplayer-subtitles.com
+
+-   s3.api.bsplayer-subtitles.com
+
+-   s4.api.bsplayer-subtitles.com
+
+-   s5.api.bsplayer-subtitles.com
+
+-   s6.api.bsplayer-subtitles.com
+
+-   s7.api.bsplayer-subtitles.com
+
+-   s8.api.bsplayer-subtitles.com
+
+-   s101.api.bsplayer-subtitles.com
+
+-   s102.api.bsplayer-subtitles.com
+
+-   s103.api.bsplayer-subtitles.com
+
+-   s104.api.bsplayer-subtitles.com
+
+-   s105.api.bsplayer-subtitles.com
+
+-   s106.api.bsplayer-subtitles.com
+
+-   s107.api.bsplayer-subtitles.com
+
+-   s108.api.bsplayer-subtitles.com
+
+-   s109.api.bsplayer-subtitles.com
+
+-   bsplayer-cdn.akamaized.net
+
+=== HD VIDEO PLAYER / ROCKS PLAYER (Rareprob - India - CRITICAL!) ===
+
+-   rareprob.com
+
+-   www.rareprob.com
+
+-   rocksplayer.com
+
+-   www.rocksplayer.com
+
+-   ★ pp.rareprob.com
+
+-   ★ api.rareprob.com
+
+-   ★ cdn.rareprob.com
+
+=== FX PLAYER (FIPE Labs / MINIQUE.AI - South Korea) ===
+
+-   fipeplayer.web.app
+
+=== FAST PLAYER (Huamei Xi - CHINA - CRITICAL TRACKING!) ===
+
+-   huamei-d3650.web.app
+
+-   huamei-d3650.firebaseapp.com
+
+-   163.com
+
+-   mail.163.com
+
+-   google-analytics.com
+
+-   firebase.googleapis.com
+
+-   firebaseinstallations.googleapis.com
+
+-   firebaselogging.googleapis.com
+
+-   app-measurement.com
+
+=== MKPLAYER / WMV HD PLAYER ===
+
+-   rockysandstudio.com
+
+-   www.rockysandstudio.com
+
+-   maccastudios.com
+
+-   www.maccastudios.com
+
+=== GENERIC CHINESE VIDEO PLAYERS (Pattern Domains) ===
+
+-   videoplayerapp.com
+
+-   allformatplayer.com
+
+-   hdplayerapp.com
+
+-   videoplayer-hd.com
+
+-   superplayerapp.com
+
+-   bestvideoplayer.com
+
+-   maxvideoplayer.com
+
+-   ultraplayerapp.com
+
+-   allvideoplayerhd.com
+
+-   fullhdplayer.com
+
+-   4kplayerapp.com
+
+-   proplayerapp.com
+
+Chinese Analytics (Baidu)
+
+-   baidustatic.com
+
+-   cpro.baidu.com
+
+-   mobads.baidu.com
+
+-   pos.baidu.com
+
+-   hm.baidu.com
+
+-   eclick.baidu.com
+
+-   nsclick.baidu.com
+
+Tencent
+
+-   tencentcs.com
+
+-   gtimg.com
+
+-   gtimg.cn
+
+-   qpic.cn
+
+-   qlogo.cn
+
+-   qq.com
+
+-   qq.com.cn
+
+-   e.qq.com
+
+-   pingtcss.qq.com
+
+-   pingjs.qq.com
+
+-   pingtas.qq.com
+
+-   pingma.qq.com
+
+-   docs.gtimg.com
+
+-   open.gtimg.cn
+
+-   turing.captcha.gtimg.com
+
+-   global.captcha.gtimg.com
+
+-   ime.gtimg.com
+
+Alibaba Analytics
+
+-   mmstat.com
+
+-   atanx.alicdn.com
+
+-   alimama.com
+
+-   tanx.com
+
+-   alicdn.com
+
+-   baichuan-sdk.alicdn.com
+
+-   baichuan-sdk.taobao.com
+
+-   acs4baichuan.m.taobao.com
+
+-   adash.m.taobao.com
+
+-   adashbc.ut.taobao.com
+
+-   adashx.m.taobao.com
+
+-   adashx4yt.m.taobao.com
+
+-   adashxgc.ut.taobao.com
+
+-   alidns.com
+
+-   vip1.alidns.com
+
+-   vip2.alidns.com
+
+ByteDance (TikTok parent)
+
+-   bytedance.com
+
+-   bytedance.net
+
+-   byteimg.com
+
+-   byteoversea.com
+
+-   ibytedtos.com
+
+-   bytegoofy.com
+
+-   douyin.com
+
+-   www.douyin.com
+
+-   huoshan.com
+
+-   xigua.com
+
+-   ixigua.com
+
+-   snssdk.com
+
+-   zijieapi.com
+
+-   toutiaoapi.com
+
+-   toutiao.com
+
+-   www.toutiao.com
+
+-   douyincdn.com
+
+-   douyinstatic.com
+
+Kuaishou
+
+-   kuaishou.com
+
+-   www.kuaishou.com
+
+-   kwai.com
+
+-   kwai.net
+
+-   gifshow.com
+
+-   ksapisrv.com
+
+Chinese Push Notification Services
+
+-   jpush.cn
+
+-   jpush.io
+
+-   getui.com
+
+-   igexin.com
+
+-   xg.qq.com
+
+Additional Chinese Ad Networks
+
+-   inmobi.cn
+
+-   adview.cn
+
+-   youmi.net
+
+-   adwo.com
+
+-   waps.cn
+
+-   domob.com
+
+-   domob.cn
+
+⚠️ COMMERCIAL PLAYERS 
+
+=== SAMSUNG VIDEO PLAYER ===
+
+Samsung Analytics (Heavy telemetry!)
+
+-   samsunganalytics.com
+
+-   samsunganalytics.net
+
+-   analytics-api.samsungcloud.com
+
+-   samsungqbe.com
+
+-   log.samsunganalytics.com
+
+-   log-config.samsungacr.com
+
+-   acr-eu-prd.samsungcloud.tv
+
+-   acr0.samsungcloudsolution.com
+
+-   log-ingestion-eu.samsungacr.com
+
+-   log-ingestion.samsungacr.com
+
+-   devicelog.samsungcloudsolution.net
+
+-   time.samsungcloudsolution.net
+
+-   lcprd1.samsungcloudsolution.net
+
+-   lcprd2.samsungcloudsolution.net
+
+Samsung Ads
+
+-   samsungads.com
+
+-   ad.samsungadhub.com
+
+-   ads.samsung.com
+
+-   samsungadhub.com
+
+-   gpm.samsungqbe.com
+
+-   config.samsungads.com
+
+-   events.samsungads.com
+
+Samsung TV Plus
+
+-   samsungtvplus.com
+
+-   www.samsungtvplus.com
+
+-   api.samsungtvplus.com
+
+Samsung Video App Specific
+
+-   video.samsung.com
+
+-   samsungvideo.com
+
+-   cdn.samsungcloudsolution.com
+
+-   noticecdn.samsungcloudsolution.com
+
+-   notice.samsungcloudsolution.com
+
+-   upu.samsungelectronics.com
+
+-   dpu.samsungelectronics.com
+
+-   kpu.samsungelectronics.com
+
+-   osb-apps.samsungqbe.com
+
+-   osb.samsungqbe.com
+
+-   www.samsungotn.net
+
+-   www.samsungrm.net
+
+-   multiscreen.samsung.com
+
+-   ★ samsungcloudsolution.com
+
+-   ★ samsungcloudsolution.net
+
+-   ★ samsungacr.com
+
+-   ★ samsungrm.net
+
+-   ★ samsungotn.net
+
+-   ★ samsungosp.com
+
+-   ★ samsungelectronics.com
+
+-   ★ samsungiotcloud.com
+
+-   ★ samsungnyc.com
+
+-   ★ samsungyosemite.com
+
+-   ★ fkp.samsungcloudsolution.com
+
+-   ★ fkp.samsungcloudsolution.net
+
+-   ★ log-1.samsungacr.com
+
+-   ★ log-2.samsungacr.com
+
+-   ★ log-3.samsungacr.com
+
+-   ★ musicid.samsungcloudsolution.com
+
+-   ★ noticefile.samsungcloudsolution.com
+
+-   ★ oempprd.samsungcloudsolution.com
+
+-   ★ oempprd.samsungcloudsolution.net
+
+-   ★ prderrordumphsm.samsungcloudsolution.com
+
+-   ★ openapi.samsung.com
+
+-   ★ sca.samsung.com
+
+-   ★ vdterms.samsungcloudsolution.com
+
+-   ★ auth.samsungosp.com
+
+-   ★ pavv.co.kr
+
+-   ★ infolink.pavv.co.kr
+
+=== KM PLAYER (Pandora TV - Korea) ===
+
+-   kmplayer.com
+
+-   www.kmplayer.com
+
+-   api.kmplayer.com
+
+-   cdn.kmplayer.com
+
+-   update.kmplayer.com
+
+-   pandoratv.com
+
+-   www.pandoratv.com
+
+-   api.pandoratv.com
+
+-   pandoratvvideo.com
+
+-   cdn.pandora.tv
+
+-   imgcdn.pandora.tv
+
+=== GOM PLAYER (Korea - ads/telemetry) ===
+
+-   gomlab.com
+
+-   www.gomlab.com
+
+-   gomplayer.com
+
+-   api.gomlab.com
+
+-   cdn.gomlab.com
+
+-   ads.gomlab.com
+
+-   analytics.gomlab.com
+
+-   gretech.com
+
+-   app.gomtv.com
+
+-   player.gomlab.com
+
+-   gomremote.com
+
+-   update.gomlab.com
+
+-   ★ gom.com
+
+-   ★ www.gom.com
+
+-   ★ cdn.gretech.com
+
+-   ★ gretech.co.kr
+
+-   ★ api.gretech.com
+
+=== POT PLAYER (Kakao/Daum - Korea) ===
+
+-   potplayer.daum.net
+
+-   daumpotplayer.com
+
+-   play.kakao.com
+
+-   track.tiara.daum.net
+
+-   t1.daumcdn.net
+
+-   p1-play.edge4k.com
+
+-   p2-play.edge4k.com
+
+-   p1-play.kgslb.com
+
+-   p2-play.kgslb.com
+
+-   analytics.ad.daum.net
+
+-   display.ad.daum.net
+
+-   adverweb.cjenm.com
+
+-   videofarm.daum.net
+
+-   potplayer.tv
+
+-   potplayer.io
+
+-   potplayer.app
+
+-   kakao.com
+
+-   api.kakao.com
+
+-   ★ daum.net
+
+-   ★ daumcdn.net
+
+-   ★ stat.tiara.kakao.com
+
+-   ★ stat.tiara.g.daum.net
+
+-   ★ play.gl.kakao.com
+
+-   ★ t1.int.daumcdn.net
+
+-   ★ t1.wg2vgaja.kgslb.com
+
+-   ★ kyson.ad.daum.net
+
+-   ★ hanmail.net
+
+-   ★ opensubtitles.org
+
+-   ★ api.opensubtitles.org
+
+=== ALL VIDEO DOWNLOADER ===
+
+-   allvideodownloader.com
+
+-   videodownloader.com
+
+-   videodl.app
+
+=== 5KPLAYER (Digiarty/DearMob - CHINA - DANGEROUS!) ===
+
+-   5kplayer.com
+
+-   www.5kplayer.com
+
+-   support.5kplayer.com
+
+-   download.5kplayer.com
+
+-   update.5kplayer.com
+
+-   digiarty.com
+
+-   www.digiarty.com
+
+-   api.digiarty.com
+
+-   cdn.digiarty.com
+
+-   dearmob.com
+
+-   www.dearmob.com
+
+-   winxdvd.com
+
+-   www.winxdvd.com
+
+-   videoproc.com
+
+-   www.videoproc.com
+
+-   macxdvd.com
+
+-   www.macxdvd.com
+
+-   aia1.wosign.com
+
+🖥️ DESKTOP VIDEO PLAYERS
+
+=== VLC MEDIA PLAYER (CLEAN - OPEN SOURCE) ===
+
+-   videolan.org
+
+-   www.videolan.org
+
+-   download.videolan.org
+
+-   get.videolan.org
+
+-   update.videolan.org
+
+-   ★ nightlies.videolan.org
+
+-   ★ mirrors.videolan.org
+
+-   ★ wiki.videolan.org
+
+-   ★ trac.videolan.org
+
+-   ★ forum.videolan.org
+
+-   ★ code.videolan.org
+
+-   ★ artifacts.videolan.org
+
+-   ★ streams.videolan.org
+
+-   ★ mailman.videolan.org
+
+=== MPV MEDIA PLAYER (CLEAN - OPEN SOURCE) ===
+
+-   mpv.io
+
+=== MPLAYER (CLEAN - OPEN SOURCE) ===
+
+-   mplayerhq.hu
+
+-   www.mplayerhq.hu
+
+-   lists.mplayerhq.hu
+
+-   bugzilla.mplayerhq.hu
+
+-   mplayerhq.com
+
+=== MPC-HC (CLEAN - OPEN SOURCE) ===
+
+-   mpc-hc.org
+
+=== SMPLAYER (CLEAN - OPEN SOURCE) ===
+
+-   smplayer.sourceforge.net
+
+-   www.smplayer.sourceforge.net
+
+-   smplayer.info
+
+-   www.smplayer.info
+
+-   downloads.smplayer.info
+
+-   old-forum.smplayer.info
+
+-   smtube.sourceforge.net
+
+-   smplayer.org
+
+-   smplayer.ru
+
+-   radios.smplayer.info
+
+-   tv.smplayer.info
+
+=== KODI (MINIMAL TELEMETRY) ===
+
+-   kodi.tv
+
+-   addons.kodi.tv
+
+-   mirrors.kodi.tv
+
+-   kodi.wiki
+
+-   gc.kis.v2.scr.kaspersky-labs.com
+
+-   ★ forum.kodi.tv
+
+-   ★ api.kodi.tv
+
+-   ★ repo.kodi.tv
+
+-   ★ opensubtitles.org
+
+-   ★ thetvdb.com
+
+-   ★ themoviedb.org
+
+-   ★ fanart.tv
+
+-   ★ trakt.tv
+
+-   ★ api.trakt.tv
+
+=== INFUSE (Firecore - TELEMETRY) ===
+
+-   firecore.com
+
+-   www.firecore.com
+
+-   support.firecore.com
+
+-   community.firecore.com
+
+-   clients3.google.com
+
+-   data.flurry.com
+
+-   appcenter.ms
+
+-   install.appcenter.ms
+
+-   ★ themoviedb.org
+
+-   ★ api.themoviedb.org
+
+-   ★ image.tmdb.org
+
+-   ★ trakt.tv
+
+-   ★ api.trakt.tv
+
+-   ★ opensubtitles.com
+
+-   ★ api.opensubtitles.com
+
+=== ZOOM PLAYER (Inmatrix - CLEAN INDIE DEVELOPER) ===
+
+-   inmatrix.com
+
+-   www.inmatrix.com
+
+-   zplayer.inmatrix.com
+
+-   zptechnology.com
+
+-   ★ download.inmatrix.com
+
+-   ★ blog.inmatrix.com
+
+=== IINA (OPEN SOURCE - CLEAN) ===
+
+-   iina.io
+
+-   www.iina.io
+
+-   docs.iina.io
+
+-   download.iina.io
+
+-   ★ dl-portal.iina.io
+
+-   ★ nightly.iina.io
+
+=== VIDI (Plata o Plomo AB) ===
+
+-   vidiplayer.com
+
+-   www.vidiplayer.com
+
+=== OMNIPLAYER (Oka Apps / 成浩 吴 - CHINA) ===
+
+-   okaapps.com
+
+-   www.okaapps.com
+
+-   zh.okaapps.com
+
+-   en.okaapps.com
+
+-   apsgo.com
+
+-   apsgo.cn
+
+-   ★ omniplayer.apsgo.com
+
+-   ★ omniplayer.apsgo.cn
+
+-   ★ 7littlemen.com
+
+=== CISDEM VIDEO PLAYER (CHINA/COMMERCIAL) ===
+
+-   cisdem.com
+
+-   www.cisdem.com
+
+-   support.cisdem.com
+
+-   ★ api.cisdem.com
+
+-   ★ update.cisdem.com
+
+=== MOVIST / MOVIST PRO (KOREA - COMMERCIAL) ===
+
+-   movistprime.com
+
+-   www.movistprime.com
+
+-   cocoable.tistory.com
+
+=== ELMEDIA PLAYER (Electronic Team / Eltima) ===
+
+-   elmedia-video-player.com
+
+-   www.elmedia-video-player.com
+
+-   mac.eltima.com
+
+-   www.electronic.us
+
+-   electronic.us
+
+-   eltima.com
+
+-   help.electronic.us
+
+=== nPLAYER (Newin Inc. - CLEAN) ===
+
+-   nplayer.com
+
+-   www.nplayer.com
+
+-   newin.co.kr
+
+-   www.newin.co.kr
+
+-   ★ nplayer.tv
+
+-   ★ help.nplayer.tv
+
+-   ★ support.nplayer.tv
+
+=== PLAYERXTREME (CLEAN) ===
+
+-   playerxtreme.com
+
+-   www.playerxtreme.com
+
+=== AVPlayerHD (EPLAYWORKS - CLEAN) ===
+
+-   eplayworks.com
+
+-   www.eplayworks.com
+
+-   avplayer.tv
+
+-   avplayer.io
+
+-   avplayer.app
+
+=== ARCHOS VIDEO PLAYER (OPEN SOURCE - CLEAN) ===
+
+-   archos.com
+
+-   www.archos.com
+
+-   thetvdb.com
+
+-   www.thetvdb.com
+
+-   themoviedb.org
+
+-   www.themoviedb.org
+
+-   api.themoviedb.org
+
+-   trakt.tv
+
+-   www.trakt.tv
+
+-   api.trakt.tv
+
+-   static.criteo.net
+
+=== BINO (OPEN SOURCE - CLEAN - NO TELEMETRY) ===
+
+-   bino3d.org
+
+-   www.bino3d.org
+
+-   git.marlam.de
+
+=== JRIVER MEDIA CENTER (US - MINIMAL TELEMETRY) ===
+
+-   jriver.com
+
+-   www.jriver.com
+
+-   yabb.jriver.com
+
+-   wiki.jriver.com
+
+-   rover.jriver.com
+
+-   wg.jriver.com
+
+-   jremote.jriver.com
+
+-   icetcp.com
+
+-   www.icetcp.com
+
+=== DIVX (DivX LLC) ===
+
+-   divx.com
+
+-   www.divx.com
+
+-   api.divx.com
+
+-   cdn.divx.com
+
+-   download.divx.com
+
+-   update.divx.com
+
+-   divx.zendesk.com
+
+-   mainconcept.com
+
+-   www.mainconcept.com
+
+-   ★ opensubtitles.com
+
+-   ★ api.opensubtitles.com
+
+-   ★ telemetry.divx.com
+
+-   ★ store.divx.com
+
+=== CYBERLINK (PowerDVD - Taiwan - HEAVY TELEMETRY!) ===
+
+-   cyberlink.com
+
+-   www.cyberlink.com
+
+-   api.cyberlink.com
+
+-   cdn.cyberlink.com
+
+-   download.cyberlink.com
+
+-   update.cyberlink.com
+
+-   member.cyberlink.com
+
+-   activation.cyberlink.com
+
+-   directorzone.cyberlink.com
+
+-   support.cyberlink.com
+
+-   forum.cyberlink.com
+
+-   learning.cyberlink.com
+
+-   cloud.cyberlink.com
+
+-   myedit.cyberlink.com
+
+-   privacy.cyberlink.com
+
+-   ★ cap.cyberlink.com
+
+-   ★ store.cyberlink.com
+
+-   ★ status.cyberlink.com
+
+-   ★ crash.cyberlink.com
+
+=== SCREENBOX (OPEN SOURCE - MINIMAL TELEMETRY) ===
+
+-   appcenter.ms
+
+-   install.appcenter.ms
+
+-   ★ sentry.io
+
+-   ★ o17675.ingest.sentry.io
+
+-   ★ crowdin.com
+
+=== SPLASH PLAYER (Mirillis - Poland - CLEAN) ===
+
+-   mirillis.com
+
+-   www.mirillis.com
+
+-   forum.mirillis.com
+
+-   download.mirillis.com
+
+-   support.mirillis.com
+
+=== LEAWO BLU-RAY PLAYER (Leawo Software - CHINA) ===
+
+-   leawo.com
+
+-   www.leawo.com
+
+-   leawo.org
+
+-   www.leawo.org
+
+-   leawo.net
+
+-   www.leawo.net
+
+-   support.leawo.com
+
+-   download.leawo.com
+
+-   ★ api.leawo.com
+
+-   ★ license.leawo.com
+
+-   ★ update.leawo.com
+
+-   ★ store.leawo.com
+
+=== VIDMORE PLAYER (Vidmore Studio - CHINA - COMMERCIAL) ===
+
+-   vidmore.com
+
+-   www.vidmore.com
+
+-   account.vidmore.com
+
+-   support.vidmore.com
+
+-   store.vidmore.com
+
+-   download.vidmore.com
+
+-   ★ api.vidmore.com
+
+-   ★ license.vidmore.com
+
+=== DEEPIN MOVIE (Deepin Technology - CHINA) ===
+
+-   deepin.org
+
+-   www.deepin.org
+
+-   deepin.com
+
+-   www.deepin.com
+
+-   ★ packages.deepin.com
+
+-   ★ community.deepin.com
+
+-   ★ wiki.deepin.org
+
+-   ★ bbs.deepin.org
+
+-   ★ uos.com.cn
+
+-   ★ uniontech.com
+
+=== PAROLE (XFCE - OPEN SOURCE - CLEAN) ===
+
+-   xfce.org
+
+-   docs.xfce.org
+
+-   archive.xfce.org
+
+-   blog.xfce.org
+
+-   gitlab.xfce.org
+
+=== PINE PLAYER (Digipine - KOREA - CLEAN) ===
+
+-   pine-player.com
+
+-   www.pine-player.com
+
+-   digipine.com
+
+-   www.digipine.com
+
+-   ftp.digipine.com
+
+🪟 WINDOWS MEDIA PLAYER / APPLE (HEAVY TELEMETRY!)
+
+=== WINDOWS MEDIA PLAYER (Microsoft) ===
+
+Vortex Telemetry
+
+-   v10.vortex-win.data.microsoft.com
+
+-   v20.vortex-win.data.microsoft.com
+
+-   v10c.vortex-win.data.microsoft.com
+
+-   de.vortex-win.data.microsoft.com
+
+-   eu.vortex-win.data.microsoft.com
+
+-   us.vortex-win.data.microsoft.com
+
+-   vortex.data.microsoft.com
+
+-   vortex-win.data.microsoft.com
+
+-   vortex-sandbox.data.microsoft.com
+
+-   vortex-win-sandbox.data.microsoft.com
+
+-   vortex-bn2.metron.live.com.nsatc.net
+
+-   vortex-cy2.metron.live.com.nsatc.net
+
+-   cy2.vortex.data.microsoft.com.akadns.net
+
+Settings & Configuration
+
+-   settings-win.data.microsoft.com
+
+-   settings.data.microsoft.com
+
+-   settings-sandbox.data.microsoft.com
+
+-   asimov-win.settings.data.microsoft.com.akadns.net
+
+-   geo.settings-win.data.microsoft.com.akadns.net
+
+-   db5.settings-win.data.microsoft.com.akadns.net
+
+-   db5-eap.settings-win.data.microsoft.com.akadns.net
+
+-   db5.vortex.data.microsoft.com.akadns.net
+
+-   geo.vortex.data.microsoft.com.akadns.net
+
+Watson Crash Reporting
+
+-   watson.telemetry.microsoft.com
+
+-   watson.live.com
+
+-   watson.microsoft.com
+
+-   watson.ppe.telemetry.microsoft.com
+
+Telemetry
+
+-   telecommand.telemetry.microsoft.com
+
+-   telecommand.telemetry.microsoft.com.nsatc.net
+
+-   telemetry.microsoft.com
+
+-   telemetry.appex.bing.net
+
+-   telemetry.urs.microsoft.com
+
+Software Quality Metrics
+
+-   sqm.telemetry.microsoft.com
+
+-   sqm.df.telemetry.microsoft.com
+
+-   sqm.telemetry.microsoft.com.nsatc.net
+
+-   alpha.telemetry.microsoft.com
+
+Online Crash Analysis & Stats
+
+-   oca.telemetry.microsoft.com
+
+-   survey.watson.microsoft.com
+
+-   statsfe1.ws.microsoft.com
+
+-   statsfe2.ws.microsoft.com
+
+-   statsfe2.update.microsoft.com.akadns.net
+
+-   activity.windows.com
+
+-   data.msn.com
+
+-   pre.footprintpredict.com
+
+-   web.vortex.data.microsoft.com
+
+-   browser.events.data.msn.com
+
+-   personalization.services.msn.com
+
+-   dmd.metaservices.microsoft.com
+
+-   tele.trafficmanager.net
+
+-   ★ i1.services.social.microsoft.com
+
+-   ★ i1.services.social.microsoft.com.nsatc.net
+
+-   ★ licensing.mp.microsoft.com
+
+=== APPLE (QuickTime & iOS) ===
+
+-   metrics.icloud.com
+
+-   metrics.mzstatic.com
+
+-   metrics.apple.com
+
+-   api.weather.com
+
+=== REALPLAYER (RealNetworks - SPYWARE!) ===
+
+-   realnetworks.com
+
+-   www.realnetworks.com
+
+-   real.com
+
+-   www.real.com
+
+-   realtimes.real.com
+
+-   realtimes.com
+
+-   www.realtimes.com
+
+-   customer.real.com
+
+-   support.real.com
+
+-   api.realnetworks.com
+
+-   api.real.com
+
+-   cdn.realnetworks.com
+
+-   analytics.realnetworks.com
+
+-   tracking.realnetworks.com
+
+-   ads.realnetworks.com
+
+-   doubleclick.net
+
+-   helixcommunity.org
+
+-   ★ realplayer.com
+
+-   ★ www.realplayer.com
+
+-   ★ gamehouse.com
+
+-   ★ www.gamehouse.com
+
+-   ★ safr.com
+
+-   ★ www.safr.com
+
+🎵 AUDIO PLAYERS
+
+★ GLOBAL SCROBBLING / METADATA
+
+-   ★ last.fm
+
+-   ★ www.last.fm
+
+-   ★ ws.audioscrobbler.com
+
+-   ★ ws2.audioscrobbler.com
+
+-   ★ libre.fm
+
+-   ★ www.libre.fm
+
+-   ★ listenbrainz.org
+
+-   ★ api.listenbrainz.org
+
+-   ★ musicbrainz.org
+
+-   ★ www.musicbrainz.org
+
+-   ★ ws.musicbrainz.org
+
+-   ★ acoustid.org
+
+-   ★ www.acoustid.org
+
+=== WINAMP (Radionomy/Llama Group) ===
+
+-   winamp.com
+
+-   www.winamp.com
+
+-   support.winamp.com
+
+-   help.winamp.com
+
+-   forums.winamp.com
+
+-   download.winamp.com
+
+-   update.winamp.com
+
+-   winampheritage.com
+
+-   api.winamp.com
+
+-   llama.group
+
+-   winamp.group
+
+-   gracenote.com
+
+-   api.gracenote.com
+
+Shoutcast
+
+-   shoutcast.com
+
+-   www.shoutcast.com
+
+-   directory.shoutcast.com
+
+-   yp.shoutcast.com
+
+-   stream.shoutcast.com
+
+Radionomy
+
+-   radionomy.com
+
+-   www.radionomy.com
+
+-   streaming.radionomy.com
+
+-   board.radionomy.com
+
+-   targetspot.com
+
+-   vivendi.com
+
+AOL Services (Old Winamp)
+
+-   radio.aol.com
+
+-   music.aol.com
+
+-   o.aolcdn.com
+
+-   ★ llama-group.com
+
+-   ★ jamendo.com
+
+-   ★ api.jamendo.com
+
+-   ★ creators.winamp.com
+
+-   ★ fanzone.winamp.com
+
+=== AIMP (Russian - Uses Analytics) ===
+
+-   aimp.ru
+
+-   www.aimp.ru
+
+-   ★ update.aimp.ru
+
+-   ★ forum.aimp.ru
+
+-   ★ ws.audioscrobbler.com
+
+=== FOOBAR2000 (CLEAN - NO TELEMETRY) ===
+
+-   foobar2000.org
+
+-   www.foobar2000.org
+
+-   perkele.cc
+
+★ Foobar2000 - Yeni Bulunan Domainler [YENİ EKLENDİ]
+
+-   ★ help.foobar2000.org
+
+=== MUSICBEE (CLEAN - NO TELEMETRY) ===
+
+-   getmusicbee.com
+
+-   www.getmusicbee.com
+
+-   forum.getmusicbee.com
+
+-   wiki.getmusicbee.com
+
+-   support.getmusicbee.com
+
+-   community.getmusicbee.com
+
+-   downloads.getmusicbee.com
+
+★ MusicBee 
+
+-   ★ last.fm
+
+-   ★ www.last.fm
+
+-   ★ ws.audioscrobbler.com
+
+-   ★ musicbrainz.org
+
+-   ★ ws.musicbrainz.org
+
+-   ★ fanart.tv
+
+-   ★ api.fanart.tv
+
+-   ★ discogs.com
+
+-   ★ api.discogs.com
+
+=== CLEMENTINE (CLEAN - OPEN SOURCE) ===
+
+-   clementine-player.org
+
+-   www.clementine-player.org
+
+-   data.clementine-player.org
+
+-   ★ last.fm
+
+-   ★ www.last.fm
+
+-   ★ ws.audioscrobbler.com
+
+-   ★ musicbrainz.org
+
+-   ★ ws.musicbrainz.org
+
+-   ★ magnatune.com
+
+-   ★ www.magnatune.com
+
+-   ★ jamendo.com
+
+-   ★ www.jamendo.com
+
+-   ★ somafm.com
+
+-   ★ www.somafm.com
+
+-   ★ gpodder.net
+
+-   ★ www.gpodder.net
+
+=== STRAWBERRY (CLEAN - OPEN SOURCE) ===
+
+-   strawberrymusicplayer.org
+
+-   www.strawberrymusicplayer.org
+
+-   downloads.strawberrymusicplayer.org
+
+-   forum.strawberrymusicplayer.org
+
+★ Strawberry 
+
+-   ★ last.fm
+
+-   ★ www.last.fm
+
+-   ★ ws.audioscrobbler.com
+
+-   ★ musicbrainz.org
+
+-   ★ ws.musicbrainz.org
+
+-   ★ tidal.com
+
+-   ★ api.tidal.com
+
+-   ★ qobuz.com
+
+-   ★ api.qobuz.com
+
+-   ★ subsonic.org
+
+-   ★ www.subsonic.org
+
+=== AUDACIOUS (CLEAN - OPEN SOURCE) ===
+
+-   audacious-media-player.org
+
+-   www.audacious-media-player.org
+
+-   redmine.audacious-media-player.org
+
+=== OCENAUDIO (Brazilian - CLEAN) ===
+
+-   ocenaudio.com
+
+-   www.ocenaudio.com
+
+-   ocenaudio.com.br
+
+-   download.ocenaudio.com
+
+=== AUDIRVĀNA (France - COMMERCIAL) ===
+
+-   audirvana.com
+
+-   www.audirvana.com
+
+-   help.audirvana.com
+
+-   support.audirvana.com
+
+-   community.audirvana.com
+
+★ Audirvāna 
+
+-   ★ tidal.com
+
+-   ★ api.tidal.com
+
+-   ★ qobuz.com
+
+-   ★ api.qobuz.com
+
+-   ★ discogs.com
+
+-   ★ api.discogs.com
+
+-   ★ musicbrainz.org
+
+-   ★ acoustid.org
+
+=== MEDIAMONKEY (Ventis Media - CANADA - CLEAN) ===
+
+-   mediamonkey.com
+
+-   www.mediamonkey.com
+
+-   ventismedia.com
+
+-   www.ventismedia.com
+
+-   mantis.ventismedia.com
+
+★ MediaMonkey 
+
+-   ★ store.mediamonkey.com
+
+-   ★ download.mediamonkey.com
+
+-   ★ wiki.mediamonkey.com
+
+-   ★ forum.mediamonkey.com
+
+=== AVS MEDIA PLAYER (Online Media Technologies / Ascensio) ===
+
+-   avs4you.com
+
+-   www.avs4you.com
+
+-   onlinemediatechnologies.com
+
+-   onlinehelp.avs4you.com
+
+-   support.avs4you.com
+
+-   downloads.avs4you.com
+
+-   avs4you.teamlab.info
+
+=== NEUTRON MUSIC PLAYER (COMMERCIAL - MINIMAL TELEMETRY) ===
+
+-   neutroncode.com
+
+-   www.neutroncode.com
+
+-   neutronhifi.com
+
+-   www.neutronhifi.com
+
+-   onramper.com
+
+-   gemini.google.com
+
+-   generativelanguage.googleapis.com
+
+★ Neutron Music
+
+-   ★ neutronmp.com
+
+-   ★ www.neutronmp.com
+
+-   ★ forum.neutroncode.com
+
+=== DOPAMINE (Digimezzo - BELGIUM - OPEN SOURCE) ===
+
+-   digimezzo.com
+
+-   www.digimezzo.com
+
+-   digimezzo.github.io
+
+★ Dopamine
+
+-   ★ last.fm
+
+-   ★ www.last.fm
+
+-   ★ ws.audioscrobbler.com
+
+-   ★ discordapp.com
+
+-   ★ discord.com
+
+=== AMAROK (KDE - OPEN SOURCE - CLEAN) ===
+
+-   amarok.kde.org
+
+-   www.amarok.kde.org
+
+★ Amarok
+
+-   ★ kde.org
+
+-   ★ apps.kde.org
+
+-   ★ community.kde.org
+
+-   ★ blogs.kde.org
+
+-   ★ invent.kde.org
+
+-   ★ userbase.kde.org
+
+-   ★ last.fm
+
+-   ★ www.last.fm
+
+-   ★ ws.audioscrobbler.com
+
+-   ★ magnatune.com
+
+-   ★ www.magnatune.com
+
+-   ★ jamendo.com
+
+-   ★ www.jamendo.com
+
+-   ★ librivox.org
+
+-   ★ www.librivox.org
+
+-   ★ gpodder.net
+
+-   ★ www.gpodder.net
+
+=== LOLLYPOP (GNOME - OPEN SOURCE) ===
+
+-   wildskyf.github.io
+
+★ Lollypop 
+
+-   ★ gitlab.gnome.org
+
+-   ★ last.fm
+
+-   ★ www.last.fm
+
+-   ★ ws.audioscrobbler.com
+
+-   ★ libre.fm
+
+-   ★ www.libre.fm
+
+-   ★ listenbrainz.org
+
+-   ★ api.listenbrainz.org
+
+=== RHYTHMBOX (GNOME - OPEN SOURCE - CLEAN) ===
+
+-   rhythmbox.org
+
+-   www.rhythmbox.org
+
+-   rhythmbox.sourceforge.net
+
+★ Rhythmbox 
+
+-   ★ last.fm
+
+-   ★ www.last.fm
+
+-   ★ ws.audioscrobbler.com
+
+-   ★ libre.fm
+
+-   ★ www.libre.fm
+
+-   ★ magnatune.com
+
+-   ★ www.magnatune.com
+
+-   ★ jamendo.com
+
+-   ★ www.jamendo.com
+
+-   ★ gitlab.gnome.org
+
+=== EXAILE (OPEN SOURCE - ACTIVE DEVELOPMENT - CLEAN) ===
+
+-   exaile.org
+
+-   www.exaile.org
+
+★ Exaile 
+
+-   ★ last.fm
+
+-   ★ ws.audioscrobbler.com
+
+-   ★ jamendo.com
+
+-   ★ librivox.org
+
+=== QUOD LIBET (OPEN SOURCE - CLEAN) ===
+
+-   quodlibet.readthedocs.io
+
+-   quodlibet.github.io
+
+-   lazka.github.io
+
+★ Quod Libet 
+
+-   ★ musicbrainz.org
+
+-   ★ ws.musicbrainz.org
+
+-   ★ last.fm
+
+-   ★ www.last.fm
+
+-   ★ ws.audioscrobbler.com
+
+-   ★ libre.fm
+
+-   ★ acoustid.org
+
+=== BANSHEE (GNOME - OPEN SOURCE - DEFUNCT) ===
+
+-   banshee.fm
+
+-   www.banshee.fm
+
+-   banshee-project.org
+
+-   www.banshee-project.org
+
+-   bansheemediaplayer.github.io
+
+=== SWINSIAN (Paul Simmonds - UK - CLEAN) ===
+
+-   swinsian.com
+
+-   www.swinsian.com
+
+-   fastspring.com
+
+-   www.fastspring.com
+
+-   telemetrydeck.com
+
+=== USB AUDIO PLAYER PRO (eXtream - NETHERLANDS) ===
+
+-   extreamsd.com
+
+-   www.extreamsd.com
+
+-   audio-evolution.com
+
+-   www.audio-evolution.com
+
+=== POWERAMP MUSIC PLAYER (MaxMP - CLEAN) ===
+
+-   powerampapp.com
+
+-   www.powerampapp.com
+
+-   powerampapp.org
+
+-   forum.powerampapp.com
+
+-   payproglobal.com
+
+-   www.payproglobal.com
+
+=== SHUTTLE MUSIC PLAYER (SimpleCity - AUSTRALIA) ===
+
+-   shuttlemusicplayer.com
+
+-   www.shuttlemusicplayer.com
+
+=== MUSICOLET (Krosbits - INDIA - CLEAN - ZERO TELEMETRY) ===
+
+-   krosbits.in
+
+-   www.krosbits.in
+
+=== WAVEFORM MUSIC PLAYER (Wide Angle Software - UK) ===
+
+-   wideanglesoftware.com
+
+-   www.wideanglesoftware.com
+
+-   help.wideanglesoftware.com
+
+=== RESONIC (Liqube Audio - AUSTRIA - CLEAN) ===
+
+-   resonic.at
+
+-   www.resonic.at
+
+-   docs.resonic.at
+
+-   labs.resonic.at
+
+-   liqube.com
+
+-   www.liqube.com
+
+★ Resonic 
+
+-   ★ forums.liqube.com
+
+-   ★ discord.liqube.com
+
+=== TAPE EATER (Mark Serrano - INDIE) ===
+
+-   tapeeater.app
+
+-   www.tapeeater.app
+
+-   mixtapemonkey.com
+
+-   www.mixtapemonkey.com
+
+★ Tape Eater 
+
+-   ★ api.tapeeater.app
+
+-   ★ cdn.tapeeater.app
+
+-   ★ api.mixtapemonkey.com
+
+=== KAFFEINE (KDE - OPEN SOURCE - CLEAN) ===
+
+-   kaffeine.sourceforge.net
+
+=== BAKA MPLAYER (OPEN SOURCE - STALLED) ===
+
+-   u8sand.github.io
+
+-   bakamplayer.u8sand.net
+
+-   bakamplayer.netii.net
+
+=== VINYL MUSIC PLAYER (AdrienPoupa - OPEN SOURCE) ===
+
+⚠ GitHub only 
+
+=== CLAPPER (Rafostar - POLAND - OPEN SOURCE) ===
+
+-   rafostar.github.io
+
+=== DICEPLAYER (INISOFT_DEV - DEFUNCT 2015) ===
+
+=== MOBOPLAYER (Mobo Team - CHINA - DEFUNCT 2018) ===
+
+-   moboplayer.com
+
+=== TOTEM / GNOME VIDEOS (GNOME - OPEN SOURCE) ===
+
+=== SHOWTIME / GNOME VIDEO PLAYER (kramo - OPEN SOURCE) ===
