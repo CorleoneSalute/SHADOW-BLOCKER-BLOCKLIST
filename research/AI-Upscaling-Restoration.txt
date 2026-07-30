@@ -1,0 +1,853 @@
+## AI UPSCALING & RESTORATION RESEARCH LIST
+
+## 🖼️  UPSCALING & RESTORATION 
+
+---
+
+### Topaz Labs
+
+**Core Services:**
+- topazlabs.com
+- www.topazlabs.com
+- topazlabs.com/gigapixel-ai
+- topaz-labs.net (API endpoint)
+
+**Product Activation:**
+- activation.topazlabs.com
+- license.topazlabs.com
+- api.topazlabs.com
+
+**Analytics / Telemetry:**
+- analytics.topazlabs.com
+- telemetry.topazlabs.com
+- et.topazlabs.com ★ YENİ
+
+**Updates / Model Downloads:**
+- updates.topazlabs.com
+- download.topazlabs.com
+- downloads.topazlabs.com 
+- models.topazlabs.com 
+- models-bal.topazlabs.com 
+- veai-models.topazlabs.com 
+
+**Support / Community / Docs:**
+- docs.topazlabs.com
+- community.topazlabs.com
+- support.topazlabs.com
+- developer.topazlabs.com
+- playground.topazlabs.com
+
+**Alternative:**
+- topazlabs.co (placeholder/redirect)
+
+**API:**
+- api.topaz-labs.net
+
+⚠️ Desktop software, license validation. Official whitelist: *.topazlabs.com + *.topaz-labs.net
+
+---
+
+### Let's Enhance (Claid.AI)
+
+**Core Services:**
+- letsenhance.io
+- app.letsenhance.io
+- claid.ai
+
+**API:**
+- api.letsenhance.io
+- gateway.letsenhance.io
+- api.claid.ai
+
+**Image Processing:**
+- processing.letsenhance.io
+- upscale.letsenhance.io
+
+**CDN:**
+- cdn.letsenhance.io
+- static.letsenhance.io
+
+**Analytics:**
+- analytics.letsenhance.io
+
+**Docs / Support:**
+- docs.claid.ai
+- help.letsenhance.io
+- help.claid.ai
+
+⚠️ Claid.AI = enterprise API platform by Let's Enhance. GCP/Kubernetes.
+
+---
+
+### Upscayl (Open Source)
+
+**Core Services:**
+- upscayl.org
+- github.com/upscayl/upscayl
+- docs.upscayl.org
+- github.com/upscayl/upscayl-ncnn 
+- github.com/upscayl/custom-models
+
+**Browser Version / Cloud:**
+- unlimited.waifu2x.net
+
+⚠️ Open-source, local processing. Privacy-friendly. 
+
+---
+
+### Bigjpg
+
+**Core Services:**
+- bigjpg.com
+- www.bigjpg.com
+
+**API:**
+- api.bigjpg.com
+- bigjpg.com/api/task/
+
+⚠️ Online upscaling service.
+
+---
+
+### Vance AI
+
+**Core Services:**
+- vanceai.com
+- www.vanceai.com
+- soft.vanceai.com (VanceAI PC desktop app) 
+- jp.vanceai.com (Japonya sunucusu) 
+
+**API / Gateway:**
+- api.vanceai.com
+- gateway.vanceai.com 
+- developers.vanceai.com 
+
+**Auth / Account:**
+- login.vanceai.com 
+- secure.vanceai.com 
+
+**CDN / Statik:**
+- img.vanceai.com
+- images.vanceai.com 
+
+**Analytics / Tracking:**
+- analytics.vanceai.com
+- track.vanceai.com 
+- event.vanceai.com 
+
+**Support / Docs:**
+- help.vanceai.com
+- kb.vanceai.com
+- chat.vanceai.com 
+
+**Updates / Partners:**
+- update.vanceai.com 
+- partner.vanceai.com 
+- vanceai.com/help
+- cloud.vanceai.com 
+
+⚠️ Cloud-based upscaling platform. Cloudflare + AWS + Vultr
+
+---
+
+### ON1 Resize AI
+
+**Core Services:**
+- on1.com
+- www.on1.com
+
+**Support / Docs:**
+- support.on1.com
+- help.on1.com
+- on1.com/bookshelf (documentation)
+- on1.com/plus (ON1 Plus education)
+
+**License / Download:**
+- download.on1.com
+- api.on1.com
+
+**CDN:**
+- ononesoft.cachefly.net (CDN for user guides)
+
+**Community:**
+- community.on1.com
+
+⚠️ Desktop software. 
+
+---
+
+### Magnific AI
+
+**Core Services:**
+- magnific.ai
+- www.magnific.ai
+
+**API:**
+- api.freepik.com (Magnific API endpoint)
+- docs.freepik.com (API documentation)
+
+**Payment:**
+- Stripe billing integration
+
+⚠️ API launched December 2024. API base URL: api.freepik.com
+
+---
+
+### RealScaler (Open Source)
+
+**Core Services:**
+- github.com/Djdefrag/RealScaler
+- jangystudio.itch.io
+
+**Downloads:**
+- gofile.io (AI model downloads)
+- gyan.dev (FFMPEG downloads)
+
+⚠️ Open source desktop app. Local processing only — NO cloud/API.
+
+---
+
+### Waifu2x (Open Source)
+
+**Core Services:**
+- waifu2x.net (NEW - active since 2024-02-29)
+- www.waifu2x.net
+- waifu2x.udp.jp (Old - CLOSED 2024)
+- waifu2x.booru.pics (CLOSED 2024)
+
+**GitHub:**
+- github.com/nagadomi/waifu2x
+
+**Third-Party APIs:**
+- waifurun-64l7ehzjta-ue.a.run.app (Community-hosted on Google Cloud Run)
+- deepai.org (waifu2x API integration)
+- cdn.jsdelivr.net (waifu2x npm packages)
+
+**Browser Version:**
+- unlimited.waifu2x.net
+
+**Analytics:**
+- Google Analytics (on waifu2x.net)
+
+⚠️ Open source. NO official API (cost reasons). Community-hosted APIs unreliable.
+
+---
+
+### Real-ESRGAN (Open Source)
+
+**Core Services:**
+- github.com/xinntao/Real-ESRGAN
+- github.com/xinntao/Real-ESRGAN-ncnn-vulkan
+
+**Third-Party APIs:**
+- replicate.com/xinntao/realesrgan
+- huggingface.co/spaces/akhaliq/Real-ESRGAN
+
+**PyPI:**
+- pypi.org/project/realesrgan
+
+⚠️ Open source. NO official web API/domains. GitHub executables and Python library only.
+
+---
+
+### HitPaw FotorPea
+
+**Core Services:**
+- hitpaw.com
+- www.hitpaw.com
+- hitpaw.net (alternative)
+
+**Support:**
+- support.hitpaw.com
+- help.hitpaw.com
+- community.hitpaw.com
+
+**Download:**
+- download.hitpaw.com
+
+**Online Tools:**
+- online.hitpaw.com
+
+**Developer Portal:**
+- developer.hitpaw.com 
+
+**App Stores:**
+- apps.apple.com/us/app/hitpaw-fotorpea
+- apps.microsoft.com/detail/xp8lgj4rpldlr6
+
+⚠️ Desktop software — offline operation. NO cloud API. Local license verification.
+
+---
+
+### Imogen
+
+**Core Services:**
+- tryimogen.app
+
+**App Store:**
+- apps.apple.com (iOS/Mac exclusive)
+
+⚠️ iOS/Mac exclusive app. Uses Google Gemini 2.5 Flash Image. NO web API/CDN. Privacy-focused.
+
+---
+
+### Gleem AI
+
+**Core Services:**
+- gleem.ai
+- www.gleem.ai
+- gleem.ai/blog
+
+**App Stores:**
+- apps.apple.com/us/app/gleem-ai-photo-enhancer
+- play.google.com
+
+⚠️ Mobile app only. Backend infrastructure not public. Gleem.AI LTD (UK).
+
+---
+
+### Upscale.media
+
+**Core Services:**
+- upscale.media
+- www.upscale.media
+- imgupscaler.media.io (Media.io integration)
+
+**Backend / API:**
+- cdn.pixelbin.io (CDN)
+- api.pixelbin.io
+- pixelbin.io (platform backend)
+- console.pixelbin.io (dashboard)
+
+**GitHub:**
+- github.com/pixelbin-io/upscale-figma-plugin
+- github.com/pixelbin-dev/upscale-figma-plugin
+
+**Support:**
+- support@pixelbin.io
+- social@pixelbin.io
+- pixelbin.freshdesk.com
+
+**Discord:**
+- discord.com/invite/gXmJcfjDhW (PixelBin Discord)
+
+**Mobile Apps:**
+- play.google.com (Android - com.pixelbin.upscale.media)
+- apps.apple.com (iOS - id1612626658)
+
+**Parent Company:**
+- Shopsense Retail Technologies Limited (Reliance Retail subsidiary - India)
+
+⚠️ Built on Pixelbin infrastructure.
+
+---
+
+### Remini
+
+**Core Services:**
+- remini.ai
+- app.remini.ai
+
+**Developer Portal (INACTIVE):**
+- developer.remini.ai
+- euhgorwdvm.apidog.io (API documentation - archived)
+
+**Support:**
+- remini-web.zendesk.com
+- remini.zendesk.com
+
+**App Stores:**
+- play.google.com (Android)
+- apps.apple.com (iOS)
+
+⚠️ API DISCONTINUED. 
+
+---
+
+### DeepImage
+
+**Core Services:**
+- deep-image.ai
+- www.deep-image.ai
+
+**API / Documentation:**
+- documentation.deep-image.ai
+- deep-image.ai/api-reference
+
+**GitHub:**
+- github.com/deep-image-ai (Python libraries)
+
+**Integrations:**
+- huggingface.co/DeepImageAI
+- Google Drive integration
+- AWS integration
+- Dropbox integration
+- OneDrive integration
+- Make.com integration
+- Zapier integration
+
+**Analytics:**
+- Google Analytics
+
+**Company:**
+- ain.teonite.net (partner infrastructure)
+
+⚠️ Professional upscaling API. Poland-based (Szczecin & Kraków). Partner: Teonite.
+
+---
+
+### ImgUpscaler
+
+**Core Services:**
+- imgupscaler.com
+- imageupscaler.com
+- mail.imgupscaler.com
+- imgupscaler.ai (main platform)
+- imageupscalerai.com (API platform - separate)
+
+**API:**
+- imageupscaler.com/api-doc
+- imageupscalerai.com/api
+
+**Parent Company:**
+- imglarger.com
+- vertexshare.com (Vertexshare Limited — üst şirket)
+
+⚠️ ImgUpscaler = speed-focused. ImageUpscaler.com = quality-focused. ImgLarger.com = quality + 6 AI tools.
+
+---
+
+### Icons8 Smart Upscaler
+
+**Core Services:**
+- upscaler.icons8.com
+- icons8.com/upscaler
+- icons8.com
+
+**API / Developer:**
+- developers.icons8.com
+- ai-tools.docs.icons8.com
+
+**Support:**
+- support@icons8.com
+- upscaler@icons8.com
+
+⚠️ Web + desktop app. Icons8 LLC (USA). CDN delivery included in API.
+
+---
+
+### Nero AI Image Upscaler
+
+**Core Services:**
+- ai.nero.com
+- nero.com
+- ai.nero.com/image-upscaler
+- ai.nero.com/enhance
+
+**Auth:**
+- login.nero.com
+
+**Desktop:**
+- pcai.nero.com (desktop app)
+
+**API:**
+- api.nero.com
+
+**Support:**
+- support.nero.com
+- feedback@nero.com
+
+**Payment:**
+- 2Checkout
+- Cleverbridge
+
+**Analytics:**
+- Google Analytics
+
+⚠️ 16K upscaling capability. login.nero.com/api/points endpoint kullanımda.
+
+---
+
+### DVDFab Photo Enhancer AI
+
+**Core Services:**
+- dvdfab.cn
+- www.dvdfab.cn
+
+**Support:**
+- forum.dvdfab.cn
+
+**Download:**
+- dvdfab.cn/mlink/download
+
+**App Stores:**
+- apps.microsoft.com/detail/xp9k5nph04kst8
+
+⚠️ Desktop software — NO web API/CDN. 40x upscaling. China-based.
+
+---
+
+### Leawo PhotoIns
+
+**Core Services:**
+- leawo.org/photoins
+- leawo.com/photoins
+- www.leawo.org
+- www.leawo.com
+
+**Download:**
+- leawo.org/downloads/photoins.html
+
+**Support:**
+- leawo.org (sitemap, tutorial, support)
+
+⚠️ Desktop software — NO web API. Batch enhancement/upscaling. 
+
+---
+
+### Imglarger
+
+**Core Services:**
+- imglarger.com
+- vertexshare.com (Vertexshare Limited)
+
+⚠️ 6 AI upscaling tools. Quality-focused platform.
+
+---
+
+### ImgUpscaler.ai
+
+**Core Services:**
+- imgupscaler.ai (main platform)
+- imageupscalerai.com (API platform - separate)
+- imgupscaler.com (alternative domain - ImgLarger sibling)
+
+**API:**
+- imageupscalerai.com/api
+
+**Parent:**
+- vertexshare.com (Vertexshare Limited) 
+
+⚠️ 16K upscaling (up to 16000x16000). 3 different domains, same company.
+
+---
+
+## 🎬 VIDEO UPSCALING & ENHANCEMENT
+
+---
+
+### SuperImage
+
+**Core Services:**
+- superimage.io (web platform)
+
+**GitHub:**
+- github.com/Lucchetto/SuperImage (Android app — ARCHIVED)
+
+**App Stores:**
+- play.google.com (Google Play distribution)
+
+**Downloads:**
+- chainner.app (download platform)
+
+⚠️ Android offline upscaler (Real-ESRGAN). Offline processing — NO cloud backend/API. 
+
+---
+
+### Crystal Upscaler
+
+**Core Services:**
+- crystalupscaler.com (main web app)
+- clarityai.co (parent platform)
+- clarityai.cc (redirect/legacy)
+
+**API Platforms:**
+- replicate.com/philz1337x/crystal-upscaler
+- gateway.pixazo.ai/upscaler/v1/crystal-upscaler/generate
+- fal.ai/models/clarityai/crystal-upscaler
+- wavespeed.ai/models/clarity-ai/crystal-upscaler
+- www.segmind.com/models/clarityai-crystal-upscaler
+- www.runcomfy.com/playground/clarityai/crystal-upscaler
+- picassoia.com (Picasso IA integration)
+
+**Developer:**
+- github.com/philz1337x/clarity-upscaler
+- github.com/philz1337x/ComfyUI-ClarityAI
+- github.com/philz1337x/crystal-upscaler
+- github.com/philz1337x/clarity-lowres-upscaler
+- huggingface.co/philz1337x/upscaler
+
+**Integration Endpoints:**
+- clarityai.co/API
+- clarityai.co/ComfyUI
+- clarityai.co/flux-upscaler
+
+⚠️ Portrait & Face Upscaling specialist. 2x-8x upscaling (up to 10K resolution). $0.016/megapixel.
+
+---
+
+### jpgHD
+
+**Core Services:**
+- jpghd.com
+- www.jpghd.com
+
+**API:**
+- jpghd.com/api/task/ (POST endpoint)
+- jpghd.com/api/task/tid,tid,tid (Retry API)
+
+**Support:**
+- help@jpghd.com
+
+**App Stores:**
+- apps.apple.com (iOS)
+- play.google.com (Android)
+
+**Hosting:**
+- Alibaba Cloud Computing (Beijing) Co., Ltd.
+
+⚠️ Old photo restoration & upscaling. Alipay, Mastercard, PayPal, Visa.
+
+---
+
+### AIEase
+
+**Core Services:**
+- aiease.ai
+- www.aiease.ai
+- www.aiease.ai/app/dashboard
+
+**CDN:**
+- assets-lp.aiease.ai 
+- pub-static.aiease.ai 
+
+**Tools:**
+- aiease.ai/ai-tools
+
+**Support:**
+- service@aiease.ai
+
+**App Stores:**
+- iOS
+- Android
+
+**Alternative Domain:**
+- aiease.net (DIFFERENT company - China AI digital character engine)
+
+⚠️ NO API (confirmed in FAQ). Old photo restoration. Amazon AWS altyapısı.
+
+---
+
+### UniFab
+
+**Core Services:**
+- unifab.ai
+- www.unifab.ai
+- unifab.ai/unifab.htm
+- docs.unifab.ai 
+
+**Product Pages:**
+- unifab.ai/ai-video-enhancer.htm
+
+**Parent Company:**
+- dvdfab.cn (DVDFab)
+- www.dvdfab.cn
+- forum.dvdfab.cn 
+
+**Legacy Products:**
+- dvdfab.cn/video-enhancer-ai.htm
+- dvdfab.cn/unifab-ai.htm
+- dvdfab.cn/fabcloud.htm (FabCloud)
+
+**App Stores:**
+- apps.microsoft.com
+
+⚠️ AI Video Enhancement. FabCloud cloud processing service. Desktop software + cloud hybrid.
+
+---
+
+### AVCLabs
+
+**Core Services:**
+- avclabs.com
+- www.avclabs.com
+
+**Product Pages:**
+- avclabs.com/video-enhancer-ai.html
+
+**Online Tools:**
+- avclabs.com/ai-tools/
+- avclabs.com/ai-tools/video-upscaler/
+- enhance.avclabs.com/Enhance/ (Online video enhancer)
+- enhance.avclabs.com/Upscale/ (Online image upscaler)
+- us-east.avclabs.com/ai-tools/video-upscaler/ (Regional endpoint)
+
+**Cloud Version:**
+- avclabs.com/video-enhancer-cloud.html
+
+**Parent Company:**
+- any-video-converter.com (Any Video Converter)
+
+⚠️ AI Video Enhancement. Desktop software + online tools — NO developer API. Est. 2006.
+
+---
+
+### TensorPix
+
+**Core Services:**
+- tensorpix.ai
+- www.tensorpix.ai
+
+**API / Documentation:**
+- docs.tensorpix.ai (API reference)
+- backend.tensorpix.ai (API backend)
+- backend.tensorpix.ai/api/schema/redoc/ (OpenAPI documentation)
+- help.tensorpix.ai (help center)
+
+**GitHub:**
+- github.com/tensorpix (organization)
+- github.com/tensorpix/tensorpix-docs
+- github.com/tensorpix/ai-docker
+- github.com/tensorpix/scripts
+
+**Business / Enterprise:**
+- tensorpix.ai/business
+- tensorpix.ai/api-integration
+
+⚠️ Cloud-based video & image upscaling. REST API with OpenAPI v3 support. On-Prem for enterprise.
+
+---
+
+### Vmake
+
+**Core Services:**
+- vmake.ai
+- www.vmake.ai
+- vmake.ai/workspace
+
+**Product Pages:**
+- vmake.ai/video-enhancer
+- vmake.ai/video-enhancer/upload
+- vmake.ai/video-upscaler
+- vmake.ai/video-audio-enhancer
+
+**API:**
+- open.vmake.ai ( API subdomain)
+- vmake.ai/developer
+
+**Support:**
+- support@vmake.ai
+
+**Mobile Apps:**
+- iOS app
+- Android app
+
+**Developer:**
+- Pixocial Technology (Singapore) Pte. Ltd.
+
+⚠️ AI Video Enhancement. Web-based + mobile apps. Cloud processing.
+
+---
+
+### Video2X
+
+**Core Services:**
+- github.com/k4yt3x/video2x
+- docs.video2x.org
+- sourceforge.net/projects/video2x.mirror
+
+**Docker / Container:**
+- ghcr.io (GitHub Container Registry) 
+- ghcr.io/k4yt3x/video2x (container image path)
+
+**Google Colab:**
+- colab.research.google.com (free GPU access)
+
+**Community:**
+- t.me/video2x (Telegram group)
+
+⚠️ Open-source framework. Multi-model support (Real-ESRGAN, Waifu2x, Anime4K, SRMD, RealSR, RIFE). NO official domains.
+
+---
+
+### Anime4K
+
+**Core Services:**
+- github.com/bloc97/Anime4K
+- bloc97.github.io/Anime4K
+
+**Third-Party Implementations:**
+- github.com/TianZerL/Anime4KCPP (C++ implementation)
+- github.com/mikigal/Anime4K-GUI (Windows GUI)
+- colab.research.google.com (PyTorch implementation)
+
+⚠️ Real-time Anime Upscaling. Shader-based. MPV/VLC integration. Open-source — NO cloud service.
+
+---
+
+### Waifu2x Extension GUI
+
+**Core Services:**
+- github.com/AaronFeng753/Waifu2x-Extension-GUI
+- sourceforge.net/projects/waifu2x-extension-gui
+
+**Update Servers:**
+- github.com
+- raw.githubusercontent.com 
+- gitee.com (China mirror - can be disabled)
+
+⚠️ Video/Image/GIF Super-Resolution. Multi-algorithm wrapper. Windows GUI. Open-source — NO cloud backend.
+
+---
+
+### Cupscale
+
+**Core Services:**
+- github.com/n00mkrad/cupscale
+- upscale.wiki/wiki/Cupscale_Tutorial
+
+⚠️ ⛔ DORMANT PROJECT. Last release: September 2021 (v1.39.0). NO active development. ESRGAN-based. Local processing only.
+
+---
+
+### VidHex
+
+**Core Services:**
+- vidhex.ai
+- www.vidhex.ai
+- vidhex.ai/video-upscaler
+- vidhex.ai/blog
+
+**Support:**
+- updatestar.com/vidhex (download page)
+- aitoolnet.com/vidhex (listing)
+
+⚠️ AI Video Enhancement & Upscaling. Web-based dashboard + API access.
+
+---
+
+### HitPaw VikPea (Video Enhancer)
+
+**Core Services:**
+- hitpaw.com/vikpea-video-enhancer.html
+- www.hitpaw.com
+
+**API:**
+- hitpaw.com/video-enhancer-api.html
+- developer.hitpaw.com (API developer portal) 
+
+**Support:**
+- support.hitpaw.com
+- help.hitpaw.com
+
+**Download:**
+- download.hitpaw.com
+
+**Community:**
+- community.hitpaw.com
+
+**App Stores:**
+- apps.apple.com (Mac)
+- apps.microsoft.com (Windows)
+
+⚠️ Video upscaling/restoration. Renamed from HitPaw Video Enhancer (2024). V5.2.0 (Feb 9, 2026).
