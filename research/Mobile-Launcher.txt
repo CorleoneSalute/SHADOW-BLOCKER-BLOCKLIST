@@ -1,0 +1,969 @@
+🏠 MOBILE LAUNCHER APPS RESEARCH LIST
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔴 TIER 0: CORE LAUNCHER SERVICES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚠️ CHINESE LAUNCHERS - CORE
+
+──────────────────────────────────────
+Cheetah Mobile (CM Launcher, DU Launcher, Clean Master, Kika):
+──────────────────────────────────────
+cmcm.com
+*.cmcm.com
+cmlauncher.com
+*.cmlauncher.com
+dutils.com
+*.dutils.com
+ijinshan.com
+*.ijinshan.com
+cdn.cmcm.com
+api-cdn.cmcm.com
+kikatech.com
+*.kikatech.com
+download.wh.cmcm.com
+pc001.download.wh.cmcm.com
+# [NEW] DU / Ksmobile (Clean Master brand):
+ksmobile.com
+*.ksmobile.com
+ksmobile.net
+*.ksmobile.net
+cleanmaster.com
+*.cleanmaster.com
+# [NEW] DU / Duba anti-virus backend:
+duba.net
+*.duba.net
+infoc2.duba.net
+infoc0.duba.net
+duba.com
+*.duba.com
+bu1.duba.com
+# [NEW] CM CDN / beha tracking:
+behacdn.ksmobile.net
+p-behacdn.ksmobile.net
+ms.cmcm.com
+stat.duokanbox.com
+
+──────────────────────────────────────
+GO Launcher (GOMO Limited):
+──────────────────────────────────────
+goforandroid.com
+*.goforandroid.com
+gomo.com
+*.gomo.com
+3g.cn
+*.3g.cn
+api.goforandroid.com
+api.gomo.com
+godfs.3g.cn
+download.3g.cn
+jiubang.com
+*.jiubang.com
+# [NEW] GO Launcher CDN:
+gomocdn.com
+*.gomocdn.com
+resource.gomocdn.com
+go.com.cn
+*.go.com.cn
+
+──────────────────────────────────────
+Solo Launcher (Newborntown):
+──────────────────────────────────────
+solomo.com
+*.solomo.com
+sololauncher.com
+*.sololauncher.com
+newborntown.com
+*.newborntown.com
+newborn-town.com
+*.newborn-town.com
+# [NEW] SoloMath / SoloAds 
+solomath.com
+*.solomath.com
+api.solomath.com
+cdn.solomath.com
+soloads.com
+*.soloads.com
+nbadsdk.com
+*.nbadsdk.com
+nbt.cn
+*.nbt.cn
+
+──────────────────────────────────────
+APUS Launcher (APUS Group):
+──────────────────────────────────────
+apusapps.com
+*.apusapps.com
+apuslauncher.com
+*.apuslauncher.com
+apusgroup.com
+*.apusgroup.com
+apusai.com
+*.apusai.com
+apussupport.com
+privacy.apusapps.com
+# [NEW] APUS additional backend:
+apusglobal.com
+*.apusglobal.com
+apuscloud.com
+*.apuscloud.com
+# Note: Also uses Umeng + Mintegral/Rayjump - see TIER 1 TELEMETRY section
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌍 WESTERN LAUNCHERS - CORE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+──────────────────────────────────────
+Nova Launcher: (DISCONTINUED - October 2025)
+──────────────────────────────────────
+novalauncher.com
+*.novalauncher.com
+www.novalauncher.com
+teslacoilapps.com
+*.teslacoilapps.com
+# API:
+api.novalauncher.com
+api.teslacoilapps.com
+# Branch Analytics (Post-2022 acquisition):
+data.branch.io
+analytics.branch.io
+track.branch.io
+api.branch.io
+api2.branch.io
+cdn.branch.io
+app.branch.io
+link.branch.io
+# [NEW] Branch deep link / short URL domains:
+bnc.lt
+*.bnc.lt
+app.link
+*.app.link
+custom.bnc.lt
+
+──────────────────────────────────────
+Microsoft Launcher:
+──────────────────────────────────────
+launcher.microsoft.com
+*.launcher.microsoft.com
+aka.ms/launcher
+# Integration (selective):
+onedrive.com
+office.com
+bing.com
+skyapi.onedrive.com
+# Microsoft Telemetry
+telemetry.microsoft.com
+vortex.data.microsoft.com
+watson.telemetry.microsoft.com
+umwatson.events.data.microsoft.com
+v10.events.data.microsoft.com
+browser.events.data.microsoft.com
+browser.events.data.msn.com
+mobile.events.data.microsoft.com
+self.events.data.microsoft.com
+v20.events.data.microsoft.com
+eu-v20.events.data.microsoft.com
+settings-win-ppe.data.microsoft.com
+us-v10c.events.data.microsoft.com
+eu-v10c.events.data.microsoft.com
+watsonc.events.data.microsoft.com
+eu-watsonc.events.data.microsoft.com
+v20.vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+web.vortex.data.microsoft.com
+oca.telemetry.microsoft.com
+kmwatsonc.telemetry.microsoft.com
+umwatsonc.telemetry.microsoft.com
+oca.microsoft.com
+# [NEW] Microsoft telemetry extended:
+activity.windows.com
+edge.activity.windows.com
+enterprise.activity.windows.com
+test.activity.windows.com
+events.data.microsoft.com
+browser.pipe.aria.microsoft.com
+mobile.pipe.aria.microsoft.com
+pipe.aria.microsoft.com
+arc.msn.com
+arc1.msn.com
+g.msn.com
+c.msn.com
+h1.msn.com
+iris.microsoft.com
+ris.api.iris.microsoft.com
+smartscreen.microsoft.com
+smartscreen-prod.microsoft.com
+europe.smartscreen.microsoft.com
+europe.smartscreen-prod.microsoft.com
+settings.data.microsoft.com
+settings-sandbox.data.microsoft.com
+feedback.windows.com
+# [NEW] Microsoft Ads / Bing Ads:
+bingads.microsoft.com
+ads.msn.com
+ads.eu.msn.com
+ads1.msn.com
+adserver.bing.com
+bat.bing.com
+# [NEW] Watson / SQM:
+watson.microsoft.com
+watson.live.com
+sqm.telemetry.microsoft.com
+sqm.df.telemetry.microsoft.com
+survey.watson.microsoft.com
+# [NEW] Additional MS telemetry:
+vortex-win.data.microsoft.com
+vortex-sandbox.data.microsoft.com
+vortex-win-sandbox.data.microsoft.com
+eu.vortex.data.microsoft.com
+eu.vortex-win.data.microsoft.com
+eu-v10.events.data.microsoft.com
+us-v20.events.data.microsoft.com
+us-v10.events.data.microsoft.com
+v10c.events.data.microsoft.com
+statsfe.ws.microsoft.com
+statsfe1.ws.microsoft.com
+statsfe2.ws.microsoft.com
+# [NEW] OneDrive (Launcher integration):
+api.onedrive.com
+
+──────────────────────────────────────
+Action Launcher:
+──────────────────────────────────────
+actionlauncher.com
+*.actionlauncher.com
+chrislacy.com
+api.chrislacy.com
+
+──────────────────────────────────────
+Niagara Launcher:
+──────────────────────────────────────
+niagaralauncher.app
+*.niagaralauncher.app
+niagaralauncher.co
+niagaralauncher.com
+*.niagaralauncher.com
+help.niagaralauncher.app
+# [NEW] Niagara backend API:
+api.niagaralauncher.app
+# Analytics: Firebase based (opt-in) — see COMMON section
+# [NEW] Weather API (opt-in):
+api.openweathermap.org
+openweathermap.org
+*.openweathermap.org
+tile.openweathermap.org
+
+──────────────────────────────────────
+Lawnchair (Open Source)
+──────────────────────────────────────
+lawnchair.app
+lawnchair.info
+github.com/LawnchairLauncher
+github.com/LawnchairLauncher/lawnicons
+github.com/LawnchairLauncher/lawnfeed
+opencollective.com/lawnchair
+f-droid.org
+
+
+──────────────────────────────────────
+KISS Launcher (Open Source)
+──────────────────────────────────────
+kisslauncher.com
+help.kisslauncher.com
+github.com/Neamar/KISS
+github.com/Neamar/kisslauncher.com
+f-droid.org
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎨 ADDITIONAL LAUNCHER PLATFORMS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+──────────────────────────────────────
+Smart Launcher
+──────────────────────────────────────
+smartlauncher.net
+*.smartlauncher.net
+www.smartlauncher.net
+docs.smartlauncher.net
+help.smartlauncher.net
+# [NEW] Weather / Search API integrations:
+api.openweathermap.org
+openweathermap.org
+api.bing.com
+# Analytics: Firebase based — see COMMON section
+
+──────────────────────────────────────
+Hola Launcher
+──────────────────────────────────────
+holalauncher.com
+*.holalauncher.com
+hola.org
+*.hola.org
+# [NEW] Hola core infrastructure:
+client.hola.org
+cdn4.hola.org
+dns-test1.hola.org
+http-test1.hola.org
+# [NEW] Luminati / BrightData 
+luminati.io
+*.luminati.io
+campaign.luminati.io
+client.luminati.io
+clientsdk.luminati.io
+brightdata.com
+*.brightdata.com
+
+──────────────────────────────────────
+U Launcher
+──────────────────────────────────────
+ulauncher.com
+*.ulauncher.com
+
+──────────────────────────────────────
+Evie Launcher: (INACTIVE - 2020)
+──────────────────────────────────────
+evie.com
+evielauncher.com
+*.evie.com
+NOTE: Evie Launcher unpublished/inactive since 2020.
+
+──────────────────────────────────────
+Hyperion Launcher
+──────────────────────────────────────
+prjkt.io
+*.prjkt.io
+prjkt.io/dock
+# [NEW] Crashlytics (confirmed via mod notes / privacy analysis):
+firebase-settings.crashlytics.com
+crashlytics.com
+*.crashlytics.com
+e.crashlytics.com
+reports.crashlytics.com
+settings.crashlytics.com
+# Analytics: Firebase, Crashlytics, Analytics (disabled in MOD versions)
+
+──────────────────────────────────────
+Total Launcher
+──────────────────────────────────────
+total-launcher.blogspot.com
+
+──────────────────────────────────────
+Square Home (SquareHome 2)
+──────────────────────────────────────
+squarehome.net
+*.squarehome.net
+squarehome2.blogspot.com
+
+──────────────────────────────────────
+Launcher 10 (Windows Phone Style):
+──────────────────────────────────────
+nfwebdev.co.uk
+*.nfwebdev.co.uk
+www.nfwebdev.co.uk/launcher-10
+
+──────────────────────────────────────
+Apex Launcher
+──────────────────────────────────────
+apexlauncher.com
+*.apexlauncher.com
+www.apexlauncher.com
+api.apexlauncher.com
+apexlauncher.app
+*.apexlauncher.app
+# [NEW] Facebook Audience Network (privacy policy confirmed):
+graph.facebook.com
+*.graph.facebook.com
+an.facebook.com
+*.an.facebook.com
+connect.facebook.net
+*.connect.facebook.net
+fbcdn.net
+*.fbcdn.net
+# [NEW] MoPub (now AppLovin):
+ads.mopub.com
+mopub.com
+*.mopub.com
+# [NEW] Flurry / Yahoo Analytics:
+data.flurry.com
+adlog.flurry.com
+api.flurry.com
+crash.flurry.com
+analytics.yahoo.com
+flurry.com
+*.flurry.com
+# [NEW] ColorfulClouds Weather 
+caiyunapp.com
+*.caiyunapp.com
+api.caiyunapp.com
+cn2.caiyunapp.com
+# [NEW] Pixalate (fraud detection):
+pixalate.com
+*.pixalate.com
+# Also uses Umeng, AdMob, AppLovin — see COMMON sections
+
+──────────────────────────────────────
+ADW Launcher
+──────────────────────────────────────
+adwthings.com
+*.adwthings.com
+www.adwthings.com
+
+──────────────────────────────────────
+Rootless Launcher / Rootless Pixel Launcher
+──────────────────────────────────────
+github.com/amirzaidi/launcher3
+amirzaidi.github.io
+Open-source, AOSP-based
+
+──────────────────────────────────────
+Ratio Launcher (Blloc):
+──────────────────────────────────────
+blloc.com
+*.blloc.com
+www.blloc.com
+bllocosn.page.link
+*.bllocosn.page.link
+# [NEW] Community:
+community.blloc.com
+*.community.blloc.com
+# [NEW] Mixpanel (analytics):
+api.mixpanel.com
+api-eu.mixpanel.com
+api-js.mixpanel.com
+cdn.mxpnl.com
+# [NEW] Sentry (crash reporting —):
+sentry.io
+*.sentry.io
+ingest.sentry.io
+*.ingest.sentry.io
+o*.ingest.sentry.io
+browser.sentry-cdn.com
+
+──────────────────────────────────────
+Lean Launcher: (INACTIVE - Oct 2018)
+──────────────────────────────────────
+github.com/hundeva/Lean-Launcher
+ Open-source (ARCHIVED)
+
+──────────────────────────────────────
+Kvaesitso: (FOSS - Privacy Focused)
+──────────────────────────────────────
+kvaesitso.mm20.de
+*.kvaesitso.mm20.de
+github.com/MM2-0/Kvaesitso
+f-droid.org/packages/de.mm20.launcher2.release
+
+──────────────────────────────────────
+Olauncher: (FOSS - Minimal AF)
+──────────────────────────────────────
+tanujnotes.substack.com
+github.com/tanujnotes/Olauncher
+github.com/OlauncherCF/OlauncherCF
+f-droid.org/packages/app.olauncher
+
+──────────────────────────────────────
+Before Launcher
+──────────────────────────────────────
+beforelabs.com
+*.beforelabs.com
+www.beforelabs.com
+before-launcher.pages.dev
+
+──────────────────────────────────────
+Indistract Minimalist Launcher
+──────────────────────────────────────
+indistractablelauncher.com
+*.indistractablelauncher.com
+
+──────────────────────────────────────
+Lunar Launcher: (FOSS)
+──────────────────────────────────────
+github.com/iamrasel/lunar-launcher
+f-droid.org/packages/rasel.lunar.launcher
+
+──────────────────────────────────────
+Sentien Launcher: (INACTIVE - Sept 2024)
+──────────────────────────────────────
+sentienhq.com
+*.sentienhq.com
+github.com/Sentien-AI/sentien_launcher
+NOTE: Development discontinued September 2024.
+
+──────────────────────────────────────
+mLauncher: (FOSS)
+──────────────────────────────────────
+github.com/HeCodes2Much/mLauncher
+f-droid.org/packages/app.mlauncher
+
+──────────────────────────────────────
+µLauncher (muLauncher): (FOSS)
+──────────────────────────────────────
+launcher.jrpie.de
+*.launcher.jrpie.de
+github.com/jrpie/Launcher
+f-droid.org/packages/de.jrpie.android.launcher
+
+──────────────────────────────────────
+YAM Launcher: (FOSS)
+──────────────────────────────────────
+github.com/ThomasNowProductions/yam_launcher
+codeberg.org/ottoptj/yamlauncher
+f-droid.org/packages/eu.ottop.yamlauncher
+# Weather (optional):
+open-meteo.com
+api.open-meteo.com
+
+──────────────────────────────────────
+Discreet Launcher: (FOSS)
+──────────────────────────────────────
+vincent-falzon.com
+github.com/falzonv/discreet-launcher
+f-droid.org/packages/com.vincent_falzon.discreetlauncher
+
+──────────────────────────────────────
+BlissLauncher (/e/OS): (FOSS)
+
+──────────────────────────────────────
+e.foundation
+gitlab.e.foundation/e/apps/BlissLauncher
+f-droid.org/packages/foundation.e.blisslauncher
+
+──────────────────────────────────────
+Neo Launcher: (FOSS)
+──────────────────────────────────────
+github.com/NeoApplications/Neo-Launcher
+neolauncher.github.io
+
+──────────────────────────────────────
+Emerald Launcher: (FOSS)
+──────────────────────────────────────
+github.com/HenriDellal/emerald
+codeberg.org/HenriDellal/emerald
+f-droid.org/packages/ru.henridellal.emerald
+
+──────────────────────────────────────
+Pie Launcher: (FOSS)
+──────────────────────────────────────
+github.com/markusfisch/PieLauncher
+f-droid.org/packages/de.markusfisch.android.pielauncher
+
+──────────────────────────────────────
+Unlauncher: (FOSS)
+──────────────────────────────────────
+github.com/jkuester/unlauncher
+f-droid.org/packages/com.jkuester.unlauncher
+
+──────────────────────────────────────
+Lens Launcher
+──────────────────────────────────────
+github.com/ricknout/lens-launcher
+experiments.withgoogle.com/lens-launcher
+Privacy Note: Google experiment - minimal tracking
+
+──────────────────────────────────────
+Flick Launcher: (INACTIVE - 2020)
+──────────────────────────────────────
+flicklauncher.com
+*.flicklauncher.com
+bllocosn.page.link
+# [NEW] Kimera AI backend (sensor data collection):
+kimera.ai
+*.kimera.ai
+api.kimera.ai
+secure.kimera.ai
+nigel.kimera.ai
+NOTE: Last update 2020 - effectively INACTIVE. Acquired by Kimera but never delivered.
+
+──────────────────────────────────────
+Shade Launcher
+──────────────────────────────────────
+amirzaidi.github.io
+github.com/amirzaidi/Shade
+f-droid.org/packages/amirz.shade
+ Open-source
+
+──────────────────────────────────────
+Trebuchet Launcher (LineageOS): (FOSS)
+──────────────────────────────────────
+github.com/LineageOS/android_packages_apps_Trebuchet
+Open-source, LineageOS built-in
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ NEW ADDITIONS - 2026 UPDATE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+──────────────────────────────────────
+AIO Launcher
+──────────────────────────────────────
+aiolauncher.app
+*.aiolauncher.app
+github.com/zobnin/aio
+# APIs/Services:
+api.met.no
+*.api.met.no
+api.openai.com
+platform.openai.com
+# [NEW] Sentry (crash reports — privacy policy belirtildi):
+sentry.io
+*.sentry.io
+ingest.sentry.io
+*.ingest.sentry.io
+# [NEW] Dropbox (cloud backup — opt-in):
+dropbox.com
+*.dropbox.com
+api.dropboxapi.com
+content.dropboxapi.com
+notify.dropboxapi.com
+dl.dropboxusercontent.com
+
+──────────────────────────────────────
+Yasan Launcher
+──────────────────────────────────────
+yasan.glass
+*.yasan.glass
+yasan.space
+*.yasan.space
+github.com/yasanglass
+
+──────────────────────────────────────
+T-UI Launcher: (FOSS)
+──────────────────────────────────────
+github.com/fandreuz/TUI-ConsoleLauncher
+
+──────────────────────────────────────
+Octopi Launcher:
+──────────────────────────────────────
+octopiappfactory.wordpress.com
+*.octopiappfactory.wordpress.com
+
+──────────────────────────────────────
+Posidon Launcher: (INACTIVE - 2022)
+──────────────────────────────────────
+github.com/lposidon/posidonLauncher
+f-droid.org/packages/posidon.launcher
+NOTE: Active development stopped 2022.
+
+──────────────────────────────────────
+CMM Launcher
+──────────────────────────────────────
+cmmlauncher.com
+*.cmmlauncher.com
+www.cmmlauncher.com
+s3-ap-southeast-1.amazonaws.com/cmmlauncher
+# [NEW] Taboola (ad network — privacy policy confirmed):
+trc.taboola.com
+cdn.taboola.com
+# [NEW] AppNext (ad network — privacy policy confirmed):
+global.appnext.com
+globalcdnapi.appnext.com
+cdn.appnext.com
+# [NEW] Mobitech (ad partner):
+mobitech.io
+*.mobitech.io
+# Also uses AppLovin — see COMMON section
+
+──────────────────────────────────────
+AP15 Launcher:
+──────────────────────────────────────
+Play Store: com.aurhe.ap15
+
+──────────────────────────────────────
+Minimalist Phone
+──────────────────────────────────────
+minimalistphone.com
+*.minimalistphone.com
+www.minimalistphone.com
+faq.minimalistphone.com
+# [NEW] Crisp Chat 
+crisp.chat
+*.crisp.chat
+api.crisp.chat
+client.relay.crisp.chat
+image.crisp.chat
+storage.crisp.chat
+widget.crisp.chat
+go.crisp.chat
+# [NEW] RevenueCat (subscription management):
+api.revenuecat.com
+*.revenuecat.com
+revenuecat.com
+
+──────────────────────────────────────
+Yin Yang Launcher
+──────────────────────────────────────
+yinyanglauncher.com
+*.yinyanglauncher.com
+www.yinyanglauncher.com
+# [NEW] Firebase Authentication:
+identitytoolkit.googleapis.com
+securetoken.googleapis.com
+# [NEW] AWS Backend (Devpost confirmed):
+*.execute-api.us-east-1.amazonaws.com
+*.execute-api.eu-west-1.amazonaws.com
+
+──────────────────────────────────────
+Win-X Launcher
+──────────────────────────────────────
+Developer: Internity Labs / AppTech Interactive
+arclauncher.com (shared infrastructure)
+ Windows 10/11 style launcher. Shares AppTech infrastructure with ARC Launcher.
+
+──────────────────────────────────────
+Flow Minimalist Launcher
+──────────────────────────────────────
+Play Store: com.app.flowlauncher
+⚠️ 100K+ downloads. No dedicated domain.
+
+──────────────────────────────────────
+Oasis Launcher
+──────────────────────────────────────
+oasislauncher.com
+*.oasislauncher.com
+www.oasislauncher.com
+oasisminimalistlauncher.com
+# [NEW] Firebase (privacy policy confirmed):
+firebaseapp.com
+*.firebaseapp.com
+firebaseinstallations.googleapis.com
+# Google Play Services + Firebase Crashlytics also active
+
+──────────────────────────────────────
+Launcher OS 2026:
+──────────────────────────────────────
+Play Store: com.launcheros.fastlauncher
+# Uses AdMob 
+
+──────────────────────────────────────
+Minute Launcher: (FOSS)
+──────────────────────────────────────
+github.com/simonalveteg/Minute-Launcher
+
+──────────────────────────────────────
+Lynx Launcher
+──────────────────────────────────────
+lynxlauncher.de
+*.lynxlauncher.de
+www.lynxlauncher.de
+# [NEW] Purchase verification server (FAQ confirmed):
+api.lynxlauncher.de
+# [NEW] RevenueCat (subscription — FAQ confirmed):
+api.revenuecat.com
+revenuecat.com
+
+──────────────────────────────────────
+Stario Launcher: (FOSS)
+──────────────────────────────────────
+github.com/albu-razvan/Stario
+apt.izzysoft.de/fdroid/index/apk/com.stario.launcher
+# APIs/Services (External - opt-in only):
+api.met.no
+kagi.com
+
+──────────────────────────────────────
+ARC Launcher (AppTech Interactive)
+──────────────────────────────────────
+arclauncher.com
+*.arclauncher.com
+arclauncher.com/privacy.php
+# [NEW] Vungle/Liftoff (ad SDK — privacy policy confirmed):
+vungle.com
+*.vungle.com
+api.vungle.com
+cdn.vungle.com
+liftoff.io
+*.liftoff.io
+# [NEW] AdColony (ad SDK — privacy policy confirmed):
+adcolony.com
+*.adcolony.com
+ads.adcolony.com
+adc3-launch.adcolony.com
+events3.adcolony.com
+events3alt.adcolony.com
+wd.adcolony.com
+# [NEW] AppLovin:
+rt.applovin.com
+d.applvn.com
+a.applvn.com
+# [NEW] Adjust (attribution):
+adjust.com
+*.adjust.com
+app.adjust.com
+s2s.adjust.com
+# Also uses AdMob — see COMMON section
+NOTE: AppTech also develops Win-X Launcher and Control Panel Launcher under same domain.
+
+──────────────────────────────────────
+Senior Home – Easy Launcher:
+──────────────────────────────────────
+Play Store: com.seniorlauncher.app
+
+──────────────────────────────────────
+EasyLauncher: (FOSS)
+──────────────────────────────────────
+github.com/DroidWorksStudio/EasyLauncher
+f-droid.org/en/packages/app.easy.launcher
+
+──────────────────────────────────────
+Declutter: Minimal Launcher:
+──────────────────────────────────────
+Play Store: com.koncius.declutter
+
+──────────────────────────────────────
+Zen Detox Launcher:
+
+──────────────────────────────────────
+zendetoxphone.com
+*.zendetoxphone.com
+zendetoxphone.github.io
+# Firebase Analytics (anonymized) — see COMMON section
+⚠️ 100K+ downloads, minimalist detox launcher with Firebase analytics only.
+
+──────────────────────────────────────
+Next Launcher 3D (GOMO Limited): (INACTIVE - 2016)
+──────────────────────────────────────
+gomo.com
+*.gomo.com
+# Same domains as GO Launcher — see above
+NOTE: Same developer as GO Launcher. Last update 2016 - effectively INACTIVE.
+
+──────────────────────────────────────
+Fossify Launcher: (FOSS)
+──────────────────────────────────────
+fossify.org
+*.fossify.org
+github.com/FossifyOrg/Launcher
+f-droid.org/packages/org.fossify.launcher
+
+──────────────────────────────────────
+Hex Launcher: (FOSS)
+──────────────────────────────────────
+github.com/MrMannWood/launcher
+f-droid.org/packages/com.mrmannwood.hexlauncher
+
+──────────────────────────────────────
+LaunchTime: (FOSS)
+──────────────────────────────────────
+github.com/quaap/LaunchTime
+f-droid.org/packages/com.quaap.launchtime
+FOSS GPL-3.0, optional manual crash reporting (opt-in only)
+
+──────────────────────────────────────
+Einstein Launcher: (FOSS)
+──────────────────────────────────────
+github.com/JackEblan/EinsteinLauncher
+f-droid.org (added January 2026)
+
+──────────────────────────────────────
+POCO Launcher:
+──────────────────────────────────────
+Developer: Xiaomi/POCO
+NOTE: Official POCO/Xiaomi launcher. No independent website - distributed via Play Store and MIUI/HyperOS.
+ Xiaomi ecosystem integration, telemetry concerns similar to MIUI.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 TIER 1: TELEMETRY & ANALYTICS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 CHEETAH MOBILE TELEMETRY
+alog.cmcm.com
+stat.cmcm.com
+sdk.cmcm.com
+bi.cmcm.com
+log.cmcm.com
+analytics.cmcm.com
+track.cmcm.com
+report.cmcm.com
+
+📊 GO LAUNCHER TELEMETRY
+log.goforandroid.com
+stat.goforandroid.com
+analytics.goforandroid.com
+track.goforandroid.com
+report.gomo.com
+
+📊 SOLO LAUNCHER TELEMETRY
+log.solomo.com
+stat.solomo.com
+analytics.solomo.com
+track.solomo.com
+report.solomo.com
+
+📊 APUS TELEMETRY
+log.apusapps.com
+stat.apusapps.com
+analytics.apusapps.com
+track.apusapps.com
+report.apusapps.com
+data.apusapps.com
+
+📊 SMART LAUNCHER TELEMETRY
+analytics.smartlauncher.net
+log.smartlauncher.net
+
+📊 HOLA LAUNCHER TELEMETRY
+analytics.holalauncher.com
+log.holalauncher.com
+stat.holalauncher.com
+
+📊 U LAUNCHER TELEMETRY
+analytics.ulauncher.com
+log.ulauncher.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📢 TIER 2: ADVERTISING 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📺 CHEETAH MOBILE ADS
+adx.cmcm.com
+rp.cmcm.com
+ads.cmcm.com
+ad.cmcm.com
+push.cmcm.com
+popup.cmcm.com
+
+📺 GO LAUNCHER ADS
+ads.goforandroid.com
+ad.goforandroid.com
+push.goforandroid.com
+popup.goforandroid.com
+
+📺 SOLO LAUNCHER ADS
+ads.solomo.com
+ad.solomo.com
+push.solomo.com
+popup.solomo.com
+recommend.solomo.com
+
+📺 APUS ADS
+ads.apusapps.com
+ad.apusapps.com
+adx.apusapps.com
+push.apusapps.com
+popup.apusapps.com
+recommend.apusapps.com
+
+📺 SMART LAUNCHER ADS
+ads.smartlauncher.net
+
+📺 HOLA LAUNCHER ADS
+ads.holalauncher.com
+push.holalauncher.com
+ad.holalauncher.com
+
+📺 U LAUNCHER ADS
+ads.ulauncher.com
+ad.ulauncher.com
+push.ulauncher.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔄 TIER 4: UPDATE SERVICES 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 GO LAUNCHER UPDATES
+update.goforandroid.com
+upgrade.goforandroid.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
