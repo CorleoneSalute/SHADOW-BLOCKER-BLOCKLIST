@@ -1,0 +1,707 @@
+# BREWERY & WINERY FINDER APPS RESEARCH LIST
+
+---
+
+# 🍺 BEER APPS
+
+---
+
+## 🍺 Untappd
+
+### Core Platform
+- untappd.com
+- www.untappd.com
+- api.untappd.com
+- mobile.untappd.com
+- business.untappd.com
+- help.untappd.com
+- support.untappd.com
+
+### Business Platform
+- utfb.untappd.com 
+- ourmenu.com 
+- docs.business.untappd.com
+- status.untappd.com 
+
+### CDN & Assets
+- cdn.untappd.com
+- assets.untappd.com
+- photos.untappd.com
+- images.untappd.com
+- d21buns5ku92am.cloudfront.net
+
+### Analytics & Tracking 
+- analytics.untappd.com
+- events.untappd.com
+- telemetry.untappd.com
+- segment.untappd.com
+- mixpanel.untappd.com
+
+### Social Features
+- activity.untappd.com
+- friends.untappd.com
+- badges.untappd.com
+
+### Location Services 
+- geo.untappd.com
+- maps.untappd.com
+
+### Authentication
+- oauth.untappd.com
+
+### Business/Advertising
+- business-api.untappd.com
+- ads.untappd.com
+
+### Email/Marketing
+- email.untappd.com
+
+### Push Notifications
+- push.untappd.com
+- notifications.untappd.com
+
+### Real-time Features
+- realtime.untappd.com
+- websocket.untappd.com
+
+### Image Upload/Processing
+- upload.untappd.com
+
+### Search
+- search.untappd.com
+
+### Payment
+- payments.untappd.com
+- billing.untappd.com
+
+### Third-party Integrations
+- integrations.untappd.com
+
+---
+
+## 🍺 TapHunter
+
+### Core Platform
+- taphunter.com
+- www.taphunter.com
+- app.taphunter.com
+- mobile.taphunter.com
+- api.taphunter.com
+- help.taphunter.com
+- support.taphunter.com
+- get.taphunter.com 
+
+### Analytics 
+- analytics.taphunter.com
+- events.taphunter.com
+- segment.taphunter.com
+
+### Location 
+- geo.taphunter.com
+
+### CDN
+- cdn.taphunter.com
+- images.taphunter.com
+
+### Search
+- search.taphunter.com
+
+### Notifications
+- notifications.taphunter.com
+- push.taphunter.com
+
+### WebSocket
+- websocket.taphunter.com
+
+---
+
+## 🍺 BeerMenus
+
+### Core Platform
+- beermenus.com
+- www.beermenus.com
+- api.beermenus.com
+- mobile.beermenus.com
+
+### Analytics 
+- analytics.beermenus.com
+- segment.beermenus.com
+
+### CDN
+- cdn.beermenus.com
+- images.beermenus.com
+
+### Search
+- search.beermenus.com
+
+### Business
+- business.beermenus.com
+
+### Notifications
+- notifications.beermenus.com
+- push.beermenus.com
+
+---
+
+## 🍺 Brewery Passport (DarumaTech)
+
+### Core
+- brewerypassportapp.com
+- darumatech.com
+- www.darumatech.com
+- api.darumatech.com
+- backend.darumatech.com
+
+---
+
+## 🍺 Brewee
+
+### Core Platform
+- brewee.app
+- www.brewee.app
+
+---
+
+## 🍺 Finding Beer
+
+### Core Platform
+- finding.beer
+- api.finding.beer
+
+---
+
+## 🍺 DigitalPour
+
+### Core Platform
+- digitalpour.com
+- www.digitalpour.com
+- api.digitalpour.com
+- mobile.digitalpour.com
+- admin.digitalpour.com
+- backend.digitalpour.com
+
+### Analytics & Reporting 
+- analytics.digitalpour.com
+- reports.digitalpour.com
+
+### Mobile App Developer Domain
+- brewmium.com
+
+---
+
+## 🍺 myBeerNation
+
+### Core Platform
+- mybeernation.com
+- www.mybeernation.com
+
+---
+
+## 🍺 Beer Buddy
+
+### Core Platform
+- beerbuddy.app
+- www.beerbuddy.app
+
+---
+
+## 🍺 BreweryMap (Beer Mapping Project)
+
+### Core Platform
+- beermapping.com
+
+---
+
+# 🍷 WINE APPS
+
+---
+
+## 🍷 Vivino
+
+### Core Platform
+- vivino.com
+- www.vivino.com
+- api.vivino.com
+- api-beta.vivino.com
+- web-api.vivino.com
+- mobile.vivino.com
+- support.vivino.com
+- help.vivino.com 
+
+### Commerce
+- shop.vivino.com
+- buy.vivino.com
+- checkout.vivino.com
+
+### Analytics & Tracking 
+- analytics.vivino.com
+- events.vivino.com
+- telemetry.vivino.com
+- segment.vivino.com
+
+### Image Processing (Scanner Feature)
+- scanner.vivino.com
+- vision.vivino.com
+- ocr.vivino.com
+- vuforia.vivino.com
+
+### CDN
+- cdn.vivino.com
+- assets.vivino.com
+- images.vivino.com
+
+### Pricing Engine
+- prices.vivino.com
+
+### Email/Marketing
+- email.vivino.com
+
+### Search & Discovery
+- search.vivino.com
+
+### User Features
+- profile.vivino.com
+- reviews.vivino.com
+
+### Push Notifications
+- push.vivino.com
+- notifications.vivino.com
+
+### Payment Processing
+- payments.vivino.com
+- billing.vivino.com
+
+### Wine Marketplace
+- marketplace.vivino.com
+- merchants.vivino.com
+
+### WebSocket/Real-time
+- websocket.vivino.com
+- realtime.vivino.com
+
+### Firebase & Google Services 
+- firebaseapp.com
+- firebaseio.com
+- firebase.googleapis.com
+- firebaseinstallations.googleapis.com
+- firebaselogging.googleapis.com
+- firebasestorage.googleapis.com
+- firebasedynamiclinks.googleapis.com
+- google-analytics.com
+- googletagmanager.com
+- app-measurement.com
+
+---
+
+## 🍷 Delectable
+
+### Core Platform
+- delectable.com
+- api.delectable.com
+- mobile.delectable.com
+
+### Analytics 
+- analytics.delectable.com
+- segment.delectable.com
+
+### CDN
+- cdn.delectable.com
+- images.delectable.com
+
+### Shop/Commerce
+- shop.delectable.com
+
+### Support
+- support.delectable.com
+
+---
+
+## 🍷 Hello Vino
+
+### Core Platform
+- hellovino.com
+- www.hellovino.com
+- api.hellovino.com
+- mobile.hellovino.com
+
+---
+
+## 🍷 Wine-Searcher
+
+### Core Platform
+- wine-searcher.com
+- www.wine-searcher.com
+- api.wine-searcher.com
+- whiskysearcher.com 
+
+---
+
+## 🍷 Drync
+
+### Core Platform
+- drync.com
+- home.drync.com
+- api.drync.com
+- mobile.drync.com
+
+---
+
+## 🍷 Wine Routes
+
+### Core Platform
+- wineroutes.com
+- www.wineroutes.com
+- blog.wineroutes.com
+
+---
+
+## 🍷 AWESOMME
+
+### Core Platform
+- awesomme.com.au
+- awesomme.app
+
+---
+
+## 🍷 Enosocial
+
+### Core Platform
+- enosocial.com
+- www.enosocial.com
+- cantine.enosocial.com
+- admin.enosocial.com 
+
+---
+
+## 🍷 Winelikes
+
+### Core Platform
+- winelikes.com
+- www.winelikes.com
+
+---
+
+## 🍷 WineMaps
+
+### Core Platform
+- winemaps.com
+- www.winemaps.com
+- business.winemaps.com
+
+---
+
+## 🍷 Winedering
+
+### Core Platform
+- winedering.com
+- www.winedering.com
+- business.winedering.com 
+- support.winedering.com
+- wine-tourism.winedering.com
+
+---
+
+# 🎟️ PASSPORT & TRAIL APPS
+
+---
+
+## 🎟️ Oznr (CraftCellr) — Next Glass
+
+### Core Platform
+- oznr.com
+- www.oznr.com
+- craftcellr.com
+- support.oznr.com
+
+---
+
+## 🎟️ CellarPass
+
+### Core Platform
+- cellarpass.com
+- www.cellarpass.com
+- business.cellarpass.com
+- admin.cellarpass.com
+- api.cellarpass.com
+- mobile.cellarpass.com
+
+### Commerce & Analytics 
+- payments.cellarpass.com
+- analytics.cellarpass.com
+
+### Support
+- support.cellarpass.com
+
+---
+
+## 🎟️ Hop Passport
+
+### Core Platform
+- hoppassport.com
+- www.hoppassport.com
+- location.hoppassport.com
+
+---
+
+## 🎟️ Reel Craft Pass
+
+### Core Platform
+- reelcraftpass.com
+- www.reelcraftpass.com
+
+---
+
+## 🎟️ The Craft & Brew Passport
+
+### Core Platform
+- craftbrewpass.com
+- www.craftbrewpass.com
+
+---
+
+## 🎟️ Capital Craft Beverage Trail
+
+### Core Platform
+- capitalcraftbeveragetrail.com
+- www.capitalcraftbeveragetrail.com
+
+---
+
+## 🎟️ ROC/FLX Craft Beverage Trail
+
+### Core Platform
+- rocflxcraftbevtrail.com
+- www.rocflxcraftbevtrail.com
+
+---
+
+## 🎟️ Local Explorers (White-Label Platform)
+
+### Core Platform
+- localexplorers.com
+- www.localexplorers.com
+- business.localexplorers.com
+
+---
+
+## 🎟️ Priority Wine Pass
+
+### Core Platform
+- prioritywinepass.com
+- www.prioritywinepass.com
+- priorityexperiences.com 
+
+---
+
+## 🎟️ Covet Pass
+
+### Core Platform
+- covetpass.com
+- www.covetpass.com
+
+---
+
+## 🎟️ Winalist
+
+### Core Platform
+- winalist.com
+- www.winalist.com
+
+### Affiliate & Collections
+- winalist.com/affiliation
+- winalist.com/ambassador
+- winalist.com/collections
+
+---
+
+## 🎟️ WineTourism.com
+
+### Core Platform
+- winetourism.com
+- www.winetourism.com
+
+---
+
+## 🎟️ Hellowine (Borindex)
+
+### Core Platform
+- hellowine.com
+- www.hellowine.com
+- borindex.hu
+
+---
+
+## 🎟️ The Winery App
+
+### Core Platform
+- thewineryapp.com
+- www.thewineryapp.com
+
+---
+
+---
+
+## 🗺️ New York State Craft Beer App
+
+### Core Platform — Powered by DarumaTech/Local Explorers
+- thinknydrinkny.com
+- www.thinknydrinkny.com
+- newyorkcraftbeer.com 
+
+---
+
+## 🗺️ Ohio On Tap
+
+### Core Platform — Powered by DarumaTech/Local Explorers
+- ohiocraftbeer.org
+- www.ohiocraftbeer.org
+- ohiocraftbeer.org/app
+
+---
+
+## 🗺️ Vermont Brewery Challenge
+
+### Core Platform
+- vermontbrewers.com
+
+---
+
+## 🗺️ Texas Brewery Explorer (Texas Brewery Passport™)
+
+### Core Platform — Powered by DarumaTech/Local Explorers
+- texasbreweryexplorer.com
+- www.texasbreweryexplorer.com
+- texascraftbrewersguild.org
+
+---
+
+## 🗺️ Idaho Brewers Trail
+
+### Core Platform — Powered by DarumaTech/Local Explorers
+- idahobrewers.org
+- www.idahobrewers.org
+
+---
+
+## 🗺️ Washington Beer App
+
+### Core Platform — Powered by DarumaTech/Local Explorers
+- washingtonbeer.com
+- www.washingtonbeer.com
+
+---
+---
+
+## 🍇 Livermore Valley Wine Passport
+
+### Core Platform
+- lvwine.org
+- www.lvwine.org
+
+---
+
+## 🍇 Santa Barbara Wine Country Days Passport
+
+### Core Platform
+- sbcountywines.com
+- www.sbcountywines.com
+
+---
+
+## 🍇 Santa Clara Wine Trail Pass Deck
+
+### Core Platform
+- santaclarawinetrail.com
+- www.santaclarawinetrail.com
+
+---
+
+## 🍇 Santa Cruz Mountains Wine Passport
+
+### Core Platform
+- scmwa.com
+- www.scmwa.com
+
+---
+
+## 🍇 Passport to Dry Creek Valley
+
+### Core Platform
+- drycreekvalley.org
+- www.drycreekvalley.org
+- drycreekvalley.org/dcv-passport/
+- winegrowersofdrycreekvalley.ticketspice.com/passport2025
+
+---
+
+## 🍇 Winter in the Wineries Passport — Calistoga
+
+### Core Platform
+- visitcalistoga.com
+- www.visitcalistoga.com
+- visitcalistoga.com/winter-in-the-wineries-passport/
+
+---
+
+## 🍇 Heart of Willamette Wine Passport
+
+### Core Platform
+- visitcorvallis.com
+- www.visitcorvallis.com
+- visitcorvallis.com/heart-of-willamette-wine-passport
+
+---
+
+## 🍇 Passport to CT Wine Country
+
+### Core Platform
+- ctwine.com
+- www.ctwine.com
+- ctwinecountry.com
+- www.ctwinecountry.com
+- ctgrown.org
+- portal.ct.gov/doag/boards/boards/wine-passport-faq
+
+---
+
+## 🍇 New Jersey Wine Trails
+
+### Core Platform
+- newjerseywines.com
+- www.newjerseywines.com
+
+---
+
+## 🍇 Lancaster County Brew Trail
+
+### Core Platform
+- discoverlancaster.com
+- www.discoverlancaster.com
+
+---
+
+## 🍇 Adams County Pour Tour
+
+### Core Platform
+- destinationgettysburg.com
+- www.destinationgettysburg.com
+
+---
+
+## 🍇 Laurel Highlands Pour Tour
+
+### Core Platform
+- golaurelhighlands.com
+- www.golaurelhighlands.com
+- laurelhighlands.org
+- www.laurelhighlands.org
+- lhpourtour.com
+
+---
+
+## 🍇 Cabin Fever Wine Trail
+
+### Core Platform
+- visitcentralpa.org
+- www.visitcentralpa.org
+- pawinetrail.com
