@@ -1,0 +1,555 @@
+🚁 CONSUMER/PROSUMER DRONE CONTROL APPS RESEARCH LIST
+
+ DJI (China, 70% Market Share)
+
+Core
+
+-   dji.com
+-   dji.net
+-   www.dji.com
+-   djicdn.com
+-   djiservice.org
+-   djistatic.com 
+-   djiexplore.com 
+-   www.djiexplore.com 
+
+Subdomains — DJI
+
+-   djiflight.dji.com
+-   terra.dji.com
+-   service.dji.com
+-   account.dji.com
+-   account-api.dji.com
+-   static.dji.net
+-   dl.djicdn.com
+-   activetrack.dji.com
+-   sdk.dji.com
+-   developer.dji.com
+-   forum.dji.com
+-   store.dji.com
+-   api.dji.com
+-   my.dji.com
+-   flysafe.dji.com
+-   go.dji.com
+-   mimo.dji.com
+-   ag.dji.com
+-   enterprise.dji.com
+-   education.dji.com
+-   robomaster.dji.com
+-   update.dji.com
+-   cfg.dji.com
+-   activate.dji.com
+-   nfz.dji.com
+-   pilot.dji.com
+-   download.dji.com
+-   mydjiflight.dji.com
+-   license.dji.com
+-   active.dji.com 
+-   click.dji.com 
+-   dds.dji.com 
+-   u.dji.com 
+-   flysafe-api.dji.com
+-   explore.djivideos.com 
+-   pilotv2.djivideos.com 
+
+DJI CDN / Asset
+
+-   adhoc-usa.djicdn.com
+-   product1.djicdn.com 
+-   asset1.djicdn.com 
+-   asset2.djicdn.com 
+-   asset3.djicdn.com 
+-   asset4.djicdn.com
+-   asset5.djicdn.com 
+
+DJI Corporate / Internal
+
+-   gitlab.djicorp.com 
+-   feedback-external.djicorp.com 
+
+DJI Service / aasky.net
+
+-   adhoc-usa.djiservice.org
+-   adhoc.djiservice.org
+-   apigateway.djiservice.org
+-   adhoc-staging.aasky.net
+-   acbe.aasky.net
+-   aasky.net
+-   fffdrone.aasky.net 
+-   pro-dji-service-usa-cdn.aasky.net 
+-   enchat.djiservice.org 
+-   static-cdn.djiservice.org 
+-   statistical-report.djiservice.org 
+
+DJI Telemetry
+
+-   stat.dji.com
+-   log.dji.com
+-   feedback.dji.com
+-   crash.dji.com
+-   telemetry.dji.com
+
+DJI FlightHub
+
+-   dji-flighthub.com
+-   flighthub.dji.com
+-   flighthub-enterprise.dji.com
+
+DJI Terra
+
+-   dji-terra.com
+-   terra-license.djiservice.org
+
+DJI AeroScope
+
+-   aeroscope.dji.com
+
+DJI SkyPixel
+
+-   skypixel.com
+-   skypixel.net
+-   api.skypixel.com
+-   cdn.skypixel.com
+-   www.skypixel.com
+-   app-service.skypixel.com 
+-   cdn-hz.skypixel.com 
+-   cdn-usa.skypixel.com 
+-   skypixel-hz.oss-cn-hangzhou.aliyuncs.com 
+-   skypixel-usa.oss-us-west-1.aliyuncs.com 
+
+DJI China
+
+-   abroad.apilocate.amap.com
+-   apilocate.amap.com
+-   amap-api.cn-hangzhou.oss-pub.aliyun-inc.com
+-   adash.ut.taobao.com
+-   adash.m.taobao.com
+-   android.bugly.qq.com
+-   tpns.qq.com
+-   api.weibo.cn
+-   api.weibo.com
+-   ditu.google.cn
+-   baidu.com 
+-   conf.international.baidu.com 
+-   hydra.alibaba.com 
+-   restapi.amap.com 
+-   fusion.qq.com
+-   pingma.qq.com 
+-   rqd.uu.qq.com 
+-   ios.bugly.qq.com 
+-   astat.bugly.qq.com 
+-   c-adash.ut.taobao.com 
+-   captcha.weibo.com 
+-   cgi.connect.qq.com 
+
+Push Notification (JPush / 极光)
+
+-   s.jpush.cn 
+-   sis.jpush.io 
+-   stats.jpush.cn
+-   update.sdk.jiguang.cn 
+
+Analytics / Crash Reporting (3rd Party)
+
+-   newrelic.com 
+-   js-agent.newrelic.com 
+-   bam.nr-data.net 
+-   flurry.com 
+-   data.flurry.com 
+-   flurry.adserver.prod.g04.yahoodns.net 
+
+Social Media (Facebook)
+
+-   connect.facebook.net 
+-   graph.facebook.com 
+
+MapBox (DJI GO 4 + Fly)
+
+-   api.mapbox.com 
+-   events.mapbox.com 
+-   tiles.mapbox.com 
+
+CDN — CloudFront (DJI US)
+
+-   d16koec4ujdumm.cloudfront.net 
+-   d125tdjigxzobs.cloudfront.net 
+
+Pay/Other
+
+-   cdn1.affirm.com 
+-   qbox.me 
+-   upgrade.bgcentre.com 
+-   upgrade.dj2006.net 
+-   download.vcdn.nokia.com 
+-   epdg.epc.mnc410.mcc310.pub.3gppnetwork.org 
+
+-   api2.rocos.io
+-   dankdronedownloader.com
+-   dddstatus.com
+
+Yuneec
+
+-   yuneec.com
+-   yuneec.online
+-   yuneec.uk
+-   yuneec-go.com
+-   www.yuneec.com
+-   commercial.yuneec.com
+-   us.yuneec.com
+-   api.yuneec.com
+-   store.yuneec.com
+-   cloud.yuneec.com
+-   yuneecskins.com
+-   yuneec-forum.com
+-   yuneecpilots.com 
+-   uavtoolbox.com
+
+Holy Stone
+
+-   holystone.com
+-   holystone.net
+-   holystonedrone.com
+-   api.holystone.com
+-   app.holystone.com
+-   app-h5.holystone.com 
+
+Potensic
+
+-   potensic.com
+-   potensictoys.com
+-   store.potensic.com
+-   api.potensic.com
+
+Hubsan
+
+-   hubsan.com
+-   www.hubsan.com
+-   hubsanfpv.com
+-   forum.hubsan.com
+-   api.hubsan.com
+-   cloud.hubsan.com
+
+FIMI ⚠️⚠️⚠️ (Xiaomi sub-brand)
+
+-   fimi.com
+-   store.fimi.com
+-   fimiglobal.com
+-   xiaomi-mi.com/drones
+-   app.fimi.com
+-   api.fimi.com
+-   paas-oregon-static-file.fimi.com 
+-   fimiapp-web-us.mi-ae.com 
+-   mi-ae.com 
+
+PowerVision
+
+-   powervision.me
+-   powervisiontec.com
+-   api.powervision.me
+-   cloud.powervision.me
+-   store.us.powervision.me 
+-   store.powervision.me 
+
+Walkera
+
+-   walkera.com
+-   walkera.com.cn
+-   cloud.walkera.com
+
+
+Ehang ⚠️⚠️⚠️
+
+-   ehang.com
+-   ehang.net
+-   api.ehang.com
+-   cloud.ehang.com
+
+Xiaomi Drones
+
+-   mi.com/drone
+-   home.mi.com
+
+Syma
+
+-   symatoys.com
+-   www.symatoys.com
+-   symadrone.com
+
+MJX
+
+-   mjxrc.com
+
+JJRC
+
+-   jjrc.com
+-   jjrctoys.com
+
+Ruko
+
+-   rukodrone.com
+-   rfruko.com
+-   ruko.net 
+-   rukotoy.com 
+
+HOVERAir / ZeroZero Robotics ⚠️⚠️⚠️ (Hangzhou, China)
+
+-   zerozerorobotics.com
+-   www.zerozerorobotics.com
+-   hoverair.com
+-   thehover.com
+-   hover.camera
+-   gethover.com 🆕
+-   global.hoverair.com 🆕
+
+Tello (Ryze Robotics — DJI Partnership) ⚠️⚠️
+
+-   ryzerobotics.com
+-   www.ryzerobotics.com
+-   dl-cdn.ryzerobotics.com
+
+Protocol (local WiFi):
+
+-   UDP Port 8889 (komut)
+-   UDP Port 8890 (durum)
+-   UDP Port 11111 (video stream)
+
+Autel Robotics (US)
+
+-   autelrobotics.com
+-   autelrobotics.net
+-   auteldrones.com
+-   autel-sky.com
+-   autelonline.com
+-   developer.autelrobotics.com
+-   api.autelrobotics.com
+-   cloud.autelrobotics.com
+-   app.autelrobotics.com
+-   enterprise.autelrobotics.com
+-   store.autelrobotics.com
+-   doc.autelrobotics.com
+-   autelpilots.com 
+-   athenaos.autelrobotics.com 
+
+Skydio (US)
+
+-   skydio.com
+-   skydio.net
+-   cloud.skydio.com
+-   app.skydio.com
+-   enterprise.skydio.com
+-   documentation.skydio.com
+-   api.skydio.com
+-   support.skydio.com
+-   developer.skydio.com
+-   apidocs.skydio.com
+-   external.dronesense.com
+-   skydio.us 
+
+Parrot (France)
+
+-   parrot.com
+-   parrot.net
+-   parrot-drones.com
+-   anafi.parrot.com
+-   bebop.parrot.com
+-   freeflight6.parrot.com
+-   academy.parrot.com
+-   api.parrot.com
+-   cloud.parrot.com
+-   flightplan.parrot.com
+-   developer.parrot.com
+-   support.parrot.com 
+-   anafi.local (192.168.42.1 — local REST API)
+-   anafi-ai.local (192.168.42.1 — ANAFI Ai lokal REST API)
+
+Pix4D (FreeFlight 6):
+
+-   pix4d.com 
+
+Anzu Robotics (US — Aloft Air Control)
+
+-   anzurobotics.com
+-   www.anzurobotics.com
+
+Software Partner 
+
+-   aloft.ai
+-   www.aloft.ai
+-   takealoft.com
+-   api.aloft.ai
+-   app.aloft.ai
+-   laanc.aloft.ai
+-   status.aloft.ai
+-   kittyhawk.io
+
+Antigravity (Insta360) — New (2026)
+
+-   antigravity.tech
+-   www.antigravity.tech
+
+
+Airdata UAV
+
+-   airdata.com
+-   app.airdata.com
+-   api.airdata.com
+-   healthydrones.airdata.com
+-   healthydrones.com
+-   mqtt01-us.airdata.com (MQTT Port 1883)
+-   docs.airdata.com
+
+Dronelogbook
+
+-   dronelogbook.com
+-   www.dronelogbook.com
+-   api.dronelogbook.com
+-   safetydrone.org
+-   dronelogbook.net.au 
+-   dronelogbook.ag 
+-   droneanalytics.com 
+
+AirVuz
+
+-   airvuz.com
+-   api.airvuz.com
+-   cdn.airvuz.com
+
+Dronestagram / HOsiHO
+
+-   dronestagram.com
+-   dronestagr.am
+-   api.dronestagram.com
+-   hosiho.com
+-   hosiho.net 
+-   blog.dronestagr.am 
+
+AirMap
+
+-   airmap.com
+-   airmap.io
+-   airmap.net
+-   cdn.airmap.io
+-   developers.airmap.com
+-   api.airmap.com
+-   app.airmap.com
+-   tiles.airmap.com
+-   auth.airmap.com
+-   telemetry.airmap.com (UDP Port 16060 + gRPC 443)
+-   sso.airmap.io
+-   mqtt.airmap.com (Port 8883)
+-   droneup.com 
+-   noflyzones.org 
+
+Aloft (Kittyhawk)
+
+-   aloft.ai
+-   www.aloft.ai
+-   takealoft.com
+-   api.aloft.ai
+-   app.aloft.ai
+-   laanc.aloft.ai
+-   status.aloft.ai
+-   kittyhawk.io
+-   air.aloft.ai 
+-   b4ufly.aloft.ai 
+
+UgCS (SPH Engineering)
+
+-   ugcs.com
+-   sphengineering.com
+-   integrated.ugcs.com
+-   shop.sphengineering.com
+-   docs.ugcs.com
+-   api.ugcs.com
+-   sdk.ugcs.com
+-   wiki.ugcs.com
+-   terrain.ugcs.com 
+-   manuals-ugcs.sphengineering.com 
+-   cloud.ugcs.com 
+
+UgCS Map Tile Sources:
+
+-   mt1.google.com 
+-   h0.ortho.tiles.virtualearth.net (Bing) 
+-   nominatim.openstreetmap.org (geocoding) 
+
+Litchi ⚠️⚠️
+
+-   flylitchi.com
+-   hub.flylitchi.com
+-   api.flylitchi.com
+-   litchiutilities.com
+-   forum.flylitchi.com 
+
+Dronelink
+
+-   dronelink.com
+-   support.dronelink.com
+-   api.dronelink.com
+-   app.dronelink.com
+
+Drone Harmony
+
+-   droneharmony.com
+-   cloud.droneharmony.com
+-   ideas.droneharmony.com
+-   forum.droneharmony.com
+-   api.droneharmony.com
+-   web.droneharmony.com
+-   dock.droneharmony.com 
+
+Hover
+
+-   hover.camera
+
+Maven
+
+-   mavenpilot.com
+-   mavenverse.com 
+
+OK TO FLY (Airdata)
+
+-   oktofly.com
+
+Copterus / Autopilot (iOS)
+
+-   copterus.app
+-   www.copterus.app
+
+TelloFPV (3rd party)
+
+-   volatello.com
+
+App ID'leri:
+
+-   com.volatello.tellofpv
+-   com.volatello.tellofpv.demo
+
+QGroundControl
+
+-   docs.qgroundcontrol.com
+-   qgroundcontrol.com 
+-   github.com/mavlink/qgroundcontrol
+-   discuss.px4.io
+-   dronecode.org 
+-   mavlink.io 
+-   review.px4.io 
+
+Protocol:
+
+-   MAVLink (UDP/TCP/Serial)
+-   Port 14550 ( UDP)
+
+Mission Planner (ArduPilot)
+
+-   ardupilot.org
+-   ardupilot.org/planner
+-   firmware.ardupilot.org
+-   discuss.ardupilot.org
+-   firmware.ap.ardupilot.org 
+
+Protocol:
+
+-   MAVLink (UDP/TCP/Serial)
+-   Port 14550 (varsayılan UDP)
+-   Port 5760 (MAVProxy)
