@@ -1,0 +1,1595 @@
+LIVE STREAMING RESEARCH LIST 
+
+🔴 TWITCH (Amazon)
+
+Core Services
+
+  twitch.tv
+
+  twitch.com
+
+  www.twitch.tv
+
+  m.twitch.tv
+
+  dashboard.twitch.tv
+
+  inspector.twitch.tv
+
+  passport.twitch.tv
+
+API & Infrastructure
+
+  gql.twitch.tv
+
+  api.twitch.tv
+
+  dev.twitch.tv
+
+  dmca.twitch.tv
+
+  id.twitch.tv
+
+  api-gql-test.twitch.tv
+
+IRC Chat
+
+  irc.chat.twitch.tv
+
+  irc-ws.chat.twitch.tv
+
+  irc-ws-r.chat.twitch.tv
+
+  chatdepot.twitch.tv
+
+  tmi.twitch.tv
+
+WebSocket Endpoints
+
+  eventsub.wss.twitch.tv
+
+  eventsub-beta.wss.twitch.tv
+
+  pubsub-edge.twitch.tv
+
+  hermes.twitch.tv
+
+CDN & Media
+
+  jtvnw.net
+
+  twitchcdn.net
+
+  ext-twitch.tv
+
+  static.twitchcdn.net
+
+  vod-secure.twitch.tv
+
+  vod-metro.twitch.tv
+
+  static-cdn.jtvnw.net
+
+  clips-media-assets2.twitch.tv
+
+  production.assets.clips.twitchcdn.net
+
+  canary.assets.clips.twitchcdn.net
+
+  clips.twitch.tv
+
+  twitchsvc.net
+
+  live-video.net
+
+  ttvnw.net
+
+  usher.ttvnw.net
+
+  web-cdn.ttvnw.net
+
+Video Streaming (Regional Patterns)
+
+  video-weaver.[region].hls.ttvnw.net (PATTERN)
+
+  video-edge-[sequence].[region].abs.hls.ttvnw.net (PATTERN)
+
+  helix-prod-cf.h.twitchcdn.net
+
+  helix-beta-cf.h.twitchcdn.net
+
+Shadow/Staging Infrastructure
+
+  twitch-shadow.net
+
+  twitchcdn-shadow.net
+
+  twitchsvc-staging.tech
+
+  twitch.a2z.com
+
+Extension Development
+
+  supervisor.ext-twitch.tv
+
+  extension-files.twitch.tv
+
+  localhost.twitch.tv
+
+  localhost.twitch.tech
+
+  localhost.rig.twitch.tv
+
+Support & Help
+
+  support.twitch.tv
+
+  support.dev.twitch.tv
+
+  help.twitch.tv
+
+CloudFront CDNs
+
+  d2e2de1etea730.cloudfront.net
+
+  d2nvs31859zcd8.cloudfront.net
+
+  d1g1f25tn8m2e6.cloudfront.net
+
+  d1m7jfoe9zdc1j.cloudfront.net
+
+  d1mhjrowxxagfy.cloudfront.net
+
+  d1oca24q5dwo6d.cloudfront.net
+
+  d1w2poirtb3as9.cloudfront.net
+
+  d1xhnb4ptk05mw.cloudfront.net
+
+  d1ymi26ma8va5x.cloudfront.net
+
+  d2aba1wr3818hz.cloudfront.net
+
+  d2dylwb3shzel1.cloudfront.net
+
+  d2um2qdswy1tb0.cloudfront.net
+
+  d2vjef5jvl6bfs.cloudfront.net
+
+  d2xmjdvx03ij56.cloudfront.net
+
+  d36nr0u3xmc4mm.cloudfront.net
+
+  d3aqoihi2n8ty8.cloudfront.net
+
+  d3c27h4odz752x.cloudfront.net
+
+  d3vd9lfkzbru3h.cloudfront.net
+
+  d6d4ismr40iw.cloudfront.net
+
+  d6tizftlrpuof.cloudfront.net
+
+  ddacn6pr5v0tl.cloudfront.net
+
+  dqrpb9wgowsf5.cloudfront.net
+
+  ds0h3roq6wcgc.cloudfront.net
+
+  dgeft87wbj63p.cloudfront.net
+
+  dykkng5hnh52u.cloudfront.net
+
+Blog (Multilingual)
+
+  blog.twitch.tv
+
+  de.blog.twitch.tv
+
+  fr.blog.twitch.tv
+
+  it.blog.twitch.tv
+
+  jp.blog.twitch.tv
+
+  kr.blog.twitch.tv
+
+  pt.blog.twitch.tv
+
+  th.blog.twitch.tv
+
+  sv.twitch.tv
+
+  tl.twitch.tv
+
+Other Services
+
+  affiliate.twitch.tv
+
+  app.twitch.tv
+
+  badges.twitch.tv
+
+  bits.twitch.tv
+
+  brand.twitch.tv
+
+Analytics & Tracking
+
+  analytics.twitch.tv
+
+  metrics.twitch.tv
+
+  spade.twitch.tv
+
+  countess.twitch.tv
+
+▶️ YOUTUBE GAMING / YOUTUBE LIVE
+
+Core Services
+
+  youtube.com
+
+  www.youtube.com
+
+  m.youtube.com
+
+  gaming.youtube.com
+
+  studio.youtube.com
+
+  shorts.youtube.com
+
+  youtu.be
+
+  yt.be
+
+  withyoutube.com
+
+Privacy Enhanced Mode
+
+  youtube-nocookie.com
+
+  www.youtube-nocookie.com
+
+CDN & Media
+
+  ytimg.com
+
+  i.ytimg.com
+
+  yt3.ggpht.com
+
+  googlevideo.com
+
+  ggpht.com
+
+  ggpht.cn
+
+  yt3.googleusercontent.com
+
+  wide-youtube.l.google.com
+
+APIs
+
+  youtubei.googleapis.com
+
+  youtube.googleapis.com
+
+  youtube-ui.l.google.com
+
+  youtubeembeddedplayer.googleapis.com
+
+Sub-Platforms
+
+  youtubeeducation.com
+
+  youtubefanfest.com
+
+  youtubegaming.com
+
+  youtubekids.com
+
+  youtubemobilesupport.com
+
+YouTube Go
+
+  youtubego.com
+
+  youtubego.co.id
+
+  youtubego.co.in
+
+  youtubego.com.br
+
+  youtubego.id
+
+  youtubego.in
+
+ TLD
+
+  youtube.ae
+
+  youtube.al
+
+  youtube.am
+
+  youtube.at
+
+  youtube.az
+
+  youtube.ba
+
+  youtube.be
+
+  youtube.bg
+
+  youtube.bh
+
+  youtube.bo
+
+  youtube.by
+
+  youtube.ca
+
+  youtube.cat
+
+  youtube.ch
+
+  youtube.cl
+
+  youtube.co
+
+  youtube.cr
+
+  youtube.cz
+
+  youtube.de
+
+  youtube.dk
+
+  youtube.ee
+
+  youtube.es
+
+  youtube.fi
+
+  youtube.fr
+
+  youtube.ge
+
+  youtube.gr
+
+  youtube.gt
+
+  youtube.hk
+
+  youtube.hr
+
+  youtube.hu
+
+  youtube.ie
+
+  youtube.in
+
+  youtube.iq
+
+  youtube.is
+
+  youtube.it
+
+  youtube.jo
+
+  youtube.jp
+
+  youtube.kr
+
+  youtube.kz
+
+  youtube.la
+
+  youtube.lk
+
+  youtube.lt
+
+  youtube.lu
+
+  youtube.lv
+
+  youtube.ly
+
+  youtube.ma
+
+  youtube.md
+
+  youtube.me
+
+  youtube.mk
+
+  youtube.mn
+
+  youtube.mx
+
+  youtube.my
+
+  youtube.ng
+
+  youtube.ni
+
+  youtube.nl
+
+  youtube.no
+
+  youtube.pa
+
+  youtube.pe
+
+  youtube.ph
+
+  youtube.pk
+
+  youtube.pl
+
+  youtube.pr
+
+  youtube.pt
+
+  youtube.qa
+
+  youtube.ro
+
+  youtube.rs
+
+  youtube.ru
+
+  youtube.sa
+
+  youtube.se
+
+  youtube.sg
+
+  youtube.si
+
+  youtube.sk
+
+  youtube.sn
+
+  youtube.soy
+
+  youtube.sv
+
+  youtube.tn
+
+  youtube.tv
+
+  youtube.ua
+
+  youtube.ug
+
+  youtube.uy
+
+  youtube.vn
+
+ .co.XX
+
+  youtube.co.ae
+
+  youtube.co.at
+
+  youtube.co.cr
+
+  youtube.co.hu
+
+  youtube.co.id
+
+  youtube.co.il
+
+  youtube.co.in
+
+  youtube.co.jp
+
+  youtube.co.ke
+
+  youtube.co.kr
+
+  youtube.co.ma
+
+  youtube.co.nz
+
+  youtube.co.th
+
+  youtube.co.tz
+
+  youtube.co.ug
+
+  youtube.co.uk
+
+  youtube.co.ve
+
+  youtube.co.za
+
+  youtube.co.zw
+
+ .com.XX
+
+  youtube.com.ar
+
+  youtube.com.au
+
+  youtube.com.az
+
+  youtube.com.bd
+
+  youtube.com.bh
+
+  youtube.com.bo
+
+  youtube.com.br
+
+  youtube.com.by
+
+  youtube.com.co
+
+  youtube.com.do
+
+  youtube.com.ec
+
+  youtube.com.ee
+
+  youtube.com.eg
+
+  youtube.com.es
+
+  youtube.com.gh
+
+  youtube.com.gr
+
+  youtube.com.gt
+
+  youtube.com.hk
+
+  youtube.com.hn
+
+  youtube.com.hr
+
+  youtube.com.jm
+
+  youtube.com.jo
+
+  youtube.com.kw
+
+  youtube.com.lb
+
+  youtube.com.lv
+
+  youtube.com.ly
+
+  youtube.com.mk
+
+  youtube.com.mt
+
+  youtube.com.mx
+
+  youtube.com.my
+
+  youtube.com.ng
+
+  youtube.com.ni
+
+  youtube.com.om
+
+  youtube.com.pa
+
+  youtube.com.pe
+
+  youtube.com.ph
+
+  youtube.com.pk
+
+  youtube.com.pt
+
+  youtube.com.py
+
+  youtube.com.qa
+
+  youtube.com.ro
+
+  youtube.com.sa
+
+  youtube.com.sg
+
+  youtube.com.sv
+
+  youtube.com.tn
+
+  youtube.com.tr
+
+  youtube.com.tw
+
+  youtube.com.ua
+
+  youtube.com.uy
+
+  youtube.com.ve
+
+Analytics
+
+  analytics.youtube.com
+
+  ads.youtube.com
+
+🟢 KICK
+
+Core Services
+
+  kick.com
+
+  kick.live
+
+  www.kick.com
+
+API
+
+  api.kick.com
+
+  docs.kick.com
+
+CDN
+
+  cdn.kick.com
+
+  d2egosedh0nm8l.cloudfront.net
+
+  images.kick.com
+
+  static.kick.com
+
+  files.kick.com
+
+Player
+
+  player.kick.com
+
+Streaming (AWS IVS)
+
+  stream.kick.com
+
+  fa723fc1b171.us-west-2.playback.live-video.net
+
+Other Services
+
+  clips.kick.com
+
+  shop.kick.com
+
+  help.kick.com
+
+  cloud.mail.kick.com
+
+  click.mail.kick.com
+
+  view.mail.kick.com
+
+  image.mail.kick.com
+
+🔵 RUMBLE
+
+Core Platform
+
+  rumble.com
+
+  www.rumble.com
+
+  m.rumble.com
+
+Cloud Services
+
+  rumble.cloud
+
+  docs.rumble.cloud
+
+  hugh.cdn.rumble.cloud
+
+  [name].cdn.rumble.cloud (PATTERN)
+
+Developer
+
+  rumbleplayer.com
+
+Streaming / CDN (Yeni)
+
+  rmbl.ws
+
+  sp.rmbl.ws
+
+  a-cdn.rmbl.ws
+
+  live-[id].rmbl.ws (PATTERN)
+
+API
+
+  api-a.rumble.com
+
+  share.rumble.com
+
+🐯 TROVO (Tencent)
+
+Core Platform
+
+  trovo.live
+
+  www.trovo.live
+
+  m.trovo.live
+
+API & Developer
+
+  open-api.trovo.live
+
+  developer.trovo.live
+
+  openplatform.trovo.live
+
+  open.trovo.live
+
+WebSocket Chat
+
+  open-chat.trovo.live
+
+Player & Embed
+
+  player.trovo.live
+
+  cdn.trovo.live
+
+CDN
+
+  astatic.trovocdn.net
+
+  headicon.trovo.live
+
+Static Assets
+
+  static.trovo.live
+
+Support
+
+  support.trovo.live
+
+  feedback.trovo.live
+
+Legacy
+
+  madcat.tv
+
+🟣 CHZZK (Naver)
+
+Core Platform
+
+  chzzk.naver.com
+
+  m.chzzk.naver.com
+
+API
+
+  api.chzzk.naver.com
+
+  comm-api.game.naver.com
+
+  apis.naver.com
+
+CDN (Akamai)
+
+  livecloud-thumb.akamaized.net
+
+  livecloud.akamaized.net
+
+  livecloud.pstatic.net
+
+Naver Infrastructure
+
+  naver.com
+
+  pstatic.net
+
+  nng-phinf.pstatic.net
+
+  game.naver.com
+
+🇰🇷 SOOP KOREA / AFREECATV
+
+SOOP Korea
+
+  sooplive.co.kr
+
+  www.sooplive.co.kr
+
+  play.sooplive.co.kr
+
+  m.sooplive.co.kr
+
+  vod.sooplive.co.kr
+
+  api.m.sooplive.co.kr
+
+  live.sooplive.co.kr
+
+  login.sooplive.co.kr
+
+  livestream-manager.sooplive.co.kr
+
+  corp.sooplive.co.kr
+
+  openapi.sooplive.co.kr
+
+  static.sooplive.co.kr
+
+  cdn.sooplive.co.kr
+
+  img.sooplive.co.kr
+
+SOOP Global
+
+  sooplive.com
+
+  www.sooplive.com
+
+Legacy AfreecaTV
+
+  afreecatv.com
+
+  www.afreecatv.com
+
+  subs.afreecatv.com
+
+  developers.afreecatv.com
+
+  play.afreecatv.com
+
+Nameservers
+
+  ns.sooplive.co.kr
+
+  ns1.sooplive.co.kr
+
+  ns2.sooplive.co.kr
+
+  ns3.sooplive.co.kr
+
+Support
+
+  sooplive.helpshift.com
+
+🐯 HUYA
+
+Core Platform
+
+  huya.com
+
+  www.huya.com
+
+  live.huya.com
+
+  game.huya.com
+
+CDN
+
+  huyacdn.com
+
+  cdn.wup.huya.com
+
+  v.huya.com
+
+Streaming CDN Patterns
+
+  qvodlive-va.huya.com
+
+  tx.flv.huya.com
+
+  al.flv.huya.com
+
+  hw.flv.huya.com
+
+  hs.flv.huya.com
+
+Static / Assets
+
+  staticlive.douyutv.com
+
+  a.huya.com
+
+  pic.huya.com
+
+  img.huya.com
+
+  sdk.huya.com
+
+  mobile-test.huya.com
+
+🎮 DOUYU
+
+Core Platform
+
+  douyu.com
+
+  www.douyu.com
+
+  m.douyu.com
+
+  open.douyu.com
+
+  passport.douyu.com
+
+  img.douyu.com
+
+CDN
+
+  douyucdn.cn
+
+  douyucdn2.cn
+
+Streaming CDN Patterns
+
+  capi.douyucdn.cn
+
+  dyscdnali1.douyucdn.cn
+
+  dyscdnali3.douyucdn.cn
+
+  hls3-akm.douyucdn.cn
+
+  hlsa-akm.douyucdn.cn
+
+  hls1a-akm.douyucdn.cn
+
+  tc-tct.douyucdn2.cn
+
+  hw3.douyucdn2.cn
+
+  wsa.douyucdn.cn
+
+  vplay1a.douyucdn.cn
+
+  tx2play1.douyucdn.cn
+
+  rpic.douyucdn.cn
+
+Static
+
+  staticlive.douyutv.com
+
+📺 BILIBILI
+
+Core Platform
+
+  bilibili.com
+
+  www.bilibili.com
+
+  live.bilibili.com
+
+  t.bilibili.com
+
+  search.bilibili.com
+
+  message.bilibili.com
+
+API
+
+  api.live.bilibili.com
+
+  api.bilibili.com
+
+Video CDN
+
+  bilivideo.com
+
+  bilivideo.cn
+
+UPOS CDN — Tencent Cloud
+
+  upos-sz-mirrorcos.bilivideo.com
+
+  upos-sz-mirrorcosb.bilivideo.com
+
+  upos-sz-mirrorcoso1.bilivideo.com
+
+  upos-sz-mirrorcoso2.bilivideo.com
+
+  upos-sz-mirrorbos.bilivideo.com
+
+  d1--cn-gotcha04.bilivideo.com
+
+  d1--cn-gotcha01.bilivideo.com
+
+UPOS CDN — Kingsoft Cloud
+
+  upos-sz-mirrorks3.bilivideo.com
+
+  upos-sz-mirrorks3b.bilivideo.com
+
+  upos-sz-mirrorks3c.bilivideo.com
+
+  upos-sz-mirrorks32.bilivideo.com
+
+UPOS CDN — Qiniu Cloud
+
+  upos-sz-mirrorkodo.bilivideo.com
+
+  upos-sz-mirrorkodob.bilivideo.com
+
+  upos-sz-mirrorkodoo1.bilivideo.com
+
+UPOS CDN — Huawei Cloud
+
+  upos-sz-mirrorhw.bilivideo.com
+
+  upos-sz-mirrorhwb.bilivideo.com
+
+  upos-sz-mirroruphw.bilivideo.com
+
+  upos-sz-mirrorjs.bilivideo.com
+
+UPOS CDN — Akamai (Overseas)
+
+  upos-hz-mirrorakam.akamaized.net
+
+  upos-sz-mirrorakamai.bilivideo.com
+
+UPOS CDN — Alibaba Cloud
+
+  upos-sz-mirrorali.bilivideo.com
+
+  upos-sz-mirroraliov.bilivideo.com
+
+  upos-sz-mirroralib.bilivideo.com
+
+UPOS CDN — Others
+
+  upos-sz-estgoss.bilivideo.com
+
+  upos-sz-mirror08c.bilivideo.com
+
+Self-Built CDN (Patterns)
+
+  cn-[il]-[isp]-[no].bilivideo.com (PATTERN)
+
+  cn-hk-eq-01-*.bilivideo.com (Hong Kong)
+
+  cn-jxnc-cmcc-bcache-06.bilivideo.com
+
+MCDN (JD Cloud P2P)
+
+  *.mcdn.bilivideo.com
+
+  *.mcdn.bilivideo.cn
+
+  xy[IP]xy.mcdn.bilivideo.cn (PATTERN)
+
+PCDN (P2P CDN)
+
+  *.szbdyd.com
+
+  *.v1d.szbdyd.com
+
+  *.biliapi.net
+
+Static & API
+
+  data.bilibili.com
+
+  passport.bilibili.com
+
+  space.bilibili.com
+
+  static.hdslb.com
+
+  i0.hdslb.com
+
+  i1.hdslb.com
+
+  i2.hdslb.com
+
+  i3.hdslb.com
+
+  i4.hdslb.com
+
+  s1.hdslb.com
+
+  s2.hdslb.com
+
+  s3.hdslb.com
+
+Other
+
+  acgvideo.com
+
+  js.live-play.acgvideo.com
+
+  apm-misaka.biliapi.net
+
+  proxy-tf-all-ws.bilivideo.com
+
+  biligame.com
+
+  biligame.net
+
+  b23.tv
+
+  acg.tv
+
+  biliintl.com
+
+  bilicdn1.com
+
+Legacy Domains
+
+  bilibili.tv (2011-2012)
+
+  bilibili.us (2011)
+
+🌐 NIMO TV (Huya Global)
+
+Core Platform
+
+  nimo.tv
+
+  www.nimo.tv
+
+  m.nimo.tv
+
+Streaming CDN
+
+  tx.flv.nimo.tv
+
+  al.flv.nimo.tv
+
+  api.nimo.tv
+
+  cdn.nimo.tv
+
+  img.nimo.tv
+
+  static.nimo.tv
+
+🎪 HOPIN / RINGCENTRAL EVENTS
+
+Current (RingCentral)
+
+  events.ringcentral.com
+
+  developer.events.ringcentral.com
+
+  ringcentral.com/rc-events
+
+  sessions.ringcentral.com
+
+  ringcentral.com
+
+  *.ringcentral.com
+
+Legacy Hopin
+
+  hopin.com
+
+  www.hopin.com
+
+  app.hopin.com
+
+  hopin.to
+
+🎪 AIRMEET
+
+Core
+
+  airmeet.com
+
+  www.airmeet.com
+
+  app.airmeet.com
+
+API (Regional)
+
+  us.airmeet.com
+
+  eu.airmeet.com
+
+  ap.airmeet.com
+
+  api.airmeet.com
+
+Help
+
+  help.airmeet.com
+
+WebRTC / Media (Agora)
+
+  *.agora.io
+
+  *.edge.agora.io
+
+  *.sd-rtn.com
+
+  *.edge.sd-rtn.com
+
+WebRTC / Media (Daily.co)
+
+  *.daily.co
+
+  *.wss.daily.co
+
+  prod-ks.pluot.blue
+
+  stun.cloudflare.com
+
+  global.stun.twilio.com
+
+  turn.cloudflare.com
+
+  *.turn.twilio.com
+
+Video Streaming (Mux)
+
+  *.litix.io
+
+  *.mux.com
+
+Firebase / Realtime DB
+
+  *.firebaseio.com
+
+  *.firebasedatabase.app
+
+Monitoring & CDN
+
+  *.sentry.io
+
+  *.cloudfront.net
+
+  *.newrelic.com
+
+  *.nr-data.net
+
+3rd Party Tools
+
+  *.appcues.com
+
+  *.appcues.net
+
+  *.freshchat.com
+
+  *.unpkg.com
+
+  *.jsdelivr.net
+
+  *.giphy.com
+
+  *.noembed.com
+
+  *.symbl.ai
+
+AWS S3 Buckets
+
+  airmeet-files.s3.ap-south-1.amazonaws.com
+
+  airmeet-images.s3.ap-south-1.amazonaws.com
+
+  content-hub-content-library.s3.ap-south-1.amazonaws.com
+
+  prod-eu-west-1-images.s3.eu-west-1.amazonaws.com
+
+  prod-us-west-2-images.s3.us-west-2.amazonaws.com
+
+🎪 CVENT
+
+Core
+
+  cvent.com
+
+  www.cvent.com
+
+API Platform (Regional)
+
+  api.cvent.com
+
+  api-eur.cvent.com
+
+  api-platform.cvent.com
+
+  api-platform-eur.cvent.com
+
+App Platform (Regional)
+
+  app.cvent.com
+
+  app-eur.cvent.com
+
+Developer
+
+  developers.cvent.com
+
+Yeni Domainler
+
+  cvent.me
+
+  cvent-planner.com
+
+  cventmail.com
+
+  cvtsv.com
+
+🔴 DLIVE (BitTorrent/TRON)
+
+Core Services
+
+  dlive.tv
+
+  dev.dlive.tv
+
+API
+
+  api.dlive.tv
+
+  graphigo.prd.dlive.tv
+
+WebSocket
+
+  graphigostream.prd.dlive.tv
+
+CDN
+
+  dlivecdn.com
+
+  images.prd.dlivecdn.com
+
+Developer
+
+  docs.dlive.tv
+
+  go.dlive.tv
+
+Community
+
+  community.dlive.tv
+
+  feedback.dlive.tv
+
+🎥 YOUNOW
+
+Core Services
+
+  younow.com
+
+  www.younow.com
+
+API
+
+  api.younow.com
+
+CDN
+
+  cdn.younow.com
+
+  cdn2.younow.com
+
+WebSocket / Push
+
+  ws.younow.com
+
+  push.younow.com
+
+Tracking
+
+  data.younow.com
+
+🎮 LOCO
+
+Core Services
+
+  loco.gg
+
+  www.loco.gg
+
+  loco.com
+
+  m.loco.gg
+
+Mobile App
+
+  loco-app.in
+
+  api.loco.gg
+
+  cdn.loco.gg
+
+  stream.loco.gg
+
+🎬 USCREEN
+
+Core Services
+
+  uscreen.tv
+
+  www.uscreen.tv
+
+  uscreen.io
+
+  uscreen.io/api/publisher/
+
+Support
+
+  help.uscreen.tv
+
+Yeni Domainler
+
+  app.uscreen.tv
+
+  assets.uscreen.tv
+
+  cdn.uscreen.tv
+
+  streams.uscreen.tv
+
+🎬 VIMEO LIVESTREAM
+
+Core Services
+
+  vimeo.com
+
+  livestream.com
+
+  new.livestream.com
+
+CDN
+
+  vimeocdn.com
+
+  cdn.vhx.tv
+
+  cdn.livestream.com
+
+  vpe-cdn.livestream.com
+
+  livestream-f.akamaihd.net
+
+  playback.akamaized.net
+
+  secure-playlist.livestream.com
+
+API
+
+  api.vhx.tv
+
+  api.vimeo.com
+
+  api.new.livestream.com
+
+eCDN
+
+  backend.dna-delivery.com
+
+Donation
+
+  donations.livestream.com
+
+VHX (Vimeo OTT)
+
+  vhx.tv
+
+RTMP Streaming
+
+  rtmp-global.cloud.vimeo.com
+
+  rtmp.cloud.vimeo.com
+
+Player & Assets
+
+  player.vimeo.com
+
+  i.vimeocdn.com
+
+  f.vimeocdn.com
+
+  av.vimeo.com
+
+  secure-a.vimeocdn.com
+
+  secure-b.vimeocdn.com
+
+  utmtrk.vimeo.com
+
+Livestream Studio
+
+  livestreamstudio.net
+
+  studio-sub-manager.vimeows.com
+
+  vimeows.com
+
+  studio-webcontrol.livestream.com
+
+WebRTC (Browser Studio)
+
+  *.agora.io
+
+  *.edge.agora.io
+
+  *.sd-rtn.com
+
+  *.edge.sd-rtn.com
+
+  identitytoolkit.googleapis.com
+
+  *.firebaseio.com
+
+Analytics
+
+  analytics.livestream.com
+
+🎮 STREAMYARD
+
+Core Services
+
+  streamyard.com
+
+  *.streamyard.com
+
+Support
+
+  support.streamyard.com
+
+  app.streamyard.com
+
+  api.streamyard.com
+
+  cdn.streamyard.com
+
+  rtmp.streamyard.com
+
+  status.streamyard.com
+
+🔄 RESTREAM
+
+Core Services
+
+  restream.io
+
+  www.restream.io
+
+API
+
+  api.restream.io
+
+Developer
+
+  developers.restream.io
+
+Support
+
+  support.restream.io
+
+Ingest Servers (Regional)
+
+  live.restream.io
+
+  london.restream.io
+
+  dallas.restream.io
+
+  new-york.restream.io
+
+  frankfurt.restream.io
+
+  singapore.restream.io
+
+  sydney.restream.io
+
+  tokyo.restream.io
+
+  sao-paulo.restream.io
+
+  chat.restream.io
+
+  studio.restream.io
+
+  embed.restream.io
