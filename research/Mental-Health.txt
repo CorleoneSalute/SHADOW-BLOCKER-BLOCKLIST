@@ -1,0 +1,612 @@
+MENTAL HEALTH RESEARCH LIST
+
+### BETTERHELP — ⚠⚠⚠ FTC FINE!
+
+- betterhelp.com
+- betterhelp.net
+- bh-static.com
+- betterhelp-static.com
+- api.betterhelp.com
+- assets.betterhelp.com
+- mytherapist.com ← YENİ
+- terappeuta.com ← YENİ
+
+---
+
+### BETTERHELP SUBSIDIARIES
+
+**REGAIN - Couples Therapy**
+- regain.us
+
+**TEEN COUNSELING - Teen Therapy**
+- teencounseling.com
+
+**PRIDE COUNSELING - LGBTQ+ Therapy**
+- pridecounseling.com
+
+**FAITHFUL COUNSELING - Christian Therapy**
+- faithfulcounseling.com
+
+**iCOUNSELING - Online Counseling (BetterHelp-owned)**
+- icounseling.com
+
+---
+
+### TALKSPACE — ⚠⚠ DOJ INVESTIGATION
+
+- talkspace.com
+- talkspace.net
+- talkspace.io
+- talkspaceapi.com
+- talkspace-assets.com
+- help.talkspace.com
+- research.talkspace.com
+- nycteenspace.com
+- investors.talkspace.com
+- app.talkspace.com 
+- match.talkspace.com 
+- business.talkspace.com
+- blog.talkspace.com 
+
+---
+
+### CEREBRAL — ⚠⚠⚠ DEA INVESTIGATION!
+
+- cerebral.com
+- cerebral.net
+- getcerebral.com
+- cerebral-assets.com
+- b2b-staging.getcerebral.com
+- app-fe-release.getcerebral.com
+- emr.getcerebral.com
+- business.getcerebral.com
+
+---
+
+### DONE ADHD — ⚠ OVER-PRESCRIPTION CONCERNS
+
+- donefirst.com
+- done.co
+- done-adhd.com
+- portal.donefirst.com
+- app.donefirst.com 
+- doneglobal.com 
+- donefirst.as.me 
+
+---
+
+### SANVELLO → AbleTo SelfCare+
+
+- sanvello.com
+- sanvello.net
+- moodtools.com
+- pacifica.app
+- pacifica-app.com
+- ableto.com
+- abletoselfcare.com
+- pacificalabs.com
+- sanvellohealth.com
+
+### HEADSPACE (Headspace Health)
+
+- headspace.com
+- headspace.net
+- headspacehealth.com
+- headspace.auth0.com
+- *.headspace.com
+- get.headspace.com
+- organizations.headspace.com
+- care.headspace.com
+- ginger.io
+- ginger.com
+- data.ginger.io
+- trust.headspace.com 
+- checkout.headspace.com 
+- headspace.app.link 
+
+---
+
+### CALM
+
+- calm.com
+- calm.net
+- calmapi.com
+- calm-assets.com
+- partner.calm.com
+- calm-forbusiness.okta.com
+- api.calm.com
+- support.calm.com
+- calmhealth.com
+
+---
+
+### LYRA HEALTH
+
+- lyrahealth.com
+- lyra.com
+- lyra-health.com
+- provider.lyrahealth.com
+- care.lyrahealth.com
+- authservice.lyrahealth.com
+- lyrahealthsupport.zendesk.com
+- docs.lyra.com
+- salesforce.lyrahealth.com
+- nl.lyrahealth.com
+- auth-dev.lyrahealth.com
+- shop.lyrahealth.com
+- lp.lyrahealth.com
+- ru.lyrahealth.com
+- share.lyrahealth.com
+- product.lyrahealth.com
+- signup.lyrahealth.com
+- update.lyrahealth.com
+- gslink.lyrahealth.com
+- payment.lyrahealth.com
+- sso.lyrahealth.com
+- meetings.lyrahealth.com
+- vpn.lyrahealth.com
+- docs.lyrahealth.com
+- social.lyrahealth.com
+- privacy.lyrahealth.com
+- store.lyrahealth.com
+- tech.lyrahealth.com
+- dash.lyrahealth.com
+- identity.lyrahealth.com
+- tracker.lyrahealth.com
+- packages.lyrahealth.com
+- track.lyrahealth.com
+- content-test.lyrahealth.com
+- app.lyrahealth.com
+- preview.lyrahealth.com
+- smart.lyrahealth.com
+- investor.lyrahealth.com
+- signin.lyrahealth.com
+- lyrahealthinternational.com 
+- lyraclinicalassociates.com 
+- trust.lyrahealth.com 
+- events.lyrahealth.com 
+
+---
+
+### SPRING HEALTH
+
+- springhealth.com
+- springhealthbenefits.com
+- spring-health.com
+- auth-api.springhealth.com
+- care.springhealth.com
+- spring-cdn.springhealth.com
+- admin.springhealth.com
+- ehr-api-origin.springhealth.com
+- compass.springhealth.com
+- trust.springhealth.com 
+- benefits.springhealth.com 
+- careteam.springhealth.com 
+
+---
+
+### MODERN HEALTH
+
+- modernhealth.com
+- modern-health.com
+- joinmodernhealth.com
+- security.joinmodernhealth.com
+- my.modernhealth.com
+- support.modernhealth.com
+- circles.modernhealth.com
+- foundations.modernhealth.com
+- my.joinmodernhealth.com 
+- chat.joinmodernhealth.com 
+- provider.joinmodernhealth.com 
+
+---
+
+### COMPSYCH (GuidanceResources)
+
+- compsych.com
+- guidanceresources.com
+- guidanceresources.net
+- providers.compsych.com
+- fmlasource.com
+- wellthsource.com
+- guidancenow.com 
+- privacy.compsych.com 
+- trust.compsych.com 
+- mystrength.com 
+
+---
+
+### THRIVEWORKS
+
+- thriveworks.com
+- support.thriveworks.com
+- therapyportal.com
+- try.thriveworks.com 
+- app.thriveworks.com 
+- fireside.thriveworks.com 
+
+---
+
+### BRIGHTSIDE
+
+- brightside.com
+- brightsidehealth.com
+- getbrightside.com
+- app.brightside.com
+- therapist.brightside.com
+- support.brightside.com
+- blog.brightside.com
+- provider.brightside.com
+
+---
+
+### MINDED
+
+- tryminded.com
+- minded.com
+- getminded.com
+
+---
+
+### TALKIATRY
+
+- talkiatry.com
+- patient.talkiatry.com
+- cme.talkiatry.com
+
+---
+
+### REJOYN (FDA-Approved)
+
+- rejoyn.com
+- rejoynhcp.com
+- otsuka-us.com
+- clicktherapeutics.com
+- otsuka-oph.com 
+- otsukadigitalmedicine.com
+
+---
+
+### CALMERRY
+
+- calmerry.com
+- mentalfuel.com 
+- app.calmerry.com 
+- therapist.calmerry.com 
+
+---
+
+### GROW THERAPY
+
+- growtherapy.com
+- telehealth.growtherapy.com
+- help.growtherapy.com
+- status.growtherapy.com
+
+---
+
+### RULA HEALTH (Path Mental Health)
+
+- rula.com
+- patient.pathapplication.com
+- provider.pathapplication.com
+- therapistsupport.rula.com
+- patientsupport.rula.com
+- providercommunity.rula.com
+- pathapplication.com
+- pathccm.com 
+- blog.rula.com 
+
+---
+
+### ALMA
+
+- helloalma.com
+- secure.helloalma.com
+- withalma.com
+- support.helloalma.com 
+- provider.helloalma.com 
+- careers.helloalma.com 
+
+---
+
+### HEADWAY
+
+- headway.co
+- sigmund.headway.co
+- care.headway.co
+- login.headway.co
+- help.headway.co
+- account.headway.co
+- therapymatch.com 
+- providers.headway.co
+
+---
+
+### SONDERMIND
+
+- sondermind.com
+- privacy.sondermind.com 
+- app.sondermind.com
+- provider.sondermind.com 
+
+---
+
+### OCTAVE
+
+- findoctave.com
+- findoctave-patient.zendesk.com
+
+---
+
+### KLARITY
+
+- helloklarity.com
+- kiwihealth.com
+- support.helloklarity.com
+- safepractice.com
+
+---
+
+### BEND HEALTH 
+
+- bendhealth.com
+
+---
+
+### LUNAJOY (LunaJoy Health)
+
+- hellolunajoy.com
+- lunajoyhealth.com
+- thrivinglane.com
+
+---
+
+### TAVA HEALTH
+
+- tavahealth.com
+- care.tavahealth.com
+- client-support.tavahealth.com
+- therapist-support.tavahealth.com
+- partner-support.tavahealth.com
+
+---
+
+### LIFESTANCE HEALTH
+
+- lifestance.com
+- careers.lifestance.com
+- investors.lifestance.com 
+
+---
+
+### TWO CHAIRS
+
+- twochairs.com
+
+---
+
+### BRAVE HEALTH
+
+- bebravehealth.com
+- compass.bebravehealth.com
+- healthie.bebravehealth.com
+- gethealthie.com 
+- trust.gethealthie.com 
+
+---
+
+### OPEN PATH COLLECTIVE
+
+- openpathcollective.org
+- mentalhealth.openpathcollective.org
+- eap.openpathcollective.org
+- beingseen.com
+- nonprofits.openpathcollective.org 
+- wellness.openpathcollective.org 
+- femhc.org 
+- app.openpathcollective.org 
+
+### MOOD TRACKING
+
+**DAYLIO**
+- daylio.net
+- daylio.com
+- daylio-app.com
+- faq.daylio.net
+
+**MOODFIT**
+- moodfit.com
+- getmoodfit.com
+- robleridge.com
+
+**REFLECTLY**
+- reflectly.app
+- kodeon.ai
+
+---
+
+### MEDITATION / MINDFULNESS i
+
+**TEN PERCENT HAPPIER / HAPPIER MEDITATION**
+- tenpercent.com
+- 10percenthappier.app.link
+- admin.tenpercent.com
+- support.tenpercent.com
+- meditatehappier.com
+- happierapp.com
+- changecollective.com
+- danharris.com
+- podcast.tenpercent.com 
+
+**SIMPLE HABIT → Sleep Reset)**
+- simplehabit.com
+- sleepreset.com
+
+**AURA HEALTH**
+- aurahealth.io
+- app.aurahealth.io
+- blogs.aurahealth.io
+- lightwithin.aurahealth.io 
+
+**UCLA MINDFUL**
+- uclahealth.org/uclamindful
+- support.uclahealth.org
+- bewellbruin.ucla.edu
+- marc.ucla.edu
+
+
+**SLEEPIO (Big Health) — CBT-I**
+- sleepio.com
+- bighealth.com
+- sleepio.bighealth.com
+- info.sleepio.com
+- info.bighealth.com
+
+---
+
+### AI MENTAL HEALTH APPS
+
+- woebothealth.com
+- woebot.io
+- go.woebothealth.com
+- woebot.zendesk.com
+- support.woebothealth.com
+
+**WYSA**
+- wysa.com
+- wysa.io
+- links.wysa.io
+- legal.wysa.io
+- blogs.wysa.io
+- web.wysa.io
+- support.wysa.io
+- help.wysa.com
+- status.wysa.com
+- touchkin.com
+- kinshealth.com
+- gateway.wysa.com
+
+**APRIL HEALTH
+- aprilhealth.com
+- app.aprilhealth.com
+
+**YOUPER**
+- youper.ai
+- app.youper.ai
+- blog.youper.ai
+- support.youper.ai
+
+**YUNA AI**
+- yuna.io
+- app.yuna.io
+- blog.yuna.io
+- support.yuna.io
+- help.yuna.io
+- legal.yuna.io
+- download.yuna.io
+
+**NEUROFIT**
+- neurofit.app
+- legal.neurofit.app
+- support.neurofit.app
+- blog.neurofit.app
+
+**HAPPIFY (TWILL HEALTH)**
+- happify.com
+- twill.health
+- blog.twill.health
+- happifyhealth.com
+- care.twill.health 
+
+**MINDDOC (Moodpath)**
+- minddoc.com
+- minddoc.de
+- booking.minddoc.com
+- schoenklinik.de 
+
+---
+
+### OCD TREATMENT APPS
+
+**NOCD**
+- treatmyocd.com
+- nocd.com
+- nocdhelp.com
+- go.treatmyocd.com
+- app.treatmyocd.com
+
+**OCD.APP (GGtude Ltd.)**
+- ocd.app
+- blog.ocd.app
+- support.ocd.app
+- resources.ocd.app
+- ggtude.com
+- rocd.net
+
+---
+
+### RECOVERY APPS
+
+**RECOVERY RECORD (Bright Therapeutics)**
+- recoveryrecord.com
+- brighttherapeutics.com 
+- nourishly.com 
+- nourishly.eu 
+- recoveryrecord.eu 
+- recoveryrecord.co.uk 
+- recoveryrecord.de 
+- recoveryrecord.com.au
+- recoverypath.com 
+- moodlinks.com
+- help.recoveryrecord.com 
+
+---
+
+### PERINATAL MENTAL HEALTH
+
+**MAVIDA HEALTH**
+- mavidahealth.com
+- app.mavidahealth.com 
+
+---
+
+### CBT / THERAPY SKILLS APPS
+
+**DBT COACH (Resiliens Inc.)**
+- resiliens.com
+- swasth.co
+
+**ONLINE-THERAPY.COM (CRN Solutions AB)**
+- online-therapy.com
+- affiliates.online-therapy.com 
+- blog.online-therapy.com 
+- crnab.com 
+
+**7 CUPS**
+- 7cups.com
+- 7cups.zendesk.com
+
+**OURRELATIONSHIP (University of Miami)**
+- ourrelationship.com
+- couples-lab.psy.miami.edu
+- military.ourrelationship.com
+
+**OURRITUAL (Ritual Health Technologies Inc.)**
+- ourritual.com
+- try.ourritual.com
+
+**MANATEE HEALTH (Manatee, Inc.)**
+- getmanatee.com
+
+**BLISS by CIMHS**
+- cimhs.com
+
+**iPREVAIL (Prevail Health Solutions LLC)**
+- iprevail.com
+- lacounty.iprevail.com
+- prevailhealth.com 
+- vetsprevail.com 
+- warriorsprevail.com 
+- momsprevail.com 
+- studentsprevail.com
