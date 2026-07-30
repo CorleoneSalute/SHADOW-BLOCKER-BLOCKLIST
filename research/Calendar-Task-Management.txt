@@ -1,0 +1,959 @@
+Calendar & Task Management Research List
+
+### 📅 Google Calendar
+
+**Google Calendar**
+- calendar.google.com
+- *.calendar.google.com
+- clients6.google.com
+- apidata.googleusercontent.com
+- calendar.googleapis.com
+- www.googleapis.com/calendar/v3/
+
+**Google Tasks**
+- tasks.google.com
+- *.tasks.google.com
+- tasks.googleapis.com
+- tasks.mtls.googleapis.com
+- cloudtasks.googleapis.com
+- www.googleapis.com/tasks/v1/
+- www.googleapis.com/discovery/v1/apis/tasks/v1/rest
+
+**Google Keep**
+- keep.google.com
+- *.keep.google.com
+- www.google.com/keep
+- keep.googleapis.com
+- keep.googleapis.com/v1/
+- keep.googleapis.com/$discovery/rest?version=v1
+
+**Google Drive & Docs**
+- drive.google.com
+- docs.google.com
+- sheets.google.com
+- slides.google.com
+- forms.google.com
+- script.google.com
+- www.googleapis.com/drive
+- www.googleapis.com/drive/v3/
+- docs.googleapis.com
+- docs.googleapis.com/v1/
+- docs.googleapis.com/$discovery/rest?version=v1
+- sheets.googleapis.com
+- sheets.googleapis.com/v4/
+- sheets.googleapis.com/$discovery/rest?version=v4
+- forms.googleapis.com
+- forms.googleapis.com/v1/
+- forms.googleapis.com/$discovery/rest?version=v1
+
+**Google Workspace Core**
+- workspace.google.com
+- admin.google.com
+- vault.google.com
+
+**Google Infrastructure & CDN**
+- accounts.google.com
+- *.googleapis.com
+- *.gstatic.com
+- ssl.gstatic.com
+- www.gstatic.com
+- accounts.gstatic.com
+- *.ggpht.com
+- lh3.googleusercontent.com
+- lh4.googleusercontent.com
+- lh5.googleusercontent.com
+- lh6.googleusercontent.com
+- *.gvt1.com
+- *.gvt2.com
+- *.gvt3.com
+- *.1e100.net
+- fcm.googleapis.com
+- gcm.googleapis.com
+- gcm-http.googleapis.com
+- gcm-xmpp.googleapis.com
+- oauth2.googleapis.com
+- people.googleapis.com
+- storage.googleapis.com
+- cloudsearch.googleapis.com
+- notificationsrouter.googleapis.com
+- aratea-pa.googleapis.com
+- meet.google.com
+- mail.google.com
+- contacts.google.com
+- play.google.com
+- android.clients.google.com
+- *.google-analytics.com
+- *.googletagmanager.com
+- notifications.google.com
+- pki.google.com
+- clients1.google.com
+- clients2.google.com
+- clients3.google.com
+- clients4.google.com
+- clients5.google.com
+- dl.google.com
+- update.googleapis.com
+- firebasestorage.googleapis.com
+- identitytoolkit.googleapis.com
+- securetoken.googleapis.com
+
+---
+
+### 📅 Microsoft 365 Calendar & Productivity
+
+**Outlook Calendar**
+- outlook.office365.com
+- outlook.office.com
+- *.outlook.office.com
+- outlook.live.com
+- *.outlook.live.com
+- substrate.office.com
+- login.microsoftonline.com
+
+**Microsoft To-Do**
+- to-do.microsoft.com
+- *.to-do.microsoft.com
+- to-do.live.com
+- graph.microsoft.com/v1.0/me/todo/
+- graph.microsoft.com/v1.0/me/todo/lists
+- graph.microsoft.com/v1.0/me/todo/lists/{id}/tasks
+- graph.microsoft.com/v1.0/users/{id}/todo/
+
+**Microsoft Planner**
+- tasks.office.com
+- planner.cloud.microsoft
+- tasks.teams.microsoft.com
+- graph.microsoft.com/v1.0/planner/
+- graph.microsoft.com/v1.0/planner/plans
+- graph.microsoft.com/v1.0/planner/tasks
+- graph.microsoft.com/v1.0/groups/{id}/planner/plans
+
+**Microsoft 365 Unified**
+- *.cloud.microsoft
+- *.static.microsoft
+- *.usercontent.microsoft
+
+**Exchange Online**
+- smtp.office365.com
+- *.protection.outlook.com
+- *.mail.protection.outlook.com
+- *.mx.microsoft
+- *.outlook.com
+- autodiscover.*.onmicrosoft.com
+
+**SharePoint / OneDrive**
+- *.sharepoint.com
+- *.sharepointonline.com
+- *.svc.ms
+- spoprod-a.akamaized.net
+- *.blob.core.windows.net
+- *.azureedge.net
+- admin.onedrive.com
+- storage.live.com
+- g.live.com
+- oneclient.sfx.ms
+- *.search.production.apac.trafficmanager.net
+- *.search.production.emea.trafficmanager.net
+- *.search.production.us.trafficmanager.net
+
+**Office Online**
+- *.officeapps.live.com
+- *.online.office.com
+- office.live.com
+- officeclient.microsoft.com
+
+**Microsoft Teams**
+- *.lync.com
+- *.teams.cloud.microsoft
+- *.teams.microsoft.com
+- teams.cloud.microsoft
+- teams.microsoft.com
+- *.skype.com
+- mlccdnprod.azureedge.net
+- join.secure.skypeassets.com
+- *.keydelivery.mediaservices.windows.net
+- *.streaming.mediaservices.windows.net
+- adl.windows.com
+
+**Microsoft Auth & Core**
+- account.microsoft.com
+- aka.ms
+- *.msauth.net
+- *.msftauth.net
+- *.msauthimages.net
+- *.msecnd.net
+- *.msocdn.com
+- *.live.com
+- *.office.com
+- *.office365.com
+- *.onmicrosoft.com
+- *.wns.windows.com
+
+---
+
+### ✅ Todoist (45+ domains)
+
+**Core Platform**
+- todoist.com
+- *.todoist.com
+- www.todoist.com
+- app.todoist.com
+- developer.todoist.com
+
+**API & Sync**
+- api.todoist.com
+- sync.todoist.com
+- beta.todoist.com
+- ws.todoist.com
+- updates.todoist.com
+
+**OAuth**
+- todoist.com/oauth
+
+**CDN**
+- cdn.todoist.com
+- static.todoist.com
+- downloads.todoist.com
+
+**Doist**
+- doist.com
+- *.doist.com
+
+**Analytics**
+- amplitude.com
+- *.amplitude.com
+- api.amplitude.com
+- api2.amplitude.com
+- mixpanel.com
+- *.mixpanel.com
+- api.mixpanel.com
+- api-js.mixpanel.com
+
+---
+
+### 📅 Calendly (45+ domains)
+
+**Core Platform**
+- calendly.com
+- *.calendly.com
+- www.calendly.com
+- calendly.app
+- developer.calendly.com
+- app.calendly.com
+- auth.calendly.com
+- embed.calendly.com
+
+**API**
+- api.calendly.com
+- calendly.com/api
+
+**CDN**
+- assets.calendly.com
+- calendly-platform.imgix.net
+- assets.calendly.com/assets/external/widget.js
+
+**Ödeme**
+- *.stripe.com
+- stripe.com
+- js.stripe.com
+- api.stripe.com
+- a.stripecdn.com
+- b.stripecdn.com
+- c.stripecdn.com
+- f.stripecdn.com
+- checkout.stripe.com
+- billing.stripe.com
+- hcaptcha.com
+
+**Realtime**
+- ws.pusherapp.com
+- *.pusherapp.com
+- pusher.com
+- *.pusher.com
+- sockjs.pusherapp.com
+- js.pusher.com
+- api.pusherapp.com
+- stats.pusher.com
+
+**Support**
+- intercom.io
+- *.intercom.io
+- widget.intercom.io
+- js.intercomcdn.com
+- *.intercomcdn.com
+
+**Analytics**
+- fullstory.com
+- *.fullstory.com
+- rs.fullstory.com
+- edge.fullstory.com
+- services.fullstory.com
+- segment.io
+- segment.com
+
+### 📅 Fantastical (25+ domains)
+
+**Core**
+- flexibits.com
+- *.flexibits.com
+- account.flexibits.com
+- api.flexibits.com
+- cdn.flexibits.com
+- download.flexibits.com
+- updates.flexibits.com
+
+**Cardhop**
+- cardhop.com
+- *.cardhop.com
+
+**3rd Party**
+- accuweather.com
+- *.accuweather.com
+- dataservice.accuweather.com
+- api.accuweather.com
+- sentry.io
+- *.sentry.io
+- setapp.com
+- *.setapp.com
+
+---
+
+### 🍎 Apple iCloud Calendar & Reminders (20+ domains)
+
+**iCloud Calendar (CalDAV)**
+- caldav.icloud.com
+- p.caldav.icloud.com*
+- icloud.com
+- *.icloud.com
+- www.icloud.com
+
+**iCloud Reminders**
+- www.icloud.com/reminders
+
+**Apple Altyapı**
+- apple.com
+- *.apple.com
+- *.cdn-apple.com
+- certs.apple.com
+- ocsp.apple.com
+- time.apple.com
+- *.apple-cloudkit.com
+- *.mzstatic.com
+
+**Auth**
+- idmsa.apple.com
+- appleid.apple.com
+- setup.icloud.com
+
+---
+
+### ✅ Any.do (15+ domains)
+
+**Core**
+- any.do
+- *.any.do
+- web.any.do
+- sm-web.any.do
+- sm-mobile.any.do
+- api.any.do
+- cdn.any.do
+
+**Firebase Altyapı**
+- *.firebaseio.com
+- firebaseio.com
+- *.firebaseapp.com
+- firebaseapp.com
+- *.firebase.google.com
+- fcm.googleapis.com
+
+---
+
+### ✅ TickTick (20+ domains)
+
+**Core**
+- ticktick.com
+- *.ticktick.com
+- calendar.ticktick.com
+- help.ticktick.com
+- fonts.ticktick.com
+- push.ticktick.com
+
+**Çin Versiyonu**
+- dida365.com
+- *.dida365.com
+
+**API**
+- api.ticktick.com
+- api.dida365.com
+- developer.ticktick.com
+
+**OAuth**
+- ticktick.com/oauth/authorize
+- ticktick.com/oauth/token
+
+---
+
+### ✅ Remember The Milk (15+ domains)
+
+**Core**
+- rememberthemilk.com
+- *.rememberthemilk.com
+- static.rememberthemilk.com
+- status.rememberthemilk.com
+- blog.rememberthemilk.com
+- ical.rememberthemilk.com
+- s3.amazonaws.com/rememberthemilk
+
+**API**
+- api.rememberthemilk.com
+- api.rememberthemilk.com/services/rest/
+
+**Auth**
+- www.rememberthemilk.com/services/auth/
+
+### 📅 Morgen Calendar (25+ domains)
+
+**Core**
+- morgen.so
+- *.morgen.so
+- app.morgen.so
+- web.morgen.so
+- desktop.morgen.so
+- cdn.morgen.so
+- download.morgen.so
+- app-updates.morgen.so
+- updates.morgen.so
+- releases.morgen.so
+
+**API**
+- api.morgen.so
+- api.morgen.so/v3/
+- sync.morgen.so
+- sync.morgen.so/v1/
+
+**Docs & Support**
+- docs.morgen.so
+- platform.morgen.so
+- platform.morgen.so/developers-api
+- feedback.morgen.so
+
+**Analytics**
+- tracking.morgen.so
+
+---
+
+### 👨‍👩‍👧‍👦 Cozi Family Organizer (15+ domains)
+
+**Core**
+- cozi.com
+- *.cozi.com
+- my.cozi.com
+- api.cozi.com
+- cdn.cozi.com
+- ads.cozi.com
+
+**OurFamilyWizard**
+- ourfamilywizard.com
+- *.ourfamilywizard.com
+
+**Analytics**
+- ad.apsalar.com
+
+---
+
+### 👥 TeamUp Calendar (20+ domains)
+
+**Core**
+- teamup.com
+- *.teamup.com
+- calendar.teamup.com
+- embed.teamup.com
+- ics.teamup.com
+- status.teamup.com
+- help.teamup.com
+
+**API**
+- api.teamup.com
+- apidocs.teamup.com
+
+---
+
+### 🤖 BeforesunsetAI (10+ domains)
+
+**Core**
+- beforesunset.ai
+- *.beforesunset.ai
+- app.beforesunset.ai
+- api.beforesunset.ai
+- cdn.beforesunset.ai
+
+**Firebase Infrastructure**
+- *.firebaseio.com
+- firebaseio.com
+- *.firebaseapp.com
+- firebaseapp.com
+- firebase.google.com
+- fcm.googleapis.com
+
+---
+
+### ✅ nTask (15+ domains)
+
+**Core**
+- ntaskmanager.com
+- *.ntaskmanager.com
+- app.ntaskmanager.com
+- api.ntaskmanager.com
+- cdn.ntaskmanager.com
+- help.ntaskmanager.com
+
+---
+
+### 📅 Cal.com (35+ domains)
+
+**Core**
+- cal.com
+- *.cal.com
+- app.cal.com
+- api.cal.com
+- api.cal.com/v1/
+- api.cal.com/v2/
+- cal.dev
+- go.cal.com
+- i.cal.com
+- embed.cal.com
+- status.cal.com
+
+**Docs**
+- cal.com/docs
+- docs.cal.com
+- handbook.cal.com
+
+**Infrastructure**
+- *.vercel.app
+- vercel.app
+- vercel-insights.com
+- *.vercel-insights.com
+- upstash.io
+- *.upstash.io
+
+**Analytics**
+- posthog.com
+- *.posthog.com
+- app.posthog.com
+- us.i.posthog.com
+- eu.i.posthog.com
+- us-assets.i.posthog.com
+- eu-assets.i.posthog.com
+- axiom.co
+- cloud.axiom.co
+- api.axiom.co
+
+---
+
+### 🌳 TimeTree (25+ domains)
+
+**Core**
+- timetreeapp.com
+- *.timetreeapp.com
+- web.timetreeapp.com
+- help.timetreeapp.com
+- en-blog.timetreeapp.com
+- support.timetreeapp.com
+- attachments.timetreeapp.com
+
+**API ( CLOSED 2023)**
+- timetreeapis.com
+- developers.timetreeapp.com
+
+---
+
+### 📅 BusyCal (15+ domains)
+
+**Core**
+- busymac.com
+- *.busymac.com
+- support.busymac.com
+- blog.busymac.com
+- download.busymac.com
+- busycalserver.com
+
+- setapp.com
+- *.setapp.com
+
+---
+
+### 📅 Zoho Calendar (30+ domains)
+
+**Core**
+- calendar.zoho.com
+- *.calendar.zoho.com
+- calendar.zoho.eu
+- calendar.zoho.in
+- calendar.zoho.com.au
+- calendar.zoho.jp
+
+**Auth**
+- accounts.zoho.com/developerconsole
+- accounts.zoho.com/oauth/v2/auth
+- accounts.zoho.com/oauth/v2/token
+- accounts.zoho.eu
+- accounts.zoho.in
+- accounts.zoho.com.au
+- accounts.zoho.jp
+
+**Zoho infrastructure**
+- *.zoho.com
+- *.zohocdn.com
+- *.zohostatic.com
+- static.zohocdn.com
+- static.zohostatic.com
+- zohoapis.com
+- *.zohoapis.com
+- zohoapis.eu
+- zohoapis.in
+
+**Endpoints**
+- /api/v1/calendars
+- /api/v1/calendars/{calendar_uid}/events
+- /api/v1/share
+- /api/v1/settings
+
+---
+
+### 🤖 Clockwise (20+ domains)
+
+**Core**
+- getclockwise.com
+- *.getclockwise.com
+- www.getclockwise.com
+- app.getclockwise.com
+- support.getclockwise.com
+- api.getclockwise.com
+- calendar.getclockwise.com
+- ws.getclockwise.com
+- extension.getclockwise.com
+- download.getclockwise.com
+- clockwise.app
+- *.clockwise.app
+
+**Analytics**
+- sentry.io
+- *.sentry.io
+- segment.io
+- cdn.segment.com
+- api.segment.io
+
+---
+
+### ⚡ Vimcal (25+ domains)
+
+**Core**
+- vimcal.com
+- *.vimcal.com
+- www.vimcal.com
+- docs.vimcal.com
+- api.vimcal.com
+- app.vimcal.com
+- cdn.vimcal.com
+- ws.vimcal.com
+- ea.vimcal.com
+- ccingmyea.vimcal.com
+
+**Analytics**
+- sentry.io
+- *.sentry.io
+- segment.io
+- cdn.segment.com
+
+---
+
+### 🎯 Akiflow (20+ domains)
+
+**Core**
+- akiflow.com
+- *.akiflow.com
+- web.akiflow.com
+- app.akiflow.com
+- product.akiflow.com
+- how-to-use-guide.akiflow.com
+- api.akiflow.com
+- cdn.akiflow.com
+- ws.akiflow.com
+- desktop.akiflow.com
+- updates.akiflow.com
+- download.akiflow.com
+- changelog.akiflow.com
+- status.akiflow.com
+
+**Analytics**
+- sentry.io
+- *.sentry.io
+- segment.io
+- cdn.segment.com
+- api.segment.io
+
+---
+
+### 🤖 Motion (30+ domains)
+
+**Core**
+- usemotion.com
+- *.usemotion.com
+- app.usemotion.com
+- www.usemotion.com
+- marketing.usemotion.com
+- cdn.usemotion.com
+- ws.usemotion.com
+- billing.usemotion.com
+- help.usemotion.com
+
+**API**
+- api.usemotion.com
+- api-docs.usemotion.com
+- docs.usemotion.com
+- api.usemotion.com/v1/
+
+---
+
+### 🤖 Reclaim.AI (35+ domains)
+
+**Core**
+- reclaim.ai
+- *.reclaim.ai
+- app.reclaim.ai
+- www.reclaim.ai
+- updates.reclaim.ai
+- status.reclaim.ai
+- help.reclaim.ai
+- trust.reclaim.ai
+- staging.reclaim.ai
+- calendar.reclaim.ai
+- github.reclaim.ai
+- gcal.reclaim.ai
+
+**API & WebSocket**
+- api.app.reclaim.ai
+- ws.app.reclaim.ai
+- ws.staging.reclaim.ai
+- api.staging.reclaim.ai
+
+- linear.reclaim.ai
+- jira.reclaim.ai
+- todoist.reclaim.ai
+- asana.reclaim.ai
+- clickup.reclaim.ai
+
+**Dropbox**
+- dropbox.com
+- *.dropbox.com
+- dropboxapi.com
+- *.dropboxapi.com
+- dropboxusercontent.com
+- *.dropboxusercontent.com
+- dropbox-dns.com
+- notify.dropbox.com
+
+---
+
+### 📅 Sunsama (30+ domains)
+
+**Core**
+- sunsama.com
+- *.sunsama.com
+- app.sunsama.com
+- www.sunsama.com
+- status.sunsama.com
+- highlight.sunsama.com
+- get.sunsama.com
+- roadmap.sunsama.com
+- try.sunsama.com
+- help.sunsama.com
+- mail.sunsama.com
+- desktop.sunsama.com
+- security.sunsama.com
+- email.notify.sunsama.com
+- uploads.sunsama.com
+- ws.sunsama.com
+
+**CDN**
+- cdn.prod.website-files.com
+- lh3.googleusercontent.com
+- *.webflow.io
+- webflow.io
+
+**Analytics**
+- segment.io
+- segment.com
+- cdn.segment.com
+- api.segment.io
+- amplitude.com
+- *.amplitude.com
+- api.amplitude.com
+
+---
+
+### 📅 Skedpal (25+ domains)
+
+**Core**
+- skedpal.com
+- *.skedpal.com
+- app.skedpal.com
+- www.skedpal.com
+- docs.skedpal.com
+- help.skedpal.com
+
+---
+
+### 🤖 Calendar.AI / Sync.AI (15+ domains)
+
+**Core**
+- sync.ai
+- *.sync.ai
+- api.sync.ai
+- cdn.sync.ai
+- app.sync.ai
+
+---
+
+### 🧘 Focuzed.io (20+ domains)
+
+**Core**
+- focuzed.io
+- *.focuzed.io
+- www.focuzed.io
+- api.focuzed.io
+- app.focuzed.io
+- cdn.focuzed.io
+
+---
+
+### 👥 Howbout (20+ domains)
+
+**Core**
+- howbout.app
+- *.howbout.app
+- www.howbout.app
+- api.howbout.app
+- cdn.howbout.app
+
+**Firebase**
+- *.firebaseio.com
+- firebaseio.com
+- *.firebaseapp.com
+- firebaseapp.com
+
+---
+
+### 🎨 Amie (25+ domains)
+
+**Core**
+- amie.so
+- *.amie.so
+- www.amie.so
+- api.amie.so
+- cdn.amie.so
+- app.amie.so
+- ws.amie.so
+- desktop.amie.so
+- download.amie.so
+
+---
+
+### 📋 Routine (15+ domains)
+
+**Core**
+- routine.co
+- *.routine.co
+- www.routine.co
+- api.routine.co
+- app.routine.co
+- cdn.routine.co
+- desktop.routine.co
+
+---
+
+### 📱 DigiCal (15+ domains)
+
+**Core**
+- digibites.nl
+- *.digibites.nl
+- www.digibites.nl
+- files.digibites.nl
+- digibites.zendesk.com
+- *.zendesk.com
+
+---
+
+### 📱 Business Calendar 2 (15+ domains)
+
+**Core**
+- appgenix-software.com
+- files.appgenix-software.com
+- appgenix.uservoice.com
+
+**TomTom API**
+- tomtom.com
+- api.tomtom.com
+- *.api.tomtom.com
+
+---
+
+### 🎨 Timepage / Bonobo (15+ domains)
+
+**Core**
+- moleskinestudio.com
+- *.moleskinestudio.com
+- bonobolabs.com
+- *.bonobolabs.com
+- www.bonobolabs.com
+- bonobo.canny.io/timepage
+
+---
+
+### 📅 Calendars by Readdle (20+ domains)
+
+**Core**
+- readdle.com
+- *.readdle.com
+- www.readdle.com
+- apphelp.readdle.com
+- support.readdle.com
+
+---
+
+### 📅 Calendar 366 (15+ domains)
+
+**Core**
+- nspektor.com
+- *.nspektor.com
+- www.nspektor.com
+- apphelp.nspektor.com
+
+---
+
+### 🦸 Hero Assistant (15+ domains)
+
+**Core**
+- tryhero.app
+- *.tryhero.app
+- mail.tryhero.app
+
+---
+
+### 📝 PlanWiz (20+ domains)
+
+**Core**
+- planwiz.app
+- *.planwiz.app
+- www.planwiz.app
+- blog.planwiz.app
+
+---
+
+### 🌸 Floret (15+ domains)
+
+**Core**
+- floret.app
+- *.floret.app
+- www.floret.app
