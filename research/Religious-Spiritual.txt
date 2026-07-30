@@ -1,0 +1,2351 @@
+RELIGIOUS & SPIRITUAL APPS RESEARCH LIST
+════════════════════════════════════════════════════════════════
+🕌 ISLAMIC APPS
+════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────
+Muslim Pro / Bitsmedia (MILITARY SCANDAL!)
+⚠️ Sold location data to U.S. Military
+──────────────────────────────────────────────────────────────
+-   muslimpro.com
+-   muslimpro.net
+-   www.muslimpro.com
+-   api.muslimpro.com
+-   analytics.muslimpro.com
+-   tracking.muslimpro.com
+-   cdn.muslimpro.com
+-   app.muslimpro.com
+-   support.muslimpro.com
+-   qalbox.com
+-   connect.muslimpro.com
+-   academy.muslimpro.com
+-   graph.facebook.com
+-   firebase.google.com
+-   cdn.alquran.cloud
+-   bitsmedia.com
+-   predicio.io
+-   sdk.predic.io
+-   sendgrid.com
+-   aws.amazon.com
+
+──────────────────────────────────────────────────────────────
+X-Mode / Locate X / Outlogic (DATA BROKER!)
+ ⚠️ Data broker that sells user data from religious/faith-based applications.
+──────────────────────────────────────────────────────────────
+-   xmode.io
+-   x-mode.com
+-   locate-x.com
+-   api.xmode.io
+-   data.locate-x.com
+-   www.x-mode.com
+-   outlogic.io
+-   digitalenvoy.com
+-   placed.com
+-   sense360.com
+-   oneaudience.com
+-   signalframe.com
+-   beaconsinspace.com
+
+──────────────────────────────────────────────────────────────
+Athan / Islamic Finder
+──────────────────────────────────────────────────────────────
+-   athan.com
+-   islamicfinder.org
+-   www.athan.com
+-   www.islamicfinder.org
+-   api.islamicfinder.org
+-   analytics.athan.com
+-   wap.islamicfinder.org
+-   islamicfinder.us
+-   m.islamicfinder.org
+-   beta.islamicfinder.org
+-   aladhan.com
+-   play.aladhan.com
+-   calendar.aladhan.com
+
+──────────────────────────────────────────────────────────────
+Salaat First (ICE/FBI PIPELINE!)
+⚠️  Location data transferred to U.S. security agencies
+──────────────────────────────────────────────────────────────
+-   sdk.predic.io
+-   gravyanalytics.com
+-   venntel.com
+-   salaatfirst.com
+-   www.salaatfirst.com
+
+──────────────────────────────────────────────────────────────
+Muslim App
+──────────────────────────────────────────────────────────────
+-   muslim.app
+-   muslimapp.net
+-   www.muslim.app
+-   api.muslim.app
+
+──────────────────────────────────────────────────────────────
+Al-Quran Apps
+──────────────────────────────────────────────────────────────
+-   gtaf.org
+-   al-quran.app
+-   quran.com
+-   quranicaudio.com
+-   quranmajeed.com
+-   pakdata.com
+-   iquran.app
+-   www.quran.com
+-   api.quran.com
+-   cdn.quran.com
+-   audio.quran.com
+-   www.quranicaudio.com
+-   api.quranicaudio.com
+-   www.quranmajeed.com
+-   api.quranmajeed.com
+-   analytics.quranmajeed.com
+-   www.pakdata.com
+-   api.alquran.cloud
+-   cdn.islamic.network
+-   cdn.alquran.cloud
+-   alquran.cloud
+-   islamic.network
+-   staging.quran.com
+-   verses.quran.com
+-   android.quran.com
+-   legacy.quran.com
+-   static.quran.com
+-   sunnah.quran.com
+-   gateway.pakdata.com
+-   m.quranmajeed.com
+-   api-docs.quran.com
+-   cdn.islamic.ru
+-   quran.kemenag.go.id
+
+──────────────────────────────────────────────────────────────
+Quran API Providers
+──────────────────────────────────────────────────────────────
+-   api.quran.foundation
+-   api-docs.quran.foundation
+-   quran.foundation
+-   cdn.jsdelivr.net/gh/fawazahmed0/quran-api@1
+-   api.natiq.net
+-   natiq.net
+-   pakjiddat.netlify.app
+-   tanzil.net/trans
+-   hadithcollection.com
+-   quranurdu.com/Ahadith
+-   api.quran.gading.dev
+
+──────────────────────────────────────────────────────────────
+Ayat: Al Quran (King Saud University)
+──────────────────────────────────────────────────────────────
+-   quran.ksu.edu.sa
+-   quran.ksu.edu.sa/ayat
+-   ksu.edu.sa
+-   mosshaf.com
+-   versebyversequran.com
+
+──────────────────────────────────────────────────────────────
+Tarteel AI
+──────────────────────────────────────────────────────────────
+-   tarteel.ai
+-   support.tarteel.ai
+-   blog.tarteel.ai
+-   qul.tarteel.ai
+
+──────────────────────────────────────────────────────────────
+Quranic
+──────────────────────────────────────────────────────────────
+-   quranic.com
+-   api.quranic.com
+
+──────────────────────────────────────────────────────────────
+Quran Academy
+──────────────────────────────────────────────────────────────
+-   quranacademy.io
+-   www.quranacademy.io
+-   quranacademy.io/freetrial
+
+──────────────────────────────────────────────────────────────
+Ramadan Legacy / Towards Faith
+──────────────────────────────────────────────────────────────
+-   ramadanlegacy.com
+-   www.ramadanlegacy.com
+-   towards.faith
+-   www.towards.faith
+
+──────────────────────────────────────────────────────────────
+WeMuslim 
+──────────────────────────────────────────────────────────────
+-   wemuslim.com
+-   www.wemuslim.com
+-   com.fyxtech.muslim
+
+──────────────────────────────────────────────────────────────
+Other Islamic Apps
+──────────────────────────────────────────────────────────────
+-   muslimcentral.com
+-   www.muslimcentral.com
+-   api.muslimcentral.com
+-   bayyinah.tv
+-   bayyinah.com
+-   www.bayyinah.com
+-   api.bayyinah.tv
+-   bayyinahtv.com
+-   explore.bayyinahtv.com
+-   dream.bayyinah.com
+-   bayyinah.org
+-   qiblaconnect.com
+-   www.qiblaconnect.com
+-   api.qiblaconnect.com
+-   iqibla.com
+-   muslimmate.app
+-   www.muslimmate.app
+-   pillarsapp.com
+-   getpillars.com
+-   www.getpillars.com
+-   api.pillarsapp.com
+-   thepillarsapp.com
+-   www.thepillarsapp.com
+-   com.pillars.pillars
+-   ipraylabs.com
+-   ipray.com
+-   www.ipray.com
+-   api.ipray.com
+-   com.guidedways.ipray
+-   allahsword.com
+-   www.allahsword.com
+-   parfield.com
+-   www.parfield.com
+-   com.parfield.prayers.lite
+-   com.parfield.prayers
+-   ihsaanfusion.com
+-   www.ihsaanfusion.com
+-   com.ihsaanfusion.myduaa
+-   lifewithallah.com
+-   lifewithallah.com/dhikr-dua
+-   lifewithallah.com/app
+-   com.alifewithallah.app
+-   uwt.org
+-   duaandazkar.com
+-   www.duaandazkar.com
+-   al-bir.org
+-   gtaf.org/apps/hisnul
+-   muslimdirectoryapp.com
+-   ivirtualsoft.com
+-   deenminder.com
+-   mydeen.app
+-   kahfguard.com
+-   check.kahfguard.com
+-   halalz.com
+-   kahf.to
+-   islamandai.com
+-   deen.ai
+-   wisqu.ai
+
+──────────────────────────────────────────────────────────────
+Prayer Times Apps
+──────────────────────────────────────────────────────────────
+-   com.reworewo.prayertimes
+-   islamiyet.cc
+-   www.islamiyet.cc
+-   islam.ms
+-   www.islam.ms
+
+──────────────────────────────────────────────────────────────
+Islamic API Providers
+──────────────────────────────────────────────────────────────
+-   islamicapi.com
+-   www.islamicapi.com
+-   prayer-time-api.pages.dev
+-   muslimandquran.com
+-   www.muslimandquran.com
+
+──────────────────────────────────────────────────────────────
+Halal Food & Travel (LOCATION TRACKING!)
+──────────────────────────────────────────────────────────────
+-   zabihah.com
+-   www.zabihah.com
+-   api.zabihah.com
+-   analytics.zabihah.com
+-   halaltrip.com
+-   www.halaltrip.com
+-   api.halaltrip.com
+-   booking.halaltrip.com
+-   halaltrip.ai
+-   verifyhalal.com
+-   serunai.com
+-   scanhalal.com
+-   halalcheck.app
+-   mustakshif.com
+
+──────────────────────────────────────────────────────────────
+Islamic Q&A & Education
+──────────────────────────────────────────────────────────────
+-   islamqa.info
+-   seekersguidance.org
+-   ilmflix.com
+-   www.islamqa.info
+-   m.islamqa.info
+-   www.seekersguidance.org
+-   api.seekersguidance.org
+-   academy.seekersguidance.org
+-   seekershub.org
+-   www.ilmflix.com
+-   ilmflix.ihsaanfusion.com
+
+──────────────────────────────────────────────────────────────
+Qalbox (Muslim Pro Streaming)
+──────────────────────────────────────────────────────────────
+-   qalbox.com
+-   app.muslimpro.com/qalbox
+-   muslimpro.com/qalbox
+
+──────────────────────────────────────────────────────────────
+Nusuk
+──────────────────────────────────────────────────────────────
+-   nusuk.sa
+-   nusuk.com
+-   www.nusuk.sa
+-   api.nusuk.sa
+-   hajj.nusuk.sa
+-   umrah.nusuk.sa
+-   services.nusuk.sa
+-   eatmarna.sa
+-   ta.sdaia.gov.sa
+-   api.tawakkalna.sa
+
+──────────────────────────────────────────────────────────────
+LaunchGood
+──────────────────────────────────────────────────────────────
+-   launchgood.com
+-   www.launchgood.com
+-   api.launchgood.com
+-   support.launchgood.com
+-   beta.launchgood.com
+-   blog.launchgood.com
+-   dev5.launchgood.com
+-   embed.launchgood.com
+
+──────────────────────────────────────────────────────────────
+Yaqeen Institute
+──────────────────────────────────────────────────────────────
+-   yaqeeninstitute.org
+-   www.yaqeeninstitute.org
+-   cdn.yaqeeninstitute.org
+-   podcast.yaqeeninstitute.org
+-   research.yaqeeninstitute.org
+
+──────────────────────────────────────────────────────────────
+Islamic Relief / Zakat Foundation / Penny Appeal
+──────────────────────────────────────────────────────────────
+-   islamic-relief.org
+-   www.islamic-relief.org
+-   donations.islamic-relief.com
+-   irworldwide.org
+-   irusa.org
+-   islamic-relief.com
+-   zakatfoundation.org
+-   www.zakatfoundation.org
+-   give.zakatfoundation.org
+-   pennyappeal.org
+-   www.pennyappeal.org
+-   pennyappeal.ca
+-   pennyappeal.au
+
+──────────────────────────────────────────────────────────────
+Muslim Social Networks
+──────────────────────────────────────────────────────────────
+-   theummah.io
+-   www.theummah.io
+-   ummaapp.com
+-   www.ummaapp.com
+-   ummah.network
+-   www.ummah.network
+-   ummalife.com
+-   www.ummalife.com
+-   ummahnet.app
+-   www.ummahnet.app
+-   alfafaa.com
+-   www.alfafaa.com
+-   muslamica.app
+-   www.muslamica.app
+-   deenify.com
+-   dawahgram.com
+-   oneummah.com
+
+──────────────────────────────────────────────────────────────
+Mosque Finder Apps
+──────────────────────────────────────────────────────────────
+-   masjidnow.com
+-   www.masjidnow.com
+-   mymasjid.app
+-   www.mymasjid.app
+-   masjidal.com
+-   salatomatic.com
+-   www.masjidal.com
+-   mymasjidal.com
+
+──────────────────────────────────────────────────────────────
+Sufi Meditation
+──────────────────────────────────────────────────────────────
+-   nurmuhammad.com
+-   muhammadanway.com
+
+──────────────────────────────────────────────────────────────
+Islamic Kids Media
+──────────────────────────────────────────────────────────────
+-   quranstories.app
+-   littlemuslim.app
+-   muslimkidstv.com
+-   www.muslimkidstv.com
+
+──────────────────────────────────────────────────────────────
+Islamic TV
+──────────────────────────────────────────────────────────────
+-   peacetv.tv
+-   hudatv.net
+-   mta.tv
+-   alislam.org
+-   www.peacetv.tv
+-   www.hudatv.net
+-   www.mta.tv
+
+──────────────────────────────────────────────────────────────
+Islamic Education
+──────────────────────────────────────────────────────────────
+-   dreamprogram.net
+-   bayyinahdream.com
+-   qalaminstitute.org
+-   almaghrib.org
+-   myrightpath.com
+-   seekershub.org
+-   www.bayyinahdream.com
+-   www.qalaminstitute.org
+-   www.almaghrib.org
+-   www.seekershub.org
+-   www.qalam.institute
+-   qalamseminary.com
+-   islam21c.com
+
+════════════════════════════════════════════════════════════════
+💒 CHRISTAN APPS
+════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────
+YouVersion Bible / Life.Church (POLITICAL PROFILING)
+──────────────────────────────────────────────────────────────
+-   youversion.com
+-   bible.com
+-   bibleapi.com
+-   www.youversion.com
+-   www.bible.com
+-   my.bible.com
+-   api.bible.com
+-   analytics.bible.com
+-   cdn.bible.com
+-   media.bible.com
+-   s3.amazonaws.com/youversion
+-   developers.youversion.com
+-   connect.youversion.com
+-   ref.ly
+-   reftagger.com
+-   events.bible.com
+-   youversion.church
+-   blog.youversion.com
+-   help.youversion.com
+-   open.life.church
+-   plans.bible.com
+-   kids.bible.com
+-   bibleappforkids.com
+-   live.life.church
+-   life.church
+
+──────────────────────────────────────────────────────────────
+Hallow (REPUBLICAN TARGETING)
+──────────────────────────────────────────────────────────────
+-   hallow.com
+-   www.hallow.com
+-   app.hallow.com
+-   api.hallow.com
+-   analytics.hallow.com
+-   cdn.hallow.com
+-   help.hallow.com
+-   hallow.app.link
+-   store.hallow.com
+-   parishes.hallow.com
+-   branch.io
+
+──────────────────────────────────────────────────────────────
+Faithlife / Logos (Bible Software)
+──────────────────────────────────────────────────────────────
+-   faithlife.com
+-   logos.com
+-   faithlifetv.com
+-   www.faithlife.com
+-   www.logos.com
+-   logoscdn.com
+-   api.faithlife.com
+-   analytics.faithlife.com
+-   bible.faithlife.com
+-   ebooks.faithlife.com
+-   app.logos.com
+-   biblia.com
+-   verbum.com
+-   community.logos.com
+-   community.faithlife.com
+-   accountsapi.logos.com
+-   developer.faithlife.com
+-   covers.logoscdn.com
+-   lexhampress.com
+-   proclaim.faithlife.com
+-   passage.bible
+-   mobileapp.faithlife.com
+-   sermons.logos.com
+
+──────────────────────────────────────────────────────────────
+Bible Study Apps
+──────────────────────────────────────────────────────────────
+-   bibleproject.com
+-   help.bibleproject.com
+-   bibleforkids.com
+-   www.bibleforkids.com
+-   blueletterbible.org
+-   www.blueletterbible.org
+-   api.blueletterbible.org
+-   blb.org
+-   blueletter.bible
+-   biblegateway.com
+-   www.biblegateway.com
+-   audio.biblegateway.com
+-   api.biblegateway.com
+-   bible-api.com
+-   scripture.api.bible
+-   cdn.scripture.api.bible
+-   api.bible
+-   enduringword.com
+-   es.enduringword.com
+-   arabic.enduringword.com
+-   chinese.enduringword.com
+-   german.enduringword.com
+-   italian.enduringword.com
+-   portuguese.enduringword.com
+-   russian.enduringword.com
+-   globible.com
+-   glo.bible
+-   www.glo.bible
+-   api.glo.bible
+-   bible360.com
+-   www.bible360.com
+-   immersiondigital.com
+-   www.immersiondigital.com
+-   biblebrain.com
+-   first5.org
+-   first5app.com
+-   www.first5.org
+-   app.first5.org
+-   shop.proverbs31.org
+-   apologistapp.com
+-   apologist.ai
+-   apologistproject.org
+-   apologist.ai/en
+-   www.apologistproject.org
+-   isaac.apologist.ai
+
+──────────────────────────────────────────────────────────────
+OliveTree Bible
+──────────────────────────────────────────────────────────────
+-   olivetree.com
+-   help.olivetree.com
+
+──────────────────────────────────────────────────────────────
+Remember Me / OurPrayer
+──────────────────────────────────────────────────────────────
+-   remem.me
+-   v5.remem.me
+-   ourprayer.app
+-   guideposts.org
+
+──────────────────────────────────────────────────────────────
+Bible.is (Faith Comes By Hearing)
+──────────────────────────────────────────────────────────────
+-   bible.is
+-   www.bible.is
+-   faithcomesbyhearing.com
+-   www.faithcomesbyhearing.com
+-   apk.fcbh.org
+-   biblebrain.com
+
+──────────────────────────────────────────────────────────────
+Dwell
+──────────────────────────────────────────────────────────────
+-   dwellapp.io
+-   www.dwellapp.io
+-   get.dwellbible.com
+-   com.dwellapp.dwell
+
+──────────────────────────────────────────────────────────────
+iDisciple
+──────────────────────────────────────────────────────────────
+-   idisciple.org
+-   www.idisciple.org
+-   devotions.idisciple.org
+-   idisciple.net
+-   www.idisciple.net
+
+──────────────────────────────────────────────────────────────
+ChristianAudio (CLOSED 2024)
+──────────────────────────────────────────────────────────────
+-   christianaudio.com
+-   www.christianaudio.com
+-   rbmediaglobal.com
+-   rbmedia.com
+
+──────────────────────────────────────────────────────────────
+Bible Lens (CLOSED 2020)
+──────────────────────────────────────────────────────────────
+-   biblelens.com
+-   www.biblelens.com
+-   share.bible.com/lens
+
+──────────────────────────────────────────────────────────────
+Prayer & Devotional Apps
+──────────────────────────────────────────────────────────────
+-   echoprayer.com
+-   echo.church
+-   www.echoprayer.com
+-   api.echoprayer.com
+-   abide.co
+-   abide.is
+-   www.abide.co
+-   app.abide.co
+-   api.abide.co
+-   analytics.abide.co
+-   pray.com
+-   www.pray.com
+-   app.pray.com
+-   api.pray.com
+-   help.pray.com
+-   thedailygraceco.com
+-   dailygraceco.com
+-   odb.org
+-   ourdailybread.org
+-   www.odb.org
+-   www.ourdailybread.org
+-   idailybread.org
+-   lectio365.com
+-   24-7prayer.com
+-   www.lectio365.com
+-   www.24-7prayer.com
+-   247prayer.com
+-   bsfinternational.org
+-   www.bsfinternational.org
+-   my.bsfinternational.org
+-   mybsf.org
+-   rightnowmedia.org
+-   www.rightnowmedia.org
+-   app.rightnowmedia.org
+-   glorify-app.com
+-   www.glorify-app.com
+-   api.glorify-app.com
+-   dwell.church
+-   shereadstruth.com
+-   hereadstruth.com
+-   www.shereadstruth.com
+-   www.hereadstruth.com
+-   scripturetyper.com
+-   biblememory.com
+
+──────────────────────────────────────────────────────────────
+PrayerMate
+──────────────────────────────────────────────────────────────
+-   prayermate.net
+-   www.prayermate.net
+-   geero.net/prayermate
+-   net.geero.prayermate
+-   blog.prayermate.net
+-   api.prayermate.net
+
+──────────────────────────────────────────────────────────────
+GetSermons
+──────────────────────────────────────────────────────────────
+-   getsermons.app
+-   api.getsermons.app
+
+──────────────────────────────────────────────────────────────
+Jesus Film Project
+──────────────────────────────────────────────────────────────
+-   jesusfilm.org
+-   www.jesusfilm.org
+-   com.jesusfilmmedia.android.jesusfilm
+
+──────────────────────────────────────────────────────────────
+Pause (Wild at Heart / Ransomed Heart)
+──────────────────────────────────────────────────────────────
+-   wildatheart.org
+-   www.wildatheart.org
+-   com.ransomedheart.pause
+-   ransomedheart.com
+
+──────────────────────────────────────────────────────────────
+Catholic Apps (CONFESSION TRACKING)
+──────────────────────────────────────────────────────────────
+-   confessit.app
+-   confessionapp.org
+-   imissal.com
+-   www.imissal.com
+-   laudate-app.com
+-   www.laudate-app.com
+-   ibreviary.com
+-   www.ibreviary.com
+-   api.ibreviary.com
+-   divineoffice.org
+-   www.divineoffice.org
+-   divineoffice.org/audio
+-   catholic.org
+-   catholiccalendar.com
+-   www.catholic.org
+-   www.catholiccalendar.com
+-   catholicai.app
+-   catholic.com/ai
+-   magisterium.com
+-   myparishapp.com/confession
+
+──────────────────────────────────────────────────────────────
+Laudate
+──────────────────────────────────────────────────────────────
+-   com.aycka.apps.MassReadings
+-   catholicapps.com
+
+──────────────────────────────────────────────────────────────
+Amen (Augustine Institute)
+──────────────────────────────────────────────────────────────
+-   amenapp.org
+-   www.augustineinstitute.org
+-   help.amenapp.org
+-   org.amenapp.amen
+
+──────────────────────────────────────────────────────────────
+Catholic Bible (Ignatius Press / Lighthouse)
+──────────────────────────────────────────────────────────────
+-   catholicstudybible.org
+-   ignatius.com
+-   catholic-study-bible.com
+-   lighthousecatholicmedia.org
+-   www.lighthousecatholicmedia.org/app
+
+──────────────────────────────────────────────────────────────
+Click To Pray 
+──────────────────────────────────────────────────────────────
+-   clicktopray.org
+-   www.clicktopray.org
+-   popesprayer.va
+-   www.popesprayer.va
+-   popesprayerusa.net
+-   praywiththepope.net
+-   com.lamachi.clicktopray
+
+──────────────────────────────────────────────────────────────
+Catholic Mass Times 
+──────────────────────────────────────────────────────────────
+-   catholicmasstimes.com
+-   www.catholicmasstimes.com
+-   masstimes.org
+-   www.masstimes.org
+-   catholicmasstime.org
+
+──────────────────────────────────────────────────────────────
+10 Minutes with Jesus (Opus Dei)
+──────────────────────────────────────────────────────────────
+-   10minuteswithjesus.org
+-   www.10minuteswithjesus.org
+-   digitalmissioners.com
+
+──────────────────────────────────────────────────────────────
+Universalis
+──────────────────────────────────────────────────────────────
+-   universalis.com
+-   www.universalis.com
+-   universalis.co.uk
+-   com.universalis.android.calendar
+
+──────────────────────────────────────────────────────────────
+Magnificat
+──────────────────────────────────────────────────────────────
+-   us.magnificat.net
+-   uk.magnificat.net
+-   bookstore.magnificat.net
+-   com.magnificat.magnificat.usa
+
+──────────────────────────────────────────────────────────────
+iPieta (iVerbum)
+──────────────────────────────────────────────────────────────
+-   ipieta.com
+-   www.ipieta.com
+-   iverbum.com
+-   com.ipieta.ipieta001
+
+──────────────────────────────────────────────────────────────
+FORMED ('Catholic Netflix' — 1M+)
+──────────────────────────────────────────────────────────────
+-   formed.org
+-   www.formed.org
+-   augustineinstitute.org
+
+──────────────────────────────────────────────────────────────
+Relevant Radio 
+──────────────────────────────────────────────────────────────
+-   relevantradio.com
+-   www.relevantradio.com
+-   listen.relevantradio.com
+-   conclave.relevantradio.com
+-   app.relevantradio.com
+-   com.jacobsmedia.relevantradio
+
+──────────────────────────────────────────────────────────────
+Shalom World / Shalom Media 
+──────────────────────────────────────────────────────────────
+-   shalomworld.org
+-   www.shalomworld.org
+-   watch.shalomworld.org
+-   shalommedia.org
+-   shalomtv.tv
+-   fellowship.shalomworld.org
+-   shalomworldtv.org
+-   shalomtidings.com
+-   shalomworld.org.au
+-   shalomworld.eu
+
+──────────────────────────────────────────────────────────────
+Mary App (Marian Fathers)
+──────────────────────────────────────────────────────────────
+-   marian.org
+-   www.marian.org
+-   thedivinemercy.org
+-   www.thedivinemercy.org
+-   shopmercy.org
+-   marianplus.org
+-   divineMercyApp.com
+
+──────────────────────────────────────────────────────────────
+Pray As You Go (Jesuit)
+──────────────────────────────────────────────────────────────
+-   prayasyougo.org
+-   www.prayasyougo.org
+-   pray-as-you-go.org
+-   jesuitinstitute.org
+
+──────────────────────────────────────────────────────────────
+Christian Social Networks
+──────────────────────────────────────────────────────────────
+-   actssocial.com
+-   faithcircle.com
+-   www.faithcircle.com
+-   thewellapp.com
+-   christiansocial.network
+-   cross.tv
+-   www.cross.tv
+-   mypraize.com
+-   faithmeet.com
+-   jesus.social
+-   myfaith.com
+-   biblefolk.com
+-   indiegospel.net
+
+──────────────────────────────────────────────────────────────
+MyChurchApp
+──────────────────────────────────────────────────────────────
+-   mychurchapp.xyz
+-   mychurchapp.org
+-   online.church
+
+──────────────────────────────────────────────────────────────
+Angel Studios (The Chosen)
+──────────────────────────────────────────────────────────────
+-   angel.com
+-   watch.angel.com
+-   www.angel.com
+-   pay.angel.com
+-   watch.angelstudios.com
+-   angelfunding.com
+-   media.angelstudios.com
+-   support.angel.com
+-   blog.angel.com
+-   guild.angel.com
+-   thechosen.tv
+-   watch.thechosen.tv
+-   support.thechosen.tv
+-   comeandsee.foundation
+-   comeandsee.net
+-   comeandseefoundation.org
+
+──────────────────────────────────────────────────────────────
+Pure Flix
+──────────────────────────────────────────────────────────────
+-   pureflix.com
+-   www.pureflix.com
+-   watch.pureflix.com
+-   api.pureflix.com
+-   greatamericanpureflix.com
+-   greatamericanmedia.com
+-   landing.pureflix.com
+-   support.pureflix.com
+-   app.pureflix.com
+
+──────────────────────────────────────────────────────────────
+VidAngel
+──────────────────────────────────────────────────────────────
+-   vidangel.com
+-   help.vidangel.com
+-   blog.vidangel.com
+-   api.vidangel.com
+
+──────────────────────────────────────────────────────────────
+Minno / Yippee (Kids Christian Media)
+──────────────────────────────────────────────────────────────
+-   minno.com
+-   yippee.tv
+-   www.minno.com
+-   watch.minno.com
+-   gominno.com
+-   support.gominno.com
+
+──────────────────────────────────────────────────────────────
+Christian TV Networks (TBN)
+──────────────────────────────────────────────────────────────
+-   tbn.org
+-   tbntv.org
+-   watch.tbn.org
+-   www.tbn.org
+-   tbnplus.com
+-   churchchannel.org
+-   jctv.org
+-   enlace.org
+-   live.tbn.org
+-   tbn.tv
+-   store.tbn.org
+-   give.tbn.org
+-   tbnlatino.com
+-   enlacetv.com
+-   positiv.tv
+-   meritotv.org
+
+──────────────────────────────────────────────────────────────
+Daystar TV
+──────────────────────────────────────────────────────────────
+-   daystar.com
+-   watch.daystar.com
+-   www.daystar.com
+-   daystar.tv
+-   give.daystar.com
+-   stream.daystar.com
+-   app.daystar.com
+
+──────────────────────────────────────────────────────────────
+3ABN (Three Angels Broadcasting)
+──────────────────────────────────────────────────────────────
+-   3abn.org
+-   www.3abn.org
+-   3abnradio.org
+-   3abn.tv
+-   watch.3abn.org
+-   3abnplus.com
+
+──────────────────────────────────────────────────────────────
+Hope Channel / Amazing Facts
+──────────────────────────────────────────────────────────────
+-   hopechannel.com
+-   www.hopechannel.com
+-   hope.tv
+-   amazingfacts.org
+-   amazingfacts.tv
+-   afbookstore.com
+
+──────────────────────────────────────────────────────────────
+The Word Network (Largest African-American Religious Network!)
+──────────────────────────────────────────────────────────────
+-   thewordnetwork.org
+-   www.thewordnetwork.org
+-   store.thewordnetwork.org
+-   churchchannel.tv
+
+──────────────────────────────────────────────────────────────
+EWTN (Global Catholic Network)
+──────────────────────────────────────────────────────────────
+-   ewtn.com
+-   www.ewtn.com
+-   ewtnradio.net
+-   ewtn.co.uk
+-   ewtn.eu
+-   ewtn.ca
+-   ewtnvatican.com
+-   catholicnewsagency.com
+-   nationalcatholicregister.com
+-   ewtnreligiouscatalogue.com
+-   ewtnnews.com
+
+──────────────────────────────────────────────────────────────
+BYU TV (Mormon Media)
+──────────────────────────────────────────────────────────────
+-   byutv.org
+-   watch.byutv.org
+-   byutvsports.com
+-   byuradio.org
+-   kbyu.org
+
+──────────────────────────────────────────────────────────────
+Hillsong
+──────────────────────────────────────────────────────────────
+-   hillsong.com
+-   hillsongworship.com
+-   www.hillsong.com
+-   watch.hillsongchannel.com
+-   hillsongcollected.com
+-   hillsongtechnology.com
+-   cdn.hillsong.com
+-   myhillsong.com
+-   login.myhillsong.com
+-   network.hillsong.com
+-   hillsongresources.com
+-   store.hillsong.com
+-   hillsong.tv
+-   music.hillsong.com
+-   hillsongconference.com
+
+──────────────────────────────────────────────────────────────
+Bethel Music
+──────────────────────────────────────────────────────────────
+-   bethelmusic.com
+-   ibethel.org
+-   bethel.com
+-   www.bethelmusic.com
+-   shop.bethel.com
+-   bssm.net
+-   betheltvnetwork.com
+-   bethel.tv
+-   store.bethelmusic.com
+-   media.bethel.com
+
+──────────────────────────────────────────────────────────────
+Elevation Church / Worship
+──────────────────────────────────────────────────────────────
+-   elevationworship.com
+-   elevationchurch.org
+-   www.elevationchurch.org
+-   elevationchurch.online
+-   give.elevationchurch.org
+-   app.elevationchurch.org
+-   media.elevationchurch.org
+-   elevationstorehouse.org
+
+──────────────────────────────────────────────────────────────
+K-LOVE / Air1 (Salem Radio)
+──────────────────────────────────────────────────────────────
+-   klove.com
+-   air1.com
+-   www.klove.com
+-   listen.klove.com
+-   www.air1.com
+-   api.klove.com
+-   give.klove.com
+-   media.klove.com
+-   accessmore.com
+-   lifeaudio.com
+-   salemnow.com
+-   salempodcastnetwork.com
+-   salemmedia.com
+-   omny.fm
+-   tritondigital.com
+
+──────────────────────────────────────────────────────────────
+Focus on the Family
+──────────────────────────────────────────────────────────────
+-   focusonthefamily.com
+-   www.focusonthefamily.com
+-   store.focusonthefamily.com
+-   give.focusonthefamily.com
+-   dailycitizen.news
+-   pluggedin.com
+-   adventuresinodyssey.com
+-   whitsend.org
+-   app.adventuresinodyssey.com
+
+──────────────────────────────────────────────────────────────
+Moody Radio / AFR
+──────────────────────────────────────────────────────────────
+-   moodyradio.org
+-   afr.net
+-   www.moodyradio.org
+-   www.afr.net
+-   moodyaudio.com
+-   listen.moodyradio.org
+-   podcast.moodyradio.org
+-   afrfamilynet.com
+
+──────────────────────────────────────────────────────────────
+Lifeway Christian Resources
+──────────────────────────────────────────────────────────────
+-   lifeway.com
+-   www.lifeway.com
+-   research.lifeway.com
+-   store.lifeway.com
+-   resources.lifeway.com
+-   biblestudy.lifeway.com
+-   vbs.lifeway.com
+-   lifewaywomen.com
+
+──────────────────────────────────────────────────────────────
+SermonAudio
+──────────────────────────────────────────────────────────────
+-   sermonaudio.com
+-   www.sermonaudio.com
+-   api.sermonaudio.com
+-   media.sermonaudio.com
+-   embed.sermonaudio.com
+
+──────────────────────────────────────────────────────────────
+Christian Sermon Platforms
+──────────────────────────────────────────────────────────────
+-   sermoncentral.com
+-   oneplace.com
+-   truthnetwork.com
+-   faithradio.com
+-   www.sermoncentral.com
+-   www.oneplace.com
+
+──────────────────────────────────────────────────────────────
+Kids Christian Media
+──────────────────────────────────────────────────────────────
+-   superbookkidsbible.com
+-   cbn.com
+-   veggietales.com
+-   bigidea.com
+-   www.cbn.com
+-   www.veggietales.com
+-   superbook.cbn.com
+
+──────────────────────────────────────────────────────────────
+☦️ ORTHODOX CHRISTIAN APPS
+──────────────────────────────────────────────────────────────
+-   orthoprax.info
+-   www.orthoprax.info
+-   sebastianpress.org
+-   com.icxclife.orthoprax
+-   saintalexispress.com
+-   www.saintalexispress.com
+-   com.saintalexispress.prayersfree
+-   com.saintalexispress.prayers
+-   holytrinityorthodox.com
+-   www.holytrinityorthodox.com
+-   com.holytrinityorthodox.orthodoxcalendar
+-   eir3.com
+-   goarch.org
+-   www.goarch.org
+-   www.goarch.org/chapel
+-   org.goarch.dailyreadings2
+-   orthodoxbible.app
+-   www.orthodoxbible.app
+-   faithtree.org
+-   www.faithtree.org
+-   catenabible.com
+-   get.catenabible.com
+-   com.catena
+-   orthodox.app
+-   www.orthodox.app
+-   com.orthodoxinfo
+-   quartos.org
+-   annashra.net
+-   digitalchantstand.goarch.org
+-   dcs.goarch.org
+-   ematins.org
+-   goarch.org/chapel/lightacandle
+
+════════════════════════════════════════════════════════════════
+✡️ JEW APPS
+════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────
+Sefaria
+──────────────────────────────────────────────────────────────
+-   sefaria.org
+-   www.sefaria.org
+-   www.sefaria.org.il
+-   developers.sefaria.org
+-   cdn.sefaria.org
+-   api.sefaria.org
+
+──────────────────────────────────────────────────────────────
+MyZmanim
+──────────────────────────────────────────────────────────────
+-   myzmanim.com
+-   www.myzmanim.com
+-   api.myzmanim.com
+-   rustybrick.com
+-   jewishapps.com
+
+──────────────────────────────────────────────────────────────
+Chabad
+──────────────────────────────────────────────────────────────
+-   chabad.org
+-   chabadone.com
+-   www.chabad.org
+-   www.chabadone.com
+-   api.chabad.org
+-   mychabad.org
+-   thejewishwoman.org
+-   jewishkids.org
+-   therebbe.org
+-   jewish.tv
+-   chabadu.org
+-   kehot.com
+-   chabadcdn.org
+-   chabad.org/apps
+-   store.chabad.org
+
+──────────────────────────────────────────────────────────────
+Kosher Apps
+──────────────────────────────────────────────────────────────
+-   oukosher.org
+-   star-k.org
+-   www.oukosher.org
+-   www.star-k.org
+-   app.oukosher.org
+-   kosher.com
+
+──────────────────────────────────────────────────────────────
+Hebrew Calendar
+──────────────────────────────────────────────────────────────
+-   hebcal.com
+-   www.hebcal.com
+-   download.hebcal.com
+-   hebcal.github.io/api
+
+──────────────────────────────────────────────────────────────
+Jewish Dating
+──────────────────────────────────────────────────────────────
+-   jdate.com
+-   jswipe.com
+-   sawyouatsinai.com
+-   www.jdate.com
+-   www.jswipe.com
+-   api.jdate.com
+-   api.jswipe.com
+-   sparknetworks.com
+-   jswipeapp.com
+-   smoochlabs.com
+-   jswipe.me
+
+──────────────────────────────────────────────────────────────
+Jewish Media
+──────────────────────────────────────────────────────────────
+-   alephbeta.org
+-   torahlive.com
+-   www.alephbeta.org
+-   www.torahlive.com
+
+──────────────────────────────────────────────────────────────
+TorahAnytime 
+──────────────────────────────────────────────────────────────
+-   torahanytime.com
+-   www.torahanytime.com
+-   api.torahanytime.com
+-   docs.torahanytime.com
+
+──────────────────────────────────────────────────────────────
+TorahApp
+──────────────────────────────────────────────────────────────
+-   torahapp.org
+-   www.torahapp.org
+-   thetorahapp.org
+-   org.thetorahapp.thetorahapp
+
+──────────────────────────────────────────────────────────────
+PowerSefer
+──────────────────────────────────────────────────────────────
+-   powersefer.com
+-   powerseferpress.com
+-   www.powersefer.com
+
+──────────────────────────────────────────────────────────────
+ArtScroll Digital Library
+──────────────────────────────────────────────────────────────
+-   artscroll.com
+-   www.artscroll.com
+-   appstore.artscroll.com
+-   app.artscroll.com
+-   kb.artscroll.com
+-   help.artscroll.com
+
+──────────────────────────────────────────────────────────────
+Kol Halashon 
+──────────────────────────────────────────────────────────────
+-   kolhalashon.com
+-   www.kolhalashon.com
+-   kolhl.com
+-   kolhalashon.net
+
+──────────────────────────────────────────────────────────────
+PJ Library 
+──────────────────────────────────────────────────────────────
+-   pjlibrary.org
+-   www.pjlibrary.org
+-   pjourway.org
+-   pjlibraryradio.com
+-   hgf.org
+
+──────────────────────────────────────────────────────────────
+YidKit
+──────────────────────────────────────────────────────────────
+-   yidkit.com
+-   www.yidkit.com
+-   com.danismithproductions.yidkit
+
+──────────────────────────────────────────────────────────────
+JRoot Radio / Live
+──────────────────────────────────────────────────────────────
+-   jrootradio.com
+-   jrootlive.com
+-   www.jrootlive.com
+
+──────────────────────────────────────────────────────────────
+HebDate
+──────────────────────────────────────────────────────────────
+-   lionscribe.com
+-   www.lionscribe.com
+-   com.lionscribe.hebdate
+
+──────────────────────────────────────────────────────────────
+Smart Siddur / Karri Apps
+──────────────────────────────────────────────────────────────
+-   karriapps.com
+-   com.karriapps.smartsiddurlite
+-   com.karriapps.smartsiddur
+
+──────────────────────────────────────────────────────────────
+Minyan Apps
+──────────────────────────────────────────────────────────────
+-   shulert.com
+-   www.shulert.com
+-   shulert.org
+-   godaven.com
+-   www.godaven.com
+-   api.godaven.com
+-   minyanmaps.com
+-   www.minyanmaps.com
+
+──────────────────────────────────────────────────────────────
+Real Clear Daf
+──────────────────────────────────────────────────────────────
+-   realcleardaf.com
+-   www.realcleardaf.com
+-   sifradigital.com
+-   com.realcleardaf.mobile
+
+──────────────────────────────────────────────────────────────
+FamilySearch Tree (LDS)
+──────────────────────────────────────────────────────────────
+-   familysearch.org
+-   www.familysearch.org
+-   www.familysearch.org/tree
+-   org.familysearch.mobile
+-   developers.familysearch.org
+-   wiki.familysearch.org
+-   apibeta.familysearch.org
+-   api.familysearch.org
+-   gedcomx.org
+-   memories.familysearch.org
+-   beta.familysearch.org
+
+──────────────────────────────────────────────────────────────
+Jewish TV
+──────────────────────────────────────────────────────────────
+-   jbstv.org
+-   shalomtv.com
+-   watch.shalomtv.com
+-   www.jbstv.org
+
+════════════════════════════════════════════════════════════════
+🕉️ HINDU & BUDIST APPS
+════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────
+Insight Timer (MENTAL HEALTH DATA)
+──────────────────────────────────────────────────────────────
+-   insighttimer.com
+-   www.insighttimer.com
+-   api.insighttimer.com
+-   analytics.insighttimer.com
+-   cdn.insighttimer.com
+-   insight-timer-a1ac7.firebaseapp.com
+-   api-cdn-sp.insighttimer.com
+-   help.insighttimer.com
+-   help-app.insighttimer.com
+-   teachers.insighttimer.com
+-   insight.co
+
+──────────────────────────────────────────────────────────────
+Plum Village
+──────────────────────────────────────────────────────────────
+-   plumvillage.app
+-   www.plumvillage.app
+-   web.plumvillage.app
+-   plumvillage.org
+-   plumvillage.uk
+-   plumvillage.life
+-   plumline.org
+
+──────────────────────────────────────────────────────────────
+Buddhify
+──────────────────────────────────────────────────────────────
+-   buddhify.com
+-   www.buddhify.com
+-   com.lvlup.buddhify
+
+──────────────────────────────────────────────────────────────
+Access to Insight (1.000+ Sutta)
+──────────────────────────────────────────────────────────────
+-   accesstoinsight.org
+-   www.accesstoinsight.org
+-   suttareadings.net
+
+──────────────────────────────────────────────────────────────
+Stop, Breathe & Think / MyLife Meditation
+──────────────────────────────────────────────────────────────
+-   stopbreathethink.com
+-   mylifemeditation.com
+-   org.stopbreathethink.app
+
+──────────────────────────────────────────────────────────────
+WeCroak
+──────────────────────────────────────────────────────────────
+-   wecroak.com
+-   www.wecroak.com
+
+──────────────────────────────────────────────────────────────
+Liberate (BIPOC Meditation)
+──────────────────────────────────────────────────────────────
+-   liberatemeditation.com
+-   www.liberatemeditation.com
+-   liberatevillage.com
+
+──────────────────────────────────────────────────────────────
+Awaken (Social Justice Meditation)
+──────────────────────────────────────────────────────────────
+-   whynotawaken.com
+-   www.whynotawaken.com
+
+──────────────────────────────────────────────────────────────
+Ensō (Minimal Timer)
+──────────────────────────────────────────────────────────────
+-   ensomeditationtimer.com
+-   www.ensomeditationtimer.com
+-   fascinative.ca
+
+──────────────────────────────────────────────────────────────
+Shambhala Meditation 
+──────────────────────────────────────────────────────────────
+-   shambhala.org
+-   www.shambhala.org
+-   shambhalatimes.org
+-   shambhalaonline.org
+-   shambhalanetwork.org
+-   shambhalaart.org
+-   shambhalaarchives.org
+-   shambhala.com
+-   dralamountain.org
+-   karmecholing.org
+-   gampoabbey.org
+-   kalapamedia.org
+-   nalandatranslation.org
+-   lionsroar.com
+-   pemachodronfoundation.org
+
+──────────────────────────────────────────────────────────────
+Hindu Apps
+──────────────────────────────────────────────────────────────
+-   hindujagruti.org
+-   hindu-calendar.com
+-   www.hindujagruti.org
+-   ichant.in
+-   www.ichant.in
+-   holy-bhagavad-gita.org
+-   bhagavadgita.io
+-   www.holy-bhagavad-gita.org
+-   www.bhagavadgita.io
+-   api.bhagavadgita.io
+
+──────────────────────────────────────────────────────────────
+Srimad Gita
+──────────────────────────────────────────────────────────────
+-   srimadgita.com
+-   www.srimadgita.com
+
+──────────────────────────────────────────────────────────────
+GitaGPT
+──────────────────────────────────────────────────────────────
+-   gitagpt.in
+-   www.gitagpt.in
+-   gitagpt.org
+-   bhagavadgita.com/gitagpt
+
+──────────────────────────────────────────────────────────────
+Bhagavad Gita AI 
+──────────────────────────────────────────────────────────────
+-   com.emti.bhagwatgita_ai
+
+──────────────────────────────────────────────────────────────
+JKYog Bhagavad Gita 
+──────────────────────────────────────────────────────────────
+-   jkyog.org
+-   www.jkyog.org
+-   jkyog.in
+-   org.jkyog.radhakrishnabhakti
+
+──────────────────────────────────────────────────────────────
+ISKCON Bhagavad Gita
+──────────────────────────────────────────────────────────────
+-   asitis.com
+-   www.asitis.com
+-   iskconbooks.com
+-   vedabase.io
+-   vedabase.com
+-   iskconbangalore.org
+-   iskconsv.com
+-   iskconshop.com
+-   iskconcourses.com
+-   iskcondesiretree.com
+
+──────────────────────────────────────────────────────────────
+Gita Press 
+──────────────────────────────────────────────────────────────
+-   gitapress.org
+-   www.gitapress.org
+
+──────────────────────────────────────────────────────────────
+Hindu Panchang Apps
+──────────────────────────────────────────────────────────────
+-   drikpanchang.com
+-   www.drikpanchang.com
+-   com.drikp.core
+-   api.drikpanchang.com
+-   m.drikpanchang.com
+-   cdn.drikpanchang.com
+-   mpanchang.com
+-   www.mpanchang.com
+-   panchang.astrosage.com
+-   sanatanpanchang.com
+-   www.sanatanpanchang.com
+-   hinducalendar.app
+
+──────────────────────────────────────────────────────────────
+Sri Mandir / AppsForBharat
+──────────────────────────────────────────────────────────────
+-   srimandir.com
+-   www.srimandir.com
+-   srimandir.in
+-   appsforbharat.com
+-   cdn.srimandir.com
+-   api.srimandir.com
+
+──────────────────────────────────────────────────────────────
+Astrology Apps — Hint
+──────────────────────────────────────────────────────────────
+-   astrosage.com
+-   www.astrosage.com
+-   api.astrosage.com
+-   m.astrosage.com
+-   bhrigoo.ai
+-   vedicastroapi.com
+-   astrologyapi.com
+
+──────────────────────────────────────────────────────────────
+Isha Foundation / Sadhguru
+──────────────────────────────────────────────────────────────
+-   isha.sadhguru.org
+-   ishafoundation.org
+-   www.ishafoundation.org
+-   www.sadhguru.org
+-   supportdesk.ishafoundation.org
+-   sadhguruappsupport.ishafoundation.org
+-   portal.ishayoga.live
+-   ishayoga.com
+-   ishastore.com
+
+──────────────────────────────────────────────────────────────
+Buddhist Resources
+──────────────────────────────────────────────────────────────
+-   84000.co
+-   dhamma.org
+-   dharma.org
+-   www.84000.co
+-   www.dhamma.org
+-   www.dharma.org
+-   register.dhamma.org
+-   vridhamma.org
+
+════════════════════════════════════════════════════════════════
+🪯 SIKH APPS
+════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────
+Sikh Apps
+──────────────────────────────────────────────────────────────
+-   igurbani.com
+-   nitnempath.com
+-   sundargutka.com
+-   sikhnet.com
+-   radio.sikhnet.com
+-   gurbaninow.com
+-   www.igurbani.com
+-   www.nitnempath.com
+-   www.sundargutka.com
+-   www.sikhnet.com
+-   www.gurbaninow.com
+-   play.sikhnet.com
+-   sikhitothemax.org
+-   banidb.com
+-   nitnemsahib.com
+-   gurbanischool.com
+
+──────────────────────────────────────────────────────────────
+SikhiToTheMax (Khalis Foundation)
+──────────────────────────────────────────────────────────────
+-   sikhitothemax.org
+-   www.sikhitothemax.org
+-   dev.sikhitothemax.org
+-   khalisfoundation.org
+-   sharecharityuk.com
+-   banidb.com
+-   www.banidb.com
+
+──────────────────────────────────────────────────────────────
+iGurbani (Akal Design)
+──────────────────────────────────────────────────────────────
+-   igurbani.com
+-   www.igurbani.com
+-   sikher.com
+-   www.sikher.com
+-   api.sikher.com
+-   media.sikher.com
+-   com.akaldesign.igurbani
+-   akaldesign.com
+
+──────────────────────────────────────────────────────────────
+Sikh World
+──────────────────────────────────────────────────────────────
+-   sikhworld.app
+-   www.sikhworld.app
+-   com.shikh.gurbaniradio.livekirtan
+
+──────────────────────────────────────────────────────────────
+Khoj Gurbani
+──────────────────────────────────────────────────────────────
+-   khojgurbani.org
+-   www.khojgurbani.org
+
+──────────────────────────────────────────────────────────────
+Nihung Santhia Gutka
+──────────────────────────────────────────────────────────────
+-   nihungsanthia.com
+-   www.nihungsanthia.com
+
+════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────
+💰 DONATE PLATFORMS 
+
+İslamic Fundraising
+──────────────────────────────────────────────────────────────
+-   launchgood.com
+-   www.launchgood.com
+-   api.launchgood.com
+-   support.launchgood.com
+-   beta.launchgood.com
+-   blog.launchgood.com
+-   embed.launchgood.com
+-   pennyappeal.org
+-   www.pennyappeal.org
+-   pennyappeal.ca
+-   pennyappeal.au
+-   islamic-relief.org
+-   www.islamic-relief.org
+-   donations.islamic-relief.com
+-   irworldwide.org
+-   irusa.org
+-   islamic-relief.com
+-   zakatfoundation.org
+-   www.zakatfoundation.org
+-   give.zakatfoundation.org
+
+──────────────────────────────────────────────────────────────
+Church Giving Platforms
+──────────────────────────────────────────────────────────────
+-   givebutter.com
+-   www.givebutter.com
+-   api.givebutter.com
+-   tithe.ly
+-   tithely.com
+-   www.tithe.ly
+-   get.tithe.ly
+-   api.tithely.com
+-   app.tithe.ly
+-   sites.tithe.ly
+-   people.tithe.ly
+-   pushpay.com
+-   www.pushpay.com
+-   my.pushpay.com
+-   churchstaq.com
+-   pushpay.io
+-   parishstaq.com
+-   ccbchurch.com
+-   support.pushpay.com
+-   engiven.com
+-   subsplash.com
+-   giving.subsplash.com
+-   www.subsplash.com
+-   api.subsplash.com
+-   kindrid.com
+-   www.kindrid.com
+-   givecentral.org
+-   echurchgiving.com
+
+──────────────────────────────────────────────────────────────
+Givelify 
+──────────────────────────────────────────────────────────────
+-   givelify.com
+-   analytics.givelify.com
+-   support.givelify.com
+
+──────────────────────────────────────────────────────────────
+Vanco 
+──────────────────────────────────────────────────────────────
+-   vancopayments.com
+-   www.vancopayments.com
+-   vanco.com
+-   vancofaith.com
+-   ministrybrands.com
+
+──────────────────────────────────────────────────────────────
+EasyTithe 
+──────────────────────────────────────────────────────────────
+-   easytithe.com
+-   www.easytithe.com
+-   ministryone.com
+-   app.ministryone.com
+
+──────────────────────────────────────────────────────────────
+SecureGive
+──────────────────────────────────────────────────────────────
+-   securegive.com
+-   www.securegive.com
+-   app.securegive.com
+-   parishgive.com
+
+──────────────────────────────────────────────────────────────
+Donorbox
+──────────────────────────────────────────────────────────────
+-   donorbox.org
+-   www.donorbox.org
+-   api.donorbox.org
+-   help.donorbox.org
+
+════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────
+Worship Tools (Consumer / Worship Teams)
+──────────────────────────────────────────────────────────────
+-   multitracks.com
+-   play.multitracks.com
+-   www.multitracks.com
+-   app.multitracks.com
+-   cdn.multitracks.com
+-   loopcommunity.com
+-   prime.loopcommunity.com
+-   sundaykeys.com
+-   app.sundaykeys.com
+-   trackrig.com
+-   praisecharts.com
+-   www.praisecharts.com
+-   worshiptogether.com
+-   integritymusic.com
+-   worshipartistry.com
+-   worshipteam.com
+
+──────────────────────────────────────────────────────────────
+Islamic Nasheed Platforms
+──────────────────────────────────────────────────────────────
+-   nasheed.com
+-   islamicnasheeds.com
+
+──────────────────────────────────────────────────────────────
+Sacred Music (CLOSED 2026)
+──────────────────────────────────────────────────────────────
+-   sovereigngracemusic.org
+
+════════════════════════════════════════════════════════════════
+🔮 SPIRITUAL APPS
+════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────
+Keen / Kasamba (Ingenio)
+──────────────────────────────────────────────────────────────
+-   keen.com
+-   www.keen.com
+-   api.keen.com
+-   expert-link.com
+-   app.keen.com
+-   blog.keen.com
+-   chat.keen.com
+-   kasamba.com
+-   www.kasamba.com
+-   k3cdn.kassrv.com
+-   kassrv.com
+-   app.kasamba.com
+-   blog.kasamba.com
+-   support.kasamba.com
+-   ingenio.com
+-   liveperson.com
+-   liveperson.net
+-   lp.liveperson.net
+-   lpcdn.lpsnmedia.net
+
+──────────────────────────────────────────────────────────────
+Purple Garden
+──────────────────────────────────────────────────────────────
+-   purplegarden.com
+-   purplegarden.app
+-   www.purplegarden.com
+-   purplegarden.co
+-   api.purplegarden.com
+
+──────────────────────────────────────────────────────────────
+Psychic Source
+──────────────────────────────────────────────────────────────
+-   psychicsource.com
+-   www.psychicsource.com
+-   blog.psychicsource.com
+-   support.psychicsource.com
+-   app.psychicsource.com
+
+──────────────────────────────────────────────────────────────
+California Psychics
+──────────────────────────────────────────────────────────────
+-   californiapsychics.com
+-   www.californiapsychics.com
+-   blog.californiapsychics.com
+-   support.californiapsychics.com
+
+──────────────────────────────────────────────────────────────
+Oranum (JWS International / LiveJasmin)
+──────────────────────────────────────────────────────────────
+-   oranum.com
+-   www.oranum.com
+-   oranum.co.uk
+-   jwsamericas.com
+-   jwsinternational.com
+
+──────────────────────────────────────────────────────────────
+MysticSense
+──────────────────────────────────────────────────────────────
+-   mysticsense.com
+-   www.mysticsense.com
+-   support.mysticsense.com
+-   blog.mysticsense.com
+
+──────────────────────────────────────────────────────────────
+AskNow
+──────────────────────────────────────────────────────────────
+-   asknow.com
+-   www.asknow.com
+-   blog.asknow.com
+-   support.asknow.com
+
+──────────────────────────────────────────────────────────────
+Oracle & Angel Card Apps
+──────────────────────────────────────────────────────────────
+-   angeltarot.app
+-   dailyangelcards.com
+-   oraclecardreadings.app
+
+════════════════════════════════════════════════════════════════
+🔮 ASTROLOGY APPS 
+════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────
+Co-Star
+──────────────────────────────────────────────────────────────
+-   costarastrology.com
+-   costar.app
+-   www.costar.app
+-   api.costar.app
+-   api.costarastrology.com
+-   cdn.costarastrology.com
+
+──────────────────────────────────────────────────────────────
+The Pattern
+──────────────────────────────────────────────────────────────
+-   thepattern.com
+-   thepattern.app
+-   www.thepattern.com
+-   api.thepattern.com
+-   thepattern.zendesk.com
+
+──────────────────────────────────────────────────────────────
+Sanctuary World
+──────────────────────────────────────────────────────────────
+-   sanctuary.world
+-   sanctuaryworld.co
+-   www.sanctuary.world
+-   shop.sanctuaryworld.co
+-   sanctuarywrld.co
+-   help.sanctuaryworld.co
+
+──────────────────────────────────────────────────────────────
+CHANI (Chani Nicholas)
+──────────────────────────────────────────────────────────────
+-   chani.app
+-   chaninicholas.com
+-   chani.com
+-   chanishop.com
+-   chaninicholas.zendesk.com
+
+──────────────────────────────────────────────────────────────
+Other Astrology
+──────────────────────────────────────────────────────────────
+-   astrograph.com
+-   timepassages.com
+-   www.timepassages.com
+-   astrologyzone.com
+-   cafeastrology.com
+-   astro.com
+-   astrodienst.com
+-   www.astrologyzone.com
+-   www.cafeastrology.com
+-   www.astro.com
+-   api.astro.com
+
+──────────────────────────────────────────────────────────────
+Nebula
+──────────────────────────────────────────────────────────────
+-   asknebula.com
+-   www.asknebula.com
+-   support.asknebula.com
+-   api.asknebula.com
+-   blog.asknebula.com
+
+──────────────────────────────────────────────────────────────
+AstroMatrix
+──────────────────────────────────────────────────────────────
+-   astromatrix.org
+-   astromatrix.app
+-   www.astromatrix.org
+-   json.astrologyapi.com
+
+──────────────────────────────────────────────────────────────
+Time Nomad 
+──────────────────────────────────────────────────────────────
+-   timenomad.app
+-   www.timenomad.app
+-   blog.timenomad.app
+
+──────────────────────────────────────────────────────────────
+Moonly (Data breach affecting 6 million users)
+──────────────────────────────────────────────────────────────
+-   moonly.app
+
+──────────────────────────────────────────────────────────────
+Kaave
+──────────────────────────────────────────────────────────────
+-   kaaveapp.com
+-   www.kaaveapp.com
+-   support.kaaveapp.com
+-   com.didilabs.kaavefali
+
+──────────────────────────────────────────────────────────────
+My Human Design
+──────────────────────────────────────────────────────────────
+-   myhumandesign.com
+-   www.myhumandesign.com
+-   myhumandesign.app
+-   com.myhumandesignapp
+
+──────────────────────────────────────────────────────────────
+AstroTalk
+──────────────────────────────────────────────────────────────
+-   astrotalk.com
+-   www.astrotalk.com
+-   astrologer.astrotalk.com
+-   blog.astrotalk.com
+-   shop.astrotalk.com
+-   m.astrotalk.com
+-   live.astrotalk.com
+-   support.astrotalk.com
+-   app.astrotalk.com
+-   com.astrotalk
+-   agora.io
+
+──────────────────────────────────────────────────────────────
+iHoroscope
+──────────────────────────────────────────────────────────────
+-   ihoroscope.app
+-   ihoroscope.com
+-   com.telemaque.horoscope
+
+──────────────────────────────────────────────────────────────
+Astrology API Providers
+──────────────────────────────────────────────────────────────
+-   json.astrologyapi.com
+-   astrologyapi.com
+-   api.astrology.com
+-   vedicastroapi.com
+
+──────────────────────────────────────────────────────────────
+Tarot Apps
+──────────────────────────────────────────────────────────────
+-   tarot.com
+-   labyrinthos.co
+-   goldenthreadtarot.com
+-   biddytarot.com
+-   www.tarot.com
+-   www.labyrinthos.co
+-   app.labyrinthos.co
+-   www.goldenthreadtarot.com
+-   www.biddytarot.com
+-   com.labyrinthos.app
+-   academy.biddytarot.com
+-   blog.biddytarot.com
+-   shop.biddytarot.com
+-   seventhspheretarot.com
+-   api.labyrinthos.co
+-   cdn.labyrinthos.co
+
+════════════════════════════════════════════════════════════════
+🌙 NEW AGE APPS
+════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────
+Moon Phase Apps
+──────────────────────────────────────────────────────────────
+-   moonphasecalendar.com
+-   mymoonphase.com
+-   deluxemoon.com
+-   mooncalendar.app
+-   www.moonphasecalendar.com
+-   moonly.app
+-   moonx.app
+
+──────────────────────────────────────────────────────────────
+Wicca & Pagan Apps
+──────────────────────────────────────────────────────────────
+-   wiccacalendar.com
+-   spellsandrituals.app
+-   aminoapps.com/c/pagans-witches
+-   narvii.com
+-   thewitchesalmanac.com
+-   www.wiccacalendar.com
+
+──────────────────────────────────────────────────────────────
+Candle Magic & Spell Apps
+──────────────────────────────────────────────────────────────
+-   candlemagic.app
+-   spellcaster.app
+-   www.candlemagic.app
+
+──────────────────────────────────────────────────────────────
+Crystal Healing Apps
+──────────────────────────────────────────────────────────────
+-   crystalguide.app
+-   healingcrystals.com
+-   energymuse.com
+-   www.healingcrystals.com
+-   www.energymuse.com
+
+──────────────────────────────────────────────────────────────
+Chakra & Energy Healing
+──────────────────────────────────────────────────────────────
+-   chakrahealingmusic.app
+-   mychakras.app
+-   reikimusic.app
+-   www.mychakras.app
+
+──────────────────────────────────────────────────────────────
+Sound Healing & Frequency Apps
+──────────────────────────────────────────────────────────────
+-   wholetones.com
+-   solfeggiofrequencies.app
+-   sacredacoustics.com
+-   www.wholetones.com
+-   www.sacredacoustics.com
+-   healingsounds.com
+
+──────────────────────────────────────────────────────────────
+Angel Number & Numerology Apps
+──────────────────────────────────────────────────────────────
+-   angelnumbers.app
+-   numerologycalculator.app
+-   www.angelnumbers.app
+
+──────────────────────────────────────────────────────────────
+Animal Spirit & Totem Apps
+──────────────────────────────────────────────────────────────
+-   animalspiritguide.app
+-   totemanimals.app
+-   www.animalspiritguide.app
+
+──────────────────────────────────────────────────────────────
+Kundalini & Tantra Apps
+──────────────────────────────────────────────────────────────
+-   kundaliniyoga.app
+-   3ho.org
+-   tantrailluminated.com
+-   www.3ho.org
+
+──────────────────────────────────────────────────────────────
+Course in Miracles & Metaphysical
+──────────────────────────────────────────────────────────────
+-   acim.org
+-   miraclescenter.org
+-   acimlessons.com
+-   www.acim.org
+-   www.miraclescenter.org
+-   facim.org
+
+──────────────────────────────────────────────────────────────
+New Age Platforms
+──────────────────────────────────────────────────────────────
+-   theshiftnetwork.com
+-   soundstrue.com
+-   hayhouse.com
+-   hayhouseradio.com
+-   hayhouse.co.uk
+-   hayhouse.com.au
+-   balboapress.com
+-   empoweryou.hayhouse.com
+-   store.hayhouse.com
+-   spiritrock.org
+-   dharmaseed.org
+-   omega.org
+-   eomega.org
+-   esalen.org
+-   kripalu.org
+-   www.theshiftnetwork.com
+-   www.hayhouse.com
+-   www.omega.org
+-   www.esalen.org
+
+──────────────────────────────────────────────────────────────
+Gaia (New Age Streaming)
+──────────────────────────────────────────────────────────────
+-   gaia.com
+-   www.gaia.com
+-   watch.gaia.com
+-   my.gaia.com
+-   gaiatv.com
+-   gaiaplus.com
+-   api.gaia.com
+-   gaiasphere.com
+
+──────────────────────────────────────────────────────────────
+Mindvalley (New Age Education)
+──────────────────────────────────────────────────────────────
+-   mindvalley.com
+-   www.mindvalley.com
+-   stories.mindvalley.com
+-   soulvana.com
+-   afest.com
+-   mindvalleyuniversity.com
+-   omvana.com
+-   home.mindvalley.com
+-   support.mindvalley.com
+-   events.mindvalley.com
+-   api.mindvalley.com
+-   masterclass.mindvalley.com
+-   coaches.mindvalley.com
+
+──────────────────────────────────────────────────────────────
+Deepak Chopra Apps
+──────────────────────────────────────────────────────────────
+-   deepakchopra.com
+-   www.deepakchopra.com
+-   courses.deepakchopra.com
+-   innernow.com
+-   chopra.com/app-support
+-   com.chopra.app
+-   com.mightybell.deepakchopra
+
+──────────────────────────────────────────────────────────────
+Spirit Daughter / Moment
+──────────────────────────────────────────────────────────────
+-   spiritdaughter.com
+-   spiritdaughter.com/pages/moment-app
+
+──────────────────────────────────────────────────────────────
+other New Age Apps
+──────────────────────────────────────────────────────────────
+-   spiritualseek.com
+-   spiritualseek.online
+-   neuphony.com
+
+──────────────────────────────────────────────────────────────
+Mantra & Chanting Apps
+──────────────────────────────────────────────────────────────
+-   sattva.life
+-   ichant.in
+-   mantra.app
+-   mantrameditation.com
+-   kirtankriya.com
+-   www.sattva.life
+-   app.sattva.life
+
+──────────────────────────────────────────────────────────────
+Prayer Bead & Mala Apps
+──────────────────────────────────────────────────────────────
+-   japamala.app
+-   malacounter.app
+-   www.japamala.app
+-   www.malacounter.app
+
+════════════════════════════════════════════════════════════════
+⛪ MORMON / LDS APPS
+════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────
+Gospel Library (LDS #1!)
+──────────────────────────────────────────────────────────────
+-   churchofjesuschrist.org
+-   www.churchofjesuschrist.org
+-   study.churchofjesuschrist.org
+-   mobile.churchofjesuschrist.org
+-   org.lds.ldssa
+
+──────────────────────────────────────────────────────────────
+Book of Mormon App
+──────────────────────────────────────────────────────────────
+-   org.lds.bookofmormon
+
+──────────────────────────────────────────────────────────────
+FamilySearch Tree 
+──────────────────────────────────────────────────────────────
+-   familysearch.org
+-   www.familysearch.org
+-   www.familysearch.org/tree
+-   org.familysearch.mobile
+-   developers.familysearch.org
+-   wiki.familysearch.org
+-   apibeta.familysearch.org
+-   api.familysearch.org
+-   gedcomx.org
+-   memories.familysearch.org
+-   beta.familysearch.org
+
+──────────────────────────────────────────────────────────────
+Gospel Living
+──────────────────────────────────────────────────────────────
+-   churchofjesuschrist.org/learn/mobile-applications/gospel-living
+-   org.lds.gospelliving
+
+──────────────────────────────────────────────────────────────
+JustServe
+──────────────────────────────────────────────────────────────
+-   justserve.org
+-   www.justserve.org
+-   org.lds.justserve
+
+──────────────────────────────────────────────────────────────
+Tabernacle Choir (closed 2024)
+──────────────────────────────────────────────────────────────
+-   thetabernaclechoir.org
+-   www.thetabernaclechoir.org
+
+──────────────────────────────────────────────────────────────
+ScripturePlus (Book of Mormon Central)
+──────────────────────────────────────────────────────────────
+-   scriptureplus.org
+-   www.scriptureplus.org
+-   scripturecentral.org
+-   bookofmormoncentral.org
+-   com.nuvek.scriptureplus
+
+════════════════════════════════════════════════════════════════
+🕌 HAJJ APPS 
+════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────
+Hajj / Umrah Apps
+──────────────────────────────────────────────────────────────
+-   hajjguide.app
+-   umrahguide.app
+-   manasikana.com
+-   manasikana.sa
+-   hajjcompanion.com
+-   www.hajjguide.app
+-   www.manasikana.sa
+
+──────────────────────────────────────────────────────────────
+⚠️ Saudi government's mandatory hajj pilgrimage tracking application; state surveillance tool.
+──────────────────────────────────────────────────────────────
+-   tawakkalna.sdaia.gov.sa
+-   tawakkalna.sa
+-   www.tawakkalna.sa
+-   my.gov.sa
+-   sdaia.gov.sa
+-   absher.sa
+-   nafath.sa
+-   nusuk.sa
+-   nusuk.com
+-   www.nusuk.sa
+-   api.nusuk.sa
+-   hajj.nusuk.sa
+-   umrah.nusuk.sa
+-   services.nusuk.sa
+-   eatmarna.sa
+-   ta.sdaia.gov.sa
+-   api.tawakkalna.sa
+-   haj.gov.sa
+-   ehsan.sa
+
+──────────────────────────────────────────────────────────────
+Christian Pilgrimage
+──────────────────────────────────────────────────────────────
+-   caminodesantiago.me
+-   gronze.com
+-   buen-camino.net
+-   caminoguides.com
+-   lourdes-france.org
+-   vatican.va
+-   vatican.com
+-   clicktopray.org
+-   www.caminodesantiago.me
+-   www.lourdes-france.org
+-   www.vatican.va
+
+════════════════════════════════════════════════════════════════
+🕌 Other Religious Apps
+════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────
+Baha'i Prayers 
+──────────────────────────────────────────────────────────────
+-   bahaiprayers.net
+-   www.bahaiprayers.net
+-   bahaiprayers.org
+-   bahaiprayers.io
+-   net.bahaiprayers.app
+
+──────────────────────────────────────────────────────────────
+Jain Apps
+──────────────────────────────────────────────────────────────
+-   jainelibrary.org
+-   jainworld.com
+
+──────────────────────────────────────────────────────────────
+Parsi Apps
+──────────────────────────────────────────────────────────────
+-   avesta.org
+-   www.avesta.org
+-   zoroastrians.net
+-   www.zoroastrians.net
+-   parsikhabar.net
+
+──────────────────────────────────────────────────────────────
+Shinto Apps
+──────────────────────────────────────────────────────────────
+-   kami-shrine.com
+-   www.kami-shrine.com
