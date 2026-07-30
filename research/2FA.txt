@@ -1,0 +1,827 @@
+🔐 TWO-FACTOR AUTH (2FA) APPS RESEARCH LIST
+
+🔴 CLOUD-BASED 2FA APPS
+Authy (Twilio) ⚠️⚠️
+
+Core functionality:
+api.authy.com
+dial.authy.com
+authy.com
+authy.net
+www.authy.com
+device.authy.com
+
+Parent company (Twilio):
+api.twilio.com
+twilio.com
+www.twilio.com
+s.twilio.com
+verify.twilio.com
+api.verify.twilio.com
+status.twilio.com 
+console.twilio.com 
+help.twilio.com
+media.twilio.com 
+insights.twilio.com
+security.twilio.com 
+
+Analytics (BLOCK THESE!):
+segment.io
+api.segment.io
+cdn.segment.com
+analytics.authy.com
+segment.com
+eu1.api.segmentapis.com
+
+SendGrid (Email Infrastructure):
+sendgrid.com
+api.sendgrid.com
+sendgrid.net
+eu.sendgrid.net
+api.eu.sendgrid.com
+
+Google Authenticator ⚠️⚠️
+
+Core functionality:
+googleapis.com
+accounts.google.com
+gstatic.com
+android.clients.google.com
+www.googleapis.com
+fcm.googleapis.com
+firebaseauth.googleapis.com
+identitytoolkit.googleapis.com
+
+Analytics 
+google-analytics.com
+ssl.google-analytics.com
+app-measurement.com
+firebase.google.com
+firebaseio.com
+firebaselogging-pa.googleapis.com
+firebaseinstallations.googleapis.com
+fcmtoken.googleapis.com
+firebase-settings.crashlytics.com
+device-provisioning.googleapis.com
+Firebase Additional Domains:
+firebaseremoteconfig.googleapis.com
+firebaseremoteconfigrealtime.googleapis.com
+firebase.googleapis.com
+firebaseappcheck.googleapis.com
+firebasestorage.googleapis.com
+*.firebaseapp.com
+*.firebaseio.com
+cdn.firebase.com
+www.gstatic.com
+
+Microsoft Authenticator ⚠️
+Core functionality:
+
+login.microsoftonline.com
+api.microsoftonline.com
+account.microsoft.com
+microsoft.com
+login.live.com
+api.login.microsoftonline.com
+graph.microsoft.com
+api.login.live.com
+*.login.microsoft.com
+enterpriseregistration.windows.net
+sts.windows.net
+*.sts.windows.net 
+login.windows.net 
+*.msauth.net 
+msauth.net 
+*.live.com 
+*.microsoftonline.com
+*.onmicrosoft.com 
+*.microsoft.com 
+device.login.microsoftonline.com 
+autologon.microsoftazuread-sso.com 
+
+Analytics
+telemetry.microsoft.com
+api.microsoft.com
+vortex.data.microsoft.com
+watson.telemetry.microsoft.com
+events.data.microsoft.com
+v10.events.data.microsoft.com
+
+Azure AD CDN:
+*.aadcdn.msftauth.net
+*.aadcdn.msftauthimages.net
+*.aadcdn.msauthimages.net
+*.logincdn.msftauth.net
+*.msauth.net
+*.aadcdn.microsoftonline-p.com
+*.microsoftonline-p.com
+
+Azure Management:
+management.azure.com
+*.ext.azure.com
+*.graph.windows.net
+hosting.partners.azure.net
+*.bmx.azure.com
+*.subscriptionrp.trafficmanager.net
+*.signup.azure.com
+
+Azure AD B2C:
+*.b2clogin.com
+b2clogin.com
+Additional:
+config.office.com
+*.aad.azure.com
+*.aadconnecthealth.azure.com
+ad.azure.com
+api.aadrm.com
+appmanagement.activedirectory.microsoft.com
+iap.googleapis.com
+
+Duo Mobile (Cisco) ⚠️
+
+Core functionality:
+duosecurity.com
+duo.com
+api.duosecurity.com
+api-*.duosecurity.com
+www.duosecurity.com
+api-eval.duosecurity.com
+admin.duosecurity.com
+dl.duosecurity.com 
+*.login.duosecurity.com 
+login.duosecurity.com
+1.endpointhealth.duosecurity.com 
+2.endpointhealth.duosecurity.com 
+3.endpointhealth.duosecurity.com 
+duofederal.com 
+*.duofederal.com 
+admin.duofederal.com 
+
+Analytics
+cisco.com
+mixpanel.com
+api.mixpanel.com
+analytics.duosecurity.com
+telemetry.duosecurity.com
+
+Ente Auth ✅✅✅
+Core functionality:
+ente.io
+auth.ente.io
+api.ente.io
+my.ente.io
+custom-albums.ente.io
+albums.ente.io
+accounts.ente.io
+cast.ente.io
+photos.ente.io 
+help.ente.io 
+status.ente.io 
+public.ente.io 
+ghcr.io/ente-io/server 
+
+🟢 OPEN-SOURCE 2FA APPS (RECOMMENDED)
+
+Aegis Authenticator ✅✅✅
+Official sites:
+github.com/beemdevelopment/Aegis
+getaegis.app
+beemdevelopment.github.io
+Icon packs (3rd party):
+icons.raivo-otp.com
+NO TRACKING DOMAINS - Fully offline app
+
+Raivo OTP ✅✅✅
+Official sites:
+github.com/raivo-otp/ios-application
+raivo-otp.com
+iCloud sync (OPTIONAL - E2E encrypted):
+icloud.com
+icloud-content.com
+Icon repository:
+icons.raivo-otp.com
+NO tracking
+
+andOTP ✅ [DISCONTINUED - 2021-2022]
+github.com/andOTP/andOTP
+NO tracking domains 
+
+FreeOTP ✅
+github.com/freeotp
+freeotp.github.io
+fedorahosted.org/freeotp
+NO tracking domains
+
+Tofu ✅
+github.com/iKenndac/Tofu
+tofuauth.com
+NO tracking domains
+
+OTP Auth (iOS) ✅
+github.com/mattrubin/Authenticator
+NO tracking
+
+Stratum (Authenticator Pro) ✅✅✅
+
+Official sites:
+stratumauth.com
+www.stratumauth.com
+
+GitHub:
+github.com/stratumauth
+github.com/stratumauth/app
+github.com/stratumauth/icons
+github.com/stratumauth/zxing
+github.com/stratumauth/sqlcipher
+github.com/stratumauth/website
+
+F-Droid:
+apt.izzysoft.de/fdroid/index/apk/com.stratumauth.app
+NO TRACKING DOMAINS 
+
+2FAS ⚠️
+
+Official sites:
+2fas.com
+github.com/twofas
+support.2fas.com
+2fas.com/discord
+
+Core:
+api.2fas.com
+storage.2fas.com 
+browser.2fas.com 
+
+Firebase Analytics 
+firebaselogging-pa.googleapis.com
+firebaseinstallations.googleapis.com
+firebase-settings.crashlytics.com
+fcmtoken.googleapis.com
+device-provisioning.googleapis.com
+crashlytics.com 
+
+Step Two ✅
+steptwo.app
+iCloud sync (optional):
+icloud.com
+icloud-content.com
+NO third-party analytics
+
+Bitwarden Authenticator ⚠️
+
+Core:
+bitwarden.com
+bitwarden.net
+bitwarden.eu
+btwrdn.co
+btwrdn.com 
+vault.bitwarden.com
+vault.bitwarden.eu
+api.bitwarden.com
+api.bitwarden.eu
+identity.bitwarden.com
+identity.bitwarden.eu
+events.bitwarden.com
+events.bitwarden.eu
+icons.bitwarden.net
+cdn.bitwarden.net
+cdn.bitwarden.com 
+push.bitwarden.com
+push.bitwarden.eu
+scim.bitwarden.com
+scim.bitwarden.eu
+sso.bitwarden.com
+sso.bitwarden.eu
+notifications.bitwarden.com 
+Infrastructure:
+func.bitwarden.com
+artifacts.bitwarden.com
+selfhost.bitwarden.com
+ghcr.io/bitwarden
+contributing.bitwarden.com
+start.bitwarden.com
+go.bitwarden.com 
+assets.bitwarden.com
+charts.bitwarden.com 
+
+3rd Party 
+api.pwnedpasswords.com
+haveibeenpwned.com 
+www.gravatar.com 
+js.stripe.com 
+q.stripe.com 
+api.stripe.com 
+stripe.com 
+appcenter.ms 
+*.appcenter.ms 
+GitHub:
+github.com/bitwarden
+
+Proton Authenticator ✅
+Core:
+proton.me
+account.proton.me
+api.proton.me
+protonmail.com
+pm.me
+protonvpn.com 
+protonmail.ch 
+mail.protonmail.ch 
+mailsec.protonmail.ch
+protonstatus.com
+status.proton.me 
+simplelogin.io 
+proton.black 
+Support:
+proton.me/support
+proton.me/blog
+F-Droid:
+f-droid.org
+
+LastPass Authenticator ⚠️
+Core:
+lastpass.com
+lastpass.eu
+accounts.lastpass.com
+auth.lastpass.com 
+loglogin.lastpass.com 
+pollserver.lastpass.com 
+web-analytics.lastpass.com 
+data.product.lastpass.com
+*.lastpass.com 
+*.lastpass.eu 
+logmeininc.com 
+authentication.logmeininc.com 
+*.logmein.com 
+GitHub:
+github.com/lastpass
+
+Authman ✅
+authman.simular.co
+simular.co
+GitHub:
+github.com/simular/authman-app
+github.com/simular/authman-server
+
+Sentinel 2FA ✅
+getsentinel.io
+iCloud Sync (optional):
+icloud.com
+icloud-content.com
+
+WinAuth ✅ [DISCONTINUED - 2017]
+winauth.github.io
+github.com/winauth/winauth
+NO tracking - Fully offline
+
+Daito Authenticator ⚠️
+daito.io
+daito.one
+www.daito.io
+app.daito.io 
+api.daito.io 
+mobile.daito.io 
+elster-intelligence.com 
+
+SAASPASS ⚠️
+saaspass.com
+www.saaspass.com
+developers.saaspass.com
+developer.saaspass.com 
+app.saaspass.com 
+enterprise.saaspass.com
+
+Protectimus ⚠️
+protectimus.com
+www.protectimus.com
+service.protectimus.com 
+api.protectimus.com 
+Integrations:
+protectimus.com/integrations
+protectimus.com/guides
+
+TOTP Authenticator (BinaryBoot) ⚠️
+binaryboot.com
+www.binaryboot.com
+Extension & Premium:
+binaryboot.com/extension/connect
+binaryboot.com/totp-authenticator
+Firebase (Premium Cloud Sync - BLOCK!):
+totpauthenticator.firebaseapp.com
+firebaseio.com
+Google APIs:
+googleapis.com
+google.com
+
+2Stable Authenticator App ⚠️
+2stable.com
+authenticator.2stable.com
+help.2stable.com
+2stable.com/blog
+Analytics
+api.amplitude.com 
+cdn.amplitude.com 
+amplitude.com 
+api2.amplitude.com 
+iCloud Sync (E2E encrypted):
+icloud.com
+icloud-content.com
+GitHub:
+github.com/2stable
+
+🏢 ENTERPRISE 2FA SOLUTIONS
+
+Okta Verify ⚠️⚠️
+Core functionality:
+okta.com
+okta.net
+login.okta.com
+api.okta.com
+*.okta.com
+*.oktacdn.com
+*.okta-emea.com
+*.oktapreview.com
+polaris.me
+okta-gov.com
+*.mtls.okta.com 
+*.mtls.oktapreview.com
+*.mtls.okta-emea.com 
+*.kerberos.okta.com
+*.kerberos.okta-emea.com
+*.kerberos.oktapreview.com
+auth0.com 
+*.auth0.com 
+cdn.auth0.com
+Analytics 
+mixpanel.com
+api.mixpanel.com
+segment.io
+api.segment.io
+analytics.okta.com
+telemetry.okta.com
+
+RSA SecurID ⚠️
+rsa.com
+securid.com
+api.rsa.com
+cloud.rsa.com
+api.securid.com
+access.securid.com
+help.access.securid.com
+id.rsa.com
+mypage.securid.com
+*.securid.com
+idplus.rsa.com
+community.rsa.com 
+docs.rsa.com 
+support.rsa.com 
+Analytics:
+dell.com
+analytics.rsa.com
+telemetry.access.securid.com
+
+Symantec VIP (Broadcom) ⚠️
+vip.symantec.com
+idprotect.vip.symantec.com
+api.vip.symantec.com
+vip-services.symantec.com
+services.vip.symantec.com
+services-auth.vip.symantec.com
+userservices-auth.vip.symantec.com
+goidservices-auth.vip.symantec.com
+manager.vip.symantec.com
+my.vip.symantec.com
+ssp.vip.symantec.com
+login.vip.symantec.com
+oidc.vip.symantec.com
+oidc2.vip.symantec.com
+api-auth.vip.symantec.com
+userservices.vip.symantec.com 
+enrollservice.vip.symantec.com
+tokenservice.vip.symantec.com 
+authservice.vip.symantec.com 
+pushnotifications.vip.symantec.com 
+isacservice.vip.symantec.com
+idenprotect.vip.symantec.com 
+LiveUpdate:
+liveupdate.symantecliveupdate.com
+liveupdate.symantec.com
+verisign.com 
+Parent company:
+broadcom.com
+techdocs.broadcom.com 
+knowledge.broadcom.com 
+
+OneLogin ⚠️
+onelogin.com
+*.onelogin.com
+api.onelogin.com
+login.onelogin.com
+cdn.onelogin.com 
+portal-cdn.onelogin.com 
+admin.us.onelogin.com 
+api.us.onelogin.com 
+smux.us.onelogin.com 
+certs.us.onelogin.com
+radius.us.onelogin.com
+radius2.us.onelogin.com 
+ldap.us.onelogin.com 
+pki-us.onelogin.com
+desktop-us.onelogin.com 
+admin.eu.onelogin.com 
+api.eu.onelogin.com
+api-eu.onelogin.com
+smux.eu.onelogin.com 
+radius.eu.onelogin.com 
+ldap.eu.onelogin.com 
+pki-eu.onelogin.com 
+desktop-eu.onelogin.com
+certs.eu.onelogin.com 
+events.us.onelogin.com 
+events.eu.onelogin.com 
+status.onelogin.com 
+OIDC/OAuth Endpoints:
+*.onelogin.com/oidc/2/auth
+*.onelogin.com/oidc/2/token
+*.onelogin.com/oidc/2/certs
+*.onelogin.com/oidc/2/token/introspection
+*.onelogin.com/session_via_api_token
+
+Zoho OneAuth ⚠️
+Core functionality:
+zoho.com
+accounts.zoho.com
+oneauth.zoho.com
+zoho.com/analytics
+Regional API domains:
+zohoapis.com
+zohoapis.eu
+zohoapis.in
+zohoapis.com.au
+zohoapis.jp
+zohoapis.ca 
+zohoapis.com.cn 
+Regional Accounts:
+accounts.zoho.com
+accounts.zoho.eu
+accounts.zoho.in
+accounts.zoho.com.au
+accounts.zoho.jp
+accounts.zoho.ca 
+accounts.zoho.com.cn 
+CDN:
+static.zohocdn.com
+zohocdn.com
+zohostatic.com 
+API Console:
+api-console.zoho.com
+api-console.zoho.eu
+api-console.zoho.in
+api-console.zoho.com.au
+api-console.zoho.jp
+
+Ping Identity ⚠️
+Core functionality:
+pingidentity.com
+pingone.com
+api.pingone.com
+sdk.pingid.com
+pingfederate.com
+pingid.com
+myping.com 
+downloads.pingidentity.com 
+developer.pingidentity.com 
+neo.pingidentity.com 
+PingOne Regional API:
+api.pingone.com
+api.pingone.eu
+api.pingone.asia
+api.pingone.ca
+Auth endpoints:
+auth.pingone.com
+auth.pingone.eu
+auth.pingone.asia
+auth.pingone.ca
+Admin & Services:
+admin.pingone.com
+apps.pingone.com 
+console.pingone.com 
+directory.pingone.com 
+orchestrate.pingone.com 
+protect.pingone.com 
+verify.pingone.com 
+mfa.pingone.com 
+davinci.pingone.com
+authorize.pingone.com 
+credentials.pingone.com 
+Authenticator endpoints:
+authenticator.pingone.com
+authenticator.pingone.eu
+authenticator.pingone.asia
+Advanced Identity Cloud:
+*.forgeblocks.com
+*.forgerock.com
+
+FortiToken (Fortinet) ⚠️
+fortinet.com
+fortitoken.com
+forticloud.com
+*.forticloud.com
+ftc.fortinet.com
+fortiidentity.com
+fortiauthenticator.com
+support.fortinet.com 
+directregistration.fortinet.com 
+fortiguard.com 
+*.fortiguard.com 
+forticare.com 
+docs.fortinet.com 
+community.fortinet.com 
+
+SecureAuth ⚠️
+secureauth.com
+api.secureauth.com
+*.connect.secureauth.com
+*.cloud.secureauth.com
+*.svc.secureauth.com
+idprotect.secureauth.com
+arculix.com 
+*.arculix.com 
+sso.acceptto.com 
+*.acceptto.com 
+cloudentity.com 
+*.cloudentity.com
+idaas.secureauth.com 
+docs.secureauth.com 
+support.secureauth.com 
+
+🔐 HARDWARE KEY MANUFACTURERS
+
+YubiKey (Yubico) ✅ 
+yubico.com
+yubico.net
+api.yubico.com
+www.yubico.com
+console.yubico.com
+api2.yubico.com
+api3.yubico.com
+api4.yubico.com
+api5.yubico.com
+status.yubico.com
+demo.yubico.com
+developers.yubico.com
+docs.yubico.com
+support.yubico.com
+upgrade.yubico.com
+my.yubico.com
+store.yubico.com 
+community.yubico.com
+downloads.yubico.com
+GitHub:
+github.com/Yubico
+NO TRACKING
+
+Yubico Authenticator ✅✅✅ (Hardware-supported app)
+
+Google Titan Security Key ✅
+store.google.com
+NO app - hardware only
+
+SoloKeys ✅ OPEN-SOURCE
+solokeys.com
+solokeys.net
+github.com/solokeys
+update.solokeys.com
+docs.solokeys.dev
+NO tracking
+
+OnlyKey ✅ 
+onlykey.io
+crp.to
+github.com/trustcrypto
+apps.crp.to
+docs.crp.to
+docs.onlykey.io
+
+Nitrokey ✅ OPEN-SOURCE
+nitrokey.com
+nitrokey.net
+api.nitrokey.com
+github.com/Nitrokey
+docs.nitrokey.com
+nethsmdemo.nitrokey.com
+shop.nitrokey.com
+NO tracking! ✅
+
+Thetis ⚠️
+thetis.io
+ewbm.com
+shop.thetis.io 
+support.thetis.io 
+
+Token2 ⚠️
+token2.com
+token2.net
+token2.swiss
+download.token2.com
+shop.token2.com
+
+Feitian ⚠️
+ftsafe.com
+ftsafe.us
+fido.ftsafe.com
+download.ftsafe.com
+support.ftsafe.com
+shop.ftsafe.us 
+
+HyperFIDO ⚠️
+hypersecu.com
+shop.hypersecu.com 
+support.hypersecu.com 
+📱 PLATFORM-NATIVE 2FA
+
+Apple Keychain 2FA (iOS 15+) ⚠️
+Built-in to iOS/macOS:
+icloud.com
+icloud-content.com
+apple.com
+p*.icloud.com
+gateway.icloud.com
+setup.icloud.com
+
+Google Password Manager 2FA (Android) ⚠️⚠️
+Built-in to Chrome/Android:
+passwords.google.com
+google.com
+secretmanager.googleapis.com
+myaccount.google.com
+accounts.google.com 
+*.googleapis.com 
+*.gstatic.com 
+*.1e100.net 
+*.gvt1.com 
+edgedl.me.gvt1.com
+ssl.gstatic.com 
+www.gstatic.com 
+accounts.gstatic.com 
+play.google.com 
+dl.google.com 
+Analytics
+google-analytics.com
+
+🔗 2FA SERVICE PROVIDERS (Backend)
+
+Twilio Authy API ⚠️⚠️
+api.twilio.com
+authy.com
+Analytics 
+segment.io
+Firebase Authentication (Google) ⚠️
+firebase.google.com
+firebaseio.com
+identitytoolkit.googleapis.com
+securetoken.googleapis.com
+oauth2.googleapis.com
+accounts.google.com/o/oauth2/auth
+Service accounts:
+www.googleapis.com/service_accounts/v1/metadata/x509/securetoken@system.gserviceaccount.com
+www.googleapis.com/robot/v1/metadata/x509/
+Analytics (BLOCK!):
+app-measurement.com
+firebase-settings.crashlytics.com
+firebaseauth.googleapis.com
+
+🌐 PASSKEY / FIDO2 SERVICES
+Passkeys.dev ✅
+passkeys.dev
+webauthn.io
+webauthn.me
+fidoalliance.org
+webauthn.guide
+NO tracking
+
+Hanko ⚠️
+hanko.io
+github.com/teamhanko
+api.hanko.io
+*.hanko.cloud
+docs.hanko.io
+passkeys.io
+cloud.hanko.io 
+console.hanko.io 
+app.hanko.io 
+cdn.hanko.io 
+
+Corbado ⚠️
+corbado.com
+api.corbado.com
+*.corbado.com
+frontendapi.corbado.com
+backendapi.corbado.com
+*.frontendapi.corbado.io 
+*.backendapi.corbado.io 
+pro.corbado.com
+app.corbado.com 
+docs.corbado.com 
+auth.corbado.com 
+github.com/corbado
