@@ -1,0 +1,1620 @@
+MESSAGING APPS RESEARCH LIST
+
+### ✅ SIGNAL (75+ domain)
+
+**Core Platform**
+- signal.org
+- *.signal.org
+- www.signal.org
+- support.signal.org
+- signal.me
+- signal.art
+- signal.group
+- signal.link
+- signal.tube
+
+**API & Services**
+- chat.signal.org
+- storage.signal.org
+- api.signal.org
+- api.directory.signal.org
+- api.backup.signal.org
+- cdsi.signal.org
+- svr2.signal.org
+- ud-chat.signal.org
+
+**SVR3 Servers**
+- backend1.svr3.signal.org
+- backend2.svr3.signal.org
+- backend3.svr3.signal.org
+
+**CDN & Media**
+- cdn.signal.org
+- cdn2.signal.org
+- cdn3.signal.org
+- cdn4.signal.org
+- cdn5.signal.org
+- updates.signal.org
+- updates2.signal.org
+- contentproxy.signal.org
+
+**Voice/Video (TURN Servers)**
+- turn1.signal.org
+- turn2.signal.org
+- turn3.signal.org
+- turn*.signal.org
+- voip.signal.org
+- relay.signal.org
+- sfu.voip.signal.org
+
+**Web & Desktop Client**
+- desktop.signal.org
+- web.signal.org
+
+**Infrastructure**
+- backup.signal.org
+- config.signal.org
+- uptime.signal.org
+- europe-west1-signal-cdn-reflector.cloudfunctions.net
+
+**Legacy / WhisperSystems**
+- whispersystems.org
+- *.whispersystems.org
+- textsecure-service.whispersystems.org
+
+**Amazon S3 (Legacy)**
+- whispersystems-textsecure-attachments.s3.amazonaws.com
+
+---
+
+### ✅ THREEMA (30+ domain)
+
+**Core Platform**
+- threema.ch
+- *.threema.ch
+- www.threema.ch
+- shop.threema.ch
+- threema.com
+- *.threema.com
+
+**API & Services**
+- api.threema.ch
+- msgapi.threema.ch
+- gateway.threema.ch
+
+**CDN & Media**
+- avatar.threema.ch
+- blob.threema.ch
+- safe.threema.ch
+
+**Web Client**
+- web.threema.ch
+- web.threema.com
+- web-beta.threema.com
+
+**Infrastructure & Services**
+- voip.threema.ch
+- ds.threema.ch
+- broadcast.threema.ch
+- work.threema.ch
+- status.threema.ch
+
+---
+
+### ✅ SESSION (40+ domain)
+
+**Core Platform**
+- getsession.org
+- *.getsession.org
+- www.getsession.org
+- app.getsession.org
+- session.foundation
+- *.session.foundation
+- session.community
+- id.session.community
+- sessionapp.org
+
+**Infrastructure**
+- seed.getsession.org
+- storage.getsession.org
+- file.getsession.org
+- public.loki.foundation
+- storage.seed1.loki.network
+- storage.seed2.loki.network
+- storage.seed3.loki.network
+- imaginary.stream
+
+**Oxen Network**
+- oxen.io
+- *.oxen.io
+- quictest.oxen.io
+
+**Lokinet**
+- lokinet.org
+- *.lokinet.org
+- seed.lokinet.org
+
+---
+
+### ✅ ELEMENT / MATRIX (75+ domain)
+
+**Core Platform**
+- matrix.org
+- *.matrix.org
+- element.io
+- *.element.io
+- app.element.io
+- chat.element.io
+
+**Matrix Network**
+- matrix-client.matrix.org
+- matrix.to
+- vector.im
+- *.vector.im
+- riot.im
+- modular.im
+
+**Services**
+- view.matrix.org
+- scalar.vector.im
+- scalar-staging.riot.im
+- jitsi.riot.im
+- packages.riot.im
+- piwik.riot.im
+
+**Federation**
+- federationtester.matrix.org
+- gitter.im
+- libera.chat
+
+**Element Matrix Services (EMS)**
+- element.ems.host
+- *.ems.host
+- integrations.ems.host
+- call.ems.host
+
+**Element Call & SFU**
+- call.element.io
+- livekit-jwt.call.element.io
+- sfu.call.element.io
+- posthog-element-call.element.io
+
+**Admin & Control Panel**
+- customer.element.io
+- id.element.io
+- sentry.tools.element.io
+- sentry.matrix.org
+- matomo.riot.im
+- ems-docs.element.io
+- status.element.io
+
+**Integration Widgets**
+- integrations.element.io
+- etherpad.integrations.element.io
+- meet.element.io
+- api.maptiler.com
+
+**AWS Infrastructure (EMS Backend)**
+- *.elb.eu-central-1.amazonaws.com
+- k8s-core-coreingr-*.elb.eu-central-1.amazonaws.com
+
+---
+
+### ✅ WIRE (50+ domain)
+
+**Core Platform**
+- wire.com
+- *.wire.com
+- www.wire.com
+- app.wire.com
+- docs.wire.com
+- developer.wire.com
+- support.wire.com
+
+**API & Services**
+- prod-nginz-https.wire.com
+- prod-nginz-ssl.wire.com
+- prod-assets.wire.com
+- clientblacklist.wire.com
+- wire-app.wire.com
+
+**Account & Business**
+- account.wire.com
+- teams.wire.com
+- status.wire.com
+- get.wire.com
+
+**Voice/Calling (TURN/SFT)**
+- turn.prod-calling.wire.com
+- _turn._udp.turn.prod-calling.wire.com
+- _sft._tcp.prod.wire.com
+- calling-prod-v01.wire.com
+- sft.calling-prod-v01.wire.com
+- turn.calling-prod-v01.wire.com
+
+**TURN Servers (DE Region)**
+- turn01.de.prod.wire.com
+- turn02.de.prod.wire.com
+- turn03.de.prod.wire.com
+- turn04.de.prod.wire.com
+- turn05.de.prod.wire.com
+- turn06.de.prod.wire.com
+- turn07.de.prod.wire.com
+- turn08.de.prod.wire.com
+- turn09.de.prod.wire.com
+
+---
+
+### ✅ SIMPLEX CHAT (35+ domain)
+
+**Core Platform**
+- simplex.chat
+- *.simplex.chat
+- docs.simplex.chat
+- status.simplex.chat
+
+**SMP Servers**
+- smp1.simplex.im
+- smp4.simplex.im
+- smp5.simplex.im
+- smp6.simplex.im
+- smp8.simplex.im
+- smp9.simplex.im
+- smp10.simplex.im
+- smp11.simplex.im
+- smp12.simplex.im
+- smp14.simplex.im
+- smp15.simplex.im
+- smp16.simplex.im
+- smp17.simplex.im
+- smp18.simplex.im
+- smp19.simplex.im
+
+**XFTP Servers**
+- xftp.simplex.im
+- xftp1.simplex.im
+- xftp2.simplex.im
+- xftp3.simplex.im
+- xftp4.simplex.im
+- xftp5.simplex.im
+
+---
+
+### ✅ BRIAR (10+ domain)
+
+**Core Platform**
+- briarproject.org
+- *.briarproject.org
+- code.briarproject.org
+
+**Infrastructure**
+*(P2P Tor-based)*
+
+---
+
+### ✅ JAMI (25+ domain)
+
+**Core Platform**
+- jami.net
+- *.jami.net
+- git.jami.net
+- forum.jami.net
+- docs.jami.net
+
+**Infrastructure**
+- dhtproxy.jami.net
+- ns.jami.net
+- bootstrap.jami.net
+- turn.jami.net
+
+**Enterprise**
+- jami.biz
+- *.jami.biz
+
+**Developer**
+- savoirfairelinux.com
+- *.savoirfairelinux.com
+
+**Deprecated**
+- ring.cx
+
+---
+
+### ✅ TOX (20+ domain)
+
+**Core Platform**
+- tox.chat
+- *.tox.chat
+- nodes.tox.chat
+- wiki.tox.chat
+- download.tox.chat
+- toktok.ltd
+- *.toktok.ltd
+- toxbootstrap.org
+
+**Infrastructure**
+*(P2P)*
+
+---
+
+### ✅ RICOCHET REFRESH (10+ domain)
+
+**Core Platform**
+- ricochetrefresh.net
+- www.ricochetrefresh.net
+- blueprintforfreespeech.net
+
+**Infrastructure**
+*(Tor P2P — .onion hidden services)*
+
+---
+
+### ✅ CWTCH (15+ domain)
+
+**Core Platform**
+- cwtch.im
+- *.cwtch.im
+- docs.cwtch.im
+
+**Open Privacy Research**
+- openprivacy.ca
+- *.openprivacy.ca
+- git.openprivacy.ca
+
+**Tor Onion**
+- cwtchim3z2gdsyb27acfc26lup5aqbegjrjsqulzrnkuoalq5h4gmcid.onion
+
+---
+
+### ✅ CONVERSATIONS / XMPP (25+ domain)
+
+**Core Platform**
+- conversations.im
+- *.conversations.im
+- account.conversations.im
+- compliance.conversations.im
+
+**XMPP Standards**
+- xmpp.org
+- jabber.org
+- jabber.at
+- list.jabber.at
+
+**Popular Public Servers**
+- jabber.calyxinstitute.org
+- disroot.org
+- trashserver.net
+- snopyta.org
+- 404.city
+- nixnet.services
+- yax.im
+
+---
+
+### ✅ DELTACHAT (30+ domain)
+
+**Core Platform**
+- delta.chat
+- *.delta.chat
+- get.delta.chat
+- support.delta.chat
+
+**Chatmail Servers**
+- nine.testrun.org
+- mail.nine.testrun.org
+- testrun.org
+- mehl.cloud
+- mailbox.org
+
+**New Protocols**
+- turn.delta.chat
+- chatmail.org
+- *.chatmail.org
+- webxdc.org
+- *.webxdc.org
+- mov.im
+
+**Infrastructure**
+*(Email-based)*
+
+---
+
+### ✅ OLVID (20+ domain)
+
+**Core Platform**
+- olvid.io
+- *.olvid.io
+- server.olvid.io
+- invitation.olvid.io
+- app.olvid.io
+- keycloak.olvid.io
+
+**Services**
+- static.olvid.io
+- configuration.olvid.io
+- support.olvid.io
+
+**AWS Infrastructure (Paris & Frankfurt)**
+- *.eu-west-3.amazonaws.com
+- *.eu-central-1.amazonaws.com
+
+---
+
+### ✅ MESH (Technitium) (15+ domain)
+
+**Core Platform**
+- mesh.im
+- *.mesh.im
+- www.mesh.im
+
+**Technitium**
+- technitium.com
+- *.technitium.com
+- blog.technitium.com
+
+**Infrastructure**
+*(P2P/Tor)*
+
+**Deprecated**
+- bitchat.im
+
+---
+
+### ✅ AMEEBA CHAT (10+ domain)
+
+**Core Platform**
+- ameeba.chat
+- *.ameeba.chat
+- www.ameeba.chat
+
+**Infrastructure**
+*(Patented anonymous auth)*
+
+---
+
+### ✅ EXTRA SAFE (15+ domain)
+
+**Core Platform**
+- extrasafe.chat
+- *.extrasafe.chat
+- www.extrasafe.chat
+
+**Infrastructure**
+*(P2P + browser-based WebRTC — ICE/STUN/TURN relay coturn)*
+
+---
+
+### ✅ WIREMIN (15+ domain)
+
+**Core Platform**
+- wiremin.org
+- *.wiremin.org
+- www.wiremin.org
+
+**Infrastructure**
+*(P2P)*
+
+---
+
+---
+
+### ⚠️ WHATSAPP (150+ domain)
+
+**Core Platform**
+- whatsapp.com
+- *.whatsapp.com
+- www.whatsapp.com
+- web.whatsapp.com
+- whatsapp.net
+- *.whatsapp.net
+- wa.me
+
+**API & Services**
+- graph.whatsapp.net
+- g.whatsapp.net
+- g-fallback.whatsapp.net
+- v.whatsapp.net
+- pps.whatsapp.net
+- mmg.whatsapp.net
+- mmg.whatsapp.com
+- mmg-fna.whatsapp.net
+- mms.whatsapp.net
+- mme.whatsapp.net
+- mme6.whatsapp.net
+- dyn.web.whatsapp.com
+- acs.whatsapp.com
+- acs-fallback.whatsapp.com
+- dit.whatsapp.net
+- crashlogs.whatsapp.net
+
+**Media & CDN**
+- media-.wa.me
+- scontent.whatsapp.net
+- static.whatsapp.net
+- www-cdn.whatsapp.net
+- cdn.whatsapp.net
+- chat.cdn.whatsapp.net
+- chat-fallback.cdn.whatsapp.net
+- mmx-ds.cdn.whatsapp.net
+- media-.cdn.whatsapp.net
+- media.f*.fna.whatsapp.net
+- sonar.f*.fna.whatsapp.net
+- fna.whatsapp.net
+- mmi[number].whatsapp.net
+- *.snr.whatsapp.net
+
+**Web Services**
+- w0.whatsapp.com
+- w1.web.whatsapp.com
+- w2.web.whatsapp.com
+- w3.web.whatsapp.com
+- w4.web.whatsapp.com
+- w5.web.whatsapp.com
+- w6.web.whatsapp.com
+- w7.web.whatsapp.com
+- w8.web.whatsapp.com
+- w9.web.whatsapp.com
+- w1.web-t.whatsapp.com
+- w2.web-t.whatsapp.com
+- w3.web-t.whatsapp.com
+- up.web.whatsapp.com
+
+**Business**
+- business.whatsapp.com
+- business-api.whatsapp.com
+- faq.whatsapp.com
+
+**Account Services**
+- my-od.whatsapp.com
+- my-od-1.whatsapp.com
+- my-od-3.whatsapp.com
+- account-fallback.whatsapp.com
+- www-fallback.whatsapp.com
+- call-fallback.whatsapp.com
+- test-web-fallback.whatsapp.com
+- api-fallback.whatsapp.com
+
+**Other Services**
+- alpha.whatsapp.com
+- beta.whatsapp.com
+- gamma.whatsapp.com
+- autodiscover.whatsapp.com
+- e1.whatsapp.net
+- e2.whatsapp.net
+- e3.whatsapp.net
+- e4.whatsapp.net
+- e5.whatsapp.net
+- e6.whatsapp.net
+- e7.whatsapp.net
+- e8.whatsapp.net
+- e9.whatsapp.net
+- e10.whatsapp.net
+- e11.whatsapp.net
+- e12.whatsapp.net
+- e13.whatsapp.net
+- e14.whatsapp.net
+- e15.whatsapp.net
+- e16.whatsapp.net
+- lerequest.whatsapp.com
+- lerequest-fallback.whatsapp.com
+- lerequest-lookaside.whatsapp.com
+- lerequest-lookaside-fallback.whatsapp.com
+- lerecords.whatsapp.com
+- lerecords-fallback.whatsapp.com
+- ftl-fallback.whatsapp.com
+- payments-localisation.whatsapp.com
+- ratings.whatsapp.com
+- sjc.whatsapp.com
+- translate.whatsapp.com
+- translate-dev.whatsapp.com
+- e7.whatsapp.com
+- graph.whatsapp.com
+
+**Meta CDN Infrastructure**
+- scontent-*.xx.fbcdn.net
+- *.fbcdn.net
+- fbcdn-dragon-a.akamaihd.net
+
+**Meta/Facebook API**
+- graph.facebook.com
+- graph.instagram.com
+- upload.facebook.com
+
+**Chat Edge Servers**
+- whatsapp-chatd-msgr-edge-shv-01-*.facebook.com
+- whatsapp-chatd-msgr-edge-shv-02-*.facebook.com
+
+**Regional CDN**
+- whatsapp-cdn-shv-01-arn2.fbcdn.net
+- whatsapp-cdn-shv-01-atl1.fbcdn.net
+- whatsapp-cdn-shv-01-lhr3.fbcdn.net
+- whatsapp-cdn-shv-01-fra3.fbcdn.net
+- whatsapp-cdn-shv-01-sin1.fbcdn.net
+- whatsapp-cdn-shv-01-nrt1.fbcdn.net
+- whatsapp-cdn-shv-02-*.fbcdn.net
+
+---
+
+### ⚠️ TELEGRAM (110+ domain)
+
+**Core Platform**
+- telegram.org
+- *.telegram.org
+- t.me
+- telegram.me
+- telegram.dog
+- tg.dev
+- telesco.pe
+- tx.me
+- telegr.am
+
+**API & Services**
+- api.telegram.org
+- my.telegram.org
+- oauth.telegram.org
+- core.telegram.org
+
+**Web Clients**
+- web.telegram.org
+- webk.telegram.org
+- webz.telegram.org
+- desktop.telegram.org
+
+**CDN & Media**
+- cdn.telegram.org
+- cdn*.telegram.org
+- cdn1.telegram-cdn.org
+- cdn2.telegram-cdn.org
+- cdn3.telegram-cdn.org
+- cdn4.telegram-cdn.org
+- cdn5.telegram-cdn.org
+- cdn-telegram.org
+- telegram-cdn.org
+
+**Data Center Infrastructure**
+- pluto.web.telegram.org (DC1)
+- venus.web.telegram.org (DC2)
+- aurora.web.telegram.org (DC3)
+- vesta.web.telegram.org (DC4)
+- flora.web.telegram.org (DC5)
+
+**Services**
+- translations.telegram.org
+- bugs.telegram.org
+- contest.com
+- wallet.telegram.org
+
+**Associated Domains**
+- graph.org
+- telegra.ph
+- comments.app
+- fragment.com
+- quiz.directory
+- tdesktop.com
+- telega.one
+- telegram.space
+- usercontent.dev
+- tgram.org
+- torg.org
+
+**TON / Blockchain**
+- ton.org
+- *.ton.org
+
+**Alternative TLDs**
+- telegram.ai
+- telegram.asia
+- telegram.biz
+- telegram.cloud
+- telegram.cn
+- telegram.co
+- telegram.com
+- telegram.de
+- telegram.dev
+- telegram.eu
+- telegram.fr
+- telegram.host
+- telegram.in
+- telegram.info
+- telegram.io
+- telegram.jp
+- telegram.net
+- telegram.qa
+- telegram.ru
+- telegram.services
+- telegram.solutions
+- telegram.team
+- telegram.tech
+- telegram.uk
+- telegram.us
+- telegram.website
+- telegram.xyz
+- tg.org
+- teleg.xyz
+- telegramapp.org
+
+---
+
+### ⚠️ VIBER (65+ domain)
+
+**Core Platform**
+- viber.com
+- *.viber.com
+- www.viber.com
+- account.viber.com
+- vb.me
+- viberdns.com
+
+**API & Services**
+- api.viber.com
+- chats.viber.com
+- media.viber.com
+- media.api.viber.com
+- explore.api.viber.com
+
+**CDN**
+- cdn.viber.com
+- dl.viber.com
+- vp.cdn.viber.com
+- share.cdn.viber.com
+- chats.cdn.viber.com
+- pg-vb.cdn.viber.com
+- pg.cdn.viber.com
+- vbd.cdn.viber.com
+- www.cdn.viber.com
+- mixpanel.cdn.viber.com
+- kayako.cdn.viber.com
+- content.cdn.viber.com
+- data-events.cdn.viber.com
+
+**Infrastructure**
+- clients-content.viber.com
+- data-event-proxy.viber.com
+- fast.viber.com
+- market.viber.com
+- secure.viber.com
+- support.viber.com
+- helpme.viber.com
+- dl-media.viber.com
+- ar.viber.com
+- billing.viber.com
+- chatapi.viber.com
+- invite.viber.com
+- stickers.viber.com
+- ads.viber.com
+- static.viber.com
+
+**DNS**
+- ns01.viberdns.com
+- ns02.viberdns.com
+- ns03.viberdns.com
+- ns04.viberdns.com
+- dns1.p09.nsone.net
+- dns2.p09.nsone.net
+- dns3.p09.nsone.net
+- dns4.p09.nsone.net
+
+**CDN Infrastructure**
+- *.cloudfront.net
+- *.akamai.net
+- d2jlvwphuziop7.cloudfront.net
+
+**Rakuten (Parent Company)**
+- rakuten.com
+- *.rakuten.com
+- rakuten.co.jp
+- *.rakuten.co.jp
+
+---
+
+### ⚠️ LINE (95+ domain)
+
+**Core Platform**
+- line.me
+- *.line.me
+- line.naver.jp
+- linecorp.com
+- *.linecorp.com
+- line.biz
+- *.line.biz
+- lin.ee
+
+**LY Corporation**
+- lycorp.co.jp
+- *.lycorp.co.jp
+- lyco.jp
+- naver.jp
+
+**Services**
+- gd2.line.naver.jp
+- ga2.line.naver.jp
+- ga2x.line.naver.jp
+- gs2.line.naver.jp
+- gs2x.line.naver.jp
+- gw.line.naver.jp
+- gm.line.naver.jp
+- os.line.naver.jp
+- ns1.line.naver.jp
+- ns2.line.naver.jp
+- a.line.me
+- sch.line.me
+- crs-event.line.me
+- lap-click.tr.line.me
+- help.line.me
+
+**CDN**
+- obs.line-apps.com
+- scdn.line-apps.com
+- line-scdn.net
+- *.line-scdn.net
+- d.line-scdn.net
+- obs.line-scdn.net
+- appresource.line-scdn.net
+- vos.line-scdn.net
+- static.line-scdn.net
+- profile.line-scdn.net
+- *.line-cdn.net
+
+**Line Apps Services**
+- line-apps.com
+- *.line-apps.com
+- ci.line-apps.com
+- cix.line-apps.com
+- ch-news.line-apps.com
+- torimochi.line-apps.com
+- legy-jp.line-apps.com
+- legy-backup.line-apps.com
+- obs-sg-addr.line-apps.com
+- obs-sg.line-apps.com
+- obs-th.line-apps.com
+- obs-tw.line-apps.com
+- obs-us.line-apps.com
+- sentry-uit.line-apps.com
+- ts.line-apps.com
+- uts-front.line-apps.com
+- yuki-cdn.line-apps.com
+- linecrs-line-scdn-net.vcdn.line-apps.com
+- stf.line-apps.com
+
+**API**
+- api.line.me
+- access.line.me
+- developers.line.biz
+
+**Infrastructure**
+- adns1.line.naver.com
+- adns2.line.naver.com
+- jp-col-tcp.nelo.linecorp.com
+- nelo2-col.linecorp.com
+- dl-obs.official.line.naver.jp
+- dl.stickershop.line.naver.jp
+
+---
+
+### ⚠️ WECHAT (85+ domain)
+
+**Core Platform**
+- wechat.com
+- *.wechat.com
+- weixin.com
+- *.weixin.com
+- weixin.qq.com
+- *.weixin.qq.com
+- weixin.qq.com.cn
+- weixinbridge.com
+
+**Services**
+- wx.qq.com
+- wx2.qq.com
+- wx3.qq.com
+- wx4.qq.com
+- wx5.qq.com
+- wx6.qq.com
+- wx7.qq.com
+- wx8.qq.com
+- wx10.qq.com
+- wx13.qq.com
+- wx14.qq.com
+- wx15.qq.com
+- wx16.qq.com
+- wx19.qq.com
+- wx22.qq.com
+- wx23.qq.com
+- wx24.qq.com
+- wx26.qq.com
+- wx28.qq.com
+- wx29.qq.com
+- wx30.qq.com
+- wxs.qq.com
+- api.weixin.qq.com
+- login.weixin.qq.com
+- open.weixin.qq.com
+- mp.weixin.qq.com
+- developers.weixin.qq.com
+- channels.weixin.qq.com
+
+**CDN & Media**
+- res.wx.qq.com
+- mmbiz.qpic.cn
+- mmsns.qpic.cn
+- cmmsns.qpic.cn
+- vweixinthumb.tc.qq.com
+
+**Mini Programs**
+- servicewechat.com
+- *.servicewechat.com
+
+**CDN & Media (Tencent)**
+- qpic.cn
+- *.qpic.cn
+- qlogo.cn
+- *.qlogo.cn
+- gtimg.com
+- *.gtimg.com
+- gtimg.cn
+- *.gtimg.cn
+
+**WeCom (Enterprise)**
+- work.weixin.qq.com
+- qyapi.weixin.qq.com
+
+**Cloud Services**
+- wechatpay.cn
+- file.api.weixin.qq.com
+- tencentcloud.com
+- *.tencentcloud.com
+
+---
+
+### ⚠️ KAKAOTALK (60+ domain)
+
+**Core Platform**
+- kakao.com
+- *.kakao.com
+- kakaocorp.com
+- developers.kakao.com
+- accounts.kakao.com
+
+**Kakao API (Official Firewall Docs)**
+- kauth.kakao.com
+- kapi.kakao.com
+- dapi.kakao.com
+- accounts.kakao.com
+- logins.daum.net
+- auth.kakao.com
+- apps.kakao.com
+- talk-apps.kakao.com
+
+**Services**
+- talk.kakao.com
+- pf.kakao.com
+
+**CDN & Media**
+- t1.kakaocdn.net
+- k.kakaocdn.net
+- p.kakaocdn.net
+- item.kakaocdn.net
+- mud-kage.kakao.com
+- blog.kakaocdn.net
+- lk.kakaocdn.net
+- scrap.kakaocdn.net
+
+**Analytics**
+- adns1.kakao.com
+- adns2.kakao.com
+
+**Kakao Ecosystem**
+- daum.net
+- *.daum.net
+- kakao.net
+- kakaopay.com
+- kakaobank.com
+- kakaopage.com
+
+**Kakao Infrastructure**
+- kakaoi.io
+- *.kakaoi.io
+- kakao.io
+- *.kakao.io
+
+---
+
+### ⚠️ QQ (TENCENT) (60+ domain)
+
+**Core Platform**
+- qq.com
+- *.qq.com
+- qq.com.cn
+- *.qq.com.cn
+- im.qq.com
+- imqq.com
+
+**Services**
+- qzone.qq.com
+- qun.qq.com
+- mail.qq.com
+- exmail.qq.com
+- ptlogin2.qq.com
+- ssl.zc.qq.com
+- qqmail.com
+- vip.qq.com
+- game.qq.com
+
+**CDN & Media**
+- dldir1.qq.com
+- qq.com.tlivecdn.com
+- ossweb-img.qq.com
+- appimg1.qq.com
+- gtimg.com
+- *.gtimg.com
+- gtimg.cn
+- *.gtimg.cn
+- qlogo.cn
+- *.qlogo.cn
+
+**Other Services**
+- news.qq.com
+- music.qq.com
+- qqgame.qq.com
+- mobile.qq.com
+- pay.qq.com
+- app.qq.com
+- photo.qq.com
+- player.qq.com
+- piao.qq.com
+- discuz.qq.com
+- bbs.now.qq.com
+
+**Cloud Infrastructure**
+- tencentcloud.com
+- *.tencentcloud.com
+- cloud.tencent.com
+- openapi.tencentyun.com
+- openapi.sparta.html5.qq.com
+
+---
+
+### 📱 SLACK (25+ domain)
+
+**Core Platform**
+- slack.com
+- *.slack.com
+- slackb.com
+- *.slackb.com
+
+**CDN & Assets**
+- slack-edge.com
+- *.slack-edge.com
+- a.slack-edge.com
+- slack-imgs.com
+- *.slack-imgs.com
+- slack-files.com
+- *.slack-files.com
+- slack-msgs.com
+- slackdns.com
+
+**WebSocket Endpoints**
+- wss-primary.slack.com
+- wss-backup.slack.com
+- wss-mobile.slack.com
+
+**Status & Infrastructure**
+- status.slack.com
+- slack-status.com
+
+---
+
+### 📱 DISCORD (35+ domain)
+
+**Core Platform**
+- discord.com
+- *.discord.com
+- discordapp.com
+- *.discordapp.com
+- discordapp.net
+- *.discordapp.net
+
+**Short Links & Misc**
+- discord.gg
+- dis.gd
+- discord.dev
+- discord.new
+- discord.gift
+- discord.gifts
+- discord.co
+- discord.design
+- discord.store
+- discord.tools
+
+**Media & CDN**
+- discord.media
+- *.discord.media
+- discordcdn.com
+- cdn.discordapp.com
+- media.discordapp.net
+- images-ext-1.discordapp.net
+- images-ext-2.discordapp.net
+
+**Activities & Games**
+- discord-activities.com
+- discordactivities.com
+- discordsays.com
+- discordmerch.com
+- discordpartygames.com
+
+**Infrastructure**
+- gateway.discord.gg
+- updates.discord.com
+- canary.discord.com
+- ptb.discord.com
+- discordstatus.com
+- status.discord.com
+- discord-attachments-uploads-prd.storage.googleapis.com
+
+---
+
+### 📱 MATTERMOST (45+ domain)
+
+**Core Platform**
+- mattermost.com
+- *.mattermost.com
+- mattermost.org
+- *.mattermost.io
+
+**Cloud**
+- cloud.mattermost.com
+- *.cloud.mattermost.com
+
+**API & Docs**
+- api.mattermost.com
+- docs.mattermost.com
+- developers.mattermost.com
+
+**Push Notifications**
+- push.mattermost.com
+- push-test.mattermost.com
+
+**Calls**
+- stun.global.calls.mattermost.com
+
+**Licensing & Telemetry**
+- customers.mattermost.com
+- licensing.mattermost.com
+- telemetry.mattermost.com
+- releases.mattermost.com
+
+**Analytics**
+- pdat.matterlytics.com
+- matterlytics.com
+- *.matterlytics.com
+
+**Community**
+- community.mattermost.com
+- community-daily.mattermost.com
+- community-release.mattermost.com
+- forum.mattermost.com
+
+**Enterprise & Education**
+- enterprise.mattermost.com
+- academy.mattermost.com
+- handbook.mattermost.com
+
+---
+
+### 📱 ZULIP (40+ domain)
+
+**Core Platform**
+- zulip.com
+- *.zulip.com
+- www.zulip.com
+- zulip.org
+
+**Push Notifications**
+- push.zulipchat.com
+
+**Self-Hosting & Downloads**
+- selfhosting.zulip.com
+- download.zulip.com
+
+**Legacy**
+- zulipchat.com
+- *.zulipchat.com
+
+**Community & Docs**
+- chat.zulip.org
+- zulip.readthedocs.io
+- docs.zulip.com
+- blog.zulip.com
+
+---
+
+### 📱 ROCKET.CHAT (30+ domain)
+
+**Core Platform**
+- rocket.chat
+- *.rocket.chat
+- cloud.rocket.chat
+- open.rocket.chat
+- marketplace.rocket.chat
+- hub.rocket.chat
+
+**Cloud CDN**
+- cdns.use1.cloud.rocket.chat
+- cdns.euc1.cloud.rocket.chat
+
+**Services & Admin**
+- releases.rocket.chat
+- billing.rocket.chat
+- omni-gateway.rocket.chat
+- collector.rocket.chat
+- nps.rocket.chat
+- gateway.rocket.chat
+- desk.rocket.chat
+
+**Docs & Community**
+- forums.rocket.chat
+- docs.rocket.chat
+
+---
+
+### 📱 BROSIX (35+ domain)
+
+**Core Platform**
+- brosix.com
+- *.brosix.com
+- www.brosix.com
+
+**Web Control Panel**
+- net.brosix.com
+
+**Database Servers**
+- db.brosix.com
+- db2.brosix.com
+
+**Box Servers**
+- box-n2.brosix.com
+- box-n2-ls.brosix.com
+
+**Infrastructure**
+- stun.brosix.com
+- adns1.brosix.com
+- adns2.brosix.com
+
+**Help & Support**
+- help.brosix.com
+
+---
+
+### 📱 TROOP MESSENGER (30+ domain)
+
+**Core Platform**
+- troopmessenger.com
+- *.troopmessenger.com
+- www.troopmessenger.com
+
+**Services**
+- help.troopmessenger.com
+- login.troopmessenger.com
+
+**API & Downloads**
+- api.troopmessenger.com
+- releases.troopmessenger.com
+
+**Push Notifications**
+- fcm.googleapis.com
+
+**Parent Company**
+- tvishaltd.com
+
+---
+
+### 📱 BEEPER (45+ domain)
+
+**Core Platform**
+- beeper.com
+- *.beeper.com
+- www.beeper.com
+
+**Services**
+- api.beeper.com
+- matrix.beeper.com
+- s3.beeper.com
+- hungryserv.beeper.com
+- blog.beeper.com
+
+**Help & Developer**
+- help.beeper.com
+- developers.beeper.com
+
+**Open Source Bridge Infrastructure**
+- mau.fi
+- *.mau.fi
+
+**Matrix Infrastructure (Underlying)**
+- matrix.org
+- *.matrix.org
+- federationtester.matrix.org
+
+**Automattic (Owner)**
+- automattic.com
+- wordpress.com
+- *.wordpress.com
+- tumblr.com
+- pocketcasts.com
+
+**Deprecated**
+- texts.com
+
+---
+
+### 📱 XX MESSENGER / HAVEN (35+ domain)
+
+**Core Platform**
+- xx.network
+- *.xx.network
+- www.xx.network
+
+**Services**
+- chat.xx.network
+- mainnet.xx.network
+- dashboard.xx.network
+- explorer.xx.network
+
+**New Endpoints**
+- haven.xx.network
+- xxdk.xx.network
+
+**Documentation**
+- docs.xx.network
+- blog.xx.network
+- forum.xx.network
+
+---
+
+### 📱 MESSAGENIUS (25+ domain)
+
+**Core Platform**
+- messagenius.com
+- *.messagenius.com
+- www.messagenius.com
+
+**API & Web Client**
+- api.messagenius.com
+- app.messagenius.com
+
+**Parent Company**
+- tvishaltd.com
+---
+
+### 📱 FACEBOOK MESSENGER (70+ domain)
+
+**Core Platform**
+- messenger.com
+- *.messenger.com
+- m.me
+- *.m.me
+
+**API (Facebook Graph)**
+- graph.facebook.com
+- api.messenger.com
+- b-api.facebook.com
+
+**Services**
+- orcart.facebook.com
+- edge-*.facebook.com
+- star.c10r.facebook.com
+
+**Privacy/Support**
+- privacy.facebook.com
+- support.facebook.com
+
+**CDN (Meta Infrastructure)**
+- *.fbcdn.net
+- scontent-*.xx.fbcdn.net
+- fbcdn-dragon-a.akamaihd.net
+- fbcdn-profile-a.akamaihd.net
+- fbexternal-a.akamaihd.net
+- fbstatic-a.akamaihd.net
+- *.cloudfront.net
+
+**Facebook Core**
+- facebook.com
+- *.facebook.com
+
+---
+
+### 📱 GROUPME (45+ domain)
+
+**Core Platform**
+- groupme.com
+- *.groupme.com
+- web.groupme.com
+- app.groupme.com
+- v2.groupme.com
+
+**API**
+- api.groupme.com
+- dev.groupme.com
+
+**Image Service**
+- i.groupme.com
+- *.i.groupme.com
+- imageservice.groupme.com
+
+**Services**
+- faye.groupme.com
+- pages.groupme.com
+- push.groupme.com
+- preview.groupme.com
+- s.groupme.com
+- powerup.groupme.com
+
+**CDN**
+- d2xk3mdboeujlo.cloudfront.net
+
+**Microsoft (Owner)**
+- privacy.microsoft.com
+- support.microsoft.com
+
+---
+
+### 📱 KIK (35+ domain)
+
+**Core Platform**
+- kik.com
+- *.kik.com
+- ws2.kik.com
+
+**Services**
+- platform.kik.com
+- api.kik.com
+- profilepics.kik.com
+- captcha.kik.com
+- meme.kik.com
+- home.kik.com
+- dev.kik.com
+- engine.kik.com
+
+**Media & Push**
+- cdn.kik.com
+- media.kik.com
+- push.kik.com
+- upload.kik.com
+
+**Connection**
+- talk1110an.kik.com:5223
+
+**AWS Backend**
+- *.cloudfront.net
+
+---
+
+### 📱 VOXER (35+ domain)
+
+**Core Platform**
+- voxer.com
+- *.voxer.com
+- www.voxer.com
+- web.voxer.com
+
+**API & Services**
+- api.voxer.com
+- media.voxer.com
+- cdn.voxer.com
+- push.voxer.com
+
+**Business & Support**
+- get.voxer.com
+- support.voxer.com
+- i.voxer.com
+
+**Legacy Company**
+- rebelvox.com
+- *.rebelvox.com
+
+### 📱 WICKR / AWS WICKR (45+ domain)
+
+**Core Platform**
+- wickr.com
+- *.wickr.com
+- wickr.io
+- wickr.email
+- api.wickr.com
+- gw-pro-prod.wickr.com
+- messaging-prod.wickr.com
+
+**Calling Infrastructure**
+- ingress.prod.calling.wickr.com
+
+**AWS US East (us-east-1)**
+- api.messaging.wickr.us-east-1.amazonaws.com
+
+**AWS Asia Pacific**
+- api.messaging.wickr.ap-southeast-5.amazonaws.com
+- ingress.prod.calling.wickr.ap-southeast-5.amazonaws.com
+- api.messaging.wickr.ap-southeast-1.amazonaws.com
+- ingress.prod.calling.wickr.ap-southeast-1.amazonaws.com
+- api.messaging.wickr.ap-southeast-2.amazonaws.com
+- ingress.prod.calling.wickr.ap-southeast-2.amazonaws.com
+- api.messaging.wickr.ap-northeast-1.amazonaws.com
+- ingress.prod.calling.wickr.ap-northeast-1.amazonaws.com
+
+**AWS Europe**
+- api.messaging.wickr.eu-central-1.amazonaws.com
+- ingress.prod.calling.wickr.eu-central-1.amazonaws.com
+- api.messaging.wickr.eu-central-2.amazonaws.com
+- ingress.prod.calling.wickr.eu-central-2.amazonaws.com
+- api.messaging.wickr.eu-west-2.amazonaws.com
+- ingress.prod.calling.wickr.eu-west-2.amazonaws.com
+- api.messaging.wickr.eu-north-1.amazonaws.com
+- ingress.prod.calling.wickr.eu-north-1.amazonaws.com
+
+**AWS Canada**
+- api.messaging.wickr.ca-central-1.amazonaws.com
+- ingress.prod.calling.wickr.ca-central-1.amazonaws.com
+
+**AWS GovCloud**
+- api.messaging.wickr.us-gov-west-1.amazonaws.com
+- ingress-prod-calling.wickr.us-gov-west-1.amazonaws.com
+- register.wickr.us-gov-west-1.amazonaws.com
+- admin.wickr.us-gov-west-1.amazonaws.com
+- admin.messaging.wickr.us-gov-west-1.amazonaws.com
+- cognito-identity.us-gov-west-1.amazonaws.com
+- kinesis.us-gov-west-1.amazonaws.com
+- s3.us-gov-west-1.amazonaws.com
+- s3-fips.us-gov-west-1.amazonaws.com
+- s3.amazonaws.com
+
+---
+
+### 📱 NETSFERE (35+ domain)
+
+**Core Platform**
+- netsfere.com
+- *.netsfere.com
+- www.netsfere.com
+
+**Regional Domains**
+- netsfere.de
+- netsfere.sg
+- netsfere.eu
+- *.netsfere.eu
+
+**API & Admin**
+- api.netsfere.com
+- admin.netsfere.com
+
+**Web & Services**
+- web.netsfere.com
+- help.netsfere.com
+- app.netsfere.com
+- securemeet.netsfere.com
+
+**Parent Company**
+- infinite-convergence.com
+- *.infinite-convergence.com
+- infiniteconvergence.com
+
+**Cloud Infrastructure (Azure)**
+- *.azurewebsites.net
+- *.windows.net
+
+---
+
+### ⚠️ DUST (CYBER DUST) (15+ domain)
+
+**Core Platform**
+- usedust.com
+- *.usedust.com
+- www.usedust.com
+- dustmessaging.com
+- cyberdust.com
+- *.cyberdust.com
+
+**Services**
+- support.usedust.com
+- api.usedust.com
+
+**Developer Company**
+- radicalapps.com
+- *.radicalapps.com
