@@ -1,0 +1,1386 @@
+# PERSONALIZATION & A/B TESTING PLATFORMS RESEARCH LIST
+
+---
+
+## 🔴 CORE A/B TESTING PLATFORMS
+
+### OPTIMIZELY
+
+**Core:**
+- optimizely.com
+- *.optimizely.com
+
+**CDN:**
+- cdn.optimizely.com
+- cdn-eu.optimizely.com
+- cdn3.optimizely.com
+
+**API & Edge:**
+- api.optimizely.com
+- app.optimizely.com
+- sdk.optimizely.com
+- optimizely-edge.com
+- edge.optimizely.com
+- cname.optimizely-edge.com
+
+**Logging & Analytics:**
+- logx.optimizely.com
+- p13nlog.optimizely.com
+- log.optimizely.com
+- data.optimizely.com
+
+**Content (Welcome/NewsCred):**
+- **\*.welcomesoftware.com**
+- **\*.newscred.com**
+- **newscred-cmp-files.s3-accelerate.amazonaws.com**
+- **welcome-filestack.s3.amazonaws.com**
+- **status.optimizely.com**
+
+---
+
+### VWO (VISUAL WEBSITE OPTIMIZER)
+
+**Core:**
+- vwo.com
+- visualwebsiteoptimizer.com
+- *.vwo.com
+
+**CDN & Services:**
+- dacdn.visualwebsiteoptimizer.com
+- cdn.vwo.com
+- app.vwo.com
+- dev.visualwebsiteoptimizer.com
+
+**Push & Other:**
+- pushcrew.visualwebsiteoptimizer.com
+
+- **useruploads.vwo.io**
+- **cdn.pushcrew.com**
+- **static.wingify.com**
+
+---
+
+### AB TASTY
+
+**Core:**
+- abtasty.com
+- *.abtasty.com
+
+**CDN:**
+- cdn.abtasty.com
+
+**API & Services:**
+- try.abtasty.com
+- api.abtasty.com
+- app.abtasty.com
+
+- **editor-assets.abtasty.com**
+- **developers.abtasty.com**
+- **docs.abtasty.com**
+- **support.abtasty.com**
+
+---
+
+### ADOBE TARGET
+
+**Core:**
+- target.adobe.com
+- *.tt.omtrdc.net
+- tt.omtrdc.net
+
+**Edge Servers:**
+- mboxedge*.tt.omtrdc.net
+- mboxedge[XX]-alb[YY].tt.omtrdc.net
+- tttarget.tt.omtrdc.net
+
+**API & CDN:**
+- api.target.adobe.com
+- cdn.tt.omtrdc.net
+
+---
+
+### KAMELEOON
+
+**Core:**
+- kameleoon.com
+- kameleoon.eu
+- kameleoon.io
+- *.kameleoon.com
+
+**CDN & Static:**
+- cdn.kameleoon.com
+- static.kameleoon.com
+- static.experimentation.dev
+
+**API & Services:**
+- api.kameleoon.com
+- app.kameleoon.com
+- sdk-config.experimentation.dev
+
+**Data & Tracking:**
+- eu-data.kameleoon.eu
+- eu-data.kameleoon.io
+- na-data.kameleoon.io
+- eu-data.experiment.dev
+
+**Customer-Specific:**
+- [SITECODE].kameleoon.eu
+- [SITECODE].kameleoon.io
+
+- **logger.kameleoon.io**
+- **data.kameleoon.net**
+- **sdk-config.kameleoon.eu**
+- **client-config.kameleoon.com**
+- **back-office.kameleoon.com**
+- **\*.kameleoon.net**
+- **\*.experimentation.dev**
+
+---
+
+### CONVERT.COM
+
+**Core:**
+- convert.com
+
+**CDN:**
+- cdn-3.convertexperiments.com
+- cdn-4.convertexperiments.com
+
+**Services:**
+- app.convert.com
+- api.convert.com
+- convertexperiments.com
+- app.convertexperiments.com
+
+**Tracking/Metrics:**
+- *.metrics.convertexperiments.com
+
+**Provider:**
+- cdn-provider-dev.convertexperiments.com
+
+---
+
+### WEBTRENDS OPTIMIZE
+
+**Core:**
+- webtrends-optimize.com
+- *.webtrends-optimize.com
+
+**CDN & Services:**
+- c.webtrends-optimize.com
+- cdn.webtrends-optimize.com
+
+**API:**
+- api.webtrends-optimize.com
+- ots.wtopt.io
+
+**Application:**
+- app.webtrends-optimize.com
+
+---
+
+### MAXYMISER (Oracle) ❌ END OF LIFE — May 31, 2024
+
+**Core (INACTIVE):**
+- maxymiser.com
+- maxymiser.net
+
+**Services (INACTIVE):**
+- service.maxymiser.net
+- cdn.maxymiser.com
+
+**API (INACTIVE):**
+- api.maxymiser.com
+- api-eu.maxymiser.com
+- api-us.maxymiser.com
+
+---
+
+### SITESPECT
+
+**Core:**
+- sitespect.com
+- *.sitespect.com
+
+**API & Application:**
+- api.sitespect.com
+- app.sitespect.com
+
+**DNS/CNAME (Cloud ):**
+- **\*.ssopt.net**
+- **{hostname}.ssopt.net**
+- **www.example.com.ssopt.net**
+
+---
+
+### VARIFY.IO ⭐ NEW
+
+**Core:**
+- varify.io
+- *.varify.io
+
+**Application & Dev:**
+- app.varify.io
+- developers.varify.io
+- ip.varify.dev
+- cdn.varify.io
+
+**Customer CNAME:**
+- {customer-subdomain}.{customer-domain}.com → app.varify.io
+
+---
+
+### ABSMARTLY ⭐ NEW
+
+**Core:**
+- absmartly.com
+- absmartly.io
+- *.absmartly.io
+- *.absmartly.com
+
+**API/Collector Endpoints:**
+- {your-company}.absmartly.io/v1
+- {your-company}.absmartly.com/v1
+- sandbox.absmartly.io/v1
+- sandbox-api.absmartly.com/v1
+
+**CDN:**
+- unpkg.com/@absmartly/javascript-sdk/dist/absmartly.min.js
+
+---
+
+### CUSTOMFIT.AI ⭐ NEW
+
+**Core:**
+- customfit.ai
+- *.customfit.ai
+
+**Application & API:**
+- dashboard.customfit.ai
+- app.customfit.ai
+- doc.customfit.ai
+- apidocs.customfit.ai
+
+- **sdk.customfit.ai**
+- **api.customfit.ai**
+
+---
+
+### SYMPLIFY (formerly SiteGainer) ⭐ NEW
+
+**Core (Current):**
+- symplify.com
+- *.symplify.com
+
+**Core (Legacy — ACTIVE):**
+- sitegainer.com
+- *.sitegainer.com
+
+**CDN:**
+- cdn-sitegainer.com
+
+**Application:**
+- conversion.symplify.com
+- con.symplify.com
+- app.symplify.com
+- help.symplify.com
+
+---
+
+### CONDUCTRICS ⭐ NEW
+
+**Core:**
+- conductrics.com
+- *.conductrics.com
+
+**API & Console:**
+- api.conductrics.com
+- console.conductrics.com
+
+---
+
+### ABLYFT ⭐ NEW
+
+**Core:**
+- ablyft.com
+- *.ablyft.com
+
+**CDN & Application:**
+- cdn.ablyft.com
+- app.ablyft.com
+- docs.ablyft.com
+
+---
+
+### INTELLIGEMS (Shopify-only) ⭐ NEW
+
+**Core:**
+- intelligems.io
+- *.intelligems.io
+
+**Application:**
+- app.intelligems.io
+- docs.intelligems.io
+- headless.intelligems.io
+
+- **cdn.intelligems.io**
+
+**Shopify:**
+- apps.shopify.com/intelligems
+
+---
+
+### SHOPLIFT (Shopify-only) ⭐ NEW
+
+**Core:**
+- shoplift.ai
+- *.shoplift.ai
+
+**Application:**
+- app.shoplift.ai
+- docs.shoplift.ai
+
+**Shopify:**
+- apps.shopify.com/shoplift
+
+---
+
+## 🟠 E-COMMERCE PERSONALIZATION
+
+### DYNAMIC YIELD
+
+**Core:**
+- dynamicyield.com
+
+**CDN:**
+- cdn.dynamicyield.com
+- cdn-eu.dynamicyield.com
+
+**Services:**
+- st.dynamicyield.com
+- st-eu.dynamicyield.com
+- rcom.dynamicyield.com
+- rcom-eu.dynamicyield.com
+- rcom-dump.dynamicyield.com
+
+**API:**
+- dy-api.com
+- dy-api.eu
+- api.dynamicyield.com
+
+- **async-px.dynamicyield.com**
+
+- **link.dyo.io**
+
+---
+
+### MONETATE
+
+**Core:**
+- monetate.net
+- monetate.com
+
+**CDN:**
+- cdn.monetate.net
+
+**Engine & Services:**
+- se.monetate.net
+- engine.monetate.net
+- engine-global.monetate.net
+
+**API & Proxy:**
+- api.monetate.net
+- f.monetate.net
+- r.monetate.net
+- s.monetate.net
+
+- **sb.monetate.net**
+- **sf.monetate.net**
+- **b.monetate.net**
+- **d.monetate.net**
+- **marketer.monetate.net**
+- **retailer.monetate.net**
+- **search.monetate.net**
+- **action-template-images.monetate.net**
+
+---
+
+### EVERGAGE (Salesforce Interaction Studio)
+
+**Core (Legacy):**
+- evergage.com
+- doc.evergage.com
+
+**CDN:**
+- cdn.evergage.com
+- cdn.evgnet.com
+
+**API & Tracking:**
+- api.evergage.com
+- collect.evergage.com
+- developer.evergage.com
+
+---
+
+### NOSTO
+
+**Core:**
+- nosto.com
+- *.nosto.com
+
+**API & Connect:**
+- api.nosto.com
+- cdn.nosto.com
+- connect.nosto.com
+- search.nosto.com
+
+**UGC/Stackla (Acquired):**
+- plugins.stackla.com
+- api.stackla.com
+
+**Admin:**
+- my.nosto.com
+
+---
+
+### BARILLIANCE
+
+**Core:**
+- barilliance.com
+- *.barilliance.com
+
+**API & CDN:**
+- cbar.barilliance.com
+- cdn.barilliance.com
+- help.barilliance.com
+
+---
+
+### NUDGE (nudgenow.com) ⭐ NEW
+
+**Core:**
+- nudgenow.com
+- *.nudgenow.com
+- docs.nudgenow.com
+- app.nudge.net
+
+---
+
+### PERSONYZE ⭐ NEW
+
+**Core:**
+- personyze.com
+- *.personyze.com
+- cdn.personyze.com
+- wiki.personyze.com
+
+---
+
+### QUBIT (Coveo) ⭐ NEW
+
+**Core:**
+- qubit.com
+- *.qubit.com
+- goqubit.com
+- *.goqubit.com
+
+**CDN & Smartserve:**
+- static.goqubit.com
+
+**API:**
+- api.qubit.com
+- recs.qubit.com
+- sse.qubit.com
+- lookup.qubit.com
+
+**Tracking:**
+- opentag-stats.qubit.com
+- gong-eb.qubit.com
+- gong-gc.qubit.com
+
+**Application:**
+- app.qubit.com
+
+- **dd6zx4ibq538k.cloudfront.net**
+
+---
+
+## 🟡 FEATURE FLAGS & EXPERIMENTATION
+
+### LAUNCHDARKLY
+
+**Core:**
+- launchdarkly.com
+- app.launchdarkly.com
+- app.launchdarkly.us
+
+**SDK Endpoints:**
+- sdk.launchdarkly.com
+- clientsdk.launchdarkly.com
+
+**Streaming:**
+- stream.launchdarkly.com
+- stream.intuit.launchdarkly.com
+- clientstream.launchdarkly.com
+- clientstream-ga.launchdarkly.com
+- clientstream.eu.launchdarkly.com
+
+**Events:**
+- events.launchdarkly.com
+- events.intuit.launchdarkly.com
+
+**Other Services:**
+- mobile.launchdarkly.com
+- static.launchdarkly.com
+- go.launchdarkly.com
+- vitalstatistix.launchdarkly.com
+- whatsnew.launchdarkly.com
+
+**Observability**
+- **otel.observability.app.launchdarkly.com**
+- **pub.observability.app.launchdarkly.com**
+
+---
+
+### SPLIT.IO
+
+**Core:**
+- split.io
+
+**API & Services:**
+- api.split.io
+- auth.split.io
+- sdk.split.io
+- events.split.io
+- streaming.split.io
+
+**CDN & Telemetry:**
+- cdn.split.io
+- telemetry.split.io
+
+---
+
+### FLAGSMITH
+
+**Core:**
+- flagsmith.com
+- getflagsmith.io
+
+**API & Application:**
+- edge.api.flagsmith.com
+- api.flagsmith.com
+- app.flagsmith.com
+- docs.flagsmith.com
+
+---
+
+### UNLEASH
+
+**Core:**
+- getunleash.io
+- *.getunleash.io
+
+**Application (Regional):**
+- app.getunleash.io
+- us.app.getunleash.io
+- eu.app.getunleash.io
+
+**API (Regional):**
+- api.getunleash.io
+- us.api.getunleash.io
+- eu.api.getunleash.io
+
+**Edge (Regional):**
+- edge.getunleash.io
+- us.edge.getunleash.io
+- eu.edge.getunleash.io
+
+**Documentation:**
+- docs.getunleash.io
+- academy.getunleash.io
+
+---
+
+### CONFIGCAT
+
+**Core:**
+- configcat.com
+- *.configcat.com
+
+**CDN (Regional):**
+- cdn.configcat.com
+- cdn-global.configcat.com
+- cdn-eu.configcat.com
+
+**API & Application:**
+- api.configcat.com
+- app.configcat.com
+- docs.configcat.com
+
+---
+
+### DEVCYCLE
+
+**Core:**
+- devcycle.com
+
+**Services:**
+- sdk-api.devcycle.com
+- events.devcycle.com
+- auth.devcycle.com
+- app.devcycle.com
+- docs.devcycle.com
+
+---
+
+### HARNESS (Feature Flags)
+
+**Core:**
+- harness.io
+- *.harness.io
+- app.harness.io
+
+**Feature Flags:**
+- config.ff.harness.io
+- events.ff.harness.io
+- *.ff.harness.io
+- cdn.ff.harness.io
+
+- **proxy-prod.ff.harness.io**
+- **stream.ff.harness.io**
+
+---
+
+### STATSIG
+
+**Core:**
+- statsig.com
+- api.statsig.com
+- statsigapi.net
+- *.statsigapi.net
+
+**Events & Logging:**
+- events.statsigapi.net
+
+**Console & CDN:**
+- cdn.console.statsig.com
+- console.statsigcdn.com
+
+**Feature Gates & Assets (Anti-Adblocker):**
+- featuregates.org
+- featureassets.org
+- api.statsigcdn.com
+- assetsconfigcdn.org
+- prodregistryv2.org
+- beyondwickedmapping.org
+- cloudflare-dns.com
+
+---
+
+### EPPO
+
+**Core:**
+- geteppo.com
+
+**API & CDN:**
+- eppo.cloud
+- api.geteppo.com
+- cdn.geteppo.com
+
+- **fscdn.eppo.cloud**
+
+---
+
+### GROWTHBOOK
+
+**Core:**
+- growthbook.io
+
+**CDN & API:**
+- cdn.growthbook.io
+- api.growthbook.io
+
+---
+
+### AMPLITUDE EXPERIMENT
+
+**Core:**
+- amplitude.com
+- *.amplitude.com
+
+**CDN (Regional):**
+- cdn.amplitude.com
+- cdn.eu.amplitude.com
+- cdn.amplitude.com/script/{API_KEY}.experiment.js
+- cdn.eu.amplitude.com/script/{API_KEY}.experiment.js
+
+**API (Regional):**
+- api.amplitude.com
+- api.eu.amplitude.com
+
+**Dashboard:**
+- analytics.amplitude.com
+- app.amplitude.com
+- docs.amplitude.com
+- developers.amplitude.com
+
+- **gs.amplitude.com**
+- **gs.eu.amplitude.com**
+- **engagement-static.amplitude.com**
+- **engagement-static.eu.amplitude.com**
+- **api.lab.amplitude.com**
+- **api.lab.eu.amplitude.com**
+
+---
+
+### CONFIDENCE (Spotify) ⭐ NEW
+
+**Core:**
+- confidence.spotify.com
+
+**Open Source / NPM:**
+- github.com/spotify/confidence*
+- @spotify-confidence/*
+
+---
+
+## 🟢 EXIT-INTENT & BEHAVIORAL PERSONALIZATION
+
+### OPTIMONK
+
+**Core:**
+- optimonk.com
+- *.optimonk.com
+
+**CDN & Services:**
+- cdn.optimonk.com
+- app.optimonk.com
+- front.optimonk.com
+- api.optimonk.com
+- support.optimonk.com
+
+---
+
+### JUSTUNO
+
+**Core:**
+- justuno.com
+- *.justuno.com
+
+**CDN & Services:**
+- cdn.justuno.com
+- {subdomain}.{customer-domain}.com → cdn.justuno.com
+- api.justuno.com
+- my.justuno.com
+- app.justuno.com
+
+---
+
+### SLEEKNOTE
+
+**Core:**
+- sleeknote.com
+- *.sleeknote.com
+
+**CDN & Services:**
+- cdn.sleeknote.com
+- api.sleeknote.com
+- app.sleeknote.com
+- help.sleeknote.com
+
+---
+
+### WISEPOPS
+
+**Core:**
+- wisepops.com
+- *.wisepops.com
+
+**CDN:**
+- cdn.wisepops.com
+
+**Application & API:**
+- app.wisepops.com
+- api.wisepops.com
+
+- **app.getwisp.co**
+- **wisepops.net**
+- **cdn.wisepops.net**
+- **activity.wisepops.com**
+- **tracking.wisepops.com**
+- **notifications.wisepops.com**
+- **dx4nr741tfc02.cloudfront.net**
+- **wisp-production-storage.s3.amazonaws.com**
+- **assets.wisepops.net**
+
+---
+
+### POPTIN
+
+**Core:**
+- poptin.com
+- *.poptin.com
+- cdn.poptin.com
+- app.poptin.com
+- api.poptin.com
+
+---
+
+### OPINIONSTAGE
+
+**Core:**
+- opinionstage.com
+- *.opinionstage.com
+- cdn.opinionstage.com
+- app.opinionstage.com
+- api.opinionstage.com
+
+---
+
+### SUMO
+
+**Core:**
+- sumo.com
+- *.sumo.com
+- load.sumo.com
+- app.sumo.com
+- api.sumo.com
+
+---
+
+### PRIVY
+
+**Core:**
+- privy.com
+- *.privy.com
+- cdn.privy.com
+- dashboard.privy.com
+- api.privy.com
+
+---
+
+### OPTINMONSTER
+
+**Core:**
+- optinmonster.com
+- *.optinmonster.com
+
+**CDN (Anti-Adblocker):**
+- a.optmstr.com
+- b.optmstr.com
+- c.optmstr.com
+
+**Application & API:**
+- app.optinmonster.com
+- api.optinmonster.com
+
+---
+
+### CONVERTFLOW
+
+**Core:**
+- convertflow.com
+- *.convertflow.com
+- js.convertflow.co
+- app.convertflow.com
+- api.convertflow.com
+
+---
+
+### RIGHTMESSAGE ⭐ NEW
+
+**Core:**
+- rightmessage.com
+- *.rightmessage.com
+
+**CDN & API:**
+- t.rightmessage.com
+- snippet.rightmessage.com
+- api.rightmessage.com
+- app.rightmessage.com
+- help.rightmessage.com
+
+---
+
+### PERSONIZELY ⭐ NEW
+
+**Core:**
+- personizely.net
+- *.personizely.net
+- app.personizely.net
+- docs.personizely.net
+- releases.personizely.net
+
+---
+
+### VISUALLY.IO (Shopify-only) ⭐ NEW
+
+**Core:**
+- visually.io
+- *.visually.io
+
+---
+
+## 🔵 MOBILE APP PERSONALIZATION
+
+### LEANPLUM (CleverTap)
+
+**Core (Legacy):**
+- leanplum.com
+- *.leanplum.com
+
+**Core (CleverTap):**
+- clevertap.com
+- *.clevertap.com
+
+**API & CDN:**
+- api.leanplum.com
+- www.leanplum.com/api
+- cdn.leanplum.com
+- www.leanplum.com/dashboard
+
+- **wzrkt.com**
+- **\*.wzrkt.com**
+- **clevertap-prod.com**
+- **\*.clevertap-prod.com**
+- **static.clevertap.com**
+- **d2r1yp2w7bby2u.cloudfront.net**
+- **api.clevertap.com**
+- **in1.api.clevertap.com**
+- **sg1.api.clevertap.com**
+- **us1.api.clevertap.com**
+- **aps3.api.clevertap.com**
+- **mec1.api.clevertap.com**
+- **eu1.dashboard.clevertap.com**
+- **in1.dashboard.clevertap.com**
+- **sg1.dashboard.clevertap.com**
+
+---
+
+### BRAZE
+
+**Core:**
+- braze.com
+- *.braze.com
+
+**API (Regional — IAD):**
+- rest.iad-01.braze.com
+- rest.iad-02.braze.com
+- rest.iad-03.braze.com
+- rest.iad-04.braze.com
+- rest.iad-05.braze.com
+- rest.iad-06.braze.com
+- rest.iad-07.braze.com
+- rest.iad-08.braze.com
+
+**API (Regional — FRA):**
+- rest.fra-01.braze.eu
+- rest.fra-02.braze.eu
+
+**SDK Endpoints (Regional — IAD):**
+- sdk.iad-01.braze.com
+- sdk.iad-02.braze.com
+- sdk.iad-03.braze.com
+- sdk.iad-04.braze.com
+- sdk.iad-05.braze.com
+- sdk.iad-06.braze.com
+- sdk.iad-07.braze.com
+- sdk.iad-08.braze.com
+
+**SDK Endpoints (Regional — FRA):**
+- sdk.fra-01.braze.eu
+- sdk.fra-02.braze.eu
+
+**Dashboard:**
+- dashboard-01.braze.com
+- dashboard-02.braze.com
+- dashboard-03.braze.com
+- dashboard-04.braze.com
+- dashboard-05.braze.com
+- dashboard-06.braze.com
+- dashboard-07.braze.com
+- dashboard-08.braze.com
+- dashboard-01.braze.eu
+- dashboard-02.braze.eu
+
+**CDN:**
+- cdn.braze.com
+- cdn.braze.eu
+
+- **dashboard.us-10.braze.com**
+- **rest.us-10.braze.com**
+- **sdk.us-10.braze.com**
+- **dashboard.au-01.braze.com**
+- **rest.au-01.braze.com**
+- **sdk.au-01.braze.com**
+- **dashboard.id-01.braze.com**
+- **rest.id-01.braze.com**
+- **sdk.id-01.braze.com**
+
+---
+
+### ONESIGNAL
+
+**Core:**
+- onesignal.com
+- *.onesignal.com
+- api.onesignal.com
+- onesignal.com/api/v1/
+- cdn.onesignal.com
+- app.onesignal.com
+- dashboard.onesignal.com
+
+---
+
+### AIRSHIP
+
+**Core:**
+- airship.com
+- urbanairship.com
+
+**API (Regional):**
+- go.urbanairship.com
+- go.airship.eu
+
+- **api.asnapieu.com**
+- **api.asnapius.com**
+- **oauth2.asnapieu.com**
+- **oauth2.asnapius.com**
+
+---
+
+### TAPLYTICS 
+
+**Core:**
+- taplytics.com
+- *.taplytics.com
+- cdn.taplytics.com
+- universal.taplytics.com
+- api.taplytics.com
+- app.taplytics.com
+
+**Anti-Adblocker (Decoy):**
+- cdn.taplytics.io
+- api.taplytics.io
+- decisions.taplytics.io
+
+** (Legacy JS SDK):**
+- **js.taplytics.com**
+
+---
+
+## 🟣 DYNAMIC CREATIVE OPTIMIZATION (DCO)
+
+### JIVOX
+
+**Core:**
+- jivox.com
+- cdn.jivox.com
+- api.jivox.com
+
+**YENİ (CDN altyapı domainleri):**
+- **mediacdn.jivox.com**
+- **cdn2.jivox.com**
+- **assetscdn.euw1.jivox.com**
+- **creativescdn.euw1.jivox.com**
+- **playercdn.euw1.jivox.com**
+- **imageproxy.jivox.com**
+- **cds.jivox.com**
+- **cf-assets.jivox.com**
+- **cf-cdn2.jivox.com**
+
+---
+
+## 🔷 LANDING PAGE A/B TESTING
+
+### UNBOUNCE
+
+**Core:**
+- unbounce.com
+- *.unbounce.com
+
+**CDN:**
+- d9hhrg4mnvzow.cloudfront.net
+- d3as8djd7yo5dm.cloudfront.net
+- d2xxq4ijfwetlm.cloudfront.net
+
+**S3 Asset Buckets:**
+- s3.amazonaws.com/assets.unbounce.com/
+- unbouncepages-com.s3.amazonaws.com
+
+**API & Application:**
+- api.unbounce.com
+- app.unbounce.com
+- lp.unbounce.com
+- unbouncepages.com
+
+**Documentation & Community:**
+- documentation.unbounce.com
+- developer.unbounce.com
+- community.unbounce.com
+
+- **ubpages.com**
+- **\*.ubpages.com**
+
+---
+
+### INSTAPAGE
+
+**Core:**
+- instapage.com
+- *.instapage.com
+
+**API & Application:**
+- api.instapage.com
+- devdocs.instapage.com
+- app.instapage.com
+
+**Custom Domain Hosting:**
+- secure.pageserve.co
+- ips-pages.com
+
+**Help & Support:**
+- help.instapage.com
+- support.instapage.com
+- unlock-domain.instapage.com
+
+---
+
+## 🟤 AI-POWERED PERSONALIZATION
+
+### OPTIMOVE
+
+**Core:**
+- optimove.com
+
+**API (Regional):**
+- api.optimove.net
+- apiX.optimove.net
+- api5.optimove.net
+
+**Web SDK & Tracking:**
+- sdk.optimove.net
+- track.optimove.net
+
+**OptiMobile Push API:**
+- optimobile-push-service-api-eu.optimove.net
+- optimobile-push-service-api-us.optimove.net
+- optimobile-push-service-api-{env}.optimove.net
+
+---
+
+### BLUESHIFT
+
+**Core:**
+- blueshift.com
+
+**API (Regional):**
+- api.getblueshift.com
+- api.eu.getblueshift.com
+
+**CDN, SDK & Links:**
+- cdn.getblueshift.com
+- sdk.getblueshift.com
+- links.getblueshift.com
+- {customer}.links.getblueshift.com
+- app.getblueshift.com
+
+**Documentation:**
+- developer.blueshift.com
+- help.blueshift.com
+
+- **links.eu.blueshift.com**
+- **optout.getblueshift.com**
+- **optout.eu.getblueshift.com**
+- **bsft.us**
+
+---
+
+**Core:**
+- actioniq.com
+
+**API & Application:**
+- api.actioniq.com
+- profile-api.actioniq.com
+- app.actioniq.com
+- tag.actioniq.com
+- cdn.actioniq.com
+- docs.actioniq.com
+
+---
+
+### OFFERFIT ❌ ACQUIRED — Braze (June 2025)
+
+- offerfit.ai
+- *.offerfit.ai
+
+---
+
+### AAMPE ⭐ NEW
+
+**Core:**
+- aampe.com
+- *.aampe.com
+- docs.aampe.com
+
+** (API Endpoints):**
+- **ingestion.api.aampe.com**
+- **api.aampe.com**
+- **app.aampe.com**
+- **kb.aampe.com**
+
+---
+
+## 🔶 MEDIA & PUBLISHING PERSONALIZATION
+
+### PIANO.IO (formerly Tinypass)
+
+**Core (Piano):**
+- piano.io
+- *.piano.io
+
+**Core (Tinypass — ACTIVE):**
+- tinypass.com
+- *.tinypass.com
+
+**Piano ID:**
+- id.piano.io
+- id-sandbox.piano.io
+- id.tinypass.com
+- id.{customer}.tinypass.com
+- auth.{customer}.tinypass.com
+
+**CDN:**
+- cdn.piano.io
+- cdn.tinypass.com
+
+**Checkout & API:**
+- buy.tinypass.com
+- api.tinypass.com
+
+**Dashboard:**
+- dashboard.piano.io
+- dashboard.tinypass.com
+- publisher.tinypass.com
+
+**Sandbox:**
+- sandbox.piano.io
+- sandbox.tinypass.com
+- pmauth-sandbox.tinypass.com
+
+---
+
+### PERMUTIVE
+
+**Core:**
+- permutive.com
+- cdn.permutive.com
+- api.permutive.com
+
+**CDN (Cloudflare):**
+- cdn.permutive.app
+
+**API (GCP — Regional):**
+- api.permutive.app
+- a.api.permutive.app
+- b.api.permutive.app
+- c.api.permutive.app
+- legacy.api.permutive.app
+
+**Staging & AMP:**
+- a.api-staging.permutive.app
+- amp.permutive.app
+
+**Edge Network:**
+- {uuid}.edge.permutive.app
+
+---
+
+## ⭐ MODERN EXPERIMENTATION
+
+### WEBFLOW OPTIMIZE (formerly Intellimize)
+
+**Core (Webflow):**
+- webflow.com
+- *.webflow.com
+- app.webflow.com
+
+**Legacy Intellimize (ACTIVE):**
+- intellimize.com
+- app.intellimize.com
+
+**Webflow API & CDN:**
+- api.webflow.com
+- api-cdn.webflow.com
+- uploads-ssl.webflow.com
+- assets.website-files.com
+- *.webflow.io
+- cdn.webflow.com
+
+**Tools:**
+- designer.webflow.com
+- university.webflow.com
+- developers.webflow.com
+
+---
+
+### OMNICONVERT
+
+**Core:**
+- omniconvert.com
+- *.omniconvert.com
+
+**CDN & Application:**
+- cdn.omniconvert.com
+- app.omniconvert.com
+- omniconvert.app
+- api.omniconvert.com
+
+---
+
+### YIELDIFY
+
+**Core:**
+- yieldify.com
+- *.yieldify.com
+
+**Services:**
+- convert.yieldify.com
+- status.yieldify.com
+- support.yieldify.com
+
+---
+
+### EVOLV AI
+
+**Core:**
+- evolv.ai
+- *.evolv.ai
+- developers.evolv.ai
+
+**Media/CDN:**
+- media.evolv.ai
+
+**API:**
+- {environment}.evolv.ai
+
+- **participants.evolv.ai**
+
+---
+
+### ZOHO PAGESENSE
+
+**Core:**
+- pagesense.io
+- *.pagesense.io
+
+**CDN:**
+- cdn.pagesense.io
+- zohotagmanager.cdn.pagesense.io
+
+**Application:**
+- app.pagesense.io
+
+**Zoho Help:**
+- zoho.com/pagesense/
+- help.zoho.com/portal/en/kb/pagesense/
