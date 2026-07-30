@@ -1,0 +1,569 @@
+CONSUMER SUSTAINABILITY & CARBON TRACKING RESEARCH LIST
+
+🔴 TIER 1 — CARBON FOOTPRINT CALCULATORS & TRACKERS
+
+# JORO — CRITICAL – Full Bank Access! Now part of Commons
+0.0.0.0 joro.tech
+0.0.0.0 joro.app
+0.0.0.0 api.joro.tech
+0.0.0.0 app.joro.tech
+0.0.0.0 analytics.joro.tech
+0.0.0.0 cdn.joro.tech
+0.0.0.0 static.joro.tech
+
+# WREN — Offset platform
+0.0.0.0 wren.co
+0.0.0.0 projectwren.com
+0.0.0.0 api.wren.co
+0.0.0.0 cdn.wren.co
+0.0.0.0 analytics.wren.co
+0.0.0.0 app.wren.co
+
+# KLIMA — 2022 data breach!
+0.0.0.0 klima.com
+0.0.0.0 klimaapp.com
+0.0.0.0 api.klima.com
+0.0.0.0 analytics.klima.com
+0.0.0.0 cdn.klima.com
+0.0.0.0 app.klima.com
+0.0.0.0 klimaapp.de
+0.0.0.0 klimaapp.net
+
+# CAPTURE
+0.0.0.0 capture.app
+0.0.0.0 captur.eco
+0.0.0.0 api.capture.app
+0.0.0.0 capture.work
+0.0.0.0 thecapture.club
+0.0.0.0 cdn.capture.app
+0.0.0.0 analytics.capture.app
+0.0.0.0 firebase.capture.app
+0.0.0.0 capture.eco
+
+# PAWPRINT
+0.0.0.0 pawprint.eco
+0.0.0.0 pawprint.green
+0.0.0.0 api.pawprint.eco
+0.0.0.0 app.pawprint.eco
+0.0.0.0 cdn.pawprint.eco
+0.0.0.0 analytics.pawprint.eco
+0.0.0.0 static.pawprint.eco
+0.0.0.0 wearepawprint.com
+
+# AERIAL
+0.0.0.0 aerial.is
+0.0.0.0 aerialapp.com
+0.0.0.0 api.aerial.is
+0.0.0.0 analytics.aerial.is
+0.0.0.0 cdn.aerial.is
+
+# COMMONS — formerly Joro
+0.0.0.0 commons.earth
+0.0.0.0 joincommons.com
+0.0.0.0 api.commons.earth
+0.0.0.0 thecommons.earth
+0.0.0.0 cdn.commons.earth
+0.0.0.0 analytics.commons.earth
+0.0.0.0 static.commons.earth
+
+# NORTH — formerly Deedster
+0.0.0.0 north.app
+0.0.0.0 deedster.com
+0.0.0.0 api.north.app
+0.0.0.0 analytics.deedster.com
+0.0.0.0 cdn.deedster.com
+0.0.0.0 static.deedster.com
+
+# CHANGERS
+0.0.0.0 changers.com
+0.0.0.0 co2fit.com
+0.0.0.0 api.changers.com
+0.0.0.0 analytics.changers.com
+0.0.0.0 cdn.changers.com
+0.0.0.0 changers.zendesk.com
+0.0.0.0 klima-taler.com
+
+# GIKI
+0.0.0.0 giki.earth
+0.0.0.0 gikiapp.com
+0.0.0.0 api.giki.earth
+0.0.0.0 gikibadges.com
+0.0.0.0 gikizero.earth
+0.0.0.0 zero.giki.earth
+
+# MY CARBON PLAN
+0.0.0.0 mycarbonplan.org
+
+# CARBON FOOTPRINT LTD
+0.0.0.0 carbonfootprint.com
+0.0.0.0 calculator.carbonfootprint.com
+0.0.0.0 api.carbonfootprint.com
+
+# EEVIE
+0.0.0.0 eevie.io
+
+# CARBONAUTS
+0.0.0.0 carbonauts.app
+
+# CARBON NEUTRAL
+0.0.0.0 carbonneutral.com
+
+# MYCO2
+0.0.0.0 myco2.app
+
+# EARTH HERO — Community-based nonprofit
+0.0.0.0 earthhero.org
+0.0.0.0 api.earthhero.org
+
+# ECOHERO — BytePioneers s.r.o.
+0.0.0.0 ecohero.app
+0.0.0.0 ecohero.org
+0.0.0.0 api.ecohero.app
+0.0.0.0 bytepioneers.com
+0.0.0.0 press.ecohero.app
+
+# MYEARTH — University of Wisconsin
+0.0.0.0 myearth.app
+0.0.0.0 api.myearth.app
+
+# TRACKY — Family + Carbon hybrid
+0.0.0.0 tracky.app
+0.0.0.0 api.tracky.app
+0.0.0.0 trackylocation.com
+0.0.0.0 tracky-cf353.web.app
+0.0.0.0 tracky-cf353.firebaseapp.com
+0.0.0.0 whoanalytics.com
+
+# LIVEGREEN
+0.0.0.0 livegreen.app
+0.0.0.0 api.livegreen.app
+0.0.0.0 livegreen.io
+0.0.0.0 api.livegreen.io
+
+# DECARBON
+0.0.0.0 decarbon.app
+0.0.0.0 api.decarbon.app
+0.0.0.0 decarbonapp.com
+0.0.0.0 guide.decarbonapp.com
+
+# GOODSIDE — RBC Ventures
+0.0.0.0 goodside.app
+0.0.0.0 api.goodside.app
+0.0.0.0 joingoodside.com
+
+# ZEROFY 
+0.0.0.0 zerofy.net
+0.0.0.0 api.zerofy.net
+0.0.0.0 zerofy.io
+0.0.0.0 app.zerofy.io
+0.0.0.0 whitelabel.zerofy.net
+0.0.0.0 docs.zerofy.net
+
+# RVOLT — Energy Gamification
+0.0.0.0 rvolt.io
+0.0.0.0 api.rvolt.io
+
+# COOLCLIMATE — UC Berkeley
+0.0.0.0 coolclimate.org
+0.0.0.0 coolclimate.berkeley.edu
+0.0.0.0 api.coolclimate.org
+0.0.0.0 calculator.coolclimate.org
+0.0.0.0 ecodatalab.coolclimate.org
+0.0.0.0 maps.coolclimate.berkeley.edu
+0.0.0.0 coolclimate.net
+
+# TANBII — Web5 Gamification
+0.0.0.0 tanbii.com
+0.0.0.0 tanbii.app
+0.0.0.0 tanbii.io
+0.0.0.0 blog.tanbii.com
+0.0.0.0 api.tanbii.com
+
+# EARTHLY — Plaid + Åland Index
+0.0.0.0 earthlyapp.com
+0.0.0.0 api.earthlyapp.com
+
+# OFFCENTS — Travel Carbon
+0.0.0.0 offcents.com
+0.0.0.0 api.offcents.com
+
+# FLOOP — Food Carbon
+0.0.0.0 thefloopapp.com
+0.0.0.0 api.thefloopapp.com
+
+# DOCONOMY — B2B Fintech + DO Consumer App
+0.0.0.0 doconomy.com
+0.0.0.0 api.doconomy.com
+0.0.0.0 app.doconomy.com
+0.0.0.0 lifestylecalculator.com
+
+# MYPLAN8 — India
+0.0.0.0 myplan8.earth
+0.0.0.0 api.myplan8.earth
+0.0.0.0 app.myplan8.earth
+
+# CARBO / HelloCarbo — France
+0.0.0.0 hellocarbo.com
+0.0.0.0 app.hellocarbo.com
+0.0.0.0 pro.hellocarbo.com
+0.0.0.0 blog.hellocarbo.com
+0.0.0.0 api.hellocarbo.com
+
+# TRACE — Australia / UK
+0.0.0.0 our-trace.com
+0.0.0.0 app.our-trace.com
+0.0.0.0 platform.our-trace.com
+0.0.0.0 portal.our-trace.com
+0.0.0.0 api.our-trace.com
+0.0.0.0 help.our-trace.com
+0.0.0.0 support.our-trace.com
+
+🔴 TIER 3 — CONSUMER GREEN BANKING WITH CARBON TRACKING
+
+# ASPIRATION — Tracks EVERY purchase! (now GreenFi)
+0.0.0.0 aspiration.com
+0.0.0.0 aspiration.net
+0.0.0.0 api.aspiration.com
+0.0.0.0 app.aspiration.com
+0.0.0.0 cdn.aspiration.com
+0.0.0.0 assets.aspiration.com
+0.0.0.0 carbonanalytics.com
+0.0.0.0 api.carbonanalytics.com
+0.0.0.0 carboninsights.com
+# ASPIRATION → GREENFI (2024 rebrand)
+0.0.0.0 greenfi.com
+0.0.0.0 api.greenfi.com
+0.0.0.0 app.greenfi.com
+
+# ATMOS — Transitioning to Clean Energy Credit Union
+0.0.0.0 joinatmos.com
+0.0.0.0 atmos.financial
+0.0.0.0 api.joinatmos.com
+
+# TOMORROW — Germany
+0.0.0.0 tomorrow.one
+0.0.0.0 tomorrow.de
+0.0.0.0 api.tomorrow.one
+
+# TREECARD — (Closed 2023)
+0.0.0.0 treecard.org
+0.0.0.0 api.treecard.org
+0.0.0.0 help.treecard.org
+0.0.0.0 usa.treecard.org
+0.0.0.0 welcome.treecard.org
+
+# TRED — (Closed 2025) 
+0.0.0.0 tred.earth
+0.0.0.0 app.tred.earth
+0.0.0.0 api.tred.earth
+0.0.0.0 developer.tred.earth
+
+🔴 TIER 4 — CONSUMER HOME ENERGY MONITORS
+
+# OhmConnect — Device control!
+0.0.0.0 ohmconnect.com
+0.0.0.0 ohmconnect.net
+0.0.0.0 api.ohmconnect.com
+0.0.0.0 login.ohmconnect.com
+0.0.0.0 auth.ohmconnect.com
+0.0.0.0 ohm-myacct.smartgridcis.net
+0.0.0.0 ohmc.co
+
+# SENSE — Device-level tracking!
+0.0.0.0 sense.com
+0.0.0.0 sense.net
+0.0.0.0 api.sense.com
+0.0.0.0 home.sense.com
+0.0.0.0 websocket.sense.com
+0.0.0.0 clientrt.sense.com
+0.0.0.0 api-prod.sense.com
+
+# NEURIO
+0.0.0.0 neur.io
+0.0.0.0 neurio.com
+0.0.0.0 api.neur.io
+0.0.0.0 cloud.neur.io
+0.0.0.0 api-docs.neur.io
+
+# EMPORIA ENERGY
+0.0.0.0 emporiaenergy.com
+0.0.0.0 api.emporiaenergy.com
+0.0.0.0 web.emporiaenergy.com
+0.0.0.0 shop.emporiaenergy.com
+0.0.0.0 help.emporiaenergy.com
+0.0.0.0 community.emporiaenergy.com
+
+# ENERGY CURB
+0.0.0.0 energycurb.com
+0.0.0.0 api.energycurb.com
+0.0.0.0 app.energycurb.com
+0.0.0.0 websocket.energycurb.com
+
+# SMAPPEE
+0.0.0.0 smappee.com
+0.0.0.0 smappee.net
+0.0.0.0 api.smappee.net
+0.0.0.0 app1pub.smappee.net
+0.0.0.0 dashboard.smappee.com
+0.0.0.0 dashboard.smappee.net
+0.0.0.0 oauth.smappee.com
+
+# RAINFOREST AUTOMATION — EMU devices
+0.0.0.0 rainforestautomation.com
+
+# THE ENERGY DETECTIVE — TED
+0.0.0.0 theenergydetective.com
+
+# BRULTECH — GreenEye Monitor
+0.0.0.0 brultech.com
+
+# EYEDRO
+0.0.0.0 eyedro.com
+
+# IOTAWATT — Open source
+0.0.0.0 iotawatt.com
+
+🔴 TIER 7 — FOOD & DIET CARBON TRACKING
+
+# EATERNITY
+0.0.0.0 eaternity.org
+0.0.0.0 eaternity.ch
+0.0.0.0 api.eaternity.org
+0.0.0.0 co2.eaternity.ch
+0.0.0.0 test.eaternity.ch
+
+# MY EMISSIONS
+0.0.0.0 myemissions.green
+0.0.0.0 api.myemissions.green
+
+# AWORLD — UN-backed
+0.0.0.0 aworld.org
+0.0.0.0 aworld.app
+0.0.0.0 api.aworld.org
+0.0.0.0 actnow.aworld.org
+0.0.0.0 saas.aworld.org
+
+# KARMA
+0.0.0.0 karma.life
+0.0.0.0 karmaapp.io
+0.0.0.0 api.karma.life
+0.0.0.0 save.karma.life
+0.0.0.0 staging.karma.life
+
+# TOO GOOD TO GO — Restaurant visit tracking!
+0.0.0.0 toogoodtogo.com
+0.0.0.0 toogoodtogo.org
+0.0.0.0 api.toogoodtogo.com
+0.0.0.0 apptoogoodtogo.com
+0.0.0.0 euw1.apptoogoodtogo.com
+0.0.0.0 use1.apptoogoodtogo.com
+0.0.0.0 meta.apptoogoodtogo.com
+0.0.0.0 backend-staging.apptoogoodtogo.com
+0.0.0.0 backend-staging-euw1.apptoogoodtogo.com
+0.0.0.0 backend-staging-use1.apptoogoodtogo.com
+0.0.0.0 images.tgtg.ninja
+0.0.0.0 tgtg.ninja
+0.0.0.0 dev-euw1.tgtg.ninja
+0.0.0.0 dev-use1.tgtg.ninja
+
+# OLIO — Neighborhood connections!
+0.0.0.0 olioex.com
+0.0.0.0 olio.app
+0.0.0.0 api.olioex.com
+
+# EVOCCO — Ireland
+0.0.0.0 evocco.ie
+0.0.0.0 app.evocco.ie
+
+# FOODSTEPS
+0.0.0.0 foodsteps.com
+
+# CLIMATARIAN
+0.0.0.0 climatarian.com
+
+# CLIMATESMART
+0.0.0.0 climatesmart.co
+
+# SWRM — Grocery tracking
+0.0.0.0 greenswrm.com
+0.0.0.0 api.greenswrm.com
+0.0.0.0 app.greenswrm.com
+
+🔴 TIER 8 — FASHION & CLOTHING SUSTAINABILITY
+
+# GOOD ON YOU — Brand tracking!
+0.0.0.0 goodonyou.eco
+0.0.0.0 goodonyou.com.au
+0.0.0.0 api.goodonyou.eco
+0.0.0.0 api.brandlist.goodonyou.eco
+0.0.0.0 partnerships.goodonyou.eco
+0.0.0.0 directory.goodonyou.eco
+
+# PROJECT CECE
+0.0.0.0 projectcece.com
+0.0.0.0 projectcece.nl
+0.0.0.0 api.projectcece.com
+0.0.0.0 projectcece.de
+0.0.0.0 projectcece.co.uk
+
+# DONE GOOD
+0.0.0.0 donegood.co
+0.0.0.0 donegood.com
+0.0.0.0 api.donegood.co
+
+# SUSTAINABLE FASHION COLLECTIVE
+0.0.0.0 thesustainablefashioncollective.com
+
+# REMAKE
+0.0.0.0 remake.world
+0.0.0.0 remakefashion.org
+
+# FASHION CHECKER
+0.0.0.0 fashionchecker.org
+
+# CLEAR FASHION — France
+0.0.0.0 clear-fashion.com
+
+🔴 TIER 9 — SHOPPING & PRODUCT TRACKING
+
+# THINK DIRTY
+0.0.0.0 thinkdirtyapp.com
+0.0.0.0 api.thinkdirtyapp.com
+0.0.0.0 staging.thinkdirtyapp.com
+
+# BUYCOTT — Purchase tracking!
+0.0.0.0 buycott.com
+0.0.0.0 buycott.net
+0.0.0.0 api.buycott.com
+
+# YUKA — Europe
+0.0.0.0 yuka.io
+0.0.0.0 yuka.app
+0.0.0.0 api.yuka.io
+0.0.0.0 android.yuka.io
+0.0.0.0 help.yuka.io
+
+# BEAT THE MICROBEAD
+0.0.0.0 beatthemicrobead.org
+0.0.0.0 api.beatthemicrobead.org
+
+# CODECHECK — Germany / Switzerland
+0.0.0.0 codecheck.info
+0.0.0.0 api.codecheck.info
+
+# SCAN4CHEM — EU chemicals
+0.0.0.0 scan4chem.eu
+
+# BETTERGUIDE
+0.0.0.0 betterguide.com
+
+🔴 TIER 10 — RECYCLING & WASTE TRACKING
+
+# RECYCLE COACH — Waste schedules!
+0.0.0.0 recyclecoach.com
+0.0.0.0 recyclecoach.net
+0.0.0.0 api.recyclecoach.com
+0.0.0.0 us-clients.recyclecoach.com
+
+# EARTH911
+0.0.0.0 earth911.com
+0.0.0.0 api.earth911.com
+0.0.0.0 search.earth911.com
+0.0.0.0 business.earth911.com
+
+# IRECYCLE
+0.0.0.0 irecyclapp.com
+0.0.0.0 api.irecyclapp.com
+
+# LITTERATI — Photo uploads!
+0.0.0.0 litterati.org
+0.0.0.0 api.litterati.org
+0.0.0.0 support.litterati.org
+0.0.0.0 dashboard.litterati.org
+
+# JOULEBUG
+0.0.0.0 joulebug.com
+0.0.0.0 joulebug.net
+0.0.0.0 api.joulebug.com
+0.0.0.0 whitelabel.joulebug.com
+0.0.0.0 joulebug.zendesk.com
+0.0.0.0 sandbox.joulebug.com
+0.0.0.0 help.joulebug.com
+0.0.0.0 community.joulebug.com
+
+# OROECO 
+0.0.0.0 oroeco.com
+0.0.0.0 oroeco.org
+0.0.0.0 api.oroeco.com
+0.0.0.0 360plus.org
+0.0.0.0 360plus.com
+
+# RECYCLE.COM
+0.0.0.0 recycle.com
+
+# RECYCLE NOW — UK
+0.0.0.0 recyclenow.com
+
+🔴 TIER 11 — CONSUMER WATER TRACKING
+
+# DROPCOUNTR — KUBRA 
+0.0.0.0 dropcountr.com
+0.0.0.0 api.dropcountr.com
+0.0.0.0 kubra.com
+0.0.0.0 consumersupport.kubra.com
+
+# WATERSMART — Behavioral nudging!
+0.0.0.0 watersmart.com
+0.0.0.0 watersmart.net
+0.0.0.0 api.watersmart.com
+0.0.0.0 portal.watersmart.com
+
+# PHYN — Every water event!
+0.0.0.0 phyn.com
+0.0.0.0 phyn.net
+0.0.0.0 api.phyn.com
+0.0.0.0 dashboard.phyn.com
+0.0.0.0 helpcenter.phyn.com
+0.0.0.0 support.phyn.com
+
+# FLO BY MOEN — Water patterns!
+0.0.0.0 meetflo.com
+0.0.0.0 flobymoen.com
+0.0.0.0 api.meetflo.com
+0.0.0.0 api-gw.meetflo.com
+0.0.0.0 user.meetflo.com
+0.0.0.0 support.meetflo.com
+0.0.0.0 manuals.meetflo.com
+
+🔴 TIER 13 — FLIGHT & TRAVEL CARBON
+
+# ATMOSFAIR
+0.0.0.0 atmosfair.de
+0.0.0.0 atmosfair.com
+0.0.0.0 api.atmosfair.de
+0.0.0.0 co2offset.atmosfair.de
+
+# MYCLIMATE
+0.0.0.0 myclimate.org
+0.0.0.0 api.myclimate.org
+0.0.0.0 connect.myclimate.org
+0.0.0.0 co2.myclimate.org
+
+# GOLD STANDARD
+0.0.0.0 goldstandard.org
+0.0.0.0 api.goldstandard.org
+0.0.0.0 registry.goldstandard.org
+0.0.0.0 goldstandardhelp.freshdesk.com
+
+# CLIMATE CARE — Climate Impact Partners
+0.0.0.0 climatecare.org
+0.0.0.0 api.climatecare.org
+0.0.0.0 climateimpact.com
+0.0.0.0 info.climateimpact.com
+
+# CARBON CLICK
+0.0.0.0 carbonclick.com
+0.0.0.0 carbonclick.net
+0.0.0.0 api.carbonclick.com
+0.0.0.0 carbon.click
+0.0.0.0 app.carbon.click
