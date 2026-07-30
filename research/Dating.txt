@@ -1,0 +1,2018 @@
+# DATING APPS DOMAIN BLOCKLIST RESEARCH LIST
+
+---
+---
+
+## TIER 1 — MAJOR DATING APPS (Match Group)
+
+### TINDER (Match Group)
+
+- tinder.com
+- gotinder.com
+- tindersparks.com
+- tinder-app.com
+- api.gotinder.com
+- assets.gotinder.com
+- static.gotinder.com
+- cdn.gotinder.com
+- analytics.gotinder.com
+- events.gotinder.com
+- tinder.onelink.me
+- tinderchat.com
+- images-ssl.gotinder.com
+- data.gotinder.com
+- inboxcrm-ssl.gotinder.com
+- keepalive.gotinder.com
+- marketing-images.gotinder.com
+- preview-global.gotinder.com
+- preview.gotinder.com
+- rapidfirepublishpxy.ue1az.gotinder.com
+- sp.gotinder.com
+- static-assets.gotinder.com
+- api-cloudfront-failover.gotinder.com
+- eu1.gotinder.com
+- eu2.gotinder.com
+- a.ue1az.gotinder.com
+- b.ue1az.gotinder.com
+- c.ue1az.gotinder.com
+- d.ue1az.gotinder.com
+- tableau.gotinder.com
+- console.gotinder.com
+- reports.gotinder.com
+- summary.gotinder.com
+- swipedright.gotinder.com
+- sharemydate.gotinder.com
+- api.sharemydate.gotinder.com
+- dynamic-config.gotinder.com
+- stacks-photos.gotinder.com
+- confluence.gotinder.com
+- jira.gotinder.com
+- vpn.gotinder.com
+- demo.gotinder.com
+- tools.gotinder.com
+- api.as1.gotinder.com
+- api-cf.as1.gotinder.com
+- etl.tindersparks.com
+- images.gotinder.com
+- res.cloudinary.com
+- api.cloudinary.com
+- leanplum.com
+- api.leanplum.com
+- cdn.leanplum.com
+- appsflyer.com
+- api.appsflyer.com
+- wa.appsflyer.com
+- t.appsflyer.com
+- branch.io
+- branch.app.link
+- crashlytics.com
+- app-measurement.com
+- amplitude.com
+- api.amplitude.com
+- cdn.amplitude.com
+- segment.com
+- api.segment.io
+
+**NEW (research additions):**
+- arkoselabs.com
+- api.arkoselabs.com
+- client-api.arkoselabs.com
+- api2.branch.io
+- bnc.lt
+- cdn.branch.io
+- tinder-layer-prod.firebaseapp.com
+- mparticle.com
+- s2s.mparticle.com
+- js.mparticle.com
+- intercom.io
+- api.intercom.io
+- sentry.io
+- stripe.com
+- api.stripe.com
+- js.stripe.com
+
+---
+
+### BUMBLE (Bumble Inc.)
+
+- bumble.com
+- bumble.net
+- api.bumble.com
+- bumblecdn.com
+- team-bumble.com
+- app.bumble.com
+- static.bumble.com
+- analytics.bumble.com
+- events.bumble.com
+- bumblebizz.com
+- bumblebff.com
+- bumble.onelink.me
+- badoo.app
+- us1.bumble.com
+- eu1.bumble.com
+- am1.bumble.com
+- support.bumble.com
+- ir.bumble.com
+- blog.bumble.com
+- studio.bumble.com
+- dev.studio.bumble.com
+- consent.bumble.com
+- toau10tix.bumble.com
+- ub-lp.bumble.com
+- bumbcdn.com
+- pd1eu.bumbcdn.com
+- fruitz.app
+- fruitz.com
+
+**NEW (research additions):**
+- city-guides.bumble.com
+- thebeehive.bumble.com
+- design.bumble.com
+- veriff.com
+- api.veriff.com
+- cdn.veriff.com
+- fastly.net
+- sdk.fra-02.braze.com
+
+---
+
+### HINGE (Match Group)
+
+- hinge.co
+- hinge.app
+- api.hinge.co
+- hingecdn.com
+- static.hinge.co
+- app.hinge.co
+- analytics.hinge.co
+- events.hinge.co
+- cdn.hinge.co
+- hinge.onelink.me
+- prod-api.hingeaws.net
+- hingeaws.net
+- media.hingenexus.com
+- sendbird.com
+- api.sendbird.com
+- ws-us-1.sendbird.com
+- ws-us-2.sendbird.com
+- ws-eu-1.sendbird.com
+- sendbirdcalls.com
+- api.sendbirdcalls.com
+
+**NEW (research additions):**
+- hinge-layer-prod.firebaseapp.com
+- identitytoolkit.googleapis.com
+- braze.com
+- api.braze.com
+- sdk.fra-01.braze.com
+- stripe.com
+- sentry.io
+- mparticle.com
+
+---
+
+### OKCUPID (Match Group)
+
+- okcupid.com
+- okcdn.com
+- api.okcupid.com
+- app.okcupid.com
+- static.okcupid.com
+- analytics.okcupid.com
+- events.okcupid.com
+- okcupid.net
+- graphql.okcupid.com
+
+---
+
+### MATCH.COM (Match Group)
+
+- match.com
+- match.net
+- matchaffinity.com
+- api.match.com
+- app.match.com
+- static.match.com
+- cdn.match.com
+- analytics.match.com
+- events.match.com
+- matchcdn.com
+- ir.mtch.com
+
+---
+
+### PLENTY OF FISH (Match Group)
+
+- pof.com
+- plentyoffish.com
+- api.pof.com
+- pofcdn.com
+- app.pof.com
+- static.pof.com
+- analytics.pof.com
+- events.pof.com
+
+---
+
+### MEETIC (Match Group)
+
+- meetic.com
+- meetic.fr
+- meetic.es
+- meetic.it
+- meeticaffinity.com
+- api.meetic.com
+- cdn.meetic.com
+- static.meetic.com
+- meetic.de
+- meetic.nl
+- meetic.be
+- meetic.ch
+- meetic.pt
+- meetic.pl
+- meetic.at
+- meetic.se
+- disonsdemain.fr
+- ourtime.co.uk
+- ourtime.es
+- ourtime.it
+- ourtime.se
+- ourtime.nl
+- zweisam.de
+- zweisam.at
+- zweisam.ch
+- even-app.com
+- api.even-app.com
+- cdn.even-app.com
+- lovescout24.de
+- lovescout24.ch
+- lovescout24.at
+- api.lovescout24.de
+- cdn.lovescout24.de
+- lexa.nl
+- api.lexa.nl
+- cdn.lexa.nl
+- hyperconnect.com
+- hakuna.live
+- api.hakuna.live
+
+---
+
+### PAIRS (Match Group)
+
+- pairs.lv
+- pairscdn.com
+- api.pairs.lv
+- static.pairs.lv
+
+---
+
+### BLK (Match Group)
+
+- blk.app
+- blkapp.com
+- api.blk.app
+- static.blk.app
+- help.blk-app.com
+
+---
+
+### CHISPA (Match Group)
+
+- chispa-app.com
+- chispaapp.com
+- api.chispa-app.com
+- static.chispa-app.com
+- findtuchispa.com
+
+---
+
+### SALAMS / MINDER (Match Group — Acquired Oct 2023)
+
+NOTE: Salams was acquired by Match Group in October 2023. Integration with Match infrastructure expected by end of 2025.
+
+- salams.app
+- api.salams.app
+- cdn.salams.app
+- static.salams.app
+- minder.app
+- sendbird.com
+- api.sendbird.com
+- sendgrid.com
+- api.sendgrid.com
+- com.minderapps.minder
+
+**NEW (research additions):**
+- salams.com
+
+---
+
+### MATCH GROUP INFRASTRUCTURE
+
+- mtch.com
+- matchgroupcareers.com
+- matchgroup.com
+- mtch-analytics.com
+- matchanalytics.com
+- api.matchgroup.com
+- cdn.matchgroup.com
+- events.matchgroup.com
+- telemetry.matchgroup.com
+- metrics.matchgroup.com
+
+**NEW (research additions):**
+- parshipmeetgroup.com
+- api.parshipmeetgroup.com
+- compatiblepartners.net
+- eharmony.com.au
+- parship.co.uk
+- parship.es
+- parship.fr
+
+---
+
+## TIER 2 — LGBTQ+ DATING APPS
+
+### GRINDR
+
+- grindr.com
+- grindr.net
+- grindrcdn.com
+- api.grindr.com
+- grindr-cdn.com
+- grindr-analytics.com
+- app.grindr.com
+- static.grindr.com
+- events.grindr.com
+- telemetry.grindr.com
+- cdn-grindr.com
+- grindr.io
+- grindr.mobi
+- chat.grindr.com
+- xtra.grindr.com
+- g3-beta.grindr.com
+- neo-account.grindr.com
+- cdns.grindr.com
+- gaymoji.grindr.com
+- captcha-prod.grindr.com
+- legal-agreements-prod.grindr.com
+- admin.grindr.com
+- reporting-portal.grindr.com
+- go.grindr.com
+- grindrbloop.com
+- grindrtogo.grindr.com
+- help.grindr.com
+- investors.grindr.com
+- web.grindr.com
+- blog.grindr.com
+- g3-beta-upload.grindr.com
+- appnexus.com
+- api.appnexus.com
+- openx.com
+- api.openx.com
+- adcolony.com
+- api.adcolony.com
+- smaato.com
+- api.smaato.com
+- bucksense.com
+- braze.com
+- api.braze.com
+- criteo.com
+- rocketfuel.com
+- liveramp.com
+- openai.com
+- anthropic.com
+
+NOTE: mopub.com is CLOSED (Twitter shut it down 2022). Remove from blocklist.
+
+**NEW (research additions — from Grindr Privacy Policy):**
+- applovin.com
+- api.applovin.com
+- sdk.applovin.com
+- inmobi.com
+- sdk.inmobi.com
+- ironsource.com
+- sdk.ironsource.com
+- vungle.com
+- api.vungle.com
+- liftoff.io
+- mintegral.com
+- pubmatic.com
+- verve.com
+- bidmachine.io
+- adsbynimbus.com
+- doubleverify.com
+- digitalturbine.com
+- sift.com
+- api.sift.com
+- statsig.com
+- api.statsig.com
+- featuregates.org
+- facetec.com
+- api.facetec.com
+- ketch.com
+- api.ketch.com
+- global.ketchcdn.com
+- stripe.com
+- grindr.zendesk.com
+- status.grindr.com
+
+---
+
+### SCRUFF (Perry Street Software)
+
+- scruff.com
+- scruffcdn.com
+- api.scruff.com
+- app.scruff.com
+- static.scruff.com
+- cdn.scruff.com
+- analytics.scruff.com
+- events.scruff.com
+- perrystreet.com
+- support.scruff.com
+- support.jackd.com
+- beta.jackd.com
+- bkdr.com
+- api.bkdr.com
+- cdn.bkdr.com
+
+---
+
+### JACK'D (Perry Street Software)
+
+- jackd.com
+- jackdapp.com
+- api.jackd.com
+- app.jackd.com
+- static.jackd.com
+- cdn.jackd.com
+- analytics.jackd.com
+
+---
+
+### HORNET (Queer Networks Inc.)
+
+- hornet.com
+- hornetsocial.com
+- api.hornet.com
+- app.hornet.com
+- static.hornet.com
+- cdn.hornet.com
+- analytics.hornet.com
+- hornet.net
+- spaces-app.com
+- api.spaces-app.com
+- cdn.spaces-app.com
+
+**NEW (research additions):**
+- hornetx.com
+- hornetapp.com
+- queernetworks.com
+- status.hornet.com
+
+---
+
+### HER (Bloomer Inc.)
+
+- weareher.com
+- her-app.com
+- hersocial.com
+- api.weareher.com
+- app.weareher.com
+- cdn.weareher.com
+- static.weareher.com
+
+**NEW (research additions — from Mozilla Privacy Review):**
+- stripe.com
+- revenuecat.com
+- api.revenuecat.com
+- an.facebook.com
+- googleadservices.com
+- pagead2.googlesyndication.com
+- bloomer.io
+- hersocialapp.com
+
+---
+
+### ZOE (Cosmic Latte Apps)
+
+- zoe-app.com
+- zoeappdownload.com
+- api.zoe-app.com
+- cdn.zoe-app.com
+- static.zoe-app.com
+- zoeapp.co
+- cosmiclatteapps.com
+
+**NEW (research additions):**
+- app.zoe-app.com
+- status.zoe-app.com
+- com.cosmiclatteapps.zoe
+
+---
+
+### LEX (9count — Acquired 2024)
+
+NOTE: Lex was acquired by 9count in 2024.
+
+- thisislex.app
+- lexapp.co
+- api.thisislex.app
+- cdn.thisislex.app
+- static.thisislex.app
+- debug.thisislex.app
+
+**NEW (research additions):**
+- 9count.com
+- app.thisislex.app
+- graph.instagram.com
+- api.instagram.com
+
+---
+
+### TAIMI
+
+- taimi.com
+- taimiapp.com
+- api.taimi.com
+- cdn.taimi.com
+- static.taimi.com
+- chat.taimi.com
+- adjust.com
+- api.adjust.com
+
+---
+
+### SURGE
+
+- surge.app
+- surgeapp.com
+- api.surge.app
+- cdn.surge.app
+- static.surge.app
+
+---
+
+### GROWLR
+
+- growlr.com
+- growlrapp.com
+- api.growlr.com
+- cdn.growlr.com
+- static.growlr.com
+- help.growlrapp.com
+
+---
+
+### RECON
+
+- recon.com
+- recon-app.com
+- api.recon.com
+- cdn.recon.com
+- worldleathermen.com
+
+---
+
+### ROMEO / PLANETROMEO
+
+- planetromeo.com
+- romeoapp.com
+- gayromeo.com
+- guys4men.com
+- hunqz.com
+- com.planetromeo.android.app
+- erasys.com
+
+---
+
+## TIER 3 — NICHE & ALTERNATIVE DATING
+
+### FEELD
+
+- feeld.co
+- feeldapp.com
+- api.feeld.co
+- core.api.feeld.co
+- api.cloudinary.com
+- res.cloudinary.com
+- 3nder.com
+
+**NEW (research additions — from Privacy Policy + Fortbridge security report):**
+- smartlook.com
+- sdk.smartlook.com
+- recording.smartlook.com
+- google-analytics.com
+- sdk.appsflyer.com
+- app.feeld.co
+- status.feeld.co
+
+---
+
+### THE LEAGUE (Match Group)
+
+- theleague.com
+- theleagueapp.com
+- api.theleague.com
+- app.theleague.com
+- cdn.theleague.com
+- static.theleague.com
+- dashboard.theleague.com
+- portal.theleague.com
+- support.theleague.com
+- join.theleague.com
+
+---
+
+### COFFEE MEETS BAGEL
+
+- coffeemeetsbagel.com
+- cmb.com
+- api.coffeemeetsbagel.com
+- app.coffeemeetsbagel.com
+- cdn.coffeemeetsbagel.com
+- static.coffeemeetsbagel.com
+- cmbcdn.com
+- analytics.coffeemeetsbagel.com
+- io.cmbus.app
+
+---
+
+### HAPPN
+
+- happn.com
+- happnapp.com
+- api.happn.com
+- app.happn.com
+- cdn.happn.com
+- static.happn.com
+- analytics.happn.com
+- happn.app
+- com.ftw_and_co.happn
+
+---
+
+### HILY
+
+- hily.com
+- hilyapp.com
+- api.hily.com
+- cdn.hily.com
+- static.hily.com
+- corp.hily.com
+- api.corp.hily.com
+- cdn.corp.hily.com
+- adjust.com
+- api.adjust.com
+- app.adjust.com
+- com.hily.app
+
+---
+
+### BADOO (Bumble Inc.)
+
+NOTE: Badoo withdrew from Russia April 2022.
+
+- badoo.com
+- badoocdn.com
+- api.badoo.com
+- badoo.net
+- app.badoo.com
+- static.badoo.com
+- cdn.badoo.com
+- analytics.badoo.com
+- events.badoo.com
+- eu.badoo.com
+- badoo.app
+- fruitz.app
+- fruitz.com
+- api.fruitz.app
+- cdn.fruitz.app
+
+**NEW (research additions):**
+- fastly.net
+
+---
+
+### SKOUT / MEETME / TAGGED (The Meet Group)
+
+- skout.com
+- skoutapp.com
+- api.skout.com
+- cdn.skout.com
+- static.skout.com
+- app.skout.com
+- support.skout.com
+- skout.net
+- meetme.com
+- meetmeapi.com
+- app.meetme.com
+- cdn.meetme.com
+- static.meetme.com
+- tagged.com
+- taggedmail.com
+- api.tagged.com
+- cdn.tagged.com
+- static.tagged.com
+- themeetgroup.com
+- api.themeetgroup.com
+- cdn.themeetgroup.com
+- agora.io
+- api.agora.io
+- rtc.agora.io
+- sd-rtn.agora.io
+
+---
+
+### ZOOSK (Spark Networks)
+
+- zoosk.com
+- zooskcdn.com
+- zoosk.net
+- api.zoosk.com
+- app.zoosk.com
+- static.zoosk.com
+- analytics.zoosk.com
+- revenuecat.com
+- api.revenuecat.com
+- com.zoosk.zoosk
+
+---
+
+### EHARMONY (ProSiebenSat.1)
+
+- eharmony.com
+- eharmony.co.uk
+- eharmony.net
+- api.eharmony.com
+- cdn.eharmony.com
+- static.eharmony.com
+- eharmony.de
+- eharmony.au
+- eharmony.ca
+- parshipmeet.com
+- nucomgroup.com
+- compatiblepartners.com
+- api.compatiblepartners.com
+- cdn.compatiblepartners.com
+
+**NEW (research additions):**
+- eharmony.com.au
+- parship.co.uk
+- parship.es
+- parship.fr
+- parshipmeetgroup.com
+
+---
+
+### ELITESINGLES (Spark Networks)
+
+- elitesingles.com
+- elitesingles.co.uk
+- elitesinglescdn.com
+- api.elitesingles.com
+- static.elitesingles.com
+- elitesingles.de
+- elitesingles.fr
+- elitesingles.com.au
+- elitesingles.ca
+- elitesingles.co.nz
+- revenuecat.com
+- api.revenuecat.com
+
+---
+
+### CHRISTIAN MINGLE / JDATE (Spark Networks)
+
+- christianmingle.com
+- christianminglecdn.com
+- api.christianmingle.com
+- cdn.christianmingle.com
+- static.christianmingle.com
+- christianmingle.ca
+- catholicmingle.com
+- baptistsingles.com
+- lutheransingles.com
+- presbyteriansingles.com
+- methodistsingles.com
+- jdate.com
+- jdatecdn.com
+- api.jdate.com
+- cdn.jdate.com
+- static.jdate.com
+- jdate.co.uk
+- support.jdate.com
+
+---
+
+### SILVER SINGLES / OUR TIME (Match Group / Spark Networks)
+
+- silversingles.com
+- silversinglescdn.com
+- api.silversingles.com
+- cdn.silversingles.com
+- static.silversingles.com
+- silversingles.com.au
+- silversingles.ca
+- silversingles.co.uk
+- silversingles.co.nz
+- silversingles.de
+- silversingles.fr
+- ourtime.com
+- ourtimecdn.com
+- api.ourtime.com
+- cdn.ourtime.com
+- static.ourtime.com
+- peoplemedia.com
+- seniorpeoplemeet.com
+- singleparentmeet.com
+- demimonde.com
+- littlepeoplemeet.com
+- babyboomerpeoplemeet.com
+- blackpeoplemeet.com
+- blackpeoplemeetcdn.com
+- api.blackpeoplemeet.com
+- cdn.blackpeoplemeet.com
+- static.blackpeoplemeet.com
+- farmersonly.com
+- farmersdatingsite.com
+- api.farmersonly.com
+- cdn.farmersonly.com
+- static.farmersonly.com
+
+---
+
+## ADULT & DISCREET DATING
+
+### SEEKING.COM (Reflex Media / W8 Tech)
+
+- seeking.com
+- seekingarrangement.com
+- seekingcdn.com
+- api.seeking.com
+- cdn.seeking.com
+- static.seeking.com
+- seekingapp.com
+- whatsyourprice.com
+- api.whatsyourprice.com
+- cdn.whatsyourprice.com
+- static.whatsyourprice.com
+- misstravel.com
+- api.misstravel.com
+- cdn.misstravel.com
+- static.misstravel.com
+- seekingmillionaire.com
+- openmindedseeking.com
+- adoptaguy.com
+- help.seeking.com
+- de.seeking.com
+- fr.seeking.com
+- es.seeking.com
+- it.seeking.com
+- pt.seeking.com
+- ja.seeking.com
+
+**NEW (research additions — from Privacy Policy):**
+- reflexmedia.com
+- reflexmediainc.com
+- w8tech.com
+- media.seeking.com
+- members.seeking.com
+- clover8.com
+- stndrds.com
+- pages02.net
+- datarep.com
+- datarep.uk
+
+---
+
+### ASHLEY MADISON (Ruby Life)
+
+- ashleymadison.com
+- ashleymadison.net
+- api.ashleymadison.com
+- cdn.ashleymadison.com
+- static.ashleymadison.com
+- rubylife.com
+- media.rubylife.com
+- api.rubylife.com
+- cdn.rubylife.com
+- cougarlife.com
+- api.cougarlife.com
+- cdn.cougarlife.com
+- cougarlifecdn.com
+- static.cougarlife.com
+- establishedmen.com
+- api.establishedmen.com
+- cdn.establishedmen.com
+- static.establishedmen.com
+- help.ashleymadison.com
+- avidlifemedia.com
+- avidlife.com
+
+**NEW (research additions):**
+- rubycorp.com
+- ruby.com
+- adlmedia.com
+
+---
+
+### ADULT FRIENDFINDER (FriendFinder Networks)
+
+- adultfriendfinder.com
+- api.adultfriendfinder.com
+- cdn.adultfriendfinder.com
+- static.adultfriendfinder.com
+- secure.adultfriendfinder.com
+- banners.adultfriendfinder.com
+- graphics.adultfriendfinder.com
+- fp.adultfriendfinder.com
+- ffn.com
+- friendfinderinc.com
+- mlflow.friendfinderinc.com
+- asiafriendfinder.com
+- amigos.com
+- bigchurch.com
+- seniorfriendfinder.com
+- geek2geek.com
+- cs77.wac.edgecastcdn.net
+- mates.com
+- passion.com
+- fp.passion.com
+- hotdatingreview.com
+- chatmaduras.com
+- neonlove.net
+- asianbeautygirl.com
+- asianhotlips.com
+- various.com
+- variousinc.com
+- api.friendfinderinc.com
+- cdn.friendfinderinc.com
+- idenfy.com
+
+**NEW (research additions):**
+- alt.com
+- outpersonals.com
+
+---
+
+### VICTORIA MILAN (Digisec Media / Neon Media Lab)
+
+NOTE: Victoria Milan Android app was removed from Google Play June 2024. iOS app still active.
+
+- victoriamilan.com
+- api.victoriamilan.com
+- cdn.victoriamilan.com
+- static.victoriamilan.com
+- richmeetbeautiful.com
+- api.richmeetbeautiful.com
+
+**NEW (research additions):**
+- victoriamilan.net
+- victoriamilan.co.uk
+- digisec.com
+- richmeetbeautiful.net
+
+---
+
+### GLEEDEN (Blackdivine, France)
+
+- gleeden.com
+- gleedencom.com
+- api.gleeden.com
+- cdn.gleeden.com
+- static.gleeden.com
+- blackdivine.com
+- api.blackdivine.com
+- com.blackdivine.gleeden
+
+**NEW (research additions — country versions):**
+- gleeden.es
+- gleeden.it
+- gleeden.de
+- gleeden.co.uk
+
+---
+
+### ILLICIT ENCOUNTERS / HEATED AFFAIRS / NOSTRINGSATTACHED
+
+- illicitencounters.com
+- web2.illicitencounters.com
+- api.illicitencounters.com
+- cdn.illicitencounters.com
+- static.illicitencounters.com
+- blog.illicitencounters.com
+- heatedaffairs.com
+- api.heatedaffairs.com
+- cdn.heatedaffairs.com
+- static.heatedaffairs.com
+- nostringsattached.com
+- api.nostringsattached.com
+- cdn.nostringsattached.com
+- static.nostringsattached.com
+- nostringsattached24.com
+
+---
+
+### NICHE ADULT APPS (Pure / Sniffies / Squirt / 3Fun / Bicupid / Wild / Fling)
+
+- pure.app
+- getpure.org
+- api.pure.app
+- cdn.pure.app
+- static.pure.app
+- cn.pure.app
+- sniffies.com
+- api.sniffies.com
+- cdn.sniffies.com
+- squirt.org
+- mobile.squirt.org
+- api.squirt.org
+- cdn.squirt.org
+- static.squirt.org
+- go3fun.co
+- api.go3fun.co
+- cdn.go3fun.co
+- static.go3fun.co
+- bicupid.com
+- bi-cupid.net
+- api.bicupid.com
+- cdn.bicupid.com
+- static.bicupid.com
+- bicupidcdn.com
+- datingappforbisexuals.com
+- successfulmatch.com
+- justbewild.com
+- wildapp.com
+- api.justbewild.com
+- cdn.justbewild.com
+- fling.com
+- sexy.fling.com
+- api.fling.com
+- webdate.com
+- downapp.com
+- down.app
+- api.downapp.com
+- cdn.downapp.com
+- wildbuddies.com
+
+**NEW (research additions):**
+- onlineclassifieds.ag
+- ru.pure.app
+- plus.sniffies.com
+- mapbox.com
+- api.mapbox.com
+- events.mapbox.com
+
+---
+
+## TIER 4 — EXCLUSIVE / SELECTIVE DATING
+
+### RAYA
+
+- rayatheapp.com
+- api.rayatheapp.com
+- cdn.rayatheapp.com
+- static.rayatheapp.com
+
+**NEW (research additions):**
+- graph.instagram.com
+
+---
+
+### INNER CIRCLE (Circle Imperium B.V., Netherlands)
+
+- theinnercircle.co
+- m.theinnercircle.co
+- about.theinnercircle.co
+- kb.theinnercircle.co
+- api.theinnercircle.co
+- cdn.theinnercircle.co
+- static.theinnercircle.co
+
+**NEW (research additions):**
+- events.theinnercircle.co
+- support@theinnercircle.com
+
+---
+
+### LUXY / MILLIONAIREMATCH / ELITE MEETS BEAUTY
+
+- onluxy.com
+- millionairedating.onluxy.com
+- static-cdn.onluxy.com
+- api.onluxy.com
+- cdn.onluxy.com
+- static.onluxy.com
+- millionairematch.com
+- api.millionairematch.com
+- cdn.millionairematch.com
+- static.millionairematch.com
+- millionairematchcom.com
+- elitemeetsbeauty.com
+- api.elitemeetsbeauty.com
+- cdn.elitemeetsbeauty.com
+- static.elitemeetsbeauty.com
+- elitemeetsbeauty-login.com
+
+---
+
+### LOX CLUB / JADE CLUB / AMARA CLUB
+
+- loxclubapp.com
+- api.loxclubapp.com
+- cdn.loxclubapp.com
+- static.loxclubapp.com
+- jadeclubapp.com
+- api.jadeclubapp.com
+- cdn.jadeclubapp.com
+- static.jadeclubapp.com
+- amaraclubapp.com
+- api.amaraclubapp.com
+- cdn.amaraclubapp.com
+- static.amaraclubapp.com
+
+---
+
+### SOULMATCHER / FROME
+
+- soulmatcher.app
+- www.soulmatcher.app
+- matcher.soulmatcher.app
+- firstroundsonme.co
+- api.firstroundsonme.co
+- cdn.firstroundsonme.co
+
+---
+
+## TIER 5-6 — MATCHMAKING SERVICES & VIDEO DATING
+
+- tawkify.com
+- api.tawkify.com
+- cdn.tawkify.com
+- static.tawkify.com
+- itsjustlunch.com
+- api.itsjustlunch.com
+- cdn.itsjustlunch.com
+- static.itsjustlunch.com
+- threedayrule.com
+- cdn.threedayrule.com
+- api.threedayrule.com
+- static.threedayrule.com
+- thelollyapp.com
+- api.thelollyapp.com
+- cdn.thelollyapp.com
+- thesnackapp.com
+- api.thesnackapp.com
+- cdn.thesnackapp.com
+- curtn.com
+- api.curtn.com
+- cdn.curtn.com
+- blindlee.com
+- api.blindlee.com
+- cdn.blindlee.com
+- azarlive.com
+- api.azarlive.com
+- cdn.azarlive.com
+- hyperconnect.com
+- hakuna.live
+- api.hakuna.live
+- cdn.hakuna.live
+
+CLOSED: Clover (clover.co) — shut down August 2023
+
+**NEW (research additions — Hyperconnect/HCE):**
+- hce.io
+- api.hce.io
+
+---
+
+## TIER 7 — INTERNATIONAL & REGIONAL DATING
+
+### TANTAN / MOMO / HELLO GROUP (China)
+
+- tantanapp.com
+- int.tantanapp.com
+- api.tantanapp.com
+- cdn.tantanapp.com
+- static.tantanapp.com
+- com.p1.mobile.putong
+- com.tantantribe.tribe
+- immomo.com
+- api.immomo.com
+- cdn.immomo.com
+- hellogroup.com
+- api.hellogroup.com
+- cdn.hellogroup.com
+- momocorp.com
+
+**NEW (research additions):**
+- tantantribe.com
+- helloplanet.com
+- soulchill.com
+- inspaze.com
+
+---
+
+### PAKTOR / LUNCH ACTUALLY (Southeast Asia)
+
+- gopaktor.com
+- api.gopaktor.com
+- cdn.gopaktor.com
+- static.gopaktor.com
+- paktor.zendesk.com
+- lunchactually.com
+- api.lunchactually.com
+- cdn.lunchactually.com
+- letsgaigai.com
+- fleekimage.com
+- goodnightapp.com
+
+---
+
+### WIPPY / AMANDA / NOONDATE / GLAM / SKY PEOPLE (South Korea / Japan)
+
+- wippy.io
+- www.wippy.io
+- api.wippy.io
+- cdn.wippy.io
+- wippy.jp
+- amanda.co.kr
+- api.amanda.co.kr
+- cdn.amanda.co.kr
+- noondate.com
+- noondate.kr
+- api.noondate.com
+- cdn.noondate.com
+- mozzet.com
+- glam.am
+- www.glam.am
+- api.glam.am
+- cdn.glam.am
+- skypeople.me
+
+---
+
+### JAPANESE DATING APPS (Omiai / Tapple / With / YYC / Zexy / Youbride / Dine / 9Monsters / HappyMail / PCMAX)
+
+- omiai-jp.com
+- www.omiai-jp.com
+- com.omiai_jp
+- tapple.me
+- www.tapple.me
+- static.tapple.me
+- cyberagent.co.jp
+- with-app.jp
+- is.with
+- com.ignis.with
+- yy-c.com
+- www.yy-c.com
+- diverse.inc
+- zexy-koimusubi.net
+- www.zexy-koimusubi.net
+- recruit.co.jp
+- zexy.net
+- youbride.jp
+- www.youbride.jp
+- ibjapan.jp
+- ibj.co.jp
+- dineapp.co.jp
+- www.dineapp.co.jp
+- mrkandco.com
+- ninemonsters.com
+- 9mon.jp
+- happymail.co.jp
+- www.happymail.co.jp
+- happymail.net
+- pcmax.jp
+- www.pcmax.jp
+- netmax.jp
+
+---
+
+### TANGO / SWEETRING / LAMOUR / VIDEO CHAT APPS
+
+- tango.me
+- api.tango.me
+- cdn.tango.me
+- static.tango.me
+- sweetring.com
+- api.sweetring.com
+- cdn.sweetring.com
+- lamour.app
+- api.lamour.app
+- cdn.lamour.app
+- chatroulette.com
+- api.chatroulette.com
+- cdn.chatroulette.com
+- monkey.app
+- neo.monkey.app
+- api.monkey.app
+- cdn.monkey.app
+- holla.world
+- web.holla.world
+- api.holla.world
+- cdn.holla.world
+- livuapp.com
+- api.livuapp.com
+- cdn.livuapp.com
+- chatspin.com
+- api.chatspin.com
+- cdn.chatspin.com
+- camsurf.com
+- en-camsurf.com
+- api.camsurf.com
+- cdn.camsurf.com
+- emeraldchat.app
+- emeraldchat.chat
+- api.emeraldchat.app
+- cdn.emeraldchat.app
+
+CLOSED: Omegle (omegle.com) — shut down November 2023
+
+---
+
+### WAMBA / MAMBA / TEAMO (Eastern Europe)
+
+- wamba.com
+- corp.wamba.com
+- api.wamba.com
+- cdn.wamba.com
+- static.wamba.com
+- mamba.ru
+- api.mamba.ru
+- cdn.mamba.ru
+- static.mamba.ru
+- teamo.ru
+- api.teamo.ru
+- cdn.teamo.ru
+- tourbar.com
+- astrostar.ru
+
+---
+
+## TIER 8 — RELIGIOUS & CULTURAL DATING
+
+### MUTUAL (LDS Dating)
+
+- mutual.app
+- api.mutual.app
+- cdn.mutual.app
+- static.mutual.app
+- feedback.mutual.app
+- mutualdates.com
+- com.mutualapp
+
+**NEW (research additions):**
+- revenuecat.com
+- api.revenuecat.com
+- status.mutual.app
+
+---
+
+### MUZZ / MUZMATCH (Muslim Dating)
+
+- muzz.com
+- muzmatch.com
+- api.muzz.com
+- cdn.muzz.com
+- static.muzz.com
+- com.muzmatch.muzmatchapp
+- com.muzz
+- hans.ns.cloudflare.com
+
+**NEW (research additions):**
+- social.muzz.com
+- rekognition.amazonaws.com
+- mapbox.com
+- api.mapbox.com
+
+---
+
+### DIL MIL (South Asian Dating)
+
+- dilmil.co
+- api.dilmil.co
+- cdn.dilmil.co
+- static.dilmil.co
+- shalom.app
+- api.shalom.app
+- cdn.shalom.app
+
+**NEW (research additions):**
+- app.dilmil.co
+- dreamoasispte.com
+
+---
+
+### MICRUSH / MEETMINDFUL / OTHER CULTURAL
+
+- micrushapp.com
+- api.micrushapp.com
+- cdn.micrushapp.com
+- meetmindful.com
+- api.meetmindful.com
+- cdn.meetmindful.com
+- consciousdatingnetwork.com
+- spiritualsingles.com
+- conscioussingles.com
+- greensingles.com
+- planetearthsingles.com
+- consciousmatch.com
+
+---
+
+## TIER 9 — CONSCIOUS & LIFESTYLE DATING
+
+- archerapp.com
+- api.archerapp.com
+- cdn.archerapp.com
+- stir.com
+- www.stir.com
+- api.stir.com
+- cdn.stir.com
+- getthursday.com
+- thursdayapp.com
+- api.thursdayapp.com
+- cdn.thursdayapp.com
+- getonce.com
+- api.getonce.com
+- cdn.getonce.com
+- kippo.com
+- kippoapp.com
+- api.kippo.com
+- cdn.kippo.com
+- wizzapp.com
+- api.wizzapp.com
+- cdn.wizzapp.com
+
+---
+
+## TIER 13 — SPARK NETWORKS SE
+
+- spark.net
+- api.spark.net
+- cdn.spark.net
+- ir.spark.net
+- edarling.com
+- edarling.de
+- edarling.fr
+- edarling.es
+- edarling.it
+- edarling.nl
+- edarling.se
+- edarling.ch
+- api.edarling.com
+- cdn.edarling.com
+- jswipe.com
+- jswipeapp.com
+- api.jswipe.com
+- cdn.jswipe.com
+- ldssingles.com
+- api.ldssingles.com
+- cdn.ldssingles.com
+- static.ldssingles.com
+- adventistsingles.com
+- api.adventistsingles.com
+- cdn.adventistsingles.com
+- crosspaths.com
+- getcrosspaths.com
+- api.crosspaths.com
+- cdn.crosspaths.com
+- attractiveworld.com
+- attractiveworld.net
+- attractiveworld.fr
+- filteroff.com
+- getfilteroff.com
+- filteroffapp.com
+- api.filteroff.com
+- cdn.filteroff.com
+
+---
+
+## TIER 14 — PARSHIPMEET GROUP
+
+- parshipmeet.com
+- api.parshipmeet.com
+- cdn.parshipmeet.com
+- themeetgroup.com
+- api.themeetgroup.com
+- cdn.themeetgroup.com
+- lovoo.com
+- lovoo.net
+- lovoo.de
+- api.lovoo.com
+- cdn.lovoo.com
+- yapp.live
+- getyapp.live
+- api.yapp.live
+- cdn.yapp.live
+- parship.com
+- parship.de
+- parship.fr
+- parship.nl
+- parship.be
+- parship.ch
+- parship.at
+- parship.it
+- api.parship.com
+- cdn.parship.com
+- elitepartner.com
+- elitepartner.de
+- elitepartner.ch
+- elitepartner.at
+- api.elitepartner.com
+- cdn.elitepartner.com
+- nextdate.com
+- api.nextdate.com
+- cdn.nextdate.com
+- ursafe.com
+- api.ursafe.com
+- cdn.ursafe.com
+- app.ursafe.com
+- ursafeapp.com
+
+---
+
+## RUSSIA — DATING APPS
+
+NOTE: Tinder withdrew from Russia June 2023. Badoo withdrew April 2022.
+
+### VK DATING (VK Group — Russia #1)
+
+- vk.com/dating
+- com.vk.love
+- vk.com
+- api.vk.com
+- cdn.vk.com
+- static.vk.com
+- id.vk.com
+- mail.ru
+- my.com
+- vk-apps.com
+
+**NEW (research additions):**
+- userapi.com
+- vk-cdn.net
+
+---
+
+### TABOR / MINT (AppsDating — Russia #3)
+
+- tabor.ru
+- www.tabor.ru
+- ru.tabor.search
+
+**NEW (research additions):**
+- api.tabor.ru
+- cdn.tabor.ru
+- appsdating.ru
+- mintapp.ru
+
+---
+
+### TWINBY (NEURALAB TECH / Dubai — Russia #2)
+
+- twinby.com
+- www.twinby.com
+- love.twinby.com
+- cloudpayments.ru
+- neuralab.ae
+
+**NEW (research additions):**
+- api.twinby.com
+- cdn.twinby.com
+- app.twinby.com
+
+---
+
+### LOVEPLANET / BEBOO / LOVE@MAIL.RU (Mail.Ru Group)
+
+- loveplanet.ru
+- en.loveplanet.ru
+- www.loveplanet.ru
+- ru.loveplanet.app
+- mail.ru
+- beboo.ru
+- www.beboo.ru
+- ru.beboo.app
+- love.mail.ru
+- www.love.mail.ru
+- ru.corp.mail.love
+- api.mail.ru
+- cdn.mail.ru
+- static.mail.ru
+
+**NEW (research additions):**
+- api.loveplanet.ru
+- cdn.loveplanet.ru
+- api.beboo.ru
+
+---
+
+### MAMBA / NEKTO / WAPLOG
+
+- mamba.ru
+- api.mamba.ru
+- cdn.mamba.ru
+- nekto.me
+- www.nekto.me
+- ru.nekto
+- waplog.com
+- www.waplog.com
+- com.waplog.social
+- cdn.waplog.com
+
+**NEW (research additions):**
+- api.waplog.com
+- app.waplog.com
+- vlmedia.com.tr
+- api.nekto.me
+
+**New platforms not in original list:**
+- badanga.ru
+- api.badanga.ru
+- mediasolutions.ru
+- hott.ru
+
+---
+
+## EUROPEAN DATING APPS
+
+### JAUMO (Germany — Bootstrapped)
+
+- jaumo.com
+- api.jaumo.com
+- cdn.jaumo.com
+- static.jaumo.com
+- com.jaumo
+
+**NEW (research additions):**
+- app.jaumo.com
+- community.jaumo.com
+
+---
+
+### IDATES (SCAM SITE)
+
+- idates.com
+- date.idates.com
+- api.idates.com
+- cdn.idates.com
+- mydates.com
+
+---
+
+### C-DATE (35M worldwide)
+
+- c-date.com
+- c-date.de
+- c-date.fr
+- c-date.es
+- c-date.it
+- c-date.nl
+- c-date.be
+- c-date.ch
+- c-date.at
+- casualdates.com
+
+**NEW (research additions — missing country versions):**
+- c-date.co.uk
+- c-date.com.au
+- c-date.pt
+- c-date.dk
+- c-date.no
+- c-date.se
+- c-date.pl
+
+---
+
+### FINYA (Germany — 100% Free)
+
+- finya.de
+- finya.at
+- finya.ch
+- finya.uk
+- com.finya.app
+
+**NEW (research additions):**
+- api.finya.de
+- cdn.finya.de
+- app.finya.de
+
+---
+
+## MIDDLE EAST & ARAB DATING APPS
+
+- buzzarab.com
+- m.buzzarab.com
+- www.buzzarab.com
+- buzzmedia.com
+- baklavaapp.com
+- www.baklavaapp.com
+- et3arraf.com
+- alkhattaba.com
+- lovehabibi.com
+- img2.lovehabibi.com
+- img3.lovehabibi.com
+- zawaj.com
+- matrimonials.zawaj.com
+- zawajdating.com
+- zawaj-match.com
+- worldsingles.com
+- soudfa.com
+- www.soudfa.com
+- pheromance.com
+- www.pheromance.com
+- sweetmeet.me
+- www.sweetmeet.me
+
+**NEW (research additions):**
+- api.buzzarab.com
+- cdn.buzzarab.com
+- app.buzzarab.com
+- api.baklavaapp.com
+- cdn.baklavaapp.com
+- api.et3arraf.com
+- cdn.et3arraf.com
+- api.lovehabibi.com
+
+---
+
+## INDIA — DATING APPS
+
+- trulymadly.com
+- www.trulymadly.com
+- crescere.tech
+- quackquack.in
+- www.quackquack.in
+- dmmsolutionsinc.com
+- aisle.co
+- www.aisle.co
+- infoedge.in
+- jeevansathi.com
+- getwooapp.com
+- www.getwooapp.com
+- u2opia.com
+- go-gaga-app.com
+- www.go-gaga-app.com
+
+**NEW (research additions):**
+- api.trulymadly.com
+- cdn.trulymadly.com
+- app.trulymadly.com
+- api.quackquack.in
+- cdn.quackquack.in
+- api.aisle.co
+- cdn.aisle.co
+- app.aisle.co
+- rekognition.amazonaws.com
+
+---
+
+## AFRICA — DATING APPS
+
+- trulyafrican.com
+- www.trulyafrican.com
+- rometic.com
+- ihappydate.com
+- api.ihappydate.com
+- cdn.ihappydate.com
+- southafricandate.site
+- sexynaija.com
+- cloudromance.com
+- vznakomstve.com
+- api.vznakomstve.com
+
+**NEW (research additions):**
+- api.trulyafrican.com
+- cdn.trulyafrican.com
+- app.trulyafrican.com
+- app.ihappydate.com
+
+---
+
+## LATIN AMERICA — DATING APPS
+
+- parperfeito.com.br
+- matchlatam.com
+- kismia.com
+- mobapi.kismia.com
+- layk.app
+- latiner.app
+- hullo.dating
+- sweetring.com
+- tango.me
+
+**NEW (research additions):**
+- api.parperfeito.com.br
+- cdn.parperfeito.com.br
+- api.kismia.com
+- cdn.kismia.com
+
+---
+
+## SOUTHEAST ASIA — DATING APPS
+
+- omi.sg
+- www.omi.sg
+- sg.omi
+- com.michatapp.im
+- thaifriendly.com
+- www.thaifriendly.com
+- pinalove.com
+- www.pinalove.com
+- pina-love.net
+- pinalove.net
+- meetoxx.com
+- www.meetoxx.com
+
+**NEW (research additions):**
+- api.omi.sg
+- cdn.omi.sg
+- app.omi.sg
+- michat.app
+- api.michat.com
+- cdn.michat.com
+
+---
+
+## AUSTRALIA — DATING APPS
+
+- rsvp.com.au
+- www.rsvp.com.au
+- fairfaxmedia.com.au
+- silversingles.com.au
+- elitesingles.com.au
+- eharmony.com.au
+
+---
+
+## CUPID MEDIA NETWORK (DatingGroup — 35+ Sites)
+
+NOTE: Cupid Media was acquired by DatingGroup in 2021 for $51M.
+
+- cupidmedia.com
+- api.cupidmedia.com
+- cdn.cupidmedia.com
+- asiandating.com
+- api.asiandating.com
+- cdn.asiandating.com
+- thaicupid.com
+- api.thaicupid.com
+- cdn.thaicupid.com
+- filipinocupid.com
+- api.filipinocupid.com
+- cdn.filipinocupid.com
+- vietnamcupid.com
+- api.vietnamcupid.com
+- cdn.vietnamcupid.com
+- indonesiancupid.com
+- api.indonesiancupid.com
+- cdn.indonesiancupid.com
+- malaysiancupid.com
+- api.malaysiancupid.com
+- cdn.malaysiancupid.com
+- koreancupid.com
+- api.koreancupid.com
+- cdn.koreancupid.com
+- japanesecupid.com
+- api.japanesecupid.com
+- cdn.japanesecupid.com
+- singaporecupid.com
+- api.singaporecupid.com
+- cdn.singaporecupid.com
+- chinalovecupid.com
+- api.chinalovecupid.com
+- cdn.chinalovecupid.com
+- hongkongcupid.com
+- api.hongkongcupid.com
+- cdn.hongkongcupid.com
+- taiwancupid.com
+- api.taiwancupid.com
+- cdn.taiwancupid.com
+- afrointroductions.com
+- api.afrointroductions.com
+- cdn.afrointroductions.com
+- latinamericancupid.com
+- api.latinamericancupid.com
+- cdn.latinamericancupid.com
+- colombiancupid.com
+- api.colombiancupid.com
+- cdn.colombiancupid.com
+- brazilcupid.com
+- api.brazilcupid.com
+- cdn.brazilcupid.com
+- mexicancupid.com
+- api.mexicancupid.com
+- cdn.mexicancupid.com
+- dominicancupid.com
+- api.dominicancupid.com
+- cdn.dominicancupid.com
+- eurocupid.com
+- api.eurocupid.com
+- cdn.eurocupid.com
+- russiancupid.com
+- api.russiancupid.com
+- cdn.russiancupid.com
+- ukrainiancupid.com
+- api.ukrainiancupid.com
+- cdn.ukrainiancupid.com
+- polishcupid.com
+- api.polishcupid.com
+- cdn.polishcupid.com
+- czechcupid.com
+- api.czechcupid.com
+- cdn.czechcupid.com
+- arablounge.com
+- api.arablounge.com
+- cdn.arablounge.com
+- iranianpersonals.com
+- api.iranianpersonals.com
+- cdn.iranianpersonals.com
+- turkishpersonals.com
+- api.turkishpersonals.com
+- cdn.turkishpersonals.com
+- muslima.com
+- api.muslima.com
+- cdn.muslima.com
+- christiancupid.com
+- api.christiancupid.com
+- cdn.christiancupid.com
+- militarycupid.com
+- api.militarycupid.com
+- cdn.militarycupid.com
+- uniformdating.com
+- api.uniformdating.com
+- cdn.uniformdating.com
+- caribbeancupid.com
+- api.caribbeancupid.com
+- cdn.caribbeancupid.com
+- indiacupid.com
+- api.indiacupid.com
+- cdn.indiacupid.com
+- pakistanicupid.com
+- api.pakistanicupid.com
+- cdn.pakistanicupid.com
+- interracialcupid.com
+- api.interracialcupid.com
+- cdn.interracialcupid.com
+
+**NEW (research additions):**
+- datinggroup.com
+- api.datinggroup.com
+- cupidmedia.imgix.net
+
+---
+
+## TIER 12 — SCAM & FRAUD DATING SITES
+
+### SOCIAL DISCOVERY VENTURES / ANASTASIADATE
+
+- socialdiscoveryventures.com
+- dating.com
+- api.dating.com
+- africandate.com
+- arabiandate.com
+- amolatina.com
+- asiandate.com
+- yourtravelmateclub.com
+- datemyage.com
+- api.datemyage.com
+- udates.io
+- chinalove.com
+- solnetworks.eu
+- eurodate.com
+- flirtwith.com
+
+### RUSSIAN/UKRAINIAN SCAM SITES
+
+- russianbeautydate.com
+- victoriyaclub.com
+- anastasiadate.com
+- anastasia.com
+- ukrainedate.com
+- russianbrides.com
+- mail-order-bride.com
+- romancecompass.com
+- loveswans.com
+- jollyromance.com
+- ukrainiancharm.com
+- sofiadate.com
+- kissrussianbeauty.com
+- bravodate.com
+- ukrainebrides4you.com
+
+### ASIAN / LATIN SCAM SITES
+
+- charmdate.com
+- asiancharm.com
+- asianmelodies.com
+- easternhoneys.com
+- orchidromance.com
+- latamdate.com
+- colombialady.com
+- latinfeels.com
+- latinwomanlove.com
+- lovefort.com
