@@ -1,0 +1,1723 @@
+ANTIVIRUS SOFTWARE RESEARCH LIST
+
+
+🛡️ AVAST / AVG (Gen Digital)
+
+Avast Core
+
+  avast.com
+  www.avast.com
+  avast.net
+  ff.avast.com
+  ipm.avast.com
+  my.avast.com
+  static.avast.com
+  avcdn.net
+  ipmcdn.avast.com
+  get-avast.com
+
+Avast Telemetry & Analytics
+
+  stats.avast.com
+  telemetry.avast.com
+  tracking.avast.com
+  smartscan-results.ff.avast.com
+  ip-info.ff.avast.com
+  cloudconf.avast.com
+  metrics.avast.com
+  events.avast.com
+  analytics.avast.com
+  v7.stats.avast.com
+  v7event.stats.avast.com
+  analytics.avcdn.net
+  ncc.avast.com
+  auth.ff.avast.com
+  ipm-provider.ff.avast.com
+  mobile-campaigns.avast.com
+  urlite-prod-gcp.ff.avast.com
+  shepherd-gcp.ff.avast.com
+  nos.ns1.ff.avast.com
+  packet-responder.ff.avast.com
+  v1.ff.avast.com
+  analytics-prod-gcp.ff.avast.com
+  analytics-stage.ff.avast.com
+  analytics.ns1.ff.avast.com
+  ans.avast.com
+  feed.ff.avast.com
+  shepherd.ff.avast.com
+  ping.avast.com
+  shepherd.sb.avast.com
+  shepherd.avcdn.net
+  shepherd.ns1.ff.avast.com
+  ads.avast.com
+  apps.avast.com
+  hist.stats.avast.com
+  lc.stats.avast.com
+  v9.stats.avast.com
+
+Avast Third-Party Trackers
+
+  googleads.g.doubleclick.net
+  googletagmanager.com
+  pagead2.googlesyndication.com
+  an.avast.com
+  myexternalip.com
+
+Avast Updates
+
+  updates.avast.com
+  download.avast.com
+  files.avast.com
+  bits.avast.com
+  update.avast.com
+  cdn.avast.com
+
+Avast Browser Extensions
+
+  avast-browser.com
+  online-security.ff.avast.com
+  passwords.avast.com
+  safeprice.avast.com
+  sp.avast.com
+  extension.avast.com
+
+Avast Secure Browser
+
+  avastbrowser.com
+  secure-browser.avast.com
+  sb.avast.com
+  www.avastbrowser.com
+  securebrowser.avast.tools.avcdn.net
+  au.avastbrowser.com
+
+Avast Business / Remote Control
+
+  *.managedoffsitebackup.net
+  *.sosonlinebackup.com
+
+Avast Jumpshot (Closed - 2020)
+
+  jumpshot.com
+  insights.jumpshot.com
+  api.jumpshot.com
+
+Avast Community & Support
+
+  community.avast.com
+  forum.avast.com
+  blog.avast.com
+  businesshelp.avast.com
+  calendar.avast.com
+  support.avast.com
+
+Avast Bundled Software
+
+  avast-driver-updater.com
+  cleanup.avast.com
+  tuneup.avast.com
+
+AVG Core
+
+  avg.com
+  www.avg.com
+  avgcdn.net
+  tracking.avg.com
+  telemetry.avg.com
+  updates.avg.com
+  download.avg.com
+  community.avg.com
+  my.avg.com
+  stats.avg.com
+  api.avg.com
+
+AVG Secure Search
+
+  avgsecuresearch.com
+  isearch.avg.com
+  searchapp.avg.com
+  search.avg.com
+
+🛡️ NORTON / SYMANTEC (Gen Digital)
+
+Norton Core
+
+  norton.com
+  www.norton.com
+  nortonlifelock.com
+  www.nortonlifelock.com
+  symantec.com
+  www.symantec.com
+  symanteccloud.com
+  us.norton.com
+
+Norton Telemetry & Updates
+
+  liveupdate.symantec.com
+  liveupdate.symantecliveupdate.com
+  update.symantec.com
+  securityresponse.symantec.com
+  submit.symantec.com
+  telemetry.norton.com
+  stats.norton.com
+  nrs.norton.com
+  faults.norton.com
+  tses.broadcom.com
+  telemetry.broadcom.com
+  tses.symantec.com
+
+Norton Cloud Services
+
+  nortonsafe.symantec.com
+  safeweb.norton.com
+  idcrl.norton.com
+  cloud.norton.com
+  sep.securitycloud.symantec.com
+  usea1.r3.securitycloud.symantec.com
+  us.spoc.securitycloud.symantec.com
+  spoc-pool-gtm.norton.com
+  sp.cwfservice.net
+
+Norton / Symantec Reputation & Sample Telemetry
+
+  ent-shasta-rrs.symantec.com
+  ent-shasta-mr-clean.symantec.com
+  central.ss.crsi.symantec.com
+  central.nrsi.symantec.com
+  central.avsi.symantec.com
+  central.b6.crsi.symantec.com
+  central.crsi.symantec.com
+
+Ping Submissions (False-Positive Avoidance)
+
+  shasta-clt.symantec.com
+  stnd-avpg.crsi.symantec.com
+  avs-avpg.crsi.symantec.com
+  stnd-ipsg.crsi.symantec.com
+  bash-avpg.crsi.symantec.com
+
+Client Auth & SymQual
+
+  tus1gwynwapex01.symantec.com
+  faults.qalabs.symantec.com
+  faults.symantec.com
+  pod.threatpulse.com
+
+Cloud API & SecurityCloud (EU/India)
+
+  eu.spoc.securitycloud.symantec.com
+  in.spoc.securitycloud.symantec.com
+  euws1.r3.securitycloud.symantec.com
+  inso1.r3.securitycloud.symantec.com
+  linux-repo.us.securitycloud.symantec.com
+  uploads.sep.securitycloud.symantec.com
+  uploads.sep.eu.securitycloud.symantec.com
+  uploads.sep.in.securitycloud.symantec.com
+  ws.securitycloud.symantec.com
+  bds.securitycloud.symantec.com
+  ws.eu.securitycloud.symantec.com
+  bds.eu.securitycloud.symantec.com
+  ws.in.securitycloud.symantec.com
+  bds.in.securitycloud.symantec.com
+  cdn.sepmobile.securitycloud.symantec.com
+  mitm.sepmobile.securitycloud.symantec.com
+
+Norton Licensing & Definitions
+
+  services-prod.symantec.com
+  www.symantec.com
+
+Norton AWS Infrastructure
+
+  us-east-1-s3-symc-prod-saep-cis.s3.amazonaws.com
+
+Norton Search & SafeWeb
+
+  isearch.norton.com
+  search.norton.com
+  home.norton.com
+  safeweb.norton.com
+  ratings.norton.com
+  safeweb-norton.symantec.com
+
+Norton Community Watch
+
+  communitywatch.norton.com
+  insight.norton.com
+
+Norton DNS & Identity
+
+  dnserrorassist.norton.com
+  identitysafe.norton.com
+  login.norton.com
+  my.norton.com
+  account.norton.com
+  buy.norton.com
+  store.norton.com
+
+Norton Mobile
+
+  mobile.norton.com
+  nm.symantec.com
+
+Norton Crypto
+
+  crypto.norton.com
+  miner.norton.com
+
+🛡️ McAFEE / TRELLIX
+
+McAfee Core
+
+  mcafee.com
+  www.mcafee.com
+  mcafeesecure.com
+  mcafee.net
+  home.mcafee.com
+
+McAfee Telemetry & Updates
+
+  update.nai.com
+  mfevtp.mcafee.com
+  ts.mcafee.com
+  sitelookup.mcafee.com
+  trustedsource.mcafee.com
+  rmmetrics.mcafee.com
+  telemetry.mcafee.com
+  stats.mcafee.com
+  sadownload.mcafee.com
+
+McAfee WebAdvisor
+
+  webadvisor.mcafee.com
+  advisor.mcafee.com
+  download.mcafee.com
+  siteadvisor.com
+
+McAfee GTI
+
+  gti.mcafee.com
+  gti-cloud.mcafee.com
+  threat.api.mcafee.com
+  tau.mcafee.com
+  tunnellist.gti.mcafee.com
+
+McAfee Cloud
+
+  cloud.mcafee.com
+  mfesaas.com
+  api.wgcs.mcafee-cloud.com
+  msg.mcafeesaas.com
+
+McAfee Mobile & Account
+
+  secure.mcafee.com
+  wsc.mcafee.com
+  mobile.mcafee.com
+  accounts.mcafee.com
+  login.mcafee.com
+  licensing.mcafee.com
+  activation.mcafee.com
+
+Trellix Core (Rebrand)
+
+  trellix.com
+  www.trellix.com
+  skyhighsecurity.com
+  trustedsource.org
+  swg.repl.gti.trellix.com
+  tau.skyhigh.cloud
+  policysync.skyhigh.cloud
+  api.wgcs.skyhigh.cloud
+
+Trellix Auth & API
+
+  auth.ui.trellix.com
+  login.auth.ui.trellix.com
+  uam.ui.trellix.com
+  api.manage.trellix.com
+  manage.trellix.com
+  epo.trellix.com
+  api.mvision.mcafee.com
+  auth.ui.mcafee.com
+  login.auth.ui.mcafee.com
+  uam.ui.mcafee.com
+
+Trellix XDR / Helix / MVISION
+
+  helix.apps.fireeye.com
+  marketplaceprod.trellix.com
+  xdr.trellix.com
+  mvision.mcafee.com
+
+🛡️ KASPERSKY
+
+Kaspersky Core
+
+  kaspersky.com
+  www.kaspersky.com
+  kaspersky.net
+  kaspersky-labs.com
+  securelist.com
+  kasperskycontenthub.com
+
+Kaspersky Update Servers (Geo dnl-00/19)
+
+  ds.kaspersky.com
+  dnl-00.geo.kaspersky.com
+  dnl-01.geo.kaspersky.com
+  dnl-02.geo.kaspersky.com
+  dnl-03.geo.kaspersky.com
+  dnl-04.geo.kaspersky.com
+  dnl-05.geo.kaspersky.com
+  dnl-06.geo.kaspersky.com
+  dnl-07.geo.kaspersky.com
+  dnl-08.geo.kaspersky.com
+  dnl-09.geo.kaspersky.com
+  dnl-10.geo.kaspersky.com
+  dnl-11.geo.kaspersky.com
+  dnl-12.geo.kaspersky.com
+  dnl-13.geo.kaspersky.com
+  dnl-14.geo.kaspersky.com
+  dnl-15.geo.kaspersky.com
+  dnl-16.geo.kaspersky.com
+  dnl-17.geo.kaspersky.com
+  dnl-18.geo.kaspersky.com
+  dnl-19.geo.kaspersky.com
+
+Kaspersky Downloads (0-9)
+
+  downloads0.kaspersky-labs.com
+  downloads1.kaspersky-labs.com
+  downloads2.kaspersky-labs.com
+  downloads3.kaspersky-labs.com
+  downloads4.kaspersky-labs.com
+  downloads5.kaspersky-labs.com
+  downloads6.kaspersky-labs.com
+  downloads7.kaspersky-labs.com
+  downloads8.kaspersky-labs.com
+  downloads9.kaspersky-labs.com
+  downloads.kaspersky-labs.com
+  downloads.upd.kaspersky.com
+  us3.kaspersky-labs.com
+  dnl-update-us.kaspersky.com
+  eu.kaspersky-labs.com
+  update.kaspersky-labs.com
+
+Kaspersky UPD Servers S-series (s00-s19)
+
+  s00.upd.kaspersky.com
+  s01.upd.kaspersky.com
+  s02.upd.kaspersky.com
+  s03.upd.kaspersky.com
+  s04.upd.kaspersky.com
+  s05.upd.kaspersky.com
+  s06.upd.kaspersky.com
+  s07.upd.kaspersky.com
+  s08.upd.kaspersky.com
+  s09.upd.kaspersky.com
+  s10.upd.kaspersky.com
+  s11.upd.kaspersky.com
+  s12.upd.kaspersky.com
+  s13.upd.kaspersky.com
+  s14.upd.kaspersky.com
+  s15.upd.kaspersky.com
+  s16.upd.kaspersky.com
+  s17.upd.kaspersky.com
+  s18.upd.kaspersky.com
+  s19.upd.kaspersky.com
+
+Kaspersky UPD Servers P-series (p00-p19)
+
+  p00.upd.kaspersky.com
+  p01.upd.kaspersky.com
+  p02.upd.kaspersky.com
+  p03.upd.kaspersky.com
+  p04.upd.kaspersky.com
+  p05.upd.kaspersky.com
+  p06.upd.kaspersky.com
+  p07.upd.kaspersky.com
+  p08.upd.kaspersky.com
+  p09.upd.kaspersky.com
+  p10.upd.kaspersky.com
+  p11.upd.kaspersky.com
+  p12.upd.kaspersky.com
+  p13.upd.kaspersky.com
+  p14.upd.kaspersky.com
+  p15.upd.kaspersky.com
+  p16.upd.kaspersky.com
+  p17.upd.kaspersky.com
+  p18.upd.kaspersky.com
+  p19.upd.kaspersky.com
+
+Kaspersky KSN (Cloud)
+
+  ksn.kaspersky.com
+  ksn-stat.kaspersky.com
+  ksn1.kaspersky-labs.com
+  ksn2.kaspersky-labs.com
+  ksn3.kaspersky-labs.com
+  ksn4.kaspersky-labs.com
+  ksn-static.kaspersky-labs.com
+  ksn-us.kaspersky-labs.com
+  ksn-eu.kaspersky-labs.com
+
+Kaspersky Cloud & URL
+
+  cloud.kaspersky.com
+  cloud.kaspersky-labs.com
+  kws.kaspersky.com
+  kas.pr
+  urs.kaspersky.com
+  urlchecker.kaspersky.com
+
+Kaspersky Account & License
+
+  my.kaspersky.com
+  accounts.kaspersky.com
+  activation.kaspersky.com
+  license.kaspersky.com
+  pure.kaspersky.com
+  safemoney.kaspersky.com
+  password-manager.kaspersky.com
+  pm.kaspersky.com
+
+Kaspersky Threat Intelligence
+
+  opentip.kaspersky.com
+  threats.kaspersky.com
+  threatpost.com
+
+Kaspersky Mobile
+
+  mobile.kaspersky.com
+  android.kaspersky.com
+  ios.kaspersky.com
+
+Kaspersky Telemetry
+
+  stat.kaspersky.com
+  stats.kaspersky.com
+  dsstat.kaspersky.com
+  telemetry.kaspersky.com
+
+Kaspersky CRL / OCSP / Mail
+
+  crl.kaspersky.com
+  ocsp.kaspersky.com
+  moebius.kaspersky-labs.com
+
+🛡️ BITDEFENDER
+
+Bitdefender Core
+
+  bitdefender.com
+  www.bitdefender.com
+  bitdefender.net
+
+Bitdefender Updates
+
+  upgrade.bitdefender.com
+  download.bitdefender.com
+  updates.bitdefender.com
+  download.bitdefender.net
+  update-server.bitdefender.com
+  update.bitdefender.net
+  update-cloud.2d585.cdn.bitdefender.net
+  update.cloud.2d585.cdn.bitdefender.net
+  2d585.cdn.bitdefender.net
+
+Bitdefender Cloud & GravityZone
+
+  cloud.bitdefender.net
+  gravityzone.bitdefender.com
+  api.bitdefender.net
+  relay.bitdefender.net
+  cloud.gravityzone.bitdefender.com
+  cloudgz.gravityzone.bitdefender.com
+
+Bitdefender URL Filtering
+
+  trafficlight.bitdefender.com
+  nimbus.bitdefender.net
+  trafficlight-ext.bitdefender.com
+
+Bitdefender Telemetry & Analytics
+
+  telemetry.bitdefender.com
+  stats.bitdefender.com
+  analytics.bitdefender.com
+
+Bitdefender Central & Account
+
+  safepay.bitdefender.com
+  central.bitdefender.com
+  account.bitdefender.com
+  login.bitdefender.com
+  my.bitdefender.com
+
+Bitdefender Mobile & VPN
+
+  mobile.bitdefender.com
+  mobile.bitdefender.net
+  vpn.bitdefender.com
+  bitdefender-vpn.com
+
+Bitdefender Scamio
+
+  scamio.com
+  www.scamio.com
+
+🛡️ ESET
+
+ESET Core
+
+  eset.com
+  www.eset.com
+  eset.net
+  esetonline.com
+
+ESET Update Servers (um01-um23)
+
+  update.eset.com
+  eu-update.eset.com
+  us-update.eset.com
+  pico.eset.com
+  um01.eset.com
+  um02.eset.com
+  um03.eset.com
+  um04.eset.com
+  um05.eset.com
+  um06.eset.com
+  um07.eset.com
+  um08.eset.com
+  um09.eset.com
+  um10.eset.com
+  um11.eset.com
+  um12.eset.com
+  um13.eset.com
+  um14.eset.com
+  um15.eset.com
+  um16.eset.com
+  um17.eset.com
+  um21.eset.com
+  um23.eset.com
+  um01.cn.eset.com
+
+ESET Download / Install / Expire
+
+  download.eset.com
+  repository.eset.com
+  edf.eset.com
+  download.liveinstaller.eset.systems
+  expire.eset.com
+  iploc.eset.com
+  pki.eset.com
+  suppreq.eset.eu
+
+ESET LiveGrid Servers
+
+  livegrid.eset.com
+  livegrid.com
+  h1-c01.eset.com
+  h1-c02.eset.com
+  h1-c03.eset.com
+  h1-c04.eset.com
+  h1-c05.eset.com
+  h1-c06.eset.com
+
+ESET Cloud & Connect
+
+  cloud.eset.com
+  api.eset.com
+  eset-connect.com
+  connect.eset.com
+
+ESET Account
+
+  my.eset.com
+  home.eset.com
+  login.eset.com
+
+ESET ESA (2FA)
+
+  ecp.eset.systems
+  esa.eset.com
+  m.esa.eset.com
+  h1-esa01.eset.com
+  h1-esa02.eset.com
+  h1-esa03.eset.com
+  h1-esa04.eset.com
+  h3-esa2-01-v.eset.com
+  h3-esa2-02-v.eset.com
+  h3-esa2-03-v.eset.com
+  h3-esa2-04-v.eset.com
+
+ESET Mobile & Telemetry
+
+  mobile.eset.com
+  telemetry.eset.com
+
+ESET Bridge / OAuth2
+
+  login.microsoftonline.com
+
+🛡️ AVIRA
+
+Avira Core
+
+  avira.com
+  www.avira.com
+  avira.net
+
+Avira Updates
+
+  update.avira.com
+  download.avira.com
+  dl.avira.com
+  install.avira.com
+  installer.avira.com
+  antivir.de
+  avira-update.net
+  avira-ns.net
+  avira-ns.de
+  dl1.pro.antivir.de
+  dl2.pro.antivir.de
+  dl3.pro.antivir.de
+  dl4.pro.antivir.de
+
+Avira Cloud
+
+  cloud.avira.com
+  webservices.avira.com
+  oem.avira.com
+  prod.cloud.avira-cloud.net
+
+Avira Account
+
+  my.avira.com
+  account.avira.com
+  api.my.avira.com
+
+Avira Telemetry & Analytics
+
+  telemetry.avira.com
+  stat.avira.com
+  stats.avira.com
+
+Avira SafeThings & Support
+
+  safethings.avira.com
+  support.avira.com
+
+🛡️ MALWAREBYTES
+
+Malwarebytes Core
+
+  malwarebytes.com
+  www.malwarebytes.com
+  malwarebytes.org
+  mwbsys.com
+
+Malwarebytes Updates
+
+  data-cdn.malwarebytes.com
+  data-cdn.mwbsys.com
+  downloads.malwarebytes.com
+  update.malwarebytes.com
+  data-cdn-static.mbamupdates.com
+  data-cdn.mbamupdates.com
+
+Malwarebytes Cloud & Services
+
+  cloud.malwarebytes.com
+  api.malwarebytes.com
+  keystone.mwbsys.com
+  mb3admin.mwbsys.com
+  sirius.mwbsys.com
+  keystone-akamai.mwbsys.com
+  socket.cloud.malwarebytes.com
+  hubble.mb-cosmos.com
+  blitz.mb-cosmos.com
+  cdn.mwbsys.com
+  ark.mwbsys.com
+  meps.mwbsys.com
+  iris.mwbsys.com
+  my-device.malwarebytes.com
+  cleo.mb-internal.com
+  links.malwarebytes.com
+  detect-remediate.cloud.malwarebytes.com
+  storage.gra3.cloud.ovh.net
+  nebula-agent-installers-mb-prod.s3.amazonaws.com
+
+Malwarebytes Telemetry
+
+  telemetry.malwarebytes.com
+  telemetry.mwbsys.com
+  tracking.malwarebytes.com
+
+Malwarebytes Account
+
+  my.malwarebytes.com
+  account.malwarebytes.com
+
+🛡️ TREND MICRO
+
+Trend Micro Core
+
+  trendmicro.com
+  www.trendmicro.com
+  trendmicro.net
+  trendmicro-europe.com
+  uk.trendmicro-europe.com
+  success.trendmicro.com
+  helpcenter.trendmicro.com
+  docs.trendmicro.com
+  downloadcenter.trendmicro.com
+  files.trendmicro.com
+
+Trend Micro ActiveUpdate Servers
+
+  activeupdate.trendmicro.com
+  global.update.trendmicro.com
+  ipv6.activeupdate.trendmicro.com
+  iaus.trendmicro.com
+  iaus.activeupdate.trendmicro.com
+  ipv6-iaus.trendmicro.com
+  iaufdbk.trendmicro.com
+  licenseupdate.trendmicro.com
+  tmsm35-p.activeupdate.trendmicro.com
+  tmsm35-p.activeupdate.trendmicro.co.jp
+  osce14-p.activeupdate.trendmicro.com
+  osce14-p.activeupdate.trendmicro.co.jp
+  osce14-p.pre-opr-au.trendmicro.com
+  toolbox10-p.activeupdate.trendmicro.com
+  toolbox10-p.activeupdate.trendmicro.co.jp
+  wfbs-p.activeupdate.trendmicro.com
+  csm-as.activeupdate.trendmicro.com
+  oc.activeupdate.trendmicro.com
+  sg-tmsps10-p.activeupdate.trendmicro.com
+  osce14-ilspn30-p.activeupdate.trendmicro.com
+  osce14-ilspn30wr-p.activeupdate.trendmicro.com
+  slspn30-p.activeupdate.trendmicro.com
+  slspn30wr-p.activeupdate.trendmicro.com
+  activeupdate.trendmicro.com.edgekey.net
+  trendmicro.georedirector.akadns.net
+  autoupdate.wfbs.trendmicro.com
+
+Trend Micro Smart Scan / ICRC
+
+  osce14.icrc.trendmicro.com
+  osce14-jp.icrc.trendmicro.com
+  tmsm3.icrc.trendmicro.com
+  tmsm35.icrc.trendmicro.com
+  wfbs10.icrc.trendmicro.com
+  icrc.trendmicro.com
+  osce106.icrc.trendmicro.com
+
+Trend Micro URL / WRS Servers
+
+  url.trendmicro.com
+  osce-10-6-en.url.trendmicro.com
+  tmsm3-5-en.url.trendmicro.com
+  osce14-0-en.url.trendmicro.com
+  osce14-0-jp.url.trendmicro.com
+  osce14-0-de.url.trendmicro.com
+  osce14-0-fr.url.trendmicro.com
+  osce14-0-tc.url.trendmicro.com
+  osce14-0-sp.url.trendmicro.com
+  osce14-0-ru.url.trendmicro.com
+  osce14-0-it.url.trendmicro.com
+  osce14-0-pl.url.trendmicro.com
+  osce14-0-kr.url.trendmicro.com
+  sg-tmsps10-en.url.trendmicro.com
+  sg-tmsps10-en-wis.trendmicro.com
+  reclassify.wrs.trendmicro.com
+  www.ers.trendmicro.com
+
+Trend Micro Census Servers
+
+  census.trendmicro.com
+  osce14-en-census.trendmicro.com
+  osce14-de-census.trendmicro.com
+  osce14-fr-census.trendmicro.com
+  osce14-es-census.trendmicro.com
+  osce14-it-census.trendmicro.com
+  osce14-pl-census.trendmicro.com
+  osce14-ru-census.trendmicro.com
+  osce14-jp-census.trendmicro.com
+  osce14-kr-census.trendmicro.com
+  osce14-tc-census.trendmicro.com
+  osce14bak-en-census.trendmicro.com
+  osce14bak-de-census.trendmicro.com
+  osce14bak-es-census.trendmicro.com
+  osce14bak-fr-census.trendmicro.com
+  osce14bak-it-census.trendmicro.com
+  osce14bak-jp-census.trendmicro.com
+  osce14bak-kr-census.trendmicro.com
+  osce14bak-pl-census.trendmicro.com
+  osce14bak-ru-census.trendmicro.com
+  osce14bak-tc-census.trendmicro.com
+  isps300-en.census.trendmicro.com
+  isps300-de.census.trendmicro.com
+  isps300-es.census.trendmicro.com
+  isps300-fr.census.trendmicro.com
+  isps300-it.census.trendmicro.com
+  isps300-jp.census.trendmicro.com
+  isps300-kr.census.trendmicro.com
+  isps300-pl.census.trendmicro.com
+  isps300-ru.census.trendmicro.com
+  isps300-tc.census.trendmicro.com
+  sg-tmsps100-en-census.trendmicro.com
+  sg-tmsps100-en-domaincensus.trendmicro.com
+
+Trend Micro FBS (Feedback) Servers
+
+  fbs20.trendmicro.com
+  osce140-en.fbs25.trendmicro.com
+  osce140-de.fbs25.trendmicro.com
+  osce140-es.fbs25.trendmicro.com
+  osce140-fr.fbs25.trendmicro.com
+  osce140-jp.fbs25.trendmicro.com
+  osce140-it.fbs25.trendmicro.com
+  osce140-pl.fbs25.trendmicro.com
+  osce140-ru.fbs25.trendmicro.com
+  osce140-tc.fbs25.trendmicro.com
+  osce140-kr.fbs25.trendmicro.com
+  tmsm350-en.fbs25.trendmicro.com
+
+Trend Micro TrendX File & Behavior
+
+  trx.trendmicro.com
+  osce140-en-f.trx.trendmicro.com
+  osce140-de-f.trx.trendmicro.com
+  osce140-jp-f.trx.trendmicro.com
+  osce140-es-f.trx.trendmicro.com
+  osce140-fr-f.trx.trendmicro.com
+  osce140-it-f.trx.trendmicro.com
+  osce140-kr-f.trx.trendmicro.com
+  osce140-pl-f.trx.trendmicro.com
+  osce140-ru-f.trx.trendmicro.com
+  osce140-tc-f.trx.trendmicro.com
+  osce140-en-b.trx.trendmicro.com
+  osce140-jp-b.trx.trendmicro.com
+  osce140-de-b.trx.trendmicro.com
+  osce140-es-b.trx.trendmicro.com
+  osce140-fr-b.trx.trendmicro.com
+  osce140-it-b.trx.trendmicro.com
+  osce140-kr-b.trx.trendmicro.com
+  osce140-pl-b.trx.trendmicro.com
+  osce140-ru-b.trx.trendmicro.com
+  osce140-tc-b.trx.trendmicro.com
+  oscecmp140-en-f.trx.trendmicro.com
+  oscecmp140-de-f.trx.trendmicro.com
+  oscecmp140-es-f.trx.trendmicro.com
+  oscecmp140-fr-f.trx.trendmicro.com
+  oscecmp140-it-f.trx.trendmicro.com
+  oscecmp140-jp-f.trx.trendmicro.com
+  oscecmp140-kr-f.trx.trendmicro.com
+  oscecmp140-pl-f.trx.trendmicro.com
+  oscecmp140-ru-f.trx.trendmicro.com
+  oscecmp140-tc-f.trx.trendmicro.com
+
+Trend Micro Cloud / XDR / Manage
+
+  cloud.trendmicro.com
+  cloudone.trendmicro.com
+  workload.cloudone.trendmicro.com
+  grid.trendmicro.com
+  grid-global.trendmicro.com
+  rest.mars.trendmicro.com
+  ctapi.trendmicro.com
+  sandbox-threatconnect.trendmicro.com
+  asm01-nabu-prod.aot.trendmicro.com
+  api-nabu.aot.trendmicro.com
+  *.xdr.trendmicro.com
+  *.xbc.trendmicro.com
+  *.mgcp.trendmicro.com
+  *.manage.trendmicro.com
+  *.xdr.trendmicro.co.jp
+  support-connector-service.manage.trendmicro.com
+  support-connector-service-staging.manage.trendmicro.com
+  support-connector-api.manage.trendmicro.com
+  supportconnectorpacks.manage.trendmicro.com
+  mcs.trendmicro.com
+  automation.trendmicro.com
+
+Trend Micro Smart Protection & SPN
+
+  smartprotectionnetwork.com
+  sitesafety.trendmicro.com
+  jp.sitesafety.trendmicro.com
+  gacl.trendmicro.com
+  global.sitesafety.trendmicro.com
+  sg-tmsps10-en.gfrbridge.trendmicro.com
+  osce14-en.gfrbridge.trendmicro.com
+  osce14-jp.gfrbridge.trendmicro.com
+  tmsm35-en.gfrbridge.trendmicro.com
+  sg-tmsps10-en-wis.trendmicro.com
+
+Trend Micro Telemetry & Account
+
+  about-threats.trendmicro.com
+  api.tmcas.trendmicro.com
+  my.trendmicro.com
+  account.trendmicro.com
+  olr.trendmicro.com
+  clp.trendmicro.com
+
+🛡️ SOPHOS
+
+Sophos Core
+
+  sophos.com
+  www.sophos.com
+  sophosxl.com
+  sophosxl.net
+  sophosupd.com
+  sophosupd.net
+  mojave.net
+
+Sophos Updates
+
+  t1.sophosupd.com
+  sus.sophosupd.com
+  sdds3.sophosupd.com
+  sdds3.sophosupd.net
+  sdu-feedback.sophos.com
+  sdu-auto-upload.sophosupd.com
+  dci.sophosupd.com
+  d1.sophosupd.com
+  d2.sophosupd.com
+  d3.sophosupd.com
+  dci.sophosupd.net
+  d1.sophosupd.net
+  d2.sophosupd.net
+  d3.sophosupd.net
+  4.sophosxl.net
+  samples.sophosxl.net
+
+Sophos Cloud Core
+
+  cloud.sophos.com
+  central.sophos.com
+  api.central.sophos.com
+  utm.cloud.sophos.com
+  id.sophos.com
+  downloads.sophos.com
+  cloud-assets.sophos.com
+  ssp.sophos.com
+  alert.hitmanpro.com
+  hitmanpro.com
+
+Sophos MCS / Hydra
+
+  hydra.sophos.com
+  mcs2-cloudstation-eu-west-1.prod.hydra.sophos.com
+  mcs2-cloudstation-eu-central-1.prod.hydra.sophos.com
+  mcs2-cloudstation-us-east-2.prod.hydra.sophos.com
+  mcs2-cloudstation-us-west-2.prod.hydra.sophos.com
+  mcs-cloudstation-eu-central-1.prod.hydra.sophos.com
+  mcs-cloudstation-eu-west-1.prod.hydra.sophos.com
+  mcs-cloudstation-us-east-2.prod.hydra.sophos.com
+  mcs-cloudstation-us-west-2.prod.hydra.sophos.com
+  api-cloudstation-us-east-2.prod.hydra.sophos.com
+  dzr-mcs-amzn-eu-west-1-9af7.upe.p.hmr.sophos.com
+  dzr-mcs-amzn-us-west-2-fa88.upe.p.hmr.sophos.com
+  dzr-utm-amzn-us-west-2-fa88.upe.p.hmr.sophos.com
+  mcs.stn100yul.ctr.sophos.com
+  mcs2.stn100yul.ctr.sophos.com
+  api.stn100yul.ctr.sophos.com
+  eu-prod-utm.soa.sophos.com
+
+Sophos RCA Upload
+
+  rca-upload-cloudstation-us-west-2.prod.hydra.sophos.com
+  rca-upload-cloudstation-us-east-2.prod.hydra.sophos.com
+  rca-upload-cloudstation-eu-west-1.prod.hydra.sophos.com
+  rca-upload-cloudstation-eu-central-1.prod.hydra.sophos.com
+  rca-upload.stn100bom.ctr.sophos.com
+  rca-upload.stn100yul.ctr.sophos.com
+  rca-upload.stn100hnd.ctr.sophos.com
+  rca-upload.stn100gru.ctr.sophos.com
+  rca-upload.stn100syd.ctr.sophos.com
+
+Sophos CFM / APU
+
+  us-e1.cfm.sophos.com
+  eu-w1.q.cfm.sophos.com
+  eu-w1.d.cfm.sophos.com
+  eu1.apu.sophos.com
+
+Sophos Sandbox
+
+  sandbox.sophos.com
+  eu.sandbox.sophos.com
+  us.sandbox.sophos.com
+  apac.sandbox.sophos.com
+
+Sophos Telemetry
+
+  sftelemetry.sophos.com
+  sarreport.sophos.com
+
+Sophos API
+
+  api-upe.p.hmr.sophos.com
+  developer.sophos.com
+
+🛡️ F-SECURE / WITHSECURE
+
+WithSecure Core
+
+  withsecure.com
+  f-secure.com
+
+WithSecure Elements
+
+  elements.withsecure.com
+  elements.f-secure.com
+  login.withsecure.com
+  api.elements.withsecure.com
+  api-fusion.elements.withsecure.com
+  proxy.elements.withsecure.com
+  api-global.elements.withsecure.com
+  api.connect.withsecure.com
+
+WithSecure EPP
+
+  emea.epp.elements.withsecure.com
+  emea2.epp.elements.withsecure.com
+  emea3.epp.elements.withsecure.com
+  amer.epp.elements.withsecure.com
+  apac.epp.elements.withsecure.com
+
+WithSecure EDR
+
+  edr.elements.withsecure.com
+  rdr.elements.withsecure.com
+
+WithSecure Vulnerability Management & Collaboration
+
+  portal.radar.elements.withsecure.com
+  cve.accessory.elements.withsecure.com
+  portal.cp.elements.withsecure.com
+
+FSAPI Infrastructure (CRITICAL)
+
+  fsapi.com
+  client-api.public.prod.ew1.cosmos-prd.fsapi.com
+  client-api.public.prod.ue1.cosmos-prd.fsapi.com
+  client-api.public.prod.ane1.cosmos-prd.fsapi.com
+
+FSAPI Doorman
+
+  psb-emea.doorman.fsapi.com
+  psb-amer.doorman.fsapi.com
+  psb-apac.doorman.fsapi.com
+  baseguard.doorman.fsapi.com
+  api.doorman.fsapi.com
+  api.prd.glb.doorman.fsapi.com
+  api.prd.ew1.doorman.fsapi.com
+
+FSAPI Entitlements & Download
+
+  provisioning.ew1.entitlements.fsapi.com
+  provisioning.ue1.entitlements.fsapi.com
+  provisioning.ane1.entitlements.fsapi.com
+  provisioning.global.entitlements.fsapi.com
+  download.fsapi.com
+
+FSAPI Services & Push
+
+  guts2.fsapi.com
+  a.karma.sc2.fsapi.com
+  restmc.mind.sc2.fsapi.com
+  api.disobus.fsapi.com
+  api.prd.glb.us-prd.fsapi.com
+  poll.push.fsapi.com
+  poll.push-na.fsapi.com
+  poll.push-apac.fsapi.com
+  registrar.push.fsapi.com
+  registrar.push-na.fsapi.com
+  registrar.push-apac.fsapi.com
+
+FSAPI Radar
+
+  radar-prd.fsapi.com
+  api.radar-prd.fsapi.com
+  sn-api.radar-prd.fsapi.com
+  updates-api.radar-prd.fsapi.com
+
+FSAPI PSB Gateway
+
+  692.psb.prd.gw.fsapi.com
+  apac.psb.prd.gw.fsapi.com
+  691.psb.prd.gw.fsapi.com
+  6910.psb.prd.gw.fsapi.com
+  694.psb.prd.gw.fsapi.com
+  emea.psb.prd.gw.fsapi.com
+  emea2.psb.prd.gw.fsapi.com
+  emea3.psb.prd.gw.fsapi.com
+  710.psb.prd.gw.fsapi.com
+  amer.psb.prd.gw.fsapi.com
+
+FSAPI FAMP Agent API
+
+  agent-api.ew1.famp.fsapi.com
+  agent-api.ue1.famp.fsapi.com
+  agent-api.ane1.famp.fsapi.com
+
+WithSecure AWS (EDR)
+
+  ane1-fsdiag-upload.s3.ap-northeast-1.amazonaws.com
+  ew1-fsdiag-upload.s3.eu-west-1.amazonaws.com
+  ue1-fsdiag-upload.s3.amazonaws.com
+  ac3ujg1ortm4c-ats.iot.eu-west-1.amazonaws.com
+  ac3ujg1ortm4c-ats.iot.us-east-1.amazonaws.com
+  ac3ujg1ortm4c-ats.iot.ap-northeast-1.amazonaws.com
+  c3hquxgihnj763.credentials.iot.eu-west-1.amazonaws.com
+  c3hquxgihnj763.credentials.iot.us-east-1.amazonaws.com
+  c3hquxgihnj763.credentials.iot.ap-northeast-1.amazonaws.com
+  ew1-famp-prd-system-transfer.s3.eu-west-1.amazonaws.com
+  ue1-famp-prd-system-transfer.s3.us-east-1.amazonaws.com
+  ane1-famp-prd-system-transfer.s3.ap-northeast-1.amazonaws.com
+
+🛡️ G DATA
+
+G DATA Core
+
+  gdata.de
+  gdatasoftware.com
+  gdata-software.com
+  www.gdata-software.com
+
+G DATA Cloud & Update
+
+  ac.gdata.de
+  updates.gdata.de
+  update.gdata.de
+
+G DATA Support & Portal
+
+  help.gdatasoftware.com
+  portal.gdatasoftware.com
+  support.gdatasoftware.com
+  my.gdatasoftware.com
+
+🛡️ WEBROOT (OpenText)
+
+Webroot Core
+
+  webroot.com
+  www.webroot.com
+  webrootcloudav.com
+  webrootanywhere.com
+
+Webroot Agent Communication
+
+  *.webrootcloudav.com
+  *.p4.webrootcloudav.com
+  sn.webrootcloudav.com
+  anywhere.webrootcloudav.com
+  g1.p4.webrootcloudav.com
+  prevxinfo.com
+  prevx.com
+
+Webroot Cloud & Unity API
+
+  cloud.webroot.com
+  api.webroot.com
+  unityapi.webrootcloudav.com
+
+Webroot Download & Install
+
+  anywhere.webrootcloudav.com/zerol/wsainstall.exe
+  anywhere.webrootcloudav.com/zerol/wsamac.dmg
+  anywhere.webrootcloudav.com/zerol/wsasme.exe
+  anywhere.webrootcloudav.com/zerol/wsabbs2.exe
+  download.webroot.com
+
+Webroot Web Filtering
+
+  WSAWebFilteringPortal.elasticbeanstalk.com
+  *.compute.amazonaws.com
+
+Webroot AWS S3
+
+  wrskynet.s3.amazonaws.com
+  wrskynet-eu.s3-eu-west-1.amazonaws.com
+  wrskynet-oregon.s3-us-west-2.amazonaws.com
+
+BrightCloud (Threat Intelligence)
+
+  brightcloud.com
+  api.brightcloud.com
+  sdnsp.brightcloud.com
+  sdnsagent.brightcloud.com
+  dnsp-ipv4-detector.brightcloud.com
+  dnsp-ipv6-detector.brightcloud.com
+
+Webroot Community & Support
+
+  community.webroot.com
+  community.opentextcybersecurity.com
+  answers.webroot.com
+  opentextcybersecurity.com
+
+Webroot SOC/MDR
+
+  *.soc.webrootcloudav.com
+  otmdr-qa01.soc.webrootcloudav.com
+  otmdr-dev01.soc.webrootcloudav.com
+
+🛡️ BULLGUARD (Closed - 2022)
+
+BullGuard Services
+
+  bullguard.com
+  www.bullguard.com
+  update.bullguard.com
+  cloud.bullguard.com
+  telemetry.bullguard.com
+  bit.bullguard.com
+  filecontrib.bullguard.com
+  filestore.bullguard.com
+  knap.bullguard.com
+  login.bullguard.com
+
+🛡️ ZONEALARM / CHECK POINT (Harmony Endpoint)
+
+ZoneAlarm Core
+
+  zonealarm.com
+  www.zonealarm.com
+  zonelabs.com
+
+ZoneAlarm Services
+
+  download.zonealarm.com
+  updateserver.zonealarm.com
+  ff.community.zonealarm.com
+  telemetry.zonealarm.com
+  api.zonealarm.com
+
+Check Point / ThreatCloud
+
+  threatcloud.checkpoint.com
+  checkpoint.com
+  downloads.checkpoint.com
+  updates.checkpoint.com
+  locrep.checkpoint.com
+  te.checkpoint.com
+  terd.checkpoint.com
+  antibot.checkpoint.com
+  cws.checkpoint.com
+  cpep.checkpoint.com
+  infinity.checkpoint.com
+  epm.checkpoint.com
+  infinity-next.checkpoint.com
+  portal.checkpoint.com
+  sc1.checkpoint.com
+
+🛡️ EMSISOFT
+
+Emsisoft Core
+
+  emsisoft.com
+  www.emsisoft.com
+  emsisoft.net
+  myemsisoft.com
+
+Emsisoft Services
+
+  update.emsisoft.com
+  dl.emsisoft.com
+  cloud.emsisoft.com
+  api.emsisoft.com
+  cloudbroker.emsisoft.com
+  my.emsisoft.com
+  redir.emsisoft.com
+  arctic.emsisoft.com
+  support.emsisoft.com
+  cdn.emsisoft.com
+  status.emsisoft.com
+
+🛡️ K7 ANTIVIRUS
+
+K7 Core
+
+  k7computing.com
+  www.k7computing.com
+  k7cybersecurity.com
+
+K7 Services
+
+  update.k7computing.com
+  updates.k7computing.com
+  register.k7computing.com
+  telemetry.k7computing.com
+  api.k7computing.com
+  cloud.k7computing.com
+  labs.k7computing.com
+  support.k7computing.com
+  k7office.k7computing.com
+
+🛡️ QUICK HEAL / SEQRITE
+
+Quick Heal Core
+
+  quickheal.com
+  www.quickheal.com
+  quickheal.co.in
+  seqrite.com
+  www.seqrite.com
+
+Quick Heal Services
+
+  update.quickheal.com
+  cloud.quickheal.com
+  api.quickheal.com
+  metaprotect.quickheal.com
+  dlupdate.quickheal.com
+  us.quickheal.com
+  activation.quickheal.com
+  register.quickheal.com
+  docs.quickheal.com
+
+Seqrite Services
+
+  dlupdate.seqrite.com
+  cloud.seqrite.com
+  api.seqrite.com
+
+🛡️ VIPRE
+
+VIPRE Core
+
+  vipre.com
+  www.vipre.com
+  vipreantivirus.com
+  vipre-antivirus.com
+  threattracksecurity.com
+  sunbelt-software.com
+  gfi.com
+
+VIPRE Services
+
+  download.vipre.com
+  definitions.vipre.com
+  definitions.vipreantivirus.com
+  download.vipreantivirus.com
+  status.vipre.com
+  cloud.vipre.com
+  portal.vipre.com
+  support.threattracksecurity.com
+  vipre.helpjuice.com
+  vipre.zendesk.com
+
+🛡️ INTEGO (Mac)
+
+Intego Core
+
+  intego.com
+  www.intego.com
+  integodownload.com
+
+Intego Services
+
+  origin.intego.com
+  www2.intego.com
+  static.intego.com
+  support.intego.com
+  netupdate2.intego.com
+  lacie.intego.com
+
+🛡️ WINDOWS DEFENDER (Microsoft)
+
+Windows Defender Updates
+
+  wdcp.microsoft.com
+  wdcpalt.microsoft.com
+  definitionupdates.microsoft.com
+  adldefinitionupdates-wu.azurewebsites.net
+  ctldl.windowsupdate.com
+  *.wd.microsoft.com
+  *.wdcp.microsoft.com
+  *.wdcpalt.microsoft.com
+
+SmartScreen
+
+  smartscreen.microsoft.com
+  urs.smartscreen.microsoft.com
+  smartscreen-prod.microsoft.com
+  checkappexec.microsoft.com
+  apprep.smartscreen.microsoft.com
+  nav.smartscreen.microsoft.com
+  nav-edge.smartscreen.microsoft.com
+  unitedstates.smartscreen-prod.microsoft.com
+  smartscreen-sn3p.smartscreen.microsoft.com
+  unitedstates.cp.wd.microsoft.com
+
+Windows Update / ADL
+
+  *.update.microsoft.com
+  *.windowsupdate.com
+  *.delivery.mp.microsoft.com
+  *.download.microsoft.com
+  *.download.windowsupdate.com
+  fe3cr.delivery.mp.microsoft.com
+
+MAPS & Telemetry
+
+  ris.api.iris.microsoft.com
+  go.microsoft.com
+  watson.telemetry.microsoft.com
+  vortex.data.microsoft.com
+  settings-win.data.microsoft.com
+  v10.events.data.microsoft.com
+
+🛡️ PANDA SECURITY / WATCHGUARD
+
+Panda Core
+
+  pandasecurity.com
+  www.pandasecurity.com
+  pandasoftware.com
+  pandacloudsecurity.com
+
+Panda Updates & Downloads
+
+  acs.pandasoftware.com
+  download.pandasecurity.com
+
+Panda Cloud & API
+
+  cloud.pandasecurity.com
+  cloudprotection.pandasecurity.com
+  api.pandasecurity.com
+
+Panda Support
+
+  support.pandasecurity.com
+
+WatchGuard Integration
+
+  api.usa.cloud.watchguard.com
+  api.europe.cloud.watchguard.com
+  api.apac.cloud.watchguard.com
+  watchguard.com
+  www.watchguard.com
+  techsearch.watchguard.com
+  wes-cpg-kw-pandasecurity.com
+  api.dnswatchgo.com
+  api.dnswatchgo.eu
+  register.dnswatchgo.com
+  register.dnswatchgo.eu
+
+🛡️ COMODO / XCITIUM
+
+Comodo Core
+
+  comodo.com
+  www.comodo.com
+  comodogroup.com
+
+Comodo Updates & Cloud
+
+  downloads.comodo.com
+  cmc.comodo.com
+  licensing.security.comodo.com
+  update.comodo.com
+  cmdm.comodo.com
+
+Comodo Certificate / OCSP
+
+  ocsp.comodoca.com
+  ocsp.comodoca.com.edgesuite.net
+
+Xcitium (Rebrand)
+
+  xcitium.com
+  www.xcitium.com
+  valkyrie.comodo.com
+  verdict.valkyrie.comodo.com
+  cis.comodo.com
+  cmdm.xcitium.com
+  api.xcitium.com
+
+🛡️ PC MATIC
+
+PC Matic Core
+
+  pcmatic.com
+  www.pcmatic.com
+  pcpitstop.com
+  www.pcpitstop.com
+
+PC Matic Services
+
+  cart.pcmatic.com
+  cart.pcpitstop.com
+  portal.pcpitstop.com
+  utilities.pcpitstop.com
+  mkt.pcpitstop.com
+  knowledgebase.pcmatic.com
+  ns1.pcpitstop.com
+  ns2.pcpitstop.com
+
+🛡️ TOTALAV (Point Wild)
+
+TotalAV Core
+
+  totalav.com
+  www.totalav.com
+  totalsecurity.com
+  www.totalsecurity.com
+
+TotalAV Services
+
+  help.totalav.com
+
+TotalAV Related Brands
+
+  scanguard.com
+  pcprotect.com
+  totaladblock.com
+  totalpassword.com
+
+🛡️ MACKEEPER (Clario Tech)
+
+MacKeeper Core
+
+  mackeeper.com
+  www.mackeeper.com
+  account.mackeeper.com
+  my.mackeeper.com
+  help.mackeeper.com
+
+Clario (Parent)
+
+  clario.com
+  weareclario.com
+
+🛡️ AURA
+
+Aura Core
+
+  aura.com
+  www.aura.com
+  my.aura.com
+  app.aura.com
+  help.aura.com
+
+🛡️ MOONLOCK (MacPaw)
+
+Moonlock Core
+
+  moonlock.com
+  www.moonlock.com
+
+🛡️ BKAV (Vietnam)
+
+Bkav Core
+
+  bkav.com
+  www.bkav.com
+  bkav.com.vn
+  www.bkav.com.vn
+  mobile.bkav.com
+  mobile.bkav.com.vn
+  security.bkav.com
+  bkav.pro
+
+🛡️ ENIGMASOFT SPYHUNTER
+
+SpyHunter Core
+
+  spyhunter.com
+  www.spyhunter.com
+  enigmasoftware.com
+  www.enigmasoftware.com
+
+🛡️ SCANGUARD (Protected.net)
+
+Scanguard Core
+
+  scanguard.com
+  www.scanguard.com
+  help.scanguard.com
+
+🛡️ PC PROTECT (Protected.net)
+
+PC Protect Core
+
+  pcprotect.com
+  www.pcprotect.com
+
+🛡️ ÇİN ANTİVİRÜSLERİ
+
+360 Total Security (Qihoo 360) Core
+
+  360totalsecurity.com
+  www.360totalsecurity.com
+  360safe.com
+  360safe.cn
+  360.cn
+  qhimg.com
+  qhmsg.com
+  qhupdate.com
+  qhcdn.com
+  qh-cdn.com
+  qhstatic.com
+  qihucdn.com
+  stat.360safe.com
+  yunpan.360.cn
+  download.360safe.com
+  360kan.com
+  360kuai.com
+  50union.com
+
+360 Total Security Updates & Cloud
+
+  update.360safe.com
+  update.360.cn
+  safe.360.cn
+  res.360safe.com
+  up.360safe.com
+  dhrest.360.cn
+  cloud.360.cn
+  api.360.cn
+  fix.360.cn
+  speed.360.cn
+  shadu.360.cn
+  webshield.360.cn
+
+Kingsoft / Cheetah Mobile
+
+  cmcm.com
+  www.cmcm.com
+  cheetahmobile.com
+  www.cheetahmobile.com
+  duba.com
+  duba.net
+  ijinshan.com
+  kingsoftstore.com
+  infoc2.duba.net
+  kingsoft.com
+  kingsoftcloud.com
+  www.kingsoftcloud.com
+  cn.kingsoft.com
+  cleanmaster.com
+  batterydoctor.com
+  cmsecurity.com
+  api.cmcm.com
+  cloud.cmcm.com
+  config.i.duba.net
+  infoc0.duba.net
+  infoc1.duba.net
+  ct.duba.net
+  cd001.www.duba.net
+  did.ijinshan.com
+  dbsu.cmcm.com
+  dubacdn.cmcmcdn.com
+  cmcmcdn.com
