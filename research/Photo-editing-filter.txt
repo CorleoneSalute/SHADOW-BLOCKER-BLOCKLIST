@@ -1,0 +1,1078 @@
+# PHOTO EDITING & FILTER APPS RESEARCH LIST
+
+---
+
+### 1. FaceApp (RUSSIAN)
+
+- faceapp.com
+- faceapp.io
+- faceapp.net
+- faceappai.com
+- api.faceapp.io
+- api.faceapp.com
+- cdn.faceapp.io
+- static.faceapp.io
+- analytics.faceapp.io
+
+---
+
+### 2. Lensa AI (RUSSIAN — Prisma Labs)
+
+- lensa-ai.com
+- lensaai.com
+- lensa.ai
+- lensa.app
+- api.lensa-ai.com
+- cdn.lensa-ai.com
+- metrics.lensa-ai.com
+
+---
+
+### 3. Prisma (RUSSIAN — Prisma Labs)
+
+- prisma-ai.com
+- prisma.ai
+- prismaapp.com
+- prismaai.com
+- api.prisma-ai.com
+- api.prismaapp.com
+- cdn.prisma-ai.com
+- metrics.prisma-ai.com
+
+---
+
+### 4. Reface (RUSSIAN/UKRAINIAN — Neocortext)
+
+- reface.ai
+- reface.app
+- refaceapp.com
+- refaceapi.com
+- api.reface.ai
+- cdn.reface.ai
+- events.reface.ai
+- telemetry.reface.ai
+- cloud.reface.ai
+- storage.reface.ai
+- web.reface.ai
+- neocortext.com
+- restyle.app
+- api.restyle.app
+- unboring.ai
+- letsy.app
+- inkai.app
+- memomet.app
+- metahead.app
+- revive.app
+
+---
+
+### 5. Meitu (CHINESE)
+
+- meitu.com
+- meitu.cn
+- meitudata.com
+- meipai.com
+- xiuxiu.com
+- meituapp.com
+- api.meitu.com
+- api.meitu.cn
+- cdn.meitu.com
+- static.meitu.com
+- analytics.meitu.com
+- tracking.meitu.com
+- metrics.meitu.com
+- log.xiuxiu.com
+- mtlab.meitu.com
+- meitu.us
+- makeup.meitu.com
+- api.makeup.meitu.com
+- pro.meitu.com
+- meituxiuxiu.com
+- account.meitu.com
+- api.xiuxiu.meitu.com
+- tool.xiuxiu.meitu.com
+
+---
+
+### 6. BeautyPlus (CHINESE — Pixocial/Meitu)
+
+- beautyplus.com
+- beautyplus.cn
+- beautyplus.net
+- api.beautyplus.com
+- cdn.beautyplus.com
+- analytics.beautyplus.com
+- pixocial.com
+- h5.mr.pixocial.com
+- h5.mr.meitu.com
+
+---
+
+### 7. AirBrush (CHINESE — Pixocial/Meitu)
+
+- airbrush.com
+- airbrushapp.com
+- appairbrush.com
+- pixocial.com
+
+---
+
+### 8. Remini (ITALIAN — Bending Spoons)
+
+- remini.ai
+- reminiapp.com
+- api.remini.ai
+- cdn.remini.ai
+- analytics.remini.ai
+- developer.remini.ai
+- remini-web.zendesk.com
+- app.remini.ai
+- bendingspoons.com
+
+---
+
+### 9. Fotor (CHINESE — Everimaging)
+
+- fotor.com
+- fotor.net
+- fotor.cn
+- fotor.com.cn
+- api.fotor.com
+- cdn.fotor.com
+- cdn.photogrid.com
+- pxbee.com
+- everimaging.com
+- fotor-app-prod.oss.everimaging.cn
+- support.fotor.com
+- developers.fotor.com
+
+---
+
+### 10. PhotoGrid (CHINESE — Cheetah Mobile)
+
+- photogrid.com
+- photogrid.net
+- roidapp.com
+- api.photogrid.com
+- api.roidapp.com
+- cdn.roidapp.com
+- static.roidapp.com
+- cloud.photogrid.com
+- storage.photogrid.com
+- cmcm.com
+
+---
+
+### 11. Picsart (ARMENIAN/AMERICAN)
+
+- picsart.com
+- picsart.net
+- picsartapi.com
+- api.picsart.com
+- cdn.picsart.com
+- analytics.picsart.com
+- metrics.picsart.com
+- tracking.picsart.com
+- events.picsart.com
+- api.picsart.io
+- genai-api.picsart.io
+- video-api.picsart.io
+- docs.picsart.io
+- cdn.picsart.io
+- picsart.io
+- apidocs.picsart.io
+- help.picsart.io
+- support.picsart.com
+
+---
+
+### 12. Pixlr (MALAYSIAN/SINGAPOREAN — Inmagine/123RF)
+
+- pixlr.com
+- pixlr.net
+- pixlrapi.com
+- api.pixlr.com
+- cdn.pixlr.com
+- analytics.pixlr.com
+- tracking.pixlr.com
+- metrics.pixlr.com
+- 123rf.com
+- support.pixlr.com
+- inmagine.com
+- designs.ai
+- vectr.com
+- inabit.ai
+- thehungryjpeg.com
+- lovesvg.com
+
+---
+
+### 13. YouCam / Perfect Corp (TAIWANESE)
+
+- youcammakeup.com
+- youcamperfect.com
+- perfectcorp.com
+- perfectcorp.cn
+- perfectcorp.net
+- api.youcammakeup.com
+- cdn.youcammakeup.com
+- api.youcamperfect.com
+- cdn.youcamperfect.com
+- console.perfectcorp.com
+- analytics.perfectcorp.com
+- tracking.perfectcorp.com
+- makeupar.com
+- yce-api-01.makeupar.com
+- mcp-api-01.makeupar.com
+- yce.makeupar.com
+- yce.perfectcorp.com
+- youcamapps.com
+- app-cdn-01.perfectcorp.com
+
+---
+
+### 14. CyberLink (TAIWANESE)
+
+- cyberlink.com
+- cyberlink.net
+- directorzone.cyberlink.com
+- account.cyberlink.com
+- activation.cyberlink.com
+- api.cyberlink.com
+- cdn.cyberlink.com
+- cdn.cyberlink.net
+- cloud.cyberlink.com
+- downloads.cyberlink.com
+- licensing.cyberlink.com
+- member.cyberlink.com
+- service.cyberlink.com
+- support.cyberlink.com
+- update.cyberlink.com
+- api.cyberlink.net
+- forum.cyberlink.com
+- liveupdate.cyberlink.com
+- myedit.com
+- learning.cyberlink.com
+- community.cyberlink.com
+- blog.cyberlink.com
+
+---
+
+### 15. VSCO (AMERICAN)
+
+- vsco.co
+- vsco.com
+- api.vsco.co
+- cdn.vsco.co
+- analytics.vsco.co
+- assets.vsco.co
+- static.vsco.co
+- workspace.vsco.co
+- im.vsco.co
+- vsco.site
+- support.vsco.co
+- image.vsco.co
+- image-aws-us-west-2.vsco.co
+- dl.vsco.co
+- rassets.vsco.co
+- camstore.vsco.co
+- camstore2-api.vsco.co
+- cantor-api.vsco.co
+- discovery-api.vsco.co
+- experiment-api.vsco.co
+- preset-suggestion-api.vsco.co
+- grid.vsco.co
+- links.info.vsco.co
+- links.official.vsco.co
+- mail.vsco.co
+- pixel.vsco.co
+- fastly-appstore.vsco.co
+- i.vsco.co
+
+---
+
+### 16. Snapseed (GOOGLE/AMERICAN)
+
+- snapseed.com
+- api.snapseed.com
+
+---
+
+### 17. PhotoLab (RUSSIAN — Linerock Investments)
+
+- photolab.app
+- api.photolab.app
+- photolab-ai.com
+- pho.to
+
+---
+
+### 18. Prequel (AMERICAN)
+
+- prequel.app
+- prequelapp.com
+- api.prequel.app
+- cdn.prequel.app
+- l.prequel.app
+
+---
+
+### 19. Starii (AUSTRALIAN)
+
+- starii.com
+- h5.starii.com
+- api.starii.com
+- cdn.starii.com
+
+---
+
+### 20. SnapEdit (VIETNAMESE — SilverAI)
+
+- snapedit.app
+- api.snapedit.app
+- cdn.snapedit.app
+- storage.snapedit.app
+- silverai.com
+- snapenhance.app
+- snapcare.app
+- snapbaby.app
+- fitroom.app
+- snapbg.app
+
+---
+
+### 21. Darkroom (AMERICAN)
+
+- darkroom.co
+
+---
+
+### 22–24. Facetune / Photoleap (ISRAELI — Lightricks)
+
+- facetune.com
+- facetuneapp.com
+- lightricks.com
+- lightricks.net
+- static.lightricks.com
+- api.lightricks.com
+- cdn.lightricks.com
+- analytics.lightricks.com
+- api.facetune.com
+- cdn.facetune.com
+- api.photoleap.com
+- cdn.photoleap.com
+- lightricks.zendesk.com
+- enlight.app
+- api.enlight.app
+- cdn.enlight.app
+- photofox.com
+- photoleap.app
+- api.photoleap.app
+- cdn.photoleap.app
+- photoleapapp.com
+- popularpays.com
+- help-popularpays.lightricks.com
+
+---
+
+### 23. Afterlight (AMERICAN)
+
+- afterlight.app
+- afterlight.co
+- api.afterlight.app
+- cdn.afterlight.app
+
+---
+
+### 24. TouchRetouch (GERMAN — ADVA Soft)
+
+- touchretouch.com
+- api.touchretouch.com
+- cdn.touchretouch.com
+- adva-soft.com
+
+---
+
+### 25. Polarr (AMERICAN)
+
+- polarr.co
+- polarr.com
+- photoeditor.polarr.co
+- v2.polarr.co
+- next.polarr.com
+- api.polarr.co
+- api.polarr.com
+- cdn.polarr.co
+- cdn.polarr.com
+- filters.polarr.com
+
+---
+
+### 26. PicWish (CHINESE — Wangxu Technology)
+
+- picwish.com
+- api.picwish.com
+
+---
+
+### 27. PhotoRoom (FRENCH)
+
+- photoroom.com
+- api.photoroom.com
+- cdn.photoroom.com
+- static.photoroom.com
+- docs.photoroom.com
+- app.photoroom.com
+
+---
+
+### 28. Hotpot.AI
+
+- hotpot.ai
+- api.hotpot.ai
+- cdn.hotpot.ai
+
+---
+
+### 29. Face26
+
+- face26.com
+- api.face26.com
+- cdn.face26.com
+- storage.face26.com
+
+---
+
+### 30. ToonApp (Lyrebird Studios)
+
+- toonapp.com
+- lyrebirdstudio.com
+- api.toonapp.com
+- lyrebirdstudio.net
+
+---
+
+### 31. Spring (KOREAN — Sosofulbros)
+
+- sosofulbros.com
+- sundaybugs.kr
+- sosofulbros.kr
+
+---
+
+### 32. AgingBooth (FRENCH — PiVi & Co)
+
+- agingbooth.com
+- agingbooth.net
+- piviandco.com
+- api.agingbooth.com
+- cdn.agingbooth.com
+
+---
+
+### 33. Oldify (AMERICAN — Apptly)
+
+- oldify.net
+- oldify.com
+- apptly.com
+- apptly.net
+- api.apptly.com
+- appt.ly
+
+---
+
+### 34. MakeMeBabies (RUSSIAN — Luxand, Inc.)
+
+- babyac.com
+- makemebabies.com
+- makemebabies.net
+- babymaker.com
+- luxand.com
+- luxand.cloud
+
+---
+
+### 35. Luminar Neo (AMERICAN/UKRAINIAN — Skylum)
+
+- skylum.com
+- support.skylum.com
+- userguide.skylum.com
+- api.skylum.com
+- cdn.skylum.com
+- aperty.com
+- mobile.skylum.com
+
+---
+
+### 36/37/38. Adobe Lightroom / Photoshop Express / Photoshop Elements (AMERICAN — Adobe)
+
+- lightroom.adobe.com
+- adobe.com
+- adobe.io
+- developer.adobe.com
+- ims-na1.adobelogin.com
+- image.adobe.io
+- assets.adobe.com
+- creative.adobe.com
+- api.account.adobe.com
+- firefly.adobe.io
+- firefly-api.adobe.io
+- senseimds.adobe.io
+- mds-cdn.infra.adobesensei.io
+- adobestats.io
+- *.adobestats.io
+- fp.adobestats.io
+- adobe.tt.omtrdc.net
+- adobe.demdex.net
+- adobedc.demdex.net
+- sstats.adobe.com
+- assets.adobedtm.com
+- cn-assets.adobedtm.com.edgekey.net
+- o1383653.ingest.sentry.io
+- o987771.ingest.us.sentry.io
+- licenses.adobe.com
+- license.adobe.com
+- activate.adobe.com
+- activate-sea.adobe.com
+- activate-sjc0.adobe.com
+- practivate.adobe.com
+- practivate-da1.adobe.com
+- lm.licenses.adobe.com
+- lm-prd-da1.licenses.adobe.com
+- na2m-pr.licenses.adobe.com
+- na2m-stg2.licenses.adobe.com
+- uds.licenses.adobe.com
+- cmdls.adobe.com
+- ereg.adobe.com
+- adobeereg.com
+- www.adobeereg.com
+- hlrcv.stage.adobe.com
+- hl2rcv.adobe.com
+- lmlicenses.wip4.adobe.com
+- workflow-ui-prod.licensingstack.com
+- s-2.adobe.com
+- s-3.adobe.com
+- wip.adobe.com
+- wip1.adobe.com
+- wip2.adobe.com
+- wip3.adobe.com
+- wip4.adobe.com
+- www.wip.adobe.com
+- 3dns.adobe.com
+- 3dns-1.adobe.com
+- 3dns-2.adobe.com
+- 3dns-3.adobe.com
+- 3dns-4.adobe.com
+- 3dns-5.adobe.com
+- adobe-dns.adobe.com
+- adobe-dns-1.adobe.com
+- adobe-dns-2.adobe.com
+- adobe-dns-3.adobe.com
+- adobe-dns-4.adobe.com
+- adobe-dns-01.adobe.com
+- ims-na1-prprod.adobelogin.com
+- ims-na1.adobelogin.com.cdn.cloudflare.net
+- ims-prod06.adobelogin.com
+- ims-prod07.adobelogin.com
+- auth-cloudfront.prod.ims.adobejanus.com
+- services.prod.ims.adobejanus.com
+- adobeid-na1.services.adobe.com
+- na1e.services.adobe.com
+- na1r.services.adobe.com
+- na1e-acc.services.adobe.com
+- na4r.services.adobe.com
+- auth.services.adobe.com
+- federatedid-na1.services.adobe.com
+- static.adobelogin.com
+- delegated.adobelogin.com
+- adobeid.services.adobe.com
+- lcs-cops.adobe.io
+- lcs-robs.adobe.io
+- lcs-entitlement.adobe.io
+- lcs-ulecs.adobe.io
+- cc-cdn.adobe.com
+- cc-cdn.adobe.com.edgekey.net
+- cclibraries-defaults-cdn.adobe.com
+- cclibraries-defaults-cdn.adobe.com.edgekey.net
+- ssl-delivery.adobe.com.edgekey.net
+- stls.adobe.com-cn.edgesuite.net
+- use-stls.adobe.com.edgesuite.net
+- prod-rel-ffc-ccm.oobesaas.adobe.com
+- ffc-static-cdn.oobesaas.adobe.com
+- cdn-ffc.oobesaas.adobe.com
+- ans.oobesaas.adobe.com
+- ars.oobesaas.adobe.com
+- *.prod.cloud.adobe.io
+- edgeproxy-irl1.cloud.adobe.io
+- ethos.ethos02-prod-irl1.ethos.adobe.net
+- geo2.adobe.com
+- crs.cr.adobe.com
+- crlog-crcn.adobe.com
+- hbc.adobe.io
+- ic.adobe.io
+- p13n.adobe.io
+- cai-splunk-proxy.adobe.io
+- cctypekit.adobe.io
+- cc-api-data.adobe.io
+- wwis-dubc1-vip*.adobe.com
+- firefly.adobe.com
+- firefly-ai.adobe.io
+- firefly-ps.adobe.io
+- firefly-ae.adobe.io
+- firefly-st.adobe.io
+- firefly-md.adobe.io
+- firefly-acs.adobe.io
+- firefly-cliov2.adobe.io
+- firefly-beta.adobe.io
+- firefly-cme-training.adobe.io
+- firefly-cme-inference.adobe.io
+- firefly-clio-imaging.adobe.io
+- firefly-3di.adobe.io
+- firefly-prerelease.adobe.io
+- firefly-balancer.adobe.io
+- sensei.adobe.io
+- senseicore.adobe.io
+- *.adobecc.com
+- *.adobecces.com
+- *.adobeccstatic.com
+- *.adobedtm.com
+- *.adobelogin.com
+- *.adobeoobe.com
+- *.behance.net
+- *.ftcdn.net
+- *.typekit.com
+- *.typekit.net
+- *.adbephotos.com
+- *.adbecrsl.com
+- *.astockcdn.net
+- *.omniture.com
+- *.macromedia.com
+- *.adobe-identity.com
+- *.adobejanus.com
+- *.adobesc.com
+- *.adobess.com
+- *.adobesunbreak.com
+- *.adobegenuine.com
+- *.adobeprojectm.com
+- *.creativecloud.com
+- adminconsole.adobe.com
+- accounts.adobe.com
+- account.adobe.com
+- fonts.adobe.com
+- photoshop.adobe.com
+- stock.adobe.com
+- express.adobe.com
+- color.adobe.com
+- photoshop.com
+- myportfolio.com
+- podcast.adobe.com
+- store.adobe.com
+- store1.adobe.com
+- store2.adobe.com
+- store3.adobe.com
+- helpx.adobe.com
+- community.adobe.com
+- genuine.adobe.com
+- prod.adobegenuine.com
+- ccmdls.adobe.com
+- ccmdl.adobe.com
+- acrs.adobe.com
+- swupmf.adobe.com
+- swupdl.adobe.com
+- armmf.adobe.com
+- ardownload.adobe.com
+- ardownload2.adobe.com
+- agsupdate.adobe.com
+- oobe.adobe.com
+- notify.adobe.io
+- creativecloud.adobe.com
+- adobecloudpackager.adobe.io
+- assets2.adobe.com
+- directstorage.adbephotos.com
+- cc-api-storage.adobe.io
+- cc-api-behance.adobe.io
+- cc-api-image.adobe.io
+- ccext.adobecces.com
+- ccext-cdn.adobecces.com
+- ccext-static.adobecces.com
+- cchome.adobe.io
+- platform-cs.adobe.io
+- ds.adobe.io
+- xd.adobe.com
+- indd.adobe.com
+- illustrator.adobe.com
+- helpexamples.com
+- ood.opsource.net
+- bam.nr-data.net
+
+---
+
+### 39–44. SNOW / B612 / Soda / Foodie / LINE Camera / GlowUp (KOREAN — SNOW Corp.)
+
+- snow.me
+- snowcorp.com
+- campmobile.com
+- b612.snow.me
+- api-epik.snow.me
+- epik.snow.me
+- h5-web.snow.me
+- kr1-b6g-api.snow.me
+- log.snow.me
+- popup-api.snow.me
+- content-b612-api.snow.me
+- snow.me.io.naver.com
+- terms.snow.me
+
+---
+
+### 45. Tezza (AMERICAN)
+
+- shoptezza.com
+- bytezza.com
+
+---
+
+### 46. Dazz Cam (SINGAPOREAN — DAZZ PTE. LTD.)
+
+- dazzcam.org
+
+---
+
+### 47. KUNI Cam (FINNISH — GinnyPix)
+
+- ginnypix.com
+
+---
+
+### 48. RNI Films (UK — Really Nice Images)
+
+- reallyniceimages.com
+- mobile.reallyniceimages.com
+
+---
+
+### 49. A Color Story (AMERICAN)
+
+- acolorstory.com
+
+---
+
+### 50. Priime (AMERICAN)
+
+- priime.com
+
+---
+
+### 51. Huji Cam (KOREAN — Manhole, Inc.)
+
+- hujicam.com
+
+---
+
+### 52. NOMO CAM (CHINESE — Beijing Lingguang)
+
+- dafork.com
+
+---
+
+### 53. FIMO (CHINESE — Guangzhou Hongxiao / FIMO Studio)
+
+- fimoapp.com
+- fimo.app
+
+---
+
+### 54. ON1 Photo RAW (AMERICAN — ON1)
+
+- on1.com
+- ononesoft.cachefly.net
+- support.on1.com
+- learn.on1.com
+
+---
+
+### 55. Capture One (DANISH — Phase One)
+
+- captureone.com
+- support.captureone.com
+- account.captureone.com
+- live.captureone.com
+- community.captureone.com
+- cdn.captureone.com
+- store.captureone.com
+
+---
+
+### 56. PhotoMator / Pixelmator (LITHUANIAN/AMERICAN — Pixelmator Team, Apple)
+
+- pixelmator.com
+
+---
+
+### 57. Retrica (KOREAN — Retrica, Inc.)
+
+- retrica.co
+- venticake.com
+
+---
+
+### 58. Candy Camera (KOREAN — JP Brothers / Candy Plus Studio)
+
+*(Primarily app-based, no verified web domains)*
+
+---
+
+### 59. SweetSnap (CHINESE)
+
+- sweetsnap.online
+
+---
+
+### 60. Bestie (CHINESE — Camera360/PINGUO)
+
+- camera360.com
+- pinguo.us
+
+---
+
+### 61. Camera360 (CHINESE — PINGUO Technology)
+
+- camera360.com
+- pinguo.us
+
+---
+
+### 62. Cymera (KOREAN — NATE Communications)
+
+- cymera.com
+
+---
+
+### 63. Perfect365 (AMERICAN — ArcSoft, Inc.)
+
+- perfect365.com
+- plus.perfect365.com
+- perfect365.makeup
+
+---
+
+### 64. MakeupPlus (CHINESE — EVELAB/Meitu)
+
+*(Uses Meitu domains — see platform 5)*
+
+---
+
+### 65. SelfieCity (CHINESE)
+
+*(No verified web domains)*
+
+---
+
+### 66. Bazaart (ISRAELI)
+
+- bazaart.com
+- support.bazaart.com
+- app.bazaart.com
+
+---
+
+### 67. Vivid AI (Winroad Holdings Limited)
+
+- vivid.fun
+
+---
+
+### 68. YouCam Enhance (TAIWANESE — Perfect Corp)
+
+- yce.perfectcorp.com
+- perfectcorp.com
+
+---
+
+### 69. PicMa (MTTech Ltd.)
+
+*(No verified web domains)*
+
+---
+
+### 70. Instasize (AMERICAN — Instasize, Inc.)
+
+- instasize.com
+
+---
+
+### 71. HitPaw FotorPea (CHINESE — HitPaw)
+
+- hitpaw.com
+
+---
+
+### 72. TON (BELARUSIAN — OneLightApps)
+
+- onelightapps.io
+
+---
+
+### 73. Color Splash Photo Editor
+
+*(Multiple independent apps by different developers — no single domain)*
+
+---
+
+### 74. DxO PhotoLab (FRENCH — DxO Labs)
+
+- dxo.com
+- support.dxo.com
+
+---
+
+### 75. RawTherapee (Open Source)
+
+- rawtherapee.com
+- rawpedia.rawtherapee.com
+
+---
+
+### 76. Darktable (Open Source)
+
+- darktable.org
+
+---
+
+### 77. Affinity Photo (UK — Serif / Canva)
+
+- affinity.serif.com
+
+---
+
+### 78. ACDSee Photo Studio (CANADIAN — ACD Systems)
+
+- acdsee.com
+
+---
+
+### 79. Exposure X7 (AMERICAN — Exposure Software)
+
+- exposure.software
+
+---
+
+### 80. Silkypix Developer Studio (JAPANESE — Ichikawa Soft Laboratory)
+
+- silkypix.isl.co.jp
+- isl.co.jp
+
+---
+
+### 81. Zoner Photo Studio X (CZECH — Zoner)
+
+- zoner.com
+- zoner.eu
+
+---
+
+### 82. Corel AfterShot Pro (CANADIAN — Corel)
+
+- aftershotpro.com
+- corel.com
+
+---
+
+### 83. Corel PaintShop Pro (CANADIAN — Corel)
+
+- corel.com
+
+---
+
+### 84. GIMP (Open Source)
+
+- gimp.org
+- developer.gimp.org
+- docs.gimp.org
+
+---
+
+### 85. Photopea (CZECH — Ivan Kutskir)
+
+- photopea.com
+- blog.photopea.com
+
+---
+
+### 86. Paint.NET (AMERICAN — dotPDN LLC)
+
+- getpaint.net
+- dotpdn.com
+
+---
+
+### 87. Google Photos (AMERICAN — Google)
+
+- photos.google.com
+- photoslibrary.googleapis.com
+- lh3.googleusercontent.com
+- photospicker.googleapis.com
+- oauth2.googleapis.com
+- accounts.google.com
+
+---
+
+### 88. Photo Pos Pro (BULGARIAN — PowerOfSoftware)
+
+- photopos.com
+
+---
+
+### 89. DxO Nik Collection (FRENCH — DxO Labs)
+
+- nikcollection.dxo.com
+- dxo.com
+- support.dxo.com
+- shop.dxo.com
+- userguides.dxo.com
+
+---
+
+### 90. Imagen AI (AMERICAN)
+
+- imagen-ai.com
+- api.imagen-ai.com
+- support.imagen-ai.com
+
+---
+
+### 91. Apple Photos (AMERICAN — Apple)
+
+- icloud.com
+- icloud.com/photos
+- *.apple-cloudkit.com
+- *.apple-livephotoskit.com
+- *.cdn-apple.com
+- *.gc.apple.com
+- *.icloud.apple.com
+- *.icloud-content.com
+- *.icloud.com.cn
+- *.apzones.com
+- mask.icloud.com
+- mask-h2.icloud.com
+- mask-api.icloud.com
+- probe.icloud.com
+- pong.icloud.com
+- metrics.icloud.com
+- setup.icloud.com
+- statici.icloud.com
+- ws-ee-maidsvc.icloud.com
+- gateway.icloud.com
+- albert.apple.com
+- gsa.apple.com
+- idmsa.apple.com
+- account.apple.com
+- appleid.cdn-apple.com
+
+---
+
+### 92. Aftershoot (CANADIAN)
+
+- aftershoot.com
+- account.aftershoot.com
+- support.aftershoot.com
