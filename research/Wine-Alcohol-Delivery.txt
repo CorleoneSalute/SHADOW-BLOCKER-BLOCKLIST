@@ -1,0 +1,982 @@
+# WINE & ALCOHOL DELIVERY PLATFORMS RESEARCH LIST
+
+## 🇺🇸 USA — NATIONAL CHAINS
+
+### Drizly (UBER)
+
+- drizly.com
+- drizly.net
+- drizzly.com
+- api.drizly.com
+- developer.drizly.com
+- assets.drizly.com
+- cdn.drizly.com
+- analytics.drizly.com
+- tracking.drizly.com
+- staging.drizly.com
+- support.drizly.com
+- partner.drizly.com
+- suppliers.drizly.com
+- merchant.drizly.com
+- retailer.drizly.com
+- *.millerlite.drizly.com
+
+### Minibar Delivery [ReserveBar]
+
+- minibardelivery.com
+- minibar.com
+- minibar.delivery
+- api.minibar.com
+- cdn.minibar.delivery
+- shop.minibar.com
+- help.minibar.delivery
+- partners.minibar.com
+- partners.minibardelivery.com
+- merchant.minibar.com
+- retailers.minibar.com
+
+### Saucey
+
+- saucey.com
+- getsaucey.com
+- api.saucey.com
+- app.saucey.com
+- sauceydirect.com
+- help.sauceyapp.com
+- blog.saucey.com
+- support.saucey.com
+- merchant.saucey.com
+- driver.saucey.com
+- get.saucey.com
+- v1.sauceyapp.com
+
+### ReserveBar
+
+- reservebar.com
+- reserve-bar.com
+- api.reservebar.com
+- cdn.reservebar.com
+- tracking.reservebar.com
+- staging.reservebar.com
+- shop.reservebar.com
+- partners.reservebar.com
+- m.reservebar.com
+- mobile.reservebar.com
+- help.reservebar.com
+- merchant.reservebar.com
+- retailer.reservebar.com
+
+### BevMo! [GoPuff owned — 2020 $350M]
+
+- bevmo.com
+- bevmo.net
+- cdn.bevmo.com
+- api.bevmo.com
+- shop.bevmo.com
+- m.bevmo.com
+- mobile.bevmo.com
+- help.bevmo.com
+- gopuff.com [ana şirket / parent company]
+- goauth.gopuff.com [BevMo auth endpoint]
+
+### Total Wine & More
+
+- totalwine.com
+- totalwine.net
+- api.totalwine.com
+- shop.totalwine.com
+- m.totalwine.com
+- mobile.totalwine.com
+- help.totalwine.com
+- app.totalwine.com
+
+### Wine.com
+
+- wine.com
+- wine.net
+- api.wine.com
+- services.wine.com
+- cdn.wine.com
+- assets.wine.com
+- images.wine.com
+- shop.wine.com
+- m.wine.com
+- mobile.wine.com
+
+### Vivino
+
+- vivino.com
+- vivino.net
+- images.vivino.com
+- api.vivino.com
+- cdn.vivino.com
+- assets.vivino.com
+- vivino-web-scanner.com
+- analytics.vivino.com
+- tracking.vivino.com
+- m.vivino.com
+- mobile.vivino.com
+- shop.vivino.com
+- business.vivino.com
+- partners.vivino.com
+- support.vivino.com
+- help.vivino.com
+- partner.vivino.com
+- merchant.vivino.com
+
+### Naked Wines
+
+- nakedwines.com
+- nakedwines.co.uk
+- nakedwines.com.au
+- api.nakedwines.com
+- cdn.nakedwines.com
+- app.nakedwines.com
+- shop.nakedwines.com
+- m.nakedwines.com
+- mobile.nakedwines.com
+- nakedwinesplc.co.uk [ investor relations]
+
+### Wine Enthusiast
+
+- wineenthusiast.com
+- wineenthusiast.net
+- shop.wineenthusiast.com
+- cdn.wineenthusiast.com
+- mobile.wineenthusiast.com
+- m.wineenthusiast.com
+
+### Wine Access [Full Glass Wine Co. — 2024]
+
+- wineaccess.com
+- api.wineaccess.com
+- discover.wineaccess.com
+- help.wineaccess.com
+- shop.wineaccess.com
+- m.wineaccess.com
+- mobile.wineaccess.com
+
+### Full Glass Wine Co. [DTC Holding]
+
+### Winc [Full Glass Wine Co. — 2023]
+
+- winc.com
+- trywinc.com
+- api.winc.com
+- app.winc.com
+
+### Bright Cellars [Full Glass Wine Co. — 2024]
+
+- brightcellars.com
+- api.brightcellars.com
+- app.brightcellars.com
+- help.brightcellars.com
+- shop.brightcellars.com
+- account.brightcellars.com
+- m.brightcellars.com
+- mobile.brightcellars.com
+
+### Firstleaf Wine Club
+
+- firstleaf.com
+- firstleafclub.com
+- api.firstleaf.com
+- help.firstleaf.com
+- app.firstleaf.com
+- shop.firstleaf.com
+- m.firstleaf.com
+- mobile.firstleaf.com
+
+### Lot18 [Closed 2023 — Firstleaf redirect]
+
+- lot18.com
+- cdn.lot18.com
+- tastingroom.com
+- customvine.com
+- vinobest.com
+
+### Club W [Winc]
+
+- clubw.com
+
+---
+
+## 🍺 BEER-SPECIFIC DELIVERY
+
+### Tavour [Craft beer]
+
+- tavour.com
+- tavour.net
+- api.tavour.com
+- app.tavour.com
+- cdn.tavour.com
+- account.tavour.com
+- beerdb.tavour.com
+- support.tavour.com
+
+### CraftShack
+
+- craftshack.com
+- api.craftshack.com
+
+### Half Time Beverage
+
+- halftimebeverage.com
+
+### Beer Drop
+
+- beerdrop.com
+
+### Beer Cartel [Just Wines]
+
+- beercartel.com.au
+- cdn.beercartel.com.au
+- support.beercartel.com.au
+- shop.beercartel.com.au
+
+### Honest Brew [Closed Haziran 2022]
+
+- honestbrew.co.uk
+- api.honestbrew.co.uk
+- corporate.honestbrew.co.uk
+- faq.honestbrew.co.uk
+
+### Beer Hawk / PerfectDraft [Closed 2023 — PerfectDraft rebrand]
+
+- beerhawk.co.uk
+- cdn.beerhawk.co.uk
+- help.beerhawk.co.uk
+- beerbods.com
+- perfectdraft.co.uk
+- perfectdraft.com
+
+---
+
+## 🥃 SPIRITS & LIQUOR SPECIALISTS
+
+### Caskers [Rare spirits]
+
+- caskers.com
+- api.caskers.com
+- cdn.caskers.com
+- shop.caskers.com
+- help.caskers.com
+- support.caskers.com
+- blog.caskers.com
+
+### Flaviar [Spirits club — MashBox'ı bünyesine aldı]
+
+- flaviar.com
+- flaviar.net
+- api.flaviar.com
+- app.flaviar.com
+- checkout.flaviar.com
+- members.flaviar.com
+- help.flaviar.com
+- support.flaviar.com
+- business.flaviar.com
+
+### MashBox [Closed]
+
+- mashandgrape.com
+
+### Master of Malt / Atom Drinks Group 
+
+- masterofmalt.com
+- cdn.masterofmalt.com
+- api.masterofmalt.com
+- trade.masterofmalt.com
+- blog.masterofmalt.com
+- shop.masterofmalt.com
+- m.masterofmalt.com
+- mobile.masterofmalt.com
+- atombrands.com [grup marka portalı]
+- maverickdrinks.com [kardeş site]
+- drinksbythedram.com [kardeş site — samples]
+
+### The Whisky Exchange [Pernod Ricard — 2025 Speciality Drinks → The Whisky Exchange Trade rebrand]
+
+- thewhiskyexchange.com
+- cdn.thewhiskyexchange.com
+- api.thewhiskyexchange.com
+- shop.thewhiskyexchange.com
+- m.thewhiskyexchange.com
+- mobile.thewhiskyexchange.com
+- help.thewhiskyexchange.com
+- specialitydrinks.com [B2B / trade arm]
+- whisky.auction 
+
+### Whisky.com / The Whisky Store [Almanya — Whisky.com Media GmbH & Co. KG;
+
+- whisky.com
+- cdn.whisky.com
+- shop.whisky.com
+- whisky.de
+- shop.whisky.de
+- whisky24.de 
+- thewhiskystore.de
+
+---
+
+## 🍸 SPIRITS & COCKTAIL PLATFORMS
+
+### Thirstie
+
+- thirstie.com
+- thirstie.net
+- api.thirstie.com
+- app.thirstie.com
+- cdn.thirstie.com
+- shop.thirstie.com
+- help.thirstie.com
+- support.thirstie.com
+- partners.thirstie.com
+- retailers.thirstie.com
+- merchant.thirstie.com
+- developer.thirstie.com
+- access.thirstie.com
+- analytics.thirstie.com
+- tracking.thirstie.com
+
+### Cocktail Courier / ShakeStir LLC
+
+- cocktailcourier.com
+- shakestir.com
+- api.cocktailcourier.com
+- shop.cocktailcourier.com
+- help.cocktailcourier.com
+- support.cocktailcourier.com
+- contact.cocktailcourier.com
+- account.cocktailcourier.com
+- m.cocktailcourier.com
+- mobile.cocktailcourier.com
+- vip.cocktailcourier.com
+- merchant.cocktailcourier.com
+
+### Shaker & Spoon
+
+- shakerandspoon.com
+
+---
+
+## 🇬🇧 UK
+
+### Majestic Wine
+
+- majestic.co.uk
+- majesticwine.com
+- api.majestic.co.uk
+- m.majestic.co.uk
+- mobile.majestic.co.uk
+- shop.majestic.co.uk
+- help.majestic.co.uk
+- account.majestic.co.uk
+- corporate.majestic.co.uk
+- majesticwinegroup.com 
+- vagabondwines.com 
+- enotria.co.uk 
+
+### Laithwaites Wine / Direct Wines
+
+- laithwaites.co.uk
+- laithwaiteswine.com
+- api.laithwaites.co.uk
+- laithwaites.com
+- shop.laithwaites.co.uk
+- m.laithwaites.co.uk
+- mobile.laithwaites.co.uk
+- help.laithwaites.co.uk
+- account.laithwaites.co.uk
+- directwines.com
+- directwines.co.uk
+- directwines.com.au
+- directwines.com.hk
+- sundaytimeswineclub.co.uk [medya ortaklığı]
+- averys.com [Avery's Wine Merchants — Direct Wines]
+
+### Virgin Wines
+
+- virginwines.co.uk
+- api.virginwines.co.uk
+- shop.virginwines.co.uk
+- m.virginwines.co.uk
+- mobile.virginwines.co.uk
+- help.virginwines.co.uk
+- account.virginwines.co.uk
+
+### The Drink Shop
+
+- thedrinkshop.com
+- api.thedrinkshop.com
+
+### 31Dover [Premium spirits delivery]
+
+- 31dover.com
+- api.31dover.com
+
+### Hedonism Wines
+
+- hedonism.co.uk
+- api.hedonism.co.uk
+
+### Booze Up
+
+- booze-up.com
+- www.booze-up.com
+
+### MOTH Cocktails [UK RTD — Mix of Total Happiness]
+
+- mothdrinks.com
+- www.mothdrinks.com
+
+---
+
+## 🇦🇺 Australia
+
+### Dan Murphy's / Endeavour Group
+
+- danmurphys.com.au
+- api.danmurphys.com.au
+- cdn.danmurphys.com.au
+- api.endeavourmarketplace.com.au
+- endeavourgroup.com.au
+- endeavourmarketplace.com.au
+- help.danmurphys.com.au
+- m.danmurphys.com.au
+- mobile.danmurphys.com.au
+- shop.danmurphys.com.au
+- app.danmurphys.com.au
+- langtons.com.au [premium fine wine — Endeavour]
+- endeavourdelivery.com.au
+- edg.com.au [EDG — Endeavour Drinks Group]
+- milkrun.com
+
+### BWS [Endeavour Group]
+
+- bws.com.au
+- api.bws.com.au
+- help.bws.com.au
+- m.bws.com.au
+- mobile.bws.com.au
+- shop.bws.com.au
+- app.bws.com.au
+
+### Liquorland [Coles Group]
+
+- liquorland.com.au
+- api.liquorland.com.au
+- liquorlanddirect.com.au
+- m.liquorland.com.au
+- mobile.liquorland.com.au
+- shop.liquorland.com.au
+- help.liquorland.com.au
+- colesliquorcorporate.com.au 
+- liquorlandwarehouse.com.au [First Choice Liquor rebrand]
+- liquorlandcellars.com.au [Vintage Cellars rebrand]
+
+### First Choice Liquor 
+
+- firstchoiceliquor.com.au
+- api.firstchoiceliquor.com.au
+
+### Vintage Cellars
+
+- vintagecellars.com.au
+
+### Jimmy Brings 
+
+- jimmybrings.com.au
+- api.jimmybrings.com.au
+- app.jimmybrings.com.au
+
+### Tipple 
+
+- gotipple.com
+- tipple.com.au
+- api.tipple.com.au
+- heytipple.com
+
+### BottleMart
+
+- bottlemart.com.au
+
+### Thirsty Camel
+
+- thirstycamel.com.au
+
+---
+
+## 🇨🇦 Canada
+
+### LCBO [Ontario]
+
+- lcbo.com
+- api.lcbo.com
+- shop.lcbo.com
+- lcboapi.com
+- hellolcbo.com
+- m.lcbo.com
+- mobile.lcbo.com
+- doingbusinesswithlcbo.com
+- lcbowholesaleoperations.com
+- api.lcbo.dev [geliştirici API]
+
+### BC Liquor Stores / BCLDB [British Columbia]
+
+- bcliquorstores.com
+- api.bcliquorstores.com
+- bcldb.com
+- mycellar.bcliquorstores.com
+- wholesale.bcldb.com
+
+### SAQ [Quebec]
+
+- saq.com
+- api.saq.com
+- saq-b2b.com
+- masaq.com
+- saq.qc.ca
+
+### Wine Rack
+
+- winerack.com
+
+### ANBL [New Brunswick]
+
+- anbl.com
+
+### NSLC [Nova Scotia]
+
+- mynslc.com
+
+### MLCC [Manitoba]
+
+- liquormarts.ca
+
+### SLGA [Saskatchewan]
+
+- slga.com
+
+### AGLC [Alberta]
+
+- aglc.ca
+
+---
+
+## 🇪🇺 Europe
+
+### Tannico 
+
+- tannico.it
+- api.tannico.it
+- shop.tannico.it
+- m.tannico.it
+- mobile.tannico.it
+- tannico.com
+- tannico.es
+- help.tannico.it
+- account.tannico.it
+- b2b.tannico.it
+- tannico.biz
+- tannico.co.uk
+
+### Vinatis [Castel Group]
+
+- vinatis.com
+- vinatis.fr
+- api.vinatis.fr
+- m.vinatis.fr
+- mobile.vinatis.com
+- shop.vinatis.fr
+- account.vinatis.fr
+- help.vinatis.fr
+- vinatis.co.uk
+- vinatis.de
+- vinatis.es
+- vinatis.it
+- vinatis.pt
+
+### Uvinum [Closed — Drinks&Co]
+
+- uvinum.com
+- uvinum.es
+- api.uvinum.com
+- app.uvinum.com
+
+### Drinks&Co [Closed 2023]
+
+- drinks.com
+- drinksandco.com
+- api.drinksandco.com
+- bodeboca.com
+- drinksandco.de
+- drinksandco.fr
+- drinksandco.co.uk
+- shop.drinksandco.com
+- m.drinksandco.com
+- mobile.drinksandco.com
+
+### Wein & Vinos 
+
+- weinvinos.de
+
+### Vinello 
+
+- vinello.de
+
+### Jacques' Wein-Depot / Hawesko Holding 
+
+- jacques.de
+- jacqueswein.de
+- shop.jacques.de
+- m.jacques.de
+- mobile.jacques.de
+- hawesko.de 
+- vinos.de 
+- wirwinzer.de 
+- weinart.de 
+- wein-wolf.de 
+- tesdorpf.de 
+- weinundco.at 
+- winegate.de 
+
+### Licorea 
+
+- licorea.nl
+
+### Vino75 
+
+- vino75.com
+
+### Wine in Black 
+
+- wine-in-black.de
+
+### Vinoteca 
+
+- vinotecaviana.es
+
+### Millésima [Bordeaux]
+
+- millesima.com
+- millesima.fr
+- api.millesima.fr
+- millesima-usa.com
+- m.millesima.com
+- mobile.millesima.com
+- shop.millesima.com
+- help.millesima.com
+- account.millesima.com
+- millesima.co.uk
+- millesima.de
+- millesima.es
+- millesima.it
+- millesima.com.hk
+- millesima.ie
+- millesima.pt
+
+---
+
+## 🌏 Asia
+
+### Wine Connection
+
+- wineconnection.com.sg
+- wineconnection.co.th
+- wineconnection.com 
+- wineconnection.com.my 
+
+### Enoteca [Japan — エノテカ株式会社]
+
+- enoteca.co.jp 
+- enoteca.jp 
+
+### Tanpin 
+
+- tanpin.com.tw
+
+### Cellarbration 
+
+- cellarbration.com.sg
+
+### The Whisky List 
+
+- thewhiskylist.com.sg
+
+### Wine World
+
+- wineworld.com.hk
+
+---
+
+## 🇮🇳 India
+
+### Living Liquidz [Mansionz — Bengaluru]
+
+- livingliquidz.com
+- livingliquidz.co.in
+- www.livingliquidz.com
+- erp.livingliquidz.com
+- mansionz.in
+
+
+- hipbar.com
+- www.hipbar.com
+- gifting.hipbar.com
+
+### Booozie [Closed — Tracxn: "deadpooled"]
+
+- booozie.com
+- www.booozie.com
+- order.booozie.com
+
+### BevQ Closed
+
+- bevco.in
+- ksbc.kerala.gov.in
+
+### Bottle Rover
+
+- bottlerover.com
+
+### Tipsy India
+
+- tipsyindia.in
+- tipsyapp.in
+
+### Spiritzone [Maharashtra/Mumbai — Boxwish Labs LLP]
+
+- spiritzone.in
+- www.spiritzone.in
+
+### BeerBox by aBeer
+
+- thebeerbox.co.in
+
+### Wine Park India
+
+- winepark.in
+
+### Dooze: Booze Delivered
+
+- getdooze.com
+
+---
+
+## 🚚 On-Demand Teslimat
+
+### Favor Delivery [H-E-B owned — 2018; Texas special]
+
+- favordelivery.com
+- api.favordelivery.com
+- run.favordelivery.com
+- legal.favordelivery.com
+- merchant.favordelivery.com
+- driver.favordelivery.com
+- help.favordelivery.com
+- support.favordelivery.com
+
+### Waitr [Closed — Chapter 7]
+
+- waitrapp.com
+- api.waitrapp.com
+- driver.waitrapp.com
+- help.waitrapp.com
+- support.waitrapp.com
+- merchant.waitrapp.com
+- asap.com
+- bitesquad.com
+- deliverydudes.com
+
+### Gorillas [CLOSED)
+
+- gorillas.io
+- api.gorillas.io
+
+### Swill [Swillio, Inc. — NYC
+
+- getswill.com
+- support.getswill.com
+- wordpress-staging.getswill.com
+
+### DrinkUpNY [NYC Metro]
+
+- drinkupny.com
+- www.drinkupny.com
+
+---
+
+### Blue Apron Wine [closed]
+
+- blueapronwine.com
+- api.blueapronwine.com
+
+### Plonk Wine Club 
+
+- plonkwineclub.com
+
+### Plonk Wine 
+
+- plonkwine.co
+
+### WSJwine [Direct Wines, Inc. — WSJ]
+
+- wsjwine.com
+- wsjwineplus.com
+- api.wsjwine.com
+- shop.wsjwine.com
+- account.wsjwine.com
+- help.wsjwine.com
+- directwinesinc.com
+- home.wsjwine.com [B2B intranet portal]
+
+### Wine Awesomeness [closed]
+
+- wineawesomeness.com
+
+### Cellars Wine Club
+
+- cellarswineclub.com
+- help.cellarswineclub.com
+
+### International Wine of the Month Club [MonthlyClubs.com]
+
+- winemonthclub.com
+- blog.winemonthclub.com
+- monthlyclubs.com
+
+### Wine of the Month Club [Amazing Clubs]
+
+- wineofthemonthclub.com
+
+### Wine Insiders [Full Glass Wine Co.]
+
+- wineinsiders.com
+- help.wineinsiders.com
+- account.wineinsiders.com
+- shop.wineinsiders.com
+
+### The California Wine Club [Gold Medal Wine Group]
+
+- cawineclub.com
+- account.cawineclub.com
+- help.cawineclub.com
+- shop.cawineclub.com
+
+### Martha Stewart Wine Co. [Wine Insiders / Full Glass]
+
+- marthastewart.wine
+- marthastewartwineco.com
+- marthastewartwine.com
+- blog.marthastewartwine.com
+
+### Cameron Hughes Wine [Full Glass Wine Co.]
+
+- chwine.com
+- cameronhugheswine.com
+- camxwine.com
+- blog.chwine.com
+
+### Splash Wines [Full Glass Wine Co.]
+
+- splashwines.com
+- help.splashwines.com
+- account.splashwines.com
+- shop.splashwines.com
+- m.splashwines.com
+- mobile.splashwines.com
+
+### Gold Medal Wine Club [Gold Medal Wine Group]
+
+- goldmedalwineclub.com
+- account.goldmedalwineclub.com
+- shop.goldmedalwineclub.com
+- help.goldmedalwineclub.com
+
+### WTSO [Wines Til Sold Out]
+
+- wtso.com
+- winestilosoldout.com
+
+### Vinebox [Sugarwish]
+
+- vinebox.com
+- getvinebox.com
+
+### somMailier
+
+- sommailier.com
+- somMailier.com
+
+### Sampl
+
+- drinksampl.com
+
+### McBride Sisters Collection
+
+- mcbridesisters.com
+- mcbridesisterscollection.com
+- blackgirlmagicwine.com
+- shecanwine.com
+
+### Vinesse Wine Club 
+
+- vinesse.com
+
+### American Cocktail Club
+
+- americancocktailclub.com
+
+### HopHeads Beer Club / Microbrewed Beer of the Month Club [MonthlyClubs.com alt markası]
+
+- beermonthclub.com
+- monthlyclubs.com
+
+### Original Craft Beer Club
+
+- craftbeerclub.com
+
+---
+
+## 🍷 Wine & Spirits DTC 
+
+### Haus [ The Naked Market]
+
+- drink-haus.com
+- haus.co
+
+### Empathy Wines
+
+- empathywines.com
+- www.empathywines.com
+
+### Usual Wines
+
+- usualwines.com
+- www.usualwines.com
+
+### Bomani
+
+- drinkbomani.com
+- olddata.drinkbomani.com
+- bomanicoldbuzz.com
+
+### Troop
+
+- drinktroop.com
+- www.drinktroop.com
+
+### Dry Farm Wines
+
+- dryfarmwines.com
+- www.dryfarmwines.com
+- truth.dryfarmwines.com
+
+---
+
+## 🇧🇷 Brezilya
+
+### Evino 
+
+- evino.com.br
+- www.evino.com.br
