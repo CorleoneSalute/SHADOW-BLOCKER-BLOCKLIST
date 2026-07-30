@@ -1,0 +1,1275 @@
+AI CHATBOTS & LLM RESEARCH LIST
+
+## 🔴 TIER 0: CRITICAL — EXTREME PRIVACY RISK
+
+### 💕 ROMANTIC / COMPANION AI
+
+**Replika**
+- replika.com
+- *.replika.com
+- replika.ai
+- *.replika.ai
+- my.replika.ai
+- api.replika.ai
+- cdn.replika.ai
+- web.replika.ai
+- mobile.replika.ai
+- static.replika.ai
+- assets.replika.ai
+- auth.replika.ai
+- sync.replika.ai
+- analytics.replika.ai
+- metrics.replika.ai
+- events.replika.ai
+- voice.replika.ai
+- media.replika.ai
+- storage.replika.ai
+- conversations.replika.ai
+- models.replika.ai
+- ml.replika.ai
+- replika-auth.firebaseapp.com
+- luka.ai
+- *.luka.ai
+
+**Character.AI**
+- character.ai
+- *.character.ai
+- beta.character.ai
+- plus.character.ai
+- api.character.ai
+- cdn.character.ai
+- neo.character.ai
+- web.character.ai
+- static.character.ai
+- assets.character.ai
+- images.character.ai
+- avatars.character.ai
+- voices.character.ai
+- chat.character.ai
+- conversations.character.ai
+- models.character.ai
+- inference.character.ai
+- ws.character.ai
+- streaming.character.ai
+- analytics.character.ai
+- telemetry.character.ai
+- labs.character.ai
+- characterai.io
+- *.characterai.io
+- multimodal.characterai.io
+- img.characterai.io
+- r2.characterai.io
+- staging.characterai.io
+
+**Chai**
+- chai-research.com
+- *.chai-research.com
+- chai.ml
+- *.chai.ml
+- api.chai-research.com
+- cdn.chai-research.com
+- app.chai.ml
+- models.chai.ml
+- chat.chai.ml
+- assets.chai-research.com
+- static.chai.ml
+- docs.chai-research.com
+- console.chaiverse.com
+- chaiverse.com
+- blog.chai-research.com
+- chai.ai
+
+**Anima**
+- anima.ai
+- *.anima.ai
+- myanima.ai
+- *.myanima.ai
+- api.anima.ai
+- app.anima.ai
+- cdn.anima.ai
+- chat.anima.ai
+- voice.anima.ai
+- assets.anima.ai
+- static.anima.ai
+
+**Nomi AI**
+- nomi.ai
+- *.nomi.ai
+- api.nomi.ai
+
+**Paradot**
+- paradot.ai
+- *.paradot.ai
+- withfeeling.ai
+- *.withfeeling.ai
+- withfeeling.info
+- *.withfeeling.info
+
+**Candy AI**
+- candy.ai
+- *.candy.ai
+- cdn.candy.ai
+- trycandyai.com
+- everai.ltd
+
+**DreamGF**
+- dreamgf.ai
+- *.dreamgf.ai
+- xinchenai.com
+- sentry.xinchenai.com
+
+**CrushOn AI**
+- crushon.ai
+- *.crushon.ai
+- apk.crushon.ai
+- l.crushon.ai
+- forms.crushon.ai
+- form.crushon.ai
+- grpc-pre.crushon.ai
+- grpc.crushon.ai
+- grpc-test.crushon.ai
+- wiki.crushon.ai
+- status.crushon.ai
+
+**Eva AI**
+- eva.ai
+- *.eva.ai
+- evabot.ai
+- *.evabot.ai
+
+**Nastia AI**
+- nastia.ai
+- *.nastia.ai
+
+**Muah AI**
+- muah.ai
+- *.muah.ai
+- land.muah.ai
+- card.muah.ai
+
+**SpicyChat AI**
+- spicychat.ai
+- *.spicychat.ai
+- tipsy.chat
+- spicy.ai
+
+**Kindroid**
+- kindroid.ai
+- *.kindroid.ai
+- api.kindroid.ai
+- docs.kindroid.ai
+- kindroid-ai.firebaseapp.com
+
+**GirlfriendGPT**
+- girlfriendgpt.ai
+- *.girlfriendgpt.ai
+
+**Joyland AI**
+- joyland.ai
+- *.joyland.ai
+- xinchenai.com
+- sentry.xinchenai.com
+- antom.com
+
+**Kupid AI**
+- kupid.ai
+- *.kupid.ai
+
+**JuicyChat AI**
+- juicychat.ai
+- *.juicychat.ai
+
+**Soulmate AI**
+- soulmate.ai
+- *.soulmate.ai
+
+**SupaFriends**
+- supafriends.com
+- *.supafriends.com
+
+**OurDream AI**
+- ourdream.ai
+- *.ourdream.ai
+- ourdream-ai.com
+- *.ourdream-ai.com
+- ourdream-ai.org
+- *.ourdream-ai.org
+
+**Romantic AI**
+- romanticai.com
+- *.romanticai.com
+- romanticai.app
+- romanticai.net
+- romanticai.org
+- zemomedia.com
+
+**Talkie AI**
+- talkie-ai.com
+- *.talkie-ai.com
+
+**Dream Companion**
+- companiondream.com
+- *.companiondream.com
+
+**Swipey AI**
+- swipey.ai
+- *.swipey.ai
+- swipey.org
+- *.swipey.org
+- getswipeyai.net
+- *.getswipeyai.net
+- swipey-ai.eu
+- *.swipey-ai.eu
+
+**ThotChat**
+- thotchat.ai
+- *.thotchat.ai
+- thotchat-ai.net
+
+**GPTGirlfriend**
+- gptgirlfriend.online
+- *.gptgirlfriend.online
+
+**AIGirlfriends.ai**
+- aigirlfriends.ai
+- *.aigirlfriends.ai
+
+**Mel**
+- mel.us
+- *.mel.us
+
+---
+
+### 🎭 CHARACTER AI / ROLEPLAY CHATBOTS
+
+**DreamGen**
+- dreamgen.com
+- *.dreamgen.com
+
+**HeraHaven AI**
+- herahaven.ai
+- *.herahaven.ai
+
+**Nemora AI**
+- nemora-ai.com
+- *.nemora-ai.com
+
+**SoulGen**
+- soulgen.ai
+- *.soulgen.ai
+- api.soulgen.ai
+- auth.soulgen.ai
+- oauth.soulgen.ai
+- firebase.soulgen.ai
+- files.soulgen.ai
+- inpaint.soulgen.ai
+- task.soulgen.ai
+- staging.soulgen.ai
+- dev.soulgen.ai
+
+**Janitor AI**
+- janitorai.com
+- *.janitorai.com
+- janitor.ai
+- cdn.janitorai.com
+
+**Dopple AI**
+- dopple.ai
+- *.dopple.ai
+- mobile.dopple.ai
+
+**Tavern AI / SillyTavern**
+- tavernai.net
+- *.tavernai.net
+- docs.sillytavern.app
+- github.com/TavernAI/TavernAI
+- github.com/SillyTavern/SillyTavern
+
+> ⚠ Self-hosted platform — runs on localhost
+
+**Pygmalion AI**
+- pygmalion.chat
+- *.pygmalion.chat
+- huggingface.co/PygmalionAI
+- github.com/PygmalionAI
+
+> ⚠ Open-source, self-hosted platform
+
+**Botify AI**
+- botify.ai
+- *.botify.ai
+
+**ChatFAI**
+- chatfai.com
+- *.chatfai.com
+- api.chatfai.com
+
+**Kajiwoto**
+- kajiwoto.ai
+- *.kajiwoto.ai
+- kajiwoto.com
+
+**NovelAI**
+- novelai.net
+- *.novelai.net
+- api.novelai.net
+- api.novelai.net/ai/generate-stream
+- api.novelai.net/ai/generate-image
+- api.novelai.net/ai/generate-voice
+- text.novelai.net
+- image.novelai.net
+- docs.novelai.net
+- status.novelai.net
+- blog.novelai.net
+- cdn.novelai.net
+- anlatan.com
+
+**Cohesive AI**
+- cohesive.ai
+- *.cohesive.ai
+
+**Flirton.ai**
+- flirton.ai
+- *.flirton.ai
+
+**RolePlai**
+- roleplai.app
+- *.roleplai.app
+
+**VMate AI**
+- vmate.ai
+- *.vmate.ai
+
+**Figgs AI**
+- figgs.ai
+- *.figgs.ai
+- figg.ai
+
+**Yodayo AI**
+- yodayo.com
+- *.yodayo.com
+
+**Moescape AI**
+- moescape.ai
+- *.moescape.ai
+- moescape.app
+- docs.moescape.ai
+
+**Chub AI / CharHub / Venus AI**
+- chub.ai
+- *.chub.ai
+- api.chub.ai
+- inference.chub.ai
+- docs.chub.ai
+- characterhub.org
+- *.characterhub.org
+- venus.ai
+
+> ⚠ CharHub + Venus AI merged into Chub.ai (May 2024)
+
+**Sakura FM**
+- sakura.fm
+- *.sakura.fm
+
+**Agnaistic (Agnai)**
+- agnai.chat
+- *.agnai.chat
+- agnaistic.ai
+- agnai.guide
+- github.com/agnaistic/agnai
+
+**Rosebud AI**
+- rosebud.ai
+- *.rosebud.ai
+- lab.rosebud.ai
+
+**Emochi**
+- emochi.com
+- *.emochi.com
+- feedback.emochi.com
+
+**PolyBuzz AI**
+- polybuzz.ai
+- *.polybuzz.ai
+- polybuzz.com
+- *.polybuzz.com
+- polyai.ai
+- poly.ai
+
+**AI Dungeon**
+- aidungeon.com
+- *.aidungeon.com
+- play.aidungeon.io
+- *.aidungeon.io
+- aidungeon.cc
+- latitude.io
+- *.latitude.io
+- content.latitude.io
+
+**Korewa AI**
+- korewa.ai
+- *.korewa.ai
+
+---
+
+### 🔍 GOOGLE GEMINI
+
+**Core Platform**
+- gemini.google.com
+- *.gemini.google.com
+- bard.google.com
+- aistudio.google.com
+- ai.google
+- ai.google.dev
+- makersuite.google.com
+- notebooklm.google.com
+- notebooklm.google
+- flow.google
+- whisk.google
+
+**API & Services**
+- generativelanguage.googleapis.com
+- generativeai.googleapis.com
+- aiplatform.googleapis.com
+- *.aiplatform.googleapis.com
+- cloudaicompanion.googleapis.com
+- bard-api.google.com
+- oauth2.googleapis.com
+- serviceusage.googleapis.com
+- cloudresourcemanager.googleapis.com
+- people.googleapis.com
+- identitytoolkit.googleapis.com
+- www.googleapis.com
+- apis.google.com
+- jnn-pa.googleapis.com
+- maps.googleapis.com
+- optimizationguide-pa.googleapis.com
+- streetviewpixels-pa.googleapis.com
+- content-autofill.googleapis.com
+
+**Assets & CDN**
+- www.gstatic.com/lamda
+- ssl.gstatic.com/bard
+- fonts.gstatic.com
+- www.gstatic.com/gemini
+- ssl.gstatic.com
+- fonts.googleapis.com
+- maps.gstatic.com
+- lh5.googleusercontent.com
+- lh3.googleusercontent.com
+- lh3.google.com
+- i.ytimg.com
+- yt3.ggpht.com
+- encrypted-tbn0.gstatic.com
+- encrypted-tbn1.gstatic.com
+- encrypted-tbn2.gstatic.com
+- encrypted-tbn3.gstatic.com
+
+**Analytics & Telemetry (Gemini-specific)**
+- gemini-analytics.google.com
+- bard-telemetry.google.com
+- clients6.google.com
+- play.google.com/log
+- ogs.google.com
+- waa-pa.clients6.google.com
+- ogads-pa.clients6.google.com
+- csp.withgoogle.com
+- www.google.com
+
+**Auth & Account**
+- accounts.google.com
+- myaccount.google.com
+
+---
+
+## 🟠 TIER 1: HIGH RISK — PROPRIETARY CODE / WORKPLACE
+
+### 💻 CODE ASSISTANTS
+
+**GitHub Copilot**
+- copilot.github.com
+- api.github.com
+- *.github.com
+- github-cloud.githubusercontent.com
+- github.githubassets.com
+- avatars.githubusercontent.com
+- copilot-proxy.githubusercontent.com
+- copilot-telemetry.githubusercontent.com
+- copilot-telemetry-service.githubusercontent.com
+- default.exp-tas.com
+- ea-vscode.github.com
+- githubcopilot.com
+- *.githubcopilot.com
+- api.githubcopilot.com
+- api.individual.githubcopilot.com
+- api.business.githubcopilot.com
+- *.business.githubcopilot.com
+- *.enterprise.githubcopilot.com
+- v1.telemetry.coder.com
+- westus-0.in.applicationinsights.azure.com
+- mobile.events.data.microsoft.com
+
+**Amazon Q Developer**
+- codewhisperer.aws
+- *.codewhisperer.aws
+- codewhisperer.us-east-1.amazonaws.com
+- codewhisperer-api.amazonaws.com
+- signin.aws.amazon.com
+- oidc.us-east-1.amazonaws.com
+- desktop-release.codewhisperer.us-east-1.amazonaws.com
+- telemetry.aws-language-servers.us-east-1.amazonaws.com
+- idetoolkits-hostedfiles.amazonaws.com
+- idetoolkits.amazonwebservices.com
+- aws-toolkit-language-servers.amazonaws.com
+- cognito-identity.us-east-1.amazonaws.com
+- aws-language-servers.us-east-1.amazonaws.com
+- q.us-east-1.amazonaws.com
+- desktop-release.q.us-east-1.amazonaws.com
+- specs.q.us-east-1.amazonaws.com
+- client-telemetry.us-east-1.amazonaws.com
+- *.sso.amazonaws.com
+- *.sso-portal.amazonaws.com
+- view.awsapps.com
+- *.awsapps.com
+- *.aws.dev
+- prod.pa.cdn.uis.awsstatic.com
+- prod.assets.shortbread.aws.dev
+- prod.tools.shortbread.aws.dev
+- prod.log.shortbread.aws.dev
+- a.b.cdn.console.awsstatic.com
+- amazonwebservices.gallery.vsassets.io
+
+**Codeium / Windsurf**
+- codeium.com
+- *.codeium.com
+- api.codeium.com
+- web.codeium.com
+- server.codeium.com
+- telemetry.codeium.com
+- analytics.codeium.com
+- cdn.codeium.com
+- static.codeium.com
+- web-backend.codeium.com
+- unleash.codeium.com
+- inference.codeium.com
+- codeiumdata.com
+- *.codeiumdata.com
+- windsurf.com
+- *.windsurf.com
+- enterprise.windsurf.com
+- trust.windsurf.com
+- downloads.windsurf.com
+
+**Tabnine**
+- tabnine.com
+- *.tabnine.com
+- api.tabnine.com
+- update.tabnine.com
+- cdn.tabnine.com
+- telemetry.tabnine.com
+- console.tabnine.com
+- registry.tabnine.com
+- app.tabnine.com
+- docs.tabnine.com
+
+**Cursor**
+- cursor.sh
+- *.cursor.sh
+- api2.cursor.sh
+- api3.cursor.sh
+- api4.cursor.sh
+- cdn.cursor.sh
+- www.cursor.com
+- us-asia.gcpp.cursor.sh
+- us-eu.gcpp.cursor.sh
+- us-only.gcpp.cursor.sh
+- marketplace.cursorapi.com
+- cursor-cdn.com
+- downloads.cursor.com
+- anysphere-binaries.s3.us-east-1.amazonaws.com
+- repo42.cursor.sh
+- turbopuffer.com
+- status.cursor.com
+- api5.cursor.sh
+- adminportal42.cursor.sh
+- trust.cursor.com
+- fireworks.ai
+- *.fireworks.ai
+- baseten.co
+- *.baseten.co
+- together.ai
+- *.together.ai
+- exa.ai
+
+---
+
+### 🏢 MICROSOFT 365 COPILOT
+
+**Core Copilot**
+- copilot.microsoft.com
+- *.copilot.microsoft.com
+- graph.microsoft.com
+- *.graph.microsoft.com
+- copilot.cloud.microsoft
+- *.cloud.microsoft
+- edgeservices.bing.com
+- sydney.bing.com
+- www.bing.com/turing
+- api.copilotstudio.microsoft.com
+- api.bap.microsoft.com
+- *.microsoft
+- copilotstudio.microsoft.com
+- *.copilotstudio.microsoft.com
+- m365.cloud.microsoft
+- m365copilot.com
+- browser.pipe.aria.microsoft.com
+
+**Microsoft 365 Integration**
+- substrate.office.com
+- api.office.com
+- outlook.office.com
+- teams.microsoft.com
+- onedrive.live.com
+- graph.microsoft.com/v1.0
+- *.office.net
+- make.powerautomate.com
+- make.powerapps.com
+- admin.powerplatform.microsoft.com
+
+**Auth & Services**
+- login.live.com
+- login.windows.net
+- login.microsoftonline.com
+- account.microsoft.com
+- aadcdn.msauth.net
+- aadcdn.msftauth.net
+
+**CDN & Assets**
+- res.cdn.office.net
+- statics.teams.cdn.office.net
+- spoprod-a.akamaihd.net
+
+---
+
+## 🟡 TIER 2: MEDIUM RISK — MAJOR LLM PLATFORMS
+
+### 🤖 CHATGPT (OpenAI)
+
+**Core Platform**
+- chat.openai.com
+- *.chat.openai.com
+- chatgpt.com
+- *.chatgpt.com
+- openai.com
+- *.openai.com
+- api.openai.com
+- cdn.openai.com
+- static.openai.com
+- chat.com
+- sora.com
+- crixet.com
+
+**Services**
+- auth0.openai.com
+- auth.openai.com
+- *.auth.openai.com
+- labs.openai.com
+- platform.openai.com
+- beta.openai.com
+- status.openai.com
+- help.openai.com
+- community.openai.com
+- images.openai.com
+- apps.openai.com
+- pay.openai.com
+- cookbook.openai.com
+- gpt.openai.com
+
+**API & Infrastructure**
+- api.openai.com/v1
+- production.openai.com
+- ios.chat.openai.com
+- android.chat.openai.com
+- desktop.chat.openai.com
+
+**Assets & CDN**
+- oaiusercontent.com
+- *.oaiusercontent.com
+- cdn.oaistatic.com
+- oaistatic.com
+- openaiapi-site.azureedge.net
+- openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+- openaicomproductionae4b.blob.core.windows.net
+- production-openaicom-storage.azureedge.net
+- openaicom.imgix.net
+- openai.com.cdn.cloudflare.net
+
+**Telemetry**
+- events.openai.com
+- o.openai.com
+- telemetry.openai.com
+- analytics.openai.com
+- metrics.openai.com
+
+**Plugins**
+- plugins.openai.com
+- plugin.openai.com
+
+**WebSocket & Real-time (Advanced Voice)**
+- chatgpt.livekit.cloud
+- host.livekit.cloud
+- turn.livekit.cloud
+- wss://fp-async-webps-prod.webpubsub.azure.com
+- wss://fp-async-webps-staging.webpubsub.azure.com
+- chatgpt-async-webps-prod-*.webpubsub.azure.com
+
+---
+
+### 🧠 CLAUDE (Anthropic)
+
+**Core Platform**
+- claude.ai
+- *.claude.ai
+- claude.com
+- *.claude.com
+- anthropic.com
+- *.anthropic.com
+- api.anthropic.com
+- cdn.anthropic.com
+- auth.anthropic.com
+- console.anthropic.com
+- support.anthropic.com
+
+**Services**
+- app.anthropic.com
+- web.claude.ai
+- vertex.claude.ai
+- aws.claude.ai
+- statsig.anthropic.com
+- code.claude.com
+- platform.claude.com
+- downloads.claude.ai
+- cowork.claude.com
+- chrome.claude.ai
+- ios.claude.ai
+- mobile.claude.ai
+
+**Assets & CDN**
+- assets.anthropic.com
+- static.anthropic.com
+- claudeusercontent.com
+- *.claudeusercontent.com
+- anthropiccdn.com
+- *.anthropiccdn.com
+- anthropic-cdn.com
+- *.anthropic-cdn.com
+- www-cdn.anthropic.com
+- s-cdn.anthropic.com
+- files.anthropic.com
+- a-cdn.anthropic.com
+- a-api.anthropic.com
+
+---
+
+### 🔷 MICROSOFT COPILOT (General / Bing)
+
+- bing.com
+- *.bing.com
+- api.bing.com
+- c.bing.com
+- www.bing.com/search
+- copilot.bing.com
+- nochat.bing.com
+- cdp.copilot.microsoft.com
+- sydney.bing.com
+- www.bing.com/turing/conversation
+- edgeservices.bing.com/edgesvc
+- login.microsoftonline.com
+- account.microsoft.com
+- assets.msn.com
+- r.bing.com
+- th.bing.com
+- tse1.mm.bing.net
+- tse2.mm.bing.net
+- tse3.mm.bing.net
+- tse4.mm.bing.net
+- bat.bing.net
+- ts1.mm.bing.net
+- ts2.mm.bing.net
+
+---
+
+### 🔍 PERPLEXITY AI
+
+- perplexity.ai
+- *.perplexity.ai
+- www.perplexity.ai
+- api.perplexity.ai
+- app.perplexity.ai
+- cdn.perplexity.ai
+- static.perplexity.ai
+- assets.perplexity.ai
+- pplx.ai
+- *.pplx.ai
+- pplx-next-static-public.perplexity.ai
+- r2cdn.perplexity.ai
+- research.perplexity.ai
+- sonar.perplexity.ai
+- docs.perplexity.ai
+- comet.perplexity.ai
+- status.perplexity.ai
+- finance.perplexity.ai
+- spaces.perplexity.ai
+- labs.perplexity.ai
+
+---
+
+### 🔎 You.com
+
+- you.com
+- *.you.com
+- api.you.com
+- chat.you.com
+- youchat.com
+- cdn.you.com
+- static.you.com
+- assets.you.com
+- docs.you.com
+- research.you.com
+- studio.you.com
+
+---
+
+### 🆕 GROK / xAI
+
+- x.ai
+- *.x.ai
+- grok.com
+- *.grok.com
+- api.x.ai
+- docs.x.ai
+- platform.x.ai
+- console.x.ai
+- grok.x.ai
+- api.x.ai/v1
+- management-api.x.ai
+- status.x.ai
+
+---
+
+### 🆕 POE
+
+- poe.com
+- *.poe.com
+- web.poe.com
+- bot.poe.com
+- creator.poe.com
+- poecdn.net
+- *.poecdn.net
+- api.poe.com
+- help.poe.com
+
+---
+
+### 🆕 DeepSeek
+
+- deepseek.com
+- *.deepseek.com
+- chat.deepseek.com
+- platform.deepseek.com
+- cdn.deepseek.com
+- api-docs.deepseek.com
+- api.deepseek.com
+- api.deepseek.com/v1
+- status.deepseek.com
+- janus.deepseek.com
+
+---
+
+### 🆕 Pi AI (Inflection)
+
+- pi.ai
+- *.pi.ai
+- inflection.ai
+- *.inflection.ai
+- heypi.com
+- *.heypi.com
+- api.inflection.ai
+- developers.inflection.ai
+
+---
+
+### 🆕 PHIND
+
+- phind.com
+- *.phind.com
+- www.phind.com
+- app.phind.com
+- vscode.phind.com
+- api.phind.com
+- docs.phind.com
+
+---
+
+## 🟢 TIER 3: SPECIALIZED TOOLS
+
+### ✍️ WRITING TOOLS
+
+**Jasper AI**
+- jasper.ai
+- *.jasper.ai
+- app.jasper.ai
+- api.jasper.ai
+- cdn.jasper.ai
+- assets.jasper.ai
+- templates.jasper.ai
+- developers.jasper.ai
+- security.jasper.ai
+- help.jasper.ai
+- blog.jasper.ai
+- status.jasper.ai
+
+**Copy.ai**
+- copy.ai
+- *.copy.ai
+- app.copy.ai
+- api.copy.ai
+- cdn.copy.ai
+- static.copy.ai
+- docs.copy.ai
+- help.copy.ai
+- blog.copy.ai
+- status.copy.ai
+
+**Writesonic**
+- writesonic.com
+- *.writesonic.com
+- app.writesonic.com
+- api.writesonic.com
+- chatsonic.com
+- *.chatsonic.com
+- photosonic.ai
+- *.photosonic.ai
+- botsonic.ai
+- *.botsonic.ai
+- botsonic.com
+- status.writesonic.com
+
+**Rytr**
+- rytr.me
+- *.rytr.me
+- app.rytr.me
+- api.rytr.me
+
+---
+
+### 🎨 IMAGE GENERATION
+
+**Midjourney**
+- midjourney.com
+- *.midjourney.com
+- cdn.midjourney.com
+- www.midjourney.com/app
+- alpha.midjourney.com
+- docs.midjourney.com
+- storage.midjourney.com
+- updates.midjourney.com
+
+**Stability AI / Stable Diffusion**
+- stability.ai
+- *.stability.ai
+- dreamstudio.ai
+- *.dreamstudio.ai
+- api.stability.ai
+- grpc.stability.ai
+- cdn.stability.ai
+- platform.stability.ai
+- dreamstudio.stability.ai
+- clipdrop.co
+- *.clipdrop.co
+- kb.stability.ai
+- status.stability.ai
+- developer.stability.ai
+
+**DALL-E (OpenAI)**
+- labs.openai.com
+- labs.openai.com/api
+
+**Leonardo.ai**
+- leonardo.ai
+- *.leonardo.ai
+- app.leonardo.ai
+- cdn.leonardo.ai
+- docs.leonardo.ai
+- cloud.leonardo.ai
+- status.leonardo.ai
+
+---
+
+### 🎙️ VOICE & VIDEO
+
+**ElevenLabs**
+- elevenlabs.io
+- *.elevenlabs.io
+- api.elevenlabs.io
+- app.elevenlabs.io
+- cdn.elevenlabs.io
+- static.elevenlabs.io
+- voices.elevenlabs.io
+- storage.elevenlabs.io
+- wss://api.elevenlabs.io
+- docs.elevenlabs.io
+- help.elevenlabs.io
+- blog.elevenlabs.io
+- api.eu.residency.elevenlabs.io
+
+**Synthesia**
+- synthesia.io
+- *.synthesia.io
+- app.synthesia.io
+- api.synthesia.io
+- cdn.synthesia.io
+- assets.synthesia.io
+- share.synthesia.io
+- *.api.synthesia.io
+- studio.auth.synthesia.io
+- image.synthesia.io
+- *.prd.synthesia.io
+- security.synthesia.io
+
+**Runway ML**
+- runwayml.com
+- *.runwayml.com
+- app.runwayml.com
+- api.runwayml.com
+- cdn.runwayml.com
+- models.runwayml.com
+- docs.dev.runwayml.com
+- api-docs.runway.team
+- dev.runwayml.com
+- hosted-models.runwayml.cloud
+- runway.team
+- *.runway.team
+- status.runway.team
+
+**Descript**
+- descript.com
+- *.descript.com
+- app.descript.com
+- api.descript.com
+- cdn.descript.com
+- share.descript.com
+- docs.descriptapi.com
+
+**Murf.ai**
+- murf.ai
+- *.murf.ai
+- app.murf.ai
+- api.murf.ai
+- help.murf.ai
+- devmurf.crisp.help
+- falcon.murf.ai
+- status.murf.ai
+
+---
+
+### 🔬 AI DEVELOPMENT PLATFORMS
+
+**Cohere**
+
+- cohere.ai
+- *.cohere.ai
+- api.cohere.ai
+- dashboard.cohere.ai
+- cdn.cohere.ai
+- cohere.com
+- *.cohere.com
+- api.cohere.com
+- dashboard.cohere.com
+- docs.cohere.com
+- coral.cohere.com
+- cohere.io
+- north.cohere.com
+- compass.cohere.com
+- labs.cohere.com
+
+**Meta AI**
+- ai.meta.com
+- *.ai.meta.com
+- llama.meta.com
+- ai.facebook.com
+- graph.meta.com
+- developers.facebook.com
+- meta.ai
+- *.meta.ai
+- www.meta.ai
+- graph.facebook.com
+- graph-video.facebook.com
+- metastatus.com
+- llama.com
+- business.meta.ai
+- imagine.meta.com
+- l.facebook.com
+- lookaside.fbsbx.com
+
+**Mistral AI**
+- mistral.ai
+- *.mistral.ai
+- api.mistral.ai
+- chat.mistral.ai
+- console.mistral.ai
+- docs.mistral.ai
+- la-plateforme.mistral.ai
+- admin.mistral.ai
+- lechat.mistral.ai
+- status.mistral.ai
+- codestral.mistral.ai
+- auth.mistral.ai
+
+---
+
+### 🏗️ CHATBOT BUILDER
+
+**Kore.ai**
+- kore.ai
+- *.kore.ai
+- bots.kore.ai
+- platform.kore.ai
+- developer.kore.ai
+- docs.kore.ai
+- api.kore.ai
+- marketplace.kore.ai
+- academy.kore.ai
+- app.kore.ai
+- work.kore.ai
+- process.kore.ai
+- agent-platform.kore.ai
+- eu-bots.kore.ai
+- eu-platform.kore.ai
+- de-bots.kore.ai
+- de-platform.kore.ai
+- de-agent-platform.kore.ai
+- au-bots.kore.ai
+- au-platform.kore.ai
+- jp-bots.kore.ai
+- jp-platform.kore.ai
+- jp-agent-platform.kore.ai
+- ind-bots.kore.ai
+- ind-platform.kore.ai
+- uae-bots.kore.ai
+- uae-platform.kore.ai
+
+**Yellow.ai**
+- yellow.ai
+- *.yellow.ai
+- yellowmessenger.com
+- *.yellowmessenger.com
+- cloud.yellow.ai
+- live.yellow.ai
+- api.yellow.ai
+- cdn.yellowmessenger.com
+- docs.yellow.ai
+
+**Botpress**
+- botpress.com
+- *.botpress.com
+- botpress.cloud
+- *.botpress.cloud
+- api.botpress.cloud
+- webhook.botpress.cloud
+- studio.botpress.com
+- files.botpress.cloud
+- cdn.botpress.cloud
+- runtime.botpress.cloud
+- messaging.botpress.cloud
+
+**Voiceflow**
+- voiceflow.com
+- *.voiceflow.com
+- api.voiceflow.com
+- creator.voiceflow.com
+- status.voiceflow.com
+- docs.voiceflow.com
+- general-runtime.voiceflow.com
+- cdn.voiceflow.com
+- analytics.voiceflow.com
+- runtime.voiceflow.com
+- upload.voiceflow.com
+
+**Rasa**
+- rasa.com
+- *.rasa.com
+- forum.rasa.com
+
+> ⚠ Self-hosted platform
+
+**Amazon Lex**
+- aws.amazon.com/lex
+- lex.amazonaws.com
+- *.lex.amazonaws.com
+- runtime-v2-lex.us-east-1.amazonaws.com
+- runtime-v2-lex.us-west-2.amazonaws.com
+- runtime-v2-lex.eu-central-1.amazonaws.com
+- runtime-v2-lex.eu-west-1.amazonaws.com
+- runtime-v2-lex.eu-west-2.amazonaws.com
+- runtime-v2-lex.ap-northeast-1.amazonaws.com
+- runtime-v2-lex.ap-northeast-2.amazonaws.com
+- runtime-v2-lex.ap-southeast-1.amazonaws.com
+- runtime-v2-lex.ap-southeast-2.amazonaws.com
+- runtime-v2-lex.ca-central-1.amazonaws.com
+- models-v2-lex.us-east-1.amazonaws.com
+- models-v2-lex.us-west-2.amazonaws.com
+- models-v2-lex.eu-central-1.amazonaws.com
+- models-v2-lex.eu-west-1.amazonaws.com
+- runtime.lex.us-east-1.amazonaws.com
+- runtime.lex.us-west-2.amazonaws.com
+- runtime.lex.eu-west-1.amazonaws.com
+- runtime.lex.eu-central-1.amazonaws.com
+- runtime-fips.lex.us-east-1.amazonaws.com
+- runtime-fips.lex.us-west-2.amazonaws.com
+
+**Dialogflow (Google)**
+- dialogflow.cloud.google.com
+- *.dialogflow.com
+- dialogflow.googleapis.com
+- dialogflow.googleapis.com/v2
+- dialogflow.googleapis.com/v3
+- us-central1-dialogflow.googleapis.com
+- us-east1-dialogflow.googleapis.com
+- us-west1-dialogflow.googleapis.com
+- us-dialogflow.googleapis.com
+- europe-west1-dialogflow.googleapis.com
+- europe-west2-dialogflow.googleapis.com
+- europe-west3-dialogflow.googleapis.com
+- eu-dialogflow.googleapis.com
+- asia-northeast1-dialogflow.googleapis.com
+- asia-southeast1-dialogflow.googleapis.com
+- australia-southeast1-dialogflow.googleapis.com
+
+**ManyChat**
+- manychat.com
+- *.manychat.com
+- api.manychat.com
+- community.manychat.com
+- mccdn.net
+- *.mccdn.net
+- manychatapp.com
+- status.manychat.com
+
+**Chatfuel**
+- chatfuel.com
+- *.chatfuel.com
+- api.chatfuel.com
+- docs.chatfuel.com
+- help.chatfuel.com
+- bot.chatfuel.com
+- dashboard.chatfuel.com
+
+**Landbot**
+- landbot.io
+- *.landbot.io
+- api.landbot.io
+- chat.landbot.io
+- dev.landbot.io
+- app.landbot.io
+- help.landbot.io
