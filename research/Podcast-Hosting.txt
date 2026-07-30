@@ -1,0 +1,1395 @@
+PODCAST HOSTING PLATFORMS RESEARCH LIST
+
+=== 🎙️ MAJOR PODCAST HOSTING PLATFORMS ===
+
+=== SPOTIFY FOR PODCASTERS (ANCHOR) ⚠️⚠️⚠️⚠️⚠️⚠️ ===
+(CRITICAL - Most Aggressive Tracking!)
+
+Spotify for Podcasters (formerly Anchor)
+anchor.fm
+www.anchor.fm
+api.anchor.fm
+spotifyforpodcasters.com
+podcasters.spotify.com
+s.anchor.fm
+d.anchor.fm
+
+Spotify Main Platform
+spotify.com
+www.spotify.com
+api.spotify.com
+api-partner.spotify.com
+api-tv.spotify.com
+apresolve.spotify.com
+audio-fa.scdn.co
+audio4-fa.scdn.co
+spclient.wg.spotify.com
+dealer.spotify.com
+clienttoken.spotify.com
+heads-fa.spotify.com
+heads4-fa.spotify.com
+generic.wg.spotify.com
+creator-auth-proxy.spotify.com
+podcasters-analytics.spotify.com
+open.spotify.com
+accounts.spotify.com
+login.spotify.com
+login5.spotify.com
+embed.spotify.com
+play.spotify.com
+desktop.spotify.com
+
+Spotify Telemetry / Crash / Log
+log.spotify.com
+log2.spotify.com
+crashdump.spotify.com
+crashdump.ciqe-gslb.spotify.com
+adeventtracker.spotify.com
+ads-fa.spotify.com
+audio-ec.spotify.com
+heads-ec.spotify.com
+audio2.spotify.com
+sto3.spotify.com
+pixels.spotify.com
+
+Spotify Load Balancer / Infrastructure
+weblb-wg.gslb.spotify.com
+weblb-wg.dual-gslb.spotify.com
+gue1-spclient.spotify.com
+gue1-dealer.spotify.com
+guc3-spclient.spotify.com
+guc3-dealer.spotify.com
+gew-spclient.spotify.com
+gew-dealer.spotify.com
+gew1.ap.spotify.com
+guc3.ap.spotify.com
+gae2.ap.spotify.com
+ap-gue1.spotify.com
+ap.spotify.com
+global-dealer-ssl.spotify.com
+
+Spotify CDN
+scdn.co
+audio-ak.spotify.com.edgesuite.net
+i.scdn.co
+mosaic.scdn.co
+seeded-session-images.scdn.co
+audio-fa.spotifycdn.com
+upsell.scdn.co
+video-fa.scdn.co
+video-fa.cdn.spotify.com
+video-fa-b.cdn.spotify.com
+mp3ad.scdn.co
+audio-gc.scdn.co
+audio-gc.spotify.com
+
+Spotify Fastly CDN
+prod.spotify.map.fastly.net
+prod.spotify.map.fastlylb.net
+prod.spotify-heads.map.fastlylb.net
+beta.spotify.map.fastly.net
+beta.spotify.map.fastlylb.net
+spotify.map.fastly.net
+
+Spotify Geo Audio Cache (IATA)
+audio-sp.spotify.com
+audio-sp-ams.spotify.com
+audio-sp-ams2.spotify.com
+audio-sp-lhr.spotify.com
+audio-sp-lhr6.spotify.com
+audio-sp-fra.spotify.com
+audio-sp-fra2.spotify.com
+audio-sp-sjc.spotify.com
+audio-sp-sjc6.spotify.com
+audio-sp-sea.spotify.com
+audio-sp-dca.spotify.com
+audio-sp-tyo.spotify.com
+audio-sp-sin.spotify.com
+audio-sp-bma.spotify.com
+audio-sp-ord.spotify.com
+
+Spotify Analytics
+analytics.spotify.com
+event.scdn.co
+pixel.spotify.com
+pixels.spotify.com
+adstudio.spotify.com
+
+Spotify Ad Network / Akamai CDN (Ads)
+audio-ak.spotify.com
+audio-akp.spotify.com
+heads-ak.spotify.com
+heads-akp.spotify.com
+audio-ak-spotify-com.akamaized.net
+audio-akp-spotify-com.akamaized.net
+audio-ak.spotify.com.edgesuite.net
+audio-akp.spotify.com.edgesuite.net
+audio4-ak.spotify.com.edgesuite.net
+audio4-akp.spotify.com.edgesuite.net
+heads-ak.spotify.com.edgesuite.net
+heads-akp.spotify.com.edgesuite.net
+heads4-ak.spotify.com.edgesuite.net
+heads4-akp.spotify.com.edgesuite.net
+eip-onnet.audio-ak.spotify.com.akahost.net
+eip-tata.audio-ak.spotify.com.akahost.net
+eip-ntt.audio-ak.spotify.com.akahost.net
+
+Chartable (Spotify-owned - Closed 2024)
+chartable.com
+www.chartable.com
+chtbl.com
+chrt.fm
+api.chartable.com
+smartlinks.chartable.com
+analytics.chartable.com
+insights.chartable.com
+
+Podsights (Spotify-owned - Ad Attribution!)
+podsights.com
+www.podsights.com
+pdst.fm
+cdn.pdst.fm
+api.pdst.fm
+ping.pdst.fm
+sink.pdst.fm
+pscdn.co
+verify.podsights.com
+api.podsights.com
+pixel.podsights.com
+impression.podsights.com
+attribution.podsights.com
+prfx.byspotify.com
+
+Megaphone (Spotify-owned)
+megaphone.fm
+www.megaphone.fm
+traffic.megaphone.fm
+dcs.megaphone.fm
+dcs-spotify.megaphone.fm
+player.megaphone.fm
+api.megaphone.fm
+feeds.megaphone.fm
+cms.megaphone.fm
+info.megaphone.fm
+signup.megaphone.fm
+origin.megaphone.fm
+playlist.megaphone.fm
+status.megaphone.fm
+megaphone.spotify.com
+megaphone.cloud
+adserver.va3.megaphone.cloud
+
+Spotify Ad Network
+adclick.g.doubleclick.net
+
+============================================
+=== BUZZSPROUT ⚠️⚠️⚠️⚠️ ===
+
+Core Platform
+buzzsprout.com
+www.buzzsprout.com
+api.buzzsprout.com
+app.buzzsprout.com
+embed.buzzsprout.com
+player.buzzsprout.com
+blog.buzzsprout.com
+help.buzzsprout.com
+
+CDN (Audio hosting)
+feeds.buzzsprout.com
+storage.buzzsprout.com
+media.buzzsprout.com
+www.buzzsprout.com/media
+episodes.buzzsprout.com
+
+Analytics
+analytics.buzzsprout.com
+stats.buzzsprout.com
+tracking.buzzsprout.com
+
+============================================
+=== LIBSYN ⚠️⚠️⚠️⚠️ ===
+
+Core Platform
+libsyn.com
+www.libsyn.com
+api.libsyn.com
+traffic.libsyn.com
+html5-player.libsyn.com
+secure-hwcdn.libsyn.com
+libsyn.fm
+libsynpro.com
+www.libsynpro.com
+libsynsupport.com
+five.libsynsupport.com
+
+CDN
+media.libsyn.com
+assets.libsyn.com
+http-traffic.libsyn.com
+
+Glow FM (Libsyn-acquired 2021 - Monetization)
+glow.fm
+www.glow.fm
+app.glow.fm
+api.glow.fm
+
+AdvertiseCast (Libsyn Ad Network - now "Libsyn Ads")
+advertisecast.com
+www.advertisecast.com
+api.advertisecast.com
+advertising.libsyn.com
+
+AdsWizz (Libsyn uses)
+adswizz.com
+www.adswizz.com
+ads.adswizz.com
+analytics.adswizz.com
+delivery.adswizz.com
+playerservices.adswizz.com
+publisher.adswizz.com
+ep.adswizz.com
+sakura.adswizz.com
+featurelab.adswizz.com
+s.adswizz.com
+audiogo.com
+www.audiogo.com
+
+Analytics
+stats.libsyn.com
+analytics.libsyn.com
+
+============================================
+=== PODBEAN ⚠️⚠️⚠️⚠️ ===
+
+Core Platform
+podbean.com
+www.podbean.com
+api.podbean.com
+play.podbean.com
+app.podbean.com
+enterprise.podbean.com
+developers.podbean.com
+live.podbean.com
+store.podbean.com
+blog.podbean.com
+
+CDN
+mcdn.podbean.com
+pbcdn1.podbean.com
+pbcdn2.podbean.com
+pbcdn3.podbean.com
+pbcdn4.podbean.com
+pbcdn5.podbean.com
+img.podbean.com
+
+Ads
+adserver.podbean.com
+ads.podbean.com
+
+Analytics
+stats.podbean.com
+analytics.podbean.com
+
+============================================
+=== TRANSISTOR.FM ⚠️⚠️⚠️ ===
+(Privacy-focused - Better option)
+
+Core Platform
+transistor.fm
+www.transistor.fm
+api.transistor.fm
+share.transistor.fm
+domains.transistor.fm
+developers.transistor.fm
+app.transistor.fm
+
+CDN
+media.transistor.fm
+feeds.transistor.fm
+images.transistor.fm
+embed.transistor.fm
+player.transistor.fm
+
+Analytics (Minimal)
+analytics.transistor.fm
+
+============================================
+=== CASTOS ⚠️⚠️⚠️ ===
+
+Core Platform
+castos.com
+www.castos.com
+api.castos.com
+app.castos.com
+support.castos.com
+help.castos.com
+player.castos.com
+podcast.castos.com
+feeds.castos.com
+blog.castos.com
+
+CDN
+cdn.castos.com
+media.castos.com
+assets.castos.com
+
+Seriously Simple Podcasting (WordPress plugin)
+seriouslysimplepodcasting.com
+www.seriouslysimplepodcasting.com
+
+============================================
+=== CAPTIVATE.FM ⚠️⚠️⚠️ ===
+
+Core Platform
+captivate.fm
+www.captivate.fm
+api.captivate.fm
+app.captivate.fm
+docs.captivate.fm
+status.captivate.fm
+help.captivate.fm
+
+CDN
+cdn.captivate.fm
+player.captivate.fm
+feeds.captivate.fm
+embed.captivate.fm
+
+Analytics
+analytics.captivate.fm
+tracking.captivate.fm
+
+============================================
+=== SIMPLECAST (SIRIUSXM) ⚠️⚠️⚠️⚠️⚠️ ===
+(Corporate-owned - High Risk)
+
+Core Platform
+simplecast.com
+www.simplecast.com
+api.simplecast.com
+embed.simplecast.com
+player.simplecast.com
+stitcher.simplecast.com
+help.simplecast.com
+blog.simplecast.com
+support.simplecast.com
+simplecast.fm
+dashboard.simplecast.com
+cast.simplecast.com
+login.simplecast.com
+
+CDN
+cdn.simplecast.com
+media.simplecast.com
+feeds.simplecast.com
+
+SiriusXM
+siriusxm.com
+www.siriusxm.com
+player.siriusxm.com
+api.siriusxm.com
+
+AdsWizz (SiriusXM Ad Tech)
+adswizz.com
+ads.adswizz.com
+delivery.adswizz.com
+
+============================================
+=== ACAST ⚠️⚠️⚠️⚠️⚠️⚠️ ===
+(CRITICAL - Advertising-Focused!)
+
+Core Platform
+acast.com
+www.acast.com
+api.acast.com
+embed.acast.com
+stitcher.acast.com
+developers.acast.com
+learn.acast.com
+feeds.acast.com
+shows.acast.com
+auth.acast.com
+open.acast.com
+news.acast.com
+hub.acast.com
+dashboard.acast.com
+blog.acast.com
+
+CDN
+play.acast.com
+media.acast.com
+cdn.acast.com
+assets.acast.com
+static.acast.com
+
+Ads (Aggressive!)
+ad.acast.com
+ads.acast.com
+adswizz.acast.com
+adsrv.acast.com
+
+Tracking
+tracking.acast.com
+analytics.acast.com
+feeder.acast.com
+
+============================================
+=== BLUBRRY ⚠️⚠️⚠️ ===
+
+Core Platform
+blubrry.com
+www.blubrry.com
+api.blubrry.com
+statistics.blubrry.com
+publish.blubrry.com
+help.blubrry.com
+support.blubrry.com
+domains.blubrry.com
+ns1.blubrry.com
+ns2.blubrry.com
+powerpress.blubrry.com
+blubrry.fm
+
+CDN
+media.blubrry.com
+content.blubrry.com
+feeds.blubrry.com
+
+PowerPress (WordPress plugin)
+create.blubrry.com
+powerpresspodcast.com
+
+============================================
+=== REDCIRCLE ⚠️⚠️⚠️⚠️ ===
+
+Core Platform
+redcircle.com
+www.redcircle.com
+api.redcircle.com
+app.redcircle.com
+support.redcircle.com
+blog.redcircle.com
+help.redcircle.com
+
+CDN
+media.redcircle.com
+feeds.redcircle.com
+audio.redcircle.com
+cdn.redcircle.com
+player.redcircle.com
+embed.redcircle.com
+
+Analytics
+analytics.redcircle.com
+tracking.redcircle.com
+prfx.byspotify.com
+
+============================================
+=== SPREAKER (iHEARTMEDIA) ⚠️⚠️⚠️⚠️⚠️ ===
+(Corporate Media Giant)
+
+Core Platform
+spreaker.com
+www.spreaker.com
+api.spreaker.com
+widget.spreaker.com
+developers.spreaker.com
+help.spreaker.com
+blog.spreaker.com
+
+CDN
+d3ctxlq1ktw2nl.cloudfront.net
+d3wo5wojvuv7l.cloudfront.net
+audio.spreaker.com
+
+iHeartMedia
+iheartmedia.com
+iheart.com
+www.iheart.com
+api.iheart.com
+stream.iheart.com
+ihrstream.com
+iheartpodcastnetwork.com
+
+Voxnest (iHeart-acquired - Ad Analytics)
+voxnest.com
+www.voxnest.com
+
+PodcastOne (iHeart network)
+podcastone.com
+www.podcastone.com
+
+============================================
+=== AUDIOBOOM ⚠️⚠️⚠️⚠️ ===
+
+Core Platform
+audioboom.com
+www.audioboom.com
+api.audioboom.com
+player.audioboom.com
+help.audioboom.com
+embed.audioboom.com
+app.audioboom.com
+analytics.audioboom.com
+
+CDN
+audioboom-cdn.mp3.cdn77.org
+media.audioboom.com
+cdn.audioboom.com
+content.audioboom.com
+
+============================================
+=== OMNY STUDIO ⚠️⚠️⚠️⚠️ ===
+
+Core Platform
+omnystudio.com
+www.omnystudio.com
+api.omnystudio.com
+app.omnystudio.com
+embed.omnystudio.com
+help.omnystudio.com
+
+CDN
+omny.fm
+www.omny.fm
+api.omny.fm
+traffic.omny.fm
+
+============================================
+=== ART19 (Amazon) ⚠️⚠️⚠️⚠️⚠️ ===
+(Amazon-owned)
+
+Core Platform
+art19.com
+www.art19.com
+api.art19.com
+player.art19.com
+art19.zendesk.com
+help.art19.com
+developers.art19.com
+
+CDN
+rss.art19.com
+s3-art19.s3.amazonaws.com
+embed.art19.com
+media.art19.com
+cdn.art19.com
+downloads.art19.com
+images.art19.com
+
+Analytics
+analytics.art19.com
+
+Wondery (Amazon podcast network)
+wondery.com
+www.wondery.com
+wondery.app
+cdn.wondery.com
+
+============================================
+=== PODOMATIC ⚠️⚠️⚠️⚠️ ===
+
+Core Platform
+podomatic.com
+www.podomatic.com
+api.podomatic.com
+player.podomatic.com
+app.podomatic.com
+blog.podomatic.com
+embed.podomatic.com
+feeds.podomatic.com
+record.podomatic.com
+
+CDN
+media.podomatic.com
+assets.podomatic.com
+
+============================================
+=== RSS.COM ⚠️⚠️⚠️ ===
+
+Core Platform
+rss.com
+www.rss.com
+api.rss.com
+help.rss.com
+blog.rss.com
+app.rss.com
+player.rss.com
+analytics.rss.com
+feeds.rss.com
+cdn.rss.com
+
+CDN
+media.rss.com
+
+============================================
+=== FIRESIDE.FM ⚠️⚠️⚠️ ===
+
+Core Platform
+fireside.fm
+www.fireside.fm
+app.fireside.fm
+api.fireside.fm
+cdn.fireside.fm
+media.fireside.fm
+feeds.fireside.fm
+help.fireside.fm
+
+============================================
+=== PODCASTICS ⚠️⚠️⚠️ ===
+
+Core Platform
+podcastics.com
+www.podcastics.com
+app.podcastics.com
+api.podcastics.com
+cdn.podcastics.com
+player.podcastics.com
+feeds.podcastics.com
+
+============================================
+=== PODCAST.CO ⚠️⚠️⚠️ ===
+
+Core Platform
+podcast.co
+www.podcast.co
+help.podcast.co
+pod.co
+api.podcast.co
+player.podcast.co
+feeds.podcast.co
+media.podcast.co
+
+============================================
+=== AUSHA (FRANCE) ⚠️⚠️⚠️ ===
+
+Core Platform
+ausha.co
+www.ausha.co
+player.ausha.co
+app.ausha.co
+manager.ausha.co
+studio.ausha.co
+help.ausha.co
+api.ausha.co
+smartlink.ausha.co
+newsletter.ausha.co
+charts.ausha.co
+pso.ausha.co
+embed.ausha.co
+
+CDN
+image.ausha.co
+audio.ausha.co
+cdn.ausha.co
+
+============================================
+=== SUBSTACK (Newsletter + Podcast) ⚠️⚠️⚠️⚠️ ===
+
+Core Platform
+substack.com
+www.substack.com
+api.substack.com
+support.substack.com
+on.substack.com
+podcast.substack.com
+email.substack.com
+assets.substack.com
+open.substack.com
+
+CDN
+substackcdn.com
+substack-post-media.s3.amazonaws.com
+substack-video.s3.amazonaws.com
+
+============================================
+=== SOUNDON (TIKTOK) ⚠️⚠️⚠️⚠️⚠️ ===
+
+Core Platform (Global - TikTok Music Distribution)
+soundon.global
+www.soundon.global
+api.soundon.global
+app.soundon.global
+
+Core Platform (Taiwan - Podcast Hosting - AYRI PLATFORM)
+soundon.fm
+www.soundon.fm
+podcasters.soundon.fm
+open.soundon.fm
+studio.soundon.fm
+api.soundon.fm
+cdn.soundon.fm
+
+TikTok Infrastructure
+tiktokcdn.com
+tiktokcdn-com.akamaized.net
+
+============================================
+=== FIRSTORY (TAIWAN #1) ⚠️⚠️⚠️ ===
+
+Core Platform
+firstory.me
+www.firstory.me
+firstory.io
+studio.firstory.me
+open.firstory.me
+help.firstory.me
+firstory.blog
+firstory.fm
+
+CDN
+api.firstory.me
+cdn.firstory.me
+media.firstory.me
+
+============================================
+=== SUBSPLASH (CHURCH/MINISTRY) ⚠️⚠️⚠️ ===
+
+Core Platform
+subsplash.com
+www.subsplash.com
+web.subsplash.com
+equip.subsplash.com
+subsplash.squarespace.com
+media.subsplash.com
+stream.subsplash.com
+give.subsplash.com
+embed.subsplash.com
+go.subsplash.com
+push.subsplash.com
+analytics.subsplash.com
+
+CDN/API
+api.subsplash.com
+cdn.subsplash.com
+media.subsplash.com
+dashboard.subsplash.com
+
+============================================
+=== XIMALAYA / HIMALAYA (CHINA #1) ⚠️⚠️⚠️⚠️⚠️ ===
+
+China Platform
+ximalaya.com
+www.ximalaya.com
+m.ximalaya.com
+blog.ximalaya.com
+api.ximalaya.com
+cdn.ximalaya.com
+fdfs.ximalaya.com
+a.ximalaya.com
+adse.ximalaya.com
+xdcs-collector.ximalaya.com
+mobwsa.ximalaya.com
+
+CDN
+xmcdn.com
+www.xmcdn.com
+audio.xmcdn.com
+imagev2.xmcdn.com
+aod.cos.tx.xmcdn.com
+s1.xmcdn.com
+cos.xmcdn.com
+cos.tx.xmcdn.com
+tx.xmcdn.com
+pay.xmcdn.com
+302.pcdn.xmcdn.com
+live.lamia.hw.l1.xmcdn.com
+live.diablo.hw.l1.xmcdn.com
+
+International Platform
+himalaya.com
+www.himalaya.com
+
+Japan
+ximalaya.jp
+
+TV App
+www.xima.tv
+
+============================================
+=== SERMONAUDIO (RELIGIOUS CONTENT) ⚠️⚠️⚠️ ===
+
+Core Platform
+sermonaudio.com
+www.sermonaudio.com
+api.sermonaudio.com
+beta.sermonaudio.com
+help.sermonaudio.com
+legacy.sermonaudio.com
+app.sermonaudio.com
+embed.sermonaudio.com
+
+CDN
+media.sermonaudio.com
+cdn.sermonaudio.com
+stream.sermonaudio.com
+
+============================================
+=== iVOOX (SPANISH #1) ⚠️⚠️⚠️⚠️ ===
+
+Core Platform
+ivoox.com
+www.ivoox.com
+mx.ivoox.com
+m.ivoox.com
+audio.ivoox.com
+
+CDN
+static-1.ivoox.com
+static-2.ivoox.com
+podcastcdn-19.ivoox.com
+
+API
+api.ivoox.com
+
+============================================
+=== PODCASTER.DE (GERMANY #1) ⚠️⚠️⚠️ ===
+
+Core Platform
+podcaster.de
+www.podcaster.de
+domains.podcaster.de
+app.podcaster.de
+player.podcaster.de
+static.podcaster.de
+analytics.podcaster.de
+help.podcaster.de
+
+CDN
+cdn.podcaster.de
+media.podcaster.de
+
+API
+api.podcaster.de
+
+============================================
+=== PODCAST.DE (GERMANY - SEPARATE PLATFORM) ⚠️⚠️⚠️ ===
+
+Core Platform
+podcast.de
+www.podcast.de
+api.podcast.de
+player.podcast.de
+media.podcast.de
+
+============================================
+=== KAJABI (COURSE + PODCAST) ⚠️⚠️⚠️⚠️ ===
+
+Core Platform
+kajabi.com
+www.kajabi.com
+app.kajabi.com
+help.kajabi.com
+university.kajabi.com
+kajabi.zendesk.com
+my.kajabi.com
+api.kajabi.com
+podcast.kajabi.com
+player.kajabi.com
+email.kajabi.com
+track.kajabi.com
+embed.kajabi.com
+checkout.kajabi.com
+
+CDN
+cdn.kajabi.com
+assets.kajabi.com
+
+============================================
+=== STAND.FM (JAPAN #1) ⚠️⚠️⚠️ ===
+
+Core Platform
+stand.fm
+www.stand.fm
+lp.stand.fm
+m.stand.fm
+app.stand.fm
+r.stand.fm
+upload.stand.fm
+
+CDN/API
+api.stand.fm
+cdn.stand.fm
+media.stand.fm
+
+============================================
+=== IONO.FM (SOUTH AFRICA #1) ⚠️⚠️⚠️ ===
+
+Core Platform
+iono.fm
+www.iono.fm
+iframe.iono.fm
+support.iono.fm
+app.iono.fm
+player.iono.fm
+stream.iono.fm
+ads.iono.fm
+analytics.iono.fm
+
+CDN/API
+api.iono.fm
+cdn.iono.fm
+
+============================================
+=== LETSCAST.FM (GERMANY) ⚠️⚠️⚠️ ===
+
+Core Platform
+letscast.fm
+www.letscast.fm
+podcast.letscast.fm
+blog.letscast.fm
+domains.letscast.fm
+app.letscast.fm
+api.letscast.fm
+cdn.letscast.fm
+media.letscast.fm
+player.letscast.fm
+
+============================================
+=== AUDIOSTART (JAPAN) ⚠️⚠️⚠️ ===
+
+Core Platform
+audiostart.jp
+www.audiostart.jp
+app.audiostart.jp
+player.audiostart.jp
+media.audiostart.jp
+
+CDN/API
+api.audiostart.jp
+cdn.audiostart.jp
+
+============================================
+=== XIAOYUZHOU FM / SMALL UNIVERSE (CHINA) ⚠️⚠️⚠️ ===
+
+Core Platform
+xiaoyuzhoufm.com
+www.xiaoyuzhoufm.com
+m.xiaoyuzhoufm.com
+podcaster.xiaoyuzhoufm.com
+post.xiaoyuzhoufm.com
+blog.xiaoyuzhoufm.com
+
+Privacy/Membership Infrastructure
+jellow.club
+post.jellow.club
+
+CDN/API
+api.xiaoyuzhoufm.com
+cdn.xiaoyuzhoufm.com
+
+============================================
+=== ENACAST ⚠️⚠️⚠️ ===
+
+Core Platform
+enacast.com
+www.enacast.com
+app.enacast.com
+player.enacast.com
+media.enacast.com
+
+CDN/API
+api.enacast.com
+cdn.enacast.com
+
+============================================
+=== PINECAST ⚠️⚠️⚠️ ===
+
+Core Platform
+pinecast.com
+www.pinecast.com
+pinecast.co
+help.pinecast.com
+media.pinecast.com
+feeds.pinecast.com
+player.pinecast.com
+
+API
+api.pinecast.com
+
+============================================
+=== PODCASTLE (AI-POWERED) ⚠️⚠️⚠️ ===
+
+Core Platform
+podcastle.ai
+www.podcastle.ai
+app.podcastle.ai
+help.podcastle.ai
+blog.podcastle.ai
+studio.podcastle.ai
+embed.podcastle.ai
+media.podcastle.ai
+
+CDN/API
+rss.podcastle.ai
+cdn.podcastle.ai
+api.podcastle.ai
+
+============================================
+=== SOUNDSTACK (BROADCAST) ⚠️⚠️⚠️⚠️ ===
+
+Core Platform
+soundstack.com
+www.soundstack.com
+engine.soundstack.com
+insights.soundstack.com
+streaming.soundstack.com
+broadcast.soundstack.com
+
+CDN/API
+api.soundstack.com
+cdn.soundstack.com
+
+============================================
+=== ALITU (AUTOMATED PRODUCTION) ⚠️⚠️⚠️ ===
+
+Core Platform
+alitu.com
+www.alitu.com
+help.alitu.com
+app.alitu.com
+cdn.alitu.com
+media.alitu.com
+
+API
+api.alitu.com
+
+============================================
+=== FEEDPRESS (RSS ANALYTICS + HOSTING) ⚠️⚠️⚠️ ===
+
+Core Platform
+feedpress.com
+feed.press
+www.feedpress.com
+feedpress.me
+developers.feedpress.com
+support.feedpress.com
+app.feedpress.com
+feedpress.it
+analytics.feedpress.it
+
+CDN
+feeds.feedpress.com
+podcasts-1.feedpress.co
+podcasts-2.feedpress.co
+
+Tracking
+tracking.feedpress.com
+tracking.feedpress.it
+
+API
+api.feedpress.com
+
+============================================
+=== HUBHOPPER (INDIA #1) ⚠️⚠️⚠️⚠️ ===
+
+Core Platform
+hubhopper.com
+www.hubhopper.com
+hubhopper.co
+help.hubhopper.com
+app.hubhopper.com
+player.hubhopper.com
+embed.hubhopper.com
+analytics.hubhopper.com
+blog.hubhopper.com
+
+CDN/API
+api.hubhopper.com
+cdn.hubhopper.com
+media.hubhopper.com
+
+============================================
+=== RADIOTALK (JAPAN) ⚠️⚠️⚠️ ===
+
+Core Platform
+radiotalk.jp
+www.radiotalk.jp
+radiotalkinfo.exblog.jp
+app.radiotalk.jp
+live.radiotalk.jp
+upload.radiotalk.jp
+
+CDN/API
+api.radiotalk.jp
+cdn.radiotalk.jp
+media.radiotalk.jp
+
+============================================
+=== COHOST (COHOSTPODCASTING) ⚠️⚠️⚠️ ===
+(Analytics-focused hosting platform by Quill)
+
+Core Platform
+cohostpodcasting.com
+www.cohostpodcasting.com
+help.cohostpodcasting.com
+app.cohostpodcasting.com
+api.cohostpodcasting.com
+cdn.cohostpodcasting.com
+player.cohostpodcasting.com
+analytics.cohostpodcasting.com
+prefix.cohostpodcasting.com
+
+============================================
+=== ZENCASTR ⚠️⚠️⚠️ ===
+
+Core Platform
+zencastr.com
+www.zencastr.com
+support.zencastr.com
+blog.zencastr.com
+affiliate.zencastr.com
+classic.zencastr.com
+app.zencastr.com
+api.zencastr.com
+cdn.zencastr.com
+media.zencastr.com
+recording.zencastr.com
+
+============================================
+=== PODIGEE (GERMANY/EU) ⚠️⚠️⚠️ ===
+(GDPR-compliant, privacy-focused hosting)
+
+Core Platform
+podigee.com
+www.podigee.com
+podigee.io
+www.podigee.io
+app.podigee.com
+help.podigee.com
+hilfe.podigee.com
+api.podigee.com
+analytics.podigee.com
+tracking.podigee.com
+
+CDN
+cdn.podigee.com
+player.podigee-cdn.net
+embed.podigee.com
+
+Subdomains (User podcasts)
+*.podigee.io
+
+============================================
+=== CASTBOX ⚠️⚠️⚠️⚠️ ===
+
+Core Platform
+castbox.fm
+www.castbox.fm
+api.castbox.fm
+cdn.castbox.fm
+img.castbox.fm
+podcaster.castbox.fm
+
+Help/Support
+helpcenter.castbox.fm
+
+============================================
+=== ADDITIONAL HOSTING PLATFORMS ===
+
+=== SERMON.NET (RELIGIOUS) ⚠️⚠️⚠️ ===
+sermon.net
+www.sermon.net
+api.sermon.net
+media.sermon.net
+app.sermon.net
+embed.sermon.net
+player.sermon.net
+
+=== PODSPACE (EUROPE) ⚠️⚠️⚠️ ===
+pod.space
+www.pod.space
+cdn.pod.space
+api.pod.space
+player.pod.space
+media.pod.space
+
+=== PODCASTBUDE (GERMANY) ⚠️⚠️⚠️ ===
+podcastbude.de
+www.podcastbude.de
+cdn.podcastbude.de
+app.podcastbude.de
+player.podcastbude.de
+
+=== BUNDESVERBAND FREIER RADIOS (GERMANY) ⚠️⚠️ ===
+freie-radios.net
+www.freie-radios.net
+media.freie-radios.net
+stream.freie-radios.net
+
+=== AUDION ⚠️⚠️⚠️ ===
+audion.fm
+www.audion.fm
+cdn.audion.fm
+api.audion.fm
+player.audion.fm
+media.audion.fm
+
+=== LIGHTCAST ⚠️⚠️⚠️ ===
+lightcast.com
+www.lightcast.com
+cdn.lightcast.com
+streams.lightcast.com
+api.lightcast.com
+player.lightcast.com
+media.lightcast.com
+support.lightcast.com
+app.lightcast.com
+docs.lightcast.dev
+
+=== JULEP HOSTING → AUDIORELLA (Rebranded 2024) ⚠️⚠️⚠️ ===
+Old Brand (Julep Hosting):
+julep.hosting
+www.julep.hosting
+cdn.julep.hosting
+julephosting.de
+app.julephosting.de
+cdn.julephosting.de
+
+New Brand (Audiorella):
+audiorella.com
+www.audiorella.com
+app.audiorella.com
+audiorella-data.com
+*.blogs.audiorella.com
+cdn.audiorella.com
+media.audiorella.com
+api.audiorella.com
+feeds.audiorella.com
+
+=== STATIONISTA (GERMANY) ⚠️⚠️⚠️ ===
+stationista.com
+www.stationista.com
+api.stationista.com
+cdn.stationista.com
+app.stationista.com
+player.stationista.com
+media.stationista.com
+
+=== BEAMLY / PODCASTPAGE.IO ⚠️⚠️⚠️ ===
+beamly.com
+www.beamly.com
+podcastpage.io
+app.beamly.com
+docs.beamly.com
+api.beamly.com
+cdn.beamly.com
+player.beamly.com
+api.podcastpage.io
+cdn.podcastpage.io
+
+=== BCAST ⚠️⚠️⚠️ - CLOSED
+bcast.fm
+www.bcast.fm
+app.bcast.fm
+api.bcast.fm
+
+=== PODCAST WEBSITES ⚠️⚠️⚠️ ===
+podcastwebsites.com
+www.podcastwebsites.com
+app.podcastwebsites.com
+api.podcastwebsites.com
+cdn.podcastwebsites.com
+player.podcastwebsites.com
+
+=== PODPARADISE ⚠️⚠️ ===
+podparadise.com
+www.podparadise.com
+
+=== LUMINARY ⚠️⚠️⚠️⚠️ ===
+luminarypodcasts.com
+www.luminarypodcasts.com
+api.luminarypodcasts.com
+player.luminarypodcasts.com
+support.luminarypodcasts.com
+media.luminarypodcasts.com
+app.luminarypodcasts.com
+cdn.luminarypodcasts.com
+luminary.link
+
+============================================
+=== 🎯 PODCAST TRACKING & MEASUREMENT SERVICES ===
+============================================
+
+=== PODTRAC ⚠️⚠️⚠️⚠️ ===
+podtrac.com
+www.podtrac.com
+dts.podtrac.com
+analytics.podtrac.com
+
+=== PODSCRIBE ⚠️⚠️⚠️⚠️ ===
+podscribe.com
+www.podscribe.com
+pscrb.fm
+tracking.podscribe.com
+
+=== OP3 (OPEN PODCAST PREFIX PROJECT) ⚠️⚠️ ===
+op3.dev
+www.op3.dev
+
+=== MAGELLAN AI ⚠️⚠️⚠️ ===
+magellanai.com
+www.magellanai.com
+
+=== SWAP.FM ⚠️⚠️⚠️ ===
+swap.fm
+www.swap.fm
+ads.swap.fm
+
+=== PODCORN ⚠️⚠️⚠️ ===
+podcorn.com
+www.podcorn.com
+api.podcorn.com
+tracking.podcorn.com
+
+=== PODROLL ⚠️⚠️ ===
+podroll.fm
+www.podroll.fm
+api.podroll.fm
+
+=== AUDIOHOOK ⚠️⚠️⚠️ ===
+audiohook.com
+www.audiohook.com
+api.audiohook.com
+
+=== VERITONIC ⚠️⚠️⚠️ ===
+veritonic.com
+www.veritonic.com
+analytics.veritonic.com
+
+=== PODKITE ⚠️⚠️ ===
+podkite.com
+www.podkite.com
+api.podkite.com
+
+=== GUMSHOE ⚠️⚠️ ===
+gumshoe.fm
+www.gumshoe.fm
+
+=== UNITED PODCASTERS ⚠️⚠️ ===
+unitedpodcasters.com
+www.unitedpodcasters.com
+
+=== COHOST PREFIX ⚠️⚠️ ===
+cohost.fm
+prefix.cohost.fm
+
+=== PODCHASER ⚠️⚠️⚠️ ===
+podchaser.com
+www.podchaser.com
+api.podchaser.com
+
+=== ADBARKER ⚠️⚠️ ===
+adbarker.com
+www.adbarker.com
+tracking.adbarker.com
+
+=== PODDER ⚠️⚠️ ===
+podderapp.com
+www.podderapp.com
+
+=== PODTRAC (AdsWizz) ===
+pcm.adswizz.com
+
+============================================
