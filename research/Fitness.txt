@@ -1,0 +1,2869 @@
+FITNESS APPS RESEARCH LIST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MyFitnessPal Ecosystem (Under Armour → Francisco Partners)
+
+-   myfitnesspal.com
+-   www.myfitnesspal.com
+-   api.myfitnesspal.com
+-   static.myfitnesspal.com
+-   cdn.myfitnesspal.com
+-   assets.myfitnesspal.com
+-   analytics.myfitnesspal.com
+-   tracking.myfitnesspal.com
+-   myfitnesspalapi.com
+-   status.myfitnesspal.com
+-   support.myfitnesspal.com
+-   blog.myfitnesspal.com
+-   community.myfitnesspal.com
+-   account.myfitnesspal.com
+
+Under Armour Connected Fitness (NOW: Outside Interactive)
+
+-   ua.com
+-   underarmour.com
+-   www.underarmour.com
+-   uacf.com
+-   developer.underarmour.com
+-   api.underarmour.com
+-   record.underarmour.com
+-   status.underarmour.com
+-   mapmyrun.com
+-   www.mapmyrun.com
+-   api.mapmyrun.com
+-   mapmyfitness.com
+-   www.mapmyfitness.com
+-   api.mapmyfitness.com
+-   mapmyride.com
+-   www.mapmyride.com
+-   mapmyhike.com
+-   www.mapmyhike.com
+-   mapmywalk.com
+-   developer.mapmyfitness.com
+-   oauth2-api.mapmyapi.com
+-   support.mapmyfitness.com
+
+Endomondo (CLOSED)
+
+-   endomondo.com
+-   api.endomondo.com
+
+Strava - GPS TRACK
+
+-   strava.com
+-   www.strava.com
+-   api.strava.com
+-   heatmap.strava.com
+-   labs.strava.com
+-   analytics.strava.com
+-   heatmap-external-a.strava.com
+-   heatmap-external-b.strava.com
+-   heatmap-external-c.strava.com
+-   segments.strava.com
+-   cdn.strava.com
+-   static.strava.com
+-   sync.strava.com
+-   developers.strava.com
+-   playground.strava.com
+-   support.strava.com
+-   blog.strava.com
+-   app.strava.com
+-   press.strava.com
+-   assets.strava.com
+-   store.strava.com
+-   shop.strava.com
+-   business.strava.com
+-   email.strava.com
+-   links.strava.com
+-   promo.strava.com
+-   partners.strava.com
+-   payments.strava.com
+-   services.strava.com
+-   status.strava.com
+-   m.strava.com
+-   docs.strava.com
+-   sitemap.strava.com
+-   g.strava.com
+-   c.strava.com
+
+Fitbit (Google Ecosystem)
+
+-   fitbit.com
+-   www.fitbit.com
+-   api.fitbit.com
+-   client.fitbit.com
+-   app.fitbit.com
+-   static.fitbit.com
+-   cdn.fitbit.com
+-   cache.fitbit.com
+-   tracker.fitbit.com
+-   analytics.fitbit.com
+-   devices.fitbit.com
+-   notifications.fitbit.com
+-   dev.fitbit.com
+-   community.fitbit.com
+-   help.fitbit.com
+-   support.fitbit.com
+-   blog.fitbit.com
+-   accounts.fitbit.com
+-   fitbit-pa.googleapis.com
+
+Nike Ekosistemi
+
+AI CHATBOTS & LLM RESEARCH LIST
+
+## 🔴 TIER 0: CRITICAL — EXTREME PRIVACY RISK
+
+### 💕 ROMANTIC / COMPANION AI
+
+**Replika**
+- replika.com
+- *.replika.com
+- replika.ai
+- *.replika.ai
+- my.replika.ai
+- api.replika.ai
+- cdn.replika.ai
+- web.replika.ai
+- mobile.replika.ai
+- static.replika.ai
+- assets.replika.ai
+- auth.replika.ai
+- sync.replika.ai
+- analytics.replika.ai
+- metrics.replika.ai
+- events.replika.ai
+- voice.replika.ai
+- media.replika.ai
+- storage.replika.ai
+- conversations.replika.ai
+- models.replika.ai
+- ml.replika.ai
+- replika-auth.firebaseapp.com
+- luka.ai
+- *.luka.ai
+
+**Character.AI**
+- character.ai
+- *.character.ai
+- beta.character.ai
+- plus.character.ai
+- api.character.ai
+- cdn.character.ai
+- neo.character.ai
+- web.character.ai
+- static.character.ai
+- assets.character.ai
+- images.character.ai
+- avatars.character.ai
+- voices.character.ai
+- chat.character.ai
+- conversations.character.ai
+- models.character.ai
+- inference.character.ai
+- ws.character.ai
+- streaming.character.ai
+- analytics.character.ai
+- telemetry.character.ai
+- labs.character.ai
+- characterai.io
+- *.characterai.io
+- multimodal.characterai.io
+- img.characterai.io
+- r2.characterai.io
+- staging.characterai.io
+
+**Chai**
+- chai-research.com
+- *.chai-research.com
+- chai.ml
+- *.chai.ml
+- api.chai-research.com
+- cdn.chai-research.com
+- app.chai.ml
+- models.chai.ml
+- chat.chai.ml
+- assets.chai-research.com
+- static.chai.ml
+- docs.chai-research.com
+- console.chaiverse.com
+- chaiverse.com
+- blog.chai-research.com
+- chai.ai
+
+**Anima**
+- anima.ai
+- *.anima.ai
+- myanima.ai
+- *.myanima.ai
+- api.anima.ai
+- app.anima.ai
+- cdn.anima.ai
+- chat.anima.ai
+- voice.anima.ai
+- assets.anima.ai
+- static.anima.ai
+
+**Nomi AI**
+- nomi.ai
+- *.nomi.ai
+- api.nomi.ai
+
+**Paradot**
+- paradot.ai
+- *.paradot.ai
+- withfeeling.ai
+- *.withfeeling.ai
+- withfeeling.info
+- *.withfeeling.info
+
+**Candy AI**
+- candy.ai
+- *.candy.ai
+- cdn.candy.ai
+- trycandyai.com
+- everai.ltd
+
+**DreamGF**
+- dreamgf.ai
+- *.dreamgf.ai
+- xinchenai.com
+- sentry.xinchenai.com
+
+**CrushOn AI**
+- crushon.ai
+- *.crushon.ai
+- apk.crushon.ai
+- l.crushon.ai
+- forms.crushon.ai
+- form.crushon.ai
+- grpc-pre.crushon.ai
+- grpc.crushon.ai
+- grpc-test.crushon.ai
+- wiki.crushon.ai
+- status.crushon.ai
+
+**Eva AI**
+- eva.ai
+- *.eva.ai
+- evabot.ai
+- *.evabot.ai
+
+**Nastia AI**
+- nastia.ai
+- *.nastia.ai
+
+**Muah AI**
+- muah.ai
+- *.muah.ai
+- land.muah.ai
+- card.muah.ai
+
+**SpicyChat AI**
+- spicychat.ai
+- *.spicychat.ai
+- tipsy.chat
+- spicy.ai
+
+**Kindroid**
+- kindroid.ai
+- *.kindroid.ai
+- api.kindroid.ai
+- docs.kindroid.ai
+- kindroid-ai.firebaseapp.com
+
+**GirlfriendGPT**
+- girlfriendgpt.ai
+- *.girlfriendgpt.ai
+
+**Joyland AI**
+- joyland.ai
+- *.joyland.ai
+- xinchenai.com
+- sentry.xinchenai.com
+- antom.com
+
+**Kupid AI**
+- kupid.ai
+- *.kupid.ai
+
+**JuicyChat AI**
+- juicychat.ai
+- *.juicychat.ai
+
+**Soulmate AI**
+- soulmate.ai
+- *.soulmate.ai
+
+**SupaFriends**
+- supafriends.com
+- *.supafriends.com
+
+**OurDream AI**
+- ourdream.ai
+- *.ourdream.ai
+- ourdream-ai.com
+- *.ourdream-ai.com
+- ourdream-ai.org
+- *.ourdream-ai.org
+
+**Romantic AI**
+- romanticai.com
+- *.romanticai.com
+- romanticai.app
+- romanticai.net
+- romanticai.org
+- zemomedia.com
+
+**Talkie AI**
+- talkie-ai.com
+- *.talkie-ai.com
+
+**Dream Companion**
+- companiondream.com
+- *.companiondream.com
+
+**Swipey AI**
+- swipey.ai
+- *.swipey.ai
+- swipey.org
+- *.swipey.org
+- getswipeyai.net
+- *.getswipeyai.net
+- swipey-ai.eu
+- *.swipey-ai.eu
+
+**ThotChat**
+- thotchat.ai
+- *.thotchat.ai
+- thotchat-ai.net
+
+**GPTGirlfriend**
+- gptgirlfriend.online
+- *.gptgirlfriend.online
+
+**AIGirlfriends.ai**
+- aigirlfriends.ai
+- *.aigirlfriends.ai
+
+**Mel**
+- mel.us
+- *.mel.us
+
+---
+
+### 🎭 CHARACTER AI / ROLEPLAY CHATBOTS
+
+**DreamGen**
+- dreamgen.com
+- *.dreamgen.com
+
+**HeraHaven AI**
+- herahaven.ai
+- *.herahaven.ai
+
+**Nemora AI**
+- nemora-ai.com
+- *.nemora-ai.com
+
+**SoulGen**
+- soulgen.ai
+- *.soulgen.ai
+- api.soulgen.ai
+- auth.soulgen.ai
+- oauth.soulgen.ai
+- firebase.soulgen.ai
+- files.soulgen.ai
+- inpaint.soulgen.ai
+- task.soulgen.ai
+- staging.soulgen.ai
+- dev.soulgen.ai
+
+**Janitor AI**
+- janitorai.com
+- *.janitorai.com
+- janitor.ai
+- cdn.janitorai.com
+
+**Dopple AI**
+- dopple.ai
+- *.dopple.ai
+- mobile.dopple.ai
+
+**Tavern AI / SillyTavern**
+- tavernai.net
+- *.tavernai.net
+- docs.sillytavern.app
+- github.com/TavernAI/TavernAI
+- github.com/SillyTavern/SillyTavern
+
+> ⚠ Self-hosted platform — runs on localhost
+
+**Pygmalion AI**
+- pygmalion.chat
+- *.pygmalion.chat
+- huggingface.co/PygmalionAI
+- github.com/PygmalionAI
+
+> ⚠ Open-source, self-hosted platform
+
+**Botify AI**
+- botify.ai
+- *.botify.ai
+
+**ChatFAI**
+- chatfai.com
+- *.chatfai.com
+- api.chatfai.com
+
+**Kajiwoto**
+- kajiwoto.ai
+- *.kajiwoto.ai
+- kajiwoto.com
+
+**NovelAI**
+- novelai.net
+- *.novelai.net
+- api.novelai.net
+- api.novelai.net/ai/generate-stream
+- api.novelai.net/ai/generate-image
+- api.novelai.net/ai/generate-voice
+- text.novelai.net
+- image.novelai.net
+- docs.novelai.net
+- status.novelai.net
+- blog.novelai.net
+- cdn.novelai.net
+- anlatan.com
+
+**Cohesive AI**
+- cohesive.ai
+- *.cohesive.ai
+
+**Flirton.ai**
+- flirton.ai
+- *.flirton.ai
+
+**RolePlai**
+- roleplai.app
+- *.roleplai.app
+
+**VMate AI**
+- vmate.ai
+- *.vmate.ai
+
+**Figgs AI**
+- figgs.ai
+- *.figgs.ai
+- figg.ai
+
+**Yodayo AI**
+- yodayo.com
+- *.yodayo.com
+
+**Moescape AI**
+- moescape.ai
+- *.moescape.ai
+- moescape.app
+- docs.moescape.ai
+
+**Chub AI / CharHub / Venus AI**
+- chub.ai
+- *.chub.ai
+- api.chub.ai
+- inference.chub.ai
+- docs.chub.ai
+- characterhub.org
+- *.characterhub.org
+- venus.ai
+
+> ⚠ CharHub + Venus AI merged into Chub.ai (May 2024)
+
+**Sakura FM**
+- sakura.fm
+- *.sakura.fm
+
+**Agnaistic (Agnai)**
+- agnai.chat
+- *.agnai.chat
+- agnaistic.ai
+- agnai.guide
+- github.com/agnaistic/agnai
+
+**Rosebud AI**
+- rosebud.ai
+- *.rosebud.ai
+- lab.rosebud.ai
+
+**Emochi**
+- emochi.com
+- *.emochi.com
+- feedback.emochi.com
+
+**PolyBuzz AI**
+- polybuzz.ai
+- *.polybuzz.ai
+- polybuzz.com
+- *.polybuzz.com
+- polyai.ai
+- poly.ai
+
+**AI Dungeon**
+- aidungeon.com
+- *.aidungeon.com
+- play.aidungeon.io
+- *.aidungeon.io
+- aidungeon.cc
+- latitude.io
+- *.latitude.io
+- content.latitude.io
+
+**Korewa AI**
+- korewa.ai
+- *.korewa.ai
+
+---
+
+### 🔍 GOOGLE GEMINI
+
+**Core Platform**
+- gemini.google.com
+- *.gemini.google.com
+- bard.google.com
+- aistudio.google.com
+- ai.google
+- ai.google.dev
+- makersuite.google.com
+- notebooklm.google.com
+- notebooklm.google
+- flow.google
+- whisk.google
+
+**API & Services**
+- generativelanguage.googleapis.com
+- generativeai.googleapis.com
+- aiplatform.googleapis.com
+- *.aiplatform.googleapis.com
+- cloudaicompanion.googleapis.com
+- bard-api.google.com
+- oauth2.googleapis.com
+- serviceusage.googleapis.com
+- cloudresourcemanager.googleapis.com
+- people.googleapis.com
+- identitytoolkit.googleapis.com
+- www.googleapis.com
+- apis.google.com
+- jnn-pa.googleapis.com
+- maps.googleapis.com
+- optimizationguide-pa.googleapis.com
+- streetviewpixels-pa.googleapis.com
+- content-autofill.googleapis.com
+
+**Assets & CDN**
+- www.gstatic.com/lamda
+- ssl.gstatic.com/bard
+- fonts.gstatic.com
+- www.gstatic.com/gemini
+- ssl.gstatic.com
+- fonts.googleapis.com
+- maps.gstatic.com
+- lh5.googleusercontent.com
+- lh3.googleusercontent.com
+- lh3.google.com
+- i.ytimg.com
+- yt3.ggpht.com
+- encrypted-tbn0.gstatic.com
+- encrypted-tbn1.gstatic.com
+- encrypted-tbn2.gstatic.com
+- encrypted-tbn3.gstatic.com
+
+**Analytics & Telemetry (Gemini-specific)**
+- gemini-analytics.google.com
+- bard-telemetry.google.com
+- clients6.google.com
+- play.google.com/log
+- ogs.google.com
+- waa-pa.clients6.google.com
+- ogads-pa.clients6.google.com
+- csp.withgoogle.com
+- www.google.com
+
+**Auth & Account**
+- accounts.google.com
+- myaccount.google.com
+
+---
+
+## 🟠 TIER 1: HIGH RISK — PROPRIETARY CODE / WORKPLACE
+
+### 💻 CODE ASSISTANTS
+
+**GitHub Copilot**
+- copilot.github.com
+- api.github.com
+- *.github.com
+- github-cloud.githubusercontent.com
+- github.githubassets.com
+- avatars.githubusercontent.com
+- copilot-proxy.githubusercontent.com
+- copilot-telemetry.githubusercontent.com
+- copilot-telemetry-service.githubusercontent.com
+- default.exp-tas.com
+- ea-vscode.github.com
+- githubcopilot.com
+- *.githubcopilot.com
+- api.githubcopilot.com
+- api.individual.githubcopilot.com
+- api.business.githubcopilot.com
+- *.business.githubcopilot.com
+- *.enterprise.githubcopilot.com
+- v1.telemetry.coder.com
+- westus-0.in.applicationinsights.azure.com
+- mobile.events.data.microsoft.com
+
+**Amazon Q Developer**
+- codewhisperer.aws
+- *.codewhisperer.aws
+- codewhisperer.us-east-1.amazonaws.com
+- codewhisperer-api.amazonaws.com
+- signin.aws.amazon.com
+- oidc.us-east-1.amazonaws.com
+- desktop-release.codewhisperer.us-east-1.amazonaws.com
+- telemetry.aws-language-servers.us-east-1.amazonaws.com
+- idetoolkits-hostedfiles.amazonaws.com
+- idetoolkits.amazonwebservices.com
+- aws-toolkit-language-servers.amazonaws.com
+- cognito-identity.us-east-1.amazonaws.com
+- aws-language-servers.us-east-1.amazonaws.com
+- q.us-east-1.amazonaws.com
+- desktop-release.q.us-east-1.amazonaws.com
+- specs.q.us-east-1.amazonaws.com
+- client-telemetry.us-east-1.amazonaws.com
+- *.sso.amazonaws.com
+- *.sso-portal.amazonaws.com
+- view.awsapps.com
+- *.awsapps.com
+- *.aws.dev
+- prod.pa.cdn.uis.awsstatic.com
+- prod.assets.shortbread.aws.dev
+- prod.tools.shortbread.aws.dev
+- prod.log.shortbread.aws.dev
+- a.b.cdn.console.awsstatic.com
+- amazonwebservices.gallery.vsassets.io
+
+**Codeium / Windsurf**
+- codeium.com
+- *.codeium.com
+- api.codeium.com
+- web.codeium.com
+- server.codeium.com
+- telemetry.codeium.com
+- analytics.codeium.com
+- cdn.codeium.com
+- static.codeium.com
+- web-backend.codeium.com
+- unleash.codeium.com
+- inference.codeium.com
+- codeiumdata.com
+- *.codeiumdata.com
+- windsurf.com
+- *.windsurf.com
+- enterprise.windsurf.com
+- trust.windsurf.com
+- downloads.windsurf.com
+
+**Tabnine**
+- tabnine.com
+- *.tabnine.com
+- api.tabnine.com
+- update.tabnine.com
+- cdn.tabnine.com
+- telemetry.tabnine.com
+- console.tabnine.com
+- registry.tabnine.com
+- app.tabnine.com
+- docs.tabnine.com
+
+**Cursor**
+- cursor.sh
+- *.cursor.sh
+- api2.cursor.sh
+- api3.cursor.sh
+- api4.cursor.sh
+- cdn.cursor.sh
+- www.cursor.com
+- us-asia.gcpp.cursor.sh
+- us-eu.gcpp.cursor.sh
+- us-only.gcpp.cursor.sh
+- marketplace.cursorapi.com
+- cursor-cdn.com
+- downloads.cursor.com
+- anysphere-binaries.s3.us-east-1.amazonaws.com
+- repo42.cursor.sh
+- turbopuffer.com
+- status.cursor.com
+- api5.cursor.sh
+- adminportal42.cursor.sh
+- trust.cursor.com
+- fireworks.ai
+- *.fireworks.ai
+- baseten.co
+- *.baseten.co
+- together.ai
+- *.together.ai
+- exa.ai
+
+---
+
+### 🏢 MICROSOFT 365 COPILOT
+
+**Core Copilot**
+- copilot.microsoft.com
+- *.copilot.microsoft.com
+- graph.microsoft.com
+- *.graph.microsoft.com
+- copilot.cloud.microsoft
+- *.cloud.microsoft
+- edgeservices.bing.com
+- sydney.bing.com
+- www.bing.com/turing
+- api.copilotstudio.microsoft.com
+- api.bap.microsoft.com
+- *.microsoft
+- copilotstudio.microsoft.com
+- *.copilotstudio.microsoft.com
+- m365.cloud.microsoft
+- m365copilot.com
+- browser.pipe.aria.microsoft.com
+
+**Microsoft 365 Integration**
+- substrate.office.com
+- api.office.com
+- outlook.office.com
+- teams.microsoft.com
+- onedrive.live.com
+- graph.microsoft.com/v1.0
+- *.office.net
+- make.powerautomate.com
+- make.powerapps.com
+- admin.powerplatform.microsoft.com
+
+**Auth & Services**
+- login.live.com
+- login.windows.net
+- login.microsoftonline.com
+- account.microsoft.com
+- aadcdn.msauth.net
+- aadcdn.msftauth.net
+
+**CDN & Assets**
+- res.cdn.office.net
+- statics.teams.cdn.office.net
+- spoprod-a.akamaihd.net
+
+---
+
+## 🟡 TIER 2: MEDIUM RISK — MAJOR LLM PLATFORMS
+
+### 🤖 CHATGPT (OpenAI)
+
+**Core Platform**
+- chat.openai.com
+- *.chat.openai.com
+- chatgpt.com
+- *.chatgpt.com
+- openai.com
+- *.openai.com
+- api.openai.com
+- cdn.openai.com
+- static.openai.com
+- chat.com
+- sora.com
+- crixet.com
+
+**Services**
+- auth0.openai.com
+- auth.openai.com
+- *.auth.openai.com
+- labs.openai.com
+- platform.openai.com
+- beta.openai.com
+- status.openai.com
+- help.openai.com
+- community.openai.com
+- images.openai.com
+- apps.openai.com
+- pay.openai.com
+- cookbook.openai.com
+- gpt.openai.com
+
+**API & Infrastructure**
+- api.openai.com/v1
+- production.openai.com
+- ios.chat.openai.com
+- android.chat.openai.com
+- desktop.chat.openai.com
+
+**Assets & CDN**
+- oaiusercontent.com
+- *.oaiusercontent.com
+- cdn.oaistatic.com
+- oaistatic.com
+- openaiapi-site.azureedge.net
+- openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+- openaicomproductionae4b.blob.core.windows.net
+- production-openaicom-storage.azureedge.net
+- openaicom.imgix.net
+- openai.com.cdn.cloudflare.net
+
+**Telemetry**
+- events.openai.com
+- o.openai.com
+- telemetry.openai.com
+- analytics.openai.com
+- metrics.openai.com
+
+**Plugins**
+- plugins.openai.com
+- plugin.openai.com
+
+**WebSocket & Real-time (Advanced Voice)**
+- chatgpt.livekit.cloud
+- host.livekit.cloud
+- turn.livekit.cloud
+- wss://fp-async-webps-prod.webpubsub.azure.com
+- wss://fp-async-webps-staging.webpubsub.azure.com
+- chatgpt-async-webps-prod-*.webpubsub.azure.com
+
+---
+
+### 🧠 CLAUDE (Anthropic)
+
+**Core Platform**
+- claude.ai
+- *.claude.ai
+- claude.com
+- *.claude.com
+- anthropic.com
+- *.anthropic.com
+- api.anthropic.com
+- cdn.anthropic.com
+- auth.anthropic.com
+- console.anthropic.com
+- support.anthropic.com
+
+**Services**
+- app.anthropic.com
+- web.claude.ai
+- vertex.claude.ai
+- aws.claude.ai
+- statsig.anthropic.com
+- code.claude.com
+- platform.claude.com
+- downloads.claude.ai
+- cowork.claude.com
+- chrome.claude.ai
+- ios.claude.ai
+- mobile.claude.ai
+
+**Assets & CDN**
+- assets.anthropic.com
+- static.anthropic.com
+- claudeusercontent.com
+- *.claudeusercontent.com
+- anthropiccdn.com
+- *.anthropiccdn.com
+- anthropic-cdn.com
+- *.anthropic-cdn.com
+- www-cdn.anthropic.com
+- s-cdn.anthropic.com
+- files.anthropic.com
+- a-cdn.anthropic.com
+- a-api.anthropic.com
+
+---
+
+### 🔷 MICROSOFT COPILOT (General / Bing)
+
+- bing.com
+- *.bing.com
+- api.bing.com
+- c.bing.com
+- www.bing.com/search
+- copilot.bing.com
+- nochat.bing.com
+- cdp.copilot.microsoft.com
+- sydney.bing.com
+- www.bing.com/turing/conversation
+- edgeservices.bing.com/edgesvc
+- login.microsoftonline.com
+- account.microsoft.com
+- assets.msn.com
+- r.bing.com
+- th.bing.com
+- tse1.mm.bing.net
+- tse2.mm.bing.net
+- tse3.mm.bing.net
+- tse4.mm.bing.net
+- bat.bing.net
+- ts1.mm.bing.net
+- ts2.mm.bing.net
+
+---
+
+### 🔍 PERPLEXITY AI
+
+- perplexity.ai
+- *.perplexity.ai
+- www.perplexity.ai
+- api.perplexity.ai
+- app.perplexity.ai
+- cdn.perplexity.ai
+- static.perplexity.ai
+- assets.perplexity.ai
+- pplx.ai
+- *.pplx.ai
+- pplx-next-static-public.perplexity.ai
+- r2cdn.perplexity.ai
+- research.perplexity.ai
+- sonar.perplexity.ai
+- docs.perplexity.ai
+- comet.perplexity.ai
+- status.perplexity.ai
+- finance.perplexity.ai
+- spaces.perplexity.ai
+- labs.perplexity.ai
+
+---
+
+### 🔎 You.com
+
+- you.com
+- *.you.com
+- api.you.com
+- chat.you.com
+- youchat.com
+- cdn.you.com
+- static.you.com
+- assets.you.com
+- docs.you.com
+- research.you.com
+- studio.you.com
+
+---
+
+### 🆕 GROK / xAI
+
+- x.ai
+- *.x.ai
+- grok.com
+- *.grok.com
+- api.x.ai
+- docs.x.ai
+- platform.x.ai
+- console.x.ai
+- grok.x.ai
+- api.x.ai/v1
+- management-api.x.ai
+- status.x.ai
+
+---
+
+### 🆕 POE
+
+- poe.com
+- *.poe.com
+- web.poe.com
+- bot.poe.com
+- creator.poe.com
+- poecdn.net
+- *.poecdn.net
+- api.poe.com
+- help.poe.com
+
+---
+
+### 🆕 DeepSeek
+
+- deepseek.com
+- *.deepseek.com
+- chat.deepseek.com
+- platform.deepseek.com
+- cdn.deepseek.com
+- api-docs.deepseek.com
+- api.deepseek.com
+- api.deepseek.com/v1
+- status.deepseek.com
+- janus.deepseek.com
+
+---
+
+### 🆕 Pi AI (Inflection)
+
+- pi.ai
+- *.pi.ai
+- inflection.ai
+- *.inflection.ai
+- heypi.com
+- *.heypi.com
+- api.inflection.ai
+- developers.inflection.ai
+
+---
+
+### 🆕 PHIND
+
+- phind.com
+- *.phind.com
+- www.phind.com
+- app.phind.com
+- vscode.phind.com
+- api.phind.com
+- docs.phind.com
+
+---
+
+## 🟢 TIER 3: SPECIALIZED TOOLS
+
+### ✍️ WRITING TOOLS
+
+**Jasper AI**
+- jasper.ai
+- *.jasper.ai
+- app.jasper.ai
+- api.jasper.ai
+- cdn.jasper.ai
+- assets.jasper.ai
+- templates.jasper.ai
+- developers.jasper.ai
+- security.jasper.ai
+- help.jasper.ai
+- blog.jasper.ai
+- status.jasper.ai
+
+**Copy.ai**
+- copy.ai
+- *.copy.ai
+- app.copy.ai
+- api.copy.ai
+- cdn.copy.ai
+- static.copy.ai
+- docs.copy.ai
+- help.copy.ai
+- blog.copy.ai
+- status.copy.ai
+
+**Writesonic**
+- writesonic.com
+- *.writesonic.com
+- app.writesonic.com
+- api.writesonic.com
+- chatsonic.com
+- *.chatsonic.com
+- photosonic.ai
+- *.photosonic.ai
+- botsonic.ai
+- *.botsonic.ai
+- botsonic.com
+- status.writesonic.com
+
+**Rytr**
+- rytr.me
+- *.rytr.me
+- app.rytr.me
+- api.rytr.me
+
+---
+
+### 🎨 IMAGE GENERATION
+
+**Midjourney**
+- midjourney.com
+- *.midjourney.com
+- cdn.midjourney.com
+- www.midjourney.com/app
+- alpha.midjourney.com
+- docs.midjourney.com
+- storage.midjourney.com
+- updates.midjourney.com
+
+**Stability AI / Stable Diffusion**
+- stability.ai
+- *.stability.ai
+- dreamstudio.ai
+- *.dreamstudio.ai
+- api.stability.ai
+- grpc.stability.ai
+- cdn.stability.ai
+- platform.stability.ai
+- dreamstudio.stability.ai
+- clipdrop.co
+- *.clipdrop.co
+- kb.stability.ai
+- status.stability.ai
+- developer.stability.ai
+
+**DALL-E (OpenAI)**
+- labs.openai.com
+- labs.openai.com/api
+
+**Leonardo.ai**
+- leonardo.ai
+- *.leonardo.ai
+- app.leonardo.ai
+- cdn.leonardo.ai
+- docs.leonardo.ai
+- cloud.leonardo.ai
+- status.leonardo.ai
+
+---
+
+### 🎙️ VOICE & VIDEO
+
+**ElevenLabs**
+- elevenlabs.io
+- *.elevenlabs.io
+- api.elevenlabs.io
+- app.elevenlabs.io
+- cdn.elevenlabs.io
+- static.elevenlabs.io
+- voices.elevenlabs.io
+- storage.elevenlabs.io
+- wss://api.elevenlabs.io
+- docs.elevenlabs.io
+- help.elevenlabs.io
+- blog.elevenlabs.io
+- api.eu.residency.elevenlabs.io
+
+**Synthesia**
+- synthesia.io
+- *.synthesia.io
+- app.synthesia.io
+- api.synthesia.io
+- cdn.synthesia.io
+- assets.synthesia.io
+- share.synthesia.io
+- *.api.synthesia.io
+- studio.auth.synthesia.io
+- image.synthesia.io
+- *.prd.synthesia.io
+- security.synthesia.io
+
+**Runway ML**
+- runwayml.com
+- *.runwayml.com
+- app.runwayml.com
+- api.runwayml.com
+- cdn.runwayml.com
+- models.runwayml.com
+- docs.dev.runwayml.com
+- api-docs.runway.team
+- dev.runwayml.com
+- hosted-models.runwayml.cloud
+- runway.team
+- *.runway.team
+- status.runway.team
+
+**Descript**
+- descript.com
+- *.descript.com
+- app.descript.com
+- api.descript.com
+- cdn.descript.com
+- share.descript.com
+- docs.descriptapi.com
+
+**Murf.ai**
+- murf.ai
+- *.murf.ai
+- app.murf.ai
+- api.murf.ai
+- help.murf.ai
+- devmurf.crisp.help
+- falcon.murf.ai
+- status.murf.ai
+
+---
+
+### 🔬 AI DEVELOPMENT PLATFORMS
+
+**Cohere**
+
+- cohere.ai
+- *.cohere.ai
+- api.cohere.ai
+- dashboard.cohere.ai
+- cdn.cohere.ai
+- cohere.com
+- *.cohere.com
+- api.cohere.com
+- dashboard.cohere.com
+- docs.cohere.com
+- coral.cohere.com
+- cohere.io
+- north.cohere.com
+- compass.cohere.com
+- labs.cohere.com
+
+**Meta AI**
+- ai.meta.com
+- *.ai.meta.com
+- llama.meta.com
+- ai.facebook.com
+- graph.meta.com
+- developers.facebook.com
+- meta.ai
+- *.meta.ai
+- www.meta.ai
+- graph.facebook.com
+- graph-video.facebook.com
+- metastatus.com
+- llama.com
+- business.meta.ai
+- imagine.meta.com
+- l.facebook.com
+- lookaside.fbsbx.com
+
+**Mistral AI**
+- mistral.ai
+- *.mistral.ai
+- api.mistral.ai
+- chat.mistral.ai
+- console.mistral.ai
+- docs.mistral.ai
+- la-plateforme.mistral.ai
+- admin.mistral.ai
+- lechat.mistral.ai
+- status.mistral.ai
+- codestral.mistral.ai
+- auth.mistral.ai
+
+---
+
+### 🏗️ CHATBOT BUILDER
+
+**Kore.ai**
+- kore.ai
+- *.kore.ai
+- bots.kore.ai
+- platform.kore.ai
+- developer.kore.ai
+- docs.kore.ai
+- api.kore.ai
+- marketplace.kore.ai
+- academy.kore.ai
+- app.kore.ai
+- work.kore.ai
+- process.kore.ai
+- agent-platform.kore.ai
+- eu-bots.kore.ai
+- eu-platform.kore.ai
+- de-bots.kore.ai
+- de-platform.kore.ai
+- de-agent-platform.kore.ai
+- au-bots.kore.ai
+- au-platform.kore.ai
+- jp-bots.kore.ai
+- jp-platform.kore.ai
+- jp-agent-platform.kore.ai
+- ind-bots.kore.ai
+- ind-platform.kore.ai
+- uae-bots.kore.ai
+- uae-platform.kore.ai
+
+**Yellow.ai**
+- yellow.ai
+- *.yellow.ai
+- yellowmessenger.com
+- *.yellowmessenger.com
+- cloud.yellow.ai
+- live.yellow.ai
+- api.yellow.ai
+- cdn.yellowmessenger.com
+- docs.yellow.ai
+
+**Botpress**
+- botpress.com
+- *.botpress.com
+- botpress.cloud
+- *.botpress.cloud
+- api.botpress.cloud
+- webhook.botpress.cloud
+- studio.botpress.com
+- files.botpress.cloud
+- cdn.botpress.cloud
+- runtime.botpress.cloud
+- messaging.botpress.cloud
+
+**Voiceflow**
+- voiceflow.com
+- *.voiceflow.com
+- api.voiceflow.com
+- creator.voiceflow.com
+- status.voiceflow.com
+- docs.voiceflow.com
+- general-runtime.voiceflow.com
+- cdn.voiceflow.com
+- analytics.voiceflow.com
+- runtime.voiceflow.com
+- upload.voiceflow.com
+
+**Rasa**
+- rasa.com
+- *.rasa.com
+- forum.rasa.com
+
+> ⚠ Self-hosted platform
+
+**Amazon Lex**
+- aws.amazon.com/lex
+- lex.amazonaws.com
+- *.lex.amazonaws.com
+- runtime-v2-lex.us-east-1.amazonaws.com
+- runtime-v2-lex.us-west-2.amazonaws.com
+- runtime-v2-lex.eu-central-1.amazonaws.com
+- runtime-v2-lex.eu-west-1.amazonaws.com
+- runtime-v2-lex.eu-west-2.amazonaws.com
+- runtime-v2-lex.ap-northeast-1.amazonaws.com
+- runtime-v2-lex.ap-northeast-2.amazonaws.com
+- runtime-v2-lex.ap-southeast-1.amazonaws.com
+- runtime-v2-lex.ap-southeast-2.amazonaws.com
+- runtime-v2-lex.ca-central-1.amazonaws.com
+- models-v2-lex.us-east-1.amazonaws.com
+- models-v2-lex.us-west-2.amazonaws.com
+- models-v2-lex.eu-central-1.amazonaws.com
+- models-v2-lex.eu-west-1.amazonaws.com
+- runtime.lex.us-east-1.amazonaws.com
+- runtime.lex.us-west-2.amazonaws.com
+- runtime.lex.eu-west-1.amazonaws.com
+- runtime.lex.eu-central-1.amazonaws.com
+- runtime-fips.lex.us-east-1.amazonaws.com
+- runtime-fips.lex.us-west-2.amazonaws.com
+
+**Dialogflow (Google)**
+- dialogflow.cloud.google.com
+- *.dialogflow.com
+- dialogflow.googleapis.com
+- dialogflow.googleapis.com/v2
+- dialogflow.googleapis.com/v3
+- us-central1-dialogflow.googleapis.com
+- us-east1-dialogflow.googleapis.com
+- us-west1-dialogflow.googleapis.com
+- us-dialogflow.googleapis.com
+- europe-west1-dialogflow.googleapis.com
+- europe-west2-dialogflow.googleapis.com
+- europe-west3-dialogflow.googleapis.com
+- eu-dialogflow.googleapis.com
+- asia-northeast1-dialogflow.googleapis.com
+- asia-southeast1-dialogflow.googleapis.com
+- australia-southeast1-dialogflow.googleapis.com
+
+**ManyChat**
+- manychat.com
+- *.manychat.com
+- api.manychat.com
+- community.manychat.com
+- mccdn.net
+- *.mccdn.net
+- manychatapp.com
+- status.manychat.com
+
+**Chatfuel**
+- chatfuel.com
+- *.chatfuel.com
+- api.chatfuel.com
+- docs.chatfuel.com
+- help.chatfuel.com
+- bot.chatfuel.com
+- dashboard.chatfuel.com
+
+**Landbot**
+- landbot.io
+- *.landbot.io
+- api.landbot.io
+- chat.landbot.io
+- dev.landbot.io
+- app.landbot.io
+- help.landbot.io
+
+
+Nike Ecosystem
+
+-   nike.com
+-   www.nike.com
+-   api.nike.com
+-   unite.nike.com
+-   nikeplus.nike.com
+-   nikerunning.nike.com
+-   secure-nikeplus.nike.com
+-   developer.nike.com
+-   api-secure.nike.com
+-   analytics.nike.com
+-   auth.nike.com
+-   accounts.nike.com
+-   engineering.nike.com
+-   news.nike.com
+-   about.nike.com
+-   help.nike.com
+-   media.nike.com
+-   store.nike.com
+-   snkrs.nike.com
+-   shop.nike.com
+-   jobs.nike.com
+-   nikecloud.com
+-   nikecdn.com
+-   static-nike.com
+-   swoosh.nike
+-   nike.com.br
+-   nike.com.cn
+-   nike.com.hk
+-   nike.com.au
+-   nike.co.uk
+-   nike.ca
+-   nike.eu
+-   nike.gpcloudservice.com
+-   s3.nikecdn.com
+
+Adidas Ecosystem (Runtastic)
+
+-   runtastic.com
+-   www.runtastic.com
+-   api.runtastic.com
+-   app.runtastic.com
+-   cdn.runtastic.com
+-   analytics.runtastic.com
+-   sync.runtastic.com
+-   partners.runtastic.com
+-   blog.runtastic.com
+-   help.runtastic.com
+-   community.runtastic.com
+-   assets.runtastic.com
+-   shop.runtastic.com
+-   runtastic.stoplight.io
+-   adidas.com
+-   www.adidas.com
+-   adidasrunning.com
+-   run.adidas.com
+-   training.adidas.com
+-   running.adidas.com
+-   adidas.api.myapp.com
+-   stg.adidas.api.myapp.com
+
+
+Huawei Health:
+
+-   health.huawei.com
+-   developer.huawei.com
+
+Xiaomi / Zepp / Huami:
+
+-   zepp.com
+-   www.zepp.com
+-   zepplife.com
+-   www.zepplife.com
+-   zepplife.net
+-   huami.com
+-   api.zepp.com
+-   user.zepp.com
+-   api-mifit.huami.com
+-   api-user.huami.com
+-   api-mifit-us2.huami.com
+-   api-mifit-de.huami.com
+-   api-mifit-de2.huami.com
+-   api-mifit-sg2.huami.com
+-   api-mifit-cn2.huami.com
+-   app-analytics.huami.com
+-   account.huami.com
+-   api-watch.huami.com
+-   api-analytics.huami.com
+-   auth.huami.com
+-   user.huami.com
+-   run.mifit.huami.com
+-   dev.huami.com
+-   docs.huami.com
+-   mifit.huami.com
+-   hm.xiaomi.com
+-   account.xiaomi.com
+-   amazfit.com
+-   www.amazfit.com
+-   shop.amazfit.com
+-   support.amazfit.com
+-   community.amazfit.com
+-   und-gesund.de
+
+Virgin Pulse:
+
+-   virginpulse.com
+-   www.virginpulse.com
+-   member.virginpulse.com
+-   api.virginpulse.com
+-   app.virginpulse.com
+-   support.virginpulse.com
+-   community.virginpulse.com
+-   portal.evaliahealth.com
+-   redhealth.virginpulse.com
+-   challenges.virginpulse.com
+-   wellbeing.virginpulse.com
+-   assets.virginpulse.com
+-   cdn.virginpulse.com
+-   go.virginpulse.com
+-   platform.virginpulse.com
+
+Welltok / CafeWell (CLOSED):
+
+-   welltok.com
+-   www.welltok.com
+-   api.welltok.com
+-   cafewell.com
+-   www.cafewell.com
+
+Limeade (NOW: WebMD Health Services — 2023):
+
+-   limeade.com
+-   www.limeade.com
+-   app.limeade.com
+-   api.limeade.com
+-   portal.limeade.com
+-   cdn.limeade.com
+-   assets.limeade.com
+-   engage.limeade.com
+-   us.limeade.com
+-   eu.limeade.com
+-   webmdhealthservices.com
+-   www.webmdhealthservices.com
+-   portal.webmdhealthservices.com
+-   platform.webmdhealthservices.com
+-   api.webmdhealthservices.com
+
+Wellable:
+
+-   wellable.co
+-   www.wellable.co
+-   app.wellable.co
+-   api.wellable.co
+-   blog.wellable.co
+-   cdn.wellable.co
+-   assets.wellable.co
+
+MoveSpring:
+
+-   movespring.com
+-   www.movespring.com
+-   app.movespring.com
+-   api.movespring.com
+-   cdn.movespring.com
+-   assets.movespring.com
+
+
+Samsung Health
+
+-   shealth.samsung.com
+-   samsunghealth.com
+-   health.samsung.com
+-   api.samsunghealth.com
+-   cdn.samsunghealth.com
+-   developer.samsung.com
+-   account.samsung.com
+-   shop.samsung.com
+-   research.health.samsung.com
+
+Peloton
+
+-   peloton.com
+-   www.peloton.com
+-   onepeloton.com
+-   www.onepeloton.com
+-   api.onepeloton.com
+-   members.onepeloton.com
+-   cdn.onepeloton.com
+-   analytics.onepeloton.com
+-   auth.onepeloton.com
+-   support.onepeloton.com
+-   blog.onepeloton.com
+-   shop.onepeloton.com
+-   account.onepeloton.com
+-   corporate.onepeloton.com
+-   api.pelotoncycle.com
+-   static-cdn.pelotoncycle.com
+-   onepeloton.co.uk
+-   members.onepeloton.co.uk
+-   api.onepeloton.co.uk
+-   onepeloton.ca
+-   onepeloton.com.au
+-   onepeloton.de
+-   onepeloton.at
+-   amd-vod.akamaized.net
+-   browse-categories-images-prod.s3.amazonaws.com
+-   workout-metric-images-prod.s3.amazonaws.com
+-   onepeloton.com/strength-plus-app
+-   support.onepeloton.com/s/article/strength-plus-app
+
+Tonal:
+
+-   tonal.com
+-   www.tonal.com
+-   api.tonal.com
+-   my.tonal.com
+-   members.tonal.com
+-   app.tonal.com
+-   analytics.tonal.com
+-   blog.tonal.com
+-   support.tonal.com
+-   shop.tonal.com
+-   press.tonal.com
+-   cdn.tonal.com
+
+Mirror (NOW: Lululemon Studio — 2024):
+
+-   mirror.co
+-   www.mirror.co
+-   api.mirror.co
+-   app.mirror.co
+-   prod-frontend.mirror.co
+-   lululemon.com
+-   www.lululemon.com
+-   studio.lululemon.com
+-   lululemonstudio.com
+-   www.lululemonstudio.com
+-   dev.lululemonstudio.com
+
+Tempo:
+
+-   tempo.fit
+-   www.tempo.fit
+-   api.tempo.fit
+-   my.tempo.fit
+-   app.tempo.fit
+-   blog.tempo.fit
+-   support.tempo.fit
+-   cdn.tempo.fit
+
+Zwift
+
+-   zwift.com
+-   www.zwift.com
+-   api.zwift.com
+-   secure.zwift.com
+-   my.zwift.com
+-   game.zwift.com
+-   forums.zwift.com
+-   blog.zwift.com
+-   assets.zwift.com
+-   companion.zwift.com
+-   updates.zwift.com
+-   map.zwift.com
+-   developers.zwift.com
+-   us-or-rly101.zwift.com
+-   us-or-rly102.zwift.com
+-   eu-central-1.zwift.com
+-   cdn.zwift.com
+-   launcher.zwift.com
+-   status.zwift.com
+-   support.zwift.com
+-   zwiftpower.com
+
+Polar
+
+-   polar.com
+-   www.polar.com
+-   flow.polar.com
+-   api.polar.com
+-   sync.polar.com
+-   auth.polar.com
+-   www.polaraccesslink.com
+-   admin.polaraccesslink.com
+-   teampro.api.polar.com
+-   support.polar.com
+-   blog.polar.com
+-   shop.polar.com
+-   web.polar.com
+-   polar.me
+
+Wahoo / SYSTM
+
+-   wahoofitness.com
+-   www.wahoofitness.com
+-   api.wahoofitness.com
+-   cloud.wahoofitness.com
+-   cdn.wahoofitness.com
+-   support.wahoofitness.com
+-   blog.wahoofitness.com
+-   shop.wahoofitness.com
+-   community.wahoofitness.com
+-   wahooligan.com
+-   api.wahooligan.com
+-   cloud-api.wahooligan.com
+-   accounts.wahooligan.com
+-   developers.wahooligan.com
+-   wahoosystm.com
+-   systm.wahoofitness.com
+
+TrainingPeaks
+
+-   trainingpeaks.com
+-   www.trainingpeaks.com
+-   api.trainingpeaks.com
+-   tpapi.trainingpeaks.com
+-   home.trainingpeaks.com
+-   app.trainingpeaks.com
+-   cdn.trainingpeaks.com
+-   api.sandbox.trainingpeaks.com
+-   oauth.trainingpeaks.com
+-   oauth.sandbox.trainingpeaks.com
+-   blog.trainingpeaks.com
+-   support.trainingpeaks.com
+-   shop.trainingpeaks.com
+-   wcf.trainingpeaks.com
+-   athleteiq.trainingpeaks.com
+
+Suunto
+
+-   suunto.com
+-   www.suunto.com
+-   api.suunto.com
+-   app.suunto.com
+-   cdn.suunto.com
+-   apizone.suunto.com
+-   cloudapi.suunto.com
+-   cloudapi-oauth.suunto.com
+-   support.suunto.com
+-   community.suunto.com
+-   blog.suunto.com
+-   shop.suunto.com
+-   sports-tracker.com
+
+iFit
+
+-   ifit.com
+-   www.ifit.com
+-   api.ifit.com
+-   cdn.ifit.com
+-   support.ifit.com
+-   gateway.ifit.com
+-   accounts.ifit.com
+-   developer.ifit.com
+-   studio.ifit.com
+-   live.ifit.com
+-   status.ifit.com
+-   blog.ifit.com
+-   nordictrack.com
+-   www.nordictrack.com
+-   proform.com
+-   www.proform.com
+-   proform.ifit.com
+-   freemotionconnect.com
+-   ifitsupport.eu
+-   my.iconfitness.com
+
+Noom
+
+-   noom.com
+-   www.noom.com
+-   api.noom.com
+-   web.noom.com
+-   app.noom.com
+-   cdn.noom.com
+-   analytics.noom.com
+-   account.noom.com
+-   blog.noom.com
+-   support.noom.com
+-   go.noom.com
+-   med.noom.com
+-   noommd.com
+-   www.noommd.com
+-   business.noom.com
+-   partners.noom.com
+-   status.noom.com
+-   orumhealth.com
+-   www.orumhealth.com
+
+Weight Watchers (WW)
+
+-   weightwatchers.com
+-   www.weightwatchers.com
+-   api.weightwatchers.com
+-   cmx.weightwatchers.com
+-   cmx.weightwatchers.co.uk
+-   connect.weightwatchers.com
+-   auth.weightwatchers.com
+-   wellness.weightwatchers.com
+-   community.weightwatchers.com
+-   clinic.weightwatchers.com
+-   signup.weightwatchers.com
+-   ww.com
+-   www.ww.com
+-   cdn.ww.com
+-   shop.ww.com
+-   blog.ww.com
+-   coach.ww.com
+
+Oura Ring:
+
+-   ouraring.com
+-   www.ouraring.com
+-   cloud.ouraring.com
+-   api.ouraring.com
+-   app.ouraring.com
+-   shop.ouraring.com
+-   support.ouraring.com
+-   blog.ouraring.com
+-   pulse.ouraring.com
+-   store.ouraring.com
+-   help.ouraring.com
+-   research.ouraring.com
+
+WHOOP:
+
+-   whoop.com
+-   www.whoop.com
+-   api.prod.whoop.com
+-   api.whoop.com
+-   app.whoop.com
+-   join.whoop.com
+-   secure.whoop.com
+-   store.whoop.com
+-   support.whoop.com
+-   community.whoop.com
+-   blog.whoop.com
+-   coach.whoop.com
+-   teams.whoop.com
+-   enterprise.whoop.com
+-   developer.whoop.com
+
+Biostrap:
+
+-   biostrap.com
+-   www.biostrap.com
+-   api.biostrap.com
+-   app.biostrap.com
+-   staging.app.biostrap.com
+-   help.biostrap.com
+-   docs.api-beta.biostrap.com
+
+Levels Health:
+
+-   levelshealth.com
+-   www.levelshealth.com
+-   app.levelshealth.com
+-   api.levelshealth.com
+-   join.levelshealth.com
+-   blog.levelshealth.com
+-   support.levels.com
+-   levels.com
+-   www.levels.com
+-   levels.link
+-   framer.levels.com
+
+InsideTracker:
+
+-   insidetracker.com
+-   www.insidetracker.com
+-   my.insidetracker.com
+-   api.insidetracker.com
+-   app.insidetracker.com
+-   store.insidetracker.com
+-   support.insidetracker.com
+-   platform.insidetracker.com
+-   blog.insidetracker.com
+
+HeadsUp Health:
+
+-   headsuphealth.com
+-   www.headsuphealth.com
+-   app.headsuphealth.com
+-   api.headsuphealth.com
+-   dashboard.headsuphealth.com
+-   blog.headsuphealth.com
+-   help.headsuphealth.com
+
+DNA + Fitness
+
+
+-   dnafit.com
+-   www.dnafit.com
+-   api.dnafit.com
+-   app.dnafit.com
+-   support.dnafit.com
+-   portal.dnafit.com
+-   fitnessgenes.com
+-   www.fitnessgenes.com
+-   api.fitnessgenes.com
+-   app.fitnessgenes.com
+-   support.fitnessgenes.com
+-   portal.fitnessgenes.com
+-   athletigen.com
+-   www.athletigen.com
+-   app.athletigen.com
+-   support.athletigen.com
+-   xcodelife.com
+-   www.xcodelife.com
+-   dynamicdnalabs.com
+-   pathwayfit.com
+-   genomelink.io
+-   myvitalmetrics.com
+
+-   veri.co
+-   www.veri.co
+-   app.veri.co
+-   nutrisense.io
+-   www.nutrisense.io
+-   app.nutrisense.io
+-   help.nutrisense.io
+-   january.ai
+-   www.january.ai
+-   app.january.ai
+-   signos.com
+-   www.signos.com
+-   app.signos.com
+-   theiahealth.com
+-   www.theiahealth.com
+-   snaq.ai
+-   www.snaq.ai
+-   joinzoe.com
+-   www.joinzoe.com
+-   api.joinzoe.com
+-   app.joinzoe.com
+-   cdn.joinzoe.com
+-   blog.joinzoe.com
+-   junction.com
+
+Garmin
+
+-   garmin.com
+-   www.garmin.com
+-   connect.garmin.com
+-   api.garmin.com
+-   sso.garmin.com
+-   static.garmin.com
+-   cloud.garmin.com
+-   services.garmin.com
+-   developer.garmin.com
+-   developerportal.garmin.com
+-   apis.garmin.com
+-   connectapi.garmin.com
+-   api.gcs.garmin.com
+-   gcs.garmin.com
+-   device-proxy.garmin.com
+-   deviceresources.garmin.com
+-   diauth.garmin.com
+-   download.garmin.com
+-   fonts.garmin.com
+-   geolocation.garmin.com
+-   gold.garmin.com
+-   matomo.garmin.com
+-   omt.garmin.com
+-   res.garmin.com
+-   subscriptions.garmin.com
+-   garmincdn.com
+-   static.garmincdn.com
+-   explore.garmin.com
+-   share.garmin.com
+-   kb.garmin.com
+-   forums.garmin.com
+-   live.garmin.com
+-   apps.garmin.com
+-   login.garmin.com
+-   assets.garmin.com
+-   data.garmin.com
+-   maps.garmin.com
+-   pro.garmin.com
+-   surveys.garmin.com
+-   mobile.garmin.com
+-   blog.garmin.com
+-   redirect.garmin.com
+-   reports.garmin.com
+-   careers.garmin.com
+-   my.garmin.com
+-   sandbox.garmin.com
+-   newsletter.garmin.com
+-   software.garmin.com
+-   sports.garmin.com
+-   support.garmin.com
+-   training.garmin.com
+-   id.garmin.com
+-   images.garmin.com
+-   info.garmin.com
+-   feedback.garmin.com
+-   jobs.garmin.com
+-   buy.garmin.com
+-   auth.garminfitness.com
+-   garmin.cn
+-   garmin.eu
+
+Apple Fitness & HealthKit
+
+-   fitness.apple.com
+-   applefitness.apple.com
+-   developer.apple.com/healthkit
+-   developer.apple.com/health-fitness
+
+Google Fit / Health Connect
+
+-   fit.google.com
+-   fitness.googleapis.com
+-   health.google/health-connect-android
+-   developer.android.com/health-and-fitness/health-connect
+
+
+Lose It:
+
+-   loseit.com
+-   www.loseit.com
+-   api.loseit.com
+-   app.loseit.com
+-   cdn.loseit.com
+-   help.loseit.com
+-   loseit.zendesk.com
+
+Cronometer:
+
+-   cronometer.com
+-   www.cronometer.com
+-   api.cronometer.com
+-   app.cronometer.com
+-   forums.cronometer.com
+-   pro.cronometer.com
+
+Lifesum:
+
+-   lifesum.com
+-   www.lifesum.com
+-   api.lifesum.com
+-   cdn.lifesum.com
+
+Fooducate:
+
+-   fooducate.com
+-   www.fooducate.com
+-   api.fooducate.com
+
+Livestrong MyPlate:
+
+-   livestrong.com
+-   www.livestrong.com
+-   myplate.livestrong.com
+
+RunKeeper (ASICS — API Closed)
+
+-   runkeeper.com
+-   www.runkeeper.com
+-   api.runkeeper.com
+-   app.runkeeper.com
+-   cdn.runkeeper.com
+-   help.runkeeper.com
+-   support.runkeeper.com
+-   blog.runkeeper.com
+-   account.runkeeper.com
+-   assets.runkeeper.com
+
+TrainerRoad
+
+-   trainerroad.com
+-   www.trainerroad.com
+-   api.trainerroad.com
+-   app.trainerroad.com
+-   forum.trainerroad.com
+-   support.trainerroad.com
+-   blog.trainerroad.com
+-   cdn.trainerroad.com
+-   help.trainerroad.com
+-   assets.trainerroad.com
+
+MySwimPro
+
+-   myswimpro.com
+-   www.myswimpro.com
+-   swim.com
+-   api.myswimpro.com
+-   app.myswimpro.com
+-   support.myswimpro.com
+-   blog.myswimpro.com
+-   cdn.myswimpro.com
+
+Slopes (Kayak)
+
+-   slopes.app
+-   getslopes.com
+-   www.getslopes.com
+-   api.getslopes.com
+-   cdn.getslopes.com
+-   blog.getslopes.com
+-   apps.getslopes.com
+-   help.getslopes.com
+
+Hole19:
+
+-   hole19golf.com
+-   www.hole19golf.com
+-   api.hole19golf.com
+-   app.hole19golf.com
+-   cdn.hole19golf.com
+-   blog.hole19golf.com
+-   support.hole19golf.com
+
+GolfShot:
+
+-   golfshot.com
+-   www.golfshot.com
+-   api.golfshot.com
+-   app.golfshot.com
+-   cdn.golfshot.com
+-   blog.golfshot.com
+-   shotzoom.zendesk.com
+
+GolfPad:
+
+-   golfpad.com
+-   www.golfpad.com
+-   golfpad.events
+-   support.golfpadgps.com
+-   golfpad.app
+-   scout.golfpadgps.com
+-   api.golfpad.com
+-   app.golfpad.com
+
+Trainerize / ABC Trainerize
+
+-   trainerize.com
+-   www.trainerize.com
+-   app.trainerize.me
+-   api.trainerize.com
+-   help.trainerize.com
+-   support.trainerize.com
+-   blog.trainerize.com
+-   status.trainerize.com
+-   resources.trainerize.com
+-   account.trainerize.com
+-   assets.trainerize.com
+-   cdn.trainerize.com
+-   abcfitness.com
+-   www.abcfitness.com
+
+TrueCoach
+
+-   truecoach.co
+-   www.truecoach.co
+-   app.truecoach.co
+-   api.truecoach.co
+-   cdn.truecoach.co
+-   blog.truecoach.co
+-   support.truecoach.co
+-   help.truecoach.co
+
+MyPTHub
+
+-   mypthub.net
+-   www.mypthub.net
+-   app.mypthub.net
+-   api.mypthub.net
+-   cdn.mypthub.net
+-   blog.mypthub.net
+-   support.mypthub.net
+
+TrainHeroic
+
+-   trainheroic.com
+-   www.trainheroic.com
+-   athlete.trainheroic.com
+-   account.trainheroic.com
+-   support.trainheroic.com
+-   blog.trainheroic.com
+-   marketplace.trainheroic.com
+-   cdn.trainheroic.com
+
+Athlinks (ChronoTrack)
+
+-   athlinks.com
+-   www.athlinks.com
+-   api.athlinks.com
+-   services.athlinks.com
+-   m.athlinks.com
+-   results.athlinks.com
+-   chronotrack.com
+-   www.chronotrack.com
+-   live.chronotrack.com
+
+RunSignup
+
+-   runsignup.com
+-   www.runsignup.com
+-   api.runsignup.com
+-   test.runsignup.com
+-   help.runsignup.com
+-   blog.runsignup.com
+-   cdn.runsignup.com
+-   assets.runsignup.com
+-   info.runsignup.com
+-   racejoy.com
+-   www.racejoy.com
+
+Active.com
+
+-   active.com
+-   www.active.com
+-   api.active.com
+-   developer.active.com
+-   results.active.com
+-   activeendurance.com
+-   www.activeendurance.com
+
+The Conqueror / My Virtual Mission:
+
+-   theconqueror.events
+-   www.theconqueror.events
+-   app.theconqueror.events
+-   api.theconqueror.events
+-   cdn.theconqueror.events
+-   shop.theconqueror.events
+-   help.theconqueror.events
+-   myvirtualmission.com
+-   www.myvirtualmission.com
+-   app.myvirtualmission.com
+-   api.myvirtualmission.com
+
+Virtual Run Events:
+
+-   virtualrunevents.com
+-   www.virtualrunevents.com
+-   virtualrunevent.com
+-   www.virtualrunevent.com
+-   virtualchallenges.com
+-   www.virtualchallenges.com
+
+Technogym
+
+-   technogym.com
+-   www.technogym.com
+-   mywellness.com
+-   www.mywellness.com
+-   wellness.technogym.com
+-   developer.technogym.com
+-   apidocs.mywellness.com
+-   openplatformdocs.mywellness.com
+-   api.mywellness.com
+-   cdn.mywellness.com
+-   auth.mywellness.com
+-   connect.mywellness.com
+-   shop.technogym.com
+-   support.technogym.com
+
+Life Fitness
+
+-   lifefitness.com
+-   www.lifefitness.com
+-   facility.lifefitness.com
+
+Concept2
+
+-   concept2.com
+-   www.concept2.com
+-   concept2.co.uk
+-   www.concept2.co.uk
+-   log.concept2.com
+-   log-dev.concept2.com
+-   logbook.concept2.com
+-   media.concept2.com
+-   forum.concept2.com
+-   store.concept2.com
+
+JEFIT
+
+-   jefit.com
+-   www.jefit.com
+-   api.jefit.com
+-   app.jefit.com
+-   help.jefit.com
+-   blog.jefit.com
+-   community.jefit.com
+-   cdn.jefit.com
+
+Strong
+
+-   strong.app
+-   www.strong.app
+
+FitNotes
+
+-   fitnotesapp.com
+-   www.fitnotesapp.com
+-   getfitnotes.com
+-   www.getfitnotes.com
+
+Hevy
+
+-   hevyapp.com
+-   www.hevyapp.com
+-   api.hevyapp.com
+-   blog.hevyapp.com
+-   support.hevyapp.com
+
+Charity Miles
+
+-   charitymiles.org
+-   www.charitymiles.org
+-   api.charitymiles.org
+-   app.charitymiles.org
+-   blog.charitymiles.org
+
+StepBet / WayBetter / DietBet (NOW: Appex)
+
+-   stepbet.com
+-   www.stepbet.com
+-   app.stepbet.com
+-   dietbet.com
+-   www.dietbet.com
+-   app.dietbet.com
+-   waybetter.com
+-   www.waybetter.com
+-   api.waybetter.com
+-   app.waybetter.com
+-   waybetter.app
+-   support.waybetter.app
+-   blog.waybetter.com
+-   cdn.waybetter.com
+-   assets.waybetter.com
+-   appexfit.com
+-   www.appexfit.com
+
+Parkrun
+
+-   parkrun.com
+-   www.parkrun.com
+-   parkrun.org.uk
+-   www.parkrun.org.uk
+-   parkrun.us
+-   www.parkrun.us
+-   images.parkrun.com
+-   wiki.parkrun.com
+-   blog.parkrun.com
+-   support.parkrun.com
+-   results.parkrun.com
+-   assets.parkrun.com
+-   api.parkrun.com
+-   parkrun.com.au
+-   www.parkrun.com.au
+-   parkrun.co.za
+-   www.parkrun.co.za
+-   parkrun.ca
+-   parkrun.de
+-   parkrun.pl
+-   parkrun.fi
+-   parkrun.se
+-   parkrun.it
+-   parkrun.fr
+-   parkrun.dk
+-   parkrun.ie
+-   parkrun.sg
+-   parkrun.ru
+
+Sweat (Kayla Itsines — iFIT)
+
+-   sweat.com
+-   www.sweat.com
+-   app.sweat.com
+-   api.sweat.com
+-   cdn.sweat.com
+-   assets.sweat.com
+-   blog.sweat.com
+-   support.sweat.com
+-   help.sweat.com
+-   store.sweat.com
+-   press.sweat.com
+-   community.sweat.com
+
+FitOn
+
+-   fitonapp.com
+-   www.fitonapp.com
+-   app.fitonapp.com
+-   web.fitonapp.com
+-   api.fitonapp.com
+-   cdn.fitonapp.com
+-   help.fitonapp.com
+-   business.fitonapp.com
+-   fitonhealth.com
+-   www.fitonhealth.com
+-   peerfit.com
+-   www.peerfit.com
+-   peerfitmove.com
+-   www.peerfitmove.com
+
+Centr (Chris Hemsworth)
+
+-   centr.com
+-   www.centr.com
+-   api.centr.com
+-   cdn.centr.com
+-   blog.centr.com
+-   shop.centr.com
+-   support.centr.com
+-   assets.centr.com
+
+BODi / Beachbody
+
+-   bodi.com
+-   www.bodi.com
+-   blog.bodi.com
+-   shop.bodi.com
+-   beachbodyondemand.com
+-   www.beachbodyondemand.com
+-   bodibypbb.com
+-   faq.beachbody.com
+-   status.beachbodyondemand.com
+-   cdn.beachbodyondemand.com
+-   assets.beachbodyondemand.com
+-   teambeachbody.com
+-   www.teambeachbody.com
+-   openfit.com
+-   www.openfit.com
+-   myxfitness.com
+-   www.myxfitness.com
+-   beachbodybike.com
+-   www.beachbodybike.com
+
+Obé Fitness
+
+-   obefitness.com
+-   www.obefitness.com
+
+Tone It Up
+
+-   toneitup.com
+-   www.toneitup.com
+-   my.toneitup.com
+
+Blogilates
+
+-   blogilates.com
+-   www.blogilates.com
+
+Pvolve
+
+-   pvolve.com
+-   www.pvolve.com
+
+Melissa Wood Health (MWH)
+
+-   melissawoodhealth.com
+-   www.melissawoodhealth.com
+-   mwh-production.melissawoodhealth.com
+
+Arnold Pump Club / Ladder
+
+-   ladderteam.com
+-   arnoldspumpclub.com
+-   www.arnoldspumpclub.com
+-   thepumpapp.com
+
+GetFit AI
+
+-   getfitapp.ai
+-   www.getfitapp.ai
+-   bestaifitnessapp.com
+-   getfitapps.com
+-   www.getfitapps.com
+
+Markalı Antrenman Uygulamaları
+
+Gymshark Training
+
+-   gymshark.com
+-   www.gymshark.com
+-   us.gymshark.com
+-   eu.gymshark.com
+-   row.gymshark.com
+-   de.gymshark.com
+-   fr.gymshark.com
+-   central.gymshark.com
+-   support.gymshark.com
+-   shop.gymshark.com
+-   api.gymshark.com
+-   cdn.gymshark.com
+-   auth.gymshark.com
+-   training.gymshark.com
+-   community.gymshark.com
+-   blog.gymshark.com
+-   press.gymshark.com
+-   careers.gymshark.com
+
+Bodybuilding.com  
+
+-   bodybuilding.com
+-   www.bodybuilding.com
+-   api.bodybuilding.com
+-   cdn.bodybuilding.com
+-   assets.bodybuilding.com
+-   shop.bodybuilding.com
+-   store.bodybuilding.com
+-   support.bodybuilding.com
+-   forum.bodybuilding.com
+-   bodyspace.bodybuilding.com
+-   blog.bodybuilding.com
+-   bodyfit.bodybuilding.com
+-   fitplan.com
+-   www.fitplan.com
+
+Planet Fitness 
+
+-   planetfitness.com
+-   www.planetfitness.com
+-   my.planetfitness.com
+-   api.planetfitness.com
+-   cdn.planetfitness.com
+-   shop.planetfitness.com
+-   business.planetfitness.com
+-   franchise.planetfitness.com
+-   blog.planetfitness.com
+-   planetfitness.auth0.com
+
+Freeletics
+
+-   freeletics.com
+-   www.freeletics.com
+-   api.freeletics.com
+-   cdn.freeletics.com
+-   auth.freeletics.com
+-   coaching.freeletics.com
+-   assets.freeletics.com
+-   help.freeletics.com
+-   blog.freeletics.com
+-   forum.freeletics.com
+
+Fitbod
+
+-   fitbod.me
+-   www.fitbod.me
+-   api.fitbod.me
+-   cdn.fitbod.me
+-   help.fitbod.me
+-   blog.fitbod.me
+-   fitbod.zendesk.com
+
+Alpha Progression
+
+-   alphaprogression.com
+-   www.alphaprogression.com
+-   app.alphaprogression.com
+-   api.alphaprogression.com
+-   blog.alphaprogression.com
+
+Boostcamp
+
+-   boostcamp.app
+-   www.boostcamp.app
+-   api.boostcamp.app
+-   cdn.boostcamp.app
+-   blog.boostcamp.app
+
+SHRED App
+
+-   shred.app
+-   www.shred.app
+-   offer.shred.app
+-   store.shred.app
+-   login.shred.app
+-   go.shred.app
+-   upgrade.shred.app
+
+Dr. Muscle
+
+-   dr-muscle.com
+-   www.dr-muscle.com
+-   my.dr-muscle.com
+-   drmuscleapp.com
+-   muscle.userecho.com
+
+Caliber
+
+-   caliberstrong.com
+-   www.caliberstrong.com
+-   caliberstrong.freshdesk.com
+
+Zing Coach
+
+-   zing.coach
+-   www.zing.coach
+
+FitnessAI
+
+-   fitnessai.com
+-   www.fitnessai.com
+
+Les Mills+ (LES MILLS On Demand)
+
+-   lesmills.com
+-   www.lesmills.com
+-   lesmillsondemand.com
+-   www.lesmillsondemand.com
+-   my.lesmillsondemand.com
+-   web.lesmillsondemand.com
+-   support.lesmillsondemand.com
+-   lesmillsondemand.freshdesk.com
+-   connect.lesmills.com
+-   api.content.lesmills.com
+-   cms.content.lesmills.com
+-   releases.lesmills.com
+-   portal.lesmills.com
+-   instructor.lesmills.com
+-   assets.lesmills.com
+-   cdn.lesmills.com
+-   lesmills.plus
+-   shop.lesmills.com
+-   blog.lesmills.com
+-   lesmills.secure.force.com
+-   lesmillsvirtualapp.freshdesk.com
+
+Sworkit
+
+-   sworkit.com
+-   www.sworkit.com
+-   app.sworkit.com
+-   api2.sworkit.com
+-   cdn.sworkit.com
+-   assets.sworkit.com
+-   help.sworkit.com
+-   blog.sworkit.com
+-   business.sworkit.com
+-   kids.sworkit.com
+-   initiatives.sworkit.com
+
+Daily Burn
+
+-   dailyburn.com
+-   www.dailyburn.com
+-   api.dailyburn.com
+-   cdn.dailyburn.com
+-   assets.dailyburn.com
+-   blog.dailyburn.com
+-   help.dailyburn.com
+-   public.dailyburn.com
+
+8fit
+
+-   8fit.com
+-   www.8fit.com
+
+Runna
+
+-   runna.com
+-   www.runna.com
+-   api.runna.com
+-   app.runna.com
+-   cdn.runna.com
+-   support.runna.com
+-   blog.runna.com
+-   assets.runna.com
+
+running.COACH
+
+-   runningcoach.me
+-   www.runningcoach.me
+
+Couch to 5K (C25K) 
+
+-   c25k.com
+-   www.c25k.com
+-   zenlabsfitness.com
+-   www.zenlabsfitness.com
+-   forums.zenlabsfitness.com
+-   nonetorun.com
+-   www.nonetorun.com
+-   nhs.uk/better-health/get-active/get-running-with-couch-to-5k
+-   watchto5k.com
+-   www.watchto5k.com
+-   active.com/mobile/c25k
+-   activenetwork.my.salesforce-sites.com
+-   coolrunning.com
+-   getrunning.app
+-   www.getrunning.app
+-   kickapp.com
+
+GoNoodle
+
+-   gonoodle.com
+-   www.gonoodle.com
+-   app.gonoodle.com
+-   api.gonoodle.com
+-   educator.gonoodle.com
+-   family.gonoodle.com
+-   support.gonoodle.com
+-   assets-gnp-ssl.gonoodle.com
+
+
+Withings
+
+-   withings.com
+-   www.withings.com
+-   api.withings.com
+-   oauth.withings.com
+-   account.withings.com
+-   developer.withings.com
+-   wbsapi.withings.net
+-   healthmate.withings.com
+-   support.withings.com
+-   shop.withings.com
+-   store.withings.com
+-   blog.withings.com
+-   news.withings.com
+-   pro.withings.com
+-   pro2.withings.com
+-   withings.net
+
+Omron Connect
+
+-   omronconnect.com
+-   www.omronconnect.com
+-   api.omronconnect.com
+-   telehealth.omron.com
+-   www.telehealth.omron.com
+-   digitalhealth.omronconnect.com
+-   www.digitalhealth.omronconnect.com
+-   omron-healthcare.com
+-   www.omron-healthcare.com
+-   omronconnect.eu
+-   www.omronconnect.eu
+-   connect.omron.com
+
+Beyond the Whiteboard (BTWB)
+
+-   beyondthewhiteboard.com
+-   www.beyondthewhiteboard.com
+-   btwb.com
+-   www.btwb.com
+-   crossfitbtwb.com
+-   btwb.blog
+
+SugarWOD
+
+-   sugarwod.com
+-   www.sugarwod.com
+-   app.sugarwod.com
+-   api.sugarwod.com
+
+StrongLifts 5x5
+
+-   stronglifts.com
+-   www.stronglifts.com
+-   support.stronglifts.com
+
+JuggernautAI
+
+-   juggernautai.app
+-   www.juggernautai.app
+-   jtsstrength.com
+-   www.jtsstrength.com
+-   juggernautbjj.app
+-   www.juggernautbjj.app
+
+Alive (by Whitney Simmons)
+
+-   aliveapp.co
+-   www.aliveapp.co
+-   shop.aliveapp.co
+
+Evlo Fitness
+
+-   evlofitness.com
+-   www.evlofitness.com
+
+Gravl
+
+-   gravl.ai
+-   www.gravl.ai
+-   help.gravl.ai
+
+Setgraph
+
+-   setgraph.app
+-   www.setgraph.app
+
+BurnFit
+
+-   burnfit.app
+-   www.burnfit.app
+-   burnfit.io
+-   www.burnfit.io
+
+GymGod
+
+-   gymgod.app
+-   www.gymgod.app
+
+StrengthLog
+
+-   strengthlog.com
+-   www.strengthlog.com
+-   help.strengthlog.com
+
+WorkoutGen
+
+-   workoutgen.app
+-   www.workoutgen.app
+
+AIWorkoutGenerator
+
+-   aiworkoutgenerator.com
+-   www.aiworkoutgenerator.com
+
+November Project
+
+-   november-project.com
+-   www.november-project.com
+-   tracking.november-project.com
+
+Future (Future Fit)
+
+-   future.co
+-   www.future.co
+
+Push Workout & Gym Tracker
+
+-   pushapp.co.uk
+-   www.pushapp.co.uk
+-   pushtrainingapp.com
+-   www.pushtrainingapp.com
+
+Conquer Athletics
+
+-   conquerathletics.com
+-   www.conquerathletics.com
+
+WorkOutDoors
+
+-   workoutdoors.net
+-   www.workoutdoors.net
+
+Abvio (Cyclemeter / Runmeter / Walkmeter)
+
+-   cyclemeter.com
+-   www.cyclemeter.com
+-   runmeter.com
+-   www.runmeter.com
+-   walkmeter.com
+-   www.walkmeter.com
+-   abvio.com
+-   www.abvio.com
+
+DIE RINGE
+
+-   dieringe.com
+-   www.dieringe.com
+-   shop.dieringe.com
+
+Challenges App
+
+-   challenges.app
+-   www.challenges.app
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+☁️ Cloud
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+-   cloud.ouraring.com
+-   cloud.wahoofitness.com
+-   cloud.garmin.com
+-   sync.polar.com
+-   sync.runtastic.com
+-   sync.strava.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
