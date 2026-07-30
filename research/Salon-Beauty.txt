@@ -1,0 +1,683 @@
+SALON & BEAUTY BOOKING APPS RESEARCH LIST
+
+📅 MAJOR BOOKING PLATFORMS
+
+=== STYLESEAT ===
+
+  styleseat.com
+
+  www.styleseat.com
+
+  api.styleseat.com
+
+  book.styleseat.com
+
+  booking.styleseat.com
+
+  analytics.styleseat.com
+
+  metrics.styleseat.com
+
+  tracking.styleseat.com
+
+  events.styleseat.com
+
+  payments.styleseat.com
+
+  pay.styleseat.com
+
+  notifications.styleseat.com
+
+  push.styleseat.com
+
+  alerts.styleseat.com
+
+  cdn.styleseat.com
+
+  images.styleseat.com
+
+  static.styleseat.com
+
+  assets.styleseat.com
+
+  app.styleseat.com
+
+  m.styleseat.com
+
+  support.styleseat.com
+
+  ★ NEW status.styleseat.com
+
+  ★ NEW help.styleseat.com
+
+=== VAGARO ===
+Acquired Schedulicity in 2025
+
+  vagaro.com
+
+  www.vagaro.com
+
+  api.vagaro.com
+
+  booking.vagaro.com
+
+  book.vagaro.com
+
+  analytics.vagaro.com
+
+  metrics.vagaro.com
+
+  tracking.vagaro.com
+
+  marketing.vagaro.com
+
+  email.vagaro.com
+
+  sms.vagaro.com
+
+  campaigns.vagaro.com
+
+  payments.vagaro.com
+
+  pay.vagaro.com
+
+  checkout.vagaro.com
+
+  cdn.vagaro.com
+
+  images.vagaro.com
+
+  static.vagaro.com
+
+  app.vagaro.com
+
+  mobile.vagaro.com
+
+  widget.vagaro.com
+
+  docs.vagaro.com
+
+  developers.vagaro.com
+
+  mysite.vagaro.com
+
+  domains.vagaro.com
+
+  sales.vagaro.com
+
+   support.vagaro.com
+
+=== BOOKSY ⚠️⚠️⚠️⚠️⚠️ ===
+
+  booksy.com
+
+  www.booksy.com
+
+  api.booksy.com
+
+  book.booksy.com
+
+  booking.booksy.com
+
+  analytics.booksy.com
+
+  metrics.booksy.com
+
+  tracking.booksy.com
+
+  payments.booksy.com
+
+  pay.booksy.com
+
+  notifications.booksy.com
+
+  push.booksy.com
+
+  cdn.booksy.com
+
+  images.booksy.com
+
+  static.booksy.com
+
+  us.booksy.com
+
+  uk.booksy.com
+
+  pl.booksy.com
+
+  app.booksy.com
+
+  biz.booksy.com
+
+  dl.booksy.com
+
+  alpha.docs.booksy.net
+
+  ★ NEW status.booksy.com
+
+  ★ NEW support.booksy.com
+
+  ★ NEW help.booksy.com
+
+=== FRESHA (formerly SHEDUL) ===
+
+  fresha.com
+
+  www.fresha.com
+
+  shedul.com
+
+  api.fresha.com
+
+  book.fresha.com
+
+  booking.fresha.com
+
+  analytics.fresha.com
+
+  metrics.fresha.com
+
+  tracking.fresha.com
+
+  payments.fresha.com
+
+  pay.fresha.com
+
+  cdn.fresha.com
+
+  images.fresha.com
+
+  static.fresha.com
+
+  app.fresha.com
+
+  partners.fresha.com
+
+  connect.fresha.com
+
+  app.shedul.com
+
+  developer.fresha.com
+
+  ★ NEW support.fresha.com
+
+  ★ NEW freshastatus.com
+
+=== MINDBODY ===
+Now Playlist parent brand (June 2025). Merged with EGYM (March 2026).
+
+  mindbodyonline.com
+
+  www.mindbodyonline.com
+
+  mindbody.io
+
+  api.mindbodyonline.com
+
+  booking.mindbodyonline.com
+
+  reserve.mindbodyonline.com
+
+  analytics.mindbodyonline.com
+
+  metrics.mindbodyonline.com
+
+  tracking.mindbodyonline.com
+
+  marketing.mindbodyonline.com
+
+  engage.mindbodyonline.com
+
+  email.mindbodyonline.com
+
+  payments.mindbodyonline.com
+
+  pay.mindbodyonline.com
+
+  app.mindbodyonline.com
+
+  clients.mindbodyonline.com
+
+  developers.mindbodyonline.com
+
+  webhooks.mindbodyonline.com
+
+  connect.mindbodyonline.com
+
+  signin.mindbodyonline.com
+
+  integrations.mindbodyonline.com
+
+  ★ NEW auth.mindbodyonline.com
+
+  ★ NEW account.mindbodyonline.com
+
+  ★ NEW support.mindbodyonline.com
+
+  ★ NEW status.mindbodyonline.com
+
+  ★ NEW partnerstore.mindbodyonline.com
+
+  ★ NEW co.mindbodyonline.com
+
+  ★ NEW company.mindbodyonline.com
+
+  ★ NEW mindbody.build
+
+=== ZENOTI ===
+
+  zenoti.com
+
+  www.zenoti.com
+
+  ★ NEW api.zenoti.com
+
+  booking.zenoti.com
+
+  analytics.zenoti.com
+
+  telemetry.zenoti.com
+
+  metrics.zenoti.com
+
+  app.zenoti.com
+
+  portal.zenoti.com
+
+  docs.zenoti.com
+
+  apiemea01.zenoti.com
+
+  apiemea02.zenoti.com
+
+  help.zenoti.com
+
+  console.zenoti.com
+
+  webstore.zenoti.com
+
+  ★ NEW api.zenoti.eu
+
+  ★ NEW api.zenoti.com.au
+
+  ★ NEW devapi.zenotibeta.com
+
+  ★ NEW zenoti.my.site.com
+
+=== ZEEL (Mobile Massage)===
+Acquired Soothe in January 2024
+
+  zeel.com
+
+  www.zeel.com
+
+  api.zeel.com
+
+  booking.zeel.com
+
+  analytics.zeel.com
+
+  app.zeel.com
+
+  help.zeel.com
+
+  consumer-help.zeel.com
+
+  health.zeel.com
+
+  ★ NEW provider-help.zeel.com
+
+=== SOOTHE (Mobile Massage) ===
+Acquired by Zeel in January 2024
+
+  soothe.com
+
+  www.soothe.com
+
+  api.soothe.com
+
+  booking.soothe.com
+
+  analytics.soothe.com
+
+  app.soothe.com
+
+=== PHOREST ===
+
+  phorest.com
+
+  www.phorest.com
+
+  api.phorest.com
+
+  booking.phorest.com
+
+  developer.phorest.com
+
+  api-gateway-dev.phorest.com
+
+  platform.phorest.com
+
+  platform-us.phorest.com
+
+  support.phorest.com
+
+  hilfe.phorest.com
+
+  ★ NEW api-gateway-eu.phorest.com
+
+=== ROSY===
+Small platform
+
+  rosyapp.com
+
+  www.rosyapp.com
+
+  api.rosyapp.com
+
+  rosysalonsoftware.com
+
+=== BOULEVARD===
+
+  joinboulevard.com
+
+  www.joinboulevard.com
+
+  api.joinboulevard.com
+
+  developers.joinblvd.com
+
+  support.boulevard.io
+
+  console.boulevard.io
+
+  book.joinblvd.com
+
+  get.joinblvd.com
+
+  ★ NEW blvd.app
+
+  ★ NEW www.joinblvd.com
+
+  ★ NEW joinblvd.com
+
+=== GLOSSGENIUS ===
+
+  glossgenius.com
+
+  www.glossgenius.com
+
+  api.glossgenius.com
+
+  booking.glossgenius.com
+
+  help.glossgenius.com
+
+  glossgenius.elevio.help
+
+  app.glossgenius.com
+
+  ★ NEW status.glossgenius.com
+
+=== MEEVO (Millennium Systems)===
+
+  meevo.com
+
+  www.meevo.com
+
+  api.meevo.com
+
+  millenniumsi.com
+
+  www.millenniumsi.com
+
+  meevopay.com
+
+  docs.meevoapi.com
+
+  ★ NEW speak.millenniumsi.com
+
+=== SALON ULTIMATE ===
+Powered by BookedBy
+
+  salonultimate.com
+
+  www.salonultimate.com
+
+  updater.salonultimate.com
+
+  uppercut.salonultimate.com
+
+  distribution.salonultimate.com
+
+  ★ NEW central.salonultimate.com
+
+  ★ NEW checkin.salonultimate.com
+
+  ★ NEW booking.salonultimate.com
+
+=== SHORTCUTS SOFTWARE ===
+
+  shortcuts.com
+
+  www.shortcuts.com
+
+  au.shortcuts.com
+
+  shortcuts.com.au
+
+  www.shortcuts.com.au
+
+  shortcutssoftware.com
+
+  shortcutssoftware.io
+
+  www.shortcutssoftware.io
+
+  console.shortcutssoftware.com
+
+  mylocalsalon.com
+
+  mylocalsalon.com.au
+
+  shortcuts.net
+
+  signup.shortcutssoftware.com
+
+  ★ NEW pos.shortcutssoftware.com
+
+  ★ NEW help.shortcutssoftware.com
+
+  ★ NEW api.shortcutssoftware.io
+
+=== TIMELY ===
+
+  gettimely.com
+
+  www.gettimely.com
+
+  api.gettimely.com
+
+  api.timelyapp.com
+
+  app.timelyapp.com
+
+  dev.timelyapp.com
+
+  go.gettimely.com
+
+  help.gettimely.com
+
+  support.timely.com
+
+  hub.timely.com
+
+  ★ NEW status.gettimely.com
+
+  ★ NEW developer.timely.com
+
+=== MANGOMINT ===
+#1 Rated on G2 & Capterra 2025
+
+  mangomint.com
+
+  www.mangomint.com
+
+  booking.mangomint.com
+
+=== WELLNESSLIVING ===
+7,500+ locations worldwide
+
+  wellnessliving.com
+
+  www.wellnessliving.com
+
+  help.wellnessliving.com
+
+  community.wellnessliving.com
+
+  apidoc.wellnessliving.io
+
+  uat-api.wellnessliving.io
+
+  access.api.wellnessliving.io
+
+  ★ NEW status.wellnessliving.com
+
+=== GOLDIE (HEYGOLDIE)===
+Independent professionals & small salons
+
+  heygoldie.com
+
+  www.heygoldie.com
+
+  app.heygoldie.com
+
+  ★ NEW support.heygoldie.com
+
+=== BOOKER (MINDBODY / PLAYLIST) ===
+Merged into Playlist parent brand June 2025. Playlist + EGYM merger
+closed March 2026.
+
+  booker.com
+
+  www.booker.com
+
+  ★ NEW playlist.com
+
+  ★ NEW www.playlist.com
+
+=== SALON IRIS / DAYSMART SALON ===
+No public API available
+
+  saloniris.com
+
+  www.saloniris.com
+
+  reviews.saloniris.com
+
+  cloudsupport.saloniris.com
+
+  wp.saloniris.com
+
+  support.saloniris.com
+
+  daysmart.com
+
+  www.daysmart.com
+
+  daysmartsalon.com
+
+  www.daysmartsalon.com
+
+  cloud.daysmartsalon.com
+
+  online.daysmartsalon.com
+
+  desktophelp.daysmartsalon.com
+
+  help.daysmartsalon.com
+
+  account.daysmartsalon.com
+
+  downloads.daysmart.com
+
+  ★ NEW account.daysmart.com
+
+  ★ NEW help.appointment-plus.com
+
+  ★ NEW help.daysmartrecreation.com
+
+ NEW PLATFORMS ADDED
+
+=== TREATWELL ===
+Europe's largest beauty marketplace (150,000+ salons, 13 countries).
+Acquired Salonized in October 2024.
+
+  treatwell.com
+
+  www.treatwell.com
+
+  treatwell.co.uk
+
+  www.treatwell.co.uk
+
+  treatwell.nl
+
+  treatwell.fr
+
+  treatwell.de
+
+  treatwell.be
+
+  treatwell.es
+
+  treatwell.it
+
+  treatwell.ie
+
+  treatwell.pt
+
+  treatwell.gr
+
+  treatwell.lt
+
+  support.treatwell.com
+
+  partners.treatwell.com
+
+  partnercare.treatwell.com
+
+  propartnercare.treatwell.com
+
+  app.treatwell.com
+
+=== PLANITY ===
+#1 in France, 40,000+ salons, 10M+ monthly bookings
+
+  planity.com
+
+  www.planity.com
+
+  info.planity.com
+
+  app.planity.com
+
+=== SALONIZED ===
+Netherlands/Belgium leader (15,000+ salons). Acquired by Treatwell
+October 2024.
+
+  salonized.com
+
+  www.salonized.com
+
+  app.salonized.com
+
+  help.salonized.com
+
+=== SCHEDULICITY ===
+Acquired by Vagaro in 2025 — now redirects to vagaro.com
+
+  schedulicity.com
+
+  www.schedulicity.com
