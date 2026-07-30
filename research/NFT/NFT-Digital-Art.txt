@@ -1,0 +1,1021 @@
+NFT & DIGITAL ART PLATFORMS RESEARCH LIST
+
+🏛️ MAJOR NFT MARKETPLACES
+
+=== OPENSEA (LARGEST - Market Leader) ⚠️⚠️⚠️ ===
+
+Core Platform:
+
+-   opensea.io
+
+-   opensea.com
+
+-   www.opensea.io
+
+API & Backend:
+
+-   api.opensea.io
+
+-   sepolia-api.opensea.io
+
+-   stream.openseabeta.com
+
+-   testnets-api.opensea.io
+
+-   api.opensea.com
+
+-   testnets.opensea.io
+
+Analytics & Tracking
+
+-   analytics.opensea.io
+
+-   telemetry.opensea.io
+
+-   segment.opensea.io
+
+-   stats.opensea.io
+
+IPFS Gateway:
+
+-   openseauserdata.com
+
+-   opensea-static.com
+
+-   ipfs.opensea.io
+
+CDN & Assets:
+
+-   storage.opensea.io
+
+-   opensea-creatures.s3.amazonaws.com
+
+Email & Marketing (SCANDAL: 2022 leak!):
+
+-   sendgrid.opensea.io
+
+-   customer.opensea.io
+
+Support & Docs:
+
+-   support.opensea.io
+
+-   docs.opensea.io
+
+-   help.opensea.io
+
+-   status.opensea.io
+
+OpenSea Pro (formerly Gem.xyz):
+
+-   pro.opensea.io
+
+-   gem.xyz
+
+-   www.gem.xyz
+
+-   api.gem.xyz
+
+-   v2.api.gem.xyz
+
+-   sweep.gem.xyz
+
+Beta/Stream:
+
+-   openseabeta.com
+
+OS2 / Foundation / Token:
+
+-   openseafdn.org
+
+-   claim.opensea.io
+
+Rally Wallet 
+
+-   rally.io
+
+=== BLUR (Trader-Focused - Zero-Fee) ⚠️⚠️⚠️ ===
+
+Core Platform:
+
+-   blur.io
+
+-   blur.foundation
+
+-   www.blur.io
+
+API:
+
+-   api.blur.io
+
+-   marketplace-api.blur.io
+
+-   v1.api.blur.io
+
+Analytics 
+
+-   analytics.blur.io
+
+-   rewards.blur.io
+
+-   airdrop.blur.io
+
+-   stats.blur.io
+
+-   portfolio.blur.io
+
+Wallet Integration:
+
+-   connect.blur.io
+
+-   auth.blur.io
+
+Governance & Token:
+
+-   gov.blur.io
+
+-   token.blur.io
+
+-   season.blur.io
+
+Foundation Docs:
+
+-   docs.blur.foundation
+
+Blend Protocol (NFT Loans):
+
+-   blend.blur.io
+
+-   api.blend.blur.io
+
+=== MAGIC EDEN (Solana + Multi-chain) ⚠️⚠️ ===
+
+Core Platform:
+
+-   magiceden.io
+
+-   magiceden.us
+
+-   www.magiceden.io
+
+API:
+
+-   api-mainnet.magiceden.io
+
+-   api-mainnet.magiceden.dev
+
+-   api-devnet.magiceden.dev
+
+-   api.magiceden.io
+
+-   api.magiceden.dev
+
+Analytics:
+
+-   stats.magiceden.io
+
+-   analytics.magiceden.io
+
+Launchpad & Minting:
+
+-   launchpad.magiceden.io
+
+-   mint.magiceden.io
+
+Wallet Integration:
+
+-   auth.magiceden.io
+
+-   connect.magiceden.io
+
+-   wallet.magiceden.io
+
+CDN:
+
+-   cdn.magiceden.io
+
+-   media.magiceden.io
+
+Support:
+
+-   help.magiceden.us
+
+-   help.magiceden.io
+
+Developer & Docs:
+
+-   developer.magiceden.io
+
+-   docs.magiceden.io
+
+Community & Token:
+
+-   community.magiceden.io
+
+-   token.magiceden.io
+
+Bitcoin / Runes:
+
+-   runes.magiceden.io
+
+-   runes.magiceden.us
+
+=== RARIBLE (Multi-chain - DAO) ⚠️⚠️ ===
+
+Core Platform:
+
+-   rarible.com
+
+-   rarible.org
+
+-   www.rarible.com
+
+-   app.rarible.com
+
+API (Multi-chain):
+
+-   api.rarible.com
+
+-   api.rarible.org
+
+-   ethereum-api.rarible.org
+
+-   polygon-api.rarible.org
+
+-   flow-api.rarible.org
+
+-   tezos-api.rarible.org
+
+-   immutablex-api.rarible.org
+
+Analytics:
+
+-   analytics.rarible.com
+
+-   stats.rarible.com
+
+IPFS & Minting:
+
+-   ipfs.rarible.com
+
+-   create.rarible.com
+
+RARI Foundation & Chain:
+
+-   rari.foundation
+
+New Marketplace:
+
+-   rariblefun.xyz
+
+Support & Docs:
+
+-   help.rarible.com
+
+-   docs.rarible.org
+
+=== LOOKSRARE ⚠️⚠️ ===
+
+Core Platform:
+
+-   looksrare.org
+
+-   www.looksrare.org
+
+API:
+
+-   api.looksrare.org
+
+Analytics (WASH TRADING SCANDAL!):
+
+-   analytics.looksrare.org
+
+-   rewards.looksrare.org
+
+-   stats.looksrare.org
+
+Staking & Dashboard:
+
+-   dashboard.looksrare.org
+
+-   stake.looksrare.org
+
+Docs:
+
+-   docs.looksrare.org
+
+=== X2Y2 ⚠️⚠️ CLOSED (30 Nisan 2025) ===
+
+⚠️ CLOSED
+
+-   x2y2.io
+
+-   x2y2.com
+
+-   www.x2y2.io
+
+-   api.x2y2.io
+
+-   api.x2y2.org
+
+-   stats.x2y2.io
+
+-   analytics.x2y2.io
+
+-   rewards.x2y2.io
+
+-   staking.x2y2.io
+
+=== FOUNDATION (Curated - Invite-Only) ⚠️⚠️ ===
+
+Core Platform:
+
+-   foundation.app
+
+-   foundation.xyz
+
+-   www.foundation.app
+
+API:
+
+-   api.foundation.app
+
+-   graphql.foundation.app
+
+IPFS / Metadata:
+
+-   ipfs.foundation.app
+
+-   metadata.foundation.app
+
+Analytics & Invites:
+
+-   analytics.foundation.app
+
+-   invites.foundation.app
+
+Creator Tools & Support:
+
+-   studio.foundation.app
+
+-   help.foundation.app
+
+=== SUPERRARE (High-End Curated) ⚠️⚠️⚠️ ===
+
+Core Platform:
+
+-   superrare.com
+
+-   superrare.co
+
+-   www.superrare.com
+
+API:
+
+-   api.superrare.com
+
+-   graphql.superrare.com
+
+IPFS Gateway:
+
+-   ipfs.superrare.com
+
+Analytics:
+
+-   analytics.superrare.com
+
+-   stats.superrare.com
+
+KYC (SCANDAL: 2023 mandatory!):
+
+-   kyc.superrare.com
+
+-   jumio.superrare.com
+
+-   verification.superrare.com
+
+Magazine / Support:
+
+-   editorial.superrare.com
+
+-   help.superrare.com
+
+-   developer.superrare.com
+
+-   docs.superrare.com
+
+-   status.superrare.com
+
+=== TENSOR (Solana #1 NFT Marketplace) ⚠️⚠️⚠️ ===
+
+Core Platform:
+
+-   tensor.trade
+
+-   www.tensor.trade
+
+API / Analytics:
+
+-   api.tensor.trade
+
+-   stats.tensor.trade
+
+-   analytics.tensor.trade
+
+Creator & Launchpad:
+
+-   creator.tensor.trade
+
+-   launchpad.tensor.trade
+
+Docs & Token:
+
+-   docs.tensor.trade
+
+-   dev.tensor.trade
+
+-   tnsr.tensor.trade
+
+Vector (Social Trading App):
+
+-   vector.fun
+
+-   www.vector.fun
+
+=== ZORA (Creator-Focused Decentralized) ⚠️⚠️⚠️ ===
+
+Core Platform:
+
+-   zora.co
+
+-   zora.xyz
+
+-   www.zora.co
+
+-   ourzora.com
+
+-   testnet.zora.co
+
+Creator Hub:
+
+-   create.zora.co
+
+API:
+
+-   api.zora.co
+
+-   api.zora.co/graphql
+
+Docs / Community / Token:
+
+-   docs.zora.co
+
+-   zora.community
+
+-   support.zora.co
+
+-   claim.zora.co
+
+-   coins.zora.co
+
+Zora Network (L2):
+
+-   explorer.zora.energy
+
+-   bridge.zora.energy
+
+-   rpc.zora.energy
+
+-   testnet.rpc.zora.co
+
+-   sepolia.rpc.zora.energy
+
+-   testnet.explorer.zora.co
+
+=== MINTABLE (Beginner-Friendly, Gasless) ⚠️⚠️ ===
+
+Core Platform:
+
+-   mintable.app
+
+-   mintable.com
+
+-   www.mintable.app
+
+-   alpha.mintable.app
+
+API / Docs:
+
+-   api.mintable.app
+
+-   docs.mintable.app
+
+Mintology (Enterprise):
+
+-   mintology.app
+
+-   api.mintology.app
+
+-   docs.mintology.app
+
+=== NBA TOP SHOT (Sports NFTs) ⚠️⚠️⚠️ ===
+
+Core Platform:
+
+-   nbatopshot.com
+
+-   www.nbatopshot.com
+
+-   marketplace.nbatopshot.com
+
+-   app.nbatopshot.com
+
+API / Assets:
+
+-   api.nbatopshot.com
+
+-   assets.nbatopshot.com
+
+Support & Blog:
+
+-   support.nbatopshot.com
+
+-   blog.nbatopshot.com
+
+Flow Blockchain (Dapper Labs):
+
+-   flow.com
+
+-   developers.flow.com
+
+-   play.onflow.org
+
+-   explorer.onflow.org
+
+Dapper Wallet:
+
+-   meetdapper.com
+
+-   www.meetdapper.com
+
+-   accounts.meetdapper.com
+
+Dapper Labs:
+
+-   dapperlabs.com
+
+=== ELEMENT (Multi-chain Aggregator) ⚠️⚠️ ===
+
+Core Platform:
+
+-   element.market
+
+-   www.element.market
+
+API / Docs:
+
+-   api.element.market
+
+-   docs.element.market
+
+-   element.readme.io
+
+=== NIFTY GATEWAY ⚠️ CLOSED 2026 ===
+
+⚠️ Closed
+
+-   niftygateway.com
+
+-   www.niftygateway.com
+
+-   api.niftygateway.com
+
+-   docs.niftygateway.com
+
+-   blog.niftygateway.com
+
+=== SOLANART (Solana Marketplace) ⚠️⚠️ ===
+
+-   solanart.io
+
+-   www.solanart.io
+
+-   solanart-scan1.p.rapidapi.com
+
+=== THETADROP (Entertainment/Media NFT) ⚠️⚠️ ===
+
+Core Platform:
+
+-   thetadrop.com
+
+-   www.thetadrop.com
+
+-   support.thetadrop.com
+
+Theta Network (Blockchain):
+
+-   thetatoken.org
+
+-   docs.thetatoken.org
+
+-   explorer.thetatoken.org
+
+-   explorer-api.thetatoken.org
+
+-   eth-rpc-api.thetatoken.org
+
+-   eth-rpc-api-testnet.thetatoken.org
+
+-   testnet-explorer.thetatoken.org
+
+-   wallet.thetatoken.org
+
+-   thetaedgecloud.com
+
+-   support.thetanetwork.org
+
+🎮 GAMING & METAVERSE NFT PLATFORMS
+
+=== IMMUTABLE X (Gaming Layer 2) ⚠️⚠️ ===
+
+Core Platform:
+
+-   immutable.com
+
+-   market.immutable.com
+
+-   marketplace.immutable.com
+
+API (core):
+
+-   api.x.immutable.com
+
+-   api.sandbox.x.immutable.com
+
+-   api.immutable.com
+
+-   api.sandbox.immutable.com
+
+Products (Passport, Checkout, Hub, Play):
+
+-   passport.immutable.com
+
+-   checkout.immutable.com
+
+-   hub.immutable.com
+
+-   play.immutable.com
+
+Link / Analytics:
+
+-   link.x.immutable.com
+
+-   link.immutable.com
+
+-   analytics.immutable.com
+
+-   telemetry.immutable.com
+
+Support & Docs:
+
+-   support.immutable.com
+
+-   docs.immutable.com
+
+-   status.immutable.com
+
+Explorer & Bridge:
+
+-   immutascan.io
+
+-   explorer.immutable.com
+
+-   bridge.immutable.com
+
+=== AXIE INFINITY MARKETPLACE ⚠️⚠️⚠️ ===
+
+⚠️ SCANDAL: 2022 Ronin Bridge hack - $625M stolen!
+
+Core Platform:
+
+-   marketplace.axieinfinity.com
+
+-   app.axieinfinity.com
+
+-   axieinfinity.com
+
+API / Assets:
+
+-   api.axieinfinity.com
+
+-   graphql-gateway.axieinfinity.com
+
+-   assets.axieinfinity.com
+
+-   storage.axieinfinity.com
+
+Sky Mavis (Parent Company):
+
+-   skymavis.com
+
+-   hub.skymavis.com
+
+-   support.axieinfinity.com
+
+-   welcome.skymavis.com
+
+-   welcome.axie.tech
+
+Ronin Chain:
+
+-   roninchain.com
+
+-   explorer.roninchain.com
+
+-   rpc.roninchain.com
+
+-   wallet.roninchain.com
+
+-   katana.axieinfinity.com
+
+🔗 NFT AGGREGATORS & ANALYTICS (Cross-Platform Tracking)
+
+=== NFTSCAN ⚠️⚠️⚠️ ===
+
+Core Platform:
+
+-   nftscan.com
+
+-   www.nftscan.com
+
+API
+
+-   api.nftscan.com
+
+-   restapi.nftscan.com
+
+-   apiv2.nftscan.com
+
+Analytics / Developer:
+
+-   analytics.nftscan.com
+
+-   developer.nftscan.com
+
+-   docs.nftscan.com
+
+Products:
+
+-   portfolio.nftscan.com
+
+-   site.nftscan.com
+
+Multi-chain Explorers:
+
+-   eth.nftscan.com
+
+-   bsc.nftscan.com
+
+-   bnb.nftscan.com
+
+-   polygon.nftscan.com
+
+-   arbitrum.nftscan.com
+
+-   optimism.nftscan.com
+
+-   avalanche.nftscan.com
+
+-   solana.nftscan.com
+
+-   base.nftscan.com
+
+-   mint.nftscan.com
+
+-   viction.nftscan.com
+
+-   ton.nftscan.com
+
+=== NFTGO ⚠️⚠️⚠️ ===
+
+Core Platform:
+
+-   nftgo.io
+
+-   www.nftgo.io
+
+API:
+
+-   api.nftgo.io
+
+-   api-v2.nftgo.io
+
+-   data-api.nftgo.io
+
+Analytics (WHALE TRACKING):
+
+-   analytics.nftgo.io
+
+-   whale-tracker.nftgo.io
+
+Portfolio / Developer:
+
+-   portfolio.nftgo.io
+
+-   developer.nftgo.io
+
+-   docs.nftgo.io
+
+🎨 CURATED & HIGH-END ART PLATFORMS
+
+=== OBJKT (Tezos Blockchain) ⚠️⚠️⚠️ ===
+
+Core Platform:
+
+-   objkt.com
+
+-   www.objkt.com
+
+API / Data:
+
+-   data.objkt.com
+
+-   data.objkt.com/v3/graphql
+
+-   docs.objkt.com
+
+-   blog.objkt.com
+
+Testnet:
+
+-   ghostnet.objkt.com
+
+-   data.ghostnet.objkt.com
+
+Curated Drops:
+
+-   objkt.one
+
+=== FXHASH (Generative Art - Tezos) ⚠️⚠️⚠️ ===
+
+Core Platform:
+
+-   fxhash.xyz
+
+-   www.fxhash.xyz
+
+API / IPFS / Media:
+
+-   api.fxhash.xyz
+
+-   api.fxhash.xyz/graphql
+
+-   gateway.fxhash.xyz
+
+-   gateway.fxhash2.xyz
+
+-   media.fxhash.xyz
+
+Docs / RPC / Sandbox:
+
+-   docs.fxhash.xyz
+
+-   rpc1.fxhash.xyz
+
+-   sandbox.fxhash.xyz
+
+=== ART BLOCKS (Generative Art - Ethereum) ⚠️⚠️⚠️ ===
+
+Core Platform:
+
+-   artblocks.io
+
+-   www.artblocks.io
+
+API:
+
+-   api.artblocks.io
+
+-   data.artblocks.io
+
+-   data.artblocks.io/v1/graphql
+
+Media / Token / Live:
+
+-   media.artblocks.io
+
+-   token.artblocks.io
+
+-   live.artblocks.io
+
+Docs & Engine:
+
+-   docs.artblocks.io
+
+-   artist-staging.artblocks.io
+
+-   engine.artblocks.io
+
+=== VERSE WORKS (Contemporary Art NFT) ⚠️⚠️ ===
+
+-   verse.works
+
+-   www.verse.works
+
+=== OUTLAND (Art Editorial + Marketplace) ⚠️CLOSED 2024 ===
+
+-   outland.art
+
+-   www.outland.art
+
+=== SNARK.ART / OG.ART (Digital Art) ⚠️⚠️ ===
+
+-   snark.art
+
+-   www.snark.art
+
+-   editorial.snark.art
+
+-   og.art
+
+-   www.og.art
+
+=== NFT SHOWROOM (Hive Blockchain) ⚠️⚠️ ===
+
+-   nftshowroom.com
+
+-   www.nftshowroom.com
+
+-   discord.nftshowroom.com
+
+=== ALPHA.ART (Solana) ⚠️⚠️ ===
+
+-   alpha.art
+
+-   www.alpha.art
+
+=== SOLSEA (Solana Open NFT Marketplace) 
+
+-   solsea.io
+
+-   www.solsea.io
+
+-   test.solsea.io
+
+=== HIGHLIGHT.XYZ (Generative & Digital Art) ⚠️⚠️⚠️ ===
+
+-   highlight.xyz
+
+-   www.highlight.xyz
+
+-   studio.highlight.xyz
+
+-   support.highlight.xyz
+
+=== RASTER (Digital Art Aggregator) ⚠️⚠️⚠️ ===
+
+-   raster.art
+
+-   www.raster.art
+
+🎨 COLLECTIBLES & LICENSED NFT PLATFORMS
+
+=== VEVE (Mobile-First Licensed Collectibles) ⚠️⚠️⚠️ ===
+
+Core Platform:
+
+-   veve.me
+
+-   www.veve.me
+
+-   app.veve.me
+
+Wallet / Support:
+
+-   omi.veve.me
+
+-   help.veve.me
+
+-   forms.veve.me
+
+ECOMI (Parent Company):
+
+-   ecomi.com
+
+StackR (OMI Wallet & Marketplace):
+
+-   stackr.io
+
+🪙 BITCOIN & ALTERNATIVE CHAIN PLATFORMS
+
+=== GAMMA.IO (Bitcoin Ordinals & Stacks NFTs) ⚠️⚠️⚠️ ===
+
+-   gamma.io
+
+-   www.gamma.io
+
+-   stacks.gamma.io
+
+-   support.gamma.io
+
+-   blog.gamma.io
