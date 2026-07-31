@@ -1,0 +1,739 @@
+================================================================================
+SMS & RCS RESEARCH LIST
+================================================================================
+
+================================================================================
+
+----------------------------------------------------------------------
+📱 GO SMS PRO  [BANNED — PRIVACY LEAK!]
+----------------------------------------------------------------------
+  >> Risk Level: [CRITICAL] ⚠️⚠️⚠️
+  >> 2020: MASSIVE PRIVACY LEAK! ALL messages/photos were stored unencrypted on public servers!
+  >> Anyone could access them via URL manipulation! BANNED!
+
+  [Core Domains]
+         • gosmspro.com
+         • *.gosmspro.com
+         • gosms.com
+         • *.gosms.com
+         • gomo-apps.com
+         • *.gomo-apps.com
+         • sungymobile.com
+         • gomo.com
+         • *.gomo.com
+         • www.gomo.com
+         • goforandroid.com
+         • *.goforandroid.com
+         • www.goforandroid.com
+
+  [API & Services]
+         • api.gosmspro.com
+         • media.gosmspro.com
+         • cdn.gosmspro.com
+         • backup.gosmspro.com
+         • service.goforandroid.com
+         • push.goforandroid.com
+         • conf.api.hk.goforandroid.com
+         • www.conf.api.hk.goforandroid.com
+
+  [CDN & Media]
+         • faces3cdn.goforandroid.com
+         • goappdl.goforandroid.com
+
+  [Analytics & Tracking (Original)]
+         • zcamera.lzt.goforandroid.com
+         • lzt.goforandroid.com
+         • integralwall.goforandroid.com
+         • www.integralwall.goforandroid.com
+         • integralmarket.goforandroid.com
+         • www.integralmarket.goforandroid.com
+         • google-analytics.com
+         • xss.tw
+         • goconfigsync.3g.cn
+
+  [Umeng Analytics SDK (Alibaba/China)]
+         • umeng.com
+         • *.umeng.com
+         • uop.umeng.com
+         • alog.umeng.com
+         • alogs.umeng.com
+         • alog.umengcloud.com
+         • alogs.umengcloud.com
+         • ar.umeng.com
+         • oc.umeng.com
+         • ulogs.umeng.com
+         • alogus.umeng.com
+         • stats.umsns.com
+         • umengcloud.com
+         • cnzz.com
+         • *.cnzz.com
+
+  [Alibaba CDN Infrastructure]
+         • *.alibabadns.com
+         • *.tbcache.com
+         • *.danuoyi.tbcache.com
+         • aliyuncs.com
+         • *.aliyuncs.com
+
+  [UC Browser Tracking]
+         • gjapplog.uc.cn
+         • uc.cn
+
+  [Web Portals]
+         • gosms.goforandroid.com
+         • www.gosms.goforandroid.com
+
+  [DNS]
+         • vip3.alidns.com
+         • vip4.alidns.com
+
+----------------------------------------------------------------------
+📱 HANDCENT NEXT SMS  [Chinese Developer]
+----------------------------------------------------------------------
+  >> Risk Level: [CRITICAL] ⚠️⚠️⚠️
+  >> Chinese developer. Cloud backup = messages sent to China. Excessive permissions. Ad injection. ChatGPT integration.
+
+  [Core Domains]
+         • handcent.com
+         • *.handcent.com
+         • www.handcent.com
+         • handcentsoft.com
+         • *.handcentsoft.com
+
+  [Handcent Anywhere (Web/Desktop Sync)]
+         • aw.handcent.com
+         • wss://aw.handcent.com
+
+  [Cloud Account Management]
+         • my.handcent.com
+         • my.handcent.com:9080
+         • cloud.handcent.com
+         • storage.handcent.com
+         • push.handcent.com
+
+  [MMS+ / API]
+         • mservices.handcent.com
+         • api.handcent.com
+         • m.handcent.com
+
+  [Firebase/Analytics]
+         • firebasecrashlytics.com
+         • firebase-settings.crashlytics.com
+         • app-measurements.com
+         • firebaselogging-pa.googleapis.com
+
+  [Giphy Sticker/GIF]
+         • api.giphy.com
+         • media.giphy.com
+         • media0.giphy.com
+         • media1.giphy.com
+         • media2.giphy.com
+         • media3.giphy.com
+         • media4.giphy.com
+         • i.giphy.com
+
+  [Imoji Sticker Platform]
+         • imoji.io
+         • imoji.com
+         • api.imoji.io
+         • cdn.imoji.io
+
+  [ChatGPT Integration]
+         • api.openai.com
+
+----------------------------------------------------------------------
+🕵️ CARRIER IQ  [Historical Rootkit — SHUT DOWN 2015]
+----------------------------------------------------------------------
+  >> Risk Level: [CRITICAL — Historical] ⚠️⚠️⚠️
+  >> 2011 SCANDAL! Rootkit pre-installed on millions of phones! Every keystroke, SMS, and location was logged.
+  >> Acquired by AT&T (2015), shut down.
+
+  [Core Domains]
+         • carrieriq.com
+         • *.carrieriq.com
+         • www.carrieriq.com
+         • api.carrieriq.com
+
+  [Discovered Endpoints (2011 analysis)]
+         • collector.sky.carrieriq.com
+         • ota.carrieriq.com
+
+================================================================================
+================================================================================
+
+----------------------------------------------------------------------
+💬 PULSE SMS  [SHUT DOWN 2023]
+----------------------------------------------------------------------
+  >> Risk Level: [HIGH — Service Dead] ⚠️⚠️
+  >> 2023: Service SHUT DOWN! Cloud sync = ALL messages were stored on developer servers! Migrate immediately!
+
+  [Core Domains]
+         • pulsesms.app
+         • *.pulsesms.app
+         • messenger.klinkerapps.com
+         • *.messenger.klinkerapps.com
+         • home.pulsesms.app
+         • support.pulsesms.app
+         • xyz.klinker.messenger
+         • maplemedia.io
+
+  [API & WebSocket]
+         • api.messenger.klinkerapps.com
+         • wss://api.messenger.klinkerapps.com
+         • api.messenger.klinkerapps.com/api/v1/stream
+         • api.messenger.klinkerapps.com/api/v1/messages
+         • api.messenger.klinkerapps.com/api/v1/contacts
+         • blog.klinkerapps.com
+
+  [Firebase]
+         • firebase.pulsesms.app
+
+----------------------------------------------------------------------
+💬 TEXTRA SMS  [Ad-Supported]
+----------------------------------------------------------------------
+  >> Risk Level: [MEDIUM-HIGH] ⚠️⚠️
+
+  [Core Domains]
+         • textra.me
+         • *.textra.me
+         • textra.com
+         • *.textra.com
+         • inapp.textra.me
+         • mms.textra.me
+
+  [API & Analytics]
+         • api.textra.me
+         • analytics.textra.me
+         • help@textra.me
+         • textra.uservoice.com
+
+  [GDPR TCF 2.2 Consent (Sourcepoint SDK)]
+         • cdn.sourcepoint.com
+         • api.sourcepoint.com
+         • consent.sourcepoint.com
+         • cdn.privacy-mgmt.com
+         • *.privacy-mgmt.com
+         • wrapper-sp-prod.appspot.com
+
+  [JoyPixels Emoji CDN]
+         • joypixels.com
+         • cdn.joypixels.com
+
+  [Pushbullet Integration]
+         • api.pushbullet.com
+         • stream.pushbullet.com
+
+  [MightyText Integration]
+         • mightytext.net
+         • *.mightytext.net
+
+----------------------------------------------------------------------
+📱 CHOMP SMS
+----------------------------------------------------------------------
+  >> Risk Level: [MEDIUM] ⚠️
+
+  [Core Domains]
+         • chompsms.com
+         • *.chompsms.com
+         • deliciousapps.com
+         • *.deliciousapps.com
+         • deliciousglobal.com.au
+         • *.deliciousglobal.com.au
+
+  [API & Support]
+         • api.chompsms.com
+         • help@chompsms.com
+         • chompsms.uservoice.com
+         • chomp.uservoice.com
+         • support@deliciousglobal.com.au
+
+----------------------------------------------------------------------
+💬 MOOD MESSENGER  [Acquired by Calldorado 2022]
+----------------------------------------------------------------------
+  >> Risk Level: [MEDIUM] ⚠️
+  >> Acquisition: Mad Seven (French) → Appvestor ApS (2021) → Calldorado ApS (2022)
+
+  [Core Domains]
+         • mood-messenger.app
+         • *.mood-messenger.app
+         • moodmessenger.com
+         • *.moodmessenger.com
+         • moodsms.com
+         • *.moodsms.com
+
+  [Parent Companies]
+         • appvestor.com
+         • *.appvestor.com
+         • my.appvestor.com
+         • legal.appvestor.com
+         • calldorado.com
+         • *.calldorado.com
+         • my.calldorado.com
+
+  [Calldorado SDK Endpoints]
+         • sdk.calldorado.com
+         • stats.calldorado.com
+
+  [Calldorado SDK — Ad Mediation (Exodus Privacy)]
+         • smaato.net
+         • *.smaato.net
+         • ad.smaato.net
+         • inmobi.com
+         • *.inmobi.com
+         • sdk.inmobi.com
+         • data.flurry.com
+         • *.flurry.com
+         • analytics.yahoo.com
+         • pdn.applovin.com
+         • rt.applovin.com
+         • *.applovin.com
+         • graph.facebook.com
+         • an.facebook.com
+         • ads.mopub.com
+
+----------------------------------------------------------------------
+📱 EVOLVE SMS  [SHUT DOWN]
+----------------------------------------------------------------------
+  >> Risk Level: [MEDIUM — Dead] ⚠️
+         • evolvesms.com
+         • *.evolvesms.com
+  >> Used Dropbox API (backup sync).
+
+----------------------------------------------------------------------
+📱 YAATA SMS  [SHUT DOWN — Removed from Play Store November 2024]
+----------------------------------------------------------------------
+  >> Risk Level: [MEDIUM — Dead] ⚠️
+  >> Package: rpkandrodev.yaata | Developer: Rafał Kaczmarczyk (Poland) | Last updated: August 2021
+         • xdaforums.com
+         • github.com/Kajozord/yaata-sms-privacy-policy
+
+----------------------------------------------------------------------
+📱 SMART MESSAGES  [SMS/MMS/RCS]
+----------------------------------------------------------------------
+  >> Risk Level: [MEDIUM] ⚠️ | Package: com.messages.chat | Developer: Counterfeit Combat Technology
+
+  [Analytics/Tracking]
+         • google-analytics.com
+         • firebase.googleapis.com
+
+  [Firebase Services]
+         • firebaseapp.com
+         • firebaseinstallations.googleapis.com
+         • fcmregistrations.googleapis.com
+
+----------------------------------------------------------------------
+📱 CODEB SMS
+----------------------------------------------------------------------
+  >> Risk Level: [MEDIUM] ⚠️ | Developer: Aloaha Software (Malta)
+  >> TOTP integration = access to SMS codes. SMS2eMail = messages forwarded to email.
+
+  [Core Domains]
+         • codeb.io
+         • *.codeb.io
+         • www.codeb.io
+         • blog.codeb.io
+         • forms.codeb.io
+         • ssi.codeb.io
+         • coin.codeb.io
+         • coin.codeb.io/sms.asmx
+         • aloaha.com
+         • www.aloaha.com
+
+  [Azure AD B2C / OIDC]
+         • login.microsoftonline.com
+         • *.b2clogin.com
+         • graph.microsoft.com
+         • nextcloud.com
+
+  [CodeB Credential Provider]
+         • win-logon.com
+         • *.win-logon.com
+
+----------------------------------------------------------------------
+📱 MESSAGE CLASSIC / MESSAGING CLASSIC
+----------------------------------------------------------------------
+  >> Risk Level: [MEDIUM] ⚠️ | Package: com.thinkyeah.message
+  >> Developer: DC Mobile Studio / HongKong Daocheng Network Technology Co.
+
+  [Backend]
+         • dmessageweb.herokuapp.com
+         • herokuapp.com
+         • *.herokuapp.com
+
+----------------------------------------------------------------------
+📱 MESSENGER SMS & MMS  [Scam Risk]
+----------------------------------------------------------------------
+  >> Risk Level: [HIGH — Scam Risk] ⚠️⚠️ | Package: sms.messages.text.free
+  >> Developer: dovanhoang.inc@gmail.com | Potential scam app. No verifiable domain.
+
+----------------------------------------------------------------------
+📱 SWITCH SMS MESSENGER / NEW MESSENGER 2021
+----------------------------------------------------------------------
+  >> Risk Level: [MEDIUM] ⚠️ | Package: com.flash.sms.app | Developer: Digital Upground
+
+  [Privacy Policy (Original)]
+         • digitalupground.wordpress.com/2018/04/10/sms-privacy-policy
+
+  [Developer Domains]
+         • icypixel.com
+         • *.icypixel.com
+         • digitalupground.icypixel.com
+
+================================================================================
+📲 TIER 1: CARRIER-BRANDED SMS APPS (Pre-Installed Tracking)
+================================================================================
+
+----------------------------------------------------------------------
+📲 VERIZON MESSAGE+  [SHUT DOWN December 9, 2024]
+----------------------------------------------------------------------
+  >> Risk Level: [HIGH — Service Dead] ⚠️⚠️
+  >> Announcement: June 2024 | Final: December 9, 2024 | Web Message Portal SHUT DOWN: December 11, 2023
+
+  [Core Domains]
+         • vzmessages.com
+         • *.vzmessages.com
+         • message-us.com
+         • *.message-us.com
+         • api.vzmessages.com
+
+  [ThingSpace API & IoT]
+         • thingspace.verizon.com
+         • *.thingspace.verizon.com
+         • thingspace.verizon.com/api/ts/v1/oauth2/token
+         • thingspace.verizon.com/api/m2m/v1/sms/
+         • staging.thingspace.verizon.com
+         • m2mdeveloper.verizon.com
+         • *.m2mdeveloper.verizon.com
+
+  [Email-to-SMS Gateway (SHUT DOWN)]
+         • vtext.com
+         • vzpix.com
+         • vzwpix.com
+
+  [Business SMS Partners]
+         • imimobile.com
+         • infobip.com
+         • kaleyra.com
+         • sinch.com
+         • syniverse.com
+         • twilio.com
+         • vibes.com
+
+----------------------------------------------------------------------
+📲 AT&T MESSAGES
+----------------------------------------------------------------------
+  >> Risk Level: [HIGH] ⚠️⚠️ | Email-to-SMS Gateway SHUT DOWN: June 17, 2025
+
+  [Core Domains]
+         • attmessages.com
+         • *.attmessages.com
+
+  [API & Developer]
+         • api.att.com
+         • *.api.att.com
+         • developer.att.com
+         • *.developer.att.com
+         • apimarket.att.com
+         • *.apimarket.att.com
+         • community-apimarket.att.com
+
+  [Authentication]
+         • auth-api.att.com
+         • auth-api.att.com/permissions
+
+  [Email-to-SMS Gateway (SHUT DOWN)]
+         • txt.att.net
+         • mms.att.net
+
+  [AT&T Legacy/Acquired Domains]
+         • ameritech.net
+         • bellsouth.net
+         • sbcglobal.net
+         • pacbell.net
+         • swbell.net
+         • prodigy.net
+         • flash.net
+         • currently.com
+         • worldnet.att.net
+
+  [FirstNet (Emergency Services)]
+         • developer.firstnet.com
+         • *.developer.firstnet.com
+
+----------------------------------------------------------------------
+📲 T-MOBILE MESSAGE / DIGITS
+----------------------------------------------------------------------
+  >> Risk Level: [HIGH] ⚠️⚠️ | Email-to-SMS Gateway SHUT DOWN: December 2024 (DNS removed)
+
+  [Email-to-SMS Gateway (SHUT DOWN)]
+         • tmomail.net
+         • *.tmomail.net
+
+  [T-Mobile DIGITS]
+         • digits.t-mobile.com
+         • *.digits.t-mobile.com
+         • mydigits.t-mobile.com
+         • api.t-mobile.com
+         • messaging.t-mobile.com
+
+  [Auth / SSO]
+         • id.t-mobile.com
+         • account.t-mobile.com
+
+  [MMS / APN]
+         • mms.msg.eng.t-mobile.com
+         • fast.t-mobile.com
+         • proxy.t-mobile.com
+         • wap.voicestream.com
+
+  [Legacy Sprint (SHUT DOWN)]
+         • messaging.sprintpcs.com
+
+----------------------------------------------------------------------
+📱 SAMSUNG MESSAGES  [RCS]
+----------------------------------------------------------------------
+  >> Risk Level: [MEDIUM-HIGH] ⚠️⚠️
+  >> One UI 7 / Android 15: RCS ONLY on the Galaxy S25 series | Older models: NO RCS support
+
+  [Samsung Cloud RCS]
+         • rcsconfig.samsungcloud.com
+         • *.rcsconfig.samsungcloud.com
+         • rcsnmsprovider.samsungcloud.com
+         • *.rcsnmsprovider.samsungcloud.com
+         • rcs-web.samsungcloud.com
+         • *.rcs-web.samsungcloud.com
+
+  [Developer Portal]
+         • rcs.developer.samsung.com
+         • developer.samsung.com
+
+  [Google Jibe / Carrier Services]
+         • rcs.telephony.goog
+         • messages.google.com
+         • us-att.rcs.telephony.goog
+         • verizon.rcs.telephony.goog
+         • us-tmobile.rcs.telephony.goog
+         • fp-us-att.rcs.telephony.goog
+         • fp-us-tmobile.rcs.telephony.goog
+         • fp-us-verizon.rcs.telephony.goog
+         • rcs-acs-tmo-us.jibe.google.com
+         • rcs-acs-att-us.jibe.google.com
+         • acs-vzw-us.jibe.google.com
+         • jibe.google.com
+         • docs.jibemobile.com
+         • rcsbusinessmessaging.googleapis.com
+         • businesscommunications.googleapis.com
+         • mtalk.google.com
+         • jibecloud.net
+         • *.jibecloud.net
+         • pfi.jibecloud.net
+         • rcs-pfi-production-acs.pfi.jibecloud.net
+  >> GitHub source: github.com/SagarPateI/RCS-Servers-Whitelist
+
+================================================================================
+📱 TIER 2: CARRIER SMS / SEMI-TRUSTED
+================================================================================
+
+----------------------------------------------------------------------
+📱 SMS ORGANIZER  [Microsoft Garage]
+----------------------------------------------------------------------
+  >> Risk Level: [VERY LOW - Google Drive OFF] ✅  |  [MEDIUM - Google Drive ON] ⚠️
+  >> On-device ML = NO access to Microsoft servers! Optional Google Drive backup.
+
+  [Core Domains]
+         • microsoft.com
+         • *.microsoft.com
+         • googleapis.com
+         • *.googleapis.com
+         • drive.google.com
+         • speech.googleapis.com
+         • privacy.microsoft.com
+
+  [Microsoft Telemetry]
+         • dc.services.visualstudio.com
+         • *.applicationinsights.azure.com
+         • browser.events.data.microsoft.com
+         • settings-win.data.microsoft.com
+
+================================================================================
+✅ TIER 3: PRIVACY-FOCUSED ALTERNATIVES (RECOMMENDED!)
+================================================================================
+
+----------------------------------------------------------------------
+📱 QKSMS / QUIK  [Open Source!]
+----------------------------------------------------------------------
+  >> Risk Level: [VERY LOW] ✅✅ | No ads! Open source! Material Design!
+
+  [GitHub]
+         • github.com/moezbhatti/qksms
+         • github.com/octoshrimpy/quik
+
+  [Translation / Distribution]
+         • crowdin.com
+         • crowdin.com/project/qksms
+         • weblate.org
+         • qklabs.com
+         • f-droid.org/packages/dev.octoshrimpy.quik.fdroid/
+         • cloudflare.f-droid.org
+
+  [Payment (Play Store Stripe)]
+         • stripe.com
+         • *.stripe.com
+         • js.stripe.com
+         • api.stripe.com
+
+  [Intercom In-app Support]
+         • app.intercom.io
+         • api.intercom.io
+         • js.intercom.io
+         • widget.intercom.io
+         • nexus-websocket-a.intercom.io
+         • nexus-websocket-b.intercom.io
+
+  [Crashlytics]
+         • firebasecrashlytics.com
+         • firebase-settings.crashlytics.com
+         • settings.crashlytics.com
+
+  [Build Dependency]
+         • jitpack.io
+
+----------------------------------------------------------------------
+📱 SIMPLE SMS MESSENGER  [Open Source!]
+----------------------------------------------------------------------
+  >> Risk Level: [VERY LOW] ✅✅✅ | NO internet permission! No tracking! Fully private!
+
+  [Core Domains]
+         • simplemobiletools.com
+         • *.simplemobiletools.com
+         • www.simplemobiletools.com
+
+  [GitHub & F-Droid]
+         • github.com/SimpleMobileTools/Simple-SMS-Messenger
+         • f-droid.org/packages/com.simplemobiletools.smsmessenger/
+         • cloudflare.f-droid.org
+
+  [Community]
+         • reddit.com/r/SimpleMobileTools
+         • t.me/SimpleMobileTools
+
+----------------------------------------------------------------------
+📱 SILENCE  [Encrypted SMS — Development Discontinued]
+----------------------------------------------------------------------
+  >> Risk Level: [VERY LOW — Legacy] ✅ | NO runtime domains — works entirely offline!
+
+  [Website]
+         • silence.im
+         • *.silence.im
+         • www.silence.im
+
+  [GitLab (Primary)]
+         • git.silence.dev
+         • *.git.silence.dev
+         • gitlab.com
+         • packages.gitlab.com
+
+  [Community & F-Droid]
+         • chat.silence.dev
+         • *.chat.silence.dev
+         • f-droid.org/packages/org.smssecure.smssecure/
+         • ramack.gitlab.io
+         • staging02.gitlab.io
+
+----------------------------------------------------------------------
+📱 FOSSIFY MESSAGES  [Open Source!]
+----------------------------------------------------------------------
+  >> Risk Level: [VERY LOW] ✅✅✅ | NO internet permission! No ads! Simple Mobile Tools fork!
+
+  [Core Domains]
+         • fossify.org
+         • *.fossify.org
+         • www.fossify.org
+
+  [GitHub & F-Droid]
+         • github.com/FossifyOrg
+         • github.com/FossifyOrg/Messages
+         • f-droid.org/packages/org.fossify.messages
+         • *.f-droid.org
+         • apt.izzysoft.de/fdroid
+         • *.apt.izzysoft.de
+
+  [Build Dependencies (not runtime)]
+         • weblate.org
+         • jitpack.io
+         • central.sonatype.com
+
+  [Community]
+         • reddit.com/r/Fossify
+         • t.me/Fossify
+
+----------------------------------------------------------------------
+📱 PARTISAN SMS  [E2EE SMS — Development Discontinued May 2023]
+----------------------------------------------------------------------
+  >> Risk Level: [VERY LOW] ✅ | QKSMS fork. NO runtime domains. For Belarusian/Ukrainian activists.
+
+  [Core Domains]
+         • by.cpartisans.org
+         • *.by.cpartisans.org
+         • cpartisans.org
+
+  [GitHub]
+         • github.com/cyberpartisan/Partisan-SMS
+         • github.com/wrwrabbit/Partisan-SMS
+
+  [Community]
+         • t.me/cpartisans_by
+         • t.me/cpartisans_security
+         • t.me/partisan_telegram_bot
+         • t.me/partisan_qa_bot
+         • twitter.com/cpartisans
+         • x.com/cpartisans
+         • crowdin.com
+
+----------------------------------------------------------------------
+📱 DEKU SMS  [E2EE SMS]
+----------------------------------------------------------------------
+  >> Risk Level: [VERY LOW] ✅✅ | Signal Double Ratchet E2EE! Open source! Self-hosted cloud forwarding!
+
+  [Core Domains]
+         • smswithoutborders.com
+         • *.smswithoutborders.com
+         • docs.smswithoutborders.com
+         • gatewayserver.smswithoutborders.com
+
+  [Gateway Endpoints]
+         • gatewayserver.smswithoutborders.com/sms/platform/android
+         • gatewayserver.smswithoutborders.com/sms/platform/ios
+         • gatewayserver.smswithoutborders.com/v3/publish
+
+  [Additional Domains]
+         • blog.smswithoutborders.com
+         • developers.smswithoutborders.com
+
+  [GitHub & Social]
+         • github.com/deku-messaging/Deku-SMS-Android
+         • github.com/smswithoutborders
+         • x.com/RelaySMS
+         • bsky.app/profile/relaysms.bsky.social
+
+----------------------------------------------------------------------
+📱 RIGHT MESSAGES  [Goodwy — Open Source!]
+----------------------------------------------------------------------
+  >> Risk Level: [VERY LOW] ✅✅ | Simple Mobile Tools fork! iOS 16 style! NO internet permission!
+
+  [Core Domains]
+         • goodwy.dev
+         • *.goodwy.dev
+         • www.goodwy.dev
+         • sites.google.com/view/goodwy
+
+  [GitHub]
+         • github.com/Goodwy
+         • github.com/Goodwy/Messages
+
+  [Build Dependencies]
+         • jitpack.io
+         • play.googleapis.com
+         • tibbi.github.io
+
+================================================================================
