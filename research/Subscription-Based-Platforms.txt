@@ -1,0 +1,482 @@
+# SUBSCRIPTION-BASED CONTENT PLATFORMS - BLOCKLIST
+# ============================================
+# TIER 1: SFW SUBSCRIPTION PLATFORMS
+# ============================================
+
+# PATREON
+# ---------
+0.0.0.0 patreon.com
+0.0.0.0 patreon.net
+0.0.0.0 patreonusercontent.com
+0.0.0.0 www.patreon.com
+0.0.0.0 c10.patreonusercontent.com
+0.0.0.0 c8.patreon.com
+0.0.0.0 api.patreon.com
+0.0.0.0 patreon.zendesk.com
+0.0.0.0 patreon-domains.com
+0.0.0.0 custom.patreon-domains.com
+0.0.0.0 support.patreon.com
+0.0.0.0 status.patreon.com
+0.0.0.0 img.patreon.com
+0.0.0.0 platform.patreon.com
+0.0.0.0 events.patreon.com
+0.0.0.0 creator.patreon.com
+0.0.0.0 cdn.patreon.com
+0.0.0.0 stream.patreon.com
+0.0.0.0 creatorcamp.patreon.com
+0.0.0.0 shop.patreon.com
+0.0.0.0 blog.patreon.com
+0.0.0.0 live.patreon.com
+0.0.0.0 mail.patreon.com
+
+# SUBSTACK
+# ----------
+0.0.0.0 substack.com
+0.0.0.0 substack.net
+0.0.0.0 substackcdn.com
+0.0.0.0 api.substack.com
+0.0.0.0 substackapi.com
+0.0.0.0 cdn.substack.com
+0.0.0.0 substack-post-media.s3.amazonaws.com
+0.0.0.0 supascribe.com
+0.0.0.0 substackinc.com
+0.0.0.0 status.substack.com
+0.0.0.0 reader.substack.com
+0.0.0.0 notes.substack.com
+0.0.0.0 chat.substack.com
+0.0.0.0 open.substack.com
+0.0.0.0 app.substack.com
+0.0.0.0 podcast.substack.com
+0.0.0.0 on.substack.com
+
+# GHOST
+# -------
+0.0.0.0 ghost.org
+0.0.0.0 ghost.io
+0.0.0.0 cdn.ghost.org
+0.0.0.0 docs.ghost.org
+0.0.0.0 demo.ghost.io
+0.0.0.0 status.ghost.org
+0.0.0.0 forum.ghost.org
+0.0.0.0 count.ghost.org
+0.0.0.0 themes.ghost.org
+0.0.0.0 c.ghost.org
+0.0.0.0 api.ghost.io
+
+# SUBSCRIBESTAR
+# ---------------
+0.0.0.0 subscribestar.com
+0.0.0.0 subscribestar.adult
+0.0.0.0 cdn.subscribestar.com
+0.0.0.0 stats.subscribestar.adult
+0.0.0.0 ss-uploads-prod.b-cdn.net
+0.0.0.0 api.subscribestar.com
+0.0.0.0 www.subscribestar.adult
+0.0.0.0 static.subscribestar.com
+
+# LOCALS
+# --------
+0.0.0.0 locals.com
+0.0.0.0 cdn.locals.com
+
+# KO-FI
+# -------
+0.0.0.0 ko-fi.com
+0.0.0.0 www.ko-fi.com
+0.0.0.0 help.ko-fi.com
+0.0.0.0 cdn.ko-fi.com
+0.0.0.0 storage.ko-fi.com
+0.0.0.0 api-mobileapp.ko-fi.com
+0.0.0.0 identity.ko-fi.com
+0.0.0.0 media.ko-fi.com
+0.0.0.0 sa-functions.ko-fi.com
+0.0.0.0 dm-functions.ko-fi.com
+0.0.0.0 r2-audio.ko-fi.com
+0.0.0.0 prod.ko-fi.com
+0.0.0.0 identity.sta.ko-fi.com
+0.0.0.0 identity.staging.ko-fi.com
+0.0.0.0 staging.next.ko-fi.com
+0.0.0.0 sta.ko-fi.com
+0.0.0.0 next.ko-fi.com
+0.0.0.0 report.ko-fi.com
+0.0.0.0 review.ko-fi.com
+0.0.0.0 frontdoor.ko-fi.com
+0.0.0.0 more.ko-fi.com
+
+# BUY ME A COFFEE
+# -----------------
+0.0.0.0 buymeacoffee.com
+0.0.0.0 www.buymeacoffee.com
+0.0.0.0 cdn.buymeacoffee.com
+0.0.0.0 img.buymeacoffee.com
+0.0.0.0 app.buymeacoffee.com
+0.0.0.0 creators.buymeacoffee.com
+0.0.0.0 community.buymeacoffee.com
+0.0.0.0 support.buymeacoffee.com
+0.0.0.0 status.buymeacoffee.com
+0.0.0.0 api.buymeacoffee.com
+0.0.0.0 chat.buymeacoffee.com
+0.0.0.0 xd1.buymeacoffee.com
+0.0.0.0 xd2.buymeacoffee.com
+0.0.0.0 xd3.buymeacoffee.com
+0.0.0.0 rd1.buymeacoffee.com
+0.0.0.0 rd3.buymeacoffee.com
+0.0.0.0 rd4.buymeacoffee.com
+0.0.0.0 relay.buymeacoffee.com
+0.0.0.0 xui.buymeacoffee.com
+0.0.0.0 img.mail.buymeacoffee.com
+0.0.0.0 r.mail.buymeacoffee.com
+0.0.0.0 e1.buymeacoffee.com
+0.0.0.0 cdnjs.buymeacoffee.com
+0.0.0.0 elastic.buymeacoffee.com
+0.0.0.0 search.buymeacoffee.com
+0.0.0.0 ghost.buymeacoffee.com
+0.0.0.0 play.buymeacoffee.com
+0.0.0.0 chat-stage.buymeacoffee.com
+0.0.0.0 v2.buymeacoffee.com
+0.0.0.0 kibana.buymeacoffee.com
+0.0.0.0 dev-v2.buymeacoffee.com
+0.0.0.0 stage1.buymeacoffee.com
+0.0.0.0 stageapi.buymeacoffee.com
+
+# GUMROAD
+# ---------
+0.0.0.0 gumroad.com
+0.0.0.0 www.gumroad.com
+0.0.0.0 app.gumroad.com
+0.0.0.0 help.gumroad.com
+0.0.0.0 blog.gumroad.com
+0.0.0.0 api.gumroad.com
+0.0.0.0 domains.gumroad.com
+0.0.0.0 assets.gumroad.com
+0.0.0.0 public-files.gumroad.com
+0.0.0.0 customers.gumroad.com
+0.0.0.0 static-2.gumroad.com
+0.0.0.0 m.gumroad.com
+0.0.0.0 email.gumroad.com
+0.0.0.0 o1.email.gumroad.com
+0.0.0.0 gum.co
+0.0.0.0 discover.gumroad.com
+0.0.0.0 library.gumroad.com
+0.0.0.0 creators.gumroad.com
+
+# BOOSTY
+# --------
+0.0.0.0 boosty.to
+0.0.0.0 api.boosty.to
+0.0.0.0 static.boosty.to
+0.0.0.0 img.boosty.to
+0.0.0.0 cdn.boosty.to
+
+# FANFIX
+# --------
+0.0.0.0 fanfix.io
+0.0.0.0 www.fanfix.io
+0.0.0.0 app.fanfix.io
+0.0.0.0 auth.fanfix.io
+0.0.0.0 blog.fanfix.io
+
+# MEMBERFUL
+# -----------
+0.0.0.0 memberful.com
+0.0.0.0 app.memberful.com
+0.0.0.0 api.memberful.com
+0.0.0.0 help.memberful.com
+
+# BEEHIIV
+# ---------
+0.0.0.0 beehiiv.com
+0.0.0.0 www.beehiiv.com
+0.0.0.0 api.beehiiv.com
+0.0.0.0 developers.beehiiv.com
+0.0.0.0 cname.beehiiv.com
+0.0.0.0 support.beehiiv.com
+0.0.0.0 product.beehiiv.com
+0.0.0.0 app.beehiiv.com
+0.0.0.0 media.beehiiv.com
+0.0.0.0 email.beehiiv.com
+0.0.0.0 link.beehiiv.com
+0.0.0.0 em.beehiiv.com
+0.0.0.0 track.beehiiv.com
+0.0.0.0 open.beehiiv.com
+0.0.0.0 click.beehiiv.com
+
+# ============================================
+# TIER 2: VIDEO/OTT SUBSCRIPTION PLATFORMS
+# ============================================
+
+# USCREEN
+# ---------
+0.0.0.0 uscreen.tv
+0.0.0.0 uscreen.io
+0.0.0.0 www.uscreen.tv
+0.0.0.0 www.uscreen.io
+0.0.0.0 help.uscreen.tv
+0.0.0.0 api.uscreen.io
+0.0.0.0 em3863.uscreen.work
+
+# VIMEO OTT (VHX)
+# -----------------
+0.0.0.0 vhx.tv
+0.0.0.0 api.vhx.tv
+0.0.0.0 cdn.vhx.tv
+0.0.0.0 embed.vhx.tv
+0.0.0.0 player.vimeo.com
+0.0.0.0 dns.vhx.tv
+0.0.0.0 dns.vimeo.tv
+0.0.0.0 help.vhx.tv
+0.0.0.0 dev.vhx.tv
+0.0.0.0 vimeo.com
+0.0.0.0 api.vimeo.com
+0.0.0.0 vimeo.tv
+0.0.0.0 av.vimeo.com
+0.0.0.0 vimeocdn.com
+0.0.0.0 f.vimeocdn.com
+0.0.0.0 i.vimeocdn.com
+0.0.0.0 fresnel.vimeocdn.com
+0.0.0.0 fresnel-events.vimeocdn.com
+0.0.0.0 extend.vimeocdn.com
+0.0.0.0 cmedia.vimeocdn.com
+0.0.0.0 vod-adaptive-ak.vimeocdn.com
+0.0.0.0 vod-progressive-ak.vimeocdn.com
+0.0.0.0 download-video-ak.vimeocdn.com
+0.0.0.0 cme-media-origin.vimeocdn.com
+0.0.0.0 cme-media.vimeocdn.com
+
+# MUVI
+# ------
+0.0.0.0 muvi.com
+0.0.0.0 www.muvi.com
+0.0.0.0 help.muvi.com
+0.0.0.0 developer.muvi.com
+0.0.0.0 muvi.live
+0.0.0.0 muvistore.com
+0.0.0.0 api.muvi.com
+
+# GUDSHO
+# --------
+0.0.0.0 gudsho.com
+0.0.0.0 www.gudsho.com
+
+# VPLAYED
+# ---------
+0.0.0.0 vplayed.com
+0.0.0.0 www.vplayed.com
+
+# ============================================
+# TIER 3: COURSE/COMMUNITY PLATFORMS
+# ============================================
+
+# MIGHTY NETWORKS
+# -----------------
+0.0.0.0 mightynetworks.com
+0.0.0.0 mn.co
+0.0.0.0 community.mightynetworks.com
+0.0.0.0 mail.mn.co
+0.0.0.0 docs.mightynetworks.com
+0.0.0.0 faq.mightynetworks.com
+0.0.0.0 api.mn.co
+0.0.0.0 cdn.mn.co
+
+# CIRCLE
+# --------
+0.0.0.0 circle.so
+0.0.0.0 api.circle.so
+0.0.0.0 help.circle.so
+0.0.0.0 community.circle.so
+0.0.0.0 app.circle.so
+0.0.0.0 link.circle.so
+0.0.0.0 media.circle.so
+
+# KAJABI
+# --------
+0.0.0.0 kajabi.com
+0.0.0.0 mykajabi.com
+0.0.0.0 ssl.kajabi.com
+0.0.0.0 endpoint.mykajabi.com
+0.0.0.0 help.kajabi.com
+0.0.0.0 kajabi.zendesk.com
+0.0.0.0 kajabi-cdn.com
+0.0.0.0 kajabimail.net
+0.0.0.0 d.kajabimail.net
+0.0.0.0 x.kajabimail.net
+0.0.0.0 email.b.kajabimail.net
+0.0.0.0 app.kajabi.com
+0.0.0.0 player.mykajabi.com
+0.0.0.0 link.kajabi.com
+0.0.0.0 kajabi-services.com
+
+# TEACHABLE
+# -----------
+0.0.0.0 teachable.com
+0.0.0.0 support.teachable.com
+0.0.0.0 cdn.teachable.com
+0.0.0.0 app.teachable.com
+0.0.0.0 api.teachable.com
+0.0.0.0 teachable.zendesk.com
+
+# THINKIFIC
+# -----------
+0.0.0.0 thinkific.com
+0.0.0.0 api.thinkific.com
+0.0.0.0 support.thinkific.com
+0.0.0.0 support.thinkific.dev
+0.0.0.0 cdn.thinkific.com
+0.0.0.0 app.thinkific.com
+0.0.0.0 link.thinkific.com
+
+# SKOOL
+# -------
+0.0.0.0 skool.com
+0.0.0.0 docs.skoolapi.com
+0.0.0.0 api.skool.com
+0.0.0.0 cdn.skool.com
+0.0.0.0 app.skool.com
+
+# PODIA
+# -------
+0.0.0.0 podia.com
+0.0.0.0 sites.podia.com
+0.0.0.0 help.podia.com
+0.0.0.0 api.podia.com
+0.0.0.0 cdn.podia.com
+0.0.0.0 app.podia.com
+
+# EZYCOURSE
+# -----------
+0.0.0.0 ezycourse.com
+0.0.0.0 www.ezycourse.com
+0.0.0.0 help.ezycourse.com
+0.0.0.0 api.ezycourse.com
+0.0.0.0 app.ezycourse.com
+0.0.0.0 cdn.ezycourse.com
+
+# ZANFIA
+# --------
+0.0.0.0 zanfia.com
+0.0.0.0 www.zanfia.com
+
+# ROKFIN
+# --------
+0.0.0.0 rokfin.com
+0.0.0.0 www.rokfin.com
+0.0.0.0 prod-api-v2.production.rokfin.com
+0.0.0.0 rokfin.zendesk.com
+0.0.0.0 cdn.rokfin.com
+0.0.0.0 img.rokfin.com
+0.0.0.0 stream.rokfin.com
+0.0.0.0 assets.rokfin.com
+
+# TAGMANGO
+# ----------
+0.0.0.0 tagmango.com
+0.0.0.0 www.tagmango.com
+0.0.0.0 api-prod-new.tagmango.com
+0.0.0.0 docs.tagmango.com
+0.0.0.0 cdn.tagmango.com
+0.0.0.0 img.tagmango.com
+0.0.0.0 app.tagmango.com
+
+# GROUPAPP
+# ----------
+0.0.0.0 groupapp.io
+0.0.0.0 www.groupapp.io
+
+# PASSION.IO
+# ------------
+0.0.0.0 passion.io
+0.0.0.0 www.passion.io
+0.0.0.0 help.passion.io
+0.0.0.0 app.passion.io
+0.0.0.0 api.passion.io
+
+# ============================================
+# TIER 4: MEMBERSHIP/COMMUNITY PLATFORMS
+# ============================================
+
+# NAS.IO
+# --------
+0.0.0.0 nas.io
+0.0.0.0 www.nas.io
+0.0.0.0 help.nas.io
+0.0.0.0 blog.nas.io
+
+# DISCOURSE
+# -----------
+0.0.0.0 discourse.org
+0.0.0.0 meta.discourse.org
+0.0.0.0 discourse-cdn.com
+0.0.0.0 global.discourse-cdn.com
+0.0.0.0 canada1.discourse-cdn.com
+0.0.0.0 try.discourse.org
+0.0.0.0 blog.discourse.org
+0.0.0.0 api.discourse.org
+0.0.0.0 id.discourse.com
+0.0.0.0 discourse.diy
+0.0.0.0 discoursehosting.net
+
+# HIVEBRITE
+# -----------
+0.0.0.0 hivebrite.com
+0.0.0.0 hivebrite.io
+
+# BETTERMODE (formerly: Tribe.so)
+# ---------------------------------
+0.0.0.0 bettermode.com
+0.0.0.0 bettermode.io
+0.0.0.0 bettermode.de
+0.0.0.0 tribe.so
+0.0.0.0 domains.tribe.so
+0.0.0.0 api.bettermode.com
+
+# SUBBLY
+# --------
+0.0.0.0 subbly.co
+0.0.0.0 www.subbly.co
+0.0.0.0 support.subbly.co
+
+# MEMBERSPACE
+# -------------
+0.0.0.0 memberspace.com
+0.0.0.0 www.memberspace.com
+0.0.0.0 cdn.memberspace.com
+0.0.0.0 developers.memberspace.com
+0.0.0.0 help.memberspace.com
+0.0.0.0 api.memberspace.com
+
+# WILDAPRICOT
+# -------------
+0.0.0.0 wildapricot.com
+0.0.0.0 wildapricot.org
+0.0.0.0 www.wildapricot.com
+0.0.0.0 sites.wildapricot.org
+0.0.0.0 dkim.wildapricot.org
+0.0.0.0 gethelp.wildapricot.com
+0.0.0.0 api.wildapricot.org
+0.0.0.0 app.wildapricot.com
+
+# SUBHUB
+# --------
+0.0.0.0 subhub.com
+0.0.0.0 www.subhub.com
+0.0.0.0 support.subhub.com
+0.0.0.0 api.subhub.com
+0.0.0.0 app.subhub.com
+
+# CRATEJOY
+# ----------
+0.0.0.0 cratejoy.com
+0.0.0.0 lb.cratejoy.com
+0.0.0.0 docs.cratejoy.com
+0.0.0.0 support.cratejoy.com
+0.0.0.0 cratejoy.zendesk.com
+0.0.0.0 cdn.cratejoy.com
+0.0.0.0 api.cratejoy.com
+
+# SOTION
+# --------
+0.0.0.0 sotion.so
+0.0.0.0 www.sotion.so
+0.0.0.0 api.sotion.so
+
+# ============================================
