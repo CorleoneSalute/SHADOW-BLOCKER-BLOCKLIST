@@ -1,0 +1,1295 @@
+# Academic Research Platforms Research List
+
+---
+
+## GROUP A: CORE PUBLISHER PLATFORMS
+
+### ELSEVIER (Largest academic publisher)
+
+**Main domains**
+- elsevier.com
+- sciencedirect.com
+- scopus.com
+- ssrn.com
+- dev.elsevier.com
+- api.elsevier.com
+- elsevier.digitalcommonsdata.com
+- datasearch.elsevier.com
+- helpcenter.pure.elsevier.com
+
+**Product domains (New)**
+- *.scival.com
+- scival.com
+- *.clinicalkey.com
+- cdn.clinicalkey.com
+- *.clinicalkey.es
+- *.reaxys.com
+- *.engineeringvillage.com
+- www.engineeringvillage2.org
+- www.ei.org
+- *.pharmapendium.com
+- epicws.e-pic.systems
+- *.e-pic.elsevier.com
+- api.elsevierpure.com
+- elsevierpure.com
+- acw.elsevier.com
+- referexengineering.elsevier.com
+- *.iet.org
+- *.thiet.org
+- *.knovel.com
+- online.tableau.com
+
+**CDN & Assets**
+- sciencedirectassets.com
+- els-cdn.com
+- cdn.elsevier.io
+- elseviercdn.cn
+- elsevier-ae.com
+
+**Infrastructure / Auth**
+- id.elsevier.com
+- components.scopus.com
+- linkinghub.elsevier.com
+- sciverse-shindig.elsevier.com
+- admintool.elsevier.com
+- help-admintool.elsevier.com
+- tableau-admintool.elsevier.com
+- supportcontent.elsevier.com
+- rss.sciencedirect.com
+- service.elsevier.com
+- elsevier.support
+
+**EMBASE (Elsevier subsidiary)**
+- embase.com
+- www.embase.com
+- nonprod-devportal.elsevier.com
+
+**Tracking / Analytics — BLOCK**
+- content.pendo.scopus.com
+- rum.scopus.com
+- pendo.scopus.com
+- pendo.scival.com
+- *.dpm.demdex.net
+- *.js-agent.newrelic.com
+- *.elsevierlimited.tt.omtrdc.net
+- *.secure.adnxs.com
+- *.brighttalk.net
+- *.relx.com
+- *.adobedtm.com
+- *.pendo.io
+- *.usabilla.com
+- *.mouseflow.com
+- cm.everesttech.net
+- unpkg.com
+- *.usage.elsst.com
+- *.cookielaw.org
+- *.topuniversities.com
+- *.shanghairanking.com
+- *.timeshighereducation.com
+
+---
+
+### SPRINGER NATURE
+
+**Main domains**
+- springer.com
+- nature.com
+- link.springer.com
+- springeropen.com
+- dev.springernature.com
+- docs-dev.springernature.com
+- datasolutions.springernature.com
+- api.springernature.com
+
+**Infrastructure**
+- rd.springer.com
+- download.springer.com
+- sprn.gr
+- springermaterials.com
+- nano.nature.com
+- experiments.springernature.com
+- adisinsight.springer.com
+- support.springernature.com
+- support.springer.com
+- natureasia.com
+- naturemiddleeast.com
+- media.springernature.com
+- static-content.springer.com
+- springerprotocols.com
+
+**BioMed Central (part of Springer Nature)**
+- biomedcentral.com
+- www.biomedcentral.com
+- isrctn.com
+- www.isrctn.com
+
+> Note: `[journalname].biomedcentral.com` — subdomain pattern used by 300+ journals.
+
+---
+
+### WILEY
+
+**Main domains**
+- wiley.com
+- onlinelibrary.wiley.com
+- api.wiley.com
+- api.onlinelibrary.wiley.com
+- wolsupport.wiley.com
+- clinfx.wiley.com
+
+**Journal subdomains of onlinelibrary.wiley.com (New)**
+- aapm.onlinelibrary.wiley.com
+- aasldpubs.onlinelibrary.wiley.com
+- agupubs.onlinelibrary.wiley.com
+- anthrosource.onlinelibrary.wiley.com
+- ascpt.onlinelibrary.wiley.com
+- aslopubs.onlinelibrary.wiley.com
+- besjournals.onlinelibrary.wiley.com
+- bpspubs.onlinelibrary.wiley.com
+- chemistry-europe.onlinelibrary.wiley.com
+- efsa.onlinelibrary.wiley.com
+- esajournals.onlinelibrary.wiley.com
+- faseb.onlinelibrary.wiley.com
+- febs.onlinelibrary.wiley.com
+- ila.onlinelibrary.wiley.com
+- iubmb.onlinelibrary.wiley.com
+- londmathsoc.onlinelibrary.wiley.com
+- nph.onlinelibrary.wiley.com
+- nyaspubs.onlinelibrary.wiley.com
+- obgyn.onlinelibrary.wiley.com
+- physoc.onlinelibrary.wiley.com
+
+**Other Wiley domains (New)**
+- doi.wiley.com
+- interscience.wiley.com
+- mrw.interscience.wiley.com
+- secure.onlinelibrary.wiley.com
+
+---
+
+### TAYLOR & FRANCIS
+
+**Main domains**
+- tandfonline.com
+- taylorandfrancis.com
+- help.tandfonline.com
+- tandf.figshare.com
+- journalsonline.tandf.co.uk
+- afs.tandfonline.com
+- amstat.tandfonline.com
+- tandfprod.literatumonline.com
+- literatumonline.com
+
+**New domains**
+- taylorfrancis.com
+- www.taylorfrancis.com
+- api.taylorandfrancis.com
+- api.taylorfrancis.com
+- events.taylorandfrancis.com
+- accounts.taylorfrancis.com
+- accounts.taylorandfrancis.com
+- secure.taylorfrancis.com
+- secure.taylorandfrancis.com
+- routledge.com
+
+---
+
+### SAGE PUBLICATIONS
+
+**Main domains**
+- sagepub.com
+- journals.sagepub.com
+- peerreview.sagepub.com
+- methods.sagepub.com
+- data.sagepub.com
+
+**New domains**
+- sk.sagepub.com
+- srm.sagepub.com
+- us.sagepub.com
+- uk.sagepub.com
+- campussolutions.sagepub.com
+- journalssolutions.sagepub.com
+- knowledgesolutions.sagepub.com
+- catalystsolutions.sagepub.com
+- solutions.sagepub.com
+
+---
+
+### OXFORD UNIVERSITY PRESS
+
+**Main domains**
+- academic.oup.com
+- oup.com
+- oup.silverchair-cdn.com
+- global.oup.com
+- oxfordinsight.oup.com
+- academic.oupdev.silverchair.com
+
+**New domains**
+- oxfordowl.co.uk
+- support.oxfordowl.co.uk
+- help.oup.com.au
+
+**Auth / Tracking — BLOCK**
+- click.skem1.com
+- watermark.silverchair.com
+- oup-idp.sams-sigma.com
+- oup2-idp.sams-sigma.com
+- oup3-idp.sams-sigma.com
+
+---
+
+### CAMBRIDGE UNIVERSITY PRESS
+
+**Main domains**
+- cambridge.org
+- journals.cambridge.org
+- developer.api.apps.cam.ac.uk
+- dictionary-api.cambridge.org
+- hotmaths.com.au
+- edjin.com
+- gigya.com
+
+**New domains (from EZproxy stanza — July 2025)**
+- africabibliography.cambridge.org
+- dib.cambridge.org
+- ebooks.cambridge.org
+- hsus.cambridge.org
+- orlando.cambridge.org
+- stahlonline.cambridge.org
+- universitypublishingonline.org
+- core-features.cambridge.org
+
+---
+
+### IEEE (Engineering / Technology)
+
+**Main domains**
+- ieee.org
+- ieeexplore.ieee.org
+- developer.ieee.org
+
+> Warning: IEEE has no public API — only a member API is available.
+
+**New domains**
+- computer.org
+- www.computer.org
+- doi.ieeecomputersociety.org
+- spectrum.ieee.org
+- standards.ieee.org
+- login.ieee.org
+- supportcenter.ieee.org
+- shop.ieee.org
+
+---
+
+### ACM (Computing)
+
+**Main domains**
+- acm.org
+- dl.acm.org
+- dlnext.acm.org
+- delivery.acm.org
+- doi.acm.org
+- portal.acm.org
+- libraries.acm.org
+- books.acm.org
+
+**Publications**
+- cacm.acm.org
+- interactions.acm.org
+- networker.acm.org
+- xrds.acm.org
+- surveys.acm.org
+- jea.acm.org
+
+**Journal subdomains**
+- jacm.acm.org
+- jdiq.acm.org
+- jetc.acm.org
+- jocch.acm.org
+- taas.acm.org
+- taco.acm.org
+- talg.acm.org
+- talip.acm.org
+- teac.acm.org
+- technews.acm.org
+- tiis.acm.org
+- tissec.acm.org
+- tist.acm.org
+- tmis.acm.org
+- tochi.acm.org
+- toce.acm.org
+- tocl.acm.org
+- tocs.acm.org
+- toct.acm.org
+- todaes.acm.org
+- tods.acm.org
+- tog.acm.org
+- tois.acm.org
+- toit.acm.org
+- tomacs.acm.org
+- tomm.acm.org
+- toms.acm.org
+- topc.acm.org
+- toplas.acm.org
+- tos.acm.org
+- tosem.acm.org
+- tosn.acm.org
+- tsas.acm.org
+- tslp.acm.org
+- tweb.acm.org
+- acmtecs.acm.org
+
+---
+
+## GROUP C: CORE DATABASES
+
+### GOOGLE SCHOLAR
+- scholar.google.com
+
+> Warning: Google Scholar has no official API.
+
+### PUBMED (NIH — U.S. Government)
+- pubmed.ncbi.nlm.nih.gov
+- ncbi.nlm.nih.gov
+- eutils.ncbi.nlm.nih.gov
+- ftp.ncbi.nlm.nih.gov
+
+> Note: LitSense is available at ncbi.nlm.nih.gov/research/litsense and the litsense2 path.
+
+### EUROPE PMC
+- europepmc.org
+- www.europepmc.org
+
+### JSTOR
+- jstor.org
+- ithaka.org
+- about.jstor.org
+- tdm-pilot.org
+- portico.org
+- musecommons.org
+
+> Warning: constellate.org — SHUT DOWN (July 2025)
+
+**New domains (from EZproxy stanza — April 2025)**
+- dfr.jstor.org
+- labs.jstor.org
+- links.jstor.org
+- mobile.jstor.org
+- plants.jstor.org
+- uk.jstor.org
+- aluka.org
+- www.aluka.org
+- jstore.org
+
+> Warning: CRITICAL — Artstor was integrated into JSTOR in August 2024.
+- artstor.org
+- library.artstor.org
+
+---
+
+## GROUP D: DATABASE AGGREGATORS
+
+### EBSCOHOST
+
+**Main domains**
+- search.ebscohost.com
+- connect.ebsco.com
+- developer.ebsco.com
+- apis.ebsco.com
+- discovery.ebsco.com
+- e.ebsco.com
+
+**Infrastructure**
+- ebscois-staging.apigee.net
+- ebsco.smartimagebase.com
+- eds.a.ebscohost.com
+- eds.b.ebscohost.com
+- ppws.ebsco-content.com
+- healthlibrary.epnet.com
+
+**New domains (from EZproxy stanza — November 2025)**
+- eds.c.ebscohost.com
+- eds.d.ebscohost.com
+- eds.e.ebscohost.com
+- eds.p.ebscohost.com
+- eds.s.ebscohost.com
+- ehis.ebscohost.com
+- eoncontent.ebscohost.com
+- exports.ebscohost.com
+- flipster.ebsco.com
+- logon.ebsco.zone
+- m.ebscohost.com
+- m-eon-search.ebscohost.com
+- novelist.epnet.com
+- openurl.ebsco.com
+- openurl.ebscohost.com
+- publications.ebsco.com
+- research.ebsco.com
+- resolver.ebscohost.com
+- resolver.ebsco.com
+- search.epnet.com
+- support.ebsco.com
+- support.ebscohost.com
+- therapy.ebscohost.com
+- therapy.epnet.com
+- video.ebscohost.com
+- web.a.ebscohost.com
+- web.b.ebscohost.com
+- web.c.ebscohost.com
+- epnet.com
+- global.ebsco-content.com
+- ebsco-content.com
+- ejournals.ebsco.com
+- ejscontent.ebsco.com
+- content.ebsco.com
+
+> Note: CINAHL has no separate domain — accessed through EBSCOhost.
+
+---
+
+### PROQUEST
+
+**Main domains**
+- search.proquest.com
+- apidocs-dialog.proquest.com
+- support.proquest.com
+- go.proquest.com
+- fedsearch.proquest.com
+- contentz.mkt5049.com
+
+**New domains (from EZproxy stanza — February 2025)**
+- africanamericanheritage.proquest.com
+- congressional.proquest.com
+- datasets.proquest.com
+- dialog.proquest.com
+- digitalmicrofilm.proquest.com
+- digitalmicrofilm1.proquest.com
+- digitalsanbornmaps.proquest.com
+- ebookcentral.proquest.com
+- explore.proquest.com
+- fold3library.proquest.com
+- gateway.proquest.com
+- historicmapworks.proquest.com
+- hngraphical.proquest.com
+- hv.proquest.com
+- hv.conquestsystems.com
+- indianclaims.proquest.com
+- li.proquest.com
+- literature.proquest.com
+- media2.proquest.com
+- newspaperslibrary.proquest.com
+- online.culturegrams.com
+- openurl.proquest.com
+- parlipapers.proquest.com
+- pqrc.proquest.com
+- proquest.umi.com
+- sanborn.umi.com
+- prq.st
+- regulatoryinsight.proquest.com
+- statab.conquestsystems.com
+- statabs.proquest.com
+- statistical.proquest.com
+- supremecourt.proquest.com
+- trendspolicy.proquest.com
+- trials.proquest.com
+- wt3.proquest.com
+- www.proquestk12.com
+- proquestk12.com
+- refworks.proquest.com
+- api.refworks.proquest.com
+- medicalevidencematters.com
+- conquestsystems.com
+- conquest-leg-insight.com
+- culturegrams.com
+- umi.com
+
+---
+
+### GALE (Cengage)
+
+**Main domains**
+- go.gale.com
+- link.gale.com
+- support.gale.com
+- gale.com
+- supportgale-ext.prod.eks.cengage.io
+- assets.cengage.com
+- admin.gale.com
+- go.galegroup.com
+- infotrac.galegroup.com
+- galegroup.com
+- blog.gale.com
+
+**Cengage domains**
+- myaccount.cengage.com
+- cengage.com.au
+- info.cengage.com
+
+**New domains (from EZproxy stanza — August 2025)**
+- auth.go.gale.com
+- bi.gale.com
+- chiltonlibrary.com
+- app.chiltonlibrary.com
+- demographicsnow.gale.com
+- dnow.gale.com
+- find.gale.com
+- find.galegroup.com
+- galeapps.gale.com
+- galenet.gale.com
+- galenet.galegroup.com
+- galepages.com
+- gdc.gale.com
+- gdc.galegroup.com
+- infotrac.gale.com
+- link.galegroup.com
+- lst.gale.com
+- lst.galegroup.com
+- misshumblebee.com
+- natgeo.gale.com
+- sa.gale.com
+- tinyurl.gale.com
+- worldscholar.gale.com
+- cengage.com
+
+---
+
+### OVID (Wolters Kluwer)
+
+**Main domains**
+- ovid.com
+- www.ovid.com
+- ovidsp.ovid.com
+- gateway.ovid.com
+
+**Data centers**
+- ovidsp.dc1.ovid.com
+- ovidsp.dc2.ovid.com
+- acs.dc1.ovid.com
+- acs.dc2.ovid.com
+- graphics.dc1.ovid.com
+- graphics.dc2.ovid.com
+- e-bea.dc1.ovid.com
+
+**New domains**
+- e-bea.dc2.ovid.com
+- oce.ovid.com
+- ahaplayer.ondemand.org
+- auth.jbisumari.org
+- jbisumari.org
+- lww.com
+- journals.lww.com
+- lippincott.com
+- medicinescomplete.com
+- tools.ovid.com
+
+**Content services & analytics**
+- content.wkhealth.com
+- app.imagingreferencecenter.com
+- app.anatomyreferencecenter.com
+- app.pathologyreferencecenter.com
+- insights.ovid.com
+- wolterskluwer.com
+- wkhealth.com
+
+**Tracking — BLOCK**
+- wolterskluwerhealth.d2.sc.omtrdc.net
+
+---
+
+### INGENTA CONNECT
+- ingentaconnect.com
+
+**New domains (from EZproxy stanza — July 2020)**
+- openurl.ingenta.com
+- pi2.ingenta.com
+- ingenta.com
+- www.ingenta.com
+- api.ingentaconnect.com
+- publisher.ingentaconnect.com
+- charleston.publisher.ingentaconnect.com
+- brill.publisher.ingentaconnect.com
+- berghahn.publisher.ingentaconnect.com
+- gsegol.publisher.ingentaconnect.com
+- miranda.ingentaselect.com
+- iris.ingentaselect.com
+- ingentaselect.com
+- publishingtechnology.com
+- www.publishingtechnology.com
+
+---
+
+## GROUP E: OTHER MAJOR DATABASES
+
+### WORLDCAT (OCLC)
+- worldcat.org
+- oclc.org
+- developer.api.oclc.org
+
+> Warning: registry.worldcat.org — API SHUT DOWN in November 2025 (deprecated).
+
+**New domains**
+- platform.worldcat.org
+- search.worldcat.org
+- id.oclc.org
+- www.oclc.org
+- help.oclc.org
+- connexion.oclc.org
+- blog.oclc.org
+
+### BASE (Bielefeld Academic Search Engine)
+- base-search.net
+- api.base-search.net
+- www.base-search.net
+
+### PROJECT MUSE (Johns Hopkins)
+- muse.jhu.edu
+- about.muse.jhu.edu
+- pilot.muse.jhu.edu
+- musecommons.org
+
+> Warning: Project MUSE has no public API.
+
+### PSYCINFO (APA)
+- psycnet.apa.org
+- apa.org
+- content.apa.org
+- doi.apa.org
+- my.apa.org
+- psycinfo.apa.org
+- psyctherapy.apa.org
+- psyctherapyalpha.apa.org
+- sso.apa.org
+- proxies.apa.org
+- search.apa.org
+- static.apa.org
+- psycinfo.com
+- www.psycinfo.com
+
+**New domains**
+- admincenter.apa.org
+- mystatic1a.apa.org
+- mystatic1b.apa.org
+- blog.apapubs.org
+
+> Warning: PsycINFO has no public API.
+
+### ECONBIZ
+- econbiz.de
+- www.econbiz.de
+- api.econbiz.de
+- econstor.eu
+- zbw.eu
+
+### DOAJ (Directory of Open Access Journals)
+- doaj.org
+- blog.doaj.org
+- api.doaj.org
+
+> Warning: DOAJ is now managed by the DOAJ Foundation (Denmark), as of September 2024. IS4OA will shut down by mid-2026.
+
+### DIMENSIONS.AI (Digital Science)
+- dimensions.ai
+- app.dimensions.ai
+- docs.dimensions.ai
+- api-lab.dimensions.ai
+- plus.dimensions.ai
+- api.dimensions.ai
+- support.dimensions.ai
+- digital-science.com
+
+**New domains — Digital Science sub-brands**
+- blog.dimensions.ai
+- figshare.com
+- api.figshare.com
+- ndownloader.figshare.com
+- altmetric.com
+- api.altmetric.com
+- www.altmetric.com
+- readcube.com
+- papers.readcube.com
+- app.readcube.com
+- overleaf.com
+- www.overleaf.com
+- api.overleaf.com
+- v2.overleaf.com
+- symplectic.co.uk
+- elements.symplectic.co.uk
+- writefull.com
+- app.writefull.com
+- blog.digital-science.com
+- ificlaims.com
+
+### CORE (The Open University, UK)
+- core.ac.uk
+- api.core.ac.uk
+- blog.core.ac.uk
+- files.core.ac.uk
+- files01.core.ac.uk
+- dashboard.core.ac.uk
+- discovery.core.ac.uk
+- recommender.core.ac.uk
+- open.ac.uk
+
+### SCITE
+- scite.ai
+- api.scite.ai
+- cdn.scite.ai
+- assistant.scite.ai
+- zotero.scite.ai
+- search.scite.ai
+
+### SCIENCEOPEN
+- scienceopen.com
+- about.scienceopen.com
+- bookmetahub.scienceopen.com
+
+> Warning: ScienceOpen has no public API (OAI-PMH only).
+
+### REFSEEK
+- refseek.com
+
+> Warning: RefSeek has no API — a simple search engine only.
+
+### SCILIT (MDPI)
+- scilit.net
+- app.scilit.net
+- mdpi.com
+
+### LENS.ORG (Cambia)
+- lens.org
+- www.lens.org
+- about.lens.org
+- support.lens.org
+- docs.api.lens.org
+- api.lens.org
+- pmr-beta.api.lens.org
+- cambialens.org
+- data.lens.org
+- download.lens.org
+
+### ERIC (U.S. Department of Education)
+- eric.ed.gov
+- www.eric.ed.gov
+- files.eric.ed.gov
+- ies.ed.gov
+- ed.gov
+
+### ZENDY (Knowledge E)
+- zendy.io
+- www.zendy.io
+- app.zendy.io
+- app.sandbox-oa.zendy.io
+- knowledgee.com
+
+### PHILPAPERS (Philosophy)
+- philpapers.org
+- www.philpapers.org
+- philarchive.org
+- philevents.org
+- philjobs.org
+- philpeople.org
+- consc.net
+- ftp.philpapers.org
+- api.philpapers.org
+- pdcnet.org
+- www.pdcnet.org
+
+---
+
+## GROUP F: ACADEMIC SOCIAL NETWORKS
+
+### RESEARCHGATE
+- researchgate.net
+- api.researchgate.net
+- rgstatic.com
+- rgstatic.net
+- c.rgstatic.net
+- c0.rgstatic.net
+- c1.rgstatic.net
+- c2.rgstatic.net
+- c3.rgstatic.net
+- c4.rgstatic.net
+- c5.rgstatic.net
+- i.rgstatic.net
+
+**New CDN nodes**
+- i0.rgstatic.net
+- i1.rgstatic.net
+- i2.rgstatic.net
+- i3.rgstatic.net
+- i4.rgstatic.net
+- sc.rgstatic.net
+- sc0.rgstatic.net
+- sc1.rgstatic.net
+- sc2.rgstatic.net
+- sc3.rgstatic.net
+- sc4.rgstatic.net
+- sc5.rgstatic.net
+- si.rgstatic.net
+- si0.rgstatic.net
+- si1.rgstatic.net
+- si2.rgstatic.net
+- si3.rgstatic.net
+- si4.rgstatic.net
+- cdn.researchgate.net
+
+> Warning: ResearchGate has no official public API — scraping is prohibited.
+
+### ACADEMIA.EDU
+- academia.edu
+- academia-assets.com
+- support.academia.edu
+- assets.academia-assets.com
+
+> Warning: Academia.edu has no public API.
+
+### MENDELEY (Elsevier subsidiary)
+- mendeley.com
+- api.mendeley.com
+- dev.mendeley.com
+- mendeley-desktop.com
+- data.mendeley.com
+- blog.mendeley.com
+
+### ORCID (Researcher ID)
+- orcid.org
+- info.orcid.org
+- sandbox.orcid.org
+- pub.orcid.org
+- api.orcid.org
+- pub.sandbox.orcid.org
+- api.sandbox.orcid.org
+
+---
+
+## GROUP G: OPEN ACCESS / PREPRINT SERVERS
+
+### ARXIV (Cornell University)
+- arxiv.org
+- info.arxiv.org
+- export.arxiv.org
+- oaipmh.arxiv.org
+- submit.arxiv.org
+- browse.arxiv.org
+- ar5iv.labs.arxiv.org
+- latex.arxiv.org
+- static.arxiv.org
+- xxx.lanl.gov
+
+### ZENODO (CERN)
+- zenodo.org
+- about.zenodo.org
+- zenodo-rdm.web.cern.ch
+- blog.zenodo.org
+- sandbox.zenodo.org
+- s3.cern.ch
+- cern.ch
+- openscience.cern
+
+### OPEN SCIENCE FRAMEWORK (OSF)
+- osf.io
+- help.osf.io
+- api.osf.io
+- developer.osf.io
+- cos.io
+- files.osf.io
+- mfr.osf.io
+- staging.osf.io
+- accounts.osf.io
+- registries.osf.io
+- preprints.osf.io
+- waterbutler.osf.io
+- metrics.osf.io
+- www.cos.io
+
+### BIORXIV / MEDRXIV
+
+> Warning: CRITICAL — In March 2025, transferred from Cold Spring Harbor Laboratory to the independent nonprofit openRxiv.
+
+- biorxiv.org
+- medrxiv.org
+- api.biorxiv.org
+- submit.medrxiv.org
+- openrxiv.org
+- connect.biorxiv.org
+- www.biorxiv.org
+- www.medrxiv.org
+
+### SOCARXIV / PSYARXIV
+- socopen.org
+- osf.io/preprints/socarxiv
+- psyarxiv.com
+- osf.io/preprints/psyarxiv
+
+> Note: Both run on OSF infrastructure.
+
+### PLOS (Public Library of Science)
+- plos.org
+- journals.plos.org
+- api.plos.org
+- alm.plos.org
+- feeds.plos.org
+- collections.plos.org
+- lagotto.io
+
+**New journal subdomains**
+- collectionsblog.plos.org
+- medicine.plos.org
+- biology.plos.org
+- genetics.plos.org
+- computational.plos.org
+- pathogens.plos.org
+- neglected.plos.org
+- climate.plos.org
+- water.plos.org
+- digitalhealth.plos.org
+- globalpublichealth.plos.org
+- complexsystems.plos.org
+- sustainability.plos.org
+
+---
+
+## GROUP H: ACADEMIC SEARCH ENGINES
+
+### OPENALEX (successor to Microsoft Academic)
+- openalex.org
+- api.openalex.org
+- blog.openalex.org
+- docs.openalex.org
+- help.openalex.org
+- ourresearch.org
+
+### SEMANTIC SCHOLAR (Allen Institute)
+- semanticscholar.org
+- api.semanticscholar.org
+- pdfs.semanticscholar.org
+- ai2-s2ag.s3.amazonaws.com
+- www.semanticscholar.org
+- allenai.org
+
+---
+
+## GROUP I: REFERENCE MANAGERS
+
+### ZOTERO (Open source)
+- zotero.org
+- api.zotero.org
+- forums.zotero.org
+- files.zotero.org
+- repo.zotero.org
+- download.zotero.org
+- connectors.zotero.org
+- retraction.zotero.org
+- translate.zotero.org
+- stream.zotero.org
+- data.zotero.org
+
+### JABREF (Open source)
+- jabref.org
+- www.jabref.org
+- dev.www.jabref.org
+- staging.www.jabref.org
+- builds.jabref.org
+- docs.jabref.org
+- devdocs.jabref.org
+- discourse.jabref.org
+- blog.jabref.org
+- abbrev.jabref.org
+
+---
+
+## GROUP J: INFRASTRUCTURE (Silverchair Platform)
+- silverchair.com
+- silverchair-cdn.com
+
+> Note: In November 2024, Silverchair strengthened its position by acquiring ScholarOne.
+
+---
+
+## GROUP K: LITERATURE DISCOVERY & MAPPING TOOLS
+
+### LITMAPS
+- litmaps.com
+- app.litmaps.com
+- api.litmaps.com
+- docs.litmaps.com
+
+### RESEARCHRABBIT
+
+> Warning: CRITICAL — Acquired by Litmaps in May 2025. A new version launched in October 2025, now including a premium "RR+" tier.
+
+- researchrabbit.ai
+- learn.researchrabbit.ai
+
+### CONNECTED PAPERS
+- connectedpapers.com
+
+> Note: An API exists (early access, application required).
+
+### INCITEFUL
+- inciteful.xyz
+- help.inciteful.xyz
+- blog.inciteful.xyz
+
+> Warning: Inciteful has no API.
+
+### ELICIT
+
+> Warning: CRITICAL — An official Elicit API was released in March 2026. The "no public API" note is now obsolete.
+
+- elicit.com
+- support.elicit.com
+- pro.elicit.com
+- api.elicit.com
+- docs.elicit.com
+- blog.elicit.com
+
+> Note: elicit.org — legacy domain, redirects to elicit.com.
+
+### CONSENSUS
+
+> Note: An API exists (application required, $0.01/query). An MCP server was added in March 2026.
+
+- consensus.app
+- help.consensus.app
+- api.consensus.app
+- www.consensus.app
+- mcp.consensus.app
+
+### SOURCELY
+- sourcely.net
+
+> Warning: Sourcely has no API.
+
+### KEENIOUS
+- keenious.com
+- beta.keenious.com
+- help.keenious.com
+- api.keenious.com
+- app.keenious.com
+- plugin.keenious.com
+
+> Warning: Keenious has no public API (a private API exists for enterprise integration).
+
+### SCISPACE (formerly Typeset)
+- scispace.com
+- api.scispace.com
+- pubgenius.io
+
+> Warning: typeset.io redirects to scispace.com. No public API.
+
+### R DISCOVERY (Cactus Communications)
+- discovery.researcher.life
+- researcher.life
+- cactusglobal.com
+
+> Warning: R Discovery has no API.
+
+---
+
+## GROUP L: SYSTEMATIC REVIEW TOOLS
+
+### UNPAYWALL (OurResearch)
+- unpaywall.org
+- api.unpaywall.org
+- support.unpaywall.org
+- ourresearch.org
+- blog.ourresearch.org
+- oadoi.org
+- unsub.org
+- gettheresearch.org
+
+### RAYYAN
+- rayyan.ai
+- help.rayyan.ai
+- api.rayyan.ai
+- app.rayyan.ai
+- www.rayyan.ai
+
+> Note: rayyan.qcri.org — legacy domain, redirects to rayyan.ai.
+
+### COVIDENCE (Cochrane)
+- covidence.org
+- www.covidence.org
+- support.covidence.org
+- get.covidence.org
+- app.covidence.org
+- auth.covidence.org
+- cochrane.covidence.org
+- cochranelibrary.com
+
+> Warning: Covidence has no public API.
+
+---
+
+## GROUP M: OPEN ACCESS BOOKS & REPOSITORIES
+
+### OAPEN LIBRARY
+- oapen.org
+- library.oapen.org
+- oapen.hypotheses.org
+- metadata.oapen.org
+- export.oapen.org
+- prism.oapen.org
+
+### DOAB (Directory of Open Access Books)
+- doabooks.org
+- www.doabooks.org
+- directory.doabooks.org
+- api.doabooks.org
+
+### SCIENCE.GOV (U.S. Government)
+- science.gov
+- www.science.gov
+
+> Warning: Science.gov has no API — it is a federated gateway.
+
+### DIGITAL COMMONS NETWORK (bepress/Elsevier)
+- network.bepress.com
+- bepress.com
+- digitalcommons.elsevier.com
+- dashboard.bepress.com
+- works.bepress.com
+
+> Note: `digitalcommons.[university].edu` — institutional pattern used by 600+ institutions.
+
+---
+
+## GROUP N: REPOSITORY DIRECTORIES
+
+### OPENDOAR (Jisc)
+- v2.sherpa.ac.uk
+
+> Warning: opendoar.org redirects to sherpa.ac.uk. No REST API (OAI-PMH only).
+
+### ROAR (University of Southampton)
+- roar.eprints.org
+- roarmap.eprints.org
+- eprints.org
+- services.eprints.org
+
+---
+
+## GROUP O: REGIONAL / MULTILINGUAL PLATFORMS
+
+### RESEARCH4LIFE (WHO/FAO/UNEP/WIPO)
+- research4life.org
+- www.research4life.org
+- portal.research4life.org
+- agora.research4life.org
+- ardi.research4life.org
+- login.research4life.org
+- sts.research4life.org
+- stsr4l.who.int
+- extranet.who.int
+- registration.research4life.org
+- hinari.research4life.org
+- oare.research4life.org
+- goali.research4life.org
+
+### OPENAIRE (European Commission)
+- openaire.eu
+- www.openaire.eu
+- beta.openaire.eu
+- explore.openaire.eu
+- graph.openaire.eu
+- provide.openaire.eu
+- monitor.openaire.eu
+- connect.openaire.eu
+- develop.openaire.eu
+- api.openaire.eu
+- old.openaire.eu
+- guidelines.openaire.eu
+- covid-19.openaire.eu
+- aurora.openaire.eu
+- dariah.openaire.eu
+- helpdesk.openaire.eu
+- catalogue.openaire.eu
+- civica.openaire.eu
+
+### REDALYC (Mexico/Latin America)
+- redalyc.org
+- www.redalyc.org
+- jats.redalyc.org
+- api.redalyc.org
+- indicadores.redalyc.org
+
+> Warning: No REST API (OAI-PMH only).
+
+### SCIELO (Latin America/Caribbean)
+- scielo.org
+- www.scielo.org
+- old.scielo.org
+- scielosp.org
+- data.scielo.org
+- preprints.scielo.org
+- books.scielo.org
+- articlemeta.scielo.org
+- citedby.scielo.org
+- ref.scielo.org
+- search.scielo.org
+- blog.scielo.org
+
+**Country collections**
+- scielo.br
+- scielo.org.ar
+- scielo.org.bo
+- scielo.cl
+- scielo.org.co
+- scielo.sa.cr
+- scielo.sld.cu
+- scielo.senescyt.gob.ec
+- scielo.org.mx
+- scielo.iics.una.py
+- scielo.org.pe
+- scielo.pt
+- scielo.org.za
+- scielo.isciii.es
+- scielo.edu.uy
+- scielo.org.ve
+
+**New domains**
+- methodsx.scielo.org
+- analytics.scielo.org
+- publishing.scielo.org
+
+---
+
+## GROUP P: SHADOW LIBRARIES (ILLEGAL — NOT RECOMMENDED)
+
+### SCI-HUB — ILLEGAL
+
+**BLOCK: All domains below are used for illegal access and should be denied.**
+
+- sci-hub.ru
+- sci-hub.tw
+- sci-hub.st
+- sci-hub.ee
+- sci-hubb.info
+- sci-hub.su
+- sci-hub.box
+- sci-hub.red
+- sci-hub.al
+- sci-hub.mk
+- sci-hub.41610.org
+- paperpanda.app
+
+**BLOCK (Tor onion service):** scihub22266oqcxt.onion
+
+### ANNA'S ARCHIVE — ILLEGAL
+
+**BLOCK: Active domains change frequently (as of January 2026):**
+
+- annas-archive.li
+- annas-archive.in
+- annas-archive.pm
+- annas-archive.gl
+- annas-archive.pk
+- annas-archive.gd
+
+**BLOCK: annas-archive.org and annas-archive.se — SUSPENDED**
+
+---
