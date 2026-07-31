@@ -1,0 +1,1171 @@
+ID VERIFICATION & KYC RESEARCH LIST
+
+---
+
+🔴 GROUP A: MAJOR KYC PROVIDERS
+
+Jumio
+
+  jumio.com
+  jumio.ai
+  api.jumio.com
+  netverify.com
+  api.netverify.com
+  lon.netverify.com
+  amer.netverify.com
+  apac.netverify.com
+  liveness.jumio.com
+  sentinel.jumio.com
+  analytics.jumio.com
+  cdn.jumio.com
+  assets.jumio.com
+  eu.api.jumio.com
+  us.api.jumio.com
+  sg.api.jumio.com
+  mobile-sdk.jumio.com
+  sdk.jumio.com
+  retrieval.jumio.com
+  portal.jumio.com
+  status.jumio.com
+  core-sgp.jumio.com
+  docs.web.jumio.ai
+  documentation.jumio.ai
+  account.amer-1.jumio.ai
+  account.emea-1.jumio.ai
+  account.apac-1.jumio.ai
+  auth.amer-1.jumio.ai
+  auth.emea-1.jumio.ai
+  auth.apac-1.jumio.ai
+  api.amer-1.jumio.ai
+  api.emea-1.jumio.ai
+  api.apac-1.jumio.ai
+  retrieval.amer-1.jumio.ai
+  retrieval.emea-1.jumio.ai
+  retrieval.apac-1.jumio.ai
+  jumio-go.web.amer-1.jumio.ai
+  jumio-go.web.emea-1.jumio.ai
+  jumio-go.web.apac-1.jumio.ai
+  web-sdk.amer-1.jumio.ai
+  web-sdk.emea-1.jumio.ai
+  web-sdk.apac-1.jumio.ai
+  repo.mobile.jumio.ai
+
+Onfido (Entrust)
+
+  onfido.com
+  onfido.tech
+  api.onfido.com
+  api.eu.onfido.com
+  api.us.onfido.com
+  api.ca.onfido.com
+  sdk.onfido.com
+  capture.onfido.com
+  liveness.onfido.com
+  events.onfido.com
+  assets.onfido.com
+  cdn.onfido.com
+  webhooks.onfido.com
+  studio.onfido.com
+  dashboard.onfido.com
+  status.onfido.com
+  identity.entrust.com
+  documentation.identity.entrust.com
+  api.entrust.com
+
+Veriff
+
+  veriff.com
+  veriff.me
+  api.veriff.com
+  magic.veriff.com
+  sessions.veriff.com
+  cdn.veriff.com
+  static.veriff.com
+  ws.veriff.com
+  media.veriff.com
+  station.veriff.com
+  hub.veriff.com
+  sync-api.veriff.me
+  probity.io
+  devdocs.veriff.com
+
+Sumsub
+
+  sumsub.com
+  sumsub.io
+  api.sumsub.com
+  cockpit.sumsub.com
+  cdn.sumsub.com
+  ws.sumsub.com
+  txmonitor.sumsub.com
+  fraud.sumsub.com
+  test-api.sumsub.com
+  status.sumsub.com
+  api.uae.sumsub.com
+  docs.sumsub.com
+  developers.sumsub.com
+
+Persona
+
+  withpersona.com
+  persona.com
+  api.withpersona.com
+  inquiries.withpersona.com
+  inquiry.withpersona.com
+  miniapp.withpersona.com
+  sdk.withpersona.com
+  t.withpersona.com
+  webrtc-consumer.withpersona.com
+  webrtc-stun.withpersona.com
+  cdn.withpersona.com
+  app.withpersona.com
+  dashboard.withpersona.com
+  support.withpersona.com
+  docs.withpersona.com
+  status.withpersona.com
+
+Socure
+
+  socure.com
+  socure.net
+  api.socure.com
+  sigmaidentityfraud.com
+  platform.socure.com
+  admin.socure.com
+  websdk.socure.com
+  sdk.socure.com
+  developer.socure.com
+  sandbox.socure.com
+  service.socure.com
+
+Trulioo
+
+  trulioo.com
+  api.trulioo.com
+  gateway.trulioo.com
+  globalgateway.trulioo.com
+  api-us.trulioo.com
+  api-eu.trulioo.com
+  portal.trulioo.com
+  developer.trulioo.com
+  knowledgehub.trulioo.com
+  sandbox.trulioo.com
+  status.trulioo.com
+
+Alloy
+
+  alloy.com
+  alloy.co
+  api.alloy.com
+  dashboard.alloy.com
+  sandbox.alloy.com
+  docs.alloy.co
+  run.alloy.com
+  webhooks.alloy.com
+
+AU10TIX
+
+  au10tix.com
+  api.au10tix.com
+  verify.au10tix.com
+  osint.au10tix.com
+  portal.au10tix.com
+  console.au10tix.com
+  hub.au10tix.com
+
+Mitek
+
+  miteksystems.com
+  mitek.com
+  mobileverify.com
+  idrnd.ai
+  idrnd.net
+  idrnd.com
+  api.mitek.com
+  cdn.mitek.com
+  assets.miteksystems.com
+  portal.mitek.com
+  docs.us.mitekcloud.com
+  docs.eu.mitekcloud.com
+  a2ia.com
+  globalidentity.us.mitekcloud.com
+  identity.us.mitekcloud.com
+  globalidentity.us.sandbox.mitekcloud.com
+
+IDnow
+
+  idnow.io
+  idnow.de
+  idnow.eu
+  api.idnow.io
+  gateway.idnow.io
+  videoident.idnow.de
+  autoident.idnow.io
+  eid.idnow.de
+  websocket.idnow.io
+  gateway.test.idnow.de
+  docs-videoident.idnow.io
+  docs-autoident.idnow.io
+  docs-platform-v1.idnow.io
+  support.idnow.io
+  help.idnow.io
+  release-notes.idnow.io
+  docs.idnow.io
+  status.idnow.de
+
+Vouched
+
+  vouched.id
+  verify.vouched.id
+  api.vouched.id
+  docs.vouched.id
+  cdn.vouched.id
+
+Cognito (CognitoHQ)
+
+  cognitohq.com
+  api.cognitohq.com
+  dashboard.cognitohq.com
+  playground.cognitohq.com
+  status.cognitohq.com
+  support.cognitohq.com
+  cdn.cognitohq.com
+
+Shufti Pro
+
+  shuftipro.com
+  api.shuftipro.com
+  verify.shuftipro.com
+  ra.shuftipro.com
+  developers.shuftipro.com
+  eidv.shuftipro.com
+  backoffice.shuftipro.com
+  app.shuftipro.com
+
+ComplyCube
+
+  complycube.com
+  api.complycube.com
+  portal.complycube.com
+  docs.complycube.com
+  sdk.complycube.com
+
+Stripe Identity
+
+  stripe.com
+  api.stripe.com
+  verify.stripe.com
+  js.stripe.com
+  m.stripe.com
+  m.stripe.network
+  a.stripecdn.com
+  b.stripecdn.com
+  c.stripecdn.com
+  f.stripecdn.com
+  files.stripe.com
+  uploads.stripe.com
+  hooks.stripe.com
+  dashboard.stripe.com
+  connect.stripe.com
+  connect-js.stripe.com
+  checkout.stripe.com
+  pay.stripe.com
+  payments.stripe.com
+  auth.stripe.com
+  manage.stripe.com
+  r.stripe.com
+  q.stripe.com
+  qr.stripe.com
+  status.stripe.com
+  docs.stripe.com
+  atlas.stripe.com
+  billing.stripe.com
+  buy.stripe.com
+  climate.stripe.com
+  express.stripe.com
+  invoice.stripe.com
+  invoicedata.stripe.com
+  merchant-ui-api.stripe.com
+  terminal.stripe.com
+  armada.stripe.com
+  gator.stripe.com
+  stripe-terminal-local-reader.net
+
+Plaid Identity Verification
+
+  plaid.com
+  production.plaid.com
+  sandbox.plaid.com
+  cdn.plaid.com
+  link.plaid.com
+  dashboard.plaid.com
+  status.plaid.com
+  docs.plaid.com
+  my.plaid.com
+
+Incode
+
+  incode.com
+  incodesmile.com
+  developer.incode.com
+  docs.incode.com
+  demo-api.incodesmile.com
+  demo-onboarding.incodesmile.com
+  saas-onboarding.incodesmile.com
+  auth.incode.com
+  workforce.developer.incode.com
+  status.incode.com
+
+AuthenticID (Incode)
+
+  authenticid.com
+  api.authenticid.com
+  docs.authenticid.com
+
+---
+
+🟠 GROUP B: REGIONAL KYC PROVIDERS
+
+Signzy (India)
+
+  signzy.com
+  signzy.tech
+  api.signzy.com
+  api.signzy.tech
+  aadhaar.signzy.com
+  pan.signzy.com
+  api-preproduction.signzy.app
+  docs.signzy.com
+
+Digio (India)
+
+  digio.in
+  esign.digio.in
+  documentation.digio.in
+  ext-enterprise.digio.in
+  api.digio.in
+  app.digio.in
+
+HyperVerge (India/SEA)
+
+  hyperverge.co
+  api.hyperverge.co
+  ind-docs.hyperverge.co
+  ind-verify.hyperverge.co
+  ind-faceid.hyperverge.co
+  ind-docs-2.hyperverge.co
+  hv-aadhaar-xml.hyperverge.co
+  apac-api.hyperverge.co
+  eu-api.hyperverge.co
+  us-api.hyperverge.co
+
+Unico (Brazil)
+
+  unico.io
+  acesso.unico.io
+  api.unico.io
+  devcenter.unico.io
+  acesso.io
+  unico.run
+  unico.app
+  api.cadastro.uat.unico.app
+  cadastro.dev.unico.app
+
+IDwall (Brazil)
+
+  idwall.co
+  api.idwall.co
+  api-v2.idwall.co
+  docs.idwall.co
+
+Turkey — Government
+
+  turkiye.gov.tr
+  nvi.gov.tr
+  kep.gov.tr
+  e-devlet.gov.tr
+
+EU — eIDAS / itsme
+
+  eid.as
+  itsme.be
+  itsme-id.com
+  merchant.itsme.be
+  e2emerchant.itsme.be
+  belgianmobileid.github.io
+
+Signicat
+
+  signicat.com
+  signicat.io
+  api.signicat.com
+  developer.signicat.com
+  app.signicat.com
+  dashboard.signicat.com
+  docs.signicat.com
+  status.signicat.com
+
+IDfy (India)
+
+  idfy.com
+  tasks.idfy.com
+  eve-api-docs.idfy.com
+  api-docs.idfy.com
+  app.idfy.com
+  docs.idfy.com
+  api-docs.idfy.io
+  eve-api-docs.idfy.io
+  status.idfy.io
+
+BankID (Sweden)
+
+  bankid.com
+  appapi2.bankid.com
+  appapi2.test.bankid.com
+  developers.bankid.com
+
+BankID (Norway)
+
+  bankid.no
+  developer.bankid.no
+  auth.current.bankid.no
+  auth.preprod.bankid.no
+  tools.bankid.no
+  tools-preprod.bankid.no
+  confluence.bankidnorge.no
+  activation1.bankid.no
+
+MitID (Denmark)
+
+  mitid.dk
+  pp.mitid.dk
+  mitid-erhverv.dk
+  broker.mitid.dk
+
+FranceConnect
+
+  franceconnect.gouv.fr
+  app.franceconnect.gouv.fr
+  fcp.integ01.dev-franceconnect.fr
+  partenaires.franceconnect.gouv.fr
+  docs.partenaires.franceconnect.gouv.fr
+  datapass.api.gouv.fr
+  api.gouv.fr
+
+GBG / IDology
+
+  gbgplc.com
+  gbg.com
+  developers.gbgplc.com
+  docs.go.gbgplc.com
+  memberportalapi.gbg.com
+  memberportalapi.gbgplc.com
+  api.gbg.com
+  idology.com
+  id3global.com
+  go.gbgplc.com
+
+---
+
+🟡 GROUP C: SELF-SOVEREIGN IDENTITY
+
+Yoti
+
+  yoti.com
+  yoti.tech
+  api.yoti.com
+  yoti.app
+  verifier.yoti.com
+  dashboard.yoti.com
+  age.yoti.com
+  hub.yoti.com
+  developers.yoti.com
+  support.yoti.com
+  docs.yoti.com
+  connect.yoti.com
+
+Microsoft Entra Verified ID
+
+  login.microsoftonline.com
+  verifiedid.did.msidentity.com
+
+Sovrin Network
+
+  sovrin.org
+  sovrin.net
+
+Iden3
+
+  iden3.io
+  js.iden3.io
+
+Civic
+
+  civic.com
+  api.civic.com
+  auth.civic.com
+  docs.civic.com
+
+uPort (ConsenSys)
+
+  uport.me
+
+1Kosmos BlockID
+
+  1kosmos.com
+  developer.1kosmos.com
+  docs.1kosmos.com
+  blockid-trial.1kosmos.com
+  api.1kosmos.com
+  nexus-1k-nonprod.1kosmos.net
+
+---
+
+🟣 GROUP E: DOCUMENT VERIFICATION BACKENDS
+
+Acuant (Mitek)
+
+  acuant.com
+  acuant.net
+  api.acuant.com
+
+Regula Forensics
+
+  regulaforensics.com
+  api.regulaforensics.com
+  faceapi.regulaforensics.com
+  dev.regulaforensics.com
+  docs.regulaforensics.com
+  support.regulaforensics.com
+  client.regulaforensics.com
+  explore.regulaforensics.com
+  explore.regula.app
+  licensing.regulaforensics.com
+  maven.regulaforensics.com
+  store.regula.us
+
+IDEMIA
+
+  idemia.com
+  idemia.io
+  identity.idemia.com
+  experience.idemia.com
+  api.idemia.com
+
+Innovatrics
+
+  innovatrics.com
+  customerportal.innovatrics.com
+  developers.innovatrics.com
+
+Microblink
+
+  microblink.com
+  api.microblink.com
+  developer.microblink.com
+  docs.microblink.com
+  blinkid.docs.microblink.com
+  baltazar.microblink.com
+  help.microblink.com
+
+IDVerse (OCR Labs / LexisNexis)
+
+  idverse.com
+  ocrlabs.com
+  api.idverse.com
+  docs.idverse.com
+  developer.idverse.com
+
+Resistant AI
+
+  resistant.ai
+  documents.resistant.ai
+  eu.resistant.ai
+  eu.id.resistant.ai
+  us.resistant.ai
+  app.resistant.ai
+  docs.resistant.ai
+
+---
+
+GROUP F: LIVENESS / BIOMETRIC
+
+iProov
+
+  iproov.com
+  iproov.app
+  iproov.me
+  secure.iproov.me
+  eu.rp.secure.iproov.me
+  us.rp.secure.iproov.me
+  au.rp.secure.iproov.me
+  cdn.iproov.app
+  portal.iproov.com
+  docs.iproov.com
+
+Daon
+
+  daon.com
+  identityx.com
+  go.daon.com
+  developer.daon.com
+  docs.daon.com
+  trustx.daon.com
+
+Intellicheck
+
+  intellicheck.com
+  idc.intellicheck.com
+  idce.intellicheck.com
+  53.intellicheck.com
+  api.intellicheck.com
+  docs.intellicheck.com
+  support.intellicheck.com
+
+Facia.ai
+
+  facia.ai
+  api.facia.ai
+  docs.facia.ai
+  dashboard.facia.ai
+  sdk.facia.ai
+  developers.facia.ai
+  insights.facia.ai
+
+---
+
+GROUP G: US GOVERNMENT / NATIONAL ID
+
+ID.me
+
+  id.me
+  developers.id.me
+  api.id.me
+
+CLEAR Me
+
+  clearme.com
+  identity.clearme.com
+  docs.clearme.com
+  api.clearme.com
+  developer.clearme.com
+  status.clearme.com
+
+Prove Identity
+
+  prove.com
+  developer.prove.com
+  portal.prove.com
+  api.prove.com
+  sandbox.prove.com
+  docs.prove.com
+
+---
+
+GROUP H: SANCTIONS & PEP SCREENING
+
+ComplyAdvantage (Mesh)
+
+  complyadvantage.com
+  api.complyadvantage.com
+  app.complyadvantage.com
+  docs.complyadvantage.com
+  support.complyadvantage.com
+  docs.mesh.complyadvantage.com
+  api.au.mesh.complyadvantage.com
+  api.ca.mesh.complyadvantage.com
+  api.eu.mesh.complyadvantage.com
+  api.eu3.mesh.complyadvantage.com
+  api.uk.mesh.complyadvantage.com
+  api.us.mesh.complyadvantage.com
+  api.us2.mesh.complyadvantage.com
+  app.au.mesh.complyadvantage.com
+  app.eu.mesh.complyadvantage.com
+  app.us.mesh.complyadvantage.com
+  app.ca.mesh.complyadvantage.com
+  app.uk.mesh.complyadvantage.com
+  app.eu3.mesh.complyadvantage.com
+  app.us2.mesh.complyadvantage.com
+
+Refinitiv World-Check (LSEG)
+
+  refinitiv.com
+  world-check.refinitiv.com
+  api.refinitiv.com
+  developers.refinitiv.com
+  docs-developers.refinitiv.com
+  worldcheck.refinitiv.com
+  developers.lseg.com
+  api-worldcheck.refinitiv.com
+  lseg.com
+  community.developers.refinitiv.com
+  community.developers.lseg.com
+
+Dow Jones Risk & Compliance
+
+  dowjones.com
+  djrc.dowjones.com
+  risk.dowjones.com
+  riskcenter.dowjones.com
+  api.riskcenter.dowjones.com
+  riskcenter.eu.dowjones.com
+  auth.accounts.dowjones.com
+  sso.accounts.dowjones.com
+  sso.dowjones.com
+  signin.dowjones.com
+  developer.dowjones.com
+  cdn.dowjones.com
+  djrc.api.test.dowjones.com
+  dowjones.developerprogram.org
+  accounts.dowjones.com
+  api.dowjones.com
+  factiva.com
+
+LexisNexis Bridger
+
+  lexisnexis.com
+  bridger.lexisnexis.com
+  risk.lexisnexis.com
+
+Accuity (LSEG)
+
+  accuity.com
+  api.accuity.com
+  fircosoft.com
+
+Sanction Scanner
+
+  sanctionscanner.com
+  api.sanctionscanner.com
+  developer.sanctionscanner.com
+  app.sanctionscanner.com
+  docs.sanctionscanner.com
+
+---
+
+---
+
+GROUP J: AGE VERIFICATION
+
+Veratad
+
+  veratad.com
+  api.veratad.com
+
+AgeChecker.Net
+
+  agechecker.net
+  api.agechecker.net
+
+1account (UK)
+
+  1account.net
+  verify.1account.net
+
+VerifyMy (VerifyMyAge / VerifyMyContent)
+
+  verifymy.io
+  verifymyage.com
+  verifymycontent.com
+  oauth.verifymycontent.com
+  oauth.sandbox.verifymycontent.com
+  docs.verifymyage.com
+  sandbox.verifymyage.com
+  app.verifymycontent.com
+  moderation.sandbox.verifymycontent.com
+
+---
+
+GROUP K: EMERGING KYC PROVIDERS
+
+iDenfy
+
+  idenfy.com
+  ivs.idenfy.com
+  documentation.idenfy.com
+  status.idenfy.com
+  help.idenfy.com
+
+SEON.io
+
+  seon.io
+  api.seon.io
+  api.us-east-1-main.seon.io
+  api.ap-southeast-1-main.seon.io
+  docs.seon.io
+  support.seon.io
+  seondnsresolve.com
+  deviceinfresolver.com
+  seonintelligence.com
+  deviceinf.com
+  resources.cdn.seon.io
+
+Ondato
+
+  ondato.com
+  verifid.ondato.com
+  kycapi.ondato.com
+  sandbox-kycapi.ondato.com
+  ondato.atlassian.net
+  idv.ondato.com
+  os.ondato.com
+
+Fractal ID
+
+  fractal.id
+  app.fractal.id
+  auth.fractal.id
+  resource.fractal.id
+  kraken.fractal.id
+  developer.fractal.id
+  docs.developer.fractal.id
+  app.staging.sandbox.fractal.id
+  auth.staging.sandbox.fractal.id
+  resource.staging.sandbox.fractal.id
+  demo.staging.sandbox.fractal.id
+  web.fractal.id
+  help.fractal.id
+
+PassFort (Moody's Maxsight)
+
+  passfort.com
+  help.passfort.com
+  kyc.moodys.io
+  maxsight.com
+  help.maxsight.com
+  roadmap.grid.moodys.com
+  moodys.com
+
+Identomat
+
+  identomat.com
+  widget.identomat.com
+  manage.identomat.com
+  docs.identomat.com
+
+GetID
+
+  getid.ee
+  getid.com
+  getid.cloud
+  cdn.getid.cloud
+  developer.getid.ee
+  docs.getid.ee
+  apidoc.getid.ee
+  developers.getid.ee
+
+KYCAID
+
+  kycaid.com
+  api.kycaid.com
+  docs.kycaid.com
+  docs-v1.kycaid.com
+  nexus.kycaid.com
+  dashboard.kycaid.com
+
+ID-Pal
+
+  id-pal.com
+  api.id-pal.com
+  app.id-pal.com
+  docs.id-pal.com
+  support.id-pal.com
+  id-pal.my.site.com
+
+KYC Hub
+
+  kychub.com
+  api.kychub.com
+  app.kychub.com
+  docs.kychub.com
+  dashboard.kychub.com
+
+iComply
+
+  icomplyis.com
+  app.icomplyis.com
+  api.icomplyis.com
+  support.icomplyis.com
+  docs.icomplyis.com
+
+IDScan.net
+
+  idscan.net
+  docs.idscan.net
+  dev.docs.idscan.net
+  support.idscan.net
+  app1.idware.net
+  idware.net
+  veriscan.idscan.net
+
+ZignSec (G2 Risk Solutions)
+
+  zignsec.com
+  api.zignsec.com
+  test.zignsec.com
+  gateway.zignsec.com
+  test-gateway.zignsec.com
+  docs.zignsec.com
+  developers.zignsec.com
+
+Veridas
+
+  veridas.com
+  veri-das.com
+  docs.veridas.com
+  api.eu.veri-das.com
+  api-work.eu.veri-das.com
+  api.us.veri-das.com
+  api-work.us.veri-das.com
+
+Passbase
+
+  passbase.com
+  api.passbase.com
+  docs.passbase.com
+  app.passbase.com
+  dashboard.passbase.com
+
+EnQualify (Enqura)
+
+  enqura.com
+  enqualify.ai
+  test.enqura.com
+
+SmartSearch
+
+  smartsearch.com
+  smartsearchuk.com
+  api.smartsearch.com
+  app.smartsearch.com
+  docs.smartsearch.com
+
+AiPrise
+
+  aiprise.com
+  api.aiprise.com
+  docs.aiprise.com
+  dashboard.aiprise.com
+
+OneID (UK)
+
+  oneid.uk
+  myoneid.co.uk
+  controller.myoneid.co.uk
+  controller.sandbox.myoneid.co.uk
+  consentconsole.myoneid.co.uk
+  verify.oneid.uk
+  docs.oneid.uk
+
+Didit
+
+  didit.me
+  business.didit.me
+  verification.didit.me
+  apx.didit.me
+  verify.staging.didit.me
+  docs.didit.me
+  demos.didit.me
+
+Klippa (DocHorizon)
+
+  klippa.com
+  custom.klippa.com
+  api.klippa.com
+  app.klippa.com
+  docs.klippa.com
+  dochorizon.klippa.com
+
+IDmission
+
+  idmission.com
+  api.idmission.com
+  auth.idmission.com
+  kyc.idmission.com
+  portal-api.idmission.com
+  websdk-cdn-dev.idmission.com
+  documentation.idmission.com
+  websdk2docs.idmission.com
+  gitlab.idmission.com
+  demo.idmission.com
+  uat.idmission.com
+  identity.idmission.com
+  demo-documentation.idmission.com
+
+Footprint
+
+  onefootprint.com
+  api.onefootprint.com
+  docs.onefootprint.com
+  api-docs.onefootprint.com
+  id.onefootprint.com
+  dashboard.onefootprint.com
+
+Checkin.com
+
+  checkin.com
+  regily.com
+  external.regily.com
+  staging-external.regily.com
+  dev.checkin.com
+
+Amani AI
+
+  amani.ai
+  docs.amani.ai
+  app.amani.ai
+  api.amani.ai
+  eu1.amani.ai
+  us1.amani.ai
+  verify.amani.ai
+  documentation.amani.ai
+
+IDWise
+
+  idwise.com
+  api.idwise.com
+  api-uae.idwise.com
+  api-qat.idwise.com
+  docs.idwise.com
+  studio.idwise.com
+  dashboard.idwise.com
+  developers.idwise.com
+
+Smile ID
+
+  smileidentity.com
+  usesmileid.com
+  api.smileidentity.com
+  testapi.smileidentity.com
+  prod.smileidentity.com
+  portal.smileidentity.com
+  docs.usesmileid.com
+  cdn.smileidentity.com
+
+Youverify
+
+  youverify.co
+  api.youverify.co
+  api.staging.youverify.co
+  doc.youverify.co
+  cdn.youverify.co
+  portal.youverify.co
+
+Dojah
+
+  dojah.io
+  api.dojah.io
+  app.dojah.io
+  api-docs.dojah.io
+  docs.dojah.io
+  images.dojah.io
+
+Prembly (Identity Pass)
+
+  prembly.com
+  identitypass.com
+  myidentitypass.com
+  api.prembly.com
+  dashboard.prembly.com
+  docs.prembly.com
+  js.prembly.com
+
+Credas (SmartSearch)
+
+  credas.com
+  credas.co.uk
+  portal.credas.com
+  portal.credasdemo.com
+  apisupport.credas.com
+  partnersupport.credas.com
+  app.credas.com
+
+ZOLOZ (Ant Group)
+
+  zoloz.com
+  sg-production-api.zoloz.com
+  sg-sandbox-api.zoloz.com
+  sg-sandbox-portal.zoloz.com
+  sg-production-portal.zoloz.com
+  sg-production-zmgs.zoloz.com
+  sg-production-cdn.zoloz.com
+  ph-production-api.zoloz.com
+  id-production-api.zoloz.com
+  id-production-portal.zoloz.com
+  id-production-zmgs.zoloz.com
+  my-production-api.zoloz.com
+  my-production-portal.zoloz.com
+  my-production-zmgs.zoloz.com
+  openapi-my.zoloz.com
+  th-production-api.zoloz.com
+  vn-production-api.zoloz.com
+  hk-production-api.zoloz.net
+  hk-production-portal.zoloz.net
+  hk-production-zmgs.zoloz.net
+  docs.zoloz.com
+
+KYC-Chain
+
+  kyc-chain.com
+  apidocs.kyc-chain.com
+  docs.kyc-chain.com
+  app.kyc-chain.com
+
+Blockpass
+
+  blockpass.org
+  kyc.blockpass.org
+  console.blockpass.org
+  verify-with.blockpass.org
+  docs.blockpass.org
+  help.blockpass.org
+  app.blockpass.org
+
+Netki (OnboardID)
+
+  netki.com
+  onboardid.com
+  transactid.com
+  api.netki.com
+  developer.netki.com
+  docs.netki.com
+
+Synaps
+
+  synaps.io
+  api.synaps.io
+  docs.synaps.io
+  help.synaps.io
+  manager.synaps.io
+  releases.synaps.io
+
+Yakeen (Saudi Arabia / Elm)
+
+  yakeen.com.sa
+  api.yakeen.com.sa
+  developer.yakeen.com.sa
+  elm.sa
+
+Uqudo
+
+  uqudo.com
+  uqudo.io
+  id.uqudo.io
+  portal.uqudo.com
+  docs.uqudo.com
+
+Tecalis
+
+  tecalis.com
+  api.tecalis.com
+  docs.tecalis.com
+  app.tecalis.com
+  dashboard.tecalis.com
+
+Ubble (Checkout.com)
+
+  ubble.ai
+  id.ubble.ai
+  api.ubble.ai
+  dashboard.ubble.ai
+  ubbleai.github.io
