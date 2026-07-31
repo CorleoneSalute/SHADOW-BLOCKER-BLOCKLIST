@@ -1,0 +1,251 @@
+GIF MAKER & MEME GENERATOR APPS RESEARCH LIST
+
+🔴 CORE DOMAINS
+
+# GIPHY
+
+  giphy.com
+  api.giphy.com
+  media.giphy.com
+  media0.giphy.com
+  media1.giphy.com
+  media2.giphy.com
+  media3.giphy.com
+  media4.giphy.com
+  i.giphy.com
+  upload.giphy.com
+  stickers.giphy.com
+  clips.giphy.com
+  g.giphy.com
+  sdk.giphy.com
+  embed.giphy.com
+  share.giphy.com
+  developers.giphy.com
+  status.giphy.com
+  support.giphy.com
+  engineering.giphy.com
+
+# Tenor (Google)
+
+  tenor.com
+  tenor.googleapis.com
+  api.tenor.com
+  g.tenor.com
+  g1.tenor.com
+  media.tenor.com
+  media1.tenor.com
+  c.tenor.com
+  gboard-tenor.appspot.com
+  tenor-messages.appspot.com
+  tenor-gmail.googleapis.com
+  blog.tenor.com
+
+# KLIPY 
+
+  klipy.com
+  www.klipy.com
+  api.klipy.com
+  docs.klipy.com
+  media.klipy.com
+
+# ImgFlip
+
+  imgflip.com
+  i.imgflip.com
+  api.imgflip.com
+
+# EZGIF
+
+  ezgif.com
+  www.ezgif.com
+
+# Make a Meme
+
+  makeameme.org
+  www.makeameme.org
+  i.makeameme.org
+
+# Memedroid
+
+  memedroid.com
+  www.memedroid.com
+  api.memedroid.com
+  cdn.memedroid.com
+
+# Zombodroid (Meme Generator Free / Video & GIF Memes)
+
+  zombodroid.com
+  www.zombodroid.com
+
+# Memegen
+
+  memegen.link
+  api.memegen.link
+
+# Mematic
+
+  mematic.net
+  www.mematic.net
+  ★ mtc.mematic.net
+  ★ template-collections.b-cdn.net
+
+# ImgPlay
+
+  imgplay.net
+  app.imgplay.net
+
+# GIF Me!
+
+  gifme.io
+  www.gifme.io
+  api.gifme.io
+  i.gifme.io
+
+# GifBuz
+
+  gifbuz.com
+  www.gifbuz.com
+  dev.gifbuz.com
+  braincraftapps.com
+
+# Meme.com
+
+  meme.com
+  www.meme.com
+  api.meme.com
+  cdn.meme.com
+
+# Supermeme.ai
+
+  supermeme.ai
+  www.supermeme.ai
+  app.supermeme.ai
+  ★ blog.supermeme.ai
+
+# Memasik
+
+  memasik.app
+  www.memasik.app
+  api.memasik.app
+   info.memasik.app
+
+# Piñata Farms
+
+  pinatafarm.com
+  www.pinatafarm.com
+  api.pinatafarm.com
+  ★ pinatafarms.com
+
+# Memes.com
+
+  memes.com
+  www.memes.com
+  api.memes.com
+  cdn.memes.com
+
+# GIFs.com
+
+  gifs.com
+  www.gifs.com
+  j.gifs.com
+
+# 5SecondsApp
+
+  5secondsapp.com
+  www.5secondsapp.com
+
+# MemeZoo
+
+  meme-zoo.com
+  www.meme-zoo.com
+  rc.meme-zoo.com
+
+# Momentogifs
+
+  momentogifs.com
+  www.momentogifs.com
+
+# Open-Source 
+
+  screentogif.com
+  gif.ski
+
+📊 TELEMETRY DOMAINS
+
+# GIPHY Telemetry
+
+  analytics.giphy.com
+  tracking.giphy.com
+  stats.giphy.com
+  events.giphy.com
+  ping.giphy.com
+  x.giphy.com
+
+# Tenor Telemetry
+
+  tracking.tenor.com
+  events.tenor.com
+  telemetry.tenor.com
+
+# ImgFlip Telemetry
+
+  analytics.imgflip.com
+  stats.imgflip.com
+
+# Zombodroid Telemetry
+
+  analytics.zombodroid.com
+  telemetry.zombodroid.com
+  api.zombodroid.com
+
+# Piñata Farms Telemetry
+
+  analytics.pinatafarm.com
+
+🎯 ADVERTISING DOMAINS 
+
+# GIPHY Ads
+
+  ads.giphy.com
+  ad-api.giphy.com
+  sponsored.giphy.com
+  brand.giphy.com
+
+# Tenor Ads
+
+  ads.tenor.com
+  sponsored.tenor.com
+
+# ImgFlip Ads
+
+  ads.imgflip.com
+
+# Zombodroid Ads
+
+  ads.zombodroid.com
+
+🚨 MALİCİOUS DOMAINS 
+
+# Fake GIPHY Sites
+
+  giphy-download.com
+  gifhy.com
+  gify.com
+  giphy-app.com
+
+# Fake GIF Maker Sites
+
+  gif-maker-pro.com
+  free-gif-editor.com
+  download-gifmaker.com
+  gifapp-download.com
+  video2gif-free.com
+  gifconverter-download.com
+
+☁️ SOCIAL MEDIA INTEGRATION 
+
+# GIPHY Social
+
+  embed.giphy.com
+  share.giphy.com
+  developers.giphy.com
