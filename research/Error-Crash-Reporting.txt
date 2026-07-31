@@ -1,0 +1,186 @@
+ERROR TRACKING & CRASH REPORTING RESEARCH LIST
+
+SENTRY — 27 domains
+sentry.io
+sentry.com
+us.sentry.io
+eu.sentry.io
+de.sentry.io
+browser.sentry-cdn.com
+js.sentry-cdn.com
+cdn.ravenjs.com
+profiling.sentry.io
+replay.sentry.io
+www.sentry.io
+app.sentry.io
+o*.ingest.sentry.io
+o*.ingest.us.sentry.io
+o*.ingest.de.sentry.io
+o*.ingest.eu.sentry.io
+downloads.sentry-cdn.com
+release-registry.services.sentry.io
+s1.sentry-cdn.com
+docs.sentry.io
+status.sentry.io
+develop.sentry.dev
+blog.sentry.io
+getsentry.com
+app.getsentry.com
+docs.getsentry.com
+ROLLBAR — 7 domains
+rollbar.com
+api.rollbar.com
+d37gvrvc0wt4s1.cloudfront.net
+cdn.rollbar.com
+rum.rollbar.com
+www.rollbar.com
+items.rollbar.com
+BUGSNAG — 18 domains
+bugsnag.com
+api.bugsnag.com
+notify.bugsnag.com
+sessions.bugsnag.com
+d2wy8f7a9ursnm.cloudfront.net
+cdn.bugsnag.com
+app.bugsnag.com
+www.bugsnag.com
+otlp.bugsnag.com
+otlp.bugsnag.smartbear.com
+notify.bugsnag.smartbear.com
+sessions.bugsnag.smartbear.com
+build.bugsnag.com
+build.bugsnag.smartbear.com
+upload.bugsnag.com
+upload.bugsnag.smartbear.com
+api.bugsnag.smartbear.com
+app.bugsnag.smartbear.com
+AIRBRAKE — 9 domains
+airbrake.io
+api.airbrake.io
+www.airbrake.io
+collect.airbrake.io
+docs.airbrake.io
+status.airbrake.io
+blog.airbrake.io
+notifier-configs.airbrake.io
+ssljscdn.airbrake.io
+RAYGUN — 10 domains
+raygun.com
+raygun.io
+api.raygun.io
+api.raygun.com
+cdn.raygun.io
+cdn.raygun.com
+rum.raygun.io
+pulse.raygun.com
+www.raygun.com
+app.raygun.io
+HONEYBADGER — 8 domains
+honeybadger.io
+api.honeybadger.io
+js.honeybadger.io
+cdn.honeybadger.io
+www.honeybadger.io
+eu-api.honeybadger.io
+app.honeybadger.io
+eu-app.honeybadger.io
+TRACKJS — 9 domains
+trackjs.com
+usage.trackjs.com
+cdn.trackjs.com
+d2zah9y47r7bi2.cloudfront.net
+www.trackjs.com
+capture.trackjs.com
+fault.trackjs.com
+releases.trackjs.com
+errors.trackjs.com
+APPSIGNAL — 5 domains
+appsignal.com
+push.appsignal.com
+www.appsignal.com
+api.appsignal.com
+appsignal-endpoint.net
+ELMAH.IO — 3 domains
+elmah.io
+api.elmah.io
+www.elmah.io
+BACKTRACE — 8 domains
+backtrace.io
+api.backtrace.io
+submit.backtrace.io
+cdn.backtrace.io
+www.backtrace.io
+*.sp.backtrace.io
+unreal.backtrace.io
+backtrace.sp.backtrace.io
+EXCEPTIONLESS — 5 domains
+exceptionless.com
+collector.exceptionless.io
+api.exceptionless.io
+www.exceptionless.com
+heartbeat.exceptionless.io
+INSTABUG (NOW LUCIQ) — 9 domains
+instabug.com
+api.instabug.com
+dashboard.instabug.com
+sdk.instabug.com
+www.instabug.com
+luciq.ai
+api.luciq.ai
+docs.luciq.ai
+app.luciq.ai
+FIREBASE CRASHLYTICS — 15 domains
+firebasecrashlytics.googleapis.com
+crashlyticsreports-pa.googleapis.com
+firebase-settings.crashlytics.com
+settings.crashlytics.com
+firebase.google.com
+firebase.com
+firebaselogging.googleapis.com
+firebaselogging-pa.googleapis.com
+fcm.googleapis.com
+fcmtoken.googleapis.com
+firebaseinstallations.googleapis.com
+firebaseremoteconfig.googleapis.com
+firebasecrashlyticssymbols.googleapis.com
+app-measurement.com
+firebaseio.com
+BUGFENDER — 11 domains
+bugfender.com
+www.bugfender.com
+app.bugfender.com
+api.bugfender.com
+dashboard.bugfender.com
+js.bugfender.com
+docs.bugfender.com
+support.bugfender.com
+status.bugfender.com
+blog.bugfender.com
+ips.bugfender.com
+BUGSEE — 11 domains
+bugsee.com
+www.bugsee.com
+app.bugsee.com
+api.bugsee.com
+dashboard.bugsee.com
+js.bugsee.com
+docs.bugsee.com
+support.bugsee.com
+status.bugsee.com
+blog.bugsee.com
+ips.bugsee.com
+BUGSPLAT — 7 domains
+bugsplat.com
+www.bugsplat.com
+app.bugsplat.com
+api.bugsplat.com
+download.bugsplat.com
+docs.bugsplat.com
+changelog.bugsplat.com
+GLITCHTIP — 6 domains
+glitchtip.com
+www.glitchtip.com
+app.glitchtip.com
+blog.glitchtip.com
+documentation.glitchtip.com
+eu.glitchtip.com
