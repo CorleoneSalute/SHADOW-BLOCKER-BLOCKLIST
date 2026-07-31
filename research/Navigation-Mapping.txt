@@ -1,0 +1,1147 @@
+🗺️ NAVIGATION & MAPPING RESEARCH LIST
+
+============================================================
+🔴 EXTREME PRIORITY
+============================================================
+
+Google Maps
+-----------
+ℹ️  Official domain list: developers.google.com/maps/domains (Updated every 2 months)
+
+- google.com
+- maps.google.com
+- maps.googleapis.com
+- maps.gstatic.com
+- mt0.google.com
+- mt1.google.com
+- mt2.google.com
+- mt3.google.com
+- mt4.google.com
+- mt5.google.com
+- khms0.google.com
+- khms1.google.com
+- khms2.google.com
+- khms3.google.com
+- khm.google.com
+- khm.googleapis.com
+- khm0.google.com
+- khm0.googleapis.com
+- khm1.google.com
+- khm1.googleapis.com
+- khmdb0.google.com
+- khmdb0.googleapis.com
+- khmdb1.google.com
+- khmdb1.googleapis.com
+- khms0.googleapis.com
+- khms1.googleapis.com
+- khms2.googleapis.com
+- khms3.googleapis.com
+- kh2.google.com
+- kh4.google.com
+- kh5.google.com
+- keyhole-pa.googleapis.com
+- maps-api-ssl.google.com
+- geocode-maps.googleapis.com
+- nav-pa.googleapis.com
+- streetviewpixels-pa.googleapis.com
+- geo.googleapis.com
+- mapsresources-pa.googleapis.com
+- addressvalidation.googleapis.com
+- aerialview.googleapis.com
+- airquality.googleapis.com
+- places.googleapis.com
+- areainsights.googleapis.com
+- pollen.googleapis.com
+- roads.googleapis.com
+- routes.googleapis.com
+- routeoptimization.googleapis.com
+- solar.googleapis.com
+- tile.googleapis.com
+- mapsplatformdatasets.googleapis.com
+- weather.googleapis.com
+- www.googleapis.com
+- maps.gstatic.com
+- fonts.gstatic.com
+- fonts.googleapis.com
+- csi.gstatic.com
+- googleapis.l.google.com
+- clients.l.google.com
+- maps.l.google.com
+- mt.l.google.com
+- khm.l.google.com
+- geo0.ggpht.com
+- geo1.ggpht.com
+- geo2.ggpht.com
+- geo3.ggpht.com
+- lh3.ggpht.com
+- lh4.ggpht.com
+- lh5.ggpht.com
+- lh6.ggpht.com
+- lh3.googleusercontent.com
+- lh4.googleusercontent.com
+- lh5.googleusercontent.com
+- lh6.googleusercontent.com
+- cbks0.google.com
+- cbks0.googleapis.com
+- cbks1.google.com
+- cbks1.googleapis.com
+- cbks2.google.com
+- cbks2.googleapis.com
+- cbks3.google.com
+- cbks3.googleapis.com
+- clients4.google.com
+- www.google.com
+- local.google.com
+- timeline.google.com
+- mapsengine.google.com
+- earthengine.google.com
+
+Waze (Google)
+----
+
+- waze.com
+- www.waze.com
+- api.waze.com
+- editor.waze.com
+- traffic.waze.com
+- analytics.waze.com
+- partnerhub.waze.com
+- partnerhub-api.waze.com
+- world-georss.waze.com
+- worldtiles1.waze.com
+- worldtiles2.waze.com
+- worldtiles3.waze.com
+- ctiles.waze.com
+- ctiles-na.waze.com
+- ctiles-il.waze.com
+- ctiles-row.waze.com
+- ctiles-g-am.waze.com
+- livemap-tiles1.waze.com
+- livemap-tiles2.waze.com
+- livemap-tiles3.waze.com
+- livemap-tiles4.waze.com
+- il-livemap-tiles1.waze.com
+- il-livemap-tiles2.waze.com
+- il-livemap-tiles3.waze.com
+- il-livemap-tiles4.waze.com
+- tilesworld.waze.com
+- tilesworld1.waze.com
+- tilesworld2.waze.com
+- tilesworld3.waze.com
+- rt.waze.com
+- rt-il.waze.com
+- rt-lb.waze.com
+- rtproxy-il.waze.com
+- rtproxy-na.waze.com
+- rtproxy-row.waze.com
+- rtproxy-il-gcp.waze.com
+- rtproxy-na-l7.waze.com
+- rtproxy-row-l7.waze.com
+- il-georss.waze.com
+- na-georss.waze.com
+- il-georss-new.waze.com
+- na-georss-new.waze.com
+- cdn.waze.com
+- ads-resources.waze.com
+- adsassets.waze.com
+- adassets.waze.com
+- web-assets.waze.com
+- push-assets.waze.com
+- editor-assets.waze.com
+- roadshields.waze.com
+- voice-prompts.waze.com
+- tts.waze.com
+- ttsgw.waze.com
+- audio.waze.com
+- ads.waze.com
+- adsapi.waze.com
+- adsapi1.waze.com
+- adview-prod-am.waze.com
+- adview-prod-il.waze.com
+- adview-prod-row.waze.com
+- advertising.waze.com
+- search.waze.com
+- search-lb.waze.com
+- feed.waze.com
+- feed-il.waze.com
+- inbox.waze.com
+- inbox-il.waze.com
+- inbox-na.waze.com
+- inbox-row.waze.com
+- inbox-static.waze.com
+- profiles.waze.com
+- profiles-il.waze.com
+- profileimages-na.waze.com
+- profileimages-row.waze.com
+- social-il.waze.com
+- social-na.waze.com
+- social-row.waze.com
+- livemap.waze.com
+- livemap-image.waze.com
+- sdk.waze.com
+- storagegateway-am.waze.com
+- storagegateway-il.waze.com
+- storagegateway-na.waze.com
+- storagegateway-row.waze.com
+- gateway-proxy-external-am.waze.com
+- gateway-proxy-external-il.waze.com
+- gateway-proxy-external-row.waze.com
+- servermanager-proxy-il.waze.com
+- servermanager-proxy-na.waze.com
+- servermanager-proxy-row.waze.com
+- rt-clientstats-il.waze.com
+- rt-clientstats-stg.waze.com
+- stats.waze.com
+- renderer-am.waze.com
+- renderer-il.waze.com
+- renderer-row.waze.com
+- help.waze.com
+- support.waze.com
+- wazeopedia.waze.com
+
+============================================================
+🟠 HIGH PRIORITY
+============================================================
+
+Apple Maps
+----------
+ℹ️  iOS/macOS mapping service. gsp-ssl.ls.apple.com is the official base domain.
+
+- maps.apple.com
+- gsp-ssl.ls.apple.com
+- gspe1-ssl.ls.apple.com
+- gspe11-ssl.ls.apple.com
+- gspe12-ssl.ls.apple.com
+- gspe19-ssl.ls.apple.com
+- gspe21-ssl.ls.apple.com
+- gspe22-ssl.ls.apple.com
+- gspe35-ssl.ls.apple.com
+- gspe36-ssl.ls.apple.com
+- gspe85-ssl.ls.apple.com
+- gsp10-ssl.ls.apple.com
+- gsp-ssl-commute.ls.apple.com
+- gsp-ssl.ls-apple.com.akadns.net
+- gsp-ssl.ls2-apple.com.akadns.net
+- sat-cdn.apple-mapkit.com
+- cdn.apple-mapkit.com
+- weather-data.apple.com
+- weather-edge.apple.com
+- gateway.icloud.com
+- sundew.ls.apple.com
+- cdn2.smoot.apple.com
+- is1-ssl.mzstatic.com
+- is5.mzstatic.com
+- is5-ssl.mzstatic.com
+
+Mapbox
+------
+ℹ️  Mapping infrastructure provider used by a large number of applications.
+
+- mapbox.com
+- www.mapbox.com
+- api.mapbox.com
+- api.tiles.mapbox.com
+- a.tiles.mapbox.com
+- b.tiles.mapbox.com
+- c.tiles.mapbox.com
+- d.tiles.mapbox.com
+- events.mapbox.com
+- studio.mapbox.com
+- analytics.mapbox.com
+- cloudfront.mapbox.com
+- config.mapbox.com
+- static-assets.mapbox.com
+- search.mapbox.com
+- navigation.mapbox.com
+- telemetry.mapbox.com
+- crash.mapbox.com
+- api.mapbox.cn
+- events.mapbox.cn
+
+HERE Maps
+---------
+ℹ️  Leading map provider for the automotive industry.
+
+- here.com
+- ls.hereapi.com
+- router.hereapi.com
+- geocoder.ls.hereapi.com
+- fleet.ls.hereapi.com
+- matrix.router.hereapi.com
+- weather.hereapi.com
+- traffic.hereapi.com
+- positioning.hereapi.com
+- js.api.here.com
+- matrix.route.ls.hereapi.com
+- image.ls.hereapi.com
+- discover.search.hereapi.com
+- geocode.search.hereapi.com
+- revgeocode.search.hereapi.com
+- 1.traffic.maps.ls.hereapi.com
+- 2.traffic.maps.ls.hereapi.com
+- 1.base.maps.ls.hereapi.com
+- 2.base.maps.ls.hereapi.com
+- autocomplete.search.hereapi.com
+- pos.ls.hereapi.com
+- isoline.route.ls.hereapi.com
+- autosuggest.search.hereapi.com
+- browse.search.hereapi.com
+- lookup.search.hereapi.com
+- places.sit.ls.hereapi.com
+- places.cit.api.here.com
+- autocomplete.geocoder.cit.api.here.com
+- wego.here.com
+- help.here.com
+- base.maps.api.here.com
+- aerial.maps.api.here.com
+- sps.data.here.com
+- geocoder.api.here.com
+- autocomplete.geocoder.api.here.com
+- reverse.geocoder.api.here.com
+- route.api.here.com
+- matrix.route.api.here.com
+- isoline.route.api.here.com
+- traffic.api.here.com
+- traffic.maps.api.here.com
+- places.api.here.com
+- vector.hereapi.com
+- maps.hereapi.com
+- transit.hereapi.com
+- optimize.hereapi.com
+- platform.here.com
+- account.here.com
+- signon.here.com
+- cit.platform.here.com
+- 1.maps.ls.hereapi.com
+- 2.maps.ls.hereapi.com
+- 1.aerial.maps.ls.hereapi.com
+- 2.aerial.maps.ls.hereapi.com
+
+TomTom
+------
+ℹ️  Navigation and automotive mapping solutions.
+
+- tomtom.com
+- api.tomtom.com
+- traffic.tomtom.com
+- routing.api.tomtom.com
+- search.api.tomtom.com
+- maps.api.tomtom.com
+- sdk.tomtom.com
+- cdn.tomtom.com
+- move.tomtom.com
+- orbis.tomtom.com
+- scmts.tomtom.com
+- appanalytics.tomtom.com
+- developer.tomtom.com
+- help.tomtom.com
+- a.api.tomtom.com
+- b.api.tomtom.com
+- c.api.tomtom.com
+- d.api.tomtom.com
+- mapmaker.tomtom.com
+- fleet.tomtom.com
+- telematics.tomtom.com
+- webfleet.com
+- navicore.com
+- portal.navicore.com
+
+TomTom AmiGO
+------------
+ℹ️  Uses TomTom's infrastructure. All TomTom domains listed above apply.
+
+- -> All domains listed for the main platform above apply.
+
+============================================================
+🟡 MEDIUM PRIORITY
+============================================================
+
+MapQuest
+--------
+ℹ️  Part of IAC/Dotdash.
+
+- mapquest.com
+- api.mapquest.com
+- open.mapquest.com
+- www.mapquestapi.com
+- open.mapquestapi.com
+- developer.mapquest.com
+- otile1.mqcdn.com
+- otile2.mqcdn.com
+- otile3.mqcdn.com
+- otile4.mqcdn.com
+- oatile1.mqcdn.com
+- oatile2.mqcdn.com
+- oatile3.mqcdn.com
+- oatile4.mqcdn.com
+- betastatic.mqcdn.com
+- content.mqcdn.com
+- *.mqcdn.com
+- api.mqcdn.com
+
+Citymapper
+----------
+ℹ️  Acquired by Via Transportation.
+
+- citymapper.com
+- api.external.citymapper.com
+- docs.external.citymapper.com
+- content.citymapper.com
+- support.citymapper.com
+- static.citymapper.com
+- images.citymapper.com
+- ridewithvia.com
+- via.com
+
+Moovit
+------
+ℹ️  Part of Intel/Mobileye; public transit navigation.
+
+- moovit.com
+- api.moovit.com
+- analytics.moovit.com
+- moovitapp.com
+- app5.moovitapp.com
+- support.moovitapp.com
+- api-docs.moovit.com
+- api.moovitapp.com
+- cdn.moovitapp.com
+- static.moovitapp.com
+- mooviters.moovit.com
+- mobileye.com
+
+Maps.me
+-------
+ℹ️  Crypto payment integration added. Some tracking issues reported.
+
+- maps.me
+- api.maps.me
+- www.maps.me
+- resources.maps.me
+- web.maps.me
+- analytics.maps.me
+- stat.maps.me
+- account.my.com
+
+OsmAnd
+------
+ℹ️  Open source; operates mostly offline.
+
+- osmand.net
+- www.osmand.net
+- tile.osmand.net
+- download.osmand.net
+- cloud.osmand.net
+- tile.openstreetmap.org
+- a.tile.openstreetmap.org
+- b.tile.openstreetmap.org
+- c.tile.openstreetmap.org
+- mapillary.com
+- images.mapillary.com
+- sentry.io
+- o1.ingest.sentry.io
+
+Organic Maps
+------------
+ℹ️  Almost entirely offline. A KAYAK affiliate integration has been identified.
+
+- organicmaps.app
+- omaps.app
+- cdn.organicmaps.app
+- cdn-fi1.organicmaps.app
+- meta.organicmaps.app
+- kayak.com
+
+CoMaps
+------
+ℹ️  Fork of Organic Maps — created in April 2025.
+
+- comaps.app
+- www.comaps.app
+- cdn.comaps.app
+- maps.comaps.app
+- codeberg.org
+
+CoPilot GPS
+-----------
+ℹ️  Part of Trimble Maps.
+
+- copilotgps.com
+- copilotpro.com
+- support.copilotpro.com
+- support.copilotgps.com
+- developer.trimblemaps.com
+- support.developer.trimblemaps.com
+- maps.trimble.com
+- *.alk.com
+- *.trimblemaps.com
+
+Sygic
+-----
+ℹ️  Official firewall list confirmed via sygic.com/developers.
+
+- sygic.com
+- developers.sygic.com
+- productserver.sygic.com
+- productserver.api.sygic.com
+- auth.sygic.com
+- auth.api.sygic.com
+- traffic.api.sygic.com
+- traffic-cdn.sygic.com
+- speedcams.platform.sygic.com
+- cdn-osc.sygic.com
+- notifications.sygic.com
+- cdn.sygic.com
+- cdn-sygic.akamaized.net
+- eshop.sygic.com
+- checkout.sygic.com
+- fuelproxy.platform.sygic.com
+- fuel.api.sygic.com
+- driverbehaviorapi.azurewebsites.net
+- sygic.api.infinario.com
+- routing.api.sygic.com
+- gb-accounts-enduser-gw.api.sygic.com
+- sygicnonttsvoices-cdn.azureedge.net
+- nonttsvoices-cdn.sygic.com
+- www-sygic.akamaized.net
+
+Komoot
+------
+
+- komoot.com
+- komoot.de
+- photon.komoot.io
+- photon.komoot.de
+- auth-api.main.komoot.net
+- external-api.komoot.de
+- support.komoot.com
+- api.komoot.de
+- api.komoot.com
+- www.komoot.de
+- www.komoot.com
+- cdn-www.komoot.de
+- images.komoot.de
+- images.komoot.com
+- static.komoot.net
+- analytics.komoot.com
+
+Mapy.cz / Mapy.com
+------------------
+ℹ️  Rebranded as Mapy.com in 2025. Leading mapping service in the Czech Republic.
+
+- api.mapy.cz
+- api.mapy.com
+- mapy.cz
+- mapy.com
+- developer.mapy.com
+- seznam.cz
+- *.seznam.cz
+- mapserver.mapy.cz
+- mapserver.mapy.com
+- panorama.mapy.cz
+- panorama.mapy.com
+- login.szn.cz
+- login.seznam.cz
+- static.szn.cz
+- hit.seznam.cz
+
+Yandex Maps
+-----------
+ℹ️  Russia-based. Uses the same infrastructure as Yandex Navigator.
+
+- yandex.com/maps-api
+- api-maps.yandex.ru
+- tech.yandex.com/maps
+- geocode-maps.yandex.com
+- geocode-maps.yandex.ru
+- static-maps.yandex.ru
+- enterprise.api-maps.yandex.ru
+- yastatic.net
+- api.yandex.ru
+- suggest-maps.yandex.ru
+- *.maps.yandex.net
+- core-renderer-tiles.maps.yandex.net
+- core-jams-rdr-cache.maps.yandex.net
+- core-gpstiles.maps.yandex.net
+- core-nbgeo.maps.yandex.net
+- mapkit.maps.yandex.net
+- mobile.maps.yandex.net
+- tiles.api-maps.yandex.ru
+- vec.maps.yandex.ru
+- router.maps.yandex.net
+- core-router.maps.yandex.net
+- core-masstransit.maps.yandex.net
+- pano.maps.yandex.net
+- core-pano.maps.yandex.net
+
+2GIS
+----
+ℹ️  Originating from Russia/CIS. Acquired by Sber (Sberbank).
+
+- 2gis.com
+- 2gis.ru
+- dev.2gis.com
+- dev.2gis.ru
+- api.2gis.com
+- api.2gis.ru
+- catalog.api.2gis.ru
+- docs.2gis.com
+- platform.2gis.ru
+- maps.api.2gis.ru
+- tile0-sdk.maps.2gis.com
+- tile1-sdk.maps.2gis.com
+- tile2-sdk.maps.2gis.com
+- tile3-sdk.maps.2gis.com
+- *.maps.2gis.com
+- keys.api.2gis.com
+- tiles0.2gis.com
+- tiles1.2gis.com
+- tiles2.2gis.com
+- tiles3.2gis.com
+- tile0.maps.2gis.com
+- tile1.maps.2gis.com
+- tile2.maps.2gis.com
+- tile3.maps.2gis.com
+- pro.2gis.ru
+- pro.2gis.com
+- docs.2gis.ru
+- platform.2gis.com
+- static.2gis.com
+- static.2gis.ru
+- cdn.2gis.ru
+
+Baidu Maps
+----------
+ℹ️  China-based.
+
+- map.baidu.com
+- api.map.baidu.com
+- lbsyun.baidu.com
+- online0.map.bdimg.com
+- online1.map.bdimg.com
+- online2.map.bdimg.com
+- online3.map.bdimg.com
+- online4.map.bdimg.com
+- online5.map.bdimg.com
+- online6.map.bdimg.com
+- online7.map.bdimg.com
+- online8.map.bdimg.com
+- online9.map.bdimg.com
+- maponline0.bdimg.com
+- maponline1.bdimg.com
+- maponline2.bdimg.com
+- maponline3.bdimg.com
+- webmap0.bdimg.com
+- webmap1.bdimg.com
+- shangetu0.map.bdimg.com
+- shangetu1.map.bdimg.com
+- shangetu2.map.bdimg.com
+- shangetu3.map.bdimg.com
+- shangetu4.map.bdimg.com
+- shangetu5.map.bdimg.com
+- shangetu6.map.bdimg.com
+- shangetu7.map.bdimg.com
+- shangetu8.map.bdimg.com
+- shangetu9.map.bdimg.com
+- api0.map.bdimg.com
+- api1.map.bdimg.com
+- api2.map.bdimg.com
+- gss0.bdstatic.com
+- gss1.bdstatic.com
+- gss2.bdstatic.com
+- gss3.bdstatic.com
+- its.map.baidu.com
+- bdstatic.com
+- pcsv.map.bdimg.com
+- sv.map.bdimg.com
+- mapsv0.bdimg.com
+- mapsv1.bdimg.com
+- navi.map.baidu.com
+- map3d.baidu.com
+
+Naver Map
+---------
+ℹ️  Leading mapping service in South Korea.
+
+- map.naver.com
+- naver.com
+- navermaps.github.io
+- repository.map.naver.com
+- www.ncloud.com
+- naveropenapi.apigw.ntruss.com
+- openapi.map.naver.com
+- openapi.naver.com
+- ncloud.com
+- simg.pstatic.net
+- map.pstatic.net
+- map1.pstatic.net
+- map2.pstatic.net
+- map3.pstatic.net
+- map4.pstatic.net
+- ssl.pstatic.net
+- static.naver.net
+- nid.naver.com
+- wcs.naver.com
+
+Kakao Map
+---------
+ℹ️  Leading mapping service in South Korea. Daum CDN is also used.
+
+- map.kakao.com
+- dapi.kakao.com
+- apis.map.kakao.com
+- place.map.kakao.com
+- kauth.kakao.com
+- kapi.kakao.com
+- developers.kakao.com
+- accounts.kakao.com
+- kakaocdn.net
+- t1.kakaocdn.net
+- t2.kakaocdn.net
+- t3.kakaocdn.net
+- t4.kakaocdn.net
+- img.kakaocdn.net
+- img1.kakaocdn.net
+- img2.kakaocdn.net
+- img3.kakaocdn.net
+- img4.kakaocdn.net
+- search.kakaocdn.net
+- search1.kakaocdn.net
+- search2.kakaocdn.net
+- search3.kakaocdn.net
+- search4.kakaocdn.net
+- page.kakaocdn.net
+- p.kakaocdn.net
+- item.kakaocdn.net
+- blog.kakaocdn.net
+- daumcdn.net
+- i1.daumcdn.net
+- t1.daumcdn.net
+- s1.daumcdn.net
+- m1.daumcdn.net
+- m2.daumcdn.net
+- img1.daumcdn.net
+- img2.daumcdn.net
+- img3.daumcdn.net
+- img4.daumcdn.net
+- search1.daumcdn.net
+- mail1.daumcdn.net
+- ssl.daumcdn.net
+- shop.daumcdn.net
+- shop1.daumcdn.net
+- shop2.daumcdn.net
+- mts.daumcdn.net
+- tistory1.daumcdn.net
+- postcode.map.daum.net
+- suggest-bar.daum.net
+- apis.daum.net
+- map.daum.net
+- stlog1-local.kakao.com
+- map1.daumcdn.net
+- map2.daumcdn.net
+- map3.daumcdn.net
+- map4.daumcdn.net
+- api.kakao.com
+- ua.kakao.com
+- au.kakao.com
+- track.kakao.com
+- oauth.kakao.com
+
+Magic Earth
+-----------
+ℹ️  Developed by GeneralMagic.
+
+- magicearth.com
+- magiclane.com
+- services.magicearthsdk.com
+- m71os.services.magicearthsdk.com
+- magicearthsdk.com
+- developer.magiclane.com
+- generalmagic.com
+- support.magicearth.com
+- help.magicearth.com
+- traffic.magicearthsdk.com
+- routing.magicearthsdk.com
+- maps.magicearthsdk.com
+- cdn.magicearthsdk.com
+- update.magicearthsdk.com
+- accounts.generalmagic.com
+- api.generalmagic.com
+
+Gaia GPS
+--------
+ℹ️  Part of Outside Inc. Uses Mapbox infrastructure.
+
+- gaiagps.com
+- www.gaiagps.com
+- help.gaiagps.com
+- blog.gaiagps.com
+- api.gaiagps.com
+- images.gaiagps.com
+- tiles.gaiagps.com
+- outside.io
+- auth.outside.io
+- cdn.outside.io
+- outsideinc.com
+
+Avenza Maps
+-----------
+
+- avenzamaps.com
+- avenza.com
+- store.avenza.com
+- support.avenzamaps.com
+- support.avenza.com
+- api.avenzamaps.com
+- api.avenza.com
+- cdn.avenzamaps.com
+- maps.avenzamaps.com
+- auth.avenzamaps.com
+
+Ride with GPS
+-------------
+ℹ️  Bicycle route planning. Uses its own tileserver-gl.
+
+- ridewithgps.com
+- support.ridewithgps.com
+- api.ridewithgps.com
+- tiles.ridewithgps.com
+- static.ridewithgps.com
+- images.ridewithgps.com
+
+REVER
+-----
+ℹ️  Motorcycle route app. Part of Comoto Holdings.
+
+- rever.co
+- www.rever.co
+- api.rever.co
+- a.rever.co
+- cdn.rever.co
+- static.rever.co
+- images.rever.co
+- auth.rever.co
+- butlermaps.com
+- www.butlermaps.com
+- comotoholdings.com
+
+MyRoute-app
+-----------
+
+- myrouteapp.com
+- www.myrouteapp.com
+- planner.myrouteonline.com
+- myrouteonline.com
+- support.myrouteapp.com
+- forum.myrouteapp.com
+- info.myrouteapp.com
+
+Kurviger
+--------
+ℹ️  Motorcycle route planning.
+
+- kurviger.de
+- kurviger.com
+- docs.kurviger.com
+- forum.kurviger.com
+- api.kurviger.de
+- api.kurviger.com
+- tiles.kurviger.de
+- static.kurviger.de
+- cdn.kurviger.de
+- auth.kurviger.de
+
+Calimoto
+--------
+ℹ️  Motorcycle route app.
+
+- calimoto.com
+- www.calimoto.com
+- support.calimoto.com
+- api.calimoto.com
+- cdn.calimoto.com
+- static.calimoto.com
+- auth.calimoto.com
+
+ViaMichelin
+-----------
+ℹ️  Michelin Group mapping and travel service.
+
+- viamichelin.com
+- viamichelin.fr
+- viamichelin.de
+- viamichelin.it
+- viamichelin.es
+- viamichelin.co.uk
+- api.viamichelin.com
+- apijsv2.viamichelin.com
+- dev.viamichelin.fr
+- developer.michelin.com
+- developers.viamichelin.com
+- business-solutions.travel.michelin.com
+- ddi.michelin.com
+- tiles.viamichelin.com
+- maps.viamichelin.com
+- static.viamichelin.com
+- cdn.viamichelin.com
+- media.viamichelin.com
+- auth.viamichelin.com
+- michelin.com
+- www.michelin.com
+
+Karta GPS (NDrive)
+------------------
+
+- ndrive.com
+- kartatech.com
+- kartatech.zendesk.com
+
+CityMaps2Go
+-----------
+
+- citymaps2go.com
+- www.citymaps2go.com
+- app.citymaps2go.com
+- ulmon.com
+- kulemba.com
+
+Petal Maps (Huawei)
+-------------------
+ℹ️  Uses Huawei HMS Core infrastructure. China-based.
+
+- petalmaps.com
+- www.petalmaps.com
+- developer.petalmaps.com
+- developer.huawei.com
+- consumer.huawei.com
+- appgallery.huawei.com
+- appgallery.cloud.huawei.com
+- hicloud.com
+- *.hicloud.com
+- mapapi.cloud.huawei.com
+- siteapi.cloud.huawei.com
+- dbankcloud.com
+- dbankcloud.cn
+- dbankcloud.eu
+- dbankcloud.ru
+- dbankcloud.asia
+- agconnect.cloud.huawei.com
+- connect-api.cloud.huawei.com
+- mapliteservice.cloud.huawei.com
+- myhuaweicloud.com
+- *.myhuaweicloud.com
+- oauth-login.cloud.huawei.com
+- account.cloud.huawei.com
+
+Polaris GPS Navigation
+----------------------
+
+- discipleskies.com
+- www.discipleskies.com
+
+MapFactor Navigator
+-------------------
+ℹ️  OpenStreetMap-based offline navigation.
+
+- mapfactor.com
+- navigatorfree.mapfactor.com
+- support.mapfactor.com
+- sdk.mapfactor.com
+- forum.mapfactor.com
+- kb.mapfactor.com
+- update.mapfactor.com
+- maps.mapfactor.com
+- online.mapfactor.com
+- traffic.mapfactor.com
+- openstreetmap.org
+- tile.openstreetmap.org
+
+Navmii — DISCONTINUED (May 2025)
+---------------------------------
+ℹ️  Service discontinued. Domains are no longer active.
+
+- navmii.com
+- www.navmii.com
+- developer.navmii.com
+- support.navmii.com
+
+Scout GPS
+---------
+ℹ️  Part of Telenav.
+
+- scoutgps.com
+- www.scoutgps.com
+- telenav.com
+
+inRoute
+-------
+
+- inroute.com
+- www.inroute.com
+
+Hiking Project / onX Maps
+-------------------------
+ℹ️  REI sold Hiking Project to onX (2022). adventureprojects.net is also active.
+
+- hikingproject.com
+- www.hikingproject.com
+- adventureprojects.net
+- onxmaps.com
+- api.onxmaps.com
+- cdn.onxmaps.com
+- tiles.onxmaps.com
+- auth.onxmaps.com
+- hunt.onxmaps.com
+- offroad.onxmaps.com
+
+============================================================
+MARITIME NAVIGATION
+============================================================
+
+Navionics Boating (Garmin)
+--------------------------
+ℹ️  Marine charting. Integrated with Garmin infrastructure.
+
+- navionics.com
+- www.navionics.com
+- webapiv2.navionics.com
+- backend.navionics.io
+- activecaptain.com
+- activecaptain.garmin.com
+- tile1.navionics.com
+- tile2.navionics.com
+- tile3.navionics.com
+- tile4.navionics.com
+- webapp.navionics.com
+- connect.garmin.com
+- connectapi.garmin.com
+- apiconnect.garmin.com
+- sso.garmin.com
+- static.garmin.com
+
+Wavve Boating
+-------------
+
+- wavveboating.com
+- www.wavveboating.com
+- wavve.ca
+
+iNavX
+-----
+ℹ️  Uses TheChartLocker and X-Traverse as chart providers.
+
+- inavx.com
+- www.inavx.com
+- api.inavx.com
+- thechartlocker.com
+- x-traverse.com
+
+Savvy Navvy
+-----------
+
+- savvy-navvy.com
+- www.savvy-navvy.com
+- app.savvy-navvy.com
+- api-dashboard.savvy-navvy.com
+- help.savvy-navvy.com
+- charts.savvy-navvy.com
+- tiles.savvy-navvy.com
+
+Argo Navigation
+---------------
+
+- argonav.io
+- www.argonav.io
+- web.argonav.io
+- api.argonav.io
+- cdn.argonav.io
+- static.argonav.io
+- auth.argonav.io
+
+AquaMap
+-------
+
+- aquamap.app
+- www.aquamap.app
+
+SeaPilot (Raymarine)
+--------------------
+ℹ️  Part of Teledyne/FLIR.
+
+- seapilot.com
+- www.seapilot.com
+- raymarine.com
+- flir.com
+- teledyne.com
+
+OpenCPN
+-------
+ℹ️  Open-source marine navigation.
+
+- opencpn.org
+- www.opencpn.org
+- mail.opencpn.org
+- github.com/OpenCPN
+- plugins.opencpn.org
+- charts.openseamap.org
+- openseamap.org
+- tiles.openseamap.org
+- tile.openstreetmap.org
+
+C-MAP (Navico)
+--------------
+ℹ️  Shares the same Navico infrastructure as Simrad, Lowrance, and B&G.
+
+- c-map.com
+- www.c-map.com
+- appchart.c-map.com
+- app.c-map.com
+- services.c-map.com
+- navico.com
+- navico-commercial.com
+- developer.navico.com
+- simrad.com
+- lowrance.com
+- bandg.com
+- commercialmarine.c-map.com
+
+SEAiq Pilot
+-----------
+
+- seaiq.com
+- www.seaiq.com
+- doc.seaiq.com
+
+iSailor (Wartsila / Transas)
+----------------------------
+
+- wartsila.com
+
+NavGlow Marine Navigator
+------------------------
+
+- visitmyharbour.com
+
+qtVlm
+-----
+ℹ️  Open-source marine navigation software.
+
+- v-l-m.org
+- wiki.v-l-m.org
+- grib.v-l-m.org
+- router.v-l-m.org
+- forum.v-l-m.org
+
+TimeZero (Nobeltec)
+-------------------
+ℹ️  MaxSea/TimeZero cloud services active.
+
+- mytimezero.com
+- www.mytimezero.com
+- maxsea.com
+- nobeltec.com
+- cloud.mytimezero.com
+- api.mytimezero.com
+- charts.mytimezero.com
+- maxsea.fr
+- www.maxsea.fr
