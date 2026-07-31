@@ -1,0 +1,1168 @@
+# PET TRACKING & CARE APPS RESEARCH LIST
+
+## 🔴 GPS PET TRACKERS
+
+### Tractive (Austria)
+- tractive.com
+- my.tractive.com
+- api.tractive.com
+- *.tractive.com
+- app.tractive.com
+- cdn.tractive.com
+- analytics.tractive.com
+- tracking.tractive.com
+- help.tractive.com
+- shop.tractive.com
+
+### Fi (Smart Dog Collar)
+- tryfi.com
+- api.tryfi.com
+- app.tryfi.com
+- cdn.tryfi.com
+- analytics.tryfi.com
+- my.tryfi.com
+- graphql.tryfi.com
+
+### Jiobit (Life360 — ACQUIRED)
+- jiobit.com
+- api.jiobit.com
+- app.jiobit.com
+- tracking.jiobit.com
+- my.jiobit.com
+- support.jiobit.com
+
+### Link AKC
+- linkakc.com
+- api.linkakc.com
+- app.linkakc.com
+- linkmypet.com
+- help.linkakc.com
+- shop.linkakc.com
+- cdn.linkakc.com
+
+### Pawscout (Bluetooth)
+- pawscout.com
+- api.pawscout.com
+- app.pawscout.com
+- support.pawscout.com
+
+### Cube Tracker
+- cubetracker.com
+- shop.cubetracker.com
+- www.cubetracker.com
+
+### Findster (Peer-to-peer)
+- getfindster.com
+- api.getfindster.com
+- app.getfindster.com
+- support.getfindster.com
+
+### Halo Collar
+- halocollar.com
+- api.halocollar.com
+- app.halocollar.com
+- my.halocollar.com
+- support.halocollar.com
+- dogpark.halocollar.com
+
+### SpotOn GPS Fence
+- spotonvirtualfence.com
+- api.spotonvirtualfence.com
+- app.spotonvirtualfence.com
+- help.spotonvirtualfence.com
+- shop.spotonvirtualfence.com
+- spotoncollar.freshdesk.com
+- spotonfence.com
+
+### Kippy (GPS)
+- kippy.eu
+- app.kippy.eu
+- api.kippy.eu
+- support.kippy.eu
+
+### Weenect
+- weenect.com
+- my.weenect.com
+- api.weenect.com
+
+### Life360 Pet GPS
+- life360.com
+
+### Tabcat (RF tracker)
+- tabcat.com
+- us.tabcat.com
+- mytabcat.com
+- loc8tor.com
+
+### Tracki / TrackiPet
+- tracki.com
+- gb-tracki.glopalstore.com
+- app.tracki.com
+
+### Garmin (Alpha, Atemos, inReach serisi)
+- garmin.com
+- connect.garmin.com
+- developer.garmin.com
+- api.garmin.com
+- apis.garmin.com
+- support.garmin.com
+- connectapi.garmin.com
+- apiconnect.garmin.com
+- api.gcs.garmin.com 
+- buy.garmin.com 
+- device-proxy.garmin.com 
+- deviceresources.garmin.com 
+- diauth.garmin.com 
+- download.garmin.com 
+- fonts.garmin.com 
+- gcs.garmin.com 
+- geolocation.garmin.com 
+- gold.garmin.com 
+- matomo.garmin.com 
+- omt.garmin.com 
+- res.garmin.com 
+- services.garmin.com 
+- sso.garmin.com 
+- static.garmin.com 
+- subscriptions.garmin.com 
+- explore.garmin.com 
+- inreach.garmin.com 
+- account.inreach.garmin.com
+- account-api.inreach.garmin.com
+- enterprise.inreach.garmin.com
+- garmincdn.com
+
+### PitPat
+- pitpat.com
+- pitpatpet.com
+- api.pitpatpet.com
+- app.pitpatpet.com
+- my.pitpatpet.com
+
+### Invoxia / Minitailz
+- invoxia.com
+- invoxia-iot.com
+- api.invoxia.com
+- support.invoxia.com
+- invoxia.zendesk.com
+- shop.invoxia.com
+- track.invoxia.com
+- petcare.invoxia.com
+- labs.invoxia.io 
+
+### Aorkuler
+- aorkuler.com
+
+### Family1st
+- family1st.io
+- go.family1st.io
+- activation.family1st.io
+
+### LandAirSea 54
+- landairsea.com
+- fleet.optimustracking.com
+
+### Optimus 2.0
+- optimustracker.com
+- fleet.optimustracking.com
+
+### Amcrest GL300
+- amcrest.com
+- amcrestgpstracker.com
+- amcrestgps.com
+- portal.amcrest.com
+- s3.amazonaws.com
+
+### Pawfit
+- pawfit.com
+- www.pawfit.com
+- support.pawfit.com
+
+### GlocalMe PetPhone
+- glocalme.com
+- store.glocalme.com
+- petphone.glocalme.com
+- eu.glocalme.com
+
+### Petivity (Purina)
+- petivity.com
+- www.petivity.com
+
+### Dogtra Pathfinder
+- dogtra.com
+- dogtrapathfinder.com
+
+### Trackimo
+- trackimo.com
+- app.trackimo.com
+- plus.trackimo.com
+- trackimo.info
+
+### Marco Polo (RF Tracker)
+- eurekaproducts.com
+
+---
+
+## 🔴 PET CAMERAS & HOME MONITORING
+
+### Furbo Dog Camera (Tomofun)
+- furbo.com
+- api.furbo.com
+- us-api.furbo.com
+- eu-api.furbo.com
+- video.furbo.com
+- stream.furbo.com
+- analytics.furbo.com
+- cdn.furbo.com
+- app.furbo.com
+- shopus.furbo.com
+- help.furbo.com
+- rtsp.furbo.com
+- s3.furbo.com
+- events.furbo.com
+- asia.furbo.com
+- tomofun.com
+
+### Petcube
+- petcube.com
+- api.petcube.com
+- app.petcube.com
+- video.petcube.com
+- *.petcube.com
+- stream.petcube.com
+- analytics.petcube.com
+- my.petcube.com
+- cloud.petcube.com
+- care.petcube.com
+- timeline.petcube.com
+- tracker.petcube.com 
+
+### Skymee
+- skymeepaw.com
+- api.skymeepaw.com
+- store.skymee.com
+- en.skymee.com
+
+### SiiPet
+- siipet.com
+- app.siipet.com
+
+### WOpet
+- wopet.com
+
+### Petoneer
+- petoneer.com
+- support.petoneer.com
+
+### Enabot
+- enabot.com
+
+### PETKIT
+- petkit.com
+
+### SpotCam
+- myspotcam.com
+- store.spotcam.us
+
+### AOBOCAM
+- aobocam.net
+
+---
+
+## 🔴 PET HEALTH & VET APPS
+
+### Vetster
+- vetster.com
+- api.vetster.com
+- app.vetster.com
+- support.vetster.com
+
+### Airvet
+- airvet.com
+- api.airvet.com
+- app.airvet.com
+
+### PetDesk
+- petdesk.com
+- api.petdesk.com
+- app.petdesk.com
+- analytics.petdesk.com
+- stagebusinessapi.petdesk.com
+- petdesk.zendesk.com
+- kontaksupport.zendesk.com
+
+### VitusVet
+- vitusvet.com
+- api.vitusvet.com
+- app.vitusvet.com
+- my.vitusvet.com
+
+### Pawprint / GreatPetCare
+- pawprint.vet
+- api.pawprint.vet
+- getpawprint.com
+- greatpetcare.com
+- account.greatpetcare.com
+- pawprint.digital
+
+### PetPro Connect
+- petproconnect.com
+- api.petproconnect.com
+
+### Pawp
+- pawp.com
+- api.pawp.com
+- pawpinsurancesolutions.com
+
+### Vetsource
+- vetsource.com
+- api.vetsource.com
+- portal.securevetsource.com
+- practice.securevetsource.com
+- services.securevetsource.com
+- api.securevetsource.com
+
+### FirstVet
+- firstvet.com
+- app.firstvet.com
+
+### 11pets
+- 11pets.com
+- business.11pets.com
+
+### Dutch
+- dutch.com
+- www.dutch.com
+
+### Otto (Formerly TeleVet)
+- otto.vet
+- televet.com
+
+### AskVet
+- askvet.app
+- ask.vet
+
+### Anipanion
+- anipanion.com
+- app.anipanion.com
+
+### TTcare
+- ttcareforpet.com
+- aiforpet.com
+- ttcare.vet
+- ttcare.app
+
+### Vet-AI (UK)
+- vet-ai.com
+- www.vet-ai.com
+
+### Buddydoc
+- buddydoc.io
+- www.buddydoc.io
+
+### GuardianVets
+- guardianvets.com
+- prod.guardianvets.com
+
+### Digitail
+- digitail.com
+- vet.digitail.io
+
+### BabelBark
+- babelbark.com
+- babelvet.com
+- bizbark.com
+
+### Petlocity
+- petlocity.com
+- vetlocity.com
+
+### Sploot Vets
+- splootvets.com
+
+### Felmo
+- felmo.de
+- felmo.com
+- app.felmo.de
+
+### PetsApp
+- petsapp.com
+- petsapp.co.uk
+- petsapp.dev
+- docs.petsapp.com
+
+### Banfield (Mars)
+- banfield.com
+- mybanfield.com
+
+### Petable
+- petable.care
+- vets.petable.care
+
+---
+
+## 🔴 PET FITNESS & ACTIVITY TRACKERS
+
+### FitBark
+- fitbark.com
+- app.fitbark.com
+- api.fitbark.com
+- analytics.fitbark.com
+- my.fitbark.com
+- help.fitbark.com
+- shop.fitbark.com
+- app-api.fitbark.com 
+
+### Maven Pet
+- maven.pet
+- www.maven.pet
+- app.maven.pet 
+
+### PitPat
+- pitpat.com
+- pitpatpet.com
+- api.pitpatpet.com
+- app.pitpatpet.com
+- my.pitpatpet.com
+
+### Invoxia Minitailz
+- petcare.invoxia.com
+- invoxia.com
+- labs.invoxia.io
+
+### PetPace
+- petpace.com
+- orion.petpace.com
+
+### Felcana
+- felcana.com
+- www.felcana.com
+
+---
+
+## 🔴 PET FOOD & E-COMMERCE
+
+### Chewy
+- chewy.com
+- api.chewy.com
+- www.chewy.com
+- *.chewy.com
+- analytics.chewy.com
+- tracking.chewy.com
+
+### PetSmart
+- petsmart.com
+- api.petsmart.com
+- analytics.petsmart.com
+- services.petsmart.com
+
+### Petco
+- petco.com
+- api.petco.com
+- analytics.petco.com
+- product-prod.membership-prod.petco.com
+- rxpharma-qa.rxdev.petco.com
+- membership-prod.petco.com
+- membership-nonprod.petco.com
+
+### BarkBox (Bark & Co.)
+- barkbox.com
+- api.barkbox.com
+- app.barkbox.com
+- barkshop.com
+
+### Ollie
+- myollie.com
+- api.myollie.com
+- app.myollie.com
+- ollie.com
+
+### The Farmer's Dog
+- thefarmersdog.com
+- api.thefarmersdog.com
+- get.thefarmersdog.com
+- help.thefarmersdog.com
+- vets.thefarmersdog.com
+
+### Nom Nom (Mars Petcare)
+- nomnomnow.com
+- api.nomnomnow.com
+- support.nomnomnow.com
+- trynom.com
+
+### Spot & Tango
+- spotandtango.com
+- api.spotandtango.com
+- help.spotandtango.com
+- home.spotandtango.com
+- shop.spotandtango.com
+- learn.spotandtango.com
+
+### Pet Plate
+- petplate.com
+- api.petplate.com
+- origin-prod-wpengine.petplate.dev
+- subflow.petplate.com
+
+### Smalls
+- smallsforsmalls.com
+- smalls.com
+- api.smallsforsmalls.com
+- help.smalls.com
+- account.smalls.com
+
+### Maev
+- meetmaev.com
+- www.meetmaev.com
+- maevworld.com
+
+### Raised Right
+- raisedrightpets.com
+- www.raisedrightpets.com
+
+### We Feed Raw
+- wefeedraw.com
+- www.wefeedraw.com
+- wefeedraw.gorgias.help
+
+### Lucky Dog Cuisine
+- luckydogcuisine.com
+- legacy.luckydogcuisine.com
+- luckydogcuisine.ca
+
+### Dr. Marty
+- drmartypets.com
+- thedrmarty.com
+- naturesblendbydrmarty.com
+
+---
+
+## 🔴 PET INSURANCE
+
+### Trupanion
+- trupanion.com
+- api.trupanion.com
+- my.trupanion.com
+- vet.trupanion.com
+- americanpetinsurance.com
+- vetportal.trupanion.com
+- trupanion.sitefinity.cloud 
+
+### Nationwide
+- petinsurance.com
+- mypetinsurance.com
+- api.petinsurance.com
+- login.nationwide.com
+- my.petinsurance.com
+
+### Healthy Paws
+- healthypawspetinsurance.com
+- api.healthypawspetinsurance.com
+- myaccount.healthypawspetinsurance.com
+
+### Embrace
+- embracepetinsurance.com
+- api.embracepetinsurance.com
+
+### ASPCA Pet Insurance
+- aspcapetinsurance.com
+- api.aspcapetinsurance.com
+- vet.aspcapetinsurance.com
+
+### Fetch by The Dodo (Petplan)
+- gopetplan.com
+- fetchpet.com
+- api.fetchpet.com
+- fetchpetrx.com
+- my.fetchpet.com
+
+### Lemonade
+- lemonade.com
+- api.lemonade.com
+- lemonade.com/vets
+- api-doc-portal.lemonade.com
+
+### Pumpkin
+- pumpkin.care
+- api.pumpkin.care
+- member.pumpkin.care
+- portal.pumpkin.care
+- dvm.pumpkin.care
+
+### Figo
+- figopetinsurance.com
+- api.figopetinsurance.com
+- ebquote.figopetinsurance.com
+
+### MetLife (PetFirst)
+- petfirst.com
+- api.petfirst.com
+- mypets.metlife.com
+- metlifepetinsurance.com
+- identity.metlife.com
+
+### Pets Best
+- petsbest.com
+- api.petsbest.com
+- customer.petsbest.com
+
+### Spot Pet Insurance
+- spotpetins.com
+- api.spotpetins.com
+- getspot.com
+- spotpet.com
+- customer.spotpet.com
+- spotpetinsurance.ca
+
+### AKC Pet Insurance (Hartville)
+- akcpetinsurance.com
+- hartvillepetinsurance.com
+- petpartners.com
+
+### Prudent Pet
+- prudentpet.com
+- app.prudentpet.com
+- portal.prudentpet.com
+
+---
+
+## 🔴 PET SOCIAL NETWORKS & MARKETPLACES
+
+### Rover
+- rover.com
+- api.rover.com
+- www.rover.com
+- app.rover.com
+- analytics.rover.com
+- tracking.rover.com
+- support.rover.com 
+
+### Wag!
+- wagwalking.com
+- api.wagwalking.com
+- app.wagwalking.com
+- tracking.wagwalking.com
+- support.wagwalking.com
+- wag.co
+
+### Bark (BarkBox)
+- bark.co
+- api.bark.co
+- app.bark.co
+- air.bark.co
+- api-rudder.bark.co
+- shop.bark.co
+- barkpost.com
+- barkcam.com
+- barkbuddy.com
+
+### PetFinder (Purina)
+- petfinder.com
+- api.petfinder.com
+- www.petfinder.com
+- photos.petfinder.com
+- help.petfinder.com
+- developer-api.petfinder.com
+
+### Adopt-a-Pet
+- adoptapet.com
+- api.adoptapet.com
+- partner-apis.adoptapet.com
+- adoptapetcom.zendesk.com
+
+### Sniffspot
+- sniffspot.com
+- api.sniffspot.com
+- app.sniffspot.com
+- help.sniffspot.com
+- data.sniffspot.com 
+
+### PawsLikeMe
+- pawslikeme.com
+- api.pawslikeme.com
+- lifestyle.pawslikeme.com
+- pawslikemeblog.com
+
+### Pawshake
+- pawshake.com
+- support.pawshake.com
+
+### PetBacker
+- petbacker.com
+- web.petbacker.com
+
+### Mad Paws
+- madpaws.com.au
+
+### Swifto
+- swifto.com
+
+---
+
+## 🔴 PET MICROCHIP REGISTRIES
+
+### HomeAgain (Merck)
+- homeagain.com
+- public.homeagain.com
+- api.homeagain.com
+- merck-animal-health-usa.com
+- msd-animal-health-hub.co.uk
+- microchip.homeagain.com
+- vsurv.com 
+
+### AKC Reunite
+- akcreunite.org
+- api.akcreunite.org
+- apps.akcreunite.org
+- shop.akcreunite.org
+
+### Found Animals / 24PetWatch
+- foundanimals.org
+- api.foundanimals.org
+- found.org
+- registryapps.foundanimals.org
+- petplace.com
+
+### PetLink (Datamars)
+- petlink.net
+- microchipid.petlink.net
+- api.petlink.net
+- petlink.vet
+- petmaxx.com
+- pet.datamars.com
+- shop.petlink.net
+
+### 24PetWatch (PetPlace)
+- 24petwatch.com
+- api.24petwatch.com
+- mypethealth.com
+- my24pet.com
+- 24pet.com
+- pethealth.my.site.com
+- community.pethealth.my.site.com
+
+### AVID (PetTrac)
+- avidid.com
+- api.avidid.com
+- pettrac.com
+- pets.avidid.com
+- avidplc.com
+
+### Peeva
+- peeva.co
+- api.peeva.co
+
+---
+
+## 🔴 PET TRAINING APPS
+
+### Dogo App
+- dogo.app
+- api.dogo.app
+- app.dogo.app
+- get.dogo.app
+
+### Puppr
+- puppr.app
+- api.puppr.app
+
+### Zigzag (Purina)
+- zigzag.dog
+- api.zigzag.dog
+- app.zigzag.dog
+- zigzagpuppytrainingapp.zendesk.com
+
+### Pupford
+- pupford.com
+- api.pupford.com
+- academy.pupford.com
+
+### Woofz
+- woofz.com
+
+### GoodPup (Rover)
+- goodpup.com
+- api.goodpup.com
+- partner.goodpup.com
+
+### Hundeo
+- hundeo.com
+
+### EveryDoggy
+- everydoggy.com
+
+### Barksy
+- barksy.app
+
+### PawChamp
+- paw-champ.com
+
+### Traini
+- traini.app
+
+---
+
+## 🔴 PET MEDICATION & PHARMACY
+
+### 1-800-PetMeds
+- 1800petmeds.com
+- petmeds.com
+- api.petmeds.com
+- pethealthmd.com
+
+### Allivet
+- allivet.com
+- api.allivet.com
+- allyvet.com
+- akcreunitepharmacy.com
+- akcrx.com
+
+### Vetco (Petco)
+- vetcoclinics.com
+- api.vetcoclinics.com
+- vetcoclinics.petco.com
+- petpass.com
+
+### PetCareRx
+- petcarerx.com
+- api.petcarerx.com
+- petcarerx.pharmacy
+- walmartpetrx.com
+
+Chewy Pharmacy: chewy.com/pharmacy
+
+---
+---
+
+## 🔴 SMART PET FEEDERS & WATER FOUNTAINS
+
+### Sure Petcare (Merck) — SureFlap
+- surepetcare.com
+- surepetcare.io
+- app.surepetcare.io
+- hub.api.surepetcare.io
+- hub.api.surehub.io
+- app.api.surehub.io
+- status.surepetcare.io 
+
+### Petlibro
+- petlibro.com
+- api.petlibro.com
+- app.petlibro.com
+- help.petlibro.com
+- designlibro.zendesk.com
+- openapi.petlibro.com 
+
+### Whisker / Litter-Robot
+- whisker.com
+- api.whisker.com
+- app.whisker.com
+- v2.api.whisker.iothings.site
+- autopets.sso.iothings.site
+- dispatch.iothings.site
+- ota.dev.iothings.site
+- graphql.whisker.iothings.site
+- litter-robot.com
+- app.litter-robot.com
+- api.litter-robot.com
+- iot.litter-robot.com
+- 42nk7qrhdg.execute-api.us-east-1.amazonaws.com 
+
+### PetSafe
+- petsafe.net
+- api.petsafe.net
+- my.petsafe.net
+- app.petsafe.net
+- support.petsafe.net
+- store.petsafe.net
+- ccplatform.cloud.petsafe.net 
+- cdn.ps-smartfeed.cloud.petsafe.net
+- ps-smartfeed.cloud.petsafe.net 
+
+### Cat Mate
+- pet-mate.com
+- api.pet-mate.com
+- www.pet-mate.com
+
+### Catit
+- catit.com
+- api.catit.com
+- catit.us
+- catit.ca
+
+### PupPod
+- puppod.com
+- interactivedogpuzzles.com
+
+### CATLINK
+- catlinkus.com
+- catlinkglobal.com
+- app.catlinks.cn
+- app-usa.catlinks.cn
+- app-eu.catlinks.cn
+- image-usa.catlinks.cn
+
+### Petivity Smart Litter Box (Purina)
+- petivity.com
+- www.petivity.com
+
+---
+
+## 🔴 LOST PET APPS
+
+### PawBoost
+- pawboost.com
+
+### Finding Rover / Petco Love Lost
+- petcolove.org
+- lost.petcolove.org
+- petcolovelost.org
+
+### Petnow
+- petnow.io
+
+### Lost Dogs of America
+- lostdogsofamerica.org
+- petfbi.org
+- helpinglostpets.com
+
+### WeRescue
+- werescue.pet
+
+---
+
+## 🔴 PET TRAVEL & TRANSPORTATION
+
+### BringFido
+- bringfido.com
+- api.bringfido.com
+- petamenitykits.com
+- help.bringfido.com 
+
+### CitizenShipper
+- citizenshipper.com
+- api.citizenshipper.com
+- app.citizenshipper.com
+
+### PetRelocation
+- petrelocation.com
+- api.petrelocation.com
+- courses.petrelocation.com
+
+---
+
+## 🔴 PET SUBSCRIPTION BOXES
+
+### Meowbox
+- meowbox.com
+
+### KitNipBox
+- kitnipbox.com
+- get.kitnipbox.com
+
+### PupBox
+- pupbox.com
+
+### BullyMake
+- bullymake.com
+- chews.bullymake.com
+
+---
+
+## 🔴 PET BOARDING & DAYCARE
+
+### PetBacker
+- petbacker.com
+- api.petbacker.com
+- app.petbacker.com
+
+### TrustedHousesitters
+- trustedhousesitters.com
+- api.trustedhousesitters.com
+- app.trustedhousesitters.com
+
+---
+
+## 🔴 PET WASTE MANAGEMENT
+
+### Pooch Paper
+- poochpaper.com
+- api.poochpaper.com
+
+### BrilliantPad
+- brilliantpad.com
+- api.brilliantpad.com
+- app.brilliantpad.com
+
+### iDig
+- smartidig.com
+- api.smartidig.com
+
+---
+
+## 🔴 PET DIABETES & HEALTH MONITORING APPS
+
+### Pet Diabetes Tracker (Merck)
+- merck-animal-health-usa.com
+- petdiabetesmonth.com
+
+### PetDialog (Zoetis)
+- petdialog.com
+- api.petdialog.com
+
+### RVC Pet Diabetes (Royal Veterinary College)
+- therumbafoundation.org.uk
+
+### Cardalis (Ceva)
+- dogheartdisease.com
+
+### PetVitality
+- petvitality.io
+
+---
+
+## 🔴 PET ADOPTION PLATFORMS
+
+### Rehome by Adopt-a-Pet
+- rehome.adoptapet.com
+- rehome.zendesk.com
+
+### Benji
+- findbenji.com
+- www.findbenji.com
+
+### Pets Home
+- petshome.app
+- www.petshome.app
+
+### BarkBuddy
+- barkbuddy.com
+- bark.co
+
+### North Shore Animal League
+- animalleague.org
+- takeaction.animalleague.org
+- phcanimalleague.com
+
+### Home-Home.org
+- home-home.org
+
+---
+
+## 🔴 PET NUTRITION APPS
+
+### PAWSM
+- pawsm.com
+- tools.pawsm.com
+
+### Balance It
+- balance.it
+- balanceit.com
+- secure.balanceit.com
+
+### ChefPaw (Innovet)
+- chefpaw.com
+- innovetpet.com
+
+### Petmobi
+- petmobi.com
+
+### DuePet
+- duepet.com
+
+---
+
+## 🔴 PET ANXIETY CALMING MUSIC & TV
+
+### Zoundz
+- zoundzforpets.com
+
+### Pet Acoustics+
+- petacoustics.com
+
+### iCalmPet
+- icalmpet.com
+- icalmpublic.s3.us-west-2.amazonaws.com
+
+### RelaxMyDog
+- relaxmydog.com
+
+### DOGTV
+- dogtv.com
+- watch.dogtv.com
+
+---
+
+## 🔴 PET ORGANIZER & MISC APPS
+
+### PetFetch
+- petfetch.app
+- petsplusapp.com
+- petfetchid.com
+
+### Flockr
+- flockr.social
+
+### DogLog
+- doglogapp.com
+- doglog.app
+
+### Dog Scanner (Siwalu)
+- siwalusoftware.com
+
+### DoseMed
+- dosemedapp.com
+
+### Petable
+- petable.care
+- vets.petable.care
+
+### Dog Monitor (TappyTaps)
+- dogmonitorapp.com
+- tappytaps.com
+
+### Breed Identifier
+- whatbreedismydog.com
+- breed.dog
+- petsydna.org
+- aidogbreedidentifier.com
+
+---
+
+🔴 SMART FEEDER OEM / DİĞER PLATFORMLAR
+DOGNESS Group
+dogness.com
+dognessnetwork.com
+manager.dognessnetwork.com
+HoneyGuaridan (ALN)
+honeyguardian.com
+alnpet.com
+alnpet.net
+us1.dev.alnpet.com
+Pawsync (VeSync)
+pawsync.com
+Catit PIXI (Hagen)
+catit.com
+catit.us
+catit.ca
+PortionPro Rx
+portionprorx.com
+portionpro.com
+vetinnovations.com
+pawspik.com
+Tikpaws
+tikpaws.com
+omcpet.store
+HomeRunPet
+homerunpet.com
+LavvieTag Pro (Purrsong)
+purrsong.com
+purrsong-global.com
+app.purrsong.com
+PatPet
+patpet.com
+wholesale.patpet.com
+Dokoo
+dokoo.net
+store.dokoo.net
+dokootech.com
