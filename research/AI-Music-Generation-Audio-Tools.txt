@@ -1,0 +1,1409 @@
+# AI Music Generation & Audio Tools Research List
+
+---
+
+## 1. SUNO AI
+ℹ️ Series C: $375M raised, $2.45B valuation (November 2025). Acquired WavTool (June 2025). Warner Music $500M settlement (November 2025).
+
+**Core Services:**
+- suno.ai
+- www.suno.ai
+- app.suno.ai
+- suno.com
+
+**Studio:**
+- studio.suno.com
+- suno.com/studio
+- suno.com/studio-welcome
+
+**API & Generation:**
+- api.suno.ai
+- cdn.suno.ai
+- generation.suno.ai
+- sunoapi.org
+- api.sunoapi.org
+- docs.sunoapi.org
+
+**CDN:**
+- assets.suno.ai
+- static.suno.ai
+- cdn1.suno.ai
+
+**Analytics:**
+- analytics.suno.ai
+- metrics.suno.ai
+- webhooks.suno.ai
+
+**Auth:**
+- clerk.suno.ai
+
+**WavTool (June 2025 Acquisition):**
+- wavtool.com
+- app.wavtool.com
+- api.wavtool.com
+
+**Third Party:**
+- suno.gcui.ai
+- musicapi.ai (3rd party)
+
+---
+
+## 2. UDIO
+ℹ️ Licensing agreement with Universal Music Group (November 2025). Warner Music settlement.
+
+**Core Services:**
+- udio.com
+- www.udio.com
+- app.udio.com
+- udio.cloud
+
+**API:**
+- api.udio.com
+- api-v2.udio.com
+- api.udio.cloud
+
+**CDN:**
+- cdn.udio.com
+- assets.udio.com
+- static.udio.com
+
+**Generation:**
+- create.udio.com
+- generate.udio.com
+
+**Analytics:**
+- analytics.udio.com
+- telemetry.udio.com
+
+**Storage:**
+- storage.udio.com
+- media.udio.com
+- help.udio.com
+
+**Third Party:**
+- udioapi.pro (3rd party)
+
+---
+
+## 3. SOUNDFUL
+**Core Services:**
+- soundful.com
+- www.soundful.com
+- app.soundful.com
+- my.soundful.com
+- start.soundful.com
+- beta.soundful.com
+
+**API & CDN:**
+- api.soundful.com
+- cdn.soundful.com
+- assets.soundful.com
+
+**Features:**
+- create.soundful.com
+- music.soundful.com
+- stream.soundful.com
+- player.soundful.com
+- analytics.soundful.com
+
+**Support:**
+- help.soundful.com
+- email.soundful.com
+- referral.soundful.com
+
+---
+
+## 4. MUBERT
+**Core Services:**
+- mubert.com
+- www.mubert.com
+- app.mubert.com
+
+**API (PUBLIC API!):**
+- api-b2b.mubert.com
+- api.mubert.com
+- music-api.mubert.com
+
+**Mobile App API:**
+- api-app.mubert.com
+
+**CDN:**
+- cdn.mubert.com
+- assets.mubert.com
+
+**Streaming:**
+- stream.mubert.com
+- play.mubert.com
+- render.mubert.com
+
+**Products:**
+- landing.mubert.com
+- studio.mubert.com
+- bot.mubert.com
+
+**Analytics:**
+- stats.mubert.com
+- analytics.mubert.com
+
+**Protocol/Blockchain:**
+- mubert.xyz
+
+---
+
+## 5. AIVA (Artificial Intelligence Virtual Artist)
+**Core Services:**
+- aiva.ai
+- www.aiva.ai
+- app.aiva.ai
+- creators.aiva.ai
+
+**API & CDN:**
+- api.aiva.ai
+- cdn.aiva.ai
+- static.aiva.ai
+- assets.aiva.ai
+- media.aiva.ai
+- analytics.aiva.ai
+
+**Status:**
+- status.aiva.ai
+
+---
+
+## 6. BOOMY
+ℹ️ LoopMagic.com — Boomy's newer product, integrated with Google Lyria 2 (September 2025).
+
+**Core Services:**
+- boomy.com
+- www.boomy.com
+- app.boomy.com
+
+**API & CDN:**
+- api.boomy.com
+- cdn.boomy.com
+- assets.boomy.com
+
+**Features:**
+- create.boomy.com
+- studio.boomy.com
+- distribution.boomy.com
+- analytics.boomy.com
+- metrics.boomy.com
+- player.boomy.com
+- status.boomy.com
+
+**Support:**
+- support.boomy.com
+
+**Corporate/B2B:**
+- boomycorporation.com
+
+**LoopMagic (2024):**
+- loopmagic.com
+
+---
+
+## 7. SOUNDRAW
+**Core Services:**
+- soundraw.io
+- www.soundraw.io
+- app.soundraw.io
+
+**API:**
+- api.soundraw.io
+- discover.soundraw.io
+
+**CDN:**
+- cdn.soundraw.io
+- assets.soundraw.io
+- static.soundraw.io
+- player.soundraw.io
+- analytics.soundraw.io
+
+**Blog:**
+- blog.soundraw.io
+
+---
+
+## 8. BEATOVEN.AI
+**Core Services:**
+- beatoven.ai
+- www.beatoven.ai
+- app.beatoven.ai
+- api.beatoven.ai
+- cdn.beatoven.ai
+- assets.beatoven.ai
+- media.beatoven.ai
+- analytics.beatoven.ai
+- telemetry.beatoven.ai
+- sync.beatoven.ai
+
+---
+
+## 9. LOUDLY
+**Core Services:**
+- loudly.com
+- www.loudly.com
+- app.loudly.com
+- studio.loudly.com
+- api.loudly.com
+- cdn.loudly.com
+- assets.loudly.com
+- generate.loudly.com
+- analytics.loudly.com
+- developers.loudly.com
+
+---
+
+## 11. MUREKA AI
+ℹ️ Developed by Skywork AI / Kunlun Tech. V7.5 model (July 2025). ~10M users.
+
+**Core:**
+- mureka.ai
+- www.mureka.ai
+- app.mureka.ai
+- platform.mureka.ai
+
+**Features:**
+- mureka.ai/create
+- mureka.ai/editor
+- mureka.ai/library
+- mureka.ai/speech/create
+
+**Hub/Blog:**
+- hub.mureka.ai
+
+**Parent Company:**
+- skywork.ai
+
+**Research:**
+- musicot.github.io
+
+---
+
+## 12. ELEVEN LABS / ELEVEN MUSIC
+ℹ️ $200M ARR (August 2025), $6.6B valuation. 10,000+ voice models.
+
+**Core Services:**
+- elevenlabs.io
+- www.elevenlabs.io
+- beta.elevenlabs.io
+- app.elevenlabs.io
+
+**API (PUBLIC!):**
+- api.elevenlabs.io
+- api.elevenlabs.io/v1/music
+- api.elevenlabs.io/v1/music/stream
+
+**CDN:**
+- cdn.elevenlabs.io
+- assets.elevenlabs.io
+- static.elevenlabs.io
+
+**Voice Generation:**
+- voice.elevenlabs.io
+- generate.elevenlabs.io
+
+**Analytics:**
+- analytics.elevenlabs.io
+- telemetry.elevenlabs.io
+
+**Projects & Jingle:**
+- projects.elevenlabs.io
+- jinglemaker.elevenlabs.io
+- jinglemaker.ai
+- showcase.elevenlabs.io
+
+**Status:**
+- status.elevenlabs.io
+
+**Help:**
+- help.elevenlabs.io
+
+**API Preview (deprecated but active):**
+- api-global-preview.elevenlabs.io
+
+**Documentation:**
+- docs.elevenlabs.io
+- elevenlabs.io/developers
+
+**WebSocket:**
+- wss://api.elevenlabs.io/v1/convai/conversation
+
+---
+
+## 13. SONGR
+**Core:**
+- songr.ai
+- app.songr.ai
+- songr.app
+- songrai.com
+
+---
+
+## 14. RIFFUSION
+**Core:**
+- riffusion.com
+- www.riffusion.com
+
+---
+
+## 15. TOPMEDIAI
+**Core:**
+- topmediai.com
+- www.topmediai.com
+- api.topmediai.com/v1/music
+- api.topmediai.com
+- docs.topmediai.com
+- topmediai.com/tools/
+- topmediai.com/app/ai-music/
+
+---
+
+## 16. ENDEL
+**Core Services:**
+- endel.io
+- www.endel.io
+- app.endel.io
+- api.endel.io
+- cdn.endel.io
+- assets.endel.io
+- stream.endel.io
+- player.endel.io
+- analytics.endel.io
+- telemetry.endel.io
+
+**Health Integration (!!):**
+- health.endel.io
+- biometrics.endel.io
+
+**Other:**
+- code.endel.io
+- payment.endel.io
+- endel.zendesk.com
+
+---
+
+## 17. BRAIN.FM
+**Core Services:**
+- brain.fm
+- www.brain.fm
+- app.brain.fm
+- api.brain.fm
+- cdn.brain.fm
+- assets.brain.fm
+- stream.brain.fm
+- audio.brain.fm
+- analytics.brain.fm
+- metrics.brain.fm
+
+**Neuroscience Tracking (!!):**
+- neuro.brain.fm
+- research.brain.fm
+
+**Help:**
+- brainfm.helpscoutdocs.com
+
+---
+
+## 18. ECRETT MUSIC
+**Core Services:**
+- ecrettmusic.com
+- www.ecrettmusic.com
+- app.ecrettmusic.com
+- api.ecrettmusic.com
+- cdn.ecrettmusic.com
+- assets.ecrettmusic.com
+- analytics.ecrettmusic.com
+
+---
+
+## 19. SPLASH PRO (formerly Popgun)
+**Core Services:**
+- splashmusic.com
+- www.splashmusic.com
+- app.splashmusic.com
+- api.splashmusic.com
+- cdn.splashmusic.com
+- analytics.splashmusic.com
+- pro.splashmusic.com
+- dev.splashmusic.com
+- support.splashmusic.com
+
+---
+
+## 20. SYNTHESIZER V (Dreamtonics)
+ℹ️ Studio 2 launch March 2025. Account system launched February 2025.
+
+**Core Services:**
+- dreamtonics.com
+- www.dreamtonics.com
+
+**Update Server:**
+- update.dreamtonics.com
+- updates.dreamtonics.com
+
+**Telemetry:**
+- telemetry.dreamtonics.com
+- stats.dreamtonics.com
+
+**Store:**
+- store.dreamtonics.com
+
+**Account Management (February 2025):**
+- my.dreamtonics.com
+
+**Forum & Docs:**
+- forum.dreamtonics.com
+- sv1.docs.dreamtonics.com
+
+**Support:**
+- dreamtonics.zendesk.com
+
+**Legacy Domain (redirects):**
+- synthesizerv.com
+
+---
+
+## 21. VOCALOID (Yamaha)
+ℹ️ VOCALOID 6.5 interface update (December 2024). VOCALOID 6.10.0 (December 2025). Hatsune Miku V6 Early Access (December 2025).
+
+**Core Services:**
+- vocaloid.com
+- www.vocaloid.com
+- vocaloid.shop
+
+**Authorization:**
+- auth.vocaloid.com
+- activation.vocaloid.com
+- www.vocaloid.com/activate/
+- telemetry.vocaloid.com
+- support.vocaloid.com
+
+**Yamaha Analytics (Parent Company):**
+- analytics.yamaha.com
+- telemetry.yamaha.com
+
+**Crypton Future Media Ecosystem:**
+- crypton.co.jp
+- piapro.net
+
+---
+
+## 22. ALTERED STUDIO
+**Core Services:**
+- altered.ai
+- www.altered.ai
+- app.altered.ai
+- api.altered.ai
+- cdn.altered.ai
+- assets.altered.ai
+- voice.altered.ai
+- process.altered.ai
+- analytics.altered.ai
+- telemetry.altered.ai
+
+---
+
+## 23. RESPEECHER
+**Core Services:**
+- respeecher.com
+- www.respeecher.com
+- app.respeecher.com
+- api.respeecher.com
+- cdn.respeecher.com
+- voice.respeecher.com
+- analytics.respeecher.com
+- docs.respeecher.com
+- marketplace.respeecher.com
+
+---
+
+## 24. DESCRIPT OVERDUB
+**Core Services:**
+- descript.com
+- www.descript.com
+- app.descript.com
+- web.descript.com
+
+**API:**
+- api.descript.com
+- api-v2.descript.com
+- descriptapi.com
+- docs.descriptapi.com
+
+**CDN:**
+- cdn.descript.com
+- assets.descript.com
+- static.descript.com
+- descriptusercontent.com
+
+**Processing:**
+- upload.descript.com
+- storage.descript.com
+- processing.descript.com
+- transcription.descript.com
+
+**Analytics:**
+- analytics.descript.com
+- telemetry.descript.com
+- metrics.descript.com
+- events.descript.com
+
+**Voice:**
+- voice.descript.com
+- overdub.descript.com
+- collab.descript.com
+- share.descript.com
+- publish.descript.com
+- export.descript.com
+
+**Status & Help:**
+- status.descript.com
+- help.descript.com
+
+**API Test CDN:**
+- test-files.descriptapi.com
+
+---
+
+## 26. MURF.AI
+ℹ️ Falcon API (55ms latency) launched November 2025. $11.5M raised. 200+ voices, 35+ languages.
+
+**Core Services:**
+- murf.ai
+- www.murf.ai
+- app.murf.ai
+- api.murf.ai
+- cdn.murf.ai
+- assets.murf.ai
+- studio.murf.ai
+- voices.murf.ai
+- analytics.murf.ai
+- metrics.murf.ai
+
+**Enterprise:**
+- enterprise.murf.ai
+
+**Falcon API (November 2025):**
+- murf.ai/falcon
+
+---
+
+## 27. LANDR
+ℹ️ Acquired Reason Studios (January 2026). Synchro Arts (VocAlign/Revoice Pro) already a subsidiary.
+
+**Core Services:**
+- landr.com
+- www.landr.com
+- app.landr.com
+- api.landr.com
+
+**CDN:**
+- cdn.landr.com
+- assets.landr.com
+- static.landr.com
+
+**Processing:**
+- upload.landr.com
+- uploads.landr.com
+- process.landr.com
+- render.landr.com
+- distribution.landr.com
+- samples.landr.com
+
+**Analytics:**
+- analytics.landr.com
+- telemetry.landr.com
+- metrics.landr.com
+
+**Status & Support:**
+- status.landr.com
+- support.landr.com
+
+**Network Feature:**
+- network.landr.com
+
+**Synchro Arts Subsidiary:**
+- synchroarts.com
+
+**Reason Studios Acquisition (January 2026):**
+- reasonstudios.com
+- reason.com
+
+---
+
+## 28. EMASTERED (iZotope)
+**Core Services:**
+- emastered.com
+- www.emastered.com
+- app.emastered.com
+- api.emastered.com
+- cdn.emastered.com
+- assets.emastered.com
+- process.emastered.com
+- master.emastered.com
+- analytics.emastered.com
+
+**iZotope Telemetry (Parent Company):**
+- telemetry.izotope.com
+- analytics.izotope.com
+- portal.izotope.com
+- my.izotope.com
+- account.izotope.com
+- activate.izotope.com
+- auth.izotope.com
+- support.izotope.com
+- help.izotope.com
+
+---
+
+## 29. CLOUDBOUNCE
+**Core Services:**
+- cloudbounce.com
+- www.cloudbounce.com
+- app.cloudbounce.com
+- api.cloudbounce.com
+- v3api.cloudbounce.com
+- cdn.cloudbounce.com
+- upload.cloudbounce.com
+- process.cloudbounce.com
+- analytics.cloudbounce.com
+
+---
+
+## 30. AMADEUS CODE
+**Core Services:**
+- amadeuscode.com
+- www.amadeuscode.com
+- app.amadeuscode.com
+- api.amadeuscode.com
+- cdn.amadeuscode.com
+- analytics.amadeuscode.com
+
+---
+
+## 31. HOOKPAD (Hooktheory)
+**Core Services:**
+- hooktheory.com
+- www.hooktheory.com
+- hookpad.hooktheory.com
+- app.hooktheory.com
+- api.hooktheory.com
+- www.hooktheory.com/api
+- cdn.hooktheory.com
+- assets.hooktheory.com
+- analytics.hooktheory.com
+- theorytab.hooktheory.com
+- forum.hooktheory.com
+- hooktheory.com/hookpad/aria
+
+---
+
+## 33. CAPTAIN PLUGINS (Mixed In Key)
+**Core Services:**
+- captainplugins.com
+- www.captainplugins.com
+- mixedinkey.com
+- www.mixedinkey.com
+- activate.mixedinkey.com
+- auth.mixedinkey.com
+- telemetry.mixedinkey.com
+- analytics.mixedinkey.com
+- stats.mixedinkey.com
+- support.mixedinkey.com
+- community.mixedinkey.com
+
+---
+
+## 35. MOISES.AI / MUSIC.AI
+ℹ️ 70M users (2025). AI Studio launched August 2025. Apple iPad App of the Year 2024. $50M+ raised.
+
+**Core Services:**
+- moises.ai
+- www.moises.ai
+- app.moises.ai
+- studio.moises.ai
+- music.ai
+
+**AI Studio (August 2025):**
+- studio.moises.ai
+
+**API:**
+- api.moises.ai
+- api.music.ai/v1/
+- api.music.ai/v3/
+
+**CDN & Upload:**
+- cdn.moises.ai
+- assets.moises.ai
+- static.moises.ai
+- upload.moises.ai
+- uploads.moises.ai
+- process.moises.ai
+- separation.moises.ai
+
+**Analytics:**
+- analytics.moises.ai
+- telemetry.moises.ai
+- metrics.moises.ai
+- social.moises.ai
+
+**Platform:**
+- extensions.moises.ai
+- playground.moises.ai
+- help.moises.ai
+
+**Newsroom:**
+- newsroom.moises.ai
+
+**Blog:**
+- blog.music.ai
+
+---
+
+## 36. SPLEETER WEB IMPLEMENTATIONS
+**Splitter.ai:**
+- splitter.ai
+- www.splitter.ai
+
+**Melody ML:**
+- melody.ml
+- www.melody.ml
+- api.melody.ml
+
+**Vocal Remover:**
+- vocalremover.org
+- www.vocalremover.org
+- api.vocalremover.org
+
+---
+
+## 37. LALAL.AI
+**Core Services:**
+- lalal.ai
+- www.lalal.ai
+- api.lalal.ai
+- www.lalal.ai/api/
+- www.lalal.ai/api/help/
+- cdn.lalal.ai
+- assets.lalal.ai
+- upload.lalal.ai
+- process.lalal.ai
+- analytics.lalal.ai
+
+---
+
+## 38. RIPX (Hit'n'Mix)
+**Core Services:**
+- hitnmix.com
+- www.hitnmix.com
+- activate.hitnmix.com
+- auth.hitnmix.com
+- updates.hitnmix.com
+- telemetry.hitnmix.com
+- analytics.hitnmix.com
+- sales.hitnmix.com
+- support.hitnmix.com
+
+---
+
+## 39. FADR
+**Core Services:**
+- fadr.com
+- www.fadr.com
+- app.fadr.com
+- api.fadr.com
+- cdn.fadr.com
+- assets.fadr.com
+- upload.fadr.com
+- process.fadr.com
+- stems.fadr.com
+- analytics.fadr.com
+- telemetry.fadr.com
+
+---
+
+## 40. AUDIONAMIX
+**Core Services:**
+- audionamix.com
+- www.audionamix.com
+- cloud.audionamix.com
+- api.audionamix.com
+- analytics.audionamix.com
+- telemetry.audionamix.com
+
+---
+
+## 42. GOOGLE MAGENTA
+ℹ️ Magenta RT (Magenta RealTime) launched 2025. Lyria RealTime API integration.
+
+**Core Services (Primary Domain):**
+- magenta.withgoogle.com
+
+**Legacy Domain (now secondary):**
+- magenta.tensorflow.org
+- g.co/magenta
+
+**Magenta RT (2025):**
+- magenta.withgoogle.com/magenta-realtime
+- magenta.withgoogle.com/demos
+
+**TensorFlow Infrastructure:**
+- analytics.tensorflow.org
+- telemetry.tensorflow.org
+
+**Storage:**
+- storage.googleapis.com/magentadata/
+- storage.googleapis.com/download.magenta.tensorflow.org/
+
+---
+
+## 43. STABILITY AI (Stable Audio)
+**Stability AI Core:**
+- stability.ai
+- www.stability.ai
+- stableaudio.com
+- www.stableaudio.com
+- app.stableaudio.com
+- stableaudio.com/generate
+- stableaudio.com/user-guide
+
+**API & CDN:**
+- api.stability.ai
+- cdn.stability.ai
+- assets.stability.ai
+- analytics.stability.ai
+- telemetry.stability.ai
+
+---
+
+## 44. CLEANVOICE AI
+**Core Services:**
+- cleanvoice.ai
+- www.cleanvoice.ai
+- app.cleanvoice.ai
+- api.cleanvoice.ai
+- api.cleanvoice.ai/v2/
+- api.cleanvoice.ai/docs
+- upload.cleanvoice.ai
+- process.cleanvoice.ai
+- cdn.cleanvoice.ai
+- analytics.cleanvoice.ai
+- docs.cleanvoice.ai
+- app.cleanvoice.ai/playground/
+
+---
+
+## 45. AUPHONIC
+**Core Services:**
+- auphonic.com
+- www.auphonic.com
+- auphonic.com/api
+- auphonic.com/engine/upload/
+- auphonic.com/engine/batch/
+
+**API Endpoints:**
+- auphonic.com/api/simple/productions.json
+- auphonic.com/api/productions.json
+- auphonic.com/api/production/{uuid}/upload.json
+- auphonic.com/api/production/{uuid}/start.json
+- auphonic.com/api/download/
+
+**CDN:**
+- cdn.auphonic.com
+- media.auphonic.com
+- upload.auphonic.com
+- engine.auphonic.com
+- analytics.auphonic.com
+
+**Status:**
+- status.auphonic.com
+
+**US Region Server:**
+- us1.auphonic.com
+
+---
+
+## 46. PODCASTLE → ASYNC 🔄 REBRANDED
+⚠️ January 2026: Podcastle rebranded as "Async." async.com is the new primary domain.
+ℹ️ Three product lines: Async Studio (content creator tool), Async API (developer tool), Async Enterprise.
+
+**Current Domains (Since January 2026 Rebrand):**
+- async.com
+- app.async.com
+- api.async.com
+- studio.async.com
+- blog.async.com
+
+**Legacy Podcastle Domains (still active):**
+- podcastle.ai
+- www.podcastle.ai
+- app.podcastle.ai
+- api.podcastle.ai
+- cdn.podcastle.ai
+- assets.podcastle.ai
+- record.podcastle.ai
+- process.podcastle.ai
+- analytics.podcastle.ai
+- telemetry.podcastle.ai
+
+---
+
+## 49. GOYO VOICE SEPARATOR
+**Core Services:**
+- goyoapp.com
+- www.goyoapp.com
+- analytics.goyoapp.com
+
+---
+
+## 50. ADOBE PODCAST (Enhance Speech)
+ℹ️ Adobe Firefly added Generate Soundtrack and Generate Speech features (October 2025).
+
+**Core Services:**
+- podcast.adobe.com
+- podcast.adobe.com/enhance
+
+**Adobe Firefly (October 2025):**
+- firefly.adobe.com
+
+**Help:**
+- helpx.adobe.com/podcast
+
+**Adobe Creative Cloud Infrastructure:**
+- adobe.com
+- *.adobe.com
+- assets.adobedtm.com
+- analytics.adobe.com
+- dpm.demdex.net
+
+---
+
+## 51. OPENAI JUKEBOX
+**OpenAI Core:**
+- openai.com
+- www.openai.com
+- api.openai.com
+- cdn.openai.com
+- analytics.openai.com
+
+---
+
+## 52. META AUDIOCRAFT
+**Meta AI Research:**
+- ai.facebook.com
+- ai.meta.com
+- cdn.fbsbx.com
+- static.xx.fbcdn.net
+- analytics.facebook.com
+- graph.facebook.com
+- connect.facebook.net
+
+---
+
+## 53. MUSICFX / MUSICLM (Google DeepMind)
+ℹ️ Lyria 2 model (2025). MusicFX DJ Mode. Accessed via AI Test Kitchen.
+
+**Core Domains:**
+- aitestkitchen.withgoogle.com
+- aitestkitchen.withgoogle.com/tools/music-fx
+- labs.google/fx
+- labs.google/fx/tools/music-fx-dj
+
+**Legacy/Still Active:**
+- labs.google
+- labs.google/fx
+
+**Google Infrastructure:**
+- google.com
+- *.google.com
+- google-analytics.com
+- *.google-analytics.com
+- analytics.google.com
+- googleapis.com
+- storage.googleapis.com
+- cdn.googleapis.com
+
+**Models:**
+- deepmind.google
+- deepmind.google/blog
+
+---
+
+## 54. LEMONAIDE AI 📦 ACQUIRED
+⚠️ Acquired by BeatStars in January 2026. Integrated into the BeatStars ecosystem.
+
+**Original Domain (still active):**
+- lemonaide.ai
+- www.lemonaide.ai
+- lemonaide.ai/download
+- lemonaide.ai/spawn
+
+**New Platform (January 2026):**
+- beatstars.com
+- beatstars.com/studio/lemonaide
+
+---
+
+## 55. HOOKPAD ARIA (Hooktheory)
+ℹ️ Same domains as #31 Hooktheory. Not listed separately.
+
+**Core (same as Hooktheory):**
+- hooktheory.com
+- hookpad.hooktheory.com
+- app.hooktheory.com
+- api.hooktheory.com
+- hooktheory.com/hookpad/aria
+- forum.hooktheory.com
+
+---
+
+## 56. RIGHTSIFY (Hydra)
+**Core:**
+- rightsify.com
+- www.rightsify.com
+- rightsify.com/hydra
+- rightsify.com/login
+- rightsify.com/membership-account/membership-levels/
+
+---
+
+## 57. TUNEE / TUNEY
+**Tunee AI (Agent):**
+- tunee.ai
+- www.tunee.ai
+
+**Tuney Producer:**
+- tuney.io
+- www.tuney.io
+- app2.tuney.io
+- tuney.io/creators
+- tuney.io/articles
+
+---
+
+## 58. MUSICGEN (Meta/Facebook)
+**GitHub & Open Source:**
+- github.com/facebookresearch/audiocraft
+- facebookresearch.github.io/audiocraft
+
+**Hugging Face:**
+- huggingface.co/facebook/musicgen-small
+- huggingface.co/facebook/musicgen-medium
+- huggingface.co/facebook/musicgen-large
+- huggingface.co/facebook/musicgen-melody
+- huggingface.co/spaces/facebook/MusicGen
+
+**Demo Sites:**
+- musicgen.com
+- musicgenai.org
+
+**Replicate Integration:**
+- replicate.com
+- replicate.delivery
+- *.replicate.delivery
+- api.replicate.com
+
+**Meta Infrastructure:**
+- ai.facebook.com
+- ai.meta.com
+- cdn.fbsbx.com
+- static.xx.fbcdn.net
+- analytics.facebook.com
+- graph.facebook.com
+- connect.facebook.net
+
+---
+
+## 59. SOUNDVERSE AI
+**Core:**
+- soundverse.ai
+- www.soundverse.ai
+- app.soundverse.ai
+- api.soundverse.ai
+- platform.soundverse.ai
+- cdn.soundverse.ai
+- assets.soundverse.ai
+- static.soundverse.ai
+- analytics.soundverse.ai
+- telemetry.soundverse.ai
+- metrics.soundverse.ai
+- social.soundverse.ai
+
+**Help & Docs:**
+- help.soundverse.ai
+- docs.soundverse.ai
+
+---
+
+## 60. STACCATO AI
+**Core:**
+- staccato.ai
+- www.staccato.ai
+- app.staccato.ai
+- dashboard.staccato.ai
+- staging.staccato.ai
+- cdn.staccato.ai
+- blog.staccato.ai
+
+**Admin Panel:**
+- admin.staccato.ai
+
+**Dashboard:**
+- dashboard.staccato.ai
+
+**GitHub:**
+- github.com/staccato-ai
+
+---
+
+## 61. TRACKSY AI
+**Core:**
+- tracksy.ai
+- www.tracksy.ai
+- app.tracksy.ai
+
+---
+
+## 62. SOUNDGEN (Audio Design Desk)
+**Core:**
+- soundgen.ai
+- www.soundgen.ai
+- soundgen.io
+- www.soundgen.io
+- add.app
+- www.add.app
+- app.add.app
+- api.add.app
+- cdn.add.app
+- assets.add.app
+- static.add.app
+- storage.add.app
+- uploads.add.app
+- analytics.add.app
+- telemetry.add.app
+- metrics.add.app
+- marketplace.add.app
+- downloads.add.app
+- support.add.app
+- help.add.app
+
+---
+
+## 63. ENVATO SOUNDGEN
+**Core:**
+- labs.envato.com/apps/sound-gen
+- labs.envato.com
+- envato.com
+- www.envato.com
+- elements.envato.com
+- build.envato.com
+- api.envato.com
+- cdn.envato.com
+- assets.envato.com
+- static.envato.com
+- help.envato.com
+- market.envato.com
+- themeforest.net
+- codecanyon.net
+- analytics.envato.com
+- telemetry.envato.com
+- storage.envato.com
+
+---
+
+## 64. KITS AI
+**Core:**
+- kits.ai
+- www.kits.ai
+- app.kits.ai
+- kits.ai/api
+
+**API Infrastructure (Arpeggi.io):**
+- arpeggi.io
+- www.arpeggi.io
+- beta.arpeggi.io
+- arpeggi.io/api/kits/v1/
+- api.arpeggi.io
+
+**Documentation:**
+- docs.kits.ai
+
+**Alias Domain:**
+- kits.io
+
+**S3 Storage:**
+- arpeggi-prod-public.s3.us-west-2.amazonaws.com
+
+---
+
+## 65. ACE STUDIO (Timedomain)
+ℹ️ ACE Studio 2.0 launched December 2025. 140+ voice models, 8 languages. Video Composer feature March 2026.
+
+**Primary Domain:**
+- acestudio.ai
+- www.acestudio.ai
+
+**Blog:**
+- blog.acestudio.ai
+
+**Legacy Domain (now secondary):**
+- ace-studio.timedomain.cn
+- timedomain.ai
+- www.timedomain.ai
+- timedomain.cn
+
+**Distribution Platform - MuseHub:**
+- musehub.com
+- www.musehub.com/app/ace-studio
+- support.musehub.com
+
+---
+
+## 66. AIMUSIC.SO
+**Core:**
+- aimusic.so
+- www.aimusic.so
+- aimusic.so/user/settings
+- aimusic.so/pricing
+- aimusic.so/features/ai-music-api
+- aimusic.so/terms-of-use
+
+**Backend:**
+- sunoapi.org (3rd party)
+- api.sunoapi.org
+
+---
+
+## 67. TAD.AI (HIX.AI Music Platform)
+**Core:**
+- tad.ai
+- www.tad.ai
+- hix.ai
+- www.hix.ai
+- hix.ai/ai-music-generator
+- cdn.hix.ai
+- cdn2.hix.ai
+- product-data.hix.ai
+- go.hix.ai
+- nb.hix.ai
+- wiki.hix.ai
+
+---
+
+## 68. SINGIFY (FineShare)
+**Core:**
+- singify.fineshare.com
+- www.fineshare.com
+- fineshare.com
+- fineshare.net
+- singify.fineshare.com/pricing
+- singify.fineshare.com/privacy.html
+- fineshare.com/ai-song-cover/
+- dlaudio.fineshare.net
+
+---
+
+## 69. SONGR (RIFFIT)
+**Core SongR:**
+- songr.ai
+- www.songr.ai
+- app.songr.ai
+- songrai.com
+- songr.app
+
+**RIFFIT Core:**
+- riffitnow.com
+- www.riffitnow.com
+- app.riffitnow.com
+- riffit.com
+- www.riffit.com
+
+---
+
+## 70. CASSETTE AI
+**Core:**
+- cassetteai.com
+- www.cassetteai.com
+- cassetteai.com/dashboard
+- cassetteai.com/pro
+- cassetteai.com/terms
+- cassetteai.com/privacy
+- cassetteai.com/contact
+
+---
+
+## 71. AIMI
+**Core:**
+- aimi.fm
+- www.aimi.fm
+- aimi.fm/player/
+- aimi.fm/player/api/
+- aimi.fm/sync/
+- aimi.fm/sync/api/
+- aimi.fm/solutions/gaming-metaverse/
+- aimi.fm/solutions/adtech/
+- aimi.fm/blog
+
+---
+
+## 72. NEUME
+ℹ️ Transitioned from Beta to General Availability December 2025. Neumosys LLC.
+
+**Core:**
+- neume.io
+- www.neume.io
+- neume.io/ai-song-generator/
+- neume.io/user/settings
+- neume.io/pricing
+- neume.io/terms-of-use
+- neume.io/privacy-policy
+
+**Web App:**
+- app.neume.io
+
+**Blog:**
+- neume.io/blog/
+
+---
+
+## 73. MOZART AI (DAW)
+**Core:**
+- getmozart.ai
+- www.getmozart.ai
+- mozartai.com
+- mozartai.app
+
+**Telegram Bot (Separate Platform):**
+- mozart-ai.tech
+
+---
+
+## 74. STROFE
+**Core:**
+- strofe.com
+- www.strofe.com
+- strofe.com/get_started
+
+---
+
+## 75. BEATBOT.FM / FREEBEAT.AI
+ℹ️ BeatBot.fm currently redirects to FREEBEAT.AI. V9.9.0 (December 2025).
+
+**Core:**
+- freebeat.ai
+- www.freebeat.ai
+- beatbot.fm (→ freebeat.ai)
+- freebeat.ai/articles
+
+---
+
+## 76. WAVEFORMER
+**Core:**
+- waveformer.replicate.dev
+- replicate.dev
+- replicate.com
+- api.replicate.com
+- replicate.delivery
+- *.replicate.delivery
