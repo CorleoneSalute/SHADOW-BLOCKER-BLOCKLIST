@@ -1,0 +1,516 @@
+LINUX RESEARCH LIST
+
+UBUNTU / CANONICAL
+Note: Starting with Ubuntu 25.10+, Ubuntu Insights is used instead of Ubuntu Report. All Ubuntu-based distributions (Mint, Zorin, Pop!_OS, etc.) also use these domains.
+Telemetry & Metrics
+metrics.ubuntu.com
+popcon.ubuntu.com
+daisy.ubuntu.com
+telemetry.ubuntu.com
+analytics.ubuntu.com
+insights.ubuntu.com
+ubuntu-insights.canonical.com
+APT Repository
+archive.ubuntu.com
+security.ubuntu.com
+ports.ubuntu.com
+archive.canonical.com
+old-releases.ubuntu.com
+Snap Telemetry
+api.snapcraft.io
+dashboard.snapcraft.io
+metrics.snapcraft.io
+analytics.snapcraft.io
+assertions.ubuntu.com
+search.apps.ubuntu.com
+login.ubuntu.com
+login.snapcraft.io
+forum.snapcraft.io
+upload.apps.ubuntu.com
+status.snapcraft.io
+public.apps.ubuntu.com
+Snap CDN & Content
+storage.snapcraftcontent.com
+canonical-lgw01.cdn.snapcraftcontent.com
+canonical-lcy01.cdn.snapcraftcontent.com
+canonical-lcy02.cdn.snapcraftcontent.com
+canonical-bos01.cdn.snapcraftcontent.com
+cloudfront.cdn.snapcraftcontent.com
+cloudfront.cdn.snapcraft.io
+fastly.cdn.snapcraftcontent.com
+fastly-global.cdn.snapcraftcontent.com
+canonical-lgw01.cdn.snapcraft.io
+canonical-lcy01.cdn.snapcraft.io
+canonical-bos01.cdn.snapcraft.io
+fastly.cdn.snapcraft.io
+fastly-global.cdn.snapcraft.io
+Snap Serial Vault
+serial-vault-partners.canonical.com
+serial-vault.canonical.com
+Ubuntu Pro / Advantage
+contracts.canonical.com
+auth.contracts.canonical.com
+esm.ubuntu.com
+advantage.ubuntu.com
+livepatch.canonical.com
+api.livepatch.canonical.com
+livepatch-files.canonical.com
+NetworkManager Connectivity
+connectivity-check.ubuntu.com
+MOTD / News
+motd.ubuntu.com
+changelogs.ubuntu.com
+news.ubuntu.com
+Error Reporting (Whoopsie)
+errors.ubuntu.com
+whoopsie.ubuntu.com
+Landscape / Other
+landscape.canonical.com
+landscape-client.ubuntu.com
+software-center.ubuntu.com
+reviews.ubuntu.com
+appstream.ubuntu.com
+ubuntu-report.canonical.com
+telemetry-service.ubuntu.com
+one.ubuntu.com
+api.one.ubuntu.com
+launchpad.net
+api.launchpad.net
+ppa.launchpadcontent.net
+FEDORA / RED HAT
+Note: Red Hat Insights renewed its CDN infrastructure in 2025. Quay.io CDN domains were updated through April 2025.
+Fedora Infrastructure
+infrastructure.fedoraproject.org
+admin.fedoraproject.org
+apps.fedoraproject.org
+countme.fedoraproject.org
+telemetry.fedoraproject.org
+data-analysis.fedoraproject.org
+fedora-telemetry.org
+mirrors.fedoraproject.org
+metalink.fedoraproject.org
+Red Hat Insights
+console.redhat.com
+cloud.redhat.com
+cert-api.access.redhat.com
+api.access.redhat.com
+cert.cloud.redhat.com
+insights-client.access.redhat.com
+api.openshift.com
+api.console.redhat.com
+sso.redhat.com
+Red Hat Subscription Manager
+subscription.rhsm.redhat.com
+subscription.rhn.redhat.com
+cdn.redhat.com
+china.cdn.redhat.com
+xmlrpc.rhn.redhat.com
+downloads.redhat.com
+registry.redhat.com
+cdn-ubi.redhat.com
+Container Registry & Quay.io CDN
+registry.redhat.io
+registry.access.redhat.com
+registry.connect.redhat.com
+cdn.quay.io
+cdn01.quay.io
+cdn02.quay.io
+cdn03.quay.io
+cdn04.quay.io
+cdn05.quay.io
+cdn06.quay.io
+quay.io
+CentOS / ABRT
+centos.org
+mirror.centos.org
+mirrorlist.centos.org
+rsync.stream.centos.org
+mirror.stream.centos.org
+vault.centos.org
+retrace.fedoraproject.org
+abrt.fedoraproject.org
+faf.fedoraproject.org
+OPENSUSE / SUSE
+openSUSE Telemetry
+telemetry.opensuse.org
+metrics.opensuse.org
+analytics.opensuse.org
+conncheck.opensuse.org
+proxy-nue.opensuse.org
+SUSE Connect & Repo
+scc.suse.com
+smt.suse.de
+nu.novell.com
+register.suse.com
+updates.suse.com
+registry.suse.com
+customer-uploads.suse.com
+registry-storage.suse.com
+static.scc.suse.com
+smt-azure.susecloud.net
+smt-ec2.susecloud.net
+smt-gce.susecloud.net
+openSUSE Build Service
+build.opensuse.org
+api.opensuse.org
+software.opensuse.org
+download.opensuse.org
+updates.opensuse.org
+MANJARO
+Note: In 2024, Manjaro's MDD (Manjaro Data Donor) telemetry system entered testing. ping.manjaro.org is the legacy user-counting system (based on Matomo).
+telemetry.manjaro.org
+metrics.manjaro.org
+analytics.manjaro.org
+ping.manjaro.org
+mdd.manjaro.org
+hello.manjaro.org
+welcome.manjaro.org
+mirrors.manjaro.org
+repo.manjaro.org
+ELEMENTARY OS
+Note: Starting with elementary OS 8.0, default Flathub integration was added. The project states it does not collect telemetry.
+api.elementary.io
+elementary.io
+updates.elementary.io
+telemetry.elementary.io
+appcenter.elementary.io
+api.appcenter.elementary.io
+appcenter-backend.elementary.io
+crash.elementary.io
+errors.elementary.io
+api.stripe.com
+flathub.org
+GNOME DESKTOP ENVIRONMENT
+odrs.gnome.org
+api.ratings.gnome.org
+accounts.gnome.org
+identity.gnome.org
+extensions.gnome.org
+extensions-web.gnome.org
+geoip.gnome.org
+location.services.mozilla.com
+wifi.gnome.org
+analytics.gnome.org
+metrics.gnome.org
+nmcheck.gnome.org
+retrace.fedoraproject.org
+abrt.fedoraproject.org
+KDE PLASMA
+Note: KDE telemetry is opt-in. According to KDE policy, all data is transmitted to KDE servers.
+telemetry.kde.org
+api.kde.org
+analytics.kde.org
+autoconfig.kde.org
+bugs.kde.org
+store.kde.org
+userfeedback.kde.org
+feedback.kde.org
+SYSTEMD
+Note: Systemd runs locally and does not send external telemetry.
+coredump.systemd.io
+journal-upload.systemd.io
+FLATPAK & FLATHUB
+dl.flathub.org
+flathub.org
+api.flathub.org
+stats.flathub.org
+status.flathub.org
+odrs.gnome.org
+APPIMAGE
+appimagehub.com
+api.appimagehub.com
+analytics.appimagehub.com
+appimage.github.io
+appimage.org
+PACKAGEKIT
+packagekit.org
+api.packagekit.org
+crash-stats.packagekit.org
+FIRMWARE UPDATES (LVFS / fwupd)
+Note: Firmware updates are important for security; blocking is not recommended.
+fwupd.org
+cdn.fwupd.org
+telemetry.fwupd.org
+s3.amazonaws.com/lvfsbucket
+KERNEL.ORG
+cdn.kernel.org
+mirrors.kernel.org
+git.kernel.org
+DOCKER / CONTAINERS
+Note: The official 2024 Docker Desktop allowlist was used.
+Docker Hub
+hub.docker.com
+registry.hub.docker.com
+index.docker.io
+registry-1.docker.io
+Docker Desktop & Auth
+desktop.docker.com
+auth.docker.io
+auth.docker.com
+login.docker.com
+cdn.auth0.com
+Docker CDN & Pull/Push
+production.cloudflare.docker.com
+docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+Docker Analytics & Error Reporting
+api.segment.io
+cdn.segment.com
+notify.bugsnag.com
+sessions.bugsnag.com
+docker-pinata-support.s3.amazonaws.com
+Docker Scout & API
+scout.docker.com
+analytics.docker.com
+api.dso.docker.com
+api.docker.com
+registry.scout.docker.com
+dhi.io
+RASPBERRY PI OS
+stats.raspberrypi.org
+analytics.raspberrypi.org
+archive.raspberrypi.org
+downloads.raspberrypi.org
+software.raspberrypi.org
+rpi-imager-stats.raspberrypi.com
+POPULARITY CONTESTS
+popcon.debian.org
+qa.debian.org/popcon
+popcon.ubuntu.com
+aur.archlinux.org
+pkgstats.archlinux.de
+api.pkgstats.archlinux.de
+distrowatch.com
+dwres.distrowatch.com
+LINUX MINT
+Note: Linux Mint does not collect its own telemetry. Since it is Ubuntu-based, it also uses Ubuntu domains.
+packages.linuxmint.com
+fastly.linuxmint.io
+community.linuxmint.com
+telemetry.linuxmint.com
+ZORIN OS
+Note: Zorin OS has minimal telemetry. Ubuntu-base Canonical services are also active.
+packages.zorinos.com
+packages.zorinos.com/stable
+packages.zorinos.com/patches
+packages.zorinos.com/apps
+packages.zorinos.com/drivers
+api.zorinos.com
+telemetry.zorinos.com
+analytics.zorinos.com
+connectivity.zorin-os.com
+zoringroup.com
+POP!_OS (SYSTEM76)
+Note: Pop!_OS states it does not collect its own telemetry. fwupd telemetry is disabled.
+apt.pop-os.org
+pop.system76.com
+firmware.system76.com
+telemetry.system76.com
+metrics.system76.com
+api.pop-os.org
+MX LINUX
+Note: MX Linux does not collect telemetry.
+mxrepo.com
+iso.mxrepo.com
+packages.mxlinux.org
+mxrepo.com/mx/testrepo/
+DEEPIN
+Note: CRITICAL — CNZZ was removed in 2018, replaced by Umeng+ (Alibaba) analytics. Risk of Chinese government access remains. openSUSE removed Deepin Desktop in May 2025 due to security concerns.
+Core Domains
+api.deepin.org
+analytics.deepin.com
+api.deepin.com
+packages.deepin.com
+telemetry.deepin.com
+statistics.deepin.org
+appstore.deepin.com
+store-api.deepin.com
+ai.deepin.com
+uos.ai
+Umeng+ Analytics (Alibaba)
+umeng.com
+alog.umeng.com
+alogs.umeng.com
+alogus.umeng.com
+ar.umeng.com
+oc.umeng.com
+uop.umeng.com
+ulogs.umeng.com
+cnzz.com
+GENTOO
+Note: Gentoo does not collect telemetry.
+rsync.gentoo.org
+distfiles.gentoo.org
+gentoo.org
+masterdistfiles.gentoo.org
+masterportage.gentoo.org
+masterdistfiles-eu.gentoo.org
+masterdistfiles-us.gentoo.org
+mirrorstats.gentoo.org
+dev.gentoo.org
+api.gentoo.org
+bugs.gentoo.org
+git.gentoo.org
+rsync.namerica.gentoo.org
+rsync.europe.gentoo.org
+VOID LINUX
+Note: Void Linux does not collect telemetry.
+repo-default.voidlinux.org
+alpha.de.repo.voidlinux.org
+mirrors.voidlinux.org
+xmirror.voidlinux.org
+repo-fastly.voidlinux.org
+sources.voidlinux.org
+NIXOS
+Note: NixOS does not collect telemetry.
+cache.nixos.org
+hydra.nixos.org
+channels.nixos.org
+status.nixos.org
+channels.nix.gsc.io
+nix.dev
+cache.nixos-cuda.org
+GNU GUIX
+Note: GNU Guix does not collect telemetry.
+ci.guix.gnu.org
+guix.gnu.org
+bordeaux.guix.gnu.org
+qa.guix.gnu.org
+data.guix.gnu.org
+data.qa.guix.gnu.org
+coordinator.bayfront.guix.gnu.org
+CLEAR LINUX (INTEL)
+Note: Intel telemetry was shut down in 2020.
+telemetry.clearlinux.org
+cdn.download.clearlinux.org
+telemetrics-collector.01.org
+clr.telemetry.intel.com
+KALI LINUX
+Note: Kali Linux does not collect telemetry.
+http.kali.org
+repo.kali.org
+cdimage.kali.org
+pkg.kali.org
+PARROT OS
+Note: Parrot OS does not collect telemetry.
+deb.parrot.sh
+archive.parrot.sh
+download.parrot.sh
+nest.parrotsec.org
+mirrors.parrot.sh
+PODMAN / CONTAINERS
+Note: Podman has no telemetry system of its own.
+registry.fedoraproject.org
+registry.access.redhat.com
+quay.io
+ARCH LINUX
+Note: pkgstats is opt-in.
+archlinux.org
+pkgstats.archlinux.de
+mirror.archlinux.org
+aur.archlinux.org
+api.pkgstats.archlinux.de
+mirror.archlinuxarm.org
+LUTRIS
+Note: Lutris has no telemetry system of its own — only API services.
+lutris.net
+api.lutris.net
+analytics.lutris.net
+forums.lutris.net
+files.lutris.net
+SOLUS
+Note: Solus does not collect telemetry.
+getsol.us
+dev.getsol.us
+TAILS (TOR PROJECT)
+Note: Tails routes ALL traffic through the Tor network and does not collect telemetry. In 2023, tails.boum.org moved to tails.net. In September 2024, the project merged with the Tor Project.
+tails.net
+tails.boum.org
+gitlab.tails.boum.org
+live.thunderbird.net
+location.services.mozilla.com
+ALPINE LINUX
+Note: Alpine Linux does not collect telemetry. In 2025, it migrated off Equinix Metal infrastructure.
+dl-cdn.alpinelinux.org
+dl-master.alpinelinux.org
+rsync.alpinelinux.org
+mirrors.alpinelinux.org
+nl.alpinelinux.org
+dl-2.alpinelinux.org
+dl-3.alpinelinux.org
+pkgs.alpinelinux.org
+security.alpinelinux.org
+SLACKWARE
+Note: Slackware does not collect telemetry.
+ftp.slackware.com
+mirrors.slackware.com
+MAGEIA
+mirrors.mageia.org
+advisories.mageia.org
+mirrors.kernel.org
+CHROME OS FLEX (GOOGLE)
+Note: Google's full allowlist was used. Numerous Google domains are required.
+dl.google.com
+tools.google.com
+edgedl.me.gvt1.com
+m.google.com
+clients3.google.com
+accounts.google.com
+www.googleapis.com
+chromeos-ca.gstatic.com
+alkalichromeosflexhwis2-pa.googleapis.com
+aratea-pa.googleapis.com
+chromeosquirksserver-pa.googleapis.com
+chromereporting-pa.googleapis.com
+cros-omahaproxy.appspot.com
+omahaproxy.appspot.com
+connectivitycheck.gstatic.com
+safebrowsing.google.com
+safebrowsing.googleapis.com
+safebrowsing-cache.google.com
+enterprise-safebrowsing.googleapis.com
+sb-ssl.google.com
+storage.googleapis.com
+commondatastorage.googleapis.com
+policies.google.com
+pack.google.com
+mtalk.google.com
+ssl.gstatic.com
+alt*.gstatic.com
+dl-ssl.google.com
+update.googleapis.com
+clients1.google.com
+clients2.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+*.1e100.net
+*.gvt1.com
+*.gvt2.com
+*.gvt3.com
+*.googleapis.com
+*.googleusercontent.com
+*.gstatic.com
+FYDEOS (CHINA/UK)
+Note: CRITICAL — has a user-behavior monitoring feature. Data location: Mainland China or UK.
+account.fydeos.com
+fydeos.io
+ALT LINUX (RUSSIA)
+Note: CRITICAL — certified by the Russian government. Telemetry status unknown. Mandatory use in government institutions.
+packages.altlinux.org
+ftp.altlinux.ru
+git.altlinux.org
+registry.altlinux.org
+sisyphus.ru
+lists.altlinux.org
+OTHER PLATFORMS
+endeavouros.com
+cachyos.org
+rockylinux.org
+almalinux.org
+qubes-os.org
+crux.nu
+pakfire.ipfire.org
+bedrocklinux.org
+venomlinux.org
+4mlinux.com
+gobolinux.org
