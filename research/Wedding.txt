@@ -1,0 +1,742 @@
+WEDDING PLANNING APPS & SERVICES RESEARCH LIST
+
+THE KNOT / XO GROUP 
+
+  # ── TKWW Parent Company ──────────────────────────────────────
+
+  theknotww.com
+
+  www.theknotww.com
+
+  # ── Core ────────────────────────────────────────────────────────
+
+  theknot.com
+
+  www.theknot.com
+
+  # ── Subdomains ──────────────────────────────────────────────────
+
+  api.theknot.com
+
+  registry.theknot.com
+
+  guests.theknot.com
+
+  wedding.theknot.com
+
+  vendors.theknot.com
+
+  m.theknot.com
+
+  shop.theknot.com
+
+  invitations.theknot.com
+
+  account.theknot.com
+
+  help.theknot.com
+
+  support.theknot.com
+
+  business.theknot.com
+
+  pro.theknot.com
+
+  # ── Vendor/Pro Portals ───────────────────────────────
+
+  weddingpro.com
+
+  www.weddingpro.com
+
+  theknotpro.com
+
+  www.theknotpro.com
+
+  # ── Parent Company ──────────────────────────────────────────────
+
+  xogroupinc.com
+
+  www.xogroupinc.com
+
+  # ── CDN & Assets ────────────────────────────────────────────────
+
+  cdn.theknot.com
+
+  images.theknot.com
+
+  static.theknot.com
+
+  media.theknot.com
+
+  assets.theknot.com
+
+  # ── Analytics & Tracking ────────────────────────────────────────
+
+  analytics.theknot.com
+
+  tracking.theknot.com
+
+  events.theknot.com
+
+  metrics.theknot.com
+
+  pixel.theknot.com
+
+  # ── The Bump (TKWW Brand) ────────────────────────────────
+
+  thebump.com
+
+  www.thebump.com
+
+  api.thebump.com
+
+  cdn.thebump.com
+
+  # ── The Bash / eski GigMasters (TKWW Brand) ─────────────
+
+  thebash.com
+
+  www.thebash.com
+
+  # ── Lasting (TKWW Brand) ─────────────────────────────────
+
+  lasting.com
+
+  www.lasting.com
+
+  # ── How They Asked (TKWW Brand) ──────────────────────────
+
+  howtheyasked.com
+
+  www.howtheyasked.com
+
+  # ── Simply Eloped (TKWW 2024 acquired)───────────────────
+
+  simplyeloped.com
+
+  www.simplyeloped.com
+
+  # ── Weven (TKWW 2023 acquired CRM) ───────────────────────
+
+  weven.com
+
+  www.weven.com
+
+  # ───────────────────────────────────
+
+  weddingchannel.com
+
+  www.weddingchannel.com
+
+  ourwedding.com
+
+  www.ourwedding.com
+
+  # ── Matrimonio.com (TKWW Brand) ─────────
+
+  matrimonio.com
+
+  www.matrimonio.com
+
+  api.matrimonio.com
+
+WEDDINGWIRE SAME COMPANY AS THE KNOT
+
+  # ── Core ────────────────────────────────────────────────────────
+
+  weddingwire.com
+
+  www.weddingwire.com
+
+  # ── Subdomains ──────────────────────────────────────────────────
+
+  api.weddingwire.com
+
+  reviews.weddingwire.com
+
+  vendors.weddingwire.com
+
+  cdn.weddingwire.com
+
+  m.weddingwire.com
+
+  shop.weddingwire.com
+
+  photos.weddingwire.com
+
+  help.weddingwire.com
+
+  support.weddingwire.com
+
+  pro.weddingwire.com
+
+  business.weddingwire.com
+
+  # ── International ───────────────────────────────────────────────
+
+  weddingwire.ca
+
+  weddingwire.co.uk
+
+  bodas.net
+
+  mariages.net
+
+  casamentos.pt
+
+  # ── International ─────────────────────────────────────────
+
+  weddingwire.in
+
+  www.weddingwire.in
+
+  weddingwire.es
+
+  weddingwire.it
+
+  weddingwire.de
+
+  weddingwire.fr
+
+  weddingwire.com.br
+
+  weddingwire.com.au
+
+  weddingwire.ie
+
+  bodas.com.mx
+
+  bodas.com.co
+
+  # ── Analytics ────────────────────────────────────────────────────
+
+  analytics.weddingwire.com
+
+  tracking.weddingwire.com
+
+ZANKYOU (TKWW 2023 acquired)
+
+  zankyou.com
+
+  www.zankyou.com
+
+  help.zankyou.com
+
+  weddingclub.zankyou.com
+
+  # ── App & API  ─────────────────────────────────────────────
+
+  app.zankyou.com
+
+  api.zankyou.com
+
+  # ── TLD ───────────────────────────────
+
+  zankyou.es
+
+  zankyou.fr
+
+  zankyou.it
+
+  zankyou.de
+
+  zankyou.co.uk
+
+  zankyou.com.br
+
+  zankyou.com.mx
+
+  zankyou.com.ar
+
+  zankyou.in
+
+  zankyou.jp
+
+ZOLA (DATA SHARING SCANDAL)
+
+  zola.com
+
+  www.zola.com
+
+  api.zola.com
+
+  registry.zola.com
+
+  weddings.zola.com
+
+  images.zola.com
+
+  cdn.zola.com
+
+  shop.zola.com
+
+  invitations.zola.com
+
+  paper.zola.com
+
+  help.zola.com
+
+  support.zola.com
+
+  domains.zola.com
+
+  api.zola.ink
+
+  # ── Analytics & Tracking ────────────────────────────────────────
+
+  analytics.zola.com
+
+  tracking.zola.com
+
+  events.zola.com
+
+  pixel.zola.com
+
+  # ── CDN ─────────────────────────────────────────────────────────
+
+  static.zola.com
+
+  media.zola.com
+
+JOY (formerly Wedding Party) ⚠️⚠️⚠️⚠️⚠️
+
+  withjoy.com
+
+  www.withjoy.com
+
+  api.withjoy.com
+
+  app.withjoy.com
+
+  cdn.withjoy.com
+
+  registry.withjoy.com
+
+  static.withjoy.com
+
+  help.withjoy.com
+
+  support.withjoy.com
+
+  domains.withjoy.com
+
+  weddingpartyapp.com
+
+  # ── Analytics ────────────────────────────────────────────────────
+
+  analytics.withjoy.com
+
+APPY COUPLE
+
+  appycouple.com
+
+  www.appycouple.com
+
+  api.appycouple.com
+
+  cdn.appycouple.com
+
+  # ── Help/Support  ──────────────────────────────────────────
+
+  appy.zendesk.com
+
+GREENVELOPE ⚠️⚠️⚠️
+
+  greenvelope.com
+
+  www.greenvelope.com
+
+  api.greenvelope.com
+
+  cdn.greenvelope.com
+
+  help.greenvelope.com
+
+  support.greenvelope.com
+
+  greenvelopenew.desk.com
+
+💍 ADDITIONAL WEDDING PLATFORMS
+
+WEDDING SPOT CVENT OWNED
+
+  wedding-spot.com
+
+  www.wedding-spot.com
+
+  weddingspot.com
+
+  www.weddingspot.com
+
+  api.weddingspot.com
+
+WEDDING MAPPER ⚠️⚠️⚠️⚠️
+
+  weddingmapper.com
+
+  www.weddingmapper.com
+
+WEDDING HAPPY ⚠️⚠️⚠️
+
+  weddinghappy.com
+
+  www.weddinghappy.com
+
+  weddinghappy.uservoice.com
+
+WEDDINGPLANNER.COM ⚠️⚠️⚠️⚠️ NOT KNOT OWNED
+
+  weddingplanner.com
+
+  www.weddingplanner.com
+
+HITCHED (UK) ⚠️⚠️⚠️⚠️ TKWW OWNED (2020 acquired)
+
+  hitched.co.uk
+
+  www.hitched.co.uk
+
+  api.hitched.co.uk
+
+  # ──  Subdomains───────────────────────────────────────
+
+  hitched.com
+
+  suppliers.hitched.co.uk
+
+  support.hitched.co.uk
+
+BRIDEBOOK (UK) ⚠️⚠️⚠️⚠️
+
+  bridebook.co.uk
+
+  www.bridebook.co.uk
+
+  api.bridebook.co.uk
+
+  ──────────────────────────────────────────
+
+  bridebook.com
+
+  www.bridebook.com
+
+  partners.bridebook.com
+
+  support.bridebook.com
+
+LOVEBIRD (by Sincere Corporation) ⚠️⚠️⚠️⚠️
+
+  lovebird.com
+
+  www.lovebird.com
+
+  help.lovebird.com
+
+  # ── Subdomains ───────────────────────────────────────
+
+  app.lovebird.com
+
+  api.lovebird.com
+
+  # ── Parent Company: Sincere Corporation ──────────────────
+
+  sincere.com
+
+  punchbowl.com
+
+  www.punchbowl.com
+
+  timehop.com
+
+  www.timehop.com
+
+RILEY & GREY ⚠️⚠️⚠️
+
+  rileygrey.com
+
+  www.rileygrey.com
+
+  help.rileygrey.com
+
+  # ── ────────────────────────────────────────────────────
+
+  blog.rileygrey.com
+
+WEDSITES ⚠️⚠️⚠️
+
+  wedsites.com
+
+  www.wedsites.com
+
+  # ──  Subdomains───────────────────────────────────────
+
+  app.wedsites.com
+
+  help.wedsites.com
+
+HONEYFUND ⚠️⚠️⚠️⚠️
+
+  honeyfund.com
+
+  www.honeyfund.com
+
+  honeyfund.us
+
+  info.honeyfund.com
+ ────────────────────────────────────────────────────
+
+  help.honeyfund.com
+
+  blog.honeyfund.com
+
+TRAVELER'S JOY ⚠️⚠️⚠️⚠️
+
+  travelersjoy.com
+
+  www.travelersjoy.com
+ ────────────────────────────────────────────────────
+
+  blog.travelersjoy.com
+
+iWEDPLANNER ⚠️⚠️⚠️
+
+  iwedplanner.com
+
+  www.iwedplanner.com
+
+  service.iwedplanner.com
+
+LADYMARRY ⚠️⚠️⚠️
+
+  ladymarry.com
+
+  www.ladymarry.com
+
+  blog.ladymarry.com
+
+  services.ladymarry.com
+
+  weddingservice.ladymarry.com
+
+WEDY (Brazil) ⚠️⚠️⚠️
+
+  wedy.com
+
+  casamento.wedy.com
+
+  app.wedy.com
+
+  site.pro.wedy.com
+
+VENUEREPORT ⚠️⚠️⚠️
+
+  venuereport.com
+
+  www.venuereport.com
+
+PROVENANCE ⚠️⚠️⚠️
+
+  provenance.co
+
+  www.provenance.co
+
+  # ── App Portal ────────────────────────────────────────────
+
+  app.provenance.co
+
+100 LAYER CAKE (MATCHBOOK) ⚠️⚠️⚠️
+
+  100layercake.com
+
+  www.100layercake.com
+
+  cakelet.100layercake.com
+
+  # ── MatchBook ─────────────────────────────────
+
+  matchbook.com
+
+  www.matchbook.com
+
+SAY I DO (UK) ⚠️⚠️⚠️
+
+  sayi.do
+
+  www.sayi.do
+
+DESTINATIONWEDDINGS.COM ⚠️⚠️⚠️⚠️
+
+  destinationweddings.com
+
+  www.destinationweddings.com
+
+HONEYMOON WISHES ⚠️⚠️⚠️
+
+  honeymoonwishes.com
+
+  www.honeymoonwishes.com
+
+  carnival.honeymoonwishes.com
+
+  honeymoonsinc.honeymoonwishes.com
+
+  celebrationwishes.com
+
+  ────────────────────────────────────────────────────
+
+  www.celebrationwishes.com
+
+DEPOSIT A GIFT ⚠️⚠️⚠️
+
+  depositagift.com
+
+  www.depositagift.com
+
+SPUR EXPERIENCES ⚠️⚠️⚠️
+
+  spurexperiences.com
+
+  www.spurexperiences.com
+
+  # ── CDN/Static ────────────────────────────────────────────
+
+  static.spurexperiences.com
+
+HITCHD ⚠️⚠️⚠️
+
+  hitchd.com
+
+  www.hitchd.com
+
+THAT'S THE ONE (TTO) ⚠️⚠️⚠️
+
+  thatstheone.com
+
+  www.thatstheone.com
+
+  directory.thatstheone.com
+
+WEDUPLOADER ⚠️⚠️⚠️
+
+  weduploader.com
+
+  www.weduploader.com
+
+WEDIBOX ⚠️⚠️⚠️
+
+  wedibox.com
+
+  www.wedibox.com
+────────────────────────────────────────────────────
+
+  blog.wedibox.com
+
+KULULU ⚠️⚠️⚠️
+
+  kululu.com
+
+  www.kululu.com
+
+  kululu.me
+
+HITCHEDMOBILE ⚠️⚠️⚠️
+
+  hitchedmobile.app
+
+  www.hitchedmobile.app
+
+EVERSNAP ⚠️⚠️⚠️ Acquired by Snappr (2020)
+
+  eversnapapp.com
+
+  www.eversnapapp.com
+
+  wedding.eversnapapp.com
+
+  business.eversnapapp.com
+
+WEDTROVE ⚠️⚠️⚠️
+
+  wedtrove.com
+
+  www.wedtrove.com
+
+LENSE ⚠️⚠️⚠️
+
+  lense.app
+
+  www.lense.app
+
+LOVERLY ⚠️⚠️⚠️⚠️
+
+  loverly.com
+
+  www.loverly.com
+
+BLISS & BONE ⚠️⚠️⚠️
+
+  blissandbone.com
+
+  www.blissandbone.com
+
+  # ── CDN ───────────────────────────────────────────────────
+
+  cdn.blissandbone.com
+
+🎁 REGISTRY PLATFORMS
+
+MYREGISTRY ⚠️⚠️⚠️⚠️⚠️ MULTI-PLATFORM AGGREGATOR
+
+  myregistry.com
+
+  www.myregistry.com
+
+  api.myregistry.com
+
+  cdn.myregistry.com
+
+  static.myregistry.com
+
+  guides.myregistry.com
+
+  # ── Subdomains ───────────────────────────────────────
+
+  customercare.myregistry.com
+
+  app.myregistry.com
+
+BLUEPRINT REGISTRY ⚠️⚠️⚠️ MIGRATING TO MYREGISTRY
+
+  blueprintregistry.com
+
+  www.blueprintregistry.com
+
+  support.blueprintregistry.com
+
+  domains.blueprintregistry.com
+
+  guides.blueprintregistry.com
+
+📸 PHOTO SHARING PLATFORMS
+
+WEDPICS ⚠️⚠️⚠️⚠️⚠️ PHOTO HARVESTING — CLOSED February 15, 2019
+
+  # Platform acquired by Mixbook and shut down
+
+  wedpics.com
+
+  www.wedpics.com
+
+  api.wedpics.com
+
+  cdn.wedpics.com
+
+  images.wedpics.com
+
+  blog.wedpics.com
+
+WEDDING ALBUMS DIRECT ⚠️⚠️⚠️
+
+  weddingalbumsdirect.com
+
+  www.weddingalbumsdirect.com
