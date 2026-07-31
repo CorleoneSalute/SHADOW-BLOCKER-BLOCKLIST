@@ -1,0 +1,465 @@
+# Note Taking Apps Research List
+
+---
+
+## DESKTOP / WEB NOTE-TAKING APPS
+
+### Evernote
+```
+evernote.com
+evernote.net
+api.evernote.com
+analytics.evernote.com
+evernotecdn.com
+www.evernote.com
+app.evernote.com
+cdn.evernote.com
+client.evernote.com
+data.evernote.com
+update.evernote.com
+evernotemetrics.com
+simple-note.appspot.com
+dev.evernote.com
+xml.evernote.com
+[CLOSED] sandbox.evernote.com
+[CLOSED] sandbox-api.evernote.com
+[NEW] yinxiang.com
+[NEW] *.yinxiang.com
+[NEW] note.yinxiang.com
+[NEW] app.yinxiang.com
+```
+
+### Microsoft OneNote
+```
+onenote.com
+onenote.microsoft.com
+onedrive.live.com
+onenote.officeapps.live.com
+www.onenote.com
+api.onedrive.com
+storage.live.com
+skyapi.onedrive.live.com
+api.onenote.com
+www.onedrive.com
+cdn.onenote.net
+graph.microsoft.com
+euc-onenote-telemetry.officeapps.live.com
+in.appcenter.ms
+oca.telemetry.microsoft.com
+v10.vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+*.officeapps.live.com
+*.live.com
+login.live.com
+login.microsoft.com
+*.sharepoint.com
+*.windows.net
+nexusrules.officeapps.live.com
+nexusrules.live.com
+auc-visio-telemetry.officeapps.live.com
+brc-visio-telemetry.officeapps.live.com
+cac-visio-telemetry.officeapps.live.com
+dec-visio-telemetry.officeapps.live.com
+euc-powerpoint-telemetry.officeapps.live.com
+euc-visio-telemetry.officeapps.live.com
+location.live.net
+agps.location.live.net
+collection.location.live.net
+inference.location.live.net
+```
+
+### Google Keep
+```
+keep.google.com
+keep-pa.googleapis.com
+www.google.com/keep
+notes-pa.googleapis.com
+keep.googleapis.com
+*.googleapis.com
+domains.googleapis.com
+```
+
+### Bear
+```
+bear.app
+api.bear.app
+analytics.bear.app
+www.bear.app
+sync.bear.app
+cdn.bear.app
+icloud.com
+*.icloud.com
+*.icloud-content.com
+*.cdn-apple.com
+*.apple-cloudkit.com
+```
+
+### Roam Research
+```
+roamresearch.com
+api.roamresearch.com
+www.roamresearch.com
+analytics.roamresearch.com
+firebaseapp.com
+roam-graph.firebaseio.com
+firebaseio.com
+firebasestorage.googleapis.com
+firescript-471a1.appspot.com
+```
+
+### Simplenote
+```
+simplenote.com
+api.simplenote.com
+app.simplenote.com
+analytics.simplenote.com
+api.simperium.com
+simperium.com
+auth.simperium.com
+simple-note.appspot.com
+```
+
+### Zoho Notebook
+```
+notebook.zoho.com
+analytics.zoho.com
+www.zoho.com/notebook
+notebookapi.zoho.com
+accounts.zoho.com
+zohotagmanager.cdn.pagesense.io
+static.zoho.com
+zohocdn.com
+static.zohocdn.com
+js.zohocdn.com
+zohoinsights.com
+pagesense.io
+cdn.pagesense.io
+salesiq.zoho.com
+campaigns.zoho.com
+campaigns.cs.zohohost.com
+zoho.eu
+zohopublic.com
+zoho.in
+zohopublic.in
+zohostatic.com
+[NEW] *.sigmausercontent.com
+[NEW] notebook.zoho.eu
+[NEW] notebook.zoho.in
+[NEW] notebook.zoho.com.au
+```
+
+### Craft
+```
+craft.do
+www.craft.do
+api.craft.do
+craft.me
+assets.craft.do
+analytics.craft.do
+[NEW] support.craft.do
+[NEW] intercom.io
+[NEW] api.intercom.io
+[NEW] widget.intercom.io
+[NEW] js.intercomcdn.com
+[NEW] nexus-websocket-a.intercom.io
+[NEW] nexus-websocket-b.intercom.io
+[NEW] nexus-europe-websocket.intercom.io
+[NEW] uploads.intercomcdn.com
+[NEW] uploads.intercomusercontent.com
+[NEW] *.intercom-messenger.com
+[NEW] intercom-sheets.com
+[NEW] www.intercom-reporting.com
+```
+
+### Obsidian
+```
+obsidian.md
+analytics.obsidian.md
+publish.obsidian.md
+sync.obsidian.md
+releases.obsidian.md
+publish-main.obsidian.md
+[NEW] api.obsidian.md
+[NEW] forum.obsidian.md
+[NEW] help.obsidian.md
+[NEW] raw.githubusercontent.com
+[NEW] avatars.githubusercontent.com
+[NEW] shields.io
+```
+
+### Joplin (Joplin Cloud)
+```
+joplincloud.com
+api.joplincloud.com
+analytics.joplincloud.com
+app.joplincloud.com
+[NEW] discourse.joplinapp.org
+[NEW] plugins.joplinapp.org
+[NEW] cdn.jsdelivr.net
+[NEW] raw.githubusercontent.com
+[NEW] ghproxy.com
+[NEW] cdn.staticaly.com
+```
+
+### Standard Notes
+```
+standardnotes.com
+api.standardnotes.com
+sync.standardnotes.com
+app.standardnotes.com
+sync.standardnotes.org
+[NEW] listed.to
+[NEW] docs.standardnotes.com
+[NEW] extensions.standardnotes.com
+```
+
+### Logseq
+```
+logseq.com
+www.logseq.com
+test.logseq.com
+plugins-doc.logseq.com
+hub.logseq.com
+[NEW] discuss.logseq.com
+[NEW] docs.logseq.com
+[NEW] cdn.logseq.com
+```
+
+### Obsidian (local-only)
+```
+obsidian.md
+```
+
+### Joplin (self-hosted)
+```
+joplinapp.org
+www.joplinapp.org
+[NEW] discourse.joplinapp.org
+```
+
+---
+
+## MOBILE / TABLET NOTE-TAKING APPS
+
+### Apple Notes
+```
+icloud.com
+*.icloud.com
+*.icloud-content.com
+*.cdn-apple.com
+api.apple-cloudkit.com
+*.apple-cloudkit.com
+p55-ckdatabasews.icloud.com
+*.ckdatabasews.icloud.com
+p25-ckdatabasews.icloud.apple.com
+*.ckdatabasews.icloud.apple.com
+gateway.icloud.com
+icloud.developer.apple.com
+gc.apple.com
+cdn-icloud-content.g.aaplimg.com
+icloud.com.cn
+apple-livephotoskit.com
+icloud.cdn-apple.com
+push.apple.com
+identity.apple.com
+```
+
+### GoodNotes
+```
+goodnotes.com
+support.goodnotes.com
+feedback.goodnotes.com
+[NEW] *.goodnotes.com
+[NEW] *.goodnotescloud.com
+[NEW] *.goodnotes-devops.com
+[NEW] goodnoteseducation.zendesk.com
+```
+
+### Notability
+```
+gingerlabs.com
+support.gingerlabs.com
+blog.notability.com
+[NEW] notability.com
+[NEW] app.notability.com
+[NEW] api.notability.com
+[NEW] mixpanel.com
+[NEW] *.mixpanel.com
+[NEW] api.mixpanel.com
+```
+
+### Nebo (MyScript)
+```
+myscript.com
+help.myscript.com
+app-support.myscript.com
+[NEW] cloud.myscript.com
+```
+
+### Noteshelf
+```
+fluidtouch.biz
+noteshelf-support.fluidtouch.biz
+```
+
+### CollaNote
+```
+(iCloud only — uses the Apple/iCloud domains listed above)
+```
+
+### Noteful
+```
+getnoteful.com
+```
+
+### KiloNotes
+```
+top-stack.com
+www.top-stack.com
+```
+
+---
+
+## MODERN NOTE-TAKING APPS
+
+### UpNote
+```
+getupnote.com
+help.getupnote.com
+[NEW] upnote-prod.firebaseapp.com
+[NEW] upnote-prod.firebaseio.com
+[NEW] upnote-prod-default-rtdb.firebaseio.com
+```
+
+### Notesnook
+```
+notesnook.com
+api.notesnook.com
+help.notesnook.com
+monograph.notesnook.com
+[NEW] monogr.ph
+[NEW] attachments.notesnook.com
+[NEW] auth.streetwriters.co
+[NEW] events.streetwriters.co
+[NEW] subscriptions.streetwriters.co
+[NEW] payments.streetwriters.co
+[NEW] streetwriters.co
+```
+
+### Reflect
+```
+reflect.app
+reflect.academy
+[NEW] clearbit.com
+[NEW] person.clearbit.com
+[NEW] company.clearbit.com
+[NEW] knowledgegraph.googleapis.com
+[NEW] language.googleapis.com
+```
+
+### Tana
+```
+tana.inc
+app.tana.inc
+api.tana.inc
+europe-west1-tagr-prod.cloudfunctions.net
+[NEW] help.tana.inc
+[NEW] tana.pub
+[NEW] *.cloudfunctions.net
+```
+
+### Capacities
+```
+capacities.io
+api.capacities.io
+docs.capacities.io
+[NEW] feedback.capacities.io
+[NEW] community.capacities.io
+```
+
+### Heptabase
+```
+heptabase.com
+api.heptabase.com
+wiki.heptabase.com
+support.heptabase.com
+[NEW] accounts.heptabase.com
+[NEW] *.amazonaws.com
+[NEW] *.es.amazonaws.com
+```
+
+### Supernotes
+```
+supernotes.app
+api.supernotes.app
+help.supernotes.app
+developer.supernotes.app
+community.supernotes.app
+[NEW] media.supernotes.app
+```
+
+### Zettlr
+```
+zettlr.com
+docs.zettlr.com
+nightly.zettlr.com
+apt.zettlr.com
+api.github.com
+github.com
+```
+
+### Mem
+```
+mem.ai
+get.mem.ai
+api.mem.ai
+docs.mem.ai
+newsletter.mem.ai
+[NEW] status.mem.ai
+```
+
+### Scrintal
+```
+scrintal.com
+app.scrintal.com
+blog.scrintal.com
+feedback.scrintal.com
+```
+
+### Drafts
+```
+getdrafts.com
+docs.getdrafts.com
+scripting.getdrafts.com
+reference.getdrafts.com
+actions.getdrafts.com
+forums.getdrafts.com
+capture.getdrafts.com
+[NEW] agiletortoise.com
+[NEW] directory.getdrafts.com
+```
+
+### Trilium Notes
+```
+trilium.cc
+triliumnotes.org
+docs.triliumnotes.org
+liuyun.io
+[NEW] *.trilium.cc
+```
+
+### SiYuan
+```
+b3log.org
+liuyun.io
+```
+
+### CintaNotes
+```
+cintanotes.com
+```
+
+### Locark
+```
+locark.com
+``
