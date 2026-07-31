@@ -1,0 +1,1624 @@
+# LIVE EVENT & TICKETING PLATFORMS RESEARCH LIST
+
+---
+
+## 🎫 CORE TICKETING PLATFORMS
+
+### TICKETMASTER / LIVENATION
+
+**Main Domains**
+
+- ticketmaster.com
+- www.ticketmaster.com
+- livenation.com
+- concerts.livenation.com
+- vip.livenation.com
+- festivals.livenation.com
+- ticketsnow.com
+- ticketweb.com
+- frontgatetickets.com
+- ticketexchangebyticketmaster.com
+- tmol-cdn.ticketmaster.com
+- universe.com
+- ticketmaster.net
+- ticketstoday.com
+- ticketmaster.evyy.net
+- app.ticketmaster.eu
+- developer.ticketmaster.com
+- api.ticketmaster.com
+- app.ticketmaster.com
+- embed.ticketmaster.com
+- auth.ticketmaster.com
+- my.ticketmaster.com
+- am.ticketmaster.com
+- beta.ticketmaster.com
+- business.ticketmaster.com
+- ticketmastersport.com
+
+**Country Domains**
+
+- ticketmaster.co.uk
+- ticketmaster.ca
+- ticketmaster.de
+- ticketmaster.fr
+- ticketmaster.es
+- ticketmaster.it
+- ticketmaster.nl
+- ticketmaster.se
+- ticketmaster.no
+- ticketmaster.dk
+- ticketmaster.fi
+- ticketmaster.com.au
+- ticketmaster.ie
+- ticketmaster.at
+- ticketmaster.be
+- ticketmaster.ch
+- ticketmaster.co.nz
+- ticketmaster.cz
+- ticketmaster.gr
+- ticketmaster.pl
+- ticketmaster.ae
+- ticketmaster.com.mx
+- ticketmaster.com.tr
+
+**Business Subdomains (B2B)**
+
+- business.ticketmaster.co.uk
+- business.ticketmaster.de
+- business.ticketmaster.fr
+- business.ticketmaster.es
+- business.ticketmaster.it
+- business.ticketmaster.nl
+- business.ticketmaster.se
+- business.ticketmaster.no
+- business.ticketmaster.dk
+- business.ticketmaster.fi
+- business.ticketmaster.at
+- business.ticketmaster.be
+- business.ticketmaster.ch
+- business.ticketmaster.co.nz
+- business.ticketmaster.co.za
+- business.ticketmaster.com.mx
+- business.ticketmaster.cz
+- business.ticketmaster.gr
+- business.ticketmaster.ie
+- business.ticketmaster.pl
+- business.ticketmaster.sg
+- business.ticketmaster.ae
+
+**Partner / Regional Brands**
+
+- allaccess.com.ar
+- tmisrael.co.il
+- tickethour.com
+- biletix.com
+- tixcraft.com
+
+**Technical / CDN / API Domains**
+
+- tmol.io
+- tmol.co
+- pub-tmaws.io
+- ppub-tmaws.io
+- t-x.io
+- tmconst.com
+- ticketm.net
+- mfol.eu
+- io-media.com
+- am-support.io-media.com
+- media.ticketmaster.eu
+- mapsapi.tmol.io
+- venue.tmol.co
+- aa.s.tmol.io
+- prismic-images.tmol.io
+- dcassets.pub-tmaws.io
+- ls.collector.pub-tmaws.io
+- marketplace.prod.pub-tmaws.io
+- api.entry.pub-tmaws.io
+- api-preprod.entry.pub-tmaws.io
+- standalone.pub-tmaws.io
+- emailmanager.api.pub-tmaws.io
+- emailmgr-qa.api.pub-tmaws.io
+- emailmgr-dev.api.pub-tmaws.io
+- dc-router-west.pub-tmaws.io
+- gateway-api.preprod.gateway.pub-tmaws.io
+- api.tradedesk.pub-tmaws.io
+- api-prep.tradedesk.pub-tmaws.io
+- preprod1.aas-proxy.pub-tmaws.io
+- preprod2.aas-proxy.pub-tmaws.io
+- standalone-demo-next-use1-preprod.pub-tmaws.io
+- s.tmol.io
+- s2.tmol.io
+- maps.tmol.io
+- ismds-uk.tmol.io
+- beta.tmol.co
+- alpha.ticketmaster.net
+- embed-alpha.ticketmaster.net
+- embed-int.ticketmaster.net
+- embed.stage.ticketmaster.com
+- embed1-alpha.ticketmaster.net
+- embed2-alpha.ticketmaster.net
+- embed3-alpha.ticketmaster.net
+- embed99-alpha.ticketmaster.net
+- identity-dev.ticketexchangebyticketmaster.com
+- identity-dev.ticketsnow.com
+- identity-int.ticketmaster.net
+- identity-preprod.ticketmaster.com
+- identity.concerts.livenation.com
+- identity.livenation.com
+- identity.stg.livenation.com
+- apiaggreg-qa.ticketmaster.com
+- apiaggreg-stage.ticketmaster.com
+- apiaggreg.ticketmaster.com
+- concerts1.livenation.com
+- concerts1.stage.livenation.com
+- content.resale.ticketmaster.com
+- ironport.livenation.com
+- harrypotter.ticketmaster.com
+- ticketmaster.queue-it.net
+- livenation.queue-it.net
+- static.queue-it.net
+
+**Spain Technical Domains**
+
+- analytics.ticketmaster.es
+- availability.ticketmaster.es
+- checkout.prod.ticketmaster.es
+- checkout.ticketmaster.es
+- epsf.ticketmaster.es
+
+---
+
+### AXS
+
+- axs.com
+- www.axs.com
+- tickets.axs.com
+- api.axs.com
+- m.axs.com
+- flash.axs.com
+- premium.axs.com
+- events.axs.com
+- flashseatsweb.ca-prod.axs.com
+- ticketingcentral.com
+- flashseats.com
+- flashseatsweb.jp-prod.axs.com
+- support.axs.com
+- solutions.axs.com
+- a.axs.com
+- axs.co.uk
+- axsdevops.io
+
+---
+
+### STUBHUB (Viagogo)
+
+- stubhub.com
+- www.stubhub.com
+- stubhubstatic.com
+- viagogo.com
+- stubhub.co.uk
+- stubhub.ca
+- stubhub.de
+- stubhub.es
+- stubhub.fr
+- stubhub.com.mx
+- pro.stubhub.com
+- api.stubhub.net
+- api.stubhub.com
+- account.stubhub.com
+- support.stubhub.com
+- developer.stubhub.com
+- developer.viagogo.net
+- workatviagogo.com
+- stubhub.ie
+- stubhub.dk
+- stubhub.fi
+- stubhub.gr
+- stubhub.it
+- stubhub.pt
+- stubhub.pl
+- stubhub.se
+- stubhub.nl
+- stubhub.lu
+- stubhub.cz
+- stubhub.be
+- stubhub.co.at
+
+---
+
+### SEATGEEK
+
+- seatgeek.com
+- www.seatgeek.com
+- api.seatgeek.com
+- seatgeek.global
+- m.seatgeek.com
+- open.seatgeek.com
+- partners.seatgeek.com
+- chairnerd.seatgeek.com
+- support.seatgeek.com
+- platform.seatgeek.com
+- broker.seatgeek.com
+- enterprise.seatgeek.com
+
+---
+
+### VIVID SEATS
+
+- vividseats.com
+- www.vividseats.com
+- vividseatsdev.com
+- api.vividseats.com
+- m.vividseats.com
+- skybox.vividseats.com
+- brokers.vividseats.com
+- brokersupport.vividseats.com
+
+---
+
+### TICKETNETWORK
+
+- ticketnetwork.com
+- www.ticketnetwork.com
+- tntech.com
+- api.ticketnetwork.com
+- posnext.ticketnetwork.com
+- mercurywebservices.com
+- posnext.com
+
+---
+
+### ETIX
+
+- etix.com
+- www.etix.com
+- api.etix.com
+- hello.etix.com
+- support.etix.com
+- cdn.etix.com
+
+---
+
+### EVENTBRITE
+
+- eventbrite.com
+- www.eventbrite.com
+- eventbrite.co.uk
+- eventbrite.ca
+- eventbrite.com.au
+- eventbrite.de
+- eventbrite.es
+- eventbrite.fr
+- eventbrite.com.br
+- api.eventbrite.com
+- www.eventbriteapi.com
+- widgets.eventbrite.com
+- eventbriteapi.com
+- evbuc.com
+- cdn.evbuc.com
+- img.evbuc.com
+- s.evbuc.com
+- evbstatic.com
+- cdn.evbstatic.com
+- evbdns.com
+
+---
+
+### DICE
+
+> ⚠ Acquired by Fever in June 2025
+
+- dice.fm
+- www.dice.fm
+- api.dice.fm
+- partners-endpoint.dice.fm
+- pro.dice.fm
+- support.dice.fm
+- mio.dice.fm
+
+---
+
+### SEE TICKETS
+
+- seetickets.com
+- www.seetickets.com
+- seetickets.us
+- clientconsole.seetickets.com
+- affiliates.seetickets.us
+- clients.seetickets.us
+- support.seetickets.com
+- group.seetickets.com
+
+---
+
+### EVENTIM (CTS)
+
+- eventim.com
+- eventim.de
+- eventim.co.uk
+- eventim.nl
+- eventim.pl
+- api.eventim.com
+- webreporting.eventim.com
+- analytics.eventim.com
+- shop.eventim.de
+- webreporting.eventim.de
+- eventim-light.com
+- eventim-light.de
+- eventim-tixx.com
+- eventimb2b.nl
+- eventim.at
+- eventim.be
+- eventim.co.il
+- eventim.es
+- eventim.fi
+- eventim.hr
+- eventim.hu
+- eventim.no
+- eventim.ro
+- eventim.rs
+- eventim.se
+- eventim.si
+- eventim.sk
+- eventim.bg
+- eventim.com.br
+- billetlugen.dk
+- entradas.com
+- oeticket.at
+- teleticket.com.pe
+
+**EVENTIM FanSale (Resale)**
+
+- fansale.de
+- fansale.co.uk
+- fansale.nl
+- fansale.ch
+- fansale.fi
+- fansale.it
+- fansale.dk
+- fansale.no
+- fansale.se
+- fansale.com.br
+
+---
+
+### TICKETCORNER (Switzerland)
+
+- ticketcorner.ch
+- b2b.ticketcorner.ch
+- helpcenter.ticketcorner.ch
+
+---
+
+### STARTICKET.CH — NEW PLATFORM
+
+> ⚠ Switzerland's 2nd largest ticketing platform
+
+- starticket.ch
+- www.starticket.ch
+
+---
+
+### PETZI.CH — NEW PLATFORM
+
+> ⚠ Switzerland indie / small-venue ticketing
+
+- petzi.ch
+- www.petzi.ch
+
+---
+
+### TICKETONE (Italy)
+
+- ticketone.it
+- ticketoneb2b.it
+- www.ticketone.it
+- shop.ticketone.it
+- sport.ticketone.it
+- cinema.ticketone.it
+- fansale.it
+- tosc.it
+
+---
+
+### TICKETWEB
+
+- ticketweb.co.uk
+
+---
+
+## 🎫 RESALE / SECONDARY MARKET
+
+### GAMETIME
+
+- gametime.co
+- www.gametime.co
+- api.gametime.co
+- support.gametime.co
+
+---
+
+### TICKPICK
+
+- tickpick.com
+- www.tickpick.com
+- api.tickpick.com
+- organizer-api.tickpick.com
+- static.tickpick.com
+- dev-organizer-api.tickpick.com
+- creators.tickpick.com
+- support.tickpick.com
+- lp.tickpick.com
+
+---
+
+### RAZORGATOR
+
+> ⚠ Acquired by TickPick (2018)
+
+- razorgator.com
+
+---
+
+### TICKETCITY
+
+- ticketcity.com
+- www.ticketcity.com
+
+---
+
+### TICKETLIQUIDATOR
+
+- ticketliquidator.com
+
+---
+
+### GOTICKETS
+
+- gotickets.com
+
+---
+
+### TIQASSIST
+
+- tiqassist.com
+
+---
+
+### SCOREBIG
+
+- scorebigticketing.com
+
+---
+
+### TIXEL — NEW PLATFORM
+
+> ⚠ Secure ticket resale platform — Australia, NZ, UK
+
+- tixel.com
+- www.tixel.com
+- tixel.com.au
+- tixel.co.uk
+- tixel.co.nz
+- api.tixel.com
+
+---
+
+## 🌍 UK / EUROPE PLATFORMS
+
+### GIGANTIC (UK)
+
+- gigantic.com
+- www.gigantic.com
+- support.gigantic.com
+- my.gigantic.com
+- thisis.gigantic.com
+
+---
+
+### SKIDDLE (UK)
+
+- skiddle.com
+- www.skiddle.com
+- help.skiddle.com
+- api.skiddle.com
+
+---
+
+### TICKETLINE (UK)
+
+- ticketline.co.uk
+- ticketlinesolutions.com
+- ticketlight.ticketline.co.uk
+- ticketware.ticketline.co.uk
+- fanticks.ticketline.co.uk
+
+---
+
+### ALT-TICKETS (UK)
+
+- alt-tickets.co.uk
+
+---
+
+### STARGREEN (UK)
+
+- stargreen.com
+
+---
+
+### KABOODLE — NEW PLATFORM
+
+> ⚠ UK festival travel & ticketing — Boomtown, Snowbombing, Lost Village, etc.
+
+- kaboodle.co.uk
+- www.kaboodle.co.uk
+- bookings.kaboodle.co.uk
+- support.kaboodle.co.uk
+
+---
+
+### BILLETTO — NEW PLATFORM
+
+> ⚠ 14 countries, 100K+ organizers — one of Europe's largest self-service ticketing platforms
+
+- billetto.com
+- billetto.dk
+- billetto.se
+- billetto.no
+- billetto.co.uk
+- billetto.de
+- billetto.eu
+- billetto.nl
+- billetto.ie
+- billetto.fr
+- billetto.fi
+- billetto.it
+- billetto.es
+- billetto.pl
+- billetto.at
+- billetto.be
+- billetto.pt
+- api.billetto.com
+- go.billetto.com
+- support.billetto.com
+
+---
+
+### LIPPU.FI — NEW PLATFORM
+
+> ⚠ Finland's #1 ticketing platform
+
+- lippu.fi
+- www.lippu.fi
+- api.lippu.fi
+
+---
+
+### TIKETTI.COM — NEW PLATFORM
+
+> ⚠ Finland
+
+- tiketti.com
+- www.tiketti.com
+
+---
+
+### TICKETCO — NEW PLATFORM
+
+> ⚠ Norway-based international platform
+
+- ticketco.events
+- www.ticketco.events
+- ticketco.net
+- support.ticketco.events
+- start.ticketco.events
+
+---
+
+## 🌏 AUSTRALIA & NEW ZEALAND PLATFORMS
+
+### TICKETEK
+
+- ticketek.com.au
+- www.ticketek.com.au
+- help.ticketek.com.au
+- ticketek.co.nz
+- ticketek.com.sg
+- ticketek.com.ph
+- ticketek.com.my
+- eventopia.co
+- access.ticketek.com.au
+- api-cache.ticketek.com.au
+- auth.ticketek.com.au
+- components.ticketek.com.au
+- deals.ticketek.com.au
+- m.ticketek.com.au
+- marketplace.ticketek.com.au
+- oauth.ticketek.com.au
+- pay.ticketek.com.au
+- premier.ticketek.com.au
+- sell.ticketek.com.au
+- services.ticketek.com.au
+- ticket-delivery.ticketek.com.au
+- insider.ticketek.com.au
+- insight.ticketek.com.au
+- preview.ticketek.com.au
+- mail.ticketek.com.au
+- teg.com.au
+
+---
+
+### MOSHTIX
+
+- moshtix.com.au
+- www.moshtix.com.au
+- tixsupport.moshtix.com.au
+- business.moshtix.com
+- moshtix.co.nz
+
+---
+
+### OZTIX
+
+- oztix.com.au
+- tickets.oztix.com.au
+- www.oztix.com.au
+- tickets.liveatyourlocal.com.au
+- tickets.avclive.com.au
+- localtix.com.au
+- support.oztix.com.au
+- ticketsolutions.com.au
+- nztix.co.nz
+
+---
+
+### ITICKET (New Zealand)
+
+- iticket.co.nz
+
+---
+
+## 🌏 ASIA PLATFORMS — KOREA
+
+### TICKETLINK
+
+- ticketlink.co.kr
+- m.ticketlink.co.kr
+- www.ticketlink.co.kr
+
+---
+
+### TICKETBAY
+
+- ticketbay.co.kr
+- ticketbayglobal.com
+- globalclient.ticketbayglobal.com
+- ticketbay.asia
+
+---
+
+## 🌏 ASIA PLATFORMS — CHINA
+
+### DAMAI
+
+- damai.cn
+- www.damai.cn
+- m.damai.cn
+- help.damai.cn
+- maiseat.com
+- www.maiseat.com
+- damaiholdings.com
+- www.damaiholdings.com
+
+---
+
+### MAOYAN
+
+- maoyan.com
+- piaofang.maoyan.com
+- box.maoyan.com
+- ir-en.maoyan.com
+
+---
+
+### SHOWSTART
+
+- showstart.com
+
+---
+
+## 🌏 ASIA PLATFORMS — JAPAN
+
+### TICKET PIA
+
+- pia.co.jp
+- t.pia.jp
+- cloak.pia.jp
+- pia-live.jp
+- moala.pia.jp
+- linkst.jp
+
+---
+
+### EPLUS
+
+- eplus.jp
+- ib.eplus.jp
+- member.eplus.jp
+- spice.eplus.jp
+- support-qa.eplus.jp
+- eplus.tickets
+- support-qa.eplus.tickets
+- eplus-contactus.zendesk.com
+
+---
+
+### LAWSON TICKET (L-TIKE)
+
+- l-tike.com
+- faq.l-tike.com
+
+---
+
+### RAKUTEN TICKET
+
+- ticket.rakuten.co.jp
+
+---
+
+### CN PLAYGUIDE
+
+- cnplayguide.com
+
+---
+
+### TICKETBOARD
+
+- ticketboard.jp
+- tickebo.jp
+- ticket.tickebo.jp
+- m1.mobcon.jp
+
+---
+
+### JCB TICKET
+
+- jcb-ticket.jp
+
+---
+
+### TICKETJAM — NEW PLATFORM
+
+> ⚠ Japan's 3rd largest ticketing platform, 8M+ monthly visitors
+
+- ticketjam.jp
+- www.ticketjam.jp
+
+---
+
+### TICKET.CO.JP — NEW PLATFORM
+
+> ⚠ Japan — resale platform open to international users
+
+- ticket.co.jp
+- www.ticket.co.jp
+
+---
+
+### TICKETCIRCLE — NEW PLATFORM
+
+- ticketcircle.jp
+- www.ticketcircle.jp
+
+---
+
+### 7TICKET — NEW PLATFORM
+
+- 7ticket.jp
+- www.7ticket.jp
+
+---
+
+### PEATIX — NEW PLATFORM
+
+> ⚠ Japan + Southeast Asia's largest event platform — 25K+ events/month
+
+- peatix.com
+- www.peatix.com
+- ptix.co
+- peatix.sg
+- peatix.hk
+- peatix.tw
+- help.peatix.com
+- help-organizer.peatix.com
+- blog.peatix.com
+
+---
+
+## 🌏 ASIA PLATFORMS — THAILAND & SE ASIA
+
+### TICKETMELON
+
+- ticketmelon.com
+- apid-backend.ticketmelon.com
+- organizer.ticketmelon.com
+- api-doc.ticketmelon.com
+
+---
+
+## 🇮🇳 INDIA PLATFORMS
+
+### BOOKMYSHOW
+
+- bookmyshow.com
+- in.bookmyshow.com
+- bmscdn.com
+- in.bmscdn.com
+- bmstvod.com
+- bigtreeentertainment.com
+
+---
+
+### TICKETNEW → ZOMATO
+
+- ticketnew.com
+
+---
+
+### KYAZOONGA → ZOONGA
+
+- kyazoonga.com
+- zoonga.com
+
+---
+
+### TOWNSCRIPT
+
+- townscript.com
+- townscript-api.readme.io
+- www.townscript.com
+
+---
+
+### EXPLARA
+
+- explara.com
+- developers.explara.com
+
+---
+
+## 🏢 ENTERPRISE / CORPORATE PLATFORMS
+
+### LOGITIX / VICTORY LIVE
+
+- logitix.com
+- victorylive.com
+- one.victorylive.com
+- apidocs.victorylive.com
+- ticketevolution.com
+- developer.ticketevolution.com
+
+---
+
+### TICKETMANAGER
+
+- ticketmanager.com
+- maps.dynamicvenuemaps.com
+
+---
+
+### PACIOLAN — NEW PLATFORM
+
+> ⚠ 120M+ tickets/year, 500+ venues — university/sports-club ticketing
+
+- paciolan.com
+- www.paciolan.com
+- evenue.net
+- my.paciolan.com
+- hub.paciolan.com
+- *.evenue.net — each client uses its own subdomain (wildcard)
+
+---
+
+### EVENTCUBE (UK)
+
+- eventcube.io
+- www.eventcube.io
+- api.eventcube.io
+- api-docs.eventcube.io
+- help.eventcube.io
+
+---
+
+### BIZZABO
+
+- bizzabo.com
+- bizzabo.stoplight.io
+- bizzabo.api-docs.io
+- accounts.bizzabo.com
+- api.bizzabo.com
+
+---
+
+### INEVENT
+
+- inevent.com
+- faq.inevent.com
+- developers.inevent.com
+- inevent.uk
+- inevent-virtual-lobby.firebaseapp.com
+- *.tokbox.com
+- *.opentok.com
+
+---
+
+### SHOWCLIX
+
+- showclix.com
+- www.showclix.com
+- technically.showclix.com
+- developer.showclix.com
+- support.showclix.com
+- api.showclix.com
+- admin.showclix.com
+
+---
+
+### FESTICKET
+
+- festicket.com
+- www.festicket.com
+- api.festicket.com
+- support.festicket.com
+
+---
+
+### BRUSHFIRE — NEW PLATFORM
+
+> ⚠ 30,000+ events/year — major US-based platform
+
+- brushfire.com
+- www.brushfire.com
+- my.brushfire.com
+- api.brushfire.com
+- app.brushfire.com
+
+---
+
+### PREKINDLE — NEW PLATFORM
+
+> ⚠ Major ticketing platform specific to Texas/US
+
+- prekindle.com
+- www.prekindle.com
+
+---
+
+### AGILETIX — NEW PLATFORM
+
+- agiletix.com
+- www.agiletix.com
+- app.agiletix.com
+
+---
+
+### PROMOTIX — NEW PLATFORM
+
+- promotix.com
+- www.promotix.com
+- app.promotix.com
+
+---
+
+## 🎪 FESTIVAL TICKETING
+
+### COACHELLA
+
+- coachella.com
+- goldenvoice.com
+- shop.coachella.com
+- cruelworldfest.com
+
+---
+
+### LOLLAPALOOZA
+
+- lollapalooza.com
+- lollapalooza.frontgatetickets.com
+- lolla-internal.frontgatetickets.com
+- support.lollapalooza.com
+- global.lollapalooza.com
+- store.lollapalooza.com
+- lollapaloozabr.com
+- lollapaloozade.com
+- lollapaloozafr.com
+- lollaindia.com
+- lollapaloozachile.com
+- lollapaloozaarg.com
+- c3presents.com
+
+---
+
+### BONNAROO
+
+- bonnaroo.com
+- bonnaroo.frontgatetickets.com
+- bonnaroocampingandparking.frontgatetickets.com
+- support.bonnaroo.com
+- contact.frontgatetickets.com
+- weare.frontgatetickets.com
+- superflypresents.com
+
+---
+
+### OUTSIDE LANDS
+
+- outsidelands.com
+- sfoutsidelands.com
+- outsidelands.frontgatetickets.com
+
+---
+
+### ACL FESTIVAL
+
+- aclfestival.com
+- aclfest-weekend1.frontgatetickets.com
+- aclfest-weekend2.frontgatetickets.com
+- aclfest.com
+- support.aclfestival.com
+
+---
+
+### EDC / INSOMNIAC
+
+- electricdaisycarnival.com
+- lasvegas.electricdaisycarnival.com
+- insomniac.com
+- insomniactickets.com
+- insomniac.frontgatetickets.com
+- orlando.electricdaisycarnival.com
+- edcweek.com
+- edclasvegas.com
+- edcmex.com
+- edcorlando.com
+- nocturnalwonderland.com
+- beyondwonderland.com
+- escapehalloween.com
+- dreamstateusa.com
+- countdownnye.com
+- factory93.com
+- bassrush.com
+- basscon.com
+- projectglowfest.com
+- electricforest.com
+- audiotistic.com
+
+---
+
+### ULTRA MUSIC FESTIVAL
+
+- ultramusicfestival.com
+- ultramusicfestival.frontgatetickets.com
+- ticketfreak.com
+- umfworldwide.com
+- roadtoultra.com
+- ultraeurope.com
+- ultrakorea.com
+- ultrajapan.com
+- ultrabeach.com
+- resistanceibiza.com
+
+---
+
+### STAGECOACH
+
+- stagecoach.com
+- stagecoachfestival.com
+
+---
+
+### BURNING MAN
+
+- burningman.org
+- tickets.burningman.org
+- profiles.burningman.org
+- help.burningman.org
+- api.burningman.org
+
+---
+
+### SXSW
+
+- sxsw.com
+- schedule.sxsw.com
+- cart.sxsw.com
+- id.sxsw.com
+- support.sxsw.com
+- sxswedu.com
+
+---
+
+### PRIMAVERA SOUND
+
+- primaverasound.com
+
+---
+
+### TOMORROWLAND / PAYLOGIC
+
+- tomorrowland.com
+- paylogic.com
+- paylogic.nl
+- frontoffice.paylogic.nl
+- queue.paylogic.com
+- queue-api.paylogic.com
+- customerservice.paylogic.com
+- developer.paylogic.com
+- shopping-api.paylogic.com
+- shopping-api-docs.sandbox.paylogic.com
+- winter.tomorrowland.com
+- worldwide-presale.tomorrowland.com
+- my.tomorrowland.com
+
+---
+
+### GLASTONBURY
+
+- glastonburyfestivals.co.uk
+- www.glastonburyfestivals.co.uk
+- glastonbury.seetickets.com
+
+---
+
+## 🎫 NEW PLATFORMS — HIGH POPULARITY
+
+### TIXR
+
+- tixr.com
+- www.tixr.com
+- creators.tixr.com
+- studio.tixr.com
+- support.tixr.com
+- clients.tixr.com
+- tixrapi.docs.apiary.io
+- studioapiv1.docs.apiary.io
+- tixrwebhooks.docs.apiary.io
+- cdn.livestream.com
+- api.new.livestream.com
+- secure-playlist.livestream.com
+- playback.akamaized.net
+- playback2.akamaized.net
+- livestream-f.akamaihd.net
+
+---
+
+### SHOWPASS
+
+- showpass.com
+- www.showpass.com
+- help.showpass.com
+- dev.showpass.com
+
+---
+
+### POSH
+
+- posh.vip
+- www.posh.vip
+- hosted.posh.vip
+
+---
+
+### SHOTGUN
+
+- shotgun.live
+- www.shotgun.live
+- pro.shotgun.live
+- support.shotgun.live
+- support-pro.shotgun.live
+- smartboard.shotgun.live
+- artist.shotgun.live
+
+---
+
+### FEVER
+
+> ⚠ Acquired DICE in June 2025
+
+- feverup.com
+- www.feverup.com
+- support.feverup.com
+- business.feverup.com
+- secretmedianetwork.com
+
+---
+
+### XCEED — NEW PLATFORM
+
+> ⚠ Europe's leading nightlife ticketing platform — Spain, Italy, France, Germany
+
+- xceed.me
+- www.xceed.me
+- pro.xceed.me
+- nightmag.com
+
+---
+
+### TODAYTIX GROUP — NEW PLATFORM
+
+> ⚠ Theatre-focused ticketing — Broadway, West End, etc.
+
+- todaytix.com
+- www.todaytix.com
+- api.todaytix.com
+- backstage.todaytix.com
+- affiliates.todaytix.com
+- images.todaytix.com
+- help.todaytix.com
+- support.todaytix.com
+- status.todaytix.com
+- blog.todaytix.com
+- docs.todaytix.com
+- link.todaytix.com
+- m.todaytix.com
+- store.todaytix.com
+- cms.todaytix.com
+- todaytixgroup.com
+
+**TodayTix Group — Brands Under the Group**
+
+- goldstar.com
+- www.goldstar.com
+- show-score.com
+- www.show-score.com
+- broadwayroulette.com
+- londontheatre.co.uk
+- www.londontheatre.co.uk
+- newyorktheatreguide.com
+- encoretickets.co.uk
+- www.encoretickets.co.uk
+- boxoffice.co.uk
+- secretcinema.org
+
+---
+
+## 🎫 NEW PLATFORMS — MEDIUM/HIGH POPULARITY
+
+### VENUEPILOT
+
+- venuepilot.com
+- www.venuepilot.com
+- rc.venuepilot.com
+- support.venuepilot.co
+
+---
+
+### TICKET TAILOR
+
+- tickettailor.com
+- www.tickettailor.com
+- cdn.tickettailor.com
+- app.tickettailor.com
+- developers.tickettailor.com
+- help.tickettailor.com
+
+---
+
+### HUMANITIX
+
+- humanitix.com
+- www.humanitix.com
+- humanitix.com.au
+- api.humanitix.com
+- static.humanitix.com
+- help.humanitix.com
+
+---
+
+### TICKETLEAP
+
+- ticketleap.com
+- www.ticketleap.com
+- help.ticketleap.com
+- support.ticketleap.com
+- dev.ticketleap.com
+
+---
+
+### TICKETSAUCE
+
+- ticketsauce.com
+- www.ticketsauce.com
+- nightout.com
+
+---
+
+### VIVENU
+
+- vivenu.com
+- www.vivenu.com
+- vivenu.dev
+- dashboard.vivenu.com
+- dashboard.vivenu.dev
+- docs.vivenu.dev
+- api.vivenu.com
+- wiki.vivenu.com
+- app.vivenu.com
+- portier.vivenu.com
+- portier.vivenu.dev
+
+---
+
+### TICKET FAIRY
+
+- ticketfairy.com
+- www.ticketfairy.com
+
+---
+
+### FIXR
+
+- fixr.co
+- www.fixr.co
+- web-cdn.fixr.co
+- organiser.fixr.co
+- docs.fixr.co
+
+---
+
+## 🎫 NEW PLATFORMS — MEDIUM POPULARITY
+
+### GROWTIX
+
+- growtix.com
+- www.growtix.com
+
+---
+
+### PURPLEPASS
+
+- purplepass.com
+- www.purplepass.com
+
+---
+
+### THUNDERTIX
+
+- thundertix.com
+- www.thundertix.com
+- admin.thundertix.com
+
+---
+
+### CHECKOUT PAGE
+
+- checkoutpage.co
+- checkoutpage.com
+- www.checkoutpage.com
+- help.checkoutpage.com
+
+---
+
+### TICKETSPICE
+
+- ticketspice.com
+- www.ticketspice.com
+- help.ticketspice.com
+
+---
+
+### TICKETBUD
+
+- ticketbud.com
+- www.ticketbud.com
+- help.ticketbud.com
+- api.ticketbud.com
+- attachments.ticketbud.com
+
+---
+
+### EZEVENT
+
+- ez-event.com
+- www.ez-event.com
+
+---
+
+### TIX
+
+- tix.com
+- www.tix.com
+
+---
+
+### FERVE TICKETS
+
+- fervetickets.com
+- www.fervetickets.com
+
+---
+
+### YAPSODY
+
+- yapsody.com
+- www.yapsody.com
+- support.yapsody.com
+- developers.yapsody.com
+
+---
+
+### FRESHTIX
+
+- freshtix.com
+- www.freshtix.com
+- blog.freshtix.com
+- ticketalternative.com
+- www.ticketalternative.com
+
+---
+
+### TICKETSOURCE
+
+- ticketsource.co.uk
+- www.ticketsource.co.uk
+- ticketsource.us
+- www.ticketsource.us
+- support.ticketsource.co.uk
+- ticketsource.io
+- api.ticketsource.io
+- reference.ticketsource.io
+- cdn.ticketsource.co.uk
+
+---
+
+### ATTENDSTAR
+
+- attendstar.com
+- www.attendstar.com
+- support.attendstar.com
+
+---
+
+### EVENTBOOKINGS
+
+- eventbookings.com
+- www.eventbookings.com
+- support.eventbookings.com
+
+---
+
+### ONEBOX
+
+- oneboxtds.com
+- www.oneboxtds.com
+- api.oneboxtds.com
+
+---
+
+### TRYBOOKING
+
+- trybooking.com
+- www.trybooking.com
+- trybooking.com.au
+- trybooking.co.uk
+- trybooking.co.nz
+- edgetix.com
+
+---
+
+### VBO TICKETS
+
+- vbotickets.com
+- www.vbotickets.com
+- support.vbotickets.com
+
+---
+
+### METROTIX
+
+- metrotix.com
+- www.metrotix.com
+- metrotix.evenue.net
+
+---
+
+### SAFFIRE
+
+- saffire.com
+- www.saffire.com
+- saffiretix.com
+- blastpass.com
+
+---
+
+## 🎫 NEW PLATFORMS — LOW/MEDIUM POPULARITY
+
+### TICKETSCANDY
+
+- ticketscandy.com
+- www.ticketscandy.com
+- blog.ticketscandy.com
+
+---
+
+### SIMPLETIX
+
+- simpletix.com
+- www.simpletix.com
+
+---
+
+### TICKERI
+
+- tickeri.com
+- www.tickeri.com
+
+---
+
+### EVENTBEE
+
+- eventbee.com
+- www.eventbee.com
+
+---
+
+### HYTIX
+
+- hytix.com
+- www.hytix.com
+
+---
+
+### TIXLY
+
+- tixly.com
+- www.tixly.com
+
+---
+
+### TICKETS99
+
+- tickets99.com
+- www.tickets99.com
+
+---
+
+### RED61
+
+- red61.com
+- www.red61.com
+
+---
+
+### TICKETMEO (PLOXEL)
+
+- ticketmeo.com
+- www.ticketmeo.com
+- ploxel.com
+- ploxel.co.uk
+- support.ticketmeo.com
+
+---
+
+### ACCESSO
+
+- accesso.com
+- www.accesso.com
+- showare.com
+- ingresso.co.uk
+- ingresso.com
+- siriusware.com
+- portal.siriusware.com
+- lo-q.com
+- loqueue.com
+- theexperienceengine.com
+- accesso.com.au
+
+---
+
+### EVENTGROOVE — NEW PLATFORM
+
+- eventgroove.com
+- www.eventgroove.com
