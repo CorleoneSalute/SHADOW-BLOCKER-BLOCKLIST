@@ -1,0 +1,1282 @@
+# 🚕 RIDE-SHARING & MICRO-MOBILITY DOMAIN BLOCKLIST — RESEARCH REFERENCE
+
+## ⚪ SECTION 1 — CORE SERVICES
+
+### 🟡 UBER
+
+**Uber Main Domains**
+- uber.com
+- uber.com.au
+- ubereats.com
+- uberinternal.com
+- oojoovae.org
+- geixahba.com
+- freight.uber.com
+- eats.uber.com
+
+**Uber Core API & Auth**
+- api.uber.com
+- api1.uber.com
+- api2.uber.com
+- api3.uber.com
+- rt.uber.com
+- riders.uber.com
+- partners.uber.com
+- payments.uber.com
+- auth.uber.com
+- login.uber.com
+- sandbox-api.uber.com
+- developer.uber.com
+- developers.uber.com
+- accounts.uber.com
+- signin.uber.com
+- signup.uber.com
+- cn.uber.com
+- cn1.uber.com
+- cn2.uber.com
+- cn3.uber.com
+- cn4.uber.com
+- cn-dc1.uber.com
+- cn-dca1.uber.com
+- cn-geo1.uber.com
+- cn-peak1.uber.com
+- cn-sjc1.uber.com
+- api.uber.com.au
+- api01.syd1.uber.com.au
+
+**Uber Product & Service Subdomains**
+- eats.uber.com
+- drive.uber.com
+- driver.uber.com
+- m.uber.com
+- lite.uber.com
+- get.uber.com
+- go.uber.com
+- rush.uber.com
+- track.uber.com
+- trip.uber.com
+- trip-dc2.uber.com
+- link.uber.com
+- offers.uber.com
+- redeem.uber.com
+- subscriptions.uber.com
+- restaurant.uber.com
+- restaurants.uber.com
+- vehicle-solutions.uber.com
+- inventory.uber.com
+- biz.uber.com
+- business.uber.com
+- central.uber.com
+- clients.uber.com
+- onboarding.uber.com
+- people.uber.com
+- corp.uber.com
+- freight.uber.com
+
+**Uber Communication & Email Infrastructure**
+- email.uber.com
+- mail.uber.com
+- click.uber.com
+- click.et.uber.com
+- image.et.uber.com
+- view.et.uber.com
+- pages.et.uber.com
+- mta.et.uber.com
+- mta2.et.uber.com
+- mta3.et.uber.com
+- mta4.et.uber.com
+- mta6.et.uber.com
+- mta7.et.uber.com
+- mta8.et.uber.com
+- mta9.et.uber.com
+- mta10.et.uber.com
+- mta11.et.uber.com
+- mta12.et.uber.com
+- mta13.et.uber.com
+- mta14.et.uber.com
+- mta15.et.uber.com
+- mta16.et.uber.com
+- mta17.et.uber.com
+- mta18.et.uber.com
+- mta19.et.uber.com
+- mta20.et.uber.com
+- mta21.et.uber.com
+- mta22.et.uber.com
+- mta23.et.uber.com
+- o1.email.uber.com
+- o2.email.uber.com
+- o3.email.uber.com
+- o8.email.uber.com
+- o9.email.uber.com
+- o10.email.uber.com
+- o11.email.uber.com
+- o12.email.uber.com
+- o13.email.uber.com
+- o14.email.uber.com
+- o15.email.uber.com
+- o16.email.uber.com
+- o17.email.uber.com
+- o18.email.uber.com
+- o19.email.uber.com
+- o20.email.uber.com
+- o21.email.uber.com
+- o22.email.uber.com
+- o23.email.uber.com
+- o24.email.uber.com
+- o25.email.uber.com
+- sms.uber.com
+- sms2.uber.com
+- notifier.uber.com
+- mail01.uber.com
+- mail1.uber.com.au
+
+**Uber Static Content & CDN**
+- mobile-content.uber.com
+- pusher.uber.com
+- static-maps.uber.com
+- tb-static.uber.com
+- tbgs-static.uber.com
+- tc2.uber.com
+- blogcdn.uber.com
+- widgets.uber.com
+- video.uber.com
+- brand.uber.com
+- branding.uber.com.au
+- components.uber.com
+- a.uber.com
+- t.uber.com
+- t2.uber.com
+- p.uber.com
+- p2.uber.com
+- p3.uber.com
+- v.uber.com
+
+**Uber Content & Documentation**
+- help.uber.com
+- support.uber.com
+- docs.uber.com
+- blog.uber.com
+- newsroom.uber.com
+- eng.uber.com
+- engineering.uber.com
+- research.uber.com
+- science.uber.com
+- accessibility.uber.com
+- safetyreport.uber.com
+- transparencyreport.uber.com
+- translate.uber.com
+- careers.uber.com
+- jobs.uber.com
+- join.uber.com
+- developer.uber.com
+- developers.uber.com
+- code.uber.com
+- devblog.uber.com
+- bizblog.uber.com
+- blog.uber.com.au
+- blog01.syd1.uber.com.au
+- voice.uber.com
+- groups.uber.com
+- experience.uber.com
+- www.blog.uber.com
+- www.partners.uber.com
+- www.uber.com
+
+**Uber Infrastructure & Security**
+- logs.uber.com
+- nagios.uber.com
+- nagios2.uber.com
+- nagios-peak1.uber.com
+- sonar.uber.com
+- dashboards.uber.com
+- survey.uber.com
+- sync.uber.com
+- tools.uber.com
+- advantage.uber.com
+- shares.uber.com
+- security.uber.com
+- sftp.uber.com
+- vpn.uber.com
+- bastion.uber.com
+- vault.uber.com
+- backup.uber.com
+- jira.uber.com
+- ci.uber.com
+- frontends.uber.com
+- frontends-sjc1.uber.com
+- splitio.uber.com
+- split.uber.com
+- people.uber.com
+- ldap.uber.com
+- kerberos.uber.com
+- csp.uber.com
+- sscb.uber.com
+
+**Uber Australia Infrastructure**
+- balancer1.uber.com.au
+- cln-cbr.uber.com.au
+- cms.uber.com.au
+- cms01.syd1.uber.com.au
+- cns1.uber.com.au
+- corpdns1.uber.com.au
+- corpmail-in.uber.com.au
+- dev01.syd1.uber.com.au
+- mirror01.cbr.uber.com.au
+- mirror01.syd.uber.com.au
+- mysql1.uber.com.au
+- mysql2.uber.com.au
+- mysql3.uber.com.au
+- nglb.uber.com.au
+- ns3.uber.com.au
+- pgsql1.uber.com.au
+- pgsql2.uber.com.au
+- pgsql3.uber.com.au
+- pre-api01.syd1.uber.com.au
+- pre-blog01.syd1.uber.com.au
+- pre-cms01.syd1.uber.com.au
+- pub01.syd1.uber.com.au
+- test.uber.com.au
+- ubcrm01.syd1.uber.com.au
+- vzlin1.uber.com.au
+- vzlin2.uber.com.au
+- vzlin3.uber.com.au
+- web01.syd1.uber.com.au
+- web02.cbr1.uber.com.au
+- winweb1.uber.com.au
+- winweb2.uber.com.au
+- winweb3.uber.com.au
+- www.uber.com.au
+
+**Uber Brazil**
+- dot.uber.com.br
+- mx1.uber.com.br
+- mx2.uber.com.br
+- wakko.uber.com.br
+- yakko.uber.com.br
+
+**Uber Database & Big Data**
+- datacentral.uber.com
+- clio.uber.com
+- dsw.uber.com
+- presto.uber.com
+- spark.uber.com
+- hadoop.uber.com
+- kafka.uber.com
+- pinot.uber.com
+- neutrino.uber.com
+- hive.uber.com
+- mongo1.uber.com
+- mongo3.uber.com
+- mysql1.uber.com
+- mysql2.uber.com
+- mysql3.uber.com
+
+**Uber Additional Domains (Confirmed via Research)**
+- ubereats.com
+- oojoovae.org
+- geixahba.com
+- accounts.uber.com
+- signin.uber.com
+- signup.uber.com
+- onboarding.uber.com
+- people.uber.com
+- vehicle-solutions.uber.com
+- inventory.uber.com
+- nagios.uber.com
+- sonar.uber.com
+- dashboards.uber.com
+- blogcdn.uber.com
+- widgets.uber.com
+- video.uber.com
+- brand.uber.com
+- components.uber.com
+- redeem.uber.com
+- subscriptions.uber.com
+- restaurants.uber.com
+- freight.uber.com
+- translate.uber.com
+- transparencyreport.uber.com
+- safetyreport.uber.com
+- accessibility.uber.com
+- zhitao-mesos1.dev.uber.com
+- www.bpan4.dev.uber.com
+- ittools01-dmz1.prod.uber.com
+
+### 🟣 LYFT
+
+**Lyft Main Domains**
+- lyft.com
+- lyftmedia.com
+- lyft.net
+- freenow.com
+- free-now.com
+
+**Lyft Core**
+- api.lyft.com
+- rt.lyft.com
+- ride.lyft.com
+- passenger.lyft.com
+- driver.lyft.com
+- auth.lyft.com
+- business.lyft.com
+- help.lyft.com
+- blog.lyft.com
+- safety.lyft.com
+
+**Lyft CDN & Static**
+- cdn.lyft.com
+- aircontrol.lyft.com
+- static.lyft.com
+
+**Lyft Analytics**
+- analytics.lyft.com
+- metrics.lyft.com
+- events.lyft.com
+- telemetry.lyft.com
+- data.lyft.com
+- lyft.demdex.net
+- lyft-analytics.segment.com
+- lyft.mixpanel.com
+- mobile-analytics.lyft.com
+- app-analytics.lyft.com
+
+### 🗺️ Maps (Required for Navigation)
+- maps.googleapis.com
+- api.mapbox.com
+- tiles.mapbox.com
+
+### 💳 Payment Processing (Required)
+- stripe.com
+- api.stripe.com
+- braintreegateway.com
+- api.braintreegateway.com
+
+### 🐛 Crash Reporting & Error Tracking
+- sentry.io
+- bugsnag.com
+- firebase.google.com
+- firebase-settings.crashlytics.com
+- crashlytics.com
+
+---
+
+## 🔴 SECTION 2 — ANALYTICS & TELEMETRY (Block All!)
+
+**Uber Analytics**
+- analytics.uber.com
+- metrics.uber.com
+- events.uber.com
+- telemetry.uber.com
+- data.uber.com
+- app-measurement.com
+- mobile-analytics.uber.com
+- app-measurement.uber.com
+- crash-analytics.uber.com
+- uber.demdex.net
+- uber.tt.omtrdc.net
+- uber.d.mookie1.com
+- uber-analytics.segment.com
+- uber.mixpanel.com
+
+**Lyft Analytics**
+- analytics.lyft.com
+- metrics.lyft.com
+- events.lyft.com
+- telemetry.lyft.com
+- data.lyft.com
+- lyft.demdex.net
+- lyft-analytics.segment.com
+- lyft.mixpanel.com
+- mobile-analytics.lyft.com
+- app-analytics.lyft.com
+
+**DiDi Analytics (⚠ China — Government Access!)**
+- analytics.didichuxing.com
+- data.xiaojukeji.com
+- umeng.com
+- cnzz.com
+- api.didichuxing.com
+- telemetry.didichuxing.com
+- research.xiaojukeji.com
+- me.xiaojukeji.com
+
+---
+
+## 🌍 SECTION 3 — INTERNATIONAL RIDE-HAILING PLATFORMS
+
+### ⚡ BOLT (Europe)
+- bolt.eu
+- api.bolt.eu
+- analytics.bolt.eu
+- developer.bolt.eu
+- user.bolt.eu
+- rental-search.bolt.eu
+- germany-rental.taxify.eu
+- images.bolt.eu
+- taxify.eu
+
+**Bolt (Additional — Confirmed via Research)**
+- food.bolt.eu
+- business.bolt.eu
+- drive.bolt.eu
+- fleets.bolt.eu
+- assets.bolt.eu
+- push.bolt.eu
+- maps.bolt.eu
+- static.bolt.eu
+- blog.bolt.eu
+- news.bolt.eu
+
+### 🟢 CAREEM (Middle East — Uber-owned)
+- careem.com
+- api.careem.com
+- analytics.careem.com
+- drive.careem.com
+- halaride.com
+
+**Careem (Additional — Confirmed via Research)**
+- auth.careem.com
+- app.careem.com
+- careemnow.com
+- app.careemnow.com
+- careem-pay.com
+- pay.careem.com
+- food.careem.com
+- help.careem.com
+- blog.careem.com
+- captain.careem.com
+- business.careem.com
+
+### 🟡 GRAB (Southeast Asia)
+⚠ Not present in the original list — added via research.
+- grab.com
+- api.grab.com
+- app.grab.com
+- signup.grab.com
+- sso.grab.com
+- pay.grab.com
+- grabplatform.grab.com
+- developer.grab.com
+- developers.grab.com
+- help.grab.com
+- partners.grab.com
+- business.grab.com
+- enterprise.grab.com
+- portal.grab.com
+- console.grab.com
+- sandbox.grab.com
+- static.grab.com
+- assets.grab.com
+- media.grab.com
+- icons.grab.com
+- maps.grab.com
+- map.grab.com
+- book.grab.com
+- finance.grab.com
+- offers.grab.com
+- link.grab.com
+- share.grab.com
+- go.grab.com
+- r.grab.com
+- s.grab.com
+- e.grab.com
+- video.grab.com
+- forms.grab.com
+- wiki.grab.com
+- design.grab.com
+- doc.grab.com
+- register.grab.com
+- public.grab.com
+- mcp.grab.com
+- myteksi.com
+- stg-myteksi.com
+- grabpay.com
+- grabads.com
+- grabinsurance.com
+
+### 🟢 GOJEK / GOTO (Indonesia)
+⚠ Not present in the original list — added via research.
+- gojek.com
+- gotogroup.com
+- goto.id
+- developers.gojek.com
+- gocorp.gojek.com
+- track.gojek.com
+- career.gojek.com
+- l.gojek.com
+- trk.gojek.com
+- newsroom.gojek.com
+
+### 🔵 inDRIVE (Global — #2 Worldwide)
+- indrive.com
+- api.indrive.com
+- public-api.indrive.com
+
+**inDrive (Additional — Confirmed via Research)**
+- beginit.indrive.com
+- book.indrive.com
+- cargo.indrive.com
+- classified.indrive.com
+- compliance.indrive.com
+- couriers.indrive.com
+- cr.indrive.com
+- delivery.indrive.com
+- food.indrive.com
+- freight.indrive.com
+- groupbuy.indrive.com
+- ic.indrive.com
+- id.indrive.com
+- inapps.indrive.com
+- inapps2.indrive.com
+- intercity.indrive.com
+- job.indrive.com
+- landing.indrive.com
+- media.indrive.com
+- money.indrive.com
+- promo.indrive.com
+- rd.indrive.com
+- ref.indrive.com
+- rideshare.indrive.com
+- s.indrive.com
+- services.indrive.com
+- sgtm.indrive.com
+- share.indrive.com
+- sharetrip.indrive.com
+- sparklab.indrive.com
+- supernovas.indrive.com
+- updrive.indrive.com
+- us.indrive.com
+- ventures.indrive.com
+- wa-auth.indrive.com
+- empleo.indrive.com
+- injob.indrive.com
+- lp-food.indrive.com
+- lp-services.indrive.com
+- rabota.indrive.com
+- servicos.indrive.com
+- yourpace.indrive.com
+
+### 🔴 BlaBlaCar (Europe — Carpooling)
+- blablacar.com
+- m.blablacar.com
+- public-api.blablacar.com
+- bus-api.blablacar.com
+- dev.blablacar.com
+- developer.blablacar.com
+- support.blablacar.com
+- blog.blablacar.com
+- blablacar.fr
+- blablacar.co.uk
+- blablacar.de
+- blablacar.es
+- blablacar.it
+- blablacar.pl
+- blablacardaily.com
+
+**BlaBlaCar (Additional — Confirmed via Research)**
+- cdn.blablacar.com
+- api.blablacar.com
+- bus.blablacar.com
+- booking.blablacar.com
+- edge.blablacar.com
+- webhooks.blablacar.com
+- redirect.blablacar.com
+- jobs.blablacar.com
+- community.blablacar.com
+- partner.blablacar.com
+- pro.blablacar.com
+- voucher.blablacar.com
+- blablacommunity.blablacar.com
+- ddome-tag.blablacar.com
+- zen.blablacar.com
+- auth.zen.blablacar.com
+- design.blablacar.com
+- blablamag.blablacar.com
+- static.blablacar.com
+
+### 🟠 CABIFY (Spain & Latin America)
+- cabify.com
+- cabify.tech
+- api.cabify.com
+- developers.cabify.com
+- cabifylogistics.com
+
+**Cabify (126 Subdomains Added via Research)**
+- app.cabify.com
+- assets.cabify.com
+- auth.cabify.com
+- auth-external.cabify.com
+- blog.cabify.com
+- brand.cabify.com
+- compliance.cabify.com
+- crm.cabify.com
+- driver.cabify.com
+- drivers.cabify.com
+- email.cabify.com
+- erp.cabify.com
+- ethics.cabify.com
+- finance.cabify.com
+- flagr.cabify.com
+- help.cabify.com
+- inside.cabify.com
+- integrations.cabify.com
+- labs.cabify.com
+- m.cabify.com
+- mail.cabify.com
+- partners.cabify.com
+- r.cabify.com
+- rider.cabify.com
+- s.cabify.com
+- scooter.cabify.com
+- socket.cabify.com
+- tableau.cabify.com
+- tools.cabify.com
+- topups.cabify.com
+- movo-api.cabify.com
+- empresas.cabify.com
+- click.empresas.cabify.com
+- cloud.empresas.cabify.com
+- image.empresas.cabify.com
+- view.empresas.cabify.com
+
+### 🔵 OLA / Ola Consumer (India)
+- olacabs.com
+- api.olacabs.com
+- analytics.olacabs.com
+- developers.olacabs.com
+- corporate.olacabs.com
+- accounts.olacabs.com
+- partners.olacabs.com
+- maps.olakrutrim.com
+
+**Ola (Verified via Bug Bounty)**
+- ola.money
+- olamaps.io
+- olaelectric.com
+- olaelectric.in
+- olakrutrim.com
+- ola.foundation
+- ola.institute
+- mission-electric.in
+
+### 🟡 DiDi (China & Global)
+- didichuxing.com
+- didiglobal.com
+- web.didiglobal.com
+- analytics.didichuxing.com
+- data.xiaojukeji.com
+- umeng.com
+- cnzz.com
+- api.didichuxing.com
+- telemetry.didichuxing.com
+- research.xiaojukeji.com
+- me.xiaojukeji.com
+
+**DiDi (Additional — Confirmed via Research)**
+- open.didichuxing.com
+- driver.didichuxing.com
+- fleet.didichuxing.com
+- enterprise.didichuxing.com
+- safety.didichuxing.com
+- food.didiglobal.com
+- blog.didichuxing.com
+- ir.didiglobal.com
+
+### 🟣 Yandex Taxi / Yandex Go (Russia & CIS — ⚠ Security Risk!)
+- taxi.yandex.com
+- api.taxi.yandex.ru
+- taxi.yandex.ru
+- yandex.com/dev/taxi
+- yandex.ru/dev/taxi
+- taxi-routeinfo.taxi.yandex.net
+
+**Yandex (Additional — Confirmed via Research)**
+- go.yandex
+- taxi.yandex.net
+- extdata.taxi.yandex.net
+- tc.mobile.yandex.net
+- appmetrica.yandex.com
+- redirect.appmetrica.yandex.com
+- 3.redirect.appmetrica.yandex.com
+- taximeter.taxi.yandex.net
+- fleet.taxi.yandex.ru
+- driver.taxi.yandex.ru
+- partner.taxi.yandex.ru
+- corp.taxi.yandex.ru
+
+### 🟡 Yango (Africa & Global — Yandex)
+- yango.com
+- yango.go.link
+
+**Yango (Additional — Confirmed via Research)**
+- ride.yango.com
+- food.yango.com
+- delivery.yango.com
+- play.yango.com
+- maps.yango.com
+- driver.yango.com
+- business.yango.com
+- blog.yango.com
+- careers.yango.com
+- api.yango.com
+- yangoplay.com
+- yangogroup.com
+
+### 🟤 Via (Microtransit)
+- ridewithvia.com
+- api.ridewithvia.com
+- developer.ridewithvia.com
+
+### 🟡 Curb (US — Taxi)
+- gocurb.com
+- business.curb.com
+- api.gocurb.com
+- autofleet.io
+
+### 🔵 Gett (Israel/UK)
+⚠ Pango acquisition blocked by the ICA (Sep 2025); acquired by a consortium of 6 investors for $190M (Aug 2025). Continues to operate independently.
+- gett.com
+- api.gett.com
+- business.gett.com
+- developer.gett.com
+
+**Gett (Additional — Confirmed via Research)**
+- gtms.gett.com
+- corporate.gett.com
+
+### 🔵 FREE NOW / FreeNow by Lyft (Europe)
+⚠ Acquired by Lyft in July 2025 (€175M). Now branded "FreeNow by Lyft." Operates in 9 countries and 180+ cities.
+- free-now.com
+- freenow.com
+- mytaxi.com
+- de.mytaxi.com
+- intelligent-apps.com
+- api.free-now.com
+- support.free-now.com
+
+**FREE NOW (Additional — Confirmed via Research)**
+- driver.free-now.com
+- fleet.free-now.com
+- business.free-now.com
+
+### 🔴 Maxim (Russia/CIS/Southeast Asia)
+- taximaxim.com
+- api.taximaxim.com
+- app.taximaxim.com
+- taximaxim.kg
+- taximaxim.ru
+- moskva.taximaxim.ru
+- franchise.taximaxim.com
+
+### 🟡 TADA Korea / TADA Global
+- tadatada.com
+- tada.global
+- api.tada.global
+- mvlchain.io
+- mvlfoundation.io
+- docs.mvlchain.io
+- en.mvlchain.io
+- mvlfi.io
+- mvldepin.io
+- mvlrwa.io
+
+### 🟢 Xanh SM (Vietnam/Laos/Indonesia/Philippines)
+- xanhsm.com
+- api.xanhsm.com
+- greensmartmobility.com
+
+### 🔵 Alto (US — Premium)
+- ridealto.com
+- portal.ridealto.app
+
+### 🟠 Heetch (France/Morocco/Algeria/Belgium)
+- heetch.com
+- api.heetch.com
+- support.heetch.com
+
+### 🟡 Ryde (Singapore)
+- rydesharing.com
+- developer.ryde.io
+
+### 🟣 Beat (Greece/Latin America)
+- thebeat.co
+
+### 🔵 Wheely (UK/France/Dubai — Premium)
+- wheely.com
+
+### 🟡 Uklon (Ukraine)
+- uklon.com.ua
+- deliverygateway.uklon.com.ua
+
+### 🟠 LeCab (France)
+- lecab.fr
+- developer.lecab.fr
+
+### 🟤 MOOVN (US + Africa)
+- moovn.com
+
+### 🔵 Arro (US — Taxi)
+- ridearro.com
+- www-staging.ridearro.com
+- drivearro.com
+
+### 🟡 Flywheel (US — Taxi)
+- flywheeltaxi.com
+- flywheel.zendesk.com
+
+### 🟤 Bridj (Australia — SaaS Platform)
+- bridj.com
+- app-download.bridj.com
+
+### 🟢 BE (Vietnam)
+- be.com.vn
+- www.be.com.vn
+
+### 🟡 Little Cab (Africa)
+- little.bz
+
+### 🟠 JoyRide (Philippines)
+- joyride.com.ph
+- joyride-dev-bb1bd.firebaseapp.com
+
+### 🟣 Shebah (Australia — Women)
+- shebah.com.au
+
+### 🟤 CoSeats (Australia — Carpooling)
+- coseats.com
+- app.coseats.com
+
+### 🔵 Wingz (US — Airport)
+- wingz.me
+- enterprise.wingz.com
+- help.wingz.me
+
+### 🟡 GoKid (US — Kids)
+- gokid.mobi
+- my.gokid.mobi
+
+### 🟠 HopSkipDrive (US — Kids)
+- hopskipdrive.com
+- hello.hopskipdrive.com
+
+### 🟡 Kango (US — Kids)
+- kangoapp.co
+
+### 🟢 Züm (US — School Transportation)
+- ridezum.com
+
+**Züm (Additional — Confirmed via Research)**
+- portal.ridezum.com
+- schools.ridezum.com
+
+### 🟡 Hala Taxi (UAE — RTA)
+- halaride.com
+- rta.ae
+
+**Hala (Additional — Confirmed via Research)**
+- hala.ae
+
+### 🟠 Jeeny (Saudi Arabia/Jordan/Pakistan)
+- jeeny.me
+
+### 🟡 Kaiian (Saudi Arabia)
+- kaiian.com
+
+### 🟢 SafeBoda (Uganda/Kenya/Nigeria)
+- safeboda.com
+
+**SafeBoda (Additional — Confirmed via Research)**
+- api.safeboda.com
+- business.safeboda.com
+- driver.safeboda.com
+- blog.safeboda.com
+
+### 🟣 Namma Yatri (India — Auto Rickshaw)
+- nammayatri.in
+
+**Namma Yatri (Additional — Confirmed via Research)**
+- api.nammayatri.in
+- driver.nammayatri.in
+- open.nammayatri.in
+- docs.nammayatri.in
+- juspay.in
+
+### 🟡 Rapido (India — Bike Taxi)
+- rapido.bike
+
+### 🟤 Quick Ride (India — Carpooling)
+- quickride.in
+- blog.quickride.in
+
+### 🟠 sRide (India — Carpooling)
+- sride.co
+
+### 🟡 Poolit (India — Carpooling)
+- poolit.org
+- poolit.live
+
+### 🟤 TogoPool (India — Carpooling)
+- togopool.com
+
+### 🔵 Shoffr (India — Premium)
+- shoffr.in
+
+### 🟡 Meru (India — Taxi)
+- meru.in
+- merucabs.com
+
+### 🟠 Martı TAG (Turkey — Carpooling & Scooter)
+- marti.tech
+- ir.marti.tech
+
+### 🔵 Tapsi / Tap30 (Iran)
+- tapsi.ir
+- join.tapsi.ir
+- careers.tapsi.ir
+- blog.tapsi.ir
+
+**Tapsi (Verified Real Subdomains via Research)**
+- api.tapsi.ir
+- map.tapsi.ir
+- crm.tapsi.ir
+- staff.tapsi.ir
+
+### 🔴 Empower (US — Zero Commission)
+⚠ D.C. court reinstated daily fines in February 2026. Operations at risk.
+- driveempower.com
+- faq.driveempower.com
+
+### 🔵 BlackWolf (US — Veteran/Police Drivers)
+- blackwolfapp.com
+
+### 🟡 Pronto (Mexico — Cooperative)
+- tupronto.mx
+
+**Pronto (Additional — Confirmed via Research)**
+- ayuda.tupronto.mx
+
+### 🟤 Jrney (South Africa — Carpooling)
+- jrney.co
+
+### 🟡 Yookoo Ride (South Africa)
+- ride.yoonet.co.za
+- yoonet.co.za
+
+### 🟠 Taxi Live Africa (South Africa)
+- taxiliveafrica.com
+
+### 🟡 LEFA (Namibia)
+- lefa.com.na
+
+### 🟤 Pakistan Carpooling Platforms
+- liftee.pk
+- easylift.pk
+- ridemate.pk
+- ridematecab.com
+- carpoolyn.com
+- drivelu.com
+
+### 🟢 Karos (France/Europe — Carpooling)
+- karos.fr
+- karos-mobility.com
+- support.karos.fr
+
+**Karos (Additional — Confirmed via Research)**
+- app.karos.fr
+- api.karos.fr
+
+### 🔵 Poparide (Canada — Carpooling)
+- poparide.com
+- support.poparide.com
+
+**Poparide (Additional — Confirmed via Research)**
+- api.poparide.com
+- app.poparide.com
+
+### 🟡 Kangaride / Amigo Express (Canada)
+- kangaride.com
+- amigoexpress.com
+
+### 🟤 Other Canada Carpooling
+- carpoolworld.com
+- ridesharing.com
+- carpooll.com
+- blog.carpooll.com
+
+### 🟠 Scoop Commute (US/Canada/Australia — Carpooling)
+- scoopcommute.com
+- support.takescoop.com
+- takescoop.com
+
+**Scoop (Additional — Confirmed via Research)**
+- support.scoopcommute.com
+
+---
+
+## 🤖 SECTION 4 — AUTONOMOUS VEHICLE PLATFORMS
+
+### 🔵 Waymo (US — Alphabet/Google)
+- waymo.com
+
+**Waymo (Additional — Confirmed via Research)**
+- one.waymo.com
+- open.waymo.com
+- research.waymo.com
+- blog.waymo.com
+- careers.waymo.com
+- updates.waymo.com
+- fleet.waymo.com
+- safety.waymo.com
+- ir.waymo.com
+- support.google.com/waymo
+
+### 🟡 Zoox (US — Amazon)
+- zoox.com
+
+**Zoox (Additional — Confirmed via Research)**
+- careers.zoox.com
+- blog.zoox.com
+- fleet.zoox.com
+- safety.zoox.com
+- riders.zoox.com
+
+### 🟠 Pony.ai (China & Global — NASDAQ: PONY)
+- pony.ai
+- ir.pony.ai
+
+**Pony.ai (Additional — Confirmed via Research)**
+- blog.pony.ai
+- careers.pony.ai
+- open.pony.ai
+- research.pony.ai
+
+### 🟢 WeRide (China & Global — NASDAQ: WRD)
+- weride.ai
+- ir.weride.ai
+
+**WeRide (Additional — Confirmed via Research)**
+- careers.weride.ai
+- blog.weride.ai
+- open.weride.ai
+- research.weride.ai
+
+### 🔴 Baidu Apollo Go (China — Robotaxi)
+⚠ August 2025: Lyft partnership — will provide autonomous vehicles in Germany and the UK in 2026.
+- apollogo.com
+- apollo.auto
+
+**Baidu Apollo (Additional — Confirmed via Research)**
+- developer.apollo.auto
+- developer.apollo.baidu.com
+- apollo.baidu.com
+
+### 🟡 May Mobility (US — Autonomous)
+- maymobility.com
+
+**May Mobility (Additional — Confirmed via Research)**
+- fleet.maymobility.com
+- careers.maymobility.com
+- blog.maymobility.com
+
+### 🔵 AutoX (China — Autonomous)
+- autox.ai
+
+**AutoX (Additional — Confirmed via Research)**
+- careers.autox.ai
+- blog.autox.ai
+- fleet.autox.ai
+
+### 🟠 Momenta (China & Global — Autonomous)
+- momenta.ai
+- momenta.cn
+
+**Momenta (Additional — Confirmed via Research)**
+- careers.momenta.ai
+- blog.momenta.ai
+
+### ⚫ Tesla Robotaxi (US)
+- tesla.com
+
+### 🟢 Hello Chuxing / Hellobike (China)
+- hellobike.com
+- global-inc.hellobike.com
+
+### 🟡 T3 Go / T3 Mobility (China)
+- t3go.cn
+
+### 🟠 Cao Cao Mobility (China — EV)
+- caocao.com.cn
+- ir.caocao.com.cn
+
+---
+
+## 🛴 SECTION 5 — MICRO-MOBILITY (E-Scooter & Bike)
+
+### 🟢 Lime
+- li.me
+- lime.bike
+- limebike.com
+- api.li.me
+- web.li.me
+- app.li.me
+- analytics.li.me
+- events.li.me
+- tiles.li.me
+- payment.li.me
+- lime-static.s3.amazonaws.com
+- web-production.lime.bike
+- data.lime.bike
+- d22d5yy1i19g9i.cloudfront.net
+
+### 🔴 Bird (Owned by Third Lane Mobility)
+⚠ Filed for bankruptcy in December 2023; acquired by Third Lane Mobility in April 2024.
+- bird.co
+- bird.com
+- api.bird.co
+- api-bird.prod.bird.co
+- analytics.bird.co
+- cdn.bird.co
+- bird-co.s3.amazonaws.com
+- api.birdapp.com
+- api-auth.prod.birdapp.com
+- api-preflight.birdapp.com
+- api.stage.birdapp.com
+- api.dev.birdapp.com
+- spin.app
+
+**Bird / Third Lane Mobility (Additional — Confirmed via Research)**
+- thirdlane.co
+
+### 🔵 Voi (Europe)
+- voiscooters.com
+- voi.com
+- api.voiscooters.com
+- analytics.voiscooters.com
+- api.voiapp.io
+- partners.voiapp.io
+- docs.voiscooters.com
+- docs.voi.com
+- rest.fra-01.braze.eu
+- sdk.fra-02.braze.eu
+- dashboard-01.braze.eu
+
+**Voi (Additional — Confirmed via Research)**
+- mds.voiapp.io
+- gbfs.api.voiapp.io
+- sj.mkt.voiapp.io
+
+### 🟠 Dott (Merged with TIER — 2024)
+⚠ TIER merged with Dott in 2024; now operates solely under the Dott brand.
+- ridedott.com
+- ridedott.dev
+- gbfs.api.ridedott.com
+- tier.app
+
+**Dott/TIER (Additional — Confirmed via Research)**
+- tier.app
+
+### 🟡 Neuron Mobility
+- rideneuron.com
+- neuron.sg
+- images.neuron.sg
+- au-api.neuron-mobility.com
+- nz-api.neuron-mobility.com
+- sg-api.neuron-mobility.com
+- kr-api.neuron-mobility.com
+- gb-api.neuron-mobility.com
+- ca-api.neuron-mobility.com
+
+**Neuron Mobility (Additional — Confirmed via Research)**
+- api.neuron-mobility.com
+- fleet.neuron-mobility.com
+- blog.neuron-mobility.com
+- neuron-mobility.com
+
+### 🟢 Beam
+- ridebeam.com
+- share.beamapp.co
+
+**Beam (Additional — Confirmed via Research)**
+- api.ridebeam.com
+- fleet.ridebeam.com
+- partners.ridebeam.com
+- beamapp.co
+
+### 🔵 Veo
+- veoride.com
+- share.veoride.com
+
+### 🟡 Felyx / Cooltra (Merged in 2024)
+- felyx.com
+- felyx.frontend.fleetbird.eu
+- cooltra.com
+- ecooltra.com
+
+### 🟠 Whoosh
+- whoosh.bike
+
+### 🟤 Helbiz / micromobility.com
+⚠ Delisted from Nasdaq in December 2023. Rebranded as micromobility.com.
+- helbiz.com
+- api.helbiz.com
+
+**Helbiz (Additional — Confirmed via Research)**
+- micromobility.com
+
+### 🟡 Yulu (India)
+- yulu.bike
+- buy.yulu.bike
+
+**Yulu (Additional — Confirmed via Research)**
+- api.yulu.bike
+- fleet.yulu.bike
+
+### 🟠 Martı Technologies (Turkey — Scooter/TAG)
+- marti.tech
+- ir.marti.tech
+
+### 🟢 GoShare / Gogoro (Taiwan)
+- ridegoshare.com
+- gogoro.com
+- goshare.gogoro.com
+
+**Gogoro (Additional — Confirmed via Research)**
+- network.gogoro.com
+- api.gogoro.com
+- shop.gogoro.com
+- support.gogoro.com
+- investor.gogoro.com
+- careers.gogoro.com
+
+### 🟡 WeMo Scooter (Taiwan)
+- wemoscooter.com
+- wemocorp.com
+- wemonexus.com
+
+**WeMo (Additional — Confirmed via Research)**
+- api.wemoscooter.com
+
+### 🔵 Check
+- ridecheck.app
+
+### 🟤 Vogo (Acquired by Chalo — 2022)
+- vogo.in
+
+### 🔵 Citi Bike / Lyft Urban Solutions (Bike Sharing)
+- citibikenyc.com
+- member.citibikenyc.com
+- layer.bicyclesharing.net
+- gbfs.citibikenyc.com
+- appservices.citibikenyc.com
+
+**Lyft Urban Solutions / Motivate Network (Additional — Confirmed via Research)**
+- motivateco.com
+- divvybikes.com
+- baywheels.com
+- capitalbikeshare.com
+- bluebikes.com
+- niceridesystems.com
+- citi.bike
+- gbfs.divvybikes.com
+- gbfs.baywheels.com
+- gbfs.capitalbikeshare.com
