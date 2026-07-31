@@ -1,0 +1,752 @@
+MOBILE KEYBOARD RESEARCH LIST
+
+🔴 CHINESE KEYBOARDS — CCP RISK
+
+Baidu IME
+
+⚠️ Citizen Lab report: critical encryption vulnerabilities (v4.0 protocol)
+
+  - ime.baidu.com
+  - imeres.baidu.com
+  - simeji.baidu.com
+  - api.ime.baidu.com
+  - push.ime.baidu.com
+  - cloud.ime.baidu.com
+  - dict.baidu.com
+  - update.ime.baidu.com
+  - dl.ime.baidu.com
+  - shouji.baidu.com
+  - inputtools.baidu.com
+  - tongji.baidu.com
+  - analytics.baidu.com
+  - hm.baidu.com
+  - hmcdn.baidu.com
+  - zz.bdstatic.com
+  - push.zhanzhang.baidu.com
+  - zn.baidu.com
+  - www2.baidu.com
+  - bcebos.com
+  - bj.bcebos.com
+  - gz.bcebos.com
+  - su.bcebos.com
+  - sts.bj.baidubce.com
+  - zhanzhang.bj.bcebos.com
+  - statsonline.pushcrew.com
+  - bdstatic.com
+  - bdimg.com
+  - shifen.com
+  - wshifen.com
+  - gshifen.com
+  - popin.cc
+  - inputime.baidu.com
+  - voice.baidu.com
+  - yy.baidu.com
+  - rog.baidu.com
+  - log.baidu.com
+  - waplog.baidu.com
+  - ssp.baidu.com
+  - nsclick.baidu.com
+  - cpro.baidu.com
+  - eclick.baidu.com
+
+Sogou Pinyin (Tencent)
+
+  - pinyin.sogou.com
+  - sogou.com
+  - dict.sogou.com
+  - cdn.sogou.com
+  - api.pinyin.sogou.com
+  - cloud.pinyin.sogou.com
+  - download.ime.sogou.com
+  - update.pinyin.sogou.com
+  - input.sogou.com
+  - ime.sogou.com
+  - sr.sogou.com
+  - config.pinyin.sogou.com
+  - skin.pinyin.sogou.com
+  - dl.pinyin.sogou.com
+  - pb.sogou.com
+  - pic.sogou.com
+  - analytics.sogou.com
+  - log.sogou.com
+  - track.sogou.com
+  - stats.sogou.com
+  - ws.sogou.com
+  - sogouzhuyin.com
+  - v2.get.sogou.com
+  - swc.pinyin.sogou.com
+  - shurufa.sogou.com
+  - ime-sec.gtimg.com
+  - ime.gtimg.com
+  - openapi.sogou.com
+  - keyboard.sogou.com
+  - mat1.gtimg.com
+  - mat2.gtimg.com
+  - ossweb-img.qq.com
+  - cloudapi.sogou.com
+
+Tencent QQ Pinyin
+
+  - qq.pinyin.cn
+  - py.qq.com
+  - qpycdn.qpic.cn
+  - ime.qq.com
+  - api.py.qq.com
+  - dl.qq.com
+  - update.py.qq.com
+  - cloud.py.qq.com
+  - pingjs.qq.com
+  - pingma.qq.com
+  - tajs.qq.com
+  - stats.g.qq.com
+  - btrace.qq.com
+  - report.qq.com
+  - beacon.qq.com
+  - open.qq.com
+  - open.t.qq.com
+  - opensns.qq.com
+  - gtimg.com
+  - gtimg.cn
+  - qlogo.cn
+  - docs.gtimg.com
+  - open.gtimg.cn
+  - benefit.gtimg.cn
+  - pgdt.gtimg.cn
+  - qpic.cn
+  - qzone.qq.com
+  - vip.qq.com
+  - connect.qq.com
+  - ssl.captcha.qq.com
+  - captcha.qq.com
+  - ti.qq.com
+  - bugreport.qq.com
+  - l.qq.com
+  - oauthlogin.qq.com
+  - gdtimg.com
+
+iFlytek (科大讯飞)
+
+  - iflytek.com
+  - xunfei.cn
+  - voicecloud.cn
+  - api.iflytek.com
+  - iat-api.xfyun.cn
+  - openapi.xfyun.cn
+  - raasr.xfyun.cn
+  - tts-api.xfyun.cn
+  - webapi.xfyun.cn
+  - iss-api.xfyun.cn
+  - api.xunfei.cn
+  - shurufa.xunfei.cn
+  - iat-api-sg.xf-yun.com
+  - tts-api-sg.xf-yun.com
+  - ise-api-sg.xf-yun.com
+  - itrans.xfyun.cn
+  - api.xf-yun.com
+  - global.xfyun.cn
+  - api-sg.xf-yun.com
+  - global.xf-yun.com
+  - pinyin.voicecloud.cn
+  - console.xfyun.cn
+  - spark-api.xf-yun.com
+  - lfasr.xfyun.cn
+  - mis.xfyun.cn
+  - push.xfyun.cn
+  - log.xfyun.cn
+  - stat.xfyun.cn
+  - update.xfyun.cn
+  - data.xf-yun.com
+  - its-api-sg.xf-yun.com
+  - asr-api.xf-yun.com
+  - tts.xf-yun.com
+  - iflyos.cn
+  - api.iflyos.cn
+  - ivs.xfyun.cn
+  - nlp.xfyun.cn
+
+Kika Keyboard
+
+⚠️ Removed from the Google Play Store in 2018 (ad fraud)
+
+  - kika.com
+  - kikatech.com
+  - api.kika.com
+  - cdn.kika.com
+  - data.kika.com
+  - emoji.kika.com
+  - theme.kika.com
+  - update.kika.com
+  - analytics.kikatech.com
+  - api.kikatech.com
+  - kika-sdk.com
+  - ads.kika.com
+  - push.kika.com
+  - log.kika.com
+  - stat.kika.com
+  - report.kika.com
+  - resource.kika.com
+  - voice.kika.com
+  - dict.kika.com
+  - sdk.kika.com
+  - analytics.kika.com
+
+GO Keyboard (GOMO)
+
+  - godeveloperstudio.com
+  - gokeyboard.com
+  - goforandroid.com
+  - api.gokeyboard.com
+  - cdn.gokeyboard.com
+  - theme.gokeyboard.com
+  - gomostats.com
+  - gomoapi.com
+  - api-global.gomo.com
+  - data-global.gomo.com
+  - resource.gomocdn.com
+  - gomo.com
+  - gomoads.com
+  - sungy.com
+  - api.sungy.com
+  - cdn.gomocdn.com
+  - static.gomocdn.com
+  - data.gomo.com
+  - log.gomo.com
+  - push.gomo.com
+  - jiubang.com
+
+Cheetah Mobile (Liebao)
+
+⚠️ Removed from the Google Play Store in 2018 (ad fraud)
+
+  - cmcm.com
+  - cheetahmobile.com
+  - duba.com
+  - api.cmcm.com
+  - data.cmcm.com
+  - kingsoftoffice.com
+  - cleanmaster.com
+  - update.cmcm.com
+  - cdn.cmcm.com
+  - api.cmcmglobal.com
+  - config.cmcm.com
+  - cfg.cmcm.com
+  - stat.cmcm.com
+  - adlib.cmdspasset.com
+  - dsp.cmcm.com
+  - dspbackend.cmcm.com
+  - cmadsdk.com
+  - cmimage.cmcm.com
+  - cmresource.cmcm.com
+  - bns.cmcm.com
+  - apns.cmcm.com
+  - monitor.cmcm.com
+  - push.cmcm.com
+  - sdk.cmcm.com
+  - intl.cmcm.com
+
+TouchPal (CooTek)
+
+  - cootek.com
+  - touchpal.com
+  - touchpal.net
+  - api.touchpal.com
+  - cdn.touchpal.com
+  - cloud.touchpal.com
+  - emoji.touchpal.com
+  - theme.touchpal.com
+  - data.touchpal.com
+  - update.touchpal.com
+  - boomtext.cootek.com
+  - api.cootek.net
+  - cdn.cootek.net
+  - log.cootek.com
+  - stats.touchpal.com
+  - cootek.cn
+  - tp.cootek.com
+  - push.cootek.com
+  - report.cootek.com
+  - voice.touchpal.com
+  - resource.touchpal.com
+  - keyboard.touchpal.com
+  - api.touchpal.net
+  - sdk.cootek.com
+  - ads.cootek.com
+  - event.cootek.com
+
+🟠 THIRD-PARTY KEYBOARDS — Data Collection Risk
+
+ai.type
+
+⚠️ 31 million user data breach — may be partially offline
+
+  - aitype.com
+  - ai-type.com
+  - api.aitype.com
+  - cdn.aitype.com
+  - data.aitype.com
+  - dict.aitype.com
+  - sync.aitype.com
+  - api.ai-type.com
+  - server.ai-type.com
+  - track.aitype.com
+  - push.aitype.com
+  - log.ai-type.com
+
+Facemoji (Emoji Keyboard)
+
+  - facemoji.com
+  - facemoji.net
+  - api.facemoji.com
+  - cdn.facemoji.com
+  - emoji.facemoji.com
+  - sticker.facemoji.com
+  - theme.facemoji.com
+  - facemojikeyboard.com
+  - data.facemoji.com
+  - api2.facemoji.com
+  - push.facemoji.com
+  - log.facemoji.com
+  - voice.facemoji.com
+  - sdk2.facemoji.com
+  - resource.facemoji.com
+  - update.facemoji.com
+  - facemojiemoji.com
+
+Fleksy (Thingthing Ltd.)
+
+  - fleksy.com
+  - fleksy.net
+  - api.fleksy.com
+  - thingthing.co
+  - sdk.fleksy.com
+  - cdn.fleksy.com
+  - docs.fleksy.com
+  - api.fleksy.io
+  - api.thingthing.co
+  - sdk.thingthing.co
+  - data.fleksy.com
+  - analytics.fleksy.com
+  - apps.fleksy.com
+  - developer.fleksy.com
+
+Typewise
+
+Matomo analytics — Swiss servers (Hosttech)
+
+  - typewise.app
+  - typewise.com
+  - api.typewise.app
+  - cdn.typewise.app
+  - enterprise.typewise.app
+  - app.typewise.app
+
+Bobble AI (India)
+
+Firebase + Facebook SDK integration
+
+  - bobble.ai
+  - touchtalent.com
+  - api.bobble.ai
+  - cdn.bobble.ai
+  - sticker.bobble.ai
+  - keyboard.bobble.ai
+  - analytics.bobble.ai
+  - api-bobble.touchtalent.com
+  - aw.bobble.ai
+  - logs.bobble.ai
+  - content.bobble.ai
+  - firebase.googleapis.com
+  - firebaseio.com
+  - firebaseapp.com
+  - api2.bobble.ai
+  - push.bobble.ai
+  - media.bobble.ai
+  - d1.bobble.ai
+  - d2.bobble.ai
+
+Ginger Software
+
+  - gingersoftware.com
+  - api.gingersoftware.com
+  - cdn.gingersoftware.com
+  - services.gingersoftware.com
+  - account.gingersoftware.com
+  - api-ginger.gingersoftware.com
+  - data.gingersoftware.com
+  - analytics.gingersoftware.com
+  - update.gingersoftware.com
+  - track.gingersoftware.com
+  - nlp.gingersoftware.com
+  - grammar.gingersoftware.com
+  - ext.gingersoftware.com
+  - plugin.gingersoftware.com
+
+Minuum
+
+⚠️ Last updated: 2017 — nearly inactive
+
+  - minuum.com
+  - api.minuum.com
+
+Adaptxt
+
+  - adaptxt.com
+  - api.adaptxt.com
+  - api.keypoint.com
+
+Chrooma Keyboard
+
+Based on Firebase + Google Analytics
+
+  - chrooma.com
+  - api.chrooma.com
+  - gamelounge.chrooma.com
+  - chrooma.app
+  - firebase.googleapis.com
+  - analytics.google.com
+
+Handcent (Chinese-origin)
+
+  - handcent.com
+  - api.handcent.com
+  - aw.handcent.com
+  - m.handcent.com
+  - my.handcent.com
+  - mservices.handcent.com
+  - store.handcent.com
+  - theme.handcent.com
+  - push.handcent.com
+  - cdn.handcent.com
+  - backup.handcent.com
+
+🟡 BIG TECH KEYBOARDS — Major Company Products
+
+Google Gboard
+
+  - gboard.google.com
+  - inputtools.google.com
+  - speech.google.com
+  - translate.google.com
+  - ssl.gstatic.com
+  - www.gstatic.com
+  - fonts.gstatic.com
+  - lh3.googleusercontent.com
+  - play.google.com
+  - android.clients.google.com
+  - apis.google.com
+  - clients1.google.com
+  - clients2.google.com
+  - clients3.google.com
+  - clients4.google.com
+  - clients5.google.com
+  - clients6.google.com
+  - safebrowsing.google.com
+  - update.googleapis.com
+  - firebaselogging-pa.googleapis.com
+  - firebaseinstallations.googleapis.com
+
+Microsoft SwiftKey
+
+  - swiftkey.com
+  - swiftkey.net
+  - swiftkey.ms
+  - api.swiftkey.com
+  - cdn.swiftkey.com
+  - cloud.swiftkey.net
+  - dict.swiftkey.net
+  - learn.swiftkey.com
+  - account.swiftkey.com
+  - sync.swiftkey.net
+  - predict.swiftkey.net
+  - themes.swiftkey.com
+  - stats.swiftkey.net
+  - telemetry.swiftkey.net
+  - language-api.swiftkey.com
+  - stats-api.swiftkey.net
+  - reporting.swiftkey.net
+  - api-swiftkey.msedge.net
+  - c.swiftkey.com
+  - data-swiftkey.msedge.net
+  - azure.microsoft.com
+  - api.msedge.net
+  - autosuggest.api.swiftkey.com
+  - autosuggest.staging.swiftkey.com
+  - jenson.api.swiftkey.com
+  - jenson-public.development.swiftkey.com
+  - jenson-admin.api.swiftkey.com
+  - mds.staging.swiftkey.com
+  - emojicloudfrontend.api.swiftkey.com
+  - handwriting.staging.swiftkey.com
+  - translate.staging.swiftkey.com
+  - pns-registration.staging.swiftkey.com
+  - clip.api.swiftkey.com
+  - clip.staging.swiftkey.com
+  - touchtype-fluency.com
+  - b-ring.msedge.net
+  - l-ring.msedge.net
+  - fp.msedge.net
+  - mobile.pipe.aria.microsoft.com
+  - browser.pipe.aria.microsoft.com
+  - settings.data.microsoft.com
+  - watson.telemetry.microsoft.com
+  - vortex.data.microsoft.com
+  - co4.telecommand.telemetry.microsoft.com
+  - inference.location.live.net
+  - word.bing.com
+  - api.cognitive.microsoft.com
+
+Samsung Keyboard
+
+  - samsungkeyboard.com
+  - keyboard.samsungcloud.com
+  - stc.s-msft.com
+  - api.samsungiap.com
+  - api.samsungcloud.com
+  - config.samsungiap.com
+  - sso.samsungiap.com
+  - docs.samsungknox.com
+  - developer.samsungknox.com
+  - samsungknox.com
+  - portal.samsungknox.com
+  - kcs.samsungknox.com
+  - cloud.samsungknox.com
+  - samsungdm.com
+  - diagmon-policy.samsungdm.com
+  - diagmon-serviceapi.samsungdm.com
+  - report.gras.samsungdm.com
+  - samsungdmroute.com
+  - samsungrs.com
+  - sspapi-prd.samsungrs.com
+  - pushmessage.samsung.com
+  - sdk.pushmessage.samsung.com
+  - mcsvc.samsung.com
+  - us-api.mcsvc.samsung.com
+  - sg-api.mcsvc.samsung.com
+  - eu-api.mcsvc.samsung.com
+  - in-api.mcsvc.samsung.com
+  - capi.samsungcloud.com
+  - samsungapps.com
+  - smetrics.samsung.com
+  - nmetrics.samsung.com
+  - event-tracking.samsung.com
+  - samsungcloudsolution.com
+  - samsungcloudsolution.net
+  - samsungads.com
+  - samsungadhub.com
+  - eu-kaf.samsungknox.com
+  - sg-kaf.samsungknox.com
+  - us-kaf.samsungknox.com
+  - in-kaf.samsungknox.com
+  - analytics.samsungknox.com
+  - samsungacr.com
+  - log-ingestion.samsungacr.com
+  - samsungadhub.com
+
+Yandex Keyboard
+
+  - yandex.ru
+  - yandex.com
+  - api.yandex.com
+  - api.yandex.ru
+  - keyboard.yandex.ru
+  - translate.yandex.net
+  - translate.yandex.com
+  - yandexmetrica.com
+  - redirect.appmetrica.yandex.com
+  - impression.appmetrica.yandex.com
+  - mc.yandex.ru
+  - appmetrica.yandex.com
+  - api.appmetrica.yandex.com
+  - oauth.yandex.com
+  - legal.yandex.ru
+  - metrika.yandex.ru
+  - metrica.yandex.com
+  - metrika.yandex.by
+  - metrika.yandex.kz
+  - appmetrika.yandex.ru
+  - api-metrika.yandex.ru
+  - advertising.yandex.ru
+  - advertising.yandex.com
+  - direct.yandex.ru
+  - clck.yandex.ru
+  - an.yandex.ru
+  - yandex.net
+  - static.yandex.net
+  - avatars.mds.yandex.net
+  - storage.yandex.net
+
+🟣 REGIONAL / LANGUAGE-SPECIFIC KEYBOARDS
+
+Lipikaar (India)
+
+  - lipikaar.com
+  - api.lipikaar.com
+  - gnani.ai
+  - api.gnani.ai
+  - asr.gnani.ai
+  - stt.gnani.ai
+  - voice.gnani.ai
+  - cdn.gnani.ai
+
+Ridmik Keyboard (Bangladesh)
+
+Keyboard module is offline; Firebase used for voice input
+
+  - ridmik.com
+  - api.ridmik.com
+  - firebaseinstallations.googleapis.com
+  - firebaselogging-pa.googleapis.com
+
+Mazec / MetaMoji (Japan)
+
+  - mazec.jp
+  - metamoji.com
+  - product.metamoji.com
+  - support.metamoji.com
+  - noteanytime.com
+  - cloud.metamoji.com
+  - api.metamoji.com
+  - sync.metamoji.com
+  - update.metamoji.com
+  - store.metamoji.com
+  - 7notes.net
+  - note.metamoji.com
+
+IQQI Keyboard (Taiwan)
+
+⚠️ Likely discontinued — no active source found
+
+  - iqqi.today
+  - api.iqqi.today
+  - cdn.iqqi.today
+  - update.iqqi.today
+
+Naver SmartBoard (South Korea)
+
+  - naver.com
+  - navercorp.com
+  - api.naver.com
+  - search.naver.com
+  - papago.naver.com
+  - n2mt.naver.com
+  - analytics.naver.com
+  - searchad.naver.com
+  - smartstore.naver.com
+  - datalab.naver.com
+  - webmastertool.naver.com
+  - searchadvisor.naver.com
+  - ncloud.com
+  - kr.object.ncloudstorage.com
+  - ssl.pstatic.net
+  - static.nid.naver.com
+  - nid.naver.com
+  - map.naver.com
+  - m.naver.com
+  - pstatic.net
+  - sstatic.naver.net
+  - ldb.naver.com
+
+⚫ EMOJI & STICKER KEYBOARDS
+
+Emoji Keyboard Pro
+
+  - emojikeyboardpro.com
+  - emoji-api.com
+  - emojihub.yurace.pro
+  - cdn.emojikeyboardpro.com
+  - api.emojikeyboardpro.com
+
+Emoji+ Keyboard
+
+  - emojiplusmedia.com
+  - emojiplus.com
+  - emojixpress.com
+  - api.emojiplusmedia.com
+  - cdn.emojiplus.com
+  - api.emojixpress.com
+  - ads.emojixpress.com
+
+🟢 SAFE / OPEN-SOURCE KEYBOARDS — No Tracking, Fully Offline
+
+OpenBoard (FOSS)
+
+⚠️ DISCONTINUED — December 2022. Use the HeliBoard fork instead
+
+  - github.com/openboard-team/openboard
+
+HeliBoard (FOSS — OpenBoard Fork — ACTIVE)
+
+  - florisboard.org
+  - liberapay.com/Helium314
+  - github.com/Helium314/HeliBoard
+
+No tracking domains
+
+AnySoftKeyboard (FOSS)
+
+  - anysoftkeyboard.github.io
+
+No tracking domains
+
+Simple Keyboard (FOSS)
+
+  - github.com/rkkr/simple-keyboard
+
+Fully offline — no tracking domains
+
+FlorisBoard (FOSS)
+
+  - florisboard.org
+  - addons.florisboard.org
+
+No tracking domains
+
+FUTO Keyboard (FOSS)
+
+  - futo.org
+  - keyboard.futo.org
+  - swipe.futo.org
+  - voiceinput.futo.org
+  - i18n-keyboard.futo.org
+  - docs.keyboard.futo.org
+  - gitlab.futo.org
+  - pontoon.futo.org
+  - releases.keyboard.futo.org
+  - update.keyboard.futo.org
+
+No tracking domains — update/translation only
+
+Unexpected Keyboard (FOSS)
+
+Fully offline — no tracking domains
+
+Hacker's Keyboard (FOSS)
+
+⚠️ OLD — no updates since 2018. Fully offline
+
+BeHe Keyboard (FOSS)
+
+⚠️ DISCONTINUED — January 2018. Fully offline
+
+kboard (FOSS)
+
+Fully offline — no tracking domains
+
+🔶 KEYBOARD SDK & ANALYTICS PLATFORMS
+
+Fleksy SDK
+
+  - sdk.fleksy.com
+  - api.fleksy.io
+  - docs.fleksy.com
+  - github.com/FleksySDK/VirtualKeyboardSDK
+
+Kika SDK
+
+  - sdk.kika.com
+  - analytics.kika.com
+  - kika-sdk.com
+
+TouchPal SDK
+
+  - sdk.touchpal.com
