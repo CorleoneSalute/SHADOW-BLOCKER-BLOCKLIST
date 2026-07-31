@@ -1,0 +1,1015 @@
+LINK SHORTENERS & QR RESEARCH LIST
+============================================
+
+============================================
+🔴 TIER 1: MAJOR COMMERCIAL SHORTENERS
+============================================
+
+BITLY - Market Leader
+0.0.0.0 bit.ly
+0.0.0.0 bitly.com
+0.0.0.0 j.mp
+0.0.0.0 bitly.is
+0.0.0.0 on.bitly.com
+0.0.0.0 bitly.ws
+0.0.0.0 developers.bitly.com
+0.0.0.0 api-ssl.bitly.com
+0.0.0.0 api.bitly.com
+0.0.0.0 app.bitly.com
+0.0.0.0 cdn.bitly.com
+0.0.0.0 static.bitly.com
+0.0.0.0 tracking.bitly.com
+0.0.0.0 analytics.bitly.com
+0.0.0.0 oauth.bitly.com
+0.0.0.0 cname.bitly.com
+0.0.0.0 marketplace.bitly.com
+0.0.0.0 webhooks.bitly.com
+0.0.0.0 login.bitly.com
+0.0.0.0 support.bitly.com
+0.0.0.0 blog.bitly.com
+0.0.0.0 pages.bitly.com
+0.0.0.0 bitly.lc
+0.0.0.0 bityl.co
+
+REBRANDLY
+0.0.0.0 rebrandly.com
+0.0.0.0 rebrand.ly
+0.0.0.0 rb.gy
+0.0.0.0 cdn.rebrandly.com
+0.0.0.0 api.rebrandly.com
+0.0.0.0 app.rebrandly.com
+0.0.0.0 dashboard.rebrandly.com
+0.0.0.0 tracking.rebrandly.com
+0.0.0.0 auth.rebrandly.com
+
+SHORT.IO
+0.0.0.0 short.io
+0.0.0.0 short.cm
+0.0.0.0 shrt.li
+0.0.0.0 shortcm.li
+0.0.0.0 api.short.io
+0.0.0.0 app.short.io
+0.0.0.0 analytics.short.io
+0.0.0.0 status.short.io
+0.0.0.0 blog.short.io
+0.0.0.0 help.short.io
+0.0.0.0 docs.short.io
+0.0.0.0 shortcm.xyz
+
+TINYURL
+0.0.0.0 tinyurl.com
+0.0.0.0 tiny.cc
+0.0.0.0 preview.tinyurl.com
+0.0.0.0 tinyurl.support
+0.0.0.0 helpdesk.tinyurl.com
+0.0.0.0 api.tinyurl.com
+0.0.0.0 tinyurl.app
+0.0.0.0 tinyurl.hu
+0.0.0.0 tinyurl.mobi
+
+============================================
+
+============================================
+🔴 TIER 3: REGIONAL SHORTENERS
+============================================
+
+ANONYMOUS (PRIVACY-FOCUSED)
+0.0.0.0 is.gd
+0.0.0.0 v.gd
+0.0.0.0 da.gd
+
+RUSSIA
+0.0.0.0 clk.ru
+0.0.0.0 vk.cc
+0.0.0.0 to.ly
+0.0.0.0 rlu.ru
+0.0.0.0 vk-cc.com
+0.0.0.0 goo.su
+0.0.0.0 6url.ru
+0.0.0.0 surl.li
+# Yandex shortener
+0.0.0.0 clck.ru
+0.0.0.0 b23.ru
+0.0.0.0 go-link.ru
+0.0.0.0 kurl.ru
+0.0.0.0 urla.ru
+0.0.0.0 ezstat.ru
+
+CHINA
+0.0.0.0 suo.im
+0.0.0.0 dwz.cn
+0.0.0.0 t.cn
+0.0.0.0 url.cn
+0.0.0.0 163.fm
+0.0.0.0 t.itc.cn
+0.0.0.0 sinaurl.cn
+0.0.0.0 y.m.cn
+0.0.0.0 w.url.cn
+0.0.0.0 sourl.cn
+0.0.0.0 urlify.cn
+0.0.0.0 b23.tv
+
+VIETNAM
+0.0.0.0 bc.vc
+0.0.0.0 bcvc.live
+
+JAPAN
+0.0.0.0 urx.nu
+0.0.0.0 ux.nu
+
+KOREA
+0.0.0.0 han.gl
+0.0.0.0 bitly.kr
+0.0.0.0 vo.la
+
+BRAZIL
+0.0.0.0 migre.me
+
+INDIA
+0.0.0.0 cut.li
+
+INDONESIA
+0.0.0.0 s.id
+0.0.0.0 home.s.id
+0.0.0.0 support.s.id
+0.0.0.0 helpdesk.s.id
+0.0.0.0 api.s.id
+0.0.0.0 blog.s.id
+0.0.0.0 microsite.s.id
+0.0.0.0 safe.s.id
+0.0.0.0 go.s.id
+0.0.0.0 analytics.s.id
+0.0.0.0 adm.s.id
+0.0.0.0 nl.s.id
+
+UKRAINE/RUSSIA
+0.0.0.0 once.to
+0.0.0.0 1e.to
+
+TAIWAN - LIHI NETWORK
+0.0.0.0 lihi.biz
+0.0.0.0 lihi.cc
+0.0.0.0 lihi.one
+0.0.0.0 lihi.pro
+0.0.0.0 lihi.tv
+0.0.0.0 lihi.vip
+0.0.0.0 lihi1.cc
+0.0.0.0 lihi1.com
+0.0.0.0 lihi1.me
+0.0.0.0 lihi2.cc
+0.0.0.0 lihi2.com
+0.0.0.0 lihi2.me
+0.0.0.0 lihi3.cc
+0.0.0.0 lihi3.com
+0.0.0.0 lihi3.me
+0.0.0.0 lihipro.com
+0.0.0.0 lihivip.com
+
+============================================
+🔴 TIER 4: MALICIOUS/SPAM
+============================================
+
+ADF.LY NETWORK
+0.0.0.0 adf.ly
+0.0.0.0 j.gs
+0.0.0.0 q.gs
+0.0.0.0 u.bb
+0.0.0.0 ay.gy
+0.0.0.0 atominik.com
+0.0.0.0 cdn.adf.ly
+0.0.0.0 login.adf.ly
+0.0.0.0 logo.adf.ly
+0.0.0.0 static.adf.ly
+0.0.0.0 support.adf.ly
+0.0.0.0 v1.adf.ly
+0.0.0.0 web1.adf.ly
+0.0.0.0 s1-adfly.com
+0.0.0.0 cdn.ay.gy
+0.0.0.0 login.ay.gy
+0.0.0.0 microify.com
+0.0.0.0 bluenik.com
+0.0.0.0 tinyium.com
+0.0.0.0 babblecase.com
+0.0.0.0 riffhold.com
+0.0.0.0 pintient.com
+0.0.0.0 battleate.com
+0.0.0.0 casualient.com
+0.0.0.0 mmoity.com
+0.0.0.0 getrom.net
+0.0.0.0 zo.ee
+0.0.0.0 atomcurve.com
+0.0.0.0 bitigee.com
+0.0.0.0 flyserve.co
+0.0.0.0 tinyical.com
+0.0.0.0 picocurl.com
+0.0.0.0 simizer.com
+0.0.0.0 dataurbia.com
+0.0.0.0 viahold.com
+0.0.0.0 api.adf.ly
+0.0.0.0 kb.adf.ly
+0.0.0.0 v2.adf.ly
+0.0.0.0 mail.adf.ly
+0.0.0.0 custom.adf.ly
+0.0.0.0 api.ay.gy
+0.0.0.0 web3.adf.ly
+0.0.0.0 adult.xyz
+0.0.0.0 acconpit.com
+0.0.0.0 aciterar.com
+0.0.0.0 aclabink.com
+0.0.0.0 activeation.com
+0.0.0.0 activeterium.com
+0.0.0.0 agileurbia.com
+0.0.0.0 android-zone.org
+0.0.0.0 anthargo.com
+0.0.0.0 aporasal.net
+0.0.0.0 aspedrom.com
+0.0.0.0 atabencot.net
+0.0.0.0 atharori.net
+0.0.0.0 beteshis.com
+0.0.0.0 blaleela.com
+0.0.0.0 botemoda.com
+0.0.0.0 briskrange.com
+0.0.0.0 brisktopia.com
+0.0.0.0 caneddir.com
+0.0.0.0 cesinthi.com
+0.0.0.0 chinnica.net
+0.0.0.0 cigorsica.com
+0.0.0.0 clesolea.com
+0.0.0.0 coginator.com
+0.0.0.0 cogismith.com
+0.0.0.0 combostruct.com
+0.0.0.0 cowner.net
+0.0.0.0 crefranek.com
+0.0.0.0 criarysm.com
+0.0.0.0 dapalan.com
+0.0.0.0 dashsphere.com
+0.0.0.0 deciomm.com
+0.0.0.0 detonnot.com
+0.0.0.0 ducolomal.com
+0.0.0.0 ecleneue.com
+0.0.0.0 eleburic.com
+0.0.0.0 ethobleo.com
+0.0.0.0 eunsetee.com
+0.0.0.0 evassmat.com
+0.0.0.0 evolterr.com
+0.0.0.0 extrecey.com
+0.0.0.0 fainbory.com
+0.0.0.0 fasttory.com
+0.0.0.0 fawright.com
+0.0.0.0 fiaharam.net
+0.0.0.0 fumacrom.com
+0.0.0.0 furtelec.com
+0.0.0.0 gatustox.net
+0.0.0.0 gdanstum.net
+0.0.0.0 gloyah.net
+0.0.0.0 greponozy.com
+0.0.0.0 gusimp.net
+0.0.0.0 hideadew.com
+0.0.0.0 hinafinea.com
+0.0.0.0 homoluath.com
+0.0.0.0 hopigrarn.com
+0.0.0.0 hurirk.net
+0.0.0.0 infopade.com
+0.0.0.0 intamema.com
+0.0.0.0 ivononic.com
+0.0.0.0 kaitect.com
+0.0.0.0 keistaru.com
+0.0.0.0 kializer.com
+0.0.0.0 kibuilder.com
+0.0.0.0 kimechanic.com
+0.0.0.0 kudoflow.com
+0.0.0.0 larati.net
+0.0.0.0 legeerook.com
+0.0.0.0 libittarc.com
+0.0.0.0 linkjaunt.com
+0.0.0.0 locinealy.com
+0.0.0.0 lopoteam.com
+0.0.0.0 maetrimal.com
+0.0.0.0 meriabub.net
+0.0.0.0 metastead.com
+0.0.0.0 morebatet.com
+0.0.0.0 motriael.com
+0.0.0.0 movincle.com
+0.0.0.0 neswery.com
+0.0.0.0 nimbleinity.com
+0.0.0.0 onisedeo.com
+0.0.0.0 onizatop.net
+0.0.0.0 optitopt.com
+0.0.0.0 orablyro.com
+0.0.0.0 pheecith.com
+0.0.0.0 pladollmo.com
+0.0.0.0 prereheus.com
+0.0.0.0 quainator.com
+0.0.0.0 quamiller.com
+0.0.0.0 raboninco.com
+0.0.0.0 rainonit.com
+0.0.0.0 rantenah.com
+0.0.0.0 rapidteria.com
+0.0.0.0 rapidtory.com
+0.0.0.0 regecish.net
+0.0.0.0 scapognel.com
+0.0.0.0 scuseami.net
+0.0.0.0 skamaker.com
+0.0.0.0 skamason.com
+0.0.0.0 sluppend.com
+0.0.0.0 smeartha.com
+0.0.0.0 sprysphere.com
+0.0.0.0 stratoplot.com
+0.0.0.0 streamvoyage.com
+0.0.0.0 svencrai.com
+
+LINKBUCKS
+0.0.0.0 linkbucks.com
+0.0.0.0 any.gs
+0.0.0.0 cash4links.co
+0.0.0.0 amy.gs
+0.0.0.0 tinylink.co
+
+SPAM SHORTENERS
+0.0.0.0 ity.im
+0.0.0.0 cli.gs
+0.0.0.0 tinyarro.ws
+0.0.0.0 ta.gd
+0.0.0.0 zip.net
+0.0.0.0 shink.in
+
+SUSPICIOUS/UNRELIABLE
+0.0.0.0 shorturl.at
+0.0.0.0 cutt.ly
+0.0.0.0 cutt.bio
+0.0.0.0 api.cutt.ly
+0.0.0.0 2s.ms
+0.0.0.0 clk.sh
+0.0.0.0 clksh.com
+0.0.0.0 short.gy
+0.0.0.0 exe.io
+0.0.0.0 api.exe.io
+0.0.0.0 soo.gd
+0.0.0.0 gg.gg
+0.0.0.0 tiny.one
+0.0.0.0 za.gl
+0.0.0.0 za.uy
+0.0.0.0 zee.gl
+0.0.0.0 ay.live
+0.0.0.0 bit.do
+0.0.0.0 x.co
+0.0.0.0 l.wl.co
+0.0.0.0 shorturl.ae
+0.0.0.0 shorturl.asia
+0.0.0.0 shorturl.com
+0.0.0.0 shorturl.gg
+0.0.0.0 www.shrunken.com
+0.0.0.0 cutyion.com
+0.0.0.0 cuttlinks.com
+0.0.0.0 cutly.in
+0.0.0.0 vplink.in
+
+MALWARE DISTRIBUTION
+0.0.0.0 ois.is
+0.0.0.0 c-lick.click
+0.0.0.0 t-e.site
+0.0.0.0 r-o.pro
+0.0.0.0 g16g.com
+0.0.0.0 cnhv.co
+0.0.0.0 bt.ly
+
+QR CODE ABUSE
+0.0.0.0 qrco.de
+0.0.0.0 api.qrco.de
+
+IP LOGGER / TRACKER
+0.0.0.0 iplogger.co
+0.0.0.0 iplogger.com
+0.0.0.0 iplogger.info
+0.0.0.0 iplogger.org
+0.0.0.0 iplogger.ru
+0.0.0.0 ipgrabber.ru
+0.0.0.0 ipgraber.ru
+
+============================================
+🔴 TIER 5: COMMERCIAL PLATFORMS
+============================================
+
+BL.INK (ENTERPRISE)
+0.0.0.0 bl.ink
+0.0.0.0 blink.to
+0.0.0.0 developers.bl.ink
+0.0.0.0 developer.blink.app
+0.0.0.0 help.bl.ink
+0.0.0.0 app.bl.ink
+0.0.0.0 status.bl.ink
+0.0.0.0 trust.bl.ink
+0.0.0.0 blink.app
+0.0.0.0 eu.blink.app
+0.0.0.0 go.blink.app
+
+CLICKMETER
+0.0.0.0 clickmeter.com
+0.0.0.0 clkmr.com
+0.0.0.0 trk.as
+0.0.0.0 9nl.us
+0.0.0.0 support.clickmeter.com
+0.0.0.0 api.clickmeter.com
+0.0.0.0 domains.clickmeter.com
+0.0.0.0 my.clickmeter.com
+
+KUTT.IT (OPEN SOURCE)
+0.0.0.0 kutt.it
+0.0.0.0 api.kutt.it
+0.0.0.0 kutt.io
+0.0.0.0 docs.kutt.it
+
+DUB.CO / DUB.SH
+0.0.0.0 dub.co
+0.0.0.0 dub.sh
+0.0.0.0 api.dub.co
+0.0.0.0 app.dub.co
+0.0.0.0 go.dub.co
+0.0.0.0 d.to
+0.0.0.0 dubcdn.com
+0.0.0.0 www.dubcdn.com
+0.0.0.0 refer.dub.co
+0.0.0.0 site.dub.co
+0.0.0.0 git.new
+0.0.0.0 dub.link
+0.0.0.0 chatg.pt
+0.0.0.0 spti.fi
+0.0.0.0 cal.link
+0.0.0.0 amzn.id
+0.0.0.0 ggl.link
+0.0.0.0 fig.page
+0.0.0.0 status.dub.co
+0.0.0.0 docs.dub.co
+0.0.0.0 blog.dub.co
+
+SNIPLY
+0.0.0.0 snip.ly
+0.0.0.0 sniply.io
+0.0.0.0 app.sniply.io
+0.0.0.0 api.sniply.io
+0.0.0.0 sniply.site
+0.0.0.0 lb-production.sniply.site
+0.0.0.0 support.snip.ly
+
+REPLUG
+0.0.0.0 rplg.co
+0.0.0.0 replug.io
+0.0.0.0 app.replug.io
+0.0.0.0 api.replug.io
+0.0.0.0 docs.replug.io
+0.0.0.0 blog.replug.io
+0.0.0.0 status.replug.io
+0.0.0.0 link.replug.io
+0.0.0.0 replug.link
+
+JOTURL
+0.0.0.0 joturl.com
+0.0.0.0 api.joturl.com
+0.0.0.0 app.joturl.com
+0.0.0.0 cdn.joturl.com
+0.0.0.0 i1.joturl.com
+
+LINKLY
+0.0.0.0 linklyhq.com
+0.0.0.0 link.ly
+0.0.0.0 api.link.ly
+0.0.0.0 app.linklyhq.com
+0.0.0.0 status.linklyhq.com
+
+ROCKETLINK
+0.0.0.0 rocketlink.io
+0.0.0.0 rkt.li
+0.0.0.0 app.rocketlink.io
+0.0.0.0 api.rocketlink.io
+
+PIXELME
+0.0.0.0 pixelme.me
+0.0.0.0 pixel.me
+0.0.0.0 app.pixelme.me
+0.0.0.0 api.pixelme.me
+0.0.0.0 getpixelme.com
+0.0.0.0 getpixelme.me
+0.0.0.0 pxlme.me
+0.0.0.0 cname.pxlme.me
+0.0.0.0 cdn.pixelme.me
+0.0.0.0 pixelme.app
+0.0.0.0 pixelme.io
+
+GENIUSLINK
+0.0.0.0 geni.us
+0.0.0.0 geniuslink.com
+0.0.0.0 app.geniuslink.com
+0.0.0.0 api.geniuslink.com
+0.0.0.0 api.geni.us
+0.0.0.0 intercom.geni.us
+0.0.0.0 music.geni.us
+0.0.0.0 books.geni.us
+0.0.0.0 help.geniuslink.com
+0.0.0.0 blog.geniuslink.com
+
+URLGENIUS
+0.0.0.0 urlgeni.us
+0.0.0.0 urlgenius.com
+0.0.0.0 app.urlgenius.com
+0.0.0.0 api-documentation.urlgeni.us
+0.0.0.0 pureoxygenlabs.com
+0.0.0.0 app.urlgeni.us
+0.0.0.0 blog.urlgeni.us
+0.0.0.0 creator.urlgeni.us
+
+CAMPAIGNTRACKER
+0.0.0.0 campaigntracker.com
+0.0.0.0 api.campaigntracker.com
+
+LINKJOY
+0.0.0.0 linkjoy.io
+0.0.0.0 app.linkjoy.io
+0.0.0.0 bio.linkjoy.io
+0.0.0.0 api.linkjoy.io
+0.0.0.0 cdn.linkjoy.io
+
+CAPSULINK
+0.0.0.0 capsulink.com
+0.0.0.0 api.capsulink.com
+0.0.0.0 app.capsulink.com
+0.0.0.0 support.capsulink.com
+
+RETARGETKIT
+0.0.0.0 retargetkit.com
+0.0.0.0 app.retargetkit.com
+0.0.0.0 api.retargetkit.com
+0.0.0.0 cdn.retargetkit.com
+
+URLSHORTER
+0.0.0.0 urlshorter.com
+
+LINNKIN
+0.0.0.0 linnk.in
+
+SLINK.TO (GEO-TARGETED SHORTENER)
+0.0.0.0 slink.to
+
+CLKIM
+0.0.0.0 clkim.com
+0.0.0.0 api.clkim.com
+0.0.0.0 app.clkim.com
+
+LINKO
+0.0.0.0 linko.me
+0.0.0.0 api.linko.me
+0.0.0.0 app.linko.me
+
+PXL.TO
+0.0.0.0 pxl.to
+0.0.0.0 api.pxl.to
+0.0.0.0 help.pxl.to
+0.0.0.0 www.pxl.to
+
+NIMBLE LINKS
+0.0.0.0 nimblelinks.com
+0.0.0.0 nimble.li
+
+ZAPIER URL SHORTENER
+0.0.0.0 zpr.io
+
+HIVE / HIVEAM
+0.0.0.0 hive.am
+0.0.0.0 hiveam.com
+0.0.0.0 hv.gs
+0.0.0.0 blog.hive.am
+0.0.0.0 myhive.li
+0.0.0.0 api.hiveam.com
+0.0.0.0 app.hiveam.com
+0.0.0.0 blog.hiveam.com
+
+============================================
+🔴 TIER 6: QR CODE GENERATORS
+============================================
+
+QR.IO
+0.0.0.0 qr.io
+0.0.0.0 api.qr.io
+0.0.0.0 app.qr.io
+
+QRCODE-MONKEY
+0.0.0.0 qr-code-generator.com
+0.0.0.0 qrcode-monkey.com
+0.0.0.0 api.qrcode-monkey.com
+0.0.0.0 free.qrcode-monkey.com
+
+BEACONSTAC / UNIQODE
+0.0.0.0 beaconstac.com
+0.0.0.0 qr1.be
+0.0.0.0 uniqode.com
+0.0.0.0 api.beaconstac.com
+0.0.0.0 app.uniqode.com
+0.0.0.0 api.uniqode.com
+0.0.0.0 apidocs.beaconstac.com
+0.0.0.0 dashboard.uniqode.com
+0.0.0.0 tapnscan.me
+0.0.0.0 qr.tapnscan.me
+0.0.0.0 nfc.tapnscan.me
+0.0.0.0 custom.tapnscan.me
+0.0.0.0 qrcodes.pro
+0.0.0.0 linkpages.pro
+0.0.0.0 qr-codes.io
+0.0.0.0 trust.uniqode.com
+0.0.0.0 docs.uniqode.com
+
+FLOWCODE
+0.0.0.0 flowcode.com
+0.0.0.0 flw.cd
+0.0.0.0 api.flowcode.com
+0.0.0.0 app.flowcode.com
+0.0.0.0 developer-prod.flowcode.com
+0.0.0.0 support.flowcode.com
+0.0.0.0 help.flowcode.com
+
+============================================
+🔴 TIER 7: ADDITIONAL SHORTENERS
+============================================
+
+0.0.0.0 reduced.to
+0.0.0.0 go.reduced.to
+0.0.0.0 api.reduced.to
+0.0.0.0 rip.to
+0.0.0.0 san.aq
+0.0.0.0 spoo.me
+0.0.0.0 api.spoo.me
+0.0.0.0 switchy.io
+0.0.0.0 hi.switchy.io
+0.0.0.0 developers.switchy.io
+0.0.0.0 help.switchy.io
+0.0.0.0 api.switchy.io
+0.0.0.0 app.switchy.io
+0.0.0.0 t2m.io
+0.0.0.0 t2mio.com
+0.0.0.0 api.t2mio.com
+0.0.0.0 app.t2mio.com
+0.0.0.0 t.t2m.io
+0.0.0.0 dashboard.t2mio.com
+0.0.0.0 blog.t2mio.com
+0.0.0.0 help.t2mio.com
+0.0.0.0 tinu.be
+0.0.0.0 t.ly
+0.0.0.0 api.t.ly
+0.0.0.0 app.t.ly
+0.0.0.0 docs.t.ly
+0.0.0.0 urlr.me
+0.0.0.0 yaso.su
+0.0.0.0 zlnk.com
+0.0.0.0 fox.ly
+0.0.0.0 foxlyme.com
+0.0.0.0 api.foxlyme.com
+0.0.0.0 app.foxlyme.com
+0.0.0.0 help.foxlyme.com
+0.0.0.0 lyn.bz
+0.0.0.0 shorten-url.com
+0.0.0.0 bli.nk
+0.0.0.0 lstu.fr
+0.0.0.0 huit.re
+0.0.0.0 frama.link
+0.0.0.0 framalink.org
+0.0.0.0 oe.cd
+0.0.0.0 urlhum.com
+0.0.0.0 app.urlhum.com
+0.0.0.0 api.urlhum.com
+0.0.0.0 sor.bz
+0.0.0.0 73.nu
+0.0.0.0 clicky.me
+0.0.0.0 kurzelinks.de
+0.0.0.0 linkhuddle.com
+0.0.0.0 linksplit.io
+
+# GENERAL SHORT URL SERVICES
+0.0.0.0 lc.cx
+0.0.0.0 x.gd
+0.0.0.0 t1p.de
+0.0.0.0 u.to
+0.0.0.0 ur3.us
+0.0.0.0 ulvis.net
+0.0.0.0 vurl.com
+0.0.0.0 wmojo.com
+0.0.0.0 xurl.es
+0.0.0.0 zaya.io
+0.0.0.0 zcu.io
+0.0.0.0 zeep.ly
+0.0.0.0 zi.ma
+0.0.0.0 zipurl.fr
+0.0.0.0 zln.do
+0.0.0.0 zlra.co
+0.0.0.0 zurl.co
+0.0.0.0 zurl.ir
+0.0.0.0 zurl.ws
+0.0.0.0 zws.im
+0.0.0.0 notlong.com
+0.0.0.0 metamark.net
+0.0.0.0 lmy.de
+0.0.0.0 ln.run
+0.0.0.0 lemde.fr
+0.0.0.0 hyperurl.co
+0.0.0.0 httpslink.com
+0.0.0.0 href.li
+0.0.0.0 hideout.cc
+0.0.0.0 gdurl.com
+0.0.0.0 firsturl.de
+0.0.0.0 firsturl.net
+0.0.0.0 faturl.com
+0.0.0.0 thinfi.com
+0.0.0.0 tpmr.com
+0.0.0.0 trackurl.link
+0.0.0.0 split.to
+0.0.0.0 supr.cl
+0.0.0.0 supr.link
+0.0.0.0 svy.mk
+0.0.0.0 simp.ly
+0.0.0.0 snip.link
+0.0.0.0 minilink.io
+0.0.0.0 ourl.co
+0.0.0.0 ourl.in
+0.0.0.0 ourl.tw
+0.0.0.0 reurl.cc
+0.0.0.0 smarturl.it
+0.0.0.0 smart.link
+0.0.0.0 linkbun.com
+0.0.0.0 linkjust.com
+0.0.0.0 linko.page
+0.0.0.0 linkopener.co
+0.0.0.0 links2.me
+0.0.0.0 linkshare.pro
+0.0.0.0 linkye.net
+0.0.0.0 lnk.bz
+0.0.0.0 lnk.direct
+0.0.0.0 lnk.do
+0.0.0.0 lnk.sk
+0.0.0.0 lnkiy.com
+0.0.0.0 lnkiy.in
+0.0.0.0 lnky.jp
+0.0.0.0 lnnk.in
+0.0.0.0 lnv.gy
+0.0.0.0 lin.ee
+
+# URL.* FAMILY
+0.0.0.0 url.cy
+0.0.0.0 url.ie
+0.0.0.0 url2.fr
+0.0.0.0 urls.fr
+0.0.0.0 urls.kr
+0.0.0.0 urluno.com
+0.0.0.0 urly.co
+0.0.0.0 urly.fi
+0.0.0.0 urlz.fr
+0.0.0.0 urlzs.com
+0.0.0.0 urt.io
+0.0.0.0 urli.ai
+
+# SHORTEN.* NETWORK
+0.0.0.0 shorten.asia
+0.0.0.0 shorten.ee
+0.0.0.0 shorten.is
+0.0.0.0 shorten.so
+0.0.0.0 shorten.tv
+0.0.0.0 shorten.world
+0.0.0.0 shorter.me
+
+============================================
+🔴 TIER 8: MONETIZATION SHORTENERS
+============================================
+
+LINKVERTISE
+0.0.0.0 linkvertise.com
+0.0.0.0 linkvertise.net
+0.0.0.0 link-to.net
+0.0.0.0 publisher.linkvertise.com
+0.0.0.0 lvcreator.zendesk.com
+0.0.0.0 linkvertise.download
+0.0.0.0 file-link.net
+0.0.0.0 direct-link.net
+0.0.0.0 up-to-down.net
+0.0.0.0 link-hub.net
+0.0.0.0 link-center.net
+0.0.0.0 link-target.net
+0.0.0.0 direkt-wissen.com
+
+LOOT-LINK / LOOTLABS
+0.0.0.0 loot-link.com
+0.0.0.0 loot-links.com
+0.0.0.0 lootdest.com
+0.0.0.0 lootlink.me
+0.0.0.0 lootlabs.gg
+0.0.0.0 lootlink.org
+0.0.0.0 lootlinks.co
+0.0.0.0 lootdest.info
+0.0.0.0 lootdest.org
+0.0.0.0 links-loot.com
+0.0.0.0 linksloot.net
+0.0.0.0 creators.lootlabs.gg
+0.0.0.0 explore.lootlabs.gg
+0.0.0.0 lootlinks.com
+0.0.0.0 cuty.io
+0.0.0.0 cety.io
+0.0.0.0 mendationforc.info
+0.0.0.0 rkns.link
+0.0.0.0 tinylink.onl
+0.0.0.0 cl.gy
+
+WORK.INK
+0.0.0.0 work.ink
+
+SHORTE.ST - ⚠️ DEFUNCT
+0.0.0.0 shorte.st
+0.0.0.0 sh.st
+
+OUO.IO
+0.0.0.0 ouo.io
+0.0.0.0 ouo.press
+
+SHRINKEARN / SHRINKME
+0.0.0.0 shrinkearn.com
+0.0.0.0 shrinkme.io
+0.0.0.0 api.shrinkearn.com
+0.0.0.0 api.shrinkme.io
+0.0.0.0 shrinkme.top
+0.0.0.0 shrinkme.click
+0.0.0.0 shrinkme.org
+0.0.0.0 shrinkme.info
+0.0.0.0 shrinke.me
+0.0.0.0 blog.shrinkme.io
+
+BINBUCKS
+0.0.0.0 binbucks.com
+0.0.0.0 api.binbucks.com
+
+UII.IO
+0.0.0.0 uii.io
+0.0.0.0 api.uii.io
+
+LINKREX
+0.0.0.0 linkrex.net
+0.0.0.0 api.linkrex.net
+
+ADFOC.US
+0.0.0.0 adfoc.us
+
+CPMLINK
+0.0.0.0 cpmlink.net
+0.0.0.0 api.cpmlink.net
+
+URLCASH
+0.0.0.0 urlcash.com
+0.0.0.0 urlcash.net
+
+PAYSKIP
+0.0.0.0 payskip.org
+0.0.0.0 payskip.me
+
+ALLY.SH
+0.0.0.0 ally.sh
+
+SPASTE
+0.0.0.0 spaste.com
+
+CLICKSFLY
+0.0.0.0 clicksfly.com
+0.0.0.0 api.clicksfly.com
+0.0.0.0 app.clicksfly.com
+0.0.0.0 clk.asia
+
+ADSHRINK
+0.0.0.0 adshrink.it
+0.0.0.0 api.adshrink.it
+
+VIVADS
+0.0.0.0 vivads.net
+
+POWCLICK
+0.0.0.0 powclick.net
+0.0.0.0 short.pe
+0.0.0.0 api.powclick.net
+
+OKE.IO
+0.0.0.0 oke.io
+0.0.0.0 api.oke.io
+
+SKIPLINK
+0.0.0.0 skiplink.me
+0.0.0.0 skiplink.org
+
+DZ4LINK
+0.0.0.0 dz4link.com
+
+ADMYLINK
+0.0.0.0 admylink.com
+
+ICUTLINK
+0.0.0.0 icutlink.com
+0.0.0.0 api.icutlink.com
+
+S2FLY
+0.0.0.0 s2fly.com
+
+SHRTFLY
+0.0.0.0 shrtfly.com
+0.0.0.0 api.shrtfly.com
+0.0.0.0 brixial.com
+0.0.0.0 app.shrtfly.com
+0.0.0.0 blog.shrtfly.com
+
+GESTYY
+0.0.0.0 gestyy.com
+
+SHORTCONNECT
+0.0.0.0 shortconnect.com
+
+FREEHOTTIP
+0.0.0.0 freehottip.com
+
+AYLINK
+0.0.0.0 aylink.co
+
+FC.LC
+0.0.0.0 fc.lc
+0.0.0.0 fc-lc.com
+
+COINURL
+0.0.0.0 coinurl.com
+
+CUR.LV
+0.0.0.0 cur.lv
+
+ADLOCK
+0.0.0.0 adlock.org
+
+LINKSHRINK
+0.0.0.0 linkshrink.net
+0.0.0.0 api.linkshrink.net
+
+ONI.VN
+0.0.0.0 oni.vn
+
+SAFELINKING
+0.0.0.0 safelinking.net
+
+CUTWIN
+0.0.0.0 cutwin.com
+0.0.0.0 api.cutwin.com
+
+ADDITIONAL MONETIZATION SERVICES
+0.0.0.0 smoner.com
+0.0.0.0 uskip.me
+0.0.0.0 short.am
+0.0.0.0 exey.io
+0.0.0.0 exee.io
+0.0.0.0 exe.app
+0.0.0.0 eio.io
+
+============================================
+🔴 TIER 9: SURVEY SCAMS & PHISHING
+============================================
+
+LINKSFLY NETWORK
+0.0.0.0 linksfly.me
+0.0.0.0 linksfly.link
+0.0.0.0 linkfly.to
+
+AINKA MEDIA (VIETNAM)
+0.0.0.0 tli.su
+0.0.0.0 shorter.gg
+0.0.0.0 shortener.space
+0.0.0.0 amlink.pro
+0.0.0.0 ainkamedia.com
+0.0.0.0 ainkamedia.net
+
+PHISHING
+0.0.0.0 kn8.site
+0.0.0.0 vt7.site
+
+============================================
+🔴 TIER 10: TEMPORARY/SELF-DESTRUCTING SHORTENERS
+============================================
+
+0.0.0.0 1ty.me
+0.0.0.0 tlwsd.com
+0.0.0.0 thislinkwillselfdestruct.com
+0.0.0.0 tlwsd.in
+0.0.0.0 dyinglinks.com
+0.0.0.0 url.dev
+0.0.0.0 burn.link
+0.0.0.0 protonurl.ch
+0.0.0.0 link.qwertyforce.dev
+
+============================================
+🔴 TIER 11: SMS SUBSCRIPTION TRAPS
+============================================
+
+0.0.0.0 9qr.de
+0.0.0.0 alturl.com
+0.0.0.0 budurl.com
+0.0.0.0 lc.chat
+0.0.0.0 linki.la
+0.0.0.0 minm.xyz
+0.0.0.0 s2r.co
+0.0.0.0 serveirc.com
+0.0.0.0 shrtco.de
+
+============================================
