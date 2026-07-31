@@ -1,0 +1,732 @@
+LIVE-CHAT & ENGAGEMENT PLATFORMS
+RESEARCH LIST
+
+🔴 TIER 1 — MAJOR PLATFORMS
+======================================================================
+
+── INTERCOM ──
+  [Core Platform]
+  - intercom.io
+  - intercom.com
+  - app.intercom.io
+  - app.intercom.com
+  - *.intercom-messenger.com
+  [Widget & JavaScript]
+  - widget.intercom.io
+  - js.intercom.io
+  - js.intercomcdn.com
+  - static.intercomcdn.com
+  [APIs]
+  - api.intercom.io
+  - api-iam.intercom.io
+  - api.au.intercom.io
+  - api.eu.intercom.io
+  - api-ping.intercom.io
+  - api-iam.eu.intercom.io
+  - api-iam.au.intercom.io
+  [WebSockets]
+  - nexus-websocket-a.intercom.io
+  - nexus-websocket-b.intercom.io
+  - nexus-long-poller-direct.intercom.io
+  - nexus-europe-websocket.intercom.io
+  - nexus-australia-websocket.intercom.io
+  [CDN & Assets]
+  - downloads.intercomcdn.com
+  - static.intercomcdn.com
+  - js.intercomcdn.com
+  - intercomcdn.com
+  - uploads.intercomcdn.eu
+  - uploads.au.intercomcdn.com
+  - uploads.eu.intercomcdn.com
+  - downloads.intercomcdn.eu
+  - downloads.au.intercomcdn.com
+  - fonts.intercomcdn.com
+  - gifs.intercomcdn.com
+  - video-messages.intercomcdn.com
+  - static.intercomassets.com
+  - static.intercomassets.eu
+  - static.au.intercomassets.com
+  [Messenger Regional]
+  - messenger-apps.intercom.io
+  - messenger-apps.eu.intercom.io
+  - messenger-apps.au.intercom.io
+  - apps.intercom.io
+  [Uploads & User Content]
+  - uploads.intercomcdn.com
+  - uploads.intercomusercontent.com
+  - via.intercom.io
+  - *.intercom-attachments-1.com
+  - *.intercom-attachments-2.com
+  - *.intercom-attachments-3.com
+  - *.intercom-attachments-4.com
+  - *.intercom-attachments-5.com
+  - *.intercom-attachments-6.com
+  - *.intercom-attachments-7.com
+  - *.intercom-attachments-8.com
+  - *.intercom-attachments-9.com
+  - *.intercom-attachments.eu
+  - *.au.intercom-attachments.com
+  [Mobile SDKs]
+  - mobile.intercom.io
+  - mobile-sdk.intercom.io
+  - mobile-messenger.eu.intercom.io
+  [Metrics & Analytics]
+  - metrics.intercom.io
+  - ping.intercom.io
+  - frontend-telemetry.intercom.io
+  [Email]
+  - email.intercom.io
+  - mail.intercom.io
+  [Help Center / Articles]
+  - intercom.help
+  - *.intercom.help
+  - custom.intercom.help
+  - us.intercomhelpcenter.com
+  - eu.intercomhelpcenter.com
+  - au.intercomhelpcenter.com
+  [Reporting & Media]
+  - intercom-sheets.com
+  - intercom-reporting.com
+  - www.intercom-reporting.com
+  - www.youtube.com
+  - player.vimeo.com
+  - fast.wistia.net
+
+── ZENDESK CHAT (ZOPIM) ──
+  [Core Platform]
+  - zendesk.com
+  - zopim.com
+  - chat.zendesk.com
+  - *.zendesk.com
+  - support.zendesk.com
+  - developer.zendesk.com
+  [Assets & CDN]
+  - zdassets.com
+  - static.zdassets.com
+  - assets.zendesk.com
+  - ekr.zdassets.com
+  - *.zdusercontent.com
+  [Zopim Legacy]
+  - v2.zopim.com
+  - v1.zopim.com
+  - cdn.zopim.com
+  - cdn.zopim.io
+  - v2assets.zopim.io
+  [Real-time]
+  - rtm.zopim.com
+  - rtm-delta.zopim.com
+  [CloudFront CDN]
+  - d26a57ydsghvgx.cloudfront.net
+  - d1eipm3vz40hy0.cloudfront.net
+  [APIs]
+  - api.zopim.com
+  - api.zendesk.com
+  [Web Widget & Messaging]
+  - web-sdk.zopim.com
+  - messaging.zendesk.com
+  - uploads.zendesk.com
+  - mobile-sdk.zopim.com
+  [Smooch / Sunshine Conversations]
+  - *.smooch.io
+  - api.smooch.io
+  - wss://api.smooch.io
+  - *.config.smooch.io
+  - media.smooch.io
+  [Voice / Twilio]
+  - *.twilio.com
+  - chunderw-gll.twilio.com
+  - chunderw-vpc-gll.twilio.com
+  - voice-js.roaming.twilio.com
+  - eventgw.twilio.com
+  - sdk.twilio.com
+  - chunderw-vpc-gll.us1.twilio.com
+  - chunderw-vpc-gll.au1.twilio.com
+  - chunderw-vpc-gll.br1.twilio.com
+  - chunderw-vpc-gll.ie1.twilio.com
+  - chunderw-vpc-gll.jp1.twilio.com
+  - chunderw-vpc-gll.sg1.twilio.com
+  [PubSub]
+  - pubsub-shard.zendesk.com
+  - pubsub-shard1.zendesk.com
+  - pubsub-shard2.zendesk.com
+  [Error Tracking]
+  - *.ingest.sentry.io
+
+── DRIFT (Conversational Marketing) ──
+  [Core Platform]
+  - drift.com
+  - driftt.com
+  - app.drift.com
+  - widget.drift.com
+  - js.driftqa.com
+  - start.drift.com
+  [JavaScript & Widget]
+  - js.driftt.com
+  - js.drift.com
+  - js-cdn.drift.com
+  [API]
+  - driftapi.com
+  - api.drift.com
+  - customer-api.drift.com
+  [Events, Analytics, CDN]
+  - event.drift.com
+  - events.drift.com
+  - analytics.drift.com
+  - cdn.drift.com
+  - static.drift.com
+  [Video & Meetings]
+  - video.drift.com
+  - video-cdn.drift.com
+  - meetings.drift.com
+  - playbooks.drift.com
+  [WebSockets]
+  - ws.drift.com
+  - socket.drift.com
+  [Email]
+  - email.drift.com
+  - mail.drift.com
+
+── LIVECHAT ──
+  [Core Platform]
+  - livechat.com
+  - livechatinc.com
+  - secure.livechatinc.com
+  [CDN]
+  - cdn.livechatinc.com
+  - cdn-ha.livechatinc.com
+  - cdn.livechat.com
+  [APIs & WebSockets]
+  - api.livechatinc.com
+  - api.livechat.com
+  - rtm.livechatinc.com
+  [Static & Files]
+  - static.livechatinc.com
+  - mobile.livechatinc.com
+  - uploads.livechatinc.com
+  - files.livechatinc.com
+  - accounts.livechatinc.com
+  - tracking.livechatinc.com
+  [Text Platform (Parent)]
+  - *.text.com
+  - *.files-text.com
+  - *.livechat-static.com
+  - *.livechat-files.com
+
+── CRISP ──
+  [Core Platform]
+  - crisp.chat
+  - crisp.im
+  - app.crisp.chat
+  [Client & Widget]
+  - client.crisp.chat
+  - widget.crisp.chat
+  [Plugin System]
+  - plugin.crisp.chat
+  - plugins.crisp.chat
+  [API]
+  - api.crisp.chat
+  - rest.crisp.chat
+  [CDN & Media]
+  - cdn.crisp.chat
+  - assets.crisp.chat
+  - image.crisp.chat
+  - storage.crisp.chat
+  - media.crisp.chat
+  [Real-time]
+  - relay.crisp.chat
+  - stream.crisp.chat
+  - socket.crisp.chat
+  - wss://*.relay.rescue.crisp.chat
+  - wss://*.relay.crisp.chat
+  - app.relay.crisp.chat
+  [Help & Status]
+  - help.crisp.chat
+  - status.crisp.chat
+
+── TAWK.TO (FREE — Very Common!) ──
+  [Core Platform]
+  - tawk.to
+  - tawkto.com
+  - tawk.link
+  [Embed Widget & CDN]
+  - embed.tawk.to
+  - widget.tawk.to
+  - cdn.embed.tawk.to
+  - cdn.tawk.to
+  [APIs & WebSockets]
+  - api.tawk.to
+  - rest-api.tawk.to
+  - wss://*.tawk.to
+  - ws.tawk.to
+  - wss.tawk.to
+  [Dashboard & Files]
+  - dashboard.tawk.to
+  - app.tawk.to
+  - va.tawk.to
+  - video.tawk.to
+  - uploads.tawk.to
+  - files.tawk.to
+  - static.tawk.to
+  - mobile.tawk.to
+
+── LIVEPERSON (Enterprise) ──
+  [Core Platform]
+  - liveperson.com
+  - liveperson.net
+  - liveengage.liveperson.net
+  - liveengage.net
+  - liveengage.com
+  - liveper.sn
+  - liveassistfor365.com
+  [Media & Assets]
+  - lpsnmedia.net
+  - lpcdn.lpsnmedia.net
+  - va.lpsnmedia.net
+  - accdn.lpsnmedia.net
+  [Tags, APIs & Real-time]
+  - lptag.liveperson.net
+  - tags.liveperson.net
+  - api.liveperson.net
+  - va-a.liveperson.net
+  - sy.liveperson.net
+  - lo.liveperson.net
+  - rtm.liveperson.net
+  - pusher.liveperson.net
+  - wss://*.liveperson.net
+  - analytics.liveperson.net
+
+── FRESHCHAT (FRESHWORKS) ──
+  [Core Platform]
+  - freshchat.com
+  - freshworks.com
+  - *.freshchat.com
+  - *.eu.freshchat.com
+  - *.in.freshchat.com
+  - *.au.freshchat.com
+  [Widget & Assets]
+  - wchat.freshchat.com
+  - wchat-ecs.freshchat.com
+  - snippet.freshchat.com
+  - widget.freshchat.com
+  - assets.freshchat.com
+  - assetscdn-wchat.freshchat.com
+  - apicdn-wchat.freshchat.com
+  [APIs]
+  - api.freshchat.com
+  - api.freshworks.com
+  - *.freshworksapi.com
+  [Uploads & Events]
+  - upload.freshchat.com
+  - uploads.freshchat.com
+  - files.freshchat.com
+  - events.freshchat.com
+  - mobile.freshchat.com
+  [Web Push (Regional)]
+  - *.webpush.freshchat.com
+  - *.webpush.eu.freshchat.com
+  - *.webpush.in.freshchat.com
+  - *.webpush.au.freshchat.com
+  [Freshworks Ecosystem]
+  - *.myfreshworks.com
+  - *.freshreports.com
+  - *.appgallery.freshworks.com
+  - *.freshbots.ai
+  - *.freddyproject.com
+  - *.prod.freddyproject.com
+  - *.eu-central-1-prod.freddyproject.com
+  - *.ap-south-1-prod.freddyproject.com
+  - *.ap-southeast-2-prod.freddyproject.com
+  - *.freshdev.io
+  - *.freshconnect.io
+  - *.freshcloud.io
+  - *.in-freshbots.ai
+  - *.freshmarketer.com
+  [Real-Time Channels (RTS) — Regional WebSocket]
+  - *.rtschannel.com
+  - api.fdcollab.com
+  - *.fdcollab.com
+  - wss://rts-us-fcht.freshworksapi.com
+  - https://rts-us.freshworksapi.com
+  - wss://rts-euc-fcht.freshworksapi.com
+  - https://rts-euc.freshworksapi.com
+  - wss://rts-in-fcht.freshworksapi.com
+  - https://rts-in.freshworksapi.com
+  - wss://rts-aus-fcht.freshworksapi.com
+  - https://rts-aus.freshworksapi.com
+  [CloudFront CDN]
+  - d2oiqi23r4bfp1.cloudfront.net
+  - d1qb2nb5tro4ry.cloudfront.net
+  - d2uy6ubiilaqku.cloudfront.net
+  - d3b8kxken7scg5.cloudfront.net
+  - d3h0owdjgzys62.cloudfront.net
+  - d2sq1ls4tm6x2u.cloudfront.net
+  - dgkxwewtzsnml.cloudfront.net
+  - d1h1clvcju65jp.cloudfront.net
+  [Analytics]
+  - heapanalytics.com
+  - cdn.heapanalytics.com
+  - bam.nr-data.net
+
+── OLARK ──
+  - olark.com
+  - static.olark.com
+  - static-us-east.olark.com
+  - api.olark.com
+  - data.olark.com
+  - logs.olark.com
+  - transcripts.olark.com
+  - files.olark.com
+  - uploads.olark.com
+  - rt.olark.com
+  - olark-file-uploads.s3-us-west-1.amazonaws.com
+
+── HELP SCOUT ──
+  [Core Platform]
+  - helpscout.com
+  - helpscout.net
+  - secure.helpscout.net
+  [Beacon Widget]
+  - beacon-v2.helpscout.net
+  - beacon.helpscout.net
+  [CDN & API]
+  - d3hb14vkzrxvla.cloudfront.net
+  - d33v4339jhl8k0.cloudfront.net
+  - api.helpscout.net
+  - api.helpscout.com
+  - beaconapi.helpscout.net
+  - chatapi.helpscout.net
+  - docs.helpscout.com
+  - kb.helpscout.com
+  - docs.helpscout.net
+  - assets.helpscout.net
+  - uploads.helpscout.net
+  [Real-time & Push]
+  - pusher.helpscout.net
+  - sockjs-helpscout.pusher.com
+  - wss://*.pusher.com
+  - chatapi-prod.s3.amazonaws.com
+  [Media & Attachments]
+  - *.gravatar.com
+  - www.loom.com
+  - share.getcloudapp.com
+
+======================================================================
+🟠 TIER 2 — SIGNIFICANT PLATFORMS
+======================================================================
+
+── TIDIO ──
+  - tidio.com
+  - tidio.co
+  - code.tidio.co
+  - widget.tidio.co
+  - cdn.tidio.co
+  - static.tidio.co
+  - api.tidio.co
+  - api-us-1.tidio.co
+  - api-eu-1.tidio.co
+  - socket.tidio.co
+  - ws.tidio.co
+  - uploads.tidio.co
+  - files.tidio.co
+  - panel.tidio.co
+  - mail.tidio.co
+  - sentry-new.tidio.co
+  - api-v2.tidio.co
+  - tidiochat.com
+  - widget-v4.tidiochat.com
+  - avatars.tidiochat.com
+  - uploads.tidio.com
+  - tidio-images-messenger.s3.us-east-1.amazonaws.com
+
+── PURE CHAT ──
+  - purechat.com
+  - app.purechat.com
+  - secure.purechat.com
+  - api.purechat.com
+  - widget.purechat.com
+  - cdn.purechat.com
+  - cdnca1.purechat.com
+  - static.purechat.com
+
+── USERLIKE / LIME CONNECT (Germany — GDPR) ──
+  - connect.lime-technologies.com
+  - userlike.com
+  - www.userlike.com
+  - api.userlike.com
+  - rest.userlike.com
+  - webhook.userlike.com
+  - docs.lime-connect.com
+  - docs.userlike.com
+  - wss://umd.userlike.com
+  - umd.userlike.com
+  - userlike-cdn-web.b-cdn.net
+  - userlike-cdn-umm.b-cdn.net
+  - userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
+  - userlike-cdn-widgets.userlike.com
+  - userlike-cdn-operators.s3-eu-west-1.amazonaws.com
+  - userlike-cdn-operators.userlike.com
+  - userlike-store-media-files.s3.amazonaws.com
+  - upload.userlike.com
+  - files.userlike.com
+  - widget.userlike.com
+  - operator.userlike.com
+  - help.userlike.com
+  - lime-technologies.com
+
+── CHATRA ──
+  - chatra.io
+  - chatra.com
+  - app.chatra.io
+  - chat.chatra.io
+  - widget.chatra.io
+  - call.chatra.io
+  - video.chatra.io
+  - api.chatra.io
+  - rest-api.chatra.io
+  - files.chatra.io
+  - uploads.chatra.io
+  - cdn.chatra.io
+  - socket.chatra.io
+  - status.chatra.io
+
+── CHAPORT ──
+  - chaport.com
+  - app.chaport.com
+  - panel.chaport.com
+  - api.chaport.com
+  - widget.chaport.com
+  - static.chaport.com
+  - uploads.chaport.com
+
+── SMARTSUPP (Session Replay!) ──
+  ⚠️  Contains session recording — evaluate before allowing
+  - smartsupp.com
+  - widget.smartsupp.com
+  - chat.smartsupp.com
+  - api.smartsupp.com
+  - rec.smartsupp.com
+  - recording.smartsupp.com
+  - static.smartsupp.com
+  - files.smartsupp.com
+  - analytics.smartsupp.com
+  - *.smartsuppchat.com
+  - *.smartsuppcdn.com
+  - wss://*.smartsupp.com
+
+── JIVOCHAT ──
+  ⚠️  Russia-based — evaluate security implications
+  - jivosite.com
+  - jivochat.com
+  - *.jivochat.com
+  - jivo.com
+  - jivo.ru
+  - code.jivosite.com
+  - widget.jivosite.com
+  - api.jivosite.com
+  - api.jivo.com
+  - ws.jivosite.com
+  - socket.jivo.com
+  - static.jivosite.com
+  - files.jivosite.com
+  - app.jivosite.com
+  - panel.jivo.com
+  - wh.jivosite.com
+
+── COMM100 (Canada — X2 Platform) ──
+  - comm100.com
+  - *.comm100.com
+  - comm100.io
+  - *.comm100.io
+  - *.comm100download.com
+  - livechat.comm100.com
+  - api.comm100.com
+  - hosted.comm100.com
+  - secure.comm100.com
+  - bot.comm100.com
+  - cdn.comm100.com
+  - video.comm100.com
+  - dash11.comm100.io
+  - dash12.comm100.io
+  - dash13.comm100.io
+  - dash15.comm100.io
+  - dash17.comm100.io
+  - commservice.comm100.io
+  - vue.comm100.com
+  - standby.comm100vue.com
+  - route.comm100.com
+  - route1.comm100.com
+  - pciform.comm100.com
+
+── GORGIAS (E-commerce) ──
+  - gorgias.com
+  - *.gorgias.com
+  - gorgias.io
+  - *.gorgias.io
+  - app.gorgias.com
+  - chat.gorgias.com
+  - api.gorgias.com
+  - developers.gorgias.com
+  - cdn.gorgias.com
+  - ws.gorgias.com
+
+── RESPOND.IO (Omnichannel) ──
+  - respond.io
+  - app.respond.io
+  - api.respond.io
+  - developers.respond.io
+  - webhook.respond.io
+  - cdn.respond.io
+
+======================================================================
+🟡 TIER 3 — GROWING & SPECIALIZED PLATFORMS
+======================================================================
+
+── KUSTOMER ──
+  - kustomer.com
+  - *.kustomer.com
+  - api.kustomer.com
+  - developer.kustomer.com
+  - help.kustomer.com
+
+── EDESK ──
+  - edesk.com
+  - edesk.io
+  - api.edesk.io
+  - app.edesk.com
+  - assets.edesk.com
+  - support.edesk.com
+  - developers.edesk.com
+
+── ZOHO SALESIQ ──
+  [Core]
+  - salesiq.zoho.com
+  - salesiq.zoho.eu
+  - salesiq.zoho.com.au
+  - salesiq.zoho.in
+  [Static & CDN]
+  - js.zohostatic.com
+  - css.zohostatic.com
+  - img.zohostatic.com
+  - media.zohostatic.com
+  - fonts.zohostatic.com
+  - *.zohostatic.com
+  - js.zohocdn.com
+  - css.zohocdn.com
+  - static.zohocdn.com
+  - *.zohocdn.com
+  [PubSub / Real-time]
+  - *.zohopublic.com
+  - wss://*.zohopublic.com
+  - salesiq.zohopublic.com
+  - download.zohopublic.com
+  - vts.zohopublic.com
+  - wms.zohopublic.com
+  - *.zohopublic.in
+  [Regional]
+  - zoho.eu
+  - zoho.in
+  - zoho.com.au
+  - zoho.com.cn
+  - livechat-kube.zoho.com
+  - track.zoho.com
+  - accounts.zoho.com
+  [CloudFront]
+  - dyjgaef5vuq51.cloudfront.net
+  - dtzpfzv31buvf.cloudfront.net
+
+======================================================================
+🟢 TIER 7 — REGIONAL PLATFORMS
+======================================================================
+
+── ZENVIA (Brazil / LatAm) ──
+  - zenvia.com
+  - zenvia.com.br
+  - api.zenvia.com
+  - api-rest.zenvia.com
+  - chat.zenvia.com
+  - zchat.zenvia.io
+  - zchat-admin.zenvia.com
+  - webhook.zenvia.com
+  - voice-app.zenvia.com
+  - conversion.zenvia.com
+  - zenvia.github.io
+
+── BAIDU QIAO (China) ──
+  ⚠️  CCP-linked platform — block unless explicitly required
+  - qiao.baidu.com
+  - shangqiao.baidu.com
+  - qiaoshang.baidu.com
+  - bridge.baidu.com
+  - www2.baidu.com
+  - p.qiao.baidu.com
+  - afanfan.baidu.com
+
+── MEIQIA (China) ──
+  - meiqia.com
+  - meiqia.cn
+  - meiqia.com.cn
+  - *.meiqia.com
+  - meiqia-bucket.oss-cn-hangzhou.aliyuncs.com
+  - api.meiqia.com
+
+── UDESK (China) ──
+  - udesk.cn
+  - udesk.com
+  - *.udesk.cn
+  - sobot.com
+  - sobot.io
+  - udeskglobal.com
+  - im.udesk.cn
+  - api.udesk.cn
+  - developer.sobot.io
+  - assets.udesk.cn
+
+── MYALICE (Southeast Asia) ──
+  - myalice.ai
+  - api.myalice.ai
+  - app.myalice.ai
+  - developers.myalice.ai
+  - docs.myalice.ai
+
+======================================================================
+🏢 TIER 9 — CONTACT CENTER PLATFORMS (Chat Channel)
+======================================================================
+
+── GLADLY ──
+  - *.gladly.com
+  - *.us-1.gladly.com
+  - api.us-1.gladly.chat
+  - wss://ws.us-1.gladly.chat
+  - us-1.gladly.com
+  - chat-assets.cdn.gladly.com
+  - chat-sdk.cdn.gladly.com
+  - cdn.gladly.com
+  - media.cdn.gladly.com
+  - developer.gladly.com
+  - help.gladly.com
+  - gladly-production.sinter-collect.com
+  - js.verygoodvault.com
+  - js2.verygoodvault.com
+  - *.bugsnag.com
+  - *.browser-intake-datadoghq.com
+  - api.smooch.io
+  - *.config.smooch.io
+  - media.smooch.io
+
+── FRONT (FRONTAPP) ──
+  - front.com
+  - frontapp.com
+  - app.frontapp.com
+  - chat.frontapp.com
+  - chat-assets.frontapp.com
+  - chat-assets.frontusercontent.com
+  - chat-webhook.frontapp.com
+  - us-west-1-chat-server.frontapp.com
+  - us-west-2-chat-server.frontapp.com
+  - eu-west-1-chat-server.frontapp.com
+  - wss://front-us-realtime.ably.io
+  - wss://front-eu-realtime.ably.io
+  - api.frontapp.com
+  - developer.frontapp.com
+  - *.bugsnag.com
+  - *.browser-intake-datadoghq.com
