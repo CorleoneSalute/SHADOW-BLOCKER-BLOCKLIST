@@ -1,0 +1,789 @@
+# EMERGENCY & SAFETY APPS RESEARCH LIST
+
+---
+
+## 🎯 CORE PLATFORMS
+
+---
+
+### CITIZEN
+
+- citizen.com
+- sp.citizen.com
+- api.citizen.com
+- app.citizen.com
+- livestream.citizen.com
+- video.citizen.com
+- stream.citizen.com
+- cdn.citizen.com
+- support.citizen.com
+- enterprise.citizen.com
+- privacy.citizen.com
+- agency.citizen.com
+- assets.citizen.com
+- blog.citizen.com
+- business.citizen.com
+- buy.citizen.com
+- central.citizen.com
+- click.citizen.com
+- eng.citizen.com
+- enterprise-canary.citizen.com
+- feedback.citizen.com
+- get.citizen.com
+- go-test.citizen.com
+- go.citizen.com
+- growthbook-proxy.citizen.com
+- growthbook.citizen.com
+- growthbook.server.citizen.com
+- guardian.citizen.com
+- i.citizen.com
+- links-test.citizen.com
+- links.citizen.com
+- posa.citizen.com
+- protect.citizen.com
+- psn.citizen.com
+- safepass.citizen.com
+- sig.citizen.com
+- signal.citizen.com
+- spotlight.citizen.com
+- testing.protect.citizen.com
+- www.citizen.com
+
+> ⚠️ **Third-Party Trackers (detected on Citizen.com):**
+> - google-analytics.com
+> - analytics.google.com
+> - googletagmanager.com
+> - doubleclick.net
+> - snap.com
+> - ads.tiktok.com
+> - connect.facebook.net
+> - rb2b.com
+> - api.amplitude.com
+
+---
+
+### LIFE360
+
+- life360.com
+- www.life360.com
+- api.life360.com
+- app.life360.com
+- location.life360.com
+- tiles.life360.com
+- maps.life360.com
+- geoip.life360.com
+- api-cloudfront.life360.com
+- support.life360.com
+- cdn.life360.com
+- 15975118.life360.com
+- adr.internal.life360.com
+- ads.life360.com
+- adsconfig.dev.life360.com
+- adsconfig.life360.com
+- adsconfig.stg.life360.com
+- allstate.partner.dev.life360.com
+- allstate.partner.stg.life360.com
+- amplitude-beta.life360.com
+- amplitude-go-dev.internal-data.dev.life360.com
+- amplitude-go-qa.internal-data.dev.life360.com
+- amplitude.life360.com
+- amplitude.qa.life360.com
+- app.dev.life360.com
+- app.stg.life360.com
+- appqa.life360.com
+- argo.dev.life360.com
+- argocd.dev.life360.com
+- argocd.prod.life360.com
+- atlantis.corp.life360.com
+- aura.partner.dev.life360.com
+- autoinsurance-qa.life360.com
+- autoinsurance.dev.life360.com
+- autoinsurance.life360.com
+- autoinsurance.prod.life360.com
+- aws-billing-mcp-portal.dev.life360.com
+- beta-signup.life360.com
+- blog.life360.com
+- campaign.life360.com
+- coin.life360.com
+- connect.life360.com
+- controlcenter.dev.life360.com
+- datagrail.partner.dev.life360.com
+- delete-confirmation.life360.com
+- develocity-saml-test.dev.life360.com
+- develocity360.dev.life360.com
+- develop-cloudfront.life360.com
+- dradis.corp.life360.com
+- ecom-tile-maintenance-page.life360.com
+- email.family-qa.life360.com
+- email.family.life360.com
+- email.list.life360.com
+- email.recruiting.life360.com
+- email.setup.life360.com
+- engineering.life360.com
+- family.life360.com
+- family2.life360.com
+- fb.life360.com
+- found.life360.com
+- get.life360.com
+- google-workspace-readonly-mcp-portal.dev.life360.com
+- google-workspace-readwrite-mcp-portal.dev.life360.com
+- grpc.dev.life360.com
+- grpc.life360.com
+- help.life360.com
+- idp-api.life360.com
+- idp.life360.com
+- intl.dev.life360.com
+- intl.life360.com
+- intl.stg.life360.com
+- investors.life360.com
+- invite.life360.com
+- jenkins.dev.life360.com
+- jenkins.prod.life360.com
+- jiobit-customer-care-portal.dev.life360.com
+- jiobit-customer-care-portal.life360.com
+- kubecost-mcp-portal.dev.life360.com
+- kubecost.dev.life360.com
+- launchdarkly.partner.dev.life360.com
+- legal.corp.life360.com
+- life360-website-cdn.dev.life360.com
+- life360-website-cdn.life360.com
+- life360-website-cdn.stg.life360.com
+- life360.partner.dev.life360.com
+- links.help.life360.com
+- links.newsletter.life360.com
+- links.transactional.life360.com
+- list.life360.com
+- liveid.life360.com
+- mtls-test.partner.dev.life360.com
+- nest.life360.com
+- nexus-proxy.dev.life360.com
+- nexus.dev.life360.com
+- nexus.prod.life360.com
+- oauth.partner.dev.life360.com
+- phoenix.corp.life360.com
+- preferences.life360.com
+- read-only-mcp-portal.dev.life360.com
+- rgc.dev.life360.com
+- rgc.life360.com
+- rgc.qa.life360.com
+- rgc2.dev.life360.com
+- scim.corp.life360.com
+- secret.life360.com
+- sendgrid.partner.dev.life360.com
+- setup.life360.com
+- slackbot.dev.life360.com
+- soulstore.sandbox.us-east-1.life360.com
+- store.life360.com
+- try.life360.com
+- twilio.partner.dev.life360.com
+- uber.partner.dev.life360.com
+- upflow-email.life360.com
+- url4567.life360.com
+- viz.dev.life360.com
+- viz.prod.life360.com
+- webapp.dev.life360.com
+- webapp.life360.com
+- www.dev.life360.com
+- www.stg.life360.com
+
+> ⚠️ **Tile + Jiobit acquired — these should also be added:**
+> - tile.com
+> - www.tile.com
+> - thetileapp.com
+> - www.thetileapp.com
+> - support.thetileapp.com
+> - jiobit.com
+> - www.jiobit.com
+> - tags.jiobit.com
+> - support.jiobit.com
+> - life360-legal.zendesk.com
+
+---
+
+### NOONLIGHT
+
+- noonlight.com
+- api.noonlight.com
+- app.noonlight.com
+- www.noonlight.com
+- api-sandbox.noonlight.com
+- developer.noonlight.com
+- location.noonlight.com
+- stream.noonlight.com
+- video.noonlight.com
+- media.noonlight.com
+- docs.noonlight.com
+- help.noonlight.com
+- security.noonlight.com
+- status.noonlight.com
+
+---
+
+### bSAFE
+
+- getbsafe.com
+- api.getbsafe.com
+- logs.getbsafe.com
+- app.getbsafe.com
+- partner.getbsafe.com
+- web.getbsafe.com
+- location.getbsafe.com
+- gps.getbsafe.com
+- livestream.getbsafe.com
+- video.getbsafe.com
+
+---
+
+### WATCH OVER ME
+
+- watchovermeapp.com
+- api.watchovermeapp.com
+- location.watchovermeapp.com
+
+---
+
+### RED PANIC BUTTON
+
+- redpanicbutton.com
+- api.redpanicbutton.com
+
+---
+
+### REACT MOBILE
+
+- reactmobile.com
+- api.reactmobile.com
+- portal.reactmobile.com
+- reactmobile-infra.net
+- support.reactmobile.com
+- news.reactmobile.com
+
+---
+
+### GEOZILLA
+
+- geozilla.com
+- gps-tracker.geozilla.com
+- web-app.geozilla.com
+- support.geozilla.com
+- air.geozilla.com
+- api-events.geozilla.com
+- api.geozilla.com
+- api.h2.geozilla.com
+- api.portal.geozilla.com
+- app.geozilla.com
+- blog.geozilla.com
+- c3vad5m631.api.portal.geozilla.com
+- chat.geozilla.com
+- eight.tracker.geozilla.com
+- eleven.tracker.geozilla.com
+- family-gps-tracker.geozilla.com
+- fifteen.tracker.geozilla.com
+- five.tracker.geozilla.com
+- four.tracker.geozilla.com
+- fourteen.tracker.geozilla.com
+- gitlab.geozilla.com
+- gps.dog.geozilla.com
+- invite.geozilla.com
+- iot.geozilla.com
+- nine.tracker.geozilla.com
+- one.rakuten.geozilla.com
+- one.tracker.geozilla.com
+- portal.geozilla.com
+- proxy3.geozilla.com
+- qr.geozilla.com
+- rak.dog.geozilla.com
+- seven.tracker.geozilla.com
+- six.tracker.geozilla.com
+- sixteen.tracker.geozilla.com
+- ten.tracker.geozilla.com
+- thirteen.tracker.geozilla.com
+- three.tracker.geozilla.com
+- twelve.tracker.geozilla.com
+- two.rakuten.geozilla.com
+- two.tracker.geozilla.com
+- web.geozilla.com
+- webapi.geozilla.com
+- www.app.geozilla.com
+- www.geozilla.com
+
+> ⚠️ **Platform using AppsFlyer + Flurry + Firebase:**
+> - appsflyer.com
+> - app.appsflyer.com
+> - t.appsflyer.com
+> - impression.appsflyer.com
+> - websdk.appsflyer.com
+> - onelink.me
+> - gcdsdk.appsflyer.com
+> - flurry.com
+> - log.flurry.com
+> - data.flurry.com
+> - firebase.google.com
+> - firebaseio.com
+> - firebaseapp.com
+
+---
+
+### GLYMPSE
+
+- glympse.com
+- developer.glympse.com
+- enroute.glympse.com
+- api.glympse.com
+- corp.glympse.com
+- glympsepro.com
+- app.glympse.com
+- dgc.glympse.com
+- tiles.glympse.com
+- api2.glympse.com
+- arrive.glympse.com
+- blog.glympse.com
+- business.glympse.com
+- dev.app.glympse.com
+- dev.corp.glympse.com
+- dev.support.glympse.com
+- hubspotcx.glympse.com
+- hubspotkb.glympse.com
+- info.glympse.com
+- motd.api.glympse.com
+- p-s0-reporting.glympse.com
+- p-s1-reporting.glympse.com
+- papajohns.glympse.com
+- product.glympse.com
+- s-s0-reporting.glympse.com
+- s-s1-reporting.glympse.com
+- sandbox.app.glympse.com
+- sandbox.glympse.com
+- sandbox.support.glympse.com
+- servicecloud.glympse.com
+- sftp.glympse.com
+- support.glympse.com
+- upload.glympse.com
+- www.app.glympse.com
+- www.corp.glympse.com
+- www.dev.app.glympse.com
+- www.dev.corp.glympse.com
+- www.dev.support.glympse.com
+- www.glympse.com
+- www.motd.api.glympse.com
+- www.sandbox.app.glympse.com
+- www.sandbox.glympse.com
+- www.sandbox.support.glympse.com
+- www.support.glympse.com
+
+---
+
+### KITESTRING
+
+- kitestring.io
+
+---
+
+### CIRCLE OF 6
+
+- circleof6app.com
+- www.circleof6app.com
+- circleof6app.net
+
+---
+
+### COMPANION
+
+- companionapp.io
+- www.companionapp.io
+
+---
+
+### RAVE GUARDIAN / RAVE MOBILE SAFETY / SMART911
+
+> ⚠️ **Acquired by Motorola Solutions (2022)**
+
+- raveguardian.com
+- ravemobilesafety.com
+- www.ravemobilesafety.com
+- smart911.com
+- www.smart911.com
+- getrave.com
+- www.getrave.com
+- motorolasolutions.com
+- www.motorolasolutions.com
+- api.ravemobilesafety.com
+- support.ravemobilesafety.com
+- status.ravemobilesafety.com
+- smartprepare.com
+- ravepanicbutton.com
+- raveguardian.app
+- caloes-status.ravemobilesafety.com
+- em.ravemobilesafety.com
+- email.ravemobilesafety.com
+- go.ravemobilesafety.com
+- info.ravemobilesafety.com
+- motion.ravemobilesafety.com
+- sl.ravemobilesafety.com
+- status-us.ravemobilesafety.com
+- tracking.ravemobilesafety.com
+- training.ravemobilesafety.com
+- www.training.ravemobilesafety.com
+
+---
+
+### LIVESAFE
+
+- livesafemobile.com
+- services.livesafemobile.com
+- tips.livesafemobile.com
+- go.livesafemobile.com
+- help.livesafemobile.com
+- static.livesafemobile.com
+
+---
+
+### CITIZENCOP (India)
+
+- citizencop.org
+- www.citizencop.org
+- alirajpur.citizencop.org
+- attendance.citizencop.org
+- bhopaleye.citizencop.org
+- cctv.citizencop.org
+- cggrp.citizencop.org
+- coronaalert.citizencop.org
+- coronacop.citizencop.org
+- energy.citizencop.org
+- fertiliser.citizencop.org
+- ggapi.citizencop.org
+- greengene.citizencop.org
+- khajrana.citizencop.org
+- leave.citizencop.org
+- mummaskitchen.citizencop.org
+- nimantran.citizencop.org
+- operationpavitrabhopal.citizencop.org
+- safecitysurvey.citizencop.org
+- stateservice.citizencop.org
+- tracking.citizencop.org
+- upgrp.citizencop.org
+- waterbody.citizencop.org
+- www.greengene.citizencop.org
+
+---
+
+### 112 INDIA (ERSS)
+
+- 112.gov.in
+- erss.in
+- mha.gov.in
+- an.erss.in
+- ners.in
+
+---
+
+### FEMA (US Government)
+
+- fema.gov
+- www.fema.gov
+- disasterassistance.gov
+- ready.gov
+- fema.dhs.gov
+- gis-fema.hub.arcgis.com
+- hazards.fema.gov
+- gis.fema.gov
+- usfa.fema.gov
+- www.usfa.fema.gov
+- apps.usfa.fema.gov
+- nfa.usfa.fema.gov
+- training.fema.gov
+- ipaws.fema.gov
+- apps.fema.gov
+- community.fema.gov
+- responses.fema.gov
+- helpline.fema.gov
+- openfema.gov
+- www.openfema.gov
+- lsc.fema.gov
+
+---
+
+### RISKTRACK (Nigeria)
+
+- risktrack.co
+- www.risktrack.co
+
+---
+
+## 🆕 ADDITIONAL PERSONAL SAFETY PLATFORMS
+
+---
+
+### URSAFE
+
+- ursafe.com
+- www.ursafe.com
+- google-analytics.com
+- googletagmanager.com
+
+---
+
+### BOND (Personal Security)
+
+> ⚠️ **February 2026 NASDAQ listing, AWS infrastructure**
+
+- ourbond.com
+- www.ourbond.com
+- api.embedded.bond.tech
+- embedded.bond.tech
+- docs.bond.tech
+- support.trustedguardian.com
+- app.ourbond.com
+- api.ourbond.com
+
+---
+
+### HOLLIE GUARD
+
+- hollieguard.com
+- www.hollieguard.com
+- hollieguard.co.uk
+- www.hollieguard.co.uk
+- holliegazzard.org
+- www.holliegazzard.org
+
+---
+
+### SAFEZONE (CriticalArc)
+
+- criticalarc.com
+- dev.criticalarc.com
+- support.criticalarc.com
+- criticalarc.net
+- criticalarc.atlassian.net
+- safezoneapp.com
+- www.safezoneapp.com
+
+---
+
+### SAFE365 (Elderly Care)
+
+- safe365.com
+- www.safe365.com
+- safe365global.com
+- help.safe365global.com
+
+---
+
+### CHILLA (India)
+
+- apps.mgov.gov.in
+
+---
+
+### SILENT BEACON
+
+- silentbeacon.com
+- www.silentbeacon.com
+- tracker.silentbeacon.com
+
+---
+
+### SABRE PERSONAL SAFETY
+
+- sabrered.com
+- www.sabrered.com
+
+---
+
+### PARACHUTE (Witness)
+
+- parachute.live
+- www.parachute.live
+- platform.parachute.live
+- platform-api-docs.parachute.live
+- acdn.parachute.live
+
+---
+
+### KINETIC GLOBAL (formerly LifeLine Response)
+
+- kineticglobal.com
+- www.kineticglobal.com
+
+---
+
+### NAMOLA (South Africa)
+
+> ⚠️ **Acquired by Community Wolf (December 2025)**
+
+- namola.com
+- www.namola.com
+- support.namola.com
+- communitywolf.co.za
+- www.communitywolf.co.za
+
+---
+
+### MYPANIC (Matrix - South Africa)
+
+- matrix.co.za
+- www.matrix.co.za
+- matrix.matrix.co.za
+- mobile.matrix.co.za
+- server.matrix.co.za
+- tracking.ib15281.chatbot.matrix.co.za
+- matrix.co.za/mypanic
+- matrix.co.za/matrixmypanic
+
+---
+
+### ICEPLUS (South Africa)
+
+- iceplus.co.za
+- www.iceplus.co.za
+
+---
+
+### GAUTENG E-PANIC BUTTON (South Africa)
+
+- gpgmobileapps.gauteng.gov.za
+- gauteng.gov.za
+- www.gauteng.gov.za
+
+---
+
+### MYLIFELINE (South Africa)
+
+- mylifeline.co.za
+- www.mylifeline.co.za
+- apidocumentation.mylifeline.co.za
+- manual.mylifeline.co.za
+- mylifeline.myshopify.com
+- mylifeline.io
+
+---
+
+### HOME+ / AURA (South Africa)
+
+- aura.services
+- www.aura.services
+
+---
+
+### MY911 (South Africa)
+
+- my911.co.za
+- www.my911.co.za
+
+---
+
+### iFEARLESS (South Africa)
+
+- ifearless.co.za
+- www.ifearless.co.za
+
+---
+
+### MYSOS (South Africa)
+
+- mysos.co.za
+- www.mysos.co.za
+- beacon.mysos.co.za
+- mysos.designswithanna.com
+
+---
+
+### iWITNESS
+
+- iwitness.com
+- www.iwitness.com
+- remerinc.com
+
+---
+
+### I'M SAFE (India)
+
+- imsafe.app
+- www.imsafe.app
+- imsafeapps.weebly.com
+
+---
+
+### HOLLABACK / RIGHT TO BE
+
+- ihollaback.org
+- www.ihollaback.org
+- nyc.ihollaback.org
+- righttobe.org
+- www.righttobe.org
+- heartmob.com
+- www.heartmob.com
+- iheartmob.org
+- www.iheartmob.org
+- hateandhope.righttobe.org
+
+---
+
+### BEAWARE
+
+- beawareapp.com
+- www.beawareapp.com
+
+---
+
+### SOS EMERGENCY (Multiple developers)
+
+- solvaday.com
+- crises-control.com
+
+---
+
+### MY SOS FAMILY
+
+- mysosfamily.com
+- www.mysosfamily.com
+
+---
+
+### ICE (In Case of Emergency)
+
+- medicalreports.app
+- icestandardtech.com
+- aboutthekids.org
+
+---
+
+### MEDICAL ID
+
+- apple.com/health
+
+---
+
+### WATCH OVER YOU (India)
+
+- watchoveryou.in
+- www.watchoveryou.in
+
+---
+
+### PERSAFE
+
+- persafe.eu
+- www.persafe.eu
+
+---
+
+### FLIC (Hardware + App)
+
+- flic.io
+- www.flic.io
+- my.flic.io
+- hubsdk.flic.io
+- community.flic.io
+- store.flic.io
+- developers.flic.io
+- shortcutlabs.com
+- www.shortcutlabs.com
+
+---
+
+### GEOPRO
+
+- geoprosolutions.com
+- www.geoprosolutions.com
