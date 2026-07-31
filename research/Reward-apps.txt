@@ -1,0 +1,1624 @@
+REWARD & INCENTIVE PLATFORMS RESEARCH LIST
+
+
+## 1️⃣ SWAGBUCKS (Prodege, LLC)
+
+### Core Domains
+- swagbucks.com
+- www.swagbucks.com
+- api.swagbucks.com
+- member.swagbucks.com
+- account.swagbucks.com
+
+### Authentication
+- auth.swagbucks.com
+- login.swagbucks.com
+
+### Tracking & Analytics
+- metrics.swagbucks.com
+- tracking.swagbucks.com
+- analytics.swagbucks.com
+- events.swagbucks.com
+- collect.swagbucks.com
+
+### Survey Partners
+- surveys.swagbucks.com
+- survey-router.swagbucks.com
+- partner-surveys.swagbucks.com
+
+### Shopping & Cashback
+- shop.swagbucks.com
+- deals.swagbucks.com
+- coupons.swagbucks.com
+- cashback.swagbucks.com
+
+### Mobile SDK
+- mobile.swagbucks.com
+- sdk.swagbucks.com
+- app-api.swagbucks.com
+
+### Video Ads
+- video.swagbucks.com
+- watch.swagbucks.com
+- ads.swagbucks.com
+
+### Search
+- search.swagbucks.com
+- toolbar.swagbucks.com
+
+### Referral System
+- refer.swagbucks.com
+- invite.swagbucks.com
+
+### CDN & Assets
+- cdn.swagbucks.com
+- static.swagbucks.com
+- assets.swagbucks.com
+- images.swagbucks.com
+
+### Support & Help
+- status.swagbucks.com
+- support.swagbucks.com
+- help.swagbucks.com
+- blog.swagbucks.com
+
+### Rewards
+- rewards.swagbucks.com
+- points.swagbucks.com
+- redeem.swagbucks.com
+
+### Prodege (Parent Company)
+- prodege.com
+- prodigymedia.com
+- mypoints.com
+- inboxdollars.com
+- upromise.com 
+- tada.com 
+- shopathome.com 
+- ysense.com 
+- pollfish.com 
+- adgatemedia.com 
+- bitburst.net
+- couponcause.com
+- mygiftcardsplus.com
+- prodegesupport.zendesk.com 
+
+### Regional Variants
+- swagbucks.ca
+- swagbucks.co.uk
+- swagbucks.ie
+- swagbucks.com.au
+- swagbucks.de
+- swagbucks.fr
+- swagbucks.es
+- swagbucks.in
+
+---
+
+## 2️⃣ INBOXDOLLARS (Prodege, LLC)
+
+### Core Domains
+- inboxdollars.com
+- www.inboxdollars.com
+- member.inboxdollars.com
+- api.inboxdollars.com
+- account.inboxdollars.com
+
+### Authentication
+- auth.inboxdollars.com
+- login.inboxdollars.com
+
+### Tracking & Analytics
+- tracking.inboxdollars.com
+- analytics.inboxdollars.com
+- metrics.inboxdollars.com
+- events.inboxdollars.com
+
+### Email Ads
+- mail.inboxdollars.com
+- email.inboxdollars.com
+- newsletters.inboxdollars.com
+- paidmail.inboxdollars.com
+
+### Surveys
+- surveys.inboxdollars.com
+- survey-router.inboxdollars.com
+
+### Shopping
+- shop.inboxdollars.com
+- cashback.inboxdollars.com
+- deals.inboxdollars.com
+- coupons.inboxdollars.com
+
+### Games & Videos
+- games.inboxdollars.com
+- videos.inboxdollars.com
+- watch.inboxdollars.com
+
+### Mobile
+- mobile.inboxdollars.com
+- app-api.inboxdollars.com
+
+### CDN
+- cdn.inboxdollars.com
+- static.inboxdollars.com
+- assets.inboxdollars.com
+
+### Support & Help
+- status.inboxdollars.com
+- support.inboxdollars.com
+- help.inboxdollars.com
+
+### Rewards & Offers
+- rewards.inboxdollars.com
+- offers.inboxdollars.com
+- search.inboxdollars.com
+
+### Mobile SDK
+- sdk.inboxdollars.com
+
+### Related
+- inboxpounds.co.uk
+- dailyrewards.com
+
+---
+
+## 3️⃣ SURVEY JUNKIE (DISQO)
+
+### Core Domains
+- surveyjunkie.com
+- www.surveyjunkie.com
+- app.surveyjunkie.com
+- api.surveyjunkie.com
+- member.surveyjunkie.com
+
+### Authentication
+- auth.surveyjunkie.com
+- login.surveyjunkie.com
+- accounts.surveyjunkie.com
+
+### Survey Platform
+- surveys.surveyjunkie.com
+- router.surveyjunkie.com
+- survey-api.surveyjunkie.com
+- survey-cdn.surveyjunkie.com
+
+### Tracking & Analytics
+- tracking.surveyjunkie.com
+- analytics.surveyjunkie.com
+- metrics.surveyjunkie.com
+- events.surveyjunkie.com
+- collect.surveyjunkie.com
+
+### DISQO Platform Integration
+- disqo.com
+- app.disqo.com
+- api.disqo.com
+- data.disqo.com
+- insights.disqo.com
+- platform.disqo.com
+- research.disqo.com
+- measure.disqo.com
+- developer.disqo.com
+
+### Pulse Extension (Browser Tracking)
+- pulse.surveyjunkie.com
+- extension.surveyjunkie.com
+- browser-extension.surveyjunkie.com
+- surf.surveyjunkie.com
+- surftoearn.surveyjunkie.com
+
+### Mobile SDK
+- mobile.surveyjunkie.com
+- sdk.surveyjunkie.com
+- app-events.surveyjunkie.com
+
+### CDN
+- cdn.surveyjunkie.com
+- static.surveyjunkie.com
+- assets.surveyjunkie.com
+
+### Support & Help
+- status.surveyjunkie.com
+- support.surveyjunkie.com
+- help.surveyjunkie.com
+
+### Rewards & Profile
+- rewards.surveyjunkie.com
+- points.surveyjunkie.com
+- redeem.surveyjunkie.com
+- profile.surveyjunkie.com
+- dashboard.surveyjunkie.com
+
+### Community
+- community.surveyjunkie.com
+- feed.surveyjunkie.com
+
+---
+
+## 4️⃣ TOLUNA
+
+### Core Domains
+- toluna.com
+- www.toluna.com
+- us.toluna.com
+- uk.toluna.com
+- fr.toluna.com
+- de.toluna.com
+
+### Authentication & Account
+- auth.toluna.com
+- login.toluna.com
+- account.toluna.com
+- my.toluna.com
+
+### Survey Platform
+- surveys.toluna.com
+- survey-api.toluna.com
+- router.toluna.com
+- mobile-surveys.toluna.com
+
+### Tracking & Analytics
+- tracking.toluna.com
+- analytics.toluna.com
+- metrics.toluna.com
+- data.toluna.com
+
+### Influencer Platform
+- influencers.toluna.com
+- community.toluna.com
+
+### API & SDK
+- api.toluna.com
+- sdk.toluna.com
+- mobile-sdk.toluna.com
+
+### Content Delivery
+- cdn.toluna.com
+- static.toluna.com
+- assets.toluna.com
+- media.toluna.com
+
+### Email & Communication
+- email.toluna.com
+- notifications.toluna.com
+
+### Support & Help
+- status.toluna.com
+- support.toluna.com
+- help.toluna.com
+- tolunahelpdesk.zendesk.com 
+
+### Rewards & Profile
+- rewards.toluna.com
+- points.toluna.com
+- profile.toluna.com
+
+### QuickCommunities
+- quickcommunities.toluna.com
+- qc.toluna.com
+
+### Toluna Start Platform
+- tolunastart.com
+- www.tolunastart.com
+- app.tolunastart.com
+
+### Toluna Corporate
+- tolunacorporate.com 
+
+- harrisinteractive.com
+- harrispollonline.com
+- metrixlab.com 
+- gutcheckit.com 
+- kurundata.com 
+- quicksurveys.com
+
+### Regional Portals
+- toluna.ca
+- toluna.com.au
+- toluna.co.in
+- toluna.com.br
+- toluna.co.jp
+- toluna.es
+- toluna.it
+- toluna.mx
+
+---
+
+## 5️⃣ PRIZEREBEL
+
+### Core Domains
+- prizerebel.com
+- www.prizerebel.com
+- member.prizerebel.com
+- api.prizerebel.com
+
+### Authentication & Account
+- auth.prizerebel.com
+- login.prizerebel.com
+- account.prizerebel.com
+
+### Surveys & Offers
+- surveys.prizerebel.com
+- offers.prizerebel.com
+- router.prizerebel.com
+- tasks.prizerebel.com
+
+### Tracking
+- tracking.prizerebel.com
+- analytics.prizerebel.com
+- metrics.prizerebel.com
+
+### Videos
+- videos.prizerebel.com
+- watch.prizerebel.com
+- hideout.prizerebel.com
+- video-api.prizerebel.com
+
+### Mobile
+- mobile.prizerebel.com
+- app.prizerebel.com
+
+### CDN
+- cdn.prizerebel.com
+- static.prizerebel.com
+
+### Support & Help
+- status.prizerebel.com
+- support.prizerebel.com
+- help.prizerebel.com
+- prizerebel.freshdesk.com
+
+### Rewards
+- rewards.prizerebel.com
+- points.prizerebel.com
+- redeem.prizerebel.com
+
+### Loyalty & Referral
+- levels.prizerebel.com
+- loyalty.prizerebel.com
+- referral.prizerebel.com
+
+### Survey Network Partners
+- samplicious.prizerebel.com
+- cint.prizerebel.com
+- tapresearch.prizerebel.com
+- precisionsample.prizerebel.com
+
+---
+
+## 6️⃣ RAKUTEN (Rakuten Marketing)
+
+### Core Domains
+- rakuten.com
+- www.rakuten.com
+- go.rakuten.com
+- click.rakuten.com
+
+### Authentication & Account
+- auth.rakuten.com
+- login.rakuten.com
+- account.rakuten.com
+
+### Ebates (Legacy Brand)
+- ebates.com
+- www.ebates.com
+- go.ebates.com
+- click.ebates.com
+
+### Tracking & Attribution
+- tracking.rakuten.com
+- affiliate.rakuten.com
+- analytics.rakuten.com
+- metrics.rakuten.com
+- atrkr.rakuten.com
+
+### Browser Extension
+- extension.rakuten.com
+- browser.rakuten.com
+- button.rakuten.com
+
+### Shopping Links
+- goto.rakuten.com
+- link.rakuten.com
+- deals.rakuten.com
+- coupons.rakuten.com
+
+### Mobile Apps
+- mobile.rakuten.com
+- app.rakuten.com
+- api.rakuten.com
+- app-api.rakuten.com
+
+### LinkShare (Rakuten Advertising)
+- linksynergy.com
+- linkstech.com
+- click.linksynergy.com
+- goto.linksynergy.com
+- redirect.linksynergy.com
+- ad.linksynergy.com
+- m.merchant.linksynergy.com
+
+### Marketing Platform
+- rakutenadvertising.com
+- rakutenmarketing.com
+- mediaforge.com
+- developers.rakutenadvertising.com
+- pubhelp.rakutenadvertising.com
+- developers.rakutenmarketing.com 
+
+### Cookie Syncing
+- sync.rakuten.com
+- match.rakuten.com
+- cm.rakuten.com
+
+### CDN & Assets
+- cdn.rakuten.com
+- static.rakuten.com
+- assets.rakuten.com
+
+### Support & Help
+- status.rakuten.com
+- support.rakuten.com
+- help.rakuten.com
+
+### Dashboard & Member
+- member.rakuten.com
+- dashboard.rakuten.com
+
+### Shopping Features
+- rewards.rakuten.com
+- cashback.rakuten.com
+- offers.rakuten.com
+- shop.rakuten.com
+
+### Events & Enterprise
+- events.rakutenadvertising.com
+- events-api.rakuten.com
+- enterprise.rakuten.com
+- mop.rakuten.com
+
+### Content Optimization
+- rcos.rakuten.com
+- content.rakuten.com
+
+### Additional Services
+- slice.com
+- viki.com
+- popshops.com
+- overdrive.com
+
+### Regional Sites
+- rakuten.ca
+- rakuten.co.uk
+- rakuten.co.jp
+- rakuten.de
+- rakuten.fr
+
+---
+
+## 7️⃣ IBOTTA
+
+### Core Domains
+- ibotta.com
+- www.ibotta.com
+- app.ibotta.com
+- api.ibotta.com
+
+### Authentication
+- auth.ibotta.com
+- login.ibotta.com
+- accounts.ibotta.com
+
+### Receipt Scanning
+- receipt.ibotta.com
+- upload.ibotta.com
+- ocr.ibotta.com
+- verification.ibotta.com
+
+### Tracking & Analytics
+- tracking.ibotta.com
+- analytics.ibotta.com
+- metrics.ibotta.com
+- events.ibotta.com
+
+### Shopping & Cashback
+- shop.ibotta.com
+- cashback.ibotta.com
+- offers.ibotta.com
+- deals.ibotta.com
+
+### Mobile SDK
+- mobile.ibotta.com
+- sdk.ibotta.com
+- mobile-api.ibotta.com
+
+### Location Services
+- location.ibotta.com
+- geo.ibotta.com
+- stores.ibotta.com
+
+### Partner Integration
+- partners.ibotta.com
+- retailer-api.ibotta.com
+- ipn.ibotta.com 
+
+### CDN
+- cdn.ibotta.com
+- static.ibotta.com
+- assets.ibotta.com
+- images.ibotta.com
+
+### Support & Help
+- status.ibotta.com
+- support.ibotta.com
+- help.ibotta.com
+- care.ibotta.com
+
+### Member & Dashboard
+- member.ibotta.com
+- dashboard.ibotta.com
+
+### Rewards
+- rewards.ibotta.com
+- redeem.ibotta.com
+
+---
+
+## 8️⃣ FETCH REWARDS
+
+### Core Domains
+- fetch.com
+- www.fetch.com
+- app.fetch.com
+- api.fetch.com
+- fetchrewards.com 
+
+### Authentication & Account
+- auth.fetch.com
+- login.fetch.com
+- account.fetch.com
+- member.fetch.com
+
+### Receipt Processing
+- receipt.fetch.com
+- upload.fetch.com
+- scan.fetch.com
+- ocr.fetch.com
+
+### Tracking & Analytics
+- tracking.fetch.com
+- analytics.fetch.com
+- metrics.fetch.com
+- events.fetch.com
+- data.fetch.com
+
+### Rewards & Offers
+- rewards.fetch.com
+- offers.fetch.com
+- deals.fetch.com
+- brands.fetch.com
+
+### Mobile SDK
+- mobile.fetch.com
+- sdk.fetch.com
+- mobile-api.fetch.com
+- app-events.fetch.com
+
+### Location
+- location.fetch.com
+- geo.fetch.com
+
+### CDN
+- cdn.fetch.com
+- static.fetch.com
+- assets.fetch.com
+- images.fetch.com
+
+### Partner APIs
+- partners.fetch.com
+- brand-api.fetch.com
+- retailer-api.fetch.com
+
+### Support & Help
+- status.fetch.com
+- support.fetch.com
+- help.fetch.com
+
+### Shopping & Extension
+- shop.fetch.com
+- extension.fetch.com
+
+### Gaming & Social
+- play.fetch.com
+- clubs.fetch.com
+- social.fetch.com
+
+### Partnerships
+- goodrx.fetch.com
+- merch.fetch.com
+
+---
+
+## 9️⃣ DOSH
+
+### Core Domains
+- dosh.com
+- www.dosh.com
+- app.dosh.com
+- api.dosh.com
+
+### Authentication & Account
+- auth.dosh.com
+- login.dosh.com
+- account.dosh.com
+- member.dosh.com
+
+### Banking Integration
+- banking.dosh.com
+- plaid.dosh.com
+- transactions.dosh.com
+- accounts.dosh.com
+
+### Tracking
+- tracking.dosh.com
+- analytics.dosh.com
+- metrics.dosh.com
+- events.dosh.com
+
+### Offers & Merchants
+- offers.dosh.com
+- merchants.dosh.com
+- deals.dosh.com
+
+### Mobile
+- mobile.dosh.com
+- sdk.dosh.com
+- mobile-api.dosh.com
+
+### Cardlytics Integration (Parent)
+- cardlytics.com
+- api.cardlytics.com
+- data.cardlytics.com
+- bank.cardlytics.com
+- docs.cardlytics.com
+- platform.cardlytics.com 
+- bridg.com
+
+### CDN
+- cdn.dosh.com
+- static.dosh.com
+- assets.dosh.com
+
+### Support & Help
+- status.dosh.com
+- support.dosh.com
+- help.dosh.com
+
+### Rewards
+- rewards.dosh.com
+
+---
+
+## 🔟 SHOPKICK
+
+### Core Domains
+- shopkick.com
+- www.shopkick.com
+- app.shopkick.com
+- api.shopkick.com
+
+### Authentication & Account
+- auth.shopkick.com
+- login.shopkick.com
+- account.shopkick.com
+- member.shopkick.com
+
+### Location Tracking
+- location.shopkick.com
+- geo.shopkick.com
+- beacon.shopkick.com
+- stores.shopkick.com
+- checkin.shopkick.com
+
+### Scanning & Products
+- scan.shopkick.com
+- products.shopkick.com
+- barcode.shopkick.com
+
+### Tracking & Analytics
+- tracking.shopkick.com
+- analytics.shopkick.com
+- metrics.shopkick.com
+- events.shopkick.com
+
+### Mobile SDK
+- mobile.shopkick.com
+- sdk.shopkick.com
+- mobile-api.shopkick.com
+
+### Offers & Rewards
+- offers.shopkick.com
+- deals.shopkick.com
+- rewards.shopkick.com
+
+### CDN
+- cdn.shopkick.com
+- static.shopkick.com
+- assets.shopkick.com
+
+### Support & Help
+- status.shopkick.com
+- support.shopkick.com
+- help.shopkick.com
+
+### Trax Integration (Parent)
+- traxretail.com
+- trax.ai 
+
+### Partners
+- business.shopkick.com
+- partners.shopkick.com
+- blog.shopkick.com
+
+---
+
+## 1️⃣1️⃣ CHECKOUT 51
+
+### Core Domains
+- checkout51.com
+- www.checkout51.com
+- app.checkout51.com
+- api.checkout51.com
+
+### Authentication & Account
+- auth.checkout51.com
+- login.checkout51.com
+- account.checkout51.com
+
+### Receipt Processing
+- receipt.checkout51.com
+- upload.checkout51.com
+- scan.checkout51.com
+- verification.checkout51.com
+
+### Tracking
+- tracking.checkout51.com
+- analytics.checkout51.com
+- metrics.checkout51.com
+
+### Offers
+- offers.checkout51.com
+- deals.checkout51.com
+- cashback.checkout51.com
+
+### Mobile
+- mobile.checkout51.com
+- mobile-api.checkout51.com
+
+### CDN
+- cdn.checkout51.com
+- static.checkout51.com
+
+### Support & Help
+- status.checkout51.com
+- support.checkout51.com
+- help.checkout51.com
+
+### Rewards
+- rewards.checkout51.com
+
+### Gas Offers
+- gas.checkout51.com
+- fuel.checkout51.com
+
+### Regional
+- checkout51.ca
+- checkout51.us
+
+---
+
+## 1️⃣2️⃣ COINOUT
+
+### Core Domains
+- coinout.com
+- www.coinout.com
+- app.coinout.com
+- api.coinout.com
+
+### Authentication & Account
+- auth.coinout.com
+- login.coinout.com
+- account.coinout.com
+
+### Receipt Upload
+- receipt.coinout.com
+- upload.coinout.com
+- scan.coinout.com
+- ocr.coinout.com
+
+### Tracking
+- tracking.coinout.com
+- analytics.coinout.com
+- metrics.coinout.com
+
+### Cryptocurrency
+- crypto.coinout.com
+- bitcoin.coinout.com
+- wallet.coinout.com
+
+### Mobile
+- mobile.coinout.com
+- mobile-api.coinout.com
+
+### CDN
+- cdn.coinout.com
+- static.coinout.com
+
+### Support & Help
+- status.coinout.com
+- support.coinout.com
+- help.coinout.com
+
+### Rewards & Offers
+- rewards.coinout.com
+- offers.coinout.com
+
+### Gaming & Missions
+- play.coinout.com
+- games.coinout.com
+- missions.coinout.com
+
+### Levels
+- levels.coinout.com
+- badges.coinout.com
+
+### IRI Worldwide (Parent)
+- iriworldwide.com 
+
+---
+
+## 1️⃣3️⃣ MISTPLAY
+
+### Core Domains
+- mistplay.com
+- www.mistplay.com
+- app.mistplay.com
+- api.mistplay.com
+
+### Authentication & Account
+- auth.mistplay.com
+- login.mistplay.com
+- account.mistplay.com
+- member.mistplay.com
+
+### Gaming Tracking
+- tracking.mistplay.com
+- analytics.mistplay.com
+- metrics.mistplay.com
+- events.mistplay.com
+- gameplay.mistplay.com
+
+### Game Integration
+- games.mistplay.com
+- sdk.mistplay.com
+- integration.mistplay.com
+
+### Mobile SDK
+- mobile.mistplay.com
+- mobile-sdk.mistplay.com
+- sdk-api.mistplay.com
+- device.mistplay.com
+
+### User Profiling
+- profile.mistplay.com
+- user-data.mistplay.com
+- behavior.mistplay.com
+
+### Rewards
+- rewards.mistplay.com
+- points.mistplay.com
+- redeem.mistplay.com
+
+### CDN
+- cdn.mistplay.com
+- static.mistplay.com
+- assets.mistplay.com
+
+### Attribution
+- attribution.mistplay.com
+- install.mistplay.com
+
+### Support & Help
+- status.mistplay.com
+- support.mistplay.com
+- help.mistplay.com
+- mistplay-iphone.zendesk.com
+
+### Business & Loyalty
+- business.mistplay.com
+- loyalty.mistplay.com
+- loyaltyplay.com
+
+### Shop & Contests
+- shop.mistplay.com
+- sweepstakes.mistplay.com
+- contests.mistplay.com
+
+---
+
+## 1️⃣4️⃣ APPSTATION
+
+### Core Domains
+- appstation.com
+- www.appstation.com
+- app.appstation.com
+- api.appstation.com
+
+### Authentication & Account
+- auth.appstation.com
+- login.appstation.com
+- account.appstation.com
+
+### Gaming SDK
+- sdk.appstation.com
+- games.appstation.com
+- tracking.appstation.com
+
+### Analytics
+- analytics.appstation.com
+- metrics.appstation.com
+- events.appstation.com
+
+### Mobile
+- mobile.appstation.com
+- mobile-api.appstation.com
+
+### Rewards
+- rewards.appstation.com
+- coins.appstation.com
+
+### CDN
+- cdn.appstation.com
+- static.appstation.com
+
+### Support & Help
+- status.appstation.com
+- support.appstation.com
+- help.appstation.com
+- appstationapp.zendesk.com
+
+### AppLike Group (Parent)
+- applike.com
+- applike.io
+- applike-group.com 
+
+---
+
+## 1️⃣5️⃣ CASH ALARM
+
+### Core Domains
+- cashalarm.com
+- www.cashalarm.com
+- app.cashalarm.com
+
+### Video Platform
+- video.cashalarm.com
+- ads.cashalarm.com
+- watch.cashalarm.com
+
+### Tracking
+- tracking.cashalarm.com
+- analytics.cashalarm.com
+
+### API & Mobile
+- api.cashalarm.com
+- mobile.cashalarm.com
+
+### Authentication & Account
+- auth.cashalarm.com
+- login.cashalarm.com
+- account.cashalarm.com
+
+### CDN & Rewards
+- cdn.cashalarm.com
+- rewards.cashalarm.com
+
+### Support
+- status.cashalarm.com
+- support.cashalarm.com
+
+---
+
+## 1️⃣6️⃣ VIGGLE / PERK — Closed (2019)
+
+### Legacy Viggle Domains (Inactive)
+- viggle.com
+- api.viggle.com
+- myviggle.com
+
+### Perk Domains (Viggle'ı devraldı)
+- perk.com
+- perk.tv
+- perktv.com
+- api.perk.com
+- tracking.perk.com
+
+### Mobile & Additional
+- mobile.perk.com
+- rewards.perk.com
+- watch.perk.com
+- ads.perk.com
+- cdn.perk.com
+
+---
+
+## 1️⃣7️⃣ MILES (GetMiles)
+
+### Core Domains
+- getmiles.com
+- www.getmiles.com
+- api.getmiles.com
+- app.getmiles.com 
+
+### Authentication & Account
+- auth.getmiles.com
+- login.getmiles.com
+- account.getmiles.com
+- member.getmiles.com
+
+### Location Services
+- location.getmiles.com
+- gps.getmiles.com
+- tracking.getmiles.com
+- geo.getmiles.com
+
+### Trip Analytics
+- trips.getmiles.com
+- analytics.getmiles.com
+- routes.getmiles.com
+
+### Rewards
+- rewards.getmiles.com
+- offers.getmiles.com
+- deals.getmiles.com
+
+### Mobile
+- mobile.getmiles.com
+- mobile-api.getmiles.com
+- sdk.getmiles.com
+
+### CDN
+- cdn.getmiles.com
+- static.getmiles.com
+
+### Support & Help
+- status.getmiles.com
+- support.getmiles.com
+- help.getmiles.com
+
+### Data & Blog
+- data.getmiles.com
+- blog.getmiles.com
+
+### Company
+- connectiq.com
+
+---
+
+## 1️⃣8️⃣ UPSIDE (GetUpside)
+
+### Core Domains
+- upside.com
+- www.upside.com
+- app.upside.com
+- api.upside.com
+
+### Legacy (GetUpside)
+- getupside.com
+- www.getupside.com
+
+### Authentication & Account
+- auth.upside.com
+- login.upside.com
+- account.upside.com
+- member.upside.com
+
+### Location & Check-In
+- location.upside.com
+- geo.upside.com
+- checkin.upside.com
+- stores.upside.com
+
+### Receipts
+- receipt.upside.com
+- upload.upside.com
+- scan.upside.com
+- verification.upside.com
+
+### Tracking
+- tracking.upside.com
+- analytics.upside.com
+- metrics.upside.com
+- events.upside.com
+
+### Offers
+- offers.upside.com
+- deals.upside.com
+- cashback.upside.com
+
+### Mobile
+- mobile.upside.com
+- mobile-api.upside.com
+- sdk.upside.com
+
+### Payment Integration
+- payment.upside.com
+- card.upside.com
+- transactions.upside.com
+
+### CDN
+- cdn.upside.com
+- static.upside.com
+- assets.upside.com
+
+### Support & Help
+- status.upside.com
+- support.upside.com
+- help.upside.com
+
+### Rewards & Business
+- rewards.upside.com
+- business.upside.com 
+
+---
+
+## 1️⃣9️⃣ SLIDEJOY — Closed (2020)
+
+### Core Domains (Inactive)
+- slidejoy.com
+- www.slidejoy.com
+- app.slidejoy.com
+- api.slidejoy.com
+
+### Lockscreen Service (Inactive)
+- lockscreen.slidejoy.com
+- ads.slidejoy.com
+- content.slidejoy.com
+
+### Tracking (Inactive)
+- tracking.slidejoy.com
+- analytics.slidejoy.com
+- metrics.slidejoy.com
+- events.slidejoy.com
+
+### Device Monitoring (Inactive)
+- device.slidejoy.com
+- usage.slidejoy.com
+- screen.slidejoy.com
+
+### Mobile (Inactive)
+- mobile.slidejoy.com
+- mobile-api.slidejoy.com
+- sdk.slidejoy.com
+
+### CDN (Inactive)
+- cdn.slidejoy.com
+- static.slidejoy.com
+
+### Account & Support (Inactive)
+- auth.slidejoy.com
+- login.slidejoy.com
+- account.slidejoy.com
+- status.slidejoy.com
+- support.slidejoy.com
+- help.slidejoy.com
+- rewards.slidejoy.com
+
+---
+
+## 2️⃣0️⃣ FRONTO — Closed (2020)
+
+### Legacy Domains (Inactive)
+- fronto.co
+- www.fronto.co
+- getfronto.com
+
+---
+
+## 2️⃣1️⃣ MONEY SMS
+
+### Core Domains
+- moneysms.co
+- www.moneysms.co
+- moneysmsapp.com 
+
+### Mobile & Apps
+- app.moneysms.co
+- mobile.moneysms.co
+
+### Tracking
+- tracking.moneysms.co
+- analytics.moneysms.co
+
+### Authentication & Account
+- auth.moneysms.co
+- account.moneysms.co
+
+### Support
+- status.moneysms.co
+- support.moneysms.co
+
+### API
+- api.moneysms.co
+
+---
+
+## 2️⃣2️⃣ CURRENT REWARDS (Mode Earn App)
+
+### Core Domains
+- current.us
+- www.current.us
+- app.current.us
+- api.current.us
+
+### Authentication & Account
+- auth.current.us
+- login.current.us
+- account.current.us
+- member.current.us
+
+### Content Platform
+- music.current.us
+- games.current.us
+- videos.current.us
+- news.current.us
+
+### Tracking
+- tracking.current.us
+- analytics.current.us
+- metrics.current.us
+- events.current.us
+
+### Mobile
+- mobile.current.us
+- mobile-api.current.us
+- sdk.current.us
+
+### Rewards
+- rewards.current.us
+- points.current.us
+
+### Support & Help
+- status.current.us
+- support.current.us
+- help.current.us
+
+### CDN
+- cdn.current.us
+- static.current.us
+
+### Mode Mobile (Parent)
+- modemobile.com
+- mode.app
+
+### CRNC Token
+- crnctoken.org
+
+---
+
+## 2️⃣3️⃣ SMORE
+
+### Core Domains
+- smore.com
+- www.smore.com
+- app.smore.com
+- api.smore.com
+- smoreapp.co 
+
+### Authentication & Account
+- auth.smore.com
+- login.smore.com
+- account.smore.com
+- member.smore.com
+
+### Lockscreen
+- lockscreen.smore.com
+- content.smore.com
+- ads.smore.com
+
+### Surveys
+- surveys.smore.com
+- questions.smore.com
+
+### Tracking
+- tracking.smore.com
+- analytics.smore.com
+- metrics.smore.com
+- device.smore.com
+
+### Mobile
+- mobile.smore.com
+- mobile-api.smore.com
+
+### Support & Help
+- status.smore.com
+- support.smore.com
+- help.smore.com
+
+### Rewards & CDN
+- rewards.smore.com
+- cdn.smore.com
+
+---
+
+## 2️⃣4️⃣ SWEATCOIN
+
+### Core Domains
+- sweatco.in
+- www.sweatco.in
+- app.sweatco.in
+- api.sweatco.in
+
+### Authentication & Account
+- auth.sweatco.in
+- login.sweatco.in
+- account.sweatco.in
+- member.sweatco.in
+
+### Tracking (GPS)
+- tracking.sweatco.in
+- location.sweatco.in
+- gps.sweatco.in
+- steps.sweatco.in
+
+### Analytics
+- analytics.sweatco.in
+- metrics.sweatco.in
+- events.sweatco.in
+- health.sweatco.in
+
+### Marketplace
+- shop.sweatco.in
+- offers.sweatco.in
+- rewards.sweatco.in
+
+### Mobile SDK
+- mobile.sweatco.in
+- mobile-api.sweatco.in
+- sdk.sweatco.in
+
+### Sweat Economy (Crypto)
+- sweat-economy.com
+- sweateconomy.com
+- token.sweatco.in
+- sweatwallet.app 
+
+### CDN
+- cdn.sweatco.in
+- static.sweatco.in
+
+### Support & Help
+- status.sweatco.in
+- support.sweatco.in
+- help.sweatco.in
+
+### Data
+- data.sweatco.in
+
+---
+
+## 2️⃣5️⃣ ACHIEVEMENT → EVIDATION
+
+### Core Domains
+- myachievement.com
+- achievement.com
+- evidation.com
+- www.evidation.com
+- app.evidation.com
+
+### Authentication & Account
+- auth.evidation.com
+- login.evidation.com
+- account.evidation.com
+- member.evidation.com
+
+### Health Data Collection
+- api.evidation.com
+- api.us.evidation.com
+- data.evidation.com
+- health.evidation.com
+- sync.evidation.com
+
+### Integrations
+- integrations.evidation.com
+- connect.evidation.com
+- apps.evidation.com
+
+### Research Platform
+- research.evidation.com
+- studies.evidation.com
+- surveys.evidation.com
+
+### Analytics
+- analytics.evidation.com
+- metrics.evidation.com
+- tracking.evidation.com
+
+### Mobile
+- mobile.evidation.com
+- mobile-api.evidation.com
+
+### Support & Help
+- status.evidation.com
+- support.evidation.com
+- help.evidation.com
+
+### CDN & Rewards
+- cdn.evidation.com
+- static.evidation.com
+- rewards.evidation.com
+
+### 1upHealth Partnership
+- 1up.health
+
+---
+
+## 2️⃣6️⃣ RECEIPTPAL
+
+### Core Domains
+- receiptpal.com
+- www.receiptpal.com
+- app.receiptpal.com
+- api.receiptpal.com
+
+### Authentication & Account
+- auth.receiptpal.com
+- login.receiptpal.com
+- account.receiptpal.com
+- member.receiptpal.com
+
+### Receipt Processing
+- receipt.receiptpal.com
+- upload.receiptpal.com
+- scan.receiptpal.com
+- ocr.receiptpal.com
+- verification.receiptpal.com
+
+### Tracking
+- tracking.receiptpal.com
+- analytics.receiptpal.com
+- metrics.receiptpal.com
+
+### Rewards
+- rewards.receiptpal.com
+- points.receiptpal.com
+- redeem.receiptpal.com
+
+### Mobile
+- mobile.receiptpal.com
+- mobile-api.receiptpal.com
+
+### CDN
+- cdn.receiptpal.com
+- static.receiptpal.com
+
+### Support & Help
+- status.receiptpal.com
+- support.receiptpal.com
+- help.receiptpal.com
+
+### Offers
+- offers.receiptpal.com
+
+---
+
+## 2️⃣7️⃣ RECEIPTHOG
+
+### Core Domains
+- receipthog.com
+- www.receipthog.com
+- app.receipthog.com
+- api.receipthog.com
+
+### Authentication & Account
+- auth.receipthog.com
+- login.receipthog.com
+- account.receipthog.com
+- member.receipthog.com
+
+### Receipt Upload
+- receipt.receipthog.com
+- upload.receipthog.com
+- scan.receipthog.com
+
+### Surveys
+- surveys.receipthog.com
+- shopping.receipthog.com
+
+### Tracking
+- tracking.receipthog.com
+- analytics.receipthog.com
+
+### Mobile
+- mobile.receipthog.com
+- mobile-api.receipthog.com
+
+### Support & Help
+- status.receipthog.com
+- support.receipthog.com
+- help.receipthog.com
+- receipthog.zendesk.com 
+
+### Rewards & CDN
+- rewards.receipthog.com
+- cdn.receipthog.com
+- static.receipthog.com
+
+### Blog
+- blog.receipthog.com
+
+### Numerator (Parent)
+- numerator.com
+- markettrack.com
+
+---
+
+## 🌐 SURVEY
+
+### Cint Exchange ( Lucid / Fulcrum)
+- samplicio.us 
+- www.samplicio.us 
+- api.samplicio.us 
+tracker.samplicio.us
+- cint.com 
+access.cint.com
+careers.cint.com
+cintgroup.cint.com
+collector-beta.cint.com
+collector.cint.com
+connect.cint.com
+curiosity.cint.com
+customerbilling.cint.com
+de.cint.com
+dev.careers.cint.com
+developer.cint.com
+engagesupport.cint.com
+es.cint.com
+feature-service-api-test.cint.com
+feature-service-api.cint.com
+fr.cint.com
+help.cint.com
+info.cint.com
+integrations.cint.com
+investors.cint.com
+jp.cint.com
+legal.cint.com
+login.cint.com
+maintenance.cint.com
+panelist.cint.com
+panelistcommunications.cint.com
+pardot.cint.com
+privacy.cint.com
+start.cint.com
+status.cint.com
+support.cint.com
+theorem.cint.com
+track.cint.com
+trust.cint.com
+useraccounts.cint.com
+www.careers.cint.com
+ys.cint.com
+- www.cint.com 
+- lucidhq.com 
+
+### TapResearch 
+- tapresearch.com 
+- www.tapresearch.com 
+- docs.tapresearch.com 
+- help.tapresearch.com 
+
+### Dynata ( Research Now + SSI)
+- dynata.com 
+- www.dynata.com 
+- survey.dynata.com 
