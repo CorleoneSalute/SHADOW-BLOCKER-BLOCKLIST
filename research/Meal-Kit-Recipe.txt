@@ -1,0 +1,1159 @@
+MEAL KIT & RECIPE APP RESEARCH LIST
+
+🎯  CORE SERVICES
+
+**🔴 HelloFresh (HelloFresh Group)**
+
+*# Core domains*
+
+- hellofresh.com
+
+- www.hellofresh.com
+
+- gql.hellofresh.com
+
+- graphql.hellofresh.com
+
+- auth.hellofresh.com
+
+- checkout.hellofresh.com
+
+- payment.hellofresh.com
+
+- shop.hellofresh.com
+
+*# TLD*
+
+- hellofresh.co.uk
+
+- www.hellofresh.co.uk
+
+- support.hellofresh.co.uk
+
+- hellofresh.com.au
+
+- www.hellofresh.com.au
+
+- hellofresh.de
+
+- www.hellofresh.de
+
+- hellofresh.fr
+
+- www.hellofresh.fr
+
+- hellofresh.be
+
+- www.hellofresh.be
+
+- hellofresh.nl
+
+- www.hellofresh.nl
+
+- hellofresh.at
+
+- www.hellofresh.at
+
+- hellofresh.ca
+
+- www.hellofresh.ca
+
+- hellofresh.co.nz
+
+- www.hellofresh.co.nz
+
+- hellofresh.ch
+
+- www.hellofresh.ch
+
+*#Subdomains*
+
+- blog.hellofresh.com
+
+- go.hellofresh.com
+
+- lp.hellofresh.com
+
+- partner.hellofresh.com
+
+- hb.hellofresh.com
+
+- careers.hellofresh.com
+
+- gw.hellofresh.com
+
+- stories.hellofresh.com
+
+- click.link.hellofresh.com
+
+- view.link.hellofresh.com
+
+- image.link.hellofresh.com
+
+- click.friends.hellofresh.com
+
+*# HelloFresh Group*
+
+- everyplate.com
+
+- greenchef.com
+
+- support.greenchef.com
+
+- help.greenchef.com
+
+- factor75.com
+
+- www.factor75.com
+
+- gofactor.com
+
+- chefsplate.com*  # HelloFresh Kanada*
+
+*# HelloFresh Group
+
+- youfoodz.com
+
+- www.youfoodz.com*  
+
+- goodchop.com
+
+- www.goodchop.com
+
+- api.goodchop.com*  
+
+- thepetstable.com
+
+- www.thepetstable.com*  
+
+**🔵 Blue Apron**
+
+- blueapron.com
+
+- www.blueapron.com
+
+- market.blueapron.com
+
+- blog.blueapron.com
+
+- blueapronsupport.zendesk.com
+
+**🌿 Sun Basket**
+
+- sunbasket.com
+
+- www.sunbasket.com
+
+- help.sunbasket.com
+
+- support.sunbasket.com
+
+**🍳 Home Chef**
+
+- homechef.com
+
+- www.homechef.com
+
+- cook.homechef.com
+
+- help.homechef.com
+
+- blog.homechef.com
+
+**🥕 Purple Carrot**
+
+- purplecarrot.com
+
+- shop.purplecarrot.com
+
+- help.purplecarrot.com
+
+- plantry.purplecarrot.com
+
+**🍽️ Gobble**
+
+- gobble.com
+
+- support.gobble.com
+
+- help.gobble.com
+
+- blog.gobble.com
+
+**🌱 Hungryroot**
+
+- hungryroot.com
+
+- app.hungryroot.com
+
+- quiz.hungryroot.com
+
+- recommendations.hungryroot.com
+
+- support.hungryroot.com
+
+- blog.hungryroot.com
+
+**🥄 Marley Spoon 
+
+- marleyspoon.com
+
+- martha.marleyspoon.com
+
+- au.marleyspoon.com
+
+- de.marleyspoon.com
+
+- nl.marleyspoon.com
+
+- be.marleyspoon.com
+
+- at.marleyspoon.com
+
+- support.marleyspoon.com
+
+- careers.marleyspoon.com
+
+- dinnerly.com
+
+- au.dinnerly.com
+
+- recipes.dinnerly.com
+
+**🔧 Tovala (Smart Oven + Meal Kit)**
+
+- tovala.com
+
+- www.tovala.com
+
+- support.tovala.com
+
+- cdn.tovala.com
+
+- api.tovala.com
+
+- cloud.tovala.com
+
+- oven.tovala.com
+
+- my.tovala.com
+
+**🌐  RECIPE APPS**
+
+**📱 Tasty (BuzzFeed)**
+
+- tasty.co
+
+- www.tasty.co
+
+- botatouille.tasty.co*  # AI chef*
+
+**🥘 Allrecipes / MyRecipes — People Inc.**
+
+- allrecipes.com
+
+- www.allrecipes.com
+
+- myrecipes.com
+
+- websupport.meredith.com*  # People Inc. Support*
+
+- support.people.inc*  # People Inc. Support*
+
+**📺 Food Network (Warner Bros. Discovery)**
+
+- foodnetwork.com
+
+- www.foodnetwork.com
+
+**🍳 BigOven**
+
+- bigoven.com
+
+**📖 Epicurious (Condé Nast)**
+
+- epicurious.com
+
+- www.epicurious.com
+
+**🍱 Cookpad**
+
+- cookpad.com
+
+- info.cookpad.com
+
+- img-global.cpcdn.com*  # Cookpad global  CDN
+
+- blog.cookpad.com
+
+**👨‍🍳 SideChef**
+
+- sidechef.com
+
+- business.sidechef.com
+
+- partner.sidechef.com
+
+- widgets.sidechef.com
+
+- studio.sidechef.com
+
+**📖 Kitchen Stories (BSH — Bosch Siemens)**
+
+- kitchenstories.com
+
+- kitchenstories.io*  
+
+- business.kitchenstories.com*  
+
+- pages.kitchenstories.com
+
+**📰 Other Recipe Sites**
+
+- food.com
+
+- delish.com*  # Hearst Magazines Digital Media*
+
+- bonappetit.com
+
+- cookwithbonappetit.com*  # Condé Nast — BA premium app*
+
+- seriouseats.com*  # People Inc.*
+
+- food52.com*  # ⚠ 2025 Chapter 11 
+
+- thekitchn.com*  # Apartment Therapy Media*
+
+**📝 Food Blogs ****&**** Recipe Sites**
+
+*# People Inc. (Dotdash Meredith)
+
+- simplyrecipes.com
+
+- eatingwell.com
+
+- imagesvc.meredithcorp.io*  
+
+- budgetbytes.com
+
+- skinnytaste.com
+
+- minimalistbaker.com
+
+- pinchofyum.com
+
+**📱  RECIPE / MEAL PLANNING APPS**
+
+**📋 Mealime**
+
+- mealime.com
+
+- www.mealime.com
+
+- api.mealime.com
+
+- support.mealime.com
+
+- community.mealime.com
+
+**🌶️ Paprika**
+
+- paprikaapp.com
+
+- www.paprikaapp.com
+
+- api.paprikaapp.com
+
+- paprikaapp.zendesk.com*  
+
+**🗓️ Plan to Eat**
+
+- plantoeat.com
+
+- www.plantoeat.com
+
+- api.plantoeat.com
+
+- app.plantoeat.com
+
+- learn.plantoeat.com*  
+
+**🥗 Prepear**
+
+- prepear.com
+
+- www.prepear.com
+
+- api.prepear.com
+
+- app.prepear.com
+
+**📱 Samsung Food / Whisk**
+
+- samsungfood.com
+
+- www.samsungfood.com
+
+- app.samsungfood.com
+
+- whisk.com
+
+- www.whisk.com
+
+- api.whisk.com
+
+- graph.whisk.com
+
+- testkitchen.whisk.com
+
+- image-cdn.whisk.com
+
+- cdn.whisk.com
+
+*# Whisk 
+
+- cloudinary-cdn.whisk.com
+
+- api-x.whisk.com
+
+- developers.whisk.com
+
+- docs.whisk.com
+
+- list.whisk.com
+
+- list-integration.whisk.com
+
+- my.whisk.com
+
+- showcase.whisk.com
+
+- samsung-api.whisk.com
+
+- l.whi.sk*  
+
+- get.samsungfood.com
+
+*# Samsung Food China
+
+- samsungfood.cn
+
+- api.samsungfood.cn
+
+- graph.samsungfood.cn
+
+- cdn.samsungfood.cn
+
+- art.samsungfood.cn
+
+**📋 Copy Me That**
+
+- copymethat.com
+
+- www.copymethat.com
+
+- api.copymethat.com
+
+**📅 eMeals**
+
+- emeals.com
+
+- www.emeals.com
+
+- api.emeals.com
+
+- support.emeals.com
+
+**💪 Meal Prep Pro**
+
+- mealpreppro.com
+
+- www.mealpreppro.com
+
+- api.mealpreppro.com
+
+- help.mealpreppro.com
+
+- nibbleapps.com*  
+
+**📚 Recipe Keeper Online**
+
+- recipekeeperonline.com
+
+- www.recipekeeperonline.com
+
+- api.recipekeeperonline.com
+
+**🍎 Mela Recipes (iOS/macOS)**
+
+- mela.recipes
+
+- www.mela.recipes
+
+**🛒 AnyList**
+
+- anylist.com
+
+- www.anylist.com
+
+- help.anylist.com
+
+- api.anylist.com
+
+**⚖️ Eat This Much**
+
+- eatthismuch.com
+
+- www.eatthismuch.com
+
+- api.eatthismuch.com
+
+- swole.me**
+
+- blog.eatthismuch.com
+
+- help.eatthismuch.com
+
+**🥙 PlateJoy**
+
+  ℹ *RVO Health (2022)*
+
+- platejoy.com
+
+- www.platejoy.com
+
+- support.platejoy.com
+
+- platejoyhealth.com
+
+**🛒 Cooklist**
+
+- cooklist.com
+
+- www.cooklist.com
+
+**🌿 Pestle**
+
+- pestleapp.com
+
+- www.pestleapp.com
+
+- pestlechef.app
+
+- docs.pestlechef.app
+
+**🤖 Ollie AI**
+
+- ollie.ai
+
+- www.ollie.ai
+
+- api.ollie.ai
+
+**🍯 Honeydew Cook**
+
+- honeydewcook.com
+
+- www.honeydewcook.com
+
+- honeydewcook.app
+
+- app.honeydewcook.com
+
+- api.honeydewcook.com
+
+**🔖 OnlyRecipe**
+
+- onlyrecipe.app
+
+- www.onlyrecipe.app
+
+- onlyrecipeapp.com
+
+- get.onlyrecipeapp.com
+
+- blog.onlyrecipeapp.com
+
+**📱 Social Media Recipe Apps**
+
+*# Recify*
+
+- recify.app
+
+- www.recify.app
+
+- api.recify.app
+
+*# Flavorish*
+
+- flavorish.app
+
+- www.flavorish.app
+
+- flavorish.ai
+
+- www.flavorish.ai
+
+- api.flavorish.app
+
+- api.flavorish.ai
+
+*# BeChef*
+
+- bechef.app
+
+- www.bechef.app
+
+- api.bechef.app
+
+*# ReciMe*
+
+- recime.app
+
+- www.recime.app
+
+- support.recime.app
+
+- help.recime.app
+
+*# Pepper*
+
+- peppertheapp.com
+
+- www.peppertheapp.com
+
+**🔧 Other Recipe ****&**** Meal Planning Apps**
+
+*# Mealie (self-hosted)*
+
+- mealie.io
+
+- docs.mealie.io
+
+- nightly.mealie.io
+
+- demo.mealie.io
+
+*# SuperCook*
+
+- supercook.com
+
+- www.supercook.com
+
+- api.supercook.com
+
+*# Crumb AI*
+
+- eatwithcrumb.com
+
+- www.eatwithcrumb.com
+
+- crumbai.app
+
+- www.crumbai.app
+
+*# CookMate ( MyCookBook)*
+
+- cookmate.online
+
+- www.cookmate.online
+
+- api.cookmate.online
+
+- cookmate.blog
+
+*# Recipinned*
+
+- recipinned.com
+
+**📌 Just a Pinch**
+
+- justapinch.com
+
+- www.justapinch.com
+
+- help.justapinch.com
+
+**🥦 Forks Over Knives ****&**** Forks Meal Planner**
+
+- forksoverknives.com
+
+- www.forksoverknives.com
+
+- shop.forksoverknives.com
+
+- courses.forksoverknives.com
+
+- forksmealplanner.com
+
+- my.forksmealplanner.com
+
+- support.forksmealplanner.com
+
+- forksmealplanner.forksoverknives.com
+
+**🎓 Rouxbe (Online Cooking School)**
+
+- rouxbe.com
+
+- institute.rouxbe.com*  
+
+- ccap.rouxbe.com*  # C-CAP*
+
+- accorhotels.rouxbe.com*  # Accor Hotels 
+
+- lighter.rouxbe.com*  # Culinary Rx *
+
+**🔧 Self-Hosted / Open Source**
+
+*# Tandoor*
+
+- tandoor.dev
+
+- docs.tandoor.dev
+
+- demo.tandoor.dev
+
+- demo-prerelease.tandoor.dev
+
+*# Grocy*
+
+- grocy.info
+
+- demo.grocy.info
+
+- demo-prerelease.grocy.info
+
+**📦 Meal Planning**
+
+*# MealFlow AI*
+
+- mealflow.ai
+
+- www.mealflow.ai
+
+- api.mealflow.ai
+
+*# Food Planner (MiniMobile)*
+
+- foodplanner.net
+
+- www.foodplanner.net
+
+- app.foodplanner.net
+
+- api.foodplanner.net
+
+- foodplannerapp.com*  
+
+*# ChefTap*
+
+- cheftap.com
+
+- www.cheftap.com
+
+- support.cheftap.com
+
+- api.cheftap.com
+
+*# Cook**'**n (DVO Enterprises)*
+
+- dvo.com
+
+- www.dvo.com
+
+- api.dvo.com
+
+- cloud.dvo.com
+
+*# Ekilu / Nooddle (Bonavita Ventures, İspanya)*
+
+- ekilu.com
+
+- www.ekilu.com
+
+- api.ekilu.com
+
+- nooddle.es
+
+- www.nooddle.es
+
+- api.nooddle.es
+
+*# Fitia*
+
+- fitia.app
+
+- www.fitia.app
+
+- api.fitia.app
+
+*# MealBoard*
+
+- mealboard.com
+
+- www.mealboard.com
+
+- server.mealboardapp.com
+
+- mealboardapp.com
+
+*# PlanEat AI*
+
+- planeatai.com
+
+- www.planeatai.com
+
+- api.planeatai.com
+
+*# MealPlan+ (Fall Day Software) — iOS only, Apple Watch support*
+
+- falldaysoftware.com
+
+- www.falldaysoftware.com
+
+*# Deliciously Ella*
+
+- deliciouslyella.com
+
+- www.deliciouslyella.com
+
+- api.deliciouslyella.com
+
+- app.deliciouslyella.com
+
+- shop.deliciouslyella.com
+
+- deliciouslyella.gorgias.help
+
+**📡  API ENDPOINTS**
+
+**Meal Kit APIs**
+
+- api.hellofresh.com
+
+- api.blueapron.com
+
+- api.sunbasket.com
+
+- api.homechef.com
+
+- api.factor75.com
+
+- api.purplecarrot.com
+
+- api.gobble.com
+
+- api.hungryroot.com
+
+- api.marleyspoon.com
+
+- api.tovala.com
+
+**Recipe App APIs**
+
+- api.yummly.com
+
+- api.tasty.co
+
+- api.allrecipes.com
+
+- api.foodnetwork.com
+
+- api.bigoven.com
+
+- api2.bigoven.com
+
+- api.epicurious.com
+
+- api.cookpad.com
+
+- api.sidechef.com
+
+- api.kitchenstories.com
+
+- api.food.com
+
+- api.delish.com
+
+- api.bonappetit.com
+
+- api.seriouseats.com
+
+- api.mealime.com
+
+- api.paprikaapp.com
+
+- api.plantoeat.com
+
+- api.prepear.com
+
+- api.whisk.com
+
+- graph.whisk.com
+
+- api.samsungfood.com
+
+- api.copymethat.com
+
+- api.emeals.com
+
+- api.mealpreppro.com
+
+- api.recipekeeperonline.com
+
+- api.anylist.com
+
+- api.eatthismuch.com
+
+- api.ollie.ai
+
+- api.honeydewcook.com
+
+- api.recipeone.app
+
+- api.recify.app
+
+- api.flavorish.app
+
+- api.flavorish.ai
+
+- api.bechef.app
+
+- api.supercook.com
+
+- api.cookmate.online
+
+- api.cheftap.com
+
+- api.dvo.com
+
+- api.ekilu.com
+
+- api.nooddle.es
+
+- api.fitia.app
+
+- api.mealflow.ai
+
+- api.planeatai.com
+
+- api.foodplanner.net
+
+- api.deliciouslyella.com
+
+**Mobile APIs**
+
+- mapi.yummly.com
+
+- mobile-api.hellofresh.com
+
+**📊  TELEMETRY ****&**** ANALYTICS**
+
+**Privacy koruması için önemli.**
+
+- analytics.hellofresh.com
+
+- analytics.yummly.com
+
+- analytics.tasty.co
+
+- analytics.allrecipes.com
+
+- analytics.blueapron.com
+
+- analytics.sunbasket.com
+
+- analytics.homechef.com
+
+- analytics.factor75.com
+
+- analytics.purplecarrot.com
+
+- analytics.gobble.com
+
+- analytics.hungryroot.com
+
+- analytics.marleyspoon.com
+
+- analytics.foodnetwork.com
+
+- analytics.bigoven.com
+
+- analytics.epicurious.com
+
+- analytics.cookpad.com
+
+- analytics.sidechef.com
+
+- analytics.kitchenstories.com
+
+- analytics.tovala.com
+
+- analytics.mealime.com
+
+- analytics.paprikaapp.com
+
+- analytics.plantoeat.com
+
+- analytics.prepear.com
+
+- analytics.samsungfood.com
+
+- analytics.copymethat.com
+
+- analytics.emeals.com
+
+- analytics.anylist.com
+
+- analytics.eatthismuch.com
+
+- analytics.platejoy.com
+
+**📦  CDN ****&**** STATIC ASSETS**
+
+** CDN**
+
+- imagesvc.meredithcorp.io*  # People Inc. tüm markalar: Allrecipes, SeriousEats, SimplyRecipes, EatingWell, MyRecipes*
+
+- img-global.cpcdn.com*  # Cookpad global CDN*
+
+**App-Specific CDNs**
+
+- cdn.hellofresh.com
+
+- cdn.yummly.com
+
+- cdn.tasty.co
+
+- cdn.allrecipes.com
+
+- cdn.bigoven.com
+
+- cdn.sidechef.com
+
+- cdn.kitchenstories.com
+
+- cdn.blueapron.com
+
+- cdn.sunbasket.com
+
+- cdn.homechef.com
+
+- cdn.factor75.com
+
+- cdn.purplecarrot.com
+
+- cdn.gobble.com
+
+- cdn.hungryroot.com
+
+- cdn.marleyspoon.com
+
+- cdn.foodnetwork.com
+
+- cdn.epicurious.com
+
+- cdn.cookpad.com
+
+- cdn.tovala.com
+
+- cdn.whisk.com
+
+- cdn.samsungfood.com
+
+**Image CDNs**
+
+- images.hellofresh.com
+
+- images.yummly.com
+
+- images.allrecipes.com
+
+- images.blueapron.com
+
+- images.homechef.com
+
+- images.factor75.com
+
+- images.foodnetwork.com
+
+- images.tasty.co
+
+- images.epicurious.com
+
+- images.cookpad.com
+
+- images.sidechef.com
+
+- img.hellofresh.com
+
+- img.yummly.com
+
+- image-cdn.whisk.com
+
+- img.cpcdn.com
+
+**Static Assets**
+
+- static.hellofresh.com
+
+- static.yummly.com
+
+- static.allrecipes.com
+
+- static.blueapron.com
+
+- static.homechef.com
+
+- static.foodnetwork.com
+
+**Video CDNs**
+
+- videos.tasty.co
+
+- video.tasty.co
+
+- videos.allrecipes.com
+
+- videos.foodnetwork.com
+
+- videos.kitchenstories.io
+
+- videos.hellofresh.com
+
+- videos.yummly.com
+
+- videos.epicurious.com
+
+- videos.bonappetit.com
+
+**🛒  SHOPPING ****&**** AFFILIATE TRACKING**
+
+- shop.yummly.com
+
+- affiliate.yummly.com
+
+- shop.tasty.co
+
+- market.blueapron.com
+
+- shop.hellofresh.com
+
+- shop.foodnetwork.com
+
+- shop.allrecipes.com
+
+- shop.bonappetit.com
+
+**📧  EMAIL ****&**** MARKETING**
+
+- email.hellofresh.com
+
+- email.yummly.com
+
+- email.blueapron.com
+
+- t.e.hellofresh.com
+
+- click.email.hellofresh.com
