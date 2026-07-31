@@ -1,0 +1,775 @@
+CDN & INFRASTRUCTURE RESEARH LIST
+
+
+1. CLOUDFLARE
+⛔ Core Infrastructure (DO NOT BLOCK)
+cloudflare.com
+cloudflare.net
+cloudflaressl.com
+cloudflare-ssl.com
+cloudflare-dns.com
+cf-ns.com
+cloudflare-ipfs.com
+argotunnel.com
+cfargotunnel.com
+cfdata.org
+cfl.re
+cloudflare-ech.com
+cloudflare-esni.com
+cloudflare-gateway.com
+cloudflare-quic.com
+cloudflare-terms-of-service-abuse.com
+Telemetry & Analytics 
+cloudflareinsights.com
+static.cloudflareinsights.com
+cloudflare-rum.com
+rum.cloudflare.com
+speed.cloudflare.com
+speed.cloudflare.net
+rt.cloudflare.com
+ℹ️ API & Management
+api.cloudflare.com
+logs.cloudflare.com
+🆕 Dashboard & Portal
+cloudflare.dev
+cloudflare.tv
+radar.cloudflare.com
+dash.cloudflare.com
+developers.cloudflare.com
+⛔ Bot Detection & Challenges (DO NOT BLOCK)
+challenges.cloudflare.com
+captcha.cloudflare.com
+turnstile.cloudflare.com
+cf-cf.com
+cloudflarechallenge.com
+⚠️ Workers & Edge Computing (BREAKS APPS)
+workers.dev
+*.workers.dev
+kv.cloudflare.com
+pages.dev
+*.pages.dev
+cloudflareworkers.com
+trycloudflare.com
+browser.run
+cloudflarebrowser.com
+⚠️ Media CDN (BREAKS APPS)
+videodelivery.net
+cloudflarestream.com
+customer-*.cloudflarestream.com
+imagedelivery.net
+live.cloudflare.com
+⚠️ WARP VPN (BREAKS APPS)
+warp.cloudflare.com
+api.cloudflareclient.com
+zero-trust-client.cloudflareclient.com
+cloudflarewarp.com
+warp.plus
+ℹ️ DNS
+dns.cloudflare.com
+one.one.one.one
+one.one.one
+foundationdns.com
+foundationdns.net
+foundationdns.org
+every1dns.net
+encryptedsni.com
+isbgpsafeyet.com
+ℹ️ Status
+cloudflarestatus.com
+cloudflare-status.com
+ℹ️ R2 Storage
+r2.dev
+*.r2.dev
+r2.cloudflarestorage.com
+*.r2.cloudflarestorage.com
+cloudflarestorage.com
+⚠️ Gateway & Zero Trust (BREAKS APPS)
+[team-name].cloudflareaccess.com
+gateway.cloudflare.com
+cloudflareaccess.com
+ℹ️ Email Routing
+email.cloudflare.net
+_mta-sts.mx.cloudflare.net
+🆕 Products & Services
+cloudflareapps.com
+cloudflarebolt.com
+cloudflarecp.com
+cloudflareok.com
+cloudflarepartners.com
+cloudflareportal.com
+cloudflarepreview.com
+cloudflareregistrar.com
+cloudflareresearch.com
+cloudflareresolve.com
+cloudflaresupport.com
+cloudflaretest.com
+pacloudflare.com
+2. AWS CLOUDFRONT
+⛔ Core CDN (DO NOT BLOCK)
+*.cloudfront.net
+s3.amazonaws.com
+*.s3.amazonaws.com
+aws.amazon.com
+awsstatic.com
+⛔ Regional S3 Endpoints (DO NOT BLOCK)
+s3-us-west-1.amazonaws.com
+s3-us-west-2.amazonaws.com
+s3-us-east-1.amazonaws.com
+s3-eu-west-1.amazonaws.com
+s3-ap-southeast-1.amazonaws.com
+s3-eu-central-1.amazonaws.com
+s3-ap-northeast-1.amazonaws.com
+s3-ap-northeast-2.amazonaws.com
+s3-ap-south-1.amazonaws.com
+s3-sa-east-1.amazonaws.com
+s3-ca-central-1.amazonaws.com
+s3-eu-west-2.amazonaws.com
+s3-eu-west-3.amazonaws.com
+Telemetry & Analytics 
+logs.cloudfront.amazonaws.com
+cloudwatch.amazonaws.com
+xray.amazonaws.com
+metrics.amazonaws.com
+pinpoint.amazonaws.com
+mobileanalytics.amazonaws.com
+kinesis.amazonaws.com
+⚠️ Lambda & Compute (BREAKS APPS)
+lambda.amazonaws.com
+*.execute-api.amazonaws.com
+*.elb.amazonaws.com
+*.elasticloadbalancing.amazonaws.com
+🆕 Storage & Hosting
+sts.amazonaws.com
+.s3-website..amazonaws.com
+cloudfront.amazonaws.com
+ℹ️ Security
+shield.amazonaws.com
+ℹ️ Status
+status.aws.amazon.com
+3. FASTLY
+⛔ Core CDN (DO NOT BLOCK)
+fastly.net
+*.fastly.net
+fastlylb.net
+*.fastlylb.net
+fastly-ssl.com
+fastly.com
+*.sni.global.fastly.net
+*.shared.global.fastly.net
+*.global.ssl.fastly.net
+*.global.prod.fastly.net
+*.customer.fastly.net
+*.map.fastly.net
+fastly-validations.com
+fastly.dev
+Note: Fastly acquired Domainr in 2023 → domainr.com now also runs on Fastly infrastructure.
+domainr.com
+ Telemetry & Analytics 
+rt.fastly.com
+log.fastly.com
+logs.fastly.com
+insights.fastly.com
+⚠️ API (BREAKS APPS)
+api.fastly.com
+⚠️ Compute (BREAKS APPS)
+compute.fastly.com
+ℹ️ Status
+status.fastly.com
+4. AKAMAI
+⛔ Core CDN (DO NOT BLOCK)
+akamai.net
+akamaiedge.net
+akamaihd.net
+akamaitechnologies.com
+akamaized.net
+edgesuite.net
+*.edgesuite.net
+edgekey.net
+*.edgekey.net
+srip.akamaized.net
+⛔ DNS (DO NOT BLOCK)
+akadns.net
+*.akadns.net
+akadns6.net
+akadns99.net
+mPulse Analytics 
+mpulse.net
+go-mpulse.net
+c.go-mpulse.net
+s.go-mpulse.net
+s2.go-mpulse.net
+akamai-rum.com
+mpulse.soasta.com
+⚠️ Zero Trust & Security (BREAKS APPS)
+*.akaetp.net
+akamaietp.net
+akasecure.net
+*.dot.dns.akasecure.net
+*.akamai-zt.com
+*.go.akamai-access.com
+*Note: akamai-zt.com subdomains may vary — use the wildcard .akamai-zt.com.
+⚠️ EdgeWorkers (BREAKS APPS)
+edgeworkers.akamai.com
+ℹ️ API & Management
+control.akamai.com
+*.akamaiapis.net
+cloudmanager.akamai.com
+developer.akamai.com
+techdocs.akamai.com
+ℹ️ DDoS Protection
+prolexic.com
+🆕 Akamai Cloud (Linode)
+linode.com
+*.linode.com
+linode.net
+*.linode.net
+🆕 China CDN
+tl53.net
+*.dot.tl53.net
+ℹ️ Status
+akamaistatus.com
+Note: The original list had cloudharmony.com/status/akamai. The actual status page is akamaistatus.com.
+5. GOOGLE CLOUD CDN
+⛔ Core CDN (DO NOT BLOCK)
+ggpht.com
+googleusercontent.com
+gstatic.com
+⛔ reCAPTCHA (DO NOT BLOCK)
+google.com/recaptcha
+recaptcha.net
+gstatic.com/recaptcha
+ℹ️ DNS
+dns.google
+⛔ Storage & API (DO NOT BLOCK)
+storage.googleapis.com
+*.storage.googleapis.com
+content-storage.googleapis.com
+c.storage.googleapis.com
+*.googleapis.com
+private.googleapis.com
+restricted.googleapis.com
+*.p.googleapis.com
+🆕 Console & Auth
+apis.google.com
+*.clients6.google.com
+reauth.cloud.google.com
+csp.withgoogle.com
+withgoogle.com
+cloud.google.com
+status.cloud.google.com
+accounts.google.com
+ Analytics & Monitoring 
+google-analytics.com
+www.google-analytics.com
+googletagmanager.com
+www.googletagmanager.com
+⛔ CDN & Media (DO NOT BLOCK)
+fonts.googleapis.com
+fonts.gstatic.com
+*.googlevideo.com
+googlevideo.com
+*.ytimg.com
+ytimg.com
+⛔ Firebase & Hosting (DO NOT BLOCK)
+*.appspot.com
+*.run.app
+*.cloudfunctions.net
+*.firebaseapp.com
+firebaseapp.com
+*.firebaseio.com
+*.web.app
+Ads CDN 
+googlesyndication.com
+*.googlesyndication.com
+doubleclick.net
+*.doubleclick.net
+googleadservices.com
+6. MICROSOFT AZURE CDN
+⛔ Core CDN (DO NOT BLOCK)
+azureedge.net
+azure.com
+*.vo.msecnd.net
+*.azurefd.net
+*.z01.azurefd.net
+⛔ Blob & Object Storage (DO NOT BLOCK)
+*.blob.core.windows.net
+*.file.core.windows.net
+*.queue.core.windows.net
+*.table.core.windows.net
+*.core.windows.net
+⛔ Traffic & Networking (DO NOT BLOCK)
+*.trafficmanager.net
+*.cloudapp.net
+*.cloudapp.azure.com
+⛔ Compute & Apps (DO NOT BLOCK)
+*.azurewebsites.net
+*.azurestaticapps.net
+*.azurecontainer.io
+*.azurecr.io
+*.azmk8s.io
+*.azure-mobile.net
+⚠️ Data & Messaging (BREAKS APPS)
+*.servicebus.windows.net
+*.database.windows.net
+*.cosmos.azure.com
+*.documents.azure.com
+*.vault.azure.net
+*.azure-api.net
+⛔ Identity & Management (DO NOT BLOCK)
+*.graph.windows.net
+*.onmicrosoft.com
+*.management.core.windows.net
+*.origin.mediaservices.windows.net
+management.azure.com
+login.microsoftonline.com
+7. KEYCDN
+⛔ Core CDN (DO NOT BLOCK)
+kxcdn.com
+ℹ️ API & Management
+api.keycdn.com
+keycdn.com
+tools.keycdn.com
+support.keycdn.com
+status.keycdn.com
+8. BUNNYCDN
+⛔ Core CDN (DO NOT BLOCK)
+bunnycdn.com
+b-cdn.net
+bunny.net
+ℹ️ API
+api.bunnycdn.com
+api.bunny.net
+video.bunnycdn.com
+storage.bunnycdn.com
+🆕 Storage Zone Regional Endpoints
+de.storage.bunnycdn.com
+ny.storage.bunnycdn.com
+sg.storage.bunnycdn.com
+uk.storage.bunnycdn.com
+la.storage.bunnycdn.com
+syd.storage.bunnycdn.com
+🆕 Video Streaming
+mediadelivery.net
+*.mediadelivery.net
+iframe.mediadelivery.net
+ Logging 
+logging.bunnycdn.com
+🆕 Portal & Support
+dashboard.bunny.net
+support.bunny.net
+status.bunny.net
+9. GCORE (G-CORE LABS)
+⛔ Core (DO NOT BLOCK)
+gcore.com
+.gcdn.co
+cl-.gcdn.co
+Note: CDN CNAME pattern is cl-[account-id].gcdn.co — the original list only had api.gcdn.co.
+ℹ️ API & Portal
+api.gcore.com
+api.gcdn.co
+cloud.gcore.com
+portal.gcore.com
+docs.gcore.com
+support.gcore.com
+ℹ️ Status
+status.gcore.com
+10. CACHEFLY
+⛔ Core CDN (DO NOT BLOCK)
+cachefly.com
+cachefly.net
+*.cachefly.net
+*.cd.cachefly.net
+Note: Delivery CNAME pattern is [zone].cd.cachefly.net.
+ℹ️ Portal & API
+portal.cachefly.com
+api.cachefly.com
+docs.cachefly.com
+11. MEDIANOVA
+⛔ Core (DO NOT BLOCK)
+medianova.com
+ℹ️ Management
+cloud.medianova.com
+api.medianova.com
+clients.medianova.com
+12. CDN77
+⛔ Core (DO NOT BLOCK)
+cdn77.com
+cdn77.org
+cdn77.net
+*.r.cdn77.net
+Note: Delivery pattern is [id].rsc.cdn77.org or [id].r.cdn77.net.
+ℹ️ Management
+client.cdn77.com
+support.cdn77.com
+docs.cdn77.com
+⛔ Resources (DO NOT BLOCK)
+*.rsc.cdn77.org
+ℹ️ API
+api.cdn77.com
+13. BLAZINGCDN
+⛔ Core (DO NOT BLOCK)
+blazingcdn.com
+ℹ️ API
+wapi.blazingcdn.com
+ℹ️ Docs
+blog.blazingcdn.com
+knowledgebase.blazingcdn.com
+14. CLOUDINARY
+⚠️ Core Image CDN (BREAKS APPS)
+cloudinary.com
+res.cloudinary.com
+*.cloudinary.com
+media.cloudinary.com
+ℹ️ API & Management
+api.cloudinary.com
+console.cloudinary.com
+support.cloudinary.com
+widget.cloudinary.com
+status.cloudinary.com
+15. IMGIX
+⚠️ Core Image CDN (BREAKS APPS)
+imgix.com
+imgix.net
+*.imgix.net
+*.imgix.com
+ℹ️ API & Management
+api.imgix.com
+dashboard.imgix.com
+assets.imgix.net
+status.imgix.com
+16. TENCENT CLOUD CDN
+⛔ Core CDN (DO NOT BLOCK)
+myqcloud.com
+*.myqcloud.com
+dnsv1.com
+*.dnsv1.com
+cdn.dnsv1.com
+dsa.dnsv1.com
+qcloudcdn.com
+*.qcloudcdn.com
+tencent-cloud.com
+⛔ COS (Object Storage) (DO NOT BLOCK)
+*.cos.ap-[region].myqcloud.com
+*.cos.accelerate.myqcloud.com
+*.file.myqcloud.com
+ℹ️ API
+api.tencentcloud.com
+cdn.tencentcloudapi.com
+🆕 EdgeOne
+edgeone.ai
+*.pages.edgeone.ai
+ℹ️ Monitoring & Console
+console.cloud.tencent.com
+console.tencentcloud.com
+17. ALIBABA CLOUD CDN (ALIYUN)
+⛔ Core CDN (DO NOT BLOCK)
+alicdn.com
+*.alicdn.com
+aliyuncs.com
+*.aliyuncs.com
+kunlun.com
+*.kunlun.com
+kunlungr.com
+*.kunlungr.com
+kunlunsl.com
+*.kunlunsl.com
+kunlunle.com
+*.kunlunle.com
+⛔ OSS (Object Storage) (DO NOT BLOCK)
+oss-cn-[region].aliyuncs.com
+*.oss-cn-hangzhou.aliyuncs.com
+ℹ️ API
+cdn.console.aliyun.com
+cdn.console.alibabacloud.com
+peering.aliyuncs.com
+18. KINGSOFT CLOUD CDN
+⛔ Core CDN (DO NOT BLOCK)
+ksyuncdn.com
+*.ksyuncdn.com
+ks-cdn.com
+*.ks-cdn.com
+[domain].download.ks-cdn.com
+⛔ KS3 (Object Storage) (DO NOT BLOCK)
+ks3-cn-beijing.ksyuncs.com
+ks3-cn-shanghai.ksyuncs.com
+ks3-cn-guangzhou.ksyuncs.com
+ks3-hk.ksyuncs.com
+ks3-ru-moscow.ksyuncs.com
+ks3-sgp.ksyuncs.com
+*.ksyuncs.com
+ks3-cn-beijing-internal.ksyuncs.com
+ks3-cn-shanghai-internal.ksyuncs.com
+*-internal.ksyuncs.com
+ℹ️ Portal & API
+en.ksyun.com
+ksyun.com
+krtpay.api.ksyun.com
+endocs.ksyun.com
+console.ksyun.com
+fe-frame.ks3-cn-beijing.ksyun.com
+kingdata.ksyun.com
+19. TATA COMMUNICATIONS CDN
+ℹ️ CDN Portal
+cdn.tatacommunications.com
+ℹ️ API Portal
+developer.tatacommunications.com
+developer.move.tatacommunications.com
+ℹ️ API Endpoints
+api.tatacommunications.com
+api.move.tatacommunications.com
+20. AT&T CDN
+ℹ️ Main CDN
+business.att.com
+cybersecurity.att.com
+synaptic.att.com
+ℹ️ LevelBlue
+levelblue.com
+21. NTT COMMUNICATIONS CDN
+Note: NTT no longer offers its own CDN — it now operates as an Akamai reseller.
+ℹ️ NTT Enterprise Cloud (ECL 2.0)
+ecl.ntt.com
+22. DEUTSCHE TELEKOM CDN
+Note: Previously had an EdgeCast (Edgio) partnership — Edgio shut down in January 2025.
+ℹ️ Portal & Website
+wholesale.telekom.com
+globalcarrier.telekom.com
+telekom-icss.com
+ℹ️ CNAME Pattern (EdgeCast-based)
+*.edgecastcdn.net
+*.systemcdn.net
+23. BAISHAN CLOUD
+⛔ Core CDN (DO NOT BLOCK)
+baishan.com
+en.baishan.com
+baishancloud.com
+ℹ️ EdgeNext (Overseas Brand)
+edgenext.com
+ℹ️ Console/Portal
+console.baishan.com
+portal.baishan.com
+24. QUANTIL CDN
+Note: No longer sells CDN services directly — redirects customers to CDNetworks.
+ℹ️ Portal
+portal.quantil.com
+docs.quantil.com
+25. CDNSUN
+⛔ Core (DO NOT BLOCK)
+cdnsun.com
+26. BELUGACDN
+⛔ Core (DO NOT BLOCK)
+belugacdn.com
+ℹ️ API & Docs
+api.belugacdn.com
+docs.belugacdn.com
+27. CDNVIDEO (Wangsu Group)
+⛔ Core (DO NOT BLOCK)
+cdnvideo.com
+cdnvideo.ru
+ℹ️ Docs
+doc.cdnvideo.com
+28. WANGSU (ChinaNetCenter)
+⛔ Core (DO NOT BLOCK)
+wangsu.com
+chinanetcenter.com
+wscdns.com
+wscloudcdn.com
+wsdvs.com
+wsglb0.com
+wswebcdn.com
+wswebpic.com
+wtxcdn.com
+lxdns.com
+gccdn.net
+cdngc.net
+ℹ️ Portal
+en.wangsu.com
+29. CDNIFY
+⛔ Core (DO NOT BLOCK)
+cdnify.com
+cdnify.io
+*.a.cdnify.io
+30. CDNLION
+⛔ Core (DO NOT BLOCK)
+cdnlion.com
+31. ONAPP CDN / VIRTUOZZO CDN
+⛔ Core (DO NOT BLOCK)
+onapp.com
+virtuozzo.com
+ℹ️ Docs
+docs.onapp.com
+32. MAINSTREAMING
+⛔ Core (DO NOT BLOCK)
+mainstreaming.com
+msmdn.net
+ℹ️ API
+api.msmdn.net
+33. QWILT
+⛔ Core (DO NOT BLOCK)
+qwilt.com
+ℹ️ Docs
+docs.qwilt.com
+34. ARVANCLOUD
+Note: EU Sanctions — arvancloud.ir is under EU sanctions over allegations of assisting government censorship in Iran.
+⛔ Core (DO NOT BLOCK)
+arvancloud.ir
+arvancloud.com
+arvancloud.io
+*.arvancloud.io
+ℹ️ API & Docs
+napi.arvancloud.ir
+docs.arvancloud.ir
+docs.arvancloud.com
+35. CHINACACHE
+Note: Acquired by EdgeNext in 2023.
+⛔ Core (DO NOT BLOCK)
+chinacache.com
+chinacache.net
+36. EDGENEXT
+⛔ Core (DO NOT BLOCK)
+edgenext.com
+ℹ️ API
+api.edgenext.com
+37. QUIC.CLOUD
+⛔ Core (DO NOT BLOCK)
+quic.cloud
+ℹ️ Portal & API
+my.quic.cloud
+wpapi.quic.cloud
+docs.quic.cloud
+🆕 DNS Nameservers
+*.quicns.net
+*.quicns.org
+*.quicns.com
+quicns.com
+Note: CNAME pattern is c[xxxxx].tier1.quicns.com — quicns.com was not in the original list.
+38. LEASEWEB CDN
+⛔ Core (DO NOT BLOCK)
+leaseweb.com
+ℹ️ API & Docs
+kb.leaseweb.com
+developer.leaseweb.com
+api.leaseweb.com
+api.cdn.leaseweb.com
+customer.leaseweb.com
+39. jsDelivr
+⛔ Core (DO NOT BLOCK)
+jsdelivr.com
+cdn.jsdelivr.net
+fastly.jsdelivr.net
+ℹ️ Data & Tools
+data.jsdelivr.com
+esm.run
+globalping.io
+40. CDNJS (Cloudflare-based)
+⛔ Core (DO NOT BLOCK)
+cdnjs.com
+cdnjs.cloudflare.com
+ℹ️ API
+api.cdnjs.com
+41. unpkg
+⛔ Core (DO NOT BLOCK)
+unpkg.com
+ℹ️ App
+app.unpkg.com
+42. BAIDU CLOUD CDN
+⛔ Core (DO NOT BLOCK)
+cloud.baidu.com
+intl.cloud.baidu.com
+baidubce.com
+⛔ CDN (DO NOT BLOCK)
+cdn.baidubce.com
+*.cdn.bcebos.com
+bcebos.com
+43. BYTEPLUS CDN (ByteDance/TikTok)
+⛔ Core (DO NOT BLOCK)
+byteplus.com
+ℹ️ API & Console
+api.byteplus.com
+docs.byteplus.com
+console.byteplus.com
+44. 5CENTSCDN
+⛔ Core (DO NOT BLOCK)
+5centscdn.net
+5centscdn.com
+ℹ️ API & Docs
+api.5centscdn.net
+developer.5centscdn.net
+45. CDN5
+⛔ Core (DO NOT BLOCK)
+cdn5.com
+ℹ️ API & Console
+api.cdn5.com
+console.cdn5.com
+46. MLYTICS
+⛔ Core (DO NOT BLOCK)
+mlytics.com
+ℹ️ API & Portal
+api.mlytics.com
+help.mlytics.com
+console.mlytics.com
+portal.mlytics.com
+developer.mlytics.com
+status.mlytics.com
+47. IO RIVER
+⛔ Core (DO NOT BLOCK)
+ioriver.io
+ℹ️ API & Console
+api.ioriver.io
+console.ioriver.io
+docs.ioriver.io
+48. NS1 (IBM NS1 Connect)
+⛔ Core (DO NOT BLOCK)
+ns1.com
+nsone.net
+ns1d.net
+*.ns1d.net
+Note: ns1d.net is the domain name for the NS1 Dedicated DNS network.
+ℹ️ API & Portal
+api.nsone.net
+my.nsone.net
+status.ns1.com
+49. MYRA SECURITY
+⛔ Core Infrastructure (DO NOT BLOCK)
+myrasecurity.com
+myracloud.com
+ℹ️ API
+api.myracloud.com
+apidocs.myrasecurity.com
+50. HUAWEI CLOUD CDN
+⛔ Core Infrastructure (DO NOT BLOCK)
+huaweicloud.com
+*.huaweicloud.com
+intl.huaweicloud.com
+myhuaweicloud.com
+*.myhuaweicloud.com
+myhuaweicloud.eu
+*.huaweicloud.cn
+*.myhuaweicloud.com.cn
+myhuaweicloud.com.cn
+ℹ️ API & Management
+cdn.myhuaweicloud.com
+console.huaweicloud.com
+iam.myhuaweicloud.com
+iam.cn-north-4.myhuaweicloud.com
+iam.eu-west-101.myhuaweicloud.eu
+⛔ OBS (Object Storage) (DO NOT BLOCK)
+obs-website.ap-southeast-1.myhuaweicloud.com
+.obs..myhuaweicloud.com
+ocs.myhuaweicloud.com
+⛔ Regional Endpoints (DO NOT BLOCK)
+ecs.cn-north-1.myhuaweicloud.com
+ecs.cn-north-1.myhuaweicloud.cn
+vpc.cn-north-4.myhuaweicloud.com
+51. SWIFTSERVE (Conversant Solutions)
+⛔ Core CDN (DO NOT BLOCK)
+swiftserve.com
+edge.swiftserve.com
+tools.swiftserve.com
+ℹ️ SwiftFederation Portal & API
+swiftfederation.com
+portal.swiftfederation.com
+cdn-api.swiftfederation.com
+cdn-docs.swiftfederation.com
+ℹ️ Parent Company
+conversant.tv
+conversantsolutions.com
