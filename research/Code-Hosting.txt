@@ -1,0 +1,318 @@
+# CODE HOSTING PLATFORMS RESEARCH LIST
+
+---
+
+## 🐙 GitHub (Microsoft)
+
+### Core Domains
+```
+github.com
+github.net
+githubapp.com
+githubusercontent.com
+github.io
+githubassets.com
+githubstatus.com
+github.dev
+gh.io
+```
+
+### API 
+```
+api.github.com
+avatars.githubusercontent.com
+raw.githubusercontent.com
+gist.github.com
+gist.githubusercontent.com
+codeload.github.com
+objects.githubusercontent.com
+objects-origin.githubusercontent.com
+github-releases.githubusercontent.com
+github-registry-files.githubusercontent.com
+github-cloud.githubusercontent.com
+github-cloud.s3.amazonaws.com
+lfs.github.com
+scanning-api.github.com
+uploads.github.com
+user-images.githubusercontent.com
+favicons.githubusercontent.com
+media.githubusercontent.com
+cloud.githubusercontent.com
+vscode-remote-containers.githubusercontent.com
+```
+
+### Telemetry & Analytics
+```
+collector.github.com
+copilot-telemetry.githubusercontent.com
+default.exp-tas.com
+```
+
+### Container Registry 
+```
+ghcr.io
+alive.github.com
+live.github.com
+central.github.com
+assets-cdn.github.com
+```
+
+### GitHub Copilot API
+```
+copilot-proxy.githubusercontent.com
+origin-tracker.githubusercontent.com
+*.githubcopilot.com
+*.individual.githubcopilot.com
+*.business.githubcopilot.com
+*.enterprise.githubcopilot.com
+copilot-reports-*.b01.azurefd.net
+```
+
+### GitHub Actions & Runner
+```
+*.actions.githubusercontent.com
+pipelines.actions.githubusercontent.com
+results-receiver.actions.githubusercontent.com
+vstoken.actions.githubusercontent.com
+```
+
+### Actions Artifact Storage (Azure Blob)
+```
+productionresultssa0.blob.core.windows.net
+productionresultssa1.blob.core.windows.net
+productionresultssa2.blob.core.windows.net
+productionresultssa3.blob.core.windows.net
+productionresultssa4.blob.core.windows.net
+productionresultssa5.blob.core.windows.net
+productionresultssa6.blob.core.windows.net
+productionresultssa7.blob.core.windows.net
+productionresultssa8.blob.core.windows.net
+productionresultssa9.blob.core.windows.net
+productionresultssa10.blob.core.windows.net
+productionresultssa11.blob.core.windows.net
+productionresultssa12.blob.core.windows.net
+productionresultssa13.blob.core.windows.net
+productionresultssa14.blob.core.windows.net
+productionresultssa15.blob.core.windows.net
+productionresultssa16.blob.core.windows.net
+productionresultssa17.blob.core.windows.net
+productionresultssa18.blob.core.windows.net
+productionresultssa19.blob.core.windows.net
+```
+
+### CDN & MCP
+```
+github.map.fastly.net
+github.global.ssl.fastly.net
+api.mcp.github.com
+```
+
+### GitHub Enterprise Cloud
+```
+*.ghe.com
+```
+
+---
+
+## 🦊 GitLab
+
+### Core Domains
+```
+gitlab.com
+gitlab.net
+gitlab.io
+gitlab-static.net
+assets.gitlab-static.net
+```
+
+### Container Registry & CDN
+```
+registry.gitlab.com
+cdn.registry.gitlab-static.net
+```
+
+### Monitoring & E-mail
+```
+observe.gitlab.com
+mg.gitlab.com
+incoming.gitlab.com
+analytics.gitlab.com
+metrics.gitlab.com
+sentry.gitlab.net
+monitoring-log.gitlab.net
+new-sentry.gitlab.net
+log.pre.gitlab.net
+log.gitlab.net
+events-stg.gitlab.net
+events.gitlab.net
+```
+
+### Package, Documents & Cloud
+```
+packages.gitlab.com
+docs.gitlab.com
+about.gitlab.com
+cloud.gitlab.com
+customers.gitlab.com
+storage.googleapis.com/packages-ops
+```
+
+---
+
+## 🪣 Bitbucket (Atlassian)
+
+### Bitbucket Domains
+```
+bitbucket.org
+bitbucket.com
+bitbucket.io
+api.bitbucket.org
+altssh.bitbucket.org
+bytebucket.org
+bitbucket-assetroot.s3.amazonaws.com
+```
+
+### Atlassian Platform Domains
+```
+atlassian.com
+*.atlassian.com
+atlassian.net
+*.atlassian.net
+ip-ranges.atlassian.com
+canvas-workers.atlassian.com
+```
+
+---
+
+## 🧊 Gitea (Self-hosted, Open source)
+
+```
+gitea.com
+gitea.io
+```
+
+---
+
+## 🐸 Gogs (Self-hosted)
+
+```
+gogs.io
+```
+
+---
+
+## 📦 SourceForge (Legacy)
+
+```
+sourceforge.net
+sf.net
+sourceforge.io
+metric.sourceforge.io
+dl.sourceforge.net
+master.dl.sourceforge.net
+downloads.sourceforge.net
+a.fsdn.com
+b.fsdn.com
+```
+
+---
+
+## 🏔️ Codeberg
+
+```
+codeberg.org
+codeberg.page
+api.codeberg.org
+gitea.codeberg.org
+infrastructure.codeberg.org
+```
+
+---
+
+## 🌿 NotABug 
+
+```
+notabug.org
+```
+
+---
+
+## 📡 Radicle (P2P)
+
+```
+radicle.xyz
+radicle.network
+```
+
+---
+
+## 🐧 Savannah (GNU Project)
+
+```
+savannah.gnu.org
+savannah.nongnu.org
+git.savannah.gnu.org
+svn.savannah.gnu.org
+logs.guix.gnu.org
+logs.gnu.org
+cvs.savannah.gnu.org
+bzr.savannah.gnu.org
+download.savannah.gnu.org
+gnu.org
+ftp.gnu.org
+alpha.gnu.org
+lists.gnu.org
+```
+
+---
+
+## 🔶 AWS CodeCommit
+
+### Git Endpoint'leri (Regional Wildcard)
+```
+git-codecommit.*.amazonaws.com
+git-codecommit-fips.*.amazonaws.com
+```
+
+### API Endpoint'leri (Regional Wildcard)
+```
+codecommit.*.amazonaws.com
+codecommit-fips.*.amazonaws.com
+codecommit.aws.amazon.com
+```
+
+### Console
+```
+console.aws.amazon.com
+codecatalyst.aws
+```
+
+---
+
+## 🌐 Google Cloud Source Repositories
+
+### Domains
+```
+source.cloud.google.com
+source.developers.google.com
+```
+
+### Google Cloud Console 
+```
+console.cloud.google.com
+*.googleapis.com
+securesourcemanager.googleapis.com
+accounts.google.com
+apis.google.com
+*.clients6.google.com
+reauth.cloud.google.com
+csp.withgoogle.com
+www.gstatic.com
+ssl.gstatic.com
+fonts.gstatic.com
+```
+
+### Monitoring
+```
+www.google-analytics.com
+www.googletagmanager.com
