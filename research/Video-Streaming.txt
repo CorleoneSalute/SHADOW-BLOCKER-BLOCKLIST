@@ -1,0 +1,3550 @@
+VIDEO STREAMING RESEARCH LIST
+
+🎯 CORE VIDEO ANALYTICS
+
+CONVIVA (Enterprise Video Analytics)
+
+-   conviva.com
+-   pulse.conviva.com
+-   api.conviva.com
+-   insights.conviva.com
+-   metrics.conviva.com
+-   sdk.conviva.com
+-   cdn.conviva.com
+-   collector.conviva.com
+-   data.conviva.com
+-   streaming.conviva.com
+-   pulse-us.conviva.com
+-   pulse-eu.conviva.com
+-   pulse-apac.conviva.com
+-   collector-us.conviva.com
+-   collector-eu.conviva.com
+-   analytics.conviva.com
+-   experience.conviva.com
+-   quality-analytics.conviva.com
+-   ads.conviva.com
+-   ad-analytics.conviva.com
+-   social.conviva.com
+-   sports.conviva.com
+-   alerts.conviva.com
+-   intelligence.conviva.com
+-   developers.conviva.com
+-   api-docs.conviva.com
+-   conviva.ai
+-   cws.conviva.com
+
+MUX (Video Infrastructure & Analytics)
+
+-   mux.com
+-   stream.mux.com
+-   video.mux.com
+-   ingest.mux.com
+-   litix.mux.com
+-   analytics.mux.com
+-   data.mux.com
+-   image.mux.com
+-   img.mux.com
+-   thumbnails.mux.com
+-   api.mux.com
+-   api-gateway.mux.com
+-   rest-api.mux.com
+-   webhook.mux.com
+-   webhooks.mux.com
+-   player.mux.com
+-   cdn.mux.com
+-   live.mux.com
+-   live-api.mux.com
+-   spaces.mux.com
+-   video-cdn.mux.com
+-   static.mux.com
+-   metrics.mux.com
+-   telemetry.mux.com
+-   events.mux.com
+-   developers.mux.com
+-   docs.mux.com
+-   status.mux.com
+-   health.mux.com
+-   global-live.mux.com
+-   upload.mux.com
+-   storage.mux.com
+-   src.litix.io
+-   img.litix.io
+-   inferred.litix.io
+-   customdomains.litix.io
+-   *.litix.io
+
+YOUBORA / NPAW (Video Analytics)
+
+-   youbora.com
+-   npaw.com
+-   analytics.youbora.com
+-   nqs.youbora.com
+-   collect.youbora.com
+-   realtime.youbora.com
+-   live.youbora.com
+-   api.youbora.com
+-   api-gateway.youbora.com
+-   sdk.youbora.com
+-   cdn.youbora.com
+-   app.youbora.com
+-   suite.youbora.com
+-   data.youbora.com
+-   metrics.youbora.com
+-   nqs-us.youbora.com
+-   nqs-eu.youbora.com
+-   nqs-apac.youbora.com
+-   monitoring.youbora.com
+-   alerts.youbora.com
+-   engage.youbora.com
+-   developers.youbora.com
+-   docs.youbora.com
+-   smartplugin.youbora.com
+-   pre.smartplugin.youbora.com
+-   test-nqs.nice264.com
+-   nqs.nice264.com
+
+BITMOVIN (Video Player & Analytics)
+
+-   bitmovin-analytics.net
+-   cdn.bitmovin.com
+-   cdn.bitmovin.net
+-   analytics-ingress-global.bitmovin.com
+-   analytics-ingress-us.bitmovin.com
+-   analytics-ingress-eu.bitmovin.com
+-   analytics-ingress-apac.bitmovin.com
+-   api.bitmovin.com
+-   api-gateway.bitmovin.com
+-   rest-api.bitmovin.com
+-   encoding.bitmovin.com
+-   encoder.bitmovin.com
+-   player.bitmovin.com
+-   player-cdn.bitmovin.com
+-   live.bitmovin.com
+-   live-encoding.bitmovin.com
+-   dashboard.bitmovin.com
+-   app.bitmovin.com
+-   metrics.bitmovin.com
+-   telemetry.bitmovin.com
+-   events.bitmovin.com
+-   ads.bitmovin.com
+-   developers.bitmovin.com
+-   docs.bitmovin.com
+-   dev.bitmovin.com
+-   status.bitmovin.com
+-   health.bitmovin.com
+
+JWPLAYER (Video Platform)
+
+-   jwpltx.com
+-   cdn.jwplayer.com
+-   analytics.jwplayer.com
+-   ssl.p.jwpcdn.com
+-   p.jwpcdn.com
+-   content.jwplatform.com
+-   tracking.jwplayer.com
+-   metrics.jwplayer.com
+-   events.jwplayer.com
+-   api.jwplayer.com
+-   api.jwplatform.com
+-   videos.jwplayer.com
+-   live.jwplayer.com
+-   recommendations.jwplayer.com
+-   ads.jwplayer.com
+-   adserver.jwplayer.com
+-   dashboard.jwplayer.com
+-   app.jwplayer.com
+-   developers.jwplayer.com
+-   docs.jwplayer.com
+-   status.jwplayer.com
+-   s.c.jwpltx.com
+-   s.n.jwpltx.com
+-   s.jwpltx.com
+-   i.n.jwpltx.com
+-   n.jwpltx.com
+-   a.jwpcdn.com
+-   jwplatform.com
+-   jwpsrv.com
+-   longtailvideo.com
+-   www.longtailvideo.com
+-   d21rhj7n383afu.cloudfront.net
+-   dev.jwpltx.com
+-   stg.jwpltx.com
+-   i.dev.jwpltx.com
+-   videos-fms.jwpsrv.com
+-   videos-cloudflare.jwpsrv.com
+-   jwpsrv-vh.akamaihd.net
+-   connatix.com
+-   cdn.connatix.com
+-   api.connatix.com
+
+BRIGHTCOVE (Video Platform)
+
+-   metrics.brightcove.com
+-   players.brightcove.net
+-   players.brightcove.com
+-   edge.api.brightcove.com
+-   analytics.api.brightcove.com
+-   data-collection.brightcove.com
+-   api.brightcove.com
+-   cms.api.brightcove.com
+-   playback.brightcovecdn.com
+-   ingestion.api.brightcove.com
+-   upload.brightcove.com
+-   live.api.brightcove.com
+-   live-stream.api.brightcove.com
+-   social.api.brightcove.com
+-   audience.api.brightcove.com
+-   engagement.brightcove.com
+-   gallery.brightcove.com
+-   ssai.brightcove.com
+-   ads.brightcove.com
+-   docs.brightcove.com
+-   developers.brightcove.com
+-   status.brightcove.com
+-   gallery-metrics.api.brightcove.com
+-   edge-weighted.api.brightcove.com
+-   interactivity.viewer.api.brightcove.com
+-   player.interactivity.brightcove.com
+-   resources.interactivity.brightcove.com
+-   experiences.assets.brightcove.com
+-   gallery.assets.brightcove.com
+-   map.brightcove.com
+-   oauth.brightcove.com
+-   sadmin.brightcove.com
+-   solutions.brightcove.com
+-   studio.brightcove.com
+-   redirector.playback.eu-west-1.prod.deploys.brightcove.com
+-   brightcovecdn.com
+
+KALTURA (Video Platform)
+
+-   analytics.kaltura.com
+-   cdnapisec.kaltura.com
+-   cdnapi.kaltura.com
+-   www.kaltura.com
+-   api.kaltura.com
+-   stats.kaltura.com
+-   livestats.kaltura.com
+-   live.kaltura.com
+-   kmc.kaltura.com
+-   upload.kaltura.com
+-   transcoding.kaltura.com
+-   cfvod.kaltura.com
+-   engage.kaltura.com
+-   reach.kaltura.com
+-   events.kaltura.com
+-   ve.kaltura.com
+-   developer.kaltura.com
+-   docs.kaltura.com
+
+📺 NETFLIX
+
+Netflix — Main & Telemetry Domains
+
+-   netflix.com
+-   netflix.net
+-   www.netflix.com
+-   www.netflix.net
+-   ichnaea.netflix.com
+-   ichnaea-web.netflix.com
+-   ichnaea-web.dradis.netflix.com
+-   customerevents.netflix.com
+-   nrdp.nccp.netflix.com
+-   analytics.netflix.com
+-   metrics.netflix.com
+-   abtest.netflix.com
+-   experiments.netflix.com
+-   player.netflix.com
+-   player-telemetry.netflix.com
+-   cdn-telemetry.netflix.com
+-   api-global.netflix.com
+-   api-www.netflix.com
+-   appboot.netflix.com
+-   activity.netflix.com
+-   viewingactivity.netflix.com
+-   recs.netflix.com
+-   recommendations-telemetry.netflix.com
+-   api-logging.netflix.com
+-   logs.netflix.com
+-   logging.netflix.com
+-   errors.netflix.com
+-   crash-reports.netflix.com
+-   performance.netflix.com
+-   rum.netflix.com
+-   beacon.netflix.com
+-   presentationtracking.netflix.com
+-   nmtracking.netflix.com
+-   nrdp51-appboot.netflix.com
+-   nrdp52-appboot.netflix.com
+-   nrdp50-appboot.netflix.com
+-   nrdp.nccp.geo.netflix.com
+-   nrdp.nccp.us-east-1.prodaa.netflix.com
+-   nrdp.nccp.eu-west-1.prodaa.netflix.com
+-   nrdp.prod.ftl.netflix.com
+-   nrdp.prod.cloud.netflix.com
+-   nrdp-ipv6.prod.ftl.netflix.com
+-   uiboot.netflix.com
+-   uiboot.geo.netflix.com
+-   uiboot.us-east-1.prodaa.netflix.com
+-   uiboot.us-west-2.prodaa.netflix.com
+-   uiboot.eu-west-1.prodaa.netflix.com
+-   customerevents.us-west-2.prodaa.netflix.com
+-   ichnaea-web.geo.netflix.com
+-   ichnaea-web.us-west-2.prodaa.netflix.com
+-   push.prod.netflix.com
+-   moderate.ftl.netflix.com
+-   ios.prod.ftl.netflix.com
+-   ios-anycast.prod.ftl.netflix.com
+-   android.prod.ftl.netflix.com
+-   mobile-ixanycast.ftl.netflix.com
+-   anycast.ftl.netflix.com
+-   ixanycast.ftl.netflix.com
+-   h1-scm.prod.ftl.netflix.com
+-   h2-scm.prod.ftl.netflix.com
+-   ios.ngp.prod.cloud.netflix.com
+-   ios.prod.cloud.netflix.com
+-   ios.prod.dradis.netflix.com
+-   movies.netflix.com
+-   ichnaea.dradis.netflix.com
+-   fast.dradis.netflix.com
+-   mobile.prod.dradis.netflix.com
+-   www.dradis.netflix.com
+-   ios.prod.eu-west-1.internal.dradis.netflix.com
+-   www.eu-west-1.internal.dradis.netflix.com
+-   probe-dradis.prod.ftl.netflix.com
+-   probe-future-dradis.prod.ftl.netflix.com
+-   probe-aws-dradis.prod.ftl.netflix.com
+-   probe-future-aws-dradis.prod.ftl.netflix.com
+-   appboot.eu-west-1.origin.prodaa.netflix.com
+-   oca-api.netflix.com
+-   secure.netflix.com
+-   signup.netflix.com
+-   help.netflix.com
+-   cds-api.netflix.com
+-   www.netflix.com
+
+Netflix — CDN Domains
+
+-   fast.com
+-   nflxext.com
+-   nflximg.net
+-   nflximg.com
+-   nflxsearch.net
+-   nflxso.net
+-   nflxvideo.net
+-   nflxmulti.net
+-   nflxpl.com
+-   cdn1.nflxext.com
+-   netflix.com.edgesuite.net
+-   netflix.hs.llnwd.net
+-   assets.nflxext.com
+-   cdn-0.nflximg.com
+-   occ-0-3329-299.1.nflxso.net
+-   preapp.prod.partner.netflix.net
+
+Netflix — DNS Test Domains
+
+-   netflixdnstest0.com
+-   netflixdnstest1.com
+-   netflixdnstest2.com
+-   netflixdnstest3.com
+-   netflixdnstest4.com
+-   netflixdnstest5.com
+-   netflixdnstest6.com
+-   netflixdnstest7.com
+-   netflixdnstest8.com
+-   netflixdnstest9.com
+-   netflixdnstest10.com
+
+📺 YOUTUBE ANALYTICS
+
+YouTube Analytics
+
+-   s.youtube.com
+-   youtube-analytics.googleapis.com
+-   s.youtube.com
+-   video-stats.l.google.com
+-   livestreaming.googleapis.com
+-   live-metrics.youtube.com
+-   superchat-analytics.youtube.com
+-   monetization-tracking.youtube.com
+-   music.youtube.com
+-   music-analytics.youtube.com
+-   ytmusic-analytics.googleapis.com
+-   background-play-metrics.youtube.com
+-   offline-analytics.youtube.com
+-   gaming.youtube.com
+-   gaming-analytics.youtube.com
+
+📺 AMAZON PRIME VIDEO / FIRE TV
+
+Amazon — Core Telemetry
+
+-   atv-ps.amazon.com
+-   device-metrics-us.amazon.com
+-   device-metrics-us-2.amazon.com
+-   device-metrics-us-ud.amazon.com
+-   atv-ps-eu.amazon.com
+-   atv-ps-fe.amazon.com
+-   atv-ext.amazon.com
+-   atv-ext-eu.amazon.com
+-   atv-ext-fe.amazon.com
+-   device-metrics-eu.amazon.com
+-   device-metrics-fe.amazon.com
+-   device-metrics.amazon.com
+-   aiv-cdn.net
+-   aiv-delivery.net
+-   atv-ps.primevideo.com
+-   metrics.primevideo.com
+-   player-telemetry.amazon.com
+-   video-player-metrics.amazon.com
+-   cloudfront-cdn-analytics.amazon.com
+-   akamai-metrics.primevideo.com
+-   mas-ext.amazon.com
+-   mas-sdk.amazon.com
+-   firs-ta-g7g.amazon.com
+-   ta-g7g.amazon.com
+-   unagi-na.amazon.com
+-   ipv6.unagi-na.amazon.com
+-   unagi-eu.amazon.com
+-   unagi-fe.amazon.com
+-   unagi.amazon.ae
+-   unagi.amazon.ca
+-   unagi.amazon.cn
+-   unagi.amazon.co.jp
+-   unagi.amazon.co.uk
+-   unagi.amazon.com
+-   unagi.amazon.com.au
+-   unagi.amazon.com.be
+-   unagi.amazon.com.br
+-   unagi.amazon.com.mx
+-   unagi.amazon.com.tr
+-   unagi.amazon.de
+-   unagi.amazon.eg
+-   unagi.amazon.es
+-   unagi.amazon.fr
+-   unagi.amazon.in
+-   unagi.amazon.it
+-   unagi.amazon.nl
+-   unagi.amazon.pl
+-   unagi.amazon.sa
+-   unagi.amazon.se
+-   unagi.amazon.sg
+-   todo-ta-g7g.amazon.com
+-   firetv-na.amazon.com
+-   metrics-dss-eu.amazon.com
+-   metrics-dss-us.amazon.com
+-   vqm.amazon.com
+-   quality-metrics.primevideo.com
+-   error-reporting.primevideo.com
+-   crash-reports.amazon.com
+-   ab-test.primevideo.com
+-   experiments.amazon.com
+-   xray.amazon.com
+-   xray-eu.amazon.com
+-   xray-fe.amazon.com
+-   xray-web-assets.imdb.com
+-   api.imdb.com
+-   det-ta-g7g.amazon.com
+-   dp-rsm-prod.amazon.com
+-   dp-gw-na.amazon.com
+-   ntp-g7g.amazon.com
+-   device-messaging-na.amazon.com
+-   ags-ext.amazon.com
+-   cs-ext.amazon.com
+-   mads-eu.amazon.com
+-   mads-fe.amazon.com
+-   mads.amazon.com
+-   mads.amazon-adsystem.com
+-   federatedanalytics.amazon.com
+-   metrics.media-amazon.com
+-   applab-sdk.amazon.com
+-   ads-setu-proxy-eu.amazon.com
+-   advertising-api-eu.amazon.com
+-   advertising.a2z.com
+-   identity.browserapps.amazon.de
+-   live-streaming-metrics.amazon.com
+-   live.primevideo.com
+-   channels-analytics.amazon.com
+-   channels-metrics.primevideo.com
+-   freevee.amazon.com
+-   ads.freevee.amazon.com
+-   metrics.freevee.amazon.com
+-   alexa-video.amazon.com
+-   avs-alexa.amazon.com
+-   api.amazonalexa.com
+-   api.eu.amazonalexa.com
+-   avs-alexa-19-eu.amazon.com
+-   aviary.amazon.co.jp
+-   aviary.amazon.com
+-   aviary.amazon.de
+-   aviary.amazon.de
+
+Amazon — Advertising (amazon-adsystem.com)
+
+-   amazon-adsystem.com
+-   aax.amazon-adsystem.com
+-   aax-eu.amazon-adsystem.com
+-   aax-us-east.amazon-adsystem.com
+-   aax-fe.amazon-adsystem.com
+-   aax-us-pdx.amazon-adsystem.com
+-   aax-fe-sin.amazon-adsystem.com
+-   aax-ott.amazon-adsystem.com
+-   aax-ott-sdk.amazon-adsystem.com
+-   aax-ott-c2s.amazon-adsystem.com
+-   aax-us-east-ott.amazon-adsystem.com
+-   aax-us-west-ott.amazon-adsystem.com
+-   aax-eu-ott.amazon-adsystem.com
+-   aax-dtb-web.amazon-adsystem.com
+-   aax-dtb-mobile.amazon-adsystem.com
+-   aax-dtb-legacy.amazon-adsystem.com
+-   aax-cpm.amazon-adsystem.com
+-   aax-audio.amazon-adsystem.com
+-   aax-us-east-dtb.amazon-adsystem.com
+-   aax-us-east-dtb-mobile.amazon-adsystem.com
+-   aax-us-west-dtb-mobile.amazon-adsystem.com
+-   aax-apse-dtb-mobile.amazon-adsystem.com
+-   aax-apse-dtb-web.amazon-adsystem.com
+-   aax-eu-dtb-mobile.amazon-adsystem.com
+-   cdn-a.amazon-adsystem.com
+-   cdn-d.amazon-adsystem.com
+-   cdn-t.amazon-adsystem.com
+-   c.amazon-adsystem.com
+-   s.amazon-adsystem.com
+-   st.amazon-adsystem.com
+-   tk.amazon-adsystem.com
+-   tk-eu.amazon-adsystem.com
+-   ts.amazon-adsystem.com
+-   dra.amazon-adsystem.com
+-   da-cdn.amazon-adsystem.com
+-   imdb.amazon-adsystem.com
+-   mads.amazon-adsystem.com
+-   vaes.amazon-adsystem.com
+-   vaes-na.amazon-adsystem.com
+-   vaes-eu.amazon-adsystem.com
+-   vaes-fe.amazon-adsystem.com
+-   vfw.amazon-adsystem.com
+-   vfw-us.amazon-adsystem.com
+-   vfw-eu.amazon-adsystem.com
+-   vfw-ap.amazon-adsystem.com
+-   vfwm.amazon-adsystem.com
+-   vfws.amazon-adsystem.com
+-   vfw-us-west.amazon-adsystem.com
+-   sq-tungsten-ts.amazon-adsystem.com
+-   sq-tungsten-ts-eu.amazon-adsystem.com
+-   sq-tungsten-ts-fe.amazon-adsystem.com
+-   at-us-east.amazon-adsystem.com
+-   atfe.amazon-adsystem.com
+-   atue.amazon-adsystem.com
+-   alt1-3ps.amazon-adsystem.com
+-   pri1-3ps.amazon-adsystem.com
+-   z-na.amazon-adsystem.com
+-   z-eu.amazon-adsystem.com
+-   z-fe.amazon-adsystem.com
+-   z-in.amazon-adsystem.com
+-   ps-us.amazon-adsystem.com
+-   ps-eu.amazon-adsystem.com
+-   ps-fe.amazon-adsystem.com
+-   ps-jp.amazon-adsystem.com
+-   ir-na.amazon-adsystem.com
+-   ir-uk.amazon-adsystem.com
+-   ir-de.amazon-adsystem.com
+-   ir-fr.amazon-adsystem.com
+-   ir-it.amazon-adsystem.com
+-   ir-es.amazon-adsystem.com
+-   ir-ca.amazon-adsystem.com
+-   ir-br.amazon-adsystem.com
+-   ir-jp.amazon-adsystem.com
+-   ir-in.amazon-adsystem.com
+-   ir-mx.amazon-adsystem.com
+-   ir-nl.amazon-adsystem.com
+-   ir-cn.amazon-adsystem.com
+-   rcm-na.amazon-adsystem.com
+-   rcm-eu.amazon-adsystem.com
+-   rcm-fe.amazon-adsystem.com
+-   wms-na.amazon-adsystem.com
+-   wms-eu.amazon-adsystem.com
+-   wms-fe.amazon-adsystem.com
+-   wms-in.amazon-adsystem.com
+-   ws-na.amazon-adsystem.com
+-   ws-eu.amazon-adsystem.com
+-   ws-fe.amazon-adsystem.com
+-   ws-in.amazon-adsystem.com
+-   fls-na.amazon-adsystem.com
+-   fls-eu.amazon-adsystem.com
+-   fls-fe.amazon-adsystem.com
+-   fls-cn.amazon-adsystem.com
+-   mas-sdk.amazon-adsystem.com
+-   mas-sdk-eu.amazon-adsystem.com
+-   mas-sdk-cn.amazon-adsystem.com
+-   assoc-msdk-us.amazon-adsystem.com
+-   assoc-msdk-eu.amazon-adsystem.com
+-   assoc-msdk-cn.amazon-adsystem.com
+-   aps.amazon-adsystem.com
+-   axp.amazon-adsystem.com
+-   3px.axp.amazon-adsystem.com
+-   ono.axp.amazon-adsystem.com
+-   rtb.axp.amazon-adsystem.com
+-   video-player.aps.amazon-adsystem.com
+-   video-ads.a2z.com
+-   aax-eu.amazon.com
+-   aax-us.amazon.com
+-   aax-fe.amazon.com
+-   ads.amazon-adsystem.com
+
+Amazon — FLS / Advertising Country Variants
+
+-   advertising.amazon.ae
+-   advertising.amazon.ca
+-   advertising.amazon.co.jp
+-   advertising.amazon.co.uk
+-   advertising.amazon.com
+-   advertising.amazon.com.au
+-   advertising.amazon.com.br
+-   advertising.amazon.com.mx
+-   advertising.amazon.com.tr
+-   advertising.amazon.de
+-   advertising.amazon.dev
+-   advertising.amazon.eg
+-   advertising.amazon.es
+-   advertising.amazon.fr
+-   advertising.amazon.in
+-   advertising.amazon.it
+-   advertising.amazon.nl
+-   advertising.amazon.sa
+-   fls-eu.amazon.ae
+-   fls-eu.amazon.co.uk
+-   fls-eu.amazon.de
+-   fls-eu.amazon.es
+-   fls-eu.amazon.fr
+-   fls-eu.amazon.it
+-   fls-eu.amazon.nl
+-   fls-eu.amazon.pl
+-   fls-eu.amazon.sa
+-   fls-eu.amazon.se
+-   fls-eu.amazon.in
+-   fls-eu.amazon.com.tr
+-   fls-eu.amazon.com.be
+-   fls-eu.amazon.eg
+-   fls-fe.amazon.co.jp
+-   fls-fe.amazon.com.au
+-   fls-fe.amazon.sg
+-   fls-na.amazon.ca
+-   fls-na.amazon.com.br
+-   fls-na.amazon.com.mx
+-   fls-cn.amazon.cn
+-   fls-fe-opf.amazon.com
+-   fls-na.amazon.com
+-   assoc-amazon.com
+-   assoc-amazon.co.uk
+-   assoc-amazon.de
+-   assoc-amazon.fr
+-   assoc-amazon.ca
+-   assoc-amazon.it
+-   assoc-amazon.jp
+-   assoc-amazon.es
+-   wms-na.assoc-amazon.com
+-   wms-eu.assoc-amazon.com
+-   rcm-na.assoc-amazon.com
+-   rcm-eu.assoc-amazon.com
+-   ws-na.assoc-amazon.com
+-   ws-eu.assoc-amazon.com
+-   ws-fe.assoc-amazon.com
+-   rcm.amazon.com
+
+Amazon — Telemetry Video Insights & RUM
+
+-   telemetry.insights.video.a2z.com
+-   insights.video.a2z.com
+-   new-telemetry.insights.video.a2z.com
+-   global.telemetry.insights.video.a2z.com
+-   global-1.telemetry.insights.video.a2z.com
+-   global-2.telemetry.insights.video.a2z.com
+-   global-3.telemetry.insights.video.a2z.com
+-   us-east-1-1.telemetry.insights.video.a2z.com
+-   us-east-1-2.telemetry.insights.video.a2z.com
+-   us-east-1-3.telemetry.insights.video.a2z.com
+-   us-west-2-1.telemetry.insights.video.a2z.com
+-   eu-west-1-1.telemetry.insights.video.a2z.com
+-   ap-northeast-1-1.telemetry.insights.video.a2z.com
+-   ap-southeast-1-1.telemetry.insights.video.a2z.com
+-   ca-central-1-1.telemetry.insights.video.a2z.com
+-   sa-east-1-1.telemetry.insights.video.a2z.com
+-   mobileanalytics.us-east-1.amazonaws.com
+-   rum.us-east-1.amazonaws.com
+-   rum.us-east-2.amazonaws.com
+-   rum.us-west-1.amazonaws.com
+-   rum.us-west-2.amazonaws.com
+-   rum.eu-west-1.amazonaws.com
+-   rum.eu-west-2.amazonaws.com
+-   rum.eu-central-1.amazonaws.com
+-   rum.ap-northeast-1.amazonaws.com
+-   rum.ap-southeast-1.amazonaws.com
+-   rum.ca-central-1.amazonaws.com
+-   dataplane.rum.us-east-1.amazonaws.com
+-   dataplane.rum.eu-west-1.amazonaws.com
+-   dataplane.rum.ap-northeast-1.amazonaws.com
+-   client.rum.us-east-1.amazonaws.com
+
+Amazon — Forester / Minerva / Bugsnag
+
+-   forester.a2z.com
+-   endpoint.prod.us-east-1.forester.a2z.com
+-   endpoint.prod.us-west-2.forester.a2z.com
+-   endpoint.prod.eu-west-1.forester.a2z.com
+-   gateway.prod.us-east-1.forester.a2z.com
+-   gateway.prod.us-west-2.forester.a2z.com
+-   gateway.prod.eu-west-1.forester.a2z.com
+-   minerva.devices.a2z.com
+-   service.minerva.devices.a2z.com
+-   prod.service.minerva.devices.a2z.com
+-   us-east-1.prod.service.minerva.devices.a2z.com
+-   eu-west-1.prod.service.minerva.devices.a2z.com
+-   us-west-2.prod.service.minerva.devices.a2z.com
+-   bugsnag.appstore.a2z.com
+-   aca.bugsnag.appstore.a2z.com
+-   aca.ftv.bugsnag.appstore.a2z.com
+-   notify.bugsnag.appstore.a2z.com
+-   sessions.bugsnag.appstore.a2z.com
+-   firetv.bugsnag.appstore.a2z.com
+-   ftv.bugsnag.appstore.a2z.com
+-   notify.firetv.bugsnag.appstore.a2z.com
+-   bugsnag-event.monitor.core.app.alexa.a2z.com
+-   bugs.firebat.prime-video.amazon.dev
+-   prod.bugs.firebat.prime-video.amazon.dev
+-   events.prod.bugs.firebat.prime-video.amazon.dev
+-   sessions.prod.bugs.firebat.prime-video.amazon.dev
+-   prod-clustered.bugs.firebat.prime-video.amazon.dev
+-   paa-reporting-advertising.amazon
+-   ara.paa-reporting-advertising.amazon
+-   beta-ara.paa-reporting-advertising.amazon
+-   federatedanalytics.amazon.com
+
+Amazon — Fire TV / CloudFront CDN
+
+-   fireoscaptiveportal.com
+-   ktpx.amazon.com
+-   ktpx-eu.amazon.com
+-   dp-discovery-na-ext.amazon.com
+-   fireos-tablet-src.amazon.com
+-   softwareupdates.amazon.com
+-   d1s31zyz7dcc2d.cloudfront.net
+-   arcus-uswest.amazon.com
+-   msh.amazon.com
+-   dcape-na.amazon.com
+-   aviary.amazon.com
+-   mads-eu.amazon.com
+-   mas-ext-eu.amazon.com
+-   fls-na.amazon.com
+-   ftv-smtv.ntp-fireos.com
+-   amazonvideo.com
+-   amazonvideo.cc
+-   prime-video.amazon.dev
+-   prime-video.com
+-   primevideo.cc
+-   primevideo.info
+-   primevideo.org
+-   primevideo.tv
+-   video.a2z.com
+-   pv-cdn.net
+-   media-amazon.com
+-   d1v5ir2lpwr8os.cloudfront.net
+-   d22qjgkvxw22r6.cloudfront.net
+-   d25xi40x97liuc.cloudfront.net
+-   d27xxe7juh1us6.cloudfront.net
+-   dmqdd6hw24ucf.cloudfront.net
+-   d3p8zr0ffa9t17.cloudfront.net
+-   avodmp4s3ww-a.akamaihd.net
+-   llnwd.net
+-   amzdigital-a.akamaihd.net
+-   o2r2hew432.execute-api.us-east-1.amazonaws.com
+-   prod.amazoncrl.com
+-   amzdigitaldownloads.edgesuite.net
+-   content-na.drive.amazonaws.com
+-   kraken-measurements.s3-external-1.amazonaws.com
+-   alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com
+-   alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
+-   s3-dub-ww.cf.videorolls.row.aiv-cdn.net
+-   s3-iad-ww.cf.videorolls.row.aiv-cdn.net
+-   api.eu-west-1.aiv-delivery.net
+-   api.us-east-1.aiv-delivery.net
+-   api.us-west-2.aiv-delivery.net
+
+📺 DISNEY+ / HULU / ESPN+
+
+Disney+ — Core & Telemetry
+
+-   disneyplus.com
+-   disney-plus.net
+-   disneystreaming.com
+-   dssott.com
+-   bamgrid.com
+-   disney.mobile-log.api.bamgrid.com
+-   bam-sdk.bamgrid.com
+-   bam-sdk-configs.bamgrid.com
+-   bam-cell.bamgrid.com
+-   disney.api.edge.bamgrid.com
+-   analytics.disneyplus.com
+-   metrics.disneyplus.com
+-   telemetry.bamgrid.com
+-   logging.bamgrid.com
+-   cdn-analytics.bamgrid.com
+-   video-analytics.disneyplus.com
+-   player-telemetry.bamgrid.com
+-   playback-metrics.disneyplus.com
+-   device-identity.bamgrid.com
+-   registration.disneyplus.com
+-   ads.disneyplus.com
+-   ad-analytics.bamgrid.com
+-   error-reporting.disneyplus.com
+-   crash.bamgrid.com
+-   experiments.disneyplus.com
+-   ab-test.bamgrid.com
+-   recommendations.disneyplus.com
+-   recs-telemetry.bamgrid.com
+-   disney.connections.edge.bamgrid.com
+-   disney.content.edge.bamgrid.com
+-   disney.images.edge.bamgrid.com
+-   disney.playback.edge.bamgrid.com
+-   pcs.bamgrid.com
+-   playback-certs.bamgrid.com
+-   vpe-static.bamgrid.com
+-   search-api-disney.bamgrid.com
+-   static-assets.bamgrid.com
+-   prod-static.disney-plus.net
+-   dssedge.com
+-   starott.com
+-   disneyplug.disney.co.jp
+-   prod-ripcut-delivery.disney-plus.net
+-   vod-akc-na-central-1.media.dssott.com
+-   vod-akc-na-east-2.media.dssott.com
+-   vod-bgc-na-east-1.media.dssott.com
+-   vod-ftc-na-east-2.media.dssott.com
+-   search-api-disney.svcs.dssott.com
+-   dgel2a5rs1evz.cloudfront.net
+-   cdn.registerdisney.go.com
+-   disney-portal.my.onetrust.com
+-   disneyplus.bn5x.net
+-   disneyplus.com.ssl.sc.omtrdc.net
+-   disney.demdex.net
+-   disney.my.sentry.io
+-   bam.nr-data.net
+-   js-agent.newrelic.com
+-   d9.flashtalking.com
+-   adobedtm.com
+-   cdn.optimizely.com
+-   braze.com
+-   dilcdn.com
+-   streamingdisney.net
+-   watchdisneyfe.com
+-   dmed.technology
+-   dtci.co
+-   dtci.technology
+-   edgedatg.com
+
+Disney+ — Disney Regional Domains
+
+-   disney.com
+-   disney.asia
+-   disney.be
+-   disney.bg
+-   disney.ca
+-   disney.ch
+-   disney.co.il
+-   disney.co.jp
+-   disney.co.kr
+-   disney.co.th
+-   disney.co.uk
+-   disney.co.za
+-   disney.com.au
+-   disney.com.br
+-   disney.com.hk
+-   disney.com.tw
+-   disney.cz
+-   disney.de
+-   disney.dk
+-   disney.es
+-   disney.fi
+-   disney.fr
+-   disney.gr
+-   disney.hu
+-   disney.id
+-   disney.in
+-   disney.io
+-   disney.it
+-   disney.my
+-   disney.nl
+-   disney.no
+-   disney.ph
+-   disney.pl
+-   disney.pt
+-   disney.ro
+-   disney.ru
+-   disney.se
+-   disney.sg
+-   disney-asia.com
+-   disney-discount.com
+-   disney-studio.com
+-   disney-studio.net
+-   disneyme.com
+-   disneyturkiye.com.tr
+-   disneyadvertising.com
+
+Disney+ — Disney Content & Campaign Domains
+
+-   disneyadsales.com
+-   disneyarena.com
+-   disneyaulani.com
+-   disneybaby.com
+-   disneycareers.com
+-   disneychannelonstage.com
+-   disneychannelroadtrip.com
+-   disneycruisebrasil.com
+-   disneyenconcert.com
+-   disneyiejobs.com
+-   disneyinflight.com
+-   disneyinternational.com
+-   disneyinternationalhd.com
+-   disneyjunior.com
+-   disneylatino.com
+-   disneymagicmoments.co.uk
+-   disneymagicmoments.co.za
+-   disneymagicmoments.de
+-   disneymagicmoments.es
+-   disneymagicmoments.fr
+-   disneymagicmoments.gr
+-   disneymagicmoments.it
+-   disneymagicmoments.pl
+-   disneymagicmomentsme.com
+-   disneymeetingsandevents.com
+-   disneymovieinsiders.com
+-   disneymusicpromotion.com
+-   disneynewseries.com
+-   disneynow.com
+-   disneyredirects.com
+-   disneysrivieraresort.com
+-   disneystore.com
+-   disneysubscription.com
+-   disneytickets.co.uk
+-   disneytvajobs.com
+-   disneyworld-go.com
+-   go.com
+-   go-disneyworldgo.com
+-   mickey.tv
+-   moviesanywhere.com
+-   shopdisney.com
+-   shops-disney.com
+-   playmation.com
+-   sorcerersarena.com
+-   spaindisney.com
+-   themarvelexperiencetour.com
+-   thestationbymaker.com
+-   thisispolaris.com
+-   beautyandthebeastmusical.co.uk
+-   20thcenturystudios.com.au
+-   20thcenturystudios.com.br
+-   20thcenturystudios.jp
+-   abc-studios.com
+-   abc.com
+-   abcnews.com
+-   abcnews.edgesuite.net
+-   babble.com
+-   babyzone.com
+-   adventuresbydisney.com
+
+Disney+ — Marvel, Star Wars, NatGeo, Star
+
+-   marvel.com
+-   marvel10thanniversary.com
+-   marveldimensionofheroes.com
+-   marvelparty.net
+-   marvelpinball.com
+-   marvelsdoubleagent.com
+-   marvelspotlightplays.com
+-   marvelsuperheroseptember.com
+-   marvelsuperwar.com
+-   starwars.com
+-   starwarsgalacticstarcruiser.com
+-   starwarskids.com
+-   nationalgeographic.com
+-   nationalgeographicpartners.com
+-   natgeomaps.com
+-   ngeo.com
+-   star-brasil.com
+-   star-latam.com
+
+HULU
+
+-   hulu.com
+-   www.hulu.com
+-   auth.hulu.com
+-   play.hulu.com
+-   assets.hulu.com
+-   static.hulu.com
+-   img.hulu.com
+-   queue.hulu.com
+-   web.hulu.com
+-   metrics.hulu.com
+-   analytics.hulu.com
+-   telemetry.hulu.com
+-   player-metrics.hulu.com
+-   playback-analytics.hulu.com
+-   ads.hulu.com
+-   ads-v-darwin.hulu.com
+-   ads-fa-darwin.hulu.com
+-   ad-analytics.hulu.com
+-   ad-beacon.hulu.com
+-   cdn-analytics.hulu.com
+-   video-edge.hulu.com
+-   tracking.hulu.com
+-   events.hulu.com
+-   beacons.hulu.com
+-   device-metrics.hulu.com
+-   device-analytics.hulu.com
+-   recommendations.hulu.com
+-   personalization.hulu.com
+-   errors.hulu.com
+-   crash-reports.hulu.com
+-   experiments.hulu.com
+-   ab-test.hulu.com
+-   live-metrics.hulu.com
+-   live-analytics.hulu.com
+-   api-logging.hulu.com
+-   logs.hulu.com
+
+ESPN+
+
+-   espn.com
+-   espn.co.uk
+-   espn.net
+-   espncdn.com
+-   espnqa.com
+-   watchespn.com
+-   espn.hb.omtrdc.net
+-   espndotcom.tt.omtrdc.net
+-   site.api.espn.com
+-   sports.core.api.espn.com
+-   site.web.api.espn.com
+-   cdn.espn.com
+-   analytics.espn.com
+-   metrics.espn.com
+-   telemetry.espn.com
+-   live-sports-analytics.espn.com
+-   sports-metrics.espn.com
+-   video-analytics.espn.com
+-   ads.espn.com
+-   ad-metrics.espn.com
+
+📺 HBO MAX / MAX
+
+HBO Max / Max — Core Domains
+
+-   hbomax.com
+-   hbomax.eu
+-   max.com
+-   maxgo.com
+-   hbo.com
+-   hbonow.com
+-   hbogo.com
+-   hbogo.cz
+-   hbogo.eu
+-   hbogo.hu
+-   hbogo.sk
+-   hbogo.co.th
+-   hbogoasia.com
+-   hbogoasia.hk
+-   hbogoasia.id
+-   hbogoasia.my
+-   hbogoasia.ph
+-   hbogoasia.sg
+-   hbogoasia.tw
+-   hbo.ba
+-   hbo.bg
+-   hbo.cz
+-   hbo.eu
+-   hbo.hr
+-   hbo.hu
+-   hbo.me
+-   hbo.mk
+-   hbo.pl
+-   hbo.ro
+-   hbo.rs
+-   hbo.sk
+-   hbonordic.com
+-   hbonordic.tv
+-   hboasia.com
+-   hboespana.com
+-   hbo-europe.com
+-   hboportugal.com
+-   hbospain.com
+-   hboaccess.com
+-   hboarchives.com
+-   hboenterprises.com
+-   hboinflight.com
+-   hbolacontent.net
+-   hbolaunchpad.com
+-   hbomailman.com
+-   hbomaxcdn.com
+-   hbomediarelations.com
+-   hboprod.com
+-   hbotvsales.com
+-   homeboxoffice.com
+-   homebox.com
+-   redbyhbo.com
+-   warnermediacdn.com
+-   beforeigners.com
+-   brightline.tv
+-   cinemax.com
+-   discomax.com
+-   elpionero.es
+-   forthethrone.com
+-   telegraph.api.hbo.com
+-   comet.api.hbo.com
+
+HBO Max / Max — Analytics & Telemetry
+
+-   analytics.hbomax.com
+-   metrics.hbomax.com
+-   telemetry.hbomax.com
+-   player-analytics.hbomax.com
+-   video-metrics.hbomax.com
+-   cdn-analytics.hbomax.com
+-   ads.hbomax.com
+-   ad-analytics.hbomax.com
+-   errors.hbomax.com
+-   crash-reports.hbomax.com
+-   tracking.hbomax.com
+-   events.hbomax.com
+-   recommendations.hbomax.com
+-   personalization.hbomax.com
+-   analytics.max.com
+-   metrics.max.com
+-   telemetry.max.com
+-   analytics.discoveryplus.com
+-   metrics.discoveryplus.com
+
+HBO Max / Max — CDN
+
+-   hbo.com.c.footprint.net
+-   hbo.com.edgesuite.net
+-   hbo.map.fastly.net
+-   hbomax-images.warnermediacdn.com
+-   hbomaxdash.s.llnwi.net
+
+📺 PARAMOUNT+ / PLUTO TV
+
+Paramount+
+
+-   paramount.com
+-   paramountplus.com
+-   www.paramountplus.com
+-   api.paramountplus.com
+-   cdn.paramountplus.com
+-   image.paramountplus.com
+-   auth.paramountplus.com
+-   analytics.paramountplus.com
+-   metrics.paramountplus.com
+-   telemetry.paramountplus.com
+-   player-analytics.paramountplus.com
+-   video-metrics.paramountplus.com
+-   ads.paramountplus.com
+-   ad-analytics.paramountplus.com
+-   live-metrics.paramountplus.com
+-   sports-analytics.paramountplus.com
+-   saa.paramountplus.com
+-   cdn.privacy.paramount.com
+-   bakery.pplus.paramount.tech
+-   paramount.tech
+-   showtime.com
+-   showtimeanytime.com
+-   sho.com
+-   cbsaavideo.com
+-   cbsinteractive.com
+-   cbsi.com
+-   cbsivideo.com
+-   cbsinteractive.hb.omtrdc.net
+-   cbsstatic.com
+-   cbsi.vo.llnwd.net
+-   cbsnews.com
+-   cbssports.com
+-   cbslocal.com
+-   analytics.cbsaavideo.com
+-   metrics.cbs.com
+-   saa.cbsi.com
+-   vod-gcs-cedexis.cbsaavideo.com
+-   cbsi.live.ott.irdeto.com
+-   irdeto.com
+-   wwwimage-us.pplusstatic.com
+-   pplusstatic.com
+-   wwwimage-secure.cbsstatic.com
+-   thumbnails.cbsig.net
+-   cbsig.net
+-   vod-gcs-qwilt.cbsaavideo.com
+-   vod-gcs-google.cbsaavideo.com
+-   availability-fastly.syncbak-mediastore-cedexis.cbsaavideo.com
+-   cbsi.demdex.net
+
+Pluto TV
+
+-   pluto.tv
+-   analytics.pluto.tv
+-   metrics.pluto.tv
+-   telemetry.pluto.tv
+-   ads.pluto.tv
+-   ad-server.pluto.tv
+-   ad-analytics.pluto.tv
+-   beacon.pluto.tv
+-   player-metrics.pluto.tv
+-   video-analytics.pluto.tv
+-   channel-analytics.pluto.tv
+-   epg-metrics.pluto.tv
+-   cdn-analytics.pluto.tv
+-   video-edge.pluto.tv
+-   t.pluto.tv
+-   k.pluto.tv
+-   i.pluto.tv
+-   service.pluto.tv
+-   silo.pluto.tv
+-   content-delivery.pluto.tv
+-   api.pluto.tv
+-   boot.pluto.tv
+-   cdn.pluto.tv
+-   tags.tiqcdn.com
+-   collect.tealiumiq.com
+-   tealium.hs.llnwd.net
+-   pluto.tv.sc.omtrdc.net
+-   fwmrm.net
+-   jelly.mdhv.io
+
+📺 PEACOCK
+
+Peacock
+
+-   peacocktv.com
+-   analytics.peacocktv.com
+-   metrics.peacocktv.com
+-   telemetry.peacocktv.com
+-   player-analytics.peacocktv.com
+-   video-metrics.peacocktv.com
+-   ads.peacocktv.com
+-   ad-analytics.peacocktv.com
+-   ad-beacon.peacocktv.com
+-   live-metrics.peacocktv.com
+-   sports-analytics.peacocktv.com
+-   analytics.nbcuni.com
+-   metrics.nbc.com
+-   cdn.peacocktv.com
+-   mt.ssai.peacocktv.com
+-   mytv.clients.peacocktv.com
+-   bff-ext.clients.peacocktv.com
+-   imageservice.disco.peacocktv.com
+-   play.ovp.peacocktv.com
+-   atom.peacocktv.com
+-   cybertron.id.peacocktv.com
+-   meg.disco.peacocktv.com
+-   ovp.peacocktv.com
+-   pconfig-prd.cdn.peacocktv.com
+-   netskrt.net
+-   nbcuni.com
+-   nbcsports.com
+-   nbc.com
+-   bravo.com
+-   usanetwork.com
+-   telemundo.com
+-   syfy.com
+
+📺 APPLE TV+
+
+Apple TV+ — Core
+
+-   tv.apple.com
+-   play.itunes.apple.com
+-   amp-api.tv.apple.com
+-   analytics.tv.apple.com
+-   player-telemetry.tv.apple.com
+-   playback-metrics.apple.com
+-   uts-api.itunes.apple.com
+-   cdn-analytics.apple.com
+-   crashes.apple.com
+-   diagnostics.apple.com
+-   recommendations.tv.apple.com
+-   metrics.apple.com
+-   metrics.icloud.com
+-   metrics.mzstatic.com
+-   securemetrics.apple.com
+-   dzc-metrics.mzstatic.com
+-   supportmetrics.apple.com
+-   books-analytics-events.apple.com
+-   notes-analytics-events.apple.com
+-   stocks-analytics-events.apple.com
+-   weather-analytics-events.apple.com
+-   feedbackws.icloud.com
+-   iadsdk.apple.com
+-   securemvt.apple.com
+-   xp.apple.com
+-   amp-api-edge.apps.apple.com
+-   amp-api.podcasts.apple.com
+-   amp-api-search-edge.apps.apple.com
+-   api.videos.apple.com
+-   sb.tv.apple.com
+-   videos.apple.com
+-   tbsc.apple.com
+-   zeusmedia.apple.com
+-   upp.itunes.apple.com
+-   ocvs.apple.com
+-   captive.apple.com
+-   gs-loc.apple.com
+-   time-ios.apple.com
+-   time.apple.com
+-   ocsp.apple.com
+-   crl.apple.com
+-   albert.apple.com
+-   api-glb-ams.smoot.apple.com
+-   api-glb-fra.smoot.apple.com
+-   api-glb-iad.smoot.apple.com
+-   api-glb-lon.smoot.apple.com
+-   api-glb-sjc.smoot.apple.com
+-   api.smoot.apple.com
+-   bag.itunes.apple.com
+-   c.apple.news
+-   cf.iadsdk.apple.com
+-   configuration.apple.com
+-   diagassets.apple.com
+-   guzzoni.apple.com
+-   su.itunes.apple.com
+-   swcdn.apple.com
+-   swdist.apple.com
+-   swdownload.apple.com
+-   swpost.apple.com
+-   swscan.apple.com
+-   updates-http.cdn-apple.com
+-   updates.cdn-apple.com
+-   valid.apple.com
+-   wu-calculator.itunes.apple.com
+
+Apple TV+ — Tracker & Advertising (Hagezi)
+
+-   cstat.g.aaplimg.com
+-   diagassets.g.aaplimg.com
+-   cdn-xp-ingest-ab.v.aaplimg.com
+-   iphonesubmissions.v.aaplimg.com
+-   prod-event-relay-api.v.aaplimg.com
+-   prod-event-relay-sports-api.v.aaplimg.com
+-   prod-event-relay-stocks-api.v.aaplimg.com
+-   prod-event-relay-weather-api.v.aaplimg.com
+-   prod-news-notification-events.v.aaplimg.com
+-   securemetrics.v.aaplimg.com
+-   securemvt.v.aaplimg.com
+-   smoot-feedback.v.aaplimg.com
+-   supportmetrics.v.aaplimg.com
+-   xp.v.aaplimg.com
+-   ab.apple.com.akadns.net
+-   cstat-lb.apple.com.akadns.net
+-   diagassets-lb.apple.com.akadns.net
+-   diagnostics.apple.com.akadns.net
+-   iadcontent-lb.apple.com.akadns.net
+-   iadsdk.apple.com.akadns.net
+-   idiagnostics.apple.com.akadns.net
+-   iphonesubmissions.apple.com.akadns.net
+-   radarsubmissions.apple.com.akadns.net
+-   iad-apple.com.akadns.net
+-   skadnetwork.iad-apple.com.akadns.net
+-   partiality.itunes-apple.com.akadns.net
+-   xp.itunes-apple.com.akadns.net
+-   xp-cdn-lb.itunes-apple.com.akadns.net
+-   searchads.lb-apple.com.akadns.net
+-   advertising.apple.com
+-   advp.apple.com
+-   api-adservices.apple.com
+-   cstat.apple.com
+-   cstat-origin.apple.com
+-   databeacon.apple.com
+-   datacollection.apple.com
+-   dz1dt3wqswdezgx4j2ryem5iad.apple.com
+-   experiments.apple.com
+-   graffiti-tags.apple.com
+-   iad.apple.com
+-   iadcontent.apple.com
+-   iadmoo.apple.com
+-   ca.iadsdk.apple.com
+-   tr.iadsdk.apple.com
+-   iadworkbench.apple.com
+-   idiagnostics.apple.com
+-   idiagnostics-mdn1.apple.com
+-   internalcheck.apple.com
+-   iphonesubmissions.apple.com
+-   iphonesubmissions-old.apple.com
+-   partiality.itunes.apple.com
+-   launch.apple.com
+-   msc-dct-prod.msc.apple.com
+-   news-app-events.apple.com
+-   news-events.apple.com
+-   news-notification-events.apple.com
+-   news-sports-events.apple.com
+-   notes-analytics-events.apple.com
+-   odin-signals.apple.com
+-   performance-partners.apple.com
+-   phonesubmissions.apple.com
+-   prd-usw2-requestattribution-iad.apple.com
+-   proxy-skadnetwork.apple.com
+-   radarsubmissions.apple.com
+-   searchads.apple.com
+-   fbs.smoot.apple.com
+-   xp-cdn.apple.com
+-   feedbackws.fe.apple-dns.cn
+-   feedbackws.fe2.apple-dns.net
+-   me.apple-dns.net
+-   probe.me.apple-dns.net
+-   securemetrics.apple.com.cn
+-   feedbackws.icloud.com.cn
+-   acfeedbackws.icloud.com
+-   cstat.cdn-apple.com
+-   cdn-xp-ingest.edge.apple
+-   experiments.apple.com.edgekey.net
+-   iadsdk.apple.com.edgekey.net
+-   partiality.itunes.apple.com.edgekey.net
+-   xp.apple.com.edgekey.net
+-   cstat.apple.com.edgesuite.net
+-   searchads.apple.com.edgesuite.net
+-   applemediaservices.com
+-   qwapi.com
+-   www.qwapi.com
+-   marketing.services.apple
+-   beacon.shazam.com
+-   h4g3z1-native.apple.web.app
+
+📺 TUBI
+
+Tubi
+
+-   tubitv.com
+-   analytics.tubitv.com
+-   metrics.tubitv.com
+-   telemetry.tubitv.com
+-   ads.tubitv.com
+-   ad-server.tubitv.com
+-   ad-analytics.tubitv.com
+-   ad-beacon.tubitv.com
+-   player-analytics.tubitv.com
+-   video-metrics.tubitv.com
+-   tracking.tubitv.com
+-   events.tubitv.com
+-   api.tubitv.com
+-   img.tubitv.com
+-   cdn.tubitv.com
+-   static.tubitv.com
+-   stubios.tubitv.com
+-   materials.tubitv.com
+-   sso.partner.tubitv.com
+-   help.tubitv.com
+-   liveramp.com
+-   rlcdn.com
+-   thetradedesk.com
+-   adsrvr.org
+-   moloco.com
+-   kochava.com
+-   control.kochava.com
+-   fox.com
+-   foxcorporation.com
+
+🔴 ROKU CHANNEL
+
+Roku — Core & Channel
+
+-   roku.com
+-   therokuchannel.roku.com
+-   rokutime.com
+-   api.roku.com
+-   api.rokutime.com
+-   image.roku.com
+-   retail.rpay.roku.com
+-   api.rpay.roku.com
+-   configsvc.sc.roku.com
+-   keysvc.sc.roku.com
+-   content.sr.roku.com
+-   content-detail.sr.roku.com
+-   playback-detail.sr.roku.com
+-   images.sr.roku.com
+-   api2.sr.roku.com
+-   vod.delivery.roku.com
+-   vod-playlist.sr.roku.com
+-   rights-manager.sr.roku.com
+-   wv-license.sr.roku.com
+-   static-delivery.sr.roku.com
+-   bookmarks.sr.roku.com
+-   navigation.sr.roku.com
+-   images-svc.sr.roku.com
+-   tis.cti.roku.com
+-   ls.cti.roku.com
+-   lat-services.api.data.roku.com
+-   roku.admeasurement.com
+-   developer.roku.com
+-   my.roku.com
+-   support.roku.com
+-   help.roku.com
+-   amoeba-plus.web.roku.com
+
+Roku — Advertising & ACR
+
+-   analytics.roku.com
+-   metrics.therokuchannel.roku.com
+-   telemetry.therokuchannel.roku.com
+-   ads.therokuchannel.roku.com
+-   ad-analytics.roku.com
+-   admin-advertising.roku.com
+-   ads.roku.com
+-   api.ads.roku.com
+-   delta-staging.ads.roku.com
+-   i.ads.roku.com
+-   identity.ads.roku.com
+-   identity-dev.ads.roku.com
+-   info.ads.roku.com
+-   login.ads.roku.com
+-   p.ads.roku.com
+-   preferences.ads.roku.com
+-   cdn.tcom.ads.roku.com
+-   adservices.roku.com
+-   advertising.roku.com
+-   info.advertising.roku.com
+-   advertising-v3.roku.com
+-   acr.roku.com
+-   admon.acr.roku.com
+-   admon-api.acr.roku.com
+-   adview.acr.roku.com
+-   admon.ca.acr.roku.com
+-   ca-service.acr.roku.com
+-   channels.acr.roku.com
+-   grafana.acr.roku.com
+-   tvacr-tools.acr.roku.com
+-   us-service.acr.roku.com
+-   ravm.tv
+-   cdn.ravm.tv
+-   display.ravm.tv
+-   p.ravm.tv
+-   raps.ravm.tv
+-   cnames.raps.ravm.tv
+-   www.ravm.tv
+-   hb-4y7w.raps.ravm.tv
+-   hb-e8zk.raps.ravm.tv
+-   hb-gf26.raps.ravm.tv
+-   hb-kl5v.raps.ravm.tv
+-   hb-m9sn.raps.ravm.tv
+-   hb-njub.raps.ravm.tv
+-   hb-r93v.raps.ravm.tv
+-   hb-t5u9.raps.ravm.tv
+-   hb-tm7d.raps.ravm.tv
+-   hb-w4a8.raps.ravm.tv
+-   hb-xd54.raps.ravm.tv
+
+Roku — Logs (Telemetry Nodes)
+
+-   logs.roku.com
+-   austin.logs.roku.com
+-   bailey.logs.roku.com
+-   benjamin.logs.roku.com
+-   benjamin-w.logs.roku.com
+-   brewster.logs.roku.com
+-   cooper.logs.roku.com
+-   digdug.logs.roku.com
+-   digdug-g2.logs.roku.com
+-   esp.logs.roku.com
+-   external.logs.roku.com
+-   aws.external.logs.roku.com
+-   use1.aws.external.logs.roku.com
+-   g3.logs.roku.com
+-   giga.logs.roku.com
+-   griffin.logs.roku.com
+-   lagrange.logs.roku.com
+-   liberty.logs.roku.com
+-   littlefield.logs.roku.com
+-   lockhart.logs.roku.com
+-   logan.logs.roku.com
+-   longview.logs.roku.com
+-   lt.logs.roku.com
+-   madison.logs.roku.com
+-   marlin.logs.roku.com
+-   midland.logs.roku.com
+-   mobile.logs.roku.com
+-   mustang.logs.roku.com
+-   nemo.logs.roku.com
+-   os-12-5-alpha.logs.roku.com
+-   paolo.logs.roku.com
+-   pico.logs.roku.com
+-   richmond.logs.roku.com
+-   rockett.logs.roku.com
+-   scribe.logs.roku.com
+-   sugarland.logs.roku.com
+-   tyler.logs.roku.com
+-   victoria.logs.roku.com
+-   weighted.logs.roku.com
+-   windsor.logs.roku.com
+-   logs.sr.roku.com
+-   traces.sr.roku.com
+-   userdata.sr.roku.com
+-   assets.sr.roku.com
+-   logs.dev.sr.roku.com
+-   traces.dev.sr.roku.com
+-   userdata.dev.sr.roku.com
+
+Roku — MSC / BDP / RPAY / GCP / Staging
+
+-   blog-advertising.msc.roku.com
+-   advertising.us-east-1.msc.roku.com
+-   advertising-v3.us-east-1.msc.roku.com
+-   blog-advertising-v2.us-east-1.msc.roku.com
+-   adeng-identity-prod3.bdp.roku.com
+-   adeng-looker-bi-oneview-prod-1001.bdp.roku.com
+-   adi-airflow.bdp.roku.com
+-   ads.beta.roku.com
+-   api.ads.beta.roku.com
+-   cloudservices.roku.com
+-   samples.voice.cti.roku.com
+-   ravm-staging.data.roku.com
+-   ads-aka-us-east-1.delivery.roku.com
+-   ads-aka-us-west-2.delivery.roku.com
+-   ads-cf-us-east-1.delivery.roku.com
+-   ads-cf-us-west-2.delivery.roku.com
+-   ads-us-east-1.delivery.roku.com
+-   ads-us-east-2.delivery.roku.com
+-   ads-us-west-2.delivery.roku.com
+-   ads.gcp.roku.com
+-   dev.ads.gcp.roku.com
+-   us-east4.ads.gcp.roku.com
+-   us-west1.ads.gcp.roku.com
+-   ad.prod.rpay.int.roku.com
+-   ad-bl.prod.rpay.int.roku.com
+-   ad-eng.prod.rpay.int.roku.com
+-   ad-eng-pci.prod.rpay.int.roku.com
+-   ad-eng-pci-bl.prod.rpay.int.roku.com
+-   ad-eng-bl.use1.prod.rpay.int.roku.com
+-   ad-eng-pci-bl.use1.prod.rpay.int.roku.com
+-   ad-eng-bl.usw2.prod.rpay.int.roku.com
+-   ad-eng-pci-bl.usw2.prod.rpay.int.roku.com
+-   ad-eng-pci-bl.geoproximity.rpay.roku.com
+-   ads.staging.roku.com
+-   login.ads.staging.roku.com
+-   wwwimg.staging.roku.com
+-   customer-feedbacks.web.roku.com
+-   pixel.web.roku.com
+-   pixel.staging.web.roku.com
+-   wwwimg.roku.com
+-   h4g3z1-native.roku.web.app
+-   api.rokutime.com
+
+🎮 TWITCH
+
+Twitch
+
+-   twitch.tv
+-   jtvnw.net
+-   ttvnw.net
+-   twitchcdn.net
+-   live-video.net
+-   ext-twitch.tv
+-   twitch.a2z.com
+-   twitch-shadow.net
+-   twitchcdn-shadow.net
+-   twitchsvc.net
+-   pubster.twitch.tv
+-   spade.twitch.tv
+-   countess.twitch.tv
+-   nexus.twitch.tv
+-   video-stats.twitch.tv
+-   player-telemetry.twitch.tv
+-   video-weaver-telemetry.twitch.tv
+-   irc-ws.chat.twitch.tv
+-   pubsub-edge.twitch.tv
+-   ads.twitch.tv
+-   ad-beacon.twitch.tv
+-   ad-analytics.twitch.tv
+-   video-ad-creative.twitch.tv
+-   extensions-analytics.twitch.tv
+-   extensions-discovery.twitch.tv
+-   bits.twitch.tv
+-   commerce.twitch.tv
+-   payments-analytics.twitch.tv
+-   vod-analytics.twitch.tv
+-   vod-storyboard.twitch.tv
+-   recommendations.twitch.tv
+-   discovery.twitch.tv
+-   user-behavior.twitch.tv
+-   engagement.twitch.tv
+-   errors.twitch.tv
+-   crash-reports.twitch.tv
+-   qos.twitch.tv
+-   quality-metrics.twitch.tv
+-   cdn-analytics.twitch.tv
+-   edge-metrics.twitch.tv
+-   dashboard-analytics.twitch.tv
+-   creator-analytics.twitch.tv
+-   mobile-sdk-telemetry.twitch.tv
+-   gql.twitch.tv
+-   api.twitch.tv
+-   clips.twitch.tv
+-   client-event-reporter.twitch.tv
+-   usher.ttvnw.net
+-   vod-secure.twitch.tv
+-   vod-metro.twitch.tv
+-   static-cdn.jtvnw.net
+-   production.assets.clips.twitchcdn.net
+
+🎮 FACEBOOK GAMING / KICK
+
+Facebook Gaming
+
+-   facebook.com
+-   analytics.facebook.com
+-   gaming-analytics.facebook.com
+-   live-video-analytics.facebook.com
+
+Kick.com
+
+-   kick.com
+-   analytics.kick.com
+-   metrics.kick.com
+-   telemetry.kick.com
+-   ads.kick.com
+-   player-analytics.kick.com
+-   api.kick.com
+-   stream.kick.com
+-   assets.kick.com
+-   static.kick.com
+-   images.kick.com
+-   files.kick.com
+-   feed.kick.com
+-   ext.kick.com
+-   auth.kick.com
+-   id.kick.com
+-   tv.kick.com
+-   mobile.kick.com
+-   dashboard.kick.com
+-   about.kick.com
+-   shop.kick.com
+
+🎮 OTHER GAME STREAMING
+
+Steam Broadcasting
+
+-   steamcommunity.com
+-   broadcast-analytics.steampowered.com
+-   video-stats.steamusercontent.com
+
+Trovo (Tencent)
+
+-   trovo.live
+-   analytics.trovo.live
+-   metrics.trovo.live
+-   live-analytics.trovo.live
+-   stream-metrics.trovo.live
+-   ads.trovo.live
+-   api.trovo.live
+-   cdn.trovo.live
+-   img.trovo.live
+-   live.trovo.live
+
+Nimo TV (Huya)
+
+-   nimo.tv
+-   analytics.nimo.tv
+-   metrics.nimo.tv
+-   live-analytics.nimo.tv
+-   game-analytics.nimo.tv
+-   api.nimo.tv
+-   cdn.nimo.tv
+-   sg.nimo.tv
+-   br.nimo.tv
+
+Huya
+
+-   huya.com
+-   stat.huya.com
+-   analytics.huya.com
+-   huyaimg.com
+-   cdn.huya.com
+-   live.huya.com
+-   vod.huya.com
+-   al.huya.com
+-   al2.huya.com
+-   aldirect.huya.com
+
+Douyu
+
+-   douyu.com
+-   analytics.douyu.com
+-   stats.douyu.com
+-   pl.douyu.com
+-   shark.niu.douyu.com
+-   staticlive.douyucdn.com
+-   douyucdn.com
+-   tx.douyucdn.com
+
+AfreecaTV
+
+-   afreecatv.com
+-   analytics.afreecatv.com
+-   metrics.afreecatv.com
+-   api.afreecatv.com
+-   cdn.afreecatv.com
+-   live.afreecatv.com
+-   vod.afreecatv.com
+-   static.afreecatv.com
+-   play.afreecatv.com
+
+Mildom
+
+-   mildom.com
+-   analytics.mildom.com
+-   metrics.mildom.com
+-   api.mildom.com
+-   cdn.mildom.com
+-   img.mildom.com
+-   www.mildom.com
+
+DLive
+
+⚠️ TRON/BitTorrent
+
+-   dlive.tv
+-   analytics.dlive.tv
+-   metrics.dlive.tv
+
+📺 REGIONAL STREAMING — INDIA
+
+Hotstar / JioHotstar
+
+⚠️ Disney+ Hotstar + JioCinema merged → JioHotstar
+
+-   hotstar.com
+-   jiohotstar.com
+-   www.jiohotstar.com
+-   api.jiohotstar.com
+-   cdn.jiohotstar.com
+-   jiocinema.com
+-   jiostar.com
+-   analytics.hotstar.com
+-   metrics.hotstar.com
+-   telemetry.hotstar.com
+-   video-analytics.hotstar.com
+-   player-metrics.hotstar.com
+-   live-sports-analytics.hotstar.com
+-   cricket-metrics.hotstar.com
+-   ads.hotstar.com
+-   ad-analytics.hotstar.com
+-   api.hotstar.com
+-   cdn.hotstar.com
+-   img.hotstar.com
+-   static.hotstar.com
+-   auth.hotstar.com
+-   events.hotstar.com
+-   player.hotstar.com
+-   geo.hotstar.com
+
+Zee5
+
+-   zee5.com
+-   analytics.zee5.com
+-   metrics.zee5.com
+-   video-analytics.zee5.com
+-   ads.zee5.com
+-   api.zee5.com
+-   cdn.zee5.com
+-   auth.zee5.com
+-   img.zee5.com
+-   static.zee5.com
+
+Voot
+
+-   voot.com
+-   analytics.voot.com
+-   metrics.voot.com
+-   video-analytics.voot.com
+-   ads.voot.com
+-   voot.co
+
+MX Player
+
+-   mxplayer.in
+-   analytics.mxplayer.in
+-   metrics.mxplayer.in
+-   video-analytics.mxplayer.in
+-   ads.mxplayer.in
+-   api.mxplayer.in
+-   cdn.mxplayer.in
+-   img.mxplayer.in
+-   auth.mxplayer.in
+-   static.mxplayer.in
+
+SonyLIV
+
+-   sonyliv.com
+-   api-godavari.sonyliv.com
+-   origin-staticv2.sonyliv.com
+-   www.sonyliv.com
+-   cdn.sonyliv.com
+-   img.sonyliv.com
+-   auth.sonyliv.com
+-   player.sonyliv.com
+-   akamai-cdn.sonyliv.com
+-   sonylivetv.com
+
+Aha Video
+
+-   aha.video
+-   www.aha.video
+-   api.aha.video
+-   cdn.aha.video
+-   img.aha.video
+-   arhamedia.com
+
+Sun NXT
+
+-   sunnxt.com
+-   www.sunnxt.com
+-   api.sunnxt.com
+-   cdn.sunnxt.com
+-   sunnetwork.in
+
+Lionsgate Play
+
+-   lionsgateplay.com
+-   www.lionsgateplay.com
+-   api.lionsgateplay.com
+-   cdn.lionsgateplay.com
+-   lionsgate.com
+
+Airtel Xstream
+
+-   airtelxstream.in
+-   www.airtelxstream.in
+-   airtel.in
+-   webview.airtel.tv
+-   airtel.tv
+-   api.airtel.tv
+-   cdn.airtel.tv
+-   airtelxstream.com
+
+VI Movies & TV
+
+-   vimoviesandtv.in
+-   www.vimoviesandtv.in
+-   moviesandtv.myvi.in
+
+📺 REGIONAL STREAMING — EAST ASIA
+
+iQiyi
+
+-   iqiyi.com
+-   analytics.iqiyi.com
+-   stats.iqiyi.com
+-   video-analytics.iqiyi.com
+-   ads.iqiyi.com
+
+Tencent Video / WeTV
+
+-   v.qq.com
+-   video.qq.com
+-   wetv.vip
+-   play.wetv.vip
+-   wetv.acc.qq.com
+-   wetv.tv.qq.com
+-   wetvconpol.tv.qq.com
+-   play.wetvinfo.com
+-   access.wetvinfo.com
+-   acc.wetvinfo.com
+-   static.wetvinfo.com
+-   soup.v.qq.com
+-   commdata.v.qq.com
+-   vv.video.qq.com
+-   mcgi.v.qq.com
+-   uploadlog.video.qq.com
+-   hwvip.video.qq.com
+-   pay.video.qq.com
+-   sdkconfig.video.qq.com
+-   yc.static.qq.com
+-   intldlgs.qq.com
+-   renfeng.qq.com
+-   yq.qqsafe.qq.com
+-   wechat.wecity.qq.com
+-   ihg.acc.qq.com
+-   os.qzs.qq.com
+-   kg1.qq.com
+-   kg2.qq.com
+-   kg3.qq.com
+-   kg4.qq.com
+-   kg7.qq.com
+-   kg8.qq.com
+-   aka.stream.kg.qq.com
+-   aka.tsmusic.kg.qq.com
+-   y.gtimg.cn
+-   api.dreamreader.qq.com
+
+Youku (Alibaba)
+
+-   youku.com
+-   analytics.youku.com
+-   stats.youku.com
+-   video-analytics.youku.com
+
+Bilibili
+
+-   bilibili.com
+-   bilibili.tv
+-   analytics.bilibili.com
+-   stats.bilibili.com
+-   video-analytics.bilibili.com
+-   live.bilibili.com
+-   live-analytics.bilibili.com
+-   hdslb.com
+-   bilivideo.com
+-   bilivideo.cn
+-   biliapi.net
+-   biliapi.com
+-   biliintl.com
+-   bilicdn1.com
+-   api.bilibili.com
+-   passport.bilibili.com
+-   player.bilibili.com
+-   static.hdslb.com
+-   i0.hdslb.com
+-   i1.hdslb.com
+-   i2.hdslb.com
+-   bimp.hdslb.com
+-   upos-hz-mirrorakam.akamaized.net
+-   broadcast.chat.bilibili.com
+
+Wavve (Korea)
+
+-   wavve.com
+-   analytics.wavve.com
+-   metrics.wavve.com
+
+Tving (Korea)
+
+-   tving.com
+-   analytics.tving.com
+-   metrics.tving.com
+
+AbemaTV (Japan)
+
+-   abema.tv
+-   abema.io
+-   abema-tv.com
+-   abematv.co.jp
+-   analytics.abema.tv
+-   metrics.abema.tv
+-   live-analytics.abema.tv
+-   abematv.akamaized.net
+-   ds-linear-abematv.akamaized.net
+-   ds-vod-abematv.akamaized.net
+-   linear-abematv.akamaized.net
+-   vod-abematv.akamaized.net
+-   ameba.jp
+-   amebame.com
+-   ameblo.jp
+-   bucketeer.jp
+-   hayabusa.io
+-   hayabusa.media
+-   winticket.jp
+-   adx.promo
+
+Niconico (Japan)
+
+-   nicovideo.jp
+-   analytics.nicovideo.jp
+-   stats.nicovideo.jp
+
+TVer (Japan)
+
+-   tver.jp
+-   www.tver.jp
+-   platform-api.tver.jp
+-   streaks.jp
+-   playback.api.streaks.jp
+-   images.streaks.jp
+-   api.tver.jp
+-   cdn.tver.jp
+-   img.tver.jp
+-   static.tver.jp
+-   ads.tver.jp
+-   ntv.co.jp
+-   tv-asahi.co.jp
+-   tbs.co.jp
+-   tv-tokyo.co.jp
+-   fujitv.co.jp
+
+U-NEXT (Japan)
+
+-   unext.co.jp
+-   video.unext.jp
+-   account.unext.jp
+-   video.hnext.jp
+-   help.unext.jp
+-   note.unext.co.jp
+
+Hami Video (Taiwan)
+
+-   hamivideo.hinet.net
+-   hinet.net
+
+Kocowa
+
+-   kocowa.com
+-   help.kocowa.com
+
+OnDemandKorea
+
+-   ondemandkorea.com
+-   odkmedia.net
+-   signup.ondemandkorea.com
+-   ondemandchina.com
+-   ondemandviet.com
+-   ondemandlatino.com
+-   amasian.tv
+-   kooli.tv
+-   odkshop.com
+-   api.ondemandkorea.com
+-   cdn.ondemandkorea.com
+-   img.ondemandkorea.com
+
+📺 REGIONAL STREAMING — AUSTRALIA / CANADA
+
+Stan (Australia)
+
+-   stan.com.au
+-   analytics.stan.com.au
+-   metrics.stan.com.au
+-   video-analytics.stan.com.au
+
+Binge (Australia)
+
+-   binge.com.au
+-   analytics.binge.com.au
+-   metrics.binge.com.au
+-   kayo.com.au
+-   foxtel.com.au
+-   foxtel.com
+-   streamotion.com.au
+-   hubbl.com.au
+
+Crave (Canada)
+
+-   crave.ca
+-   analytics.crave.ca
+-   metrics.crave.ca
+-   video-analytics.crave.ca
+-   api.crave.ca
+-   cdn.crave.ca
+-   auth.crave.ca
+-   player.crave.ca
+-   ctv.ca
+-   ctv.com
+-   noovo.ca
+-   bellmedia.ca
+-   tsn.ca
+
+📺 REGIONAL STREAMING — LATIN AMERICA
+
+Globoplay (Brazil)
+
+-   globoplay.globo.com
+-   analytics.globoplay.globo.com
+-   metrics.globo.com
+-   globo.com
+-   g1.globo.com
+-   ge.globo.com
+-   gshow.globo.com
+-   gloob.globo.com
+-   multishow.globo.com
+-   sportv.globo.com
+-   canaisglobo.com.br
+-   id.globo.com
+-   login.globo.com
+-   static.globo.com
+-   s.glbimg.com
+
+Claro Video (Latin America)
+
+-   clarovideo.com
+-   analytics.clarovideo.com
+-   metrics.clarovideo.com
+
+Blim (Mexico)
+
+-   blim.com
+-   analytics.blim.com
+
+📺 REGIONAL STREAMING — EUROPE
+
+Movistar+ (Spain)
+
+-   movistarplus.es
+-   analytics.movistarplus.es
+-   metrics.movistarplus.es
+
+SkyShowtime (Europe)
+
+-   skyshowtime.com
+-   analytics.skyshowtime.com
+-   metrics.skyshowtime.com
+-   api.skyshowtime.com
+-   cdn.skyshowtime.com
+-   auth.skyshowtime.com
+-   player.skyshowtime.com
+-   img.skyshowtime.com
+-   static.skyshowtime.com
+-   ovp.skyshowtime.com
+-   help.skyshowtime.com
+-   corporate.skyshowtime.com
+-   clients.skyshowtime.com
+-   bff-ext.clients.skyshowtime.com
+-   imageservice.disco.skyshowtime.com
+
+Canal+ / myCanal (France)
+
+-   canalplus.com
+-   mycanal.fr
+-   analytics.canalplus.com
+-   metrics.mycanal.fr
+-   canal.fr
+-   www.canal.fr
+-   canal-plus.com
+-   canalplus-cdn.net
+-   hss-od.snl-lv3.canalplus-cdn.net
+-   secure-gen-hapi.canal-plus.com
+-   www.mycanal.fr
+-   client.mycanal.fr
+-   appletv.mycanal.fr
+-   vod.mycanal.fr
+-   kids.canalplus.com
+-   pass.canalplus.com
+-   vod.canalplus.com
+-   www.canalplus.com
+-   clique.tv
+-   studiocanal.com
+-   studiocanal.co.uk
+
+Salto (France)
+
+⚠️ CLOSED — Shut down in March 2024
+
+-   salto.fr
+-   analytics.salto.fr
+-   metrics.salto.fr
+
+Joyn (Germany)
+
+⚠️ CLOSED — Shut down in March 2024
+
+-   joyn.de
+-   analytics.joyn.de
+-   metrics.joyn.de
+
+RTL+ (Germany)
+
+-   rtlplus.com
+-   tvnow.de
+-   analytics.rtlplus.com
+-   api.rtlplus.com
+-   cdn.rtlplus.com
+-   auth.rtlplus.com
+-   rtl.de
+-   bertelsmann.de
+-   broadpeak.io
+
+Videoland (Netherlands)
+
+-   videoland.com
+-   analytics.videoland.com
+-   metrics.videoland.com
+-   api.videoland.com
+-   cdn.videoland.com
+-   auth.videoland.com
+-   img.videoland.com
+
+Viaplay (Nordic)
+
+-   viaplay.com
+-   viaplay.se
+-   viaplay.no
+-   viaplay.dk
+-   viaplay.fi
+-   viaplay.pl
+-   viaplay.is
+-   viaplay.lt
+-   viaplay.lv
+-   viaplay.ee
+-   viaplay.tv
+-   analytics.viaplay.com
+-   metrics.viaplay.com
+-   api.viaplay.com
+-   cdn.viaplay.com
+-   content.viaplay.com
+-   image.viaplay.com
+-   viafree.se
+-   viafree.dk
+-   viafree.no
+-   viaplaygroup.com
+-   nent.eu
+
+BritBox
+
+⚠️ BritBox UK → ITVX Premium
+
+-   britbox.com
+-   britbox.co.uk
+-   britbox.ca
+-   britbox.com.au
+-   analytics.britbox.com
+-   metrics.britbox.com
+-   video-analytics.britbox.com
+-   api.britbox.com
+-   cdn.britbox.com
+-   auth.britbox.com
+-   player.britbox.com
+-   img.britbox.com
+-   static.britbox.com
+-   itvx.com
+-   www.itvx.com
+-   api.itvx.com
+-   cdn.itvx.com
+-   itv.com
+-   www.itv.com
+
+📺 MIDDLE EAST / AFRICA STREAMING
+
+OSN+ (Middle East)
+
+-   osnplus.com
+-   osn.com
+-   myosn.osn.com
+-   support.osnplus.com
+-   help.osnplus.com
+-   api.osnplus.com
+-   cdn.osnplus.com
+-   auth.osnplus.com
+-   player.osnplus.com
+-   img.osnplus.com
+-   clients.osnplus.com
+-   ovp.osnplus.com
+
+StarzPlay (MENA)
+
+⚠️ Became Lionsgate+, then shut down; OSN+ is taking over
+
+-   starzplay.com
+-   starzplayarabia.com
+-   dev-jit-cdn-lb.starzplayarabia.com
+-   dev-cdn-lb.parsifalentertainment.com
+
+TOD (beIN Media - MENA)
+
+-   tod.tv
+-   www.tod.tv
+-   support.tod.tv
+-   help.tod.tv
+
+Showmax (Africa)
+
+⚠️ Shutting down in April 2026
+
+-   showmax.com
+-   api.showmax.com
+-   playback-api.showmax.com
+-   cms.showmax.com
+-   showmax.engineering
+-   help.showmax.com
+-   support.showmax.com
+
+🏈 SPORTS STREAMING
+
+DAZN
+
+-   dazn.com
+-   analytics.dazn.com
+-   metrics.dazn.com
+-   telemetry.dazn.com
+-   live-sports-analytics.dazn.com
+-   stream-metrics.dazn.com
+-   video-analytics.dazn.com
+-   player-metrics.dazn.com
+-   ads.dazn.com
+-   ad-analytics.dazn.com
+-   indazn.com
+-   dazndn.com
+-   dazn-api.com
+-   daznservices.com
+-   help.dazn.com
+-   auth.dazn.com
+-   player.dazn.com
+-   images.dazn.com
+-   dazn.map.fastly.net
+-   freewheel.tv
+-   online-metrix.net
+
+FuboTV
+
+-   fubo.tv
+-   analytics.fubo.tv
+-   metrics.fubo.tv
+-   telemetry.fubo.tv
+-   live-analytics.fubo.tv
+-   channel-metrics.fubo.tv
+-   dvr-analytics.fubo.tv
+-   recording-metrics.fubo.tv
+-   ads.fubo.tv
+-   ad-analytics.fubo.tv
+-   www.fubo.tv
+-   api.fubo.tv
+-   auth.fubo.tv
+-   play.fubo.tv
+-   img.fubo.tv
+-   static.fubo.tv
+-   cdn.fubo.tv
+-   player.fubo.tv
+-   stream.fubo.tv
+-   molotov.tv
+
+F1 TV Pro
+
+-   f1tv.formula1.com
+-   formula1.com
+-   api.formula1.com
+-   account.formula1.com
+-   f1tv-api.formula1.com
+-   f1tv-images.formula1.com
+-   f1tv-cdn-cent-east.formula1.com
+-   f1tv-cdn-cent-live.formula1.com
+-   f1tv-cdn-cent-vod.formula1.com
+-   f1tv-cdn-cent-west.formula1.com
+-   livetiming.formula1.com
+-   amp.formula1.com
+-   corp.formula1.com
+-   f1store.formula1.com
+-   drive.formula1.com
+
+UFC Fight Pass / TrillerTV
+
+⚠️ FITE.tv → Rebranded as TrillerTV in December 2023
+
+-   ufcfightpass.com
+-   welcome.ufcfightpass.com
+-   www.ufcfightpass.com
+-   ufc.tv
+-   ufc.com
+-   trillertv.com
+-   fite.tv
+-   api.ufcfightpass.com
+-   cdn.ufcfightpass.com
+-   player.ufcfightpass.com
+-   flipps.com
+-   api.trillertv.com
+-   cdn.trillertv.com
+-   stream.trillertv.com
+-   support.trillertv.com
+
+NFL+
+
+-   nfl.com
+-   nflplus.nfl.com
+-   watch.nfl.com
+-   api.nfl.com
+-   video.nfl.com
+-   static.nfl.com
+-   cdn.nfl.com
+-   ticket.nfl.com
+-   auth.nfl.com
+-   identity.nfl.com
+-   media.nfl.com
+-   nextgen-stats.nfl.com
+-   nflgsis.com
+
+MLB.TV
+
+-   mlb.com
+-   mlb.tv
+-   mlbtv.com
+-   statsapi.mlb.com
+-   lookup-service-prod.mlb.com
+-   video.mlb.com
+-   content.mlb.com
+-   mlb-cuts-diamond.mlb.com
+-   securea.mlb.com
+-   www.mlb.com
+-   img.mlb.com
+-   ids.mlb.com
+-   auth.mlb.com
+-   media.mlb.com
+-   cuts.diamond.mlb.com
+-   dapi.mlb.com
+
+NBA League Pass
+
+-   nba.com
+-   watch.nba.com
+-   cdn.nba.com
+-   api.nba.com
+-   api-web.nba.com
+-   stats.nba.com
+-   statsapi.nba.com
+-   api.stats.nba.com
+-   gom-uat.ngss.nba.com
+-   support.watch.nba.com
+-   leaguepass.nba.com
+-   ablink.email.nba.com
+-   neulionms-a.akamaihd.net
+-   websdk.opin.media
+-   nba-api-cdn.opin.media
+-   www.nba.com
+-   media.nba.com
+-   auth.nba.com
+-   secure.nba.com
+-   dapi.nba.com
+
+NHL.TV / NHL
+
+-   nhl.com
+-   api-web.nhle.com
+-   api.nhle.com
+-   statsapi.web.nhl.com
+
+FloSports
+
+-   flosports.tv
+-   go.flosports.tv
+-   engineering.flosports.tv
+-   support.flosports.tv
+-   flolive.tv
+-   flowrestling.org
+-   flohockey.tv
+-   flotrack.org
+-   floracing.com
+-   florugby.com
+-   hockeytech.com
+-   trackwrestling.com
+-   api.flosports.tv
+-   cdn.flosports.tv
+-   stream.flosports.tv
+-   img.flosports.tv
+-   auth.flosports.tv
+-   embed.flosports.tv
+
+GAIN (Turkey)
+
+-   gain.tv
+-   www.gain.tv
+
+🎥 NICHE VIDEO PLATFORMS
+
+Nebula
+
+-   watchnebula.com
+-   nebula.tv
+-   analytics.nebula.tv
+-   metrics.watchnebula.com
+-   creator-analytics.nebula.tv
+-   api.nebula.tv
+-   cdn.nebula.tv
+-   static.nebula.tv
+-   img.nebula.tv
+-   videodelivery.net
+
+CuriosityStream
+
+-   curiositystream.com
+-   analytics.curiositystream.com
+-   metrics.curiositystream.com
+-   documentary-analytics.curiositystream.com
+-   api.curiositystream.com
+-   cdn.curiositystream.com
+-   static.curiositystream.com
+-   img.curiositystream.com
+-   auth.curiositystream.com
+-   player.curiositystream.com
+
+Crunchyroll
+
+-   crunchyroll.com
+-   analytics.crunchyroll.com
+-   metrics.crunchyroll.com
+-   telemetry.crunchyroll.com
+-   video-analytics.crunchyroll.com
+-   player-metrics.crunchyroll.com
+-   ads.crunchyroll.com
+-   ad-analytics.crunchyroll.com
+-   manga-analytics.crunchyroll.com
+-   vrv.co
+-   crunchyrollcdn.com
+-   beta.crunchyroll.com
+-   static.crunchyroll.com
+-   img1.ak.crunchyroll.com
+-   img1.ak.crunchyrollcdn.com
+
+HIDIVE
+
+⚠️ Acquired by AMC Networks in 2023
+
+-   hidive.com
+-   www.hidive.com
+-   news.hidive.com
+-   welcome.hidive.com
+-   api.hidive.com
+-   cdn.hidive.com
+-   static.hidive.com
+-   img.hidive.com
+
+Shudder
+
+-   shudder.com
+-   www.shudder.com
+-   support.shudder.com
+-   help.shudder.com
+-   api.shudder.com
+-   cdn.shudder.com
+-   auth.shudder.com
+-   player.shudder.com
+
+Acorn TV
+
+-   acorn.tv
+-   www.acorn.tv
+-   support.acorn.tv
+-   acornonline.com
+-   api.acorn.tv
+-   cdn.acorn.tv
+
+MUBI
+
+-   mubi.com
+-   analytics.mubi.com
+-   metrics.mubi.com
+-   video-analytics.mubi.com
+-   api.mubi.com
+-   cdn.mubi.com
+-   assets.mubi.com
+-   img.mubi.com
+-   static.mubi.com
+-   auth.mubi.com
+-   notebook.mubi.com
+
+Criterion Channel
+
+-   criterionchannel.com
+-   analytics.criterionchannel.com
+-   metrics.criterionchannel.com
+-   criterion.com
+-   films.criterionchannel.com
+-   vhx.tv
+-   api.vhx.tv
+-   cdn.vhx.tv
+
+Sundance Now
+
+-   sundancenow.com
+-   www.sundancenow.com
+-   support.sundancenow.com
+-   pre-prod.sundancenow.com
+-   api.sundancenow.com
+-   cdn.sundancenow.com
+-   amcnetworks.com
+
+Fandor
+
+-   fandor.com
+-   analytics.fandor.com
+-   api.fandor.com
+-   cdn.fandor.com
+-   cineverse.com
+-   cinedigm.com
+
+Dropout
+
+-   dropout.tv
+-   www.dropout.tv
+-   watch.dropout.tv
+-   signup.dropout.tv
+-   api.dropout.tv
+-   cdn.dropout.tv
+-   static.dropout.tv
+-   wistia.com
+-   fast.wistia.com
+-   fast.wistia.net
+-   embedwistia-a.akamaihd.net
+
+Arrow Player (Arrow Films)
+
+-   arrow-player.com
+-   www.arrow-player.com
+-   arrowvideo.com
+-   api.arrow-player.com
+-   cdn.arrow-player.com
+-   player.arrow-player.com
+-   vhx.tv
+
+Midnight Pulp (Cineverse)
+
+-   midnightpulp.com
+-   www.midnightpulp.com
+-   midnightpulp.com
+
+Revry (LGBTQ+)
+
+-   revry.tv
+-   www.revry.tv
+-   revry.com
+-   api.revry.tv
+-   cdn.revry.tv
+
+MagellanTV
+
+-   magellantv.com
+-   www.magellantv.com
+-   api.magellantv.com
+-   cdn.magellantv.com
+
+AsianCrush (Cineverse)
+
+-   asiancrush.com
+-   www.asiancrush.com
+
+RetroCrush (Cineverse)
+
+-   retrocrush.com
+-   www.retrocrush.com
+
+Rakuten Viki
+
+-   viki.com
+-   api.viki.com
+-   assets.viki.io
+-   cdn.viki.io
+-   viki.io
+-   vikiplatform.com
+-   api.vikiplatform.com
+-   img.vikiplatform.com
+-   static.vikiplatform.com
+-   rakuten.tv
+-   rakutentvstaging.com
+
+Hayu (NBCUniversal)
+
+-   hayu.com
+-   watch.hayu.com
+-   devices.hayu.com
+-   support.hayu.com
+-   api.hayu.com
+-   cdn.hayu.com
+-   auth.hayu.com
+-   player.hayu.com
+-   img.hayu.com
+-   disco.hayu.com
+-   clients.hayu.com
+-   ovp.hayu.com
+
+MHZ Choice
+
+-   mhzchoice.com
+-   watch.mhzchoice.com
+-   info.mhzchoice.com
+-   support.mhznetworks.com
+
+Means TV
+
+-   means.tv
+-   analytics.means.tv
+
+Daily Wire+
+
+-   dailywire.com
+-   analytics.dailywire.com
+-   metrics.dailywire.com
+-   api.dailywire.com
+-   cdn.dailywire.com
+-   stream.dailywire.com
+-   video.dailywire.com
+-   support.dailywire.com
+-   dwplus.com
+-   dailywireplus.com
+
+PragerU
+
+-   prageru.com
+-   analytics.prageru.com
+-   api.prageru.com
+-   cdn.prageru.com
+-   cdn2.prageru.com
+-   video.prageru.com
+-   kids.prageru.com
+
+AMC+
+
+-   amcplus.com
+-   www.amcplus.com
+-   join.amcplus.com
+-   support.amcplus.com
+-   ns01.amcndns.com
+-   ns02.amcndns.com
+-   ns03.amcndns.com
+-   ns04.amcndns.com
+-   api.amcplus.com
+-   cdn.amcplus.com
+-   auth.amcplus.com
+-   player.amcplus.com
+-   images.amcplus.com
+-   ovp.amcplus.com
+-   amcnetworks.com
+-   amcni.com
+-   amc.com
+-   bbcamerica.com
+-   ifc.com
+-   sundancetv.com
+-   wetv.com
+-   ifcfilms.com
+
+ALLBLK (AMC Networks)
+
+-   allblk.tv
+-   www.allblk.tv
+-   support.allblk.tv
+-   api.allblk.tv
+-   cdn.allblk.tv
+
+Viu
+
+-   viu.com
+-   api.viu.com
+-   cdn.viu.com
+-   img.viu.com
+-   auth.viu.com
+-   static.viu.com
+-   pccwmedia.com
+
+Eros Now
+
+-   erosnow.com
+-   api.erosnow.com
+-   cdn.erosnow.com
+-   img.erosnow.com
+-   eros.com
+-   erosstx.com
+
+Vidio (Indonesia)
+
+-   vidio.com
+-   api.vidio.com
+-   cdn.vidio.com
+-   img.vidio.com
+-   auth.vidio.com
+-   emtek.co.id
+
+POPS Worldwide
+
+-   popsww.com
+-   pops.vn
+
+🎬 RENTAL / PURCHASE PLATFORMS
+
+Vudu / Fandango at Home
+
+⚠️ Transferred from Walmart to Fandango (2024)
+
+-   vudu.com
+-   analytics.vudu.com
+-   metrics.vudu.com
+-   video-analytics.vudu.com
+-   player-metrics.vudu.com
+-   purchase-analytics.vudu.com
+-   rental-metrics.vudu.com
+-   fandangoathome.com
+-   analytics.fandangoathome.com
+-   api.vudu.com
+-   cdn.vudu.com
+-   img.vudu.com
+-   static.vudu.com
+-   auth.vudu.com
+-   player.vudu.com
+-   sso.vudu.com
+-   movies.vudu.com
+-   fandango.com
+-   fandangomedia.com
+
+Google Play Movies
+
+-   play.google.com
+-   movie-analytics.google.com
+-   play-movies-metrics.googleapis.com
+
+Apple TV (iTunes Movies)
+
+-   itunes.apple.com
+-   buy.itunes.apple.com
+
+Microsoft Movies & TV
+
+-   microsoft.com
+-   movies-analytics.microsoft.com
+
+🎪 KIDS VIDEO PLATFORMS
+
+YouTube Kids
+
+-   youtubekids.com
+-   kids-analytics.youtube.com
+-   youtube-kids-metrics.googleapis.com
+-   parental-control-metrics.youtubekids.com
+
+Disney Now
+
+-   disneynow.com
+-   analytics.disneynow.com
+-   kids-analytics.disney.com
+
+Nick Jr / Noggin
+
+-   nickjr.com
+-   noggin.com
+-   analytics.noggin.com
+-   metrics.nickjr.com
+
+PBS Kids
+
+-   pbskids.org
+-   analytics.pbskids.org
+-   video-metrics.pbskids.org
+
+Kidoodle TV
+
+-   kidoodle.tv
+-   analytics.kidoodle.tv
+
+Amazon Kids+ (FreeTime)
+
+-   freetime.amazon.com
+-   kids-analytics.amazon.com
+
+📺 DEVICE-BASED STREAMING PLATFORMS
+
+Samsung TV Plus
+
+-   samsungtvplus.com
+-   www.samsungtvplus.com
+-   samsungcloud.tv
+-   samsungcloudsolution.com
+-   samsungcloudsolution.net
+-   lcprd1.samsungcloudsolution.net
+-   lcprd2.samsungcloudsolution.net
+-   time.samsungcloudsolution.com
+-   config.samsungads.com
+-   log-config.samsungacr.com
+-   ads.samsung.com
+-   events.samsungads.com
+-   samsungads.com
+-   samsungacr.com
+-   log-ingestion.samsungacr.com
+-   log-ingestion-eu.samsungacr.com
+-   log-ingestion-ap2.samsungacr.com
+-   log-ingestion-kr.samsungacr.com
+-   log-ingestion-sa.samsungacr.com
+-   log-ingestion-v1-ap2.samsungacr.com
+-   log-ingestion-v2-ap2.samsungacr.com
+-   s3-config.samsungacr.com
+-   www.samsungacr.com
+-   samsungcloud.tv
+-   acr-us-prd.samsungcloud.tv
+-   acr-eu-prd.samsungcloud.tv
+-   acr-kr-prd.samsungcloud.tv
+-   acr-au-prd.samsungcloud.tv
+-   acr-br-prd.samsungcloud.tv
+-   acr-ca-prd.samsungcloud.tv
+-   acr-in-prd.samsungcloud.tv
+-   acr-mx-prd.samsungcloud.tv
+-   samsungadhub.com
+-   ad.samsungadhub.com
+-   ww25.ad.samsungadhub.com
+-   analytics.bigdata.samsung.com
+-   event-tracking.samsung.com
+-   nmetrics.samsung.com
+-   smetrics.samsung.com
+-   sca.samsung.com
+-   bigdata.ssp.samsung.com
+-   dc.dqa.samsung.com
+-   api.runestone.samsung.com
+-   samsungallstore.com
+-   egs.samsungallstore.com
+-   samsungr.com
+-   samsungrm.com
+-   samsungtvads.com
+-   diagmon-policy.samsungdm.com
+-   diagmon-serviceapi.samsungdm.com
+-   apu.samsungelectronics.com
+-   bpu.samsungelectronics.com
+-   cpu.samsungelectronics.com
+-   dpu.samsungelectronics.com
+-   kpu.samsungelectronics.com
+-   upu.samsungelectronics.com
+-   xpu.samsungelectronics.com
+-   ypu.samsungelectronics.com
+-   zpu.samsungelectronics.com
+-   prderrordumphsm.samsungcloudsolution.com
+-   devicelog.samsungcloudsolution.net
+-   ad-server.samsungads.com
+-   ads.samsungads.com
+-   config.samsungads.com
+-   dsp.samsungads.com
+-   go.samsungads.com
+-   rtb-config.samsungads.com
+-   tvp-ads-log.samsungads.com
+
+LG Channels+
+
+-   lgchannels.com
+-   www.lgchannels.com
+-   lgtvcommon.com
+-   aic.recommend.lgtvcommon.com
+-   aic.wiseconfig.lgtvcommon.com
+-   aic.homeprv.lgtvcommon.com
+-   aic.nudge.lgtvcommon.com
+-   cdpbeacon.lgtvcommon.com
+-   cdpsvc.lgtvcommon.com
+-   homeprv.lgtvcommon.com
+-   nudge.lgtvcommon.com
+-   rdl.lgtvcommon.com
+-   recommend.lgtvcommon.com
+-   service.lgtvcommon.com
+-   eic.service.lgtvcommon.com
+-   eic.cdpbeacon.lgtvcommon.com
+-   eic.cdpsvc.lgtvcommon.com
+-   eic.homeprv.lgtvcommon.com
+-   eic.nudge.lgtvcommon.com
+-   eic.rdl.lgtvcommon.com
+-   eic.recommend.lgtvcommon.com
+-   eic.wiseconfig.lgtvcommon.com
+-   homeprv.lgtvcommon.es
+-   cdpsvc.lgtvcommon.es
+-   aic.rdl.lgtvcommon.com
+-   lgsmartad.com
+-   de.ad.lgsmartad.com
+-   de.info.lgsmartad.com
+-   es.ad.lgsmartad.com
+-   es.info.lgsmartad.com
+-   eu.ad.lgsmartad.com
+-   eu.info.lgsmartad.com
+-   kr.info.lgsmartad.com
+-   in.info.lgsmartad.com
+-   info.lgsmartad.com
+-   lgappstv.com
+-   ad.lgappstv.com
+-   ibis.lgappstv.com
+-   ibs.lgappstv.com
+-   de.ibs.lgappstv.com
+-   de.lgrecommends.lgappstv.com
+-   de.emp.lgsmartplatform.com
+-   es.ibs.lgappstv.com
+-   eu.ibs.lgappstv.com
+-   fr.ibs.lgappstv.com
+-   lgtviot.com
+-   aic.sports.lgtviot.com
+-   aic.api.lgtviot.com
+-   aic.lgtviot.com
+-   eic-ocp.lgtviot.com
+-   eic.lgtviot.com
+-   eic.sports.lgtviot.com
+-   qt2-kic.lgtviot.com
+-   lge.com
+-   aic-gfts.lge.com
+-   aic-ngfts.lge.com
+-   ngfts.lge.com
+-   qt2-ngfts.lge.com
+-   eic-gfts.lge.com
+-   eic-ngfts.lge.com
+-   eic-gfts.lge.com.edgekey.net
+-   lgtvonline.lge.com
+-   su-ssl.lge.com
+-   lgthinq.com
+-   aic-op-lss.lgthinq.com
+-   lss.lgthinq.com
+-   common.lgthinq.com
+-   eic-common.lgthinq.com
+-   eic-iotservice.lgthinq.com
+-   eic-op-lss.lgthinq.com
+-   lgsmartplatform.com
+-   us.emp.lgsmartplatform.com
+-   us.lgeapi.com
+-   gb.lgeapi.com
+-   de.lgeapi.com
+-   gb-lgeapi-com.esi-prd.net
+-   us.lgtvsdp.com
+-   de.lgtvsdp.com
+-   de.rdx2.lgtvsdp.com
+-   de.tvsdp.lgeapi.com
+-   es.lgtvsdp.com
+-   es.rdx2.lgtvsdp.com
+-   fr.lgtvsdp.com
+-   fr.rdx2.lgtvsdp.com
+-   fr.security.lgtvsdp.com
+-   de-lgtvsdp-com.aws-prd.net
+-   nextlgsdp.com
+-   aws-prd.net
+-   eic-rum.elsa.lgecloudapm.com
+-   prov-lg.alphonso.tv
+-   alphonso.tv
+-   *.alphonso.tv
+-   bl-server.alphonso.tv
+-   clockskew.alphonso.tv
+-   eu-bl-server.alphonso.tv
+-   eu-clockskew.alphonso.tv
+-   eu-prov-lb.alphonso.tv
+-   eu-prov2.alphonso.tv
+-   insights.alphonso.tv
+-   ad-inserter.alphonso.tv
+
+Vizio WatchFree+
+
+-   vizio.com
+-   www.vizio.com
+-   platformplus.vizio.com
+-   support.vizio.com
+-   BG2.prod.vizio.com
+-   hometest.buddytv.netdna-cdn.com
+-   smartcasttv.com
+-   tvinteractive.tv
+-   vizio.adsmeasurement.com
+-   api.vizio.com
+-   cdn.vizio.com
+-   amagi.tv
+-   now.amagi.tv
+
+TCL Channel / TCLtv+
+
+-   tcltv.plus
+-   www.tcltv.plus
+-   api.tcltv.plus
+-   cdn.tcltv.plus
+-   img.tcltv.plus
+-   stream.tcltv.plus
+-   tclusa.com
+-   tcl.com
+-   ideo.tv
+
+Xumo / Xumo Play
+
+-   xumo.com
+-   www.xumo.com
+-   play.xumo.com
+-   xumotv.com
+-   xumo.tv
+-   api.xumo.com
+-   cdn.xumo.com
+-   img.xumo.com
+-   epg.xumo.com
+-   stream.xumo.com
+-   guide.xumo.tv
+
+Stirr
+
+⚠️ CLOSED — Shut down by Sinclair in 2024
+
+-   stirr.com
+-   www.stirr.com
+-   mega.stirr.com
+
+LocalNow (Weather Group)
+
+-   localnow.com
+-   www.localnow.com
+-   api.localnow.com
+-   cdn.localnow.com
+-   stream.localnow.com
+-   weathergroup.com
+
+Screambox (Cineverse)
+
+-   screambox.com
+-   www.screambox.com
+-   explore.screambox.com
+-   api.screambox.com
+-   cdn.screambox.com
+-   cineverse.com
+-   cinedigm.com
+
+📺 OTHER STREAMING PLATFORMS
+
+Sling TV
+
+-   sling.com
+-   watch.sling.com
+-   analytics.sling.com
+-   news.sling.com
+-   airtv.net
+-   api.sling.com
+-   cdn.sling.com
+-   auth.sling.com
+-   img.sling.com
+-   player.sling.com
+-   stream.sling.com
+-   guide.sling.com
+-   epg.sling.com
+-   api.airtv.net
+-   dish.com
+-   dishnetwork.com
+
+Philo
+
+-   philo.com
+-   status.philo.com
+-   help.philo.com
+-   philo.zendesk.com
+-   api.philo.com
+-   cdn.philo.com
+-   auth.philo.com
+-   img.philo.com
+-   stream.philo.com
+-   guide.philo.com
+
+Starz (Lionsgate)
+
+-   starz.com
+-   www.starz.com
+-   support.starz.com
+-   api.starz.com
+-   cdn.starz.com
+-   auth.starz.com
+-   player.starz.com
+-   img.starz.com
+-   starz.tv
+-   starzaffiliate.com
+-   lionsgate.com
+
+MGM+ (Amazon MGM Studios)
+
+-   mgmplus.com
+-   www.mgmplus.com
+-   epix.com
+-   epixnow.com
+-   api.mgmplus.com
+-   cdn.mgmplus.com
+-   auth.mgmplus.com
+-   player.mgmplus.com
+-   mgm.com
+
+PBS / PBS Passport
+
+-   pbs.org
+-   video.pbs.org
+-   www.pbs.org
+-   account.pbs.org
+-   help.pbs.org
+-   pbskids.org
+-   *.lls.pbs.org
+-   api.pbs.org
+-   cdn.pbs.org
+-   auth.pbs.org
+-   media.pbs.org
+-   image.pbs.org
+-   static.pbs.org
+-   passportcdn.pbs.org
+
+BET+ (Paramount Global)
+
+-   bet.plus
+-   www.bet.plus
+-   betplus.com
+-   www.betplus.com
+-   api.bet.plus
+-   cdn.bet.plus
+-   auth.bet.plus
+-   bet.com
+-   betnetworks.com
+
+Lifetime Movie Club (A+E Networks)
+
+-   lifetimemovieclub.com
+-   www.lifetimemovieclub.com
+-   support.lifetimemovieclub.com
+-   mylifetime.com
+-   mylifetime.zendesk.com
+-   support.mylifetime.com
+-   api.lifetimemovieclub.com
+-   cdn.lifetimemovieclub.com
+-   aenetworks.com
+-   historyvault.com
+-   aecrimcentral.com
+-   lifetime.com
+-   history.com
+-   aetv.com
+
+Great American Family / Pure Flix
+
+⚠️ Pure Flix + Great American Family merged → "Great American Pure Flix" (2023)
+
+-   greatamericanfamily.com
+-   www.greatamericanfamily.com
+-   gacmedia.com
+-   greatamericanliving.tv
+-   greatamericanpress.com
+-   pureflix.com
+-   app.pureflix.com
+-   www.pureflix.com
+-   greatamericanmedia.com
+-   api.pureflix.com
+-   cdn.pureflix.com
+-   stream.pureflix.com
+-   greatamericanfaithandliving.com
+
+Up Faith & Family
+
+-   upfaithandfamily.com
+-   www.upfaithandfamily.com
+
+Frndly TV
+
+⚠️ Acquired by Roku in May 2025
+
+-   frndlytv.com
+-   www.frndlytv.com
+-   help.frndlytv.com
+-   watch.frndlytv.com
+-   try.frndlytv.com
+-   frndlytv-api.revlet.net
+-   frndlytv-tvguideapi.revlet.net
+-   d229kpbsb5jevy.cloudfront.net
+-   revlet.net
+-   api.frndlytv.com
+-   cdn.frndlytv.com
+
+Plex
+
+-   plex.tv
+-   www.plex.tv
+-   app.plex.tv
+-   analytics.plex.tv
+-   metrics.plex.tv
+-   plex.direct
+-   my.plex.tv
+-   discover.plex.tv
+-   watch.plex.tv
+-   dashboard.plex.tv
+-   status.plex.tv
+-   support.plex.tv
+-   forums.plex.tv
+-   metadata.provider.plex.tv
+-   video.plex.tv
+-   epg.provider.plex.tv
+-   vod2.provider.plex.tv
+-   providers.plex.tv
+-   tvdb.plex.tv
+-   thetvdb.plex.tv
+-   thetvdb2.plex.tv
+-   tvthemes.plexapp.com
+-   plexapp.com
+-   www.plexapp.com
+-   plex.bz
+-   plex.page
+-   nightlies.plex.tv
+-   downloads.plex.tv
+-   plex-attribution.plex.tv
+
+Dailymotion
+
+-   dailymotion.com
+-   www.dailymotion.com
+-   dai.ly
+-   dmcdn.net
+-   static.dmcdn.net
+-   s1.dmcdn.net
+-   s2.dmcdn.net
+-   live-b.cf.dmcdn.net
+-   api.dailymotion.com
+-   developers.dailymotion.com
+-   api.dmcdn.net
+-   geo.dailymotion.com
+-   geo.player.dailymotion.com
+-   geo2.dailymotion.com
+-   simple-geo-dc3.player.dailymotion.com
+-   simple-geo-ix7.player.dailymotion.com
+-   alias-geo-latency.player.dailymotion.com
+-   pro.dailymotion.com
+-   professional.dailymotion.com
+-   static.dailymotion.com
+-   corpostatic-origin.dailymotion.com
+-   dm-event.net
+-   proxy.dailymotion.com
+
+Rumble
+
+-   rumble.com
+-   analytics.rumble.com
+
+Odysee / LBRY
+
+⚠️ LBRY Inc. shut down in 2023; Odysee acquired by Forward Research in 2024
+
+-   odysee.com
+-   lbry.tv
+-   lbry.com
+
+Bitchute
+
+-   bitchute.com
+
+Vevo
+
+-   vevo.com
+
+Exxen (Turkey)
+
+-   exxen.com
+-   www.exxen.com
+-   api.exxen.com
+-   cdn.exxen.com
+-   auth.exxen.com
+-   player.exxen.com
+-   img.exxen.com
+-   stream.exxen.com
+-   acunmedya.com
+-   acunmedya.tv
+-   tv8.com.tr
+-   accedo.tv
+
+📱 MOBILE VIDEO PLAYERS & SDKs
+
+ExoPlayer (Google)
+
+-   exoplayer.dev
+-   exoplayer-analytics.googleapis.com
+-   media-analytics.google.com
+
+Video.js
+
+-   videojs.com
+-   cdn.jsdelivr.net
+-   unpkg.com
+
+Plyr
+
+-   plyr.io
+-   cdn.plyr.io
+
+Flowplayer
+
+-   flowplayer.com
+-   cdn.flowplayer.com
+-   analytics.flowplayer.com
+
+THEOplayer
+
+⚠️ Acquired by Dolby in 2024
+
+-   cdn.theoplayer.com
+-   analytics.theoplayer.com
+-   metrics.theoplayer.com
+-   portal.theoplayer.com
+-   license.theoplayer.com
+-   optiview.dolby.com
+-   dolby.io
+-   millicast.com
+-   cdn.millicast.com
+-   api.millicast.com
+
+Shaka Player
+
+-   shaka-player-demo.appspot.com
+
+Dash.js
+
+-   dashif.org
+-   reference.dashif.org
+
+HLS.js
+
+-   cdn.jsdelivr.net
+
+📺 ADDITIONAL TRACKING & ANALYTICS SERVICES
+
+Chartbeat
+
+-   chartbeat.com
+-   chartbeat.net
+-   static.chartbeat.com
+-   ping.chartbeat.net
+-   video.chartbeat.com
+-   video-ping.chartbeat.net
+-   api.chartbeat.com
+-   api.chartbeat.net
+
+Parse.ly
+
+-   parsely.com
+-   analytics.parsely.com
+-   track.parsely.com
+-   video-analytics.parsely.com
+-   api.parsely.com
+-   cdn.parsely.com
+-   pixel.parsely.com
+-   srv.pixel.parsely.com
+
+Piano.io
+
+-   piano.io
+-   analytics.piano.io
+-   metrics.piano.io
+-   video-analytics.piano.io
+-   api.piano.io
+-   cdn.piano.io
+-   id.piano.io
+-   experience.piano.io
+-   tinypass.com
+-   buy.tinypass.com
+-   sandbox.tinypass.com
+
+Tubular Labs
+
+-   tubularlabs.com
+-   analytics.tubularlabs.com
+-   api.tubularlabs.com
+-   social-video-analytics.tubularlabs.com
+-   app.tubularlabs.com
+-   cdn.tubularlabs.com
+
+VidIQ
+
+-   vidiq.com
+-   analytics.vidiq.com
+-   metrics.vidiq.com
+-   youtube-analytics.vidiq.com
+-   app.vidiq.com
+-   cdn.vidiq.com
+-   api.vidiq.com
+
+SocialBlade
+
+-   socialblade.com
+-   analytics.socialblade.com
+-   api.socialblade.com
+-   creator-analytics.socialblade.com
+-   app.socialblade.com
+-   cdn.socialblade.com
+
+Sprout Social
+
+-   sproutsocial.com
+-   analytics.sproutsocial.com
+-   video-analytics.sproutsocial.com
+
+Pixalate
+
+-   pixalate.com
+-   analytics.pixalate.com
+-   verification.pixalate.com
+-   video-verification.pixalate.com
+-   ctv-verification.pixalate.com
+
+Protected Media
+
+-   protected.media
+-   verification.protected.media
+-   analytics.protected.media
+
+Comscore Video Census
+
+-   vce.comscore.com
+-   video-census.comscore.com
