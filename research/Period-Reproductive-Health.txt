@@ -1,0 +1,2165 @@
+# PERIOD TRACKING & REPRODUCTIVE HEALTH RESEARCH LIST
+
+## 🔴 TIER 1 — Major Apps (Most Common Apps)
+
+### Flo Health ⚠️ FTC Penalized • Sentry Case Study • Cloudflare Case Study
+
+**Core Domains:**
+- flo.health
+- owhealth.com
+- flo-health.com
+- app.flo.health
+
+**API & Backend:**
+- api.flo.health
+- api-v2.flo.health
+- backend.flo.health
+- gateway.flo.health
+- mobile-api.flo.health
+- sync.flo.health
+- app-api.flo.health
+- gateway-api.flo.health
+
+**Additional Subdomains:**
+- quiz.flo.health
+- promo.flo.health
+- med.flo.health
+- help.flo.health
+
+**Analytics & Tracking:**
+- analytics.flo.health
+- track.flo.health
+- metrics.flo.health
+- events.flo.health
+- telemetry.flo.health
+- data.flo.health
+
+**CDN & Assets:**
+- cdn.flo.health
+- static.flo.health
+- assets.flo.health
+- images.flo.health
+- media.flo.health
+- content.flo.health
+- contentful.com
+- images.ctfassets.net
+- assets.ctfassets.net
+- cdn.contentful.com
+- images.secure.ctfassets.net
+
+**Auth & User Management:**
+- auth.flo.health
+- accounts.flo.health
+- login.flo.health
+- oauth.flo.health
+- auth0.com / *.auth0.com — Okta/Auth0 identity authentication infrastructure
+- okta.com — Auth0's parent company
+- vercel.com / *.vercel.app — Frontend deployment
+
+**Marketing & Commercial:**
+- marketing.flo.health
+- offers.flo.health
+- premium.flo.health
+- shop.flo.health
+- store.flo.health
+
+**Support & Community:**
+- support.flo.health
+- help.flo.health
+- community.flo.health
+- forum.flo.health
+
+**Third-Party Services:**
+- facebook.flo.health
+- adjust.flo.health
+- appsflyer.flo.health
+- branch.flo.health
+- amplitude.flo.health
+- relay.flo.health
+- databricks.com
+- superannotate.com
+- tecton.ai
+- looker.com
+- sentry.io / *.ingest.sentry.io — Error/performance monitoring (Sentry case study)
+- sendgrid.net / sendgrid.com / em.flo.health — Transactional email
+- googletagmanager.com — Tag management
+- google-analytics.com — Website analytics
+- firebase.googleapis.com / firebaseapp.com — Firebase services
+- elastic.co / *.elastic.co — Elasticsearch (log analytics)
+- zendesk.com — Customer support platform
+- stripe.com / js.stripe.com — Payment processing
+- paypal.com — Payment
+- chargebackgurus.com — Chargeback management
+- customerthermometer.com — NPS/survey tool
+- trustpilot.com — Reviews
+- surveymonkey.com — User surveys
+- wellhub.com — Corporate wellness partnership
+- cloudflare.com — CDN + security + email (confirmed via Cloudflare case study)
+- privacy-gateway.cloudflare.com — Anonymous Mode Privacy Gateway
+- workers.dev / *.workers.dev — Cloudflare Workers (API endpoints, A/B testing)
+
+---
+
+### Clue (BioWink GmbH) — Privacy-friendly but does include tracking
+
+**Core Domains:**
+- clue.app
+- helloclue.com
+- clueapp.com
+
+**API & Backend:**
+- api.helloclue.com
+- api.clue.app
+- backend.helloclue.com
+- sync.clue.app
+- mobile.helloclue.com
+
+**Web & Checkout:**
+- web.helloclue.com
+- checkout.helloclue.com — Subscription checkout
+
+**Analytics & Tracking:**
+- analytics.helloclue.com
+- track.helloclue.com
+- events.clue.app
+- metrics.helloclue.com
+- telemetry.clue.app
+- adjust.com
+- taboola.com
+
+**CDN & Assets:**
+- cdn.helloclue.com
+- static.helloclue.com
+- assets.clue.app
+- images.helloclue.com
+
+**Research & Science:**
+- research.helloclue.com
+- study.clue.app
+- science.helloclue.com
+
+**Auth:**
+- auth.helloclue.com
+- accounts.clue.app
+- login.helloclue.com
+
+**Premium & Support:**
+- plus.helloclue.com
+- premium.clue.app
+- shop.helloclue.com
+- support.helloclue.com
+- help.clue.app
+
+**Developer:**
+- github.com/biowink
+
+**Third-Party Services (Privacy Policy + Research):**
+- braze.com / sdk.iad-01.braze.com / sdk.fra-01.braze.com — Push notifications & CRM
+- datadoghq.com / datadoghq.eu — Infrastructure monitoring (explicitly named in the privacy policy, EU servers)
+- sparkpost.com / sparkpostmail.com — Transactional email
+- zendesk.com — Customer support
+- slack.com / slack-edge.com — Internal customer support tool
+- paddle.com — Subscription payments
+- withflex.com — FSA/HSA health spending payments
+- growthdot.com — Anonymization service
+- firebase.googleapis.com — Performance monitoring (explicitly named in the policy)
+
+---
+
+### Period Tracker by GP Apps (GP International LLC)
+
+**Core Domains:**
+- period-tracker.com
+- gpapps.com
+- periodtracker.net
+- pt.gpapps.com
+
+**API & Backend:**
+- api.period-tracker.com
+- api.gpapps.com
+- backend.gpapps.com
+- sync.period-tracker.com
+
+**Analytics & Tracking:**
+- analytics.gpapps.com
+- track.period-tracker.com
+- events.gpapps.com
+- metrics.period-tracker.com
+
+**CDN:**
+- cdn.period-tracker.com
+- cdn.gpapps.com
+- static.gpapps.com
+
+**Advertising:**
+- ads.gpapps.com
+- admob.gpapps.com
+- nexage.com [now transferred to Yahoo Advertising]
+- moatads.com [now transferred to Oracle — non-functional]
+- pubads.g.doubleclick.net — Pub Ads/Google (confirmed via a 2025 network analysis)
+- inmobi.com — InMobi ad network (listed in the consent form)
+- aerserv.com — AerServ (listed in the consent form, now non-functional)
+- admob.googleapis.com — AdMob Network (detected in network analysis as "ad_source_name: AdMob Network")
+- advertising.yahoo.com — Yahoo Advertising, which absorbed Nexage
+
+**Support:**
+- support@gpapps.com
+- ⚠️ NOTE (2025 research): Some ad SDK URLs are non-functional but are still being called; this poses a broken-link-hijacking risk.
+
+---
+
+### Ovia Health (part of LabCorp)
+
+**Core Domains:**
+- oviahealth.com
+- ovia.com
+- ovuline.com
+- oviapregnancy.com
+- oviafertility.com
+- oviaparenting.com
+
+**API & Backend:**
+- api.oviahealth.com
+- api.ovia.com
+- backend.oviahealth.com
+- sync.ovia.com
+- mobile-api.oviahealth.com
+- connect.oviahealth.com — Healthcare provider connect
+- assets.oviahealth.com — Asset delivery
+
+**Analytics & Tracking:**
+- analytics.ovia.com
+- analytics.oviahealth.com
+- track.ovia.com
+- metrics.oviahealth.com
+- events.ovia.com
+- data.oviahealth.com
+- appsflyer.com
+
+**CDN & Assets:**
+- cdn.oviahealth.com
+- cdn.ovia.com
+- static.oviahealth.com
+- assets.ovia.com
+- images.oviahealth.com
+
+**Corporate/B2B:**
+- business.oviahealth.com
+- employers.oviahealth.com
+- enterprise.ovia.com
+- partners.oviahealth.com
+
+**Auth & Support:**
+- auth.oviahealth.com
+- login.ovia.com
+- accounts.oviahealth.com
+- support.oviahealth.com
+- help.ovia.com
+
+**Advertising:**
+- ads.ovia.com
+- ovia-ads.com
+
+**Parent Company:**
+- labcorp.com
+
+**Third-Party Services:**
+- helpshift.com — In-app customer support SDK
+- salesforce.com / salesforce-communities.com — CRM
+- alchemer.com — Survey platform
+- zoom.us / zoom.com — Coaching/telehealth calls
+- labcorplink.com — LabCorp integration (test results)
+- oviahealth.com/subprocessors/ — Subprocessor list page
+
+---
+
+### Glow (Eve, Nurture, Baby Suite) — Parent: Upward Labs Holdings, Inc.
+
+**Core Domains:**
+- glowing.com
+- glow.co
+- evebyglow.com
+- glow.app
+- nurture.glow.co
+- eve.glow.co
+- upwardlabsholdings.com / upwardlabs.com — New parent company name (formerly Glow Inc.)
+
+**API & Backend:**
+- api.glow.co
+- api.glowing.com
+- backend.glow.co
+- sync.glow.co
+- mobile-api.glow.co
+
+**CMS & Staging:**
+- wp.glowing.com — WordPress CMS
+- sandbox-wp.glowing.com — CMS staging
+
+**Analytics & Tracking:**
+- analytics.glowing.com
+- track.glow.co
+- metrics.glow.co
+- events.glow.co
+- telemetry.glow.co
+- data.glow.co
+
+**CDN & Assets:**
+- cdn.glow.co
+- cdn.glowing.com
+- static.glow.co
+- assets.glow.co
+- images.glow.co
+
+**Community:**
+- community.glow.co
+- forums.glowing.com
+- groups.glow.co
+- glowing.com/stories
+
+**Auth & Premium:**
+- auth.glow.co
+- login.glow.co
+- accounts.glow.co
+- premium.glow.co
+- subscribe.glow.co
+
+**Support:**
+- support.glow.co
+- help.glowing.com
+- support@glowing.com
+- support.glowing.com — Support subdomain
+
+**Third-Party Services:**
+- stripe.com — Payment processing
+- verasafe.com — Data protection/DPO service
+- ouraring.com — Oura Ring wearable integration
+
+---
+
+### Kindara (Fertility Charting)
+
+**Core Domains:**
+- kindara.com
+- kindarafertility.com
+
+**API & Backend:**
+- api.kindara.com
+- backend.kindara.com
+- sync.kindara.com
+- mobile.kindara.com
+
+**App:**
+- app.kindara.com
+- web.kindara.com
+- beta.kindara.com
+- practitioner.kindara.com
+
+**Blog & Analytics:**
+- blog.kindara.com — Blog
+- analytics.kindara.com
+- track.kindara.com
+- metrics.kindara.com
+
+**CDN:**
+- cdn.kindara.com
+- static.kindara.com
+- assets.kindara.com
+
+**Store:**
+- shop.kindara.com
+- store.kindara.com
+- wink.kindara.com
+
+**Auth & Support:**
+- auth.kindara.com
+- login.kindara.com
+- support.kindara.com
+- help.kindara.com
+
+**Developer/Partner:**
+- inspiringapps.com
+
+**Third-Party Services:**
+- mailchimp.com / mandrillapp.com — Email marketing / transactional email
+- hubspot.com / hs-analytics.net — CRM / marketing automation
+
+---
+
+### Natural Cycles (FDA-approved birth control)
+
+**Core Domains:**
+- naturalcycles.com
+- nc-api.com
+- naturalcycles.net
+
+**API & Backend:**
+- api.naturalcycles.com
+- api.nc-api.com
+- backend.naturalcycles.com
+- sync.naturalcycles.com
+- mobile-api.naturalcycles.com
+
+**App:**
+- app.naturalcycles.com
+- web.naturalcycles.com
+- signup.naturalcycles.com
+- career.naturalcycles.com — Careers
+
+**Analytics & Tracking:**
+- analytics.naturalcycles.com
+- metrics.naturalcycles.com
+- track.naturalcycles.com
+- events.naturalcycles.com
+- telemetry.naturalcycles.com
+
+**CDN:**
+- cdn.naturalcycles.com
+- static.naturalcycles.com
+- assets.naturalcycles.com
+
+**Shop:**
+- shop.naturalcycles.com
+- store.naturalcycles.com
+- thermometer.naturalcycles.com
+
+**Regional:**
+- naturalcycles.co.uk
+- naturalcycles.de
+- naturalcycles.se
+- naturalcycles.fr
+
+**Auth & Support:**
+- auth.naturalcycles.com
+- login.naturalcycles.com
+- accounts.naturalcycles.com
+- support.naturalcycles.com
+- help.naturalcycles.com
+
+**Developer:**
+- github.com/NaturalCycles
+
+**Third-Party Services:**
+- ouraring.com — Oura Ring wearable integration
+- cloudfront.net — AWS CloudFront CDN
+- google-analytics.com — Website analytics
+- googletagmanager.com — Tag management
+
+---
+
+### Fertility Friend (Tamtris Web Services Inc.) — Privacy benchmark app
+
+**Core Domains:**
+- fertilityfriend.com
+- fertilityfriend.net
+- ff.com
+
+**API & Backend:**
+- api.fertilityfriend.com
+- backend.fertilityfriend.com
+- sync.fertilityfriend.com
+
+**Mobile & Community:**
+- mobile.fertilityfriend.com
+- app.fertilityfriend.com
+- forums.fertilityfriend.com
+- community.fertilityfriend.com
+- boards.fertilityfriend.com
+
+**Auth & Premium:**
+- login.fertilityfriend.com
+- accounts.fertilityfriend.com
+- vip.fertilityfriend.com
+- premium.fertilityfriend.com
+
+**Analytics & CDN:**
+- analytics.fertilityfriend.com
+- track.fertilityfriend.com
+- cdn.fertilityfriend.com
+- static.fertilityfriend.com
+
+**Support:**
+- support@fertilityfriend.com
+
+**Developer:**
+- tamtris.com — Tamtris Web Services Inc. (Canada)
+
+**Payment Processors (payment only, no data sharing):**
+- stripe.com — Payment
+- paddle.com / paddle.net — Payment
+- paypal.com — Payment
+- ✅ NOTE: Fertility Friend does NOT use third-party analytics or advertising. First-party cookies only.
+
+---
+
+### MyFlo (FLO Living LLC — Alisa Vitti)
+
+**Core Domains:**
+- myflotracker.com
+- myfloliving.com
+- floliving.com
+
+**API & Backend:**
+- api.myflotracker.com
+- backend.myflotracker.com
+
+**App:**
+- app.myflotracker.com
+
+**Analytics & CDN:**
+- analytics.myflotracker.com
+- track.myflotracker.com
+- cdn.myflotracker.com
+
+**Content/Education:**
+- learn.myflotracker.com
+- content.myflotracker.com
+
+**Support:**
+- support@floliving.com
+- ✅ NOTE: Self-funded, women-owned company. States "we never sell your data." Minimal third-party integration.
+
+---
+
+### Life (Period Tracker)
+
+**Core Domains:**
+- period-calendar.com
+- lifecycleapp.com
+
+**API & Backend:**
+- api.period-calendar.com
+- backend.period-calendar.com
+
+**Analytics & CDN:**
+- analytics.period-calendar.com
+- cdn.period-calendar.com
+
+**Support:**
+- support@period-calendar.com
+
+---
+
+### Premom (Easy Healthcare Corp.) ⚠️ FTC $200K Penalty (2023)
+
+**Core Domains:**
+- premom.com
+- premomapp.com
+- easyathome.com
+- healthcare-manager.com — Second core domain (Easy Healthcare Manager app) — CRITICAL
+
+**API & Backend:**
+- api.premom.com
+- api.premomapp.com
+- backend.premom.com
+- sync.premom.com
+- l.premom.com
+
+**Analytics & CDN:**
+- analytics.premom.com
+- track.premom.com
+- cdn.premomapp.com
+- cdn.premom.com
+- static.premom.com
+
+**Shop:**
+- shop.premom.com
+- store.easyathome.com
+
+**Auth & Support:**
+- auth.premom.com
+- login.premom.com
+- support.premom.com
+- support@premom.com
+
+**Social:**
+- tiktok.com/@premomapp
+
+**Third-Party Services:**
+- stripe.com — Payment
+- typeform.com — Onboarding surveys
+- shipstation.com — Order fulfillment (test strips)
+- quickblox.com — Video/chat infrastructure
+- ses.amazonaws.com — AWS SES (transactional email)
+- singular.net — Mobile attribution analytics
+- shopify.com — E-commerce platform
+- pressable.com / automattic.com — WordPress hosting (blog)
+- onetrust.com — Cookie consent / privacy management
+- openai.com / api.openai.com — AI features
+- attentivemobile.com — SMS marketing
+- impact.com — Affiliate marketing
+- atlassian.com — Project management (Jira/Confluence)
+- braze.com — Push notifications [India/UK only]
+- razorpay.com — Indian payment gateway [India only]
+- whatsapp.com / wa.me — WhatsApp customer support [India only]
+- ⚠️ NOTE: FTC case — in 2023, Umeng (China) and Jiguang (China) SDKs were removed following a $200K penalty.
+
+---
+
+### Embody
+
+**Core Domains:**
+- embody.space
+- www.embody.space
+
+**Parent Company:**
+- thesis.co/products/embody
+
+**Support & Development:**
+- support@embody.space
+- github.com/embody-app
+
+---
+
+### Stardust ⚠️ TechCrunch: "Privacy claims aren't airtight"
+
+**Core Domains:**
+- stardust.app
+- www.stardust.app
+
+**Legacy/Beta:**
+- minnow-clarinet-j6yf.squarespace.com
+
+**Support:**
+- support@stardust.app
+
+**Third-Party Services:**
+- hub.rownd.io — Rownd (auth & onboarding SDK)
+- api.mixpanel.com — Mixpanel analytics
+- *.amazonaws.com — AWS RDS (cloud database backend)
+- api.rownd.io — Rownd API endpoint
+
+---
+
+### Aavia (Aam Care, Inc.)
+
+**Core Domains:**
+- aavia.io
+- www.aavia.io
+- aavia.com
+- aamcare.com — Parent company Aam Care, Inc. — CRITICAL
+
+**Support:**
+- support@aavia.io
+
+**Third-Party Services (from Privacy Policy):**
+- onesignal.com / app.onesignal.com / cdn.onesignal.com — Push notification SDK (explicitly named)
+- mixpanel.com / api.mixpanel.com — Mobile app analytics (explicitly named)
+- branch.io / app.link — Referral link tracking (explicitly named)
+- shopify.com / myshopify.com — E-commerce (Aavia runs on Shopify)
+- google-analytics.com — Website analytics
+
+---
+
+### Samphire (Samphire Neuroscience)
+
+**Core Domains:**
+- samphireneuro.com
+- www.samphireneuro.com
+- web.samphireneuro.com
+
+**App & Regional:**
+- samphireneuro.com/app
+- samphireneuro.com/en-us
+- samphireneuro.com/en-gb
+- legal.samphireneuro.com — Privacy policy/legal page
+
+**Support:**
+- support@samphireneuro.com
+
+**Package:**
+- com.samphire.app
+
+**Third-Party Services (from Privacy Policy):**
+- aws.amazon.com — AWS EMEA SARL (cloud hosting, UK data centers, explicitly named)
+- planetscale.com — PlanetScale Inc. database hosting (UK data centers, explicitly named) — CRITICAL
+- bugfender.com / beenario.com — Beenario GmbH crash & performance monitoring (Germany, explicitly named) — CRITICAL
+
+---
+
+## 🟠 TIER 2 — Regional/Popular Apps
+
+### Period Calendar (SimpleInnovation / AppManage Group #1, LLC)
+
+**Core Domains:**
+- period-calendar.com
+- periodcalendar.net
+- periodcalendar.app
+
+**Developer Domains:**
+- simpleinnovation.us
+- simpledesign.app — Simple Design Ltd. developer site
+- simpledesign.ltd — Simple Design Ltd. (1B+ downloads, 39 Android apps)
+- digitalchemy.us — Developer email domain (feedback@digitalchemy.us)
+
+**API & Backend:**
+- api.periodcalendar.net
+- api.period-calendar.com
+- backend.period-calendar.com
+
+**App:**
+- app.period-calendar.com
+- mobile.periodcalendar.net
+
+**Analytics & CDN:**
+- analytics.period-calendar.com
+- track.periodcalendar.net
+- cdn.period-calendar.com
+
+**Support:**
+- support@period-calendar.com
+- support@simpleinnovation.us
+- android@simpleinnovation.us
+
+**Package:**
+- com.lbrc.PeriodCalendar
+
+**Third-Party Services (2025 Network Analysis):**
+- firebase.googleapis.com — Firebase Crashlytics (confirmed by research; not disclosed in the policy)
+- googleads.g.doubleclick.net — Google Ads (detected in network traffic)
+- appcenter.ms — Microsoft App Center (analytics/crash reporting; policy explicitly states "Firebase and Microsoft App Center")
+
+---
+
+### Maya (Plackal Techno Systems Pvt. Ltd. — India) ⚠️ Facebook data-sharing scandal (2019)
+
+**Core Domains:**
+- maya.live
+- plackal.in
+- plackal.com
+
+**API & Backend:**
+- api.maya.live
+- backend.maya.live
+- sync.maya.live
+
+**Analytics & CDN:**
+- analytics.maya.live
+- track.maya.live
+- metrics.maya.live
+- cdn.maya.live
+- static.maya.live
+
+**Support & Social:**
+- help@maya.live
+- email@plackal.in
+- careers@plackal.in
+- facebook.com/MayaTheApp
+- instagram.com/MayaTheApp
+- twitter.com/MayaTheApp
+- pinterest.com/MayaTheApp
+
+**Third-Party Services (2025 Network Analysis):**
+- firebase.googleapis.com — Firebase (undisclosed use — not mentioned in the privacy policy)
+- connect.facebook.net — Facebook SDK [reportedly removed in 2019, but a "gatekeeper check" was still detected in 2025]
+- ⚠️ NOTE: A 2019 Privacy International report found sensitive health data was shared with Facebook. Plackal states it has since removed this.
+
+---
+
+### WomanLog (SIA "PRO ACTIVE APP" — Latvia, 10M+ downloads)
+
+**Core Domains:**
+- womanlog.com
+- proactiveapp.com
+- proactive.app — Distinct API domain (separate from proactiveapp.com)
+- webapp.womanlog.com — Web app
+
+**API & Backend:**
+- api.womanlog.com
+- backend.womanlog.com
+- sync.womanlog.com
+
+**Analytics & CDN:**
+- analytics.womanlog.com
+- track.womanlog.com
+- cdn.womanlog.com
+- static.womanlog.com
+
+**Support:**
+- womanlog@womanlog.com
+- baby@womanlog.com
+- privacy@womanlog.com
+
+**Developer:**
+- Pro Active App SIA (Latvia) — Reg: 40103368131 — Vidus iela 4-5, Riga
+
+**Third-Party Services (Privacy Policy + Research):**
+- hetzner.com / hetzner.de / hetzner.online — Hetzner Online GmbH hosting (EU servers, explicitly named) — CRITICAL
+- firebase.googleapis.com — Firebase (performance monitoring, explicitly named, EU servers)
+- openai.com / api.openai.com / platform.openai.com — Intelligent Assistant ChatBot (paid feature)
+
+---
+
+### Meiyou (China — 300M+ users)
+
+**Developer:**
+- Xiamen Meiyou Information Technology Co., Ltd. (厦门美柚信息科技有限公司)
+
+---
+
+### iPeriod (Winkpass Creations, Inc.) — Removed from Android (April 30, 2024); still active on iOS
+
+**Core Domains:**
+- iperiod.net
+- winkpass.com
+
+**Privacy & Terms:**
+- iperiod.net/PrivacyPolicyiPeriod.html
+- iperiod.net/iPeriodEULA.html
+
+**Support:**
+- support@winkpass.com
+
+---
+
+### Moody Month (We Are Moody)
+
+**Core Domains:**
+- moodymonth.com
+- wearemoody.com
+
+**API & Backend:**
+- api.moodsapp.com
+
+**Analytics & CDN:**
+- analytics.moodsapp.com
+- cdn.moodsapp.com
+
+---
+
+### Femia (Magicfit Limited / Welltech ecosystem — Cyprus)
+
+**Core Domains:**
+- femia.health
+- www.femia.health
+- femiaapp.com
+- femia.io
+
+**Corporate Entities:**
+- magicfit.com / magicfitlimited.com — App developer (Magicfit Limited, Limassol, Cyprus)
+- actitech.com / actitechlimited.com — Website developer (Actitech Limited, Limassol, Cyprus)
+- welltech.com — Parent group (Welltech Apps Limited)
+- contact-us.welltech.com — GDPR contact form
+- solidgate.com — Payment merchant (Tech SG LLC / Solidgate)
+- welltika.com — UAE agent (Welltika Content Provider DMCC, Dubai)
+
+**API & Backend:**
+- api.femia.health
+- backend.femia.health
+
+**Analytics & CDN:**
+- analytics.femia.health
+- cdn.femia.health
+
+**Support:**
+- support@femia.io
+- support-w@femia.io
+- support-app.femia.health
+- cabinet.femia.health
+
+**Third-Party Services (Privacy Policy Cookie Table):**
+- aws.amazon.com — AWS (hosting, explicitly named)
+- appsflyer.com — App attribution analytics (explicitly named)
+- front.app / front.com — Customer support software (explicitly named)
+- paypal.com / c.paypal.com — Payment (identified in cookie table)
+- onetrust.com — Cookie consent (OptanonConsent cookie)
+- ct.pinterest.com — Pinterest Pixel (cookie table: _pinterest_ct_)
+- snapchat.com / sc-static.net — Snapchat Pixel (cookie table: _scid, X-AB, sc_at)
+- connect.facebook.net — Meta/Facebook Pixel (cookie table: _fbp)
+- tiktok.com — TikTok Pixel (cookie table: _tt_enable_cookie, _ttp)
+- twitter.com / t.co — Twitter Pixel (cookie table: muc_ads, personalization_id)
+- outbrain.com — Content recommendation network (listed in opt-out list)
+- taboola.com — Content recommendation network (confirmed)
+- google-analytics.com — GA4 (_ga, _gid cookies)
+
+---
+
+### Pepapp (Pepapp Teknoloji A.Ş. — Turkey)
+
+**Core Domains:**
+- letspepapp.com
+- www.letspepapp.com
+- pepapp.com
+- peptracker.com
+- pepappteknoloji.com — Pepapp Teknoloji A.Ş. corporate domain
+
+**API & Backend:**
+- api.pepapp.com
+
+**Analytics & Support:**
+- analytics.pepapp.com
+- support@letspepapp.com
+
+**Social:**
+- facebook.com/letspepapp
+- twitter.com/letspepapp
+- instagram.com/letspepapp
+
+**Developer:**
+- Pepapp Teknoloji Anonim Şirketi — Altunizade Mahallesi Kısıklı Caddesi No:28/6, Üsküdar/Istanbul
+
+---
+
+### Eve by Glow (Upward Labs Holdings, Inc.)
+
+**Core Domains:**
+- evebyglow.com
+- eve.glow.co
+- eveapp.com
+
+**API & Backend:**
+- api.evebyglow.com
+- api.eve.glow.co
+
+**Analytics & CDN:**
+- analytics.evebyglow.com
+- cdn.evebyglow.com
+- NOTE: Eve shares the same privacy policy as all of Glow's other apps.
+- upwardlabsholdings.com — Parent company (formerly Glow Inc.) — CRITICAL
+
+---
+
+### Period Plus (Flat Cracker Software)
+
+**Core Domains:**
+- periodplus.com
+- www.periodplus.com
+- periodplusapp.com
+
+**Developer:**
+- flatcrackersoftware.com
+
+**API & Privacy:**
+- api.periodplus.com
+- periodplus.com/privacy.html
+- periodplus.com/terms.html
+
+---
+
+### Menstrual Calendar
+
+**Core Domains (Tamtris):**
+- freemenstrualcalendar.com
+- menstrualcalendar.com
+- tamtris.com
+
+**Core Domains (popularapp):**
+- popularapp.com
+
+**Terms:**
+- freemenstrualcalendar.com/terms
+
+---
+
+### My Calendar – Period Tracker (AppManage Group #1, LLC / SimpleInnovation)
+
+**Core Domains:**
+- simpleinnovation.us
+- period-calendar.com
+
+**Developer:**
+- AppManage Group #1, LLC (aka SimpleInnovation)
+
+**Support:**
+- support@simpleinnovation.us
+- android@simpleinnovation.us
+
+**Package ID:**
+- com.lbrc.PeriodCalendar
+
+**Third-Party Services:**
+- Google Analytics
+- Google Cloud (backup storage)
+- firebase.googleapis.com — Firebase Crashlytics + Remote Config
+- appcenter.ms — Microsoft App Center (explicitly named in the policy)
+- googleads.g.doubleclick.net — Google Ads
+
+---
+
+### MeetYou (Hangzhou Youzijie Information Technology Co., Ltd.) ⚠️ 300M+ downloads, Chinese company, unencrypted data
+
+**Core Domains:**
+- meetyouintl.com
+- www.meetyouintl.com
+- meetyou.me — Social profile domain
+- youzijie.com — Developer corporate domain (有子节信息技术) — CRITICAL
+
+**Developer:**
+- Hangzhou Youzijie Information Technology Co., Ltd. (杭州有子节信息技术有限公司)
+- MEETYOU PTE. LTD. (Singapore entity)
+
+**Privacy & Terms:**
+- meetyouintl.com/home/privacy.html
+- meetyouintl.com/home/agreement.html
+
+**Package:**
+- com.meetyou.intl
+- ⚠️ NOTE: Google Play displays a "Data isn't encrypted" warning for this app. China-based, 300M+ users.
+
+---
+
+### Periodical (Arno Welzel) — Open Source
+
+**Core Domains:**
+- arnowelzel.de
+- arnowelzel.de/en/projects/periodical
+
+**Repository:**
+- github.com/arnowelzel/periodical (former)
+- codeberg.org/askaaron/periodical (new — migrated in 2025)
+
+**Developer:**
+- Arno Rainer Welzel
+
+**Support:**
+- android@arnowelzel.de
+
+**Package & Distribution:**
+- de.arnowelzel.android.periodical
+- F-Droid
+- Google Play
+
+---
+
+### Bluemoon (Nils Grob) — Open Source
+
+**Repository:**
+- gitlab.com/ngrob/bluemoon-android
+
+**Developer:**
+- Nils Grob
+
+**Package & Distribution:**
+- ch.nilsgrob.android.bluemoon
+- F-Droid
+- Google Play
+
+**License:**
+- GNU GPL v3.0
+
+---
+
+### Luna Period Tracker for Teens (Evolutus NFP — non-profit)
+
+**Core Domains:**
+- lunatracker.app
+
+**Developer:**
+- Evolutus NFP
+
+**Package & Distribution:**
+- com.evolutus.luna
+- App Store
+- Google Play
+
+---
+
+### luna (We Are Luna — UK Teen Health App)
+
+**Core Domains:**
+- weareluna.app
+
+**Developer:**
+- Luna Life Ltd. — Jasmine Schembri-Stothart & Jo Goodall (Co-Founders)
+
+**Package & Distribution:**
+- com.lunalife.luna
+- App Store
+- Google Play
+
+---
+
+### Tyd — Open Source
+
+**Core Domains:**
+- unobserved.io/tyd
+
+**Repository:**
+- github.com/unobserved-io/tyd
+
+**Developer:**
+- Ricky Kresslein (Unobserved)
+
+**Package:**
+- com.lakoliu.tyd — iOS/iPadOS/macOS only
+
+**License:**
+- GNU GPL v3.0
+
+---
+
+### Menstrudel — Open Source
+
+**Core Domains:**
+- menstrudel.app
+
+**Repository:**
+- github.com/J-shw/Menstrudel
+
+**Developer:**
+- J-shw
+
+**Distribution:**
+- APK download (website)
+- Planned: F-Droid, Google Play
+
+---
+
+### log28 — Open Source
+
+**Core Domains:**
+- log28.com
+
+**Repository:**
+- github.com/wildeyedskies/log28
+
+**Developer:**
+- Waterbird Software
+
+**Package & Distribution:**
+- com.log28
+- F-Droid
+
+**License:**
+- GNU LGPL v3.0
+
+---
+
+### Mensinator — Open Source
+
+**Repository:**
+- github.com/EmmaTellblom/Mensinator
+
+**Developer:**
+- Emma Tellblom
+
+**Package & Distribution:**
+- com.mensinator.app
+- F-Droid
+- Google Play
+- IzzyOnDroid
+
+**License:**
+- MIT
+
+**Community:**
+- Discord server available
+
+---
+
+### Asan (Asan Cup — UK/India)
+
+**Core Domains:**
+- asancup.com (UK)
+- asancup.in (India)
+
+**Developer:**
+- Asan Cup (Social Enterprise) — Founded by Ira Guha
+
+**Support:**
+- support@asancup.com
+- info@asancup.com
+
+**Related:**
+- oldstlabs.com (development partner)
+
+**Funding:**
+- Innovate UK Unlocking Potential Award
+
+**Distribution:**
+- App Store
+- Google Play
+
+---
+
+### Hamdam (United4Iran — IranCubator project) — First Farsi Period-Tracking App
+
+**Developer:**
+- United4Iran (IranCubator project)
+
+**Related:**
+- united4iran.org/hamdam
+
+**Features:**
+- Period tracking
+- Women's legal rights (Iran)
+- Sexual health information
+- Emergency number integration
+
+**Language:**
+- First Farsi period tracker — supports the Persian Jalali calendar
+
+---
+
+### Ove Care (Ove Care Limited — UK, 2023)
+
+**Core Domains:**
+- ovecare.com
+
+**Developer:**
+- Ove Care Limited — Founded by Libby Tanswell-Gidney (2023)
+
+**Package & Distribution:**
+- com.ove
+- App Store
+- Google Play
+
+**Target Audience:**
+- Girls aged 8–17 (specifically 9–17 core)
+
+---
+
+### Period Calendar (Leap Fitness Group — China) ⚠️ Chinese company, 10M+ downloads
+
+**Core Domains:**
+- leap.app
+- w.leap.app
+- leaphealth.fitness
+- northparkapp.com (legacy privacy policy domain)
+
+**API & Backend:**
+- api.leap.app
+- backend.leap.app
+- sync.leap.app
+
+**Privacy & Support:**
+- policy@leap.app
+- leap.app/privacypolicy.html
+
+**Package:**
+- periodtracker.pregnancy.ovulationtracker
+
+**Developer:**
+- Leap Fitness Group — Henan Province, China
+- Developer CN: abishkking — Organization: abishkking
+
+**Third-Party Services:**
+- Google Drive (backup/sync)
+- Google Analytics
+- Machine learning/AI predictions
+
+---
+
+### Clover (Wachanga LTD — Kemerovo, Russia)
+
+**Core Domains:**
+- wachanga.com
+- clovertracker.com — New website domain
+
+**Privacy & Terms:**
+- wachanga.com/privacy
+- wachanga.com/terms
+
+**Support:**
+- team@wachanga.com
+
+**Developer:**
+- Wachanga LTD — Based in Kemerovo, Russia — Developer: Christine Kleymenova
+
+**App Identifiers:**
+- iOS: 1423628793 — Android: com.wachanga.womancalendar
+- ⚠️ NOTE: The App Store lists this app as "local-only, no data sharing," but research found otherwise.
+
+---
+
+### Femble (Femble GmbH — Innsbruck, Austria) ⚠️ Pivoted to a healthcare content platform in 2025
+
+**Core Domains:**
+- femble.co
+- www.femble.co
+
+**Developer:**
+- Femble GmbH — Haller Straße 65, 6020 Innsbruck, Austria
+- Founders: Lina Graf (CEO), Daniel Steiner (Co-Founder)
+
+**Package:**
+- co.femble.cycle_companion
+
+**Funding:**
+- €358K–363K Seed | Investors: exelixis capital AG, Innspire Ventures, PurposeTech, Startup.Tirol
+
+---
+
+### Lily (Whimsical Inc. — California, 2010–2017)
+
+**Core Domains:**
+- whimsicallily.com
+- http://whimsicallily.com/lily/en/
+
+**Support:**
+- contact@whimsicallily.com
+
+**Social:**
+- twitter.com/WhimsicalLily
+
+**Package:**
+- iOS: 400529549
+
+---
+
+### Lily (Guu.vn — Vietnam, 500K+ downloads)
+
+**Package:**
+- guu.vn.lily — Developer: Guu.vn
+
+---
+
+### Lily (Iveta Chaikovska — launched March 2024)
+
+**Package:**
+- iOS: 6478968837 — Developer: Iveta Chaikovska
+
+---
+
+### Lady Cycle (UniDesign Solutions GmbH — Effretikon, Switzerland) ⚠️ Only one tracker: Firebase
+
+**Core Domains:**
+- ladycycle.com
+- www.ladycycle.com
+
+**Developer:**
+- UniDesign Solutions GmbH — Rappenstrasse 19, 8307 Effretikon, Switzerland
+- Founders: Stephan Gerhard, Patricia Milz
+- unidesign.ch — UniDesign Solutions GmbH developer site
+- aware-gmbh.de — "Aware GmbH" (listed under this name on AppBrain)
+
+**Study Score:**
+- 20/30 points (Frontiers study, 2018)
+- Ranked #1 by Stiftung Warentest Deutschland (23 apps tested)
+
+**Third-Party Services:**
+- firebase.googleapis.com — Firebase Analytics (confirmed by Consumer Reports 2022 — its only third-party tracker)
+- ✅ NOTE: Data is stored LOCALLY; no automatic cloud sync. Very minimal footprint.
+
+---
+
+### myNFP — GERMAN LANGUAGE ONLY
+
+**Package:**
+- de.mynfp.mobile
+
+**Platform:**
+- Android, iOS, Web app
+
+**Study Score:**
+- 20/30 points (Frontiers study, 2018)
+
+---
+
+### Nexus (Nexus Connected Ltd — UK, launched Oct 2025)
+
+**Core Domains:**
+- nexusconnected.co.uk
+- www.nexusconnected.co.uk
+- nexusconnected.co.uk/health-companion/
+
+**Founder & Team:**
+- Founder: Leo Tyson — Co-Founder/CTO: Kishan Kumar
+
+**Social:**
+- instagram.com/nexusconnected
+- linkedin.com/company/nexusconnected
+
+**Funding:**
+- £170,000 from angel investors (as of Oct 2025)
+
+---
+
+### Teena (Valley Electronics LLC — US / Valley Electronics GmbH — Germany)
+
+**Core Domains:**
+- myteena.com
+- www.myteena.com
+- myteena.com/us/en/ — myteena.com/uk/en/ — myteena.com/de/
+
+**Parent:**
+- Valley Group of Companies — CEO: Natalie Rechberg
+- info@lady-comp.de
+
+**Related Products:**
+- lady-comp.com
+- daysy.me
+- daysy.com
+- pearly.info
+
+---
+
+### Pearly (Valley Electronics AG — Zürich, Switzerland)
+
+**Core Domains:**
+- pearly.info
+- lady-comp.com/ch/en/shop/products/pearly/
+
+**App:**
+- pearly® Cycle — App Store ID: 1401495178
+
+**Company:**
+- Valley Electronics AG — Maneggstrasse 45, 8041 Zürich — info@ch.daysy.me
+
+---
+
+### Wocute (MQJC Technology — Singapore, 5M+ downloads) ⚠️ IDENTIFIED THROUGH RESEARCH
+
+**Core Domains:**
+- wocute.com
+- gapi.wocute.com — API endpoint
+- wocute.com/protocol — Privacy policy
+
+**Developer:**
+- MQJC Technology — Singapore
+- mqjctechnology.com — Developer corporate domain — CRITICAL
+
+**Third-Party Services — All Identified (2025 Network Analysis):**
+- CRITICAL: otheve.beacon.qq.com — Tencent Beacon analytics (Chinese analytics platform, Firebase-equivalent)
+- CRITICAL: beacon.qq.com — Tencent Beacon
+- CRITICAL: *.aliyuncs.com / aliyun.com — Alibaba Cloud SLS (data stored on Chinese servers!)
+- app.adjust.com — Adjust (Berlin-based marketing attribution SDK)
+- graph.facebook.com — Meta/Facebook Graph API (gatekeeper check; flagged a "deprecated Ads API" warning)
+- connect.facebook.net — Facebook SDK
+- firebase.googleapis.com — Firebase (device data)
+- ⚠️ NOTE: The privacy policy explicitly states data is stored on servers in China, using Alibaba Cloud. The Tencent Analytics integration was not disclosed in the policy.
+
+---
+
+## 🔴 TIER 3 — Pregnancy Apps
+
+### BabyCenter (Everyday Health Group / Ziff Davis, Inc.)
+
+**Core Domains:**
+- babycenter.com
+
+**Regional:**
+- babycentre.co.uk
+- babycenter.com.br
+- babycenter.in
+- babycenter.de
+- babycenter.com.mx
+- babycenter.ca
+- babycenter.com.au
+
+**Community & Support:**
+- community.babycenter.com
+- support@babycenter.com
+
+**Social:**
+- facebook.com/BabyCenter
+- twitter.com/BabyCenter
+- pinterest.com/babycenter
+
+**Parent Company:**
+- Everyday Health Group (Ziff Davis, Inc.)
+
+**Additional Domains:**
+- everydayhealth.com — Parent company's main domain
+- everydayhealthgroup.com — Everyday Health Group
+- ziffdavis.com — Ultimate parent company (Ziff Davis)
+- dsar.babycenter.com — Data Subject Access Request portal
+- emmasdiary.co.uk — Everyday Health UK property
+- baby.com — Redirect/brand domain
+- pregnancy.com — Redirect/brand domain
+- experian.com — Data analytics partner (identified by Mozilla research)
+- comscore.com — Audience measurement (identified by Mozilla research)
+
+---
+
+### What to Expect (Everyday Health Group)
+
+**Core Domains:**
+- whattoexpect.com
+
+**Privacy & Support:**
+- dsar.whattoexpect.com — DSAR portal (data deletion requests)
+- privacy@everydayhealth.com
+- support@whattoexpect.com
+
+**Social:**
+- instagram.com/whattoexpect
+- twitter.com/WhatToExpect
+- facebook.com/whattoexpect
+- pinterest.com/whattoexpect
+- tiktok.com/@whattoexpect
+
+**Parent Company:**
+- Everyday Health Group (Ziff Davis, Inc.)
+
+**Additional Domains:**
+- everydayhealth.com / everydayhealthgroup.com / ziffdavis.com — Parent entities
+
+---
+
+### The Bump (The Knot Worldwide, Inc.)
+
+**Core Domains:**
+- thebump.com
+
+**Community:**
+- community.thebump.com
+- forums.thebump.com
+
+**Support:**
+- help@thebump.com
+
+**Privacy:**
+- theknotww.zendesk.com
+
+**Social:**
+- facebook.com/thebump
+- twitter.com/thebump
+- pinterest.com/thebump
+
+**Parent Company:**
+- The Knot Worldwide Inc.
+
+**Additional Domains:**
+- theknot.com / theknotww.com — Parent company, The Knot Worldwide
+
+---
+
+### Sprout (Med ART Studios LLC) ✅ Privacy-focused — iCloud/Google Drive only
+
+**Core Domains:**
+- sprout-apps.com
+- sproutpregnancy.com
+
+**Developer:**
+- Med ART Studios LLC
+
+**Support:**
+- support@sprout-apps.com
+- ✅ NOTE: No account or password required. Data is stored ONLY in the user's own iCloud/Google Drive account.
+
+---
+
+### Nurture (Glow / Upward Labs Holdings)
+
+**Core Domains:**
+- nurture.glow.co
+- glowing.com/nurture
+
+**Support:**
+- support.glowing.com/hc/en-us/categories/360000158507-Nurture-App
+- support@glowing.com
+
+---
+
+### Pregnancy+ (Philips Consumer Lifestyle B.V. / Philips Digital UK Limited)
+
+**Core Domains:**
+- philips-digital.com
+- info.philips-digital.com
+
+**Support & Marketing:**
+- support@philips-digital.com
+- marketing@philips-digital.com
+- pregnancyplus.app — Support email domain (support@pregnancyplus.app)
+
+**Additional Domains:**
+- google.com/ad-manager — Google Ad Manager (explicitly named as an advertising partner)
+- adexchange.google.com — Google Ad Exchange (explicitly named)
+
+**Privacy Locations:**
+- info.philips-digital.com/PrivacyNotice?locale=en&country=US
+- info.philips-digital.com/TermsOfUse?locale=en&country=US
+- ⚠️ NOTE (Mozilla): Shares data with Facebook, Instagram, and Pinterest for advertising purposes; builds user profiles.
+
+---
+
+### Hello Belly — DISCONTINUED May 3, 2025
+
+**Core Domains (archived):**
+- belly.babyalbum.com
+- babyalbum.com
+
+**Privacy & Terms (archived):**
+- privacy.babyalbum.com
+- terms.babyalbum.com
+- hello@babyalbum.com
+
+---
+
+## 🔴 TIER 4 — Hardware-Integrated Apps
+
+### Ava (Ava Science Inc. — wearable bracelet)
+
+**Core Domains:**
+- avawomen.com
+- ava-science.com
+- awesome-health.com — Legacy/alternative domain
+- avafertility.com — Alternative/redirect domain
+- faq.avawomen.com — FAQ subdomain
+
+**API & Backend:**
+- api.avawomen.com
+- backend.avawomen.com
+- sync.avawomen.com
+- device.avawomen.com
+
+**Shop, Analytics & CDN:**
+- shop.avawomen.com
+- analytics.avawomen.com
+- cdn.avawomen.com
+
+**Support:**
+- support.avawomen.com
+- support@avawomen.com
+
+**Social:**
+- facebook.com/AvaBracelet
+- twitter.com/AvaWomen
+- instagram.com/AvaWomen
+- pinterest.com/AvaWomen
+
+---
+
+### OTO Fertility (OTO Coach)
+
+**Core Domains:**
+- otofertility.com
+- www.otofertility.com
+- oto.coach
+- www.oto.coach
+- otocoach.com / oto-coach.com — Parent entity OTO Coach corporate domains
+
+**Partner/Integration:**
+- mondayfertility.com
+- www.mondayfertility.com
+
+**Support:**
+- support@otofertility.com
+- support@oto.coach
+
+---
+
+### Tempdrop
+
+**Core Domains:**
+- tempdrop.com
+- temp-drop.com — Alternative spelling/redirect
+
+**Support:**
+- support@tempdrop.com
+- help.tempdrop.com — Help center subdomain
+- helpscout.net — Help Scout (customer support platform)
+
+**Third-Party Services:**
+- google-analytics.com — Website analytics
+- firebase.googleapis.com — App analytics
+- connect.facebook.net — Facebook SDK
+
+---
+
+### Mira (Miracare / Quanovate Technology Inc.) ⚠️ 2024 Class Action Lawsuit
+
+**Core Domains:**
+- miracare.com
+- shop.miracare.com
+- quanovate.com — Parent company Quanovate Technology Inc. — CRITICAL
+
+**Support:**
+- support@miracare.com
+
+**Third-Party Services (Lawsuit + Research):**
+- CRITICAL: connect.facebook.net — Meta Pixel (confirmed by class-action lawsuit)
+- CRITICAL: google-analytics.com — Google Analytics (confirmed by class-action lawsuit)
+- CRITICAL: googletagmanager.com — Google Tag Manager
+- CRITICAL: doubleclick.net — Google DoubleClick (retargeting)
+- ⚠️ NOTE: Subject of a 2024 class-action lawsuit citing active use of Meta Pixel, Google Analytics, and DoubleClick.
+
+---
+
+### Kegg (Lady Technologies, Inc.)
+
+**Core Domains:**
+- kegg.tech
+- ladytechnologies.com — Parent company Lady Technologies, Inc. — CRITICAL
+
+**Support:**
+- kegg.tech/support
+
+**Community:**
+- facebook.com/groups/keggcommunity/
+
+**Funding:**
+- $9.5M total | Series A: $6.5M (Jan 2025) | HAX 11 accelerator
+
+---
+
+### Inito (Inito Health Inc.) ⚠️ 2024 Class Action Lawsuit (Firebase + Google Analytics)
+
+**Core Domains:**
+- inito.com
+- blog.inito.com
+- staging.inito.com
+
+**Third-Party Services (Confirmed by Lawsuit):**
+- CRITICAL: firebase.googleapis.com — Firebase + Google Analytics (lawsuit explicitly cites undisclosed use)
+- CRITICAL: google-analytics.com — Google Analytics (confirmed by lawsuit)
+- ⚠️ NOTE: A lawsuit was filed by Bursor & Fisher, P.A. in a California federal court in November 2024, alleging transfer of sensitive reproductive health data to Google.
+
+---
+
+### LadyComp (Valley Electronics AG)
+
+**Core Domains:**
+- lady-comp.com
+- pearly.info
+
+**Regional:**
+- lady-comp.com/us/
+- lady-comp.com/ch/
+
+---
+
+### Ovatel
+
+**Core Domains:**
+- ovatel.com
+
+**Support:**
+- shop@ovatel.com
+
+---
+
+### Yono (Yono Labs)
+
+**Core Domains:**
+- yonolabs.com
+
+---
+
+## 🟥 TIER 5 — Research & Clinical Apps
+
+### Daysy (Valley Electronics AG — Zürich) ✅ Minimal third-party integration
+
+**Core Domains:**
+- daysy.me
+- daysy.com
+- valley-electronics.com
+
+**Regional:**
+- usa.daysy.me
+- eu.daysy.me
+
+**API & Backend:**
+- api.daysy.me
+- sync.daysy.me
+- device.daysy.me
+
+**Shop & Analytics:**
+- shop.daysy.me
+- analytics.daysy.me
+
+**Support:**
+- info@usa.daysy.me
+- info@eu.daysy.me
+- info@ch.daysy.me
+- ✅ NOTE: Valley Electronics distributes only through the App Store / Play Store. Minimal third-party integration.
+
+---
+
+### Inne (inne GmbH — Berlin)
+
+**Core Domains:**
+- inne.io
+- www.inne.io
+- inneio.com
+- policies.inne.io — Terms/policies subdomain
+
+**API & Backend:**
+- api.inne.io
+- backend.inne.io
+- device.inne.io
+
+**Shop & Support:**
+- shop.inne.io
+- support@inne.io
+
+---
+
+### Oova (OOVA, Inc.) — Perimenopause & fertility hormone tracking
+
+**Core Domains:**
+- oova.life
+- www.oova.life
+- oova.com — redirects to oova.life
+
+**API & Backend:**
+- api.oova.life
+- backend.oova.life
+
+**Shop & Support:**
+- shop.oova.life
+- info@proovtest.com
+
+---
+
+### Proov (MFB Fertility, Inc.)
+
+**Core Domains:**
+- proovtest.com
+- www.proovtest.com
+- proov.io
+
+**API & Backend:**
+- api.proovtest.com
+
+**Healthcare Portal:**
+- care.proovtest.com — B2BMD LLC healthcare portal
+- b2bmd.com — B2BMD LLC (Proov's affiliated healthcare entity)
+
+**Shop & Support:**
+- shop.proovtest.com
+- info@proovtest.com
+
+**Third-Party Services (from Privacy Policy):**
+- shopify.com — E-commerce platform (policy states: "companies who support our Site, such as Shopify")
+- consentmo.com — GDPR/cookie consent (Consentmo GDPR Compliance app)
+
+---
+
+### OvaGraph — DISCONTINUED December 2025 → migrated to Cyclisity
+
+**Archived Support:**
+- support@ovagraph.com (redirects to cyclisity.com)
+
+---
+
+### Cyclisity (successor to OvaGraph — Toni Weschler / TCOYF)
+
+**Core Domains:**
+- cyclisity.com
+- tcoyf.com
+- ovagraph.com (archived — shut down December 2025)
+- cyclisity.app — App-specific domain
+
+**Support:**
+- support@cyclisity.com
+- NOTE: OvaGraph was permanently shut down in December 2025 due to insufficient resources. iOS-only, US/Canada, Fahrenheit-first.
+
+---
+
+### Fertility Tracker (by Droid Hen)
+
+**Core Domains:**
+- droidhen.com
+- fertilitytracker.droidhen.com
+
+**API & Backend:**
+- api.droidhen.com
+
+**Support:**
+- support@droidhen.com
+
+---
+
+### OvuView
+
+**Developer:**
+- Tempdrop Inc. (acquired)
+
+**Integration:**
+- tempdrop.com
+
+**Community:**
+- facebook.com/groups/ovuview
+
+---
+
+## 🟣 TIER 6 — Symptom Trackers (Reproductive Health)
+
+### Spot On (Planned Parenthood Direct, Inc.) ✅ Local-only since 2024
+
+**Core Domains:**
+- plannedparenthood.org
+- spotonperiodtracker.com
+- spoton.plannedparenthood.org
+
+**Related:**
+- plannedparenthooddirect.org
+
+**Legacy API (no longer active — local-only since the 2024 relaunch):**
+- api.spotonperiodtracker.com — ⚠️ NO LONGER VALID
+- backend.spotonperiodtracker.com — ⚠️ NO LONGER VALID
+- analytics.spotonperiodtracker.com — ⚠️ NO LONGER VALID
+- cdn.spotonperiodtracker.com — ⚠️ NO LONGER VALID
+
+**Support:**
+- spotontracker@plannedparenthooddirect.org
+- ✅ Per the 2024 relaunch: "All data is stored directly to your device and cloud backup. Spot On does not store your information or personal data." Data is not retained server-side.
+
+---
+
+### Sympto (sympto-therm method — Switzerland/International)
+
+**Core Domains:**
+- sympto.org
+- www.sympto.org
+- sympto.ch
+- symptotherm.ch
+- symptotherm.org
+- symptothermie.com
+- blog.sympto.org
+
+**App:**
+- app.sympto.org
+
+**API & Analytics:**
+- api.sympto.org
+- analytics.sympto.org
+
+**Support:**
+- sympto@sympto.ch
+
+---
+
+## 🔶 TIER 7 — Additional Regional/Niche Apps
+
+### Belle (Belle Health Ai Technologies Ltd — PMDD-focused)
+
+**Core Domains:**
+- bellehealth.co
+
+**Support:**
+- support@bellehealth.co
+
+**Social:**
+- linktr.ee/bellehealth
+- instagram.com/bellehealth.pmdd
+- pinterest.com/bellepmdd
+- reddit.com/r/bellehealth
+- tiktok.com/@bellehealthpmdd
+
+**Developer:**
+- Belle Health Ai Technologies Ltd (UK entity)
+
+---
+
+### Me v PMDD (Me v PMDD, Inc.)
+
+**Core Domains:**
+- mevpmdd.com
+- blog.mevpmdd.com
+- mevpmdd.zendesk.com
+
+**Support:**
+- support@mevpmdd.zendesk.com
+- hello@mevpmdd.com
+
+**Developer:**
+- Me v PMDD, Inc. — Brett Buchert (Co-Founder & CEO)
+
+---
+
+### Cycles (Perigee — Sweden)
+
+**Core Domains:**
+- cycles.app
+- perigee.se
+- perigee.zendesk.com
+- careers.perigee.se
+
+**Support:**
+- support@perigee.se
+
+**Third-Party Services (VPNoverview Research):**
+- braze.com — Push notifications & CRM
+- sentry.io — Error monitoring
+- adjust.com — Mobile attribution/analytics
+
+---
+
+### My Moontime
+
+**Core Domains:**
+- mymoontime.com
+
+**Support:**
+- info@mymoontime.com
+
+---
+
+### Read Your Body
+
+**Core Domains:**
+- readyourbody.com
+- bodyliteracy.co
+
+**Support:**
+- hello@readyourbody.com
+
+---
+
+### Lilly / Bloom (SMSROBOT)
+
+**Core Domains:**
+- smsrobot.com
+
+**Support:**
+- contact@smsrobot.com
+- support@smsrobot.com
+
+**Privacy:**
+- smsrobot.com/privacypolicy_period.html
+- smsrobot.com/privacypolicy.html
+
+---
+
+### MagicGirl (Teen Period Tracker) ⚠️ Surfshark: shares data with third-party advertisers
+
+**Core Domains:**
+- magicgirl.me
+
+**Support:**
+- support@magicgirl.me
+
+**Privacy:**
+- magicgirl.me/privacy
+- ⚠️ NOTE: Surfshark research found MagicGirl shares data with advertisers. App is aimed at teenagers.
+
+---
+
+### Euki (Euki, Inc. — US non-profit, 501(c)3) ✅ ZERO THIRD-PARTY DATA SHARING
+
+**Core Domains:**
+- eukiapp.org
+- eukiapp.com
+
+**Support:**
+- eukiapp@protonmail.com
+
+**Social:**
+- twitter.com/EukiApp
+- instagram.com/EukiApp
+
+**Developer Partners:**
+- Digital Defense Fund
+- Ibis Reproductive Health
+- Women Help Women
+- ✅ Research (May 2025): "We did not observe any user data nor device data being sent to any parties."
+- ✅ Genuinely zero data collection. All data stays on-device. Open source. Non-profit.
+
+---
+
+### Dot (Cycle Technologies) — Removed from Android on September 22, 2019
+
+**Core Domains (archived):**
+- dottheapp.com
+- cycletechnologies.com
+
+**Support (archived):**
+- hello@dottheapp.com
+- info@cycletechnologies.com
+
+---
+
+## 🆕 OPEN SOURCE & COMMUNITY PLATFORMS
+
+### drip (bloodyhealth — supported by the Mozilla Foundation) ✅ ZERO THIRD-PARTY DATA SHARING
+
+**Core Domains:**
+- bloodyhealth.gitlab.io
+- dripapp.org — Privacy policy URL
+
+**Repository:**
+- gitlab.com/bloodyhealth/drip
+
+**Distribution:**
+- App Store (iOS)
+- Google Play
+- F-Droid
+- ✅ Fully open source. Data stays on-device. No servers, no trackers. Also available via F-Droid.
+
+---
+
+### Peri — Open Source
+
+**Core Domains:**
+- irasoro.github.io/peri-website
+
+**Repository:**
+- github.com/IraSoro/peri
+
+---
+
+### Eggtimer
+
+**Core Domains:**
+- eggtimer.herokuapp.com
+
+**Repository & API:**
+- github.com/jessamynsmith/eggtimer-server
+- eggtimer.herokuapp.com/api/v2/statistics/
+- eggtimer.herokuapp.com/api/v2/periods/
+
+**Support:**
+- paypal.me/jessamynsmith
+
+---
+
+### YouPeriod.app — Open Source
+
+**Core Domains:**
+- youperiod.app
+
+**Repository:**
+- github.com/getify/youperiod.app
+
+---
+
+## ⚫ TIER 8 — Analytics & Backend Services
+
+**App-specific Analytics Domains (estimated):**
+- flo-analytics.com
+- clue-analytics.com
+- glow-analytics.com
+- ovia-analytics.com
+- kindara-analytics.com
+- naturalcycles-analytics.com
+- maya-analytics.com
+- womanlog-analytics.com
+
+**Common Tracking Endpoints:**
+- track.flo.health
+- track.helloclue.com
+- track.glow.co
+- track.oviahealth.com
+- track.maya.live
+- track.naturalcycles.com
+- analytics.oviahealth.com
+- metrics.naturalcycles.com
+- metrics.flo.health
+- events.glow.co
+- telemetry.flo.health
+- telemetry.clue.app
+- telemetry.glow.co
+
+**Data Collection & Storage:**
+- data.flo.health
+- data.glow.co
+- data.oviahealth.com
+- storage.flo.health
+- backup.glow.co
+
+---
+
+## 🔴 TIER 9 — Ad Networks & Monetization
+
+**Baby/Pregnancy-Focused Ad Networks:**
+- babycenter-ads.com
+- whattoexpect-ads.com
+- thebump-ads.com
+- ovia-ads.com
+- glow-ads.com
+- ads.babycenter.com
+- ads.whattoexpect.com
+- ads.thebump.com
+- ads.ovia.com
+- ads.glow.co
+- ads.gpapps.com
+
+**Contextual Pregnancy/Health Ads:**
+- contextualmedia.com
+- healthline-ads.com
+- medicalmedia.com
+- pregnancy-ads.com
+- fertility-ads.com
+- babyproducts-ads.com
