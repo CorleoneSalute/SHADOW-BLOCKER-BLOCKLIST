@@ -1,0 +1,1161 @@
+# SCREEN RECORDER RESEARCH LIST
+
+---
+
+## Bandicam (Bandisoft)
+
+### Core Domains
+- bandicam.com
+- www.bandicam.com
+- bandisoft.com
+- support.bandicam.com
+- forum.bandicam.com
+- en.bandicam.com
+- bandicam.co.kr
+
+### License & Update
+- reg.bandicam.com
+- reg2.bandicam.com
+- license.bandicam.com
+- update.bandicam.com
+- dl.bandicam.com
+
+### API
+- api.bandicam.com
+
+---
+
+## Camtasia & Snagit (TechSmith)
+
+### Core Domains
+- techsmith.com
+- www.techsmith.com
+- camtasia.com
+- snagit.com
+- audiate.techsmith.com
+- camtasia.techsmith.com
+
+### Cloud Services (Screencast.com)
+- screencast.com
+- www.screencast.com
+- api.screencast.com
+- assets.screencast.com
+- content.screencast.com
+- embed.screencast.com
+
+### Telemetry & Analytics
+- telemetry.techsmith.com
+- feedback.techsmith.com
+- assets.techsmith.com
+- relay.techsmith.com
+
+### License & Update
+- activate.techsmith.com
+- activation.techsmith.com
+- license.techsmith.com
+- account.techsmith.com
+- update.techsmith.com
+- download.techsmith.com
+- software.techsmith.com
+
+### CDN
+- techsmith-cdn.azureedge.net
+- camtasia-cdn.azureedge.net
+- cdn.techsmith.com
+
+### Additional Domains
+- community.techsmith.com
+- library.techsmith.com
+- manage.techsmith.com
+- store.techsmith.com
+- discover.techsmith.com
+- oscount.techsmith.com
+- updater.techsmith.com
+- camtasiatudi.techsmith.com
+- tsccloud.cloudapp.net
+- assets.cloud.techsmith.com
+- activation.cloud.techsmith.com
+
+---
+
+## Loom (Atlassian)
+
+### Core Domains
+- loom.com
+- www.loom.com
+- api.loom.com
+- cdn.loom.com
+- cdn2.loom.com
+- cdn-cf.loom.com
+- app.loom.com
+
+### Cloud Storage & Processing
+- storage.loom.com
+- videos.loom.com
+- transcripts.loom.com
+- loom-media-production.s3-accelerate.amazonaws.com
+- *.s3.us-west-2.amazonaws.com
+
+### Video Player
+- player.loom.com
+- embed.loom.com
+
+### Recording Infrastructure
+- record.loom.com
+- location.loom.com
+- luna.loom.com
+- proxy.loom.com
+- packages.loom.com
+
+### Monitoring & Logging
+- *.logs.datadoghq.com
+
+### IP Detection
+- icanhazip.com
+- api.ipify.org
+
+### Third-Party Services
+- *.intercom.io
+- api.segment.io
+- cdn.segment.com
+
+---
+
+## ScreenPal / Screencast-O-Matic
+
+### Core Domains
+- screenpal.com
+- www.screenpal.com
+- app.screenpal.com
+
+### Legacy (Redirects)
+- screencast-o-matic.com
+- screencast-o-matic.com/calpoly
+
+### Cloud Services
+- api.screenpal.com
+- cdn.screenpal.com
+- assets.screenpal.com
+- video.screenpal.com
+- videos.screenpal.com
+- transcoding.screenpal.com
+- upload.screenpal.com
+- media.screenpal.com
+- share.screenpal.com
+- go.screenpal.com
+- files3.screenpal.com
+- docs.screenpal.com
+
+### License & Account
+- account.screenpal.com
+- auth.screenpal.com
+- login.screenpal.com
+- license.screenpal.com
+- subscription.screenpal.com
+
+### Support
+- screenpal.zendesk.com
+- support.screenpal.com
+
+---
+
+## ScreenRec
+
+### Core Domains
+- screenrec.com
+- www.screenrec.com
+- app.screenrec.com
+- member.screenrec.com
+
+### Cloud Services
+- api.screenrec.com
+- cdn.screenrec.com
+- storage.screenrec.com
+- videos.screenrec.com
+
+### Support
+- help.streamingvideoprovider.com
+- streamingvideoprovider.com
+- www.streamingvideoprovider.com
+- docs.streamingvideoprovider.com
+
+---
+
+## FlashBack Recorder (Blueberry Software)
+
+### Core Domains
+- flashbackrecorder.com
+- www.flashbackrecorder.com
+- blueberrysoftware.com
+- bbsoftware.co.uk
+
+### Telemetry
+- analytics.blueberrysoftware.com
+- telemetry.flashbackrecorder.com
+- feedback.flashbackrecorder.com
+
+### License & Update
+- license.flashbackrecorder.com
+- activation.flashbackrecorder.com
+- update.flashbackrecorder.com
+- download.flashbackrecorder.com
+
+### Cloud (Optional)
+- connect.flashbackrecorder.com
+- api.flashbackconnect.com
+- flashbackconnect.com
+
+### Additional Domains
+- support.flashbackrecorder.com
+- store.blueberrysoftware.com
+- dev.flashbackrecorder.com
+
+---
+
+## Action! (Mirillis)
+
+### Core Domains
+- mirillis.com
+- action.mirillis.com
+- mirillis.com/forum
+
+### License & Update
+- reg.mirillis.com
+- license.mirillis.com
+- activation.mirillis.com
+- update.mirillis.com
+- download.mirillis.com
+
+### Telemetry (Suspected)
+- telemetry.mirillis.com
+- api.mirillis.com
+
+### Other Mirillis Products
+- splash.mirillis.com
+- monflo.mirillis.com
+- monflo.com
+- remotly.com
+- community.remotly.com
+
+---
+
+## Apowersoft Screen Recorder (CHINESE — AVOID!) ⚠️⚠️
+
+### Core Domains
+- apowersoft.com
+- www.apowersoft.com
+- apowersoft.cn
+- support.apowersoft.com
+- store.apowersoft.com
+
+### Cloud Services
+- cloud.apowersoft.com
+- api.apowersoft.com
+- cdn.apowersoft.com
+
+### ShowMore (Cloud Video Platform)
+- showmore.com
+- api.showmore.com
+- videos.showmore.com
+
+### RecCloud
+- reccloud.com
+
+### License & Update
+- reg.apowersoft.com
+- license.apowersoft.com
+- update.apowersoft.com
+- download.apowersoft.com
+
+### Third-Party Analytics & Tracking
+- firebase.google.com
+- flurry.com
+- jpush.cn
+- bugsplat.com
+- criteo.com
+- disqus.com
+- fabric.io
+- hotjar.com
+- pardot.com
+
+---
+
+## IObit Screen Recorder (CHINESE — AVOID!) ⚠️⚠️
+
+### Core Domains
+- iobit.com
+- www.iobit.com
+- iobit.cn
+- forums.iobit.com
+
+### Tracking
+- api.iobit.com
+- update.iobit.com
+- stat.iobit.com
+- download.iobit.com
+- reg.iobit.com
+- license.iobit.com
+- recorder-test.iobit.com
+- recorder.iobit.com
+
+### iTop Screen Recorder (Rebranding)
+- itopvpn.com
+- recorder.itopvpn.com
+- itopscreen.com
+- www.itopscreen.com
+
+---
+
+## OBS Studio
+
+### Core Domains
+- obsproject.com
+- www.obsproject.com
+- obsbot.rodney.io
+- obsproject.com/forum
+
+### CDN & Updates
+- cdn-fastly.obsproject.com
+
+### WebSocket & Remote Control
+- github.com/obsproject/obs-websocket
+- cdn.jsdelivr.net/npm/obs-websocket-js
+- unpkg.com/obs-websocket-js
+
+### GitHub
+- github.com/obsproject/obs-studio
+- github.com/obs-websocket-community-projects
+
+### Community
+- flathub.org
+- t2t2.github.io/obs-tablet-remote
+- jsdelivr.com
+
+---
+
+## Screencastify
+
+### Core Domains
+- screencastify.com
+- www.screencastify.com
+- app.screencastify.com
+- learn.screencastify.com
+
+### Third-Party Managed Subdomains
+- get.screencastify.com
+- community.screencastify.com
+- go.screencastify.com
+- support.screencastify.com
+
+### Additional Domains
+- castify.com
+- *.castify.com
+- app.castify.com
+- studio-backend.castify.com
+- studio-graphql.castify.com
+- cdn.castify.com
+- ww2.screencastify.com
+- *.firebaseapp.com
+- *.firebaseio.com
+- apis.google.com
+- fonts.gstatic.com
+- identitytoolkit.googleapis.com
+- googleapis.com
+- pagead2.googlesyndication.com
+- pendo.io
+- sentry.io
+- widget-mediator.zopim.com
+- www.google-analytics.com
+- www.googletagmanager.com
+- youtubeeducation.com
+- youtube.googleapis.com
+- logs.browser-intake-datadoghq.com
+
+---
+
+## Icecream Screen Recorder
+
+### Core Domains
+- icecreamapps.com
+- icecream.me
+
+---
+
+## Wondershare DemoCreator
+
+### Core Domains
+- democreator.wondershare.com
+- demoair.wondershare.com
+- wondershare.com
+- wondershare.cc
+- wondershare.cn
+
+### Account & Cloud
+- accounts.wondershare.com
+- ccsapi.cloud.wondershare.com
+
+### Asset Library
+- filmstock.wondershare.com
+- filmora.wondershare.com
+
+### Support
+- support.wondershare.com
+- guide.wondershare.com
+
+### Third-Party
+- studentbeans.com
+
+### Additional Domains
+- analytics.wondershare.cc
+
+---
+
+## Movavi Screen Recorder
+
+### Core Domains
+- movavi.com
+- www.movavi.com
+- movavi.cn
+
+### Support
+- help.movavi.com
+- movavi.freshdesk.com
+
+### CDN & Downloads
+- cdn.movavi.com
+- dl.movavi.com
+
+### Online Products
+- screencapture.com
+
+### Additional Domains
+- account.movavi.com
+- my.movavi.com
+
+---
+
+## NCH Software (Debut)
+
+### Core Domains
+- nchsoftware.com
+- www.nchsoftware.com
+- nch.com.au
+- secure.nch.com.au
+
+### Support
+- help.nchsoftware.com
+- nch.invisionzone.com
+
+---
+
+## XSplit (Broadcaster)
+
+### Core Domains
+- xsplit.com
+- www.xsplit.com
+- api.xsplit.com
+- legacy.xsplit.com
+
+### Support
+- support.xsplit.com
+- supportdesk.xsplit.com
+
+### VCam
+- xvc.apps.xsplit.com
+- ideas-xvc.xsplit.com
+
+### CDN
+- cdn2.xsplit.com
+
+### Third-Party Integration
+- api.unsplash.com
+- unsplash.com
+- xjsframework.github.io
+
+> Note: XSplit Gamecaster was discontinued (March 31, 2023)
+
+---
+
+## Gecata (Movavi)
+
+### Core Domains
+- gecata.com
+- www.gecata.com
+
+### DNS
+- dns-01.movavi.com
+- dns-02.movavi.com
+- dns-03.movavi.net
+- dns-04.movavi.net
+
+### Third-Party
+- store.steampowered.com/app/527330/Gecata_by_Movavi
+
+---
+
+## Ezvid
+
+### Core Domains
+- ezvid.com
+- www.ezvid.com
+
+---
+
+## Fraps
+
+### Core Domains
+- fraps.com
+- www.fraps.com
+- beepa.com
+
+### Third-Party Archives
+- archive.org/details/fraps-v-3.5.9-full
+- oldversion.com/windows/fraps
+
+---
+
+## DXtory (ExKode)
+
+### Core Domains
+- exkode.com
+- forum.exkode.com
+
+---
+
+## CamStudio (DISCONTINUED — Malware History) ⚠️
+
+> ⚠️ THIS PLATFORM HAS BEEN DISCONTINUED
+
+### Core Domains
+- camstudio.org
+- www.xnotestopwatch.com
+- www.jahoma.nl/timereg
+
+### Third-Party
+- sourceforge.net/projects/camstudio
+- s3.amazonaws.com
+
+---
+
+## Screenity (Chrome Extension)
+
+### Core Domains
+- screenity.io
+- help.screenity.io
+- screenity.io/pro
+
+### GitHub
+- github.com/alyssaxuu/screenity
+
+---
+
+## Recordzilla (Softdiv Software)
+
+### Core Domains
+- softdivshareware.com
+- netdna.dexster.net
+
+---
+
+## Kazam (Linux)
+
+### Core Domains
+- launchpad.net/kazam
+- code.launchpad.net/kazam
+- ppa.launchpad.net/sylvain-pineau/kazam
+
+### GitHub
+- github.com/hzbd/kazam
+- github.com/henrywoo/kazam
+
+### Third-Party
+- pypi.org
+- flathub.org
+
+---
+
+## SimpleScreenRecorder (Linux)
+
+### Core Domains
+- maartenbaert.be/simplescreenrecorder
+
+### GitHub
+- github.com/MaartenBaert/ssr
+- github.com/MaartenBaert/ssr-packages
+
+### Third-Party
+- flathub.org
+- portable-linux-apps.github.io
+
+---
+
+## RecordMyDesktop (Linux)
+
+### Core Domains
+- recordmydesktop.sourceforge.net
+- enselic.github.io/recordmydesktop
+
+### GitHub
+- github.com/Enselic/recordmydesktop
+- github.com/recordmydesktop/recordmydesktop
+
+### Third-Party
+- sourceforge.net/projects/recordmydesktop
+
+---
+
+## VokoscreenNG (Linux/Windows)
+
+### Core Domains
+- linuxecke.volkoh.de
+
+### GitHub
+- github.com/vkohaupt/vokoscreenNG
+
+### Third-Party
+- app.transifex.com/vkohaupt/vokoscreen
+- flathub.org/apps/details/com.github.vkohaupt.vokoscreenNG
+
+---
+
+## Cap.so
+
+### Core Domains
+- cap.so
+- www.cap.so
+- cap.link
+- api.cap.so
+
+### Additional Domains
+- docs.cap.so
+
+---
+
+## QuickTime Player (Apple — Built-in macOS)
+
+### Core Domains
+- quicktime.com
+- support.apple.com/quicktime
+
+### Software Update
+- mesu.apple.com
+- mesu-cdn.apple.com.akadns.net
+- mesu-cdn.origin-apple.com.akadns.net
+- mesu.g.aaplimg.com
+- mesu.apple.com.edgekey.net
+- gdmf.apple.com
+- gdmf.v.aaplimg.com
+- configuration.apple.com
+- updates.cdn-apple.com
+- updates-http.cdn-apple.com
+- appldnld.apple.com
+- oscdn.apple.com
+- osrecovery.apple.com
+- swcdn.apple.com
+- swdist.apple.com
+- swdownload.apple.com
+- swscan.apple.com
+
+### Diagnostics & Security
+- xp.apple.com
+- diagnostics.apple.com
+
+---
+
+## EaseUS RecExperts
+
+### Core Domains
+- easeus.com
+- recorder.easeus.com
+- www.easeus.com
+- kb.easeus.com
+- help.easeus.com
+
+### Additional Domains
+- activation.easeus.com
+
+---
+
+## ScreenFlow (Telestream)
+
+### Core Domains
+- telestream.net
+- www.telestream.net
+- dynamic.telestream.net
+- blogs.telestream.net
+
+### Support
+- support.telestream.net
+
+### Additional Domains
+- store.telestream.net
+
+---
+
+## XRecorder (InShot Inc.)
+
+### Core Domains
+- xrecorder.net
+- inshot.app
+
+---
+
+## Mobizen Screen Recorder (RSUPPORT)
+
+### Core Domains
+- mobizen.com
+- support.mobizen.com
+- support-mirroring.mobizen.com
+- helpdesk.mobizen.com
+- rsupport.com
+- www.remotecall.com
+- rview.com
+- mobizen.firejune.io
+
+### Additional Domains
+- help.mobizen.com
+- rimpay.rsupport.com
+
+---
+
+## NVIDIA ShadowPlay / GeForce Experience
+
+### Core Domains
+- geforce.com
+- gfswl.geforce.com
+- gfe.nvidia.com
+- events.gfe.nvidia.com
+
+### Telemetry
+- telemetry.nvidia.com
+- nvgs.nvidia.com
+- assets.nvgs.nvidia.com
+
+### Additional Domains
+- gfe.geforce.com
+- activation.gfe.nvidia.com
+- api.gfe.nvidia.com
+- events-dc1.gfe.nvidia.com
+- services.gfe.nvidia.com
+- accounts.nvgs.nvidia.com
+- login.nvgs.nvidia.com
+- assets.nvidiagrid.net
+- img.nvidiagrid.net
+- images.nvidiagrid.net
+- telemetry.gfestage.nvidia.com
+- events.gfestage.nvidia.com
+
+---
+
+## Vmaker
+
+### Core Domains
+- vmaker.com
+- www.vmaker.com
+- app.vmaker.com
+
+---
+
+## Free Cam / iSpring Free Cam
+
+### Core Domains
+- freescreenrecording.com
+- www.freescreenrecording.com
+- ispring.com
+- www.ispring.com
+- ispringsolutions.com
+- ispringhelpdocs.com
+- docs.ispringsolutions.com
+- ispringlearn.com
+- ispringlearn.eu
+- api-learn.ispringlearn.eu
+- ispring.cn
+
+### Additional Domains
+- opentok.com
+- *.opentok.com
+- webinar.ispringlearn.com
+
+---
+
+## ScreenApp
+
+### Core Domains
+- screenapp.io
+- www.screenapp.io
+- app.screenapp.io
+- api.screenapp.io
+- dev.screenapp.io
+- landing.screenapp.io
+
+---
+
+## ApowerREC
+
+### Core Domains
+- apowerrec.com
+- www.apowerrec.com
+
+---
+
+## AZ Screen Recorder
+
+### Core Domains
+- azrecorder.com
+
+### Additional Domains
+- hecorat.net
+- app-measurement.com
+- applovin.com
+
+---
+
+## DU Recorder (CHINESE — AVOID!) ⚠️⚠️
+
+### Core Domains
+- du-recorder.com
+- do-global.com
+- baidu.com
+- duapps.com
+
+### Additional Domains
+- durecorder.do-global.com
+- alogs.umeng.com
+- ulogs.umeng.com
+- plbslog.umeng.com
+- log.umeng.com
+- alog.umeng.com
+- umeng.com
+- stats.jpush.cn
+- ali-stats.jpush.cn
+- gd-stats.jpush.cn
+- tsis.jpush.cn
+- jpush.cn
+- jiguang.cn
+
+---
+
+## Vidma Screen Recorder
+
+### Core Domains
+- vidma.com
+- www.vidma.com
+- recorder.vidma.com
+- app.vidma.com
+
+---
+
+## RecMe Screen Recorder (MOBZAPP)
+
+### Core Domains
+- mobzapp.com
+- transcommu.yasesprox.com
+
+---
+
+## RecorderZ (Zapya — Dewmobile)
+
+### Core Domains
+- dewmobile.com
+- dewmobile.net
+- izapya.com
+- blog.izapya.com
+
+---
+
+## Rec. (Screen Recorder by SPECTRL)
+
+### Core Domains
+- getlocalization.com/rec/
+
+---
+
+## DroidRec (Open Source — Abandoned)
+
+### Core Domains
+- codeberg.org/cuzi/DroidRec
+- cvzi.github.io/appprivacy.html
+
+### GitHub
+- github.com/jorik041/DroidRec
+- github.com/egorolegovichyakovlev/DroidRec
+
+### Third-Party
+- f-droid.org/en/packages/com.yakovlevegor.DroidRec
+
+---
+
+## MIUI Screen Recorder (Built-in Xiaomi) ⚠️
+
+### Core Domains
+- xiaomi.com
+- www.xiaomi.com
+- mi.com
+- micloud.xiaomi.net
+
+### Xiaomi/MIUI Telemetry & Tracking
+- tracking.miui.com
+- tracking.intl.miui.com
+- tracking.india.miui.com
+- data.mistat.intl.xiaomi.com
+- data.mistat.xiaomi.com
+- data.sec.miui.com
+- sdkconfig.ad.intl.xiaomi.com
+- sdkconfig.ad.xiaomi.com
+- api.ad.intl.xiaomi.com
+- api.ad.xiaomi.com
+- globalapi.ad.xiaomi.com
+- adv.sec.miui.com
+- mazu.sec.miui.com
+- xlmc.sec.miui.com
+- abtest.mistat.xiaomi.com
+- abtest.mistat.intl.xiaomi.com
+- screentime.comm.miui.com
+- api.xmpush.xiaomi.com
+- thm.market.xiaomi.com
+- api.zhuti.xiaomi.com
+- idm.api.io.mi.com
+- ai.service.platform.xiaomi.com
+
+### Xiaomi Update & API Servers
+- update.miui.com
+- connect.rom.miui.com
+- api.installer.xiaomi.com
+- file.market.xiaomi.com
+- resolver.msg.xiaomi.net
+- resolver.msg.global.xiaomi.net
+- ccc.sys.miui.com
+
+### Xiaomi Antivirus/Security
+- ixav-cse.avlyun.com
+- log.avlyun.sec.intl.miui.com
+- logupdate.avlyun.sec.miui.com
+
+### Xiaomi Chat/Messaging
+- fr.app.chat.global.xiaomi.net
+- app.chat.global.xiaomi.net
+
+### GetApps (App Store)
+- global.app.mi.com
+- app.market.xiaomi.com
+- global.developer.mi.com
+
+### Third-Party Analytics
+- sensorsdata.cn
+- com.miui.analytics
+- taobao.com
+- amap.com
+- sandai.net
+- zobj.net
+- transifex.com
+
+---
+
+## Screenpresso
+
+### Core Domains
+- screenpresso.com
+- www.screenpresso.com
+
+### Additional Domains
+- cdn.screenpresso.com
+
+---
+
+## ScreenToGif
+
+### Core Domains
+- screentogif.com
+- www.screentogif.com
+
+### GitHub
+- github.com/NickeManarin/ScreenToGif
+- github.com/NickeManarin/ScreenToGif-Website
+
+### Additional Domains
+- api.github.com
+- objects.githubusercontent.com
+- release-assets.githubusercontent.com
+- raw.githubusercontent.com
+
+---
+
+## TinyTake (MangoApps)
+
+### Core Domains
+- tinytake.com
+- www.tinytake.com
+- mangoapps.com
+- www.mangoapps.com
+- hub.mangoapps.com
+- releases.mangoapps.com
+
+### Support
+- help.tinytake.com
+
+---
+
+## Ashampoo Snap
+
+### Core Domains
+- ashampoo.com
+- www.ashampoo.com
+- support.ashampoo.com
+- snap17.ashampoo.com
+
+### Additional Domains
+- my.ashampoo.com
+- ashampooaccount.com
+- cleverbridge.com
+- registration.ashampoo.de
+
+---
+
+## Capto (Global Delight)
+
+### Core Domains
+- globaldelight.com
+- www.globaldelight.com
+- capto.app
+- blog.globaldelight.com
+
+---
+
+## Tella
+
+### Core Domains
+- tella.tv
+- www.tella.tv
+- tella.com
+- www.tella.com
+- app.tella.tv
+- api.tella.tv
+
+### GitHub
+- github.com/tellahq
+
+### Additional Domains
+- status.tella.tv
+
+---
+
+## Screen Studio
+
+### Core Domains
+- screen.studio
+- www.screen.studio
+- screenstudio.lemonsqueezy.com
+
+### Additional Domains
+- api.lemonsqueezy.com
+- app.lemonsqueezy.com
+
+---
+
+## ScreenStory
+
+### Core Domains
+- screenstory.io
+- www.screenstory.io
+- cloud.screenstory.io
+- app.screenstory.io
+
+---
+
+## Kommodo
+
+### Core Domains
+- kommodo.ai
+- www.kommodo.ai
+
+### Support & Community
+- komodo.nolt.io
+- community.kommodo.ai
+
+### Potential Subdomains
+- app.kommodo.ai
+- api.kommodo.ai
+- storage.kommodo.ai
+- cdn.kommodo.ai
+
+---
+
+## Dropbox Capture (DISCONTINUED — March 24, 2025) ⚠️
+
+> ⚠️ THIS PLATFORM HAS BEEN DISCONTINUED
+> Service discontinued by Dropbox
+
+---
+
+## Berrycast (Technologies Openmind Inc.)
+
+### Core Domains
+- berrycast.com
+- www.berrycast.com
+
+### Potential Subdomains
+- app.berrycast.com
+- cdn.berrycast.com
+- storage.berrycast.com
+- videos.berrycast.com
+
+---
+
+## Boom (Multiple Apps)
+
+### Option 1: Boom by Boom Vision Company (Mac App)
+- getboom.app
+- www.getboom.app
+- boomvideo.app
+- www.boomvideo.app
+
+### Option 2: Boom (Browser-based Free Recorder)
+- freeboomshare.com
+- www.freeboomshare.com
+- boomshare.ai
+- www.boomshare.ai
+
+---
+
+## Vimeo Record
+
+### Core Domains
+- vimeo.com
+- www.vimeo.com
+- vimeo.com/features/screen-recorder
+
+### API
+- developer.vimeo.com
+- api.vimeo.com
+
+### GitHub
+- github.com/vimeo/vimeo-unity-sdk
+
+### Additional Domains
+- *.vimeocdn.com
+- *.vhx.tv
+- player.vimeo.com
+- fresnel.vimeocdn.com
+- *.akamaized.net
+
+---
+
+## Onyx (Privacy-first Browser Screen Recorder)
+
+### Core Domain
+- recordonyx.com
+
+> Note: Browser-based, no cloud servers, local storage only
+
+---
+
+## Focusee (iMobie Inc.)
+
+### Core Domains
+- focusee.imobie.com
+- www.focusee.imobie.com
+- imobie.com
+- www.imobie.com
+
+### Feedback & Community
+- focusee-voice.imobie.com
