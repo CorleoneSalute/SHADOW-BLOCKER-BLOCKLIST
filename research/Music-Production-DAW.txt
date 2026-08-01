@@ -1,0 +1,1780 @@
+# MUSIC PRODUCTION & DAW PLATFORMS RESEARCH LIST
+
+---
+
+## iLok / PACE — GLOBAL ACTIVATION (AFFECTS ALL PLATFORMS)
+
+ℹ️ The iLok domains below are required for all platforms that use iLok, including Avid, UAD, SSL, Eventide, Sonnox, Oeksound, Nugen, VSL, Spectrasonics, Liquidsonics, Sonible, and others.
+
+**Core iLok Services**
+```
+ilok.com
+www.ilok.com
+api.ilok.com
+activation.ilok.com
+```
+
+**PACE Activation CDN**
+```
+activation.paceap.com ← CRITICAL — iLok Cloud session + activation CDN
+activation.ilokcloud.com ← iLok Cloud session endpoint
+paceap.com ← PACE Anti-Piracy main domain
+```
+
+**iLok Sub-Services**
+```
+status.ilok.com
+installers.ilok.com
+help.ilok.com
+```
+
+---
+
+## 🎹 DAW-SPECIFIC DOMAINS
+
+### FL STUDIO (IMAGE-LINE)
+
+**Developer:** Image-Line Software
+**Type:** Proprietary DAW
+**Risk Level:** 🟡 LOW-MEDIUM
+
+**Core Services (⚠️ Blocking may affect functionality)**
+```
+image-line.com
+www.image-line.com
+api.image-line.com
+support.image-line.com
+forum.image-line.com
+services.image-line.com
+flstudio.com
+www.flstudio.com
+```
+
+**Cloud Sync (Optional)**
+```
+cloud.image-line.com
+sync.image-line.com
+flcloud.image-line.com ← FL Cloud endpoint
+cloud-api.image-line.com ← FL Cloud API
+web.image-line.com ← FL Studio Web (Beta, December 2025)
+```
+
+**Analytics & Telemetry (BLOCK)**
+```
+analytics.image-line.com [BLOCK]
+telemetry.image-line.com [BLOCK]
+stats.image-line.com [BLOCK]
+metrics.image-line.com [BLOCK]
+tracking.image-line.com [BLOCK]
+data.image-line.com [BLOCK]
+events.image-line.com [BLOCK]
+hotjar.com [BLOCK] ← Heatmap analytics
+*.hotjar.com [BLOCK]
+script.hotjar.com [BLOCK]
+hit.uptrendsdata.com [BLOCK] ← Uptime monitoring
+cdn.convertexperiences.com [BLOCK] ← A/B testing
+brevo.com [BLOCK] ← Email marketing (Sendinblue)
+sib-pages.com [BLOCK]
+analytics.tiktok.com [BLOCK] ← TikTok Pixel
+```
+
+**Updates / Downloads**
+```
+updates.image-line.com
+download.image-line.com
+mirror.image-line.com
+```
+
+**Shop**
+```
+shop.image-line.com
+checkout.image-line.com
+store.image-line.com
+```
+
+**Authentication & Account**
+```
+auth.image-line.com
+login.image-line.com
+account.image-line.com
+members.image-line.com
+```
+
+**CDN & Static**
+```
+cdn.image-line.com
+static.image-line.com
+assets.image-line.com
+```
+
+**Support**
+```
+status.image-line.com
+help.image-line.com
+helpcenter.image-line.com
+```
+
+⚠️ Lifetime free updates. Telemetry minimal. Cloud sync optional. License verification required online.
+
+---
+
+### ABLETON LIVE
+
+**Developer:** Ableton AG (Germany)
+**Type:** Proprietary DAW
+**Risk Level:** 🟡 LOW-MEDIUM
+
+**Core Services**
+```
+ableton.com
+www.ableton.com
+api.ableton.com
+services.ableton.com ← License verification — CRITICAL
+```
+
+**Cloud Features (Optional)**
+```
+cloud.ableton.com
+link.ableton.com
+share.ableton.com
+```
+
+**Analytics (BLOCK)**
+```
+analytics.ableton.com [BLOCK]
+telemetry.ableton.com [BLOCK]
+metrics.ableton.com [BLOCK]
+tracking.ableton.com [BLOCK]
+events.ableton.com [BLOCK]
+```
+
+**Learning / Community**
+```
+learningmusic.ableton.com
+learningsynths.ableton.com
+makingmusic.ableton.com
+```
+
+**Updates / Shop / Auth / CDN / Support**
+```
+updates.ableton.com
+download.ableton.com
+shop.ableton.com
+store.ableton.com
+auth.ableton.com
+login.ableton.com
+account.ableton.com
+my.ableton.com
+cdn.ableton.com
+static.ableton.com
+assets.ableton.com
+status.ableton.com
+support.ableton.com
+help.ableton.com
+forum.ableton.com
+```
+
+⚠️ Ableton Link: local network protocol (no cloud). German company — GDPR compliant. Offline activation available.
+
+---
+
+### STEINBERG (CUBASE, NUENDO)
+
+**Developer:** Steinberg (Yamaha)
+**Type:** Proprietary DAW
+**Risk Level:** 🟡 MEDIUM
+
+**Core Services**
+```
+steinberg.net
+www.steinberg.net
+api.steinberg.net
+id.steinberg.net ← New licensing system — CRITICAL
+account.steinberg.net
+o.steinberg.net ← Download Assistant
+forums.steinberg.net
+```
+
+**Documentation**
+```
+helpcenter.steinberg.de
+steinberg.help
+```
+
+**Cloud / Analytics / Updates / Auth / CDN**
+```
+vstconnect.steinberg.net
+cloud.steinberg.net
+collaboration.steinberg.net
+analytics.steinberg.net [BLOCK]
+telemetry.steinberg.net [BLOCK]
+update.steinberg.net
+download.steinberg.net
+shop.steinberg.net
+my.steinberg.net
+cdn.steinberg.net
+support.steinberg.net
+```
+
+⚠️ elicenser.net — REMOVED (May 2025). VST Connect uses cloud for remote collaboration. Telemetry can be disabled.
+
+---
+
+### PRESONUS / FENDER STUDIO PRO (STUDIO ONE)
+
+**Developer:** PreSonus → Fender (as of January 2026)
+**Type:** Proprietary DAW
+**Risk Level:** 🟡 MEDIUM
+
+🔴 Studio One Pro 8 is now sold as "Fender Studio Pro 8" (January 2026). Activation goes through my.fender.com!
+
+**PreSonus Services (current)**
+```
+presonus.com
+www.presonus.com
+my.presonus.com
+api.presonus.com
+registration.presonus.com ← Activation CDN
+sphere.presonus.com
+cloud.presonus.com
+updates.presonus.com
+download.presonus.com
+shop.presonus.com
+auth.presonus.com
+account.presonus.com
+cdn.presonus.com
+support.presonus.com
+forum.presonus.com
+```
+
+**Fender Integration — CRITICAL**
+```
+my.fender.com ← NEW MAIN ACTIVATION PORTAL — CRITICAL
+api.fender.com
+studio.fender.com
+download.fender.com
+support.fender.com
+fender.com
+```
+
+**Analytics (BLOCK)**
+```
+analytics.presonus.com [BLOCK]
+telemetry.presonus.com [BLOCK]
+metrics.presonus.com [BLOCK]
+```
+
+⚠️ PreSonus Sphere subscription service. Owned by Fender. Cloud features optional. Offline activation available.
+
+---
+
+### AVID (PRO TOOLS)
+
+**Developer:** Avid Technology
+**Type:** Proprietary DAW (Industry Standard)
+**Risk Level:** 🟠 MEDIUM-HIGH
+
+**Core Services**
+```
+avid.com
+www.avid.com
+api.avid.com
+my.avid.com
+everywhere.avid.com ← Application Manager — PORT 4443 must be open
+```
+
+**Cloud Collaboration (new additions)**
+```
+cloud.avid.com
+collaboration.avid.com
+connect.avid.com
+link.avid.com ← Avid Link application
+avidlink.avid.com
+avid.link ← Short domain
+cloudcollab.avid.com
+```
+
+**Licensing (iLok — SEE GLOBAL SECTION)**
+```
+ilok.com
+www.ilok.com
+api.ilok.com
+activation.ilok.com
+activation.paceap.com ← iLok PACE CDN — CRITICAL
+```
+
+**Analytics / Updates / Auth / Support**
+```
+analytics.avid.com [BLOCK]
+telemetry.avid.com [BLOCK]
+updates.avid.com
+download.avid.com
+auth.avid.com
+account.avid.com
+cdn.avid.com
+resources.avid.com
+support.avid.com
+kb.avid.com
+avidtech.my.salesforce-sites.com ← Support system
+```
+
+⚠️ Industry standard. iLok required. Heavy DRM and tracking. Frequent online verification. Port 4443 required.
+
+---
+
+### LOGIC PRO (APPLE)
+
+**Developer:** Apple Inc.
+**Type:** Proprietary DAW (macOS/iOS only)
+**Risk Level:** 🟡 MEDIUM
+
+**Core Apple Services**
+```
+apple.com
+*.apple.com
+audiocontentdownload.apple.com ← Sound Library download — CRITICAL
+gg.apple.com
+gs.apple.com
+itunes.apple.com
+*.itunes.apple.com
+apps.apple.com
+*.mzstatic.com
+```
+
+**iCloud Sync (Optional)**
+```
+icloud.com
+*.icloud.com
+*.icloud-content.com
+*.icloud.apple.com
+*.apple-cloudkit.com
+```
+
+**Analytics (BLOCK)**
+```
+metrics.apple.com [BLOCK]
+metrics.icloud.com [BLOCK]
+xp.apple.com [BLOCK]
+analytics.apple.com [BLOCK]
+```
+
+**Apple ID / Auth / Support**
+```
+appleid.apple.com
+appleid.cdn-apple.com
+idmsa.apple.com
+gsa.apple.com
+account.apple.com
+support.apple.com
+help.apple.com
+```
+
+⚠️ Native macOS/iOS app. iCloud sync optional. Apple analytics is system-wide (can be disabled via Settings > Privacy).
+
+---
+
+### REAPER (COCKOS)
+
+**Developer:** Cockos
+**Type:** Proprietary DAW
+**Risk Level:** 🟢 LOW
+
+```
+reaper.fm
+www.reaper.fm
+cockos.com
+forum.cockos.com
+stash.reaper.fm ← ReaPack script manager CDN
+```
+
+⚠️ License verification is offline (key file). No telemetry/analytics. Minimal network usage.
+
+---
+
+### REASON (REASON STUDIOS)
+
+**Developer:** Reason Studios (Sweden)
+**Type:** Proprietary DAW
+**Risk Level:** 🟡 LOW-MEDIUM
+
+```
+reasonstudios.com
+www.reasonstudios.com
+help.reasonstudios.com ← Support/activation — CRITICAL
+cdn.reasonstudios.com
+download.reasonstudios.com
+forum.reasontalk.com ← Official community
+```
+
+⚠️ Reason 12+ requires online account activation. CodeMeter/Ignition Key removed.
+
+---
+
+### CAKEWALK SONAR (BANDLAB)
+
+**Developer:** BandLab Technologies
+**Type:** Proprietary DAW
+**Risk Level:** 🟡 MEDIUM
+
+🔴 Cakewalk by BandLab reached EOL (August 2025). Replaced by the free Cakewalk Sonar. BandLab Membership is required for premium features.
+
+**Core Services**
+```
+cakewalk.com
+www.cakewalk.com
+help.cakewalk.com
+discuss.cakewalk.com
+legacy.cakewalk.com
+product-center.cakewalk.com
+```
+
+**BandLab Integration (activation required)**
+```
+bandlab.com
+www.bandlab.com
+api.bandlab.com
+auth.bandlab.com
+accounts.bandlab.com
+cdn.bandlab.com
+storage.bandlab.com
+```
+
+**Analytics (BLOCK)**
+```
+amplitude.com [BLOCK] ← Confirmed — Amplitude analytics
+api.amplitude.com [BLOCK]
+api2.amplitude.com [BLOCK] ← Endpoint used by Cakewalk Sonar
+cdn.amplitude.com [BLOCK]
+www.google-analytics.com [BLOCK]
+```
+
+⚠️ BandLab account required. Offline use possible after activation. Uses Amplitude analytics.
+
+---
+
+### BITWIG STUDIO
+
+**Developer:** Bitwig GmbH (Germany)
+**Type:** Proprietary DAW
+**Risk Level:** 🟢 LOW
+
+```
+bitwig.com
+www.bitwig.com
+forum.bitwig.com
+google-analytics.com [BLOCK] ← Website analytics only
+```
+
+⚠️ Application supports offline activation. Operates with minimal network usage.
+
+---
+
+### DIGITAL PERFORMER (MOTU)
+
+**Developer:** MOTU
+**Type:** Proprietary DAW
+**Risk Level:** 🟡 LOW-MEDIUM
+
+```
+motu.com
+www.motu.com
+cdn-data.motu.com ← CDN — documents/PDF
+auth.motu.com ← Offline activation challenge/response — CRITICAL
+download.motu.com
+api.motu.com
+```
+
+⚠️ Supports both online and offline activation. auth.motu.com is used for the challenge/response file.
+
+---
+
+### HARRISON MIXBUS (SSL / AUDIOTONIX)
+
+**Developer:** Harrison Consoles (SSL / Audiotonix)
+**Type:** Proprietary DAW
+**Risk Level:** 🟢 LOW
+
+ℹ️ Harrison was acquired by SSL (April 2023). Account portals have been merged.
+
+**Harrison Services**
+```
+harrisonconsoles.com
+www.harrisonconsoles.com
+harrisonaudio.com
+support.harrisonaudio.com
+rsrc.harrisonconsoles.com ← Manual/document CDN
+olc.harrisonconsoles.com ← Legacy license portal (still active)
+```
+
+**SSL Integration (new additions)**
+```
+solidstatelogic.com
+support.solidstatelogic.com
+account.solidstatelogic.com ← License portal — CRITICAL
+downloads.solidstatelogic.com ← SSL Download Manager — CRITICAL
+manager.solidstatelogic.com
+cdn.solidstatelogic.com
+api.solidstatelogic.com
+```
+
+⚠️ Harrison and SSL account portals have been merged. A solidstatelogic.com account is required.
+
+---
+
+### TRACKTION WAVEFORM
+
+**Developer:** Tracktion Corporation
+**Type:** Proprietary DAW (Freemium)
+**Risk Level:** 🟢 LOW
+
+**Core Services**
+```
+tracktion.com
+www.tracktion.com
+cdn.tracktion.com
+account.tracktion.com
+tracktion.zendesk.com ← Support system
+```
+
+**Activation — CRITICAL**
+```
+marketplace.tracktion.com ← Waveform Pro license server — CRITICAL
+assets.tracktion.com ← Documents/PDF CDN
+api.tracktion.com
+downloads.tracktion.com
+```
+
+ℹ️ Waveform Free does not require a license. Pro: a .tracktionkey file is downloaded from marketplace.tracktion.com. Runs offline on subsequent launches.
+
+---
+
+### MAGIX SAMPLITUDE / SEQUOIA → BORIS FX
+
+**Developer:** MAGIX → Boris FX Germany GmbH (as of July 2025)
+**Type:** Proprietary DAW
+**Risk Level:** 🟡 MEDIUM
+
+🔴 Samplitude, Sequoia, and Music Studio were sold to Boris FX (July 2025)! The development team moved to Boris FX.
+
+**MAGIX Services (still active)**
+```
+magix.com
+www.magix.com
+magix.info ← Forum/community
+account.magix.com
+api.magix.com
+cdn.magix.com
+download.magix.com
+producerplanet.com ← MAGIX affiliate store
+```
+
+**Boris FX (new owner)**
+```
+borisfx.com ← Boris FX main domain — new owner
+www.borisfx.com
+community.samplitude.com ← New Samplitude forum (Boris FX infrastructure)
+samplitude.com
+```
+
+**CodeMeter (for Sequoia)**
+```
+wibu.com ← CodeMeter/WibuKey licensing (for Sequoia)
+www.wibu.com
+```
+
+⚠️ Sequoia licensing is verified via a CodeMeter CmDongle. Samplitude uses a hardware-bound license that requires an internet connection.
+
+---
+
+### LUNA (UNIVERSAL AUDIO)
+
+**Developer:** Universal Audio
+**Type:** Proprietary DAW (macOS only)
+**Risk Level:** 🟡 MEDIUM
+
+**Core Services**
+```
+uaudio.com
+www.uaudio.com
+help.uaudio.com
+api.uaudio.com
+spark.uaudio.com ← UAD Spark subscription
+store.uaudio.com
+cdn.uaudio.com
+download.uaudio.com
+updates.uaudio.com
+```
+
+**UA Connect**
+```
+connect.uaudio.com ← UA Connect main endpoint — CRITICAL
+ua-api.uaudio.com
+uaudio.zendesk.com
+```
+
+**iLok**
+```
+ilok.com
+www.ilok.com
+activation.paceap.com ← iLok PACE CDN
+```
+
+⚠️ April 2025: UAD backend maintenance requires UA Connect v1.5.0+. Online verification required at startup.
+
+---
+
+### AUDACITY (MUSE GROUP)
+
+**Developer:** Muse Group (MuseCY SM Ltd., Cyprus)
+**Type:** Free/Open Source Audio Editor
+**Risk Level:** 🟡 LOW-MEDIUM
+
+**Core Services**
+```
+audacityteam.org
+www.audacityteam.org
+forum.audacityteam.org
+support.audacityteam.org
+plugins.audacityteam.org
+```
+
+**Telemetry (Optional BLOCK — confirmed)**
+```
+telemetry.audacityteam.org [BLOCK] ← Analytics only (can be disabled in Preferences)
+updates.audacityteam.org ← Update check (optional block)
+```
+
+**Muse Hub Integration (July 2024+)**
+```
+musehub.com ← Muse Hub — integrated store with Audacity 3.6+ — CRITICAL
+www.musehub.com
+api.musehub.com
+cdn.musehub.com
+developer.musehub.com
+support.musehub.com
+```
+
+**Muse Group Ecosystem**
+```
+mu.se ← Muse Group short domain
+musegroup.com
+www.musegroup.com
+```
+
+**Cloud (Optional)**
+```
+audio.com ← Cloud sharing — Muse Group integration
+```
+
+⚠️ Muse Hub integration was added in Audacity 3.6+ (July 2024). musehub.com traffic is required.
+
+⚠️ Telemetry sends IP address, OS version, and CPU type. Can be disabled via Preferences > Privacy.
+
+---
+
+### ADOBE AUDITION (CREATIVE CLOUD)
+
+**Developer:** Adobe Inc.
+**Type:** Standalone DAW (Creative Cloud)
+**Risk Level:** 🔴 HIGH
+
+**Core / Activation (CRITICAL)**
+```
+adobe.com
+www.adobe.com
+*.adobe.com
+lm.licenses.adobe.com ← License server — CRITICAL
+activate.adobe.com ← Activation — CRITICAL
+*.licenses.adobe.com
+*.adobelogin.com ← Authentication
+ims-na1.adobelogin.com
+accounts.adobe.com
+account.adobe.com
+```
+
+**Licensing (Additional)**
+```
+resources.licenses.adobe.com
+cs.licenses.adobe.com
+exception.licenses.adobe.com
+licensing.adobe.com
+auth.services.adobe.com
+lcs-cops.adobe.io
+lcs-robs.adobe.io
+lcs-entitlement.adobe.io
+```
+
+**Authentication**
+```
+ims-prod06.adobelogin.com
+ims-prod07.adobelogin.com
+static.adobelogin.com
+delegated.adobelogin.com
+adobeid.services.adobe.com
+*.adobejanus.com
+```
+
+**Genuine / Anti-Piracy**
+```
+genuine.adobe.com
+prod.adobegenuine.com
+```
+
+**Update / Download**
+```
+ccmdl.adobe.com
+ccmdls.adobe.com
+swupmf.adobe.com
+swupdl.adobe.com
+prod-rel-ffc-ccm.oobesaas.adobe.com
+na1r.services.adobe.com
+acrs.adobe.com
+ardownload2.adobe.com
+armmf.adobe.com
+agsupdate.adobe.com
+oobe.adobe.com
+productrouter.adobe.com
+```
+
+**CDN**
+```
+*.adobecc.com
+*.creativecloud.com
+*.adobeccstatic.com
+*.adobeoobe.com
+*.adobedc.net
+*.adobe-services.com
+```
+
+**Analytics (BLOCK)**
+```
+*.omtrdc.net [BLOCK]
+*.demdex.net [BLOCK]
+*.adobedtm.com [BLOCK]
+*.omniture.com [BLOCK]
+dpm.demdex.net [BLOCK]
+adobe.demdex.net [BLOCK]
+```
+
+**Fonts**
+```
+fonts.adobe.com
+*.typekit.net
+*.typekit.com
+```
+
+⚠️ Requires a Creative Cloud subscription. Online verification required every 30 days.
+
+---
+
+### RENOISE
+
+**Developer:** Renoise Team
+**Type:** Proprietary DAW (Tracker)
+**Risk Level:** 🟢 LOW
+
+```
+renoise.com
+www.renoise.com
+forum.renoise.com
+backstage.renoise.com ← License/account portal — CRITICAL
+2checkout.com
+avangate.com
+```
+
+⚠️ Key-based activation — downloaded from backstage.renoise.com, then runs offline. No telemetry.
+
+---
+
+### ARDOUR
+
+**Developer:** Ardour Community
+**Type:** Open Source DAW
+**Risk Level:** 🟢 VERY LOW
+
+```
+ardour.org
+www.ardour.org
+community.ardour.org
+nightly.ardour.org
+tracker.ardour.org
+git.ardour.org
+```
+
+⚠️ Open source. No license/activation. Checks for new version on startup.
+
+---
+
+### LMMS (LINUX MULTIMEDIA STUDIO)
+
+**Developer:** LMMS Community
+**Type:** Open Source DAW
+**Risk Level:** 🟢 VERY LOW
+
+```
+lmms.io
+www.lmms.io
+docs.lmms.io
+```
+
+⚠️ Fully open source. No activation/license. No telemetry. Minimal network usage.
+
+---
+
+### SOUNDTRAP (SOUNDTRAP AB — Independent since 2023)
+
+**Developer:** Soundtrap AB (independent since 2023; formerly Spotify)
+**Type:** Cloud DAW
+**Risk Level:** 🔴 HIGH
+
+ℹ️ Spotify sold Soundtrap back to its founders (2023). Soundtrap AB is now an independent company. Spotify integration is no longer required.
+
+**Core Services**
+```
+soundtrap.com
+www.soundtrap.com
+api.soundtrap.com
+cdn.soundtrap.com
+static.soundtrap.com
+```
+
+**Authentication**
+```
+auth.soundtrap.com
+accounts.soundtrap.com
+```
+
+**Additional Services**
+```
+status.soundtrap.com ← Status page
+soundtrap.zendesk.com ← Support/email system
+```
+
+**Third Party (for education/EDU accounts)**
+```
+accounts.google.com ← Google OAuth
+*.googleapis.com
+```
+
+⚠️ Fully cloud-based DAW — does not work without internet. EDU accounts require whitelisting on school networks.
+
+---
+
+## MOBILE DAWS
+
+- **GarageBand:** Apple → see Apple services (same as the Logic Pro section)
+- **FL Studio Mobile:** Image-Line → image-line.com, flstudiomobile.com
+- **Cubasis 3:** Steinberg → steinberg.net, id.steinberg.net, Apple App Store
+- **N-Track Studio:** n-Track Software → ntrack.com, songtree.com
+- **Walk Band:** Revontulet — CONCERNING Chinese analytics (Umeng/Baidu)
+
+**Walk Band (EXTREME — Chinese analytics)**
+```
+walkband.net
+api.walkband.net
+umeng.com [BLOCK] ← Alibaba analytics
+alog.umeng.com [BLOCK]
+baidu.com [BLOCK]
+hm.baidu.com [BLOCK]
+doubleclick.net [BLOCK]
+googlesyndication.com [BLOCK]
+```
+
+⚠️ Walk Band: uses Umeng (Alibaba) and Baidu analytics. Significant privacy risk. Avoiding use is recommended.
+
+---
+
+## 🎼 SAMPLE & LOOP SERVICES
+
+### SPLICE
+
+**Type:** Sample/Plugin Marketplace + Subscription
+**Risk Level:** 🔴 HIGH
+
+**Core Services**
+```
+splice.com
+www.splice.com
+api.splice.com
+sounds.splice.com
+api-sounds.splice.com
+samples.splice.com
+```
+
+**CDN / Desktop App**
+```
+cdn.splice.com
+assets.splice.com
+static.splice.com
+desktop.splice.com
+app.splice.com
+```
+
+**Analytics (BLOCK)**
+```
+analytics.splice.com [BLOCK]
+events.splice.com [BLOCK]
+sentry.io [BLOCK]
+cdn.segment.com [BLOCK]
+```
+
+**Auth / Support**
+```
+auth.splice.com
+login.splice.com
+accounts.splice.com
+status.splice.com
+support.splice.com
+help.splice.com
+plugins.splice.com
+rent.splice.com
+```
+
+⚠️ Subscription-based. Heavy analytics integration. Cloud storage required.
+
+---
+
+### LOOPCLOUD (LOOPMASTERS / BEATPORT GROUP)
+
+**Type:** Sample Browser + Marketplace
+**Risk Level:** 🟠 MEDIUM-HIGH
+
+**Main Services**
+```
+loopcloud.com
+www.loopcloud.com
+api.loopcloud.com
+cdn.loopcloud.com
+assets.loopcloud.com
+static.loopcloud.com
+downloads.loopcloud.com
+samples.loopcloud.com
+```
+
+**Loopcloud Sounds Web App**
+```
+sounds.loopcloud.com ← Loopcloud Sounds web app — CRITICAL
+```
+
+**Loopmasters Store / Auth**
+```
+loopmasters.com
+www.loopmasters.com
+store.loopmasters.com
+api.loopmasters.com
+cdn.loopmasters.com
+download.loopmasters.com
+auth.loopcloud.com
+login.loopcloud.com
+account.loopcloud.com
+support.loopcloud.com
+```
+
+**Analytics (BLOCK)**
+```
+analytics.loopcloud.com [BLOCK]
+tracking.loopcloud.com [BLOCK]
+```
+
+---
+
+### CYMATICS
+
+**Type:** Sample/Preset Marketplace
+**Risk Level:** 🟢 LOW
+
+```
+cymatics.fm
+www.cymatics.fm
+cdn.cymatics.fm
+nyc3.cdn.digitaloceanspaces.com ← File download CDN (DigitalOcean)
+```
+
+---
+
+### SPITFIRE AUDIO
+
+**Type:** Orchestral/Cinematic Sample Library
+**Risk Level:** 🟡 MEDIUM
+
+**Core Services**
+```
+spitfireaudio.com
+www.spitfireaudio.com
+labs.spitfireaudio.com ← LABS free/subscription platform — CRITICAL
+cdn.spitfireaudio.com
+api.spitfireaudio.com
+download.spitfireaudio.com
+```
+
+**App Endpoints**
+```
+app.spitfireaudio.com ← Spitfire Audio App login endpoint
+auth.spitfireaudio.com ← Authentication
+releases.spitfireaudio.com ← Update/release server
+```
+
+**CDN (Confirmed)**
+```
+*.amazonaws.com ← AWS S3 + CloudFront — primary CDN
+```
+
+ℹ️ Spitfire: primary CDN is CloudFront (AWS), with S3 as fallback. Cookie-based auth is used during downloads.
+
+---
+
+### EASTWEST SOUNDS
+
+**Type:** Orchestral/Cinematic Sample Library
+**Risk Level:** 🟡 MEDIUM
+
+**Core Services**
+```
+soundsonline.com ← Main domain
+www.soundsonline.com
+eastwestsounds.com
+api.soundsonline.com
+```
+
+**EW Installation Center + Opus Player**
+```
+installer.soundsonline.com ← EW Installation Center
+opus.soundsonline.com ← Opus player backend — CRITICAL
+download.soundsonline.com
+composercloud.soundsonline.com ← ComposerCloud+ subscription
+eastweststudios.com ← EastWest Studios
+```
+
+**CDN / iLok**
+```
+*.cloudfront.net ← Amazon CloudFront CDN — all content
+ilok.com
+activation.paceap.com ← iLok PACE CDN
+```
+
+⚠️ EastWest Opus player requires a license, managed via iLok. ComposerCloud+ is a subscription service.
+
+---
+
+### ORCHESTRAL TOOLS (SINE PLAYER)
+
+**Type:** Orchestral Sample Library + SINE Player
+**Risk Level:** 🟡 LOW-MEDIUM
+
+**Core Services**
+```
+orchestraltools.com
+www.orchestraltools.com
+orchestraltools.helpscoutdocs.com ← Support — different domain!
+getsine.com ← SINE Player download — CRITICAL
+```
+
+**SINE Player API**
+```
+api.orchestraltools.com ← SINE Player API — CRITICAL
+cdn.orchestraltools.com ← Content CDN/download
+```
+
+⚠️ SINE Player connects to orchestraltools.com on first activation. Does not send telemetry (officially confirmed). Runs offline after activation.
+
+---
+
+### VIENNA SYMPHONIC LIBRARY (VSL)
+
+**Type:** Orchestral Sample Library
+**Risk Level:** 🟡 MEDIUM
+
+**Core Services**
+```
+vsl.co.at ← Main domain (.co.at TLD!)
+www.vsl.co.at
+my.vsl.co.at ← Account/license management — CRITICAL
+support.vsl.co.at
+download.vsl.co.at ← Vienna Assistant
+```
+
+**Vienna Assistant Endpoints**
+```
+assistant.vsl.co.at ← Vienna Assistant backend
+store.vsl.co.at
+cdn.vsl.co.at ← Content CDN
+api.vsl.co.at ← Vienna Assistant API
+```
+
+**iLok (Required)**
+```
+ilok.com
+activation.paceap.com ← iLok PACE CDN
+```
+
+ℹ️ VSL has fully migrated to iLok. eLicenser support has been removed. Managed via Vienna Assistant.
+
+---
+
+## OTHER SAMPLE PLATFORMS
+
+**8DIO**
+```
+8dio.com
+www.8dio.com
+support.8dio.com
+soundpaint.com ← 8Dio's sample engine platform — CRITICAL
+api.soundpaint.com
+native-instruments.com ← NI integration
+```
+
+**PROJECTSAM**
+```
+projectsam.com
+native-instruments.com
+```
+
+**CINESAMPLES**
+```
+cinesamples.com
+support.cinesamples.com
+native-instruments.com ← Native Access required
+```
+
+**HEAVYOCITY**
+```
+heavyocity.com
+heavyocity.zendesk.com
+native-instruments.com
+```
+
+**NOIIZ**
+```
+noiiz.com
+api.noiiz.com
+cdn.noiiz.com
+```
+
+---
+
+## 🔌 PLUGIN DEVELOPERS
+
+### NATIVE INSTRUMENTS
+
+**Type:** Plugin Developer + Marketplace
+**Risk Level:** 🟡 MEDIUM
+
+🔴 Native Instruments declared bankruptcy (February 2026). Activation servers may shut down in the near term.
+
+**Main Services**
+```
+native-instruments.com
+www.native-instruments.com
+```
+
+**Native Access (Plugin Manager)**
+```
+native-access.native-instruments.com
+api.native-instruments.com
+```
+
+**Native ID (for the entire NI ecosystem)**
+```
+id.native-instruments.com ← Native ID login — also CRITICAL for iZotope, Plugin Alliance
+native-instruments.eu.auth0.com ← Auth0 authentication (NA 3.x)
+cdn.auth0.com
+```
+
+**Third-Party (NA 3.x — Confirmed)**
+```
+event-bus.io
+locize.io
+fonts.googleapis.com
+gstatic.com
+```
+
+**Analytics / Updates / Auth / Support**
+```
+analytics.native-instruments.com [BLOCK]
+telemetry.native-instruments.com [BLOCK]
+updates.native-instruments.com
+download.native-instruments.com
+auth.native-instruments.com
+account.native-instruments.com
+cdn.native-instruments.com
+static.native-instruments.com
+support.native-instruments.com
+community.native-instruments.com
+```
+
+---
+
+### WAVES
+
+**Type:** Plugin Developer
+**Risk Level:** 🟠 MEDIUM-HIGH
+
+**Core Services**
+```
+waves.com
+www.waves.com
+api.waves.com
+my.waves.com
+central.waves.com
+licensing.waves.com
+activation.waves.com
+```
+
+**StudioVerse & AI Services**
+```
+studioverse.waves.com ← StudioVerse AI preset platform — CRITICAL
+cosmos.waves.com ← COSMOS Sample Finder — CRITICAL
+ai.waves.com
+online-mastering.waves.com ← AI Mastering service
+```
+
+**Updates / Shop / Auth / CDN / Support**
+```
+updates.waves.com
+download.waves.com
+shop.waves.com
+auth.waves.com
+account.waves.com
+cdn.waves.com
+support.waves.com
+status.waves.com
+```
+
+**Analytics (BLOCK)**
+```
+analytics.waves.com [BLOCK]
+telemetry.waves.com [BLOCK]
+```
+
+---
+
+### iZOTOPE
+
+**Type:** Plugin Developer (mixing/mastering/restoration)
+**Risk Level:** 🟡 MEDIUM
+
+🔴 April 2025: iZotope subscriptions are managed via Native Access. November 2025: full migration to Native ID completed.
+
+**Core Services**
+```
+izotope.com
+www.izotope.com
+support.izotope.com
+cdn.izotope.com
+portal.izotope.com ← Product Portal (still used for perpetual licenses)
+```
+
+**Native ID Integration (Required)**
+```
+id.native-instruments.com ← Native ID login — CRITICAL
+native-instruments.com ← Native Access (subscription management)
+```
+
+**iLok (for perpetual licenses)**
+```
+ilok.com
+activation.paceap.com
+```
+
+ℹ️ iZotope no longer uses izotope.com username/password. All login goes through Native ID.
+
+---
+
+### ARTURIA
+
+**Type:** Plugin Developer (synths/effects)
+**Risk Level:** 🟡 MEDIUM
+
+**Core Services**
+```
+arturia.com
+www.arturia.com
+support.arturia.com
+my.arturia.com ← Account management — CRITICAL
+api.arturia.com
+cdn.arturia.com
+download.arturia.com
+update.arturia.com
+```
+
+**Arturia License Servers (Confirmed)**
+```
+sully.arturia.net ← Activation/license server — CRITICAL
+resources.arturia.net
+downloads.arturia.net
+downloads.arturia.com
+dl.arturia.net
+dl2.arturia.net
+medias.arturia.net
+updates.arturia.net
+static.arturia.net
+```
+
+⚠️ Activation via Arturia Software Center (ASC). Up to 5 computers.
+
+---
+
+### FABFILTER
+
+**Type:** Plugin Developer (mixing/mastering)
+**Risk Level:** 🟢 VERY LOW
+
+```
+fabfilter.com
+www.fabfilter.com
+```
+
+⚠️ Extremely minimal domain footprint. No telemetry/analytics. Privacy-focused company policy.
+
+---
+
+### UNIVERSAL AUDIO (UAD PLUGINS)
+
+**Type:** Plugin Developer + Hardware
+**Risk Level:** 🟡 MEDIUM
+
+```
+uaudio.com
+www.uaudio.com
+help.uaudio.com
+api.uaudio.com
+spark.uaudio.com ← UAD Spark subscription
+store.uaudio.com
+cdn.uaudio.com
+download.uaudio.com
+updates.uaudio.com
+connect.uaudio.com ← UA Connect — CRITICAL
+ua-api.uaudio.com
+uaudio.zendesk.com
+ilok.com
+activation.paceap.com
+```
+
+---
+
+### SLATE DIGITAL
+
+**Type:** Plugin Developer (mixing) — part of Audiotonix/SSL
+**Risk Level:** 🟡 MEDIUM
+
+```
+slatedigital.com
+www.slatedigital.com
+support.slatedigital.com
+app.slatedigital.com ← Slate Digital Connect - plugin manager — CRITICAL
+ilok.com ← iLok integration (optional)
+```
+
+ℹ️ Slate Digital Connect was updated with VMR 3.0 (December 2024). Managed via app.slatedigital.com/installers.
+
+---
+
+### SOUNDTOYS / SPECTRASONICS / TOONTRACK
+
+**SOUNDTOYS**
+**Risk Level:** 🟢 VERY LOW
+```
+soundtoys.com
+www.soundtoys.com
+support.soundtoys.com
+```
+⚠️ Direct activation via activation code system. Minimal network usage. No telemetry.
+
+**SPECTRASONICS (Omnisphere, Stylus, Trilian)**
+**Risk Level:** 🟢 LOW
+```
+spectrasonics.net
+www.spectrasonics.net
+support.spectrasonics.net
+auth.spectrasonics.net ← Activation (Challenge/Response) — CRITICAL
+download.spectrasonics.net
+cdn.spectrasonics.net
+shop.spectrasonics.net
+```
+ℹ️ Challenge/Response system: one-time web-based activation. Runs fully offline afterward.
+
+**TOONTRACK (EZdrummer, Superior Drummer)**
+**Risk Level:** 🟡 LOW-MEDIUM
+```
+toontrack.com
+www.toontrack.com
+api.toontrack.com
+cdn.toontrack.com
+download.toontrack.com
+account.toontrack.com
+```
+
+---
+
+### XFER RECORDS / U-HE / IK MULTIMEDIA / OUTPUT
+
+**XFER RECORDS (Serum)**
+**Risk Level:** 🟢 LOW
+```
+xferrecords.com
+www.xferrecords.com
+support.xferrecords.com
+```
+⚠️ Serum 2 activation via xferrecords.com. splice.com is also required for Splice integration.
+
+**U-HE (Diva, Zebra, Hive)**
+**Risk Level:** 🟢 VERY LOW
+```
+u-he.com
+www.u-he.com
+```
+⚠️ Activation is fully offline (key-file based). No telemetry. One of the most privacy-friendly setups.
+
+**IK MULTIMEDIA**
+**Risk Level:** 🟡 MEDIUM
+```
+ikmultimedia.com
+www.ikmultimedia.com
+forum.ikmultimedia.com
+api.ikmultimedia.com
+cdn.ikmultimedia.com
+download.ikmultimedia.com
+```
+
+**OUTPUT (ARCADE)**
+**Risk Level:** 🔴 HIGH
+```
+output.com
+www.output.com
+api.output.com
+arcade.output.com
+cdn.output.com
+storage.output.com
+auth.output.com
+```
+
+**Output Additional Services**
+```
+account.output.com ← Account/download portal — CRITICAL
+hub.output.com ← Output Hub (plugin manager)
+support.output.com
+js.intercomcdn.com ← Support chat SDK
+widget.intercom.io
+```
+
+⚠️ Arcade is fully cloud-based. Content streaming does not work without a subscription.
+
+---
+
+### VALHALLA / PLUGIN ALLIANCE / CELEMONY / ANTARES / SOFTUBE / SSL / EVENTIDE
+
+**VALHALLA DSP**
+**Risk Level:** 🟢 VERY LOW
+```
+valhalladsp.com
+www.valhalladsp.com
+```
+⚠️ WordPress+WooCommerce+Cloudflare infrastructure. Key-file based activation. No telemetry.
+
+**PLUGIN ALLIANCE / BRAINWORX**
+**Risk Level:** 🟡 MEDIUM
+```
+plugin-alliance.com
+www.plugin-alliance.com
+brainworx.eu
+www.brainworx.eu
+```
+⚠️ Acquired by Native Instruments. NI's tracking system was integrated (as of 2025).
+
+**CELEMONY (Melodyne)**
+**Risk Level:** 🟢 LOW
+```
+celemony.com
+www.celemony.com
+helpcenter.celemony.com
+services.celemony.com ← License activation server — CRITICAL
+```
+
+**ANTARES (Auto-Tune)**
+**Risk Level:** 🟡 LOW-MEDIUM
+```
+antarestech.com
+www.antarestech.com
+help.antarestech.com
+antares-web-frontend.sfo3.cdn.digitaloceanspaces.com ← Document CDN
+ilok.com
+```
+
+**SOFTUBE**
+**Risk Level:** 🟡 LOW-MEDIUM
+```
+softube.com
+www.softube.com
+softubestorage.b-cdn.net ← BunnyCDN - Softube Central installer
+d1aeri3ty3izns.cloudfront.net ← Amazon CloudFront - documents
+ilok.com
+```
+
+**SSL NATIVE**
+**Risk Level:** 🟡 LOW-MEDIUM
+```
+solidstatelogic.com
+www.solidstatelogic.com
+account.solidstatelogic.com ← Product registration/license portal — CRITICAL
+support.solidstatelogic.com
+downloads.solidstatelogic.com ← SSL Download Manager — CRITICAL
+ilok.com
+```
+
+**EVENTIDE**
+**Risk Level:** 🟢 LOW
+```
+eventideaudio.com
+www.eventideaudio.com
+cdn.eventideaudio.com
+downloads.eventideaudio.com
+support.eventideaudio.com
+ilok.com
+```
+
+---
+
+### SONNOX / XLN / UJAM / OEKSOUND / SYNCHRO ARTS / NUGEN
+
+**SONNOX**
+**Risk Level:** 🟢 LOW
+```
+sonnox.com
+www.sonnox.com
+support.sonnox.com
+sonnoxplugins.com
+dload.sonnoxplugins.com
+account.solidstatelogic.com ← SSL+Sonnox account integration
+ilok.com
+```
+
+**XLN AUDIO**
+**Risk Level:** 🟢 LOW
+```
+xlnaudio.com
+www.xlnaudio.com
+support.xlnaudio.com
+```
+
+**UJAM**
+**Risk Level:** 🟡 MEDIUM
+```
+ujam.com
+www.ujam.com
+support.ujam.com
+app.ujam.com ← UJAM App endpoint - activation — CRITICAL
+backstage.ujam.com ← License management
+```
+
+**OEKSOUND (Soothe2)**
+**Risk Level:** 🟢 LOW
+```
+oeksound.com
+www.oeksound.com
+versioncheck.oeksound.com
+support.oeksound.com
+ilok.com
+```
+
+**SYNCHRO ARTS (VocalAlign, Revoice Pro)**
+**Risk Level:** 🟢 LOW
+```
+synchroarts.com
+www.synchroarts.com
+app.synchroarts.com ← Account/license management — CRITICAL (April 2024+)
+synchroarts.zendesk.com
+```
+⚠️ In April 2024, they moved from iLok to their own licensing system.
+
+**NUGEN AUDIO**
+**Risk Level:** 🟢 LOW
+```
+nugenaudio.com
+www.nugenaudio.com
+ilok.com
+```
+
+**SONIBLE**
+**Type:** Plugin Developer (AI mixing tools)
+**Risk Level:** 🟢 LOW
+
+**Core Services**
+```
+sonible.com
+www.sonible.com
+help.sonible.com ← Support center (Zendesk)
+```
+
+**Dashboard**
+```
+account.sonible.com ← User dashboard (activation management)
+```
+
+**iLok Integration**
+```
+ilok.com
+activation.paceap.com ← PACE CDN for iLok USB
+```
+
+ℹ️ Sonible: 2 activations/license. Machine-based (internet) OR iLok USB dongle. iLok Cloud is NOT SUPPORTED.
+
+---
+
+### VITAL / TAL / BLUE CAT / SONARWORKS / ROB PAPEN / MELDA / KORG / CABLEGUYS
+
+**VITAL (Matt Tytel)**
+**Risk Level:** 🟢 LOW
+```
+vital.audio
+www.vital.audio
+account.vital.audio
+store.vital.audio
+forum.vital.audio
+```
+
+**TAL SOFTWARE**
+**Risk Level:** 🟢 VERY LOW
+```
+tal-software.com
+www.tal-software.com
+```
+
+**BLUE CAT AUDIO**
+**Risk Level:** 🟢 VERY LOW
+```
+bluecataudio.com
+www.bluecataudio.com
+```
+
+**SONARWORKS (SoundID Reference)**
+**Risk Level:** 🟡 LOW-MEDIUM
+```
+sonarworks.com
+www.sonarworks.com
+support.sonarworks.com
+sonarworks-uploads.nyc3.cdn.digitaloceanspaces.com ← PDF/document CDN
+```
+
+**ROB PAPEN**
+**Risk Level:** 🟢 VERY LOW
+```
+robpapen.com
+www.robpapen.com
+```
+
+**MELDA PRODUCTION**
+**Risk Level:** 🟢 VERY LOW
+```
+meldaproduction.com
+www.meldaproduction.com
+```
+
+**KORG SOFTWARE**
+**Risk Level:** 🟡 LOW-MEDIUM
+```
+korg.com
+www.korg.com
+id.korg.com ← KORG ID / Software Pass — CRITICAL
+support.korguser.net
+korguser.net
+shop.korg.com ← New store domain
+```
+
+**CABLEGUYS**
+**Risk Level:** 🟢 VERY LOW
+```
+cableguys.com
+www.cableguys.com
+```
+
+---
+
+### CHERRY AUDIO / GOODHERTZ / LIQUIDSONICS / KILOHEARTS
+
+**CHERRY AUDIO**
+**Risk Level:** 🟢 LOW
+```
+cherryaudio.com
+www.cherryaudio.com
+store.cherryaudio.com
+docs.cherryaudio.com
+forums.cherryaudio.com
+cherryaudio.kayako.com
+```
+
+**GOODHERTZ**
+**Risk Level:** 🟢 LOW
+```
+goodhertz.com
+www.goodhertz.com
+goodhertz.co
+expatriate.goodhertz.co
+```
+
+**LIQUIDSONICS**
+**Risk Level:** 🟢 LOW
+```
+liquidsonics.com
+www.liquidsonics.com
+ilok.com
+activation.paceap.com
+```
+
+**KILOHEARTS (Phase Plant)**
+**Risk Level:** 🟢 LOW
+```
+kilohearts.com
+www.kilohearts.com
+account.kilohearts.com ← Account/license portal
+cdn.kilohearts.com
+rapidmail.de
+postmarkapp.com
+fastspring.com
+freshdesk.com
+```
+
+---
+
+### LEAPWING AUDIO / BABY AUDIO / W.A. PRODUCTION / ACOUSTICA
+
+**LEAPWING AUDIO**
+**Risk Level:** 🟡 MEDIUM
+```
+leapwingaudio.com
+www.leapwingaudio.com
+```
+ℹ️ License requires an internet connection every 90 DAYS! Offline activation is not supported. Uses Google Analytics.
+```
+www.google-analytics.com [BLOCK] ← Google Analytics
+```
+
+**BABY AUDIO (+ Denise Audio)**
+**Risk Level:** 🟡 LOW-MEDIUM
+```
+babyaud.io
+www.babyaud.io
+forum.babyaud.io
+deniseaudio.com
+www.deniseaudio.com
+plan.babyaud.io ← Plugin Collection Plan subscription — CRITICAL
+support.babyaud.io
+fastspring.com
+```
+⚠️ Online activation is required. Offline activation is not supported. Baby Audio acquired Denise Audio (September 2023).
+
+**W.A. PRODUCTION**
+**Risk Level:** 🟢 LOW
+```
+waproduction.com
+www.waproduction.com
+page.waproduction.com
+waproduction.zendesk.com
+```
+
+**ACOUSTICA MIXCRAFT**
+**Risk Level:** 🟡 LOW-MEDIUM
+```
+acoustica.com
+www.acoustica.com
+store.acoustica.com
+acoustica.kayako.com
