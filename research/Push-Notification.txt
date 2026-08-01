@@ -1,0 +1,452 @@
+# Push Notification Services Research List
+
+## WEB / MOBILE PUSH PLATFORMS
+
+**1. OneSignal**
+- onesignal.com — Main site
+- api.onesignal.com — REST API
+- cdn.onesignal.com — CDN / SDK
+- app.onesignal.com — Dashboard
+- img.onesignal.com — Image CDN
+- media.onesignal.com — Media CDN
+- documentation.onesignal.com — Documentation
+- status.onesignal.com — Status page
+- partners.onesignal.com — Partner portal
+- alternet.onesignal.com — Alternate endpoint
+- beefree-storage.onesignal.com — Email editor storage
+- *.onesignal.com — Customer subdomains
+- onesignal.email — Email sending domain (SPF: include:spf.onesignal.email)
+- log.onesignal.com — Telemetry / log endpoint
+- email.onesignal.com — Email channel subdomain
+
+**2. PushEngage**
+- pushengage.com — Main site
+- clientcdn.pushengage.com — CDN
+- api.pushengage.com — REST API
+- dashboard.pushengage.com — Dashboard
+- app.pushengage.com — Application portal
+- *.pushengage.com — Customer subdomains (for HTTP sites)
+
+**3. iZooto**
+- izooto.com — Main site
+- cdn.izooto.com — CDN
+- cdnimg.izooto.com — Image CDN
+- rapi.izooto.com — REST API
+- help.izooto.com — Help center
+- ai.izooto.com — AI module
+- stories.izooto.com — Stories feature
+- notify.izooto.com — Notification endpoint
+- *.izooto.com — Customer subdomains
+
+**4. Notix** — ⛔ SHUT DOWN (2024)
+- notix.io
+- notix.co
+- docs.notix.co — Documentation
+
+**5. Webpushr**
+- webpushr.com — Main site
+- api.webpushr.com — API
+- docs.webpushr.com — Documentation
+- forum.webpushr.com — Forum
+- sdk.webpushr.com — SDK
+- console.webpushr.com — Dashboard / Console
+
+**6. WonderPush**
+- wonderpush.com — Main site
+- api.wonderpush.com — API
+- dashboard.wonderpush.com — Dashboard
+- cdn.wonderpush.com — CDN
+- docs.wonderpush.com — Documentation
+- cdn.by.wonderpush.com — SDK CDN (cdn.by.wonderpush.com/sdk/...)
+- *.by.wonderpush.com — Push subdomains for HTTP sites
+
+**7. Aimtell**
+- aimtell.com — Main site
+- api.aimtell.com — API
+- cdn.aimtell.com — CDN
+- dashboard.aimtell.com — Dashboard
+- documentation.aimtell.com — Documentation hub
+
+**8. PushAssist**
+- pushassist.com — Main site
+- api.pushassist.com — API
+- cdn.pushassist.com — CDN
+
+**9. FoxPush**
+- foxpush.com — Main site
+- api.foxpush.com — API
+- cdn.foxpush.com — CDN
+- dashboard.foxpush.com — Dashboard
+
+**10. Pushnami**
+- pushnami.com — Main site
+- api.pushnami.com — API
+- cdn.pushnami.com — CDN
+- docs.pushnami.com — Documentation / API reference
+
+**11. PushBots**
+- pushbots.com — Main site
+- api.pushbots.com — API
+- cdn.pushbots.com — CDN
+- dashboard.pushbots.com — Dashboard
+
+**12. Gravitec.net**
+- gravitec.net — Main site
+- api.gravitec.net — API
+- cdn.gravitec.net — CDN
+- push.gravitec.net — Push endpoint
+
+**13. PushAlert**
+- pushalert.co — Main site
+- api.pushalert.co — API
+- cdn.pushalert.co — CDN (large image host)
+- dashboard.pushalert.co — Dashboard
+- *.pushalert.co — Customer subdomains for HTTP sites (yourdomain.pushalert.co)
+
+**14. PushPushGo**
+- pushpushgo.com — Main site
+- api.pushpushgo.com — REST API
+- cdn.pushpushgo.com — CDN
+- app.pushpushgo.com — Dashboard
+- next.pushpushgo.com — New dashboard UI
+- docs.pushpushgo.company — Documentation (different TLD, .company)
+- core.pushpushgo.com — Headless / API product
+- *.pushpushgo.com — Push subdomains for HTTP sites
+
+**15. ChirpyWeb**
+- chirpyweb.com — Main site
+- api.chirpyweb.com — API
+- cdn.chirpyweb.com — CDN
+
+**16. Pushify**
+- pushify.com — Main site
+- api.pushify.com — API
+- cdn.pushify.com — CDN
+
+**17. Frizbit**
+- frizbit.com — Main site
+- api.frizbit.com — API
+- cdn.frizbit.com — CDN
+- dashboard.frizbit.com — Dashboard
+
+**18. Feedify**
+- feedify.net — Main site
+- api.feedify.net — API
+- cdn.feedify.net — CDN
+
+**19. Pushover**
+- pushover.net — Main site
+- api.pushover.net — REST API
+- pomail.net — Email-to-push gateway
+- client.pushover.net — WebSocket open client API
+- support.pushover.net — Support portal
+
+**20. Prowl**
+- prowlapp.com — Main site
+- api.prowlapp.com — REST API
+- [api_key]@api.prowlapp.com — Email-to-push gateway (email format)
+
+**21. VWO Engage (formerly PushCrew)**
+- vwo.com — Main site
+- app.vwo.com — Dashboard
+- api.vwo.com — API
+- cdn.vwo.com — CDN
+- dev.visualwebsiteoptimizer.com — Developer portal
+- visualwebsiteoptimizer.com — Legacy main site
+- pushcrew.com — Legacy domain (redirect)
+- api.pushcrew.com — Legacy PushCrew API — still active
+- help.vwo.com — Support center
+- engage.vwo.com — Engage-specific portal
+
+**22. Pushwoosh**
+- pushwoosh.com — Main site
+- cp.pushwoosh.com — Control Panel
+- cdn.pushwoosh.com — CDN
+- api.pushwoosh.com — API
+- go.pushwoosh.com — Redirect / tracking
+- docs.pushwoosh.com — Documentation
+- help.pushwoosh.com — Support center
+
+**23. Pusher Beams**
+- pusher.com — Main site
+- api.pusherapp.com — API (legacy mt1)
+- beams.pusher.com — Beams
+- sockjs.pusher.com — SockJS fallback
+- stats.pusher.com — Statistics
+- ws.pusherapp.com — WebSocket (mt1 cluster)
+- pusherapp.com — Legacy app domain
+- js.pusher.com — CDN — JS SDK
+- *.pushnotifications.pusher.com — Beams instance domains (UUID.pushnotifications.pusher.com)
+- api-mt1.pusher.com — mt1 cluster REST API
+- ws-[cluster].pusher.com — Cluster-specific WebSocket (ws-eu.pusher.com etc.)
+- sockjs-[cluster].pusher.com — Cluster-specific SockJS fallback
+- dashboard.pusher.com — Dashboard
+
+**24. PushOwl**
+- pushowl.com — Main site
+- api.pushowl.com — API
+- cdn.pushowl.com — CDN
+- dashboard.pushowl.com — Dashboard
+- docs.pushowl.com — Help center / Documentation
+
+**25. Catapush**
+- catapush.com — Main site
+- api.catapush.com — API (XMPP + REST)
+- dashboard.catapush.com — Dashboard
+
+**26. Notificare**
+- notifica.re — Main site
+- cdn.notifica.re — CDN
+- api.notifica.re — REST API
+- dashboard.notifica.re — Dashboard
+- push.notifica.re — Push endpoint
+- docs.notifica.re — Documentation
+- maven.notifica.re — Android SDK Maven repository
+- api-docs.notifica.re — API Swagger/OpenAPI docs
+
+**27. EngageLab**
+- engagelab.com — Main site
+- api.engagelab.com — API (new domain)
+- dashboard.engagelab.com — Dashboard
+- cdn.engagelab.com — CDN
+- engagelab.cc — Legacy API domain (.cc TLD) — still active
+- email.api.engagelab.cc — Email API endpoint (on legacy domain)
+- pushapi-sgp.engagelab.com — Singapore datacenter API endpoint
+- pushapi-[region].engagelab.com — Other regional datacenter APIs (cn, us, eu, etc.)
+
+**28. Pushpad**
+- pushpad.xyz — Main site
+- api.pushpad.xyz — API
+- blog.pushpad.xyz — Blog
+
+**29. Pushy.me**
+- pushy.me — Main site
+- api.pushy.me — REST API
+- dashboard.pushy.me — Dashboard
+- sdk.pushy.me — SDK CDN
+- status.pushy.me — Status page
+- support.pushy.me — Support
+
+**30. Pushnews**
+- pushnews.eu — Main site
+- app.pushnews.eu — Dashboard
+- api.pushnews.eu — API
+- cdn.pushnews.eu — CDN
+- docs.pushnews.eu — Documentation — Swagger UI
+- help.pushnews.eu — Help
+- blog.pushnews.com.br — Blog (BR)
+- pn.vg — Short SDK domain
+- icons.pn.vg — Icon CDN
+
+**31. Roost** — ⛔ SHUT DOWN
+
+**32. Push Monkey** — ⛔ SHUT DOWN
+
+**33. Truepush** — ⛔ SHUT DOWN (August 2024)
+
+**34. LaraPush (Self-Hosted)**
+- larapush.com — Main site
+- alarapush.com — Alternate domain
+- blog.larapush.com — Blog
+
+**35. Simplepush.io**
+- simplepush.io — Main site
+- api.simplepush.io — API
+- simplepu.sh — Short API domain
+
+**36. CleverPush**
+- cleverpush.com — Main site
+- api.cleverpush.com — API
+- app.cleverpush.com — Dashboard
+- static.cleverpush.com — Static files
+- developers.cleverpush.com — Developer portal
+
+**37. PushAll.ru**
+- pushall.ru — Main site
+- pushall.ru/api.php — API endpoint
+
+**38. LetReach**
+- letreach.com — Main site
+- letx.co — CDN / support infrastructure
+- support.letreach.com — Support
+
+**39. PushAd**
+- push-ad.com — Main site
+- app.push-ad.com — Dashboard
+- api.push-ad.com — API
+- cdn.push-ad.com — CDN
+
+**40. Subscribers.com**
+- subscribers.com — Main site
+- app.subscribers.com — Dashboard
+- api.subscribers.com — API
+- cdn.subscribers.com — CDN
+- help.subscribers.com — Help
+- docs.subscribers.com — Documentation
+- hellobar.com — Infrastructure partner
+- support.hellobar.com — Support infrastructure (via HelloBar)
+- blog.subscribers.com — Blog
+
+**41. Nashpush**
+- nashpush.com — Main site
+- api.nashpush.com — API
+- app.nashpush.com — Dashboard
+- cdn.nashpush.com — CDN
+- docs.nashpush.com — Documentation
+
+**42. SmartPush**
+- smartpush.ai — Main site
+- api.smartpush.ai — API
+- app.smartpush.ai — Dashboard
+- cdn.smartpush.ai — CDN
+
+**43. PushPro**
+- pushpro.com — Main site
+- pushpro.io — Legacy domain (redirect)
+- app.pushpro.com — Dashboard
+
+**44. TITANPush**
+- titanpush.com — Main site
+- app.titanpush.com — Dashboard
+- api.titanpush.com — API
+
+**45. Webpushify**
+- webpushify.com — Main site
+- app.webpushify.com — Dashboard
+- api.webpushify.com — API
+- cdn.webpushify.com — CDN
+
+**46. Push.World**
+- push.world — Main site
+- app.push.world — Dashboard
+
+## PUSH AD NETWORKS
+
+**47. RollerAds**
+- rollerads.com — Main site
+- app.rollerads.com — Dashboard
+- monetize.rollerads.com — Publisher monetization
+- cdn.rollerads.com — CDN
+- api.rollerads.com — API
+- blog.rollerads.com — Blog
+
+**48. AdMaven**
+- ad-maven.com — Main site
+- admaven.com — Redirect
+- app.ad-maven.com — Dashboard
+- api.ad-maven.com — API
+- cdn.ad-maven.com — CDN
+- publishers.ad-maven.com — Publisher portal
+
+**49. RichAds**
+- richads.com — Main site
+- app.richads.com — Dashboard
+- api.richads.com — API
+- cdn.richads.com — CDN
+- richpush.co — Legacy domain (redirect)
+- blog.richads.com — Blog
+
+**50. PushGround**
+- pushground.com — Main site
+- app.pushground.com — Dashboard
+- api.pushground.com — API
+- cdn.pushground.com — CDN
+- help.pushground.com — Help center
+
+**51. EvaDav**
+- evadav.com — Main site
+- app.evadav.com — Dashboard
+- api.evadav.com — API
+- cdn.evadav.com — CDN
+
+**52. ROIads**
+- roiads.co — Main site
+- app.roiads.co — Dashboard
+- api.roiads.co — API
+- cdn.roiads.co — CDN
+- blog.roiads.co — Blog
+
+**53. Kadam**
+- kadam.net — Main site
+- app.kadam.net — Dashboard
+- wiki.kadam.net — Documentation / Wiki
+- api.kadam.net — API
+- kdtrk.net — Postback / tracking domain
+- kadam.network — New domain (in addition to kadam.net)
+
+**54. Push.House**
+- push.house — Main site
+- app.push.house — Dashboard
+- api.push.house — API
+- cdn.push.house — CDN
+- partners.house — Publisher platform (independent domain)
+
+**55. Galaksion**
+- galaksion.com — Main site
+- app.galaksion.com — Dashboard
+- ssp.galaksion.com — SSP
+- api.galaksion.com — API
+- galaksion.online — Additional active domain (parallel)
+- blog.galaksion.com — Blog
+
+**56. UngAds**
+- ungads.com — Main site
+- app.ungads.com — Dashboard
+- api.ungads.com — API
+- cdn.ungads.com — CDN
+- blog.ungads.com — Blog
+
+**57. PusHub**
+- pushub.com — Main site
+- app.pushub.com — Dashboard
+- api.pushub.com — API
+
+**58. Mobidea Push**
+- mobidea.com — Main site / CPA network
+- app.mobidea.com — Dashboard
+- api.mobidea.com — API
+- tracker.mobidea.com — Tracking endpoint
+- mobideapush.com — Separate domain for the push product — IMPORTANT
+- www.mobideapush.com — Mobidea Push main platform site
+
+**59. Dao.Ad**
+- dao.ad — Main site
+- daopush-api.info — API domain
+- api.daopush-api.info — API endpoint
+- daopush.com — Service worker / subscription domain (confirmed via FAQ)
+
+**60. AdProfex**
+- adprofex.com — Main site
+- app.adprofex.com — Dashboard
+- api.adprofex.com — API
+- cdn.adprofex.com — CDN
+- blog.adprofex.com — Blog
+
+**61. AdOperator**
+- adoperator.com — Main site
+- app.adoperator.com — Dashboard
+- api.adoperator.com — API
+- cdn.adoperator.com — CDN
+
+**62. OnClickA**
+- onclicka.com — Main site
+- app.onclicka.com — Dashboard
+- api.onclicka.com — API
+- onclickad.com — Publisher domain
+- cdn.onclicka.com — CDN
+
+**63. MyBid**
+- mybid.io — Main site
+- app.mybid.io — Dashboard
+- api.mybid.io — API
+- mybid.partners — CPA network / separate domain
+- blog.mybid.io — Blog
+
+**64. Coinis**
+- coinis.com — Main site
+- app.coinis.com — Dashboard
+- api.coinis.com — API
+- cdn.coinis.com — CDN
+- ssp.coinis.com — SSP portal
+- ap.coinis.com — Advertiser/Publisher platform portal
+- blog.coinis.com — Blog
