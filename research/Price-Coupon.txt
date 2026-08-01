@@ -1,0 +1,864 @@
+# PRICE TRACKING & COUPON RESEARCH LIST
+
+### Honey (PayPal)
+- joinhoney.com
+- honey.io
+- honey.app
+- api.joinhoney.com
+- analytics.joinhoney.com
+- events.joinhoney.com
+- tracking.honey.io
+- cdn.joinhoney.com
+- d2c3l4yhkwb5ur.cloudfront.net
+- www.joinhoney.com
+- www.honey.io
+- app.honey.io
+- cdn.honey.io
+- static.honey.io
+- telemetry.joinhoney.com
+- metrics.joinhoney.com
+- joinhoney.app
+- cdn-checkout.joinhoney.com
+- s.joinhoney.com
+- help.joinhoney.com
+- d.joinhoney.com
+- e.joinhoney.com
+- v.joinhoney.com
+- err.joinhoney.com
+- paypal.com
+- paypal.net
+
+### Capital One Shopping (formerly WikiBuy)
+- capitaloneshopping.com
+- wikibuy.com
+- api.capitaloneshopping.com
+- analytics.capitaloneshopping.com
+- track.capitaloneshopping.com
+- www.capitaloneshopping.com
+- www.wikibuy.com
+- cdn.capitaloneshopping.com
+- events.capitaloneshopping.com
+- telemetry.capitaloneshopping.com
+- help.wikibuy.com
+- csp.capitaloneshopping.com
+- images.capitaloneshopping.com
+- help.capitaloneshopping.com
+- shopping.capitalone.com
+
+### Rakuten (formerly Ebates)
+- rakuten.com
+- ebates.com
+- extension.rakuten.com
+- analytics.rakuten.com
+- tracking.rakuten.com
+- api.rakuten.com
+- www.rakuten.com
+- www.ebates.com
+- go.rakuten.com
+- click.rakuten.com
+- clicks.rakuten.com
+- emails.rakuten.com
+- static.rakuten.com
+- cdn.rakuten.com
+- events.rakuten.com
+- metrics.rakuten.com
+- rakutenrewards.com
+- rakuten.ca
+- rakuten.co.jp
+- fatwallet.com
+- www.fatwallet.com
+- ecbsn.com
+- bfads.net
+- service.bfast.com
+- ebates.shop.com
+- quinst.com
+- rakutenadvertising.com
+- linksynergy.com
+- click.linksynergy.com
+- ad.linksynergy.com
+- member.rakuten.com
+
+### RetailMeNot Genie (Extension Only)
+- genie.retailmenot.com
+- extension.retailmenot.com
+- tracking.retailmenot.com
+- api.genie.retailmenot.com
+- analytics.genie.retailmenot.com
+- cdn.retailmenot.com
+
+### PriceBlink — DEFUNCT PLATFORM
+- priceblink.com
+- api.priceblink.com
+- www.priceblink.com
+- analytics.priceblink.com
+- tracking.priceblink.com
+- cdn.priceblink.com
+
+### InvisibleHand (CNET Shopping)
+- getinvisiblehand.com
+- www.getinvisiblehand.com
+- api.getinvisiblehand.com
+- tracking.getinvisiblehand.com
+- developer.getinvisiblehand.com
+- invisiblehand.co.uk
+- cdn.invisiblehand.co.uk
+- invisiblehand.zendesk.com
+
+### Google Shopping (Chrome Extension)
+- shopping.google.com
+- shopping-pa.googleapis.com
+- shoppinganalytics-pa.googleapis.com
+- merchants.google.com
+
+---
+
+## HIGH PRIORITY — Avoid Extension, Website OK
+
+### RetailMeNot (Website OK, Extension Bad)
+- retailmenot.com
+- rmn.com
+- www.retailmenot.com
+- static.retailmenot.com
+- api.retailmenot.com
+- analytics.retailmenot.com
+- vouchercodes.co.uk
+- www.vouchercodes.co.uk
+- retailmenot.ca
+- community.retailmenot.com
+
+### CamelCamelCamel (Website OK, Extension Bad)
+- camelcamelcamel.com
+- api.camelcamelcamel.com
+- www.camelcamelcamel.com
+- charts.camelcamelcamel.com
+- cdn.camelcamelcamel.com
+- camelcamelcamel.co.uk
+- camelcamelcamel.fr
+- camelcamelcamel.de
+- camelcamelcamel.es
+- camelcamelcamel.ca
+- camelcamelcamel.it
+- camelcamelcamel.com.au
+- camelcamelcamel.co.jp
+
+### Keepa (Website OK, Extension Bad)
+- keepa.com
+- api.keepa.com
+- www.keepa.com
+- graph.keepa.com
+- dyn.keepa.com
+- cdn.keepa.com
+- get.keepa.com
+- discuss.keepa.com
+- java-1.keepa.com
+
+### BeFrugal
+- befrugal.com
+- www.befrugal.com
+- api.befrugal.com
+- tracking.befrugal.com
+
+### TopCashback
+- topcashback.com
+- topcashback.co.uk
+- tcb-cdn.com
+- www.topcashback.com
+- api.topcashback.com
+- tracking.topcashback.com
+- topcashback.de
+- topcashback.com.au
+- topcashback.ca
+- topcashback.cn
+- topcashback.in
+- topcashback.co.jp
+- topcashback.it
+
+### Cently (Coupons at Checkout)
+- cently.com
+- www.cently.com
+- api.cently.com
+- tracking.cently.com
+- couponsatcheckout.com
+
+---
+
+## MEDIUM PRIORITY
+
+### CouponCabin (+ Sidekick)
+- couponcabin.com
+- www.couponcabin.com
+- api.couponcabin.com
+- sidekick.couponcabin.com
+- cdn.couponcabin.com
+- tracking.couponcabin.com
+
+### CouponFollow
+- couponfollow.com
+- www.couponfollow.com
+- extension.couponfollow.com
+- support.couponfollow.com
+
+### SimplyCodes (Dealspotr / Demand.io)
+- simplycodes.com
+- www.simplycodes.com
+- api.simplycodes.com
+- cdn.simplycodes.com
+- analytics.simplycodes.com
+- tracking.simplycodes.com
+- help.simplycodes.com
+- dealspotr.com
+- www.dealspotr.com
+- api.dealspotr.com
+- demand.io
+- www.demand.io
+- product.ai
+- knoji.com
+- www.knoji.com
+
+### Coupert
+- coupert.com
+- www.coupert.com
+- api.coupert.com
+- cdn.coupert.com
+- analytics.coupert.com
+- help.coupert.com
+
+### CouponBirds
+- couponbirds.com
+- www.couponbirds.com
+- api.couponbirds.com
+- cdn.couponbirds.com
+- support.couponbirds.com
+- smart.couponbirds.com
+
+### DontPayFull / Shopilo
+- dontpayfull.com
+- www.dontpayfull.com
+- api.dontpayfull.com
+- help.dontpayfull.com
+- cdn.dontpayfull.com
+- shopilo.com
+- www.shopilo.com
+
+### FatCoupon
+- fatcoupon.com
+- www.fatcoupon.com
+- api.fatcoupon.com
+- cdn.fatcoupon.com
+
+### Mino (formerly known as Minty)
+- gomino.com
+- www.gomino.com
+- api.gomino.com
+- cdn.gomino.com
+- accounts.gomino.com
+- fr.gomino.com
+- en.gomino.com
+- de.gomino.com
+- loveminty.net
+- www.loveminty.net
+- accounts.loveminty.net
+
+### Wanteeed
+- wanteeed.com
+- www.wanteeed.com
+- api.wanteeed.com
+
+### Karma (KarmaNow / Shoptagr)
+- karmanow.com
+- www.karmanow.com
+- api.karmanow.com
+- app.karmanow.com
+- shoptagr.com
+- www.shoptagr.com
+- beta.shoptagr.com
+- kra18.com
+- www.kra18.com
+- jdoqocy.com
+
+### Ibotta
+- ibotta.com
+- www.ibotta.com
+- home.ibotta.com
+- help.ibotta.com
+- api.ibotta.com
+- ipn.ibotta.com
+- cdn.ibotta.com
+- blog.ibotta.com
+- developer.ibotta.com
+
+### CNET Shopping (InvisibleHand)
+- shopping.cnet.com
+- www.cnet.com
+- cdn.cnet.com
+- api.cnet.com
+- ziffdavis.com
+- www.ziffdavis.com
+
+### Checkmate
+- joincheckmate.com
+- www.joincheckmate.com
+- api.joincheckmate.com
+- faqs.joincheckmate.com
+- app.joincheckmate.com
+- cdn.joincheckmate.com
+
+### Avast SafePrice
+- avast.com
+- safeprice.avast.com
+- www.avast.com
+- cdn.avast.com
+- api.avast.com
+- addons.avast.com
+- support.avast.com
+- ff.avast.com
+- analytics.ff.avast.com
+- ipm-provider.ff.avast.com
+- ip.ff.avast.com
+- ip-info.ff.avast.com
+- deals.avast.com
+- stats.avast.com
+- id.avast.com
+- ng.avast.com
+- ping.avast.com
+- update.avast.com
+- avastbrowser.com
+
+### AVG SafePrice
+- avg.com
+- safeprice.avg.com
+- dealfinder.avg.com
+- deals.avg.com
+- shop.avg.com
+- id.avg.com
+- stats.avg.com
+- update.avg.com
+- mobile.avg.com
+
+### Savely
+- getsavely.com
+- www.getsavely.com
+- api.getsavely.com
+- savely.com
+- trysavely.com
+
+### Dealhack
+- dealhack.com
+- www.dealhack.com
+- dealhack.ca
+- www.dealhack.ca
+- api.dealhack.com
+- cdn.dealhack.com
+- help.dealhack.com
+
+### Backify
+- backify.com
+- www.backify.com
+- api.backify.com
+- blog.backify.com
+- cdn.backify.com
+
+### Kudos
+- joinkudos.com
+- www.joinkudos.com
+- api.joinkudos.com
+- app.joinkudos.com
+- support.joinkudos.com
+- cdn.joinkudos.com
+- mobile.joinkudos.com
+
+### Tada (Prodege)
+- tada.com
+- www.tada.com
+- api.tada.com
+- help.tada.com
+- prodege.com
+- www.prodege.com
+- api.prodege.com
+- cdn.prodege.com
+- static.prodege.com
+- shopyourfaves.com
+- couponcause.com
+- www.couponcause.com
+- upromise.com
+- www.upromise.com
+
+### Wethrift
+- wethrift.com
+- www.wethrift.com
+- api.wethrift.com
+- cdn.wethrift.com
+
+### Savings.com / Offers.com (Ziff Davis)
+- savings.com
+- www.savings.com
+- api.savings.com
+- cdn.savings.com
+- offers.com
+- www.offers.com
+- api.offers.com
+- cdn.offers.com
+- zdbb.net
+
+### Coupons.com / Atolls (Global Savings Group)
+- coupons.com
+- www.coupons.com
+- api.coupons.com
+- cdn.coupons.com
+- app.coupons.com
+- help.coupons.com
+- static.coupons.com
+- m.coupons.com
+- couponnetwork.com
+- groceryiq.com
+- atolls.com
+- www.atolls.com
+- cuponation.com
+- globalsavingsgroup.com
+- www.globalsavingsgroup.com
+- igraal.com
+- www.igraal.com
+- igraal.de
+- igraal.es
+- shoop.de
+- www.shoop.de
+- cuponation.de
+- cuponation.co.uk
+- cuponation.fr
+- cuponation.es
+- cuponation.it
+- cuponation.in
+- cuponation.com.au
+- cuponation.com.br
+- pouch.tech
+- www.pouch.tech
+
+### CashbackMonitor / CashbackHolic
+- cashbackmonitor.com
+- www.cashbackmonitor.com
+- cashbackholic.com
+- www.cashbackholic.com
+
+### Price.com
+- price.com
+- www.price.com
+- api.price.com
+- cdn.price.com
+- help.price.com
+- app.price.com
+- enterprise.price.com
+- static.price.com
+
+### Moonsift
+- moonsift.com
+- www.moonsift.com
+- api.moonsift.com
+- cdn.moonsift.com
+- app.moonsift.com
+- help.moonsift.com
+
+### Chestr
+- chestr.com
+- www.chestr.com
+- getchestr.com
+- www.getchestr.com
+- api.chestr.com
+- cdn.chestr.com
+- app.chestr.com
+
+### Basket
+- trybasket.com
+- www.trybasket.com
+- api.trybasket.com
+- cdn.trybasket.com
+- app.trybasket.com
+- help.trybasket.com
+
+### AliPrice
+- aliprice.com
+- www.aliprice.com
+- api.aliprice.com
+- cdn.aliprice.com
+- app.aliprice.com
+
+### Earny — DEFUNCT PLATFORM
+- earny.co
+- www.earny.co
+- deals.earny.co
+- api.earny.co
+
+---
+
+## MEDIUM PRIORITY — REGIONAL PLATFORMS
+
+### PriceSpy / Prisjakt
+- pricespy.co.uk
+- pricespy.co.nz
+- pricespy.ie
+- prisjakt.nu
+- prisjakt.no
+- hintaopas.fi
+- pagomeno.it
+- ledenicheur.fr
+- www.pricespy.co.uk
+- api.pricespy.co.uk
+- cdn.pricespy.co.uk
+- app.pricespy.co.uk
+- help.pricespy.co.uk
+- business.prisjakt.nu
+- api.prisjakt.nu
+- cdn.prisjakt.nu
+- www.prisjakt.no
+- www.hintaopas.fi
+- www.pagomeno.it
+- www.ledenicheur.fr
+- www.pricespy.co.nz
+
+### PriceRunner (part of Klarna)
+- pricerunner.com
+- pricerunner.se
+- pricerunner.dk
+- pricerunner.co.uk
+- www.pricerunner.com
+- www.pricerunner.se
+- www.pricerunner.dk
+- www.pricerunner.co.uk
+- api.pricerunner.com
+- cdn.pricerunner.com
+- business.pricerunner.com
+- help.pricerunner.com
+- d3fq2ul6f3oba9.cloudfront.net
+- pricerunner.no
+- www.pricerunner.no
+- newsroom.pricerunner.com
+
+### Idealo (Axel Springer)
+- idealo.com
+- idealo.de
+- idealo.co.uk
+- idealo.fr
+- idealo.it
+- idealo.es
+- idealo.at
+- idealo.pl
+- www.idealo.de
+- www.idealo.co.uk
+- api.idealo.com
+- import.idealo.com
+- business.idealo.com
+- cdn.idealo.com
+- flights.idealo.com
+- cdn.idealo.de
+- static.idealo.com
+- tracking.idealo.com
+
+### ShopSavvy
+- shopsavvy.com
+- www.shopsavvy.com
+- api.shopsavvy.com
+- help.shopsavvy.com
+- cdn.shopsavvy.com
+- app.shopsavvy.com
+
+### Bizrate / Shopzilla / Connexity
+- bizrate.com
+- www.bizrate.com
+- api.bizrate.com
+- shopzilla.com
+- www.shopzilla.com
+- pricegrabber.com
+- www.pricegrabber.com
+- connexity.com
+- www.connexity.com
+- api.connexity.com
+- cdn.connexity.com
+- tracking.connexity.com
+- become.com
+- www.become.com
+- bizrateinsights.com
+- business.connexity.com
+- rr.bizrate.com
+
+### Kelkoo (Kelkoo Group)
+- kelkoo.com
+- kelkoo.co.uk
+- kelkoo.fr
+- kelkoo.de
+- kelkoo.it
+- kelkoo.es
+- kelkoo.at
+- kelkoo.nl
+- kelkoo.be
+- kelkoo.no
+- kelkoo.se
+- kelkoo.dk
+- kelkoo.fi
+- kelkoo.pt
+- kelkoo.pl
+- kelkoo.us.com
+- kelkoogroup.com
+- www.kelkoogroup.com
+- api.kelkoo.com
+- cdn.kelkoo.com
+- leguide.com
+- ciao.com
+- tracking.kelkoo.com
+- api.kelkoogroup.net
+
+### Trovaprezzi
+- trovaprezzi.it
+- www.trovaprezzi.it
+- api.trovaprezzi.it
+- cdn.trovaprezzi.it
+- static.trovaprezzi.it
+- help.trovaprezzi.it
+- app.trovaprezzi.it
+
+### Twenga
+- twenga.com
+- twenga.co.uk
+- twenga.fr
+- twenga.de
+- twenga.it
+- twenga.es
+- twenga.nl
+- twenga.pl
+- twenga.at
+- www.twenga.com
+- www.twenga.co.uk
+- twenga-solutions.com
+- www.twenga-solutions.com
+- api.twenga.com
+- cdn.twenga.com
+
+### Pricena (Middle East)
+- pricena.com
+- www.pricena.com
+- api.pricena.com
+- cdn.pricena.com
+- help.pricena.com
+
+### Skinflint / Geizhals
+- skinflint.co.uk
+- skinflint.de
+- www.skinflint.co.uk
+- www.skinflint.de
+- api.skinflint.co.uk
+- cdn.skinflint.co.uk
+- geizhals.at
+- geizhals.de
+- geizhals.eu
+- www.geizhals.at
+- www.geizhals.de
+- cenowarka.pl
+- www.cenowarka.pl
+- cdn.geizhals.at
+- api.geizhals.at
+- www.geizhals.eu
+- gzhls.at
+
+### ShopMania
+- shopmania.com
+- shopmania.biz
+- www.shopmania.com
+- www.shopmania.biz
+- api.shopmania.com
+- cdn.shopmania.com
+
+### Heureka Group
+- heureka.cz
+- heureka.sk
+- heureka.group
+- www.heureka.cz
+- www.heureka.sk
+- api.heureka.cz
+- cdn.heureka.cz
+- arukereso.hu
+- www.arukereso.hu
+- compari.ro
+- www.compari.ro
+- pazaruvaj.com
+- www.pazaruvaj.com
+- ceneje.si
+- www.ceneje.si
+- jeftinije.hr
+- www.jeftinije.hr
+- idealno.rs
+- www.idealno.rs
+- idealno.ba
+- www.idealno.ba
+- heureka.hu
+- www.heureka.hu
+
+### Skroutz (Greece)
+- skroutz.gr
+- www.skroutz.gr
+- api.skroutz.gr
+- skroutza.skroutz.gr
+- cdn.skroutz.gr
+- developer.skroutz.gr
+- merchants.skroutz.gr
+- skroutz.cy
+- www.skroutz.cy
+- alve.com
+- www.alve.com
+- scrooge.co.uk
+- www.scrooge.co.uk
+
+### Ceneo (Poland - Allegro Group)
+- ceneo.pl
+- www.ceneo.pl
+- api.ceneo.pl
+- cdn.ceneo.pl
+- static.ceneo.pl
+
+### Akakce (Turkey)
+- akakce.com
+- www.akakce.com
+- api.akakce.com
+- cdn.akakce.com
+- m.akakce.com
+
+### Vergelijk (Benelux)
+- vergelijk.be
+- vergelijk.nl
+- vergelijk.fi
+- vergelijk.fr
+- www.vergelijk.be
+- www.vergelijk.nl
+- api.vergelijk.be
+- cdn.vergelijk.be
+
+### Hinnavaatlus (Estonia)
+- hinnavaatlus.ee
+- www.hinnavaatlus.ee
+- api.hinnavaatlus.ee
+- cdn.hinnavaatlus.ee
+
+### KuantoKusta (Portugal)
+- kuantokusta.pt
+- www.kuantokusta.pt
+- seller.kuantokusta.pt
+- api.kuantokusta.pt
+- cdn.kuantokusta.pt
+
+### Nabava (Croatia)
+- nabava.net
+- www.nabava.net
+- api.nabava.net
+- cdn.nabava.net
+
+### Guenstiger.de (Germany)
+- guenstiger.de
+- www.guenstiger.de
+- api.guenstiger.de
+- cdn.guenstiger.de
+
+### Zyft (Australia)
+- zyft.com
+- www.zyft.com
+- zyft.com.au
+- www.zyft.com.au
+- api.zyft.com
+- cdn.zyft.com
+- help.zyft.com
+- app.zyft.com
+
+### BuyWisely (Australia)
+- buywisely.com.au
+- www.buywisely.com.au
+- api.buywisely.com.au
+- cdn.buywisely.com.au
+
+### Buyhatke (India)
+- buyhatke.com
+- www.buyhatke.com
+- compare.buyhatke.com
+- api.buyhatke.com
+- cdn.buyhatke.com
+- app.buyhatke.com
+- babycrawler.buyhatke.com
+- coup1.buyhatke.com
+- ext1.buyhatke.com
+- track.in.omgpm.com
+
+### Flipshope (India)
+- flipshope.com
+- www.flipshope.com
+- app.flipshope.com
+- cdn.flipshope.com
+- cdn1.flipshope.com
+- cdn2.flipshope.com
+- data.flipshope.com
+- data1.flipshope.com
+- deals.flipshope.com
+- blog.flipshope.com
+- ask.flipshope.com
+- fs.flipshope.com
+- fsa.flipshope.com
+- plt.flipshope.com
+- u.flipshope.com
+- dev.flipshope.com
+
+### Price History App (India)
+- pricehistory.app
+- www.pricehistory.app
+- api.pricehistory.app
+- pricehistoryapp.com
+- www.pricehistoryapp.com
+
+---
+
+## GAMING PRICE TRACKING
+
+### CheapShark
+- cheapshark.com
+- www.cheapshark.com
+- api.cheapshark.com
+- apidocs.cheapshark.com
+
+### IsThereAnyDeal
+- isthereanydeal.com
+- www.isthereanydeal.com
+- api.isthereanydeal.com
+- docs.isthereanydeal.com
+- privacy.isthereanydeal.com
+- dev.isthereanydeal.com
+
+### GG.deals (formerly known as Salenauts)
+- gg.deals
+- www.gg.deals
+- api.gg.deals
+- cdn.gg.deals
+- img.gg.deals
+- salenauts.com
+- www.salenauts.com
+- forum.gg.deals
+
+---
+
+## SAFE / RECOMMENDED — Less Invasive
+
+### Slickdeals (No Extension)
+- slickdeals.net
+- www.slickdeals.net
+- api.slickdeals.net
+- static.slickdeals.net
+- cdn.slickdeals.net
+- m.slickdeals.net
+- shopping-graph.slickdeals.net
+- slickdealscdn.com
+- js.slickdealscdn.com
+- static.slickdealscdn.com
+- css.slickdealscdn.com
+- sdurls.com
+
+### DealNews
+- dealnews.com
+- www.dealnews.com
+- clickserve.cc-dt.com
+- www.anrdoezrs.net
+
+### TechBargains
+- techbargains.com
+- www.techbargains.com
