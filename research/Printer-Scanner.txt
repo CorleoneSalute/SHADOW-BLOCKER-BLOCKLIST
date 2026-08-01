@@ -1,0 +1,453 @@
+# Printer & Scanner Research List
+
+---
+
+## 1. HP (HEWLETT-PACKARD)
+⚠️⚠️⚠️ MOST AGGRESSIVE CONSUMER TELEMETRY!
+
+**HP Core Telemetry & Cloud Services:**
+- hp.com
+- www.hp.com
+- welcome.hp.com
+- hpconnected.com
+- hpconnectedservices.com
+- hpconnectedsolutions.com
+- hpmarketingcloud.com
+- hp-ww.com
+- hponline.com
+- hp.net
+- kaas.hpcloud.hp.com
+
+**HP Instant Ink (DRM):**
+- instantink.hpconnected.com
+- instantink.hp.com
+- ink.hp.com
+- hppayments.com
+- instantink.com
+
+**HP Smart App & Mobile Services:**
+- hpsmartapp.com
+- hpsmart.com
+- hpsmart-web.com
+- hpsmart.net
+- api.hpsmart.com
+
+**HP Cloud Print Services:**
+- hpeprint.com
+- hpeprint.net
+- printos.com
+- printoscloud.com
+- hpcloudprint.com
+
+**HP Device Management & Diagnostics:**
+- deviceservices.ext.hp.com
+- printer-diagnostics.ext.hp.com
+- deviceservices.hp.com
+- diagnostics.hp.com
+
+**HP Firmware Update Servers:**
+- ftp.hp.com
+- ftp.ext.hp.com
+- h30632.www3.hp.com
+- update.hpconnected.com
+- firmware.hp.com
+- updates.hp.com
+
+**HP Support & Registration:**
+- register.hp.com
+- support.hp.com
+- h20566.www2.hp.com
+- h20614.www2.hp.com
+- h30495.www3.hp.com
+- h41370.www4.hp.com
+- warranty.hp.com
+- registration.hp.com
+
+**HP Analytics Endpoints:**
+- ssl.www8.hp.com
+- hpconnected-prod.com
+- hpconnected-cdn.com
+- hpwebservices.com
+- analytics.hp.com
+
+**HP Product Registration:**
+- productregistration.hp.com
+
+**HP Touchpoint Analytics:**
+- hptouchpoint.com
+- touchpointanalytics.hp.com
+
+---
+
+## 2. SAMSUNG PRINT
+⚠️ Acquired by HP (2017)
+
+**Samsung Print Services:**
+- samsung.com
+- samsungmobileprint.com
+- samsungprintservices.com
+- samsungcloudprint.com
+
+**Samsung Printer Diagnostics:**
+- spd.samsungprinter.com
+
+**Samsung Smart Printer App:**
+- smartdeviceapp.samsung.com
+- org.samsung.smartprinter
+---
+
+## 3. CANON
+
+**Canon Core Services:**
+- canon.com
+- www.canon.com
+- ij.start.canon
+- canon.net
+
+**Canon Cloud Services (PIXMA):**
+- pixma.canon.com
+- canonpixmacloud.com
+- canonwebservices.com
+- canoncloud.com
+- cs.c-ij.com
+
+**Canon Image Gateway:**
+- canon-ig.net
+- canon-image-gateway.com
+- imagegateway.net
+- ig.canon.com
+
+**Canon Mobile Print:**
+- canonprintservice.com
+- canon-printinkjet.com
+- canoninkjetprint.com
+- canonmobileprint.com
+
+**Canon Cloud Printing:**
+- canonijnetwork.com
+- canonij.net
+
+**Canon Firmware & Drivers:**
+- canondriver.com
+- canon-driver.com
+- download.canon.com
+- downloads.canon.com
+- downloads.cpp.canon
+
+**Canon Creative Park:**
+- creativepark.canon
+- creativepark.canon.com
+
+**Canon SELPHY (Consumer Photo Printer):**
+- selphy.canon.com
+
+**Canon MAXIFY (SOHO):**
+- maxify.canon.com
+
+**Canon eMaintenance & Telemetry:**
+- emaintenance.canon.com
+
+**Canon Print API:**
+- api.canon.com
+
+---
+
+## 4. EPSON
+
+**Epson Connect Services:**
+- epsonconnect.com
+- epsonconnect.eu
+- epsonconnect.jp
+- myepson.com
+- myepson.eu
+- myepson.jp
+- epsonconnect.us
+
+**Epson Remote Print:**
+- remoteprint.epson.com
+
+**Epson Email Print:**
+- emailprint.epson.com
+
+**Epson iPrint Mobile App:**
+- epsoniprint.com
+- iprint.epson.com
+- epsoniprint.net
+
+**Epson Cloud Services:**
+- epsoncloud.com
+- cloud.epson.com
+
+**Epson Core Telemetry:**
+- epson.com
+- epson.net
+- epson.eu
+- support.epson.com
+- download.epson.com
+- epson-europe.com
+- epson.co.uk
+- epson-usa.com
+- epson.ca
+
+**Epson Creative Print:**
+- epsoncreativeprint.com
+- creativeprint.epson.com
+
+**Epson ScanSmart:**
+- epsonscansmart.com
+- scansmart.epson.com
+
+**Epson Print & Scan App:**
+- epsonprintscan.com
+
+**Epson Analytics:**
+- epsonanalytics.com
+
+---
+
+## 5. BROTHER
+⚠️ 2026: Acquiring Mutoh Holdings
+
+**Brother Core Services:**
+- brother.com
+- brother-usa.com
+- brother.co.uk
+- brother.ca
+- brotherearth.com
+- brother.net
+
+**Brother Web Connect:**
+- brotherwebconnect.com
+- brotherwebconnect.net
+
+**Brother iPrint&Scan Mobile App:**
+- brother-iprint.com
+- brotheriprint.com
+- brothermobileconnect.com
+- iprintscan.brother.com
+
+**Brother Cloud Apps:**
+- brothercloud.com
+- cloud.brother.com
+
+**Brother Solutions Center:**
+- solutions.brother.com
+- support.brother.com
+- download.brother.com
+- downloads.brother.com
+
+**Brother Online Services:**
+- online.brother.com
+- online.brother.co.uk
+- registration.brother.com
+
+**Brother Creative Center:**
+- creativecenter.brother.com
+
+**Brother Print Service Plugin:**
+- brotherprintservice.com
+
+**Brother Label & Mobile Printer Services:**
+- brother-labelprint.com
+- brother-mobile.com
+- brotherlabelprinter.com
+
+---
+
+## 6. FUJITSU/PFU (SCANSNAP)
+⚠️ Acquired by Ricoh (100%, March 2025)
+
+**Fujitsu/PFU Core:**
+- pfu.ricoh.com
+- pfu.fujitsu.com
+- fujitsu-scansnap.com
+- scansnap.com
+
+**Fujitsu/PFU Account & Cloud Services:**
+- pfu.ricoh.com/imaging/ssacc
+- scansnap-faq.pfu.ricoh.com
+- pfu-us.ricoh.com
+
+**Fujitsu/PFU Legacy:**
+- fujitsu.com/global/products/computing/peripheral/scanners/scansnap/software/sscloud
+
+---
+
+## Scanner Manufacturers (Consumer / Prosumer)
+
+### PLUSTEK
+⚠️ Plustek eScan API (local network API) — no centralized Plustek cloud
+- plustek.com
+- escan.plustek.com
+- plustek.com/us
+- plustek.com/newmea
+
+### DOXIE (Apparent Corporation)
+⚠️ Merged with Kodak Alaris (June 2024)
+⚠️ No cloud service — third-party cloud sync via local software
+- getdoxie.com
+- help.getdoxie.com
+
+### PENPOWER
+- penpowerinc.com
+- penpower.net
+- worldcardcloud.com
+- worldcardteam.com
+- wcsf.penpower.net
+- evolaclass.com
+- wps.evolaclass.com
+
+### NEAT COMPANY
+⚠️ Hardware discontinued (2016), legacy software discontinued (2015)
+- neat.com
+- cloud.neat.com
+- support.neat.com
+- @neatcloud.com (email-to-scan service)
+
+### VISIONEER
+⚠️ Uses Avision infrastructure — no proprietary Visioneer cloud
+- visioneer.com
+- xeroxscanners.com
+- xeroxscanners.com/support
+- visioneer.com/support
+
+### CZUR
+⚠️ Chinese manufacturer — data sovereignty concerns
+⚠️ WiFi Cloud mode optional, USB mode fully offline
+- czur.com
+- www.czur.com
+- czur.cc
+- shop.czur.com
+- www.czur.cc
+- czur.com/support
+
+### MICROTEK
+⚠️ Legacy platform, declining
+⚠️ No cloud service — VueScan third-party drivers often needed
+- microtek.com
+- microtek.com.tw
+
+### RAVEN
+⚠️ Cloud service shut down (2023) — now only TWAIN driver, no cloud
+
+---
+
+## DYMO (Consumer Label Printer)
+
+**Dymo Services:**
+- dymo.com
+- labelwriter.com
+- developers.dymo.com
+- dymosoftware.github.io
+- download.dymo.com
+- help.dymo.com
+
+**Local DYMO Label Web Service:**
+- 127.0.0.1:41951
+- qajavascriptsdktests.azurewebsites.net
+
+---
+
+## Mobile Scanning Apps (Consumer)
+
+**Adobe Scan:**
+- adobe.com
+- acrobat.adobe.com
+- documentcloud.adobe.com
+- documentservices.adobe.com
+- assets.adobe.com
+- cc-api.adobe.com
+- adobe-identity.com
+- adobeid.com
+- adobelogin.com
+
+**Microsoft Lens (Office Lens):**
+- microsoft.com
+- office.com
+- onedrive.com
+- office365.com
+- microsoftonline.com
+- windows.net
+- azure.com
+
+**Google Drive Scan:**
+- google.com
+- drive.google.com
+- docs.google.com
+- googleapis.com
+- gstatic.com
+- googleusercontent.com
+
+**CamScanner**
+⚠️ Banned in India — security/privacy concerns
+- camscanner.com
+- intsig.com
+
+**Genius Scan:**
+- thegrizzlylabs.com
+- geniusscan.com
+
+**Scanner Pro (Readdle):**
+- readdle.com
+- scannerpro.com
+
+**Tiny Scanner:**
+- tinyscanner.com
+
+**TurboScan**
+⚠️ Offline-capable app
+- turboscanapp.com
+
+**Clear Scanner:**
+- clearscanner.com
+
+**Scanbot:**
+- scanbot.io
+- scanbot-sdk.com
+- document-api.scanbot.io
+
+**vFlat Scan:**
+- vflat.com
+
+**Notebloc:**
+- notebloc.com
+
+**SmartLens:**
+- smartlens.app
+
+**DocScanner:**
+- docscanner.app
+
+---
+
+## Consumer Photo Print Services
+
+**Shutterfly:**
+- shutterfly.com
+- shutterflystatic.com
+- shutterfly-content.com
+- shutterflybusinesssolutions.com
+- ws.shutterfly.com
+- api2.shutterfly.com
+
+**Snapfish (HP-owned / Shutterfly):**
+- snapfish.com
+- snapfish.net
+- snapfish.co.uk
+- snapfish.eu
+- snapfish.jp
+- sf-cdn.com
+- developer.snapfish.com
+- api.snapfish.com
+
+**Walgreens Photo:**
+- photo.walgreens.com
+- walgreensphotoservices.com
+- photos.walgreens.com
+- api.walgreens.com
+
+**CVS Photo:**
+- cvs.com/photo
+- photos.cvs.com
+- photo.cvs.com
+- photoprintsnow.com
