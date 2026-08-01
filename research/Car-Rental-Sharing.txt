@@ -1,0 +1,1449 @@
+CAR RENTAL & CAR SHARING RESEARCH LIST
+
+# 🚗 MAJOR CAR RENTAL COMPANIES
+
+## ENTERPRISE HOLDINGS — Enterprise, National, Alamo ⚠️⚠️⚠️⚠️⚠️
+
+Core
+
+- enterprise.com
+- www.enterprise.com
+- enterpriserentacar.com
+
+National Car Rental
+
+- nationalcar.com
+- www.nationalcar.com
+
+Alamo
+
+- alamo.com
+- www.alamo.com
+
+Telemetry & Analytics
+
+- enterprise-analytics.com
+- ehi-analytics.com
+- analytics.enterprise.com
+
+API
+
+- api.enterprise.com
+- developer.ehi.com
+- developer-beta.ehi.com
+
+Enterprise CarShare
+
+- enterprisecarshare.com
+
+---
+
+## HERTZ ⚠️⚠️⚠️⚠️⚠️
+
+Core
+
+- hertz.com
+- www.hertz.com
+
+Telemetry & Analytics
+
+- hertz-analytics.com
+- hertztrack.com
+- analytics.hertz.com
+- tracking.hertz.com
+
+API
+
+- api.hertz.com
+- api.hertz.io
+- ecom.mss.hertz.io
+- auth.hertz.com
+
+Email / Marketing
+
+- click.emails.hertz.com
+- emails.hertz.com
+- image.emails.hertz.com
+
+Images / CDN
+
+- images.hertz.com
+
+Other
+
+- hts.hertz.com
+
+Dollar (Hertz-owned)
+
+- dollar.com
+- www.dollar.com
+
+Thrifty (Hertz-owned)
+
+- thrifty.com
+- www.thrifty.com
+
+Firefly (Hertz-owned)
+
+- fireflycarrental.com
+- fireflycarrental.co.za
+
+Hertz 24/7 (Carsharing)
+
+- hertz247.com
+- www.hertz247.com
+- hertz247.com.au
+- booking.hertz247.com
+
+---
+
+## AVIS BUDGET GROUP ⚠️⚠️⚠️⚠️⚠️
+
+Avis
+
+- avis.com
+- www.avis.com
+
+Telemetry & Analytics
+
+- avis-analytics.com
+- analytics.avis.com
+
+API
+
+- api.avis.com
+- developer.avis.com
+- stage.abgapiservices.com
+- devportal.dev.apps.api-np.abgapiservices.com
+
+Budget (Avis-owned)
+
+- budget.com
+- www.budget.com
+- api.budget.com
+
+Budget Middle East / Saudi Arabia
+
+- budgetsaudi.com
+- www.budgetsaudi.com
+- budget-arabia.com
+- www.budget-arabia.com
+
+Corporate
+
+- avisbudgetgroup.com
+
+Payless (Avis Budget owned)
+
+- paylesscar.com
+- www.paylesscar.com
+
+Maggiore Rent (Avis-owned, Italy)
+
+- maggiore.it
+- www.maggiore.it
+- quickpass.maggiore.it
+
+---
+
+## SIXT ⚠️⚠️⚠️⚠️
+
+Core
+
+- sixt.com
+- www.sixt.com
+
+Telemetry & Analytics
+
+- sixt-analytics.com
+- analytics.sixt.com
+
+API
+
+- api.sixt.com
+- developers.sixt.com
+- web-api.orange.sixt.com
+- mobile-api.orange.sixt.com
+- api-stage.goorange.sixt.com
+- sixtbook.sixt.com
+- api.sixtbook.sixt.com
+
+Images / CDN
+
+- img.sixt.com
+
+Corporate
+
+- corporate.sixt.com
+- etihad.sixt.com
+
+Regional
+
+- sixt.de
+- sixt.co.uk
+
+Flizzr (SIXT brand)
+
+- flizzr.com
+- flizzrcarhire.com
+
+SIXT+ (Car Subscription)
+
+- sixtplus.com
+- sixtplus.ee
+- sixtplus.lt
+- sixtplus.lv
+
+---
+
+## EUROPCAR / GOLDCAR / DRIVALIA ⚠️⚠️⚠️⚠️
+
+Europcar
+
+- europcar.com
+- www.europcar.com
+- api.europcar.com
+- europcar.com.au
+
+Goldcar (Europcar Group)
+
+- goldcar.es
+- goldcar.com
+- goldcarhelp.com
+- wsgw.goldcar.es
+
+Drivalia
+
+- drivalia.com
+- drivalia.es
+- drivalia.co.uk
+- eplushare.drivalia.com
+
+Ubeeqo (Europcar Mobility Group)
+
+- ubeeqo.com
+- ubeeqo.de
+- ubeeqo.ch
+- ubeeqo.be
+
+Interrent (Europcar brand)
+
+- interrent.com
+
+Keddy (Europcar brand)
+
+- keddy.com
+
+Buchbinder (Europcar Group — DACH/Italy)
+
+- buchbinder.de
+- www.buchbinder.de
+- at.buchbinder.de
+- hu.buchbinder.de
+
+TravelCar (Free2Move/Europcar — France)
+
+- travelcar.com
+- www.travelcar.com
+
+---
+
+## FOX RENT A CAR ⚠️⚠️⚠️
+
+- foxrentacar.com
+- www.foxrentacar.com
+
+---
+
+## ADVANTAGE RENT A CAR ⚠️⚠️⚠️
+
+- advantage.com
+- www.advantage.com
+- advantagerentacar.com
+
+---
+
+## ACE RENT A CAR ⚠️⚠️⚠️
+
+- acerentacar.com
+- www.acerentacar.com
+
+---
+
+## GREEN MOTION ⚠️⚠️⚠️
+
+- greenmotion.com
+- checkin.greenmotion.com
+
+---
+
+## AUTOHELLAS — Hertz Greece/Balkans ⚠️⚠️⚠️⚠️
+
+- autohellas.gr
+- www.autohellas.gr
+
+---
+
+## STARCAR — Germany ⚠️⚠️⚠️
+
+- starcar.de
+- www.starcar.de
+
+---
+
+## OKMOBILITY — Spain/Portugal/Italy ⚠️⚠️⚠️⚠️
+
+- okmobility.com
+- www.okmobility.com
+- corporate.okmobility.com
+
+---
+
+## CENTAURO RENT A CAR — Spain/Italy/Portugal/Greece ⚠️⚠️⚠️⚠️
+
+- centauro.net
+- www.centauro.net
+
+---
+
+## LOCAUTO — Italy ⚠️⚠️⚠️
+
+- locautorent.com
+- www.locautorent.com
+
+---
+
+## SICILY BY CAR — Italy ⚠️⚠️⚠️
+
+- sicilybycar.it
+- www.sicilybycar.it
+
+---
+
+## CICAR — Canary Islands ⚠️⚠️⚠️⚠️
+
+- cicar.com
+- www.cicar.com
+
+---
+
+## AUTOREISEN — Canary Islands ⚠️⚠️⚠️⚠️
+
+- autoreisen.com
+- www.autoreisen.com
+
+---
+
+## VIRTUO — App-based Rental ⚠️⚠️⚠️
+
+- govirtuo.com
+- virtuo.com
+
+---
+
+# LATIN AMERICA RENTALS
+
+## LOCALIZA — Brazil ⚠️⚠️⚠️⚠️⚠️
+
+- localiza.com
+
+---
+
+## MOVIDA — Brazil ⚠️⚠️⚠️⚠️⚠️
+
+- movida.com.br
+- ri.movida.com.br
+- app.movida.com.br
+
+---
+
+## UNIDAS / OURO VERDE — Brazil (Localiza owned) ⚠️⚠️⚠️⚠️
+
+- unidas.com.br
+- ouroverde.com.br
+
+---
+
+# ASIA-PACIFIC RENTALS
+
+## ZOOMCAR — India ⚠️⚠️⚠️⚠️
+
+- zoomcar.com
+- api.zoomcar.com
+
+---
+
+## EHI CAR SERVICES — China ⚠️⚠️⚠️⚠️
+
+- en.1hai.cn
+- 1hai.cn
+
+---
+
+## CAR INC. / 神州租车 — China ⚠️⚠️⚠️⚠️⚠️
+
+- zuche.com
+- www.zuche.com
+- ir.zuche.com
+
+---
+
+## SHOUQI CAR RENTAL / 首汽租车 — China ⚠️⚠️⚠️⚠️⚠️
+
+- izuche.com
+- www.izuche.com
+- shouqi-zc.com
+
+---
+
+## ORIX RENT-A-CAR — Japan ⚠️⚠️⚠️⚠️
+
+- car.orix.co.jp
+- orix.co.jp
+
+---
+
+## TOYOTA RENT-A-CAR — Japan ⚠️⚠️⚠️⚠️
+
+- rent.toyota.co.jp
+- toyotarentacar.net
+- toyotarenta.com
+- toyotarentcar.net
+
+---
+
+## NIPPON RENT-A-CAR — Japan ⚠️⚠️⚠️⚠️
+
+- nipponrentacar.co.jp
+- www.nipponrentacar.co.jp
+
+---
+
+## TIMES CAR — Japan ⚠️⚠️⚠️⚠️
+
+- timescar-rental.com
+- www.timescar-rental.com
+- timescar.jp
+
+---
+
+## LOTTE RENT-A-CAR / GREEN CAR — South Korea ⚠️⚠️⚠️⚠️⚠️
+
+- lotterental.com
+- www.lotterental.com
+- lotterentacar.net
+- www.lotterentacar.net
+- greencar.co.kr
+- www.greencar.co.kr
+- gcar.co.kr
+- www.gcar.co.kr
+
+---
+
+## IRENT — Taiwan (Hotai/Toyota) ⚠️⚠️⚠️⚠️⚠️
+
+- easyrent.com.tw
+- www.easyrent.com.tw
+
+---
+
+## GOSMART / CARPLUS — Taiwan (Yulon/Nissan) ⚠️⚠️⚠️⚠️
+
+- carplus.com.tw
+- www.carplus.com.tw
+- gosmart.com.tw
+
+---
+
+## CARZONRENT — India ⚠️⚠️⚠️⚠️
+
+- carzonrent.com
+- www.carzonrent.com
+- insta.carzonrent.com
+
+---
+
+## MYLESCARS / MYLES — India (Carzonrent) ⚠️⚠️⚠️⚠️
+
+- mylescars.com
+- www.mylescars.com
+
+---
+
+## ECO RENT A CAR — India ⚠️⚠️⚠️
+
+- ecorentacar.com
+- www.ecorentacar.com
+
+---
+
+## REVV — India ⚠️⚠️⚠️⚠️
+
+- revv.co.in
+- www.revv.co.in
+
+---
+
+## SOCAR — Malaysia ⚠️⚠️⚠️⚠️
+
+- socar.my
+- www.socar.my
+
+---
+
+## GOCAR — Malaysia ⚠️⚠️⚠️⚠️
+
+- gocar.my
+- new.gocar.my
+- discover.gocar.my
+- gocarhelp.zendesk.com
+
+---
+
+## TREVO — Malaysia ⚠️⚠️⚠️⚠️
+
+- trevo.my
+- www.trevo.my
+
+---
+
+## DRIVELAH — Singapore/Australia ⚠️⚠️⚠️⚠️
+
+- drivelah.sg
+- www.drivelah.sg
+- drivemate.au
+- www.drivemate.au
+
+---
+
+## GETGO — Singapore ⚠️⚠️⚠️⚠️
+
+- getgo.sg
+- www.getgo.sg
+
+---
+
+## TRIBECAR — Singapore ⚠️⚠️⚠️
+
+- tribecar.com
+- www.tribecar.com
+
+---
+
+## BLUESG — Singapore ⚠️⚠️⚠️⚠️
+
+SUSPENDED August 2025 — relaunch 2026 planned
+
+- bluesg.com.sg
+- www.bluesg.com.sg
+
+---
+
+## HAUPCAR — Thailand ⚠️⚠️⚠️
+
+- haupcar.com
+- www.haupcar.com
+
+---
+
+# MIDDLE EAST RENTALS
+
+## THEEB RENT A CAR — Saudi Arabia ⚠️⚠️⚠️⚠️
+
+- theeb.com.sa
+- theebsaudia.com
+- theebonline.com
+- www.theebonline.com
+
+---
+
+## LUMI RENTAL — Saudi Arabia ⚠️⚠️⚠️⚠️
+
+- lumirental.com
+- www.lumirental.com
+
+---
+
+## FAST RENT A CAR — UAE ⚠️⚠️⚠️⚠️
+
+- fastuae.com
+- www.fastuae.com
+
+---
+
+## HANCO — Saudi Arabia ⚠️⚠️⚠️
+
+- myhanco.com
+- www.myhanco.com
+- hancoworld.com
+
+---
+
+## FINALRENTALS — Saudi Arabia/Middle East ⚠️⚠️⚠️
+
+- finalrentals.com
+- www.finalrentals.com
+
+---
+
+## EZHIRE — UAE/GCC ⚠️⚠️⚠️⚠️
+
+- ezhire.ae
+- www.ezhire.ae
+- ezhire.life
+
+---
+
+## MOOV BY AL-FUTTAIM — UAE ⚠️⚠️⚠️⚠️
+
+- moovbyalfuttaim.com
+- www.moovbyalfuttaim.com
+- subscription.moovbyalfuttaim.com
+
+---
+
+# AUSTRALIA / NEW ZEALAND RENTALS
+
+## AVIS AUSTRALIA ⚠️⚠️⚠️⚠️
+
+- avis.com.au
+
+---
+
+## BUDGET AUSTRALIA ⚠️⚠️⚠️⚠️
+
+- budget.com.au
+
+---
+
+## THRIFTY AUSTRALIA ⚠️⚠️⚠️⚠️
+
+- thrifty.com.au
+- apps.thrifty.com.au
+- bluechip.thrifty.com.au
+
+---
+
+## EUROPCAR AUSTRALIA ⚠️⚠️⚠️⚠️
+
+- europcar.com.au
+
+---
+
+## REDSPOT — Enterprise owned ⚠️⚠️⚠️
+
+- redspot.com.au
+
+---
+
+## EAST COAST CAR RENTALS ⚠️⚠️⚠️
+
+- eastcoastcarrentals.com.au
+
+---
+
+## JUCY ⚠️⚠️⚠️
+
+- rentals.api.jucy.cloud
+- jucy.com
+- jucy.co.nz
+
+---
+
+## GOGET — Australia ⚠️⚠️⚠️⚠️
+
+- goget.com.au
+- www.goget.com.au
+
+---
+
+# AFRICA RENTALS
+
+## TEMPEST CAR HIRE — South Africa ⚠️⚠️⚠️⚠️
+
+- tempestcarhire.co.za
+- www.tempestcarhire.co.za
+
+---
+
+## BIDVEST / BLUU CAR RENTAL — South Africa ⚠️⚠️⚠️⚠️
+
+- bidvestcarrental.co.za
+- www.bidvestcarrental.co.za
+- bluucarrental.co.za
+- www.bluucarrental.co.za
+
+---
+
+## FIRST CAR RENTAL — South Africa ⚠️⚠️⚠️⚠️
+
+- firstcarrental.co.za
+- www.firstcarrental.co.za
+
+---
+
+# 🚙 CAR SHARING PLATFORMS
+
+## ZIPCAR — Avis Budget ⚠️⚠️⚠️⚠️⚠️
+
+Core
+
+- zipcar.com
+- www.zipcar.com
+
+API
+
+- api.zipcar.com
+- zipcarapi.com
+
+Telemetry & Analytics
+
+- zipcar-analytics.com
+- analytics.zipcar.com
+- tracking.zipcar.com
+
+Mobile
+
+- m.zipcar.com
+- app.zipcar.com
+
+Support
+
+- owa.zipcar.com
+- support.zipcar.com
+
+---
+
+## TURO — Peer-to-Peer ⚠️⚠️⚠️⚠️⚠️
+
+Core
+
+- turo.com
+- www.turo.com
+
+API
+
+- api.turo.com
+- turoapi.com
+
+Telemetry & Analytics
+
+- turo-analytics.com
+- analytics.turo.com
+- tracking.turo.com
+
+CDN
+
+- cdn.turo.com
+- images.turo.com
+
+---
+
+## GETAROUND — formerly DriveMate + Drivy EU ⚠️⚠️⚠️⚠️⚠️
+
+NOTE: US operations ceased 2025 — Europe only
+
+Core
+
+- getaround.com
+- www.getaround.com
+
+API
+
+- api.getaround.com
+- api.sensordb.connect.getaround.com
+
+Telemetry & Analytics
+
+- getaround-analytics.com
+- analytics.getaround.com
+
+Drivy (EU brand, acquired 2019)
+
+- drivy.com
+- getaround.tech
+- drivy-test.imgix.net
+- drivy-prod-static.s3.amazonaws.com
+
+Nabobil (Norway — Getaround)
+
+- nabobil.no
+- www.nabobil.no
+
+---
+
+## FREE2MOVE — Stellantis ⚠️⚠️⚠️⚠️⚠️
+
+Merged with Share Now/Car2Go 2024
+
+- free2move.com
+- partner.free2move.com
+- docs.partner.free2move.com
+- carondemand.free2move.com
+
+Share Now / Car2Go (merged)
+
+- car2go.com
+- sharenow.com
+- share-now.com
+- www.sharenow.com
+- api.sharenow.com
+
+---
+
+## MAVEN — GM ⚠️⚠️⚠️⚠️
+
+PLATFORM CLOSED 2020
+
+- maven.com
+
+---
+
+## AVAIL CAR SHARING ⚠️⚠️⚠️⚠️
+
+- availcarsharing.com
+- www.availcarsharing.com
+
+---
+
+## MILES MOBILITY — Germany (acquired WeShare) ⚠️⚠️⚠️⚠️
+
+- miles-mobility.com
+- www.miles-mobility.com
+
+---
+
+## WESHARE — VW (Defunct 2024, merged to Miles) ⚠️⚠️⚠️⚠️
+
+- we-share.io
+- mos-p-euw-weshare-apm.azure-api.net
+
+---
+
+## ZITY / MOBILIZE SHARE — Renault ⚠️⚠️⚠️⚠️
+
+- zity.eco
+- zitycar.es
+- mobilize.com
+
+---
+
+## WIBLE — Kia/Repsol, Spain ⚠️⚠️⚠️
+
+- wible.es
+
+---
+
+## CAMBIO CARSHARING — Germany/Belgium ⚠️⚠️⚠️⚠️
+
+- cambio-carsharing.de
+- cambio.be
+- api.cambio-carsharing.de
+
+---
+
+## EVO CARSHARING — BCAA, Canada ⚠️⚠️⚠️⚠️
+
+- evo.ca
+- www.evo.ca
+
+---
+
+## COMMUNAUTO — Canada/France ⚠️⚠️⚠️⚠️
+
+- communauto.com
+- montreal.communauto.com
+- quebec.communauto.com
+- ontario.communauto.com
+- faq.communauto.com
+
+---
+
+## MODO CO-OP — Vancouver ⚠️⚠️⚠️⚠️
+
+- modo.coop
+- www.modo.coop
+- bookit.modo.coop
+
+---
+
+## GREENMOBILITY — Denmark/Finland/Belgium ⚠️⚠️⚠️⚠️
+
+- greenmobility.com
+- www.greenmobility.com
+- greenmobility.elevio.help
+
+---
+
+## SNAPPCAR — Europcar Group/AutoBinck ⚠️⚠️⚠️
+
+- snappcar.nl
+- snappcar.de
+- jobs.snappcar.nl
+
+Tamyca (acquired by SnappCar 2017)
+
+- tamyca.de
+- www.tamyca.de
+- tamyca.com
+
+---
+
+## MYWHEELS — Netherlands ⚠️⚠️⚠️
+
+- mywheels.nl
+- www.mywheels.nl
+
+ConnectCar (acquired by MyWheels 2022)
+
+- connectcar.nl
+
+Amber (acquired by MyWheels 2024)
+
+- driveamber.com
+- www.driveamber.com
+
+---
+
+## GIG CAR SHARE — AAA, California ⚠️⚠️⚠️⚠️
+
+PLATFORM CLOSED DECEMBER 5, 2024
+
+- gigcarshare.com
+
+---
+
+## SOCAR — South Korea ⚠️⚠️⚠️⚠️
+
+- socar.kr
+
+---
+
+## GREENGO — Budapest ⚠️⚠️⚠️
+
+- greengo.hu
+- greengo.com
+
+---
+
+## KINTO / KINTO SHARE — Toyota ⚠️⚠️⚠️⚠️⚠️
+
+- kinto-mobility.com
+- kinto-mobility.eu
+- kinto-us.com
+
+---
+
+## SILVERCAR / AUDI ON DEMAND ⚠️⚠️⚠️⚠️
+
+PLATFORM CLOSED SEPTEMBER 30, 2024
+
+- silvercar.com
+- audiondemand.com
+- app.audiondemand.com
+- silvercar.zendesk.com
+- silvercarinc.com
+
+---
+
+## YANDEX DRIVE — Russia ⚠️⚠️⚠️⚠️⚠️
+
+- drive.yandex.ru
+
+---
+
+## DELIMOBIL — Russia ⚠️⚠️⚠️⚠️⚠️
+
+- delimobil.ru
+- www.delimobil.ru
+
+Anytime (Delimobil franchise — CZ/BY)
+
+- anytimecar.cz
+- www.anytimecar.cz
+- anytimecar.global
+- anytime.global
+
+---
+
+## EKAR — UAE/KSA ⚠️⚠️⚠️⚠️
+
+- ekar.app
+- ekar.me
+- www.ekar.me
+
+---
+
+## UDRIVE — UAE ⚠️⚠️⚠️⚠️
+
+- udrive.ae
+- www.udrive.ae
+
+---
+
+## IDRIVE — KSA ⚠️⚠️⚠️⚠️
+
+- idrive.com.sa
+
+---
+
+## CITYBEE — Lithuania/Latvia/Estonia ⚠️⚠️⚠️⚠️
+
+- citybee.lt
+- www.citybee.lt
+- citybee.lv
+- www.citybee.lv
+- citybee.ee
+
+---
+
+## POPPY — Belgium/Spain ⚠️⚠️⚠️⚠️
+
+- poppy.be
+- www.poppy.be
+- poppymobility.com
+
+---
+
+## MOL LIMO — Hungary/Central Europe ⚠️⚠️⚠️
+
+- mollimo.hu
+- www.mollimo.hu
+
+---
+
+## CO-WHEELS — UK ⚠️⚠️⚠️
+
+- co-wheels.org.uk
+
+---
+
+## GOCAR — Ireland ⚠️⚠️⚠️
+
+- gocar.ie
+
+---
+
+## MEVO — New Zealand ⚠️⚠️⚠️
+
+- mevo.co.nz
+- www.mevo.co.nz
+
+---
+
+## AWTO — Chile/Latin America ⚠️⚠️⚠️
+
+- awto.cl
+- www.awto.cl
+
+---
+
+## TURBI — Brazil ⚠️⚠️⚠️
+
+- turbi.com.br
+- www.turbi.com.br
+
+---
+
+## GOTO GLOBAL MOBILITY — Italy/Middle East ⚠️⚠️⚠️
+
+- gotoglobal.com
+- www.gotoglobal.com
+
+Autotel (Israel — GoTo Global)
+
+- autotel.co.il
+- www.autotel.co.il
+
+---
+
+## GOFUN — China (Shouqi Group) ⚠️⚠️⚠️⚠️
+
+- gofun.cn
+
+---
+
+## EVCARD — China (SAIC Motors) ⚠️⚠️⚠️⚠️⚠️
+
+- evcard.com.cn
+
+---
+
+## STADTMOBIL — Germany ⚠️⚠️⚠️⚠️
+
+- stadtmobil.de
+- www.stadtmobil.de
+- stuttgart.stadtmobil.de
+- karlsruhe.stadtmobil.de
+- berlin.stadtmobil.de
+- hannover.stadtmobil.de
+- rhein-neckar.stadtmobil.de
+- rhein-main.stadtmobil.de
+- rhein-ruhr.stadtmobil.de
+
+---
+
+## FLINKSTER — Germany (Deutsche Bahn) ⚠️⚠️⚠️⚠️
+
+CLOSED early 2025
+
+- flinkster.de
+- www.flinkster.de
+
+---
+
+## GREENWHEELS — Netherlands/Germany ⚠️⚠️⚠️⚠️
+
+- greenwheels.com
+- www.greenwheels.com
+- greenwheels.nl
+- www.greenwheels.nl
+
+---
+
+## TEILAUTO — Germany ⚠️⚠️⚠️
+
+- teilauto.net
+- www.teilauto.net
+
+---
+
+## ENJOY CARSHARING — ENI, Italy ⚠️⚠️⚠️⚠️
+
+- enjoy.eni.com
+- enjoy.it
+- www.enjoy.it
+
+---
+
+## TRAFICAR — Poland ⚠️⚠️⚠️⚠️
+
+- traficar.pl
+- www.traficar.pl
+
+---
+
+## CITIZ — France ⚠️⚠️⚠️⚠️
+
+- citiz.coop
+- www.citiz.coop
+- citiz.info
+
+---
+
+## MOBILITY COOPERATIVE — Switzerland ⚠️⚠️⚠️⚠️
+
+- mobility.ch
+- www.mobility.ch
+
+---
+
+## GOMORE — Denmark/Sweden/Spain/Finland/Switzerland/Austria ⚠️⚠️⚠️⚠️
+
+- gomore.dk
+- www.gomore.dk
+- gomore.se
+- gomore.es
+- gomore.fi
+- gomore.ch
+- gomore.at
+
+---
+
+## OUICAR — France (SNCF) ⚠️⚠️⚠️⚠️
+
+- ouicar.fr
+- www.ouicar.fr
+- support.ouicar.fr
+
+---
+
+## HIYACAR — UK ⚠️⚠️⚠️
+
+- hiyacar.co.uk
+- www.hiyacar.co.uk
+
+---
+
+## KOOLICAR — France ⚠️⚠️⚠️⚠️
+
+- koolicar.com
+- www.koolicar.com
+
+---
+
+## AUTING — Italy ⚠️⚠️⚠️
+
+- auting.it
+- www.auting.it
+- scopri.auting.it
+
+---
+
+## PANEK — Poland ⚠️⚠️⚠️
+
+- panek.mobi
+
+---
+
+## 4MOBILITY — Poland (PGE) ⚠️⚠️⚠️⚠️
+
+- 4mobility.pl
+- www.4mobility.pl
+
+---
+
+## BILKOLLEKTIVET — Norway ⚠️⚠️⚠️
+
+- bilkollektivet.no
+- www.bilkollektivet.no
+
+---
+
+## VOLTIO — Spain (Mutua Madrilena) ⚠️⚠️⚠️⚠️
+
+- voltio.com
+- www.voltio.com
+
+---
+
+## GUPPY — Spain ⚠️⚠️⚠️
+
+- guppy.es
+- www.guppy.es
+
+---
+
+## AIMOSHARE — Sweden/Finland ⚠️⚠️⚠️⚠️
+
+Sweden subscription closed Feb 2026
+
+- aimoshare.se
+- www.aimoshare.se
+- aimosubscription.se
+
+---
+
+## SPARK CARSHARING — Bulgaria/Lithuania ⚠️⚠️⚠️⚠️
+
+- spark.bg
+- www.spark.bg
+- spark.lt
+- www.spark.lt
+
+---
+
+## MOVE ABOUT GROUP — Scandinavia ⚠️⚠️⚠️⚠️
+
+- moveaboutgroup.com
+- www.moveaboutgroup.com
+- moveabout.net
+- www.moveabout.net
+
+---
+
+## DEER MOBILITY — Germany ⚠️⚠️⚠️⚠️
+
+- deer-mobility.de
+- www.deer-mobility.de
+- deer-sharing.de
+
+---
+
+## IMOVE — Norway/Sweden ⚠️⚠️⚠️⚠️
+
+- imove.no
+- www.imove.no
+- imove.se
+- www.imove.se
+
+---
+
+## SHARETOO — Austria (Porsche Bank/VW Group) ⚠️⚠️⚠️
+
+- sharetoo.at
+- www.sharetoo.at
+- sharetoo.porschebank.com
+
+---
+
+## DRIVEMYCAR — Switzerland ⚠️⚠️⚠️
+
+- drivemycar.ch
+- www.drivemycar.ch
+
+---
+
+## LEO&GO — France/Canada (Vulog) ⚠️⚠️⚠️⚠️
+
+- leoandgo.com
+- www.leoandgo.com
+
+---
+
+## RULLA — Sweden ⚠️⚠️⚠️
+
+- rulla.se
+- www.rulla.se
+
+---
+
+## YOYO — Turkey/Bahrain ⚠️⚠️⚠️
+
+- driveyoyo.com
+- www.driveyoyo.com
+
+---
+
+## TIKTAK — Turkey ⚠️⚠️⚠️⚠️
+
+- tiktakkirala.com
+- www.tiktakkirala.com
+
+GetirArac (merged into TikTak Oct 2025)
+
+- getirarac.com
+- www.getirarac.com
+
+---
+
+## GETMANCAR — Ukraine/Georgia/Moldova/Germany/Romania/Qatar ⚠️⚠️⚠️⚠️
+
+- getmancar.com
+- www.getmancar.com
+
+---
+
+## FRIENDYCAR — Egypt/UAE ⚠️⚠️⚠️
+
+- friendycar.com
+- www.friendycar.com
+
+---
+
+## EJARO — Saudi Arabia/GCC ⚠️⚠️⚠️⚠️
+
+- ejaro.com
+- www.ejaro.com
+- engineering.ejaro.com
+
+---
+
+## PUNTO — Mexico ⚠️⚠️⚠️
+
+- punto.app
+- www.punto.app
+
+---
+
+## KEKO — Argentina/Mexico ⚠️⚠️⚠️
+
+- kekoapp.co
+- www.kekoapp.co
+- kekoar.com
+- kekomx.com
+
+---
+
+## DRIVANA — Mexico ⚠️⚠️⚠️
+
+- drivana.mx
+- www.drivana.mx
+
+---
+
+## BEEPY — Mexico ⚠️⚠️⚠️
+
+- beepy.mx
+- www.beepy.mx
+
+---
+
+## MAZMOBI — Mexico ⚠️⚠️⚠️
+
+- maz.mobi
+- www.maz.mobi
+
+---
+
+## EVIE CARSHARE — USA, Minnesota/HOURCAR ⚠️⚠️⚠️
+
+- eviecarshare.com
+- www.eviecarshare.com
+- map.eviecarshare.com
+
+---
+
+## BLINK MOBILITY / ENVOY — USA ⚠️⚠️⚠️⚠️
+
+- blinkmobility.com
+- www.blinkmobility.com
+- envoytech.com
+- www.envoytech.com
+
+---
+
+## COLORADO CARSHARE / EGO CARSHARE — USA ⚠️⚠️⚠️
+
+- carshare.org
+- www.carshare.org
+
+---
+
+## HUI CAR SHARE — Hawaii ⚠️⚠️⚠️
+
+- drivehui.com
+- www.drivehui.com
+
+---
+
+## FLEXCLUB — South Africa ⚠️⚠️⚠️
+
+- flexclub.co.za
+- www.flexclub.co.za
+
+---
+
+## PEG CITY CAR CO-OP — Canada, Winnipeg ⚠️⚠️⚠️
+
+- pegcitycarcoop.ca
+- www.pegcitycarcoop.ca
+
+---
+
+## REGINA CAR SHARE CO-OPERATIVE — Canada, Saskatchewan ⚠️⚠️⚠️
+
+- reginacarshare.ca
+- www.reginacarshare.ca
+
+---
+
+# 🚗 CAR SUBSCRIPTION PLATFORMS
+
+## FINN — Germany/USA ⚠️⚠️⚠️⚠️⚠️
+
+- finn.com
+- www.finn.com
+- finn.auto
+- www.finn.auto
+
+---
+
+## INVYGO — UAE/KSA/Qatar ⚠️⚠️⚠️⚠️
+
+- invygo.com
+- www.invygo.com
+
+---
+
+## KARMO — Australia ⚠️⚠️⚠️⚠️
+
+- karmo.co
+- www.karmo.co
+
+---
+
+## WAGONEX — UK ⚠️⚠️⚠️
+
+- wagonex.com
+- www.wagonex.com
