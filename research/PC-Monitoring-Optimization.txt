@@ -1,0 +1,1255 @@
+# PC MONITORING & OPTIMIZATION SOFTWARE RESEARCH LIST
+
+---
+
+## 🔴 SCAREWARE / JUNKWARE — MUST BLOCK
+
+### IOBit (Advanced SystemCare, Driver Booster…)
+**Category:** Aggressive PUP — China-based
+**Note:** PUP/Adware, bundleware. Flagged by Malwarebytes and Microsoft as `PUA:Win32/IObit`.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | iobit.com | |
+| 2 | iobituninstaller.com | |
+| 3 | cdn.iobit.com | |
+| 4 | update.iobit.com | |
+| 5 | download.iobit.com | |
+| 6 | secure.iobit.com | |
+| 7 | driverbooster.com | |
+| 8 | macbooster.com | |
+| 9 | smartdefrag.com | |
+| 10 | startmenu8.com | |
+| 11 | api.iobit.com | |
+| 12 | telemetry.iobit.com | |
+| 13 | iobit.net | |
+| 14 | iobit.org | |
+| 15 | advancedsystemcare.com | |
+| 16 | iobit-software.com | |
+| 17 | cloud.iobit.com | |
+| 18 | stats.iobit.com | |
+| 19 | macboost.net | |
+| 20 | macbooster.net | |
+| 21 | forums.iobit.com | |
+| 22 | asc55.iobit.com | ASC v5.5 update CDN |
+| 23 | idb.iobit.com | IObit driver database |
+| 24 | is360.iobit.com | IObit Security 360 |
+| 25 | asc.iobit.com | |
+| 26 | pf.iobit.com | Performance feature endpoint |
+| 27 | iunins.iobit.com | Uninstall service |
+| 28 | sd.iobit.com | Smart Defrag update |
+
+---
+
+### IOLO / RealDefense — ALL BRANDS
+**Category:** PC Optimizer / AV — Pasadena, CA
+**Note:** Owned by RealDefense LLC: System Mechanic, MyCleanPC, SUPERAntiSpyware, STOPzilla, GetMyDrivers, etc. All domains verified via the parent privacy policy.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | iolo.com | |
+| 2 | system-mechanic.com | |
+| 3 | cdn.iolo.com | |
+| 4 | telemetry.iolo.com | |
+| 5 | update.iolo.com | |
+| 6 | api.iolo.com | |
+| 7 | phoenix360.iolo.com | |
+| 8 | drivescrubber.com | |
+| 9 | iolosystem.com | iolo brand mirror site |
+| 10 | iolovpn.com | iolo VPN service |
+| 11 | realdefense.com | Holding company root domain |
+| 12 | realdefen.se | Shortened URL |
+| 13 | mycleanpc.com | MyCleanPC (classic scareware) |
+| 14 | mycleanid.com | Identity protection service |
+| 15 | mycleanmac.com | Mac cleaner |
+| 16 | mypasslock.com | Password manager |
+| 17 | getmydrivers.com | GetMyDrivers driver updater |
+| 18 | virusfix.com | |
+| 19 | cyberdefender.com | |
+| 20 | myhackedemail.com | |
+| 21 | warrantystar.com | |
+| 22 | myherotech.com | |
+| 23 | ustechsupport.com | |
+| 24 | superantispyware.com | Acquired 2023 |
+| 25 | stopzilla.com | Acquired 2021 — STOPzilla |
+| 26 | removemenow.com | Removal/privacy service |
+
+---
+
+### PC Matic / PC Pitstop
+**Category:** PC Optimizer / AV — USA
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | pcmatic.com | |
+| 2 | pcpitstop.com | |
+| 3 | cdn.pcmatic.com | |
+| 4 | api.pcmatic.com | |
+| 5 | telemetry.pcpitstop.com | |
+| 6 | docs.pcpitstop.com | |
+| 7 | partners.pcpitstop.com | |
+| 8 | consumer.pcpitstop.com | |
+| 9 | mkt.pcpitstop.com | |
+| 10 | knowledgebase.pcmatic.com | |
+
+---
+
+### Restoro / Reimage
+**Category:** Scareware — FTC fined $26M in 2024
+**Note:** FTC fined the company $26M USD in 2024 for fake system scans. Largely shut down; domains may still resolve.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | restoro.com | |
+| 2 | cdn.restoro.com | |
+| 3 | api.restoro.com | |
+| 4 | download.restoro.com | |
+| 5 | support.restoro.com | |
+| 6 | updates.restoro.com | |
+| 7 | reimage.com | |
+| 8 | reimageplus.com | |
+| 9 | reimage.zendesk.com | |
+| 10 | api.reimage.com | |
+| 11 | download.reimage.com | |
+| 12 | cdnrep.reimageplus.com | |
+| 13 | ukrep.reimage.com | |
+| 14 | cdnrep.efix.com | |
+| 15 | cdn.anti-toolbar.com | |
+| 16 | cdn.reimage.com | |
+| 17 | cdnrep.reimage.com | |
+| 18 | ru.reimageplus.com | |
+| 19 | es.reimageplus.com | |
+| 20 | www.reimage.com | |
+| 21 | help.reimageplus.com | |
+
+---
+
+### ReviverSoft (Avanquest)
+**Category:** PUP family — PC/Driver/Registry Reviver
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | reviversoft.com | |
+| 2 | registryreviver.com | |
+| 3 | pcreviver.com | |
+| 4 | driverreviver.com | |
+| 5 | macreviver.com | |
+| 6 | securityreviver.com | |
+| 7 | privacyreviver.com | |
+| 8 | diskreviver.com | |
+| 9 | instantsupportreviver.com | |
+| 10 | updatereviver.com | |
+| 11 | api.reviversoft.com | |
+| 12 | dl.reviversoft.com | |
+| 13 | update.reviversoft.com | |
+| 14 | support.reviversoft.com | |
+| 15 | generate.reviversoft.com | Avanquest "generate" service |
+| 16 | www.reviversoft.com.edgesuite.net | Akamai CDN endpoint |
+
+---
+
+### Systweak
+**Category:** PUP family — India
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | systweak.com | |
+| 2 | systweaksoftware.com | |
+| 3 | regcleanpro.com | |
+| 4 | advancedsystemoptimizer.com | |
+| 5 | duplicatefilesfixer.com | |
+| 6 | duplicatephotofixer.com | |
+| 7 | rightbackup.com | |
+| 8 | secure-system-services.com | |
+| 9 | analytics.systweak.com | |
+| 10 | cdn.systweak.com | |
+| 11 | advancedpccleanup.com | |
+
+---
+
+### Corel / WinZip / Alludo
+**Category:** Bloatware / Upsell
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | winzip.com | |
+| 2 | wzsus.com | |
+| 3 | winzipsystemtools.com | |
+| 4 | winzipcomputing.com | |
+| 5 | winzipdriver.com | |
+| 6 | winzipmac.com | |
+| 7 | download.winzip.com | |
+| 8 | apps.corel.com | |
+| 9 | mc.corel.com | |
+| 10 | alludo.com | Corel's new holding name (2022) |
+| 11 | kb.corel.com | Corel support KB |
+
+---
+
+### Uniblue
+**Category:** PUP suite — unmaintained since 2018
+**Note:** Abandoned software; domains may still resolve.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | uniblue.com | |
+| 2 | powersuite.com | |
+| 3 | driverscanner.com | |
+| 4 | registrybooster.com | |
+| 5 | speedupmypc.com | |
+| 6 | update.uniblue.com | |
+
+---
+
+### Slimware Utilities
+**Category:** Adware/PUP — SlimCleaner, DriverUpdate
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | slimwareutilities.com | |
+| 2 | slimcleaner.com | |
+| 3 | driverupdate.net | |
+| 4 | api.slimware.com | |
+| 5 | fixcleaner.com | |
+| 6 | recimg.com | |
+| 7 | slimcomputer.com | |
+| 8 | slimimage.com | |
+| 9 | slimdrivers.com | |
+
+---
+
+### Solvusoft (WinThruster / FileViewPro)
+**Category:** PUP — flagged as `PUA:Win32/Solvusoft`
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | solvusoft.com | |
+| 2 | winthruster.com | |
+| 3 | filesigcheck.com | |
+| 4 | driverdoc.com | |
+| 5 | fileviewpro.com | |
+| 6 | update.solvusoft.com | |
+| 7 | support.solvusoft.com | |
+| 8 | winsweeper.com | |
+| 9 | spaceseeker.com | |
+
+---
+
+### Auslogics (BoostSpeed / Driver Updater)
+**Category:** Adware/PUP
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | auslogics.com | |
+| 2 | auslogics.net | |
+| 3 | cdn.auslogics.com | |
+| 4 | updates.auslogics.com | |
+| 5 | tweakbit.com | |
+| 6 | telemetry.auslogics.com | |
+| 7 | boostspeed.auslogics.com | |
+| 8 | downloads.auslogics.com | |
+| 9 | forum.auslogics.com | |
+| 10 | support.auslogics.com | |
+
+---
+
+### RegCure / ParetoLogic
+**Category:** Scareware — 2020 class action lawsuit
+**Note:** ParetoLogic shut down following a 2020 FTC/class-action case. Domains may become active again.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | regcure.com | |
+| 2 | paretologic.com | |
+| 3 | installers.paretologic.com | |
+| 4 | techsupport.paretologic.com | |
+| 5 | pchealthadvisor.com | ParetoLogic PC Health Advisor |
+| 6 | filecure.com | ParetoLogic FileCure |
+| 7 | datarecoverydownload.com | ParetoLogic Data Recovery |
+
+---
+
+### Outbyte
+**Category:** Driver Updater / Optimizer — AppEsteem-listed
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | outbyte.com | |
+| 2 | support.outbyte.com | |
+| 3 | du.outbyte.com | |
+| 4 | outbyteapp.com | |
+| 5 | ws.driverhive.com | |
+| 6 | wiki-drivers.com | |
+| 7 | www.outbyte.com | |
+
+---
+
+### Fortect
+**Category:** Scareware / System Repair
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | fortect.com | |
+| 2 | postman.fortect.com | |
+| 3 | account.fortect.com | |
+| 4 | support.fortect.com | |
+| 5 | secure.fortect.com | |
+| 6 | www.fortect.com | |
+
+---
+
+### PCHelpSoft (Avanquest)
+**Category:** Driver Updater
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | pchelpsoft.com | |
+| 2 | support.pchelpsoft.com | |
+| 3 | www.pchelpsoft.com | |
+
+---
+
+### Misc Junkware
+**Category:** Various PUP / registry cleaners
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | bluesprig.com | |
+| 2 | jetclean.com | |
+| 3 | yamicsoft.com | |
+| 4 | ylcomputing.com | |
+| 5 | winutilities.com | |
+| 6 | pointstone.com | |
+| 7 | acelogix.com | |
+| 8 | eaaceutilities.com | |
+| 9 | macecraft.com | |
+| 10 | jv16powertools.com | |
+| 11 | registryeasy.com | |
+| 12 | registry-easy.com | |
+| 13 | topregistrycleaner.com | |
+| 14 | registrywinner.com | |
+| 15 | rosecitysoftware.com | |
+| 16 | tune-up.com | |
+| 17 | tuneup.com | |
+| 18 | simplepcoptimizer.com | |
+| 19 | www.simplepcoptimizer.com | |
+| 20 | simplediskoptimizer.com | |
+| 21 | www.simplediskoptimizer.com | |
+| 22 | kingshiper.com | |
+| 23 | www.kingshiper.com | |
+| 24 | totalcleaner.com | |
+| 25 | softuna.com | |
+| 26 | totalpccare.com | |
+| 27 | bit-guardian.com | |
+| 28 | support.bit-guardian.com | |
+| 29 | blog.bit-guardian.com | |
+| 30 | win-guardian.com | |
+| 31 | winriser.com | |
+| 32 | winguardian.net | |
+| 33 | speedoptimizer.com | |
+| 34 | speedbit.com | |
+| 35 | winspeedpro.com | |
+| 36 | fcleaner.com | |
+| 37 | argenteutilities.com | |
+| 38 | vitsoft.net | |
+| 39 | tweaknow.com | |
+| 40 | rabidcleaner.com | |
+| 41 | tweakbit.com | |
+| 42 | tweaking.com | |
+| 43 | gocleanpc.com | |
+| 44 | pccleaner.site | |
+| 45 | thecyberprotector.com | |
+| 46 | pccleanerpro.com | |
+| 47 | speedypcpro.com | |
+| 48 | pcperformer.com | |
+| 49 | performanceoptimizer.com | |
+| 50 | speedmaxpc.com | |
+| 51 | pcoptimizerpro.com | |
+| 52 | pctuneupmaestro.com | |
+| 53 | errorrepair.com | |
+| 54 | errorsmart.com | |
+| 55 | yourpcsolutions.com | |
+| 56 | speedituppro.com | |
+| 57 | pcfixspeed.com | |
+| 58 | pcrepairkit.com | |
+| 59 | defencebyte.com | |
+| 60 | defencebyte.net | |
+| 61 | kerish.org | |
+| 62 | kerishproducts.com | Kerish Doctor |
+| 63 | pegasun.com | Pegasun System Utilities |
+
+---
+
+## 🟠 DRIVER UPDATERS
+
+### Driver Update — General Scam List
+**Category:** Various PUP driver updaters
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | driverfix.com | |
+| 2 | drivereasy.com | |
+| 3 | easeware.com | |
+| 4 | driverturbo.com | |
+| 5 | driversupport.com | |
+| 6 | pcdrivershq.com | |
+| 7 | drivertoolkit.com | |
+| 8 | megaify.com | |
+| 9 | drivergenius.com | |
+| 10 | drivermax.com | |
+| 11 | driverhub.net | |
+| 12 | snappy-driver-installer.org | |
+| 13 | images.drivereasy.com | |
+| 14 | dow1.drivereasy.com | |
+| 15 | download.drivereasy.com | |
+| 16 | de.drivereasy.com | |
+| 17 | fr.drivereasy.com | |
+| 18 | app1.drivereasy.com | |
+| 19 | cdn.drivereasy.com | |
+| 20 | dow0.drivereasy.com | |
+| 21 | app.drivereasy.com | |
+| 22 | de.rc.drivereasy.com | |
+| 23 | online.drivereasy.com | |
+| 24 | store.drivereasy.com | |
+| 25 | drivernavigator.com | |
+| 26 | user.drivermax.com | |
+| 27 | innovative-sol.com | |
+| 28 | support.drivertoolkit.com | |
+| 29 | www.drivergenius.com | |
+| 30 | sdi-tool.org | |
+| 31 | glenn.delahoy.com | |
+| 32 | webapp.driversupport.com | |
+| 33 | accountportal.driversupport.com | |
+| 34 | driverscloud.com | |
+| 35 | driver-soft.com | |
+| 36 | drp.su | Legacy DriverPack Russia domain |
+| 37 | driverpack.io | DriverPack Solution — adware bundler |
+| 38 | biosagentplus.com | BIOSAgentPlus (eSupport) |
+
+---
+
+### eSupport.com / DriverAgent
+**Category:** Scam / privacy violation
+**Note:** Documented as an auto-billing enrollment trap.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | esupport.com | |
+| 2 | driveragent.com | |
+| 3 | secure.esupport.com | |
+| 4 | biosagentplus.com | |
+| 5 | registrywizard.com | |
+| 6 | undeleteplusapp.com | |
+| 7 | ioptimizer.com | |
+| 8 | support.driveragent.com | |
+
+---
+
+## 🟠 AV & GEN DIGITAL ECOSYSTEM (CCleaner, Norton, AVG)
+
+### CCleaner / Piriform / Avast
+**Category:** Cleaner — Gen Digital (NASDAQ: GEN)
+**Note:** 2017 supply-chain attack distributed the Floxif trojan. `avcdn.net` CDN is shared across Norton and AVG TuneUp.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | ccleaner.com | |
+| 2 | piriform.com | |
+| 3 | speccy.piriform.com | |
+| 4 | defraggler.com | |
+| 5 | ccleaner-update.com | |
+| 6 | api.ccleaner.com | |
+| 7 | tracking.ccleaner.com | |
+| 8 | stats.ccleaner.com | |
+| 9 | download.ccleaner.com | |
+| 10 | telemetry.ccleaner.com | |
+| 11 | analytics.ccleaner.com | |
+| 12 | smartcleaning.ccleaner.com | |
+| 13 | secure.ccleaner.com | |
+| 14 | license.piriform.com | |
+| 15 | avcdn.net | Shared Avast/CCleaner/Norton CDN |
+| 16 | shepherd.ff.avast.com | |
+| 17 | uib.ff.avast.com | |
+| 18 | nos.ns1.ff.avast.com | |
+| 19 | ipmcdn.avast.com | |
+| 20 | my-win.avast.com | |
+| 21 | packet-responder.ff.avast.com | |
+| 22 | ncc.avast.com.edgesuite.net | Akamai edge node |
+| 23 | emupdate.avcdn.net | |
+| 24 | tools.avcdn.net | |
+| 25 | ccleaner.tools.avcdn.net | |
+| 26 | ipm.avcdn.net | |
+| 27 | shepherd.avcdn.net | |
+| 28 | s-nuistatic.avcdn.net | |
+| 29 | analytics.avcdn.net | |
+
+---
+
+### Norton / Gen Digital
+**Category:** AV / Optimizer — Gen Digital
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | norton.com | |
+| 2 | us.norton.com | |
+| 3 | support.norton.com | |
+| 4 | updatecenter.norton.com | |
+| 5 | login.norton.com | |
+| 6 | community.norton.com | |
+| 7 | nortonlifelock.com | |
+| 8 | gen.com | |
+| 9 | symantec.com | |
+| 10 | adp-gateway.norton.com | Norton ADP gateway |
+| 11 | gendigital.com | Gen Digital holding domain |
+| 12 | newsroom.gendigital.com | |
+
+---
+
+### AVG TuneUp
+**Category:** PC Optimizer — Gen Digital
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | avg.com | |
+| 2 | support.avg.com | |
+| 3 | stats.avg.com | |
+| 4 | tuneup-software.com | |
+| 5 | download.avg.com | |
+| 6 | my.avg.com | |
+| 7 | install.avg.com | |
+
+---
+
+### Webroot (SecureAnywhere)
+**Category:** AV / Optimizer — OpenText
+**Note:** Cloud-based AV + system optimizer. The Elastic Beanstalk domain runs on AWS.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | webroot.com | |
+| 2 | my.webrootanywhere.com | |
+| 3 | unityapi.webrootcloudav.com | |
+| 4 | download.webroot.com | |
+| 5 | docs.webroot.com | |
+| 6 | community.webroot.com | |
+| 7 | opentext.com | |
+| 8 | community.opentextcybersecurity.com | |
+| 9 | webrootcloudav.com | |
+| 10 | anywhere.webrootcloudav.com | Agent comms + download |
+| 11 | webrootanywhere.com | |
+| 12 | WSAWebFilteringPortal.elasticbeanstalk.com | Web filtering — AWS |
+
+---
+
+### Trend Micro Cleaner One Pro
+**Category:** Optimizer
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | trendmicro.com | |
+| 2 | helpcenter.trendmicro.com | |
+| 3 | cleanerone.trendmicro.com | |
+| 4 | shop.trendmicro.com | |
+| 5 | discussions.trendmicro.com | |
+
+---
+
+### Adaware / Lavasoft (Avanquest)
+**Category:** AV / Optimizer
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | adaware.com | |
+| 2 | support.adaware.com | |
+| 3 | www.adaware.com | |
+| 4 | lavasoft.com | Legacy brand name — still active |
+| 5 | secure.lavasoft.com | |
+| 6 | acscdn.lavasoft.com | CDN |
+
+---
+
+### Comodo Internet Security
+**Category:** AV / Firewall / Optimizer
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | comodo.com | |
+| 2 | system-utilities.comodo.com | |
+| 3 | support.comodo.com | |
+| 4 | help.comodo.com | |
+| 5 | developer.comodo.com | |
+| 6 | wiki.comodo.com | |
+| 7 | download.comodo.com | |
+| 8 | cis.comodo.com | |
+| 9 | updates.comodo.com | |
+| 10 | forums.comodo.com | |
+| 11 | dnsbycomodo.com | Comodo Secure DNS |
+| 12 | xcitium.com | Comodo enterprise rebrand |
+
+---
+
+## 🍎 MAC OPTIMIZATION & SCAREWARE
+
+### Kromtech / MacKeeper / Clario
+**Category:** Mac scareware — litigation history
+**Note:** MacKeeper was transferred to Clario in 2019. Former owner Kromtech faced FTC and various court actions.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | kromtech.com | |
+| 2 | pckeeper.com | |
+| 3 | mackeeper.com | |
+| 4 | mackeeper.zendesk.com | |
+| 5 | zeobit.com | |
+| 6 | api.mackeeper.com | |
+| 7 | cdn.mackeeper.com | |
+| 8 | download.mackeeper.com | |
+| 9 | updates.mackeeper.com | |
+| 10 | app4.kromtech.net | |
+| 11 | app6.kromtech.net | |
+| 12 | app7.kromtech.net | |
+| 13 | account.kromtech.net | |
+| 14 | help.mackeeper.kromtech.net | |
+| 15 | clario.co | |
+| 16 | zoomsupport.com | |
+| 17 | memorykeeper.com | |
+| 18 | trackmymac.com | |
+| 19 | app.clario.co | |
+| 20 | my.clario.co | |
+| 21 | antispy.clario.co | Clario Anti Spy product |
+
+---
+
+### Mac Scareware — PCVark Family
+**Category:** Scareware — fake scans / forced upsell
+**Note:** Advanced Mac Cleaner, Mac Auto Fixer, Mac Tonic, Mac Mechanic are all from the same company, PCVark. Fake virus alerts, browser hijacking.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | advanced-mac-cleaner.com | |
+| 2 | macautofixer.com | |
+| 3 | macmechanic.com | |
+| 4 | macoptimizerpro.com | |
+| 5 | mactonic.com | |
+| 6 | cleanupmymac.com | |
+| 7 | maccleanerguru.com | |
+| 8 | advancedmactools.com | |
+| 9 | smartmacbooster.com | |
+| 10 | unpollute-my-mac.com | |
+| 11 | mac-cleanup-pro.com | |
+| 12 | mac-ads-cleaner.com | |
+| 13 | similarphotocleaner.com | |
+| 14 | mactonic.net | |
+| 15 | techyutils.com | |
+| 16 | d845108.t43.tonichost.com | |
+| 17 | apple.com-scan.live | |
+| 18 | cleanupmymac.live | |
+| 19 | cleanup-my-mac.live | |
+| 20 | mac-speedup-pro.com | |
+| 21 | advancemactools.live | |
+| 22 | apple.com-shield.live | |
+| 23 | advancedmactools.live | |
+| 24 | superutils.co | |
+| 25 | lp.superutils.co | |
+| 26 | yourmonday97.live | |
+| 27 | sweeps5164.yourmonday97.live | |
+| 28 | pcv.com | |
+| 29 | pcvark.com | PCVark — parent company domain |
+
+---
+
+### MacPaw (CleanMyMac X / Gemini)
+**Category:** Mac optimizer — legitimate but aggressive upsell
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | macpaw.com | |
+| 2 | cleanmymac.com | |
+| 3 | gemini.macpaw.com | |
+| 4 | api.macpaw.com | |
+| 5 | updates.macpaw.com | |
+| 6 | support.macpaw.com | |
+| 7 | cloud-api.macpaw.com | |
+| 8 | moonlock.com | |
+| 9 | devmate.com | |
+| 10 | updates.devmate.com | |
+| 11 | docs.devmate.com | |
+| 12 | dl.devmate.com | |
+| 13 | pay.macpaw.com | |
+| 14 | api-pay.macpaw.com | |
+| 15 | id.macpaw.com | |
+| 16 | links.macpaw.com | |
+| 17 | cleanmymacbusiness.macpaw.com | Business product |
+
+---
+
+### Movavi
+**Category:** Mac / PC utility & multimedia
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | movavi.com | |
+| 2 | maccleaner.movavi.com | |
+| 3 | support.movavi.com | |
+| 4 | store.movavi.com | |
+| 5 | activation.movavi.com | |
+| 6 | help.movavi.com | |
+
+---
+
+### Nektony / FipLab
+**Category:** Mac utility
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | nektony.com | |
+| 2 | duplicatefilefinderapp.com | |
+| 3 | support.nektony.com | |
+| 4 | www.nektony.com | |
+| 5 | fiplab.com | |
+| 6 | www.fiplab.com | |
+
+---
+
+### Misc Mac
+**Category:** Various Mac tools
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | macbooster.com | |
+| 2 | paddle.com | Payment processor (Mac apps) |
+
+---
+
+## 🟡 HARDWARE MONITORS (Telemetry-Enabled)
+
+### CPUID — CPU-Z / HWMonitor
+**Category:** System info
+**Note:** ⚠️ **Supply-chain attack, April 9–10, 2026:** `cpuid.com` was compromised for roughly 6 hours. Downloads were trojanized. C2 domains: `helloworld.supp0v3.com` and `welcome.supp0v3.com` (CityOfSin campaign). The site is currently clean, but the C2 domains must be blocked immediately.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | cpuid.com | |
+| 2 | cpuid-utility.com | |
+| 3 | cpuid.net | |
+| 4 | download.cpuid.com | |
+| 5 | api.cpuid.com | |
+| 6 | telemetry.cpuid.com | |
+| 7 | hwmonitor.cpuid.com | |
+| 8 | www2.cpuid.com | |
+| 9 | cpu-z.com | Separate CPU-Z domain |
+| 10 | helloworld.supp0v3.com | 🔴 C2 MALWARE — BLOCK IMMEDIATELY |
+| 11 | welcome.supp0v3.com | 🔴 C2 MALWARE — BLOCK IMMEDIATELY |
+
+---
+
+### AIDA64 (FinalWire)
+**Category:** System info — Hungary
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | aida64.com | |
+| 2 | finalwire.com | |
+| 3 | aida64updates.com | |
+| 4 | licensing.aida64.com | |
+| 5 | telemetry.aida64.com | |
+| 6 | aida64.co.uk | |
+| 7 | forums.aida64.com | |
+| 8 | download.aida64.com | |
+| 9 | aida64.de | Germany domain |
+| 10 | aida64.hu | Hungary domain |
+
+---
+
+### HWiNFO
+**Category:** System monitor — Martin Malik (Slovakia)
+**Note:** ✅ Per vendor statement, no user data is sent externally; update checks only.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | hwinfo.com | |
+| 2 | hwinfo.net | |
+| 3 | fosshub.com | |
+| 4 | telemetry.hwinfo.com | |
+
+---
+
+### GPU Overclocking — EVGA, MSI Afterburner
+**Category:** GPU monitor / OC
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | evga.com | |
+| 2 | evga.io | |
+| 3 | api.evga.com | |
+| 4 | msi.com | |
+| 5 | telemetry.evga.com | |
+
+---
+
+### Misc Monitors
+**Category:** CPU / GPU temperature monitoring
+**Note:** `rh-software.com`, `alcpu.com`, `techpowerup.com` — update checks only.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | rh-software.com | |
+| 2 | alcpu.com | |
+| 3 | techpowerup.com | |
+| 4 | gpu-z.com | GPU-Z update check: gpu-z.com/gpuz/version_v2 |
+
+---
+
+### Belarc Advisor
+**Category:** System info
+**Note:** ℹ️ All data stays local; nothing is sent to the internet.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | belarc.com | |
+| 2 | telemetry.belarc.com | |
+
+---
+
+## 📊 BENCHMARK TOOLS (Telemetry + Online Leaderboard)
+
+### UL Solutions — 3DMark / PCMark / VRMark
+**Category:** Benchmark
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | 3dmark.com | |
+| 2 | pcmark.com | |
+| 3 | vrmark.com | |
+| 4 | ul.com | |
+| 5 | benchmarks.ul.com | |
+| 6 | futuremark.com | |
+| 7 | api.3dmark.com | |
+| 8 | telemetry.ul.com | |
+| 9 | analytics.3dmark.com | |
+| 10 | aws.futuremark.com | |
+| 11 | support.benchmarks.ul.com | |
+
+---
+
+### Maxon / Cinebench
+**Category:** Benchmark
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | maxon.net | |
+| 2 | cinebench.com | |
+| 3 | cinebench.maxon.net | |
+| 4 | telemetry.maxon.net | |
+| 5 | support.maxon.net | |
+| 6 | mx-app-blob-prod.maxon.net | |
+| 7 | developers.maxon.net | |
+| 8 | id.maxon.net | Maxon ID login |
+| 9 | account.maxon.net | |
+
+---
+
+### PassMark
+**Category:** Benchmark
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | passmark.com | |
+| 2 | performancetest.com | |
+| 3 | api.passmark.com | |
+| 4 | telemetry.passmark.com | |
+| 5 | cpubenchmark.net | |
+| 6 | videocardbenchmark.net | |
+| 7 | pcbenchmarks.net | |
+| 8 | harddrivebenchmark.net | |
+
+---
+
+### Primate Labs — Geekbench
+**Category:** Benchmark
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | geekbench.com | |
+| 2 | primatelabs.com | |
+| 3 | browser.geekbench.com | |
+| 4 | api.geekbench.com | |
+| 5 | telemetry.geekbench.com | |
+| 6 | support.primatelabs.com | |
+
+---
+
+### UserBenchmark
+**Category:** Benchmark — disputed / biased results
+**Note:** ⚠️ Criticized by Linus Tech Tips, Tom's Hardware, and GamersNexus for biased AMD/Intel results.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | userbenchmark.com | |
+| 2 | api.userbenchmark.com | |
+| 3 | cdn.userbenchmark.com | |
+| 4 | telemetry.userbenchmark.com | |
+| 5 | results.userbenchmark.com | |
+| 6 | www.userbenchmark.com | |
+
+---
+
+### Unigine (Heaven / Valley / Superposition)
+**Category:** GPU benchmark — originally Russia-based (now UAE/Armenia)
+**Note:** ℹ️ Unigine Company was originally registered in Russia; now registered in UAE and Armenia. Score submission goes through `benchmark.unigine.com`.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | unigine.com | |
+| 2 | api.unigine.com | |
+| 3 | telemetry.unigine.com | |
+| 4 | benchmark.unigine.com | Benchmark portal + score submission |
+| 5 | developer.unigine.com | |
+
+---
+
+### Geeks3D / Ozone3D — FurMark
+**Category:** GPU stress test
+**Note:** ✅ Freeware. Uses network connectivity for score submission.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | geeks3d.com | |
+| 2 | ozone3d.net | |
+| 3 | furmark.com | |
+| 4 | telemetry.geeks3d.com | |
+
+---
+
+### SiSoftware Sandra
+**Category:** Benchmark / system info — UK
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | sisoftware.co.uk | |
+| 2 | telemetry.sisoftware.net | |
+| 3 | ranker.sisoftware.net | |
+| 4 | sisoftware.net | |
+| 5 | support.sisoftware.co.uk | |
+| 6 | sisoftware.eu | |
+| 7 | ranker.sisoftware.co.uk | Online score submission |
+
+---
+
+## 💾 DISK & STORAGE TOOLS
+
+### CrystalMark — CrystalDiskInfo / CrystalDiskMark
+**Category:** Disk utility — Japan, open source
+**Note:** ✅ Japanese developer (hiyohiyo). Largely FOSS. Trusted.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | crystalmark.info | |
+| 2 | crystaldiskinfo.com | |
+| 3 | crystaldiskmark.com | |
+| 4 | telemetry.crystalmark.info | |
+| 5 | crystaldiskmark.org | |
+
+---
+
+### Disk Tools — Paragon, Abelssoft, SmartDefrag
+**Category:** Disk management tools
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | abelssoft.com | |
+| 2 | ssdfresh.com | |
+| 3 | paragon-software.com | |
+| 4 | paragonhdd.com | |
+| 5 | defraggler.com | |
+| 6 | smartdefrag.com | |
+| 7 | telemetry.abelssoft.com | |
+| 8 | kb.paragon-software.com | |
+| 9 | my.paragon-software.com | |
+| 10 | ascompsoftware.com | |
+| 11 | download.paragon-software.com | |
+| 12 | paragon-software.zendesk.com | Support portal |
+| 13 | shop.paragon-software.com | |
+| 14 | shop.abelssoft.de | |
+| 15 | support.abelssoft.com | |
+
+---
+
+### Jam Software — TreeSize
+**Category:** Disk analyzer — Germany
+**Note:** ℹ️ German software, GDPR compliant. Update checks only.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | jam-software.com | |
+| 2 | treesize.com | |
+| 3 | telemetry.jam-software.com | |
+| 4 | knowledgebase.jam-software.com | |
+| 5 | manuals.jam-software.com | |
+| 6 | customer.jam-software.de | |
+| 7 | spaceobserver.com | |
+| 8 | ultrasearch.com | |
+| 9 | de.jam-software.com | German-language site |
+
+---
+
+### SpaceSniffer (Uderzo Software)
+**Category:** Disk analyzer — freeware, portable, Italy
+**Note:** ✅ Portable freeware. No telemetry. Download only from `uderzo.it`.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | spacesniffer.com | |
+| 2 | uderzo.it | Developer's official site |
+
+---
+
+## 🔧 SYSTEM TOOLS & UTILITIES
+
+### Uninstaller Tools
+**Category:** Program removal
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | revouninstaller.com | |
+| 2 | vsapps.com | |
+| 3 | iobituninstaller.com | |
+| 4 | ashampoo.com | |
+| 5 | geekuninstaller.com | |
+| 6 | wisecleaner.com | |
+| 7 | ursoft.com | |
+| 8 | gavrilla.net | |
+| 9 | martau.com | |
+| 10 | glarysoft.com | |
+| 11 | zsoft.com.pl | |
+| 12 | nirsoft.net | |
+| 13 | telemetry.revouninstaller.com | |
+| 14 | api.geekuninstaller.com | |
+| 15 | dl.vsrevogroup.com | |
+| 16 | crystalidea.com | |
+| 17 | uninstall-tool.com | |
+| 18 | www.revouninstaller.com | |
+| 19 | vsrevogroup.com | VS Revo Group — Revo Uninstaller's parent company |
+
+---
+
+### Ashampoo WinOptimizer
+**Category:** PC optimizer — Germany
+**Note:** ℹ️ German software company. Uses CleverBridge as payment processor.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | ashampoo.com | |
+| 2 | support.ashampoo.com | |
+| 3 | telemetry.ashampoo.com | |
+| 4 | my.ashampoo.com | |
+| 5 | connect.ashampoo.com | |
+| 6 | account.ashampoo.com | |
+| 7 | shop.ashampoo.com | |
+| 8 | cleverbridge.com | Payment processor |
+
+---
+
+### Startup Managers
+**Category:** Startup management
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | sysinternals.com | |
+| 2 | live.sysinternals.com | |
+| 3 | winpatrol.com | |
+| 4 | r2.com.au | |
+| 5 | soluto.com | |
+| 6 | telemetry.winpatrol.com | |
+| 7 | support.winpatrol.com | |
+| 8 | ruiware.com | |
+| 9 | billp.com | WinPatrol original developer site |
+
+---
+
+### Task Managers
+**Category:** Task Manager alternatives
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | systemexplorer.net | |
+| 2 | anvir.com | |
+| 3 | neuber.com | |
+| 4 | bitsum.com | |
+| 5 | processlasso.com | |
+| 6 | processlassoserver.com | |
+| 7 | telemetry.bitsum.com | |
+| 8 | dl.bitsum.com | |
+| 9 | support.anvir.com | |
+| 10 | community.bitsum.com | |
+
+---
+
+### Network Monitoring
+**Category:** Network monitors
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | netlimiter.com | |
+| 2 | locktime.com | |
+| 3 | glasswire.com | |
+| 4 | api.glasswire.com | |
+| 5 | telemetry.glasswire.com | |
+| 6 | seriousbit.com | |
+| 7 | netbalancer.com | |
+| 8 | codebox.net | |
+| 9 | softperfect.com | |
+| 10 | networx.com | |
+| 11 | analytics.glasswire.com | |
+| 12 | forum.glasswire.com | |
+| 13 | glasswire.itch.io | |
+
+---
+
+### WiseCleaner
+**Category:** Adware / optimizer
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | wisecleaner.com | |
+| 2 | wisecare365.com | |
+| 3 | wise-registry-cleaner.com | |
+| 4 | wise-disk-cleaner.com | |
+| 5 | wise-program-uninstaller.com | |
+| 6 | update.wisecleaner.com | |
+| 7 | wisevideoplayer.com | |
+| 8 | download.wisecleaner.com | |
+| 9 | forum.wisecleaner.com | |
+
+---
+
+### GlarySoft
+**Category:** Adware / optimizer
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | glarysoft.com | |
+| 2 | glaryutilities.com | |
+| 3 | glarysoftupdate.com | |
+| 4 | glaryundelete.com | |
+| 5 | glary.com | |
+
+---
+
+### Reg Organizer — ChemTable
+**Category:** Registry cleaner
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | chemtable.com | |
+| 2 | www.chemtable.com | |
+| 3 | forum.chemtable.com | |
+| 4 | langs.chemtable-cloud.com | |
+| 5 | chemtable-cloud.com | |
+| 6 | update.chemtable-cloud.com | |
+
+---
+
+### Hone.gg
+**Category:** Gaming optimizer / FPS booster
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | hone.gg | |
+| 2 | support.hone.gg | |
+| 3 | www.hone.gg | |
+| 4 | api.hone.gg | |
+| 5 | app.hone.gg | |
+| 6 | download.hone.gg | |
+
+---
+
+### Microsoft PC Manager
+**Category:** Official Microsoft tool
+**Note:** ℹ️ Official Microsoft product. Somewhat controversial due to Bing/Edge redirects.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | pcmanager.microsoft.com | |
+| 2 | pcmanager-en.microsoft.com | |
+| 3 | microsoft.com | |
+| 4 | www.microsoft.com | |
+
+---
+
+### Privacy & File Tools
+**Category:** Privacy Eraser, Secure Eraser, Duplicate Cleaner
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | cybertronsoft.com | |
+| 2 | privacyeraser.com | |
+| 3 | telemetry.cybertronsoft.com | |
+| 4 | support.cybertronsoft.com | |
+| 5 | fileshredder.org | |
+| 6 | ascomp.com | |
+| 7 | telemetry.ascomp.com | |
+| 8 | ascompsoftware.com | |
+| 9 | digitalvolcano.co.uk | |
+| 10 | duplicatecleaner.com | |
+| 11 | telemetry.digitalvolcano.co.uk | |
+| 12 | support.digitalvolcano.co.uk | |
+| 13 | digvolsoft.freshdesk.com | |
+| 14 | forum.digitalvolcano.co.uk | |
+| 15 | alldup.info | |
+
+---
+
+### Registry Cleaners
+**Category:** Registry cleaners — mostly scareware
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | registry-cleaner.net | |
+| 2 | registrycleaner.com | |
+| 3 | registryquick.net | |
+| 4 | registryfix.net | |
+| 5 | aiseesoft.com | |
+| 6 | support.aiseesoft.com | |
+| 7 | www.aiseesoft.com | |
+
+---
+
+### Battery Tools
+**Category:** Battery optimization
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | batterycare.net | |
+| 2 | batteryoptimizer.net | |
+| 3 | telemetry.batteryoptimizer.net | |
+
+---
+
+### WinUtil / Optimizer / Tweakers — Open Source
+**Category:** Open-source Windows tweakers
+**Note:** ✅ These tools are open source and do not send telemetry. Listed for reference.
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | bleachbit.org | |
+| 2 | www.bleachbit.org | |
+| 3 | download.bleachbit.org | |
+| 4 | docs.bleachbit.org | |
+| 5 | bleachbit.sourceforge.net | |
+| 6 | windirstat.net | |
+| 7 | windirstat.org | |
+| 8 | christitus.com | |
+| 9 | winutil.christitus.com | |
+| 10 | cttstore.com | |
+| 11 | rayenghanmi.me | |
+
+---
+
+### Fresh Diagnose / Misc System Info
+**Category:** System info
+
+| # | Domain | Notes |
+|---|--------|-------|
+| 1 | freshdevices.com | |
+.*
