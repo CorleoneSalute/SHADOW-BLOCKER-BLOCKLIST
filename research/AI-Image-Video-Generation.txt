@@ -1,0 +1,997 @@
+# AI IMAGE & VIDEO GENERATION RESEARCH LIST
+
+---
+
+## 🎨 MAJOR AI IMAGE GENERATION PLATFORMS
+
+### OpenAI DALL-E (ChatGPT Image Gen)
+
+**Core Services**
+- api.openai.com
+- platform.openai.com
+- production-api.openai.com
+- api-public.openai.com
+- api-inference.openai.com
+- openai.com
+- chat.com
+- crixet.com
+- oaistatic.com
+- ai.com
+
+**ChatGPT Integration**
+- chatgpt.com
+- chat.openai.com
+- ab.chatgpt.com
+
+**CDN & Assets**
+- cdn.openai.com
+- files.oaiusercontent.com
+- oaiusercontent.com
+- openai.com.cdn.cloudflare.net
+- openaiapi-site.azureedge.net
+- openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+- openaicom.imgix.net
+- openaicomproductionae4b.blob.core.windows.net
+- production-openaicom-storage.azureedge.net
+
+**Analytics & Monitoring**
+- telemetry.openai.com
+- analytics.openai.com
+- o33249.ingest.sentry.io
+- o1069899.ingest.sentry.io
+- browser-intake-datadoghq.com
+- api.statsig.com
+- events.statsigapi.net
+- featuregates.org
+- algolia.net
+
+**Authentication & Anti-Bot**
+- auth.openai.com
+- auth0.openai.com
+- login.openai.com
+- openai-api.arkoselabs.com
+- client-api.arkoselabs.com
+- auth0.com
+
+**Advanced Voice (LiveKit)**
+- chatgpt.livekit.cloud
+- host.livekit.cloud
+- turn.livekit.cloud
+
+**Additional Services**
+- beta.openai.com
+- checkout.openai.com
+- static.openai.com
+- files-api.openai.com
+- ion.openai.com
+- dalle-api.openai.com
+- image-generation.openai.com
+- moderation.openai.com
+- challenges.cloudflare.com
+- pay.openai.com
+- status.openai.com
+- labs.openai.com
+- intercom.io
+
+---
+
+### Midjourney
+
+**Core Services**
+- midjourney.com
+- www.midjourney.com
+- www.midjourney.org
+- updates.midjourney.com
+- app.midjourney.com
+- account.midjourney.com
+- billing.midjourney.com
+- status.midjourney.com
+
+**Image CDN**
+- cdn.midjourney.com
+- cdn-uploads.midjourney.com
+- static-cdn.midjourney.com
+- media.discordapp.net
+- images.discordapp.net
+- cdn.discordapp.net
+- media.discordapp.com
+- images.discordapp.com
+- attachments.cdn.discordapp.com
+
+**API & Features**
+- api.midjourney.com
+- api-gateway.midjourney.com
+- blend.midjourney.com
+- describe.midjourney.com
+
+**Analytics & Payment**
+- analytics.midjourney.com
+- stripe.com
+- js.stripe.com
+- q.stripe.com
+
+**Additional Services**
+- docs.midjourney.com
+- community.midjourney.com
+
+---
+
+### Stable Diffusion (Stability AI)
+
+**Core Platform**
+- stability.ai
+- platform.stability.ai
+- stabilityai.us
+- status.stability.ai
+- help.stability.ai
+
+**API Services**
+- api.stability.ai
+- api-inference.stability.ai
+- inference.stability.ai
+- rest-api.stability.ai
+- grpc.stability.ai
+
+**DreamStudio (Web UI)**
+- dreamstudio.ai
+- beta.dreamstudio.ai
+- dreamstudio.com
+- app.dreamstudio.ai
+- api.dreamstudio.ai
+- auth.dreamstudio.ai
+
+**CDN & Models**
+- cdn.stability.ai
+- static.stability.ai
+- weights.stability.ai
+- models.stability.ai
+- checkpoints.stability.ai
+- static1.squarespace.com
+
+**Analytics & Telemetry**
+- analytics.stability.ai
+- telemetry.stability.ai
+- events.stability.ai
+
+**Additional Services**
+- download.stability.ai
+- assets.stability.ai
+- huggingface.co/stabilityai
+- github.com/stability-ai
+- sentry.io
+- intercom.io
+
+---
+
+### Leonardo AI
+
+**Core Services**
+- leonardo.ai
+- app.leonardo.ai
+- status.leonardo.ai
+- help.leonardo.ai
+
+**API & Gateway**
+- api.leonardo.ai
+- cloud.leonardo.ai
+- api-gateway.leonardo.ai
+
+**Generation Infrastructure**
+- render.leonardo.ai
+- processing.leonardo.ai
+- queue.leonardo.ai
+- realtime.leonardo.ai
+
+**CDN**
+- cdn.leonardo.ai
+- static.leonardo.ai
+- assets.leonardo.ai
+
+**Analytics & Auth**
+- analytics.leonardo.ai
+- events.leonardo.ai
+- auth.leonardo.ai
+- login.leonardo.ai
+
+**Model Services**
+- models.leonardo.ai
+- training.leonardo.ai
+- finetune.leonardo.ai
+
+**Additional Services**
+- images.leonardo.ai
+- generations.leonardo.ai
+- community.leonardo.ai
+- docs.leonardo.ai
+- stripe.com
+- sentry.io
+- intercom.io
+- cognito-identity.us-east-1.amazonaws.com
+
+---
+
+### Bing Image Creator (Microsoft)
+
+**Core Services**
+- bing.com
+- www.bing.com
+- api.bing.com
+- th.bing.com
+- sydney.bing.com
+- edgeservices.bing.com
+- bingapis.com
+- www.microsoft.com
+- res.cdn.office.net
+- img-prod-cms-rt-microsoft-com.akamaized.net
+
+**Microsoft Services**
+- login.live.com
+- account.microsoft.com
+- login.microsoftonline.com
+- substrate.office.com
+- edge.microsoft.com
+- copilot.microsoft.com
+- edgeassetservice.azureedge.net
+
+**Telemetry**
+- telemetry.microsoft.com
+- vortex.data.microsoft.com
+- watson.telemetry.microsoft.com
+- v10.events.data.microsoft.com
+- v10.vortex-win.data.microsoft.com
+- v20.events.data.microsoft.com
+- functional.events.data.microsoft.com
+- self.events.data.microsoft.com
+- umwatson.events.data.microsoft.com
+- browser.events.data.msn.com
+- ceuswatcab01.blob.core.windows.net
+- ceuswatcab02.blob.core.windows.net
+- eaus2watcab01.blob.core.windows.net
+- weus2watcab01.blob.core.windows.net
+
+**Additional Services**
+- activity.windows.com
+- assets.msn.com
+- data.msn.com
+- azureedge.net
+- msftncsi.com
+
+---
+
+### Playground AI
+
+> ⚠ The domain migrated from playgroundai.com to playground.com.
+
+**Core Services (New Domain)**
+- playground.com
+- api.playground.com
+- cdn.playground.com
+
+**Legacy Domains (May Still Be Active)**
+- playgroundai.com
+- app.playgroundai.com
+- api.playgroundai.com
+- api-gateway.playgroundai.com
+- cdn.playgroundai.com
+- static.playgroundai.com
+- images.playgroundai.com
+- storage.playgroundai.com
+- analytics.playgroundai.com
+- events.playgroundai.com
+- auth.playgroundai.com
+
+---
+
+### Craiyon (formerly DALL-E Mini)
+
+**Core Services**
+- craiyon.com
+- www.craiyon.com
+- api.craiyon.com
+- backend.craiyon.com
+
+**CDN & Analytics**
+- img.craiyon.com
+- cdn.craiyon.com
+- analytics.craiyon.com
+
+**Advertising**
+- googleadservices.com
+- doubleclick.net
+- googlesyndication.com
+- pagead2.googlesyndication.com
+
+---
+
+### NightCafe Studio
+
+**Core Services**
+- nightcafe.studio
+- creator.nightcafe.studio
+- billing.nightcafe.studio
+- status.nightcafe.studio
+
+**API & CDN**
+- api.nightcafe.studio
+- cdn.nightcafe.studio
+- images.nightcafe.studio
+- analytics.nightcafe.studio
+
+**Google Cloud Backend (Confirmed)**
+- firebaseio.com
+- googleapis.com
+- gstatic.com
+- firestore.googleapis.com
+- storage.googleapis.com
+- aiplatform.googleapis.com
+- cloudfunctions.googleapis.com
+- monitoring.googleapis.com
+- firebaseapp.com
+- *.run.app (Cloud Run functions)
+
+---
+
+### Artbreeder
+- artbreeder.com
+- www.artbreeder.com
+- api.artbreeder.com
+- media.artbreeder.com
+- images.artbreeder.com
+
+---
+
+### StarryAI
+- starryai.com
+- create.starryai.com
+- api.starryai.com
+- analytics.starryai.com
+- starryai.readme.io
+
+---
+
+## 🎨 NEWER AI IMAGE GENERATION PLATFORMS
+
+### Ideogram
+
+**Core Services**
+- ideogram.ai
+- app.ideogram.ai
+- about.ideogram.ai
+- blog.ideogram.ai
+- status.ideogram.ai
+
+**API & Docs**
+- api.ideogram.ai
+- developer.ideogram.ai
+- docs.ideogram.ai
+- manage-api.ideogram.ai
+- images.ideogram.ai
+
+**CDN & Auth**
+- cdn.ideogram.ai
+- auth.ideogram.ai
+
+---
+
+### FLUX / Black Forest Labs
+
+**Core Services**
+- bfl.ai
+- bfl.ml
+- blackforestlabs.ai
+- api.bfl.ml
+- api.bfl.ai
+- cdn.bfl.ai
+
+**Documentation**
+- docs.bfl.ml
+- docs.bfl.ai
+- help.bfl.ai
+
+**Additional Services**
+- huggingface.co/black-forest-labs
+- github.com/black-forest-labs
+
+---
+
+### Reve AI (Reve Image 1.0)
+
+**Core Services**
+- reve.art
+- preview.reve.art
+- reveai.org
+- reveai.dev
+- reve-ai.net
+- reve-art.com
+- app.reve.com
+
+**API & CDN**
+- api.reveai.org
+- cdn.reve-art.com
+- cdn.reveai.org
+
+---
+
+### Nano Banana / Gemini Image (Google)
+- ai.google.dev
+- gemini.google.com
+- aistudio.google.com
+- deepmind.google
+- generativelanguage.googleapis.com
+- googleapis.com
+- aiplatform.googleapis.com
+
+---
+
+### Kling AI (Kuaishou)
+
+**Core Services**
+- klingai.com
+- app.klingai.com
+- klingai.kuaishou.com
+- kuaishou.com
+- kwai.com
+- kwaicdn.com
+- gifshow.com
+- developer.klingai.com
+- docs.klingai.com
+- status.klingai.com
+
+**CDN (Kuaishou)**
+- kwimgs.com
+- s2-111386.kwimgs.com
+
+**API & Infrastructure**
+- api.klingai.com
+- cdn.klingai.com
+
+---
+
+### Seedream 4 / 4.5 (ByteDance)
+
+**Core Services**
+- seed.bytedance.com
+- bytepluses.com
+- seedream-4.com
+- seedream.pro
+- byteimg.com
+- pstatp.com
+- byteoversea.com
+- ibytedance.com
+- snssdk.com
+- tiktokv.com
+- capcut.net
+
+**Third-Party API**
+- api.cometapi.com
+- api.laozhang.ai
+- api.getimg.ai
+- api.aimlapi.com
+- openrouter.ai
+- kie.ai
+
+---
+
+### Qwen Image (Alibaba)
+
+**Core Services**
+- qwen.ai
+- chat.qwen.ai
+- qwen-image.run
+
+**API Services (DashScope — All Regions)**
+- dashscope.aliyuncs.com
+- dashscope-intl.aliyuncs.com
+- alibabacloud.com
+- dashscope-us.aliyuncs.com
+- cn-hongkong.dashscope.aliyuncs.com
+- cn-hongkong.aliyuncs.com
+- dashscope.oss-cn-beijing.aliyuncs.com
+
+**Third-Party API**
+- api.aimlapi.com
+
+---
+
+### Emu 3.5 (Meta / BAAI)
+
+**Core Services**
+- ai.meta.com
+- meta.ai
+- emu.world
+- zh.emu.world
+- facebook.com
+- messenger.com
+- instagram.com
+
+**Meta CDN & Infrastructure**
+- cdninstagram.com
+- fbcdn.net
+- graph.facebook.com
+- connect.facebook.net
+- scontent.cdninstagram.com
+- *.fbsbx.com
+
+**Additional Services**
+- huggingface.co/baaivision
+
+---
+
+### Hunyuan Image 3.0 (Tencent)
+
+**Core Services**
+- hunyuan.tencent.com
+- cloud.tencent.com
+- api.hunyuan.cloud.tencent.com
+- tencentcloud.com
+- intl.cloud.tencent.com
+- qcloud.com
+- myqcloud.com
+
+**CDN & Infrastructure**
+- dscache.tencent-cloud.cn
+- mirrors.tencent.com
+
+**Third-Party API**
+- api.aimlapi.com
+- wavespeed.ai
+- huggingface.co/tencent
+- replicate.com/tencent
+
+---
+
+### LTX Studio (Lightricks)
+
+> ⚠ Note: api.lumalabs.ai was previously listed here in error — that domain belongs to Luma AI.
+
+**Core Services**
+- ltx.io
+- ltx.studio
+- lightricks.com
+- cdn.ltx.studio
+- app.ltx.studio
+- ltxvideo.org
+
+**Documentation**
+- docs.ltx.video
+- support.ltx.studio
+
+**Open Source / Model Weights**
+- github.com/Lightricks
+- huggingface.co/Lightricks
+
+---
+
+### Getty Generative AI
+- gettyimages.com
+- api.gettyimages.com
+- developers.gettyimages.com
+- authentication.gettyimages.com
+- embed.gettyimages.com
+- media.gettyimages.com
+- creative.gettyimages.com
+
+---
+
+### Luma AI (Photon + Dream Machine)
+
+**Core Services**
+- lumalabs.ai
+- lumaphoton.com
+- dream-machine.lumalabs.ai
+
+**API & Documentation**
+- api.lumalabs.ai
+- docs.lumalabs.ai
+- cdn.lumalabs.ai
+- assets.lumalabs.ai
+- auth.lumalabs.ai
+- status.lumalabs.ai
+- help.lumalabs.ai
+- upload.lumalabs.ai
+
+**CDN**
+- storage.cdn-luma.com
+- cdn.aimlapi.com
+
+---
+
+### Tensor.Art
+
+**Core Services**
+- tensor.art
+- app.tensor.art
+- cdn.tensor.art
+- static.tensor.art
+
+**API (TAMS)**
+- tams-docs.tensor.art
+- tams.tensor.art
+- api.tensor.art
+
+---
+
+### ImagineArt / Vyro
+
+**Core Services**
+- imagine.art
+- www.imagine.art
+- app.imagine.art
+- vyro.ai
+
+**API & Platform**
+- api.vyro.ai
+- react-web.vyro.ai
+- imagine-nextjs.vyro.ai
+- platform.imagine.art
+- cdn.vyro.ai
+- api.imagine.art
+- status.imagine.art
+
+**Documentation**
+- docs.imagine.art
+- huggingface.co/vyroAI
+
+---
+
+### Imagen 4 / Imagen 4 Ultra / Fast (Google DeepMind)
+
+**Core Services**
+- deepmind.google
+- ai.google.dev
+- aistudio.google.com
+
+**Vertex AI Integration**
+- aiplatform.googleapis.com
+- us-central1-aiplatform.googleapis.com
+- europe-west4-aiplatform.googleapis.com
+- asia-southeast1-aiplatform.googleapis.com
+
+**Consumer Interfaces**
+- aitestkitchen.withgoogle.com
+- imagefx.withgoogle.com
+- gemini.google.com
+
+**API & CDN**
+- generativelanguage.googleapis.com
+- cloud.google.com
+- googleapis.com
+- storage.googleapis.com
+- cdn.aimlapi.com
+
+**Third-Party API Providers**
+- api.aimlapi.com
+- replicate.com
+- together.ai
+- fal.ai
+
+---
+
+### BestPhotoAI
+- bestphoto.ai
+- www.bestphoto.ai
+- blog.bestphoto.ai
+- app.bestphoto.ai
+
+---
+
+## 🎬 AI VIDEO GENERATION PLATFORMS
+
+### Pika AI / Pika Labs
+- pika.art
+- api.pika.art
+- cdn.pika.art
+- app.pika.art
+- status.pika.art
+- help.pika.art
+- fal.ai
+
+---
+
+### Runway Gen-4 / Gen-4.5
+
+**Core Services**
+- runwayml.com
+- app.runwayml.com
+- dev.runwayml.com
+- api.runwayml.com
+- help.runwayml.com
+- status.runwayml.com
+
+**API & Documentation**
+- docs.dev.runwayml.com
+- cdn.runwayml.com
+- upload.runwayml.com
+- assets.runwayml.com
+
+**Third-Party Services**
+- intercom.io
+- stripe.com
+
+---
+
+### Sora / Sora 2 (OpenAI)
+- sora.com
+- api.openai.com
+- platform.openai.com
+- *.openai.azure.com
+
+---
+
+### Luma Dream Machine (Ray 2 / Ray 3)
+
+> ⚠ Shares the same infrastructure as Luma AI — see the Luma AI domain list above.
+
+- lumalabs.ai
+- dream-machine.lumalabs.ai
+- api.lumalabs.ai
+- docs.lumalabs.ai
+- storage.cdn-luma.com
+- cdn.aimlapi.com
+- cdn.lumalabs.ai
+- assets.lumalabs.ai
+- auth.lumalabs.ai
+- status.lumalabs.ai
+
+---
+
+### Google Veo 3
+
+**Core Services**
+- deepmind.google
+- ai.google.dev
+- aistudio.google.com
+
+**API Services**
+- generativelanguage.googleapis.com
+- aiplatform.googleapis.com
+- us-central1-aiplatform.googleapis.com
+- cloud.google.com
+- googleapis.com
+
+**Consumer Interfaces**
+- videofx.withgoogle.com
+- flow.google
+
+---
+
+### Dreamina (ByteDance / CapCut)
+
+**Core Services**
+- dreamina.capcut.com
+- capcut.com
+- bytedance.com
+- seed.bytedance.com
+- bytepluses.com
+- byteimg.com
+- pstatp.com
+- byteoversea.com
+- ibytedance.com
+- snssdk.com
+- tiktokv.com
+- capcut.net
+
+**Third-Party API**
+- wavespeed.ai
+- runcomfy.com
+
+---
+
+### Genmo / Mochi 1
+- genmo.ai
+- www.genmo.ai
+- github.com/genmoai
+- huggingface.co/genmo
+
+---
+
+### Higgsfield AI
+- higgsfield.ai
+- cloud.higgsfield.ai
+- app.higgsfield.ai
+- api.higgsfield.ai
+- github.com/higgsfield-ai
+
+---
+
+### PixVerse
+
+**Core Services**
+- pixverse.ai
+- app.pixverse.ai
+- platform.pixverse.ai
+- api.pixverse.ai
+- cdn.pixverse.ai
+
+**API & Platform**
+- docs.platform.pixverse.ai
+
+**Additional Services**
+- github.com/PixVerseAI
+
+---
+
+### Hailuo AI / MiniMax
+
+**Core Services**
+- minimax.io
+- www.minimax.io
+- api.minimax.io
+- api.minimaxi.com
+- minimaxi.com
+- hailuo.ai
+- hailuoai.video
+- platform.minimax.io
+- filecdn.minimax.chat
+- talkie.ai
+- ir.minimaxi.com
+- minimax.chat
+
+**CDN & API**
+- cdn.minimax.io
+- cdn.aimlapi.com
+
+---
+
+### Vidu AI (ShengShu Technology)
+
+**Core Services**
+- vidu.com
+- www.vidu.com
+- app.vidu.com
+- vidu.studio
+- www.vidu.studio
+- vidu.cn
+- vidu.io
+- files.vidu.io
+
+**API & Platform**
+- platform.vidu.com
+- platform.vidu.cn
+- developer.vidu.com
+- cdn.vidu.com
+
+**Third-Party API**
+- api.together.xyz
+- api.aimlapi.com
+- runware.ai
+
+---
+
+### Wan 2.x / Pixazo (Alibaba)
+
+**Core Services**
+- pixazo.ai
+- www.pixazo.ai
+- blog.pixazo.ai
+- wan.video
+
+**API & Models**
+- gateway.pixazo.ai
+- models.pixazo.ai
+- dashscope-intl.aliyuncs.com
+
+---
+
+### Hedra
+
+**Core Services**
+- hedra.com
+- www.hedra.com
+- hedra-ai.com
+- app.hedra.com
+
+**API**
+- api.hedra.com
+
+**Realtime Avatar (LiveKit)**
+- *.livekit.cloud
+
+**Infrastructure**
+- together.ai
+- github.com/hedra-labs
+
+---
+
+### Magic Hour
+
+**Core Services**
+- magichour.ai
+- www.magichour.ai
+- blog.magichour.ai
+
+**API & CDN**
+- docs.magichour.ai
+- api.magichour.ai
+- app.magichour.ai
+- video.magichour.ai
+
+**Additional Services**
+- github.com/magichourhq
+
+---
+
+### Grok Imagine / Grok Imagine 1.0 (xAI)
+
+**Core Services**
+- x.ai
+- grok.com
+- console.x.ai
+- status.x.ai
+
+**API & Documentation**
+- docs.x.ai
+- api.x.ai
+- us-west-1.api.x.ai
+
+**X Platform Integration**
+- x.com
+- twitter.com
+
+**Infrastructure**
+- oracle.com
+- openai.azure.com
+- github.com/xai-org
+
+**Third-Party API Providers**
+- wavespeed.ai
+- openrouter.ai
+- fal.ai
+
+---
+
+### Focal (focalml.com)
+- focalml.com
+- www.focalml.com
+- blog.focalml.com
+- app.focalml.com
+- docs.focalml.com
+- api.focalml.com
+- cdn.focalml.com
+
+---
+
+### Pollo AI
+- pollo.ai
+- www.pollo.ai
+- hub.pollo.ai
+- api.pollo.ai
+- app.pollo.ai
+- docs.pollo.ai
+- cdn.pollo.ai
+- status.pollo.ai
+
+---
+
+### OpenArt
+- openart.ai
+- www.openart.ai
+- openartai.io
+- api.openart.ai
+- cdn.openart.ai
+- app.openart.ai
+- fal.ai
+- github.com/OpenArt-AI
+
+---
+
+### DomoAI
+
+**Core Services**
+- domoai.app
+- www.domoai.app
+- domo-ai.app
+- app.domoai.app
+- cdn.domoai.app
+
+**Documentation & API**
+- docs.domoai.app
+- api.domoai.app
+
+**Discord Integration**
+- discord.com
+- discord.gg/domoai
+
+**Third-Party Sites**
+- apk.domoaiapp.org
+- github.com/DomoAI
