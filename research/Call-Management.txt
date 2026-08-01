@@ -1,0 +1,884 @@
+# PHONE DIALER & CALL MANAGEMENT APPS RESEARCH LIST
+
+## 🚨 TIER 1: CRITICAL THREATS
+
+### Truecaller
+**True Software Scandinavia AB (Sweden) — 350M+ users**
+
+⚠️⚠️⚠️ CRITICAL: 350M+ users, mass contact database uploads, SMS permission, call log access, sells data to third parties.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| truecaller.com | Main domain |
+| truecaller.net | Main domain |
+| truecaller.blog | Blog |
+| truecaller.in | India version |
+| trueauth.com | Auth service |
+| truedialer.com | Dialer service |
+| api.truecaller.com | API endpoint |
+| api4.truecaller.com | SDK validation API |
+| cdn.truecaller.com | CDN |
+| ads.truecaller.com | Ad server |
+| ads-media.truecaller.com | Ad media server |
+| adsmanager.truecaller.com | Ad manager |
+| advertisers.truecaller.com | Advertiser portal |
+| pbssrv-centralevents.com | Telemetry/event server |
+| developer.truecaller.com | Developer portal |
+| docs.truecaller.com | Documentation |
+| truecaller4developers.gitbook.io | SDK docs |
+| oauth.truecaller.com | OAuth 2.0 endpoint |
+| support.truecaller.com | Support portal |
+| pay.truecaller.com | Truecaller Pay service |
+| business.truecaller.com | Business caller ID |
+| status.truecaller.com | Status page |
+| trucaller.com | Typosquat (malicious) |
+
+---
+
+### Showcaller
+**Cheetah Mobile / CMCM (China) — Spyware**
+
+⚠️⚠️⚠️ CRITICAL: China-based company (government access), documented spyware history, excessive permissions.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| showcaller.com | Main domain |
+| showcaller.net | Main domain |
+| leopardmobile.com | Parent company |
+| cheetahmobile.com | Cheetah Mobile |
+| cmcm.com | CMCM |
+| cloud.cmcm.com | Infrastructure |
+| rq.wh.cmcm.com | Infrastructure |
+| dbsu.cmcm.com | Infrastructure |
+| pc001.update.wh.cmcm.com | Update server |
+| pc001.download.wh.cmcm.com | Download server |
+| pc001.update.www.cmcm.com | Update server |
+| dsp.cmcm.com | Ad DSP |
+| dspbackend.cmcm.com | DSP backend |
+| api.showcaller.com | API |
+| g.cmcm.com | Gaming subdomain |
+| dl.cmcm.com | Download server |
+| stat.cmcm.com | Telemetry/statistics |
+| ad.cmcm.com | Ad server |
+| api.cheetahmobile.com | Cheetah Mobile API |
+
+---
+
+### GetContact
+**Getverify LDA (Turkey/Portugal) — Banned in Russia**
+
+⚠️⚠️⚠️ CRITICAL: Banned in Russia for privacy violations; shows names contacts have saved a person under.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| getcontact.com | Main domain |
+| getcontact.net | Main domain |
+| getverify.com | Auth domain |
+| api.getcontact.com | API endpoint |
+| web.getcontact.com | Web interface |
+| app.getcontact.com | App subdomain |
+| static.getcontact.com | Static assets |
+| cdn.getcontact.net | CDN |
+| support.getcontact.com | Support |
+| getcontact.app | App store redirect |
+| pbssrv-centralevents.com | Telemetry/event server |
+
+---
+
+### Hiya
+**Hiya Inc. / Whitepages (USA) — Major data broker**
+
+⚠️⚠️ CRITICAL: Owned by Whitepages (major data broker), extensive people-search database, commercial data sales.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| hiya.com | Main domain |
+| hiya.net | Main domain |
+| mr-number.com | Former name |
+| mrnumber.com | Former name |
+| whitepages.com | Parent company |
+| whitepagesinc.com | Parent company |
+| pro.whitepages.com | Pro service |
+| api.hiya.com | API endpoint |
+| developer.hiya.com | Developer portal |
+| data.youmail.com | Spam-detection API partnership |
+| hiyahelp.zendesk.com | Support |
+| enterprise.hiya.com | Enterprise services |
+| blog.hiya.com | Blog |
+| go.hiya.com | Marketing redirect |
+
+---
+
+## ⚠️ TIER 2: HIGH RISK
+
+### CallApp
+**Israel — Call recording**
+
+⚠️ Call recording features, social media integration, Israeli company.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| callapp.com | Main domain |
+| callapp.net | Main domain |
+| callappcontacts.com | Contacts service |
+| api.callapp.com | API |
+| cdn.callapp.com | CDN |
+| blog.callapp.com | Blog |
+| help.callapp.com | Support |
+
+---
+
+### Eyecon
+**Eyecon (Israel) — Social profile linking**
+
+⚠️ Automatic social profile linking, facial recognition.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| eyecon-app.com | Main domain |
+| eyecon.com | Main domain |
+| api.eyecon-app.com | API endpoint |
+| support.eyecon-app.com | Support portal |
+| eyecon-app.firebaseio.com | Firebase realtime database |
+
+---
+
+### Sync.ME + Drupe
+**Sync.ME LTD (Israel) — ⚠️ SAME COMPANY: Drupe = Sync.ME LTD**
+
+⚠️ 1B+ number social-media database, sells B2B API access, history of privacy violations. Drupe and Sync.ME are the same company.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| sync.me | Main domain |
+| syncme.com | Main domain |
+| api.sync.me | API endpoint |
+| upstreamsystems.com | Parent company (ad fraud) |
+| getdrupe.com | Drupe main domain |
+| drupe.com | Drupe main domain |
+| api.drupe.com | Drupe API |
+| help.getdrupe.com | Drupe support (Zendesk) |
+
+---
+
+### Whoscall / Gogolook
+**Gogolook Co., Ltd. (Taiwan) — Government cooperation**
+
+⚠️ Taiwan-based company (proximity to China), concerns over government cooperation.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| whoscall.com | Main domain |
+| whoscallapp.com | Main domain |
+| gogolook.com | Parent company |
+| gogolookupcorp.com | Corporate domain |
+| files.gogolook.com | File/report server |
+| api.whoscall.com | API endpoint |
+| cdn.whoscall.com | CDN |
+| gogolook.zendesk.com | Support |
+| api.gogolook.com | Main API |
+| watchmen.gogolook.com | Enterprise anti-fraud service |
+| blog.gogolook.com | Blog |
+| whoscall.jp | Japan version |
+| web.whoscall.com | Web interface |
+
+---
+
+### Call Control / YouMail
+**History of FCC violations**
+
+⚠️ History of FCC violations; robocall blocking (good) combined with data collection (bad).
+
+| Domain | Description / Category |
+|--------|------------------------|
+| callcontrol.com | Call Control main domain |
+| youmail.com | YouMail main domain |
+| youmail.net | YouMail domain |
+| youmail.ch | YouMail Switzerland |
+| youmailps.com | YouMail PS |
+| blog.youmail.com | YouMail blog |
+| api.youmail.com | API endpoint |
+| data.youmail.com | Data/spam API |
+| mobile-api.nomorobo.com | Nomorobo integration |
+
+---
+
+### Should I Answer
+**SISW.CZ (Czech Republic) — GDPR complaint history**
+
+⚠️ History of GDPR complaints — a European company with privacy issues.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| shouldianswer.net | Main domain |
+| shouldianswer.com | Main domain |
+| sisw.cz | Developer company |
+| api.shouldianswer.net | API endpoint |
+
+---
+
+### RoboKiller
+**Teltech Systems → Mosaic Group / IAC (NASDAQ: IAC)**
+
+⚠️ 12M+ downloads; premium service combined with data collection.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| robokiller.com | Main domain |
+| teltech.co | Teltech Systems |
+| teltechsystems.com | Teltech Systems |
+| api.robokiller.com | API endpoint |
+| help.robokiller.com | Help center |
+| app.robokiller.com | App subdomain |
+| mosaic.io | IAC/Mosaic Group parent |
+
+---
+
+### TrapCall
+**Teltech Systems — same company as RoboKiller**
+
+⚠️ Unmasks Private/No Caller ID numbers.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| trapcall.com | Main domain |
+| support.trapcall.com | Support |
+
+---
+
+### Nomorobo / Nomorobo Max
+**Telephone Science (Mt. Sinai, NY) — FTC 2013 award winner**
+
+⚠️ 2.5M+ daily active users, database of 11M+ known robocallers.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| nomorobo.com | Main domain |
+| mobile-api.nomorobo.com | Mobile API |
+| api.nomorobo.com | API endpoint |
+
+---
+
+## 🟡 TIER 3: MODERATE RISK (Regional & Newer Platforms)
+
+### Phence
+**India — Community-based, newer generation**
+
+⚠️ New platform, India-based, community-driven spam blocker.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| phence.app | Main domain |
+| phence.io | Main domain |
+
+---
+
+### AT&T ActiveArmor
+**AT&T — potential 100M+ users**
+
+⚠️ AT&T carrier service.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| att.com | AT&T main domain |
+| att.com/security | ActiveArmor page |
+| att.com/activearmor | ActiveArmor page |
+| support.att.com | Support |
+
+---
+
+### Verizon Call Filter
+**Verizon / Cequint — potential 140M+ users**
+
+⚠️ Verizon carrier service, Cequint backend.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| verizon.com | Verizon main domain |
+| cequintvzwecid.com | Cequint Verizon backend |
+| clr-aqx.cequintvzwecid.com | Cequint backend |
+| cequint.com | Cequint main domain |
+
+---
+
+### T-Mobile Scam Shield
+**T-Mobile — potential 100M+ users**
+
+⚠️ T-Mobile carrier service.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| t-mobile.com | T-Mobile main domain |
+| metrobyt-mobile.com | Metro by T-Mobile |
+| callreporting.t-mobile.com | Call reporting |
+| t-mo.co | T-Mobile shortened URL |
+
+---
+
+### Spectrum Call Guard
+**Charter Communications — carrier service**
+
+⚠️ Spectrum carrier service.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| spectrum.com | Spectrum main domain |
+| spectrum.net | Spectrum domain |
+
+---
+
+### CallHound
+**Redwerk OU (Ukraine) — low usage (~30 downloads/month)**
+
+ℹ️ Does not collect data (per verified privacy policy), offline blacklist. Optional rule backup via Facebook/Twitter/Google OAuth.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| callhoundapp.com | Main domain |
+| redwerk.com | Developer company |
+| spamhoundapp.com | Sibling app (SMS) |
+
+---
+
+### Dingtone / RoboCallBlock
+**DINGTONE COMMUNICATIONS, LIMITED (Hong Kong)**
+
+⚠️ Hong Kong company, Dingtone is the parent company.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| robocallblock.com | Main domain |
+| dingtone.com | Dingtone main domain |
+| dingtone.me | Dingtone app site |
+| api.dingtone.me | Dingtone API |
+
+---
+
+### RoboShield
+**AnchorFree → Pango → Aura (USA) — Hotspot Shield bundle**
+
+⚠️ Bundled with Hotspot Shield, made by a VPN company. Aura acquired Pango in 2020.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| roboshield.com | RoboShield main domain |
+| anchorfree.com | AnchorFree (former name) |
+| pango.co | Pango (newer name) |
+| aura.com | Aura (current parent) |
+
+---
+
+### Call Blocker / UnknownPhone.com
+**DEEPDY LTD (UK, 2013) — sells B2B API access**
+
+⚠️ UK company, sells B2B API access, 10M+ number database.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| unknownphone.com | Main domain |
+| callblocker.com | App website + support |
+
+---
+
+### Kaspersky Who Calls
+**Kaspersky Lab (Russia-originated) — standalone spam blocker**
+
+⚠️ Kaspersky standalone spam blocker, uses KSN (Kaspersky Security Network) telemetry.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| kaspersky.com | Kaspersky main domain |
+| whocalls.kaspersky.com | Who Calls landing page |
+| support.kaspersky.com | Support |
+| kaspersky-labs.com | KSN infrastructure |
+| kas-labs.com | Kaspersky sub-domain |
+| labkas.com | Kaspersky sub-domain |
+| kasperskylabs.net | Kaspersky sub-domain |
+| downloads.upd.kaspersky.com | Update server |
+| s00.upd.kaspersky.com | Update server |
+| s01.upd.kaspersky.com | Update server (s02–s19 also exist) |
+| ds.kaspersky.com | Dataset/signature server |
+
+---
+
+### telGuarder
+**telGuarder AS / Caddiesoft (Norway) — Azure infrastructure**
+
+⚠️ Norwegian company, Microsoft Azure backend, 1M+ downloads.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| telguarder.com | Main domain |
+| caddiesoft.com | Backend developer |
+| caddiesoft.no | Norway branch |
+
+---
+
+### Call Ranger
+**Konstantinos Papadakis (Greece) — iOS only**
+
+ℹ️ iOS only, single developer, wildcard blocker.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| callranger.e-papadakis.gr | Main domain |
+| e-papadakis.gr | Developer domain |
+
+---
+
+### WideProtect
+**Valerii Andrusyk (Ukraine) — fully offline**
+
+✅ Operates fully offline, no registration, no data collection.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| wideprotect.app | Main domain |
+
+---
+
+### Numbo
+**Numbo s.r.o. / Master Internet (Czech Republic) — 62M+ database**
+
+⚠️ 62M+ number database; cross-device sync requires backend communication.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| numbo.com | Main domain |
+| master.cz | Android developer (Master Internet) |
+
+---
+
+### OnSilent
+**OnSilent Pty Ltd (Australia) — AI business call manager**
+
+⚠️ Australia-based, AI-powered business call manager.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| onsilent.com | Main domain |
+
+---
+
+### RoboGuard
+**11259164 Canada Inc. (Canada) — iOS only**
+
+⚠️ Canadian company, iOS only.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| roboguard.app | Main domain |
+| get.roboguard.app | Download page |
+
+---
+
+### Call Protect — Kain Suite
+**Kain Suite Pte. Ltd. (Singapore) — iOS only**
+
+⚠️ Singapore company, iOS only.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| (App Store only) | iOS: com.kainsuite.callprotect |
+
+---
+
+### Call Protect — Orave Technologies
+**Orave Technologies — 4.7M+ blocked numbers**
+
+⚠️ Database of 4.7M+ blocked numbers.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| (App Store only) | iOS: com.oravetechnologies.callprotect |
+
+---
+
+### Safest Call Blocker
+**Warez My Software — 1M+ downloads**
+
+⚠️ 1M+ downloads, simple and lightweight spam blocker.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| sites.google.com/view/wmysoftware | Developer site |
+
+---
+
+### Show Caller ID & Spam Blocker
+**Metasol Technologies (Pakistan, founded 1999)**
+
+⚠️ Pakistan-based company, claims a "billions of numbers" database.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| metasoltechnologies.com | Main domain |
+| metasol.cloud | Cloud service |
+
+---
+
+## 🌍 REGIONAL SERVICES
+
+### India
+**India-based services**
+
+| Domain | Description / Category |
+|--------|------------------------|
+| bharatcallerid.com | BharatCaller main domain |
+| bharatcallerapp.com | BharatCaller app site |
+| naam.ai | Naam AI |
+| calltracer.in | CallTracer |
+| calltrack.in | CallTracer |
+| calleridind.com | Caller ID India |
+| mobilenumbertrackerindia.com | Number tracking |
+| truecaller.in | Truecaller India |
+| bharatiyamobile.com | Bharatiya Mobile |
+| trace.bharatiyamobile.com | Number tracking |
+
+---
+
+### Russia / CIS
+**Russia-originated services — subject to surveillance laws**
+
+⚠️ Subject to Russian surveillance law (SORM), mandatory government access.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| yandex.ru | Yandex main domain |
+| yandex.com | Yandex main domain |
+| ya.ru | Yandex short URL |
+| phone.yandex.ru | Yandex Phone |
+| narod.ru | Yandex Narod |
+| appmetrica.yandex.com | Yandex mobile analytics |
+| appmetrica.yandex.ru | Yandex AppMetrica API |
+| api.appmetrica.yandex.ru | AppMetrica management API |
+| redirect.appmetrica.yandex.com | Attribution tracking |
+| impression.appmetrica.yandex.com | Impression attribution |
+| mc.yandex.ru | Metrica counter |
+| metrica.yandex.ru | Web analytics |
+| passport.yandex.ru | Auth service |
+| appmetrica.io | AppMetrica .io domain |
+| call.mail.ru | Mail.ru Call service |
+| mail.ru | Mail.ru main domain |
+| bk.ru | Mail.ru email |
+| inbox.ru | Mail.ru email |
+| list.ru | Mail.ru email |
+| api.mail.ru | Mail.ru API |
+| appsmail.ru | Mail.ru apps |
+| mradx.net | Mail.ru CDN/Ad Exchange |
+| imgsmail.ru | Mail.ru image CDN |
+| mrgcdn.ru | Mail.ru Group CDN |
+| attachmail.ru | Mail.ru attachment service |
+| bizmrg.com | Mail.ru business |
+| smailru.net | Mail.ru CDN/static |
+| vk.com | VK (Mail.ru Group rebrand) |
+| ktozvonil.com | Kto Zvonil service |
+| ktozvonil.ru | Kto Zvonil service |
+| ktozvonill.ru | Kto Zvonil service |
+| opredelitel-nomera.ru | Number identification |
+| rambler.ru | Rambler |
+| abonentik.ru | Abonentik |
+| spravportal.ru | Sprav Portal |
+| mysmsbox.ru | SMS Box |
+| numbuster.com | NumBuster main domain |
+| nmb.st | NumBuster short API domain |
+| apikz2.nmb.st | NumBuster actual API endpoint (reverse-engineered) |
+| app.numbuster.com | NumBuster web app |
+
+---
+
+### Turkey
+**Turkish services**
+
+| Domain | Description / Category |
+|--------|------------------------|
+| numbuster.com | NumBuster (popular in Turkey) |
+| kimaraapp.com | Kimara app |
+| telkim.com | Telkim |
+| numarasorgula.com | Numara Sorgula |
+| probivapi.com | NumBuster scraping API |
+
+---
+
+### Japan / Korea
+**Japan and Korea-based web services**
+
+| Domain | Description / Category |
+|--------|------------------------|
+| whoscall.jp | Whoscall Japan version |
+| web.whoscall.com | Whoscall web interface |
+| telnavi.jp | Telnavi Japan |
+| jpnumber.com | JP Number |
+| denwabango.jp | Denwabango Japan |
+| whooing.co.kr | Whooing Korea |
+| t114.co.kr | T114 Korea |
+
+---
+
+### Middle East / Africa
+**Middle East and Africa-based services**
+
+| Domain | Description / Category |
+|--------|------------------------|
+| dalilimobile.com | Dalili Mobile |
+| callerid.ae | Caller ID UAE |
+| saudicaller.com | Saudi Caller |
+| egyptcaller.com | Egypt Caller |
+
+---
+
+### Europe — Germany
+**Sellwerk GmbH & Co. KG / validio GmbH (Nuremberg)**
+
+⚠️ Android: incoming numbers are sent to the Clever Dialer web service.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| clever-dialer.de | Main domain |
+| cleverdialer.app | App site |
+| cleverdialer.com | International |
+| cleverdialer.de | Germany |
+| cleverdialer.at | Austria |
+| cleverdialer.ch | Switzerland |
+| cleverdialer.co.uk | United Kingdom |
+| cleverdialer.es | Spain |
+| cleverdialer.mx | Mexico |
+| docs.cleverdialer.com | Documentation |
+| anrufer-info.de | Legacy domain |
+| sellwerk.de | Parent company |
+| validio.de | iOS developer entity |
+| api.tellows.de | Tellows API endpoint |
+
+---
+
+### Latin America
+**Latin America-based services**
+
+| Domain | Description / Category |
+|--------|------------------------|
+| quemmeligou.com.br | Quem Me Ligou (Brazil) |
+| quienllamamexico.com | Quien Llama (Mexico) |
+| quienmellamaencolombia.com | Quien Me Llama (Colombia) |
+
+---
+
+## 🟢 TIER 4: LOW RISK / OPEN SOURCE / NATIVE
+
+### Google Phone App (Call Screen)
+**Google — Built-in feature**
+
+ℹ️ Built into Android, com.google.android.dialer.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| googleapis.com | Google API |
+| support.google.com | Google Support |
+
+---
+
+### Samsung Smart Call (Hiya Powered)
+**Samsung One UI — Hiya backend**
+
+⚠️ Native to Samsung but uses the Hiya backend.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| samsungapps.com | Samsung Apps |
+| samsung.com | Samsung |
+| hiya.com | Hiya backend (Samsung partnership) |
+| api.hiya.com | Hiya API |
+
+---
+
+### Open Source Apps
+**Open source — generally safe**
+
+✅ Open source, no data collection.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| github.com/kaliturin/BlackList | Calls Blacklist source code |
+| github.com/x13a/Silence | Silence source code |
+| f-droid.org | F-Droid store |
+| gitlab.com/xynngh/YetAnotherCallBlocker | YACB source code |
+| github.com/Vinetos/Tranquille | Tranquille source code |
+| github.com/aj3423/SpamBlocker | SpamBlocker source code |
+| felenasoft.com/knowncalls | KnownCalls |
+| knowncalls.com | KnownCalls |
+| serenity-apps.com | Sereniphone (iOS) |
+
+---
+
+## 🔵 TIER 5: PHONE DIALER REPLACEMENT APPS
+
+### Right Dialer (Goodwy)
+**Goodwy — 16M+ downloads, open source**
+
+⚠️ Open source but 16M+ users, iOS-16-style interface. A vulnerability, CVE-2024-36063, was identified.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| github.com/Goodwy | Goodwy GitHub organization |
+
+---
+
+### Simple Dialer
+**Simple Mobile Tools → ZipoApps (Israel, 2023)**
+
+⚠️ CRITICAL STATUS CHANGE: acquired by Israel-based ZipoApps in 2023. Ads were added, and it was removed from F-Droid. No longer Tier 4.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| simplemobiletools.com | Simple Mobile Tools (former) |
+| github.com/SimpleMobileTools | GitHub (former) |
+| zipoapps.com | ZipoApps (new owner — Israel) |
+| fossify.org | Fossify fork (safe alternative) |
+
+---
+
+### RocketDial — DISCONTINUED
+**Inteligeen — removed from Play Store in 2018**
+
+❌ DISCONTINUED: removed in 2018.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| (Discontinued) | Platform removed in 2018 |
+
+---
+
+### Contacts+ (Nextiva)
+**Nextiva — enterprise communications platform**
+
+⚠️ Enterprise contact-management solution.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| contacts.plus | Main domain |
+| contacts.app | App domain |
+| nextiva.com | Parent company |
+| api.nextiva.com | Nextiva REST API |
+| support.nextiva.com | Support portal |
+
+---
+
+### ExDialer (Modoohut — ORIGINAL) — DISCONTINUED
+**Modoohut — removed from Play Store in 2019**
+
+❌ DISCONTINUED: removed in 2019.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| (Discontinued) | Platform removed in 2019 |
+
+---
+
+### ExDialer (360brains — NEW VERSION)
+**360brains-apps — active, 1.5M+ downloads**
+
+⚠️ New developer, distinct from the original ExDialer.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| (Google Play only) | com.app360brains.exDialer |
+
+---
+
+### True Phone Dialer & Contacts (Hamster Beat)
+**QIZ LTD (Russia, Moscow) — 10M–20M downloads**
+
+⚠️ CRITICAL: certificate analysis points to Moscow (CN=exi, O=exi, L=msk, C=ru). QIZ LTD, Balashikha, Moscow region. Developer appears inactive.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| hamsterbeat.com | Main domain |
+| hambt.com | CDN/download domain |
+| doc.hamsterbeat.com | EULA and privacy policy |
+| dl.hambt.com | Magisk module download |
+
+---
+
+### Vani Dialer
+**Bolo International Limited — 5M+ downloads**
+
+⚠️ Voice-command dialer, 5M+ downloads, screen sharing during calls.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| (Google Play only) | com:bolo.codeplay.com.bolo |
+
+---
+
+### Easy Phone (LSM Apps)
+**LSM Apps / YT Dev — Tel Aviv, Israel — 10M+ downloads**
+
+⚠️ Israeli company, 10M+ downloads, latest update requires Facebook/Google login.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| lsmapps.com | LSM Apps main domain |
+
+---
+
+### SmartCaller (Transsion Holdings)
+**Transsion Holdings (China) — 870M+ downloads, OEM**
+
+⚠️ OEM dialer, made by Transsion Holdings (TECNO/Infinix/itel), 870M+ downloads.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| transsion.com | Parent company |
+| carlcare.com | After-sales service |
+| tecno-mobile.com | TECNO brand |
+| infinixmobility.com | Infinix brand |
+| itel-mobile.com | itel brand |
+| palmstore.com | Transsion app store |
+
+---
+
+### My Photo Phone Dialer (Judi Studio)
+**Judi Studio — 27M+ downloads**
+
+⚠️ Photo-customizable dialer, 27M+ downloads.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| (Google Play only) | com.judi.dialcolor |
+
+---
+
+### Smart Notify (Milan Vyšata)
+**Milan Vyšata, Tachov, Czech Republic — 1M+ downloads**
+
+⚠️ Dialer + SMS + notifications, Czech developer, 1M+ downloads.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| (Google Play only) | com.kuma.smartnotify |
+
+---
+
+### Metro Phone Dialer (Launchers World)
+**Launchers World — 500K+ downloads**
+
+⚠️ Microsoft Metro UI design, 500K+ downloads.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| launchersworld.com | Main domain |
+
+---
+
+### Contakts — DISCONTINUED
+**Removed from Google Play in 2024–2025**
+
+❌ DISCONTINUED: removed 2024–2025.
+
+| Domain | Description / Category |
+|--------|------------------------|
+| (Discontinued) | Platform removed |
+
+| Domain | Description / Category |
+|--------|------------------------|
+| undeleter.fahrbot.co.uk | Fahrbot's other product |
+| fahrbot.co.uk | Fahrbot main domain |
