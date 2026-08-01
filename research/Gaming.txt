@@ -1,0 +1,2200 @@
+# GAMING RESEARCH LIST
+
+---
+
+## 🔴 RIOT GAMES / VANGUARD (KERNEL-LEVEL, 100% TENCENT)
+
+> ⚠ Vanguard anti-cheat operates at kernel level. 100% tied to Tencent.
+
+**Core Platform:**
+- riotgames.com
+- www.riotgames.com
+- playvalorant.com
+- www.playvalorant.com
+- leagueoflegends.com
+- www.leagueoflegends.com
+- valorant.com
+- teamfighttactics.com
+- wildrift.leagueoflegends.com
+- avatar.leagueoflegends.com
+- products.riotgames.com
+- riotcdn.net
+
+**Vanguard Anti-Cheat (KERNEL LEVEL!):**
+- vanguard.riotgames.com
+- endpoints.riotgames.com
+- client-config.riotgames.com
+- acs.leagueoflegends.com
+- entitlements.auth.riotgames.com
+- clientconfig.rpg.riotgames.com
+
+**Authentication & Account:**
+- auth.riotgames.com
+- account.riotgames.com
+- account-public-service-prod.ol.riotgames.com
+- signup.leagueoflegends.com
+- recovery.riotgames.com
+
+**Telemetry & Analytics:**
+- telemetry.riotgames.com
+- analytics.riotgames.com
+- data.riotgames.com
+- ekg.riotgames.com
+- metrics.riotgames.com
+- events.riotgames.com
+
+**Social & Chat:**
+- chat.riotgames.com
+- riot-geo.pas.si.riotgames.com
+- voice-chat.riotgames.com
+
+**CDN & Assets:**
+- ddragon.leagueoflegends.com
+- valorant-api.com
+- static.riotgames.com
+- images.contentstack.io
+- lolstatic-a.akamaihd.net
+- l3cdn.riotgames.com
+- lol.secure.dyn.riotcdn.net
+- content.riotgames.com
+- developer.riotgames.com
+- support-leagueoflegends.riotgames.com
+- support-valorant.riotgames.com
+
+**API Services (Regional):**
+- americas.api.riotgames.com
+- europe.api.riotgames.com
+- asia.api.riotgames.com
+- sea.api.riotgames.com
+- na1.api.riotgames.com
+- euw1.api.riotgames.com
+- br1.api.riotgames.com
+- eun1.api.riotgames.com
+- jp1.api.riotgames.com
+- kr.api.riotgames.com
+- la1.api.riotgames.com
+- la2.api.riotgames.com
+- oc1.api.riotgames.com
+- ru.api.riotgames.com
+- tr1.api.riotgames.com
+- pbe1.api.riotgames.com
+
+---
+
+## 🔴 TENCENT WEGAME (CHINA)
+
+**Core Platform:**
+- wegame.com
+- www.wegame.com
+- wegame.qq.com
+- wegame.com.cn
+- tgp.qq.com
+- dlied1.qq.com
+- dldir1.qq.com
+- tencent.com
+- qq.com
+- qcloud.com
+- tcss.qq.com
+- myapp.com
+- tgideas.com
+
+**CDN & Downloads:**
+- down.qq.com
+- dldir2.qq.com
+- dldir3.qq.com
+
+**Telemetry:**
+- pingma.qq.com
+- aegis.qq.com
+- btrace.qq.com
+
+**Update Services:**
+- update.wegame.com.cn
+- ossweb-img.qq.com
+
+---
+
+## 🔴 HOYOVERSE / MIHOYO (CHINESE COMPANY)
+
+> ⚠ Contains mhyprot2.sys, a kernel-level anti-cheat driver.
+
+**Core Platform:**
+- genshin.hoyoverse.com
+- genshin.mihoyo.com
+- account.hoyoverse.com
+- account.mihoyo.com
+- hoyoverse.com
+- mihoyo.com
+- webstatic.mihoyo.com
+- webstatic.hoyoverse.com
+
+**Telemetry & Logging:**
+- log-upload.mihoyo.com
+- log-upload-os.hoyoverse.com
+- log-upload-os.mihoyo.com
+- log-upload.hoyoverse.com
+- sdk-os-static.mihoyo.com
+- sdk-static.mihoyo.com
+- overseauspider.yuanshen.com
+- uspider.yuanshen.com
+- devlog-upload.mihoyo.com
+
+**API & Services:**
+- api-os-takumi.mihoyo.com
+- api-takumi.mihoyo.com
+- hk4e-api-os.mihoyo.com
+- hk4e-api.mihoyo.com
+- hk4e-sdk-os.mihoyo.com
+- hk4e-sdk.mihoyo.com
+- hk4e-api-os-static.mihoyo.com
+- hk4e-sdk-os.hoyoverse.com
+- hk4e-api-os.hoyoverse.com
+- api-account-os.hoyoverse.com
+- sdk.hoyoverse.com
+- sdk-os-static.hoyoverse.com
+- api-beta-sdk.mihoyo.com
+- api-beta-sdk-os.mihoyo.com
+- minor-api-os.hoyoverse.com
+- gameapi-account.mihoyo.com
+- minor-api.mihoyo.com
+- public-data-api.mihoyo.com
+- hk4e-sdk-os-static.hoyoverse.com
+- sg-public-api.hoyoverse.com
+- act.hoyoverse.com
+
+**CDN & Downloads:**
+- upload-os-bbs.mihoyo.com
+- ys-api-os.mihoyo.com
+- autopatchcn.yuanshen.com
+- autopatchos.yuanshen.com
+- webstatic-sea.hoyoverse.com
+- webstatic-sea.mihoyo.com
+- dispatchosglobal.yuanshen.com
+- osusadispatch.yuanshen.com
+- dispatchcntest.yuanshen.com
+- dispatchcnglobal.yuanshen.com
+- cnbeta01dispatch.yuanshen.com
+- cnbeta02dispatch.yuanshen.com
+
+**Other HoYoverse Games:**
+- honkaiimpact3.mihoyo.com
+- honkaistarrail.com
+- zenlesszonezero.com
+- act.hoyolab.com
+- bbs.mihoyo.com
+- miyoushe.com
+- genshinimpact.hoyoverse.com
+- hsr.hoyoverse.com
+- zenless.hoyoverse.com
+
+---
+
+## 🔴 ANTI-CHEAT SYSTEMS
+
+**Easy Anti-Cheat (EAC) — Epic Games:**
+- easyanticheat.net
+- www.easyanticheat.net
+- api-easyanticheat.client-service.com
+- module-eac-client.eac-prod.on.epicgames.com
+- module-eac.eac-prod.on.epicgames.com
+- eac-cdn.com
+- download.eac-cdn.com
+- api.anticheat.rblx.com
+- eac-public-service-prod-m1.ol.epicgames.com
+- events-eac.ol.epicgames.com
+- eac-events.ol.epicgames.com
+
+**BattlEye Anti-Cheat:**
+- battleye.com
+- www.battleye.com
+- api.battleye.com
+- client.battleye.com
+- launcher.battleye.com
+- download.battleye.com
+- cdn.battleye.com
+- telemetry.battleye.com
+- events.battleye.com
+
+**Denuvo Anti-Tamper:**
+
+> ⚠ The codefusion.technology domain expired in 2021 — this broke games that depended on it!
+
+- denuvo.com
+- denuvocdn.com
+- activation.denuvo.com
+- irdeto.com
+
+**nProtect GameGuard (INCA Internet — South Korea):**
+- nprotect.com
+- inca.co.kr
+- npgamemon.com
+- nprotect.net
+- gameguard.nprotect.com
+- gameguardfaq.nprotect.com
+- eng.nprotect.com
+- www.gameguard.co.kr
+- update.nprotect.com
+- patch.npgamemon.com
+- report.inca.co.kr
+- log.npgamemon.com
+
+---
+
+## 🟠 STEAM / VALVE
+
+**Main Domains:**
+- steampowered.com
+- steamcommunity.com
+- steamgames.com
+- steamstatic.com
+- steamusercontent.com
+- steam-api.com
+- steam-chat.com
+- steamcontent.com
+- steamdeck.com
+- steamserver.net
+- valvesoftware.com
+- underlords.com
+- valve.net
+- store.steampowered.com
+- help.steampowered.com
+- cs.steampowered.com
+- s.team
+
+**API:**
+- api.steampowered.com
+- community.steam-api.com
+
+**CDN — Akamai:**
+- cdn.steampowered.com
+- cdn.akamai.steamstatic.com
+- cdn.cloudflare.steamstatic.com
+- steamcdn-a.akamaihd.net
+- steamcommunity-a.akamaihd.net
+- steambroadcast.akamaized.net
+- steammobile.akamaized.net
+- steampipe.akamaized.net
+- steampipe-kr.akamaized.net
+- steampipe-partner.akamaized.net
+- steamstore-a.akamaihd.net
+- steamuserimages-a.akamaihd.net
+- steamvideo-a.akamaihd.net
+- steamusercontent-a.akamaihd.net
+- clientconfig.akamai.steamstatic.com
+- community.fastly.steamstatic.com
+
+**CDN — Highwinds:**
+- a4e8s8k3.map2.ssl.hwcdn.net
+- f3b7q2p3.ssl.hwcdn.net
+
+**CDN — Regional:**
+- edge.steam-dns.top.comcast.net
+- steam.apac.qtlglb.com
+- steam.eca.qtlglb.com
+- steam.naeu.qtlglb.com
+- steam.ru.qtlglb.com
+- steam.cdn.on.net
+- steam.cdn.orcon.net.nz
+- steam.cdn.webra.ru
+- steam.cdn.slingshot.co.nz
+- content1-8.steampowered.com
+
+**CDN — China:**
+- cdn-ali.content.steamchina.com
+
+**SteamVR:**
+- steamvr.steampowered.com
+- developer.valvesoftware.com
+
+---
+
+## 🟠 EPIC GAMES STORE (40% TENCENT)
+
+**Core Platform:**
+- epicgames.com
+- www.epicgames.com
+- store.epicgames.com
+- ol.epicgames.com
+- epicgamescdn.com
+
+**Acquired Companies/Tools:**
+- artstation.com
+- fab.com
+- sketchfab.com
+- quixel.com
+- twinmotion.com
+- radgametools.com
+
+**Authentication & Account:**
+- account-public-service-prod03.ol.epicgames.com
+- launcher-public-service-prod06.ol.epicgames.com
+- launcher-website-prod07.ol.epicgames.com
+- launcherwaitingroom-public-service-prod06.ol.epicgames.com
+- entitlement-public-service-prod08.ol.epicgames.com
+- eulatracking-public-service-prod06.ol.epicgames.com
+- oauth-public-service-prod.ol.epicgames.com
+- accountportal-website-prod07.ol.epicgames.com
+- accounts.launcher-website-prod07.ol.epicgames.com
+- api.epicgames.dev
+- egp-idsoc-proxy-prod.ol.epicgames.com
+
+**Telemetry & Analytics:**
+- tracking.epicgames.com
+- analytics.epicgames.com
+- datarouter.ol.epicgames.com
+- metrics.ol.epicgames.com
+- perf-events-public-service.ol.epicgames.com
+- events-public-service-live.ol.epicgames.com
+
+**Social Features:**
+- friends-public-service-prod06.ol.epicgames.com
+- presence-public-service.ol.epicgames.com
+- party-service-prod.ol.epicgames.com
+- voice-public-service.ol.epicgames.com
+
+**Downloads & CDN:**
+- download.epicgames.com
+- download2.epicgames.com
+- download3.epicgames.com
+- download4.epicgames.com
+- epicgames-download1.akamaized.net
+- fastly-download.epicgames.com
+- static-assets-prod.epicgames.com
+- media-cdn.epicgames.com
+- store-site-backend-static.ak.epicgames.com
+- store-content.ak.epicgames.com
+- egdownload.fastly-edge.com
+- epicgames-download*.akamaized.net
+- cdn1-epicgames-*.file.myqcloud.com (CN)
+
+**Unreal Engine:**
+- unrealengine.com
+- cdn1.unrealengine.com
+- cdn2.unrealengine.com
+- telemetry.unrealengine.com
+- datarouter.ue.epicgames.com
+
+**Fortnite:**
+- fortnite.com
+- www.fortnite.com
+- fn-service-prod.ecosec.on.epicgames.com
+
+**Support & Services:**
+- graphql.epicgames.com
+- catalog-public-service-prod06.ol.epicgames.com
+- lightswitch-public-service-prod06.ol.epicgames.com
+- orderprocessor-public-service-ecomprod01.ol.epicgames.com
+- ut-public-service-prod10.ol.epicgames.com
+- library-service.live.use1a.on.epicgames.com
+- datastorage-public-service-liveegs.live.use1a.on.epicgames.com
+- acc-launcher-public-service-prod06.ol.epicgames.com
+
+---
+
+## 🟠 ORIGIN / EA APP
+
+**Core Platform:**
+- origin.com
+- www.origin.com
+- ea.com
+- easports.com
+- eamobile.com
+- swtor.com
+
+**API:**
+- api.origin.com
+- api1.origin.com
+- api2.origin.com
+- api3.origin.com
+- api4.origin.com
+
+**Authentication:**
+- accounts.ea.com
+- signin.ea.com
+- connect.ea.com
+- login.ea.com
+
+**Telemetry:**
+- telemetry.ea.com
+- pin-river.data.ea.com
+- nexus.ensighten.com
+- metrics.ea.com
+- telem.ea.com
+- rtm.tnt-ea.com
+- river.data.ea.com
+
+**Social & Gateway:**
+- gateway.ea.com
+- friends.dm.origin.com
+- chat.dm.origin.com
+- social.dm.origin.com
+
+**CDN & Downloads:**
+- cdn.ea.com
+- akamai.cdn.ea.com
+- akamaihd.net
+- ssl.lvlt.cdn.ea.com
+- origin-a.akamaihd.net
+- eaassets-a.akamaihd.net
+- cloudsync-prod.s3.amazonaws.com
+
+**Game Services:**
+- game-api.dm.origin.com
+- achievements-api.dm.origin.com
+- cloudstorage-api.dm.origin.com
+
+---
+
+## 🟠 UBISOFT CONNECT (formerly UPlay)
+
+**Core Platform:**
+- ubisoft.com
+- www.ubisoft.com
+- ubi.com
+- ubisoftconnect.com
+- connect.ubisoft.com
+- ubisoft.net
+
+**Services:**
+- public-ubiservices.ubi.com
+- public-ws.prod.ubi.com
+- uplayconnect.ubi.com
+- uplay-prod-or-wekrdfv8kh.s3.amazonaws.com
+- msr-public-ubiservices.ubi.com
+- dmx.upc.ubisoft.com
+
+**Telemetry:**
+- gdc-mrax-qos-ams4-rkl.r.cloudfront.net
+- stats.ubi.com
+- orbit-telemetry.ubi.com
+- smetrics.ubi.com
+- try.abtasty.com
+- cdn.cquotient.com
+- www.datadoghq-browser-agent.com
+
+**CDN:**
+- static1.cdn.ubi.com
+- static2.cdn.ubi.com
+- static3.cdn.ubi.com
+- uplaypc-s-ubisoft.cdn.ubionline.com
+- ubisoft-orbit-savegames.s3.amazonaws.com
+- static8.cdn.ubi.com
+
+**Game Services:**
+- dmm.ubisoft.com
+- overlay.ubisoft.com
+
+---
+
+## 🟠 ROCKSTAR GAMES LAUNCHER
+
+**Core Platform:**
+- rockstargames.com
+- www.rockstargames.com
+- socialclub.rockstargames.com
+- launcher.rockstargames.com
+- newswire.rockstargames.com
+- gtav.social.rockstargames.com
+
+**Game Services:**
+- gameservices.rockstargames.com
+- ros.rockstargames.com
+- prod.ros.rockstargames.com
+- rgos.ros.rockstargames.com
+- scapi.rockstargames.com
+- api.rockstargames.com
+
+**Telemetry:**
+- telemetry.rockstargames.com
+- prod.telemetry.ros.rockstargames.com
+- telemetry-api.rockstargames.com
+- rsg.sc.omtrdc.net
+
+**CDN:**
+- media.rockstargames.com
+- downloads.rockstargames.com
+- videos.rockstargames.com
+- cdn.rockstargames.com
+- cdn.sc.rockstargames.com
+- patches.rockstargames.com
+
+**Authentication:**
+- auth.rockstargames.com
+- signin.rockstargames.com
+- support.rockstargames.com
+- prod.cloud.rockstargames.com
+
+---
+
+## 🟠 BATTLE.NET (BLIZZARD)
+
+**Core Platform:**
+- battle.net
+- www.battle.net
+- blizzard.com
+
+**CDN:**
+- level3.blizzard.com
+- us.cdn.blizzard.com
+- eu.cdn.blizzard.com
+- kr.cdn.blizzard.com
+- level3.ssl.blizzard.com
+- blzddist1-a.akamaihd.net
+- blzddistkr1-a.akamaihd.net
+- blizzard.gcdn.cloudn.co.kr
+- blzdist-phx.necdn.leihuo.netease.com
+
+**Launcher/API:**
+- eu.launcher.battle.net
+- us.launcher.battle.net
+
+**Telemetry:**
+- telemetry-in.battle.net
+
+**Game Subdomains (Wildcard):**
+- *.battlenet.com.cn
+- *.blizzardapp.com
+- *.blizzardgearstore.com
+- *.blzstatic.com
+- *.bnetstorage.com
+- *.diablo.com
+- *.hearthstone.com
+- *.heroesofthestorm.com
+- *.overwatch.com
+- *.overwatchleague.com
+- *.playdiablo4.com
+- *.playhearthstone.com
+- *.playoverwatch.com
+- *.starcraft.com
+- *.starcraft2.com
+- *.warcraft.com
+- *.worldofwarcraft.com
+- *.worldofwarcraft.ru
+- *.blizzard.tw
+- *.blizzard.kr
+- *.blizzard.cn
+- *.blizzcon.com
+- *.blizzard.games
+
+---
+
+## 🟠 XBOX / MICROSOFT
+
+**Main Domains:**
+- xboxlive.com
+- xbox.com
+- microsoft.com
+- windowsupdate.com
+- gamepass.com
+- www.msftncsi.com
+
+**API/Services:**
+- mediahub.xboxlive.com
+- gameclipscontent-d2009.xboxlive.com
+- attestation.xboxlive.com
+- cert.mgt.xboxlive.com
+- device.auth.xboxlive.com
+- title.auth.xboxlive.com
+- title.mgt.xboxlive.com
+- xsts.auth.xboxlive.com
+- eds.xboxlive.com
+- licensing.xboxlive.com
+- notify.xboxlive.com
+- help.ui.xboxlive.com
+- def-vef.xboxlive.com
+- xflight.xboxlive.com
+- xkms.xbolive.com
+- xboxexperiencesprod.experimentation.xboxlive.com
+- displaycatalog.mp.microsoft.com
+- catalog.gamepass.com
+- reco-public.rec.mp.microsoft.com
+- collections.mp.microsoft.com
+- purchase.mp.microsoft.com
+
+**Telemetry/Analytics:**
+- v10.vortex-win.data.microsoft.com
+- v20.events.data.microsoft.com
+- v10.events.data.microsoft.com
+- web.vortex.data.microsoft.com
+- watson.telemetry.microsoft.com
+- settings-win.data.microsoft.com
+
+**Delivery Optimization:**
+- *.do.dsp.mp.microsoft.com
+- emdl.ws.microsoft.com
+- tsfe.trafficshaping.dsp.mp.microsoft.com
+- xbox.ipv6.microsoft.com
+- ctldl.windowsupdate.com
+
+---
+
+## 🟠 PLAYSTATION NETWORK
+
+**Main Domains:**
+- playstation.com
+- playstation.net
+- store.playstation.com
+- psn.net
+- sony.com
+- sonyentertainmentnetwork.com
+- ribob01.net
+
+**API/Services:**
+- api.playstation.com
+- ca.account.sony.com
+- post.net.playstation.net
+- get.net.playstation.net
+- ena.net.playstation.net
+
+**Network Services (Wildcard):**
+- *.ps4.update.playstation.net
+- *.np.community.playstation.net
+- *.np.dl.playstation.net
+- *.np.communication.playstation.net
+- *.np.stun.playstation.net
+- *.np.ac.playstation.net
+
+**Telemetry:**
+- telemetry-console.api.playstation.com
+
+**CDN:** Akamai CDN
+
+---
+
+## 🟠 GOG GALAXY
+
+**Main Domains:**
+- gog.com
+- gogalaxy.com
+
+**API/Services:**
+- api.gog.com
+- auth.gog.com
+- users.gog.com
+- products.gog.com
+- gameplay.gog.com
+- galaxy-client-update.gog.com
+- cfg.gog.com
+- chat.gog.com
+- cloudstorage.gog.com
+- content-system.gog.com
+- embed.gog.com
+- external-accounts.gog.com
+- external-users.gog.com
+- galaxy-library.gog.com
+- galaxy-log.gog.com
+- gamesdb.gog.com
+- insights-collector.gog.com
+- notifications-pusher.gog.com
+- notifications.gog.com
+- presence.gog.com
+- remote-config.gog.com
+- api.gogalaxy.com
+- marketing-sections.gog.com
+
+**CDN:**
+- cdn.gog.com
+- gog-cdn-fastly.gog.com
+- gog-cdn.us-eu.map.fastly.net
+- cdn-akamai-ec.gog-services.com
+
+---
+
+## 🟠 AMAZON GAMES
+
+**Main Domains:**
+- amazongames.com
+- gaming.amazon.com
+- primegaming.com
+- id.amazongames.com
+- help.id.amazongames.com
+- amazongamestudios.com
+- luna.amazon.com
+
+**Infrastructure (Wildcard):**
+- *.cloudfront.net
+- *.execute-api.*.amazonaws.com
+- *.kinesis.*.amazonaws.com
+
+**CDN:** Amazon CloudFront + AWS (Kinesis, S3, API Gateway, Lambda)
+
+---
+
+## 🟠 HUMBLE BUNDLE
+
+**Main Domains:**
+- humblebundle.com
+
+**API/Services:**
+- hr-humblebundle.appspot.com
+- api.humblebundle.com
+- support.humblebundle.com
+
+**CDN:**
+- dl.humble.com
+- humblebundle-a.akamaihd.net
+
+---
+
+## 🟠 BETHESDA.NET LAUNCHER
+
+> ❌ SHUT DOWN — May 2023 (Migration to Steam/Microsoft)
+
+**Domain List (Reference):**
+- bethesda.net
+- launcher.bethesda.net
+- bethesdacdn.com
+- api.bethesda.net
+- account.bethesda.net
+- services.bethesda.net
+- mods.services.bethesda.net
+- mods.bethesda.net
+- cdn.bethesda.net
+
+---
+
+## 🟠 ARC GAMES (formerly Perfect World Entertainment)
+
+> ⚠ Renamed from Gearbox Publishing SF to Arc Games in 2024. Sold from Embracer to Project Golden Arc in November 2025.
+
+**Main Domains:**
+- arcgames.com
+- www.arcgames.com
+- perfectworld.com
+- community.arcgames.com
+
+**API/Services:**
+- api.arcgames.com
+- auth.arcgames.com
+- patcher.arcgames.com
+- support.arcgames.com
+- pwi.perfectworld.com
+
+**Studio/Game Domains:**
+- crypticstudios.com
+- playneverwinter.com
+- playstartrekonline.com
+- championsonline.com
+
+---
+
+## 🟠 NEXON LAUNCHER
+
+**Main Domains:**
+- nexon.com
+- nexon.net
+- games.nexon.net
+
+**API/Services:**
+- api.nexon.io
+- openapi.nexon.com
+- nxl.nexon.net
+- nxl.nxfs.nexon.com
+- nxfs.nexon.com
+- account.nexon.com
+
+**Download/Support:**
+- download.nexon.net
+- support.nexon.net
+- maplestory.nexon.net
+- forums.maplestory.nexon.net
+- patch.nexon.net
+
+---
+
+## 🟠 NCSOFT / LINEAGE
+
+> ⚠ In 2024, nc.com was activated as the new main domain. NCSoft rebranded to NC.
+
+**Core Platform:**
+- ncsoft.com
+- plaync.com
+- nc.com
+- ncwest.com
+- account.ncsoft.com
+- purple.plaync.com
+- help.plaync.com
+- developers.plaync.com
+
+**Game Domains:**
+- lineagew.plaync.com
+- lineage2m.plaync.com
+- na-lineage2.plaync.com
+- aion.plaync.com
+- bladeandsoul.plaync.com
+- throneandliberty.plaync.com
+- tl.plaync.com
+- nc-cdn.plaync.com
+
+---
+
+## 🟠 WARGAMING.NET (World of Tanks)
+
+**Main Domains:**
+- wargaming.net
+- worldoftanks.com
+- worldofwarships.com
+
+**CDN:**
+- dl.wargaming.net
+- wgcdn.co
+
+**API (Regional):**
+- api.wargaming.net
+- api.worldoftanks.com
+- api.worldoftanks.eu
+- api.worldoftanks.asia
+- api.worldoftanks.ru
+- api.worldofwarships.com
+- api.worldofwarships.eu
+- api.worldofwarships.asia
+- api.worldofwarships.ru
+- developers.wargaming.net
+
+---
+
+## 🟠 SQUARE ENIX (Final Fantasy XIV)
+
+- square-enix.com
+- finalfantasyxiv.com
+- secure.square-enix.com
+- frontier.ffxiv.com
+- sqex.to
+- patch-dl.ffxiv.com
+- patch-gamever.ffxiv.com
+- mogstation.com
+
+---
+
+## 🟠 PARADOX LAUNCHER
+
+**Main Domains:**
+- paradoxplaza.com
+- paradoxinteractive.com
+
+**API/Services:**
+- forum.paradoxplaza.com
+- api.paradoxplaza.com
+- launcher-api.paradoxplaza.com
+- launcher.paradoxinteractive.com
+- mods.paradoxplaza.com
+- accounts.paradoxplaza.com
+- cdn.paradoxplaza.com
+- pdxmods.com
+
+**CDN:**
+- forumcontent.paradoxplaza.com
+
+---
+
+## 🟠 GAIJIN ENTERTAINMENT (War Thunder)
+
+- gaijin.net
+- gaijinent.com
+- warthunder.com
+- login.gaijin.net
+- update.gaijin.net
+- support.gaijin.net
+- forum.warthunder.com
+- dldata-warthunder.cdn.gaijin.net
+- cdn.gaijin.net
+
+**CDN:** Gcore Labs CDN
+
+---
+
+## 🟠 GLYPH LAUNCHER (Trion Worlds / Gamigo)
+
+**Main Domains:**
+- glyph.net
+- trionworlds.com
+- gamigo.com
+- glyph-games.com
+
+**Services:**
+- glyph.trionworlds.com
+- account.trionworlds.com
+- api.gamigo.com
+- support.gamigo.com
+- login.gamigo.com
+- store.gamigo.com
+- one.gamigo.com
+
+---
+
+## 🟠 PLARIUM PLAY
+
+- plarium.com
+- plariumplay.com
+- plariumplay-support.plarium.com
+- company.plarium.com
+- cdn01.x-plarium.com
+- docs.plarium.com
+
+**CDN:** Plarium CDN
+
+---
+
+## 🟠 JAGEX LAUNCHER (RuneScape)
+
+- jagex.com
+- runescape.com
+- content.runescape.com
+
+---
+
+## 🟠 NINTENDO SWITCH (eShop)
+
+**Main Domains:**
+- nintendo.net
+- nintendo.com
+- n.nintendoswitch.cn
+- accounts.nintendo.com
+- *.baas.nintendo.com
+- *.cdn.nintendo.net
+
+**CDN Services:**
+- sun.hac.lp1.d4c.nintendo.net
+- aqua.hac.lp1.d4c.nintendo.net
+- atum.hac.lp1.d4c.nintendo.net
+- atumn.hac.lp1.d4c.nintendo.net
+- superfly.hac.lp1.d4c.nintendo.net
+- tagaya.hac.lp1.d4c.nintendo.net
+- beach.hac.lp1.d4c.nintendo.net
+- pearljam.hac.lp1.eshop.nintendo.net
+- tigers.hac.lp1.d4c.nintendo.net
+- veer.hac.lp1.d4c.nintendo.net
+- bugyo.hac.lp1.eshop.nintendo.net
+- dragons.hac.lp1.dragons.nintendo.net
+- bcat-data-lp1.cdn.nintendo.net
+- bcat-topics-lp1.cdn.nintendo.net
+- bcat-list-lp1.cdn.nintendo.net
+- scsi-policy-lp1.cdn.nintendo.net
+- idbe-p01.cdn.nintendo.net
+- atum-img-lp1.cdn.nintendo.net
+
+**Shop API & Services:**
+- ecs.hac.shop.nintendo.net
+- aauth.lp1.srv.nintendo.net
+- dauth.lp1.srv.nintendo.net
+- app.lp1.five.nintendo.net
+- storage.p01.lp1.scsi.srv.nintendo.net
+- policy.p01.lp1.scsi.srv.nintendo.net
+- transfer.p01.lp1.banco.srv.nintendo.net
+- download.p01.lp1.banco.srv.nintendo.net
+- nemof.p01.lp1.nemo.srv.nintendo.net
+- gw.p01.lp1.vermillion.srv.nintendo.net
+- p01.lp1.znma.srv.nintendo.net
+- capi.lp1.op2.nintendo.net
+- p01.lp1.savanna.srv.nintendo.net
+- lp1.nso.nintendo.net
+- fw-api.lp1.nso.nintendo.net
+- service-status.p01.lp1.smn.srv.nintendo.net
+- pegasus.p01.lp1.pegasus.srv.nintendo.net
+- list.p01.lp1.bcat.srv.nintendo.net
+- topics.p01.lp1.bcat.srv.nintendo.net
+- data.p01.lp1.bcat.srv.nintendo.net
+- receive.p01.lp1.dg.srv.nintendo.net
+- receive.p01.lp1.er.srv.nintendo.net
+- nncs1.p01.lp1.n.n.srv.nintendo.net
+- nncs2.p01.lp1.n.n.srv.nintendo.net
+- consumer.lp1.npns.srv.nintendo.net
+- app-a05.lp1.npns.srv.nintendo.net
+- lp1.npns.srv.nintendo.net
+- receive-lp1.dg.srv.nintendo.net
+- receive-lp1.er.srv.nintendo.net
+- dauth-lp1.ndas.srv.nintendo.net
+- aauth-lp1.ndas.srv.nintendo.net
+- api.p01.lp1.ctest.srv.nintendo.net (Switch 2)
+- scsi-upload-lp1.s3.us-west-2.amazonaws.com
+
+---
+
+## 🟠 MINECRAFT LAUNCHER (Mojang / Microsoft)
+
+**Main Domains:**
+- minecraft.net
+- mojang.com
+- minecraftservices.com
+- login.live.com
+- login.microsoftonline.com
+
+**API:**
+- api.mojang.com
+- api.minecraftservices.com
+- sessionserver.mojang.com
+- authserver.mojang.com
+- account.mojang.com
+
+**Launcher:**
+- launcher.mojang.com
+- redstone-launcher.mojang.com
+
+**CDN:**
+- launchermeta.mojang.com
+- libraries.minecraft.net
+- resources.download.minecraft.net
+- piston-data.mojang.com
+- piston-meta.mojang.com
+- textures.minecraft.net
+
+**Azure CDN:**
+- mojang-librariesminecraftnet.azureedge.net
+- mojang-librariesminecraftnet.afd.azureedge.net
+- launcher-cdn.azureedge.net
+- launcher-cdn.afd.azureedge.net
+- launcher-meta-cdn.azureedge.net
+- launcher-meta-cdn.afd.azureedge.net
+- mojang-resourcesdownloadminecra.azureedge.net
+- mojang-resourcesdownloadminecra.afd.azureedge.net
+
+**CloudFront:**
+- d1dulol58c5ch1.cloudfront.net
+
+---
+
+## 🟠 ROBLOX
+
+**Main Domains:**
+- roblox.com
+- rbxcdn.com
+- robloxlabs.com
+- roblox.app
+- roblox.dev
+- web.roblox.com
+- rbxcdn.net
+- rbxcdn-cn.com
+- rblx.co
+- robloxads.com
+
+**API (All Services):**
+- api.roblox.com
+- accountinformation.roblox.com
+- accountsettings.roblox.com
+- ads.roblox.com
+- adconfiguration.roblox.com
+- assetdelivery.roblox.com
+- assetgame.roblox.com
+- auth.roblox.com
+- avatar.roblox.com
+- badges.roblox.com
+- billing.roblox.com
+- catalog.roblox.com
+- chat.roblox.com
+- chatsite.roblox.com
+- contacts.roblox.com
+- contentstore.roblox.com
+- develop.roblox.com
+- economy.roblox.com
+- engagementpayouts.roblox.com
+- followings.roblox.com
+- friends.roblox.com
+- games.roblox.com
+- gameinternationalization.roblox.com
+- gamejoin.roblox.com
+- gamepersistence.roblox.com
+- groups.roblox.com
+- groupsmoderation.roblox.com
+- inventory.roblox.com
+- itemconfiguration.roblox.com
+- locale.roblox.com
+- localizationtables.roblox.com
+- notifications.roblox.com
+- points.roblox.com
+- premiumfeatures.roblox.com
+- presence.roblox.com
+- publish.roblox.com
+- thumbnails.roblox.com
+- trades.roblox.com
+- translationroles.roblox.com
+- users.roblox.com
+- voice.roblox.com
+- realtime-signalr.roblox.com
+
+**Telemetry:**
+- ecsv2.roblox.com
+- client-telemetry.roblox.com
+- metrics.roblox.com
+- ephemeralcounters.api.roblox.com
+- ncs.roblox.com
+
+**CDN:**
+- c0.rbxcdn.com – c7.rbxcdn.com
+- t0.rbxcdn.com – t7.rbxcdn.com
+- js.rbxcdn.com
+- static.rbxcdn.com
+- tr.rbxcdn.com
+- setup.rbxcdn.com
+
+**Other:**
+- setup.roblox.com
+- clientsettings.api.roblox.com
+- clientsettingscdn.roblox.com
+- versioncompatibility.api.roblox.com
+- captcha.roblox.com
+- abtesting.roblox.com
+- gold.roblox.com
+- cdn.arkoselabs.com
+- roblox-api.arkoselabs.com
+
+---
+
+## 🟠 PATH OF EXILE (Grinding Gear Games)
+
+- pathofexile.com
+- grindinggear.com
+
+**CDN:** Cloudflare CDN
+
+---
+
+## 🟠 DAYBREAK GAME COMPANY
+
+**Main Domains:**
+- daybreakgames.com
+- help.daybreakgames.com
+- census.daybreakgames.com
+- forums.daybreakgames.com
+- account.daybreakgames.com
+- launchpad.daybreakgames.com
+
+**CDN:**
+- www-cdn.daybreakgames.com
+
+**Game Domains:**
+- planetside2.com
+- dcuniverseonline.com
+- everquest.com
+- everquest2.com
+- h1z1.com
+- narakathegame.com
+- standingstonegames.com
+- lotro.com
+- ddo.com
+- palia.com
+
+---
+
+## 🟠 OCULUS / META QUEST
+
+- oculus.com
+- oculuscdn.com
+- securecdn.oculus.com
+- developer.oculus.com
+- npm.developer.oculus.com
+
+**CDN:** Meta CDN (Facebook Network Appliance – FNA)
+
+---
+
+## 🟠 VIVEPORT (HTC)
+
+> ⚠ Official HTC firewall list — all domains are wildcards.
+
+**Wildcard Domains (Official List):**
+- *.htc.com
+- *.htcsense.com
+- *.htcvive.com
+- *.vive.com
+- *.viveport.com
+- *.*viveport.com
+- *.htccomm.com.cn (China)
+- *.v1v3.cc
+- *.vive.link
+- vive.link
+
+**Specific Domains:**
+- viveport.com
+- vive.com
+- developer.viveport.com
+- developer.vive.com
+- contentstore.htcvive.com
+- service.viveport.com
+
+---
+
+## 🟠 PICO (ByteDance)
+
+**Main Domains:**
+- picoxr.com
+- developer.picoxr.com
+- business.picoxr.com
+- community.picoxr.com
+- store.picovr.com
+- account.picovr.com
+
+**ByteDance Infrastructure:**
+- *.byteoversea.com
+- *.bytedance.com
+- *.tiktokv.com
+- *.ibyteimg.com
+
+---
+
+## 🟠 APPLE APP STORE / ARCADE
+
+- apple.com
+- itunes.apple.com
+- arcade.apple.com
+- client-api.itunes.apple.com
+- downloaddispatch.itunes.apple.com
+- init.itunes.apple.com
+- iosapps.itunes.apple.com
+- osxapps.itunes.apple.com
+- inappcheck.itunes.apple.com
+- api.arcade.apple.com
+
+**CDN:** Apple CDN — 59 countries, 7,550+ IPs
+
+---
+
+## 🟠 GOOGLE PLAY GAMES (PC)
+
+- play.google.com
+- playgames.google.com
+- games.googleapis.com
+- play-fe.googleapis.com
+- accounts.google.com
+- oauth2.googleapis.com
+- *.gvt1.com
+- *.ggpht.com
+- *.google-analytics.com
+
+**CDN:** Google Cloud CDN
+
+---
+
+## 🟢 ITCH.IO
+
+> ⚠ In 2023, the CDN moved from hwcdn.net to *.itch.zone!
+
+- itch.io
+- api.itch.io
+
+**CDN (Current):**
+- *.itch.zone
+- html.itch.zone
+- img.itch.zone
+
+**CDN (Legacy — hwcdn.net deprecated):**
+- v6p9d9t4.ssl.hwcdn.net
+- *.hwcdn.net
+
+**Other:**
+- broth.itch.ovh
+- dl.itch.ovh
+- docs.itch.ovh
+- static.itch.io
+- s3.amazonaws.com
+
+---
+
+## 🟢 CURSEFORGE (Overwolf)
+
+- curseforge.com
+- overwolf.com
+- api.curseforge.com
+- docs.curseforge.com
+- www.curseforge.com
+- curseforge.overwolf.com
+- cdn.overwolf.com
+- download.overwolf.com
+- overwolf-web.akamaized.net
+- edge.forgecdn.net
+- media.forgecdn.net
+- forgecdn.net
+- tebex.io
+
+**CDN:** Overwolf CDN
+
+---
+
+## 🟢 GAMEJOLT
+
+- gamejolt.com
+- gamejolt.net
+- api.gamejolt.com
+- cdn.gamejolt.com
+- b-cdn.gamejolt.net
+- uploads.gamejolt.com
+- community.gamejolt.com
+
+---
+
+## 🟢 INDIEGALA CLIENT
+
+- indiegala.com
+- api.indiegala.com
+- indiegalacdn.com
+- content.indiegalacdn.com
+- docs.indiegala.com
+- forums.indiegala.com
+
+---
+
+## 🟢 BIG FISH GAMES
+
+- bigfishgames.com
+- susi.bigfishgames.com
+- cdn-f2p.bigfishgames.com
+- docs.bigfishgames.com
+
+**Telemetry (3rd Party):**
+- appsflyer.com
+
+**Notes:** BFG Telemetry Services, GoGame (Plarium), AppsFlyer, Google Cloud CDN
+
+---
+
+## 🟢 ROBOT CACHE
+
+- robotcache.com
+- store.robotcache.com
+- sdk.robotcache.com
+- partner.robotcache.com
+- help.robotcache.com
+- community.robotcache.com
+- store.robotcache.io (staging)
+- info.robotcache.com
+
+---
+
+## 🟢 KARTRIDGE (Kongregate)
+
+> ❌ SHUT DOWN — September 6, 2023
+
+**Domain List (Reference):**
+- kartridge.com
+- kongregate.com
+- cdn1.kongregate.com
+- mobilesdk.kongregate.com
+- developers.kartridge.com
+
+---
+
+## 🟢 LEGACY GAMES LAUNCHER
+
+- legacygames.com
+- cdn.legacygames.com
+
+---
+
+## 🟢 GAMERSGATE
+
+> ⚠ Client-not-required, web-based store. Sells DRM-free titles.
+
+- gamersgate.com
+
+**CDN:** Cloudflare CDN
+
+---
+
+## 🟢 TLAUNCHER (Third Party/Cracked)
+
+> ⚠ Official list: only 2 domains.
+
+- tlauncher.org
+- fastrepo.org
+
+---
+
+## 🟢 GEARBOX SHiFT
+
+- shift.gearboxsoftware.com
+- gearboxsoftware.com
+- support.gearboxsoftware.com
+- support.2k.com
+- borderlands.com
+
+---
+
+## 🟢 RAZER CORTEX
+
+> ❌ Razer Synapse 2.0 cloud services — SHUT DOWN on October 28, 2025
+> ❌ Razer Synapse 3 cloud services — SHUT DOWN on February 3, 2026
+> ⚠ Razer Synapse 4 is active. synapse4.razer.com may need to be added.
+
+**Core Platform:**
+- razer.com
+- www.razer.com
+- razerzone.com
+- cortex.razer.com
+
+**API & Developer:**
+- api.razer.com
+- developer.razer.com
+- chromasdk.io
+
+**CDN & Downloads:**
+- dl.razerzone.com
+- ec.razer.com
+- *.cloudfront.net
+- *.amazonaws.com
+
+**Account & Authentication:**
+- account.razer.com
+- id.razer.com
+- razerid.razer.com
+
+**Community & Support:**
+- insider.razer.com
+- mysupport.razer.com
+- support.razer.com
+- forums.razer.com
+
+**Razer Gold & Silver:**
+- gold.razer.com
+- pay.gold.razer.com
+- distribution.gold.razer.com
+- silver.razer.com
+
+**Razer Synapse:**
+- apps.razer.com
+- assets.razerzone.com
+
+---
+
+## 🟢 ONE GAME LAUNCHER (OGL)
+
+- ogl.app
+- www.ogl.app
+- cdn.ogl.app
+
+**URI schemes:** ogl:// and ogl://OpenByGamepad
+
+---
+
+## 🟢 HEROIC GAMES LAUNCHER
+
+> ⚠ Has no backend of its own. Connects to Epic/GOG/Amazon domains.
+
+- heroicgameslauncher.com
+- www.heroicgameslauncher.com
+
+**Updates and Distribution:**
+- github.com/Heroic-Games-Launcher
+- flathub.org
+- snapcraft.io
+
+---
+
+## 🔴 HYDRA LAUNCHER
+
+**Core Platform:**
+- hydralauncher.gg
+- www.hydralauncher.gg
+
+**API & Backend:**
+- hydra-api-us-east-1.losbroxas.org
+- auth.hydralauncher.gg
+- checkout.hydralauncher.gg
+- assets.hydralauncher.gg
+- ws.hydralauncher.gg
+- cdn.losbroxas.org
+
+**Documentation & Support:**
+- docs.hydralauncher.gg
+- help.hydralauncher.gg
+- status.hydralauncher.gg
+- feedback.hydralauncher.gg
+
+**Third Party:**
+- steamgriddb.com
+- onlinefix.me
+- torbox.io
+- howlongtobeat.com
+
+---
+
+## 🟢 OPEN SOURCE LAUNCHERS
+
+**Playnite**
+
+> ⚠ Offline-first, local storage. Minimal server dependency.
+
+- playnite.link
+- api.playnite.link
+- github.com/JosefNemec/Playnite
+
+**Lutris (Linux)**
+- lutris.net
+- api.lutris.net
+- forums.lutris.net
+
+**LaunchBox**
+- launchbox-app.com
+- www.launchbox-app.com
+- gamesdb.launchbox-app.com
+- forums.launchbox-app.com
+- images.launchbox-app.com
+- bigbox.launchbox-app.com
+- update.launchbox-app.com
+- emumovies.com
+- thegamesdb.net
+- retroachievements.org
+
+**Collapse Launcher (HoYoverse)**
+- collapselauncher.com
+- www.collapselauncher.com
+- status.collapselauncher.com
+- github.com/CollapseLauncher
+- signpath.io
+- sentry.io
+- turso.tech
+- cloudflare.com
+
+---
+
+## 🔴 CHINESE GAMING PLATFORMS
+
+**Taptap**
+- taptap.com
+- taptap.cn
+- taptap.io
+- www.taptap.io
+- api.taptapdada.com
+- developer.taptap.io
+- developer.taptap.cn
+- img.tapimg.com
+- img.taptapdada.com
+
+**Bilibili Gaming**
+- bilibili.com
+- game.bilibili.com
+- biligame.com
+- www.biligame.com
+- game-data-api.biligame.com
+- api.biligame.com
+- line1-patch-bak-ali-boe.biligame.net
+- dl.biligame.net
+- upos-sz-mirrorcoso1.bilivideo.com
+- bilivideo.com
+- bilivideo.cn
+- *.mcdn.bilivideo.cn
+- *.szbdyd.com
+- hdslb.com
+- biliapi.com
+- biliapi.net
+- acgvideo.com
+- b23.tv
+- acg.tv
+- upos-sz-mirror*.bilivideo.com (wildcard)
+- passport.bilibili.com
+- *.bfs.biliapi.net
+- wiki.biligame.com
+
+**NetEase**
+- 163.com
+- netease.com
+- nie.netease.com
+- neteasegames.com
+- account.neteasegames.com
+- game.163.com
+- cbg.163.com
+- mail.163.com
+- reg.163.com
+- 126.com
+- yeah.net
+- urs.163.com
+- launcher.nie.netease.com
+- marvelsrivals.com
+- music.163.com
+
+---
+
+## ☁ CLOUD GAMING PLATFORMS — DOMAIN WHITELIST
+
+**Full List — 13 Platforms — April 2026**
+
+**Platforms Covered:**
+- 🟢 GeForce NOW (NVIDIA)
+- 🟠 Amazon Luna
+- 🔵 Shadow PC
+- 🟡 Boosteroid
+- ⚫ Blacknut
+- 🔴 Tencent Start / WeGame
+- 🎬 Netflix Cloud Gaming
+- 🔵 airgpu
+- 🟠 CloudDeck
+- 🟣 Antstream Arcade
+- 🟠 Sora Stream
+- 🔴 Maximum Settings
+- ⚡ Highscore
+
+> NOTE: Xbox Cloud Gaming and PlayStation Plus Cloud Gaming are excluded from this list as they are part of their respective ecosystem platforms (already covered above). Only independent platforms whose primary purpose is cloud gaming are included.
+
+### 🟢 GeForce NOW (NVIDIA)
+
+**Core Domains:**
+- geforcenow.com
+- nvidiageforcenow.com
+- play.geforcenow.com
+- nvidia.com
+- geforce.com
+- gfn.nvidia.com
+- shield.nvidia.com
+- grid.nvidia.com
+- images.nvidia.com
+- gfwsl.geforce.com
+- gfe.geforce.com
+- gfe.nvidia.com
+- activation.gfe.nvidia.com
+- api.gfe.nvidia.com
+- events-dc1.gfe.nvidia.com
+- events.gfestage.nvidia.com
+- accounts.nvgs.nvidia.com
+- assets.nvidiagrid.net
+- images.nvidiagrid.net
+- developer.geforcenow.com
+- status.geforcenow.com
+- play.nvidia.com — browser-based sessions
+- login.nvidia.com
+
+**nvidiagrid.net — Streaming Infrastructure:**
+- nvidiagrid.net
+- img.nvidiagrid.net
+- static.nvidiagrid.net
+- northstar.nvidiagrid.net — server selection system
+- prod.northstar.nvidiagrid.net
+- *.pnt.geforcenow.nvidiagrid.net — actual gameplay streaming — critical wildcard
+
+> ⚠ Format for *.pnt.geforcenow.nvidiagrid.net: [region]-pnt-[city]-[no].pnt.geforcenow.nvidiagrid.net — all real gameplay traffic passes through this.
+
+**API & Authentication:**
+- api.geforcenow.com
+- services.geforcenow.com
+- auth.geforcenow.com
+- account.geforcenow.com
+- events.geforcenow.com
+- registration.geforcenow.com
+- login.geforcenow.com
+- login.nvgs.nvidia.com
+- oauth.nvgs.nvidia.com
+- launcherservice.gfe.nvidia.com
+
+**Telemetry & Analytics:**
+- analytics.geforcenow.com
+- telemetry.geforcenow.com
+- tracking.geforcenow.com
+- metrics.geforcenow.com
+- nvgs.nvidia.com
+- telemetry.gfe.nvidia.com
+- subscription.gfe.nvidia.com
+- events-gfestage.nvidia.com
+- gfestage.nvidia.com
+- telemetry-stage.nvidia.com
+- telemetry.nvidia.com
+- mobileupdate.nvidia.com
+- mobileupdatestage.nvidia.com
+- gx.nvidia.com
+- gx-stg.nvidia.com
+- gx-uat.nvidia.com
+
+**Streaming Infrastructure:**
+- stream.geforcenow.com
+- cdn.geforcenow.com
+- assets.geforcenow.com
+- media.geforcenow.com
+- video.geforcenow.com
+- static.geforcenow.com
+- stun.geforcenow.com — WebRTC STUN
+- turn.geforcenow.com — TURN relay
+- relay.geforcenow.com
+- notifications.geforcenow.com
+- cms.geforcenow.com
+- updates.geforcenow.com
+
+**Support & Updates:**
+- support.geforcenow.com
+- download.nvidia.com
+
+### 🟠 Amazon Luna
+
+**Core Domains:**
+- luna.amazon.com
+- amazon.com
+- gaming.amazon.com
+- a2z.com — active Amazon infrastructure domain used in Luna gameplay traffic
+- primevideo.com — Prime Gaming linkage
+
+**API & Authentication:**
+- api.luna.amazon.com
+- play.luna.amazon.com
+- stream.luna.amazon.com
+- device-messaging-na.amazon.com
+- device-messaging-eu.amazon.com
+- unagi.amazon.com — device messaging
+- cognito-identity.us-east-1.amazonaws.com — auth
+- execute-api.us-east-1.amazonaws.com
+
+**Telemetry & Analytics:**
+- analytics.luna.amazon.com
+- telemetry.luna.amazon.com
+- metrics.luna.amazon.com
+- device-metrics-us.amazon.com
+- fls-na.amazon.com — telemetry/tracking
+- mobileanalytics.us-east-1.amazonaws.com
+- amazon-adsystem.com — analytics
+
+**CDN & Media:**
+- cloudfront.net — all Luna CDN content
+- video.luna.amazon.com
+- amazonvideo.com — video CDN
+- images-amazon.com
+- ssl-images-amazon.com
+- media-amazon.com
+
+**Payment:**
+- payments.amazon.com
+
+**Twitch Integration:**
+- twitch.tv — integrated with Luna
+- twitch.amazon.com
+
+### 🔵 Shadow PC
+
+**Core Domains:**
+- shadow.tech
+- account.shadow.tech
+- client.shadow.tech
+- storage.shadow.tech
+- pc.shadow.tech
+- drive.shadow.tech
+- status.shadow.tech
+- support.shadow.tech
+- blog.shadow.tech
+- help.shadow.tech
+- download.shadow.tech
+- app.shadow.tech
+
+**API & Authentication:**
+- api.shadow.tech
+- api2.shadow.tech
+- auth.shadow.tech
+- update.shadow.tech
+- updates.shadow.tech
+
+**Telemetry & Analytics:**
+- analytics.shadow.tech
+- telemetry.shadow.tech
+- stats.shadow.tech
+- crash.shadow.tech
+- sentry.shadow.tech — error tracking
+
+**Streaming Infrastructure:**
+- stream.shadow.tech
+- nx.shadow.tech — Nexus streaming
+- relay.shadow.tech
+- stun.shadow.tech
+- turn.shadow.tech
+- us.shadow.tech
+- eu.shadow.tech
+- paris.shadow.tech
+- ams.shadow.tech
+- fr.shadow.tech — France region
+- de.shadow.tech — Germany region
+- gb.shadow.tech — UK region
+
+**Media & CDN:**
+- media.shadow.tech
+- cdn.shadow.tech
+- img.shadow.tech
+
+> ⚠ Shadow PC runs on OVHcloud infrastructure. Streaming protocol: SUFP (proprietary to Blade), ports 8001–15299 TCP/UDP.
+
+### 🟡 Boosteroid
+
+**Core Domains:**
+- boosteroid.com
+- play.boosteroid.com
+- cloud.boosteroid.com
+- cdn.boosteroid.com
+- help.boosteroid.com
+- blog.boosteroid.com
+- status.boosteroid.com
+- download.boosteroid.com
+
+**API & Authentication:**
+- api.boosteroid.com
+- auth.boosteroid.com
+- account.boosteroid.com
+- services.boosteroid.com
+- payment.boosteroid.com
+
+**Telemetry & Analytics:**
+- analytics.boosteroid.com
+- stats.boosteroid.com
+- telemetry.boosteroid.com
+
+**Streaming Infrastructure:**
+- stream.boosteroid.com
+- st1.cloud.boosteroid.com — streaming gateway
+- st2.cloud.boosteroid.com
+- st3.cloud.boosteroid.com
+- ws.boosteroid.com — WebSocket
+- push.boosteroid.com
+
+**Media & CDN:**
+- img.boosteroid.com
+- media.boosteroid.com
+
+### ⚫ Blacknut
+
+**Core Domains:**
+- blacknut.com
+- play.blacknut.com
+- cdn.blacknut.com
+- app.blacknut.com
+- join.blacknut.com
+- smart.blacknut.com
+- status.blacknut.com
+- support.blacknut.com
+- help.blacknut.com
+- download.blacknut.com
+- update.blacknut.com
+- blacknut.biz — B2B portal
+
+**API & Authentication:**
+- api.blacknut.com
+- api2.blacknut.com
+- services.blacknut.com
+
+**Telemetry & Analytics:**
+- analytics.blacknut.com
+- telemetry.blacknut.com
+- stats.blacknut.com
+
+**Streaming Infrastructure:**
+- stream.blacknut.com
+- relay.blacknut.com
+- stun.blacknut.com
+
+**CDN & Media:**
+- cdn2.blacknut.com
+- static.blacknut.com
+- media.blacknut.com
+- img.blacknut.com
+
+### 🔴 Tencent Start / WeGame
+
+**Core Domains:**
+- start.qq.com
+- wegame.com
+- wegame.com.cn
+- cloud.tencent.com
+- developer.wegame.com
+- intl.gcloud.tencent.com
+- tencentcloud.com
+- cloudgame.qq.com — main cloud gaming endpoint
+- g.qq.com
+- cloudstart.qq.com
+- livegame.qq.com
+- tcgame.tencent.com
+- cloudgaming.tencentcloud.com
+- tencent-cloud.net — international CDN
+
+**API & Services:**
+- api.start.qq.com
+- update.start.qq.com
+- stream.start.qq.com
+- api.wegame.com
+- api.wegame.com.cn
+- cgi.wegame.com.cn
+- update.wegame.com.cn
+- dl.wegame.com.cn
+
+**Telemetry & Analytics:**
+- aegis.qq.com — analytics/crash reporting
+- report.qq.com
+- beacon.qq.com — telemetry
+- tcss.qq.com — Tencent cloud stream service
+
+**CDN & Media:**
+- cdn.wegame.com.cn
+- static.wegame.com.cn
+- img.wegame.com.cn
+- tcdn.qq.com
+- gdl.qq.com — game download CDN
+- ossweb-img.qq.com
+- qpic.cn — Tencent image CDN
+- dnsv1.com — Tencent CDN CNAME system
+
+### 🎬 Netflix Cloud Gaming
+
+**Core Domains:**
+- netflix.com
+- netflix.net
+
+**CDN — Open Connect:**
+- nflxvideo.net — video/game stream delivery
+- nflxso.net — Open Connect CDN
+- nflxext.com — extensions/assets CDN
+- nflximg.net — image CDN
+- nflximg.com
+- nflxsearch.net
+
+**API & Platform:**
+- api-global.netflix.com
+- appboot.netflix.com
+- nrdp51-appboot.netflix.com
+- nrdp52-appboot.netflix.com
+
+**Telemetry & Analytics:**
+- ichnaea.netflix.com — event/log ingestion
+- customerevents.netflix.com
+- logs.netflix.com
+- logs.dradis.netflix.com
+
+**Streaming Infrastructure — Cloud Gaming:**
+- ftl.netflix.com — CDN latency probing/FTL system
+- ios.prod.ftl.netflix.com
+- ios-anycast.prod.ftl.netflix.com
+- nrdp-ixanycast.ftl.netflix.com
+- nrdp-ipv6.prod.ftl.netflix.com
+- nrdp.prod.ftl.netflix.com
+- mobile-ixanycast.ftl.netflix.com
+- android.prod.cloud.netflix.com
+- ios.prod.cloud.netflix.com
+- nrdp.prod.cloud.netflix.com
+- nrdp.nccp.netflix.com
+- nrdp.ws.ale.netflix.com
+
+**DNS Test Domains:**
+- netflixdnstest0.com — connectivity test
+- netflixdnstest1.com — connectivity test
+- netflixdnstest2.com — connectivity test
+- netflixdnstest3.com — connectivity test
+- netflixdnstest4.com — connectivity test
+- netflixdnstest5.com — connectivity test
+- netflixdnstest6.com — connectivity test
+- netflixdnstest7.com — connectivity test
+- netflixdnstest8.com — connectivity test
+- netflixdnstest9.com — connectivity test
+- netflixdnstest10.com — connectivity test
+
+> ⚠ Netflix Cloud Gaming is built on top of the existing video CDN infrastructure (Open Connect). It has no separate dedicated gaming domain. The ftl.netflix.com system manages CDN selection and game streaming quality.
+
+### 🔵 airgpu
+
+**Core Domains:**
+- airgpu.com
+- app.airgpu.com — portal/dashboard
+- help.airgpu.com
+- status.airgpu.com
+- blog.airgpu.com
+
+**Streaming Infrastructure:**
+- *.my.airgpu.com — subdomain unique to each user's cloud PC — wildcard
+- amazonaws.com — EC2 instances — runs on AWS
+
+> ⚠ airgpu runs entirely on AWS. Actual streaming traffic goes directly to AWS instance IPs over TCP/UDP via the Moonlight/Parsec protocols.
+
+### 🟠 CloudDeck
+
+**Core Domains:**
+- clouddeck.app
+- portal.clouddeck.app — user panel
+- help.clouddeck.app
+- status.clouddeck.app
+- blog.clouddeck.app
+
+**Streaming Infrastructure:**
+- *.my.clouddeck.app — subdomain unique to each instance — wildcard
+- *.my.airgpu.com — redirected to airgpu infrastructure for iOS connections
+- moonlight-stream.org — Moonlight client
+- amazonaws.com — AWS datacenters — Amsterdam, Frankfurt, Charlotte, Detroit, San Jose
+
+> ⚠ CloudDeck runs on airgpu's infrastructure. On iOS connections, *.my.clouddeck.app resolves to *.my.airgpu.com.
+
+### 🟣 Antstream Arcade
+
+**Core Domains:**
+- antstream.com
+- antstre.am — short URL — actively used
+- accounts.antstream.com — account/subscription portal
+- status.antstream.com
+- legal.antstream.com
+- blog.antstream.com
+
+**API & Authentication:**
+- api.antstream.com
+- auth.antstream.com
+
+**CDN & Assets:**
+- cdn.antstream.com
+- assets.antstream.com
+- images.antstream.com
+- static.antstream.com
+
+**Streaming Infrastructure:**
+- stream.antstream.com
+- game.antstream.com
+
+**Support:**
+- support.antstream.com — Zendesk-based
+
+### 🟠 Sora Stream
+
+**Core Domains:**
+- sorastream.com
+- ludiumlab.com — developer company — Barcelona
+
+**Legal & Policy:**
+- legal.sorastream.com — EULA and Privacy Policy
+
+**API & Authentication:**
+- api.sorastream.com
+- auth.sorastream.com
+- accounts.sorastream.com
+
+**CDN & Assets:**
+- cdn.sorastream.com
+- static.sorastream.com
+- assets.sorastream.com
+
+**Support:**
+- support.sorastream.com
+- help.sorastream.com
+
+**Third-Party Infrastructure:**
+- googleapis.com — location detection — specified in Privacy Policy
+- firebase.googleapis.com — push notifications — uses Firebase token
+- steampowered.com — game library access
+- epicgames.com — game library access — coming soon
+
+### 🔴 Maximum Settings
+
+**Core Domains:**
+- maximumsettings.com
+- www.maximumsettings.com
+- login.maximumsettings.com
+- orders.maximumsettings.com — order/registration portal
+- support.maximumsettings.com
+- status.maximumsettings.com
+- community.maximumsettings.com
+- server.maximumsettings.com — streaming server connection
+- analytics.maximumsettings.com
+- speedtest.maximumsettings.com — datacenter bandwidth test
+- ai.maximumsettings.com — AI support assistant
+
+**Streaming — Third Party:**
+- moonlight-stream.org — Moonlight streaming protocol
+- novnc.com — noVNC web-based access
+
+> ⚠ Maximum Settings operates its own physical datacenter in Toronto. Does not use AWS/Azure/GCP. Stack: Proxmox + Linux Mint + Moonlight/noVNC. Streaming traffic goes directly to server IPs over TCP/UDP (Moonlight ports: 47984, 47989, 48010).
+
+### ⚡ Highscore
+
+**User Side (Production):**
+- highscore.com
+- www.highscore.com
+- play.highscore.com — game streaming — critical
+- alpha.highscore.com
+- waitlist.highscore.com
+- static.highscore.com — CDN/assets
+- go.highscore.com — redirect/link shortener
+- api.highscore.com
+- data.highscore.com
+- forms.highscore.com
+- challenge.highscore.com — CAPTCHA/verification
+- input.highscore.com — keyboard/controller input service
+
+**Observability & Telemetry:**
+- alloy.obs.highscore.com — Grafana Alloy — metrics collector
+- loki.obs.highscore.com — log aggregation
+- mimir.obs.highscore.com — metrics storage
+- tempo.obs.highscore.com — distributed tracing
+- prometheus.obs.highscore.com
+- grafana.highscore.com
+- sentry.highscore.com — error tracking — self-hosted
+- web-play.faro.highscore.com — Grafana Faro frontend observability
+- web-www.faro.highscore.com
+- webwww.faro.highscore.com
+- webwww.traces.highscore.com
+- web-play.otel.highscore.com — OpenTelemetry
+- web-www.otel.highscore.com
+- api-aggregate-fs.otel.highscore.com
+- api-application.otel.highscore.com
+- api-backend.otel.highscore.com
+- api-steam-downloader.otel.highscore.com
+- api-storage.otel.highscore.com
+- machine-streamer.otel.highscore.com
+- machine-supervisor.otel.highscore.com
+
+**Staging Environment:**
+- staging.highscore.com
+- *.staging.highscore.com — all staging subdomains — wildcard
+
+**Third Party:**
+- steampowered.com — game license verification — required
+- store.steampowered.com
+- recaptcha.google.com — signup protection
+- gravatar.com — user avatars
+
+> ⚠ Highscore uses its own custom servers (no hyperscaler). First datacenter is in Santa Clara, CA. Alpha as of mid-2025, general access coming soon. Observability stack is fully self-hosted Grafana: Alloy → Loki/Mimir/Tempo → Grafana.
+
+*This list was compiled through research and subdomain scanning methods. New domains may be added as platforms update their infrastructure.*
+
+*Last updated: April 2026*
+
+---
+
+## 🔴 DRM TECHNOLOGY PROVIDERS
+
+**Arxan**
+- arxan.com
+
+Embedded in executable
+
+**VMProtect**
+- vmprotect.com
+
+Local protection
+
+**Themida**
+- oreans.com
+
+Local protection
+
+**Enigma Protector**
+- enigmaprotector.com
+- www.enigmaprotector.com
+- enigma-x.com
+- forum.enigmaprotector.com
+
+**TAGES / SolidShield (LEGACY)**
+- solidshield.com
+- tages.fr
+
+**GameShield IronWrap**
+- gameshield.com
+- www.gameshield.com
+- yummy.net
+- www.yummy.net
+
+**SecuROM (LEGACY – DEPRECATED)**
+- securom.com
+- securom.net
+- securomactivation.com
+
+**SafeDisc (LEGACY – DEPRECATED)**
+- macrovision.com
+
+**Starforce (LEGACY)**
+- star-force.com
+- activation.star-force.com
+
+---
+
+## 🟠 GAME STORE AGGREGATORS
+
+**GG.deals**
+- gg.deals
+
+**IsThereAnyDeal**
+- isthereanydeal.com
+- api.isthereanydeal.com
+
+**CheapShark**
+- cheapshark.com
+- www.cheapshark.com
