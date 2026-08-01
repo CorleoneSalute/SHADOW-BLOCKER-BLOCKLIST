@@ -1,0 +1,1097 @@
+# WEATHER APPS RESEARCH LIST
+
+## 🌩️ SECTION 1 — CRITICAL RISK PLATFORMS ⚠️⚠️⚠️
+
+---
+
+### ⚡ THE WEATHER CHANNEL / WEATHER.COM (IBM → Francisco Partners)
+
+**Risk: CRITICAL ⚠️⚠️⚠️** — FTC fine, location data sales. Acquired by Francisco Partners in Feb 2024.
+
+**Main Domains**
+- weather.com
+- twc.com
+- weatherchannel.com
+- theweathercompany.com
+- stormradar.com
+- weather.weatherchannel.it
+- twcprod.weatherprism.com
+
+**IBM Connection**
+- ibm.com
+- weather.api.ibm.com
+- weather.weathergroup.com
+- dsx.weather.com
+
+**CDN & Infrastructure**
+- wxcdn.com
+- twcservice.com
+- weather-assets.com
+- v.w-x.co
+- s.w-x.co
+
+**API Endpoints**
+- api.weather.com
+- wxdata.weather.com
+
+**Location Tracking**
+- ibm-weather-beacon.com
+- weather-beacon.com
+
+---
+
+### 🐛 WEATHERBUG
+
+**Risk: CRITICAL ⚠️⚠️⚠️** — Aggressive tracking, concerns around children's apps.
+
+**Main Domains**
+- weatherbug.com
+- weather.weatherbug.com
+- wxbug.com
+- weatherbug.net
+
+**API & Infrastructure**
+- pulseapi.weatherbug.com
+- aws.weatherbug.com
+- pws.weatherbug.com
+
+**CDN**
+- cdn.weatherbug.com
+
+**Advertising (First-Party)**
+- ads.weatherbug.com
+- advertising.weatherbug.com
+
+**Parent Company**
+- earthnetworks.com
+
+---
+
+### 🌤️ ACCUWEATHER
+
+**Risk: CRITICAL ⚠️⚠️⚠️** — 2017 location-tracking scandal, Plume Labs acquisition (2022), air quality SDK.
+
+**Main Domains**
+- accuweather.com
+- accuweather.net
+- accuweather.org
+- accu-weather.com
+
+**Business & API**
+- afb.accuweather.com
+- dsx.accuweather.com
+- api.accuweather.com
+- apidev.accuweather.com
+- dataservice.accuweather.com
+- developer.accuweather.com
+- support.accuweather.com
+
+**CDN**
+- accucdn.com
+- vortex.accuweather.com
+- awxcdn.com
+
+**Location Services**
+- accuweather-beacon.com
+- location.accuweather.com
+
+**Advertising (First-Party)**
+- ads.accuweather.com
+- advertising.accuweather.com
+
+**Air Quality (Plume Labs — acquired 2022)**
+- plumelabs.com
+- api.plume.eco
+- plumes.accuweather.com
+
+---
+
+### 🌦️ WEATHER UNDERGROUND (The Weather Company / Francisco Partners)
+
+**Risk: HIGH ⚠️⚠️** — Same infrastructure as TWC, data broker.
+
+**Main Domains**
+- wunderground.com
+- wunderground.net
+- weatherunderground.com
+- nihongo.wunderground.com
+- history.wunderground.com
+
+**APIs**
+- api.wunderground.com
+- api.weather.com
+- stationdata.wunderground.com
+- pws.wunderground.com
+
+**CDN**
+- icons.wunderground.com
+
+---
+
+### 📱 XIAOMI WEATHER (Built into MIUI — Cannot Be Removed)
+
+**Risk: CRITICAL ⚠️⚠️⚠️** — Forced telemetry, cannot be uninstalled, CCP access risk.
+
+**Main MIUI Domains**
+- weather.miui.com
+- miui.com
+- api.miui.com
+
+**Xiaomi Telemetry & Tracking**
+- tracking.miui.com
+- data.miui.com
+- data.sec.miui.com
+- log.avlyun.sec.intl.miui.com
+- logupdate.avlyun.sec.miui.com
+- xlmc.sec.miui.com
+- adv.sec.miui.com
+- mazu.sec.miui.com
+- api.installer.xiaomi.com
+- ixav-cse.avlyun.com
+- sdkconfig.ad.intl.xiaomi.com
+- connect.rom.miui.com
+
+**Additional Xiaomi Domains Found Through Research**
+- weatherapi.intl.xiaomi.com
+- abtest.mistat.xiaomi.com
+- abtest.mistat.intl.xiaomi.com
+- account.xiaomi.com
+- ad.mi.com
+- ad.xiaomi.com
+- api.xiaomi.com
+- api.ad.xiaomi.com
+- api.activity.browser.miui.com
+- api.activity.browser.intl.miui.com
+- api.collect.data.intl.miui.com
+- api.device.xiaomi.net
+- api.hybrid.xiaomi.com
+- api.hybrid.intl.xiaomi.com
+- api.newsfeed.intl.miui.com
+- api.sec.intl.miui.com
+- api.setting.intl.miui.com
+- api.vip.miui.com
+- a.stat.xiaomi.com
+- browser.cdn.intl.miui.com
+- brs.api.intl.miui.com
+- cdn.ad.xiaomi.com
+- data.mistat.xiaomi.com
+- data.mistat.intl.xiaomi.com
+- data.sec.intl.miui.com
+- newsfeed.api.intl.miui.com
+- xiaomi.net
+- eu.global.market.xiaomi.com
+- appvault-a.api.intl.miui.com
+
+---
+
+### 🤖 GOOGLE WEATHER (Android / Search)
+
+**Risk: CRITICAL ⚠️⚠️⚠️** — Advertising giant, cross-product profiling.
+
+**Google Weather**
+- weather.google.com
+- google.com
+
+**Google Services & Infrastructure**
+- googleapis.com
+- google-analytics.com
+- googletagmanager.com
+- doubleclick.net
+- googlesyndication.com
+- www.google-analytics.com
+- ssl.google-analytics.com
+- ssl.gstatic.com
+- fonts.googleapis.com
+- fonts.gstatic.com
+- connectivitycheck.gstatic.com
+
+**Firebase**
+- firebase.google.com
+- firebaseio.com
+- fcm.googleapis.com
+- firebaseinstallations.googleapis.com
+
+**Cloud & Android**
+- cloudiot.googleapis.com
+- pubsub.googleapis.com
+- android.clients.google.com
+- play.googleapis.com
+- android.googleapis.com
+
+**Location & Maps**
+- maps.googleapis.com
+
+---
+
+### 🌐 MSN WEATHER (Microsoft)
+
+**Risk: HIGH ⚠️⚠️** — Extensive Microsoft telemetry.
+
+**MSN Weather Specific**
+- msn.com
+- weather.msn.com
+- bing.com
+- tile-service.weather.microsoft.com
+- blob.weather.microsoft.com
+- prod.oneservice.msn.com
+
+**Microsoft Telemetry**
+- vortex.data.microsoft.com
+- telemetry.microsoft.com
+- watson.telemetry.microsoft.com
+- watson.ppe.telemetry.microsoft.com
+- watson.microsoft.com.nsatc.net
+- wes.df.telemetry.microsoft.com
+- oca.telemetry.microsoft.com
+- sqm.telemetry.microsoft.com
+- telecommand.telemetry.microsoft.com
+- telemetry.appex.bing.net
+- df.telemetry.microsoft.com
+- v10.data.microsoft.com
+- v10.vortex-win.data.microsoft.com
+- web.vortex.data.microsoft.com
+- js.monitor.azure.com
+
+**MSN Domains**
+- ntp.msn.com
+- assets.msn.com
+- arc.msn.com
+- data.msn.com
+- browser.events.data.msn.com
+- cdn.content.prod.cms.msn.com
+- cdn.appex-rf.msn.com
+- s-msn.com
+- otf.msn.com
+- flex.msn.com
+- g.msn.com
+- h1.msn.com
+- h2.msn.com
+- c.msn.com
+- img-s-msn-com.akamaized.net
+
+**Microsoft Advertising & Ad Infrastructure**
+- ads.microsoft.com
+- bat.bing.com
+- r.bing.com
+- bingads.microsoft.com
+- adnexus.net
+- adnxs.com
+- ams1-ib.adnxs.com
+- ib.adnxs.com
+- fra1-ib.adnxs.com
+- vcdn.adnxs.com
+- a.ads1.msn.com
+- a.ads2.msads.net
+- a.ads2.msn.com
+- b.ads1.msn.com
+- b.ads2.msads.net
+- ads.arcct.msn.com
+- ads1.msads.net
+- ads1.msn.com
+- a.rad.msn.com
+- b.rad.msn.com
+- rad.msn.com
+- adtech.de
+- scorecardresearch.com
+
+**Other Microsoft Services**
+- activity.windows.com
+- choice.microsoft.com
+- feedback.microsoft.com
+- feedback.search.microsoft.com
+- feedback.windows.com
+- diagnostics.support.microsoft.com
+- ssw.live.com
+
+---
+
+### 💧 DROPS / INFOPLAZA
+
+**Risk: CRITICAL ⚠️⚠️⚠️** — 40+ tracking providers, thousands of individual trackers.
+
+**Parent Company**
+- infoplaza.com
+- infoplaza.nl
+
+**Infoplaza Product Network**
+- weerplaza.nl
+- meteoplaza.nl
+- weeronline.nl
+- weerplaza.be
+- buienalarm.nl
+- buienradar.nl
+- api.buienradar.nl
+- cdn.buienradar.nl
+- meteovista.nl
+- meteovista.be
+- meteox.com
+- api.infoplaza.com
+- cdn.infoplaza.com
+
+---
+
+## 🔴 SECTION 2 — HIGH RISK PLATFORMS ⚠️⚠️
+
+---
+
+### ☀️ WEATHER LIVE (Apalon / IAC / Mindspark)
+
+**Risk: HIGH ⚠️⚠️** — 500+ app network, cross-app tracking. Headquartered in Minsk/Belarus.
+
+**Main Domains**
+- apalon.com
+- weatherlive.net
+- support.apalon.com
+
+**Company Chain (IAC → Mindspark → Apalon)**
+- mindspark.com
+- iac.com
+- iac-apps.com
+
+---
+
+### 🌡️ YAHOO WEATHER (Verizon Media → Apollo Global)
+
+**Risk: HIGH ⚠️⚠️** — Verizon Media ad-tech empire.
+
+**Main Domains**
+- weather.yahoo.com
+- yahoo.com
+- yahooapis.com
+
+**Verizon Media / Apollo**
+- verizonmedia.com
+- aol.com
+- oath.com
+- onemobile.yahoo.com
+
+**Yahoo Analytics & Services**
+- analytics.yahoo.com
+- beap.gemini.yahoo.com
+- geo.yahoo.com
+- udc.yahoo.com
+- consent.yahoo.com
+- ads.yahoo.com
+- dspapi.admanagerplus.yahoo.com
+
+**CDN**
+- yimg.com
+- s.yimg.com
+
+---
+
+### 🇷🇺 YANDEX WEATHER (Russia)
+
+**Risk: HIGH ⚠️⚠️** — Russian government access (SORM laws), Meteum technology.
+
+**Yandex Weather**
+- weather.yandex.com
+- yandex.ru
+- yandex.net
+- pogoda.yandex.ru
+
+**Technology & API**
+- meteum.ai
+- api.weather.yandex.net
+- api.weather.yandex.ru
+- radar.yandex.com
+
+**Yandex AppMetrica**
+- appmetrica.yandex.ru
+- appmetrica.yandex.com
+
+**Yandex Metrica**
+- mc.yandex.ru
+- metrika.yandex.ru
+- metrika.yandex.com
+- yandex.st
+
+**Advertising & Other Yandex Services**
+- yabs.yandex.ru
+- an.yandex.ru
+- push.yandex.ru
+- suggest-maps.yandex.ru
+- mobile.yandex.net
+- passport.yandex.ru
+- passport.yandex.com
+
+---
+
+### ☀️ 1WEATHER (OneLouder / DTN)
+
+**Risk: HIGH ⚠️⚠️** — Data collection concerns.
+
+**Main Domains**
+- onelouder.com
+- 1weather.com
+
+**Weather Data Provider (WDT/DTN)**
+- wdtinc.com
+- skywise.wdtinc.com
+- skywisefeeds.wdtinc.com
+- skywisetiles.wdtinc.com
+- api.wdtinc.com
+- weatherops.com
+- dtn.com
+
+---
+
+### 🇯🇵 YAHOO JAPAN WEATHER
+
+**Risk: HIGH ⚠️⚠️** — Cross-product tracking.
+
+**Main Domains**
+- weather.yahoo.co.jp
+- yahoo.co.jp
+
+**Yahoo Japan Services**
+- yjtag.jp
+- s.yimg.jp
+- i.yimg.jp
+- r.yimg.jp
+- c.yimg.jp
+- a.yimg.jp
+- tp.yahoo.co.jp
+- log.yahoo.co.jp
+
+---
+
+### 🌍 WEATHER & RADAR (WetterOnline)
+
+**Risk: MEDIUM ⚠️** — German-based but cross-app tracking.
+
+**Main Domains**
+- wetteronline.de
+- weatherandradar.com
+- weatherandradar.co.uk
+- wetteronline.at
+- wetteronline.ch
+- wetteronline.com
+- weatherandradar.de
+- weatherandradar.app
+
+**API & CDN**
+- api.wetteronline.de
+- cdn.weatherandradar.com
+- img.wetteronline.de
+- map.wetteronline.de
+- app.weatherandradar.com
+
+---
+
+### 🍎 APPLE WEATHER (Built into iOS)
+
+**Risk: MEDIUM ⚠️** — Claims a privacy focus but still performs location tracking.
+
+**Apple Weather**
+- weather.apple.com
+- weatherkit.apple.com
+- weather-data.apple.com
+- weather-analytics-events.apple.com
+- weather-data.apple.com/legal-attribution.html
+
+**Apple Analytics**
+- metrics.apple.com
+- xp.apple.com
+- iadsdk.apple.com
+- api-adservices.apple.com
+
+**Apple Location Services**
+- gspe19-ssl.ls.apple.com
+- gspe35-ssl.ls.apple.com
+- gsp-ssl.ls.apple.com
+- ls.apple.com
+- configuration.apple.com
+- bag.itunes.apple.com
+
+**iCloud (Location Sync)**
+- icloud.com
+- icloud-content.com
+
+---
+
+## 🌐 SECTION 3 — INTERNATIONAL PLATFORMS
+
+---
+
+### 🇨🇳 CHINA WEATHER APPS ⚠️⚠️⚠️ — Government Surveillance Risk
+
+#### CHINA WEATHER (中国天气)
+
+- weather.com.cn
+- en.weather.com.cn
+- tianqi.com.cn
+- t.weather.com.cn
+- cma.gov.cn
+- data.cma.cn
+
+#### MOJI WEATHER (墨迹天气)
+
+- moji.com
+- mojing.cn
+- moji.com.cn
+- tianqi.moji.com
+- mojifengyun.com
+- html5.moji.com
+- promo.moji.com
+- mojicb.com
+- moweather.com
+- api.moji.com
+- img.moji.com
+- static.moji.com
+- wap.moji.com
+
+---
+
+### 🇯🇵 JAPAN WEATHER APPS
+
+#### TENKI.JP (Japan Weather Association)
+
+**Risk: MEDIUM-HIGH ⚠️⚠️** — Cross-app tracking confirmed.
+
+- tenki.jp
+- jwa.or.jp
+- alink.ne.jp
+- alink.co.jp
+- api.tenki.jp
+- cdn.tenki.jp
+- img.tenki.jp
+- goo.ne.jp
+- weather-jwa.jp
+- ns1.dns.ne.jp
+- ns2.dns.ne.jp
+- ns-1374.awsdns-43.org
+- ns-209.awsdns-26.com
+- ns-966.awsdns-56.net
+- ns-1996.awsdns-57.co.uk
+
+#### JMA (Japan Meteorological Agency — Official)
+
+**Risk: LOW ✅**
+
+- jma.go.jp
+
+---
+
+### 🇮🇳 INDIA WEATHER APPS
+
+#### SKYMET WEATHER
+
+**Risk: MEDIUM ⚠️**
+
+- skymetweather.com
+- skymet.com
+- projects.skymetweather.com
+- api.skymetweather.com
+- cdn.skymetweather.com
+- enterprise.skymetweather.com
+
+#### MAUSAM (IMD Official — Safe)
+
+**Risk: LOW ✅**
+
+- mausam.imd.gov.in
+- imd.gov.in
+
+---
+
+## 🛠️ SECTION 4 — WEATHER SERVICES & API PLATFORMS
+
+---
+
+### 📊 WEATHERSTACK (APILayer)
+
+**Risk: MEDIUM ⚠️** — Part of the APILayer ecosystem.
+
+- weatherstack.com
+- api.weatherstack.com
+- status.weatherstack.com
+- assets.weatherstack.com
+- apixu.com
+- apilayer.com
+- apilayer.net
+- cdn.apilayer.com
+- hub.apilayer.com
+
+---
+
+### 🌤️ WEATHERBIT
+
+**Risk: MEDIUM ⚠️**
+
+- weatherbit.io
+- api.weatherbit.io
+
+---
+
+### 🌦️ OPENWEATHERMAP
+
+**Risk: MEDIUM ⚠️** — Hetzner hosting, uses analytics.
+
+- openweathermap.org
+- api.openweathermap.org
+- tile.openweathermap.org
+- home.openweathermap.org
+- bulk.openweathermap.org
+- history.openweathermap.org
+- openweather.co.uk
+
+---
+
+### 🌩️ TOMORROW.IO (formerly ClimaCell) — NOTE: Acquired by Apple
+
+**Risk: MEDIUM ⚠️**
+
+- tomorrow.io
+- climacell.co
+- api.tomorrow.io
+- app.tomorrow.io
+- developer.tomorrow.io
+- data.tomorrow.io
+- tomorrowcompanies.com
+- status.tomorrow.io
+
+---
+
+### 📈 VISUALCROSSING
+
+**Risk: MEDIUM ⚠️**
+
+- visualcrossing.com
+- weather.visualcrossing.com
+- api.visualcrossing.com
+- weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/
+- weather.visualcrossing.com/VisualCrossingWebServices/rest/services/weatherdata/
+
+---
+
+### 🌐 WEATHERAPI.COM
+
+**Risk: HIGH ⚠️⚠️**
+
+- weatherapi.com
+- api.weatherapi.com
+- cdn.weatherapi.com
+
+---
+
+### 💨 WINDY.COM
+
+**Risk: LOW-MEDIUM ⚠️** — Czech-based, relatively transparent.
+
+- windy.com
+- ims.windy.com
+- api.windy.com
+- stations.windy.com
+- community.windy.com
+- radar.windy.com
+- embed.windy.com
+- tiles.windy.com
+- node.windy.com
+
+---
+
+### 🌊 WINDFINDER
+
+**Risk: MEDIUM ⚠️**
+
+- windfinder.com
+- api.windfinder.com
+- blog.windfinder.com
+- de.windfinder.com
+- es.windfinder.com
+- fr.windfinder.com
+- app.windfinder.com
+- pro.windfinder.com
+- cdn.windfinder.com
+
+---
+
+### 🔭 RADARSCOPE (DTN / Base Velocity LLC)
+
+**Risk: MEDIUM ⚠️** — DTN corporate; ad-free but has weather-data-provider dependencies.
+
+- radarscope.app
+- radarscope.zendesk.com
+- dtnsupport.com
+- dtn.com
+- basevelocity.com
+- allisonhouse.com
+- support.allisonhouse.com
+- data.allisonhouse.com
+- weatherpulse.com
+- spotternetwork.org
+- weatherops.com
+
+---
+
+## ✅ SECTION 5 — LOW RISK / RECOMMENDED PLATFORMS
+
+---
+
+### 📱 PRIVACY-FOCUSED APPS
+
+#### CARROT WEATHER (iOS/Mac) — Risk: LOW ✅✅
+
+- carrotweather.com
+- meetcarrot.com
+- support.meetcarrot.com
+- api.meetcarrot.com
+
+**Carrot Optional Data Sources (varies by configuration)**
+- foreca.com
+- accuweather.com
+- tomorrow.io
+- openweathermap.org
+- xweather.com
+- weatherflow.com
+- netatmo.com
+- pwsweather.com
+- weatherkit.apple.com
+- pirateweather.net
+- api.pirateweather.net
+
+---
+
+#### BREEZY WEATHER (Android — Open Source) — Risk: VERY LOW ✅✅✅
+
+- github.com/breezy-weather/breezy-weather
+- breezy-weather.github.io
+
+**Breezy Weather Data Sources (Configurable)**
+- open-meteo.com
+- api.met.no
+- opendata.fmi.fi
+- opendata.dwd.de
+- brightsky.dev
+- accuweather.com
+- openweathermap.org
+
+---
+
+#### RAIN ALARM / RAIN RADAR — Risk: MEDIUM ⚠️
+
+- rain-alarm.com
+- rainradar.com
+- app.rain-alarm.com
+- avilessoftware.com
+
+---
+
+### 🌐 OPEN-METEO — Risk: VERY LOW ✅✅✅ (BEST!)
+
+Open source, no tracking, free API, no API key required. Headquartered in Bürglen, Switzerland.
+
+- open-meteo.com
+- api.open-meteo.com
+- github.com/open-meteo
+
+---
+
+### 🌧️ RAINVIEWER — Risk: LOW ✅
+
+- rainviewer.com
+- api.rainviewer.com
+- tilecache.rainviewer.com
+- data.rainviewer.com
+
+---
+
+### 🌍 VENTUSKY — Risk: LOW ✅
+
+Uses DWD and NOAA data. Czech company InMeteo.
+
+- ventusky.com
+- my.ventusky.com
+- api.ventusky.com
+- tiles.ventusky.com
+- cdn.ventusky.com
+
+---
+
+### 🔵 METEOBLUE — Risk: LOW-MEDIUM ⚠️
+
+University of Basel spin-off, 25+ NWP models, ERA5 data going back to 1940.
+
+- meteoblue.com
+- my.meteoblue.com
+- docs.meteoblue.com
+- content.meteoblue.com
+- maps.meteoblue.com
+- api.meteoblue.com
+- cdn.meteoblue.com
+- packages.meteoblue.com
+- blog.meteoblue.com
+
+---
+
+### 🌤️ FORECA WEATHER — Risk: MEDIUM ⚠️
+
+Headquartered in Finland; CARROT Weather's default provider.
+
+- foreca.com
+- foreca.net
+- developer.foreca.com
+- api.foreca.com
+- assets.foreca.com
+- static.foreca.com
+- tiles.foreca.com
+- map.foreca.com
+- auth.foreca.com
+- aaltohtml5navi.foreca.com
+- aaltohtml5name.foreca.com
+
+---
+
+### 📡 WEATHERNATION — Risk: MEDIUM ⚠️
+
+- weathernationtv.com
+- weathernation.com
+- stream.weathernationtv.com
+- cdn.weathernationtv.com
+- embed.weathernationtv.com
+
+---
+
+### 🌑 DARK SKY — ❌ SHUT DOWN (March 31, 2023)
+
+Integrated into Apple WeatherKit.
+
+- darksky.net *(SHUT DOWN)*
+- darkskyapp.com *(SHUT DOWN)*
+- api.darksky.net *(SHUT DOWN)*
+- weather.apple.com *(Replacement)*
+- weatherkit.apple.com *(Replacement)*
+
+---
+
+## 🇪🇺 SECTION 6 — EUROPEAN OFFICIAL WEATHER SERVICES ✅✅✅
+
+---
+
+### 🇫🇷 METEO FRANCE (France — Official) — Risk: LOW ✅
+
+- meteofrance.com
+- meteofrance.fr
+- portail-api.meteofrance.fr
+- donneespubliques.meteofrance.fr
+- meteo.data.gouv.fr
+- geoservices.meteofrance.fr
+- inspire.data.gouv.fr
+
+---
+
+### 🇩🇪 DWD WARNWETTER (Germany — Official) — Risk: VERY LOW ✅✅
+
+- dwd.de
+- warnwetter.de
+- wettergefahren.de
+- app-prod-ws.warnwetter.de
+- opendata.dwd.de
+- s3.eu-central-1.amazonaws.com/app-prod-static.warnwetter.de
+- brightsky.dev
+- dwd.api.bund.dev
+
+---
+
+### 🇳🇱 KNMI (Netherlands — Official) — Risk: LOW ✅
+
+- knmi.nl
+- dataplatform.knmi.nl
+- english.knmidata.nl
+- api.dataplatform.knmi.nl
+- developer.dataplatform.knmi.nl
+- daggegevens.knmi.nl
+- weerlive.nl
+- nationaalgeoregister.nl
+
+---
+
+### 🇬🇧 MET OFFICE (United Kingdom — Official) — Risk: LOW ✅
+
+- metoffice.gov.uk
+- datapoint.metoffice.gov.uk
+- datahub.metoffice.gov.uk
+- metoffice.github.io
+
+---
+
+### 🇪🇸 AEMET (Spain — Official) — Risk: LOW ✅
+
+- aemet.es
+- opendata.aemet.es
+
+---
+
+### 🇮🇹 ARPA (Italy — Regional) — Risk: LOW ✅
+
+- arpalombardia.it
+- dati.lombardia.it
+- arpa.veneto.it
+- meteo.arpa.veneto.it
+- arpa.piemonte.it
+- arpae.it
+- dati.arpae.it
+
+---
+
+### 🇳🇴 YR.NO / MET NORWAY (Norway — Official) — Risk: VERY LOW ✅✅
+
+- yr.no
+- api.met.no
+- developer.yr.no
+- github.com/metno
+
+---
+
+### 🇨🇭 METEOSWISS (Switzerland — Official) — Risk: VERY LOW ✅✅
+
+- meteoswiss.admin.ch
+- opendatadocs.meteoswiss.ch
+- data.geo.admin.ch
+- api.existenz.ch
+
+---
+
+### 🇸🇪 SMHI (Sweden — Official) — Risk: VERY LOW ✅✅
+
+- smhi.se
+- opendata.smhi.se
+- opendata-download-metobs.smhi.se
+- opendata-download-metfcst.smhi.se
+
+---
+
+### 🇫🇮 FMI (Finland — Official) — Risk: VERY LOW ✅✅
+
+- en.ilmatieteenlaitos.fi
+- fmi.fi
+- opendata.fmi.fi
+- opendata.fmi.fi/wfs
+- openwms.fmi.fi/geoserver/wms
+
+---
+
+### 🇩🇰 DMI (Denmark — Official) — Risk: VERY LOW ✅✅
+
+- dmi.dk
+- dmigw.govcloud.dk
+- opendatadocs.dmi.govcloud.dk
+- dmigw.govcloud.dk/v1/forecastedr
+- dmigw.govcloud.dk/v1/forecastdata
+- dmigw.govcloud.dk/v2/climateData
+- dmi.cma.dk
+
+---
+
+### 🇧🇪 RMI/KMI (Belgium — Official) — Risk: VERY LOW ✅✅
+
+- meteo.be
+- opendata.meteo.be
+- publish.geo.be
+
+---
+
+### 🇦🇹 ZAMG / GEOSPHERE AUSTRIA (Austria — Official) — Risk: VERY LOW ✅✅
+
+- zamg.ac.at
+- dataset.api.hub.geosphere.at
+- data.hub.geosphere.at
+- openapi.hub.geosphere.at/warnapi/v1/
+- data.gv.at
+
+---
+
+### 🇵🇱 IMGW (Poland — Official) — Risk: LOW ✅
+
+- imgw.pl
+
+---
+
+### 🇨🇿 CHMI (Czech Republic — Official) — Risk: LOW ✅
+
+- chmi.cz
+
+---
+
+## 🌏 SECTION 7 — OTHER REGIONS' OFFICIAL WEATHER SERVICES ✅
+
+---
+
+### 🇺🇸 NOAA / NWS (USA — Official) — Risk: VERY LOW ✅✅✅
+
+- weather.gov
+- api.weather.gov
+- forecast.weather.gov
+- radar.weather.gov
+- mobile.weather.gov
+- alerts.weather.gov
+- graphical.weather.gov
+- aviationweather.gov
+- weather-gov.github.io
+- github.com/weather-gov
+
+---
+
+### 🇨🇦 ENVIRONMENT CANADA (Canada — Official) — Risk: VERY LOW ✅✅✅
+
+- weather.gc.ca
+- meteo.gc.ca
+- api.weather.gc.ca
+- geo.weather.gc.ca
+- geo.meteo.gc.ca
+- dd.weather.gc.ca
+- dd.meteo.gc.ca
+
+---
+
+### 🇦🇺 BOM (Australia — Official) — Risk: VERY LOW ✅✅✅
+
+- bom.gov.au
+- api.weather.bom.gov.au
+- weather.bom.gov.au
+- ftp.bom.gov.au
+- sws-data.sws.bom.gov.au
+
+---
+
+### 🇳🇿 METSERVICE (New Zealand — Official) — Risk: LOW ✅
+
+- metservice.com
+
+---
+
+### 🇿🇦 SAWS (South Africa — Official) — Risk: LOW ✅
+
+- weathersa.co.za
+
+---
+
+### 🇧🇷 INMET (Brazil — Official) — Risk: LOW ✅
+
+- inmet.gov.br
+
+---
+
+### 🇲🇽 SMN (Mexico — Official) — Risk: LOW ✅
+
+- smn.conagua.gob.mx
+
+---
+
+### 🇰🇷 KMA (South Korea — Official) — Risk: LOW ✅
+
+- kma.go.kr
+- web.kma.go.kr
+
+---
+
+### 🇸🇬 MSS (Singapore — Official) — Risk: LOW ✅
+
+- mss.gov.sg
+
+---
+
+### 🇭🇰 HKO (Hong Kong — Official) — Risk: LOW ✅
+
+- hko.gov.hk
