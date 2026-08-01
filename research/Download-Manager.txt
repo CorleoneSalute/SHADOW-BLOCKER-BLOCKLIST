@@ -1,0 +1,1662 @@
+# DOWNLOAD MANAGER RESEARCH LIST
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 INTERNET DOWNLOAD MANAGER (IDM)
+
+Developer: Tonec Inc. | Type: Proprietary | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+### Core Domains
+- internetdownloadmanager.com
+- www.internetdownloadmanager.com
+- tonec.com
+- www.tonec.com
+- idm-integration.com
+- registeridm.com
+- secure.registeridm.com
+
+### License Verification & Telemetry
+- secure.internetdownloadmanager.com
+- registration.internetdownloadmanager.com
+- stats.internetdownloadmanager.com
+
+### Analytics
+- analytics.tonec.com
+- telemetry.internetdownloadmanager.com
+- metrics.internetdownloadmanager.com
+- tracking.internetdownloadmanager.com
+
+### Update & Download Servers
+- update.internetdownloadmanager.com
+- download.internetdownloadmanager.com
+- mirror.internetdownloadmanager.com
+- mirror2.internetdownloadmanager.com
+- mirror3.internetdownloadmanager.com
+- mirror4.internetdownloadmanager.com
+- mirror5.internetdownloadmanager.com
+- mirror6.internetdownloadmanager.com
+- mirror7.internetdownloadmanager.com
+- mirror8.internetdownloadmanager.com
+- mirror9.internetdownloadmanager.com
+- mirror10.internetdownloadmanager.com
+
+### Ad & Affiliate
+- ads.internetdownloadmanager.com
+- promo.internetdownloadmanager.com
+- affiliate.tonec.com
+- partners.tonec.com
+- reseller.tonec.com
+
+### Browser Extension
+- extension.internetdownloadmanager.com
+- extension-telemetry.internetdownloadmanager.com
+
+### Support
+- support.internetdownloadmanager.com
+- help.internetdownloadmanager.com
+
+### Name Servers
+- ns2.tonec.com
+- ns1.tonec.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 FREE DOWNLOAD MANAGER (FDM)
+
+Developer: FreeDownloadManager.org | Type: Partially open-source | Danger: [MEDIUM-HIGH] ⚠️⚠️⚠️⚠️
+
+### ⚠️ MALICIOUS SITE (AVOID!)
+- freedownloadmanager.org
+
+### Legitimate Sources
+- freedownloadmanager.com
+- www.freedownloadmanager.com
+
+### GitHub
+- github.com/freedownloadmanager/fdm
+- github.com/FreeDownloadManagerTeam/fdm-qsextension
+- api.github.com/repos/FreeDownloadManagerTeam/fdm-qsextension/releases
+
+### Telemetry
+- stat.freedownloadmanager.org
+- analytics.freedownloadmanager.org
+- telemetry.freedownloadmanager.org
+- metrics.freedownloadmanager.org
+- tracking.freedownloadmanager.org
+
+### Update
+- update.freedownloadmanager.org
+- api.freedownloadmanager.org
+
+### Cloud Sync
+- cloud.freedownloadmanager.org
+- sync.freedownloadmanager.org
+
+### Browser Extension
+- extension.freedownloadmanager.org
+- api-extension.freedownloadmanager.org
+
+### Community
+- blog.freedownloadmanager.org
+- forum.freedownloadmanager.org
+
+### Support
+- support.freedownloadmanager.org
+- help.freedownloadmanager.org
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 EAGLEGET (ABANDONED - 2018)
+
+Danger: [HIGH] ⚠️⚠️⚠️⚠️⚠️
+
+- eagleget.com
+- www.eagleget.com
+- update.eagleget.com
+- ads.eagleget.com
+- promo.eagleget.com
+- stat.eagleget.com
+- extension.eagleget.com
+- forum.eagleget.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 DOWNLOAD ACCELERATOR PLUS (DAP)
+
+Developer: SpeedBit | Danger: [EXTREME] ⚠️⚠️⚠️⚠️⚠️⚠️
+
+- speedbit.com
+- www.speedbit.com
+- downloadaccelerator.com
+- www.downloadaccelerator.com
+- dap.com
+- www.dap.com
+- analytics.speedbit.com
+- tracking.speedbit.com
+- stats.speedbit.com
+- telemetry.speedbit.com
+- metrics.speedbit.com
+- ads.speedbit.com
+- offers.speedbit.com
+- promo.speedbit.com
+- partners.speedbit.com
+- bundle.speedbit.com
+- update.speedbit.com
+- download.speedbit.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 JDOWNLOADER
+
+Type: Open-source (Java) | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- jdownloader.org
+- www.jdownloader.org
+- my.jdownloader.org
+- api.jdownloader.org
+- webui.jdownloader.org
+- update.jdownloader.org
+- update0.jdownloader.org
+- update1.jdownloader.org
+- update2.jdownloader.org
+- update3.jdownloader.org
+- update4.jdownloader.org
+- update5.jdownloader.org
+- stats.jdownloader.org
+- analytics.my.jdownloader.org
+- telemetry.jdownloader.org
+- mydns.jdownloader.org
+- forum.jdownloader.org
+- board.jdownloader.org
+- svn.jdownloader.org
+
+### AppWork GmbH (Developer Infrastructure)
+- appwork.org
+- www.appwork.org
+- download.appwork.org
+
+### GitHub Mirror
+- github.com/mirror/jdownloader
+- github.com/jdownloader-mirror/appwork-utils
+
+### Captcha Service
+- 9kw.eu
+- api.9kw.eu
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 ORBIT DOWNLOADER (COMPROMISED - 2015)
+
+Danger: [MAXIMUM] ⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+- orbitdownloader.com
+- www.orbitdownloader.com
+- update.orbitdownloader.com
+- download.orbitdownloader.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 GETRIGHT / DOWNLOAD EXPRESS (ABANDONED)
+
+Danger: [HIGH] ⚠️⚠️⚠️⚠️⚠️
+
+- getright.com
+- www.getright.com
+- metaproducts.com
+- www.metaproducts.com
+- downloadexpress.com
+- www.downloadexpress.com
+- update.getright.com
+- download.getright.com
+- support.getright.com
+- update.metaproducts.com
+- download.metaproducts.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ ARIA2
+
+Type: Open-source (C++) GPLv2+ | Danger: [NONE] ✅
+
+- aria2.github.io
+- github.com/aria2/aria2
+- api.github.com/repos/aria2/aria2/releases
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ UGET
+
+Type: Open-source LGPL | Danger: [NONE] ✅
+
+- ugetdm.com
+- www.ugetdm.com
+- sourceforge.net/projects/urlget
+- github.com/ugetdm/uget
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ MOTRIX
+
+Type: Open-source (Electron) MIT | Danger: [NONE] ✅
+
+- motrix.app
+- www.motrix.app
+- github.com/agalwood/Motrix
+- api.github.com/repos/agalwood/Motrix/releases
+- dl.motrix.app
+- snapcraft.io/motrix
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ XTREME DOWNLOAD MANAGER (XDM)
+
+Type: Open-source (Java) | Danger: [NONE] ✅
+
+- xtremedownloadmanager.com
+- www.xtremedownloadmanager.com
+- github.com/subhra74/xdm
+- sourceforge.net/projects/xdman
+- api.github.com/repos/subhra74/xdm/releases
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 ANT DOWNLOAD MANAGER (AntDM)
+
+Type: Freemium (Proprietary) | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- antdownloadmanager.com
+- www.antdownloadmanager.com
+- update.antdownloadmanager.com
+- download.antdownloadmanager.com
+- api.antdownloadmanager.com
+- forum.antdownloadmanager.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 ADM (ADVANCED DOWNLOAD MANAGER) — Android
+
+Developer: advancedapp.kz | Type: Freemium + Ads | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- advancedapp.kz
+- www.advancedapp.kz
+- apps2sd.info
+- www.apps2sd.info
+- t.me/adm_torrent
+- play.google.com/store/apps/details?id=com.dv.adm
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 1DM (ONE DOWNLOAD MANAGER) — Android
+
+Type: Freemium | Danger: [LOW] ⚠️
+
+- apps2sd.info
+- www.apps2sd.info
+- t.me/vickybonick
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 NINJA DOWNLOAD MANAGER (NDM)
+
+Type: Freemium ($19) | Danger: [LOW] ⚠️
+
+- ninjadownloadmanager.com
+- www.ninjadownloadmanager.com
+- github.com/mikedavies-dev/ninja-download-manager
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 INTERNET DOWNLOAD ACCELERATOR (IDA) / DOWNLOAD MASTER — WestByte
+
+Developer: WestByte Software | Type: Freeware + Ads | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- westbyte.com
+- www.westbyte.com
+- download1.westbyte.com
+- up.westbyte.com
+- update.westbyte.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 FOLX — macOS
+
+Developer: Electronic Team (Eltima Software) | Type: Freemium | Danger: [LOW] ⚠️
+
+- mac.eltima.com
+- electronic.us
+- www.electronic.us
+- mac-downloader.com
+- www.mac-downloader.com
+- eltima.com
+- www.eltima.com
+- setapp.com/apps/folx
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 FLASHGET (ABANDONED/ADWARE)
+
+Danger: [HIGH] ⚠️⚠️⚠️⚠️⚠️
+
+- flashget.com
+- www.flashget.com
+- flashget.net
+- www.flashget.net
+- update.flashget.com
+- fgupdate.flashget.com
+- ads.flashget.com
+- promo.flashget.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ FREERAPID DOWNLOADER (ABANDONED - OPEN SOURCE)
+
+Developer: Vity (Czech) | Danger: [LOW] ⚠️
+
+- wordrider.net
+- www.wordrider.net
+- update.wordrider.net
+- plugins.wordrider.net
+- bugtracker.wordrider.net
+- forum.wordrider.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 HIDOWNLOAD (PHOENIX)
+
+Developer: StreamingStar Technology Inc. | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- hidownload.com
+- www.hidownload.com
+- hidownload.net
+- www.hidownload.net
+- streamingstar.com
+- www.streamingstar.com
+- streamingstar.org
+- www.streamingstar.org
+- download.hidownload.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 NET TRANSPORT (NETXFER)
+
+Developer: Xi-Soft (China) | Type: Freeware | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- xi-soft.com
+- www.xi-soft.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ DOWNTHEMALL (DTA)
+
+Type: Open-source (WebExtension) | Danger: [NONE] ✅
+
+- downthemall.org
+- www.downthemall.org
+- about.downthemall.org
+- github.com/downthemall/downthemall
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 GETGO DOWNLOAD MANAGER
+
+Status: SEMI-ABANDONED (2018) | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- getgosoft.com
+- www.getgosoft.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 MIPONY
+
+Developer: Mipony (Spain) | Type: Freeware | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- mipony.net
+- www.mipony.net
+- ponyroid.mipony.net
+- update.mipony.net
+- plugins.mipony.net
+
+### Captcha Service (Optional)
+- captchatrader.com
+- api.captchatrader.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 DOWNLOADSTUDIO
+
+Developer: Conceiva Software (Australia) | Type: Paid | Danger: [LOW] ⚠️
+
+- conceiva.com
+- www.conceiva.com
+- forum.conceiva.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ AB DOWNLOAD MANAGER
+
+Type: Open-source (Kotlin) | Danger: [NONE] ✅
+
+- abdownloadmanager.com
+- www.abdownloadmanager.com
+- github.com/amir1376/ab-download-manager
+- api.github.com/repos/amir1376/ab-download-manager/releases
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ PERSEPOLIS DOWNLOAD MANAGER
+
+Type: Open-source (Python/aria2 GUI) | Danger: [NONE] ✅
+
+- persepolisdm.github.io
+- github.com/persepolisdm/persepolis
+- github.com/persepolisdm/Persepolis-WebExtension
+- t.me/persepolisdm
+- ppa.launchpadcontent.net
+- launchpad.net
+- github.com/persepolisdm/persepolis_lib
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ GOPEED
+
+Type: Open-source (Go + Flutter) | Danger: [LOW] ⚠️
+
+- gopeed.com
+- www.gopeed.com
+- docs.gopeed.com
+- github.com/GopeedLab/gopeed
+- github.com/GopeedLab/browser-extension
+- api.github.com/repos/GopeedLab/gopeed/releases
+- extension.gopeed.com
+- api.github.com/repos/GopeedLab/browser-extension/releases
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 NEAT DOWNLOAD MANAGER (NDM)
+
+Type: Freeware | Danger: [NONE] ✅
+
+- neatdownloadmanager.com
+- www.neatdownloadmanager.com
+- neatdownload.com
+- www.neatdownload.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 FILE CENTIPEDE
+
+Type: Freemium (partially open source) | Danger: [LOW] ⚠️
+
+- filecxx.com
+- www.filecxx.com
+- github.com/filecxx/FileCentipede
+- sourceforge.net/projects/filecentipede
+- api.github.com/repos/filecxx/FileCentipede/releases
+- update.filecxx.com
+- api.filecxx.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 PROGRESSIVE DOWNLOADER — macOS
+
+Developer: Max Rudberg | Type: Freeware | Danger: [LOW] ⚠️
+
+- macpsd.net
+- www.macpsd.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 LEECH — macOS
+
+Developer: Many Tricks | Type: Paid ($4.99) | Danger: [LOW] ⚠️
+
+- manytricks.com
+- www.manytricks.com
+- help.manytricks.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ TURBO DOWNLOAD MANAGER / EASY VIDEO DOWNLOADER
+
+Developer: add0n.com/inbasic | Type: Open-source (WebExtension) | Danger: [NONE] ✅
+
+- add0n.com
+- www.add0n.com
+- webextension.org
+- www.webextension.org
+- github.com/inbasic/turbo-download-manager
+- sourceforge.net/projects/turbo-download-manager
+- github.com/inbasic/turbo-download-manager-v2
+- play.google.com/store/apps/details?id=com.add0n.downloader
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 DOWNLOAD SHUTTLE — macOS
+
+Developer: FIPLAB Ltd | Type: Freemium | Danger: [LOW] ⚠️
+
+- fiplab.com
+- www.fiplab.com
+- support.fiplab.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 IGETTER — macOS/Windows
+
+Developer: Presenta Ltd. | Type: Shareware | Danger: [LOW] ⚠️
+
+- igetter.net
+- www.igetter.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 MAXEL — macOS
+
+Status: SEMI-ABANDONED (2019) | Danger: [LOW] ⚠️
+
+- maxelapp.com
+- www.maxelapp.com
+- github.com/unregistered/Maxel
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 LOADER DROID — Android
+
+Developer: Dmitry Voronkevich (Russia) | Type: Freemium | Danger: [LOW] ⚠️
+
+- github.com/dmitry-voronkevich/loader-droid-public-api
+- facebook.com/LoaderDroid
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🚨 MALICIOUS FAKE DOWNLOAD MANAGER SITES
+
+Danger: [MAXIMUM] 🚨
+
+### Fake IDM
+- internetdownloadmanager.net
+- idm-download.com
+- idmfree.com
+- get-idm.com
+- download-idm.com
+- idm.com
+
+### Fake FDM
+- freedownloadmanager.net
+- fdm-download.com
+- getfdm.com
+- download-fdm.com
+
+### Fake EagleGet
+- eagleget.net
+- get-eagleget.com
+- download-eagleget.com
+
+### Generic Scams
+- downloadmanager.com
+- fastdownloadmanager.com
+- speeddownloader.com
+- ultradownloader.com
+- megadownloader.com
+- superdownloader.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📹 VIDEO DOWNLOADER PLATFORMS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ YT-DLP
+
+Type: Open-source (Python) | Danger: [NONE] ✅
+
+- github.com/yt-dlp/yt-dlp
+- github.com/yt-dlp/yt-dlp-nightly-builds
+- api.github.com/repos/yt-dlp/yt-dlp/releases/latest
+- github.com/yt-dlp/yt-dlp-master-builds
+- api.github.com/repos/yt-dlp/yt-dlp-master-builds/releases
+- pypi.org/project/yt-dlp
+- files.pythonhosted.org
+- github.com/yt-dlp/yt-dlp-ejs
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ YOUTUBE-DL
+
+Type: Open-source (Python) | Status: SLOW DEVELOPMENT | Danger: [NONE] ✅
+
+- ytdl-org.github.io/youtube-dl
+- github.com/ytdl-org/youtube-dl
+- github.com/ytdl-org/ytdl-nightly
+- api.github.com/repos/ytdl-org/youtube-dl/releases/latest
+- pypi.org/project/youtube-dl
+- files.pythonhosted.org
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 4K VIDEO DOWNLOADER PLUS
+
+Developer: Open Media LLC (Ukraine) | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- 4kdownload.com
+- www.4kdownload.com
+- blog.4kdownload.com
+- support.4kdownload.com
+- download.4kdownload.com
+- license.4kdownload.com
+- analytics.4kdownload.com
+- dl.4kdownload.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 TUBEMATE — Android
+
+Developer: Devian Studio | Type: Freeware (APK only) | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- tubemate.net
+- www.tubemate.net
+- devianstudio.com
+- www.devianstudio.com
+- tubemate.net/update.jsp
+
+### ⚠️ FAKE DOMAINS
+- tubemate.co.uk
+- tubemate.uk
+- tubemate.tools
+- tubemate.tube
+- tubemate2.com
+- tubemate3.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 VIDMATE — Android
+
+Developer: Originally from Guangzhou (formerly UCWeb/Alibaba) | Type: Freeware (APK only) | Danger: [EXTREME] ⚠️⚠️⚠️⚠️⚠️⚠️
+
+- vidmateapp.com
+- www.vidmateapp.com
+- sites.vidmateapp.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ NEWPIPE — Android
+
+Type: Open-source | Danger: [NONE] ✅
+
+- newpipe.net
+- www.newpipe.net
+- archive.newpipe.net
+- archive.newpipe.net/fdroid/repo
+- github.com/TeamNewPipe/NewPipe
+- newpipe.net/blog
+- f-droid.org
+- www.f-droid.org
+- fdroid.gitlab.io
+- github.com/TeamNewPipe/NewPipeExtractor
+- sponsor.ajay.app
+- api.sponsor.ajay.app
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 SNAPTUBE — Android
+
+Developer: Mobiuspace (China) | Type: Freeware (APK only) | Danger: [HIGH] ⚠️⚠️⚠️⚠️⚠️
+
+- snaptube.com
+- www.snaptube.com
+- snaptubeapp.com
+- www.snaptubeapp.com
+
+### ⚠️ FAKE DOMAINS
+- snaptubeofficial.com
+- snaptubes.net
+- snaptubes.blog
+- snaptubeapkdownloads.com
+- snaptubedownload.net
+- snaptubie.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ SEAL — Android
+
+Type: Open-source (Kotlin/yt-dlp GUI) | Danger: [NONE] ✅
+
+- github.com/JunkFood02/Seal
+- t.me/seal_app
+- f-droid.org/packages/com.junkfood.seal
+- api.github.com/repos/JunkFood02/Seal/releases
+- sponsor.ajay.app
+- api.sponsor.ajay.app
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 VIDEO DOWNLOADHELPER
+
+Developer: Michel Gutierrez (France) | Type: Freemium | Danger: [LOW] ⚠️
+
+- downloadhelper.net
+- www.downloadhelper.net
+- github.com/aclap-dev/vdhcoapp
+- github.com/aclap-dev/video-downloadhelper
+- license.downloadhelper.net
+- api.downloadhelper.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 CLIPGRAB
+
+Developer: libre media labs GmbH (Germany) | Type: Donationware | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- clipgrab.org
+- www.clipgrab.org
+- clipgrab.de
+- www.clipgrab.de
+- download.clipgrab.org
+- clipgrab.de/update/en
+- clipgrab.org/update
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 DOWNIE — macOS
+
+Developer: Charlie Monroe | Type: Paid ($19.99) | Danger: [LOW] ⚠️
+
+- software.charliemonroe.net
+- www.charliemonroe.net
+- setapp.com/apps/downie
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ COBALT
+
+Type: Open-source (Web-based) | Danger: [NONE] ✅
+
+- cobalt.tools
+- www.cobalt.tools
+- github.com/imputnet/cobalt
+- royalehosting.net
+- api.cobalt.tools
+- instances.cobalt.best
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 SNAPDOWNLOADER
+
+Type: Freemium | Danger: [LOW] ⚠️
+
+- snapdownloader.com
+- www.snapdownloader.com
+- cdn.snapdownloader.com
+- api.snapdownloader.com
+- update.snapdownloader.com
+- dl.snapdownloader.com
+- eu.i.posthog.com
+- eu-assets.i.posthog.com
+- script.tapfiliate.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ⚠️ BY CLICK DOWNLOADER
+
+Type: Freemium | Danger: [HIGH] ⚠️⚠️⚠️⚠️⚠️
+
+- byclickdownloader.com
+- www.byclickdownloader.com
+- byclickdownloader.com/ConnectionError.php
+- byclickdownloader.com/FAQ.php
+- update.byclickdownloader.com
+- license.byclickdownloader.com
+- api.byclickdownloader.com
+- download.byclickdownloader.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ⚠️ Y2MATE (Web-based)
+
+Danger: [HIGH] ⚠️⚠️⚠️⚠️⚠️
+
+- y2mate.com
+- www.y2mate.com
+- y2mate.guru
+- www.y2mate.guru
+- y2mate.is
+- y2mate.nu
+- y2mate.tools
+- y2mate.tv
+- y2mate.me
+- y2mate.net.co
+- y2mate.vet
+- y2mate.in
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 ITUBEGO
+
+Type: Freemium | Danger: [MEDIUM-HIGH] ⚠️⚠️⚠️⚠️ | ⚠️ Group 3 (same company as VidJuice/YT Saver)
+
+- itubego.com
+- www.itubego.com
+- blog.itubego.com
+- support.itubego.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 EASEUS VIDEO DOWNLOADER
+
+Developer: EaseUS Software (China) | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- easeus.com
+- www.easeus.com
+- multimedia.easeus.com
+- kb.easeus.com
+- support.easeus.com
+- down.easeus.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 FLIFLIK
+
+Developer: iToolab (China) | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- fliflik.com
+- www.fliflik.com
+- online.fliflik.com
+- itoolab.com
+- www.itoolab.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 YTD VIDEO DOWNLOADER
+
+Developer: GreenTree Applications | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- ytddownloader.com
+- www.ytddownloader.com
+- help.ytddownloader.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 WINX YOUTUBE DOWNLOADER / VIDEOPROC (Digiarty)
+
+Developer: Digiarty Software (China) | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- winxdvd.com
+- www.winxdvd.com
+- videoproc.com
+- www.videoproc.com
+- download.winxdvd.com
+- support.winxdvd.com
+- dl2.winxdvd.com
+- dl3.winxdvd.com
+- buy.winxdvd.com
+- order.winxdvd.com
+- digiarty.com
+- www.digiarty.com
+- winxvideo.com
+- www.winxvideo.com
+- aiarty.com
+- www.aiarty.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 FREEMAKE VIDEO DOWNLOADER
+
+Developer: Ellora Assets Corporation (Russia) | Type: Freemium + Adware | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- freemake.com
+- www.freemake.com
+- update.freemake.com
+- download.freemake.com
+- support.freemake.com
+- improver.freemake.com
+- cdn.freemake.com
+- freemake.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 INSTUBE — Android
+
+Developer: InsTube Team (China) | Type: Freeware (APK only) | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- instube.com
+- www.instube.com
+- instube.pro
+- instube.tube
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ⚠️ KEEPVID — DISCONTINUED (2018)
+
+Old (no longer active)
+
+- keepvid.com
+- keepvid.pro
+- keepvid.ch
+- keepv.id
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ⚠️ SAVEFROM.NET
+
+Danger: [HIGH] ⚠️⚠️⚠️⚠️⚠️
+
+- savefrom.net
+- www.savefrom.net
+- uk.savefrom.net
+- en.savefrom.net
+- ru.savefrom.net
+- sfrom.net
+- us.savefrom.net
+- de.savefrom.net
+- fr.savefrom.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ⚠️ AIRY — macOS (DEFUNCT)
+
+Developer: Eltima/Electronic Team | Status: NO LONGER WORKING
+
+- eltima.com
+- www.eltima.com
+- electronic.us
+- www.electronic.us
+- airy-youtube-downloader.com
+- www.airy-youtube-downloader.com
+- wiki.airy-youtube-downloader.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 WONDERSHARE UNICONVERTER
+
+Developer: Wondershare (China) | Type: Freemium | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- wondershare.com
+- www.wondershare.com
+- videoconverter.wondershare.com
+- accounts.wondershare.com
+- was.wondershare.com
+- was-stats.wondershare.com
+- cbs.wondershare.com
+- dc.wondershare.com
+- dc-static.wondershare.com
+- download.wondershare.com
+- i.wondershare.com
+- images.wondershare.com
+- resource.wondershare.com
+- static-eus-rs.wondershare.com
+- effects.wondershare.com
+- support.wondershare.com
+- platform.wondershare.com
+- sparrow.wondershare.com
+- wondershare.cc
+- wondershare.cn
+- www.wondershare.cn
+- wondershare.com.br
+- wondershare.ae
+- wondershare.jp
+- www.wondershare.jp
+- wondershare.de
+- www.wondershare.de
+- wondershare.fr
+- www.wondershare.fr
+- filmora.wondershare.com
+- pdfelement.wondershare.com
+- drfone.wondershare.com
+- recoverit.wondershare.com
+- democreator.wondershare.com
+- edraw.wondershare.com
+- uniconverter.wondershare.com
+- api.wondershare.com
+- store.wondershare.com
+- order.wondershare.com
+- buy.wondershare.com
+- media.wondershare.com
+- blog.wondershare.com
+- forum.wondershare.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 KEEPSTREAMS
+
+Developer: Yixiu Technology Co., Ltd. | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️ | ⚠️ Group 2 (StreamFab/BBFly group)
+
+- keepstreams.com
+- www.keepstreams.com
+- help.keepstreams.com
+- blog.keepstreams.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 STREAMFAB
+
+Developer: DVDFab Software (China) | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️ | ⚠️ Group 2
+
+- streamfab.com
+- www.streamfab.com
+- streamfab.dvdfab.cn
+- dvdfab.cn
+- dvdfab.com
+- www.dvdfab.com
+- forum.dvdfab.cn
+- unifab.dvdfab.cn
+- musicfab.dvdfab.cn
+- bookfab.dvdfab.cn
+- player.dvdfab.cn
+- user.dvdfab.cn
+- api.dvdfab.cn
+- update.dvdfab.cn
+- download.dvdfab.cn
+- support.dvdfab.cn
+- blog.dvdfab.cn
+- api.streamfab.com
+- update.streamfab.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 BBFLY
+
+Developer: BirdBirdFly (China — Group 2) | Type: Freemium | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- birdbirdfly.com
+- www.birdbirdfly.com
+- support.birdbirdfly.com
+- help.birdbirdfly.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 MOVPILOT
+
+Developer: MovPilot (China) | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- movpilot.com
+- www.movpilot.com
+- blog.movpilot.com
+- support.movpilot.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 ATUBE CATCHER
+
+Developer: DsNET Corp (Mexico) | Type: Freeware | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- atube.me
+- www.atube.me
+- dsnetwb.com
+- atube-catcher.dsnetwb.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 DVDVIDEOSOFT FREE YOUTUBE DOWNLOAD
+
+Developer: Digital Wave Ltd. (UK) | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- dvdvideosoft.com
+- www.dvdvideosoft.com
+- support.dvdvideosoft.com
+- download.dvdvideosoft.com
+- update.dvdvideosoft.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 ANY VIDEO CONVERTER (AVC)
+
+Developer: Anvsoft Inc. (China) | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- any-video-converter.com
+- www.any-video-converter.com
+- anvsoft.com
+- www.anvsoft.com
+- avclabs.com
+- www.avclabs.com
+- update.any-video-converter.com
+- update.anvsoft.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 KEEPRIX
+
+Developer: Unknown (Alibaba Cloud) | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- keeprix.com
+- www.keeprix.com
+- keeprix.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 ITKOOL
+
+Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- itkool.com
+- www.itkool.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 VSAVE
+
+Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- vsave.net
+- www.vsave.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 VSO DOWNLOADER
+
+Developer: VSO Software (France) | Type: Freemium | Danger: [LOW] ⚠️
+
+- vso-software.fr
+- www.vso-software.fr
+- downloader.vso-software.fr
+- forum.vso-software.fr
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 UMMY VIDEO DOWNLOADER
+
+Type: Freemium | Danger: [LOW] ⚠️
+
+- ummy.net
+- www.ummy.net
+- videodownloader.ummy.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ DOWNLODR
+
+Type: Open-source | Danger: [NONE] ✅
+
+- downlodr.com
+- www.downlodr.com
+- github.com/Talisik/Downlodr
+- dividr.app
+- api.github.com/repos/Talisik/Downlodr/releases
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 VIDJUICE UNITUBE
+
+Developer: VidJuice Ltd. (Group 3) | Type: Freemium | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- vidjuice.com
+- www.vidjuice.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ PULLTUBE — macOS
+
+Developer: MyMixApps | Type: Freemium | Danger: [NONE] ✅
+
+- mymixapps.com
+- www.mymixapps.com
+- setapp.com/apps/pulltube
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 FLIXICAM
+
+Developer: China (Group 1 — Kigo/TunePat group) | Type: Freemium | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- flixicam.com
+- www.flixicam.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 TUNESBANK
+
+Developer: China (Alibaba Cloud) | Type: Freemium | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- tunesbank.com
+- www.tunesbank.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 KIGOSOFT (KIGO MOVIE ONE)
+
+Developer: China (Group 1) | Type: Freemium | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- kigosoft.com
+- www.kigosoft.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 SURFAST VIDEO DOWNLOADER
+
+Developer: Nablamind | Type: Freemium | Danger: [LOW] ⚠️
+
+- nablamind.com
+- www.nablamind.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 FLIXPAL
+
+Developer: China (Group 2 — StreamFab group) | Type: Freemium | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- flixpal.us
+- www.flixpal.us
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 TUNEPAT VIDEOGO
+
+Developer: TunePat Inc. (Group 1) | Type: Freemium | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- tunepat.com
+- www.tunepat.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 VIDICABLE
+
+Developer: China (Alibaba Cloud — Group 1) | Type: Freemium | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- vidicable.com
+- www.vidicable.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 VTUBEGO
+
+Type: Freemium | Danger: [LOW] ⚠️
+
+- vtubego.com
+- www.vtubego.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 YT SAVER
+
+Developer: China (Group 3) | Type: Freemium | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- ytsaver.net
+- www.ytsaver.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 DISPCAM
+
+Developer: China (Group 1) | Type: Freemium | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- dispcam.com
+- www.dispcam.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 ALLAVSOFT
+
+Developer: China (same group as Bigasoft) | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- allavsoft.com
+- www.allavsoft.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 LOCOLOADER
+
+Type: Freemium (Chrome Extension) | Status: ⚠️ Removed from Chrome Web Store (2024) | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- locoloader.com
+- www.locoloader.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 VIDEODER — Android/Windows
+
+Developer: GlennioTech | Type: Freeware (APK) | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- videoder.com
+- www.videoder.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ⚠️ IFLYDOWN
+
+Danger: [HIGH] ⚠️⚠️⚠️⚠️⚠️
+
+- iflydown.com
+- www.iflydown.com
+- apk.iflydown.com
+- iflytube.com
+- flydownloader.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 ACETHINKER (AQUA CLIP)
+
+Type: Freemium | Danger: [LOW] ⚠️
+
+- acethinker.com
+- www.acethinker.com
+- acethinker.ai
+- www.acethinker.ai
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ⚠️ 9XBUDDY
+
+Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- 9xbuddy.com
+- www.9xbuddy.com
+- 9xbuddy.in
+- 9xbuddy.site
+- 9xbuddy.app
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ WARPDL
+
+Type: Open-source | Danger: [NONE] ✅
+
+- github.com/warpdl/warpdl
+- github.com/warpdl/warp-releases
+- github.com/warpdl/extensions
+- github.com/warpdl/web-extension
+- snapcraft.io/warpdl
+- sourceforge.net/projects/warpdl
+- api.github.com/repos/warpdl/warpdl/releases
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 TRANSFERCLOUD.IO
+
+Type: Freemium (cloud-based) | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- transfercloud.io
+- www.transfercloud.io
+- on16.transfercloud.io
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ CHRONO DOWNLOAD MANAGER
+
+Type: Freeware (Chrome Extension) | Danger: [NONE] ✅
+
+- chronodownloader.net
+- www.chronodownloader.net
+- faq.chronodownloader.net
+- bugs.chronodownloader.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ VIDEO DOWNLOADER PROFESSIONAL (Link64)
+
+Developer: Link64 GmbH (Germany) | Type: Freeware (Extension) + Paid (Desktop) | Danger: [LOW] ⚠️
+
+- link64.com
+- www.link64.com
+- videodownloaderultimate.com
+- www.videodownloaderultimate.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 MOYEA DOWNLOADER / LEAWO
+
+Developer: Moyeasoft / Leawo (China) | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- moyeasoft.com
+- www.moyeasoft.com
+- leawo.org
+- www.leawo.org
+- leawo.com
+- www.leawo.com
+- dvd-ppt-slideshow.com
+- hd-video-software.com
+- blu-ray-software.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ WFDOWNLOADER APP
+
+Developer: Olusegun Adebiyi (independent) | Type: Freeware | Danger: [NONE] ✅
+
+- wfdownloader.xyz
+- www.wfdownloader.xyz
+- github.com/wfdownloader
+- sourceforge.net/projects/wfdownloader
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 BULK IMAGE DOWNLOADER (BID)
+
+Developer: Antibody Software | Type: Shareware ($25) | Danger: [LOW] ⚠️
+
+- bulkimagedownloader.com
+- www.bulkimagedownloader.com
+- antibody-software.com
+- bulkimagedownloaderurllist.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 COCOCUT
+
+Type: Freemium (Chrome/Edge Extension) | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- cococut.net
+- www.cococut.net
+- cocofetch.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ⚠️ FETCHV
+
+Status: Older version removed from Chrome (2024) | Danger: [HIGH] ⚠️⚠️⚠️⚠️⚠️
+
+- fetchv.net
+- www.fetchv.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 MPMUX (VIDEO DOWNLOADER ONLINE)
+
+Type: Freemium (Web + Chrome/Edge Extension) | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- mpmux.com
+- www.mpmux.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ EASY VIDEO DOWNLOADER
+
+Developer: add0n.com/inbasic | Type: Freeware | Danger: [NONE] ✅
+
+- add0n.com
+- www.add0n.com
+- webextension.org
+- www.webextension.org
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ⚠️ FBDOWN.NET / FDOWN.NET
+
+Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- fdown.net
+- www.fdown.net
+- fbdown.net
+- fbdown.com
+- fbdown.biz
+- fbdown.cc
+- fbdown.co.in
+- fbdown.co.uk
+- fbdown.company
+- fbdown.download
+- fbdown.fr
+- fbdown.de
+- fbdown.ltd
+- fbdown.me.uk
+- fbdown.mobi
+- fbdown.org
+- fbdown.pro
+- fbdown.space
+- fbdown.store
+- fbdown.tech
+- fbdown.us
+- fbdown.website
+- fbdown.ws
+- fbdown.ch
+- fbdown.solutions
+- fbdown.guru
+- fbdown.be
+- fbdown.center
+- fbdown.work
+- fbdown.tips
+- fbdown.news
+- fbdown.today
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ⚠️ GENYOUTUBE
+
+Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- genyt.net
+- www.genyt.net
+- genyoutube.net
+- genyoutube.com
+- genyoutube.io
+- genyoutube.live
+- genyoutube.online
+- genyoutube.quest
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 VIDOW (VIDEO DOWNLOADER PLUS)
+
+Developer: Vidow/Flixmate | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- vidow.io
+- www.vidow.io
+- addoncrop.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 CLEVERGET
+
+Developer: Leawo Software (China) | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- cleverget.com
+- www.cleverget.com
+- cleverget.org
+- www.cleverget.org
+- cleverget.cc
+- cleverget.jp
+- leawo.org
+- www.leawo.org
+- leawo.com
+- www.leawo.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ SONGTUBE — Android
+
+Type: Open-source | Danger: [NONE] ✅
+
+- songtube.github.io
+- github.com/SongTube/SongTube-App
+- github.com/SongTube/songtube_link_extension
+- t.me/songtubechannel
+- api.github.com/repos/SongTube/SongTube-App/releases
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 MYCONVERTERS
+
+Developer: China (Group 2 — StreamFab group) | Type: Freemium | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- myconverters.com
+- www.myconverters.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 4KFINDER
+
+Developer: 4kFinder Software Inc. (Hong Kong) | Type: Freemium | Danger: [LOW-MEDIUM] ⚠️⚠️
+
+- 4kfinder.com
+- www.4kfinder.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 VIDDLY
+
+Developer: Catch-Video (Netherlands) | Type: Freemium | Danger: [LOW] ⚠️
+
+- viddly.net
+- www.viddly.net
+- helpdesk.viddly.net
+- vidd.ly
+- youtubedownloader.com
+- catch-video.com
+- catchyoutube.com
+- getyoutubedownloader.com
+- saveyoutube.com
+- kissyoutube.com
+- share-tube.eu
+- bulkcdn.com
+- telechargervideoyoutube.com
+- catchvideo.net
+- www.catchvideo.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 NEODOWNLOADER
+
+Developer: NeoWise Software | Type: Freemium | Danger: [LOW] ⚠️
+
+- neodownloader.com
+- www.neodownloader.com
+- neowise.com
+- www.neowise.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 IMUSIC (Wondershare)
+
+Developer: Wondershare (China — same telemetry infrastructure) | Type: Freemium | Danger: [MEDIUM] ⚠️⚠️⚠️
+
+- imusic.wondershare.com
+- wondershare.com
+- www.wondershare.com
+- was.wondershare.com
+- was-stats.wondershare.com
+- accounts.wondershare.com
+- dc.wondershare.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🔗 SHARED INFRASTRUCTURE — ALL PLATFORMS
+
+### GitHub CDN & Release Infrastructure (For all open-source projects)
+Used across this list for release, binary, and raw file distribution of open-source projects.
+- objects.githubusercontent.com
+- raw.githubusercontent.com
+- codeload.github.com
+- releases.githubusercontent.com
+- api.github.com
+- github.com
+
+### PyPI (Python package manager)
+For yt-dlp, youtube-dl, Persepolis, and other Python-based tools.
+- pypi.org
+- files.pythonhosted.org
+
+### F-Droid (Android open-source app repository)
+For NewPipe, Seal, SongTube, and other Android apps.
+- f-droid.org
+- www.f-droid.org
+- fdroid.gitlab.io
+
+### SponsorBlock (supports NewPipe, Seal, etc.)
+- sponsor.ajay.app
+- api.sponsor.ajay.app
+
+### Snapcraft (Linux Snap package distribution)
+For Motrix, WarpDL, and others.
+- snapcraft.io
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
