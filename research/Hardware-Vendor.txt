@@ -1,0 +1,752 @@
+# HARDWARE VENDOR RESEARCH LIST
+
+################################################################################
+# 🎯 CORE (Essential Software - Highest Telemetry) ⚠️⚠️⚠️
+################################################################################
+
+## NVIDIA GeForce Experience / NVIDIA App - CORE ⚠️⚠️⚠️
+- gfe.nvidia.com
+- telemetry.gfe.nvidia.com
+- telemetry-gfe.nvidia.com
+- gfe-events.nvidia.com
+- nvgs.nvidia.com
+- gfwsl.geforce.com
+- services.geforce.com
+- images.nvidiagrid.net
+- img.nvidiagrid.net
+- images.nvidia.com
+- dyn.gfe.nvidia.com
+- ls.dtrace.nvidia.com
+- ota.nvidia.com
+- ota-downloads.nvidia.com
+- activation.gfe.nvidia.com
+- activation-dc1.gfe.nvidia.com
+- events-dc1.gfe.nvidia.com
+- events-lon1.gfe.nvidia.com
+- events.gfestage.nvidia.com
+- telemetry.gfestage.nvidia.com
+- beta.telemetry.gfe.nvidia.com
+- telemetry-stage.nvidia.com
+- telemetry.nvidia.com
+- gx.nvidia.com
+- gx-stg.nvidia.com
+- gx-uat.nvidia.com
+- mobileupdate.nvidia.com
+- mobileupdatestage.nvidia.com
+- nvidia.tt.omtrdc.net
+- cs515.adn.phicdn.net
+- gfe.geforce.com
+- heartbeat.gfe.nvidia.com
+- login.nvgs.nvidia.com
+- login.nvgs.nvidia.cn
+- accounts.nvgs.nvidia.cn
+- accounts.nvgs.nvidia.com
+- services.gfe.nvidia.com
+- download.gfe.nvidia.com
+- download.nvidia.com
+- nvidia.com.edgesuite.net
+- international.download.nvidia.com
+- app.nvidia.com
+- store.nvidia.com
+- redeem.nvidia.com
+- api.gfe.nvidia.com
+- api.nvidia.com
+- events.api.nvidia.com
+- events.gfe.nvidia.com
+- nvcrashreporter.nvidia.com
+- crashreports.nvidia.com
+- rds.nvidia.com
+- rds-assets.nvidia.com
+- nvidiagrid.net
+- assets.nvidiagrid.net
+- nvidia.telemetry.internet.microsoft.com
+
+## AMD Software / Ryzen Master - CORE ⚠️⚠️
+- statistics.amd.com
+- telemetry.amd.com
+- feedback.amd.com
+- data.amd.com
+- metrics.amd.com
+- amd-software-api.amd.com
+- radeonsoftware.amd.com
+- download.amd.com
+- drivers.amd.com
+- softwareupdate.amd.com
+- update.amd.com
+- software.amd.com
+- cdn.amd.com
+- api.amd.com
+- crashreports.amd.com
+- diagnosis.amd.com
+- events.amd.com
+
+## Intel DSA / XTU / Arc Control - CORE ⚠️⚠️
+- api.intel.com
+- sa-api.intel.com
+- dsadata.intel.com
+- telemetry.intel.com
+- idstelemetry.intel.com
+- metrics.intel.com
+- crashreports.intel.com
+- dsa.intel.com
+- downloadcenter.intel.com
+- downloadmirror.intel.com
+- software.intel.com
+- arc.intel.com
+- registrationcenter.intel.com
+
+## Dell SupportAssist / Alienware Command Center - CORE ⚠️⚠️⚠️
+- apidp.dell.com
+- supportassist.dell.com
+- techdirect.dell.com
+- policymanager.dell.com
+- updateservice.dell.com
+- dellupdateservice.dell.com
+- dellmetrics.com
+- diagnostics.dell.com
+- cloudiq.dell.com
+- api.dell.com
+- is.us.dell.com
+- downloads.dell.com
+- telemetry.dell.com
+- analytics.dell.com
+- en.community.dell.com
+- registration.dell.com
+- techhub.dell.com
+- alienwarearena.com
+
+## HP Telemetry / OMEN Hub - CORE ⚠️⚠️⚠️
+- metrics.hp.com
+- hptouchpointanalytics.com
+- telemetry.hp.com
+- analytics.hp.com
+- analytics.hptouchpoint.com
+- hpcswebservices.com
+- instantink.hpconnectedservices.com
+- hpconnectedsolutions.com
+- cert.hpconnectedservices.com
+- api.hpconnectedservices.com
+- api.hp.com
+- hpinstantink.com
+- *.instantink.com
+- ftp.ext.hp.com
+- swd.hp.com
+- swdlp.hp.com
+- hpcloud.hp.com
+- hpsmartapp.com
+- hpwelcomecenter.com
+- omen.omenhub.com
+- myomen.omen.com
+- commandcenter.omen.com
+- instantink.hpconnected.com
+- feedback2.hp.com
+
+## Lenovo Vantage - CORE ⚠️⚠️
+- vantageserviceapi.lenovo.com
+- vantage.lenovo.com
+- vantage.csw.lenovo.com
+- telemetry.lenovo.com
+- metrics.lenovo.com
+- smartperformance.lenovo.com
+- lenovoconnect.lenovo.com
+- nerveapi.lenovo.com
+- servicebridge.lenovo.com
+- lenovopm.com
+- lenovopartnernetwork.com
+- schashcheck.sutherlandglobal.com
+- filedownload.lenovo.com
+- filedownload.csw.lenovo.com
+- supportapi.lenovo.com
+- api.lenovo.com
+- download.lenovo.com
+- analytics.lenovo.com
+- smartservice.lenovo.com
+- supportportal.lenovo.com
+- premiumcare.lenovo.com
+- ipm.lenovo.com
+
+## ASUS ROG / Armoury Crate / Router / Sonic Studio - CORE ⚠️⚠️
+- rogame.asus.com
+- liveupdate.asus.com
+- analytics.asus.com
+- telemetry.asus.com
+- armourycrate.asus.com
+- rogconnect.asus.com
+- myasus.asus.com
+- aura.asus.com
+- rog-live-service.asus.com
+- dlcdnets.asus.com
+- asuswebstorage.com
+- aicloud.asus.com
+- api.asus.com
+- account.asus.com
+- download.asus.com
+- crashreports.asus.com
+- event.asus.com
+- router.asus.com
+- asusrouter.com
+- asusnetwork.net
+- asuscomm.com
+- nw-dlcdnet.asus.com
+- sonicstudio.asus.com
+- sonicradar.asus.com
+- rogameshow.asus.com
+
+## MSI Dragon Center / MSI Center / App Player - CORE ⚠️
+- event.msi.com
+- telemetry.msi.com
+- analytics.msi.com
+- register.msi.com
+- msigaming.com
+- dragonapp.msi.com
+- liveupdate.msi.com
+- api.msi.com
+- download.msi.com
+- crashreports.msi.com
+- appplayer.msi.com
+- telemetry.appplayer.msi.com
+- msiappplayer.com
+
+## Gigabyte Control Center (GCC) / RGB Fusion 2.0 - CORE ⚠️⚠️⚠️
+- mb.download.gigabyte.com
+- download.gigabyte.com
+- esupport.gigabyte.com
+- software.gigabyte.com
+- update.gigabyte.com
+- analytics.gigabyte.com
+- telemetry.gigabyte.com
+- api.gigabyte.com
+- event.gigabyte.com
+
+## ASRock Polychrome Sync / Live Update - CORE ⚠️
+- asrock.com
+- download.asrock.com
+- appshop.asrock.com
+- update.asrock.com
+- api.asrock.com
+- telemetry.asrock.com
+- event.asrock.com
+
+## Acer / PredatorSense - CORE ⚠️
+- api.acer.com
+- telemetry.acer.com
+- analytics.acer.com
+- acercloud.com
+- aceradvantage.com
+- predatorsense.com
+- global-download.acer.com
+
+## Thermaltake TT RGB Plus / iRGB Plus - CORE ⚠️
+- thermaltake.com
+- ttrgbplus.thermaltake.com
+- dps.thermaltake.com
+- update.thermaltake.com
+- download.thermaltake.com
+- api.thermaltake.com
+- telemetry.thermaltake.com
+
+## Lian Li L-Connect 3 - CORE ⚠️
+- lian-li.com
+- update.lian-li.com
+- api.lian-li.com
+- lianli-update.oss-cn-beijing.aliyuncs.com
+- lianli-update.s3.ap-southeast-1.amazonaws.com
+
+## Turtle Beach Audio Hub - CORE ⚠️
+- turtlebeach.com
+- eu.turtlebeach.com
+- support.turtlebeach.com
+- turtlebeach.my.site.com
+- update.turtlebeach.com
+
+## Deepcool Software - CORE ⚠️
+- deepcool.com
+- cn.deepcool.com
+- update.deepcool.com
+- download.deepcool.com
+
+################################################################################
+# 🔌 API (Backend Services - Data Collection) ⚠️⚠️
+################################################################################
+
+## Peripheral APIs
+- api.razerzone.com
+- api.logi.com
+- api.corsair.com
+- api.steelseries.com
+- api.razer.com
+- razerapi.com
+- logi-hub-api.logitech.com
+
+## GPU Utility APIs
+- api.zotac.com
+- api.sapphiretech.com
+- api.powercolor.com
+
+## Sim Racing APIs
+- api.mozaracing.com
+
+## Controller APIs
+- accounts.api.playstation.com
+- dl.8bitdo.com
+- api.8bitdo.com
+
+## Audio APIs
+- api.creative.com
+- api.realtek.com
+
+## Network APIs
+- api.killernetworking.com
+- api.tp-link.com
+- api.tplinkcloud.com
+- api.netgear.com
+- api.mydlink.com
+- api.decs.dlink.com
+
+## Other Hardware APIs
+- api.nzxt.com
+- api.hyperx.com
+- api.wacom.com
+- api.elgato.com
+- api.roccat.com
+- api.benq.com
+- api.coolermaster.com
+- api.signalrgb.com
+- api.roccat-neon.com
+
+################################################################################
+# 📡 TELEMETRY (Explicit Tracking Endpoints) ⚠️⚠️⚠️
+################################################################################
+
+## Peripheral Telemetry
+- telemetry.razer.com
+- telemetry.logitech.com
+- telemetry.corsair.com
+- telemetry.steelseries.com
+- telemetry.wacom.com
+- telemetry.hyperx.com
+- telemetry.roccat.com
+
+## Storage Telemetry
+- telemetry.samsung.com
+- telemetry.crucial.com
+- telemetry.wdc.com
+- telemetry.seagate.com
+- telemetry.kingston.com
+
+## Network Telemetry
+- telemetry.tp-link.com
+- telemetry.netgear.com
+- telemetry.linksys.com
+
+## PlayStation Telemetry
+- telemetry-console.api.playstation.com
+- telemetry-cii.api.playstation.com
+
+## Other Telemetry
+- telemetry.nzxt.com
+- telemetry.creative.com
+- telemetry.realtek.com
+- telemetry.elgato.com
+- telemetry.avermedia.com
+- telemetry.dts.com
+
+################################################################################
+# 📊 ANALYTICS (Behavioral Analysis) ⚠️⚠️
+################################################################################
+
+## Peripheral Analytics
+- analytics.logi.com
+- analytics.corsair.com
+- analytics.steelseries.com
+- analytics.razer.com
+- analytics.razerapi.com
+- prd.analytics.logitech.io
+
+## Network Analytics
+- analytics.tplinkcloud.com
+- analytics.netgear.com
+
+## System Analytics
+- analytics.nzxt.com
+
+## Storage Analytics
+- analytics.samsung.com
+- analytics.samsungcloud.com
+- analytics.crucial.com
+- analytics.wdc.com
+- analytics.seagate.com
+
+## Other Analytics
+- analytics.elgato.com
+- analytics.hyperx.com
+
+################################################################################
+# 🎯 EVENTS (Activity Tracking) ⚠️
+################################################################################
+
+## Peripheral Events
+- events.razerapi.com
+- events.corsair.com
+- events.steelseries.com
+
+################################################################################
+# ☁️ CLOUD SYNC (Profile Storage) ⚠️⚠️
+################################################################################
+
+## Razer Cloud
+- cloud.razer.com
+- cloudservices.razerzone.com
+- cloudstorage.razer.com
+- rgbcontroller.razer.com
+- synapse.razer.com
+- cdn.razersynapse.com
+- ec.razer.com
+- apps.razer.com
+- account.razer.com
+- razerid.razer.com
+- auth.razer.com
+- assets.razerzone.com
+- rzr.to
+
+## Logitech Cloud
+- ghub-registry.logitech.com
+- config.logi.com
+- logi-hub-service.logitech.com
+- community.logi.com
+- update.logi.com
+- software.logi.com
+- feedback.logitech.com
+- logitechg.com
+- download.logitech.com
+- download01.logi.com
+- sync.logitech.com
+- updates.vc.logitech.com
+- raiden.vc.logitech.com
+- svcs.vc.logitech.com
+- releasenotes.vc.logitech.com
+- auth.sync.logitech.com
+- eu.sync.logitech.com
+- raiden-eu.vc.logitech.com
+- auth-eu.sync.logitech.com
+- fr.sync.logitech.com
+- raiden-fr.vc.logitech.com
+
+## Samsung Cloud
+- samsungcloud.com
+- samsungdiagnostics.com
+- magician-api.samsung.com
+- dc.dqa.samsung.com
+- dls-ddc.dqa.samsung.com
+- dls-udc.dqa.samsung.com
+- dqa-auth.di.atlas.samsung.com
+- regi.di.atlas.samsung.com
+- dc.di.atlas.samsung.com
+- dqa.samsung.com
+- atlas.samsung.com
+- dls.di.atlas.samsung.com
+- qmds-dev-samsung.com
+- moai-dev-samsung.com
+- dev-apigw.samsungdmroute.com
+- stg-apigw.samsungdmroute.com
+- diagmon-serviceapi.samsungdm.com
+- magician.samsung.com
+- update.magician.samsung.com
+- smetrics.samsung.com
+- nmetrics.samsung.com
+- event-tracking.samsung.com
+- analytics.bigdata.samsung.com
+- samsungacr.com
+- log-ingestion.samsungacr.com
+- log-config.samsungacr.com
+- samsungads.com
+- samsungadhub.com
+- analytics.samsungedo.com
+- diagmon-policy.samsungdm.com
+- report.gras.samsungdm.com
+- ddf.di.atlas.samsung.com
+- dls-account.di.atlas.samsung.com
+- api.runestone.samsung.com
+- di.runestone.samsung.com
+- dc.di.runestone.samsung.com
+- dls.di.runestone.samsung.com
+- analytics.samsungknox.com
+- shealth-analytics-api.samsunghealth.com
+- devicelog.samsungcloudsolution.net
+- prderrordumphsm.samsungcloudsolution.com
+- sca.samsung.com
+
+## TP-Link Cloud
+- tplinkcloud.com
+- omada.tplinkcloud.com
+- use1-omada-northbound.tplinkcloud.com
+- devs.tplinkcloud.com
+- mqtt.tplinkcloud.com
+- data.tplinkcloud.com
+- alarm.tplinkcloud.com
+- account-delete.tplinkcloud.com
+- privacy.tp-link.com
+- account.tp-link.com
+- static.tp-link.com
+
+## WD / MyCloud
+- mycloud.wdc.com
+- support.wdc.com
+- update.wdc.com
+- wdcloud.com
+- wddashboarddownloads.wdc.com
+- documents.westerndigital.com
+
+## Corsair Cloud
+- update.corsair.com
+- account.corsair.com
+- auth.corsair.com
+- store.corsair.com
+- download.corsair.com
+
+## SteelSeries Cloud
+- gg.steelseries.com
+- account.steelseries.com
+- update.steelseries.com
+- auth.steelseries.com
+
+## NZXT Cloud
+- cam.nzxt.com
+- api.cam.nzxt.com
+- update.nzxt.com
+- account.nzxt.com
+
+## Killer Networking
+- killernetworking.com
+- cloud.killernetworking.com
+- www.killernetworking.com
+- analytics.killernetworking.com
+- telemetry.killernetworking.com
+- support.killernetworking.com
+- rivetnetworks.com
+
+## Ubiquiti UniFi Cloud
+- ui.com
+- ubnt.com
+- unifi.ui.com
+- trace.svc.ui.com
+- crash-report-service.svc.ui.com
+- analytics.svc.ui.com
+- ips1.unifi-ai.com
+- ping.ui.com
+- static.ubnt.com
+- unifi.ubnt.com
+- net-fe-static-assets.network-controller.svc.ui.com
+
+## D-Link mydlink Cloud
+- mydlink.com
+- www.mydlink.com
+- mp-eu-openapi.auto.mydlink.com
+- dlink.com
+- support.dlink.com
+
+## Fanatec Cloud
+- fanatec.com
+- www.fanatec.com
+- api.fanatec.com
+- account.fanatec.com
+- update.fanatec.com
+- forum.fanatec.com
+- help.fanatec.com
+
+## MOZA Cloud
+- mozaracing.com
+- support.mozaracing.com
+- update.mozaracing.com
+- download.mozaracing.com
+
+## Nacon Cloud
+- nacongaming.com
+- my.nacongaming.com
+- nacon-accessories.zendesk.com
+- update.nacongaming.com
+
+## PlayStation Cloud
+- playstation.com
+- playstation.net
+
+## 8BitDo Cloud
+- 8bitdo.com
+- support.8bitdo.com
+- tempfiles.8bitdo.com
+
+## Simucube Cloud
+- simucube.com
+- granitedevices.com
+- community.granitedevices.com
+- paddock.simucube.com
+
+## Wooting / Wootility Cloud
+- wooting.io
+- wooting.nl
+- wootility.io
+- beta.wootility.io
+- analog-monitor.wootility.io
+- api.wooting.io
+
+## Glorious CORE Cloud
+- gloriousgaming.com
+
+## SignalRGB Cloud
+- app.signalrgb.com
+- auth.signalrgb.com
+- store.signalrgb.com
+- update.signalrgb.com
+
+################################################################################
+# 🔊 AUDIO ENHANCEMENT BLOATWARE
+################################################################################
+
+## Nahimic Audio - CORE ⚠️⚠️
+- nahimic.com
+- api.nahimic.com
+- telemetry.nahimic.com
+- update.nahimic.com
+
+## DTS:X Ultra - CORE ⚠️
+- dtsx.dts.com
+- consumer.dts.com
+
+## Creative Sound Blaster
+- support.creative.com
+
+################################################################################
+# 🔐 HARDWARE DRM / LICENSE SERVERS
+################################################################################
+
+## Wacom License/Cloud - CORE ⚠️
+- license.wacom.com
+- link.wacom.com
+- cloud.wacom.com
+- backup.wacom.com
+- account.wacom.com
+- developer-support.wacom.com
+- cdn.wacom.com
+
+################################################################################
+# 📦 UPDATE / DOWNLOAD SERVERS
+################################################################################
+
+## Storage Downloads
+- media.kingston.com
+- media-www.micron.com
+- storageexecutive.micron.com
+- lyve.seagate.com
+- toolkit.seagate.com
+- download.seagate.com
+- support.seagate.com
+- ssd.skhynix.com
+- skhynix.com
+- download.skhynix.com
+- personal.kioxia.com
+- kioxia.com
+- download.kioxia.com
+- ssd.toshiba-memory.com
+- ocz.com
+
+## Peripheral Downloads
+- dl.razerzone.com
+- media.roccat.org
+
+################################################################################
+# 🌐 NETWORK ROUTER MANAGEMENT
+################################################################################
+
+## Netgear (Nighthawk/Orbi)
+- orbilogin.com
+- peernetwork.netgear.com
+- updates1.netgear.com
+
+## Linksys (Smart WiFi)
+- cloudmanager.linksys.com
+- linksyssmartwifi.com
+
+################################################################################
+# 🖥️ PERIPHERAL SOFTWARE
+################################################################################
+
+## HyperX NGENUITY
+- hyperx.com
+- ngenuity.hyperx.com
+
+## Elgato / Stream Deck
+- streamdeck.elgato.com
+- marketplace.elgato.com
+- account.elgato.com
+
+## BenQ Display Pilot
+- displaypilot.benq.com
+- update.benq.com
+- support.benq.com
+
+## AVerMedia RECentral
+- gamerzone.avermedia.com
+- update.avermedia.com
+
+## Roccat Swarm
+- cloud.roccat.org
+- support.roccat.com
+
+## Cooler Master MasterPlus
+- masterplus.coolermaster.com
+
+## Sapphire TriXX
+- sapphiretech.com
+- download.sapphiretech.com
+- software.sapphiretech.com
+
+## Zotac FireStorm
+- zotac.com
+- hkftp.zotac.com
+- download.zotac.com
+
+## PowerColor Devil Zone
+- powercolor.com
+- devilclub.powercolor.com
+- download.powercolor.com
+
+## G.Skill TZLC
+- gskill.com
+- download.gskill.com
+
+## Pulsar Gaming Gear
+- pulsargaminggear.com
+- update.pulsargaminggear.com
+
+################################################################################
+# 🏎️ SIM RACING / CONTROLLER SOFTWARE
+################################################################################
+
+## Thrustmaster Control Panel / TM-Sim Hub - CORE ⚠️
+- thrustmaster.com
+- support.thrustmaster.com
+- ts.thrustmaster.com
+- download.thrustmaster.com
+
+## Xbox Accessories App - CORE ⚠️⚠️
+- xboxlive.com
+- xsts.auth.xboxlive.com
+- device.auth.xboxlive.com
+- title.auth.xboxlive.com
+- title.mgt.xboxlive.com
+- cert.mgt.xboxlive.com
+- attestation.xboxlive.com
+- xboxexperiencesprod.experimentation.xboxlive.com
+- xflight.xboxlive.com
+- def-vef.xboxlive.com
+- notify.xboxlive.com
+- licensing.xboxlive.com
+- eds.xboxlive.com
+- v10.vortex-win.data.microsoft.com
+- settings-win.data.microsoft.com
+- xbox.ipv6.microsoft.com
+
+## Razer Cortex
+- cortex.razer.com
+- deals.razer.com
+- api.cortex.razer.com
