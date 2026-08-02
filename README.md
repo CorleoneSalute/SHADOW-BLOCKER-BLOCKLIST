@@ -78,7 +78,7 @@ dist/                 generated output — do not edit directly
 
 ## Categories
 
-100+ categories spanning mainstream and regional platforms, including
+90+ categories spanning mainstream and regional platforms, including
 session replay & heatmap tools, data brokers, mental health apps,
 consent management platforms, and other niches not typically covered
 elsewhere. See [`lists/categories/`](lists/categories/) for the
@@ -135,5 +135,3 @@ are welcome. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 ## License
 
 [MIT](LICENSE)
-ENDOFREADME
-cat /home/claude/dns-blocklist-repo/README-final2.md
