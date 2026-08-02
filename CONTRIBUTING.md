@@ -30,8 +30,7 @@ Open an issue with:
 - Any supporting material (documentation, network traces, etc.)
 
 If accepted, the maintainer will add the domains to
-[`lists/categories/`](lists/categories/) and the supporting material
-to [`research/`](research/).
+[`lists/categories/`](lists/categories/)
 
 ## Style reference
 
