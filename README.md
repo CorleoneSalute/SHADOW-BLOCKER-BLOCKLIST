@@ -108,9 +108,6 @@ release.
 - Video Editing & Creative Software
 - News
 
-Feedback from experienced users testing pre-release research is
-welcome — see [`CONTRIBUTING.md`](CONTRIBUTING.md).
-
 ## Acknowledgments
 
 This project is built on independent, from-scratch research rather
