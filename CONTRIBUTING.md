@@ -37,4 +37,4 @@ to [`research/`](research/).
 
 For context, entries follow this format — one domain per line, no
 wildcards or protocol prefixes, with `!` marking aggressive-only
-domains:
+domains
