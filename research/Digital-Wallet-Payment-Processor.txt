@@ -1,0 +1,1213 @@
+# DIGITAL WALLETS & PAYMENT PROCESSORS RESEARCH LIST
+
+---
+
+## 📱 GOOGLE PAY / GOOGLE WALLET
+
+### Core Services ⚠️⚠️⚠️⚠️
+- pay.google.com
+- wallet.google.com
+- googlepay.com
+- payments.google.com
+- pay.googleapis.com
+- wallet.googleapis.com
+
+### Backend & Device Telemetry
+- android.clients.google.com
+- android.googleapis.com
+- geller-pa.googleapis.com
+- clientservices.googleapis.com
+- play.googleapis.com
+- payment.googleapis.com
+- chromemanagement.googleapis.com
+
+### Analytics & Tracking (EXTENSIVE!) ⚠️⚠️⚠️⚠️⚠️
+- analytics.google.com
+- google-analytics.com
+- www.google-analytics.com
+- ssl.google-analytics.com
+
+### Firebase (Mobile Analytics)
+- firebase.googleapis.com
+- firebaseinstallations.googleapis.com
+- firebaselogging.googleapis.com
+- firebaseremoteconfig.googleapis.com
+- firebasedynamiclinks.googleapis.com
+- firebaselogging-pa.googleapis.com
+- fcm.googleapis.com
+
+### App Measurement
+- app-measurement.com
+- app-measurement.googleapis.com
+
+### DoubleClick & Ads
+- doubleclick.net
+- googleadservices.com
+- googlesyndication.com
+- pagead2.googlesyndication.com
+
+### Location Services
+- maps.googleapis.com
+- maps.google.com
+
+### Google CDN & Static Assets
+- gstatic.com
+- fonts.gstatic.com
+- ssl.gstatic.com
+- csi.gstatic.com
+- encrypted-tbn0.gstatic.com
+- encrypted-tbn1.gstatic.com
+- encrypted-tbn2.gstatic.com
+- encrypted-tbn3.gstatic.com
+- maps.gstatic.com
+- connectivitycheck.gstatic.com
+
+### Google Fonts Infrastructure
+- fonts.googleapis.com
+- www.googleapis.com
+
+---
+
+## 🍎 APPLE PAY / APPLE WALLET
+
+### Core Services ⚠️⚠️
+- wallet.apple.com
+- apple-pay.apple.com
+- apple-pay-gateway.apple.com
+- cn-apple-pay-gateway.apple.com
+- applepay.cdn-apple.com
+
+### Sandbox / Test Gateway
+- apple-pay-gateway-cert.apple.com
+- cn-apple-pay-gateway-cert.apple.com
+
+### Payment Processing
+- np.itunes.apple.com
+- buy.itunes.apple.com
+- payments.apple.com
+
+### Card Provisioning & Tokenization
+- smp-device-content.apple.com
+- nc-pod1.smp-device.apple.com
+- nc-pod2.smp-device.apple.com
+- nc-pod3.smp-device.apple.com
+- nc-pod4.smp-device.apple.com
+- nc-pod5.smp-device.apple.com
+
+### Analytics
+- metrics.apple.com
+- metrics.icloud.com
+- xp.apple.com
+
+### Diagnostics
+- diagassets.apple.com
+- supportmetrics.apple.com
+
+### Developer
+- developer.apple.com
+
+---
+
+## 📱 SAMSUNG PAY
+
+### Core Services ⚠️⚠️⚠️
+- pay.samsung.com
+- samsungpay.com
+- wallet.samsung.com
+
+### Regional Variants
+- samsungpay.co.kr
+- samsungpay.cn
+- samsungpay.com.br
+- us.samsungpay.com
+- eu.samsungpay.com
+
+### Backend & Analytics
+- api.pay.samsung.com
+- api.wallet.samsung.com
+- analytics.samsungpay.com
+- analytics-api.samsungknox.com
+- analytics.mpay.samsung.com
+
+### Samsung Ecosystem
+- samsungcloud.com
+- account.samsung.com
+
+### Telemetry & Logging (HEAVY!) ⚠️⚠️⚠️⚠️⚠️
+- log-ingestion-eu.samsungacr.com
+- devicelog.samsungcloudsolution.net
+- acr0.samsungcloudsolution.com
+- upu.samsungelectronics.com
+- dpu.samsungelectronics.com
+- kpu.samsungelectronics.com
+- lcprd1.samsungcloudsolution.net
+- lcprd2.samsungcloudsolution.net
+- noticecdn.samsungcloudsolution.com
+- notice.samsungcloudsolution.com
+- osb.samsungqbe.com
+- osb-apps.samsungqbe.com
+- www.samsungotn.net
+- www.samsungrm.net
+- time.samsungcloudsolution.com
+
+### Web Checkout SDK & CDN
+- img.mpay.samsung.com
+- us-partner.pay.samsung.com
+- d35p4vvdul393k.cloudfront.net
+- d16i99j5zwwv51.cloudfront.net
+
+### Developer Portal
+- developer.samsung.com/pay
+- docs.samsungknox.com
+
+---
+
+## 💰 PAYPAL
+
+### Core Services ⚠️⚠️⚠️
+- paypal.com
+- www.paypal.com
+- paypalobjects.com
+- www.paypalobjects.com
+- paypal-communication.com
+- paypal-search.com
+- paypal-mktg.com
+- paypalcorp.com
+- api.paypal.com
+- api-m.paypal.com
+- api-m.sandbox.paypal.com
+- sandbox.paypal.com
+- uri.paypal.com
+
+### Merchant Services
+- paypal.me
+- paypal-donations.com
+
+### Analytics & Tracking
+- t.paypal.com
+- c.paypal.com
+- stats.paypal.com
+
+### Third-Party Analytics (Adobe, Demdex)
+- paypal.112.2o7.net
+- paypal.demdex.net
+- paypal.tt.omtrdc.net
+
+### Payment Integration
+- paypalobjects.com/api
+- paypal.com/sdk
+- history.paypal.com
+
+### Developer & Management
+- developer.paypal.com
+- manager.paypal.com
+
+### CDN — Akamai
+- geo.paypalobjects.com.akadns.net
+- pprussia.www.direct.paypalobjects.com.akadns.net
+
+---
+
+## 💸 VENMO (PayPal-owned)
+
+### Core Services ⚠️⚠️⚠️
+- venmo.com
+- www.venmo.com
+- venmo-assets.appspot.com
+
+### APIs & Backend
+- api.venmo.com
+- venmo.s3.amazonaws.com
+- s3.amazonaws.com/venmo
+
+### Analytics & Social
+- venmo.com/api/v5/analytics
+- venmo.com/api/v5/feed
+- venmo.com/api/v5/public
+- scontent.venmo.com
+- account.venmo.com
+
+### Developer Documentation
+- venmo.com/docs/
+- venmo.com/docs/webhooks/
+- venmo.com/docs/overview/
+
+---
+
+## 💵 CASH APP (Block/Square)
+
+### Core Services ⚠️⚠️⚠️
+- cash.app
+- cash.me
+- square.com
+
+### APIs
+- api.cash.app
+- api.squareup.com
+- connect.squareup.com
+- connect.squareupsandbox.com
+
+### Sandbox
+- squareupsandbox.com
+
+### CDN & SDK
+- app.cash.app
+- web.squarecdn.com
+- sandbox.web.squarecdn.com
+- card.cash.app
+
+### Web Payments SDK (CSP Allowlist)
+- js.squareup.com
+- pci-connect.squareup.com
+- js.squareupsandbox.com
+- pci-connect.squareupsandbox.com
+- docs.connect.squareup.com
+
+### Analytics & Status
+- analytics.squareup.com
+- metrics.squareup.com
+- status.squareup.com
+
+### Developer Portal
+- developer.squareup.com
+
+### Block Ecosystem
+- block.xyz
+
+---
+
+## 💳 ZELLE (Early Warning Services)
+
+### Primary Services
+- zellepay.com
+- zelle.com
+- enroll.zellepay.com
+
+### APIs (Bank-dependent)
+- api.zellepay.com
+
+### Parent Company (Early Warning Services)
+- earlywarning.com
+- www.earlywarning.com
+
+### Paze
+- paze.com
+
+---
+
+## 💎 STRIPE (Payment Processor)
+
+### Core Services ⚠️⚠️
+- stripe.com
+- api.stripe.com
+- js.stripe.com
+
+### Checkout & Elements
+- checkout.stripe.com
+- m.stripe.com
+- connect.stripe.com
+- pay.stripe.com
+- dashboard.stripe.com
+
+### Analytics & Fraud Detection
+- r.stripe.com
+- q.stripe.com
+- m.stripe.network
+- stripe.network
+- hooks.stripe.com
+
+### CDN & Assets
+- files.stripe.com
+- merchant.stripe.com
+- a.stripecdn.com
+- b.stripecdn.com
+- c.stripecdn.com
+- f.stripecdn.com
+
+### Product Domains
+- atlas.stripe.com
+- auth.stripe.com
+- billing.stripe.com
+- buy.stripe.com
+- climate.stripe.com
+- connect-js.stripe.com
+- express.stripe.com
+- invoice.stripe.com
+- invoicedata.stripe.com
+- manage.stripe.com
+- merchant-ui-api.stripe.com
+- qr.stripe.com
+- terminal.stripe.com
+- uploads.stripe.com
+- verify.stripe.com
+- payments.stripe.com
+
+### Terminal Backend
+- armada.stripe.com
+- gator.stripe.com
+- api.emms.bbpos.com
+
+### Terminal Local Reader
+- *.device.stripe-terminal-local-reader.net
+
+### Terminal Events & NTP
+- *.terminal-events.stripe.com
+- stripe-point-of-sale-us-west-2.s3.us-west-2.amazonaws.com
+- time.android.com
+- time.cloudflare.com
+- 2.android.pool.ntp.org
+
+### Third-Party (Fraud Detection)
+- hcaptcha.com
+
+---
+
+## 🌍 WISE (TransferWise)
+
+### Primary Services
+- wise.com
+- transferwise.com
+
+### Regional
+- wise.co.uk
+- wise.eu
+- wise.us
+
+### APIs & Backend
+- api.wise.com
+- api.transferwise.com
+- api.sandbox.transferwise.tech
+- api.wise-sandbox.com
+
+### Analytics
+- analytics.wise.com
+- wise-analytics.com
+
+### Documentation
+- docs.wise.com
+- api-docs.wise.com
+- api-docs.transferwise.com
+
+### Sandbox Portal
+- sandbox.transferwise.tech
+- wise-sandbox.com
+
+### Status & Newsroom
+- status.wise.com
+- newsroom.wise.com
+
+### Short URL
+- wi.se
+
+### GitHub
+- github.com/transferwise
+
+---
+
+## 💼 REVOLUT
+
+### Primary Services ⚠️⚠️⚠️
+- revolut.com
+- www.revolut.com
+
+### App Services
+- app.revolut.com
+- api.revolut.com
+- business.revolut.com
+
+### Assets & Support
+- assets.revolut.com
+- help.revolut.com
+- blog.revolut.com
+- status.revolut.com
+- get.revolut.com
+
+### Business API
+- sandbox-b2b.revolut.com
+- b2b.revolut.com
+
+### Merchant API
+- sandbox-merchant.revolut.com
+- merchant.revolut.com
+
+### Open Banking API
+- oba.revolut.com
+- sandbox-oba.revolut.com
+
+### Open Banking Auth
+- oba-auth.revolut.com
+- sandbox-oba-auth.revolut.com
+
+### Analytics & Telemetry
+- revolut.com/api/analytics
+- analytics.revolut.com
+- data-talos.revolut.com
+- metrics-tracking.revolut.com
+- data-portal.revolut.com
+- aqueduct.revolut.com
+- oba-br.revolut.com
+- vop.revolut.com
+
+### Developer
+- developer.revolut.com
+- developers.revolut.com
+
+---
+
+## 💳 SKRILL
+
+### Core Services
+- skrill.com
+- www.skrill.com
+- account.skrill.com
+- api.skrill.com
+
+### PSD2 & Payment
+- developer-psd2.skrill.com
+- pay.skrill.com
+- mobile-api.skrill.com
+- oauth2-psd2.skrill.com
+
+### Paysafe
+- paysafe.com
+- www.paysafe.com
+- developer.paysafe.com
+
+---
+
+## 💳 NETELLER
+
+### Core Services
+- neteller.com
+- secure.neteller.com
+- member.neteller.com
+- api.neteller.com
+
+### PSD2 & REST API
+- developer-psd2.neteller.com
+- rest-api.neteller.com
+- mobile-api.neteller.com
+- oauth2-psd2.neteller.com
+
+### Merchant Portal
+- test.merchant.neteller.com
+- merchant.neteller.com
+
+### Paysafe
+- paysafe.com
+- www.paysafe.com
+
+---
+
+## 💰 PAYONEER
+
+### Core Services
+- payoneer.com
+- www.payoneer.com
+- login.payoneer.com
+- myaccount.payoneer.com
+- api.payoneer.com
+- payout-api.payoneer.com
+- tracking.payoneer.com
+- analytics.payoneer.com
+
+### Developer
+- developer.payoneer.com
+- developer.payoneer.com/psd2
+- developer.sandbox.payoneer.com
+
+### Status & Newsroom
+- status.payoneer.com
+- newsroom.payoneer.com
+
+### Mass Payout & Checkout
+- www.payoneer.com/developers/
+
+### GitHub
+- github.com/payoneer
+
+---
+
+## 💳 PAYEER
+
+### Core Services
+- payeer.com
+- www.payeer.com
+
+### REST API & Trade API
+- payeer.com/ajax/api/api.php
+- payeer.com/api/trade/
+- payeer.com/api/merchant/m.php
+- payeer.com/merchant/
+
+### Documentation
+- payeercom.docs.apiary.io
+- github.com/payeer/docs
+
+---
+
+## 💳 PERFECT MONEY
+
+> 🚨 PLATFORM SHUT DOWN — service discontinued in 2025
+
+### Core Services (NO LONGER ACTIVE)
+- perfectmoney.com
+- perfectmoney.is
+
+---
+
+## 🔒 PRIVACY.COM (Virtual Cards)
+
+### Core Services
+- privacy.com
+- app.privacy.com
+- api.privacy.com
+
+### Sandbox
+- sandbox.privacy.com
+
+### Developer Portal
+- privacy-com.readme.io
+- developer.privacy.com
+
+---
+
+## 🇨🇳 ALIPAY (Alibaba)
+
+### Core Services ⚠️⚠️⚠️⚠️⚠️
+- alipay.com
+- www.alipay.com
+- intl.alipay.com
+- global.alipay.com
+- mapi.alipay.com
+
+### Global & Regional Gateways
+- globalmapi.alipay.com
+- mapi-hk.alipay.com
+- intlmapi.alipay.com
+- mapi.alipaydev.com
+- isandbox.alipaydev.com
+- globalprod.alipay.com
+- open-sea-global.alipay.com
+- open-na-global.alipay.com
+- open-na.alipay.com
+- open-sea.alipay.com
+- open-de-global.alipay.com
+- open-eu.alipay.com
+- openapi.alipaydev.com
+- mapi.alipay.net
+
+### Backend & Analytics (Heavy Chinese Tracking!)
+- alicdn.com
+- mmstat.com
+- tanx.com
+- umeng.com
+- cnzz.com
+- alipaylog.com
+- alipayobjects.com
+- mdn.alipayobjects.com
+
+### Antom Rebranding (2024)
+- docs.antom.com
+- docs.alipayplus.com
+
+### Extensive Subdomains
+- 110.alipay.com
+- ab.alipay.com
+- abc.alipay.com
+- accounts.alipay.com
+- alipass.alipay.com
+- apimg.alipay.com
+- app.alipay.com
+- appstore.alipay.com
+- auth.alipay.com
+- authzth.alipay.com
+- b.alipay.com
+- bao.alipay.com
+- blog.alipay.com
+- cmspromo.alipay.com
+- cshall.alipay.com
+- download.alipay.com
+- ebppprod.alipay.com
+- egg.alipay.com
+- financeprod.alipay.com
+- fun.alipay.com
+- fuwu.alipay.com
+
+---
+
+## 🇨🇳 WECHAT PAY (Tencent)
+
+### Core Services ⚠️⚠️⚠️⚠️⚠️
+- wechat.com
+- weixin.qq.com
+- pay.weixin.qq.com
+- mch.weixin.qq.com
+- api.wechat.com
+
+### Regional API
+- apihk.mch.weixin.qq.com
+- api.mch.weixin.qq.com
+- wxpay.weixin.qq.com
+
+### Developer Portal
+- developers.weixin.qq.com
+- mp.weixin.qq.com
+
+### Tencent Tracking (Extensive!)
+- qq.com
+- gtimg.com
+- qlogo.cn
+- tencent-cloud.net
+- myqcloud.com
+- pingjs.qq.com
+- pingtas.qq.com
+- tajs.qq.com
+- btrace.qq.com
+- aegis.qq.com
+
+---
+
+## 🇮🇳 PAYTM (India)
+
+### Core Services ⚠️⚠️⚠️
+- paytm.com
+- www.paytm.com
+- secure.paytm.com
+- api.paytm.com
+- paytmmall.com
+- paytmbank.com
+- business.paytm.com
+- dashboard.paytm.com
+- analytics.paytm.com
+
+### Production & Staging Gateways
+- securegw.paytm.in
+- securegw-stage.paytm.in
+
+### Developer Documentation
+- business.paytm.com/docs
+- developer.paytmmoney.com
+
+---
+
+## 🇮🇳 PHONEPE (India)
+
+### Core Services
+- phonepe.com
+- www.phonepe.com
+- api.phonepe.com
+
+### API Base URLs
+- api.phonepe.com/apis/hermes
+- mercury.phonepe.com
+- mercury-t2.phonepe.com
+
+### Preprod/UAT Sandbox
+- api-preprod.phonepe.com/apis/pg-sandbox
+- api-preprod.phonepe.com/apis/pg-sandbox/checkout/v2
+- mercury-uat.phonepe.com
+
+### App Deep Links
+- apps-uat.phonepe.com
+
+### Documentation
+- docs.phonepe.com
+- developer.phonepe.com
+
+---
+
+## 🇮🇳 MOBIKWIK (India)
+
+### Core Services
+- mobikwik.com
+- www.mobikwik.com
+- test.mobikwik.com
+- blog.mobikwik.com
+
+> ⚠️ NOTE: MobiKwik's standalone API was deprecated in 2023 — now integrated via PayU/Razorpay.
+
+---
+
+## 🇮🇳 FREECHARGE (India)
+
+### Core Services
+- freecharge.in
+- www.freecharge.in
+- merchant.freecharge.in
+- freechargepg.in
+
+> ⚠️ NOTE: API domains are not public — hosted checkout only.
+
+---
+
+## 🇰🇷 KAKAO PAY (South Korea)
+
+### Core Services
+- kakaopay.com
+- www.kakaopay.com
+
+### Developer & Authentication
+- developers.kakao.com
+- kauth.kakao.com
+- api.kakaopay.com
+
+### Kakao API Infrastructure
+- kapi.kakao.com
+- dapi.kakao.com
+- accounts.kakao.com
+
+---
+
+## 🇰🇷 NAVER PAY (South Korea)
+
+### Core Services
+- pay.naver.com
+
+### Developer & API
+- developers.naver.com
+- openapi.naver.com
+- api.ncloud.com
+- pay-api.naver.com
+- apigw.ncloud.com
+
+> ⚠️ NOTE: Naver Pay does not offer a merchant API — integrated via payment gateways.
+
+---
+
+## 🇯🇵 LINE PAY (Japan/Asia)
+
+> 🚨 LINE Pay's Japan service ENDED on April 30, 2025. It continues to operate in Taiwan and Thailand.
+
+### Core Services (Taiwan/Thailand)
+- line-pay.com
+- pay.line.me
+
+### Developer & API
+- api-pay.line.me
+- sandbox-api-pay.line.me
+- developers-pay.line.me
+- developers.line.biz
+
+---
+
+## 💳 BRAINTREE (PayPal)
+
+### Core Services
+- braintreepayments.com
+- braintreegateway.com
+- api.braintreegateway.com
+- www.braintreegateway.com
+- assets.braintreegateway.com
+
+### JavaScript SDK & Developer
+- js.braintreegateway.com
+- sandbox.braintreegateway.com
+- api.sandbox.braintreegateway.com
+- developer.paypal.com
+
+### Static Assets
+- gstatic.braintreegateway.com
+- gstatic.sandbox.braintreegateway.com
+
+### Payments Sandbox
+- payments.sandbox.braintree-api.com
+
+### GraphQL API
+- graphql.braintreegateway.com
+- payments.braintree-api.com
+
+---
+
+## 💳 ADYEN
+
+### Core Services
+- adyen.com
+- live.adyen.com
+- test.adyen.com
+- checkoutshopper.adyen.com
+- api.adyen.com
+
+### Checkout & Merchant Domains
+- checkoutshopper-test.adyen.com
+- checkoutshopper-live.adyen.com
+- checkout-test.adyen.com
+
+### Regional Checkout (Dynamic Prefix)
+- [prefix]-checkout-live.adyenpayments.com
+- [prefix]-pal-live.adyenpayments.com
+
+### CDN
+- checkoutshopper-live.cdn.adyen.com
+
+### Webhooks & Outbound
+- out.adyen.com
+
+### Terminal API
+- terminal-api-test.adyen.com
+- terminal-api-live.adyen.com
+
+### Customer Area
+- ca-test.adyen.com
+- ca-live.adyen.com
+
+### Help & Support
+- help.adyen.com
+
+### Balance Platform API
+- bal-live.adyen.com
+- balanceplatform-api-live.adyen.com
+- balanceplatform-api-test.adyen.com
+
+### Legal Entity Management API
+- legalentity-api-live.adyen.com
+- legalentity-api-test.adyen.com
+
+### Management API
+- management-live.adyen.com
+- management-test.adyen.com
+
+---
+
+## 💳 AUTHORIZE.NET
+
+### Core Services
+- authorize.net
+- secure.authorize.net
+- api.authorize.net
+- account.authorize.net
+
+### Akamai & Test Endpoints
+- secure2.authorize.net
+- api2.authorize.net
+- apitest.authorize.net
+- test.authorize.net
+- accept.authorize.net
+- jstest.authorize.net
+- developer.authorize.net
+
+### Additional Services
+- dpf.authorize.net
+- login.authorize.net
+- verify.authorize.net
+- transaction.authorize.net
+
+### Support & Status
+- support.authorize.net
+- status.authorize.net
+- community.developer.authorize.net
+
+### Parent Company (Visa / Cybersource)
+- cybersource.com
+
+---
+
+## 💳 WORLDPAY
+
+### Core Services
+- worldpay.com
+- secure.worldpay.com
+- api.worldpay.com
+
+### Access Worldpay & Developer
+- access.worldpay.com
+- try.access.worldpay.com
+- developer.worldpay.com
+- docs.worldpay.com
+
+### Platforms
+- platforms.worldpay.com
+
+### Legacy Worldpay for Platforms
+- paymentsapi.io
+- docs.rest.paymentsapi.io
+- docs.signup.paymentsapi.io
+
+### Additional Developer Portals
+- prod.devhub.worldpay.io
+
+---
+
+## 💳 2CHECKOUT (Verifone)
+
+### Core Services
+- 2checkout.com
+- secure.2checkout.com
+
+### Analytics & Developer
+- tracking.avangate.net
+- 2co.com
+- secure.2co.com
+- verifone.cloud
+
+### API Endpoints
+- api.2checkout.com
+- api.avangate.com
+
+### MyAccount Portal
+- secure.2co.com/myaccount/
+
+---
+
+## 💳 PAYU
+
+### Core Services
+- payu.com
+- secure.payu.com
+- api.payu.com
+
+### Latin America — Production
+- api.payulatam.com
+- transfers.payulatam.com
+- merchants.payulatam.com
+- checkout.payulatam.com
+
+### Latin America — Sandbox
+- sandbox.api.payulatam.com
+- sandbox-transfers.payulatam.com
+- sandbox.merchants.payulatam.com
+- sandbox.checkout.payulatam.com
+
+### Latin America — Developer
+- developers.payulatam.com
+
+### Europe
+- secure.snd.payu.com
+
+### India
+- payu.in
+- developer-guides.payu.in
+- docs.payu.in
+
+### Developer Portal
+- developers.payu.com
+
+---
+
+## 🌐 AMAZON PAY
+
+### Core Services
+- pay.amazon.com
+- pay.amazon.co.uk
+- pay.amazon.co.jp
+- pay.amazon.eu
+- pay-api.amazon.com
+- pay-api.amazon.eu
+- pay-api.amazon.jp
+
+### Payment Services (Middle East)
+- paymentservices.amazon.com
+
+### CDN & Static
+- static-na.payments-amazon.com
+- static-fe.payments-amazon.com
+- static-eu.payments-amazon.com
+
+### Merchant/Developer
+- developer.amazon.com
+- sellercentral.amazon.com
+- payments.amazon.com
+
+---
+
+## 🌏 GRAB / GRABPAY
+
+> ⚠️ NOTE: GrabPay does not offer its own public API — only payment gateway integrations (Stripe, Adyen, PPRO).
+
+---
+
+## 🌏 GOPAY (Gojek — Indonesia)
+
+### Core Services
+- gojek.com
+- www.gojek.com
+- app.gobiz.com
+- api.gojek.com
+
+### OAuth & Authentication
+- accounts.go-jek.com
+
+---
+
+## 🇵🇭 GCASH (Philippines)
+
+### Core Services
+- gcash.com
+- www.gcash.com
+- miniprogram.gcash.com
+- api.gcash.com
+
+> ⚠️ NOTE: Mini Program API host is merchant-specific (variable domain).
+
+---
+
+## 🇵🇭 MAYA (PayMaya — Philippines)
+
+### Core Services
+- maya.ph
+- www.maya.ph
+- developers.maya.ph
+- pg.maya.ph
+
+### Sandbox
+- pg-sandbox.paymaya.com
+- payments-web-sandbox.paymaya.com
+- web-payby-sandbox.paymaya.com
+- manager-sandbox.paymaya.com
+
+### Production
+- payments-web.maya.ph
+- pbm.paymaya.com
+
+---
+
+## 🌏 SHOPEEPAY
+
+### Core Services
+- product.shopeepay.com
+- wsa.uat.wallet.airpay.co.id
+
+> ⚠️ NOTE: ShopeePay does not offer its own public API — payment gateway integrations only.
+
+---
+
+## 🇮🇩 OVO (Indonesia)
+
+### Core Services
+- ovo.id
+- www.ovo.id
+
+> ⚠️ NOTE: OVO does not offer its own public API — payment gateway integrations (DOKU, Faspay, PPRO, 2C2P).
+
+---
+
+## 🇮🇩 DANA (Indonesia)
+
+### Core Services
+- dana.id
+- www.dana.id
+- api.dana.id
+
+> ⚠️ NOTE: DANA does not offer a public merchant API — payment gateway integrations only.
+
+---
+
+## 🇮🇩 LINKAJA (Indonesia)
+
+### Core Services
+- linkaja.id
+- www.linkaja.id
+- dev.linkaja-gateway.mpstelkom.id
+- linkaja-gateway.mpstelkom.id
+
+---
+
+## 🇧🇷 MERCADO PAGO (Latin America)
+
+### Core Services
+- mercadopago.com
+- www.mercadopago.com
+- mercadopago.com.ar
+- mercadopago.com.br
+- mercadopago.com.mx
+- mercadopago.cl
+- mercadopago.com.co
+- mercadopago.com.pe
+- mercadopago.com.uy
+- api.mercadopago.com
+- http.mercadopago.com
+- developers.mercadopago.com
+- status.mercadopago.com
+
+### JavaScript SDK CDN
+- sdk.mercadopago.com
+
+---
+
+## 🇧🇷 PICPAY (Brazil)
+
+### Core Services
+- picpay.com
+- www.picpay.com
+- app.picpay.com
+- developers-business.picpay.com
+- picpay.github.io
+
+### API Endpoints
+- appws.picpay.com
+
+### Legacy Documentation (deprecated)
+- ecommerce.picpay.com
+
+---
+
+## 🇺🇸 WALMART PAY
+
+> ⚠️ NOTE: Walmart Pay does not offer its own API — in-app only payment method.
+
+### Developer Portals
+- developer.walmart.com
+- walmart.io
+
+### API Base URLs
+- marketplace.walmartapis.com
+- sandbox.walmartapis.com
+- developer-api.walmart.com
+
+### Learning & Support
+- marketplacelearn.walmart.com
+
+### Legacy (retired)
+- developer.walmartlabs.com
+
+---
+
+## 🇳🇴 VIPPS / VIPPS MOBILEPAY (Nordic)
+
+> ⚠️ NOTE: Vipps and MobilePay merged in 2024.
+
+### Core Services
+- vipps.no
+- www.vipps.no
+- vippsmobilepay.com
+- www.vippsmobilepay.com
+- developer.vippsmobilepay.com
+
+### API
+- api.vipps.no
+- apitest.vipps.no
+
+### Portal & Support
+- portal.vippsmobilepay.com
+- portal.vipps.no
+- help.vippsmobilepay.com
+
+---
+
+## 🇨🇭 TWINT (Switzerland)
+
+### Core Services
+- twint.ch
+- www.twint.ch
+
+### Merchant Portal
+- portal.twint.ch
+- portal-int.twint.ch
+- merchant-portal.twint.ch
+
+> ⚠️ NOTE: TWINT does not offer a public merchant API — payment gateway integrations only.
+
+---
+
+## 🇵🇭 COINS.PH (Philippines)
+
+### Core Services
+- coins.ph
+- www.coins.ph
+- pro.coins.ph
+- coins-docs.github.io
+- coins-access-api.readthedocs.io
+
+### API & WebSocket
+- wsapi.pro.coins.ph
+- exchange.coins.asia
