@@ -1,0 +1,531 @@
+# SESSION REPLAY & HEATMAP TOOLS RESEARCH LIST
+
+---
+
+## HOTJAR (Contentsquare)
+
+- hotjar.com
+- hotjar.io
+- static.hotjar.com
+- script.hotjar.com
+- vars.hotjar.com
+- insights.hotjar.com
+- surveys.hotjar.com
+- events.hotjar.com
+- ask.hotjar.com
+- feedback.hotjar.com
+- api.hotjar.io
+- help.hotjar.com
+- d3ikprf0m31yc7.cloudfront.net
+- hotjarians.net
+- static-cdn.hotjar.com
+- docs.hotjar.com
+- status.hotjar.com
+- app.hotjar.com
+
+---
+
+## FULLSTORY
+
+- fullstory.com
+- fullstory.net
+- rs.fullstory.com
+- edge.fullstory.com
+- app.fullstory.com
+- app.eu1.fullstory.com
+- api.fullstory.com
+- cdn.fullstory.com
+- ingest.fullstory.com
+- static.fullstory.com
+- services.fullstory.com
+- export.fullstory.com
+- developer.fullstory.com
+- help.fullstory.com
+- d2wy8f7a9ursnm.cloudfront.net
+- eu.fullstory.com
+- relay.fullstory.com
+- docs.fullstory.com
+- status.fullstory.com
+- na1.fullstory.com
+
+---
+
+## LOGROCKET
+
+- logrocket.com
+- logrocket.io
+- cdn.logrocket.com
+- cdn.logrocket.io
+- r.lr-ingest.io
+- lr-ingest.io
+- api.logrocket.io
+- ingest.logrocket.io
+- static.logrocket.com
+- app.logrocket.com
+- lgrckt-in.com
+- cdn.lgrckt-in.com
+- r.lgrckt-in.com
+- lrkt-in.com
+- cdn.lrkt-in.com
+- r.lrkt-in.com
+- lr-in.com
+- cdn.lr-in.com
+- lr-in-prod.com
+- cdn.lr-in-prod.com
+- lr-ingest.com
+- cdn.lr-ingest.com
+- ingest-lr.com
+- cdn.ingest-lr.com
+- lr-intake.com
+- cdn.lr-intake.com
+- intake-lr.com
+- cdn.intake-lr.com
+- logr-ingest.com
+- cdn.logr-ingest.com
+- d3anogn3pbtk4v.cloudfront.net
+- logr-in.com
+- cdn.logr-in.com
+- r.logr-in.com
+- docs.logrocket.com
+- status.logrocket.com
+- blog.logrocket.com
+
+---
+
+## SMARTLOOK (Cisco)
+
+- smartlook.com
+- smartlook.cloud
+- rec.smartlook.com
+- manager.smartlook.com
+- api.smartlook.com
+- api.smartlook.cloud
+- api.eu.smartlook.cloud
+- api.us.smartlook.cloud
+- cdn.smartlook.com
+- web-sdk.smartlook.com
+- mobile-sdk.smartlook.com
+- sdk.smartlook.com
+- integrations.smartlook.com
+- web.developer.smartlook.com
+- mobile.developer.smartlook.com
+- help.smartlook.com
+- eu.smartlook.cloud
+- us.smartlook.cloud
+- sg.smartlook.cloud
+- br.smartlook.cloud
+- sdk-writer.eu.smartlook.cloud
+- sdk-writer.us.smartlook.cloud
+- sdk-writer.sg.smartlook.cloud
+- sdk-writer.br.smartlook.cloud
+- web-writer.eu.smartlook.cloud
+- web-writer.us.smartlook.cloud
+- events-writer.eu.smartlook.cloud
+- manager.eu.smartlook.cloud
+- assets-proxy.eu.smartlook.cloud
+- assets-proxy.us.smartlook.cloud
+- assets-cache.us.smartlook.cloud
+- status.smartlook.com
+
+---
+
+## MOUSEFLOW
+
+- mouseflow.com
+- cdn.mouseflow.com
+- api.mouseflow.com
+- api-us.mouseflow.com
+- api-eu.mouseflow.com
+- eu.mouseflow.com
+- us.mouseflow.com
+- static.mouseflow.com
+- tools.mouseflow.com
+- d24n15hnbwhuhn.cloudfront.net
+- api-docs.mouseflow.com
+- blog.mouseflow.com
+- status.mouseflow.com
+
+---
+
+## LUCKY ORANGE
+
+- luckyorange.com
+- luckyorange.net
+- cdn.luckyorange.com
+- tools.luckyorange.com
+- api.luckyorange.com
+- realtime.luckyorange.com
+- w1.luckyorange.com
+- d10lpsik1i8c69.cloudfront.net
+- *.visitors.live
+- wss://*.visitors.live
+- pubsub.googleapis.com
+- storage.googleapis.com
+- developers.luckyorange.com
+- get.luckyorange.com
+
+---
+
+## INSPECTLET
+
+- inspectlet.com
+- cdn.inspectlet.com
+- inspectlet.net
+- api.inspectlet.com
+- app.inspectlet.com
+- ws.inspectlet.com
+
+---
+
+## SESSIONCAM (Glassbox)
+
+- sessioncam.com
+- sessioncam.net
+- d2oh4tlt9mrke9.cloudfront.net — CloudFront CDN
+- api.sessioncam.com
+- cdn.sessioncam.com
+- ws.sessioncam.com
+
+---
+
+## CRAZY EGG
+
+- crazyegg.com
+- script.crazyegg.com
+- track.crazyegg.com
+- assets-tracking.crazyegg.com
+- dnn506yrbagrg.cloudfront.net — CloudFront CDN
+- api.crazyegg.com
+- app.crazyegg.com
+- static.crazyegg.com
+- cetrk.com
+- recording.crazyegg.com
+- tracking.crazyegg.com
+- hud.crazyegg.com
+- core.crazyegg.com
+- oauth.crazyegg.com
+- integration-api.crazyegg.com
+- video-api.crazyegg.com
+- comments-api.crazyegg.com
+- shopify.crazyegg.com
+- files.crazyegg.com
+- helpcenter.crazyegg.com
+
+---
+
+## CONTENTSQUARE
+
+- contentsquare.com
+- contentsquare.net
+- t.contentsquare.net
+- api.contentsquare.net
+- collect.contentsquare.net
+- cts.contentsquare.net
+- app.contentsquare.com
+- csxd.*
+- csd.contentsquare.com
+- docs.contentsquare.com
+- support.contentsquare.com
+- status.contentsquare.com
+- blog.contentsquare.com
+
+---
+
+## CLICKTALE (Contentsquare)
+
+- clicktale.net
+- clicktale.com
+- cdnclicktale.com
+- cdnssl.clicktale.net
+- cdn.clicktale.net
+- api.clicktale.net
+- s.clicktale.net
+- clicktalecdn.sslcs.cdngc.net
+- clicktale.pantherssl.com
+- ssl2.cdngc.net
+- sslcs.cdngc.net
+- www07.clicktale.net
+- login.app.clicktale.com
+- subs.app.clicktale.com
+- blog.clicktale.com
+
+---
+
+## MICROSOFT CLARITY
+
+- clarity.ms
+- [a-z].clarity.ms — a. through z. (a.clarity.ms ... z.clarity.ms)
+- www.clarity.ms
+- scripts.clarity.ms
+- e.clarity.ms/collect
+- c.bing.com
+- clarity.microsoft.com
+
+---
+
+## SESSIONSTACK (AI-enhanced)
+
+- sessionstack.com
+- www.sessionstack.com
+- cdn.sessionstack.com
+- app.sessionstack.com
+- docs.sessionstack.com
+- ingest.sessionstack.com
+- api.sessionstack.com
+
+---
+
+## SESSION REWIND
+
+- sessionrewind.com
+- www.sessionrewind.com
+- app.sessionrewind.com
+- cdn.sessionrewind.com
+- api.sessionrewind.com
+- recorder.sessionrewind.com
+
+---
+
+# CORE SESSION REPLAY — TIER 2 (Enterprise)
+
+## QUANTUM METRIC (Cloudflare CDN)
+
+- quantummetric.com
+- cdn.quantummetric.com
+- api.quantummetric.com
+- collector.quantummetric.com
+- app.quantummetric.com
+- docs.quantummetric.com
+- status.quantummetric.com
+
+---
+
+## GLASSBOX (Alicorn PE, 2024)
+
+- glassboxdigital.com
+- glassbox.digital
+- api.glassboxdigital.com
+- cdn.glassboxdigital.com
+- collector.glassbox.digital
+- glassbox.com
+- app.glassbox.com
+- cdn.glassbox.com
+- collector.glassbox.com
+- gateway.glassboxdigital.com
+- api.glassbox.com
+- docs.glassbox.com
+- status.glassbox.com
+- support.glassbox.com
+
+---
+
+## DECIBEL → MEDALLIA DXA
+
+- decibelinsight.net
+- decibelinsight.com
+- api.decibelinsight.net
+- cdn.decibelinsight.net
+- dxi.decibelinsight.net
+- medallia.com — new main platform
+- cdn.medallia.com — Medallia CDN
+- collector.medallia.com — Medallia collector endpoint
+- digital.medallia.com — Digital Experience Analytics
+
+**→ Wildcard: \*.medallia.com (all Medallia subdomains)**
+
+---
+
+# HEATMAP PLATFORMS
+
+## PTENGINE — Active
+
+- ptengine.com
+- ptengine.jp
+- www.ptengine.com
+- www.ptengine.jp
+- cdn.ptengine.jp
+- cdn.ptengine.com
+- api.ptengine.com
+- js.ptengine.jp
+- help.ptengine.com
+- app.ptengine.com — Dashboard
+- app.ptengine.jp — JP Dashboard
+- t.ptengine.jp — JP tracking endpoint
+- t.ptengine.com — US tracking endpoint
+
+---
+
+## HEATMAP.COM — Active
+
+- heatmap.com
+- api.heatmap.com
+- cdn.heatmap.com
+- preprocessor.heatmap.com
+- app.heatmap.com — Dashboard
+- track.heatmap.com — Tracking endpoint
+- js.heatmap.com — SDK delivery
+
+---
+
+# MOBILE SESSION REPLAY
+
+## UXCAM — Active
+
+- uxcam.com
+- sdk.uxcam.com
+- api.uxcam.com
+- eu.uxcam.com
+- us.uxcam.com
+- developer.uxcam.com — Developer docs
+- info.uxcam.com — Info/marketing
+- upload.uxcam.com — Upload endpoint
+- status.uxcam.com — Status page
+- web.uxcam.com — Web SDK endpoint
+
+---
+
+# OPEN SOURCE SESSION REPLAY
+
+## OPENREPLAY — Active (self-hosted / cloud)
+
+- openreplay.com
+- api.openreplay.com
+- static.openreplay.com
+- ingest.openreplay.com — Ingest endpoint — official docs
+- app.openreplay.com — Cloud dashboard
+- forum.openreplay.com — Community forum
+- docs.openreplay.com — Documentation
+
+**→ Wildcard: \*.openreplay.com**
+
+---
+
+## ✖ CLOSED — HIGHLIGHT.IO
+
+> Shut down on February 28, 2026 — migrated to LaunchDarkly
+
+- highlight.io
+- pub.highlight.io
+- api.highlight.io
+- cdn.highlight.io
+- pub.highlight.run
+- app.highlight.io
+- otel.highlight.io
+- o11y.highlight.io
+
+---
+
+# LEGACY PLATFORMS
+
+## TEALEAF / ACOUSTIC (IBM) — Continues as Acoustic
+
+- tealeaf.com
+- tealeafcloud.com
+- api.tealeaf.com
+- tealeaf.ibmcloud.com
+- acoustic.co
+- cloud.tealeaf.com
+- goacoustic.com
+- help.goacoustic.com
+- acoustic.com — Main platform domain ◀ CRITICAL
+- www.acoustic.com — Acoustic main site
+- api.acoustic.com — Acoustic API
+- collector.acoustic.co — New unified collector
+- cdn.goacoustic.com — JavaScript SDK CDN
+- developer.goacoustic.com — Developer docs
+- libs.acoustic.co — SDK library CDN
+- collector.tealeaf.goacoustic.com — Unified collector endpoint
+
+---
+
+## VISITOR ANALYTICS / TWIPLA — Active
+
+- visitor-analytics.io
+- api.visitor-analytics.io
+- lb-api.visitor-analytics.io
+- twipla.com
+- www.twipla.com
+- stage-api-gateway.va-endpoint.com
+- stage-dashboard-3as.va-endpoint.com
+- va-endpoint.com
+- docs.visitor-analytics.io
+- docs.twipla.com
+- cdn.visitor-analytics.io — CDN assets
+- cdn.twipla.com — New brand CDN
+- api.twipla.com — New brand API
+
+---
+
+# NEW / EMERGING PLATFORMS
+
+## PLERDY — Active
+
+- plerdy.com
+- a.plerdy.com
+- d.plerdy.com
+- www.plerdy.com
+- v.plerdy.com — Video/session recording endpoint
+- p.plerdy.com — Tracking pixel endpoint
+- app.plerdy.com — Dashboard
+- cdn.plerdy.com — CDN
+
+---
+
+## WEBMAXY ANALYZER — Active
+
+- webmaxy.co
+- webmaxy.com
+- script.webmaxy.com
+- static.webmaxy.com
+- vars.webmaxy.com
+- vc.webmaxy.io
+- surveystats.webmaxy.io
+- wss://*.webmaxy.com — WebSocket endpoint — official CSP docs
+- app.webmaxy.com — Dashboard
+- app.webmaxy.io — Alternative dashboard
+
+**→ Wildcard: \*.webmaxy.com | \*.webmaxy.io**
+
+---
+
+## ZIPY — Active (AI-powered)
+
+- zipy.ai
+- www.zipy.ai
+- cdn.zipy.ai
+- app.zipy.ai
+- docs.zipy.ai
+- sdk.zipy.ai — SDK host endpoint
+- store.zipy.ai — Data storage endpoint
+- api.zipy.ai — REST API
+- ingest.zipy.ai — Data ingest
+
+---
+
+## LIVESESSION — Active
+
+- livesession.io
+- cdn.livesession.io
+- api.livesession.io
+- developers.livesession.io
+- help.livesession.io
+- rs.livesession.io — Record Session API ◀ CRITICAL
+- app.livesession.io — Dashboard
+- ws.livesession.io — WebSocket endpoint
+
+---
+
+# CLOUDFRONT DISTRIBUTION HASHES
+
+| Domain | Description / Note |
+|---|---|
+| d3ikprf0m31yc7.cloudfront.net | Hotjar |
+| dnn506yrbagrg.cloudfront.net | Crazy Egg |
+| d10lpsik1i8c69.cloudfront.net | Lucky Orange |
+| d2oh4tlt9mrke9.cloudfront.net | SessionCam |
+| d3sbxpiag177w8.cloudfront.net | Quantum Metric |
+| d36h2ceo5paibn.cloudfront.net | General session replay CDN |
+| dub6ktkwbvvgh.cloudfront.net | General session replay CDN |
+| d2wy8f7a9ursnm.cloudfront.net | FullStory |
+| d3anogn3pbtk4v.cloudfront.net | LogRocket |
+| d24n15hnbwhuhn.cloudfront.net | Mouseflow |
