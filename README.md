@@ -10,15 +10,6 @@ ad-serving domains — covering mainstream platforms, regional services,
 and niche app categories not typically covered by general-purpose
 blocklists.
 
-## What this does
-
-A DNS blocklist prevents your device or network from connecting to
-listed domains. Adding this list to a DNS-level blocker (such as
-Pi-hole or AdGuard Home) stops apps and websites from silently
-contacting tracking and analytics services in the background — no
-browser extension required, works across all apps on a device or
-network.
-
 ## Methodology
 
 Each entry in this list is the result of independent, per-platform
