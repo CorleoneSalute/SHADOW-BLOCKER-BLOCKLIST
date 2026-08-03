@@ -1,7 +1,7 @@
 # Shadow Blocker Blocklist
 
 ![Build](https://github.com/CorleoneSalute/SHADOW-BLOCKER-BLOCKLIST/actions/workflows/build.yml/badge.svg)
-![License](https://img.shields.io/github/license/CorleoneSalute/SHADOW-BLOCKER-BLOCKLIST)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Leave the shadows behind. Block trackers. Protect your privacy.**
 
