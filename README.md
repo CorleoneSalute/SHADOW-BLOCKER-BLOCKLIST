@@ -83,9 +83,7 @@ carry a higher risk of false positives that could affect core
 functionality, so each domain is being individually verified before
 release.
 
-- Video Hosting
-- Image Hosting
-- Cyberlocker / File Hosting
+- File hosting
 - Browser Apps
 - Security & Bot Detection
 - Android
