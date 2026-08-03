@@ -55,7 +55,7 @@ Replace `basic` with `aggressive` for the stricter tier. To use a
 single category instead of the full list, replace `all.txt` with the
 category filename, for example:
 ```
-https://raw.githubusercontent.com/CorleoneSalute/SHADOW-BLOCKER-BLOCKLIST/main/dist/basic/hosts/cloud-storage.txt
+https://raw.githubusercontent.com/CorleoneSalute/SHADOW-BLOCKER-BLOCKLIST/main/dist/basic/hosts/Cloud-Storage.txt
 ```
 
 ## Repository structure
