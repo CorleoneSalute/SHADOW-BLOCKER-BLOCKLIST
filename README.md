@@ -1,8 +1,7 @@
 # Shadow Blocker Blocklist
 
 ![Build](https://github.com/CorleoneSalute/SHADOW-BLOCKER-BLOCKLIST/actions/workflows/build.yml/badge.svg)
-![License](https://img.shields.io/github/license/CorleoneSalute/SHADOW-BLOCKER-BLOCKLIST?style=flat)
-
+![License](https://img.shields.io/github/license/CorleoneSalute/SHADOW-BLOCKER-BLOCKLIST)
 **Leave the shadows behind. Block trackers. Protect your privacy.**
 
 A DNS blocklist targeting tracking, telemetry, analytics, and
