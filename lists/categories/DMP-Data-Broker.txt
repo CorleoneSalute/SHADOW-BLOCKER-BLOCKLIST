@@ -265,7 +265,7 @@ api.cuebiq.com
 sdk.cuebiq.com
 events.cuebiq.com
 
-# MOBILEWALLA (FTC Aralık 2024 kısıtladı)
+# MOBILEWALLA (FTC December 2024 restricted)
 mobilewalla.com
 api.mobilewalla.com
 sdk.mobilewalla.com
@@ -300,22 +300,22 @@ captify.co
 captify.co.uk
 jungroup.com
 
-# UNACAST + GRAVY ANALYTICS (FTC Ocak 2025 kısıtladı) (5 domain)
+# UNACAST + GRAVY ANALYTICS (FTC January 2025 restricted)
 unacast.com
 api.unacast.com
 gravyanalytics.com
 api.gravyanalytics.com
 venntel.com
 
-# OUTLOGIC (eski X-Mode — FTC Nisan 2024 kısıtladı)
+# OUTLOGIC (Legacy X-Mode — FTC April 2024 restricted)
 outlogic.io
 
-# NEAR → AZIRA (Chapter 11 — Azira olarak devam ediyor)
+# NEAR → AZIRA (Chapter 11 — Continues as Azira)
 near.co
 near.com
 api.near.co
 azira.com
 
-# INMARKET (FTC Ocak 2024 kısıtladı)
+# INMARKET (FTC January 2024 restricted)
 inmarket.com
 sdk.inmarket.com
