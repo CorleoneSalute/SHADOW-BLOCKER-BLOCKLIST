@@ -31,12 +31,6 @@ hitwise.com
 eccmp.com !
 ats.eccmp.com
 
-# EPSILON
-conversantmedia.com
-conversantmedia.eu
-abacus.epsilon.com
-agilityone.epsilon.com
-
 # ORACLE DATA CLOUD (BlueKai DMP)
 bluekai.com
 bkrtx.com
