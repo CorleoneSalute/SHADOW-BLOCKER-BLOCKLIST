@@ -1,12 +1,11 @@
 # ============================================================
 # DMP DATA BROKER BLOCKLIST - BASIC
-# Total domains: 242
-# Generated: 2026-07-29 (UTC) - auto-generated, do not edit by hand
+# Total domains: 238
+# Generated: 2026-08-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 ||4cite.com^
-||abacus.epsilon.com^
 ||abilitec.acxiom.com^
 ||acd.navdmp.com^
 ||acdn.navdmp.com^
@@ -26,7 +25,6 @@
 ||adcel.vrvm.com^
 ||adsquare.com^
 ||adstradata.com^
-||agilityone.epsilon.com^
 ||amp.navdmp.com^
 ||amp.permutive.app^
 ||analytics-api.vervemobile.com^
@@ -85,8 +83,6 @@
 ||company.clearbit.com^
 ||connect.clearbit.com^
 ||connect.transunion.com^
-||conversantmedia.com^
-||conversantmedia.eu^
 ||corelogic.com^
 ||cotality.com^
 ||cr.fullcontact.com^

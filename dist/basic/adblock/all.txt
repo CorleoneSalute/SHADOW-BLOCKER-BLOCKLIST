@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8339
-# Generated: 2026-07-29 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8335
+# Generated: 2026-08-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -69,7 +69,6 @@
 ||aax.amazon-adsystem.com^
 ||ab-test.adikteev.com^
 ||aba.gumgum.com^
-||abacus.epsilon.com^
 ||abc2.adtelligent.com^
 ||abilitec.acxiom.com^
 ||abrt.fedoraproject.org^
@@ -657,7 +656,6 @@
 ||affiliate.tiktok.com^
 ||afftrk.findoctave.com^
 ||agileurbia.com^
-||agilityone.epsilon.com^
 ||ai-analytics.adyen.com^
 ||ai.adikteev.com^
 ||ai.analytics.weather.com^
@@ -2662,8 +2660,6 @@
 ||control2.tvinteractive.tv^
 ||convammp.taboola.com^
 ||convchmp.taboola.com^
-||conversantmedia.com^
-||conversantmedia.eu^
 ||conversion.adikteev.com^
 ||conversion.appsflyer.com^
 ||conversion.criteo.com^

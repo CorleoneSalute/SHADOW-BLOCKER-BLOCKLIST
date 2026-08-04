@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8644
-# Generated: 2026-07-29 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8640
+# Generated: 2026-08-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -72,7 +72,6 @@
 0.0.0.0 ab-test.adikteev.com
 0.0.0.0 ab-test.hulu.com
 0.0.0.0 aba.gumgum.com
-0.0.0.0 abacus.epsilon.com
 0.0.0.0 abc2.adtelligent.com
 0.0.0.0 abilitec.acxiom.com
 0.0.0.0 abrt.fedoraproject.org
@@ -682,7 +681,6 @@
 0.0.0.0 affiliate.tiktok.com
 0.0.0.0 afftrk.findoctave.com
 0.0.0.0 agileurbia.com
-0.0.0.0 agilityone.epsilon.com
 0.0.0.0 ahagamecenter.com
 0.0.0.0 ai-analytics.adyen.com
 0.0.0.0 ai.adikteev.com
@@ -2736,8 +2734,6 @@
 0.0.0.0 control2.tvinteractive.tv
 0.0.0.0 convammp.taboola.com
 0.0.0.0 convchmp.taboola.com
-0.0.0.0 conversantmedia.com
-0.0.0.0 conversantmedia.eu
 0.0.0.0 conversion.adikteev.com
 0.0.0.0 conversion.appsflyer.com
 0.0.0.0 conversion.criteo.com
