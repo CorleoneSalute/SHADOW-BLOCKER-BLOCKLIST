@@ -1,7 +1,7 @@
 # SMS & RCS Blocklist
 
 # Total domains:25
-# Last update:16 Temmuz 2026
+# Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
 # GO SMS PRO (DANGEROUS — Privacy Leak, Unpatched)
