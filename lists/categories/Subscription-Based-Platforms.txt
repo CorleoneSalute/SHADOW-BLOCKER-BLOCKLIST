@@ -1,7 +1,7 @@
 # Subscription-Based Platforms Blocklist
 
 # Total domains: 15
-# Last update: 16 Temmuz 2026
+# Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
 # BUY ME A COFFEE
