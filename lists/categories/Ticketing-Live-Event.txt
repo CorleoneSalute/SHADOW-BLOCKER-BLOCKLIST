@@ -1,7 +1,7 @@
 # Ticketing & Live Event Blocklist
 
 # Total domains: 17
-# Last update: 16 Temmuz 2026
+# Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
 # Ticketmaster
