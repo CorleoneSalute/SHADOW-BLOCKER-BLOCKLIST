@@ -1,6 +1,7 @@
 # URL SHORTENER / LINK TRACKING BLOCKLIST
+
 # Total domains: 321
-# Last update: 2026/07/16
+# Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
 # --- BITLY --- (4 domain)
