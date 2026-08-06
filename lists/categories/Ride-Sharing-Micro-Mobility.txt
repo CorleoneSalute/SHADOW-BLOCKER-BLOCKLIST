@@ -1,7 +1,7 @@
 # Ride-Sharing & Micro-Mobility Blocklist
 
 # Total domains: 45
-# Last update: 2026-07-17
+# Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
 # UBER
