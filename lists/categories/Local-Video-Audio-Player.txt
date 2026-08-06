@@ -1,7 +1,7 @@
 # Local Video & Audio Players Blocklist
 
 # Total domains: 39
-# Last update: 2026-07-17
+# Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
 ## MX PLAYER
