@@ -1,6 +1,6 @@
 # DMP & Data Broker Blocklist 
 # Total domains: 244
-# Last update: 16-7-26
+# Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
 🔴 DATA BROKERS & DMP
