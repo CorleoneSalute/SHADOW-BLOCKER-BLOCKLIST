@@ -1,6 +1,7 @@
 # PODCAST HOSTING BLOCKLIST 
+
 # Total domains: 56
-# Last update: 2026-07-18
+# Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
 # BUZZSPROUT
