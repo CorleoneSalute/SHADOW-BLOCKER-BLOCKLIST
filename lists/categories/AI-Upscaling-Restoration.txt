@@ -1,7 +1,7 @@
 # AI Upscaling & Restoration Blocklist
 
 # Total domains: 9
-# Last update: 2026-07-19
+# Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
 ## Topaz Labs
