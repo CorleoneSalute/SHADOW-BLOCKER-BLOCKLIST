@@ -1,7 +1,7 @@
 # ============================================================
 # VOIP VIDEO CALL BLOCKLIST - AGGRESSIVE
 # Total domains: 28
-# Generated: 2026-08-04 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-08-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
