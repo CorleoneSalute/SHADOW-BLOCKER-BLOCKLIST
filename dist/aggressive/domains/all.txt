@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 8640
-# Generated: 2026-08-06 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8579
+# Generated: 2026-08-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -1627,7 +1627,6 @@ api.analytics.robin.markets
 api.aniview.com
 api.anzu.io
 api.appsignal.com
-api.atdata.com
 api.audiohook.com
 api.ay.gy
 api.backtrace.io
@@ -1646,7 +1645,6 @@ api.chartbeat.net
 api.chartboost.com
 api.chocolateplatform.com
 api.cid.samba.tv
-api.clearbit.com
 api.clicksfly.com
 api.clicktale.net
 api.coinis.com
@@ -1664,7 +1662,6 @@ api.daopush-api.info
 api.datalogix.com
 api.decibelinsight.net
 api.dianomi.com
-api.dnb.com
 api.e-planning.net
 api.eagllwin.com
 api.elmah.io
@@ -1691,7 +1688,6 @@ api.heatmap.com
 api.heyzap.com
 api.honeybadger.io
 api.hotjar.io
-api.infutor.com
 api.inscape.tv
 api.inspectlet.com
 api.instabug.com
@@ -1704,7 +1700,6 @@ api.liftoff.io
 api.ligatus.com
 api.livesession.io
 api.logrocket.io
-api.lotame.com
 api.luciq.ai
 api.luckyorange.com
 api.marketgid.com
@@ -1716,7 +1711,6 @@ api.mountain.com
 api.mouseflow.com
 api.mybid.io
 api.nativo.com
-api.near.co
 api.nextmillennium.io
 api.nexxen.com
 api.ntv.io
@@ -1727,7 +1721,6 @@ api.outbrain.com
 api.passendo.com
 api.paved.com
 api.permutive.app
-api.permutive.com
 api.pkgstats.archlinux.de
 api.plista.com
 api.postrelease.com
@@ -1754,7 +1747,6 @@ api.rollbar.com
 api.rollerads.com
 api.runestone.samsung.com
 api.s.telemetry.intel.com
-api.safegraph.com
 api.samba.tv
 api.seedtag.com
 api.selectmedia.asia
@@ -1777,13 +1769,10 @@ api.tapjoy.com
 api.teads.com
 api.teads.tv
 api.tealeaf.com
-api.towerdata.com
-api.transunion.com
 api.tremorhub.com
 api.triplelift.com
 api.tw06.xlmc.sec.miui.com
 api.twipla.com
-api.ubimo.com
 api.unacast.com
 api.ungads.com
 api.unityads.unity3d.com
@@ -1969,7 +1958,6 @@ auth.callstats.io
 auth.connectad.io
 auth.ff.avast.sec.miui.com
 avantmetrics.com
-avention.com
 avhk-test.brdtnet.com
 avhk-test2.brdtnet.com
 avhk.conf.brdtnet.com
@@ -2002,7 +1990,6 @@ azad.adsrvr.org
 azenduser.adsrvr.org
 azerion.com
 azhtml5.adsrvr.org
-azira.com
 azurelogs.garmin.com
 b.clarity.ms
 b.da.us.criteo.com
@@ -2033,7 +2020,6 @@ bard-telemetry.google.com
 batch.datax.yahoo.com
 battleate.com
 bcp.crwdcntrl.net
-bcp.lotame.com
 bcp.st.crwdcntrl.net
 bcvc.live
 bd.vungle.com
@@ -2101,7 +2087,6 @@ bigdata.samsung.com.cn
 bigdata.ssp.samsung.com
 biosagentplus.com
 biscience.com
-bisnode.com
 bit-guardian.com
 bit.do
 bitigee.com
@@ -2125,7 +2110,6 @@ blog.ads.paytm.com
 blog.adultfriendfinder.com
 blog.bit-guardian.com
 bluehost.outbrain.com
-bluekai.com
 bluenik.com
 bluesprig.com
 bombora.com
@@ -2493,7 +2477,6 @@ cleanup-my-mac.live
 cleanupmymac.com
 cleanupmymac.live
 clear-telemetry.jf.intel.com
-clearbit.com
 clesolea.com
 cli.gs
 click-analytics.dell.com
@@ -2690,7 +2673,6 @@ combostruct.com
 commandersact.com
 commerce.sovrn.com
 community.brightdata.com
-company.clearbit.com
 conf-in-dc.heytapdl.com
 conf-in-dc.heytapmobile.com
 conf-sg-dc.heytapdl.com
@@ -2703,11 +2685,9 @@ config.samsungads.com
 config.seedtag.com
 config.unityads.unity3d.com
 configv2.unityads.unity3d.com
-connect.clearbit.com
 connect.criteo.com
 connect.facebook.com
 connect.facebook.net
-connect.transunion.com
 connectad.io
 connectadrealtime.com
 connectid.yahoo.com
@@ -2757,8 +2737,6 @@ core.crazyegg.com
 coreads-console.cambridge.org
 coreads-static.cambridge.org
 coreads.cambridge.org
-corelogic.com
-cotality.com
 cowner.net
 cpa.adcolony.com
 cpamatica.io
@@ -2815,7 +2793,6 @@ criteo.com
 criteo.net
 cross-promo.adikteev.com
 cross-promo.remerge.io
-crowdcontrol.lotame.com
 crs.cr.adobe.com
 crwdcntrl.net
 cs.adingo.jp
@@ -2874,7 +2851,6 @@ d10lpsik1i8c69.cloudfront.net
 d2.ligatus.com
 d24n15hnbwhuhn.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
-d2ojpxxtu63wzl.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2zv5rkii46miq.cloudfront.net
 d3anogn3pbtk4v.cloudfront.net
@@ -2923,7 +2899,6 @@ data.d.xiaomi.net
 data.districtm.io
 data.fetch.com
 data.hicloud.com
-data.infutor.com
 data.inscape.tv
 data.ironsrc.com
 data.kameleoon.io
@@ -2966,7 +2941,6 @@ datacollectorpc1-bigip.us.dell.com
 dataf.ads.oppomobile.com
 datalogix.com
 dataperformance.vodafone.it
-dataquick.com
 datarecoverydownload.com
 dataseat.com
 dataservice.ipinyou.com
@@ -3029,7 +3003,6 @@ dependencytrack.hub.klippa.com
 detect.rayjump.com
 detonnot.com
 dev.jwpltx.com
-developer.dnb.com
 device-analytics.hulu.com
 device-fingerprint.socure.com
 device-identity.bamgrid.com
@@ -3057,7 +3030,6 @@ digitalsmiths.net
 digprjsurvey.amazon.eu
 direct-response-gcp.api.snapchat.com
 direct.adsrvr.org
-direct.dnb.com
 directads-tool.ligatus.com
 directbidder.criteo.com
 dis-ssl.criteo.com
@@ -3069,7 +3041,6 @@ disclaimer-api.goadopt.io
 discover.outbrain.com
 discover.taboola.com
 discoverorg.com
-discovery.clearbit.com
 discovery.outbrain.com
 discuss-metrics.getsol.us
 diskreviver.com
@@ -3105,7 +3076,6 @@ dmpapi.bidtellect.com
 dmpsync.3lift.com
 dmx.districtm.io
 dnacdn.net
-dnb.com
 dnkeeper.dbankcloud.com
 dnkeeper.hicloud.com
 dnkeeper.platform.dbankcloud.cn
@@ -3114,7 +3084,6 @@ dnsdelegation.io
 docs.bright-sdk.com
 docs.brightdata.com
 documentary-analytics.curiositystream.com
-donorbase.com
 dotcom-preview.tags.elsevier.com
 dotcom.tags.elsevier.com
 doubleclick.net
@@ -3191,7 +3160,6 @@ du.outbyte.com
 dub-1-apex.go.sonobi.com
 ducolomal.com
 dummy.applog.bolt.eu
-dunandbradstreet.com
 duplicatefilesfixer.com
 duplicatephotofixer.com
 dvaitas.lt
@@ -3468,7 +3436,6 @@ evs.web-trk.zola.com
 ewtracking.elsevier.com
 ex-adreq-asia.vivoglobal.com
 ex-adreq-in.vivoglobal.com
-exactdata.com
 exads.crakrevenue.com
 exapi-apac.rubiconproject.com
 exapi-eu.rubiconproject.com
@@ -3609,7 +3576,6 @@ filecure.com
 files.crazyegg.com
 filesigcheck.com
 fileviewpro.com
-finance.dnb.com
 find.passion.com
 fionread-ta-g7g.amazon.com
 firebase-settings.crashlytics.com
@@ -4127,7 +4093,6 @@ info.ads.roku.com
 info.advertising.roku.com
 info.lgsmartad.com
 infoevent.startappservice.com
-infogroup.com
 infopade.com
 infra.tv
 infutor.com
@@ -4171,7 +4136,6 @@ integrations.criteo.com
 integrations.remerge.io
 integrations.smartlook.com
 intelligence.conviva.com
-intelligence.towerdata.com
 interact.taboola.com
 interactive.adikteev.com
 interactive.remerge.io
@@ -4306,7 +4270,6 @@ la-vip001.taboola.com
 labs-cdn.revcontent.com
 labs.revcontent.com
 lagrange.logs.roku.com
-lakegroupmedia.com
 lapsing-users.adikteev.com
 larati.net
 laslucaads-util.scientificgames.com
@@ -4359,7 +4322,6 @@ linksfly.link
 linksfly.me
 linkshare.com
 linkvertise.com
-listgiant.com
 litix.mux.com
 littlefield.logs.roku.com
 live-analytics.bilibili.com
@@ -5177,7 +5139,6 @@ mobilefeedback.twitter.com
 mobilelogs.supersonic.com
 mobilereporting.ext.nokia.com
 mobilewalla.com
-mobility.safegraph.com
 mobvista.com
 mobwsa.ximalaya.com
 moloco.com
@@ -5351,7 +5312,6 @@ na-data.kameleoon.eu
 na-data.kameleoon.io
 na-eb2.3lift.com
 na1.fullstory.com
-name2domain.clearbit.com
 nano.adultfriendfinder.com
 native.feedback.miui.com
 native.sharethrough.com
@@ -5363,8 +5323,6 @@ nav.browser.miui.com
 navdmp.com
 navegg.com
 navegg.com.br
-near.co
-near.com
 nebula-collector.huawei.cn
 nebula-collector.huawei.com
 nemo.logs.roku.com
@@ -5391,9 +5349,7 @@ nexxen.com
 ngfts.lge.com
 nginx.34.sec.miui.com
 niad.analytics.elsevier.com
-nielsen.com
 nimbleinity.com
-nmc.nielsen.com
 nmetrics.samsung.com
 nmetrics.samsungmobile.com
 nmtracking.netflix.com
@@ -5674,8 +5630,6 @@ permutive.com
 perr.h-cdn.com
 perr.l-agent.me
 perr.l-err.biz
-person-stream.clearbit.com
-person.clearbit.com
 personalization.hbomax.com
 personalization.hulu.com
 personalize.zetaglobal.com
@@ -5795,7 +5749,6 @@ plista.fr
 plista125.plista.com
 plista573.plista.com
 plista87.plista.com
-plus.dnb.com
 pluto.tv.sc.omtrdc.net
 pm.sourcepoint.mgr.consensu.org
 pmc-reporting.criteo.net
@@ -5875,7 +5828,6 @@ prod.logs.yoti.com
 prodregistryv2.org
 production.ads.cj.com
 profiling.sentry.io
-prospector.clearbit.com
 protected.media
 protonurl.ch
 prov-lg.alphonso.tv
@@ -6020,7 +5972,6 @@ redirect.applovin.com
 redirect.ligatus.com
 redirect.pandora.xiaomi.com
 reengagement.remerge.io
-referenceusa.com
 regcleanpro.com
 regcure.com
 regecish.net
@@ -6068,7 +6019,6 @@ res4.applovin.com
 research-metrics.corp.playgroundai.com
 resolve.fullcontact.com
 resolve.zetaglobal.com
-resources.lotame.com
 resources.taboola.com
 resourceviewtracking.faithlife.com
 rest-api.adikteev.com
@@ -6080,7 +6030,6 @@ retargeting.adikteev.com
 retention.adikteev.com
 retrace.fedoraproject.org
 revcontent.com
-reveal.clearbit.com
 revenue.adikteev.com
 revenue.remerge.io
 revenuedesk.fyber.com
@@ -6099,7 +6048,6 @@ rightmedia.criteo.com
 ringcentral.112.2o7.net
 risecodes.com
 risk.clearbit.com
-risk.dnb.com
 rkhbxm26.topazlabs.com
 rmmetrics.mcafee.com
 rmp-api.moloco.com
@@ -6344,7 +6292,6 @@ saa.paramountplus.com
 safedk.com
 safegraph.com
 safegraph.io
-salesgenie.com
 samba.tv
 samples.voice.cti.roku.com
 samstats.msi.com
@@ -6544,7 +6491,6 @@ security-tracker.debian.org
 security.adikteev.com
 security.remerge.io
 securityreviver.com
-sedt.infutor.com
 seedtag.com
 segment-api.rarible.com
 segment-cdn.rarible.com
@@ -7028,7 +6974,6 @@ storeconfig.mistat.xiaomi.com
 storetail.io
 stratoplot.com
 stream.adikteev.com
-stream.clearbit.com
 stream.remerge.io
 stream.zetaglobal.com
 streamback.ff.avast.sec.miui.com
@@ -7959,11 +7904,7 @@ trk.www.orange.com
 trk1.vivino.com
 trk2.vivino.com
 trk3.vivino.com
-truaudience.com
-truaudience.transunion.com
-truaudience.tru-signal.com
 truoptik.com
-trusignal.com
 ts.amazon-adsystem.com
 ts.crwdcntrl.net
 ts04358.picpay.com
@@ -8366,7 +8307,6 @@ widget.zergnet.com
 widgetmonitor.outbrain.com
 widgets.adskeeper.com
 widgets.insticator.com
-widgets.lotame.com
 widgets.outbrain.com
 widgets.revcontent.com
 widgets.sprinklecontent.com
@@ -8627,7 +8567,6 @@ zeus.ad.intl.xiaomi.com
 zeus.ad.xiaomi.com
 zeydoo.com
 zi.ma
-ziffmedia.com
 zip.net
 ziplog.marleyspoon.com
 zipy.ai

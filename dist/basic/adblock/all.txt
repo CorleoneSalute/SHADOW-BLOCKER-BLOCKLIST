@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8335
-# Generated: 2026-08-06 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8260
+# Generated: 2026-08-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -1592,7 +1592,6 @@
 ||api.aniview.com^
 ||api.anzu.io^
 ||api.appsignal.com^
-||api.atdata.com^
 ||api.ay.gy^
 ||api.backtrace.io^
 ||api.bidmachine.io^
@@ -1610,7 +1609,6 @@
 ||api.chartboost.com^
 ||api.chocolateplatform.com^
 ||api.cid.samba.tv^
-||api.clearbit.com^
 ||api.clicksfly.com^
 ||api.clicktale.net^
 ||api.coinis.com^
@@ -1628,7 +1626,6 @@
 ||api.datalogix.com^
 ||api.decibelinsight.net^
 ||api.dianomi.com^
-||api.dnb.com^
 ||api.e-planning.net^
 ||api.eagllwin.com^
 ||api.elmah.io^
@@ -1655,7 +1652,6 @@
 ||api.heyzap.com^
 ||api.honeybadger.io^
 ||api.hotjar.io^
-||api.infutor.com^
 ||api.inscape.tv^
 ||api.inspectlet.com^
 ||api.instabug.com^
@@ -1668,7 +1664,6 @@
 ||api.ligatus.com^
 ||api.livesession.io^
 ||api.logrocket.io^
-||api.lotame.com^
 ||api.luciq.ai^
 ||api.luckyorange.com^
 ||api.marketgid.com^
@@ -1680,7 +1675,6 @@
 ||api.mouseflow.com^
 ||api.mybid.io^
 ||api.nativo.com^
-||api.near.co^
 ||api.nextmillennium.io^
 ||api.nexxen.com^
 ||api.ntv.io^
@@ -1691,7 +1685,6 @@
 ||api.passendo.com^
 ||api.paved.com^
 ||api.permutive.app^
-||api.permutive.com^
 ||api.pkgstats.archlinux.de^
 ||api.plista.com^
 ||api.postrelease.com^
@@ -1718,7 +1711,6 @@
 ||api.rollerads.com^
 ||api.runestone.samsung.com^
 ||api.s.telemetry.intel.com^
-||api.safegraph.com^
 ||api.samba.tv^
 ||api.seedtag.com^
 ||api.selectmedia.asia^
@@ -1741,13 +1733,10 @@
 ||api.teads.com^
 ||api.teads.tv^
 ||api.tealeaf.com^
-||api.towerdata.com^
-||api.transunion.com^
 ||api.tremorhub.com^
 ||api.triplelift.com^
 ||api.tw06.xlmc.sec.miui.com^
 ||api.twipla.com^
-||api.ubimo.com^
 ||api.unacast.com^
 ||api.ungads.com^
 ||api.unityads.unity3d.com^
@@ -1896,7 +1885,6 @@
 ||async-px.dynamicyield.com^
 ||at-us-east.amazon-adsystem.com^
 ||atabencot.net^
-||atdata.com^
 ||atdmt.com^
 ||atharori.net^
 ||atlasdmt.com^
@@ -1927,7 +1915,6 @@
 ||austin.logs.roku.com^
 ||auth.connectad.io^
 ||avantmetrics.com^
-||avention.com^
 ||avhk-test.brdtnet.com^
 ||avhk-test2.brdtnet.com^
 ||avhk.conf.brdtnet.com^
@@ -1959,7 +1946,6 @@
 ||azenduser.adsrvr.org^
 ||azerion.com^
 ||azhtml5.adsrvr.org^
-||azira.com^
 ||azurelogs.garmin.com^
 ||b.clarity.ms^
 ||b.da.us.criteo.com^
@@ -1990,7 +1976,6 @@
 ||batch.datax.yahoo.com^
 ||battleate.com^
 ||bcp.crwdcntrl.net^
-||bcp.lotame.com^
 ||bcp.st.crwdcntrl.net^
 ||bd.vungle.com^
 ||bdapi-ads-sg.heytapmobile.com^
@@ -2054,7 +2039,6 @@
 ||bigdata.ssp.samsung.com^
 ||biosagentplus.com^
 ||biscience.com^
-||bisnode.com^
 ||bit-guardian.com^
 ||bit.do^
 ||bitigee.com^
@@ -2076,7 +2060,6 @@
 ||blog.adultfriendfinder.com^
 ||blog.bit-guardian.com^
 ||bluehost.outbrain.com^
-||bluekai.com^
 ||bluenik.com^
 ||bluesprig.com^
 ||bombora.com^
@@ -2433,7 +2416,6 @@
 ||cleanupmymac.com^
 ||cleanupmymac.live^
 ||clear-telemetry.jf.intel.com^
-||clearbit.com^
 ||clesolea.com^
 ||cli.gs^
 ||click-analytics.dell.com^
@@ -2626,7 +2608,6 @@
 ||commandersact.com^
 ||commerce.sovrn.com^
 ||community.brightdata.com^
-||company.clearbit.com^
 ||conf-in-dc.heytapdl.com^
 ||conf-in-dc.heytapmobile.com^
 ||conf-sg-dc.heytapdl.com^
@@ -2639,9 +2620,7 @@
 ||config.seedtag.com^
 ||config.unityads.unity3d.com^
 ||configv2.unityads.unity3d.com^
-||connect.clearbit.com^
 ||connect.criteo.com^
-||connect.transunion.com^
 ||connectad.io^
 ||connectadrealtime.com^
 ||connectid.yahoo.com^
@@ -2682,8 +2661,6 @@
 ||coreads-console.cambridge.org^
 ||coreads-static.cambridge.org^
 ||coreads.cambridge.org^
-||corelogic.com^
-||cotality.com^
 ||cowner.net^
 ||cpa.adcolony.com^
 ||cpamatica.io^
@@ -2739,7 +2716,6 @@
 ||criteo.net^
 ||cross-promo.adikteev.com^
 ||cross-promo.remerge.io^
-||crowdcontrol.lotame.com^
 ||crs.cr.adobe.com^
 ||crwdcntrl.net^
 ||cs.adingo.jp^
@@ -2796,7 +2772,6 @@
 ||d2.ligatus.com^
 ||d24n15hnbwhuhn.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
-||d2ojpxxtu63wzl.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d2zv5rkii46miq.cloudfront.net^
 ||d3anogn3pbtk4v.cloudfront.net^
@@ -2843,7 +2818,6 @@
 ||data.districtm.io^
 ||data.fetch.com^
 ||data.hicloud.com^
-||data.infutor.com^
 ||data.inscape.tv^
 ||data.ironsrc.com^
 ||data.kameleoon.io^
@@ -2886,7 +2860,6 @@
 ||dataf.ads.oppomobile.com^
 ||datalogix.com^
 ||dataperformance.vodafone.it^
-||dataquick.com^
 ||datarecoverydownload.com^
 ||dataseat.com^
 ||dataservice.ipinyou.com^
@@ -2947,7 +2920,6 @@
 ||detect.rayjump.com^
 ||detonnot.com^
 ||dev.jwpltx.com^
-||developer.dnb.com^
 ||device-analytics.hulu.com^
 ||device-fingerprint.socure.com^
 ||device-identity.bamgrid.com^
@@ -2975,7 +2947,6 @@
 ||digprjsurvey.amazon.eu^
 ||direct-response-gcp.api.snapchat.com^
 ||direct.adsrvr.org^
-||direct.dnb.com^
 ||directads-tool.ligatus.com^
 ||directbidder.criteo.com^
 ||dis-ssl.criteo.com^
@@ -2986,7 +2957,6 @@
 ||discover.outbrain.com^
 ||discover.taboola.com^
 ||discoverorg.com^
-||discovery.clearbit.com^
 ||discovery.outbrain.com^
 ||discuss-metrics.getsol.us^
 ||diskreviver.com^
@@ -3020,13 +2990,11 @@
 ||dmpsync.3lift.com^
 ||dmx.districtm.io^
 ||dnacdn.net^
-||dnb.com^
 ||dnn506yrbagrg.cloudfront.net^
 ||dnsdelegation.io^
 ||docs.bright-sdk.com^
 ||docs.brightdata.com^
 ||documentary-analytics.curiositystream.com^
-||donorbase.com^
 ||doubleclick.net^
 ||download-samsung.dtignite.com^
 ||download.reimage.com^
@@ -3097,7 +3065,6 @@
 ||dub-1-apex.go.sonobi.com^
 ||ducolomal.com^
 ||dummy.applog.bolt.eu^
-||dunandbradstreet.com^
 ||duplicatefilesfixer.com^
 ||duplicatephotofixer.com^
 ||dwin1.com^
@@ -3354,7 +3321,6 @@
 ||ewtracking.elsevier.com^
 ||ex-adreq-asia.vivoglobal.com^
 ||ex-adreq-in.vivoglobal.com^
-||exactdata.com^
 ||exads.crakrevenue.com^
 ||exapi-apac.rubiconproject.com^
 ||exapi-eu.rubiconproject.com^
@@ -3397,7 +3363,6 @@
 ||extranet.eu-east-1.miui-l7-feedback.c7qiwffdmn.elb.xiaomi.com^
 ||extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com^
 ||extrecey.com^
-||eyeota.com^
 ||eyeota.net^
 ||ezstat.ru^
 ||f.clarity.ms^
@@ -3408,7 +3373,6 @@
 ||facebookads.com^
 ||facemap.foldlife.net^
 ||faces3cdn.goforandroid.com^
-||factual.com^
 ||faf.fedoraproject.org^
 ||fainbory.com^
 ||fairbid.fyber.com^
@@ -3482,7 +3446,6 @@
 ||files.crazyegg.com^
 ||filesigcheck.com^
 ||fileviewpro.com^
-||finance.dnb.com^
 ||find.passion.com^
 ||fionread-ta-g7g.amazon.com^
 ||firebase-settings.crashlytics.com^
@@ -3948,9 +3911,7 @@
 ||info.advertising.roku.com^
 ||info.lgsmartad.com^
 ||infoevent.startappservice.com^
-||infogroup.com^
 ||infopade.com^
-||infutor.com^
 ||ingest-lr.com^
 ||ingest.fullstory.com^
 ||ingest.logrocket.io^
@@ -3991,7 +3952,6 @@
 ||integrations.remerge.io^
 ||integrations.smartlook.com^
 ||intelligence.conviva.com^
-||intelligence.towerdata.com^
 ||interact.taboola.com^
 ||interactive.adikteev.com^
 ||interactive.remerge.io^
@@ -4121,7 +4081,6 @@
 ||labs-cdn.revcontent.com^
 ||labs.revcontent.com^
 ||lagrange.logs.roku.com^
-||lakegroupmedia.com^
 ||lapsing-users.adikteev.com^
 ||larati.net^
 ||laslucaads-util.scientificgames.com^
@@ -4170,7 +4129,6 @@
 ||linksfly.link^
 ||linksfly.me^
 ||linkshare.com^
-||listgiant.com^
 ||litix.mux.com^
 ||littlefield.logs.roku.com^
 ||live-metrics.paramountplus.com^
@@ -4494,7 +4452,6 @@
 ||looker.ourritual.com^
 ||looker.zipcar.com^
 ||lopoteam.com^
-||lotame.com^
 ||lotame.io^
 ||lp.adskeeper.com^
 ||lp.mgid.com^
@@ -4980,7 +4937,6 @@
 ||mobilelogs.supersonic.com^
 ||mobilereporting.ext.nokia.com^
 ||mobilewalla.com^
-||mobility.safegraph.com^
 ||mobvista.com^
 ||mobwsa.ximalaya.com^
 ||moloco.com^
@@ -5153,7 +5109,6 @@
 ||na-data.kameleoon.io^
 ||na-eb2.3lift.com^
 ||na1.fullstory.com^
-||name2domain.clearbit.com^
 ||nano.adultfriendfinder.com^
 ||native.feedback.miui.com^
 ||native.sharethrough.com^
@@ -5165,15 +5120,12 @@
 ||navdmp.com^
 ||navegg.com^
 ||navegg.com.br^
-||near.co^
-||near.com^
 ||nebula-collector.huawei.cn^
 ||nebula-collector.huawei.com^
 ||nemo.logs.roku.com^
 ||neswery.com^
 ||net.rayjump.com^
 ||netaffiliation.com^
-||netfactor.com^
 ||netstorage.taboola.com^
 ||network.w4.com^
 ||new-sentry.gitlab.net^
@@ -5192,9 +5144,7 @@
 ||ngfts.lge.com^
 ||nginx.34.sec.miui.com^
 ||niad.analytics.elsevier.com^
-||nielsen.com^
 ||nimbleinity.com^
-||nmc.nielsen.com^
 ||nmetrics.samsung.com^
 ||nmetrics.samsungmobile.com^
 ||nmtracking.netflix.com^
@@ -5449,12 +5399,9 @@
 ||perion-one-i.undertone.com^
 ||perion.com^
 ||permutive.app^
-||permutive.com^
 ||perr.h-cdn.com^
 ||perr.l-agent.me^
 ||perr.l-err.biz^
-||person-stream.clearbit.com^
-||person.clearbit.com^
 ||personalize.zetaglobal.com^
 ||personalized.adikteev.com^
 ||pf.fluct.jp^
@@ -5563,7 +5510,6 @@
 ||plista125.plista.com^
 ||plista573.plista.com^
 ||plista87.plista.com^
-||plus.dnb.com^
 ||pluto.tv.sc.omtrdc.net^
 ||pmc-reporting.criteo.net^
 ||pnrt-stsdk.vivoglobal.com^
@@ -5637,7 +5583,6 @@
 ||prodregistryv2.org^
 ||production.ads.cj.com^
 ||profiling.sentry.io^
-||prospector.clearbit.com^
 ||protected.media^
 ||prov-lg.alphonso.tv^
 ||proxyjs.brdtnet.com^
@@ -5730,7 +5675,6 @@
 ||rapidfirepublishpxy.ue1az.gotinder.com^
 ||rapidteria.com^
 ||rapidtory.com^
-||rapleaf.com^
 ||raps.ravm.tv^
 ||rate.outbrain.com^
 ||ravm-staging.data.roku.com^
@@ -5773,7 +5717,6 @@
 ||redirect.ligatus.com^
 ||redirect.pandora.xiaomi.com^
 ||reengagement.remerge.io^
-||referenceusa.com^
 ||regcleanpro.com^
 ||regcure.com^
 ||regecish.net^
@@ -5820,7 +5763,6 @@
 ||research-metrics.corp.playgroundai.com^
 ||resolve.fullcontact.com^
 ||resolve.zetaglobal.com^
-||resources.lotame.com^
 ||resources.taboola.com^
 ||resourceviewtracking.faithlife.com^
 ||rest-api.adikteev.com^
@@ -5832,7 +5774,6 @@
 ||retention.adikteev.com^
 ||retrace.fedoraproject.org^
 ||revcontent.com^
-||reveal.clearbit.com^
 ||revenue.adikteev.com^
 ||revenue.remerge.io^
 ||revenuedesk.fyber.com^
@@ -5850,8 +5791,6 @@
 ||rightmedia.criteo.com^
 ||ringcentral.112.2o7.net^
 ||risecodes.com^
-||risk.clearbit.com^
-||risk.dnb.com^
 ||rkhbxm26.topazlabs.com^
 ||rmmetrics.mcafee.com^
 ||rmp-api.moloco.com^
@@ -6091,9 +6030,6 @@
 ||saa.cbsi.com^
 ||saa.paramountplus.com^
 ||safedk.com^
-||safegraph.com^
-||safegraph.io^
-||salesgenie.com^
 ||samba.tv^
 ||samples.voice.cti.roku.com^
 ||samstats.msi.com^
@@ -6293,7 +6229,6 @@
 ||security.adikteev.com^
 ||security.remerge.io^
 ||securityreviver.com^
-||sedt.infutor.com^
 ||seedtag.com^
 ||segment-api.rarible.com^
 ||segment-cdn.rarible.com^
@@ -6767,7 +6702,6 @@
 ||storetail.io^
 ||stratoplot.com^
 ||stream.adikteev.com^
-||stream.clearbit.com^
 ||stream.remerge.io^
 ||stream.zetaglobal.com^
 ||streaming.conviva.com^
@@ -6909,7 +6843,6 @@
 ||tag.zoominfo.com^
 ||tagcommander.com^
 ||tags.bkrtx.com^
-||tags.bluekai.com^
 ||tags.brightroll.com^
 ||tags.crwdcntrl.net^
 ||tags.mindbodyonline.com^
@@ -7250,7 +7183,6 @@
 ||totalcleaner.com^
 ||totalpccare.com^
 ||touchpointanalytics.hp.com^
-||towerdata.com^
 ||tpc.googlesyndication.com^
 ||tpmr.com^
 ||tqlkg.com^
@@ -7683,11 +7615,7 @@
 ||trk1.vivino.com^
 ||trk2.vivino.com^
 ||trk3.vivino.com^
-||truaudience.com^
-||truaudience.transunion.com^
-||truaudience.tru-signal.com^
 ||truoptik.com^
-||trusignal.com^
 ||ts.amazon-adsystem.com^
 ||ts.crwdcntrl.net^
 ||ts04358.picpay.com^
@@ -7738,7 +7666,6 @@
 ||uapi-ads.realmemobile.com^
 ||uba.huaweicloud.com^
 ||ubacollect-drcn.cloud.dbankcloud.cn^
-||ubimo.com^
 ||ubuntu-report.canonical.com^
 ||udp.adobe.io^
 ||ug-sg.byteoversea.com^
@@ -8067,7 +7994,6 @@
 ||widgetmonitor.outbrain.com^
 ||widgets.adskeeper.com^
 ||widgets.insticator.com^
-||widgets.lotame.com^
 ||widgets.outbrain.com^
 ||widgets.revcontent.com^
 ||widgets.sprinklecontent.com^
@@ -8324,7 +8250,6 @@
 ||zeus.ad.xiaomi.com^
 ||zeydoo.com^
 ||zi.ma^
-||ziffmedia.com^
 ||zip.net^
 ||ziplog.marleyspoon.com^
 ||zipy.ai^
