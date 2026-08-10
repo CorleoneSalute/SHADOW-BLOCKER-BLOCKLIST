@@ -188,6 +188,66 @@ def check_all():
 
 if __name__ == "__main__":
     check_all()
+                print(f"  ...{checked}/{len(to_check)} checked")
+            try:
+                ok = future.result()
+            except Exception:
+                ok = False
+            if not ok:
+                dead.append((category, domain))
+
+    dead.sort()
+    wildcard_flagged.sort()
+
+    REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    lines = [
+        "# Dead Domain Report",
+        "",
+        f"Generated: {now}",
+        f"Checked: {len(entries)} domains across "
+        f"{len(set(c for c, _ in entries))} categories",
+        f"Not resolving after {RETRIES} attempts: {len(dead)}",
+        f"Skipped (wildcard DNS on base domain, unverifiable): {len(wildcard_flagged)}",
+        "",
+        "This report does NOT auto-remove anything. Review each entry",
+        "manually before deleting it from lists/categories/ - a domain",
+        "can temporarily fail to resolve for reasons unrelated to being",
+        "dead (geo-blocking, resolver issues, maintenance windows).",
+        "",
+        "## Not resolving",
+        "",
+        "| Category | Domain |",
+        "|---|---|",
+    ]
+    for category, domain in dead:
+        lines.append(f"| {category} | {domain} |")
+
+    lines += [
+        "",
+        "## Wildcard DNS - could not be individually verified",
+        "",
+        "These domains belong to a base domain that resolves for ANY",
+        "random subdomain, so DNS resolution can't confirm whether the",
+        "specific subdomain is real or was ever real. Review manually",
+        "(e.g. check whether the domain appears in browser network logs",
+        "for the platform, or in the original research source).",
+        "",
+        "| Category | Domain | Base domain |",
+        "|---|---|---|",
+    ]
+    for category, domain in wildcard_flagged:
+        lines.append(f"| {category} | {domain} | {base_domain(domain)} |")
+
+    REPORT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+    print(f"\n{len(dead)} domain(s) did not resolve.")
+    print(f"{len(wildcard_flagged)} domain(s) flagged as wildcard-unverifiable.")
+    print(f"See {REPORT_PATH.relative_to(ROOT)}")
+
+
+if __name__ == "__main__":
+    check_all()
             except Exception:
                 pass
 
