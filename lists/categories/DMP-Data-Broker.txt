@@ -32,9 +32,8 @@ eccmp.com !
 ats.eccmp.com
 
 # ORACLE DATA CLOUD (BlueKai DMP)
-bluekai.com
 bkrtx.com
-tags.bluekai.com
+tags.bluekai.com !
 tags.bkrtx.com
 oracleinfinity.io
 data.oracleinfinity.io
@@ -43,11 +42,9 @@ api.datalogix.com
 pixel.datalogix.com
 
 # LOTAME
-lotame.com
+lotame.com !
 lotame.io
-api.lotame.com
-bcp.lotame.com
-crwdcntrl.net
+crwdcntrl.net 
 tags.crwdcntrl.net
 bcp.crwdcntrl.net
 sync.crwdcntrl.net
@@ -58,9 +55,6 @@ td.crwdcntrl.net
 td2.crwdcntrl.net
 meez.crwdcntrl.net
 multiply.crwdcntrl.net
-crowdcontrol.lotame.com
-widgets.lotame.com
-resources.lotame.com
 ltmsphrcl.net
 c.ltmsphrcl.net
 bcp.st.crwdcntrl.net
@@ -69,7 +63,7 @@ ts.crwdcntrl.net
 
 # EYEOTA
 eyeota.net
-eyeota.com
+eyeota.com !
 ps.eyeota.net
 api.eyeota.net
 match.eyeota.net
@@ -77,13 +71,7 @@ sync.eyeota.net
 
 # TRANSUNION (TruAudience + Neustar)
 truoptik.com
-api.transunion.com
-connect.transunion.com
 signal.truoptik.com
-trusignal.com
-truaudience.com
-truaudience.transunion.com
-truaudience.tru-signal.com
 
 # WILAND
 wiland.com
@@ -105,7 +93,7 @@ bombora.com
 api.bombora.com
 surge.bombora.com
 tag.bombora.com
-netfactor.com
+netfactor.com !
 
 # ZOOMINFO
 zoominfo.com
@@ -119,19 +107,7 @@ formcomplete.zoominfo.com
 clickagy.com
 
 # CLEARBIT (HubSpot Breeze Intelligence)
-clearbit.com
-api.clearbit.com
-reveal.clearbit.com
-prospector.clearbit.com
-connect.clearbit.com
-person.clearbit.com
-company.clearbit.com
-risk.clearbit.com
-discovery.clearbit.com
-name2domain.clearbit.com
-person-stream.clearbit.com
-stream.clearbit.com
-d2ojpxxtu63wzl.cloudfront.net
+risk.clearbit.com !
 
 # FULLCONTACT (Ziff Davis)
 fullcontact.com
@@ -141,21 +117,14 @@ img.fullcontact.com
 tag.fullcontact.com
 cr.fullcontact.com
 streme.fullcontact.com
-ziffmedia.com
 
 # TOWERDATA / ATDATA
-towerdata.com
-rapleaf.com
-api.towerdata.com
-intelligence.towerdata.com
-atdata.com
-api.atdata.com
+towerdata.com !
+rapleaf.com !
+atdata.com !
 
 # INFUTOR
-infutor.com
-api.infutor.com
-data.infutor.com
-sedt.infutor.com
+infutor.com !
 
 # STIRISTA
 stirista.com
@@ -171,42 +140,20 @@ analytics-iq.com
 api.analytics-iq.com
 
 # PERMUTIVE (DMP)
-permutive.com
+permutive.com !
 permutive.app
-api.permutive.com
 api.permutive.app
 cdn.permutive.app
 amp.permutive.app
 edge.permutive.app
 
-# DUN & BRADSTREET
-dnb.com
-direct.dnb.com
-plus.dnb.com
-api.dnb.com
-developer.dnb.com
-finance.dnb.com
-risk.dnb.com
-dunandbradstreet.com
-bisnode.com
-avention.com
-
 # NIELSEN MARKETING CLOUD / EXELATE
 exelate.com
 exelate.info
-nmc.nielsen.com
-nielsen.com
 mrpdata.net
 
 # DATA AXLE (Infogroup)
 data-axle.com
-infogroup.com
-exactdata.com
-donorbase.com
-lakegroupmedia.com
-referenceusa.com
-salesgenie.com
-listgiant.com
 adstradata.com
 
 # NAVEGG (LATAM DMP)
@@ -242,22 +189,15 @@ vht.navdmp.com
 # THROTLE (Identity resolution)
 throtle.io
 
-# CORELOGIC → COTALITY
-corelogic.com
-cotality.com
-dataquick.com
-
 
 🟠 MOBILE DATA BROKERS (Location Tracking)
 
 # FACTUAL / FOURSQUARE
-factual.com
+factual.com !
 
 # SAFEGRAPH
-safegraph.com
-safegraph.io
-api.safegraph.com
-mobility.safegraph.com
+safegraph.com !
+safegraph.io !
 
 # CUEBIQ
 cuebiq.com
@@ -277,15 +217,11 @@ exchange.adsquare.com
 rtb.adsquare.com
 match.adsquare.com
 
-# PLACED (Foursquare-owned)
-placed.com
-
 # UBIMO → VERICAST
-ubimo.com
-api.ubimo.com
+ubimo.com !
 
 # VERVE GROUP
-verve.com
+verve.com !
 vervemobile.com
 vrvm.com
 api.verve.com
@@ -295,7 +231,7 @@ analytics-api.vervemobile.com
 smaato.com
 smaato.net
 pubnative.net
-dataseat.com
+dataseat.com !
 captify.co
 captify.co.uk
 jungroup.com
@@ -309,12 +245,6 @@ venntel.com
 
 # OUTLOGIC (Legacy X-Mode — FTC April 2024 restricted)
 outlogic.io
-
-# NEAR → AZIRA (Chapter 11 — Continues as Azira)
-near.co
-near.com
-api.near.co
-azira.com
 
 # INMARKET (FTC January 2024 restricted)
 inmarket.com
