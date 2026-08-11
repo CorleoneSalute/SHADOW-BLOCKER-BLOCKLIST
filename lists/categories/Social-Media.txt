@@ -867,6 +867,14 @@ sdkapp.uve.weibo.com
 tracker.sina.com.cn
 ```
 
+# MySpace
+
+advertise.myspace.com
+1.upload.advertise.myspace.com
+adserver-backend.myspace.com
+adserver-banners.myspace.com
+adserver-scripts.myspace.com
+
 ### BLUESKY (2 domain)
 
 ```
