@@ -1,10 +1,11 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 710
-# Generated: 2026-08-10 (UTC) - auto-generated, do not edit by hand
+# Total domains: 715
+# Generated: 2026-08-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+||1.upload.advertise.myspace.com^
 ||abtest-ch.snssdk.com^
 ||abtest-sg-tiktok.byteoversea.com^
 ||abtest-va-tiktok.byteoversea.com^
@@ -67,11 +68,15 @@
 ||adsapimus.snapchat.com^
 ||adsapisam.snapchat.com^
 ||adserv.reddit.com^
+||adserver-backend.myspace.com^
+||adserver-banners.myspace.com^
+||adserver-scripts.myspace.com^
 ||adserver.reddit.com^
 ||adserver2.reddit.com^
 ||adsrv.reddit.com^
 ||adsvideo.biz.weibo.com^
 ||adsymptotic.com^
+||advertise.myspace.com^
 ||advertising.twitter.com^
 ||adx.rtb.linkedin.com^
 ||affiliate.tiktok.com^

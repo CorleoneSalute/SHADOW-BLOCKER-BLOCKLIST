@@ -1,10 +1,11 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 736
-# Generated: 2026-08-10 (UTC) - auto-generated, do not edit by hand
+# Total domains: 741
+# Generated: 2026-08-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+0.0.0.0 1.upload.advertise.myspace.com
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 abtest-sg-tiktok.byteoversea.com
 0.0.0.0 abtest-va-tiktok.byteoversea.com
@@ -67,11 +68,15 @@
 0.0.0.0 adsapimus.snapchat.com
 0.0.0.0 adsapisam.snapchat.com
 0.0.0.0 adserv.reddit.com
+0.0.0.0 adserver-backend.myspace.com
+0.0.0.0 adserver-banners.myspace.com
+0.0.0.0 adserver-scripts.myspace.com
 0.0.0.0 adserver.reddit.com
 0.0.0.0 adserver2.reddit.com
 0.0.0.0 adsrv.reddit.com
 0.0.0.0 adsvideo.biz.weibo.com
 0.0.0.0 adsymptotic.com
+0.0.0.0 advertise.myspace.com
 0.0.0.0 advertising.twitter.com
 0.0.0.0 adx.rtb.linkedin.com
 0.0.0.0 affiliate.tiktok.com

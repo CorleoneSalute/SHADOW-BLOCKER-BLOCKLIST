@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8260
-# Generated: 2026-08-10 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8265
+# Generated: 2026-08-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -12,6 +12,7 @@
 01.sa.telemetry.zoom.us
 02.sa.telemetry.zoom.us
 0i.sh-cdn.com
+1.upload.advertise.myspace.com
 15.taboola.com
 1fhc-event.fhcasino.com
 1fhc-event2.fhcasino.com
@@ -520,6 +521,9 @@ adsconfig.life360.com
 adseaimg.apusapps.com
 adserv.reddit.com
 adserve.dianomi.com
+adserver-backend.myspace.com
+adserver-banners.myspace.com
+adserver-scripts.myspace.com
 adserver.adikteev.com
 adserver.connatix.com
 adserver.jwplayer.com
@@ -572,6 +576,7 @@ advancedmactools.live
 advancedpccleanup.com
 advancedsystemoptimizer.com
 advancemactools.live
+advertise.myspace.com
 advertise.quantcast.com
 advertise.swagbucks.com
 advertiser-api.revcontent.com

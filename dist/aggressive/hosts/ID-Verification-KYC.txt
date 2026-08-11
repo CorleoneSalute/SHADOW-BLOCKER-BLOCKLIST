@@ -1,7 +1,7 @@
 # ============================================================
 # ID VERIFICATION KYC BLOCKLIST - AGGRESSIVE
 # Total domains: 61
-# Generated: 2026-08-10 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-08-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
