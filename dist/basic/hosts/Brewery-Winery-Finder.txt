@@ -1,7 +1,7 @@
 # ============================================================
 # BREWERY WINERY FINDER BLOCKLIST - BASIC
 # Total domains: 23
-# Generated: 2026-08-11 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-08-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 

@@ -1,7 +1,7 @@
 # ============================================================
 # DIGITAL WALLET PAYMENT PROCESSOR BLOCKLIST - BASIC
 # Total domains: 42
-# Generated: 2026-08-11 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-08-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
