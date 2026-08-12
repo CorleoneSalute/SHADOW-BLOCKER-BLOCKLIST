@@ -651,6 +651,33 @@ AI CHATBOTS & LLM RESEARCH LIST
 
 ---
 
+Lovable.dev
+
+accounts.creators.lovable.dev	
+ai.gateway.lovable.dev
+api.ctf.lovable.dev	
+api.lovable.dev	
+assets.lovable.dev	
+auth.lovable.dev	
+build.lovable.dev	
+chestmate.lovable.dev	
+clerk.creators.lovable.dev	
+cloudflare-proxy.lovable.dev	
+collector.lovable.dev	
+connector-gateway.lovable.dev	
+creators.lovable.dev	
+docs.lovable.dev	
+enterprise.lovable.dev	
+friends.lovable.dev	
+gateway.lovable.dev	
+launched.lovable.dev	
+lovable-app-gargi-2830.beta.lovable.dev	
+lovable-app-vercel-github-service-user-8338.beta.lovable.dev	
+lovable-app.beta.lovable.dev	
+mcp.lovable.dev	
+oauth.lovable.dev
+virtualevents.bylovable.dev
+
 ## 🟡 TIER 2: MEDIUM RISK — MAJOR LLM PLATFORMS
 
 ### 🤖 CHATGPT (OpenAI)
