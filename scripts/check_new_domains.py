@@ -46,6 +46,8 @@ SOURCES = [
      "path": "Lite/domains.txt", "format": "plain"},
     {"name": "no-google", "owner": "nickspaargaren", "repo": "no-google",
      "path": "categories/domains.txt", "format": "hosts"},
+    {"name": "a-dove-is-dumb (Adobe)", "owner": "ignaciocastro", "repo": "a-dove-is-dumb",
+     "path": "list.txt", "format": "hosts"},
 ]
 
 
