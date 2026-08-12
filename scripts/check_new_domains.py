@@ -38,8 +38,6 @@ SOURCES = [
      "path": "Filters/filter.txt", "format": "adblock"},
     {"name": "StevenBlack/hosts", "owner": "StevenBlack", "repo": "hosts",
      "path": "hosts", "format": "hosts"},
-    {"name": "EasyList (ads)", "owner": "easylist", "repo": "easylist",
-     "path": "easylist/easylist_adservers.txt", "format": "adblock"},
     {"name": "EasyPrivacy", "owner": "easylist", "repo": "easylist",
      "path": "easyprivacy/easyprivacy_general.txt", "format": "adblock"},
     {"name": "anti-AD", "owner": "privacy-protection-tools", "repo": "anti-AD",
