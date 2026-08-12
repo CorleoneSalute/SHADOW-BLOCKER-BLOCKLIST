@@ -62,3 +62,7 @@ bard-telemetry.google.com
 # Romantic AI — 3. Parti Tracker
 track.romanticai.com
 zemomedia.com
+
+# Lovable.dev
+
+collector.lovable.dev
