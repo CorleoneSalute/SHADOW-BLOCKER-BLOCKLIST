@@ -1,6 +1,6 @@
 # New Domain Suggestions
 
-Generated: 2026-08-12 19:34 UTC
+Generated: 2026-08-13 07:27 UTC
 
 Domains added to the sources below in the last 24 hours that
 are NOT currently in this project's lists/categories/. This is
@@ -12,7 +12,11 @@ being added to a category file.
 
 No new candidate domains in the last 24 hours.
 
-## StevenBlack
+## StevenBlack/hosts
+
+No new candidate domains in the last 24 hours.
+
+## EasyPrivacy
 
 No new candidate domains in the last 24 hours.
 
@@ -27,3 +31,10 @@ No new candidate domains in the last 24 hours.
 ## no-google
 
 No new candidate domains in the last 24 hours.
+
+## a-dove-is-dumb (Adobe)
+
+| Domain | Seen in commit |
+|---|---|
+| hw7w59pe.ok0r5.adobestats.io | [link](https://github.com/ignaciocastro/a-dove-is-dumb/commit/b4148f51d50cfc138b4cf617b27b49430b8f991d) |
+
