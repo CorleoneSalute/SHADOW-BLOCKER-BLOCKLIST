@@ -1,0 +1,1805 @@
+FILE HOSTING RESEARCH LIST
+
+Image Hosting Research List
+
+imgur.com
+
+imgur.com · i.imgur.com · api.imgur.com · apidocs.imgur.com · m.imgur.com · s.imgur.com · imgur.io · help.imgur.com · status.imgur.com
+
+imgbox.com
+images.imgbox.com · images2.imgbox.com · 0-9.s.imgbox.com (image shard CDN) · 0-9.t.imgbox.com (thumbnail shard CDN) · 1.ws.imgbox.com · 2.ws.imgbox.com
+
+imgbb.com
+
+imgbb.com · api.imgbb.com · i.ibb.co · ibb.co
+
+postimages.org
+
+postimages.org · postimg.cc · postimg.org · i.postimg.cc · api.postimages.org · www.postimages.org
+
+imgpile.com
+
+imgpile.com · cdn.imgpile.com · imgur.imgpile.com · search.imgpile.com · www.imgpile.com
+
+imgchest.com
+
+imgchest.com · api.imgchest.com · cdn.imgchest.com · coolify.imgchest.com · dashboard.imgchest.com · dev.cdn.imgchest.com · grafana.imgchest.com · mail.imgchest.com · rust.imgchest.com · shop.imgchest.com · status.imgchest.com · webmail.imgchest.com · www.imgchest.com
+
+pixhost.to
+
+pixhost.to · api.pixhost.to · www.pixhost.to · img1.pixhost.to · img2.pixhost.to · img3.pixhost.to · img4.pixhost.to · img5.pixhost.to · img6.pixhost.to · img7.pixhost.to · img8.pixhost.to · img9.pixhost.to · img10.pixhost.to · img11.pixhost.to · img12.pixhost.to · img13.pixhost.to · img14.pixhost.to · img15.pixhost.to · img16.pixhost.to · img17.pixhost.to · img18.pixhost.to · img19.pixhost.to · img20.pixhost.to · img21.pixhost.to · img22.pixhost.to · img23.pixhost.to · img24.pixhost.to · img25.pixhost.to · img26.pixhost.to · img27.pixhost.to · img28.pixhost.to · img29.pixhost.to · img30.pixhost.to · img31.pixhost.to · img32.pixhost.to · img33.pixhost.to · img34.pixhost.to · img35.pixhost.to · img36.pixhost.to · img37.pixhost.to · img38.pixhost.to · img39.pixhost.to · img40.pixhost.to · img41.pixhost.to · img42.pixhost.to · img43.pixhost.to · img44.pixhost.to · img45.pixhost.to · img46.pixhost.to · img47.pixhost.to · img48.pixhost.to · img49.pixhost.to · img50.pixhost.to · img51.pixhost.to · img52.pixhost.to · img53.pixhost.to · img54.pixhost.to · img55.pixhost.to · img56.pixhost.to · img57.pixhost.to · img58.pixhost.to · img59.pixhost.to · img60.pixhost.to · img61.pixhost.to · img62.pixhost.to · img63.pixhost.to · img64.pixhost.to · img65.pixhost.to · img66.pixhost.to · img67.pixhost.to · img68.pixhost.to · img69.pixhost.to · img70.pixhost.to · img71.pixhost.to · img72.pixhost.to · img73.pixhost.to · img74.pixhost.to · img75.pixhost.to · img76.pixhost.to · img77.pixhost.to · img78.pixhost.to · img79.pixhost.to · img80.pixhost.to · t1.pixhost.to · t2.pixhost.to · t3.pixhost.to · t4.pixhost.to · t5.pixhost.to · t6.pixhost.to · t7.pixhost.to · t8.pixhost.to · t9.pixhost.to · t10.pixhost.to · t11.pixhost.to · t12.pixhost.to · t13.pixhost.to · t14.pixhost.to · t15.pixhost.to · t16.pixhost.to · t17.pixhost.to · t18.pixhost.to · t19.pixhost.to · t20.pixhost.to · t21.pixhost.to · t22.pixhost.to · t23.pixhost.to · t24.pixhost.to · t25.pixhost.to · t26.pixhost.to · t27.pixhost.to · t28.pixhost.to · t29.pixhost.to · t30.pixhost.to · t31.pixhost.to · t32.pixhost.to · t33.pixhost.to · t34.pixhost.to · t35.pixhost.to · t36.pixhost.to · t37.pixhost.to · t38.pixhost.to · t39.pixhost.to · t40.pixhost.to · t41.pixhost.to · t42.pixhost.to · t43.pixhost.to · t44.pixhost.to · t45.pixhost.to · t46.pixhost.to · t47.pixhost.to · t48.pixhost.to · t49.pixhost.to · t50.pixhost.to · t51.pixhost.to · t52.pixhost.to · t53.pixhost.to · t54.pixhost.to · t55.pixhost.to · t56.pixhost.to · t57.pixhost.to · t58.pixhost.to · t59.pixhost.to · t60.pixhost.to · t61.pixhost.to · t62.pixhost.to · t63.pixhost.to · t64.pixhost.to · t65.pixhost.to · t66.pixhost.to · t67.pixhost.to · t68.pixhost.to · t69.pixhost.to · t70.pixhost.to · t71.pixhost.to · t72.pixhost.to · t73.pixhost.to · t74.pixhost.to · t75.pixhost.to · t76.pixhost.to · t77.pixhost.to · t78.pixhost.to · t79.pixhost.to · t80.pixhost.to
+
+pixhost.icu
+
+pixhost.icu
+
+imagevenue.com
+
+imagevenue.com · ads.imagevenue.com · cdn-images.imagevenue.com · cdn-thumbs.imagevenue.com · cdno-data.imagevenue.com · img13.imagevenue.com · img37.imagevenue.com · img101.imagevenue.com · img144.imagevenue.com · img145.imagevenue.com · img187.imagevenue.com
+
+turboimagehost.com
+
+turboimagehost.com · www.turboimagehost.com · i.turboimagehost.com · i2.turboimagehost.com · cpanel.turboimagehost.com · mail.turboimagehost.com · webdisk.turboimagehost.com · webmail.turboimagehost.com · x3.turboimagehost.com · s1d1.turboimagehost.com · s1d2.turboimagehost.com · s1d3.turboimagehost.com · s1d4.turboimagehost.com · s1d5.turboimagehost.com · s1d6.turboimagehost.com · s2d1.turboimagehost.com · s2d2.turboimagehost.com · s2d3.turboimagehost.com · s2d4.turboimagehost.com · s3d1.turboimagehost.com · s3d2.turboimagehost.com · s3d3.turboimagehost.com · s3d4.turboimagehost.com · s4d1.turboimagehost.com · s4d2.turboimagehost.com · s4d3.turboimagehost.com · s4d4.turboimagehost.com · s5d1.turboimagehost.com · s5d2.turboimagehost.com · s5d3.turboimagehost.com · s5d4.turboimagehost.com · s6d1.turboimagehost.com · s6d2.turboimagehost.com · s6d3.turboimagehost.com · s6d4.turboimagehost.com · s6d5.turboimagehost.com · s6d6.turboimagehost.com · s6d7.turboimagehost.com · s6d8.turboimagehost.com · s7d1.turboimagehost.com · s7d2.turboimagehost.com · s7d3.turboimagehost.com · s7d4.turboimagehost.com · s7d5.turboimagehost.com · s7d6.turboimagehost.com · s7d7.turboimagehost.com · s7d8.turboimagehost.com · s8d1.turboimagehost.com · s8d2.turboimagehost.com · s8d3.turboimagehost.com · s8d4.turboimagehost.com · s8d5.turboimagehost.com · s8d6.turboimagehost.com · s8d7.turboimagehost.com · s8d8.turboimagehost.com · s8d9.turboimagehost.com
+
+imagetwist.com
+
+imagetwist.com · www.imagetwist.com · cams.imagetwist.com · dev.imagetwist.com · live.imagetwist.com · phun.imagetwist.com · srv.imagetwist.com · stage1.imagetwist.com
+
+imagebam.com
+
+imagebam.com · www.imagebam.com · images.imagebam.com
+
+pimpandhost.com
+
+pimpandhost.com · www.pimpandhost.com · img.pimpandhost.com · 3-3.pimpandhost.com · album.pimpandhost.com · dev.pimpandhost.com · dev3.pimpandhost.com · forum.pimpandhost.com · vitesstest.pimpandhost.com
+
+acidimg.cc
+
+acidimg.cc
+
+pixl.is
+
+pixl.is · i.pixl.is · i2.pixl.is · i3.pixl.is · i9.pixl.is
+
+fastpic.org
+
+fastpic.org · fastpic.ru · new.fastpic.org · i297.fastpic.org · i299.fastpic.org
+
+imageshack.com
+
+imageshack.com · imageshack.us · imagizer.imageshack.com · api.imageshack.com · block.imageshack.com · signup.imageshack.com · support.imageshack.com · token.imageshack.com · welcome.imageshack.com · blog.imageshack.com · yfrog.com
+
+freeimagehosting.net
+
+freeimagehosting.net · www.freeimagehosting.net
+
+pasteboard.co
+
+pasteboard.co · cdn.pasteboard.co · dev.pasteboard.co · www.pasteboard.co
+
+cubeupload.com
+
+cubeupload.com · i.cubeupload.com · img.cubeupload.com · u.cubeupload.com · www.cubeupload.com · db-test-fsn1-01.cubeupload.com
+
+vgy.me
+
+vgy.me · i.vgy.me · s.vgy.me · www.vgy.me
+
+gifyu.com
+
+gifyu.com · www.gifyu.com · r.gifyu.com · s0.gifyu.com · s1.gifyu.com · s2.gifyu.com · s3.gifyu.com · s4.gifyu.com · s5.gifyu.com · s6.gifyu.com · s7.gifyu.com · s8.gifyu.com · s9.gifyu.com · s10.gifyu.com · s11.gifyu.com · s12.gifyu.com · s13.gifyu.com · s14.gifyu.com
+
+freeimage.host
+
+freeimage.host · www.freeimage.host
+
+imgspice.com
+
+imgspice.com · www.imgspice.com · api.imgspice.com · app.imgspice.com · blog.imgspice.com · cdn.imgspice.com · dev.imgspice.com · dev3.imgspice.com · development.imgspice.com · img.imgspice.com · img1.imgspice.com · img2.imgspice.com · img3.imgspice.com · img4.imgspice.com · img8.imgspice.com · img10.imgspice.com · img11.imgspice.com · img20.imgspice.com · img21.imgspice.com · img22.imgspice.com · img23.imgspice.com · img24.imgspice.com · img30.imgspice.com · img51.imgspice.com · img52.imgspice.com · img70.imgspice.com · img80.imgspice.com · m.imgspice.com · mail.imgspice.com · old.imgspice.com · origin.imgspice.com · pay.imgspice.com · secure.imgspice.com · server.imgspice.com · shop.imgspice.com · stage.imgspice.com · staging.imgspice.com · store.imgspice.com · test.imgspice.com · web.imgspice.com · web2.imgspice.com · web3.imgspice.com
+
+imguh.com
+
+imguh.com · www.imguh.com · img.imguh.com · img0.imguh.com · img2.imguh.com · admin.imguh.com · app.imguh.com · auth.imguh.com · dashboard.imguh.com · mail.imguh.com · n.imguh.com · panel.imguh.com · staging.imguh.com · t.imguh.com · test.imguh.com · webdisk.imguh.com · webmail.imguh.com
+
+picallow.com
+
+picallow.com · www.picallow.com
+
+photouploads.com
+
+photouploads.com · www.photouploads.com · mail.photouploads.com
+
+hostpic.org
+
+hostpic.org · www.hostpic.org
+
+yourimageshare.com
+
+yourimageshare.com · www.yourimageshare.com · i.yourimageshare.com · api.yourimageshare.com · api-v1.yourimageshare.com · tti.yourimageshare.com · video.yourimageshare.com
+
+imghippo.com
+
+imghippo.com · www.imghippo.com · api.imghippo.com · i.imghippo.com
+
+pixady.com
+
+pixady.com · www.pixady.com · img.pixady.com · mail.pixady.com · cpanel.pixady.com · webdisk.pixady.com · webmail.pixady.com
+
+imagem.app
+
+imagem.app · www.imagem.app · a.imagem.app · i.imagem.app · baixar.imagem.app · status.imagem.app · test.imagem.app · tv.imagem.app
+
+lookimg.com
+
+lookimg.com · www.lookimg.com
+
+imagecoast.com
+
+imagecoast.com · blog.imagecoast.com
+
+imgdew.com
+
+imgdew.com · id01.imgdew.com
+
+fappic.com
+
+fappic.com · www.fappic.com · ads.fappic.com · img100.fappic.com · img101.fappic.com · img102.fappic.com · img103.fappic.com
+
+jerking.monster
+
+jerking.monster
+
+photobucket.com
+
+photobucket.com · www.photobucket.com · pbsrc.com · pic.pbsrc.com · static.pbsrc.com · img.photobucket.com · pic.photobucket.com · b.photobucket.com · cdn.photobucket.com · accounts.photobucket.com · admin-portal.photobucket.com · alerts.photobucket.com · alpha.photobucket.com · blog.photobucket.com · deals.photobucket.com · designed.photobucket.com · dev.photobucket.com · g00.photobucket.com · login.photobucket.com · lp.photobucket.com · mkt1.photobucket.com · mkt2.photobucket.com · mkt3.photobucket.com · ms.photobucket.com · my.photobucket.com · next.photobucket.com · notifications.photobucket.com · print.photobucket.com · prints.photobucket.com · prod.photobucket.com · red.photobucket.com · stage.photobucket.com · support.photobucket.com · verify.photobucket.com · your.photobucket.com · pbm.photobucket.com
+
+lensdump.com
+
+lensdump.com · www.lensdump.com · l3n.co · a.l3n.co · b.l3n.co · c.l3n.co · cdn.lensdump.com · cdntest.lensdump.com · i.lensdump.com · i1.lensdump.com · i2.lensdump.com · i3.lensdump.com · 53rv3.lensdump.com · calendar.lensdump.com · drive.lensdump.com · email.lensdump.com · mail.lensdump.com · newsletter.lensdump.com · random.lensdump.com · tmp.lensdump.com
+
+snipboard.io
+
+snipboard.io · i.snipboard.io · static.snipboard.io
+
+imgfly.me
+
+imgfly.me · www.imgfly.me · i.imgfly.me · autoconfig.imgfly.me · autodiscover.imgfly.me · mta-sts.imgfly.me
+
+imgfi.com
+
+imgfi.com · www.imgfi.com · s.imgfi.com · s1.imgfi.com · v.imgfi.com
+
+ptpimg.me
+
+ptpimg.me
+
+imgsli.com
+
+imgsli.com
+
+imgdepot.com
+
+imgdepot.com · www.imgdepot.com · s1.imgdepot.com · cpanel.imgdepot.com · mail.imgdepot.com · webdisk.imgdepot.com · webmail.imgdepot.com · cpanel.s1.imgdepot.com · mail.s1.imgdepot.com · webdisk.s1.imgdepot.com · webmail.s1.imgdepot.com · www.s1.imgdepot.com
+
+kek.gg
+
+kek.gg · www.kek.gg · i.kek.gg · u.kek.gg · api.kek.gg · archive.kek.gg · content.kek.gg · dev.kek.gg · m.kek.gg · helpdesk.kek.gg · shop.kek.gg · status.kek.gg · support.kek.gg · test.kek.gg · gowww.kek.gg · ww1.kek.gg · ww12.kek.gg · ww99.kek.gg · wildcard.kek.gg
+
+sm.ms
+
+sm.ms · www.sm.ms · s.ee · doc.sm.ms · email.mg.sm.ms · smms.app · www.smms.app
+
+im.ge
+
+im.ge · www.im.ge · i.im.ge · mail.im.ge
+
+abload.de
+
+abload.de · www.abload.de · ccm.abload.de · mail.abload.de · pve1.abload.de · pve2.abload.de · pve3.abload.de · pve4.abload.de
+
+imageban.ru
+
+imageban.ru · www.imageban.ru · api.imageban.ru · i2.imageban.ru
+
+imagecurl.com
+
+imagecurl.com · www.imagecurl.com · mail.imagecurl.com
+
+svgur.com
+
+svgur.com · www.svgur.com
+
+imagesharing.com
+
+imagesharing.com · www.imagesharing.com
+
+anonmgur.com
+
+anonmgur.com · www.anonmgur.com
+
+picturestack.com
+
+picturestack.com
+
+boring.host
+
+boring.host · www.boring.host · api.boring.host
+
+imgcubby.com
+
+imgcubby.com · www.imgcubby.com · cpanel.imgcubby.com · mail.imgcubby.com · webdisk.imgcubby.com · webmail.imgcubby.com
+
+img.onl
+
+img.onl · www.img.onl
+
+tinyimg.io
+
+tinyimg.io · www.tinyimg.io · app.tinyimg.io · cdn.tinyimg.io · signin.tinyimg.io · autoconfig.tinyimg.io · autodiscover.tinyimg.io · ww1.tinyimg.io
+
+imgup.cz
+
+imgup.cz · www.imgup.cz
+
+imge.us
+
+imge.us · www.imge.us
+
+8upload.com
+
+8upload.com · www.8upload.com · errors.8upload.com · mod.8upload.com
+
+putstuffonline.com
+
+putstuffonline.com · www.putstuffonline.com · i3.putstuffonline.com · i7.putstuffonline.com · s13.putstuffonline.com · s14.putstuffonline.com · media.putstuffonline.com · demo.putstuffonline.com · preview.putstuffonline.com · mail.putstuffonline.com · cpanel.putstuffonline.com · webdisk.putstuffonline.com · webmail.putstuffonline.com
+
+nfhost.me
+
+nfhost.me · www.i.nfhost.me · i.nfhost.me · mail.nfhost.me · postadmin.nfhost.me · evernode.nfhost.me
+
+hizliresim.com
+
+hizliresim.com · www.hizliresim.com · api.hizliresim.com · i.hizliresim.com · ai.hizliresim.com · beta.api.hizliresim.com · beta.hizliresim.com · dev.hizliresim.com · dosya.hizliresim.com · g.hizliresim.com · info.hizliresim.com · next.hizliresim.com · t.hizliresim.com · test.hizliresim.com · video.hizliresim.com · webmail.hizliresim.com
+
+noelshack.com
+
+noelshack.com · www.noelshack.com · image.noelshack.com · s2.noelshack.com · s3.noelshack.com · s4.noelshack.com · dev.noelshack.com · stg.noelshack.com · www2.noelshack.com
+
+zupimages.net
+
+zupimages.net · www.zupimages.net · status.zupimages.net
+
+casimages.com
+
+casimages.com
+
+hebergeur-image.com
+
+hebergeur-image.com · www.hebergeur-image.com
+
+picr.de
+
+picr.de · www.picr.de · up.picr.de · thumbs.picr.de · show.picr.de · ad.picr.de · next.picr.de · uplink.picr.de · s1.up.picr.de · s2.up.picr.de · s3.up.picr.de · s4.up.picr.de · s5.up.picr.de · s6.up.picr.de · s7.up.picr.de · s8.up.picr.de · s9.up.picr.de
+
+imagenetz.de
+
+imagenetz.de · www.imagenetz.de · v2.imagenetz.de · test.imagenetz.de · webmail.imagenetz.de · s1.imagenetz.de · s2.imagenetz.de · s3.imagenetz.de · s4.imagenetz.de · s5.imagenetz.de · s6.imagenetz.de · s1test.imagenetz.de · s2test.imagenetz.de · s3test.imagenetz.de · s4test.imagenetz.de · s5test.imagenetz.de · s6test.imagenetz.de
+
+iv.pl
+
+iv.pl · www.iv.pl · cdn.iv.pl · t.iv.pl · 404.iv.pl
+
+kepkuldes.com
+
+kepkuldes.com
+
+kepfeltoltes.eu
+
+kepfeltoltes.eu · www.kepfeltoltes.eu
+
+imgtaxi.com
+
+imgtaxi.com · www.imgtaxi.com · cams.imgtaxi.com · ww2.imgtaxi.com
+
+imageupload.io
+
+imageupload.io · www.imageupload.io · i.imageupload.io
+
+imagehaha.com
+
+imagehaha.com
+
+radikal.cloud
+
+radikal.cloud · www.radikal.cloud · radikal.ru · s1.radikal.cloud · s2.radikal.cloud · s3.radikal.cloud · s4.radikal.cloud · mail.radikal.cloud
+
+yapx.ru
+
+yapx.ru · www.yapx.ru · i.yapx.ru · t.yapx.ru · test.yapx.ru
+
+imageup.ru
+
+imageup.ru · www.imageup.ru
+
+iimg.su
+
+iimg.su · s.iimg.su · s3.iimg.su
+
+imgsrc.ru
+
+imgsrc.ru · www.imgsrc.ru · su.imgsrc.ru · static.imgsrc.ru · dlp.imgsrc.ru · b0.imgsrc.ru · b1.imgsrc.ru · b2.imgsrc.ru · b3.imgsrc.ru · b4.imgsrc.ru · b5.imgsrc.ru · b6.imgsrc.ru · b7.imgsrc.ru · b8.imgsrc.ru · b9.imgsrc.ru · o0.imgsrc.ru · o1.imgsrc.ru · o2.imgsrc.ru · o5.imgsrc.ru · s0.imgsrc.ru · s2.imgsrc.ru · s5.imgsrc.ru · s8.imgsrc.ru · e6.imgsrc.ru
+
+bbpic.ru
+
+bbpic.ru · www.bbpic.ru · mail.bbpic.ru
+
+imggmi.com
+
+imggmi.com
+
+jpg3.su
+
+jpg3.su · www.jpg3.su · a.jpg3.su · api.jpg3.su · i.jpg3.su · img.jpg3.su · static.jpg3.su · mail.jpg3.su · 2023.jpg3.su
+
+jpg4.su
+
+jpg4.su · www.jpg4.su · a.jpg4.su · api.jpg4.su · i.jpg4.su · img.jpg4.su · static.jpg4.su · admin.jpg4.su · staging.jpg4.su · dev.jpg4.su · test.jpg4.su
+
+jpg5.su
+
+jpg5.su
+
+hostingkartinok.com
+
+hostingkartinok.com · www.hostingkartinok.com · forum.hostingkartinok.com · mib.hostingkartinok.com · soft.hostingkartinok.com · s1.hostingkartinok.com · s2.hostingkartinok.com · s3.hostingkartinok.com · s4.hostingkartinok.com · s5.hostingkartinok.com · s6.hostingkartinok.com · s7.hostingkartinok.com · s8.hostingkartinok.com
+
+ltdfoto.ru
+
+ltdfoto.ru · www.ltdfoto.ru
+
+webhotpix.com
+
+webhotpix.com · www.webhotpix.com · cdn.webhotpix.com · blog.webhotpix.com · mail.webhotpix.com · mailer.webhotpix.com · panel.webhotpix.com · analytics.webhotpix.com · chat.webhotpix.com · community.webhotpix.com · forum.webhotpix.com · search.webhotpix.com · server.webhotpix.com · test.webhotpix.com · webmail.webhotpix.com
+
+anh.moe
+
+anh.moe · cdn.anh.moe · cdn0.anh.moe · cdn10.anh.moe · assets.anh.moe · up.anh.moe · play.anh.moe · video.anh.moe
+
+jpegbay.com
+
+jpegbay.com · img1.jpegbay.com · img2.jpegbay.com
+
+qpic.ws
+
+qpic.ws · www.qpic.ws
+
+picclick.ru
+
+picclick.ru
+
+picforall.ru
+
+picforall.ru
+
+cyberpics.net
+
+cyberpics.net · www.cyberpics.net
+
+pics.ivbt.ru
+
+pics.ivbt.ru
+
+0zz0.com
+
+0zz0.com · www.0zz0.com · mail.0zz0.com · www2.0zz0.com · www3.0zz0.com · www4.0zz0.com · www5.0zz0.com · www6.0zz0.com · www7.0zz0.com · www8.0zz0.com · www9.0zz0.com · www10.0zz0.com · www11.0zz0.com · www12.0zz0.com · www13.0zz0.com · www14.0zz0.com
+
+umpic.ru
+
+umpic.ru · www.umpic.ru · mail.umpic.ru · s1.umpic.ru
+
+imagehostx.com
+
+imagehostx.com · www.imagehostx.com · new.imagehostx.com
+
+imgdd.com
+
+imgdd.com · img01.imgdd.com
+
+uupload.ir
+
+uupload.ir · www.uupload.ir · my.uupload.ir · s1.uupload.ir · s2.uupload.ir · s3.uupload.ir · s4.uupload.ir · s5.uupload.ir · s6.uupload.ir · s7.uupload.ir · s8.uupload.ir · s9.uupload.ir · s11.uupload.ir · s13.uupload.ir · s15.uupload.ir · s17.uupload.ir · s21.uupload.ir · s27.uupload.ir · s31.uupload.ir
+
+getapic.me
+
+getapic.me · www.getapic.me · i.getapic.me · mail.getapic.me · pandora.getapic.me · pgadmin.getapic.me · traefik-srv1.getapic.me
+
+pic.maxiol.com
+
+pic.maxiol.com · maxiol.com · www.maxiol.com · www.pic.maxiol.com · forum.maxiol.com · mail.maxiol.com · stat.maxiol.com · test.maxiol.com
+
+picbit.net
+
+picbit.net
+
+imgkub.com
+
+imgkub.com · www.imgkub.com · mail.imgkub.com
+
+pic.in.th
+
+pic.in.th · edit.pic.in.th · img1.pic.in.th · img2.pic.in.th
+
+trueimages.ru
+
+trueimages.ru
+
+i.mcgl.ru
+
+i.mcgl.ru
+
+folio.ink
+
+folio.ink · dev.folio.ink
+
+ctrl.vi
+
+ctrl.vi
+
+uploadpie.com
+
+uploadpie.com · www.uploadpie.com
+
+uploadhouse.com
+
+uploadhouse.com · www.uploadhouse.com · img.uploadhouse.com · aika.uploadhouse.com · img0.uploadhouse.com · img1.uploadhouse.com · img2.uploadhouse.com · img3.uploadhouse.com · img4.uploadhouse.com · img5.uploadhouse.com · img6.uploadhouse.com · img7.uploadhouse.com · img8.uploadhouse.com · img9.uploadhouse.com
+
+bashify.io
+
+bashify.io · www.bashify.io · 4pk.bashify.io
+
+unsee.cc
+
+unsee.cc · auth.unsee.cc
+
+pikky.net
+
+pikky.net
+
+yogile.com
+
+yogile.com · www.yogile.com
+
+gyazo.com
+
+gyazo.com · i.gyazo.com · api.gyazo.com · upload.gyazo.com · blog.gyazo.com · blogja.gyazo.com · help.gyazo.com · help-ja.gyazo.com · updates.gyazo.com · update.gyazo.com · support.gyazo.com · customers.gyazo.com · sp.gyazo.com · pico.gyazo.com
+
+prnt.sc (Lightshot)
+
+prnt.sc · www.prnt.sc · prntscr.com · api.prntscr.com · app.prntscr.com · skillbrains.com
+
+monosnap.com
+
+monosnap.com · cdn.monosnap.com · api.monosnap.com · beta.monosnap.com · image-preview.monosnap.com · pwa.monosnap.com · sny.monosnap.com · static.monosnap.com · support.monosnap.com
+
+droplr.com
+
+droplr.com · www.droplr.com · d.pr · affiliate.droplr.com · help.droplr.com · status.droplr.com · page.droplr.com
+
+clip2net.com
+
+clip2net.com · www.clip2net.com · s.clip2net.com
+
+joxi.ru
+
+joxi.ru · www.joxi.ru · api.joxi.ru · cdn.joxi.ru · analytics.joxi.ru · beta.joxi.ru · cp.joxi.ru · dl.joxi.ru · update.joxi.ru
+
+imgix.com
+
+imgix.com · www.imgix.com · api.imgix.com · docs.imgix.com · dashboard.imgix.com · blog.imgix.com · help.imgix.com · status.imgix.com · support.imgix.com · demos.imgix.com · login.imgix.com · sandbox.imgix.com · go.imgix.com · gearbox.imgix.com · motif.imgix.com · pageweight.imgix.com · photos.imgix.com · a7s-api.imgix.com · *.imgix.net
+
+uploadcare.com
+
+uploadcare.com · www.uploadcare.com · upload.uploadcare.com · api.uploadcare.com · api-refs.uploadcare.com · ucarecdn.com · cdn.uploadcare.com · st1.uploadcare.com · x.uploadcare.com · blog.uploadcare.com · community.uploadcare.com · help.uploadcare.com · status.uploadcare.com · staging0.uploadcare.com · info.uploadcare.com
+
+cloudinary.com
+
+cloudinary.com · www.cloudinary.com · api.cloudinary.com · res.cloudinary.com · res-1.cloudinary.com · res-2.cloudinary.com · res-3.cloudinary.com · res-4.cloudinary.com · res-5.cloudinary.com · upload.cloudinary.com · cdn.cloudinary.com · console.cloudinary.com · admin.cloudinary.com · support.cloudinary.com · status.cloudinary.com · cloudinary.net · media.cloudinary.com · s.cloudinary.com · san.cloudinary.com · multicdn.cloudinary.com · player.cloudinary.com · widget.cloudinary.com · api-eu.cloudinary.com · api-ap.cloudinary.com · dam-files.cloudinary.com · dam-files-eu.cloudinary.com · dam-files-ap.cloudinary.com · blog.cloudinary.com · developers.cloudinary.com · community.cloudinary.com · production-cld-web-bff.cloudinary.com · staging-cld-web-bff.cloudinary.com · nightly.cloudinary.com · staging.cloudinary.com · training.cloudinary.com
+
+imageboss.me
+
+imageboss.me · www.imageboss.me · img.imageboss.me · api.imageboss.me · status.imageboss.me
+
+img.vision
+
+img.vision · www.img.vision · d.img.vision · dash.img.vision · app.img.vision · blog.img.vision · help.img.vision · status.img.vision · customers.img.vision · embed.img.vision · m.img.vision · t.img.vision · cname.img.vision · h.img.vision · watch.img.vision
+
+# Video Hosting Research List
+
+### FileMoon
+**Primary domain(s):** filemoon.sx · filemoon.to · filemoon.in
+**API/Thumbnail:** thumbs.filemoon.sx · api.filemoon.sx
+
+### Streamtape
+**Primary domain(s):** streamtape.com · streamtape.cc · streamtape.net · streamtape.to
+**Subdomains:** data.streamtape.com · tapeadmin.streamtape.com · video.streamtape.com
+**Ad/Mirror bypass:** advertape.net · advertisertape.com · gettapeads.com · streamnoads.com · tapeadsenjoyer.com · tapeadvertisement.com · tapeantiads.com · tapeblocker.com
+**Ad/Mirror bypass (cont.):** tapecontent.net · tapelovesads.org · tapenoads.com · tapepops.com · tapewithadblock.org · watchadsontape.com · streamadblocker.xyz
+
+### DoodStream
+**Primary domain(s):** doodstream.com · dood.watch · dood.to · dood.pm · dood.la · dood.sh · dood.so · dood.ws · dood.wf · dood.re · dood.yt · dood.cx · dood.one · d000d.com · d0000d.com · do0od.com · doods.pro · doodstream.co · doodstream.me · dooood.com
+**Subdomains:** gd-lb1.doodstream.com · gd.doodstream.com · help.doodstream.com · img.sinb.doodstream.com · links.support.doodstream.com · newsletter.doodstream.com · r.sinb.doodstream.com · status.doodstream.com
+**Subdomains (cont.):** tracker.doodstream.com · www.doodstream.com
+**CDN:** i.doodcdn.co · img.doodcdn.co · mandrill.doodcdn.co
+
+### MixDrop
+**Primary domain(s):** mixdrop.ag · mixdrop.co · mixdrop.to · mixdrop.club · mixdrop.sx · mixdrop.vc · mixdrop.ms · mixdrop.is · mixdrop.si · mixdrop.ps · mixdrop.nu · mixdrop.cfd · mixdrop.sb · mixdrop.my · mixdrop.cv · mixdrop.net · mixdrop23.net · m1xdrop.net · m1xdrop.com · mxdrop.to · m1xdrop.bz · m1xdrop.click · mdy48tn97.com · mdbekjwqa.pw · mdfx9dc8n.net · mdzsmutpcvykb.net
+**API/Upload subdomains:** api.mixdrop.ag · ul-5.mixdrop.ag · ul-6.mixdrop.ag · ul-7.mixdrop.ag · ul-8.mixdrop.ag · ul.mixdrop.ag · www.mixdrop.ag
+**Legacy/Dead:** mixdrop.ch · mixdrop.gl · mixdrop.bz · md3b0j6hj.com
+
+### VOE
+**Note:** Adblock-bypass domains change dynamically; this list is periodic/seasonal.
+**Primary domain(s):** voe.sx
+**Adblock bypass (dynamic/periodic):** voeun-block.com · jilliandescribecompany.com · loriwithinfamily.com · maxfinishseveral.com · guidon40hyporadius9.com · jonathansociallike.com · diananatureforeign.com · cirliwrigwu.com
+**Adblock bypass (dynamic/periodic) (cont.):** landsideresendtrousers.com · smallestgirlfriend.com
+**CDN/Stream:** orbitcache.com
+
+### StreamWish / FileLions / VidHide Network
+**Note:** All operated by the same operator.
+**Primary domain(s):** streamwish.com · streamwish.to · embedwish.com · filelions.com · filelions.co · filelions.to · filelions.live · filelions.online · vidhide.com · streamhide.com · wishembed.pro · mwish.pro · asnwish.com · vidhidehub.com · dinisglows.com · sfastwish.com
+
+### Upstream
+**Primary domain(s):** upstream.to
+
+### Vidmoly
+**Primary domain(s):** vidmoly.to · vidmoly.me
+**Subdomains:** account.vidmoly.to · admin.vidmoly.to · aos.vidmoly.to · api-dev.vidmoly.to · api.vidmoly.to · app-dev.vidmoly.to · app.vidmoly.to · auth.vidmoly.to
+**Subdomains (cont.):** cache.vidmoly.to · cdn.vidmoly.to · con.vidmoly.to · cpanel.vidmoly.to · dev.vidmoly.to · ftp.vidmoly.to · help.vidmoly.to · img.vidmoly.to
+**Subdomains (cont.):** login.vidmoly.to · m.vidmoly.to · mail.vidmoly.to · metrics.vidmoly.to · profile.vidmoly.to · shop.vidmoly.to · signin.vidmoly.to · sso.vidmoly.to
+**Subdomains (cont.):** staging.vidmoly.to · support.vidmoly.to · test.vidmoly.to · twitch.vidmoly.to · vpn.vidmoly.to · vpn2.vidmoly.to · vpn3.vidmoly.to · ww1.vidmoly.to
+**Subdomains (cont.):** www.vidmoly.to
+
+### Vudeo
+**Primary domain(s):** vudeo.net · vudeo.io · vudeo.ws
+**CDN/Stream subdomains:** a0.vudeo.net · a1.vudeo.net · a2.vudeo.net · a3.vudeo.net · a4.vudeo.net · e1.vudeo.net · e2.vudeo.net · e3.vudeo.net
+**CDN/Stream subdomains (cont.):** e4.vudeo.net · e6.vudeo.net · e7.vudeo.net · e8.vudeo.net · s0.vudeo.net · s10.vudeo.net · s20.vudeo.net · s30.vudeo.net
+**CDN/Stream subdomains (cont.):** s40.vudeo.net · m.vudeo.net · m0.vudeo.net · m2.vudeo.net · m3.vudeo.net · m4.vudeo.net · m5.vudeo.net · m6.vudeo.net
+**CDN/Stream subdomains (cont.):** m7.vudeo.net · m8.vudeo.net · m9.vudeo.net · m10.vudeo.net · m11.vudeo.net
+**Other:** client.vudeo.net · gateway.vudeo.net · login.vudeo.net · mobile.vudeo.net · web.vudeo.net · www.vudeo.net
+
+### YourUpload
+**Primary domain(s):** yourupload.com
+**Subdomains:** download.yourupload.com · embed.yourupload.com · forums.yourupload.com · io.yourupload.com · mr-admin.yourupload.com · mush.yourupload.com · play.yourupload.com · static.yourupload.com
+**Subdomains (cont.):** stats.yourupload.com · tag.yourupload.com · vc.yourupload.com · vcr.yourupload.com · videokoo.yourupload.com · vidwoot.yourupload.com · www.yourupload.com
+
+### SendVid
+**Primary domain(s):** sendvid.com · 2.sendvid.com
+
+### UQload
+**Primary domain(s):** uqload.co · uqload.io · uqload.com · uqload.bz · uqload.nl
+**CDN:** m[N].uqload. (e.g., m30.uqload.com, m50.uqload.bz)
+
+### Vidoza
+**Primary domain(s):** vidoza.net
+**API/Admin:** admin.vidoza.net · api.vidoza.net · www.vidoza.net
+**CDN/Stream:** str01.vidoza.net · str12.vidoza.net · str13.vidoza.net
+**Upload:** upload02.vidoza.net · upload03.vidoza.net · upload10.vidoza.net · upload11.vidoza.net · upload12.vidoza.net · upload13.vidoza.net · upload14.vidoza.net · upload15.vidoza.net
+**Upload (cont.):** upload18.vidoza.net · upload19.vidoza.net · upload20.vidoza.net · upload22.vidoza.net
+
+### VidGuard
+**Primary domain(s):** vidguard.to · vgfplay.com
+**API:** api.vidguard.to
+
+### EarnVids
+**Primary domain(s):** earnvids.com
+
+### RPMShare
+**Primary domain(s):** rpmshare.com
+
+### UpnShare
+**Primary domain(s):** upnshare.com
+**Mail:** autoconfig.upnshare.com · autodiscover.upnshare.com · mail.upnshare.com · www.upnshare.com
+
+### UpCloud (video hosting)
+**Primary domain(s):** upcloud.co
+
+### HighStream
+**Primary domain(s):** highstream.tv
+
+### Abyss.to
+**Primary domain(s):** abyss.to · hydrax.net · abyssplay.pages.dev
+**CDN subdomains:** cdn.abysscdn.com · player-v2.abysscdn.com · v2.abysscdn.com · abysscdn.com
+
+### vTube
+**Primary domain(s):** vtube.to · vtube.network
+**Subdomains:** blog.vtube.network · p.vtube.network · str1.vtube.network · str12.vtube.network · str13.vtube.network · str14.vtube.network · up1.vtube.network · up3.vtube.network
+
+### MegaCloud
+**Primary domain(s):** megacloud.tv · megacloud.co
+**megacloud.co subdomains:** de.megacloud.co · mail.megacloud.co · ns1.megacloud.co · ns2.megacloud.co · www.megacloud.co
+**Related (anime hosting):** rapid-cloud.co · rabbitstream.net
+**rabbitstream subdomains:** ws.rabbitstream.net · ws11.rabbitstream.net · wsx.rabbitstream.net
+**Legacy:** megacloud.blog
+
+### MP4Upload
+**Primary domain(s):** mp4upload.com
+**CDN:** s2.mp4upload.com
+
+### WolfStream
+**Primary domain(s):** wolfstream.tv
+**CDN/Stream:** s1–s56.wolfstream.tv (numbered stream nodes)
+**Other:** backend.wolfstream.tv · buyer-api.wolfstream.tv · ftp.wolfstream.tv · iot.wolfstream.tv · link.wolfstream.tv · m.wolfstream.tv · pls.wolfstream.tv · test.wolfstream.tv · ww1.wolfstream.tv · www.wolfstream.tv
+
+### StreamVid ⚠ DEFUNCT
+**Primary domain(s):** streamvid.net
+
+### StreamSilk
+**Primary domain(s):** streamsilk.com
+**CDN/GD subdomains:** a.streamsilk.com · ad.streamsilk.com · admin.streamsilk.com · assets.streamsilk.com · cdnimg.streamsilk.com · cdps.streamsilk.com · gd01–gd23.streamsilk.com (numbered nodes) · m.streamsilk.com · mail.streamsilk.com · u.streamsilk.com · user.streamsilk.com · www.streamsilk.com
+
+### SwiftLoad
+**Primary domain(s):** swiftload.io
+**Subdomains:** encoder3.swiftload.io · fi.swiftload.io · up-de-dusseldorf.swiftload.io · up-de.swiftload.io · ww11.swiftload.io · ww38.swiftload.io · ww38.api.swiftload.io · ww38.fi.swiftload.io
+**Subdomains (cont.):** ww38.my.swiftload.io · ww38.up-de-dusseldorf.swiftload.io · 3jtpuy07im.swiftload.io · d6wvs2ws7f.swiftload.io · mvm195ikju.swiftload.io · o3wffe3gh0.swiftload.io · sxgkogvejz.swiftload.io
+
+### StreamHub
+**Primary domain(s):** streamhub.to
+**CDN/Video subdomains:** email.streamhub.to · es1.streamhub.to · fs1.streamhub.to · fs5.streamhub.to · fs6.streamhub.to · v100–v909.streamhub.to (numbered video nodes) · ww1.streamhub.to · ww12.streamhub.to · www.streamhub.to
+
+### Veev.to
+**Primary domain(s):** veev.to
+**CDN/Proxy subdomains:** prx-frk-*, prx-gra-*, s-eri-*, s-gra-*, s-lim-*, u-eri-*, u-gra-*, u-lim-* (randomized numeric subdomains under veev.to) · cloudencoding-c3-64-gra11.veev.to
+
+### StreamRuby
+**Primary domain(s):** streamruby.com
+
+### EmbedRise
+**Primary domain(s):** embedrise.com
+
+### UpVid
+**Primary domain(s):** upvid.co
+
+### VidBam
+**Primary domain(s):** vidbam.org · vadbam.net
+**vadbam.net CDN subdomains (examples):** a80, a90, c04–c55, asd1–asd4, cvb1–cvb5, qaz1–qaz4, qwe1–qwe4, rfv1–rfv4, tgb1–tgb4, ujm1–ujm4, wer1–wer2, wsx1–wsx2, yhn1–yhn2, zxc1–zxc2, img, w1–w4 (all `.vadbam.net`; randomized alphanumeric CDN node naming pattern)
+
+### VidShar
+**Primary domain(s):** vidshar.org · viidshar.com
+**viidshar.com subdomains:** admin, api, app, dev, emma, eric, ftp, mail, m, ns1, ns2, qazw, secure, shop, staging, test, www, shr3–shr5, vid2–vid6, vbn1–vbn4, qaz1–qaz3, zxc1–zxc3, w1, web (all `.viidshar.com`)
+
+### Streamable
+**Primary domain(s):** streamable.com
+**API:** api.streamable.com
+**CDN:** cdn-b-east.streamable.com · cdn-b-west.streamable.com · cdn-e2.streamable.com · cdn-sh-east.streamable.com · cdn-sh-west.streamable.com · cdn-shi-east.streamable.com · thumbs-east.streamable.com · thumbs-west.streamable.com
+**CDN (cont.):** statics.streamable.com · ui-statics-cf.streamable.com · 2k.streamable.com
+**Other:** data.streamable.com · features.streamable.com · status.streamable.com · support.streamable.com
+
+### VideoVard
+**Primary domain(s):** videovard.sx · videovard.to
+**Subdomains:** api.videovard.sx · ftp.videovard.sx · proxy.videovard.sx · thumbs.videovard.sx · ww11.videovard.sx · ww16.videovard.sx · ww38.videovard.sx · ww38.api.videovard.sx · ww38.proxy.videovard.sx · ww38.thumbs.videovard.sx · www.videovard.sx
+
+### LuluStream
+**Primary domain(s):** lulustream.com · luluvid.com · luluvdo.com · luluvdoo.com · lulucdn.com
+**Subdomains:** cpanel.lulustream.com · email.lulustream.com · ftp.lulustream.com · mail.lulustream.com · webmail.lulustream.com · whm.lulustream.com · www.lulustream.com
+
+### RapidCloud
+**Primary domain(s):** rapidcloud.cc
+**Subdomains:** [user].rapidcloud.cc
+
+### HighLoad
+**Primary domain(s):** highload.to
+**Subdomains:** api.highload.to · ch.highload.to · client.highload.to · dashboard.ww1.highload.to · demo.highload.to · login.highload.to · m.highload.to · mobile.highload.to
+**Subdomains (cont.):** panel.highload.to · portal.highload.to · vega.highload.to · vpn.highload.to · vpn1.highload.to · vpn2.highload.to · web.highload.to · ww01.highload.to
+**Subdomains (cont.):** ww1.highload.to · ww12.highload.to · www.highload.to
+
+### NinjaStream
+**Primary domain(s):** ninjastream.to
+**API/CDN:** 001.ninjastream.to · ai.ninjastream.to · api.ninjastream.to · cdn.ninjastream.to · chat.ninjastream.to · dev.ninjastream.to · mail.ninjastream.to · sandbox.ninjastream.to · staging.ninjastream.to · www.ninjastream.to
+**Stream servers:** s-001–s-030.ninjastream.to · s-1.ninjastream.to (numbered stream nodes)
+
+### StreamOn
+**Primary domain(s):** streamon.to
+
+### PStream
+**Primary domain(s):** pstream.net · pstream.org · pstream.mov
+**pstream.org subdomains:** embed, iframe, mirror, proxy, proxy2, proxy3, m3u8, m3u8-proxy, hls-downloader, dash, fed-api, fed-api-east/west/europe/south/asia/shared, fed-proxy, cf-proxy, skip-intro, skips, statistics, hianime, ww1, ww12, www, beta, test, docs, git (all `.pstream.org`)
+
+### PlayerX ⚠ DEFUNCT (2025)
+**Primary domain(s):** playerx.stream
+
+### MaxStream
+**Primary domain(s):** maxstream.video
+
+### TubeLoad
+**Primary domain(s):** tubeload.co
+**Subdomains:** api, cabinet, dashboard, ftp, m, mail, ns1, ns2, builds, www, ww12, zags (all `.tubeload.co`)
+
+### EmbedGram
+**Primary domain(s):** embedgram.com
+
+### Embedo
+**Primary domain(s):** embedo.co
+**Subdomains:** api, api1, blog, dev, m, ssl, test, vpn, vpn1, ww1, ww12, ww99, www, 02, 03, 101, 211 (all `.embedo.co`)
+
+### Flexy
+**Primary domain(s):** flexy.stream
+
+### UploadFlix
+**Primary domain(s):** uploadflix.cc
+
+### Stream.kiwi
+**Primary domain(s):** stream.kiwi
+
+### ProtonVideo
+**Primary domain(s):** protonvideo.to
+**API/Storage:** api, m, stats, serv1, fs1–fs8, u1–u19, www (all `.protonvideo.to`)
+**CDN:** cdn.protonvideo.to and named CDN nodes (astatium, beryllium, cadmium, calcium, cobalt, cuprum, erbium, flerovium, francium, gadolinium, nitrogen, platinum, radium, strontium, thallium, tiberium, yttrium, ozzy, rocker, rockstar, stonehenge — all `.cdn.protonvideo.to`, mostly named after chemical elements)
+
+### VideoHub
+**Primary domain(s):** videohub.co
+
+### TurboViPlay
+**Primary domain(s):** turboviplay.com · emturbovid.com
+**CDN:** cdn3.turboviplay.com
+
+### MyVi
+**Primary domain(s):** myvi.tv · myvi.ru
+**Subdomains:** ai, api, api2, app.ww12, backend, config, docs, m, s, vpn, web, ww1, ww12, www (all `.myvi.tv`)
+**Storage (fs) subdomains:** fs.myvi.tv and numbered nodes fs39–fs139 (non-contiguous numbering)
+**CDN (mikadox.com):** fs.mikadox.com · api.mikadox.com · images.mikadox.com · www.mikadox.com · c.mikadox.com · mail.mikadox.com
+
+### video.sibnet.ru / sibnet.ru
+**Primary domain(s):** video.sibnet.ru · sibnet.ru
+**Subdomains:** mail.sibnet.ru · gitlab.sibnet.ru · hst1–hst3.sibnet.ru · vhost1–vhost3.sibnet.ru · data.photo.sibnet.ru · abon.vhost1.sibnet.ru · registry.gitlab.sibnet.ru
+
+### sdilej.cz
+**Primary domain(s):** sdilej.cz
+**Stream:** s1–s41.sdilej.cz (numbered stream nodes) · stream1.sdilej.cz · stream2.sdilej.cz
+**Data/Upload:** data.sdilej.cz · data1–data15.sdilej.cz (non-contiguous) · upload.sdilej.cz · upload4.sdilej.cz · uploadweb1.sdilej.cz · uploadweb2.sdilej.cz
+**Other:** beta.sdilej.cz · img.sdilej.cz · link.sdilej.cz · p1.sdilej.cz · p2.sdilej.cz · www.sdilej.cz
+
+### Vids.st
+**Primary domain(s):** vids.st
+
+### ClipWatching
+**Primary domain(s):** clipwatching.com
+
+### aparat.cam
+**Primary domain(s):** aparat.cam
+
+### StreamHB ⚠ DEFUNCT (February 2025)
+**Primary domain(s):** streamhb.net
+
+### UploadG
+**Primary domain(s):** uploadg.com
+
+### Uploady
+**Primary domain(s):** uploady.io
+
+### LoadMe
+**Primary domain(s):** loadme.cc
+
+### PlayTube
+**Primary domain(s):** playtube.ws
+**Subdomains:** api, app, ftp, img, m, mail, static, www (all `.playtube.ws`)
+**Subdomains (cont.):** fs2, fs4, fs8, fs10, fs14, fs16, fs18, fs20, fs30, fs32, fs2510 (all `.playtube.ws`)
+
+### Oogly
+**Primary domain(s):** oogly.io
+**Subdomains:** analytics, client, dashboard, data, fs1, fs2, i, img, login, m, portal, report, sitemap, ssl, test, web, ww1, ww12, www (all `.oogly.io`)
+
+### YoudBox
+**Primary domain(s):** youdbox.com · youdbox.site
+
+### Streamz
+**Primary domain(s):** streamz.cc
+
+### OkStream
+**Primary domain(s):** okstream.co · okstream.cc
+
+### BigShare
+**Primary domain(s):** bigshare.io
+
+### VidNest
+**Primary domain(s):** vidnest.io
+
+### LixStream
+**Note:** Launched in 2025.
+**Primary domain(s):** lixstream.com
+
+### SaveFiles
+**Primary domain(s):** savefiles.com
+**Subdomains:** api, img, mail, s1–s5, admin, staging, www (all `.savefiles.com`)
+
+### HXFile
+**Primary domain(s):** hxfile.co
+**Subdomains:** 1relcdn.hxfile.co · hreport.hxfile.co · v2.hxfile.co · www.hxfile.co
+
+### LoadVid
+**Primary domain(s):** loadvid.com
+**Subdomains:** cdn, dashboard, encode, encode-api, hdd1, monitor, srender, srender-new, submaker, www (all `.loadvid.com`)
+
+### VidSonic
+**Primary domain(s):** vidsonic.net
+
+### SafeStream
+**Primary domain(s):** safestream.cc
+**Subdomains:** client, cpanel, ftp, img, m, mobile, srv01, ssl, web, vpn, ww1, ww12, www (all `.safestream.cc`)
+
+### EasyVidPlay
+**Primary domain(s):** easyvidplay.com
+
+### AbStream
+**Primary domain(s):** abstream.to
+
+### VidPirate
+**Note:** Offshore host, ignores DMCA takedowns; launched 2025.
+**Primary domain(s):** vidpirate.com
+
+### CloudVideo
+**Primary domain(s):** cloudvideo.tv
+
+Cyberlocker / File Hosting Research List
+
+## MAJOR / ESTABLISHED PLATFORMS
+
+### BUNKR
+
+**Primary domains:** bunkr.sk · bunkr.ru · bunkr.is · bunkr.fi · bunkr.ph · bunkr.ac · bunkr.ci · bunkr.cr · bunkr.pk · bunkr.ps · bunkr.si · bunkr.ws · bunkr.black · bunkr.red · bunkr.media · bunkr.site · bunkrr.ru · bunkrr.su · bunkr.su · bunkr.la · bunkr.to · bunkr.cat
+
+**API / Redirect:** get.bunkrr.su · apidl.bunkr.ru
+
+**CDN — bunkr.ru (food-named servers):** bacon.bunkr.ru · beer.bunkr.ru · big-taco-1.bunkr.ru · big-taco-1img.bunkr.ru · big-taco-1redir.bunkr.ru · burger.bunkr.ru · c-1.bunkr.ru · c10.bunkr.ru · c9.bunkr.ru · cache-fries.bunkr.ru · cache-warm.bunkr.ru · cake.bunkr.ru · cdn-burger.bunkr.ru · cdn-fries.bunkr.ru · cdn-kebab.bunkr.ru · cdn-meatballs.bunkr.ru · cdn-milkshake.bunkr.ru · cdn-nachos.bunkr.ru · cdn-nugget.bunkr.ru · cdn-pizza.bunkr.ru · cdn-taquito.bunkr.ru · cdn.bunkr.ru · cdn10.bunkr.ru · cdn11.bunkr.ru · cdn12.bunkr.ru · cdn2.bunkr.ru · cdn3.bunkr.ru · cdn4.bunkr.ru · cdn6.bunkr.ru · cdn8.bunkr.ru · cdn9.bunkr.ru · cheese.bunkr.ru · dev-c8.bunkr.ru · dev-camgirls.s3proxy.bunkr.ru · dl-test.bunkr.ru · fhub.bunkr.ru · fries.bunkr.ru · kebab.bunkr.ru · maple.bunkr.ru · meatballs.bunkr.ru · media-files.bunkr.ru · media-files10.bunkr.ru · media-files11.bunkr.ru · media-files4.bunkr.ru · media-files8.bunkr.ru · media-files9.bunkr.ru · mf1.bunkr.ru · milkshake.bunkr.ru · nachos.bunkr.ru · nugget.bunkr.ru · p.bunkr.ru · pad.bunkr.ru · pizza.bunkr.ru · ramen.bunkr.ru · rice.bunkr.ru · rocket.bunkr.ru · rum.bunkr.ru · s3.bunkr.ru · s3proxy.bunkr.ru · soup.bunkr.ru · static.bunkr.ru · stats.bunkr.ru · sushi.bunkr.ru · taquito.bunkr.ru · wiener.bunkr.ru · wings.bunkr.ru
+
+**CDN — bunkr.is:** cache-app.bunkr.is · cache.bunkr.is · cdn.bunkr.is · cdn10.bunkr.is · cdn2.bunkr.is · cdn3.bunkr.is · cdn4.bunkr.is · cdn5.bunkr.is · cdn6.bunkr.is · cdn8.bunkr.is · cdn9.bunkr.is · media-files.bunkr.is · media-files10.bunkr.is · media-files2.bunkr.is · media-files3.bunkr.is · media-files4.bunkr.is · media-files5.bunkr.is · media-files6.bunkr.is · media-files8.bunkr.is · media-files9.bunkr.is · r.bunkr.is · static.bunkr.is · stream.bunkr.is
+
+---
+
+### GOFILE
+
+**Primary:** gofile.io
+
+**API / Tools:** api.gofile.io · btcpay.gofile.io · cloud.gofile.io · dev.gofile.io · mail.gofile.io · zabbix.gofile.io
+
+**Storage servers:** store1.gofile.io · store2.gofile.io · store3.gofile.io · store4.gofile.io · store5.gofile.io · store6.gofile.io · store-na-2.gofile.io · store-na-3.gofile.io · store7.gofile.io · file-na-mia-2.gofile.io
+
+---
+
+### PIXELDRAIN
+
+**Primary + alternates:** pixeldrain.com · pixeldra.in · pixeldrain.net · pixeldrain.nl · pixeldrain.biz · pixeldrain.dev · pixeldrain.tech
+
+**Subdomains:** btcpay.pixeldrain.com · docs.pixeldrain.com · monitor.pixeldrain.com · srb2kart.pixeldrain.com · stats.pixeldrain.com · www.pixeldrain.com
+
+---
+
+### 1FICHIER
+
+**Primary:** 1fichier.com
+
+**Official mirror domains:** alterupload.com · cjoint.net · desfichiers.com · dfichiers.com · megadl.fr · mesfichiers.org · piecejointe.net · pjointe.com · tenvoi.com · dl4free.com
+
+**CDN:** img.1fichier.com · st-1.1fichier.com
+
+---
+
+### MEDIAFIRE
+
+**Primary:** mediafire.com
+
+**Found via research:** static.mediafire.com · cdn.mediafire.com · app.mediafire.com · download[N].mediafire.com
+
+**All subdomains:** app-sandbox.mediafire.com · app.mediafire.com · blog.mediafire.com · cf-uploader.mediafire.com · checkout.mediafire.com · codechain.mediafire.com · downloadcdn.mediafire.com · error-reporting.mediafire.com · fastio.mediafire.com · img.sibmail.mediafire.com · link.mediafire.com · nel.mediafire.com · paymentgateway-dev.mediafire.com · paymentgateway-sandbox.mediafire.com · paymentgateway.mediafire.com · r.sibmail.mediafire.com · related.mediafire.com · ruletest.mediafire.com · turbodownload.mediafire.com · unicorn.mediafire.com · unicornstaging.mediafire.com · uploader.mediafire.com · vgs-sandbox.mediafire.com · www.mediafire.com
+
+---
+
+### WORKUPLOAD
+
+workupload.com · t.workupload.com · www.workupload.com
+
+---
+
+### FILEJOKER
+
+filejoker.net
+
+---
+
+### RAPIDGATOR
+
+rapidgator.net · rg.to
+
+---
+
+### KATFILE
+
+katfile.com · katfile.cloud · katfile.online
+
+---
+
+### TURBOBIT
+
+**Primary:** turbobit.net · turbobit.cc · turbo.to · cdn.turbobit.net · s[N].cdn.turbobit.net
+
+**Subdomains:** fd1.stage.turbobit.net · fd2.stage.turbobit.net · help2.turbobit.net · m.stage.turbobit.net · pfo.stage.turbobit.net · pm.turbobit.net · secure.turbobit.net · yandex.turbobit.net
+
+---
+
+### HITFILE
+
+hitfile.net · hif.to · hitf.cc · wayupload.com
+
+---
+
+### DROPAPK / DROP.DOWNLOAD
+
+**Primary:** dropapk.to · drop.download
+
+**Subdomains:** ftp.dropapk.to · mail.dropapk.to · s01.dropapk.to · s02.dropapk.to · s03.dropapk.to · s05.dropapk.to · server.dropapk.to · www.dropapk.to
+
+---
+
+### DDOWNLOAD
+
+**Primary:** ddownload.com · ddl.to
+
+**Subdomains:** api-v2.ddownload.com · click.ddownload.com · ftp.ddownload.com · pay.ddownload.com · www.ddownload.com · www1.ddownload.com
+
+---
+
+### NITROFLARE
+
+nitroflare.com · nitroflare.net
+
+---
+
+### CYBERDROP
+
+cyberdrop.me · cyberdrop.cc · cyberdrop.to · cyberdrop.nl
+
+---
+
+### EROME
+
+erome.com
+
+---
+
+### MEGA
+
+**Primary:** mega.nz · mega.co.nz · mega.io
+
+**API:** g.api.mega.co.nz · eu.api.mega.co.nz · *.api.mega.co.nz
+
+**Storage (wildcard):** *.userstorage.mega.co.nz
+
+---
+
+### CATBOX
+
+**Primary:** catbox.moe · litterbox.catbox.moe · files.catbox.moe
+
+**All subdomains:** amqstore.catbox.moe · blog.catbox.moe · files.catbox.moe · litter.catbox.moe · nofun.catbox.moe · qt.catbox.moe · status.catbox.moe · store.catbox.moe · tenkai.catbox.moe
+
+---
+
+### BUZZHEAVIER
+
+buzzheavier.com
+
+---
+
+### 4SHARED
+
+**Primary:** 4shared.com · api.4shared.com · search.4shared.com · upload.4shared.com · static.4shared.com · 4s.io
+
+**Additional subdomains:** cdn.epomads2.4shared.com · dcdev3.4shared.com · link.4shared.com
+
+---
+
+### UPLOADED
+
+uploaded.net · uploaded.to · ul.to
+
+---
+
+### DEPOSITFILES
+
+depositfiles.com · dfiles.eu · dfiles.com · depositfiles.org
+
+---
+
+### UPTOBOX ⚠ DEFUNCT
+
+Shut down in September 2023 by ACE (Alliance for Creativity and Entertainment); servers seized in France.
+
+**Primary:** uptobox.com
+
+**Known subdomains (no longer active):** autoconfig.uptobox.com · autodiscover.uptobox.com · btcpay.uptobox.com · docs.uptobox.com · email.uptobox.com · git.uptobox.com · inferno.uptobox.com · maounas.uptobox.com · pm10.uptobox.com · pm20.uptobox.com · pm30.uptobox.com · pm5a.uptobox.com
+
+---
+
+### KEEP2SHARE
+
+keep2share.cc · k2s.cc
+
+---
+
+### FILEFACTORY
+
+**Primary:** filefactory.com · files.filefactory.com
+
+**All subdomains:** about.filefactory.com · analytics.filefactory.com · api-proxy.filefactory.com · auth.filefactory.com · beta.filefactory.com · help.filefactory.com · helpdesk.filefactory.com · s201.filefactory.com · s202.filefactory.com · status.filefactory.com · stream.filefactory.com · transfers.filefactory.com · uploadcdn.filefactory.com · videoads.filefactory.com · www.filefactory.com
+
+---
+
+### UPLOADGIG
+
+uploadgig.com
+
+---
+
+### SENDSPACE
+
+sendspace.com
+
+---
+
+### ALFAFILE
+
+alfafile.net · alfafiles.net
+
+---
+
+### FILENEXT
+
+filenext.com
+
+---
+
+### EMLOAD
+
+emload.com
+
+---
+
+### KSHARED
+
+kshared.com
+
+---
+
+### MEXASHARE
+
+**Primary:** mexashare.com · mexa.sh
+
+**Upload servers (wildcard):** srv[N].mexa.sh
+
+---
+
+### USERSCLOUD / USERSDRIVE
+
+**Primary:** userscloud.com · usersdrive.com
+
+**Subdomains:** cdn.usersdrive.com · d300.usersdrive.com · www.usersdrive.com
+
+---
+
+### FILESPACE
+
+filespace.com
+
+---
+
+### GIGAPETA
+
+gigapeta.com
+
+---
+
+### TAKEFILE
+
+takefile.link
+
+---
+
+### PREFILES
+
+prefiles.com
+
+---
+
+### DAOFILE
+
+daofile.com
+
+---
+
+### ICERBOX / ISRA.CLOUD
+
+icerbox.com · isra.cloud
+
+isra.cloud is the new name/redirect for icerbox.com.
+
+---
+
+### FILEDOT
+
+filedot.to · filedot.xyz
+
+---
+
+### UPLOADRAR
+
+**Primary:** uploadrar.com
+
+**Subdomains:** cpanel.uploadrar.com · cpcalendars.uploadrar.com · cpcontacts.uploadrar.com · dmca.uploadrar.com · flash.uploadrar.com · fs20.uploadrar.com · fs21.uploadrar.com · mail.uploadrar.com · web.uploadrar.com · webdisk.uploadrar.com · webmail.uploadrar.com · www.uploadrar.com
+
+---
+
+### ULOZ.TO
+
+**Primary:** uloz.to
+
+**Subdomains:** api.uloz.to · exec.uloz.to · piwik.uloz.to · pw.uloz.to · speedtest.uloz.to · syncdisk.uloz.to · testle.uloz.to · thumbs.uloz.to · tvt1.uloz.to · upload.uloz.to · www.uloz.to
+
+---
+
+### FSHARE
+
+fshare.vn
+
+---
+
+### 2SHARED
+
+2shared.com
+
+---
+
+### CHOMIKUJ
+
+chomikuj.pl
+
+---
+
+### TERABOX
+
+**Primary:** terabox.com · mirrobox.com · nephobox.com · 4funbox.com · terabox.app · 1024tera.com · teraboxapp.com
+
+**Subdomains:** articles.terabox.com · blog.terabox.com · c-cdn.terabox.com · content.terabox.com · d5-dm.terabox.com · d5.terabox.com · d6-dm.terabox.com · d6.terabox.com · daily.terabox.com · email.terabox.com · hub.terabox.com · insights.terabox.com · inspire.terabox.com · news.terabox.com · od.terabox.com · picturecdn.terabox.com · posts.terabox.com · share.terabox.com · v2-dm.terabox.com · v2.terabox.com · views.terabox.com · www.terabox.com
+
+<br>
+
+## MID-TIER PLATFORMS
+
+### FILE.AL
+
+**Primary:** file.al
+
+**Subdomains:** dev.file.al · mail.file.al · s1.dev.file.al · secure.file.al · support.file.al · www.file.al
+
+---
+
+### EASYBYTEZ
+
+**Primary:** easybytez.com
+
+**Subdomains:** efg.easybytez.com · pay.easybytez.com · payment.easybytez.com · support.easybytez.com
+
+---
+
+### JUMPLOADS
+
+**Primary:** jumploads.com
+
+**Subdomains:** admin.jumploads.com · btcpay.jumploads.com · crypto.jumploads.com · deco.jumploads.com · nite.jumploads.com · www.jumploads.com
+
+---
+
+### FBOOM / FILEBOOM
+
+fboom.me · fileboom.me
+
+---
+
+### FILESFLY
+
+filesfly.com · filesfly.cc
+
+---
+
+### GOLOADY
+
+**Primary:** goloady.com
+
+**Subdomains + storage servers:** admin.goloady.com · cpanel.goloady.com · goz1.goloady.com · goz2.goloady.com · goz3.goloady.com · goz4.goloady.com · goz5.goloady.com · goz6.goloady.com · goz7.goloady.com · hostmaster.goloady.com · mail.goloady.com · sitemap.goloady.com · webdisk.goloady.com · webmail.goloady.com · ww.goloady.com · ww1.goloady.com · ww12.goloady.com · ww99.goloady.com · www.goloady.com
+
+---
+
+### UPSTORE
+
+upstore.net
+
+---
+
+### ELITEFILE
+
+elitefile.net
+
+---
+
+### FASTCLICK
+
+fastclick.to
+
+---
+
+### FILERIO
+
+filerio.in · filerio.com · ww1.filerio.com
+
+---
+
+### WUPFILE
+
+wupfile.com
+
+---
+
+### NOVAFILE
+
+novafile.org · novafile.com
+
+---
+
+### RAPIDRAR
+
+rapidrar.com
+
+---
+
+### FLASHBIT
+
+flashbit.cc
+
+---
+
+### FIREGET
+
+fireget.com
+
+---
+
+### UPLOADC
+
+uploadc.com
+
+---
+
+### FILER.NET
+
+filer.net
+
+---
+
+### FILEAXA
+
+fileaxa.com
+
+---
+
+### FILESTORE
+
+filestore.to
+
+---
+
+### TUSFILES
+
+tusfiles.com
+
+---
+
+### VIPFILE
+
+vipfile.cc
+
+---
+
+### UPPIT
+
+uppit.com
+
+---
+
+### WORLDBYTEZ
+
+worldbytez.com · wipfiles.net
+
+---
+
+### AUSFILE
+
+ausfile.com
+
+---
+
+### HOTLINK
+
+hotlink.cc
+
+---
+
+### CLICKNUPLOAD
+
+clicknupload.co · clicknupload.me · clicknupload.click · clicknupload.site
+
+---
+
+### DAILYUPLOADS
+
+dailyuploads.net
+
+---
+
+### DATA.HU
+
+data.hu
+
+---
+
+### DATAFILEHOST
+
+datafilehost.com
+
+---
+
+### EX-LOAD
+
+ex-load.com
+
+---
+
+### FASTBIT
+
+fastbit.cc
+
+---
+
+### HOT4SHARE
+
+hot4share.com
+
+---
+
+### NELION
+
+nelion.net · nelion.me
+
+---
+
+### SUBYSHARE
+
+subyshare.com
+
+---
+
+### TEZFILES
+
+tezfiles.com
+
+---
+
+### UPLOADBOY
+
+uploadboy.com
+
+---
+
+### WUSHARE
+
+wushare.com
+
+---
+
+### XUBSTER
+
+xubster.com
+
+---
+
+### WORLD-FILES
+
+world-files.com
+
+---
+
+### FASTFILE
+
+fastfile.cc
+
+---
+
+### FILECAT
+
+filecat.net
+
+---
+
+### FILEFOX
+
+filefox.cc
+
+---
+
+### MOUNTFILE
+
+mountfile.net
+
+---
+
+### VIPERFILE
+
+viperfile.com
+
+---
+
+### MEGAUP
+
+megaup.net
+
+---
+
+### UBIQFILE
+
+ubiqfile.com
+
+---
+
+### DEVUPLOADS
+
+devuploads.com
+
+---
+
+### MOONDL
+
+moondl.com
+
+---
+
+### TWOJPLIK
+
+twojplik.to
+
+---
+
+### FIKPER
+
+fikper.com
+
+---
+
+### FILELAND
+
+fileland.io
+
+---
+
+### SILKFILES
+
+silkfiles.com
+
+---
+
+### ISRACLOUD (legacy)
+
+isracloud.com
+
+---
+
+### HULKSHARE
+
+hulkshare.com
+
+---
+
+### DROPGALAXY
+
+dropgalaxy.in · dropgalaxy.com
+
+---
+
+### INDISHARE
+
+indishare.net · indishare.org
+
+---
+
+### MODSBASE
+
+modsbase.com
+
+---
+
+### SENDIT.CLOUD
+
+sendit.cloud
+
+---
+
+### SHAREMODS
+
+sharemods.com
+
+---
+
+### TERABYTEZ
+
+terabytez.com
+
+---
+
+### USERUPLOAD
+
+userupload.net · userupload.in
+
+---
+
+### APKADMIN
+
+apkadmin.com
+
+---
+
+### SIMFILESHARE
+
+**Primary:** simfileshare.net
+
+**Subdomains:** beta.simfileshare.net · cdn.simfileshare.net · static.simfileshare.net · upload.simfileshare.net · www.simfileshare.net
+
+<br>
+
+## TEMPORARY / ANONYMOUS PLATFORMS
+
+### WETRANSFER
+
+**Primary:** wetransfer.com · we.tl
+
+**Subdomains:** checkout.wetransfer.com · cocktailparty.wetransfer.com · collect.wetransfer.com · earlyaccess.wetransfer.com · frontend-v3.wetransfer.com · go.wetransfer.com · help.wetransfer.com · helpbeta.wetransfer.com · moderation.wetransfer.com · ox-d.wetransfer.com · privacy.wetransfer.com · sell-files.wetransfer.com · status.wetransfer.com · subscribe.wetransfer.com · tag.wetransfer.com · trail.wetransfer.com · trust.wetransfer.com · url.news.wetransfer.com · url6202.mail.wetransfer.com · www.ads-partners.wetransfer.com
+
+---
+
+### FILETRANSFER.IO
+
+filetransfer.io
+
+---
+
+### WORMHOLE
+
+wormhole.app
+
+---
+
+### FILEBIN
+
+**Primary:** filebin.net
+
+**Subdomains:** echo.filebin.net · grafana.filebin.net · ping.filebin.net · storage.filebin.net · www.filebin.net
+
+---
+
+### FILEDITCH
+
+**Primary:** fileditch.com
+
+**Subdomains:** dmca.fileditch.com · lytics.fileditch.com · new.fileditch.com · up1.fileditch.com
+
+---
+
+### TMPFILES
+
+tmpfiles.org
+
+---
+
+### SEND.NOW
+
+send.now
+
+---
+
+### FILE.IO
+
+file.io · api.file.io
+
+---
+
+### UGUU.SE
+
+uguu.se · a.uguu.se
+
+---
+
+### STASHR
+
+**Primary:** stashr.wtf
+
+**Subdomains:** api.stashr.wtf · auth.stashr.wtf · blacklist-file.stashr.wtf · downloads.stashr.wtf · password.stashr.wtf · s.stashr.wtf · spr.stashr.wtf · upload.stashr.wtf · www.stashr.wtf
+
+---
+
+### ANONYMFILE
+
+anonymfile.com
+
+---
+
+### SHAREFILE.CO
+
+sharefile.co
+
+---
+
+### UPLOAD.DISROOT.ORG
+
+**Primary:** upload.disroot.org · disroot.org · lufi.disroot.org
+
+**All disroot.org subdomains:** akkoma.fe.disroot.org · alerts.disroot.org · apps.disroot.org · autoconfig.disroot.org · bin.disroot.org · bot.disroot.org · calls.disroot.org · chat.disroot.org · cloud.disroot.org · cryptpad.disroot.org · fe.disroot.org · fe.upload.disroot.org · forum.disroot.org · git.disroot.org · grafana.disroot.org · howto.disroot.org · invoice.disroot.org · irc.disroot.org · lm.disroot.org · mail.disroot.org · monitoring.disroot.org · mta-sts.disroot.org · mumble.disroot.org · pad.disroot.org · prometheus.disroot.org · pubsub.disroot.org · sandbox.cryptpad.disroot.org · scribe.disroot.org · search.disroot.org · spliit.disroot.org · state.disroot.org · status.disroot.org · support.disroot.org · timetagger.disroot.org · translate.disroot.org · turn.disroot.org · up.disroot.org · user.disroot.org · vault.disroot.org · webchat.disroot.org · webmail.disroot.org · www.disroot.org · xmppproxy.disroot.org
+
+---
+
+### EASYUPLOAD
+
+**Primary:** easyupload.io
+
+**Subdomains + storage servers:** eu1.easyupload.io · eu2.easyupload.io · eu4.easyupload.io · eu5.easyupload.io · eu6.easyupload.io · fastspring.easyupload.io · old.easyupload.io · t.easyupload.io · t1.easyupload.io · t2.easyupload.io · t3.easyupload.io · test.easyupload.io · turbo.easyupload.io · upload1.easyupload.io · upload2.easyupload.io · upload4.easyupload.io · upload5.easyupload.io · upload6.easyupload.io · www.easyupload.io
+
+---
+
+### ROOTZ.SO
+
+**Primary:** rootz.so
+
+**Subdomains:** cdn.rootz.so · deploy-coolify.rootz.so · files.rootz.so · test.rootz.so · workers.rootz.so · www.rootz.so
+
+---
+
+### VIKINGFILE
+
+vikingfile.com
+
+---
+
+### DATANODES
+
+datanodes.to
+
+---
+
+### FILE.PIZZA
+
+file.pizza
+
+---
+
+### UPLOADNOW
+
+uploadnow.io
+
+---
+
+### VOLAFILE
+
+volafile.org · volafile.io
+
+<br>
+
+## LONG-TERM / REGISTRATION-REQUIRED
+
+### DRIME.CLOUD
+
+**Primary:** drime.cloud · app.drime.cloud
+
+**All subdomains:** admin.transfers.drime.cloud · affiliates.drime.cloud · api.drime.cloud · api.infra-beta.drime.cloud · api.preprod.drime.cloud · ask.drime.cloud · beta.drime.cloud · blog.drime.cloud · chat.drime.cloud · cli.drime.cloud · clips.drime.cloud · docs.drime.cloud · download.drime.cloud · feedback.drime.cloud · front.preprod.drime.cloud · image.drime.cloud · infra-beta.drime.cloud · meet.drime.cloud · node01.drime.cloud · notes.drime.cloud · pterodactyl.drime.cloud · sign.drime.cloud · staging.drime.cloud · status.drime.cloud · storage.drime.cloud · stream.drime.cloud · support.drime.cloud · transfers.drime.cloud · www.blog.drime.cloud · www.drime.cloud
+
+---
+
+### AKIRABOX
+
+akirabox.com
+
+---
+
+### FILEGARDEN
+
+filegarden.com
+
+---
+
+### FILESPAYOUT
+
+filespayout.com
+
+---
+
+### FILEQ
+
+**Primary:** fileq.net
+
+**Storage subdomains:** s1.fileq.net · s165.fileq.net · s2.fileq.net · s3.fileq.net · s9.fileq.net · s99.fileq.net · test.fileq.net · test0.fileq.net · track.fileq.net
+
+---
+
+### FILE-UPLOAD.ORG
+
+file-upload.org
+
+---
+
+### PILLOWS.SU
+
+pillows.su
+
+<br>
+
+## DEBRID / MULTI-HOSTER
+
+### REAL-DEBRID
+
+**Primary:** real-debrid.com
+
+**API / CDN:** api.real-debrid.com · api-1.real-debrid.com · status.real-debrid.com · fcdn.real-debrid.com · storage.real-debrid.com
+
+**CDN network:** xtnetwork.fr · cdn.realdebrid.xtnetwork.fr
+
+---
+
+### ALLDEBRID
+
+alldebrid.com · api.alldebrid.com · alldebrid.fr
+
+---
+
+### PREMIUMIZE
+
+premiumize.me · api.premiumize.me
+
+---
+
+### TORBOX
+
+**Primary:** torbox.app · api.torbox.app
+
+**All subdomains:** api-docs.torbox.app · bigmac.torbox.app · billing.torbox.app · billling.torbox.app · cf-debug.torbox.app · db.torbox.app · discord-bot.torbox.app · errors.torbox.app · feedback.torbox.app · hyperdrive.test.apac.torbox.app · hyperdrive.test.wnam.torbox.app · matrix.torbox.app · news.torbox.app · offline.torbox.app · partners.torbox.app · relay.torbox.app · sa.torbox.app · search-api.torbox.app · search.torbox.app · speedtest.torbox.app · status.torbox.app · support.torbox.app · telegram-bot.torbox.app · usenet.torbox.app · video-guides.torbox.app · wbh.torbox.app · webdav.torbox.app · www.torbox.app
+
+---
+
+### DEBRID-LINK
+
+debrid-link.com · debrid-link.fr · api.debrid-link.com
+
+---
+
+### LINKSNAPPY
+
+linksnappy.com · api.linksnappy.com
+
+---
+
+### DEEPBRID
+
+deepbrid.com
+
+---
+
+### HIGH-WAY
+
+high-way.me
+
+---
+
+### MEGA-DEBRID
+
+mega-debrid.eu · api.mega-debrid.eu · cdn.mega-debrid.eu
