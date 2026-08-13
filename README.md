@@ -83,7 +83,6 @@ carry a higher risk of false positives that could affect core
 functionality, so each domain is being individually verified before
 release.
 
-- File Hosting
 - Browser Apps
 - Security & Bot Detection
 - Android
