@@ -112,6 +112,34 @@ references:
 Domain research and false-positive verification also relied on a
 range of publicly available cybersecurity and privacy resources.
 
+## Keeping this up to date
+
+New domains and categories are added through two parallel processes:
+
+**Manual research.** New platforms and emerging tracking techniques
+are identified by following cybersecurity and technology news sources,
+then researched and classified individually using this project's
+methodology (see [Methodology](#methodology) above).
+
+**Automated new-domain signals.** A daily job checks several external
+blocklists for domains added in the last 24 hours that aren't yet
+covered here, and writes candidates to
+`reports/new-domain-suggestions.md`. This is a research signal only —
+nothing is added automatically. Every candidate is independently
+researched and classified (platform, purpose, tier) before it's added
+to a category file, the same as any other domain in this project.
+
+Sources checked for new-domain signals:
+[AdGuard SDNS Filter](https://github.com/AdguardTeam/AdGuardSDNSFilter),
+[StevenBlack](https://github.com/StevenBlack/hosts),
+[EasyPrivacy](https://github.com/easylist/easylist),
+[1Hosts](https://github.com/badmojr/1Hosts),
+[no-google](https://github.com/nickspaargaren/no-google),
+[a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb), and
+the native OEM lists from
+[hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
+(Samsung, Xiaomi, Huawei, Oppo/Realme, Vivo, LG WebOS, TikTok).
+
 ## Contributing
 
 Reports of false positives, missing domains, or new platform research
