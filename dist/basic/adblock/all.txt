@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8266
-# Generated: 2026-08-12 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8314
+# Generated: 2026-08-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -200,6 +200,7 @@
 ||ad.minigame.vip^
 ||ad.mxplayer.in^
 ||ad.nettvservices.com^
+||ad.picr.de^
 ||ad.playstation.net^
 ||ad.plus^
 ||ad.reddit.com^
@@ -210,6 +211,7 @@
 ||ad.sina.com.cn^
 ||ad.smaato.net^
 ||ad.srv.giantlottos.com^
+||ad.streamsilk.com^
 ||ad.thefacebook.com^
 ||ad.tiktokv.com^
 ||ad.tiktokv.us^
@@ -390,6 +392,7 @@
 ||ads.espn.com^
 ||ads.eu.e-planning.net^
 ||ads.facebook.com^
+||ads.fappic.com^
 ||ads.fitbit.com^
 ||ads.fix.orange.ro^
 ||ads.flaviar.com^
@@ -408,6 +411,7 @@
 ||ads.huawei.com^
 ||ads.hulu.com^
 ||ads.idwall.co^
+||ads.imagevenue.com^
 ||ads.imgflip.com^
 ||ads.inmobi.com^
 ||ads.internetdownloadmanager.com^
@@ -576,6 +580,7 @@
 ||advancedpccleanup.com^
 ||advancedsystemoptimizer.com^
 ||advancemactools.live^
+||advertape.net^
 ||advertise.myspace.com^
 ||advertise.quantcast.com^
 ||advertise.swagbucks.com^
@@ -583,6 +588,7 @@
 ||advertiser.linkvertise.com^
 ||advertiser.petcube.com^
 ||advertisers.truecaller.com^
+||advertisertape.com^
 ||advertising-v3.roku.com^
 ||advertising-v3.us-east-1.msc.roku.com^
 ||advertising.accuweather.com^
@@ -971,6 +977,7 @@
 ||analytics.fertilityfriend.com^
 ||analytics.fetch.com^
 ||analytics.ff.avast.sec.miui.com^
+||analytics.filefactory.com^
 ||analytics.fitbark.com^
 ||analytics.fitbit.com^
 ||analytics.fixme.it^
@@ -1059,6 +1066,7 @@
 ||analytics.joinhoney.com^
 ||analytics.joplincloud.com^
 ||analytics.joro.tech^
+||analytics.joxi.ru^
 ||analytics.jumio.com^
 ||analytics.jwplayer.com^
 ||analytics.kaltura.com^
@@ -1172,6 +1180,7 @@
 ||analytics.olacabs.com^
 ||analytics.onepeloton.com^
 ||analytics.oneplus.net^
+||analytics.oogly.io^
 ||analytics.openai.com^
 ||analytics.openaire.eu^
 ||analytics.openalex.org^
@@ -1413,6 +1422,7 @@
 ||analytics.waze.com^
 ||analytics.webex.com^
 ||analytics.webgains.io^
+||analytics.webhotpix.com^
 ||analytics.weddingwire.com^
 ||analytics.whaletv.com^
 ||analytics.wiley.com^
@@ -2553,6 +2563,7 @@
 ||collect.surveyjunkie.com^
 ||collect.swagbucks.com^
 ||collect.uae.passfort.com^
+||collect.wetransfer.com^
 ||collect.whaletv.com^
 ||collect.youbora.com^
 ||collecte-mobile.orange.fr^
@@ -2941,6 +2952,7 @@
 ||diagnosis.ad.xiaomi.com^
 ||diagnostics.telaria.com^
 ||diana-errors-web.sidechat.lol^
+||diananatureforeign.com^
 ||dianomi.co.uk^
 ||dianomi.com^
 ||dianomi.de^
@@ -3139,6 +3151,7 @@
 ||err-up.vivoglobal.com^
 ||err.up.vivoglobal.com^
 ||error-reporting.disneyplus.com^
+||error-reporting.mediafire.com^
 ||error.facebook.com^
 ||error.ghost.org^
 ||error.reddit.com^
@@ -3578,6 +3591,7 @@
 ||getpublica.com^
 ||getrom.net^
 ||getsentry.com^
+||gettapeads.com^
 ||gg.gg^
 ||gha-metrics.ops.amplitude.com^
 ||giga.logs.roku.com^
@@ -4011,6 +4025,7 @@
 ||jdoqocy.com^
 ||jenkins.analytics.weather.com^
 ||jetclean.com^
+||jilliandescribecompany.com^
 ||jp.ad.lgsmartad.com^
 ||jp.info.lgsmartad.com^
 ||jp.rdx2.lgtvsdp.com^
@@ -4087,6 +4102,7 @@
 ||labs-cdn.revcontent.com^
 ||labs.revcontent.com^
 ||lagrange.logs.roku.com^
+||landsideresendtrousers.com^
 ||lapsing-users.adikteev.com^
 ||larati.net^
 ||laslucaads-util.scientificgames.com^
@@ -4458,6 +4474,7 @@
 ||looker.ourritual.com^
 ||looker.zipcar.com^
 ||lopoteam.com^
+||loriwithinfamily.com^
 ||lotame.io^
 ||lp.adskeeper.com^
 ||lp.mgid.com^
@@ -4481,6 +4498,7 @@
 ||lum-sdk.io^
 ||luminati-holanetworksltd.netdna-ssl.com^
 ||luminati.io^
+||lytics.fileditch.com^
 ||lzt.goforandroid.com^
 ||m-prelive-bolt-eu.applog.bolt.eu^
 ||m-taxify-eu.applog.bolt.eu^
@@ -4541,6 +4559,7 @@
 ||matrix.api.ad.xiaomi.com^
 ||max.ad.xiaomi.com^
 ||maxbounty.com^
+||maxfinishseveral.com^
 ||mazu.sec.miui.com^
 ||mb01.com^
 ||mb103.com^
@@ -4837,6 +4856,7 @@
 ||metrics.veridas.com^
 ||metrics.viaplay.com^
 ||metrics.videoland.com^
+||metrics.vidmoly.to^
 ||metrics.vive.com^
 ||metrics.vodafone.com.eg^
 ||metrics.voot.com^
@@ -4911,6 +4931,9 @@
 ||miuiboot.tracking.miui.com^
 ||mixer.cupid.ptqy.gitv.tv^
 ||mixpanel.untappd.com^
+||mkt1.photobucket.com^
+||mkt2.photobucket.com^
+||mkt3.photobucket.com^
 ||ml.adikteev.com^
 ||ml.remerge.io^
 ||mlog.search.xiaomi.net^
@@ -5138,6 +5161,7 @@
 ||new-telemetry.insights.video.a2z.com^
 ||new-www.outbrain.com^
 ||new.api.ad.xiaomi.com^
+||newlytics.fileditch.com^
 ||news.mgid.com^
 ||news.revcontent.com^
 ||newscgp.com^
@@ -5322,6 +5346,7 @@
 ||outcome.supersonicads.com^
 ||outlogic.io^
 ||overseauspider.yuanshen.com^
+||ox-d.wetransfer.com^
 ||p.ads.roku.com^
 ||p.adsymptotic.com^
 ||p.clarity.ms^
@@ -5421,6 +5446,7 @@
 ||ping.chartbeat.net^
 ||pintient.com^
 ||pips.taboola.com^
+||piwik.uloz.to^
 ||pix.as.criteo.net^
 ||pix.cdn.criteo.net^
 ||pix.criteo.com^
@@ -5951,6 +5977,7 @@
 ||ruc-ngfts.lge.com^
 ||rum.battle.net^
 ||rum.beusable.net^
+||rum.bunkr.ru^
 ||rum.netflix.com^
 ||rum.optimizely.com^
 ||rum.raygun.io^
@@ -6551,6 +6578,7 @@
 ||stat.freedownloadmanager.org^
 ||stat.kaspersky.com^
 ||stat.maps.me^
+||stat.maxiol.com^
 ||stat.miui.com^
 ||stat.pandora.xiaomi.com^
 ||stat.pay.xiaomi.com^
@@ -6610,6 +6638,7 @@
 ||stats.blur.io^
 ||stats.boosteroid.com^
 ||stats.bsplayer.com^
+||stats.bunkr.ru^
 ||stats.buzzsprout.com^
 ||stats.calldorado.com^
 ||stats.ccleaner.com^
@@ -6652,10 +6681,12 @@
 ||stats.norton.com^
 ||stats.old.reddit.com^
 ||stats.opensea.io^
+||stats.pixeldrain.com^
 ||stats.playit.pk^
 ||stats.podbean.com^
 ||stats.pokerist.com^
 ||stats.productmadness.com^
+||stats.protonvideo.to^
 ||stats.puri.sm^
 ||stats.pusher.com^
 ||stats.rarible.com^
@@ -6677,6 +6708,7 @@
 ||stats.waze.com^
 ||stats.wowvegas.com^
 ||stats.youku.com^
+||stats.yourupload.com^
 ||stats.zynga.com^
 ||stats1.reddit.com^
 ||stats2.reddit.com^
@@ -6710,9 +6742,12 @@
 ||stream.adikteev.com^
 ||stream.remerge.io^
 ||stream.zetaglobal.com^
+||streamadblocker.xyz^
 ||streaming.conviva.com^
+||streamnoads.com^
 ||streamrail.com^
 ||streamrail.net^
+||streamtape.com^
 ||streamvoyage.com^
 ||street-production.s3.amazonaws.com^
 ||streme.fullcontact.com^
@@ -6855,7 +6890,15 @@
 ||tags.retargeter.com^
 ||tags.zetaglobal.com^
 ||tapad.com^
+||tapeadsenjoyer.com^
+||tapeadvertisement.com^
+||tapeantiads.com^
+||tapeblocker.com^
+||tapelovesads.org^
+||tapenoads.com^
+||tapepops.com^
 ||tapestry.tapad.com^
+||tapewithadblock.org^
 ||tapjoy.com^
 ||tapjoy.net^
 ||tapjoyads.com^
@@ -7274,6 +7317,7 @@
 ||track.ebsco.com^
 ||track.factor75.com^
 ||track.fertilityfriend.com^
+||track.fileq.net^
 ||track.flexlinks.com^
 ||track.flexlinkspro.com^
 ||track.flo.health^
@@ -7366,6 +7410,7 @@
 ||tracker.api.gnome.org^
 ||tracker.core.ac.uk^
 ||tracker.debian.org^
+||tracker.doodstream.com^
 ||tracker.gnome.org^
 ||tracker.gymshark.com^
 ||tracker.kali.org^
@@ -7895,6 +7940,7 @@
 ||video.triplelift.com^
 ||video.unrulymedia.com^
 ||video.vastify.io^
+||videoads.filefactory.com^
 ||videoads.lgtvcommon.com^
 ||videoevents.outbrain.com^
 ||videoexternalapi.outbrain.com^
@@ -7938,6 +7984,7 @@
 ||w55c.net^
 ||waf-metrics.bunnycdn.com^
 ||warrantystar.com^
+||watchadsontape.com^
 ||wave.outbrain.com^
 ||wcs.naver.com^
 ||wd.adcolony.com^
@@ -8041,6 +8088,7 @@
 ||www.adaware.com^
 ||www.adperio.com^
 ||www.adroll.com^
+||www.ads-partners.wetransfer.com^
 ||www.ads.giphy.com^
 ||www.ads.wineenthusiast.com^
 ||www.advidi.com^

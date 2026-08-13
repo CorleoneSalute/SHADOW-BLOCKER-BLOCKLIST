@@ -1,7 +1,7 @@
 # ============================================================
 # VPN PROXY BLOCKLIST - BASIC
 # Total domains: 58
-# Generated: 2026-08-12 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-08-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 

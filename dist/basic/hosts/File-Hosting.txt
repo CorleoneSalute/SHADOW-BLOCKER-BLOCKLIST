@@ -1,0 +1,55 @@
+# ============================================================
+# FILE HOSTING BLOCKLIST - BASIC
+# Total domains: 48
+# Generated: 2026-08-13 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 ad.picr.de
+0.0.0.0 ad.streamsilk.com
+0.0.0.0 ads.fappic.com
+0.0.0.0 ads.imagevenue.com
+0.0.0.0 advertape.net
+0.0.0.0 advertisertape.com
+0.0.0.0 analytics.filefactory.com
+0.0.0.0 analytics.joxi.ru
+0.0.0.0 analytics.oogly.io
+0.0.0.0 analytics.webhotpix.com
+0.0.0.0 collect.wetransfer.com
+0.0.0.0 diananatureforeign.com
+0.0.0.0 error-reporting.mediafire.com
+0.0.0.0 gettapeads.com
+0.0.0.0 jilliandescribecompany.com
+0.0.0.0 landsideresendtrousers.com
+0.0.0.0 loriwithinfamily.com
+0.0.0.0 lytics.fileditch.com
+0.0.0.0 maxfinishseveral.com
+0.0.0.0 metrics.vidmoly.to
+0.0.0.0 mkt1.photobucket.com
+0.0.0.0 mkt2.photobucket.com
+0.0.0.0 mkt3.photobucket.com
+0.0.0.0 newlytics.fileditch.com
+0.0.0.0 ox-d.wetransfer.com
+0.0.0.0 piwik.uloz.to
+0.0.0.0 rum.bunkr.ru
+0.0.0.0 stat.maxiol.com
+0.0.0.0 stats.bunkr.ru
+0.0.0.0 stats.pixeldrain.com
+0.0.0.0 stats.protonvideo.to
+0.0.0.0 stats.yourupload.com
+0.0.0.0 streamadblocker.xyz
+0.0.0.0 streamnoads.com
+0.0.0.0 streamtape.com
+0.0.0.0 tapeadsenjoyer.com
+0.0.0.0 tapeadvertisement.com
+0.0.0.0 tapeantiads.com
+0.0.0.0 tapeblocker.com
+0.0.0.0 tapelovesads.org
+0.0.0.0 tapenoads.com
+0.0.0.0 tapepops.com
+0.0.0.0 tapewithadblock.org
+0.0.0.0 track.fileq.net
+0.0.0.0 tracker.doodstream.com
+0.0.0.0 videoads.filefactory.com
+0.0.0.0 watchadsontape.com
+0.0.0.0 www.ads-partners.wetransfer.com

@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8266
-# Generated: 2026-08-12 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8314
+# Generated: 2026-08-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -200,6 +200,7 @@
 0.0.0.0 ad.minigame.vip
 0.0.0.0 ad.mxplayer.in
 0.0.0.0 ad.nettvservices.com
+0.0.0.0 ad.picr.de
 0.0.0.0 ad.playstation.net
 0.0.0.0 ad.plus
 0.0.0.0 ad.reddit.com
@@ -210,6 +211,7 @@
 0.0.0.0 ad.sina.com.cn
 0.0.0.0 ad.smaato.net
 0.0.0.0 ad.srv.giantlottos.com
+0.0.0.0 ad.streamsilk.com
 0.0.0.0 ad.thefacebook.com
 0.0.0.0 ad.tiktokv.com
 0.0.0.0 ad.tiktokv.us
@@ -390,6 +392,7 @@
 0.0.0.0 ads.espn.com
 0.0.0.0 ads.eu.e-planning.net
 0.0.0.0 ads.facebook.com
+0.0.0.0 ads.fappic.com
 0.0.0.0 ads.fitbit.com
 0.0.0.0 ads.fix.orange.ro
 0.0.0.0 ads.flaviar.com
@@ -408,6 +411,7 @@
 0.0.0.0 ads.huawei.com
 0.0.0.0 ads.hulu.com
 0.0.0.0 ads.idwall.co
+0.0.0.0 ads.imagevenue.com
 0.0.0.0 ads.imgflip.com
 0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.internetdownloadmanager.com
@@ -576,6 +580,7 @@
 0.0.0.0 advancedpccleanup.com
 0.0.0.0 advancedsystemoptimizer.com
 0.0.0.0 advancemactools.live
+0.0.0.0 advertape.net
 0.0.0.0 advertise.myspace.com
 0.0.0.0 advertise.quantcast.com
 0.0.0.0 advertise.swagbucks.com
@@ -583,6 +588,7 @@
 0.0.0.0 advertiser.linkvertise.com
 0.0.0.0 advertiser.petcube.com
 0.0.0.0 advertisers.truecaller.com
+0.0.0.0 advertisertape.com
 0.0.0.0 advertising-v3.roku.com
 0.0.0.0 advertising-v3.us-east-1.msc.roku.com
 0.0.0.0 advertising.accuweather.com
@@ -971,6 +977,7 @@
 0.0.0.0 analytics.fertilityfriend.com
 0.0.0.0 analytics.fetch.com
 0.0.0.0 analytics.ff.avast.sec.miui.com
+0.0.0.0 analytics.filefactory.com
 0.0.0.0 analytics.fitbark.com
 0.0.0.0 analytics.fitbit.com
 0.0.0.0 analytics.fixme.it
@@ -1059,6 +1066,7 @@
 0.0.0.0 analytics.joinhoney.com
 0.0.0.0 analytics.joplincloud.com
 0.0.0.0 analytics.joro.tech
+0.0.0.0 analytics.joxi.ru
 0.0.0.0 analytics.jumio.com
 0.0.0.0 analytics.jwplayer.com
 0.0.0.0 analytics.kaltura.com
@@ -1172,6 +1180,7 @@
 0.0.0.0 analytics.olacabs.com
 0.0.0.0 analytics.onepeloton.com
 0.0.0.0 analytics.oneplus.net
+0.0.0.0 analytics.oogly.io
 0.0.0.0 analytics.openai.com
 0.0.0.0 analytics.openaire.eu
 0.0.0.0 analytics.openalex.org
@@ -1413,6 +1422,7 @@
 0.0.0.0 analytics.waze.com
 0.0.0.0 analytics.webex.com
 0.0.0.0 analytics.webgains.io
+0.0.0.0 analytics.webhotpix.com
 0.0.0.0 analytics.weddingwire.com
 0.0.0.0 analytics.whaletv.com
 0.0.0.0 analytics.wiley.com
@@ -2553,6 +2563,7 @@
 0.0.0.0 collect.surveyjunkie.com
 0.0.0.0 collect.swagbucks.com
 0.0.0.0 collect.uae.passfort.com
+0.0.0.0 collect.wetransfer.com
 0.0.0.0 collect.whaletv.com
 0.0.0.0 collect.youbora.com
 0.0.0.0 collecte-mobile.orange.fr
@@ -2941,6 +2952,7 @@
 0.0.0.0 diagnosis.ad.xiaomi.com
 0.0.0.0 diagnostics.telaria.com
 0.0.0.0 diana-errors-web.sidechat.lol
+0.0.0.0 diananatureforeign.com
 0.0.0.0 dianomi.co.uk
 0.0.0.0 dianomi.com
 0.0.0.0 dianomi.de
@@ -3139,6 +3151,7 @@
 0.0.0.0 err-up.vivoglobal.com
 0.0.0.0 err.up.vivoglobal.com
 0.0.0.0 error-reporting.disneyplus.com
+0.0.0.0 error-reporting.mediafire.com
 0.0.0.0 error.facebook.com
 0.0.0.0 error.ghost.org
 0.0.0.0 error.reddit.com
@@ -3578,6 +3591,7 @@
 0.0.0.0 getpublica.com
 0.0.0.0 getrom.net
 0.0.0.0 getsentry.com
+0.0.0.0 gettapeads.com
 0.0.0.0 gg.gg
 0.0.0.0 gha-metrics.ops.amplitude.com
 0.0.0.0 giga.logs.roku.com
@@ -4011,6 +4025,7 @@
 0.0.0.0 jdoqocy.com
 0.0.0.0 jenkins.analytics.weather.com
 0.0.0.0 jetclean.com
+0.0.0.0 jilliandescribecompany.com
 0.0.0.0 jp.ad.lgsmartad.com
 0.0.0.0 jp.info.lgsmartad.com
 0.0.0.0 jp.rdx2.lgtvsdp.com
@@ -4087,6 +4102,7 @@
 0.0.0.0 labs-cdn.revcontent.com
 0.0.0.0 labs.revcontent.com
 0.0.0.0 lagrange.logs.roku.com
+0.0.0.0 landsideresendtrousers.com
 0.0.0.0 lapsing-users.adikteev.com
 0.0.0.0 larati.net
 0.0.0.0 laslucaads-util.scientificgames.com
@@ -4458,6 +4474,7 @@
 0.0.0.0 looker.ourritual.com
 0.0.0.0 looker.zipcar.com
 0.0.0.0 lopoteam.com
+0.0.0.0 loriwithinfamily.com
 0.0.0.0 lotame.io
 0.0.0.0 lp.adskeeper.com
 0.0.0.0 lp.mgid.com
@@ -4481,6 +4498,7 @@
 0.0.0.0 lum-sdk.io
 0.0.0.0 luminati-holanetworksltd.netdna-ssl.com
 0.0.0.0 luminati.io
+0.0.0.0 lytics.fileditch.com
 0.0.0.0 lzt.goforandroid.com
 0.0.0.0 m-prelive-bolt-eu.applog.bolt.eu
 0.0.0.0 m-taxify-eu.applog.bolt.eu
@@ -4541,6 +4559,7 @@
 0.0.0.0 matrix.api.ad.xiaomi.com
 0.0.0.0 max.ad.xiaomi.com
 0.0.0.0 maxbounty.com
+0.0.0.0 maxfinishseveral.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mb01.com
 0.0.0.0 mb103.com
@@ -4837,6 +4856,7 @@
 0.0.0.0 metrics.veridas.com
 0.0.0.0 metrics.viaplay.com
 0.0.0.0 metrics.videoland.com
+0.0.0.0 metrics.vidmoly.to
 0.0.0.0 metrics.vive.com
 0.0.0.0 metrics.vodafone.com.eg
 0.0.0.0 metrics.voot.com
@@ -4911,6 +4931,9 @@
 0.0.0.0 miuiboot.tracking.miui.com
 0.0.0.0 mixer.cupid.ptqy.gitv.tv
 0.0.0.0 mixpanel.untappd.com
+0.0.0.0 mkt1.photobucket.com
+0.0.0.0 mkt2.photobucket.com
+0.0.0.0 mkt3.photobucket.com
 0.0.0.0 ml.adikteev.com
 0.0.0.0 ml.remerge.io
 0.0.0.0 mlog.search.xiaomi.net
@@ -5138,6 +5161,7 @@
 0.0.0.0 new-telemetry.insights.video.a2z.com
 0.0.0.0 new-www.outbrain.com
 0.0.0.0 new.api.ad.xiaomi.com
+0.0.0.0 newlytics.fileditch.com
 0.0.0.0 news.mgid.com
 0.0.0.0 news.revcontent.com
 0.0.0.0 newscgp.com
@@ -5322,6 +5346,7 @@
 0.0.0.0 outcome.supersonicads.com
 0.0.0.0 outlogic.io
 0.0.0.0 overseauspider.yuanshen.com
+0.0.0.0 ox-d.wetransfer.com
 0.0.0.0 p.ads.roku.com
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 p.clarity.ms
@@ -5421,6 +5446,7 @@
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 pintient.com
 0.0.0.0 pips.taboola.com
+0.0.0.0 piwik.uloz.to
 0.0.0.0 pix.as.criteo.net
 0.0.0.0 pix.cdn.criteo.net
 0.0.0.0 pix.criteo.com
@@ -5951,6 +5977,7 @@
 0.0.0.0 ruc-ngfts.lge.com
 0.0.0.0 rum.battle.net
 0.0.0.0 rum.beusable.net
+0.0.0.0 rum.bunkr.ru
 0.0.0.0 rum.netflix.com
 0.0.0.0 rum.optimizely.com
 0.0.0.0 rum.raygun.io
@@ -6551,6 +6578,7 @@
 0.0.0.0 stat.freedownloadmanager.org
 0.0.0.0 stat.kaspersky.com
 0.0.0.0 stat.maps.me
+0.0.0.0 stat.maxiol.com
 0.0.0.0 stat.miui.com
 0.0.0.0 stat.pandora.xiaomi.com
 0.0.0.0 stat.pay.xiaomi.com
@@ -6610,6 +6638,7 @@
 0.0.0.0 stats.blur.io
 0.0.0.0 stats.boosteroid.com
 0.0.0.0 stats.bsplayer.com
+0.0.0.0 stats.bunkr.ru
 0.0.0.0 stats.buzzsprout.com
 0.0.0.0 stats.calldorado.com
 0.0.0.0 stats.ccleaner.com
@@ -6652,10 +6681,12 @@
 0.0.0.0 stats.norton.com
 0.0.0.0 stats.old.reddit.com
 0.0.0.0 stats.opensea.io
+0.0.0.0 stats.pixeldrain.com
 0.0.0.0 stats.playit.pk
 0.0.0.0 stats.podbean.com
 0.0.0.0 stats.pokerist.com
 0.0.0.0 stats.productmadness.com
+0.0.0.0 stats.protonvideo.to
 0.0.0.0 stats.puri.sm
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.rarible.com
@@ -6677,6 +6708,7 @@
 0.0.0.0 stats.waze.com
 0.0.0.0 stats.wowvegas.com
 0.0.0.0 stats.youku.com
+0.0.0.0 stats.yourupload.com
 0.0.0.0 stats.zynga.com
 0.0.0.0 stats1.reddit.com
 0.0.0.0 stats2.reddit.com
@@ -6710,9 +6742,12 @@
 0.0.0.0 stream.adikteev.com
 0.0.0.0 stream.remerge.io
 0.0.0.0 stream.zetaglobal.com
+0.0.0.0 streamadblocker.xyz
 0.0.0.0 streaming.conviva.com
+0.0.0.0 streamnoads.com
 0.0.0.0 streamrail.com
 0.0.0.0 streamrail.net
+0.0.0.0 streamtape.com
 0.0.0.0 streamvoyage.com
 0.0.0.0 street-production.s3.amazonaws.com
 0.0.0.0 streme.fullcontact.com
@@ -6855,7 +6890,15 @@
 0.0.0.0 tags.retargeter.com
 0.0.0.0 tags.zetaglobal.com
 0.0.0.0 tapad.com
+0.0.0.0 tapeadsenjoyer.com
+0.0.0.0 tapeadvertisement.com
+0.0.0.0 tapeantiads.com
+0.0.0.0 tapeblocker.com
+0.0.0.0 tapelovesads.org
+0.0.0.0 tapenoads.com
+0.0.0.0 tapepops.com
 0.0.0.0 tapestry.tapad.com
+0.0.0.0 tapewithadblock.org
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoy.net
 0.0.0.0 tapjoyads.com
@@ -7274,6 +7317,7 @@
 0.0.0.0 track.ebsco.com
 0.0.0.0 track.factor75.com
 0.0.0.0 track.fertilityfriend.com
+0.0.0.0 track.fileq.net
 0.0.0.0 track.flexlinks.com
 0.0.0.0 track.flexlinkspro.com
 0.0.0.0 track.flo.health
@@ -7366,6 +7410,7 @@
 0.0.0.0 tracker.api.gnome.org
 0.0.0.0 tracker.core.ac.uk
 0.0.0.0 tracker.debian.org
+0.0.0.0 tracker.doodstream.com
 0.0.0.0 tracker.gnome.org
 0.0.0.0 tracker.gymshark.com
 0.0.0.0 tracker.kali.org
@@ -7895,6 +7940,7 @@
 0.0.0.0 video.triplelift.com
 0.0.0.0 video.unrulymedia.com
 0.0.0.0 video.vastify.io
+0.0.0.0 videoads.filefactory.com
 0.0.0.0 videoads.lgtvcommon.com
 0.0.0.0 videoevents.outbrain.com
 0.0.0.0 videoexternalapi.outbrain.com
@@ -7938,6 +7984,7 @@
 0.0.0.0 w55c.net
 0.0.0.0 waf-metrics.bunnycdn.com
 0.0.0.0 warrantystar.com
+0.0.0.0 watchadsontape.com
 0.0.0.0 wave.outbrain.com
 0.0.0.0 wcs.naver.com
 0.0.0.0 wd.adcolony.com
@@ -8041,6 +8088,7 @@
 0.0.0.0 www.adaware.com
 0.0.0.0 www.adperio.com
 0.0.0.0 www.adroll.com
+0.0.0.0 www.ads-partners.wetransfer.com
 0.0.0.0 www.ads.giphy.com
 0.0.0.0 www.ads.wineenthusiast.com
 0.0.0.0 www.advidi.com

@@ -1,0 +1,55 @@
+# ============================================================
+# FILE HOSTING BLOCKLIST - BASIC
+# Total domains: 48
+# Generated: 2026-08-13 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||ad.picr.de^
+||ad.streamsilk.com^
+||ads.fappic.com^
+||ads.imagevenue.com^
+||advertape.net^
+||advertisertape.com^
+||analytics.filefactory.com^
+||analytics.joxi.ru^
+||analytics.oogly.io^
+||analytics.webhotpix.com^
+||collect.wetransfer.com^
+||diananatureforeign.com^
+||error-reporting.mediafire.com^
+||gettapeads.com^
+||jilliandescribecompany.com^
+||landsideresendtrousers.com^
+||loriwithinfamily.com^
+||lytics.fileditch.com^
+||maxfinishseveral.com^
+||metrics.vidmoly.to^
+||mkt1.photobucket.com^
+||mkt2.photobucket.com^
+||mkt3.photobucket.com^
+||newlytics.fileditch.com^
+||ox-d.wetransfer.com^
+||piwik.uloz.to^
+||rum.bunkr.ru^
+||stat.maxiol.com^
+||stats.bunkr.ru^
+||stats.pixeldrain.com^
+||stats.protonvideo.to^
+||stats.yourupload.com^
+||streamadblocker.xyz^
+||streamnoads.com^
+||streamtape.com^
+||tapeadsenjoyer.com^
+||tapeadvertisement.com^
+||tapeantiads.com^
+||tapeblocker.com^
+||tapelovesads.org^
+||tapenoads.com^
+||tapepops.com^
+||tapewithadblock.org^
+||track.fileq.net^
+||tracker.doodstream.com^
+||videoads.filefactory.com^
+||watchadsontape.com^
+||www.ads-partners.wetransfer.com^
