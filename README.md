@@ -65,6 +65,8 @@ research/            source material behind each category (verification trail)
 lists/categories/    canonical master lists (source of truth)
 scripts/build.py     generates dist/ from lists/categories/
 dist/                 generated output — do not edit directly
+reports/              new-domain reports — see "Keeping this up to date"
+
 ```
 
 ## Categories
