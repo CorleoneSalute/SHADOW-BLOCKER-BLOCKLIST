@@ -40,8 +40,6 @@ SOURCES = [
      "path": "hosts", "format": "hosts"},
     {"name": "EasyPrivacy", "owner": "easylist", "repo": "easylist",
      "path": "easyprivacy/easyprivacy_general.txt", "format": "adblock"},
-    {"name": "anti-AD", "owner": "privacy-protection-tools", "repo": "anti-AD",
-     "path": "anti-ad-domains.txt", "format": "plain"},
     {"name": "1Hosts Lite", "owner": "badmojr", "repo": "1Hosts",
      "path": "Lite/domains.txt", "format": "plain"},
     {"name": "no-google", "owner": "nickspaargaren", "repo": "no-google",
