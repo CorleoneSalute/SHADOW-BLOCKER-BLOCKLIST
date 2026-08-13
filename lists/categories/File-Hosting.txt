@@ -1,0 +1,81 @@
+# FILE HOSTING BLOCKLIST
+
+# IMAGE HOSTING 
+
+ads.imagevenue.com
+ads.fappic.com
+ad.picr.de
+analytics.webhotpix.com
+analytics.joxi.ru
+stat.maxiol.com
+mkt1.photobucket.com
+mkt2.photobucket.com
+mkt3.photobucket.com
+
+# VIDEO HOSTING 
+
+streamtape.com
+advertape.net
+advertisertape.com
+gettapeads.com
+streamnoads.com
+tapeadsenjoyer.com
+tapeadvertisement.com
+tapeantiads.com
+tapeblocker.com
+tapelovesads.org
+tapenoads.com
+tapepops.com
+tapewithadblock.org
+watchadsontape.com
+streamadblocker.xyz
+jilliandescribecompany.com
+loriwithinfamily.com
+maxfinishseveral.com
+diananatureforeign.com
+landsideresendtrousers.com
+tracker.doodstream.com
+metrics.vidmoly.to
+stats.yourupload.com
+tag.yourupload.com !
+analytics.oogly.io
+ad.streamsilk.com
+stats.protonvideo.to
+
+# CYBERLOCKER / FILE HOSTING 
+
+# BUNKR 
+stats.bunkr.ru 
+rum.bunkr.ru
+
+
+# PIXELDRAIN 
+stats.pixeldrain.com       
+
+
+# MEDIAFIRE 
+error-reporting.mediafire.com
+
+# FILEFACTORY 
+analytics.filefactory.com  
+videoads.filefactory.com   
+
+
+# ULOZ.TO 
+piwik.uloz.to              
+
+
+# WETRANSFER 
+tag.wetransfer.com !             
+ox-d.wetransfer.com            
+www.ads-partners.wetransfer.com
+collect.wetransfer.com
+
+
+# FILEDITCH 
+lytics.fileditch.com 
+newlytics.fileditch.com
+
+
+# FILEQ 
+track.fileq.net
