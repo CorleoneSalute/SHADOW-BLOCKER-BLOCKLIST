@@ -37,12 +37,10 @@ DOMAIN_RE = re.compile(
 SOURCES = [
     {"name": "AdGuard SDNS Filter", "owner": "AdguardTeam", "repo": "AdGuardSDNSFilter",
      "path": "Filters/filter.txt", "format": "adblock"},
-    {"name": "StevenBlack/hosts", "owner": "StevenBlack", "repo": "hosts",
+    {"name": "StevenBlack", "owner": "StevenBlack", "repo": "hosts",
      "path": "hosts", "format": "hosts"},
     {"name": "EasyPrivacy", "owner": "easylist", "repo": "easylist",
      "path": "easyprivacy/easyprivacy_general.txt", "format": "adblock"},
-    {"name": "anti-AD", "owner": "privacy-protection-tools", "repo": "anti-AD",
-     "path": "anti-ad-domains.txt", "format": "plain"},
     {"name": "1Hosts Lite", "owner": "badmojr", "repo": "1Hosts",
      "path": "Lite/domains.txt", "format": "plain"},
     {"name": "no-google", "owner": "nickspaargaren", "repo": "no-google",
@@ -69,7 +67,7 @@ SOURCES = [
     {"name": "LG WebOS", "group": "HaGeZi Native Lists",
      "owner": "hagezi", "repo": "dns-blocklists",
      "path": "dnsmasq/native.lgwebos.txt", "format": "dnsmasq"},
-    {"name": "TikTok (extended)", "group": "HaGeZi Native Lists",
+    {"name": "TikTok", "group": "HaGeZi Native Lists",
      "owner": "hagezi", "repo": "dns-blocklists",
      "path": "dnsmasq/native.tiktok.extended.txt", "format": "dnsmasq"},
 ]
