@@ -20,10 +20,6 @@ No new candidate domains in the last 24 hours.
 
 No new candidate domains in the last 24 hours.
 
-## anti-AD
-
-No new candidate domains in the last 24 hours.
-
 ## 1Hosts Lite
 
 No new candidate domains in the last 24 hours.
@@ -37,4 +33,3 @@ No new candidate domains in the last 24 hours.
 | Domain | Seen in commit |
 |---|---|
 | hw7w59pe.ok0r5.adobestats.io | [link](https://github.com/ignaciocastro/a-dove-is-dumb/commit/b4148f51d50cfc138b4cf617b27b49430b8f991d) |
-
