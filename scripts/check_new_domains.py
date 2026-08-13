@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Checks 6 external blocklist repos for domains added in the last 24
+Checks external blocklist repos for domains added in the last 24
 hours, and reports which of those domains are NOT already present in
 this project's lists/categories/. Does not add anything automatically
 - purely a signal for manual research, consistent with this project's
@@ -16,7 +16,6 @@ Run:
 import json
 import os
 import re
-import sys
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -32,7 +31,9 @@ DOMAIN_RE = re.compile(
     r"(\.(?!-)[A-Za-z0-9-]{1,63}(?<!-))+$"
 )
 
-# owner, repo, path, format: "hosts" | "adblock" | "plain"
+# owner, repo, path, format: "hosts" | "adblock" | "plain" | "dnsmasq"
+# "group" is optional - sources sharing a group are nested under one
+# header in the report instead of each getting a top-level section.
 SOURCES = [
     {"name": "AdGuard SDNS Filter", "owner": "AdguardTeam", "repo": "AdGuardSDNSFilter",
      "path": "Filters/filter.txt", "format": "adblock"},
@@ -40,12 +41,37 @@ SOURCES = [
      "path": "hosts", "format": "hosts"},
     {"name": "EasyPrivacy", "owner": "easylist", "repo": "easylist",
      "path": "easyprivacy/easyprivacy_general.txt", "format": "adblock"},
+    {"name": "anti-AD", "owner": "privacy-protection-tools", "repo": "anti-AD",
+     "path": "anti-ad-domains.txt", "format": "plain"},
     {"name": "1Hosts Lite", "owner": "badmojr", "repo": "1Hosts",
      "path": "Lite/domains.txt", "format": "plain"},
     {"name": "no-google", "owner": "nickspaargaren", "repo": "no-google",
      "path": "categories/domains.txt", "format": "hosts"},
     {"name": "a-dove-is-dumb (Adobe)", "owner": "ignaciocastro", "repo": "a-dove-is-dumb",
      "path": "list.txt", "format": "hosts"},
+
+    # HaGeZi native platform lists - grouped under one report header
+    {"name": "Samsung", "group": "HaGeZi Native Lists",
+     "owner": "hagezi", "repo": "dns-blocklists",
+     "path": "dnsmasq/native.samsung.txt", "format": "dnsmasq"},
+    {"name": "Xiaomi", "group": "HaGeZi Native Lists",
+     "owner": "hagezi", "repo": "dns-blocklists",
+     "path": "dnsmasq/native.xiaomi.txt", "format": "dnsmasq"},
+    {"name": "Huawei", "group": "HaGeZi Native Lists",
+     "owner": "hagezi", "repo": "dns-blocklists",
+     "path": "dnsmasq/native.huawei.txt", "format": "dnsmasq"},
+    {"name": "Oppo/Realme", "group": "HaGeZi Native Lists",
+     "owner": "hagezi", "repo": "dns-blocklists",
+     "path": "dnsmasq/native.oppo-realme.txt", "format": "dnsmasq"},
+    {"name": "Vivo", "group": "HaGeZi Native Lists",
+     "owner": "hagezi", "repo": "dns-blocklists",
+     "path": "dnsmasq/native.vivo.txt", "format": "dnsmasq"},
+    {"name": "LG WebOS", "group": "HaGeZi Native Lists",
+     "owner": "hagezi", "repo": "dns-blocklists",
+     "path": "dnsmasq/native.lgwebos.txt", "format": "dnsmasq"},
+    {"name": "TikTok (extended)", "group": "HaGeZi Native Lists",
+     "owner": "hagezi", "repo": "dns-blocklists",
+     "path": "dnsmasq/native.tiktok.extended.txt", "format": "dnsmasq"},
 ]
 
 
@@ -67,7 +93,7 @@ def api_get(url, token):
         url,
         headers={
             "Accept": "application/vnd.github+json",
-            "Authorization": f"Bearer {token}" if token else "",
+            **({"Authorization": f"Bearer {token}"} if token else {}),
             "X-GitHub-Api-Version": "2022-11-28",
             "User-Agent": "shadow-blocker-blocklist-bot",
         },
@@ -125,6 +151,15 @@ def extract_added_domains(patch_text, fmt):
             if DOMAIN_RE.match(d):
                 domains.add(d)
 
+        elif fmt == "dnsmasq":
+            if content.startswith("#"):
+                continue
+            m = re.match(r"^local=/([a-zA-Z0-9.-]+)/$", content)
+            if m:
+                d = m.group(1).lower()
+                if DOMAIN_RE.match(d):
+                    domains.add(d)
+
     return domains
 
 
@@ -136,7 +171,8 @@ def check_all():
     existing = load_existing_domains()
     print(f"Loaded {len(existing)} existing domains from lists/categories/")
 
-    sections = []
+    # results keyed by (group_or_None, name) preserving SOURCES order
+    results = []
     for src in SOURCES:
         print(f"Checking {src['name']}...")
         try:
@@ -144,7 +180,7 @@ def check_all():
                 src["owner"], src["repo"], src["path"], since_iso, token
             )
         except Exception as e:
-            sections.append((src["name"], None, str(e)))
+            results.append((src.get("group"), src["name"], None, str(e)))
             continue
 
         new_domains = {}
@@ -162,7 +198,7 @@ def check_all():
         missing = sorted(
             (d, url) for d, url in new_domains.items() if d not in existing
         )
-        sections.append((src["name"], missing, None))
+        results.append((src.get("group"), src["name"], missing, None))
 
     REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -179,22 +215,44 @@ def check_all():
         "",
     ]
 
-    for name, missing, error in sections:
-        lines.append(f"## {name}")
-        lines.append("")
+    def render_source_block(name, missing, error, heading_level):
+        block = [f"{'#' * heading_level} {name}", ""]
         if error is not None:
-            lines.append(f"Could not check: {error}")
+            block.append(f"Could not check: {error}")
         elif not missing:
-            lines.append("No new candidate domains in the last 24 hours.")
+            block.append("No new candidate domains in the last 24 hours.")
         else:
-            lines.append("| Domain | Seen in commit |")
-            lines.append("|---|---|")
+            block.append("| Domain | Seen in commit |")
+            block.append("|---|---|")
             for domain, url in missing:
-                lines.append(f"| {domain} | [link]({url}) |")
+                block.append(f"| {domain} | [link]({url}) |")
+        block.append("")
+        return block
+
+    # Preserve first-seen order of groups / ungrouped sources
+    seen_groups = []
+    ungrouped = []
+    grouped = {}
+    for group, name, missing, error in results:
+        if group is None:
+            ungrouped.append((name, missing, error))
+        else:
+            if group not in grouped:
+                grouped[group] = []
+                seen_groups.append(group)
+            grouped[group].append((name, missing, error))
+
+    for name, missing, error in ungrouped:
+        lines += render_source_block(name, missing, error, heading_level=2)
+
+    for group in seen_groups:
+        lines.append(f"## {group}")
         lines.append("")
+        for name, missing, error in grouped[group]:
+            lines += render_source_block(name, missing, error, heading_level=3)
 
     REPORT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    total = sum(len(m) for _, m, e in sections if e is None and m)
+    total = sum(len(m) for _, _, m, e in results if e is None and m)
     print(f"\n{total} candidate domain(s) across all sources. "
           f"See {REPORT_PATH.relative_to(ROOT)}")
 
