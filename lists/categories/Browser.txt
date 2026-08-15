@@ -1,0 +1,378 @@
+# BROWSER APPS DNS BLOCKLIST
+
+Total domains: 303
+Last update: 11/16/2026
+
+# GOOGLE / CHROME
+chromereporting-pa.googleapis.com
+
+# MOZILLA / FIREFOX
+telemetry.mozilla.org
+incoming.telemetry.mozilla.org
+telemetry-coverage.mozilla.org
+contile.services.mozilla.com
+ads.mozilla.org
+snippets.cdn.mozilla.net
+snippets.allizom.org
+crash-stats.mozilla.org
+crash-pings.mozilla.org
+analysis-output.telemetry.mozilla.org
+ads-img.mozilla.org
+probeinfo.telemetry.mozilla.org
+missioncontrol.telemetry.mozilla.org
+glam.telemetry.mozilla.org
+download-stats.mozilla.org
+docs.telemetry.mozilla.org
+workflow.telemetry.mozilla.org
+talkback-reports.mozilla.org
+probes.telemetry.mozilla.org
+crash-reports.mozilla.com
+crash-reports-xpsp2.mozilla.com
+crash-stats.mozilla.com
+tracking.services.mozilla.com
+
+# BRAVE BROWSER
+p3a.brave.com
+p3a.bravesoftware.com
+p2a.brave.com
+p2a.bravesoftware.com
+p2a-json.brave.com
+p3a-json.brave.com
+p3a-creative.brave.com
+metrics.bravesoftware.com
+telemetry.brave.com
+usage-ping.brave.com
+star-randsrv.bsg.brave.com
+collector.bsg.brave.com
+ads-help.brave.com
+ads-serve.brave.com
+ads-static.brave.com
+ads.brave.com
+analytics.brave.com
+contact.ads.brave.com
+geo.ads.brave.com
+mockup.ads.brave.com
+ohttp.metrics.brave.com
+static.ads.brave.com
+static.metrics.brave.com
+ads-serve.bravesoftware.com
+ads-static.bravesoftware.com
+ads.bravesoftware.com
+anonymous.ads.bravesoftware.com
+geo.ads.bravesoftware.com
+mywallet.ads.bravesoftware.com
+ohttp.ads.bravesoftware.com
+ohttp.metrics.bravesoftware.com
+static.ads.bravesoftware.com
+static.metrics.bravesoftware.com
+usage-ping.bravesoftware.com
+variations.bravesoftware.com
+
+# OPERA
+telemetry.opera.com
+af.opera.com
+desktop-dna.osp.opera.software
+adx.opera.com
+a-netstats-1.opera.com
+a.ns.e.opera.com
+admanager.opera.com
+ads-config.op-mobile.opera.com
+ads.opera.com
+af.geo.opera.com
+am4-af.opera.com
+ams-ads.op-mobile.opera.com
+ams-af.opera.com
+ams-api-ad.op-mobile.opera.com
+b-ca.adx.opera.com
+b-eu.adx.opera.com
+b-sg.adx.opera.com
+b-sg.geo2.op-mobile.opera.com
+b-sgo.adx.opera.com
+b-trn.adx.opera.com
+b-us.adx.opera.com
+b-usc.adx.opera.com
+b.ns.e.opera.com
+bz.adx.opera.com
+c.ns.e.opera.com
+central-log.opera.com
+crash-cn.opera.com
+crashstats-collector.opera.com
+crashstats-test.opera.com
+doc.adx.opera.com
+hugo.crash.opera.com
+crash.opera.com
+img-adx.op-mobile.opera.com
+info.geo.op-mobile.opera.com
+info.geo2.op-mobile.opera.com
+ipds.opr.adx.opera.com
+opr.adx.opera.com
+osp-log-fetcher.opera.com
+outspot2-ams.adx.opera.com
+owl.opera.com
+outspot-ash.op-mobile.opera.com
+pagead.adx.ams.op-mobile.opera.com
+post.bz.adx.opera.com
+pps-log.op-mobile.opera.com
+px-adx.geo2.op-mobile.opera.com
+px-adx.op-mobile.opera.com
+res.adx.opera.com
+rsyslog-ams.opera.com
+s-adx.geo.op-mobile.opera.com
+s-adx.geo2.op-mobile.opera.com
+s-adx.op-mobile.opera.com
+s-pre.adx.opera.com
+s.adx.opera.com
+s.bz.adx.opera.com
+t-adx.op-mobile.opera.com
+t-odx.geo.op-mobile.opera.com
+t-odx.geo2.op-mobile.opera.com
+t-odx.op-mobile.opera.com
+t.adx.opera.com
+
+# UC BROWSER (Alibaba)
+gjapplog.ucweb.com
+logssug.ucweb.com
+ucads.ucweb.com
+ucads-static.ucweb.com
+meta-ucads.ucweb.com
+
+# BAIDU BROWSER
+hm.baidu.com
+tongji.baidu.com
+imgstat.baidu.com
+tracker.baidu.com
+mtj.baidu.com
+union.baidu.com
+cpro.baidu.com
+cpro.baidu.cn
+click.hm.baidu.com
+sestat.baidu.com
+rplog.baidu.com
+stat.v.baidu.com
+sclick.baidu.com
+ucstat.baidu.com
+wkctj.baidu.com
+zz.bdstatic.com
+tuijian.baidu.com
+tuisong.baidu.com
+sa.tuisong.baidu.com
+zhanzhang.baidu.com
+push.zhanzhang.baidu.com
+a.baidu.com
+gdown.baidu.com
+a.gdown.baidu.com
+a.hiphotos.baidu.com
+ablog.baidu.com
+activity.baidu.com
+ad.baidu.com
+ada.baidu.com
+ads.baidu.com
+adscdn.baidu.com
+adsdianying.baidu.com
+appads.baidu.com
+biglog.baidu.com
+biglog.bae.baidu.com
+bigdata.baidu.com
+bigdataplus.baidu.com
+bugs.baidu.com
+c.baidu.com
+c.hiphotos.baidu.com
+clogger.waimai.baidu.com
+contentad.baidu.com
+e.baidu.com
+e.gdown.baidu.com
+eclick.baidu.com
+events.baidu.com
+f.hiphotos.baidu.com
+fclick.baidu.com
+fclog.baidu.com
+feedads.baidu.com
+fleet-telemetry.map.baidu.com
+g.baidu.com
+istats.baidu.com
+log.baidu.com
+log.hm.baidu.com
+log.im.baidu.com
+log.map.baidu.com
+log.news.baidu.com
+log.su.baidu.com
+log.waimai.baidu.com
+m1.baidu.com
+metrics.baidu.com
+mobads.baidu.com
+nadvideo2.baidu.com
+nadvideocm.baidu.com
+nlog.baidu.com
+nuomi-metric.baidu.com
+nuomimetric.baidu.com
+pcad.video.baidu.com
+report-uri.baidu.com
+popin.cc
+
+# YANDEX BROWSER
+metrika.yandex.ru
+yandexmetrica.com
+awaps.yandex.net
+awaps.yandex.ru
+an.yandex.ru
+clck.yandex.ru
+cnt.yandex.ru
+startup.mobile.yandex.net
+mc.yandex.ru
+rum.dzen.ru
+ms.dzen.ru
+ad-constructor.yandex.com
+ad-click.yandex.ru
+admetrica.yandex.com
+adfox.yandex.com
+analytics.yandex.com
+ads.yandex.com
+an.yandex.com
+api-metrica.yandex.com
+api-metrika.yandex.com
+api.ad-fox.yandex.com
+api.appmetrica.yandex.com
+api.appmetrika.yandex.com
+app.tracker.yandex.com
+appmetrica.yandex.com
+appmetrika.yandex.com
+collection.yandex.com
+collections.yandex.com
+drivematics.yandex.com
+log.api-maps.yandex.com
+log.strm.yandex.com
+metric.yandex.com
+metr.yandex.com
+metrica.yandex.com
+metrika-api.yandex.com
+metrika.yandex.bymetrika.yandex.com
+metrika.yandex.com
+mobmetrica.yandex.com
+mobmetrika.yandex.com
+reklama.yandex.com
+tracker.yandex.com
+tracking.ott.yandex.com
+
+# VIVALDI
+telemetry.vivaldi.com
+stats.vivaldi.com
+crash.vivaldi.com
+
+# DUCKDUCKGO BROWSER
+improving.duckduckgo.com
+
+# SWISSCOWS
+telemetry.swisscows.com
+
+# QWANT
+rum.qwant.com
+stats.qwant.com
+stats.poc.qwant.com
+
+# SOGOU BROWSER
+log.sogou.com
+stat.sogou.com
+apd.ping.android.shouji.sogou.com
+api-ios.shouji.sogou.com
+aiinput.shouji.sogou.com
+123.sogou.com
+apiserv.shouji.sogou.com
+foreignpb.android.shouji.sogou.com
+get-v6.shouji.sogou.com
+get.shouji.sogou.com
+h5api.shouji.sogou.com
+improve.ios.shouji.sogou.com
+infoflowpb.android.shouji.sogou.com
+input.shouji.sogou.com
+instantpb.android.shouji.sogou.com
+ios.shouji.sogou.com
+ocr.shouji.sogou.com
+open.shouji.sogou.com
+ping-ios.shouji.sogou.com
+ping-msganr.android.shouji.sogou.com
+ping.android.shouji.sogou.com
+ping.ios.shouji.sogou.com
+ping.pinyin.sogou.com
+rrr.shouji.sogou.com
+segm.shouji.sogou.com
+shouji-v6.sogou.com
+shouji.sogou.com
+speech.shouji.sogou.com
+srv.ios.shouji.sogou.com
+test-tips.shouji.sogou.com
+tips.shouji.sogou.com
+tv-ws.shouji.sogou.com
+update.ping.android.shouji.sogou.com
+ws-ios.shouji.sogou.com
+ws-keyboard.shouji.sogou.com
+
+# HOLA BROWSER
+# Privacy and security risk — use is not recommended.
+# Runs on Transsion/Talpa's own infrastructure.
+
+# Main API/backend (bro-transsion.com):
+# api.bro-transsion.com
+# api-center.bro-transsion.com
+# papi.bro-transsion.com
+# hola-api.bro-transsion.com
+# hola-fb-api.bro-transsion.com
+# feeds-static.bro-transsion.com
+
+# AoneRoom (app/service hub):
+# h5.aoneroom.com
+# api3-api6.aoneroom.com (+ sg-suffixed variants)
+# acdn.aoneroom.com
+# hola-api.aoneroom.com
+# miniapp.transsion.com
+# shalltry.com
+
+# (cloud config/update infrastructure):
+# app-manage-api.shalltry.com
+# cloud-config-api.shalltry.com
+# cloud-config-oss.shalltry.com
+# gslb.shalltry.com
+# upgrade.shalltry.com
+# ire-oneid.shalltry.com
+# newsaggreg.shalltry.com
+
+# Hisavana (Transsion's own ad network):
+hisavana.com
+api.hisavana.com
+cc-api.hisavana.com
+hisavana-adx.transacme.com
+
+# Vskit (Transsion's short-video app, integrated into the browser):
+# api.vskit.tv
+# video.vskit.tv
+# up1-up10.vskit.tv
+# user.vskit.tv
+vskit-log.vskit.tv # (log/analytics)
+
+# Aha Game Center:
+# api.ahagamecenter.com
+# aha-img-static.ahagamecenter.com etc. (~15 subdomains)
+
+# Other Transsion products:
+# palmplaystore.com (Palm Store)
+# xshareapp.com (Xshare)
+# twibida.com
+# sunnbird.com
+
+# Third-party SDKs (ad/analytics)
+
+# ByteDance/TikTok/Pangle (embedded ad SDK):
+# log.byteoversea.com
+# log-mva.isnssdk.com
+# analytics.tiktok.com
+# ssdk-sg.pangle.io
+# p16-sign-sg.tiktokcdn.com
+
+# Google/AdMob/Firebase: standard — pagead2.googlesyndication.com, googleads.g.doubleclick.net, firebaseremoteconfig.googleapis.com etc.
+
+# Other ad networks: AppLovin, Tapjoy, Chartboost, Taboola, Mintegral (mbridge)
+
+# api.ipify.org — public IP lookup service (usable for fingerprinting/geolocation)
+
+# instagram.thelifestyls.com, facebook.tubeings.com that look unofficial/odd — likely on the scrape target list for the "video downloader" feature, but the last two are not official Instagram/Facebook domains and look like spam-style names.
+
+# ByteDance APM (performance/analytics) SDKs are embedded in native libraries: libapminsighta.so / libapminsightb.so
