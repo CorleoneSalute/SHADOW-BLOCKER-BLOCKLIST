@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8597
+# Total domains: 8587
 # Generated: 2026-08-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -13,7 +13,6 @@
 ||02.sa.telemetry.zoom.us^
 ||0i.sh-cdn.com^
 ||1.upload.advertise.myspace.com^
-||123.sogou.com^
 ||15.taboola.com^
 ||1fhc-event.fhcasino.com^
 ||1fhc-event2.fhcasino.com^
@@ -118,7 +117,6 @@
 ||activeation.com^
 ||activeterium.com^
 ||activity-log-improvements.feature.varify.io^
-||activity.baidu.com^
 ||activity.browser.intl.miui.com^
 ||activity.wisepops.com^
 ||acuityads.com^
@@ -3383,7 +3381,6 @@
 ||events.api.gamma.app^
 ||events.api.nvidia.com^
 ||events.applovin.com^
-||events.baidu.com^
 ||events.betterhelp.com^
 ||events.bidstack.com^
 ||events.bsky.app^
@@ -3680,7 +3677,6 @@
 ||gatustox.net^
 ||gb.info.lgsmartad.com^
 ||gdanstum.net^
-||gdown.baidu.com^
 ||gecko-pangle-sg.byteoversea.com^
 ||gemini-analytics.google.com^
 ||gemini.yahoo.com^
@@ -5646,7 +5642,6 @@
 ||ping.android.shouji.sogou.com^
 ||ping.chartbeat.net^
 ||ping.ios.shouji.sogou.com^
-||ping.pinyin.sogou.com^
 ||pintient.com^
 ||pips.taboola.com^
 ||piwik.uloz.to^
@@ -5991,7 +5986,6 @@
 ||report-eu.uc.heytapmobile.com^
 ||report-in.uc.heytapmobile.com^
 ||report-sg.uc.heytapmobile.com^
-||report-uri.baidu.com^
 ||report.appmetrica.yango.com^
 ||report.cookie-script.com^
 ||report.gras.samsungdm.com^
@@ -6804,7 +6798,6 @@
 ||startapp.com^
 ||startappexchange.com^
 ||startappservice.com^
-||startup.mobile.yandex.net^
 ||stat.360safe.com^
 ||stat.api.xiaomi.com^
 ||stat.avira.com^
@@ -7140,7 +7133,6 @@
 ||tags.mindbodyonline.com^
 ||tags.retargeter.com^
 ||tags.zetaglobal.com^
-||talkback-reports.mozilla.org^
 ||tapad.com^
 ||tapeadsenjoyer.com^
 ||tapeadvertisement.com^
@@ -8141,7 +8133,6 @@
 ||vad-bid.adsrvr.org^
 ||vae-bid.adsrvr.org^
 ||vam-bid.adsrvr.org^
-||variations.bravesoftware.com^
 ||vars.hotjar.com^
 ||vars.webmaxy.com^
 ||vas.outbrain.com^
@@ -8584,7 +8575,6 @@
 ||zeus.ad.intl.xiaomi.com^
 ||zeus.ad.xiaomi.com^
 ||zeydoo.com^
-||zhanzhang.baidu.com^
 ||zi.ma^
 ||zip.net^
 ||ziplog.marleyspoon.com^

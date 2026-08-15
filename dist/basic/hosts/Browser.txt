@@ -1,18 +1,16 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 283
+# Total domains: 273
 # Generated: 2026-08-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
-0.0.0.0 123.sogou.com
 0.0.0.0 a-netstats-1.opera.com
 0.0.0.0 a.baidu.com
 0.0.0.0 a.gdown.baidu.com
 0.0.0.0 a.hiphotos.baidu.com
 0.0.0.0 a.ns.e.opera.com
 0.0.0.0 ablog.baidu.com
-0.0.0.0 activity.baidu.com
 0.0.0.0 ad-click.yandex.ru
 0.0.0.0 ad-constructor.yandex.com
 0.0.0.0 ad.baidu.com
@@ -115,7 +113,6 @@
 0.0.0.0 e.baidu.com
 0.0.0.0 e.gdown.baidu.com
 0.0.0.0 eclick.baidu.com
-0.0.0.0 events.baidu.com
 0.0.0.0 f.hiphotos.baidu.com
 0.0.0.0 fclick.baidu.com
 0.0.0.0 fclog.baidu.com
@@ -123,7 +120,6 @@
 0.0.0.0 fleet-telemetry.map.baidu.com
 0.0.0.0 foreignpb.android.shouji.sogou.com
 0.0.0.0 g.baidu.com
-0.0.0.0 gdown.baidu.com
 0.0.0.0 geo.ads.brave.com
 0.0.0.0 geo.ads.bravesoftware.com
 0.0.0.0 get-v6.shouji.sogou.com
@@ -207,7 +203,6 @@
 0.0.0.0 ping-msganr.android.shouji.sogou.com
 0.0.0.0 ping.android.shouji.sogou.com
 0.0.0.0 ping.ios.shouji.sogou.com
-0.0.0.0 ping.pinyin.sogou.com
 0.0.0.0 popin.cc
 0.0.0.0 post.bz.adx.opera.com
 0.0.0.0 pps-log.op-mobile.opera.com
@@ -217,7 +212,6 @@
 0.0.0.0 px-adx.geo2.op-mobile.opera.com
 0.0.0.0 px-adx.op-mobile.opera.com
 0.0.0.0 reklama.yandex.com
-0.0.0.0 report-uri.baidu.com
 0.0.0.0 res.adx.opera.com
 0.0.0.0 rplog.baidu.com
 0.0.0.0 rrr.shouji.sogou.com
@@ -241,7 +235,6 @@
 0.0.0.0 speech.shouji.sogou.com
 0.0.0.0 srv.ios.shouji.sogou.com
 0.0.0.0 star-randsrv.bsg.brave.com
-0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stat.sogou.com
 0.0.0.0 stat.v.baidu.com
 0.0.0.0 static.ads.brave.com
@@ -256,7 +249,6 @@
 0.0.0.0 t-odx.geo2.op-mobile.opera.com
 0.0.0.0 t-odx.op-mobile.opera.com
 0.0.0.0 t.adx.opera.com
-0.0.0.0 talkback-reports.mozilla.org
 0.0.0.0 telemetry-coverage.mozilla.org
 0.0.0.0 telemetry.brave.com
 0.0.0.0 telemetry.mozilla.org
@@ -280,11 +272,9 @@
 0.0.0.0 update.ping.android.shouji.sogou.com
 0.0.0.0 usage-ping.brave.com
 0.0.0.0 usage-ping.bravesoftware.com
-0.0.0.0 variations.bravesoftware.com
 0.0.0.0 wkctj.baidu.com
 0.0.0.0 workflow.telemetry.mozilla.org
 0.0.0.0 ws-ios.shouji.sogou.com
 0.0.0.0 ws-keyboard.shouji.sogou.com
 0.0.0.0 yandexmetrica.com
-0.0.0.0 zhanzhang.baidu.com
 0.0.0.0 zz.bdstatic.com

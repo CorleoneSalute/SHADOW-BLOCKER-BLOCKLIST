@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8597
+# Total domains: 8587
 # Generated: 2026-08-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -13,7 +13,6 @@
 0.0.0.0 02.sa.telemetry.zoom.us
 0.0.0.0 0i.sh-cdn.com
 0.0.0.0 1.upload.advertise.myspace.com
-0.0.0.0 123.sogou.com
 0.0.0.0 15.taboola.com
 0.0.0.0 1fhc-event.fhcasino.com
 0.0.0.0 1fhc-event2.fhcasino.com
@@ -118,7 +117,6 @@
 0.0.0.0 activeation.com
 0.0.0.0 activeterium.com
 0.0.0.0 activity-log-improvements.feature.varify.io
-0.0.0.0 activity.baidu.com
 0.0.0.0 activity.browser.intl.miui.com
 0.0.0.0 activity.wisepops.com
 0.0.0.0 acuityads.com
@@ -3383,7 +3381,6 @@
 0.0.0.0 events.api.gamma.app
 0.0.0.0 events.api.nvidia.com
 0.0.0.0 events.applovin.com
-0.0.0.0 events.baidu.com
 0.0.0.0 events.betterhelp.com
 0.0.0.0 events.bidstack.com
 0.0.0.0 events.bsky.app
@@ -3680,7 +3677,6 @@
 0.0.0.0 gatustox.net
 0.0.0.0 gb.info.lgsmartad.com
 0.0.0.0 gdanstum.net
-0.0.0.0 gdown.baidu.com
 0.0.0.0 gecko-pangle-sg.byteoversea.com
 0.0.0.0 gemini-analytics.google.com
 0.0.0.0 gemini.yahoo.com
@@ -5646,7 +5642,6 @@
 0.0.0.0 ping.android.shouji.sogou.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping.ios.shouji.sogou.com
-0.0.0.0 ping.pinyin.sogou.com
 0.0.0.0 pintient.com
 0.0.0.0 pips.taboola.com
 0.0.0.0 piwik.uloz.to
@@ -5991,7 +5986,6 @@
 0.0.0.0 report-eu.uc.heytapmobile.com
 0.0.0.0 report-in.uc.heytapmobile.com
 0.0.0.0 report-sg.uc.heytapmobile.com
-0.0.0.0 report-uri.baidu.com
 0.0.0.0 report.appmetrica.yango.com
 0.0.0.0 report.cookie-script.com
 0.0.0.0 report.gras.samsungdm.com
@@ -6804,7 +6798,6 @@
 0.0.0.0 startapp.com
 0.0.0.0 startappexchange.com
 0.0.0.0 startappservice.com
-0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stat.360safe.com
 0.0.0.0 stat.api.xiaomi.com
 0.0.0.0 stat.avira.com
@@ -7140,7 +7133,6 @@
 0.0.0.0 tags.mindbodyonline.com
 0.0.0.0 tags.retargeter.com
 0.0.0.0 tags.zetaglobal.com
-0.0.0.0 talkback-reports.mozilla.org
 0.0.0.0 tapad.com
 0.0.0.0 tapeadsenjoyer.com
 0.0.0.0 tapeadvertisement.com
@@ -8141,7 +8133,6 @@
 0.0.0.0 vad-bid.adsrvr.org
 0.0.0.0 vae-bid.adsrvr.org
 0.0.0.0 vam-bid.adsrvr.org
-0.0.0.0 variations.bravesoftware.com
 0.0.0.0 vars.hotjar.com
 0.0.0.0 vars.webmaxy.com
 0.0.0.0 vas.outbrain.com
@@ -8584,7 +8575,6 @@
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zeydoo.com
-0.0.0.0 zhanzhang.baidu.com
 0.0.0.0 zi.ma
 0.0.0.0 zip.net
 0.0.0.0 ziplog.marleyspoon.com

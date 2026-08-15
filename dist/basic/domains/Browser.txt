@@ -1,18 +1,16 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 283
+# Total domains: 273
 # Generated: 2026-08-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
-123.sogou.com
 a-netstats-1.opera.com
 a.baidu.com
 a.gdown.baidu.com
 a.hiphotos.baidu.com
 a.ns.e.opera.com
 ablog.baidu.com
-activity.baidu.com
 ad-click.yandex.ru
 ad-constructor.yandex.com
 ad.baidu.com
@@ -115,7 +113,6 @@ drivematics.yandex.com
 e.baidu.com
 e.gdown.baidu.com
 eclick.baidu.com
-events.baidu.com
 f.hiphotos.baidu.com
 fclick.baidu.com
 fclog.baidu.com
@@ -123,7 +120,6 @@ feedads.baidu.com
 fleet-telemetry.map.baidu.com
 foreignpb.android.shouji.sogou.com
 g.baidu.com
-gdown.baidu.com
 geo.ads.brave.com
 geo.ads.bravesoftware.com
 get-v6.shouji.sogou.com
@@ -207,7 +203,6 @@ ping-ios.shouji.sogou.com
 ping-msganr.android.shouji.sogou.com
 ping.android.shouji.sogou.com
 ping.ios.shouji.sogou.com
-ping.pinyin.sogou.com
 popin.cc
 post.bz.adx.opera.com
 pps-log.op-mobile.opera.com
@@ -217,7 +212,6 @@ push.zhanzhang.baidu.com
 px-adx.geo2.op-mobile.opera.com
 px-adx.op-mobile.opera.com
 reklama.yandex.com
-report-uri.baidu.com
 res.adx.opera.com
 rplog.baidu.com
 rrr.shouji.sogou.com
@@ -241,7 +235,6 @@ snippets.cdn.mozilla.net
 speech.shouji.sogou.com
 srv.ios.shouji.sogou.com
 star-randsrv.bsg.brave.com
-startup.mobile.yandex.net
 stat.sogou.com
 stat.v.baidu.com
 static.ads.brave.com
@@ -256,7 +249,6 @@ t-odx.geo.op-mobile.opera.com
 t-odx.geo2.op-mobile.opera.com
 t-odx.op-mobile.opera.com
 t.adx.opera.com
-talkback-reports.mozilla.org
 telemetry-coverage.mozilla.org
 telemetry.brave.com
 telemetry.mozilla.org
@@ -280,11 +272,9 @@ union.baidu.com
 update.ping.android.shouji.sogou.com
 usage-ping.brave.com
 usage-ping.bravesoftware.com
-variations.bravesoftware.com
 wkctj.baidu.com
 workflow.telemetry.mozilla.org
 ws-ios.shouji.sogou.com
 ws-keyboard.shouji.sogou.com
 yandexmetrica.com
-zhanzhang.baidu.com
 zz.bdstatic.com
