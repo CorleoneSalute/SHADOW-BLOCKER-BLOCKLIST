@@ -1,6 +1,6 @@
 # BROWSER APPS DNS BLOCKLIST
 
-Total domains: 303
+Total domains: 337
 Last update: 11/16/2026
 
 # GOOGLE / CHROME
@@ -24,7 +24,7 @@ glam.telemetry.mozilla.org
 download-stats.mozilla.org
 docs.telemetry.mozilla.org
 workflow.telemetry.mozilla.org
-talkback-reports.mozilla.org
+talkback-reports.mozilla.org !
 probes.telemetry.mozilla.org
 crash-reports.mozilla.com
 crash-reports-xpsp2.mozilla.com
@@ -66,7 +66,7 @@ ohttp.metrics.bravesoftware.com
 static.ads.bravesoftware.com
 static.metrics.bravesoftware.com
 usage-ping.bravesoftware.com
-variations.bravesoftware.com
+variations.bravesoftware.com !
 
 # OPERA
 telemetry.opera.com
@@ -156,14 +156,14 @@ zz.bdstatic.com
 tuijian.baidu.com
 tuisong.baidu.com
 sa.tuisong.baidu.com
-zhanzhang.baidu.com
+zhanzhang.baidu.com !
 push.zhanzhang.baidu.com
 a.baidu.com
-gdown.baidu.com
+gdown.baidu.com !
 a.gdown.baidu.com
 a.hiphotos.baidu.com
 ablog.baidu.com
-activity.baidu.com
+activity.baidu.com !
 ad.baidu.com
 ada.baidu.com
 ads.baidu.com
@@ -182,7 +182,7 @@ contentad.baidu.com
 e.baidu.com
 e.gdown.baidu.com
 eclick.baidu.com
-events.baidu.com
+events.baidu.com !
 f.hiphotos.baidu.com
 fclick.baidu.com
 fclog.baidu.com
@@ -206,7 +206,7 @@ nlog.baidu.com
 nuomi-metric.baidu.com
 nuomimetric.baidu.com
 pcad.video.baidu.com
-report-uri.baidu.com
+report-uri.baidu.com !
 popin.cc
 
 # YANDEX BROWSER
@@ -217,7 +217,7 @@ awaps.yandex.ru
 an.yandex.ru
 clck.yandex.ru
 cnt.yandex.ru
-startup.mobile.yandex.net
+startup.mobile.yandex.net !
 mc.yandex.ru
 rum.dzen.ru
 ms.dzen.ru
@@ -275,7 +275,7 @@ stat.sogou.com
 apd.ping.android.shouji.sogou.com
 api-ios.shouji.sogou.com
 aiinput.shouji.sogou.com
-123.sogou.com
+123.sogou.com !
 apiserv.shouji.sogou.com
 foreignpb.android.shouji.sogou.com
 get-v6.shouji.sogou.com
@@ -292,7 +292,7 @@ ping-ios.shouji.sogou.com
 ping-msganr.android.shouji.sogou.com
 ping.android.shouji.sogou.com
 ping.ios.shouji.sogou.com
-ping.pinyin.sogou.com
+ping.pinyin.sogou.com !
 rrr.shouji.sogou.com
 segm.shouji.sogou.com
 shouji-v6.sogou.com
@@ -307,7 +307,8 @@ ws-ios.shouji.sogou.com
 ws-keyboard.shouji.sogou.com
 
 # HOLA BROWSER
-# Privacy and security risk — use is not recommended.
+
+# ⚠️ Privacy and security risk — use is not recommended.
 # Runs on Transsion/Talpa's own infrastructure.
 
 # Main API/backend (bro-transsion.com):
