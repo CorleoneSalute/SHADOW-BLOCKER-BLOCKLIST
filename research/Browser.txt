@@ -1,0 +1,1462 @@
+BROWSER APPS REFERENCE BLOCKLIST 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CHROME (Google) 
+────────────────────────────────────────────────────────────
+Chrome Browser Services:
+google.com
+www.google.com
+google-analytics.com
+googleadservices.com
+googlesyndication.com
+googletagmanager.com
+googletagservices.com
+doubleclick.net
+2mdn.net
+pagead2.googlesyndication.com
+
+Chrome Sync Services:
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+accounts.google.com
+myaccount.google.com
+clients2.googleusercontent.com
+scone-pa.clients6.google.com
+
+Chrome Update Services:
+update.googleapis.com
+dl.google.com
+omahaproxy.appspot.com
+cros-omahaproxy.appspot.com
+pack.google.com
+
+Chrome Management & OAuth:
+m.google.com
+www.googleapis.com
+
+Chrome Download (HTTPS):
+dl-ssl.google.com
+
+Safe Browsing:
+safebrowsing.google.com
+safebrowsing-cache.google.com
+sb-ssl.google.com
+safebrowsing.googleapis.com
+enterprise-safebrowsing.googleapis.com
+
+Chrome Web Store:
+chrome.google.com
+chrome.google.com/webstore
+chromewebstore.google.com
+
+Chrome Web Store Icons:
+lh3.ggpht.com
+lh4.ggpht.com
+lh5.ggpht.com
+lh6.ggpht.com
+
+Chrome Experiments:
+chromestatus.com
+
+Chrome Crash Reporting:
+clients2.google.com/cr/report
+chromium-browser-symsrv.commondatastorage.googleapis.com
+
+Google Fonts:
+fonts.googleapis.com
+fonts.gstatic.com
+
+Google APIs:
+ajax.googleapis.com
+apis.google.com
+
+Google Cloud Services:
+googleapis.com
+googleusercontent.com
+storage.googleapis.com
+printerconfigurations.googleusercontent.com
+
+Chrome GMP / WebAssembly:
+commondatastorage.googleapis.com
+
+FLoC / Privacy Sandbox:
+privacysandbox.com
+privacysandbox.googleapis.com
+
+Google Connectivity & CDN:
+connectivitycheck.gstatic.com
+connectivitycheck.android.com
+csi.gstatic.com
+gstatic.com
+www.gstatic.com
+ssl.gstatic.com
+accounts.gstatic.com
+chromeos-ca.gstatic.com
+alt*.gstatic.com
+
+Google GVT Domains (Telemetry):
+*.1e100.net
+beacons.gvt2.com
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+beacons5.gvt2.com
+beacons5.gvt3.com
+beacons6.gvt2.com
+beacons6.gvt3.com
+redirector.gvt1.com
+edgedl.me.gvt1.com
+*.gvt1.com
+*.gvt2.com
+*.gvt3.com
+gvt2-cn.com
+gvt3.com
+
+Google APIs (Extended):
+chromereporting-pa.googleapis.com
+chromeosquirksserver-pa.googleapis.com
+
+Google AppSpot:
+gweb-gettingstartedguide.appspot.com
+
+Google YouTube (Related):
+accounts.youtube.com
+ytimg.com
+ggpht.com
+
+Chrome Education:
+youtubeeducation.com
+
+Chrome Enterprise Premium (2025):
+ingress.cloudproxy.app
+securegateway.goog
+*.securegateway.goog
+
+Chrome Captive Portal:
+play.googleapis.com
+
+Chrome Optimization:
+optimization-guide-pa.googleapis.com
+optimization-guide.googleapis.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SAFARI (Apple)
+────────────────────────────────────────────────────────────
+Safari Services:
+apple.com
+icloud.com
+apple-cloudkit.com
+
+Safari Suggestions:
+smoot.apple.com
+api.smoot.apple.com
+api-glb-weu.smoot.apple.com
+lookup-api.apple.com
+cdn.smoot.apple.com
+
+Safari Fraud Protection:
+phishfort.apple.com
+safebrowsing.apple.com
+token.safebrowsing.apple
+
+Safari Private Relay:
+mask.icloud.com
+mask-api.icloud.com
+mask-h2.icloud.com
+mask-canary.icloud.com
+*.apple-relay.fastly-edge.com
+*.apple-relay.cloudflare.com
+
+Safari Telemetry:
+metrics.apple.com
+xp.apple.com
+analytics.apple.com
+xp-cdn.apple.com
+
+Apple Device Setup:
+albert.apple.com
+captive.apple.com
+gs.apple.com
+humb.apple.com
+static.ips.apple.com
+sq-device.apple.com
+tbsc.apple.com
+
+Apple NTP (Time Sync):
+time.apple.com
+time-ios.apple.com
+time-macos.apple.com
+
+iCloud Sync:
+p64-icloud.com
+p65-icloud.com
+p*.icloud.com
+setup.icloud.com
+gateway.icloud.com
+statici.icloud.com
+ws-ee-maidsvc.icloud.com
+
+Apple Push Notifications:
+push.apple.com
+*.push.apple.com
+
+Apple Analytics:
+metrics.icloud.com
+events.apple.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EDGE (Microsoft)
+────────────────────────────────────────────────────────────
+Edge Browser Services:
+microsoft.com
+microsoftedge.com
+edge.microsoft.com
+
+Edge Update Services:
+msedge.api.cdp.microsoft.com
+edgeassetservice.azureedge.net
+iecvlist.microsoft.com
+
+Edge Download Locations:
+msedge.f.tlu.dl.delivery.mp.microsoft.com
+msedge.f.dl.delivery.mp.microsoft.com
+msedge.b.tlu.dl.delivery.mp.microsoft.com
+msedge.b.dl.delivery.mp.microsoft.com
+msedge.sf.tlu.dl.delivery.mp.microsoft.com
+msedge.sf.dl.delivery.mp.microsoft.com
+msedge.sb.tlu.dl.delivery.mp.microsoft.com
+msedge.sb.dl.delivery.mp.microsoft.com
+
+Edge Sign-In:
+login.live.com
+login.microsoftonline.com
+login.microsoft.com
+login.windows.net
+odc.officeapps.live.com
+cdn.odc.officeapps.live.com
+logincdn.msauth.net
+
+Edge Sync:
+substrate.office.com
+edge.activity.windows.com
+
+Edge Cloud Messaging:
+*.cloudmessaging.edge.microsoft.com
+
+Edge Management:
+clients.config.office.net
+
+Edge Privacy:
+privacy.microsoft.com
+
+Edge Azure Info Protection:
+api.aadrm.com
+api.aadrm.de
+api.aadrm.cn
+
+Bing Services:
+bing.com
+bingapis.com
+bing.net
+www.bing.com
+api.bing.com
+
+Edge Copilot / Sidebar:
+edgeservices.bing.com
+
+Microsoft Telemetry:
+watson.telemetry.microsoft.com
+vortex.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+v10.events.data.microsoft.com
+mobile.events.data.microsoft.com
+
+Microsoft Analytics:
+pipe.aria.microsoft.com
+
+Microsoft Advertising:
+ads.msn.com
+adnxs.com
+rad.msn.com
+
+Edge Shopping:
+edgeshoppingassist-pa.googleapis.com
+shopping.microsoft.com
+
+Edge Rewards:
+prod.rewardsplatform.microsoft.com
+
+Edge Feedback / Diagnostics:
+api.msa.diagnostics.office.com
+api.diagnostics.office.com
+
+Edge Extensions:
+msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com
+msedgeextensions.f.dl.delivery.mp.microsoft.com
+msedgeextensions.b.tlu.dl.delivery.mp.microsoft.com
+msedgeextensions.b.dl.delivery.mp.microsoft.com
+msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
+msedgeextensions.sf.dl.delivery.mp.microsoft.com
+msedgeextensions.sb.tlu.dl.delivery.mp.microsoft.com
+msedgeextensions.sb.dl.delivery.mp.microsoft.com
+*.dl.delivery.mp.microsoft.com
+*.do.dsp.mp.microsoft.com
+
+Microsoft Graph & Assets:
+graph.microsoft.com
+ntp.msn.com
+assets.msn.com
+
+Edge Passkey Authentication:
+edgepasskeysenclave.microsoft.com
+
+Edge Tab Groups AI:
+edge.microsoft.com/taggrouptitlegeneration
+
+Edge Extension Diagnostic:
+edge.microsoft.com/extensiondiagnostic/v1/clientreport/crx-telemetry
+
+Edge Web Content Filtering:
+edge.microsoft.com/webcontentfiltering/api/categories
+edge.microsoft.com/webcontentfiltering/settings/v1
+
+Edge Password Monitor:
+edge.microsoft.com/passwordbreachservice/v1/passwords/breach/query
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FIREFOX (Mozilla)
+────────────────────────────────────────────────────────────
+Firefox Services:
+mozilla.org
+mozilla.com
+firefox.com
+
+Firefox Sync:
+accounts.firefox.com
+api.accounts.firefox.com
+oauth.accounts.firefox.com
+token.services.mozilla.com
+profile.accounts.firefox.com
+sync-1-us-west1-g.sync.services.mozilla.com
+
+Firefox Suggestions:
+suggest.services.mozilla.com
+merino.services.mozilla.com
+
+Firefox Telemetry:
+telemetry.mozilla.org
+incoming.telemetry.mozilla.org
+telemetry-coverage.mozilla.org
+telemetry-experiment.cdn.mozilla.net
+coverage.mozilla.org
+
+Firefox Remote Settings:
+firefox.settings.services.mozilla.com
+firefox-settings-attachments.cdn.mozilla.net
+content-signature-2.cdn.mozilla.net
+
+Firefox Experiments:
+normandy.cdn.mozilla.net
+normandy-cloudfront.cdn.mozilla.net
+normandy.stage.mozaws.net
+normandy.dev.mozaws.net
+normandy-admin.stage.mozaws.net
+normandy-admin.prod.mozaws.net
+normandy-admin-bearer.stage.mozaws.net
+normandy-admin-bearer.prod.mozaws.net
+normandy-admin-bearer.dev.mozaws.net
+classify-client.services.mozilla.com
+
+Firefox Push:
+push.services.mozilla.com
+updates.push.services.mozilla.com
+autopush.prod.mozaws.net
+
+Firefox Add-ons:
+addons.mozilla.org
+addons.cdn.mozilla.net
+versioncheck.addons.mozilla.org
+discovery.addons.mozilla.org
+services.addons.mozilla.org
+
+Firefox Safe Browsing:
+shavar.services.mozilla.com
+safebrowsing.googleapis.com
+
+Firefox Monitor:
+monitor.firefox.com
+api.monitor.firefox.com
+
+Firefox Tracking Protection:
+tracking-protection.cdn.mozilla.net
+
+Firefox Analytics:
+snippets.cdn.mozilla.net
+snippets.allizom.org
+tiles.services.mozilla.com
+topsites.services.mozilla.com
+contile.services.mozilla.com
+contile-images.services.mozilla.com
+activity-stream-icons.services.mozilla.com
+
+Firefox New Tab Ads:
+ads.mozilla.org
+
+Firefox Updates & Downloads:
+aus1.mozilla.org
+aus2.mozilla.org
+aus3.mozilla.org
+aus4.mozilla.org
+aus5.mozilla.org
+download.cdn.mozilla.net
+download.mozilla.org
+archive.mozilla.org
+ftp.mozilla.org
+
+Firefox DoH Providers:
+mozilla.cloudflare-dns.com
+dns.shaw.ca
+doh.xfinity.com
+firefox.dns.nextdns.io
+private.canadianshield.cira.ca
+
+Firefox Services (Extended):
+detectportal.firefox.com
+blocklists.settings.services.mozilla.com
+ciscobinary.openh264.org
+content-signature.cdn.mozilla.net
+location.services.mozilla.com
+tiles-cloudfront.cdn.mozilla.net
+crash-stats.mozilla.com
+crash-stats.mozilla.org
+tbpl.mozilla.org
+
+Firefox Pocket:
+img-getpocket.cdn.mozilla.net
+getpocket.cdn.mozilla.net
+spocs.getpocket.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BRAVE BROWSER
+────────────────────────────────────────────────────────────
+Brave Services:
+brave.com
+brave.software
+bravesoftware.com
+
+Brave Search:
+search.brave.com
+safesearch.brave.com
+
+Brave Ads:
+ads.brave.com
+ads-serve.brave.com
+brave-ads-static.s3.brave.com
+ads-admin.bravesoftware.com
+geo.ads.brave.com
+static.ads.brave.com
+
+Brave Rewards:
+rewards.brave.com
+rewards.brave.software
+rewards.bravesoftware.com
+grant.rewards.brave.com
+publishers.basicattentiontoken.org
+
+Brave VPN:
+vpn.brave.com
+api.guardian.brave.com
+
+Brave Update:
+laptop-updates.brave.com
+updates.bravesoftware.com
+updates-cdn.bravesoftware.com
+
+Brave CDN / Components:
+components.brave.com
+cdn.brave.com
+dict.brave.com
+go-updater.brave.com
+brave-core-ext.s3.brave.com
+componentupdater.brave.com
+crlsets.brave.com
+redirector.brave.com
+brave-today-cdn.brave.com
+
+Brave Shields Stats:
+extensionupdater.brave.com
+
+Brave Analytics:
+p3a.brave.com
+p3a.bravesoftware.com
+p3a-dev.bravesoftware.com
+p2a.brave.com
+p2a.bravesoftware.com
+metrics.bravesoftware.com
+
+Brave Telemetry:
+variations.brave.com
+telemetry.brave.com
+usage-ping.brave.com
+
+Brave Static:
+static.brave.com
+static1.brave.com
+
+Brave Safe Browsing:
+safebrowsing.google.com
+safebrowsing.brave.com
+safebrowsing2.brave.com
+sb-ssl.brave.com
+
+Brave Sync
+sync-v2.brave.com
+sync-v2.brave.software
+sync-v2.bravesoftware.com
+
+Brave Search CDN:
+cdn.search.brave.com
+imgs.search.brave.com
+
+Brave Private CDN:
+pcdn.brave.com
+
+Brave STAR Telemetry:
+star-randsrv.bsg.brave.com
+collector.bsg.brave.com
+
+Brave P2A/P3A JSON:
+p2a-json.brave.com
+p3a-json.brave.com
+p3a-creative.brave.com
+
+Brave Translate:
+translate.brave.com
+translate-static.brave.com
+
+Brave Tor:
+tor.bravesoftware.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OPERA
+────────────────────────────────────────────────────────────
+Opera Services:
+opera.com
+www.opera.com
+operacdn.com
+opera-api.com
+opera-api2.com
+opera-software.com
+opera.technology
+
+Opera Platform / API / CDN:
+osp.opera.com
+api.opera.com
+cdn.opera.com
+config.opera.com
+
+Opera VPN:
+surfeasy.com
+operavpn.com
+api.surfeasy.com
+
+Opera News:
+news.opera.com
+api.news.opera.com
+feednews.com
+
+Opera Sync:
+sync.opera.com
+auth.opera.com
+link.opera.com
+
+Opera Turbo:
+turbo.opera.com
+compression.opera.com
+
+Opera GX:
+gx.opera.com
+www.opera-gx.com
+
+Opera Telemetry:
+telemetry.opera.com
+af.opera.com
+sitecheck2.opera.com
+weather.opera-api.com
+features.opera-api.com
+merchandise.opera-api.com
+
+Opera Updates & Downloads:
+autoupdate.opera.com
+autoupdate.geo.opera.com
+download3.operacdn.com
+download5.operacdn.com
+sd-images.operacdn.com
+addons-extensions.operacdn.com
+
+Opera Add-ons:
+addons.opera.com
+extension-updates.opera.com
+
+Opera Speed Dials:
+speeddials.opera.com
+speeddials.geo.opera.com
+
+Opera Desktop DNA:
+desktop-dna.osp.opera.software
+
+Opera Geo:
+get.geo.opera.com
+
+Opera Chinese Version:
+opera.com.cn
+
+Opera Flow / Pinboard:
+flow.opera.com
+pinboard.opera.com
+wallet.opera.com
+cashback.opera.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SAMSUNG INTERNET
+────────────────────────────────────────────────────────────
+Samsung Internet Services:
+samsung.com
+samsungcloud.com
+browser.samsung.com
+
+Samsung Telemetry:
+samsunganalytics.com
+samsungads.com
+telemetry.samsung.com
+analytics.samsung.com
+ads.samsungads.com
+
+Samsung Ads (Extended):
+config.samsungads.com
+events.samsungads.com
+
+Samsung Extensions:
+galaxy.store
+galaxystore.samsung.com
+
+Samsung Tracking Protection:
+disconnect.me
+
+Samsung CDN:
+samsungcloudcdn.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FIREFOX FOCUS (iOS/Android)
+────────────────────────────────────────────────────────────
+Focus Services:
+mozilla.org
+firefox.com
+
+Telemetry:
+telemetry.mozilla.org
+
+Tracking Protection Lists:
+shavar.services.mozilla.com
+tracking-protection.cdn.mozilla.net
+
+Firefox Focus Specific:
+focus.firefox.com
+api.focus.firefox.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DUCKDUCKGO BROWSER 
+────────────────────────────────────────────────────────────
+DuckDuckGo Services:
+duckduckgo.com
+duck.co
+
+DuckDuckGo Tracking Protection:
+staticcdn.duckduckgo.com
+improving.duckduckgo.com
+api.duckduckgo.com
+links.duckduckgo.com
+lite.duckduckgo.com
+proxy.duckduckgo.com
+quack.duckduckgo.com
+safe.duckduckgo.com
+start.duckduckgo.com
+
+DuckDuckGo Smarter Encryption:
+smarter-encryption.duckduckgo.com
+
+DuckDuckGo Subscriptions & Sync:
+subscriptions.duckduckgo.com
+sync.duckduckgo.com
+
+DuckDuckGo Update / CDN:
+update.duckduckgo.com
+cdn.duckduckgo.com
+
+DuckDuckGo Extended:
+spreadprivacy.com
+privacy.duckduckgo.com
+duckduckgo-help-pages.duckduckgo.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHINESE BROWSERS
+────────────────────────────────────────────────────────────
+
+UC BROWSER (Alibaba):
+ucweb.com
+uc.cn
+ucfly.com
+m.ucweb.com
+api.ucweb.com
+browser.ucweb.com
+ucus.ucweb.com
+
+UC Analytics SDK:
+umeng.com
+umengcloud.com
+
+UC App / Game Store:
+9apps.com
+9game.com
+
+UC Proxy CDN:
+mileweb.com
+
+UC Tracking:
+gjapplog.ucweb.com
+logssug.ucweb.com
+attr.union.ucweb.com
+
+UC / Alibaba:
+alicdn.com
+aliyuncs.com
+amap.com
+ijinshan.com
+
+────────────────────────────────────────────────────────────
+BAIDU BROWSER:
+baidu.com
+baidu-int.com
+browser.baidu.com
+api.baidu.com
+tongji.baidu.com
+bdstatic.com
+bdimg.com
+bcebos.com
+shifen.com
+baidubce.com
+a.shifen.com
+
+Baidu Analytics / Tracking:
+hm.baidu.com
+imgstat.baidu.com
+push.zhanzhang.baidu.com
+wkctj.baidu.com
+zz.bdstatic.com
+tracker.baidu.com
+mtj.baidu.com
+
+Baidu Toolbar / CDN:
+toolbar.baidu.com
+baidustatic.com
+
+Baidu Ads / Analytics:
+union.baidu.com
+cpro.baidu.com
+cpro.baidu.cn
+click.hm.baidu.com
+sestat.baidu.com
+rplog.baidu.com
+stat.v.baidu.com
+sa.tuisong.baidu.com
+sclick.baidu.com
+ulic.baidu.com
+ucstat.baidu.com
+tuijian.baidu.com
+bj.bcebos.com
+
+────────────────────────────────────────────────────────────
+QQ BROWSER (Tencent):
+qq.com
+qq.com.cn
+browser.qq.com
+imtt.qq.com
+mdc.qq.com
+api.qq.com
+tcdn.qq.com
+gtimg.com
+gtimg.cn
+qpic.cn
+qlogo.cn
+qcloud.com
+qcloudcdn.com
+myapp.com
+dldir1.qq.com.tcdn.qq.com
+qq.com.tlivecdn.com
+tlivecdn.com
+
+ QQ Browser Telemetry:
+bugly.qq.com
+stat.game.qq.com
+analytics.qq.com
+oth.eve.mdt.qq.com
+oth.str.mdt.qq.com
+pingma.qq.com
+beacon.qq.com
+cdn.qcloud.com
+
+────────────────────────────────────────────────────────────
+360 BROWSER (Qihoo):
+360.cn
+360.com
+360safe.com
+browser.360.cn
+api.360.cn
+hao.360.cn
+s.360.cn
+so.com
+haosou.com
+qhimg.com
+qihucdn.com
+50union.com
+360totalsecurity.com
+qhmsg.com
+qhres.com
+qhupdate.com
+360kuai.com
+
+360 subdomains:
+aicleaner.shouji.360.cn
+p.s.360.cn
+mvconf.f.360.cn
+mvconf.cloud.360safe.com
+eul.s.360.cn
+g.s.360.cn
+mclean.cloud.360safe.com
+f.360.cn
+i.360.cn
+channel.360.cn
+vip.360.cn
+apps.360.cn
+security.360.cn
+
+────────────────────────────────────────────────────────────
+XIAOMI BROWSER:
+mi.com
+xiaomi.com
+miui.com
+browser.miui.com
+api.miui.com
+tracking.miui.com
+tracking.intl.miui.com
+api.ad.intl.xiaomi.com
+api.ad.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+data.mistat.intl.xiaomi.com
+data.mistat.xiaomi.com
+globalapi.ad.xiaomi.com
+log.avlyun.sec.intl.miui.com
+logupdate.avlyun.sec.miui.com
+ixav-cse.avlyun.com
+xlmc.sec.miui.com
+adv.sec.miui.com
+mazu.sec.miui.com
+api.installer.xiaomi.com
+data.sec.miui.com
+resolver.msg.xiaomi.net
+resolver.msg.global.xiaomi.net
+fr.app.chat.global.xiaomi.net
+ccc.sys.miui.com
+abtest.mistat.xiaomi.com
+cgicol.amap.com
+
+────────────────────────────────────────────────────────────
+HUAWEI BROWSER:
+huawei.com
+cloud.huawei.com
+browser.huawei.com
+hicloud.com
+metrics.data.hicloud.com
+metrics1.data.hicloud.com
+metrics2.data.hicloud.com
+metrics3.data.hicloud.com
+metrics4.data.hicloud.com
+metrics5.data.hicloud.com
+metrics6.dt.hicloud.com
+metrics-dra.dt.hicloud.com
+metrics-drcn.dt.hicloud.com
+logservice.hicloud.com
+logservice1.hicloud.com
+logbak.hicloud.com
+data.hicloud.com
+connectivitycheck.platform.hicloud.com
+configserver.platform.hicloud.com
+query.hicloud.com
+dbankcloud.com
+dbankcloud.cn
+dbankcloud.ru
+metrics.dt.dbankcloud.com
+metrics.dt.dbankcloud.ru
+metrics.dt.dbankcloud.cn
+metrics3.dt.dbankcloud.ru
+metrics5.dt.dbankcloud.ru
+metrics-dra.dt.dbankcloud.com
+metrics-drcn.dt.dbankcloud.com
+metrics-drcn.dt.dbankcloud.cn
+
+Huawei dbankcloud:
+connect-dra.dbankcloud.cn
+connect-drcn.dbankcloud.cn
+connect-dre.dbankcloud.cn
+connect-drru.dbankcloud.cn
+datacollector-dra.dt.dbankcloud.cn
+datacollector-drcn.dt.dbankcloud.cn
+datacollector-dre.dt.dbankcloud.cn
+grs.dbankcloud.com
+grs.dbankcloud.cn
+grs.dbankcloud.eu
+grs.dbankcloud.asia
+dnkeeper.dbankcloud.com
+browsercfg-drcn.cloud.dbankcloud.cn
+ubacollect-drcn.cloud.dbankcloud.cn
+
+Huawei hicloud:
+dnkeeper.hicloud.com
+pushtrs.push.hicloud.com
+grs.hicloud.com
+servicesupport2.hicloud.com
+sdkserver-dre.op.hicloud.com
+events-dre.op.hicloud.com
+configserver-dre.platform.hicloud.com
+
+Huawei API:
+api.cloud.huawei.com
+connectivitycheck.cbg-app.huawei.com
+
+────────────────────────────────────────────────────────────
+SOGOU BROWSER:
+sogou.com
+browser.sogou.com
+pinyin.sogou.com
+config.pinyin.sogou.com
+dl.pinyin.sogou.com
+api.sogou.com
+s.sogou.com
+v.sogou.com
+pic.sogou.com
+fanyi.sogou.com
+pb.sogou.com
+download.ie.sogou.com
+ie.sogou.com
+wap.sogou.com
+sogouzhuyin.com
+
+Sogou:
+py.sogou.com
+update.sogou.com
+log.sogou.com
+stat.sogou.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RUSSIAN BROWSERS
+────────────────────────────────────────────────────────────
+YANDEX BROWSER:
+yandex.ru
+yandex.com
+browser.yandex.ru
+browser.yandex.com
+api.browser.yandex.ru
+api.browser.yandex.com
+bro-bg-store.s3.yandex.net
+sba.yandex.net
+collections.yandex.ru
+yastatic.net
+avatars.mds.yandex.net
+favicon.yandex.net
+mail.yandex.ru
+storage.ape.yandex.net
+zen.yandex.ru
+yabs.yandex.ru
+zen-yabro-morda.mediascope.mc.yandex.ru
+mc.yandex.ru
+mc.yango.com
+
+Yandex CDN / Update:
+yandex.net
+cdn.yandex.net
+update.yandex.com
+
+Yandex Metrica / Analytics:
+metrika.yandex.ru
+yandexmetrica.com
+
+Yandex Ads:
+awaps.yandex.net
+awaps.yandex.ru
+an.yandex.ru
+direct.yandex.ru
+
+Yandex Tracking / Click:
+clck.yandex.ru
+cnt.yandex.ru
+
+Yandex Mobile Tracking:
+startup.mobile.yandex.net
+
+Yandex News:
+dzen.ru
+
+Yandex TLD:
+yandex.com.tr
+yandex.kz
+yandex.by
+yandex.ua
+ya.ru
+
+────────────────────────────────────────────────────────────
+ATOM BROWSER (Mail.ru):
+atom.mail.ru
+api.mail.ru
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ADDITIONAL MOBILE BROWSERS
+────────────────────────────────────────────────────────────
+VIVALDI:
+vivaldi.com
+vivaldi.net
+update.vivaldi.com
+telemetry.vivaldi.com
+piwik.php
+components.vivaldi.com
+
+Vivaldi Translation / Social:
+mimir2.vivaldi.com
+social.vivaldi.com
+
+Vivaldi Get Started:
+vimeo.com
+player.vimeo.com
+
+Vivaldi Stats / Sync / Account:
+stats.vivaldi.com
+downloads.vivaldi.com
+sync.vivaldi.com
+api.vivaldi.com
+account.vivaldi.com
+
+────────────────────────────────────────────────────────────
+DOLPHIN BROWSER:
+dolphin.com
+dolphin-browser.com
+api.dolphin.com
+
+────────────────────────────────────────────────────────────
+PUFFIN BROWSER (Cloud-based):
+puffin.com
+puffinbrowser.com
+cloudmosa.com
+api.cloudmosa.com
+cloud.puffin.com
+
+Puffin Cloud:
+us1.puffin.com
+us2.puffin.com
+sg1.puffin.com
+support.puffin.com
+support.cloudmosa.com
+downloads.cloudmosa.com
+
+────────────────────────────────────────────────────────────
+VIA BROWSER:
+viayoo.com
+
+────────────────────────────────────────────────────────────
+ECOSIA BROWSER:
+ecosia.org
+browser.ecosia.org
+cdn.ecosia.org
+ac.ecosia.org
+api.ecosia.org
+
+Ecosia Search / Update:
+search.ecosia.org
+update.ecosia.org
+
+────────────────────────────────────────────────────────────
+APUS BROWSER (Chinese):
+apusapps.com
+privacy.apusapps.com
+
+────────────────────────────────────────────────────────────
+MULLVAD BROWSER:
+mullvad.net
+
+Mullvad Extension Updates:
+noscript.net
+ublock.org
+updates.ublock.org
+
+Mullvad CDN:
+cdn.mullvad.net
+
+Mullvad OCSP Certificate Validation:
+ocsp.letsencrypt.org
+ocsp.digicert.com
+ocsp.globalsign.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TOR BROWSER (Tor Project) 
+────────────────────────────────────────────────────────────
+Tor Services:
+torproject.org
+dist.torproject.org
+aus1.torproject.org
+cdn.torproject.org
+blog.torproject.org
+check.torproject.org
+status.torproject.org
+
+ Tor Metrics / Bridges:
+metrics.torproject.org
+relay.metrics.torproject.org
+bridges.torproject.org
+tb-manual.torproject.org
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ COC COC (Vietnam)
+────────────────────────────────────────────────────────────
+Coc Coc Services:
+coccoc.com
+api.coccoc.com
+update.coccoc.com
+
+Coc Coc AI:
+search.coccoc.com
+cdn.coccoc.com
+ai.coccoc.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ALOHA BROWSER
+────────────────────────────────────────────────────────────
+Aloha Services:
+alohabrowser.com
+api.alohabrowser.com
+cdn.alohabrowser.com
+community.alohabrowser.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LIBREWOLF
+────────────────────────────────────────────────────────────
+LibreWolf Services:
+librewolf.net
+repo.librewolf.net
+rpm.librewolf.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+WATERFOX
+────────────────────────────────────────────────────────────
+Waterfox Services:
+waterfox.net
+waterfox.com
+cdn1.waterfox.net
+update.waterfox.net
+
+Waterfox Update (Mozilla):
+aus5.mozilla.org
+normandy.cdn.mozilla.net
+api.waterfox.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ZEN BROWSER 
+────────────────────────────────────────────────────────────
+Zen Services:
+zen-browser.app
+updates.zen-browser.app
+
+Zen API / CDN:
+api.zen-browser.app
+cdn.zen-browser.app
+themes.zen-browser.app
+mods.zen-browser.app
+docs.zen-browser.app
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FLOORP (Japan) 
+────────────────────────────────────────────────────────────
+Floorp Services:
+floorp.app
+ablaze.one
+
+[YENİ] Floorp Ek:
+update.ablaze.one
+cdn.ablaze.one
+api.ablaze.one
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EPIC PRIVACY BROWSER (India)
+────────────────────────────────────────────────────────────
+Epic Services:
+epicbrowser.com
+sakth.com
+faisal.in
+ebrajupybrubonisig.info
+epicproxy001.8.spotflux.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PALE MOON
+────────────────────────────────────────────────────────────
+Pale Moon Services:
+palemoon.org
+aus.palemoon.org
+aus2.palemoon.org
+blocklist.palemoon.org
+dua.palemoon.org
+ux.palemoon.org
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CROMITE (Android) 
+────────────────────────────────────────────────────────────
+Cromite Services:
+cromite.org
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MAXTHON
+────────────────────────────────────────────────────────────
+Maxthon Services:
+maxthon.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+IRIDIUM BROWSER
+────────────────────────────────────────────────────────────
+Iridium Services:
+iridiumbrowser.de
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ORION BROWSER (Kagi - macOS/iOS) 
+────────────────────────────────────────────────────────────
+Orion Services:
+browser.kagi.com
+kagi.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARC BROWSER ⚠️⚠️⚠️ (SUNSET - May 2025)
+────────────────────────────────────────────────────────────
+Arc Services:
+arc.net
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DIA BROWSER (The Browser Company - Atlassian) ⚠️⚠️⚠️
+────────────────────────────────────────────────────────────
+Dia Services:
+diabrowser.com
+thebrowser.company
+help.diabrowser.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🆕 WEBOS BROWSER (LG Smart TV) ⚠️⚠️⚠️⚠️⚠️
+────────────────────────────────────────────────────────────
+LG Services:
+lg.com
+www.lg.com
+
+LG Telemetry / ACR:
+lgtvsdp.com
+lgsmartad.com
+lgappstv.com
+lgads.tv
+
+LG ACR Provider (Alphonso):
+eu-acrX.alphonso.tv
+us-acrX.alphonso.tv
+alphonso.tv
+us-acr1.alphonso.tv
+us-acr2.alphonso.tv
+eu-acr1.alphonso.tv
+api.alphonso.tv
+
+LG CDN / Firmware:
+cdn.gauddi.com
+
+LG App Store:
+content.lgappstv.com
+
+LG:
+ott.lgappstv.com
+smartshare.lgtvsdp.com
+ibs.lgappstv.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SLEIPNIR BROWSER (Japan - Fenrir) 
+────────────────────────────────────────────────────────────
+Sleipnir Services:
+fenrir-inc.com
+www.fenrir-inc.com
+sleipnir.fenrir-inc.com
+
+Fenrir Pass (Sync):
+pass.fenrir-inc.com
+sync.fenrir-inc.com
+
+Sleipnir Extensions:
+extensions.fenrir-inc.com
+
+Sleipnir Start Page:
+sleipnirstart.jp
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+UNGOOGLED CHROMIUM 
+────────────────────────────────────────────────────────────
+NO DOMAINS - ALL GOOGLE SERVICES REMOVED
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VANADIUM (GrapheneOS)
+────────────────────────────────────────────────────────────
+GrapheneOS Services:
+grapheneos.org
+apps.grapheneos.org
+
+GrapheneOS Network:
+connectivitycheck.grapheneos.network
+time.grapheneos.org
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+THORIUM BROWSER 
+accounts.google.com
+chromewebstore.google.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+GNU ICECAT
+────────────────────────────────────────────────────────────
+GNU IceCat Services:
+gnu.org
+www.gnu.org
+ftp.gnu.org
+icecatbrowser.org
+
+GNU Mailing Lists:
+lists.gnu.org
+
+GNU Source Code:
+git.savannah.gnu.org
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BASILISK BROWSER
+────────────────────────────────────────────────────────────
+Basilisk Services:
+basilisk-browser.org
+www.basilisk-browser.org
+repo.basilisk-browser.org
+
+Moonchild Productions:
+palemoon.org
+forum.palemoon.org
+repo.palemoon.org
+archive.palemoon.org
+rm-eu.palemoon.org
+rm-us.palemoon.org
+
+Basilisk Add-ons:
+addons.palemoon.org
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔍 SEARCH ENGINES (Default in Browsers)
+────────────────────────────────────────────────────────────
+GOOGLE SEARCH
+google.com
+www.google.com
+encrypted.google.com
+google-analytics.com
+googleadservices.com
+gstatic.com
+ggpht.com
+ytimg.com
+
+BING
+bing.com
+bingapis.com
+bing.net
+api.bing.com
+www.bing.com
+
+DUCKDUCKGO
+duckduckgo.com
+duck.co
+
+BRAVE SEARCH
+search.brave.com
+safesearch.brave.com
+
+STARTPAGE
+startpage.com
+startpagenetwork.com
+www.startpage.com
+support.startpage.com
+search.startpage.com
+
+Startpage CDN:
+sp-cdn.com
+
+QWANT
+qwant.com
+api.qwant.com
+www.qwant.com
+rum.qwant.com
+apm-intake-v2.qwant.com
+static.qwant.com
+suggestions.qwant.com
+
+Qwant CDN:
+cdn.qwant.com
+
+ECOSIA 
+ecosia.org
+cdn.ecosia.org
+
+MOJEEK (Independent Index) 
+mojeek.com
+api.mojeek.com
+status.mojeek.com
+
+Mojeek CDN:
+cdn.mojeek.com
+
+METAGER 
+metager.org
+metager.de
+metager.net
+maps.metager.de
+
+SWISSCOWS 
+swisscows.com
+company.swisscows.com
+api.swisscows.com
+telemetry.swisscows.com
+cdn.swisscows.com
+
+GIBIRU 
+gibiru.com
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌍 BROWSER EXTENSION STORES
+────────────────────────────────────────────────────────────
+Chrome Web Store:
+chrome.google.com/webstore
+chromewebstore.google.com
+
+Firefox Add-ons:
+addons.mozilla.org
+addons.cdn.mozilla.net
+
+Edge Add-ons:
+microsoftedge.microsoft.com/addons
+
+Safari Extensions:
+apps.apple.com
+
+Opera Add-ons:
+addons.opera.com
