@@ -85,7 +85,6 @@ carry a higher risk of false positives that could affect core
 functionality, so each domain is being individually verified before
 release.
 
-- Browser Apps
 - Security & Bot Detection
 - Android
 - Telehealth & Digital Health
