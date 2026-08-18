@@ -2,6 +2,7 @@
 
 # Total domains: 294
 # Last update 2026/07/18
+# Note: trailing "!" marks a domain as aggressive-only
 
 # --- CORE ANALYTICS ---
 metrics.apple.com
