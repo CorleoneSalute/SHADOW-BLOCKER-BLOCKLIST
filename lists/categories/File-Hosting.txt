@@ -1,5 +1,9 @@
 # FILE HOSTING BLOCKLIST
 
+# Total domains: 50
+# Last update: 2026/07/18
+# Note: trailing "!" marks a domain as aggressive-only
+
 # IMAGE HOSTING 
 
 ads.imagevenue.com
