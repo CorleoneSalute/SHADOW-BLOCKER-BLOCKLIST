@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8587
-# Generated: 2026-08-15 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8813
+# Generated: 2026-08-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -154,6 +154,9 @@
 0.0.0.0 ad-dra.dt.dbankcloud.com
 0.0.0.0 ad-drru.dt.dbankcloud.com
 0.0.0.0 ad-engine.accuweather.com
+0.0.0.0 ad-iad1.apple.com
+0.0.0.0 ad-iad2.apple.com
+0.0.0.0 ad-iad3.apple.com
 0.0.0.0 ad-instantpage-ru.tiktokv.com
 0.0.0.0 ad-instantpage-sg.tiktokv.com
 0.0.0.0 ad-instantpage-ttp2.tiktokv.eu
@@ -244,6 +247,7 @@
 0.0.0.0 adapp.biz.weibo.com
 0.0.0.0 adaptv.advertising.com
 0.0.0.0 adassets.waze.com
+0.0.0.0 adattributionservice.itunes.apple.com
 0.0.0.0 adaware.com
 0.0.0.0 adbemdigitalmediarebootprod2.112.2o7.net
 0.0.0.0 adblade.com
@@ -320,6 +324,7 @@
 0.0.0.0 adobetag.com
 0.0.0.0 adoperator.com
 0.0.0.0 adperio.com
+0.0.0.0 adplatform.apple.com
 0.0.0.0 adplayer.pro
 0.0.0.0 adprofex.com
 0.0.0.0 adroll.com
@@ -331,6 +336,7 @@
 0.0.0.0 ads-api.reddit.com
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-api.vivo.com
+0.0.0.0 ads-apple.apple.com.cn
 0.0.0.0 ads-bdapi-my.heytapmobile.com
 0.0.0.0 ads-bdapi-ph.heytapmobile.com
 0.0.0.0 ads-bdapi-th.heytapmobile.com
@@ -353,6 +359,8 @@
 0.0.0.0 ads-partners.roku.com
 0.0.0.0 ads-portal-api-gateway.optisigns.com
 0.0.0.0 ads-preview.linkvertise.com
+0.0.0.0 ads-rebrand.prz.sbz.apple.com
+0.0.0.0 ads-rebrand.rno.sbz.apple.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-sdk.unityads.unity3d.com
 0.0.0.0 ads-serve.brave.com
@@ -382,6 +390,7 @@
 0.0.0.0 ads.anzu.io
 0.0.0.0 ads.api.cj.com
 0.0.0.0 ads.api.vungle.com
+0.0.0.0 ads.apple.com
 0.0.0.0 ads.ar.e-planning.net
 0.0.0.0 ads.avast.com
 0.0.0.0 ads.azerion.com
@@ -545,11 +554,15 @@
 0.0.0.0 adsapi3.snapchat.com
 0.0.0.0 adsapimus.snapchat.com
 0.0.0.0 adsapisam.snapchat.com
+0.0.0.0 adsapivalidator.iad.apple.com
 0.0.0.0 adsassets-ipv6.waze.com
 0.0.0.0 adsassets.waze.com
 0.0.0.0 adscdn.baidu.com
+0.0.0.0 adscms.mdn.sbz.apple.com
+0.0.0.0 adscms.msc.sbz.apple.com
 0.0.0.0 adsconfig.life360.com
 0.0.0.0 adsdianying.baidu.com
+0.0.0.0 adsdktest.apple.com
 0.0.0.0 adseaimg.apusapps.com
 0.0.0.0 adserv.reddit.com
 0.0.0.0 adserve.dianomi.com
@@ -620,6 +633,7 @@
 0.0.0.0 advertising-v3.roku.com
 0.0.0.0 advertising-v3.us-east-1.msc.roku.com
 0.0.0.0 advertising.accuweather.com
+0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.att.com
 0.0.0.0 advertising.roku.com
 0.0.0.0 advertising.tivo.com
@@ -773,6 +787,7 @@
 0.0.0.0 analytic.underarmour.com
 0.0.0.0 analytic.wysa.io
 0.0.0.0 analytics-api.analytics-cluster.smartsupp.com
+0.0.0.0 analytics-api.apple.com
 0.0.0.0 analytics-api.crowncoinscasino.com
 0.0.0.0 analytics-api.grandesloterias.com
 0.0.0.0 analytics-api.id.me
@@ -809,6 +824,7 @@
 0.0.0.0 analytics-lingo4g.dimensions.ai
 0.0.0.0 analytics-login.avg.com
 0.0.0.0 analytics-login.norton.com
+0.0.0.0 analytics-nk.itunes.apple.com
 0.0.0.0 analytics-old.openaire.eu
 0.0.0.0 analytics-origin.cod.ed.gov
 0.0.0.0 analytics-pbl.vivino.com
@@ -822,6 +838,7 @@
 0.0.0.0 analytics-sdk-1.onfido.com
 0.0.0.0 analytics-sdk.onfido.com
 0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 analytics-st.itunes.apple.com
 0.0.0.0 analytics-stage.ff.avast.com
 0.0.0.0 analytics-test.tiktok.com
 0.0.0.0 analytics-ttp2.tiktokw.eu
@@ -859,6 +876,7 @@
 0.0.0.0 analytics.api.brightcove.com
 0.0.0.0 analytics.api.brightside.com
 0.0.0.0 analytics.api.services.leonardo.ai
+0.0.0.0 analytics.apple.com
 0.0.0.0 analytics.applovin.com
 0.0.0.0 analytics.appsflyer.com
 0.0.0.0 analytics.aristocrat.com
@@ -1083,6 +1101,7 @@
 0.0.0.0 analytics.hungryroot.com
 0.0.0.0 analytics.hyperx.com
 0.0.0.0 analytics.ibotta.com
+0.0.0.0 analytics.icloud.com
 0.0.0.0 analytics.id.me
 0.0.0.0 analytics.ieee.org
 0.0.0.0 analytics.image-line.com
@@ -1551,6 +1570,7 @@
 0.0.0.0 analyticsdr.otsuka-us.com
 0.0.0.0 analyticshub.services.swiftkey.com
 0.0.0.0 analyticshub.swiftkey.com
+0.0.0.0 andata.ist.apple.com
 0.0.0.0 android-zone.org
 0.0.0.0 androidads20.adcolony.com
 0.0.0.0 androidads21.adcolony.com
@@ -1583,6 +1603,7 @@
 0.0.0.0 apex-hb.go.sonobi.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api-access.pangolin-sdk-toutiao.com
+0.0.0.0 api-adservices.apple.com
 0.0.0.0 api-advertiser.linkvertise.com
 0.0.0.0 api-analytics.bird.co
 0.0.0.0 api-analytics.huami.com
@@ -1610,6 +1631,7 @@
 0.0.0.0 api-s2s-america-f.taboola.com
 0.0.0.0 api-s2s.taboola.com
 0.0.0.0 api-samsung.swypeconnect.com
+0.0.0.0 api-searchads.apple.com
 0.0.0.0 api-taboola.com
 0.0.0.0 api-us.adikteev.com
 0.0.0.0 api-us.mouseflow.com
@@ -1717,6 +1739,7 @@
 0.0.0.0 api.hisavana.com
 0.0.0.0 api.honeybadger.io
 0.0.0.0 api.hotjar.io
+0.0.0.0 api.iad.apple.com
 0.0.0.0 api.inscape.tv
 0.0.0.0 api.inspectlet.com
 0.0.0.0 api.instabug.com
@@ -1833,6 +1856,7 @@
 0.0.0.0 apm.yun.hihonor.com
 0.0.0.0 apmebf.com
 0.0.0.0 aporasal.net
+0.0.0.0 app-ads.apple.com
 0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 app-analytics.huami.com
 0.0.0.0 app-analytics.lyft.com
@@ -1841,8 +1865,10 @@
 0.0.0.0 app-analyticsv2.snapchat.com
 0.0.0.0 app-api.outbrain.com
 0.0.0.0 app-events.fetch.com
+0.0.0.0 app-events.infoapps.apple.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app-measurement.uber.com
+0.0.0.0 app-searchads.apple.com
 0.0.0.0 app.ad-maven.com
 0.0.0.0 app.adoperator.com
 0.0.0.0 app.adprofex.com
@@ -1873,8 +1899,12 @@
 0.0.0.0 app7.kromtech.net
 0.0.0.0 appads.baidu.com
 0.0.0.0 appanalytics.tomtom.com
+0.0.0.0 apple-ads.apple.com
 0.0.0.0 apple.com-scan.live
 0.0.0.0 apple.com-shield.live
+0.0.0.0 apple.comscoreresearch.com
+0.0.0.0 appleads-prz.apple.com
+0.0.0.0 applemediaservices.com
 0.0.0.0 apples-analytics.pad.squareup.com
 0.0.0.0 applog.bolt.eu
 0.0.0.0 applog.musical.ly
@@ -1895,6 +1925,7 @@
 0.0.0.0 apsoutheast-match.deepintent.com
 0.0.0.0 apu.samsungelectronics.com
 0.0.0.0 arc-metrics.corp.codeium.com
+0.0.0.0 arcade-analytics.apple.com
 0.0.0.0 argenteutilities.com
 0.0.0.0 array-bid.applovin.com
 0.0.0.0 asapp.navdmp.com
@@ -2035,6 +2066,7 @@
 0.0.0.0 b.nl3.eu.criteo.com
 0.0.0.0 b.ns.e.opera.com
 0.0.0.0 b.optmstr.com
+0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b.sg1.as.criteo.com
 0.0.0.0 b.sharethrough.com
 0.0.0.0 b.us5.us.criteo.com
@@ -2150,6 +2182,7 @@
 0.0.0.0 bombora.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 books-analytics-events.news.apple-dns.net
+0.0.0.0 books-analytics-events.news.apple.com
 0.0.0.0 bookstats.kobo.com
 0.0.0.0 boomtrain.com
 0.0.0.0 bosslog.geniex.com
@@ -2185,6 +2218,7 @@
 0.0.0.0 bugfender.com
 0.0.0.0 bugreport.pt.xiaomi.com
 0.0.0.0 bugreport.xiaomi.net
+0.0.0.0 bugreporter.apple.com
 0.0.0.0 bugreporting.rec.net
 0.0.0.0 bugs.baidu.com
 0.0.0.0 bugsee.com
@@ -2265,6 +2299,7 @@
 0.0.0.0 c9.telemetry.intel.com
 0.0.0.0 ca-central-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 ca-service.acr.roku.com
+0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 caa-analytics.topcashback.com
 0.0.0.0 cadent.com
 0.0.0.0 cadent.tv
@@ -2467,8 +2502,11 @@
 0.0.0.0 cdpbeacon2.lgtvcommon.com
 0.0.0.0 cdpsvc.lgtvcommon.com
 0.0.0.0 central-log.opera.com
+0.0.0.0 certification-ads.apple.com
+0.0.0.0 certification-searchads.apple.com
 0.0.0.0 cesinthi.com
 0.0.0.0 cetrk.com
+0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 cfjump.com
 0.0.0.0 channels-analytics.amazon.com
 0.0.0.0 channels-metrics.primevideo.com
@@ -2544,6 +2582,8 @@
 0.0.0.0 clicktale.pantherssl.com
 0.0.0.0 clicktalecdn.sslcs.cdngc.net
 0.0.0.0 clickus.taboola.com
+0.0.0.0 client-analytics-ingress-sbox.apay.apple.com
+0.0.0.0 client-analytics-ingress.apay.apple.com
 0.0.0.0 client-analytics.dropbox.com
 0.0.0.0 client-log.box.com
 0.0.0.0 client-log.dropbox.com
@@ -2582,6 +2622,7 @@
 0.0.0.0 cm2.adform.net
 0.0.0.0 cmp.optimizely.com
 0.0.0.0 cms.analytics.yahoo.com
+0.0.0.0 cn-app-ads.apple.com
 0.0.0.0 cn-zh-ort-stsdk.vivoglobal.com
 0.0.0.0 cn-zh-prt-stsdk.vivoglobal.com
 0.0.0.0 cn-zh-stsdk.vivoglobal.com
@@ -2710,6 +2751,7 @@
 0.0.0.0 commandersact.com
 0.0.0.0 commerce.sovrn.com
 0.0.0.0 community.brightdata.com
+0.0.0.0 comscoreresearch.com
 0.0.0.0 conf-in-dc.heytapdl.com
 0.0.0.0 conf-in-dc.heytapmobile.com
 0.0.0.0 conf-sg-dc.heytapdl.com
@@ -2729,6 +2771,9 @@
 0.0.0.0 console.fyber.com
 0.0.0.0 contact.ads.brave.com
 0.0.0.0 content-ad.net
+0.0.0.0 content-iad1.apple.com
+0.0.0.0 content-iad2.apple.com
+0.0.0.0 content-iad3.apple.com
 0.0.0.0 content.ad
 0.0.0.0 content.analytics-cdn.teachable.com
 0.0.0.0 content.yieldmo.com
@@ -2766,9 +2811,20 @@
 0.0.0.0 coreads-console.cambridge.org
 0.0.0.0 coreads-static.cambridge.org
 0.0.0.0 coreads.cambridge.org
+0.0.0.0 coremetrics-apse1.apple.com
+0.0.0.0 coremetrics-euw1.apple.com
+0.0.0.0 coremetrics-use1.apple.com
+0.0.0.0 coremetrics-usw2.apple.com
+0.0.0.0 coremetrics.apple.com
+0.0.0.0 corplcms-ads-int-prn.apple.com
+0.0.0.0 corplcms-ads-int-sgp.apple.com
+0.0.0.0 covid19-feedbackws.icloud.com
 0.0.0.0 cowner.net
 0.0.0.0 cpa.adcolony.com
 0.0.0.0 cpamatica.io
+0.0.0.0 cprad-iad4.apple.com
+0.0.0.0 cpradcnt-iad4.apple.com
+0.0.0.0 cprfeed-iad4.apple.com
 0.0.0.0 cpro.baidu.cn
 0.0.0.0 cpro.baidu.com
 0.0.0.0 cpu.samsungelectronics.com
@@ -2816,6 +2872,8 @@
 0.0.0.0 crashreports.nvidia.com
 0.0.0.0 crashstats-collector.opera.com
 0.0.0.0 crashstats-test.opera.com
+0.0.0.0 crashwebservices-old.apple.com
+0.0.0.0 crashwebservices.apple.com
 0.0.0.0 crazyegg.com
 0.0.0.0 creative-serve.remerge.io
 0.0.0.0 creative.adikteev.com
@@ -2961,8 +3019,10 @@
 0.0.0.0 data.zetaglobal.com
 0.0.0.0 dataanalyst.mercury.weather.com
 0.0.0.0 dataanalytics.vodafone.com
+0.0.0.0 databeacon.apple.com
 0.0.0.0 databi.ad.xiaomi.com
 0.0.0.0 datacollect.vmall.com
+0.0.0.0 datacollection.apple.com
 0.0.0.0 datacollection.rec.net
 0.0.0.0 datacollector-dra.dt.dbankcloud.cn
 0.0.0.0 datacollector-dra.dt.hicloud.com
@@ -3199,6 +3259,7 @@
 0.0.0.0 dynamic.criteo.com
 0.0.0.0 dynamic.remerge.io
 0.0.0.0 dynamic.zetaglobal.com
+0.0.0.0 dz1dt3wqswdezgx4j2ryem5iad.apple.com
 0.0.0.0 e-planning.net
 0.0.0.0 e-tracking.fujitsu.com
 0.0.0.0 e.ad.xiaomi.com
@@ -3565,6 +3626,20 @@
 0.0.0.0 feedback.pt.xiaomi.com
 0.0.0.0 feedback.xmpush.global.xiaomi.com
 0.0.0.0 feedback.xmpush.xiaomi.com
+0.0.0.0 feedbackws-apple-cloudkit.icloud.apple-dns.net
+0.0.0.0 feedbackws-ic1.icloud.com
+0.0.0.0 feedbackws-ic1.icloud.com.cn
+0.0.0.0 feedbackws-ic2.icloud.com
+0.0.0.0 feedbackws-ic2.icloud.com.cn
+0.0.0.0 feedbackws-ic3.icloud.com
+0.0.0.0 feedbackws-ic3.icloud.com.cn
+0.0.0.0 feedbackws-ic4.icloud.com
+0.0.0.0 feedbackws-ic4.icloud.com.cn
+0.0.0.0 feedbackws.apple-cloudkit.com
+0.0.0.0 feedbackws.fe.apple-dns.cn
+0.0.0.0 feedbackws.fe2.apple-dns.net
+0.0.0.0 feedbackws.icloud.com
+0.0.0.0 feedbackws.icloud.com.cn
 0.0.0.0 fhc-event.fhcasino.com
 0.0.0.0 fhc-event2.fhcasino.com
 0.0.0.0 fiaharam.net
@@ -3577,6 +3652,9 @@
 0.0.0.0 files.crazyegg.com
 0.0.0.0 filesigcheck.com
 0.0.0.0 fileviewpro.com
+0.0.0.0 finalcut-camera-events.apple.com
+0.0.0.0 finalcut-events.apple.com
+0.0.0.0 finalcutpro-events.apple.com
 0.0.0.0 find.passion.com
 0.0.0.0 fionread-ta-g7g.amazon.com
 0.0.0.0 firebase-settings.crashlytics.com
@@ -3636,6 +3714,7 @@
 0.0.0.0 frameplay.gg
 0.0.0.0 fraud.adikteev.com
 0.0.0.0 fraud.remerge.io
+0.0.0.0 freeform-events.apple.com
 0.0.0.0 frontend-telemetry.intercom.io
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 frtyb.com
@@ -3775,6 +3854,7 @@
 0.0.0.0 gpm.samsungqbe.com
 0.0.0.0 grabads.com
 0.0.0.0 grafana.acr.roku.com
+0.0.0.0 graffiti-tags.apple.com
 0.0.0.0 graph.zetaglobal.com
 0.0.0.0 graphics.adultfriendfinder.com
 0.0.0.0 graphql.adikteev.com
@@ -3876,6 +3956,7 @@
 0.0.0.0 hianalytics.com
 0.0.0.0 hideadew.com
 0.0.0.0 highcpmgate.com
+0.0.0.0 highline-events.apple.com
 0.0.0.0 hinafinea.com
 0.0.0.0 hisavana-adx.transacme.com
 0.0.0.0 hisavana.com
@@ -3925,7 +4006,24 @@
 0.0.0.0 i.lidam.com
 0.0.0.0 i.microad.jp
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 iad-apple.com
+0.0.0.0 iad-apple.com.akadns.net
+0.0.0.0 iad.apple.com
+0.0.0.0 iadapi.apple.com
+0.0.0.0 iadcm.apple.com
+0.0.0.0 iadcontent-lb.apple.com.akadns.net
+0.0.0.0 iadcontent-s2.apple.com
+0.0.0.0 iadcontent.apple.com
+0.0.0.0 iadmfeed.apple.com
+0.0.0.0 iadmoo.apple.com
+0.0.0.0 iadmsdk.apple.com
+0.0.0.0 iadmsoak.apple.com
 0.0.0.0 iads.unity3d.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 iadsdk.apple.com.akadns.net
+0.0.0.0 iadsdk.apple.com.edgekey.net
+0.0.0.0 iadworkbench-shield.apple.com
+0.0.0.0 iadworkbench.apple.com
 0.0.0.0 iap.adikteev.com
 0.0.0.0 iap.remerge.io
 0.0.0.0 ib.3lift.com
@@ -3941,6 +4039,26 @@
 0.0.0.0 ichnaea-web.us-west-2.prodaa.netflix.com
 0.0.0.0 ichnaea.dradis.netflix.com
 0.0.0.0 ichnaea.netflix.com
+0.0.0.0 icloud1-metrics-ic1.icloud.com
+0.0.0.0 icloud1-metrics-ic2.icloud.com
+0.0.0.0 icloud1-metrics-ic3.icloud.com
+0.0.0.0 icloud1-metrics-ic4.icloud.com
+0.0.0.0 icloud1-metrics.icloud.com
+0.0.0.0 icloud2-metrics-ic1.icloud.com
+0.0.0.0 icloud2-metrics-ic2.icloud.com
+0.0.0.0 icloud2-metrics-ic3.icloud.com
+0.0.0.0 icloud2-metrics-ic4.icloud.com
+0.0.0.0 icloud2-metrics.icloud.com
+0.0.0.0 icloud3-metrics-ic1.icloud.com
+0.0.0.0 icloud3-metrics-ic2.icloud.com
+0.0.0.0 icloud3-metrics-ic3.icloud.com
+0.0.0.0 icloud3-metrics-ic4.icloud.com
+0.0.0.0 icloud3-metrics.icloud.com
+0.0.0.0 icloud4-metrics-ic1.icloud.com
+0.0.0.0 icloud4-metrics-ic2.icloud.com
+0.0.0.0 icloud4-metrics-ic3.icloud.com
+0.0.0.0 icloud4-metrics-ic4.icloud.com
+0.0.0.0 icloud4-metrics.icloud.com
 0.0.0.0 id-analyzer-appstore.vivoglobal.com
 0.0.0.0 id.adform.net
 0.0.0.0 id.crwdcntrl.net
@@ -4153,6 +4271,7 @@
 0.0.0.0 items.rollbar.com
 0.0.0.0 ity.im
 0.0.0.0 ivononic.com
+0.0.0.0 iwork-events.apple.com
 0.0.0.0 j.clarity.ms
 0.0.0.0 j.gs
 0.0.0.0 j.ligatus.com
@@ -4543,6 +4662,7 @@
 0.0.0.0 logging.netflix.com
 0.0.0.0 logging.rarible.com
 0.0.0.0 logging.reddit.com
+0.0.0.0 logicpro-events.apple.com
 0.0.0.0 login.adf.ly
 0.0.0.0 login.ads.roku.com
 0.0.0.0 login.ads.staging.roku.com
@@ -4561,6 +4681,7 @@
 0.0.0.0 logs.1password.com
 0.0.0.0 logs.ads.vungle.com
 0.0.0.0 logs.alipay.com
+0.0.0.0 logs.apple.com
 0.0.0.0 logs.bobble.ai
 0.0.0.0 logs.boosteroid.com
 0.0.0.0 logs.cachyos.org
@@ -4691,6 +4812,7 @@
 0.0.0.0 marketing.event-tracking.samsung.com
 0.0.0.0 marketing.flo.health
 0.0.0.0 marketing.outbrain.com
+0.0.0.0 marketing.services.apple
 0.0.0.0 marlin.logs.roku.com
 0.0.0.0 match.360yield.com
 0.0.0.0 match.adsquare.com
@@ -4748,6 +4870,7 @@
 0.0.0.0 mdp-usertrace-cn.heytapmobi.com
 0.0.0.0 mdp-usertrace-in.heytapmobile.com
 0.0.0.0 mdp-usertrace-sg.heytapmobile.com
+0.0.0.0 me.apple-dns.net
 0.0.0.0 measurement-api.criteo.com
 0.0.0.0 measurement.adikteev.com
 0.0.0.0 measurement.criteo.com
@@ -4773,6 +4896,7 @@
 0.0.0.0 merkury.dentsu.com
 0.0.0.0 messagecenterlog-dr.intel.com
 0.0.0.0 messagecenterlog.intel.com
+0.0.0.0 messaging.metrics.icloud.com
 0.0.0.0 meta-ucads.ucweb.com
 0.0.0.0 metabase.analytics.native-instruments.com
 0.0.0.0 metaffiliation.com
@@ -4792,6 +4916,15 @@
 0.0.0.0 metrics-appdistribute-drcn.dt.hihonorcloud.com
 0.0.0.0 metrics-apptouch-dre.hispace.dbankcloud.com
 0.0.0.0 metrics-basecloud-drcn.dt.hihonorcloud.com
+0.0.0.0 metrics-china-ic1.icloud.com
+0.0.0.0 metrics-china-ic2.icloud.com
+0.0.0.0 metrics-china-ic3.icloud.com
+0.0.0.0 metrics-china-ic4.icloud.com
+0.0.0.0 metrics-config-ic1.icloud.com
+0.0.0.0 metrics-config-ic2.icloud.com
+0.0.0.0 metrics-config-ic3.icloud.com
+0.0.0.0 metrics-config-ic4.icloud.com
+0.0.0.0 metrics-config.icloud.com
 0.0.0.0 metrics-dra.dt.dbankcloud.cn
 0.0.0.0 metrics-dra.dt.dbankcloud.com
 0.0.0.0 metrics-dra.dt.hicloud.com
@@ -4804,9 +4937,20 @@
 0.0.0.0 metrics-dre.dt.dbankcloud.cn
 0.0.0.0 metrics-dre.dt.hihonorcloud.com
 0.0.0.0 metrics-drru.dt.hihonorcloud.com
+0.0.0.0 metrics-edge.icloud.com
 0.0.0.0 metrics-eric.oss.demo.coder.com
 0.0.0.0 metrics-hd.ops.kobo.com
+0.0.0.0 metrics-ic1.icloud.com
+0.0.0.0 metrics-ic1.icloud.com.cn
+0.0.0.0 metrics-ic2.icloud.com
+0.0.0.0 metrics-ic2.icloud.com.cn
+0.0.0.0 metrics-ic3.icloud.com
+0.0.0.0 metrics-ic3.icloud.com.cn
+0.0.0.0 metrics-ic4.icloud.com
+0.0.0.0 metrics-ic4.icloud.com.cn
+0.0.0.0 metrics-icperf.icloud.com
 0.0.0.0 metrics-k.wbx2.com
+0.0.0.0 metrics-mtls.icloud.com
 0.0.0.0 metrics-old.drift.trade
 0.0.0.0 metrics-preview.vive.com
 0.0.0.0 metrics-prom.perlego.com
@@ -4824,6 +4968,9 @@
 0.0.0.0 metrics.amani.ai
 0.0.0.0 metrics.amd.com
 0.0.0.0 metrics.anthropic.com
+0.0.0.0 metrics.apple-cloudkit.com
+0.0.0.0 metrics.apple.com
+0.0.0.0 metrics.apple.com.akadns.net
 0.0.0.0 metrics.applovin.com
 0.0.0.0 metrics.att.com
 0.0.0.0 metrics.avast.com
@@ -4876,6 +5023,7 @@
 0.0.0.0 metrics.evidation.com
 0.0.0.0 metrics.expressvpn.com
 0.0.0.0 metrics.fanduel.com
+0.0.0.0 metrics.fe2.apple-dns.net
 0.0.0.0 metrics.fetch.com
 0.0.0.0 metrics.fitbit.com
 0.0.0.0 metrics.flo.health
@@ -4898,6 +5046,9 @@
 0.0.0.0 metrics.hulu.com
 0.0.0.0 metrics.hyperx.com
 0.0.0.0 metrics.ibotta.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.icloud.com.akadns.net
+0.0.0.0 metrics.icloud.com.cn
 0.0.0.0 metrics.idfy.com
 0.0.0.0 metrics.image-line.com
 0.0.0.0 metrics.infra.yoti.com
@@ -4933,6 +5084,7 @@
 0.0.0.0 metrics.mux.com
 0.0.0.0 metrics.mxplayer.in
 0.0.0.0 metrics.mycanal.fr
+0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics.naturalcycles.com
 0.0.0.0 metrics.nbc.com
 0.0.0.0 metrics.netflix.com
@@ -5206,6 +5358,7 @@
 0.0.0.0 moreniche.com
 0.0.0.0 mos-ortb-api.ad.intl.xiaomi.com
 0.0.0.0 mosapi.ad.intl.xiaomi.com
+0.0.0.0 motion-events.apple.com
 0.0.0.0 motriael.com
 0.0.0.0 mountain.com
 0.0.0.0 mouseflow.com
@@ -5274,7 +5427,9 @@
 0.0.0.0 multiply.crwdcntrl.net
 0.0.0.0 multissp.yieldlab.net
 0.0.0.0 multitrack.endel.io
+0.0.0.0 music-analytics.apple.com
 0.0.0.0 music-analytics.youtube.com
+0.0.0.0 musicanalytics.apple.com
 0.0.0.0 musr.navdmp.com
 0.0.0.0 mustang.logs.roku.com
 0.0.0.0 mx-err-up.vivoglobal.com
@@ -5334,10 +5489,17 @@
 0.0.0.0 new-www.outbrain.com
 0.0.0.0 new.api.ad.xiaomi.com
 0.0.0.0 newlytics.fileditch.com
+0.0.0.0 news-ads.apple.com
+0.0.0.0 news-analytics.apple.com
+0.0.0.0 news-app-events.apple.com
+0.0.0.0 news-events-old.apple.com
+0.0.0.0 news-events.apple.com
+0.0.0.0 news-sports-events.apple.com
 0.0.0.0 news.mgid.com
 0.0.0.0 news.revcontent.com
 0.0.0.0 newscgp.com
 0.0.0.0 newscorpau.taboola.com
+0.0.0.0 newskit-events.apple.com
 0.0.0.0 nexage.com
 0.0.0.0 nextmillennium.com
 0.0.0.0 nextmillennium.io
@@ -5347,11 +5509,14 @@
 0.0.0.0 nginx.34.sec.miui.com
 0.0.0.0 niad.analytics.elsevier.com
 0.0.0.0 nimbleinity.com
+0.0.0.0 nk-cktelemetryws.icloud.apple.com
 0.0.0.0 nlog.baidu.com
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 nmetrics.samsungmobile.com
 0.0.0.0 nmtracking.netflix.com
 0.0.0.0 nof1.ai.supp0v3.com
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.news.apple-dns.net
 0.0.0.0 notifications-gke-sdk-bidding-a.fyber.com
 0.0.0.0 notifier-configs.airbrake.io
 0.0.0.0 notify.bugsnag.appstore.a2z.com
@@ -5467,6 +5632,9 @@
 0.0.0.0 onrt.stsdk.vivoglobal.com
 0.0.0.0 ontrack-lnx.amd.com
 0.0.0.0 ontrack.amd.com
+0.0.0.0 oo-iad1.apple.com
+0.0.0.0 oo-iad2.apple.com
+0.0.0.0 oo-iad3.apple.com
 0.0.0.0 open-api.pangleglobal.com
 0.0.0.0 open.oneplus.cn
 0.0.0.0 open.oneplus.net
@@ -5542,6 +5710,19 @@
 0.0.0.0 p.teads.tv
 0.0.0.0 p.xad.com
 0.0.0.0 p.yieldlab.net
+0.0.0.0 p01-feedbackws-ic1.icloud.com
+0.0.0.0 p01-feedbackws-ic2.icloud.com
+0.0.0.0 p01-feedbackws-ic3.icloud.com
+0.0.0.0 p01-feedbackws-ic4.icloud.com
+0.0.0.0 p01-feedbackws.icloud.com
+0.0.0.0 p02-feedbackws-ic1.icloud.com
+0.0.0.0 p02-feedbackws-ic2.icloud.com
+0.0.0.0 p02-feedbackws-ic3.icloud.com
+0.0.0.0 p02-feedbackws-ic4.icloud.com
+0.0.0.0 p02-feedbackws.icloud.com
+0.0.0.0 p1-iadassets-origin.apple.com
+0.0.0.0 p1-mr-iad-finance-service.apple.com
+0.0.0.0 p1-mr-iad-ss-static-assets.rno.sbz.apple.com
 0.0.0.0 p1.zemanta.com
 0.0.0.0 p13nlog.optimizely.com
 0.0.0.0 p16-ad-sg.ibyteimg.com
@@ -5574,6 +5755,9 @@
 0.0.0.0 parsely.com
 0.0.0.0 partner.criteo.com
 0.0.0.0 partner.oceanengine.com
+0.0.0.0 partneranalytics-dr.apple.com
+0.0.0.0 partneranalytics.apple.com
+0.0.0.0 partneranalyticsportal.apple.com
 0.0.0.0 partners.adikteev.com
 0.0.0.0 partners.house
 0.0.0.0 partners.remerge.io
@@ -5615,6 +5799,7 @@
 0.0.0.0 pegasun.com
 0.0.0.0 pepperjam.com
 0.0.0.0 perf-events.cloud.unity3d.com
+0.0.0.0 performance-partners.apple.com
 0.0.0.0 performance.netflix.com
 0.0.0.0 performance.revcontent.com
 0.0.0.0 performance.timeone.io
@@ -5711,6 +5896,7 @@
 0.0.0.0 pixel.zetalive.com
 0.0.0.0 pixel.zola.com
 0.0.0.0 pixel2.web.roku.com
+0.0.0.0 pixelmator-events.infoapps.apple.com
 0.0.0.0 pixelme.app
 0.0.0.0 pixelme.io
 0.0.0.0 pixelme.me
@@ -5744,6 +5930,7 @@
 0.0.0.0 pmc-reporting.criteo.net
 0.0.0.0 pnrt-stsdk.vivoglobal.com
 0.0.0.0 pnrt.stsdk.vivoglobal.com
+0.0.0.0 podcasts-analytics.apple.com
 0.0.0.0 pointstone.com
 0.0.0.0 poker.track.zynga.com
 0.0.0.0 popcon.debian.org
@@ -5764,6 +5951,7 @@
 0.0.0.0 powersuite.com
 0.0.0.0 pp2-api.nextmillennium.io
 0.0.0.0 pps-log.op-mobile.opera.com
+0.0.0.0 prd-usw2-requestattribution-iad.apple.com
 0.0.0.0 prderrordumphsm.samsungcloudsolution.com
 0.0.0.0 prderrordumpssm.samsungcloudsolution.com
 0.0.0.0 prderrordumpssm.samsungcloudsolution.net
@@ -5802,6 +5990,7 @@
 0.0.0.0 privacyreviver.com
 0.0.0.0 private.dianomi.com
 0.0.0.0 probe-target.criteo.net
+0.0.0.0 probe.me.apple-dns.net
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 probeinfo.telemetry.mozilla.org
 0.0.0.0 probes.telemetry.mozilla.org
@@ -5820,6 +6009,7 @@
 0.0.0.0 profiling.sentry.io
 0.0.0.0 protected.media
 0.0.0.0 prov-lg.alphonso.tv
+0.0.0.0 proxy-skadnetwork.apple.com
 0.0.0.0 proxyjs.brdtnet.com
 0.0.0.0 proxyjs.bright-sdk.com
 0.0.0.0 proxyjs.luminatinet.com
@@ -5860,6 +6050,7 @@
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 pushground.com
 0.0.0.0 pushub.com
+0.0.0.0 pv-cktelemetryws-apple.icloud.apple-dns.net
 0.0.0.0 px-adx.geo2.op-mobile.opera.com
 0.0.0.0 px-adx.op-mobile.opera.com
 0.0.0.0 px.ads.linkedin-ei.com
@@ -5889,6 +6080,7 @@
 0.0.0.0 quamiller.com
 0.0.0.0 quantserve.com
 0.0.0.0 quantummetric.com
+0.0.0.0 qwapi.com
 0.0.0.0 r-o.pro
 0.0.0.0 r.ads.zynga.com
 0.0.0.0 r.applovin.com
@@ -6008,6 +6200,9 @@
 0.0.0.0 rest-api.adikteev.com
 0.0.0.0 rest-api.remerge.io
 0.0.0.0 restoro.com
+0.0.0.0 retaillearning-cdn-ads-it.apple.com
+0.0.0.0 retaillearning-cdn-ads-uat.apple.com
+0.0.0.0 retaillearning-cdn-ads.apple.com
 0.0.0.0 retargeter.com
 0.0.0.0 retargeting-audience.remerge.io
 0.0.0.0 retargeting.adikteev.com
@@ -6164,6 +6359,7 @@
 0.0.0.0 rtlog58-normal-useast2a.tiktokv.com
 0.0.0.0 rtlog58-normal-ycru.tiktokv.com
 0.0.0.0 rtlog58-normal.tiktokv.com
+0.0.0.0 rtneu-events.cg.btp.apple.com
 0.0.0.0 rtrack.lonestarcasino.com
 0.0.0.0 ru-commonitor-stsdk.vivoglobal.com
 0.0.0.0 ru-comonrt-stsdk.vivoglobal.com
@@ -6384,6 +6580,7 @@
 0.0.0.0 sapi.ads.oppomobile.com
 0.0.0.0 satellite.plista.com
 0.0.0.0 sb.quantserve.com
+0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sbc.connectad.io
 0.0.0.0 sblog.lalal.ai
 0.0.0.0 sc-analytics.appspot.com
@@ -6400,6 +6597,7 @@
 0.0.0.0 sclick.baidu.com
 0.0.0.0 sclpfybn.com
 0.0.0.0 scopely.io
+0.0.0.0 scorecardresearch.com
 0.0.0.0 scribe.logs.bdp.roku.com
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 script.crazyegg.com
@@ -6468,6 +6666,11 @@
 0.0.0.0 sdkopmetrics-us.dsp-api.moloco.com
 0.0.0.0 search.spotxchange.com
 0.0.0.0 searchad.naver.com
+0.0.0.0 searchads-prv.apple.com
+0.0.0.0 searchads-reno.apple.com
+0.0.0.0 searchads.apple.com
+0.0.0.0 searchads.apple.com.edgesuite.net
+0.0.0.0 searchads.lb-apple.com.akadns.net
 0.0.0.0 secure-eu.imrworldwide.com
 0.0.0.0 secure-system-services.com
 0.0.0.0 secure.33across.com
@@ -6604,6 +6807,7 @@
 0.0.0.0 shareasale-analytics.com
 0.0.0.0 sharethrough.com
 0.0.0.0 sharethrough.net
+0.0.0.0 shazam-events.cdn-apple.com
 0.0.0.0 shealth-analytics-api.samsunghealth.com
 0.0.0.0 shence-log.kwai.com
 0.0.0.0 shink.in
@@ -6634,6 +6838,7 @@
 0.0.0.0 simpli.fi
 0.0.0.0 sin3-ib.adnxs.com
 0.0.0.0 sjs.bizographics.com
+0.0.0.0 skadnetwork.iad-apple.com.akadns.net
 0.0.0.0 skadpostbacks.appsflyer.com
 0.0.0.0 skamaker.com
 0.0.0.0 skamason.com
@@ -6788,6 +6993,13 @@
 0.0.0.0 sstats.bitdefender.com
 0.0.0.0 sstats.epicurious.com
 0.0.0.0 st.n.ads1-adnow.com
+0.0.0.0 st11p01ad-approval.apple.com
+0.0.0.0 st11p01ad-cpradumgt.apple.com
+0.0.0.0 st11p01ad-cprcnt.apple.com
+0.0.0.0 st11p01ad-cprfeed.apple.com
+0.0.0.0 st11p01ad-iadapi.apple.com
+0.0.0.0 st11p01ad-iadworkbench.apple.com
+0.0.0.0 st11p01ad-iadworkbenchsoak.apple.com
 0.0.0.0 stackadapt.com
 0.0.0.0 staging-diagnosis.ad.xiaomi.com
 0.0.0.0 stake.com
@@ -6970,6 +7182,9 @@
 0.0.0.0 stgdata-ads-fr.heytapmobile.com
 0.0.0.0 stickyadstv.com
 0.0.0.0 stirista.com
+0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 stocks-analytics-events.news.apple.com
 0.0.0.0 stopzilla.com
 0.0.0.0 storage.outbrain.com
 0.0.0.0 store.criteo.com
@@ -7018,6 +7233,8 @@
 0.0.0.0 support.restoro.com
 0.0.0.0 support.reviversoft.com
 0.0.0.0 support.solvusoft.com
+0.0.0.0 supportmetrics.apple.com
+0.0.0.0 supportmetrics.v.aaplimg.com
 0.0.0.0 supr.link
 0.0.0.0 surge.bombora.com
 0.0.0.0 surveys.hotjar.com
@@ -7498,6 +7715,7 @@
 0.0.0.0 tr-st-sl.vivoglobal.com
 0.0.0.0 tr-st-sysupgrade.vivoglobal.com
 0.0.0.0 tr-stsdk.vivoglobal.com
+0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 tr.outbrain.com
 0.0.0.0 tr.snap.com
 0.0.0.0 tr.snapchat.com
@@ -7661,6 +7879,7 @@
 0.0.0.0 tracker.adikteev.com
 0.0.0.0 tracker.ai.xiaomi.com
 0.0.0.0 tracker.api.gnome.org
+0.0.0.0 tracker.apple.com
 0.0.0.0 tracker.baidu.com
 0.0.0.0 tracker.core.ac.uk
 0.0.0.0 tracker.debian.org
@@ -7939,6 +8158,7 @@
 0.0.0.0 turn.com
 0.0.0.0 turo-analytics.com
 0.0.0.0 tv-ads.adikteev.com
+0.0.0.0 tv-analytics.apple.com
 0.0.0.0 tv-ws.shouji.sogou.com
 0.0.0.0 tv.springserve.com
 0.0.0.0 tv2k9ad.nettvservices.com
@@ -7981,6 +8201,7 @@
 0.0.0.0 ucads-static.ucweb.com
 0.0.0.0 ucads.ucweb.com
 0.0.0.0 ucstat.baidu.com
+0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udp.adobe.io
 0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 ug.snssdk.com
@@ -8107,6 +8328,7 @@
 0.0.0.0 usync.admixer.net
 0.0.0.0 utt.impactcdn.com
 0.0.0.0 uxcam.com
+0.0.0.0 uxintg-iad.apple.com
 0.0.0.0 v.adsrvr.org
 0.0.0.0 v.clarity.ms
 0.0.0.0 v.plerdy.com
@@ -8255,6 +8477,9 @@
 0.0.0.0 wave.outbrain.com
 0.0.0.0 wcs.naver.com
 0.0.0.0 wd.adcolony.com
+0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.news.apple-dns.net
+0.0.0.0 weather-analytics-events.news.apple.com
 0.0.0.0 weather-beacon.com
 0.0.0.0 web-analytics.lastpass.com
 0.0.0.0 web-analytics.openaire.eu
@@ -8429,6 +8654,7 @@
 0.0.0.0 www.ptengine.jp
 0.0.0.0 www.pxl.to
 0.0.0.0 www.qmds-dev-samsung.com
+0.0.0.0 www.qwapi.com
 0.0.0.0 www.ravm.tv
 0.0.0.0 www.reimage.com
 0.0.0.0 www.revx.io

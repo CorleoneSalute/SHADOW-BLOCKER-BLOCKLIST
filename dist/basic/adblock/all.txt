@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8587
-# Generated: 2026-08-15 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8813
+# Generated: 2026-08-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -154,6 +154,9 @@
 ||ad-dra.dt.dbankcloud.com^
 ||ad-drru.dt.dbankcloud.com^
 ||ad-engine.accuweather.com^
+||ad-iad1.apple.com^
+||ad-iad2.apple.com^
+||ad-iad3.apple.com^
 ||ad-instantpage-ru.tiktokv.com^
 ||ad-instantpage-sg.tiktokv.com^
 ||ad-instantpage-ttp2.tiktokv.eu^
@@ -244,6 +247,7 @@
 ||adapp.biz.weibo.com^
 ||adaptv.advertising.com^
 ||adassets.waze.com^
+||adattributionservice.itunes.apple.com^
 ||adaware.com^
 ||adbemdigitalmediarebootprod2.112.2o7.net^
 ||adblade.com^
@@ -320,6 +324,7 @@
 ||adobetag.com^
 ||adoperator.com^
 ||adperio.com^
+||adplatform.apple.com^
 ||adplayer.pro^
 ||adprofex.com^
 ||adroll.com^
@@ -331,6 +336,7 @@
 ||ads-api.reddit.com^
 ||ads-api.twitter.com^
 ||ads-api.vivo.com^
+||ads-apple.apple.com.cn^
 ||ads-bdapi-my.heytapmobile.com^
 ||ads-bdapi-ph.heytapmobile.com^
 ||ads-bdapi-th.heytapmobile.com^
@@ -353,6 +359,8 @@
 ||ads-partners.roku.com^
 ||ads-portal-api-gateway.optisigns.com^
 ||ads-preview.linkvertise.com^
+||ads-rebrand.prz.sbz.apple.com^
+||ads-rebrand.rno.sbz.apple.com^
 ||ads-resources.waze.com^
 ||ads-sdk.unityads.unity3d.com^
 ||ads-serve.brave.com^
@@ -382,6 +390,7 @@
 ||ads.anzu.io^
 ||ads.api.cj.com^
 ||ads.api.vungle.com^
+||ads.apple.com^
 ||ads.ar.e-planning.net^
 ||ads.avast.com^
 ||ads.azerion.com^
@@ -545,11 +554,15 @@
 ||adsapi3.snapchat.com^
 ||adsapimus.snapchat.com^
 ||adsapisam.snapchat.com^
+||adsapivalidator.iad.apple.com^
 ||adsassets-ipv6.waze.com^
 ||adsassets.waze.com^
 ||adscdn.baidu.com^
+||adscms.mdn.sbz.apple.com^
+||adscms.msc.sbz.apple.com^
 ||adsconfig.life360.com^
 ||adsdianying.baidu.com^
+||adsdktest.apple.com^
 ||adseaimg.apusapps.com^
 ||adserv.reddit.com^
 ||adserve.dianomi.com^
@@ -620,6 +633,7 @@
 ||advertising-v3.roku.com^
 ||advertising-v3.us-east-1.msc.roku.com^
 ||advertising.accuweather.com^
+||advertising.apple.com^
 ||advertising.att.com^
 ||advertising.roku.com^
 ||advertising.tivo.com^
@@ -773,6 +787,7 @@
 ||analytic.underarmour.com^
 ||analytic.wysa.io^
 ||analytics-api.analytics-cluster.smartsupp.com^
+||analytics-api.apple.com^
 ||analytics-api.crowncoinscasino.com^
 ||analytics-api.grandesloterias.com^
 ||analytics-api.id.me^
@@ -809,6 +824,7 @@
 ||analytics-lingo4g.dimensions.ai^
 ||analytics-login.avg.com^
 ||analytics-login.norton.com^
+||analytics-nk.itunes.apple.com^
 ||analytics-old.openaire.eu^
 ||analytics-origin.cod.ed.gov^
 ||analytics-pbl.vivino.com^
@@ -822,6 +838,7 @@
 ||analytics-sdk-1.onfido.com^
 ||analytics-sdk.onfido.com^
 ||analytics-sg.tiktok.com^
+||analytics-st.itunes.apple.com^
 ||analytics-stage.ff.avast.com^
 ||analytics-test.tiktok.com^
 ||analytics-ttp2.tiktokw.eu^
@@ -859,6 +876,7 @@
 ||analytics.api.brightcove.com^
 ||analytics.api.brightside.com^
 ||analytics.api.services.leonardo.ai^
+||analytics.apple.com^
 ||analytics.applovin.com^
 ||analytics.appsflyer.com^
 ||analytics.aristocrat.com^
@@ -1083,6 +1101,7 @@
 ||analytics.hungryroot.com^
 ||analytics.hyperx.com^
 ||analytics.ibotta.com^
+||analytics.icloud.com^
 ||analytics.id.me^
 ||analytics.ieee.org^
 ||analytics.image-line.com^
@@ -1551,6 +1570,7 @@
 ||analyticsdr.otsuka-us.com^
 ||analyticshub.services.swiftkey.com^
 ||analyticshub.swiftkey.com^
+||andata.ist.apple.com^
 ||android-zone.org^
 ||androidads20.adcolony.com^
 ||androidads21.adcolony.com^
@@ -1583,6 +1603,7 @@
 ||apex-hb.go.sonobi.com^
 ||apex.go.sonobi.com^
 ||api-access.pangolin-sdk-toutiao.com^
+||api-adservices.apple.com^
 ||api-advertiser.linkvertise.com^
 ||api-analytics.bird.co^
 ||api-analytics.huami.com^
@@ -1610,6 +1631,7 @@
 ||api-s2s-america-f.taboola.com^
 ||api-s2s.taboola.com^
 ||api-samsung.swypeconnect.com^
+||api-searchads.apple.com^
 ||api-taboola.com^
 ||api-us.adikteev.com^
 ||api-us.mouseflow.com^
@@ -1717,6 +1739,7 @@
 ||api.hisavana.com^
 ||api.honeybadger.io^
 ||api.hotjar.io^
+||api.iad.apple.com^
 ||api.inscape.tv^
 ||api.inspectlet.com^
 ||api.instabug.com^
@@ -1833,6 +1856,7 @@
 ||apm.yun.hihonor.com^
 ||apmebf.com^
 ||aporasal.net^
+||app-ads.apple.com^
 ||app-analytics-v2.snapchat.com^
 ||app-analytics.huami.com^
 ||app-analytics.lyft.com^
@@ -1841,8 +1865,10 @@
 ||app-analyticsv2.snapchat.com^
 ||app-api.outbrain.com^
 ||app-events.fetch.com^
+||app-events.infoapps.apple.com^
 ||app-measurement.com^
 ||app-measurement.uber.com^
+||app-searchads.apple.com^
 ||app.ad-maven.com^
 ||app.adoperator.com^
 ||app.adprofex.com^
@@ -1873,8 +1899,12 @@
 ||app7.kromtech.net^
 ||appads.baidu.com^
 ||appanalytics.tomtom.com^
+||apple-ads.apple.com^
 ||apple.com-scan.live^
 ||apple.com-shield.live^
+||apple.comscoreresearch.com^
+||appleads-prz.apple.com^
+||applemediaservices.com^
 ||apples-analytics.pad.squareup.com^
 ||applog.bolt.eu^
 ||applog.musical.ly^
@@ -1895,6 +1925,7 @@
 ||apsoutheast-match.deepintent.com^
 ||apu.samsungelectronics.com^
 ||arc-metrics.corp.codeium.com^
+||arcade-analytics.apple.com^
 ||argenteutilities.com^
 ||array-bid.applovin.com^
 ||asapp.navdmp.com^
@@ -2035,6 +2066,7 @@
 ||b.nl3.eu.criteo.com^
 ||b.ns.e.opera.com^
 ||b.optmstr.com^
+||b.scorecardresearch.com^
 ||b.sg1.as.criteo.com^
 ||b.sharethrough.com^
 ||b.us5.us.criteo.com^
@@ -2150,6 +2182,7 @@
 ||bombora.com^
 ||books-analytics-events.apple.com^
 ||books-analytics-events.news.apple-dns.net^
+||books-analytics-events.news.apple.com^
 ||bookstats.kobo.com^
 ||boomtrain.com^
 ||bosslog.geniex.com^
@@ -2185,6 +2218,7 @@
 ||bugfender.com^
 ||bugreport.pt.xiaomi.com^
 ||bugreport.xiaomi.net^
+||bugreporter.apple.com^
 ||bugreporting.rec.net^
 ||bugs.baidu.com^
 ||bugsee.com^
@@ -2265,6 +2299,7 @@
 ||c9.telemetry.intel.com^
 ||ca-central-1-1.telemetry.insights.video.a2z.com^
 ||ca-service.acr.roku.com^
+||ca.iadsdk.apple.com^
 ||caa-analytics.topcashback.com^
 ||cadent.com^
 ||cadent.tv^
@@ -2467,8 +2502,11 @@
 ||cdpbeacon2.lgtvcommon.com^
 ||cdpsvc.lgtvcommon.com^
 ||central-log.opera.com^
+||certification-ads.apple.com^
+||certification-searchads.apple.com^
 ||cesinthi.com^
 ||cetrk.com^
+||cf.iadsdk.apple.com^
 ||cfjump.com^
 ||channels-analytics.amazon.com^
 ||channels-metrics.primevideo.com^
@@ -2544,6 +2582,8 @@
 ||clicktale.pantherssl.com^
 ||clicktalecdn.sslcs.cdngc.net^
 ||clickus.taboola.com^
+||client-analytics-ingress-sbox.apay.apple.com^
+||client-analytics-ingress.apay.apple.com^
 ||client-analytics.dropbox.com^
 ||client-log.box.com^
 ||client-log.dropbox.com^
@@ -2582,6 +2622,7 @@
 ||cm2.adform.net^
 ||cmp.optimizely.com^
 ||cms.analytics.yahoo.com^
+||cn-app-ads.apple.com^
 ||cn-zh-ort-stsdk.vivoglobal.com^
 ||cn-zh-prt-stsdk.vivoglobal.com^
 ||cn-zh-stsdk.vivoglobal.com^
@@ -2710,6 +2751,7 @@
 ||commandersact.com^
 ||commerce.sovrn.com^
 ||community.brightdata.com^
+||comscoreresearch.com^
 ||conf-in-dc.heytapdl.com^
 ||conf-in-dc.heytapmobile.com^
 ||conf-sg-dc.heytapdl.com^
@@ -2729,6 +2771,9 @@
 ||console.fyber.com^
 ||contact.ads.brave.com^
 ||content-ad.net^
+||content-iad1.apple.com^
+||content-iad2.apple.com^
+||content-iad3.apple.com^
 ||content.ad^
 ||content.analytics-cdn.teachable.com^
 ||content.yieldmo.com^
@@ -2766,9 +2811,20 @@
 ||coreads-console.cambridge.org^
 ||coreads-static.cambridge.org^
 ||coreads.cambridge.org^
+||coremetrics-apse1.apple.com^
+||coremetrics-euw1.apple.com^
+||coremetrics-use1.apple.com^
+||coremetrics-usw2.apple.com^
+||coremetrics.apple.com^
+||corplcms-ads-int-prn.apple.com^
+||corplcms-ads-int-sgp.apple.com^
+||covid19-feedbackws.icloud.com^
 ||cowner.net^
 ||cpa.adcolony.com^
 ||cpamatica.io^
+||cprad-iad4.apple.com^
+||cpradcnt-iad4.apple.com^
+||cprfeed-iad4.apple.com^
 ||cpro.baidu.cn^
 ||cpro.baidu.com^
 ||cpu.samsungelectronics.com^
@@ -2816,6 +2872,8 @@
 ||crashreports.nvidia.com^
 ||crashstats-collector.opera.com^
 ||crashstats-test.opera.com^
+||crashwebservices-old.apple.com^
+||crashwebservices.apple.com^
 ||crazyegg.com^
 ||creative-serve.remerge.io^
 ||creative.adikteev.com^
@@ -2961,8 +3019,10 @@
 ||data.zetaglobal.com^
 ||dataanalyst.mercury.weather.com^
 ||dataanalytics.vodafone.com^
+||databeacon.apple.com^
 ||databi.ad.xiaomi.com^
 ||datacollect.vmall.com^
+||datacollection.apple.com^
 ||datacollection.rec.net^
 ||datacollector-dra.dt.dbankcloud.cn^
 ||datacollector-dra.dt.hicloud.com^
@@ -3199,6 +3259,7 @@
 ||dynamic.criteo.com^
 ||dynamic.remerge.io^
 ||dynamic.zetaglobal.com^
+||dz1dt3wqswdezgx4j2ryem5iad.apple.com^
 ||e-planning.net^
 ||e-tracking.fujitsu.com^
 ||e.ad.xiaomi.com^
@@ -3565,6 +3626,20 @@
 ||feedback.pt.xiaomi.com^
 ||feedback.xmpush.global.xiaomi.com^
 ||feedback.xmpush.xiaomi.com^
+||feedbackws-apple-cloudkit.icloud.apple-dns.net^
+||feedbackws-ic1.icloud.com^
+||feedbackws-ic1.icloud.com.cn^
+||feedbackws-ic2.icloud.com^
+||feedbackws-ic2.icloud.com.cn^
+||feedbackws-ic3.icloud.com^
+||feedbackws-ic3.icloud.com.cn^
+||feedbackws-ic4.icloud.com^
+||feedbackws-ic4.icloud.com.cn^
+||feedbackws.apple-cloudkit.com^
+||feedbackws.fe.apple-dns.cn^
+||feedbackws.fe2.apple-dns.net^
+||feedbackws.icloud.com^
+||feedbackws.icloud.com.cn^
 ||fhc-event.fhcasino.com^
 ||fhc-event2.fhcasino.com^
 ||fiaharam.net^
@@ -3577,6 +3652,9 @@
 ||files.crazyegg.com^
 ||filesigcheck.com^
 ||fileviewpro.com^
+||finalcut-camera-events.apple.com^
+||finalcut-events.apple.com^
+||finalcutpro-events.apple.com^
 ||find.passion.com^
 ||fionread-ta-g7g.amazon.com^
 ||firebase-settings.crashlytics.com^
@@ -3636,6 +3714,7 @@
 ||frameplay.gg^
 ||fraud.adikteev.com^
 ||fraud.remerge.io^
+||freeform-events.apple.com^
 ||frontend-telemetry.intercom.io^
 ||frontier.byteoversea.com^
 ||frtyb.com^
@@ -3775,6 +3854,7 @@
 ||gpm.samsungqbe.com^
 ||grabads.com^
 ||grafana.acr.roku.com^
+||graffiti-tags.apple.com^
 ||graph.zetaglobal.com^
 ||graphics.adultfriendfinder.com^
 ||graphql.adikteev.com^
@@ -3876,6 +3956,7 @@
 ||hianalytics.com^
 ||hideadew.com^
 ||highcpmgate.com^
+||highline-events.apple.com^
 ||hinafinea.com^
 ||hisavana-adx.transacme.com^
 ||hisavana.com^
@@ -3925,7 +4006,24 @@
 ||i.lidam.com^
 ||i.microad.jp^
 ||i.n.jwpltx.com^
+||iad-apple.com^
+||iad-apple.com.akadns.net^
+||iad.apple.com^
+||iadapi.apple.com^
+||iadcm.apple.com^
+||iadcontent-lb.apple.com.akadns.net^
+||iadcontent-s2.apple.com^
+||iadcontent.apple.com^
+||iadmfeed.apple.com^
+||iadmoo.apple.com^
+||iadmsdk.apple.com^
+||iadmsoak.apple.com^
 ||iads.unity3d.com^
+||iadsdk.apple.com^
+||iadsdk.apple.com.akadns.net^
+||iadsdk.apple.com.edgekey.net^
+||iadworkbench-shield.apple.com^
+||iadworkbench.apple.com^
 ||iap.adikteev.com^
 ||iap.remerge.io^
 ||ib.3lift.com^
@@ -3941,6 +4039,26 @@
 ||ichnaea-web.us-west-2.prodaa.netflix.com^
 ||ichnaea.dradis.netflix.com^
 ||ichnaea.netflix.com^
+||icloud1-metrics-ic1.icloud.com^
+||icloud1-metrics-ic2.icloud.com^
+||icloud1-metrics-ic3.icloud.com^
+||icloud1-metrics-ic4.icloud.com^
+||icloud1-metrics.icloud.com^
+||icloud2-metrics-ic1.icloud.com^
+||icloud2-metrics-ic2.icloud.com^
+||icloud2-metrics-ic3.icloud.com^
+||icloud2-metrics-ic4.icloud.com^
+||icloud2-metrics.icloud.com^
+||icloud3-metrics-ic1.icloud.com^
+||icloud3-metrics-ic2.icloud.com^
+||icloud3-metrics-ic3.icloud.com^
+||icloud3-metrics-ic4.icloud.com^
+||icloud3-metrics.icloud.com^
+||icloud4-metrics-ic1.icloud.com^
+||icloud4-metrics-ic2.icloud.com^
+||icloud4-metrics-ic3.icloud.com^
+||icloud4-metrics-ic4.icloud.com^
+||icloud4-metrics.icloud.com^
 ||id-analyzer-appstore.vivoglobal.com^
 ||id.adform.net^
 ||id.crwdcntrl.net^
@@ -4153,6 +4271,7 @@
 ||items.rollbar.com^
 ||ity.im^
 ||ivononic.com^
+||iwork-events.apple.com^
 ||j.clarity.ms^
 ||j.gs^
 ||j.ligatus.com^
@@ -4543,6 +4662,7 @@
 ||logging.netflix.com^
 ||logging.rarible.com^
 ||logging.reddit.com^
+||logicpro-events.apple.com^
 ||login.adf.ly^
 ||login.ads.roku.com^
 ||login.ads.staging.roku.com^
@@ -4561,6 +4681,7 @@
 ||logs.1password.com^
 ||logs.ads.vungle.com^
 ||logs.alipay.com^
+||logs.apple.com^
 ||logs.bobble.ai^
 ||logs.boosteroid.com^
 ||logs.cachyos.org^
@@ -4691,6 +4812,7 @@
 ||marketing.event-tracking.samsung.com^
 ||marketing.flo.health^
 ||marketing.outbrain.com^
+||marketing.services.apple^
 ||marlin.logs.roku.com^
 ||match.360yield.com^
 ||match.adsquare.com^
@@ -4748,6 +4870,7 @@
 ||mdp-usertrace-cn.heytapmobi.com^
 ||mdp-usertrace-in.heytapmobile.com^
 ||mdp-usertrace-sg.heytapmobile.com^
+||me.apple-dns.net^
 ||measurement-api.criteo.com^
 ||measurement.adikteev.com^
 ||measurement.criteo.com^
@@ -4773,6 +4896,7 @@
 ||merkury.dentsu.com^
 ||messagecenterlog-dr.intel.com^
 ||messagecenterlog.intel.com^
+||messaging.metrics.icloud.com^
 ||meta-ucads.ucweb.com^
 ||metabase.analytics.native-instruments.com^
 ||metaffiliation.com^
@@ -4792,6 +4916,15 @@
 ||metrics-appdistribute-drcn.dt.hihonorcloud.com^
 ||metrics-apptouch-dre.hispace.dbankcloud.com^
 ||metrics-basecloud-drcn.dt.hihonorcloud.com^
+||metrics-china-ic1.icloud.com^
+||metrics-china-ic2.icloud.com^
+||metrics-china-ic3.icloud.com^
+||metrics-china-ic4.icloud.com^
+||metrics-config-ic1.icloud.com^
+||metrics-config-ic2.icloud.com^
+||metrics-config-ic3.icloud.com^
+||metrics-config-ic4.icloud.com^
+||metrics-config.icloud.com^
 ||metrics-dra.dt.dbankcloud.cn^
 ||metrics-dra.dt.dbankcloud.com^
 ||metrics-dra.dt.hicloud.com^
@@ -4804,9 +4937,20 @@
 ||metrics-dre.dt.dbankcloud.cn^
 ||metrics-dre.dt.hihonorcloud.com^
 ||metrics-drru.dt.hihonorcloud.com^
+||metrics-edge.icloud.com^
 ||metrics-eric.oss.demo.coder.com^
 ||metrics-hd.ops.kobo.com^
+||metrics-ic1.icloud.com^
+||metrics-ic1.icloud.com.cn^
+||metrics-ic2.icloud.com^
+||metrics-ic2.icloud.com.cn^
+||metrics-ic3.icloud.com^
+||metrics-ic3.icloud.com.cn^
+||metrics-ic4.icloud.com^
+||metrics-ic4.icloud.com.cn^
+||metrics-icperf.icloud.com^
 ||metrics-k.wbx2.com^
+||metrics-mtls.icloud.com^
 ||metrics-old.drift.trade^
 ||metrics-preview.vive.com^
 ||metrics-prom.perlego.com^
@@ -4824,6 +4968,9 @@
 ||metrics.amani.ai^
 ||metrics.amd.com^
 ||metrics.anthropic.com^
+||metrics.apple-cloudkit.com^
+||metrics.apple.com^
+||metrics.apple.com.akadns.net^
 ||metrics.applovin.com^
 ||metrics.att.com^
 ||metrics.avast.com^
@@ -4876,6 +5023,7 @@
 ||metrics.evidation.com^
 ||metrics.expressvpn.com^
 ||metrics.fanduel.com^
+||metrics.fe2.apple-dns.net^
 ||metrics.fetch.com^
 ||metrics.fitbit.com^
 ||metrics.flo.health^
@@ -4898,6 +5046,9 @@
 ||metrics.hulu.com^
 ||metrics.hyperx.com^
 ||metrics.ibotta.com^
+||metrics.icloud.com^
+||metrics.icloud.com.akadns.net^
+||metrics.icloud.com.cn^
 ||metrics.idfy.com^
 ||metrics.image-line.com^
 ||metrics.infra.yoti.com^
@@ -4933,6 +5084,7 @@
 ||metrics.mux.com^
 ||metrics.mxplayer.in^
 ||metrics.mycanal.fr^
+||metrics.mzstatic.com^
 ||metrics.naturalcycles.com^
 ||metrics.nbc.com^
 ||metrics.netflix.com^
@@ -5206,6 +5358,7 @@
 ||moreniche.com^
 ||mos-ortb-api.ad.intl.xiaomi.com^
 ||mosapi.ad.intl.xiaomi.com^
+||motion-events.apple.com^
 ||motriael.com^
 ||mountain.com^
 ||mouseflow.com^
@@ -5274,7 +5427,9 @@
 ||multiply.crwdcntrl.net^
 ||multissp.yieldlab.net^
 ||multitrack.endel.io^
+||music-analytics.apple.com^
 ||music-analytics.youtube.com^
+||musicanalytics.apple.com^
 ||musr.navdmp.com^
 ||mustang.logs.roku.com^
 ||mx-err-up.vivoglobal.com^
@@ -5334,10 +5489,17 @@
 ||new-www.outbrain.com^
 ||new.api.ad.xiaomi.com^
 ||newlytics.fileditch.com^
+||news-ads.apple.com^
+||news-analytics.apple.com^
+||news-app-events.apple.com^
+||news-events-old.apple.com^
+||news-events.apple.com^
+||news-sports-events.apple.com^
 ||news.mgid.com^
 ||news.revcontent.com^
 ||newscgp.com^
 ||newscorpau.taboola.com^
+||newskit-events.apple.com^
 ||nexage.com^
 ||nextmillennium.com^
 ||nextmillennium.io^
@@ -5347,11 +5509,14 @@
 ||nginx.34.sec.miui.com^
 ||niad.analytics.elsevier.com^
 ||nimbleinity.com^
+||nk-cktelemetryws.icloud.apple.com^
 ||nlog.baidu.com^
 ||nmetrics.samsung.com^
 ||nmetrics.samsungmobile.com^
 ||nmtracking.netflix.com^
 ||nof1.ai.supp0v3.com^
+||notes-analytics-events.apple.com^
+||notes-analytics-events.news.apple-dns.net^
 ||notifications-gke-sdk-bidding-a.fyber.com^
 ||notifier-configs.airbrake.io^
 ||notify.bugsnag.appstore.a2z.com^
@@ -5467,6 +5632,9 @@
 ||onrt.stsdk.vivoglobal.com^
 ||ontrack-lnx.amd.com^
 ||ontrack.amd.com^
+||oo-iad1.apple.com^
+||oo-iad2.apple.com^
+||oo-iad3.apple.com^
 ||open-api.pangleglobal.com^
 ||open.oneplus.cn^
 ||open.oneplus.net^
@@ -5542,6 +5710,19 @@
 ||p.teads.tv^
 ||p.xad.com^
 ||p.yieldlab.net^
+||p01-feedbackws-ic1.icloud.com^
+||p01-feedbackws-ic2.icloud.com^
+||p01-feedbackws-ic3.icloud.com^
+||p01-feedbackws-ic4.icloud.com^
+||p01-feedbackws.icloud.com^
+||p02-feedbackws-ic1.icloud.com^
+||p02-feedbackws-ic2.icloud.com^
+||p02-feedbackws-ic3.icloud.com^
+||p02-feedbackws-ic4.icloud.com^
+||p02-feedbackws.icloud.com^
+||p1-iadassets-origin.apple.com^
+||p1-mr-iad-finance-service.apple.com^
+||p1-mr-iad-ss-static-assets.rno.sbz.apple.com^
 ||p1.zemanta.com^
 ||p13nlog.optimizely.com^
 ||p16-ad-sg.ibyteimg.com^
@@ -5574,6 +5755,9 @@
 ||parsely.com^
 ||partner.criteo.com^
 ||partner.oceanengine.com^
+||partneranalytics-dr.apple.com^
+||partneranalytics.apple.com^
+||partneranalyticsportal.apple.com^
 ||partners.adikteev.com^
 ||partners.house^
 ||partners.remerge.io^
@@ -5615,6 +5799,7 @@
 ||pegasun.com^
 ||pepperjam.com^
 ||perf-events.cloud.unity3d.com^
+||performance-partners.apple.com^
 ||performance.netflix.com^
 ||performance.revcontent.com^
 ||performance.timeone.io^
@@ -5711,6 +5896,7 @@
 ||pixel.zetalive.com^
 ||pixel.zola.com^
 ||pixel2.web.roku.com^
+||pixelmator-events.infoapps.apple.com^
 ||pixelme.app^
 ||pixelme.io^
 ||pixelme.me^
@@ -5744,6 +5930,7 @@
 ||pmc-reporting.criteo.net^
 ||pnrt-stsdk.vivoglobal.com^
 ||pnrt.stsdk.vivoglobal.com^
+||podcasts-analytics.apple.com^
 ||pointstone.com^
 ||poker.track.zynga.com^
 ||popcon.debian.org^
@@ -5764,6 +5951,7 @@
 ||powersuite.com^
 ||pp2-api.nextmillennium.io^
 ||pps-log.op-mobile.opera.com^
+||prd-usw2-requestattribution-iad.apple.com^
 ||prderrordumphsm.samsungcloudsolution.com^
 ||prderrordumpssm.samsungcloudsolution.com^
 ||prderrordumpssm.samsungcloudsolution.net^
@@ -5802,6 +5990,7 @@
 ||privacyreviver.com^
 ||private.dianomi.com^
 ||probe-target.criteo.net^
+||probe.me.apple-dns.net^
 ||probe.yieldlab.net^
 ||probeinfo.telemetry.mozilla.org^
 ||probes.telemetry.mozilla.org^
@@ -5820,6 +6009,7 @@
 ||profiling.sentry.io^
 ||protected.media^
 ||prov-lg.alphonso.tv^
+||proxy-skadnetwork.apple.com^
 ||proxyjs.brdtnet.com^
 ||proxyjs.bright-sdk.com^
 ||proxyjs.luminatinet.com^
@@ -5860,6 +6050,7 @@
 ||push.zhanzhang.baidu.com^
 ||pushground.com^
 ||pushub.com^
+||pv-cktelemetryws-apple.icloud.apple-dns.net^
 ||px-adx.geo2.op-mobile.opera.com^
 ||px-adx.op-mobile.opera.com^
 ||px.ads.linkedin-ei.com^
@@ -5889,6 +6080,7 @@
 ||quamiller.com^
 ||quantserve.com^
 ||quantummetric.com^
+||qwapi.com^
 ||r-o.pro^
 ||r.ads.zynga.com^
 ||r.applovin.com^
@@ -6008,6 +6200,9 @@
 ||rest-api.adikteev.com^
 ||rest-api.remerge.io^
 ||restoro.com^
+||retaillearning-cdn-ads-it.apple.com^
+||retaillearning-cdn-ads-uat.apple.com^
+||retaillearning-cdn-ads.apple.com^
 ||retargeter.com^
 ||retargeting-audience.remerge.io^
 ||retargeting.adikteev.com^
@@ -6164,6 +6359,7 @@
 ||rtlog58-normal-useast2a.tiktokv.com^
 ||rtlog58-normal-ycru.tiktokv.com^
 ||rtlog58-normal.tiktokv.com^
+||rtneu-events.cg.btp.apple.com^
 ||rtrack.lonestarcasino.com^
 ||ru-commonitor-stsdk.vivoglobal.com^
 ||ru-comonrt-stsdk.vivoglobal.com^
@@ -6384,6 +6580,7 @@
 ||sapi.ads.oppomobile.com^
 ||satellite.plista.com^
 ||sb.quantserve.com^
+||sb.scorecardresearch.com^
 ||sbc.connectad.io^
 ||sblog.lalal.ai^
 ||sc-analytics.appspot.com^
@@ -6400,6 +6597,7 @@
 ||sclick.baidu.com^
 ||sclpfybn.com^
 ||scopely.io^
+||scorecardresearch.com^
 ||scribe.logs.bdp.roku.com^
 ||scribe.logs.roku.com^
 ||script.crazyegg.com^
@@ -6468,6 +6666,11 @@
 ||sdkopmetrics-us.dsp-api.moloco.com^
 ||search.spotxchange.com^
 ||searchad.naver.com^
+||searchads-prv.apple.com^
+||searchads-reno.apple.com^
+||searchads.apple.com^
+||searchads.apple.com.edgesuite.net^
+||searchads.lb-apple.com.akadns.net^
 ||secure-eu.imrworldwide.com^
 ||secure-system-services.com^
 ||secure.33across.com^
@@ -6604,6 +6807,7 @@
 ||shareasale-analytics.com^
 ||sharethrough.com^
 ||sharethrough.net^
+||shazam-events.cdn-apple.com^
 ||shealth-analytics-api.samsunghealth.com^
 ||shence-log.kwai.com^
 ||shink.in^
@@ -6634,6 +6838,7 @@
 ||simpli.fi^
 ||sin3-ib.adnxs.com^
 ||sjs.bizographics.com^
+||skadnetwork.iad-apple.com.akadns.net^
 ||skadpostbacks.appsflyer.com^
 ||skamaker.com^
 ||skamason.com^
@@ -6788,6 +6993,13 @@
 ||sstats.bitdefender.com^
 ||sstats.epicurious.com^
 ||st.n.ads1-adnow.com^
+||st11p01ad-approval.apple.com^
+||st11p01ad-cpradumgt.apple.com^
+||st11p01ad-cprcnt.apple.com^
+||st11p01ad-cprfeed.apple.com^
+||st11p01ad-iadapi.apple.com^
+||st11p01ad-iadworkbench.apple.com^
+||st11p01ad-iadworkbenchsoak.apple.com^
 ||stackadapt.com^
 ||staging-diagnosis.ad.xiaomi.com^
 ||stake.com^
@@ -6970,6 +7182,9 @@
 ||stgdata-ads-fr.heytapmobile.com^
 ||stickyadstv.com^
 ||stirista.com^
+||stocks-analytics-events.apple.com^
+||stocks-analytics-events.news.apple-dns.net^
+||stocks-analytics-events.news.apple.com^
 ||stopzilla.com^
 ||storage.outbrain.com^
 ||store.criteo.com^
@@ -7018,6 +7233,8 @@
 ||support.restoro.com^
 ||support.reviversoft.com^
 ||support.solvusoft.com^
+||supportmetrics.apple.com^
+||supportmetrics.v.aaplimg.com^
 ||supr.link^
 ||surge.bombora.com^
 ||surveys.hotjar.com^
@@ -7498,6 +7715,7 @@
 ||tr-st-sl.vivoglobal.com^
 ||tr-st-sysupgrade.vivoglobal.com^
 ||tr-stsdk.vivoglobal.com^
+||tr.iadsdk.apple.com^
 ||tr.outbrain.com^
 ||tr.snap.com^
 ||tr.snapchat.com^
@@ -7661,6 +7879,7 @@
 ||tracker.adikteev.com^
 ||tracker.ai.xiaomi.com^
 ||tracker.api.gnome.org^
+||tracker.apple.com^
 ||tracker.baidu.com^
 ||tracker.core.ac.uk^
 ||tracker.debian.org^
@@ -7939,6 +8158,7 @@
 ||turn.com^
 ||turo-analytics.com^
 ||tv-ads.adikteev.com^
+||tv-analytics.apple.com^
 ||tv-ws.shouji.sogou.com^
 ||tv.springserve.com^
 ||tv2k9ad.nettvservices.com^
@@ -7981,6 +8201,7 @@
 ||ucads-static.ucweb.com^
 ||ucads.ucweb.com^
 ||ucstat.baidu.com^
+||udm.scorecardresearch.com^
 ||udp.adobe.io^
 ||ug-sg.byteoversea.com^
 ||ug.snssdk.com^
@@ -8107,6 +8328,7 @@
 ||usync.admixer.net^
 ||utt.impactcdn.com^
 ||uxcam.com^
+||uxintg-iad.apple.com^
 ||v.adsrvr.org^
 ||v.clarity.ms^
 ||v.plerdy.com^
@@ -8255,6 +8477,9 @@
 ||wave.outbrain.com^
 ||wcs.naver.com^
 ||wd.adcolony.com^
+||weather-analytics-events.apple.com^
+||weather-analytics-events.news.apple-dns.net^
+||weather-analytics-events.news.apple.com^
 ||weather-beacon.com^
 ||web-analytics.lastpass.com^
 ||web-analytics.openaire.eu^
@@ -8429,6 +8654,7 @@
 ||www.ptengine.jp^
 ||www.pxl.to^
 ||www.qmds-dev-samsung.com^
+||www.qwapi.com^
 ||www.ravm.tv^
 ||www.reimage.com^
 ||www.revx.io^

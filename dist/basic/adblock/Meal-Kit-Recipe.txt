@@ -1,7 +1,7 @@
 # ============================================================
 # MEAL KIT RECIPE BLOCKLIST - BASIC
 # Total domains: 36
-# Generated: 2026-08-15 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-08-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
