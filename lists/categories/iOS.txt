@@ -1,0 +1,328 @@
+# iOS Blocklist
+
+# Total domains: 294
+# Last update 2026/07/18
+
+# --- CORE ANALYTICS ---
+metrics.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
+api-adservices.apple.com
+metrics.apple.com.akadns.net
+metrics.icloud.com.akadns.net
+analytics.apple.com
+analytics-api.apple.com
+analytics.icloud.com
+dzc-metrics.mzstatic.com !
+securemetrics.apple.com !
+cstat.apple.com !
+securemvt.apple.com !
+cstat-origin.apple.com !
+supportmetrics.apple.com
+databeacon.apple.com
+datacollection.apple.com
+dz1dt3wqswdezgx4j2ryem5iad.apple.com
+internalcheck.apple.com !
+msc-dct-prod.msc.apple.com !
+odin-signals.apple.com !
+performance-partners.apple.com 
+andata.ist.apple.com
+aspenlogs.apple.com !
+btrack.bswe.apple.com !
+client-analytics-ingress.apay.apple.com
+client-analytics-ingress-sbox.apay.apple.com
+coremetrics.apple.com
+coremetrics-apse1.apple.com
+coremetrics-euw1.apple.com
+coremetrics-use1.apple.com
+coremetrics-usw2.apple.com
+csatreporting.apple.com !
+cstat.g.apple.com !
+ip-geolocation.apple.com !
+logs.apple.com
+nk-cktelemetryws.icloud.apple.com
+partneranalytics.apple.com
+partneranalytics-dr.apple.com
+partneranalyticsportal.apple.com
+tracker.apple.com
+xp2.apple.com !
+xp-daf.apple.com !
+xp.trbo.apple.com !
+
+# --- APP ANALYTICS ---
+books-analytics-events.apple.com
+books-analytics-events.news.apple.com
+stocks-analytics-events.apple.com
+stocks-analytics-events.news.apple.com
+weather-analytics-events.apple.com
+weather-analytics-events.news.apple.com
+news-events.apple.com
+news-app-events.apple.com
+news-notification-events.apple.com !
+news-sports-events.apple.com
+music-analytics.apple.com
+tv-analytics.apple.com
+podcasts-analytics.apple.com
+news-analytics.apple.com
+arcade-analytics.apple.com
+notes-analytics-events.apple.com
+launch.apple.com !
+experiments.apple.com !
+graffiti-tags.apple.com
+advp.apple.com !
+fbs.smoot.apple.com !
+app-events.infoapps.apple.com
+books-personalization-server.apple.com !
+finalcut-events.apple.com
+finalcut-camera-events.apple.com
+finalcutpro-events.apple.com
+freeform-events.apple.com
+highline-events.apple.com
+iwork-events.apple.com
+logicpro-events.apple.com
+motion-events.apple.com
+musicanalytics.apple.com
+news-events-old.apple.com
+newskit-events.apple.com
+pixelmator-events.infoapps.apple.com
+rtneu-events.cg.btp.apple.com
+shazam-events.cdn-apple.com
+
+# --- DEVICE DIAGNOSTICS & SUBMISSIONS ---
+diagnostics.apple.com !
+diagassets.apple.com !
+idiagnostics.apple.com !
+idiagnostics-mdn1.apple.com !
+iphonesubmissions.apple.com !
+iphonesubmissions-old.apple.com !
+phonesubmissions.apple.com !
+radarsubmissions.apple.com !
+bugreporter.apple.com
+crashwebservices.apple.com
+crashwebservices-old.apple.com
+profilebroker.apple.com !
+
+# --- APPLE ADVERTISING ---
+advertising.apple.com
+iad.apple.com
+iadsdk.apple.com
+tr.iadsdk.apple.com
+ca.iadsdk.apple.com
+cf.iadsdk.apple.com
+api.iad.apple.com
+iad-apple.com
+iadcontent.apple.com
+iadmoo.apple.com
+iadworkbench.apple.com
+news-ads.apple.com
+adplatform.apple.com
+searchads.apple.com
+ad-iad1.apple.com
+ad-iad2.apple.com
+ad-iad3.apple.com
+ads.apple.com
+adsapivalidator.iad.apple.com
+adscms.mdn.sbz.apple.com
+adscms.msc.sbz.apple.com
+adsdktest.apple.com
+ads-rebrand.prz.sbz.apple.com
+ads-rebrand.rno.sbz.apple.com
+api-searchads.apple.com
+app-ads.apple.com
+app-searchads.apple.com
+apple-ads.apple.com
+appleads-prz.apple.com
+certification-ads.apple.com
+certification-searchads.apple.com
+cn-app-ads.apple.com
+content-iad1.apple.com
+content-iad2.apple.com
+content-iad3.apple.com
+corplcms-ads-int-prn.apple.com
+corplcms-ads-int-sgp.apple.com
+cprad-iad4.apple.com
+cpradcnt-iad4.apple.com
+cprfeed-iad4.apple.com
+iadapi.apple.com
+iadcm.apple.com
+iadcontent-s2.apple.com
+iadmfeed.apple.com
+iadmsdk.apple.com
+iadmsoak.apple.com
+iadworkbench-shield.apple.com
+oo-iad1.apple.com
+oo-iad2.apple.com
+oo-iad3.apple.com
+p1-iadassets-origin.apple.com
+p1-mr-iad-finance-service.apple.com
+p1-mr-iad-ss-static-assets.rno.sbz.apple.com
+retaillearning-cdn-ads.apple.com
+retaillearning-cdn-ads-it.apple.com
+retaillearning-cdn-ads-uat.apple.com
+searchads-prv.apple.com
+searchads-reno.apple.com
+st11p01ad-approval.apple.com
+st11p01ad-cpradumgt.apple.com
+st11p01ad-cprcnt.apple.com
+st11p01ad-cprfeed.apple.com
+st11p01ad-iadapi.apple.com
+st11p01ad-iadworkbench.apple.com
+st11p01ad-iadworkbenchsoak.apple.com
+uxintg-iad.apple.com
+
+# --- ATTRIBUTION & SKADNETWORK ---
+proxy-skadnetwork.apple.com
+prd-usw2-requestattribution-iad.apple.com
+partiality.itunes.apple.com !
+adattributionservice.itunes.apple.com
+
+# --- ITUNES & APP STORE ANALYTICS ---
+metrics.apple-cloudkit.com
+feedbackws.apple-cloudkit.com
+analytics-nk.itunes.apple.com
+analytics-st.itunes.apple.com
+
+# --- EVENT RELAY — .v.aaplimg.com ---
+prod-event-relay-api.v.aaplimg.com !
+prod-event-relay-books-api.v.aaplimg.com !
+prod-event-relay-notes-api.v.aaplimg.com !
+prod-event-relay-sports-api.v.aaplimg.com !
+prod-event-relay-stocks-api.v.aaplimg.com !
+prod-event-relay-weather-api.v.aaplimg.com !
+prod-news-notification-events.v.aaplimg.com !
+securemetrics.v.aaplimg.com !
+securemvt.v.aaplimg.com !
+smoot-feedback.v.aaplimg.com !
+supportmetrics.v.aaplimg.com
+xp.v.aaplimg.com !
+cdn-xp-ingest-ab.v.aaplimg.com !
+iphonesubmissions.v.aaplimg.com !
+ip-geolocation.v.aaplimg.com !
+
+# --- ANALYTICS CDN — .g.aaplimg.com ---
+cstat.g.aaplimg.com !
+diagassets.g.aaplimg.com !
+
+# --- TRACKER CDN — .akadns.net ---
+ab.apple.com.akadns.net !
+cstat-lb.apple.com.akadns.net !
+diagassets-lb.apple.com.akadns.net !
+diagnostics.apple.com.akadns.net !
+iadcontent-lb.apple.com.akadns.net
+iadsdk.apple.com.akadns.net
+idiagnostics.apple.com.akadns.net !
+iphonesubmissions.apple.com.akadns.net !
+radarsubmissions.apple.com.akadns.net !
+iad-apple.com.akadns.net
+skadnetwork.iad-apple.com.akadns.net
+partiality.itunes-apple.com.akadns.net !
+xp.itunes-apple.com.akadns.net !
+xp-cdn-lb.itunes-apple.com.akadns.net !
+searchads.lb-apple.com.akadns.net
+
+# --- ANALYTICS DNS ROUTES — apple-dns.net ---
+feedbackws.fe2.apple-dns.net
+books-analytics-events.news.apple-dns.net
+notes-analytics-events.news.apple-dns.net
+stocks-analytics-events.news.apple-dns.net
+weather-analytics-events.news.apple-dns.net
+acfeedbackws.icloud.com !
+feedbackws.icloud.com
+me.apple-dns.net
+probe.me.apple-dns.net
+feedbackws-apple-cloudkit.icloud.apple-dns.net
+metrics.fe2.apple-dns.net
+pv-cktelemetryws-apple.icloud.apple-dns.net
+
+# --- CDN ANALYTICS ROUTES ---
+cstat.cdn-apple.com !
+cdn-xp-ingest.edge.apple !
+experiments.apple.com.edgekey.net !
+iadsdk.apple.com.edgekey.net
+partiality.itunes.apple.com.edgekey.net !
+xp.apple.com.edgekey.net !
+cstat.apple.com.edgesuite.net !
+searchads.apple.com.edgesuite.net
+
+# --- ICLOUD FEEDBACK & METRICS ---
+covid19-feedbackws.icloud.com
+feedbackws-ic1.icloud.com
+feedbackws-ic2.icloud.com
+feedbackws-ic3.icloud.com
+feedbackws-ic4.icloud.com
+p01-feedbackws.icloud.com
+p01-feedbackws-ic1.icloud.com
+p01-feedbackws-ic2.icloud.com
+p01-feedbackws-ic3.icloud.com
+p01-feedbackws-ic4.icloud.com
+p02-feedbackws.icloud.com
+p02-feedbackws-ic1.icloud.com
+p02-feedbackws-ic2.icloud.com
+p02-feedbackws-ic3.icloud.com
+p02-feedbackws-ic4.icloud.com
+icloud1-metrics.icloud.com
+icloud1-metrics-ic1.icloud.com
+icloud1-metrics-ic2.icloud.com
+icloud1-metrics-ic3.icloud.com
+icloud1-metrics-ic4.icloud.com
+icloud2-metrics.icloud.com
+icloud2-metrics-ic1.icloud.com
+icloud2-metrics-ic2.icloud.com
+icloud2-metrics-ic3.icloud.com
+icloud2-metrics-ic4.icloud.com
+icloud3-metrics.icloud.com
+icloud3-metrics-ic1.icloud.com
+icloud3-metrics-ic2.icloud.com
+icloud3-metrics-ic3.icloud.com
+icloud3-metrics-ic4.icloud.com
+icloud4-metrics.icloud.com
+icloud4-metrics-ic1.icloud.com
+icloud4-metrics-ic2.icloud.com
+icloud4-metrics-ic3.icloud.com
+icloud4-metrics-ic4.icloud.com
+messaging.metrics.icloud.com
+metrics-config.icloud.com
+metrics-config-ic1.icloud.com
+metrics-config-ic2.icloud.com
+metrics-config-ic3.icloud.com
+metrics-config-ic4.icloud.com
+metrics-edge.icloud.com
+metrics-icperf.icloud.com
+metrics-mtls.icloud.com
+metrics-ic1.icloud.com
+metrics-ic2.icloud.com
+metrics-ic3.icloud.com
+metrics-ic4.icloud.com
+metrics-china-ic1.icloud.com
+metrics-china-ic2.icloud.com
+metrics-china-ic3.icloud.com
+metrics-china-ic4.icloud.com
+
+# --- CHINA DOMAINS ---
+feedbackws.fe.apple-dns.cn
+securemetrics.apple.com.cn !
+feedbackws.icloud.com.cn
+ads-apple.apple.com.cn
+feedbackws-ic1.icloud.com.cn
+feedbackws-ic2.icloud.com.cn
+feedbackws-ic3.icloud.com.cn
+feedbackws-ic4.icloud.com.cn
+metrics-ic1.icloud.com.cn
+metrics-ic2.icloud.com.cn
+metrics-ic3.icloud.com.cn
+metrics-ic4.icloud.com.cn
+metrics.icloud.com.cn
+
+# --- HIDDEN TRACKER DOMAINS ---
+qwapi.com
+www.qwapi.com
+marketing.services.apple
+applemediaservices.com
+
+# --- COMSCORE (APPLE NEWS) ---
+comscoreresearch.com
+scorecardresearch.com
+apple.comscoreresearch.com
+b.scorecardresearch.com
+sb.scorecardresearch.com
+udm.scorecardresearch.com
