@@ -90,7 +90,6 @@ release.
 - Telehealth & Digital Health
 - Email Marketing
 - Windows
-- iOS
 - Job & Recruitment
 - Adult Ecosystem
 - Grocery & Food Delivery
