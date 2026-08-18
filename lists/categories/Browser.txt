@@ -1,7 +1,8 @@
 # BROWSER APPS DNS BLOCKLIST
 
-Total domains: 337
-Last update: 11/16/2026
+# Total domains: 337
+# Last update: 11/16/2026
+# Note: trailing "!" marks a domain as aggressive-only
 
 # GOOGLE / CHROME
 chromereporting-pa.googleapis.com
