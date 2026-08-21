@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9210
-# Generated: 2026-08-18 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9215
+# Generated: 2026-08-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -3016,6 +3016,7 @@
 0.0.0.0 customdomains.litix.io
 0.0.0.0 customer-feedbacks.web.roku.com
 0.0.0.0 customer-service.logs.roku.com
+0.0.0.0 customer-telemetry-sink.cursorapi.com
 0.0.0.0 customer-track.careem.com
 0.0.0.0 customerevents.netflix.com
 0.0.0.0 customerevents.us-west-2.prodaa.netflix.com
@@ -5240,6 +5241,8 @@
 0.0.0.0 metrics.crunchyroll.com
 0.0.0.0 metrics.curiositystream.com
 0.0.0.0 metrics.current.us
+0.0.0.0 metrics.cursor.net
+0.0.0.0 metrics.cursor.sh
 0.0.0.0 metrics.cyberghostvpn.com
 0.0.0.0 metrics.dailywire.com
 0.0.0.0 metrics.dashlane.com
@@ -6312,6 +6315,7 @@
 0.0.0.0 protonurl.ch
 0.0.0.0 prov-lg.alphonso.tv
 0.0.0.0 proxy-skadnetwork.apple.com
+0.0.0.0 proxy-traffic-usage-check.cursorapi.com
 0.0.0.0 proxyjs.brdtnet.com
 0.0.0.0 proxyjs.bright-sdk.com
 0.0.0.0 proxyjs.luminatinet.com
@@ -7429,6 +7433,7 @@
 0.0.0.0 stats.ccleaner.com
 0.0.0.0 stats.cleanvoice.ai
 0.0.0.0 stats.corsair.com
+0.0.0.0 stats.cursor.net
 0.0.0.0 stats.dianomi.com
 0.0.0.0 stats.dreamtonics.com
 0.0.0.0 stats.elementary.io

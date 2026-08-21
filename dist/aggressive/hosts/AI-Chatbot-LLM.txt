@@ -1,7 +1,7 @@
 # ============================================================
 # AI CHATBOT LLM BLOCKLIST - AGGRESSIVE
-# Total domains: 36
-# Generated: 2026-08-18 (UTC) - auto-generated, do not edit by hand
+# Total domains: 41
+# Generated: 2026-08-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -15,11 +15,14 @@
 0.0.0.0 client-telemetry.us-east-1.amazonaws.com
 0.0.0.0 collector.lovable.dev
 0.0.0.0 copilot-telemetry.githubusercontent.com
+0.0.0.0 customer-telemetry-sink.cursorapi.com
 0.0.0.0 events.character.ai
 0.0.0.0 gemini-analytics.google.com
 0.0.0.0 logs-gateway.tabnine.com
 0.0.0.0 metrics-eric.oss.demo.coder.com
 0.0.0.0 metrics.anthropic.com
+0.0.0.0 metrics.cursor.net
+0.0.0.0 metrics.cursor.sh
 0.0.0.0 metrics.openai.com
 0.0.0.0 metrics.replika.ai
 0.0.0.0 o.openai.com
@@ -27,10 +30,12 @@
 0.0.0.0 o207216.ingest.sentry.io
 0.0.0.0 o33249.ingest.sentry.io
 0.0.0.0 prod.log.shortbread.aws.dev
+0.0.0.0 proxy-traffic-usage-check.cursorapi.com
 0.0.0.0 sa.coder.com
 0.0.0.0 sentry.codeium.com
 0.0.0.0 sentry.xinchenai.com
 0.0.0.0 service.githubusercontent.com
+0.0.0.0 stats.cursor.net
 0.0.0.0 telemetry.aws-language-servers.us-east-1.amazonaws.com
 0.0.0.0 telemetry.character.ai
 0.0.0.0 telemetry.codeium.com

@@ -1,7 +1,7 @@
 # ============================================================
 # SMART TV BLOCKLIST - BASIC
 # Total domains: 453
-# Generated: 2026-08-18 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-08-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 

@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8813
-# Generated: 2026-08-18 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8816
+# Generated: 2026-08-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -2920,6 +2920,7 @@
 0.0.0.0 customdomains.litix.io
 0.0.0.0 customer-feedbacks.web.roku.com
 0.0.0.0 customer-service.logs.roku.com
+0.0.0.0 customer-telemetry-sink.cursorapi.com
 0.0.0.0 customer-track.careem.com
 0.0.0.0 customerevents.netflix.com
 0.0.0.0 customerevents.us-west-2.prodaa.netflix.com
@@ -5000,6 +5001,8 @@
 0.0.0.0 metrics.crunchyroll.com
 0.0.0.0 metrics.curiositystream.com
 0.0.0.0 metrics.current.us
+0.0.0.0 metrics.cursor.net
+0.0.0.0 metrics.cursor.sh
 0.0.0.0 metrics.cyberghostvpn.com
 0.0.0.0 metrics.dailywire.com
 0.0.0.0 metrics.dashlane.com
