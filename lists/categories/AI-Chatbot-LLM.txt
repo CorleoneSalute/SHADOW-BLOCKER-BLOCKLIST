@@ -59,10 +59,18 @@ statsig.anthropic.com ! # Anthropic feature flag & A/B experimentation (Statsig)
 gemini-analytics.google.com
 bard-telemetry.google.com
 
-# Romantic AI — 3. Parti Tracker
+# Romantic AI
 track.romanticai.com
 zemomedia.com
 
 # Lovable.dev
 
 collector.lovable.dev
+
+Cursor
+
+metrics.cursor.sh
+customer-telemetry-sink.cursorapi.com
+metrics.cursor.net
+proxy-traffic-usage-check.cursorapi.com !
+stats.cursor.net !
