@@ -42,6 +42,7 @@ telemetry.tabnine.com
 logs-gateway.tabnine.com
 
 # ChatGPT / OpenAI
+ads.openai.com
 o.openai.com
 telemetry.openai.com
 analytics.openai.com
