@@ -1,10 +1,11 @@
 # ============================================================
 # AI CHATBOT LLM BLOCKLIST - BASIC
-# Total domains: 39
-# Generated: 2026-08-21 (UTC) - auto-generated, do not edit by hand
+# Total domains: 40
+# Generated: 2026-08-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+0.0.0.0 ads.openai.com
 0.0.0.0 analytics.character.ai
 0.0.0.0 analytics.codeium.com
 0.0.0.0 analytics.openai.com

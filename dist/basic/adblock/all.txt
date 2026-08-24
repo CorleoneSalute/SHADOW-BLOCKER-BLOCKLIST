@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8816
-# Generated: 2026-08-21 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8817
+# Generated: 2026-08-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -467,6 +467,7 @@
 ||ads.myfitnesspal.com^
 ||ads.naver.com^
 ||ads.oddschecker.com^
+||ads.openai.com^
 ||ads.opera.com^
 ||ads.oppomobile.com^
 ||ads.outbrain.com^

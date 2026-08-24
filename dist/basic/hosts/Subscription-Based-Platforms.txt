@@ -1,7 +1,7 @@
 # ============================================================
 # SUBSCRIPTION BASED PLATFORMS BLOCKLIST - BASIC
 # Total domains: 15
-# Generated: 2026-08-21 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-08-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
