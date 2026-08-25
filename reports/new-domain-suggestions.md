@@ -1,6 +1,6 @@
 # New Domain Suggestions
 
-Generated: 2026-08-24 06:59 UTC
+Generated: 2026-08-25 06:49 UTC
 
 Domains added to the sources below in the last 24 hours that
 are NOT currently in this project's lists/categories/. This is
@@ -30,9 +30,7 @@ No new candidate domains in the last 24 hours.
 
 ## a-dove-is-dumb (Adobe)
 
-| Domain | Seen in commit |
-|---|---|
-| 6tr5fro6n.u0op6.adobestats.io | [link](https://github.com/ignaciocastro/a-dove-is-dumb/commit/42a1e7ef6ed433b677d6bedcb8124937cbc0bbe4) |
+No new candidate domains in the last 24 hours.
 
 ## HaGeZi Native Lists
 
