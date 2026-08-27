@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8817
-# Generated: 2026-08-24 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8848
+# Generated: 2026-08-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -44,6 +44,7 @@
 0.0.0.0 a.gdown.baidu.com
 0.0.0.0 a.hiphotos.baidu.com
 0.0.0.0 a.ligatus.com
+0.0.0.0 a.line.me
 0.0.0.0 a.market.mi-img.com
 0.0.0.0 a.mgid.com
 0.0.0.0 a.ns.e.opera.com
@@ -154,6 +155,7 @@
 0.0.0.0 ad-dra.dt.dbankcloud.com
 0.0.0.0 ad-drru.dt.dbankcloud.com
 0.0.0.0 ad-engine.accuweather.com
+0.0.0.0 ad-feedback.line-apps.com
 0.0.0.0 ad-iad1.apple.com
 0.0.0.0 ad-iad2.apple.com
 0.0.0.0 ad-iad3.apple.com
@@ -346,6 +348,8 @@
 0.0.0.0 ads-cf-us-east-1.delivery.roku.com
 0.0.0.0 ads-cf-us-west-2.delivery.roku.com
 0.0.0.0 ads-config.op-mobile.opera.com
+0.0.0.0 ads-d.integration.viber.com
+0.0.0.0 ads-d.viber.com
 0.0.0.0 ads-drcn.platform.hihonorcloud.com
 0.0.0.0 ads-drru.cloud.huawei.ru
 0.0.0.0 ads-fa-darwin.hulu.com
@@ -408,6 +412,7 @@
 0.0.0.0 ads.brightroll.com
 0.0.0.0 ads.bsplayer.com
 0.0.0.0 ads.careem.com
+0.0.0.0 ads.cdn.viber.com
 0.0.0.0 ads.chartboost.com
 0.0.0.0 ads.chocolateplatform.com
 0.0.0.0 ads.cj.com
@@ -452,6 +457,7 @@
 0.0.0.0 ads.kakaopay.com
 0.0.0.0 ads.lastpass.com
 0.0.0.0 ads.life360.com
+0.0.0.0 ads.line.me
 0.0.0.0 ads.linkedin-ei.com
 0.0.0.0 ads.linkedin.cn
 0.0.0.0 ads.linkedin.com
@@ -519,6 +525,7 @@
 0.0.0.0 ads.us.tiktok.com
 0.0.0.0 ads.vertamedia.com
 0.0.0.0 ads.verve.com
+0.0.0.0 ads.viber.com
 0.0.0.0 ads.vk.com
 0.0.0.0 ads.vk.ru
 0.0.0.0 ads.voot.com
@@ -1340,6 +1347,7 @@
 0.0.0.0 analytics.robin.markets
 0.0.0.0 analytics.roblox.com
 0.0.0.0 analytics.roboform.com
+0.0.0.0 analytics.rocket.chat
 0.0.0.0 analytics.rocketlanguages.com
 0.0.0.0 analytics.rockylinux.org
 0.0.0.0 analytics.roku.com
@@ -2719,6 +2727,7 @@
 0.0.0.0 collector.glassbox.digital
 0.0.0.0 collector.inkitt.com
 0.0.0.0 collector.intel.com
+0.0.0.0 collector.jaeger.matrix.org
 0.0.0.0 collector.lovable.dev
 0.0.0.0 collector.medallia.com
 0.0.0.0 collector.pokerstars.be
@@ -2736,6 +2745,7 @@
 0.0.0.0 collector.pokerstarsnj.com
 0.0.0.0 collector.quantummetric.com
 0.0.0.0 collector.reddit.com
+0.0.0.0 collector.rocket.chat
 0.0.0.0 collector.scopely.io
 0.0.0.0 collector.sh.pokerstars.de
 0.0.0.0 collector.shorte.st
@@ -2862,6 +2872,7 @@
 0.0.0.0 crashes.1password.com
 0.0.0.0 crashes.dashlane.com
 0.0.0.0 crashes.ivpn.net
+0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 crashreport.razer.com
@@ -2892,6 +2903,8 @@
 0.0.0.0 criteo.net
 0.0.0.0 cross-promo.adikteev.com
 0.0.0.0 cross-promo.remerge.io
+0.0.0.0 crs-event.line.me
+0.0.0.0 crs-hometab-event.line.me
 0.0.0.0 crs.cr.adobe.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 cs.adingo.jp
@@ -2975,6 +2988,8 @@
 0.0.0.0 data-analysis.fedoraproject.org
 0.0.0.0 data-axle.com
 0.0.0.0 data-collection.brightcove.com
+0.0.0.0 data-event-proxy.viber.com
+0.0.0.0 data-events.cdn.viber.com
 0.0.0.0 data-f.ads.oppomobile.com
 0.0.0.0 data-id.ads.oppomobile.com
 0.0.0.0 data-in-ads.realmemobile.com
@@ -4734,6 +4749,7 @@
 0.0.0.0 logservice1.dbankcloud.com
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logssug.ucweb.com
+0.0.0.0 logstash-deployment-tracking.linecorp.com
 0.0.0.0 logsystem.zoom.us
 0.0.0.0 logtrace.snssdk.com
 0.0.0.0 logtracker.orange.pl
@@ -4832,6 +4848,7 @@
 0.0.0.0 matomo.garmin.com
 0.0.0.0 matomo.samsungsdibs.at
 0.0.0.0 matrix.api.ad.xiaomi.com
+0.0.0.0 matterlytics.com
 0.0.0.0 max.ad.xiaomi.com
 0.0.0.0 maxbounty.com
 0.0.0.0 maxfinishseveral.com
@@ -5249,6 +5266,7 @@
 0.0.0.0 miuiboot.tracking.intl.miui.com
 0.0.0.0 miuiboot.tracking.miui.com
 0.0.0.0 mixer.cupid.ptqy.gitv.tv
+0.0.0.0 mixpanel.cdn.viber.com
 0.0.0.0 mixpanel.untappd.com
 0.0.0.0 mkt1.photobucket.com
 0.0.0.0 mkt2.photobucket.com
@@ -5577,6 +5595,7 @@
 0.0.0.0 o1383653.ingest.sentry.io
 0.0.0.0 o207216.ingest.sentry.io
 0.0.0.0 o33249.ingest.sentry.io
+0.0.0.0 o64374.ingest.sentry.io
 0.0.0.0 oas-c18.adnxs.com
 0.0.0.0 oath.com
 0.0.0.0 ob-retarget.com
@@ -5794,6 +5813,7 @@
 0.0.0.0 pctuneupmaestro.com
 0.0.0.0 pcv.com
 0.0.0.0 pcvark.com
+0.0.0.0 pdat.matterlytics.com
 0.0.0.0 pdmp.dcapi.dmp.3lift.com
 0.0.0.0 pdmp.papi-public.eu-central-1.dmp.3lift.com
 0.0.0.0 pdmp.papi-public.us-east-1.dmp.3lift.com
@@ -5871,6 +5891,7 @@
 0.0.0.0 pixel.limeade.com
 0.0.0.0 pixel.me
 0.0.0.0 pixel.mercadopago.com
+0.0.0.0 pixel.messenger.com
 0.0.0.0 pixel.mgid.com
 0.0.0.0 pixel.mntn.com
 0.0.0.0 pixel.nativo.com
@@ -5935,6 +5956,7 @@
 0.0.0.0 pnrt-stsdk.vivoglobal.com
 0.0.0.0 pnrt.stsdk.vivoglobal.com
 0.0.0.0 podcasts-analytics.apple.com
+0.0.0.0 point-ads.line-apps.com
 0.0.0.0 pointstone.com
 0.0.0.0 poker.track.zynga.com
 0.0.0.0 popcon.debian.org
@@ -5950,6 +5972,9 @@
 0.0.0.0 post.update.criteo.com
 0.0.0.0 postback.adikteev.com
 0.0.0.0 postback.remerge.io
+0.0.0.0 posthog-metrics.element.io
+0.0.0.0 posthog.element.io
+0.0.0.0 posthog.hss.element.io
 0.0.0.0 postman.fortect.com
 0.0.0.0 postrelease.com
 0.0.0.0 powersuite.com
@@ -6713,9 +6738,12 @@
 0.0.0.0 selectmedia.asia
 0.0.0.0 send.microad.jp
 0.0.0.0 sense360.com
+0.0.0.0 sentry-metrics.tools.element.io
 0.0.0.0 sentry-new.tidio.co
 0.0.0.0 sentry-read.svc.overdrive.com
 0.0.0.0 sentry-reporter.ente.io
+0.0.0.0 sentry-th.line-apps.com
+0.0.0.0 sentry-uit.line-apps.com
 0.0.0.0 sentry.api.stronglifts.com
 0.0.0.0 sentry.audacityteam.org
 0.0.0.0 sentry.clickdealer.com
@@ -6728,6 +6756,7 @@
 0.0.0.0 sentry.io
 0.0.0.0 sentry.io.steinberg.net
 0.0.0.0 sentry.klippa.com
+0.0.0.0 sentry.matrix.org
 0.0.0.0 sentry.minddoc.com
 0.0.0.0 sentry.predict.fun
 0.0.0.0 sentry.prequel.app
@@ -6743,6 +6772,7 @@
 0.0.0.0 sentry.sync.me
 0.0.0.0 sentry.system76.com
 0.0.0.0 sentry.tidio.co
+0.0.0.0 sentry.tools.element.io
 0.0.0.0 sentry.work.ink
 0.0.0.0 sentry.xinchenai.com
 0.0.0.0 sentry.zopim.com
@@ -7517,6 +7547,7 @@
 0.0.0.0 telemetry.manjaro.org
 0.0.0.0 telemetry.mapbox.com
 0.0.0.0 telemetry.matchgroup.com
+0.0.0.0 telemetry.mattermost.com
 0.0.0.0 telemetry.max.com
 0.0.0.0 telemetry.maxon.net
 0.0.0.0 telemetry.mcafee.com

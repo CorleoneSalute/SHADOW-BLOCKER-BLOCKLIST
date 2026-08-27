@@ -1,0 +1,42 @@
+# ============================================================
+# MESSAGING BLOCKLIST - AGGRESSIVE
+# Total domains: 35
+# Generated: 2026-08-27 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||a.line.me^
+||ad-feedback.line-apps.com^
+||ads-d.integration.viber.com^
+||ads-d.viber.com^
+||ads.cdn.viber.com^
+||ads.line.me^
+||ads.viber.com^
+||analytics.rocket.chat^
+||collector.jaeger.matrix.org^
+||collector.rocket.chat^
+||crashlogs.whatsapp.net^
+||crs-event.line.me^
+||crs-hometab-event.line.me^
+||data-event-proxy.viber.com^
+||data-events.cdn.viber.com^
+||graph.whatsapp.com^
+||graph.whatsapp.net^
+||lap-click.tr.line.me^
+||logstash-deployment-tracking.linecorp.com^
+||matterlytics.com^
+||mixpanel.cdn.viber.com^
+||o64374.ingest.sentry.io^
+||pdat.matterlytics.com^
+||pixel.messenger.com^
+||point-ads.line-apps.com^
+||posthog-element-call.element.io^
+||posthog-metrics.element.io^
+||posthog.element.io^
+||posthog.hss.element.io^
+||sentry-metrics.tools.element.io^
+||sentry-th.line-apps.com^
+||sentry-uit.line-apps.com^
+||sentry.matrix.org^
+||sentry.tools.element.io^
+||telemetry.mattermost.com^

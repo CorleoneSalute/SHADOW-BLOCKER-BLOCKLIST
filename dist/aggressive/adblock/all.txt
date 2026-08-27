@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9216
-# Generated: 2026-08-24 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9251
+# Generated: 2026-08-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -47,6 +47,7 @@
 ||a.gdown.baidu.com^
 ||a.hiphotos.baidu.com^
 ||a.ligatus.com^
+||a.line.me^
 ||a.market.mi-img.com^
 ||a.mgid.com^
 ||a.ns.e.opera.com^
@@ -164,6 +165,7 @@
 ||ad-dra.dt.dbankcloud.com^
 ||ad-drru.dt.dbankcloud.com^
 ||ad-engine.accuweather.com^
+||ad-feedback.line-apps.com^
 ||ad-iad1.apple.com^
 ||ad-iad2.apple.com^
 ||ad-iad3.apple.com^
@@ -363,6 +365,8 @@
 ||ads-cf-us-east-1.delivery.roku.com^
 ||ads-cf-us-west-2.delivery.roku.com^
 ||ads-config.op-mobile.opera.com^
+||ads-d.integration.viber.com^
+||ads-d.viber.com^
 ||ads-drcn.platform.hihonorcloud.com^
 ||ads-drru.cloud.huawei.ru^
 ||ads-fa-darwin.hulu.com^
@@ -426,6 +430,7 @@
 ||ads.brightroll.com^
 ||ads.bsplayer.com^
 ||ads.careem.com^
+||ads.cdn.viber.com^
 ||ads.cdn1.atp.vtv.vodafone.com^
 ||ads.cdn1.id.vtv.vodafone.com^
 ||ads.cdn1.vfgtv-id.vodafone.com^
@@ -474,6 +479,7 @@
 ||ads.kakaopay.com^
 ||ads.lastpass.com^
 ||ads.life360.com^
+||ads.line.me^
 ||ads.linkedin-ei.com^
 ||ads.linkedin.cn^
 ||ads.linkedin.com^
@@ -543,6 +549,7 @@
 ||ads.us.tiktok.com^
 ||ads.vertamedia.com^
 ||ads.verve.com^
+||ads.viber.com^
 ||ads.vizio.com^
 ||ads.vk.com^
 ||ads.vk.ru^
@@ -1378,6 +1385,7 @@
 ||analytics.robin.markets^
 ||analytics.roblox.com^
 ||analytics.roboform.com^
+||analytics.rocket.chat^
 ||analytics.rocketlanguages.com^
 ||analytics.rockylinux.org^
 ||analytics.roku.com^
@@ -2794,6 +2802,7 @@
 ||collector.glassbox.digital^
 ||collector.inkitt.com^
 ||collector.intel.com^
+||collector.jaeger.matrix.org^
 ||collector.lovable.dev^
 ||collector.medallia.com^
 ||collector.pokerstars.be^
@@ -2811,6 +2820,7 @@
 ||collector.pokerstarsnj.com^
 ||collector.quantummetric.com^
 ||collector.reddit.com^
+||collector.rocket.chat^
 ||collector.scopely.io^
 ||collector.sh.pokerstars.de^
 ||collector.shorte.st^
@@ -2948,6 +2958,7 @@
 ||crashes.1password.com^
 ||crashes.dashlane.com^
 ||crashes.ivpn.net^
+||crashlogs.whatsapp.net^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||crashreport.razer.com^
@@ -2979,6 +2990,8 @@
 ||criteo.net^
 ||cross-promo.adikteev.com^
 ||cross-promo.remerge.io^
+||crs-event.line.me^
+||crs-hometab-event.line.me^
 ||crs.cr.adobe.com^
 ||crwdcntrl.net^
 ||cs.adingo.jp^
@@ -3074,6 +3087,8 @@
 ||data-analysis.fedoraproject.org^
 ||data-axle.com^
 ||data-collection.brightcove.com^
+||data-event-proxy.viber.com^
+||data-events.cdn.viber.com^
 ||data-f.ads.oppomobile.com^
 ||data-id.ads.oppomobile.com^
 ||data-in-ads.realmemobile.com^
@@ -4045,6 +4060,8 @@
 ||grabads.com^
 ||grafana.acr.roku.com^
 ||graffiti-tags.apple.com^
+||graph.whatsapp.com^
+||graph.whatsapp.net^
 ||graph.zetaglobal.com^
 ||graphics.adultfriendfinder.com^
 ||graphql.adikteev.com^
@@ -4591,6 +4608,7 @@
 ||labs.revcontent.com^
 ||lagrange.logs.roku.com^
 ||landsideresendtrousers.com^
+||lap-click.tr.line.me^
 ||lapsing-users.adikteev.com^
 ||larati.net^
 ||laslucaads-util.scientificgames.com^
@@ -4971,6 +4989,7 @@
 ||logservice1.dbankcloud.com^
 ||logservice1.hicloud.com^
 ||logssug.ucweb.com^
+||logstash-deployment-tracking.linecorp.com^
 ||logsystem.zoom.us^
 ||logtrace.snssdk.com^
 ||logtracker.orange.pl^
@@ -5072,6 +5091,7 @@
 ||matomo.garmin.com^
 ||matomo.samsungsdibs.at^
 ||matrix.api.ad.xiaomi.com^
+||matterlytics.com^
 ||max.ad.xiaomi.com^
 ||maxbounty.com^
 ||maxfinishseveral.com^
@@ -5489,6 +5509,7 @@
 ||miuiboot.tracking.intl.miui.com^
 ||miuiboot.tracking.miui.com^
 ||mixer.cupid.ptqy.gitv.tv^
+||mixpanel.cdn.viber.com^
 ||mixpanel.untappd.com^
 ||mkt.pcpitstop.com^
 ||mkt1.photobucket.com^
@@ -5824,6 +5845,7 @@
 ||o1383653.ingest.sentry.io^
 ||o207216.ingest.sentry.io^
 ||o33249.ingest.sentry.io^
+||o64374.ingest.sentry.io^
 ||oas-c18.adnxs.com^
 ||oath.com^
 ||ob-retarget.com^
@@ -6067,6 +6089,7 @@
 ||pctuneupmaestro.com^
 ||pcv.com^
 ||pcvark.com^
+||pdat.matterlytics.com^
 ||pdmp.dcapi.dmp.3lift.com^
 ||pdmp.papi-public.eu-central-1.dmp.3lift.com^
 ||pdmp.papi-public.us-east-1.dmp.3lift.com^
@@ -6150,6 +6173,7 @@
 ||pixel.limeade.com^
 ||pixel.me^
 ||pixel.mercadopago.com^
+||pixel.messenger.com^
 ||pixel.mgid.com^
 ||pixel.mntn.com^
 ||pixel.nativo.com^
@@ -6226,6 +6250,7 @@
 ||podcorn.com^
 ||podscribe.com^
 ||podtrac.com^
+||point-ads.line-apps.com^
 ||pointstone.com^
 ||poker.track.zynga.com^
 ||popcon.debian.org^
@@ -6242,6 +6267,10 @@
 ||post.update.criteo.com^
 ||postback.adikteev.com^
 ||postback.remerge.io^
+||posthog-element-call.element.io^
+||posthog-metrics.element.io^
+||posthog.element.io^
+||posthog.hss.element.io^
 ||postman.fortect.com^
 ||postrelease.com^
 ||powersuite.com^
@@ -7041,9 +7070,12 @@
 ||selectmedia.asia^
 ||send.microad.jp^
 ||sense360.com^
+||sentry-metrics.tools.element.io^
 ||sentry-new.tidio.co^
 ||sentry-read.svc.overdrive.com^
 ||sentry-reporter.ente.io^
+||sentry-th.line-apps.com^
+||sentry-uit.line-apps.com^
 ||sentry.api.stronglifts.com^
 ||sentry.audacityteam.org^
 ||sentry.clickdealer.com^
@@ -7056,6 +7088,7 @@
 ||sentry.io^
 ||sentry.io.steinberg.net^
 ||sentry.klippa.com^
+||sentry.matrix.org^
 ||sentry.minddoc.com^
 ||sentry.predict.fun^
 ||sentry.prequel.app^
@@ -7071,6 +7104,7 @@
 ||sentry.sync.me^
 ||sentry.system76.com^
 ||sentry.tidio.co^
+||sentry.tools.element.io^
 ||sentry.work.ink^
 ||sentry.xinchenai.com^
 ||sentry.zopim.com^
@@ -7867,6 +7901,7 @@
 ||telemetry.manjaro.org^
 ||telemetry.mapbox.com^
 ||telemetry.matchgroup.com^
+||telemetry.mattermost.com^
 ||telemetry.max.com^
 ||telemetry.maxon.net^
 ||telemetry.mcafee.com^

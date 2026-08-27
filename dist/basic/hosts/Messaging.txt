@@ -1,0 +1,38 @@
+# ============================================================
+# MESSAGING BLOCKLIST - BASIC
+# Total domains: 31
+# Generated: 2026-08-27 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 a.line.me
+0.0.0.0 ad-feedback.line-apps.com
+0.0.0.0 ads-d.integration.viber.com
+0.0.0.0 ads-d.viber.com
+0.0.0.0 ads.cdn.viber.com
+0.0.0.0 ads.line.me
+0.0.0.0 ads.viber.com
+0.0.0.0 analytics.rocket.chat
+0.0.0.0 collector.jaeger.matrix.org
+0.0.0.0 collector.rocket.chat
+0.0.0.0 crashlogs.whatsapp.net
+0.0.0.0 crs-event.line.me
+0.0.0.0 crs-hometab-event.line.me
+0.0.0.0 data-event-proxy.viber.com
+0.0.0.0 data-events.cdn.viber.com
+0.0.0.0 logstash-deployment-tracking.linecorp.com
+0.0.0.0 matterlytics.com
+0.0.0.0 mixpanel.cdn.viber.com
+0.0.0.0 o64374.ingest.sentry.io
+0.0.0.0 pdat.matterlytics.com
+0.0.0.0 pixel.messenger.com
+0.0.0.0 point-ads.line-apps.com
+0.0.0.0 posthog-metrics.element.io
+0.0.0.0 posthog.element.io
+0.0.0.0 posthog.hss.element.io
+0.0.0.0 sentry-metrics.tools.element.io
+0.0.0.0 sentry-th.line-apps.com
+0.0.0.0 sentry-uit.line-apps.com
+0.0.0.0 sentry.matrix.org
+0.0.0.0 sentry.tools.element.io
+0.0.0.0 telemetry.mattermost.com
