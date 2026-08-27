@@ -2,6 +2,7 @@
 
 # Total domains: 36
 # Last update: 2026/08/27
+# Note: trailing "!" marks a domain as aggressive-only
 
 # Element / Matrix
 sentry.tools.element.io
