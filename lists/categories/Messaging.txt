@@ -1,0 +1,63 @@
+# MESSAGING APPS BLOCKLIST
+
+# Total domains: 36
+# Last update: 2026/08/27
+
+# Element / Matrix
+sentry.tools.element.io
+posthog-metrics.element.io
+posthog.element.io
+posthog.hss.element.io
+sentry-metrics.tools.element.io
+sentry.matrix.org
+collector.jaeger.matrix.org
+posthog-element-call.element.io !
+
+# Messenger
+pixel.messenger.com
+
+# WhatsApp
+crashlogs.whatsapp.net
+
+dit.whatsapp.net ! # ⚠️ NOTE: may affect device authentication / connection setup
+
+graph.whatsapp.com !
+graph.whatsapp.net !
+
+# ⚠️ NOTE: WhatsApp's graph.* endpoints aren't purely analytics — functional
+# requests such as contact list sync, account info, and social graph queries
+# can also pass through this domain.
+
+# Viber
+mixpanel.cdn.viber.com
+data-events.cdn.viber.com
+data-event-proxy.viber.com
+ads.viber.com
+ads.cdn.viber.com
+ads-d.viber.com
+ads-d.integration.viber.com
+
+# Line
+crs-event.line.me
+ads.line.me
+crs-hometab-event.line.me
+lap-click.tr.line.me !
+sentry-uit.line-apps.com
+ad-feedback.line-apps.com
+point-ads.line-apps.com
+sentry-th.line-apps.com
+logstash-deployment-tracking.linecorp.com
+a.line.me
+
+# Mattermost
+telemetry.mattermost.com
+matterlytics.com
+pdat.matterlytics.com
+
+# Rocket.Chat
+collector.rocket.chat
+analytics.rocket.chat
+
+# Discord
+
+o64374.ingest.sentry.io
