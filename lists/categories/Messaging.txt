@@ -59,5 +59,4 @@ collector.rocket.chat
 analytics.rocket.chat
 
 # Discord
-
 o64374.ingest.sentry.io
