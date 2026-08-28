@@ -1,29 +1,34 @@
 #!/usr/bin/env python3
 """
-Checks external blocklist repos for domains added in the last 24
-hours, and reports which of those domains are NOT already present in
-this project's lists/categories/. Does not add anything automatically
-- purely a signal for manual research, consistent with this project's
+Checks external blocklist sources for domains that are new since the
+last run, by diffing each source's full current domain set against a
+saved snapshot - not by parsing git commit patches, which GitHub
+silently truncates for large diffs (a real API limitation that caused
+the previous version of this script to miss almost everything from
+large sources like StevenBlack/hosts or EasyPrivacy).
+
+Reports domains that are NOT already present in this project's
+lists/categories/. Does not add anything automatically - purely a
+signal for manual research, consistent with this project's
 independent-verification approach.
 
-Requires GITHUB_TOKEN in the environment (GitHub Actions provides this
-automatically) to avoid low unauthenticated API rate limits.
+State (previous snapshots) is stored under reports/.snapshots/ and
+must be committed alongside the report, so each run only needs to
+diff against the last one.
 
 Run:
     python3 scripts/check_new_domains.py
 """
 
-import json
-import os
 import re
-import urllib.parse
 import urllib.request
 from pathlib import Path
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 
 ROOT = Path(__file__).resolve().parent.parent
 CATEGORIES_DIR = ROOT / "lists" / "categories"
 REPORT_PATH = ROOT / "reports" / "new-domain-suggestions.md"
+SNAPSHOT_DIR = ROOT / "reports" / ".snapshots"
 AGGRESSIVE_FLAG = "!"
 
 DOMAIN_RE = re.compile(
@@ -48,7 +53,6 @@ SOURCES = [
     {"name": "a-dove-is-dumb (Adobe)", "owner": "ignaciocastro", "repo": "a-dove-is-dumb",
      "path": "list.txt", "format": "hosts"},
 
-    # HaGeZi native platform lists - grouped under one report header
     {"name": "Samsung", "group": "HaGeZi Native Lists",
      "owner": "hagezi", "repo": "dns-blocklists",
      "path": "dnsmasq/native.samsung.txt", "format": "dnsmasq"},
@@ -86,73 +90,47 @@ def load_existing_domains():
     return existing
 
 
-def api_get(url, token):
-    req = urllib.request.Request(
-        url,
-        headers={
-            "Accept": "application/vnd.github+json",
-            **({"Authorization": f"Bearer {token}"} if token else {}),
-            "X-GitHub-Api-Version": "2022-11-28",
-            "User-Agent": "shadow-blocker-blocklist-bot",
-        },
-    )
-    with urllib.request.urlopen(req, timeout=20) as resp:
-        return json.loads(resp.read().decode())
+def fetch_raw(owner, repo, path):
+    url = f"https://raw.githubusercontent.com/{owner}/{repo}/HEAD/{path}"
+    req = urllib.request.Request(url, headers={"User-Agent": "shadow-blocker-blocklist-bot"})
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        return resp.read().decode("utf-8", errors="replace")
 
 
-def get_recent_commits(owner, repo, path, since_iso, token):
-    url = (
-        f"https://api.github.com/repos/{owner}/{repo}/commits"
-        f"?path={urllib.parse.quote(path)}&since={since_iso}&per_page=100"
-    )
-    return api_get(url, token)
-
-
-def get_commit_patch(owner, repo, sha, path, token):
-    url = f"https://api.github.com/repos/{owner}/{repo}/commits/{sha}"
-    data = api_get(url, token)
-    for f in data.get("files", []):
-        if f.get("filename") == path:
-            return f.get("patch", "") or ""
-    return ""
-
-
-def extract_added_domains(patch_text, fmt):
+def extract_domains(content, fmt):
     domains = set()
-    for line in patch_text.splitlines():
-        if not line.startswith("+") or line.startswith("+++"):
-            continue
-        content = line[1:].strip()
-        if not content:
+    for raw_line in content.splitlines():
+        line = raw_line.strip()
+        if not line:
             continue
 
         if fmt == "hosts":
-            m = re.match(r"^(?:0\.0\.0\.0|127\.0\.0\.1|::1)\s+(\S+)", content)
+            m = re.match(r"^(?:0\.0\.0\.0|127\.0\.0\.1|::1)\s+(\S+)", line)
             if m:
                 d = m.group(1).lower()
                 if d != "localhost" and DOMAIN_RE.match(d):
                     domains.add(d)
 
         elif fmt == "adblock":
-            if content.startswith(("!", "#", "@@")):
+            if line.startswith(("!", "#", "@@")):
                 continue
-            m = re.match(r"^\|\|([a-zA-Z0-9.-]+)\^", content)
+            m = re.match(r"^\|\|([a-zA-Z0-9.-]+)\^", line)
             if m:
                 d = m.group(1).lower()
                 if DOMAIN_RE.match(d):
                     domains.add(d)
 
         elif fmt == "plain":
-            if content.startswith(("#", "!")):
+            if line.startswith(("#", "!")):
                 continue
-            d = content.lower()
+            d = line.lower()
             if DOMAIN_RE.match(d):
                 domains.add(d)
 
         elif fmt == "dnsmasq":
-            if content.startswith("#"):
+            if line.startswith("#"):
                 continue
-            m = re.match(r"^local=/([a-zA-Z0-9.-]+)/$", content)
+            m = re.match(r"^local=/([a-zA-Z0-9.-]+)/$", line)
             if m:
                 d = m.group(1).lower()
                 if DOMAIN_RE.match(d):
@@ -161,42 +139,49 @@ def extract_added_domains(patch_text, fmt):
     return domains
 
 
+def snapshot_path(src):
+    slug = f"{src['owner']}_{src['repo']}_{src['path']}".replace("/", "_")
+    return SNAPSHOT_DIR / f"{slug}.txt"
+
+
+def load_snapshot(path):
+    if not path.exists():
+        return None  # no prior snapshot - first run for this source
+    return set(path.read_text(encoding="utf-8").splitlines())
+
+
+def save_snapshot(path, domains):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text("\n".join(sorted(domains)) + "\n", encoding="utf-8")
+
+
 def check_all():
-    token = os.environ.get("GITHUB_TOKEN", "")
-    since_iso = (datetime.now(timezone.utc) - timedelta(hours=24)).strftime(
-        "%Y-%m-%dT%H:%M:%SZ"
-    )
     existing = load_existing_domains()
     print(f"Loaded {len(existing)} existing domains from lists/categories/")
 
-    # results keyed by (group_or_None, name) preserving SOURCES order
+    # status: "ok" | "first_run" | "error"
     results = []
     for src in SOURCES:
         print(f"Checking {src['name']}...")
         try:
-            commits = get_recent_commits(
-                src["owner"], src["repo"], src["path"], since_iso, token
-            )
+            content = fetch_raw(src["owner"], src["repo"], src["path"])
         except Exception as e:
-            results.append((src.get("group"), src["name"], None, str(e)))
+            results.append((src.get("group"), src["name"], "error", str(e)))
             continue
 
-        new_domains = {}
-        for c in commits:
-            sha = c["sha"]
-            try:
-                patch = get_commit_patch(
-                    src["owner"], src["repo"], sha, src["path"], token
-                )
-            except Exception:
-                continue
-            for d in extract_added_domains(patch, src["format"]):
-                new_domains.setdefault(d, c["html_url"])
+        current = extract_domains(content, src["format"])
+        snap_path = snapshot_path(src)
+        previous = load_snapshot(snap_path)
 
-        missing = sorted(
-            (d, url) for d, url in new_domains.items() if d not in existing
-        )
-        results.append((src.get("group"), src["name"], missing, None))
+        if previous is None:
+            save_snapshot(snap_path, current)
+            results.append((src.get("group"), src["name"], "first_run", None))
+            continue
+
+        newly_added = current - previous
+        missing = sorted(d for d in newly_added if d not in existing)
+        save_snapshot(snap_path, current)
+        results.append((src.get("group"), src["name"], "ok", missing))
 
     REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -205,52 +190,60 @@ def check_all():
         "",
         f"Generated: {now}",
         "",
-        "Domains added to the sources below in the last 24 hours that",
-        "are NOT currently in this project's lists/categories/. This is",
-        "a research signal only - nothing is added automatically. Each",
+        "Domains that appeared in the sources below since the last run,",
+        "and are NOT currently in this project's lists/categories/. This",
+        "is a research signal only - nothing is added automatically. Each",
         "entry should be independently researched and classified before",
         "being added to a category file.",
         "",
+        "Detection compares each source's full current domain list against",
+        "a saved snapshot from the previous run, instead of parsing git",
+        "diffs - GitHub silently omits diff content for large file changes,",
+        "which made the previous version of this script miss almost",
+        "everything from large sources.",
+        "",
     ]
 
-    def render_source_block(name, missing, error, heading_level):
+    def render_source_block(name, status, payload, heading_level):
         block = [f"{'#' * heading_level} {name}", ""]
-        if error is not None:
-            block.append(f"Could not check: {error}")
-        elif not missing:
-            block.append("No new candidate domains in the last 24 hours.")
+        if status == "first_run":
+            block.append("First run for this source - baseline snapshot saved, "
+                          "nothing to compare against yet.")
+        elif status == "error":
+            block.append(f"Could not check: {payload}")
+        elif not payload:
+            block.append("No new candidate domains since the last run.")
         else:
-            block.append("| Domain | Seen in commit |")
-            block.append("|---|---|")
-            for domain, url in missing:
-                block.append(f"| {domain} | [link]({url}) |")
+            block.append("| Domain |")
+            block.append("|---|")
+            for domain in payload:
+                block.append(f"| {domain} |")
         block.append("")
         return block
 
-    # Preserve first-seen order of groups / ungrouped sources
     seen_groups = []
     ungrouped = []
     grouped = {}
-    for group, name, missing, error in results:
+    for group, name, status, payload in results:
         if group is None:
-            ungrouped.append((name, missing, error))
+            ungrouped.append((name, status, payload))
         else:
             if group not in grouped:
                 grouped[group] = []
                 seen_groups.append(group)
-            grouped[group].append((name, missing, error))
+            grouped[group].append((name, status, payload))
 
-    for name, missing, error in ungrouped:
-        lines += render_source_block(name, missing, error, heading_level=2)
+    for name, status, payload in ungrouped:
+        lines += render_source_block(name, status, payload, heading_level=2)
 
     for group in seen_groups:
         lines.append(f"## {group}")
         lines.append("")
-        for name, missing, error in grouped[group]:
-            lines += render_source_block(name, missing, error, heading_level=3)
+        for name, status, payload in grouped[group]:
+            lines += render_source_block(name, status, payload, heading_level=3)
 
     REPORT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    total = sum(len(m) for _, _, m, e in results if e is None and m)
+    total = sum(len(p) for _, _, s, p in results if s == "ok" and p)
     print(f"\n{total} candidate domain(s) across all sources. "
           f"See {REPORT_PATH.relative_to(ROOT)}")
 
