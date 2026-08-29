@@ -1,7 +1,7 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 715
-# Generated: 2026-08-27 (UTC) - auto-generated, do not edit by hand
+# Total domains: 716
+# Generated: 2026-08-29 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -9,6 +9,7 @@
 abtest-ch.snssdk.com
 abtest-sg-tiktok.byteoversea.com
 abtest-va-tiktok.byteoversea.com
+ad-format-ttp2.tiktokv.eu
 ad-instantpage-ru.tiktokv.com
 ad-instantpage-sg.tiktokv.com
 ad-instantpage-ttp2.tiktokv.eu

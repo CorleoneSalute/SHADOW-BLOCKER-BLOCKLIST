@@ -1,7 +1,7 @@
 # ============================================================
 # AFFILIATE NETWORK BLOCKLIST - AGGRESSIVE
 # Total domains: 162
-# Generated: 2026-08-27 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-08-29 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 

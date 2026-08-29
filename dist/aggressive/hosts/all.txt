@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9251
-# Generated: 2026-08-27 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9252
+# Generated: 2026-08-29 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -166,6 +166,7 @@
 0.0.0.0 ad-drru.dt.dbankcloud.com
 0.0.0.0 ad-engine.accuweather.com
 0.0.0.0 ad-feedback.line-apps.com
+0.0.0.0 ad-format-ttp2.tiktokv.eu
 0.0.0.0 ad-iad1.apple.com
 0.0.0.0 ad-iad2.apple.com
 0.0.0.0 ad-iad3.apple.com
