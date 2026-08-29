@@ -1,6 +1,6 @@
 # Social Media Blocklist
 
-# Total domains: 743
+# Total domains: 742
 # Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
