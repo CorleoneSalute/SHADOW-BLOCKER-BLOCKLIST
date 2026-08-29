@@ -1,6 +1,6 @@
 # New Domain Suggestions
 
-Generated: 2026-08-29 01:25 UTC
+Generated: 2026-08-29 01:35 UTC
 
 Domains that appeared in the sources below since the last run,
 and are NOT currently in this project's lists/categories/. This
@@ -11,60 +11,60 @@ being added to a category file.
 Detection compares each source's full current domain list against
 a saved snapshot from the previous run, instead of parsing git
 diffs - GitHub silently omits diff content for large file changes,
-which made the previous version of this script miss almost
+which made an earlier version of this script miss almost
 everything from large sources.
 
 ## AdGuard SDNS Filter
 
-Could not check: HTTP Error 404: Not Found
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
 ## StevenBlack
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
 ## EasyPrivacy
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
 ## 1Hosts Lite
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
 ## no-google
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
 ## a-dove-is-dumb (Adobe)
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
 ## HaGeZi Native Lists
 
 ### Samsung
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
 ### Xiaomi
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
 ### Huawei
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
 ### Oppo/Realme
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
 ### Vivo
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
 ### LG WebOS
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
 ### TikTok
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
