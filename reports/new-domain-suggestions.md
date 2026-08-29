@@ -1,64 +1,70 @@
 # New Domain Suggestions
 
-Generated: 2026-08-28 18:17 UTC
+Generated: 2026-08-29 01:25 UTC
 
-Domains added to the sources below in the last 24 hours that
-are NOT currently in this project's lists/categories/. This is
-a research signal only - nothing is added automatically. Each
+Domains that appeared in the sources below since the last run,
+and are NOT currently in this project's lists/categories/. This
+is a research signal only - nothing is added automatically. Each
 entry should be independently researched and classified before
 being added to a category file.
 
+Detection compares each source's full current domain list against
+a saved snapshot from the previous run, instead of parsing git
+diffs - GitHub silently omits diff content for large file changes,
+which made the previous version of this script miss almost
+everything from large sources.
+
 ## AdGuard SDNS Filter
 
-No new candidate domains in the last 24 hours.
+Could not check: HTTP Error 404: Not Found
 
 ## StevenBlack
 
-No new candidate domains in the last 24 hours.
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
 ## EasyPrivacy
 
-No new candidate domains in the last 24 hours.
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
 ## 1Hosts Lite
 
-No new candidate domains in the last 24 hours.
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
 ## no-google
 
-No new candidate domains in the last 24 hours.
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
 ## a-dove-is-dumb (Adobe)
 
-No new candidate domains in the last 24 hours.
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
 ## HaGeZi Native Lists
 
 ### Samsung
 
-No new candidate domains in the last 24 hours.
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
 ### Xiaomi
 
-No new candidate domains in the last 24 hours.
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
 ### Huawei
 
-No new candidate domains in the last 24 hours.
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
 ### Oppo/Realme
 
-No new candidate domains in the last 24 hours.
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
 ### Vivo
 
-No new candidate domains in the last 24 hours.
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
 ### LG WebOS
 
-No new candidate domains in the last 24 hours.
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
 ### TikTok
 
-No new candidate domains in the last 24 hours.
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
