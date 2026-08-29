@@ -4,7 +4,7 @@ Checks external blocklist sources for domains that are new since the
 last run, by diffing each source's full current domain set against a
 saved snapshot - not by parsing git commit patches, which GitHub
 silently truncates for large diffs (a real API limitation that caused
-the previous version of this script to miss almost everything from
+an earlier version of this script to miss almost everything from
 large sources like StevenBlack/hosts or EasyPrivacy).
 
 Reports domains that are NOT already present in this project's
@@ -36,12 +36,20 @@ DOMAIN_RE = re.compile(
     r"(\.(?!-)[A-Za-z0-9-]{1,63}(?<!-))+$"
 )
 
-# owner, repo, path, format: "hosts" | "adblock" | "plain" | "dnsmasq"
+# Each source is either:
+#   - {"name", "owner", "repo", "path", "format"}
+#     -> fetched from raw.githubusercontent.com/{owner}/{repo}/HEAD/{path}
+#   - {"name", "raw_url", "format"}
+#     -> fetched directly from raw_url (for sources whose distributed
+#        file is a build output published elsewhere, e.g. GitHub Pages,
+#        and isn't actually committed to the repo's git tree)
+# format: "hosts" | "adblock" | "plain" | "dnsmasq"
 # "group" is optional - sources sharing a group are nested under one
 # header in the report instead of each getting a top-level section.
 SOURCES = [
-    {"name": "AdGuard SDNS Filter", "owner": "AdguardTeam", "repo": "AdGuardSDNSFilter",
-     "path": "Filters/filter.txt", "format": "adblock"},
+    {"name": "AdGuard SDNS Filter",
+     "raw_url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+     "format": "adblock"},
     {"name": "StevenBlack", "owner": "StevenBlack", "repo": "hosts",
      "path": "hosts", "format": "hosts"},
     {"name": "EasyPrivacy", "owner": "easylist", "repo": "easylist",
@@ -90,8 +98,11 @@ def load_existing_domains():
     return existing
 
 
-def fetch_raw(owner, repo, path):
-    url = f"https://raw.githubusercontent.com/{owner}/{repo}/HEAD/{path}"
+def fetch_raw(src):
+    if "raw_url" in src:
+        url = src["raw_url"]
+    else:
+        url = f"https://raw.githubusercontent.com/{src['owner']}/{src['repo']}/HEAD/{src['path']}"
     req = urllib.request.Request(url, headers={"User-Agent": "shadow-blocker-blocklist-bot"})
     with urllib.request.urlopen(req, timeout=30) as resp:
         return resp.read().decode("utf-8", errors="replace")
@@ -140,7 +151,11 @@ def extract_domains(content, fmt):
 
 
 def snapshot_path(src):
-    slug = f"{src['owner']}_{src['repo']}_{src['path']}".replace("/", "_")
+    if "raw_url" in src:
+        key = src["raw_url"]
+    else:
+        key = f"{src['owner']}_{src['repo']}_{src['path']}"
+    slug = re.sub(r"[^A-Za-z0-9._-]", "_", key)
     return SNAPSHOT_DIR / f"{slug}.txt"
 
 
@@ -164,7 +179,7 @@ def check_all():
     for src in SOURCES:
         print(f"Checking {src['name']}...")
         try:
-            content = fetch_raw(src["owner"], src["repo"], src["path"])
+            content = fetch_raw(src)
         except Exception as e:
             results.append((src.get("group"), src["name"], "error", str(e)))
             continue
@@ -199,7 +214,7 @@ def check_all():
         "Detection compares each source's full current domain list against",
         "a saved snapshot from the previous run, instead of parsing git",
         "diffs - GitHub silently omits diff content for large file changes,",
-        "which made the previous version of this script miss almost",
+        "which made an earlier version of this script miss almost",
         "everything from large sources.",
         "",
     ]
