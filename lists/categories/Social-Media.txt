@@ -1,6 +1,6 @@
 # Social Media Blocklist
 
-# Total domains: 742
+# Total domains: 743
 # Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -248,6 +248,7 @@ sf16-ads-format-sign.tiktokcdn.com
 sf19-ads-format-sign.tiktokcdn.com
 url4077.ads-service.tiktok.com
 v16-ad.byteoversea.com
+ad-format-ttp2.tiktokv.eu
 ```
 
 **tiktokv.com log* (App Log)** (70 domain)
