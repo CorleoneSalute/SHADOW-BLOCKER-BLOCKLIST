@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9253
+# Total domains: 9255
 # Generated: 2026-08-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -16,6 +16,7 @@
 ||123.sogou.com^
 ||123superproxy.com^
 ||15.taboola.com^
+||1ckpad.adrevenue.appsflyersdk.com^
 ||1fhc-event.fhcasino.com^
 ||1fhc-event2.fhcasino.com^
 ||1mgas-log.fhcasino.com^
@@ -347,6 +348,7 @@
 ||adplatform.apple.com^
 ||adplayer.pro^
 ||adprofex.com^
+||adrevenue.appsflyersdk.com^
 ||adroll.com^
 ||ads-aka-us-east-1.delivery.roku.com^
 ||ads-aka-us-west-2.delivery.roku.com^

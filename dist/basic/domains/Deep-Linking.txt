@@ -1,10 +1,12 @@
 # ============================================================
 # DEEP LINKING BLOCKLIST - BASIC
-# Total domains: 22
+# Total domains: 24
 # Generated: 2026-08-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+1ckpad.adrevenue.appsflyersdk.com
+adrevenue.appsflyersdk.com
 analytics.appsflyer.com
 analytics.branch.io
 attr.appsflyer.com

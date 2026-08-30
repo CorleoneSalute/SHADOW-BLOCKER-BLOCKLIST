@@ -1,10 +1,12 @@
 # ============================================================
 # DEEP LINKING BLOCKLIST - AGGRESSIVE
-# Total domains: 22
+# Total domains: 24
 # Generated: 2026-08-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+0.0.0.0 1ckpad.adrevenue.appsflyersdk.com
+0.0.0.0 adrevenue.appsflyersdk.com
 0.0.0.0 analytics.appsflyer.com
 0.0.0.0 analytics.branch.io
 0.0.0.0 attr.appsflyer.com

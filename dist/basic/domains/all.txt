@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8850
+# Total domains: 8852
 # Generated: 2026-08-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -14,6 +14,7 @@
 0i.sh-cdn.com
 1.upload.advertise.myspace.com
 15.taboola.com
+1ckpad.adrevenue.appsflyersdk.com
 1fhc-event.fhcasino.com
 1fhc-event2.fhcasino.com
 1mgas-log.fhcasino.com
@@ -330,6 +331,7 @@ adperio.com
 adplatform.apple.com
 adplayer.pro
 adprofex.com
+adrevenue.appsflyersdk.com
 adroll.com
 ads-aka-us-east-1.delivery.roku.com
 ads-aka-us-west-2.delivery.roku.com
