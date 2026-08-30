@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9252
-# Generated: 2026-08-29 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9253
+# Generated: 2026-08-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -6123,6 +6123,7 @@ pheecith.com
 phoenix360.iolo.com
 phonesubmissions.apple.com
 pi.ias.xiaomi.com
+pi.reddit.com
 piano.io
 pico.logs.roku.com
 picocurl.com

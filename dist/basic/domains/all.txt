@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8849
-# Generated: 2026-08-29 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8850
+# Generated: 2026-08-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -5843,6 +5843,7 @@ pf.fluct.jp
 pheecith.com
 phoenix360.iolo.com
 pi.ias.xiaomi.com
+pi.reddit.com
 piano.io
 pico.logs.roku.com
 picocurl.com
