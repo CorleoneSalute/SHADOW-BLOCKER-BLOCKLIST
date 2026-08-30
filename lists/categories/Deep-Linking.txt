@@ -29,3 +29,5 @@ attr.appsflyer.com
 tracking.appsflyer.com
 evgen.appsflyer.com
 skadpostbacks.appsflyer.com
+adrevenue.appsflyersdk.com
+1ckpad.adrevenue.appsflyersdk.com
