@@ -790,6 +790,7 @@ mon.reddit.com
 mon1.reddit.com
 mon2.reddit.com
 mon3.reddit.com
+pi.reddit.com
 pix.reddit.com
 pixel-config.reddit.com
 pixel.reddit.com
