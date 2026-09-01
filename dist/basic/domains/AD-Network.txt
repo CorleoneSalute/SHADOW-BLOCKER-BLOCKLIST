@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1773
+# Total domains: 1796
 # Generated: 2026-09-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -751,6 +751,7 @@ fyber.com
 g.fwmrm.net
 g1.v.fwmrm.net
 g2.gumgum.com
+gbidnep.admaster.cc
 gemini.yahoo.com
 gen.adsrvr.org
 geniee.co.id
@@ -781,6 +782,8 @@ groundtruth.com
 gsspat.jp
 gt-pixel-prod.groundtruth.com
 gtm.taboola.com
+gtrace.admaster.cc
+gtracenep.admaster.cc
 gtv.analytics.glance.inmobi.com
 gum-ssl.criteo.com
 gum.as.criteo.com
@@ -850,6 +853,7 @@ images.plista.com
 images.revcontent.com
 images.taboola.com
 images.zergnet.com
+imagesnep.admaster.cc
 img.3lift.com
 img.dt00.net
 img.gsspat.jp
@@ -991,6 +995,7 @@ moloco.com
 mountain.com
 ms.applovin.com
 ms4.applovin.com
+msgdc.admaster.cc
 mssl.fwmrm.net
 multissp.yieldlab.net
 my.adskeeper.co.uk
@@ -1129,6 +1134,7 @@ pixel.taboola.com
 pixel.zergnet.com
 platform-api.vistarmedia.com
 platform-cdn.sharethrough.com
+platform.admaster.cc
 platform.bidstack.com
 platform.verve.com
 platformance.io
@@ -1237,9 +1243,13 @@ rss.revcontent.com
 rt.applovin.com
 rt.applvn.com
 rt.gsspat.jp
+rtb-eu.admaster.cc
+rtb-sg.admaster.cc
+rtb-us.admaster.cc
 rtb.adblade.com
 rtb.adcolony.com
 rtb.adform.net
+rtb.admaster.cc
 rtb.admixer.com
 rtb.admixer.net
 rtb.anzu.io
@@ -1250,6 +1260,7 @@ rtb.triplelift.com
 rtb.us5.us.criteo.com
 rtb.yieldlab.net
 rtbhouse.com
+rtbnep.admaster.cc
 rtdp.seedtag.com
 rtk.sonobi.com
 rubiconproject.com
@@ -1279,6 +1290,7 @@ s2.adform.net
 s2s.yellowblue.io
 safedk.com
 sandbox.yieldmo.com
+sandboxplatform.admaster.cc
 satellite.plista.com
 sb.quantserve.com
 sbc.connectad.io
@@ -1392,6 +1404,7 @@ startappservice.com
 static.3lift.com
 static.adblade.com
 static.adform.net
+static.admaster.cc
 static.adnow.com
 static.adup-tech.com
 static.anzu.io
@@ -1432,6 +1445,7 @@ sync.1rx.io
 sync.3lift.com
 sync.ad.plus
 sync.adition.com
+sync.admaster.cc
 sync.adtelligent.com
 sync.aniview.com
 sync.broadstreetads.com
@@ -1459,6 +1473,7 @@ sync.taboola.com
 sync.targeting.unrulymedia.com
 sync.teads.tv
 sync.undertone.com
+syncnep.admaster.cc
 systemlog.me
 t.applovin.com
 t.gumgum.com
@@ -1511,6 +1526,10 @@ tlx.3lift.com
 tools.marketgid.com
 tpc.googlesyndication.com
 tr.outbrain.com
+trace.admaster.cc
+tracenep-as.admaster.cc
+tracenep-eu.admaster.cc
+tracenep.admaster.cc
 track-eu.adformnet.akadns.net
 track.3lift.com
 track.ad.plus
@@ -1567,7 +1586,10 @@ traffic.outbrain.com
 trafficroots.com
 trc-analytics.taboola.com
 trc-china.taboola.com
+trc-eu.admaster.cc
 trc-events.taboola.com
+trc-us.admaster.cc
+trc.admaster.cc
 trc.taboola.co.uk
 trc.taboola.com
 trc.taboola.com.br
@@ -1727,6 +1749,7 @@ wsp.mgid.com
 wv.inner-active.mobi
 ww.smartadserver.com
 www.acuityads.com
+www.admaster.cc
 www.adroll.com
 www.applovin.com
 www.beeswax.com

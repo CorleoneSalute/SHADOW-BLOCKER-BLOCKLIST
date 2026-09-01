@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1773
+# Total domains: 1796
 # Generated: 2026-09-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -751,6 +751,7 @@
 0.0.0.0 g.fwmrm.net
 0.0.0.0 g1.v.fwmrm.net
 0.0.0.0 g2.gumgum.com
+0.0.0.0 gbidnep.admaster.cc
 0.0.0.0 gemini.yahoo.com
 0.0.0.0 gen.adsrvr.org
 0.0.0.0 geniee.co.id
@@ -781,6 +782,8 @@
 0.0.0.0 gsspat.jp
 0.0.0.0 gt-pixel-prod.groundtruth.com
 0.0.0.0 gtm.taboola.com
+0.0.0.0 gtrace.admaster.cc
+0.0.0.0 gtracenep.admaster.cc
 0.0.0.0 gtv.analytics.glance.inmobi.com
 0.0.0.0 gum-ssl.criteo.com
 0.0.0.0 gum.as.criteo.com
@@ -850,6 +853,7 @@
 0.0.0.0 images.revcontent.com
 0.0.0.0 images.taboola.com
 0.0.0.0 images.zergnet.com
+0.0.0.0 imagesnep.admaster.cc
 0.0.0.0 img.3lift.com
 0.0.0.0 img.dt00.net
 0.0.0.0 img.gsspat.jp
@@ -991,6 +995,7 @@
 0.0.0.0 mountain.com
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms4.applovin.com
+0.0.0.0 msgdc.admaster.cc
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 multissp.yieldlab.net
 0.0.0.0 my.adskeeper.co.uk
@@ -1129,6 +1134,7 @@
 0.0.0.0 pixel.zergnet.com
 0.0.0.0 platform-api.vistarmedia.com
 0.0.0.0 platform-cdn.sharethrough.com
+0.0.0.0 platform.admaster.cc
 0.0.0.0 platform.bidstack.com
 0.0.0.0 platform.verve.com
 0.0.0.0 platformance.io
@@ -1237,9 +1243,13 @@
 0.0.0.0 rt.applovin.com
 0.0.0.0 rt.applvn.com
 0.0.0.0 rt.gsspat.jp
+0.0.0.0 rtb-eu.admaster.cc
+0.0.0.0 rtb-sg.admaster.cc
+0.0.0.0 rtb-us.admaster.cc
 0.0.0.0 rtb.adblade.com
 0.0.0.0 rtb.adcolony.com
 0.0.0.0 rtb.adform.net
+0.0.0.0 rtb.admaster.cc
 0.0.0.0 rtb.admixer.com
 0.0.0.0 rtb.admixer.net
 0.0.0.0 rtb.anzu.io
@@ -1250,6 +1260,7 @@
 0.0.0.0 rtb.us5.us.criteo.com
 0.0.0.0 rtb.yieldlab.net
 0.0.0.0 rtbhouse.com
+0.0.0.0 rtbnep.admaster.cc
 0.0.0.0 rtdp.seedtag.com
 0.0.0.0 rtk.sonobi.com
 0.0.0.0 rubiconproject.com
@@ -1279,6 +1290,7 @@
 0.0.0.0 s2s.yellowblue.io
 0.0.0.0 safedk.com
 0.0.0.0 sandbox.yieldmo.com
+0.0.0.0 sandboxplatform.admaster.cc
 0.0.0.0 satellite.plista.com
 0.0.0.0 sb.quantserve.com
 0.0.0.0 sbc.connectad.io
@@ -1392,6 +1404,7 @@
 0.0.0.0 static.3lift.com
 0.0.0.0 static.adblade.com
 0.0.0.0 static.adform.net
+0.0.0.0 static.admaster.cc
 0.0.0.0 static.adnow.com
 0.0.0.0 static.adup-tech.com
 0.0.0.0 static.anzu.io
@@ -1432,6 +1445,7 @@
 0.0.0.0 sync.3lift.com
 0.0.0.0 sync.ad.plus
 0.0.0.0 sync.adition.com
+0.0.0.0 sync.admaster.cc
 0.0.0.0 sync.adtelligent.com
 0.0.0.0 sync.aniview.com
 0.0.0.0 sync.broadstreetads.com
@@ -1459,6 +1473,7 @@
 0.0.0.0 sync.targeting.unrulymedia.com
 0.0.0.0 sync.teads.tv
 0.0.0.0 sync.undertone.com
+0.0.0.0 syncnep.admaster.cc
 0.0.0.0 systemlog.me
 0.0.0.0 t.applovin.com
 0.0.0.0 t.gumgum.com
@@ -1511,6 +1526,10 @@
 0.0.0.0 tools.marketgid.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tr.outbrain.com
+0.0.0.0 trace.admaster.cc
+0.0.0.0 tracenep-as.admaster.cc
+0.0.0.0 tracenep-eu.admaster.cc
+0.0.0.0 tracenep.admaster.cc
 0.0.0.0 track-eu.adformnet.akadns.net
 0.0.0.0 track.3lift.com
 0.0.0.0 track.ad.plus
@@ -1567,7 +1586,10 @@
 0.0.0.0 trafficroots.com
 0.0.0.0 trc-analytics.taboola.com
 0.0.0.0 trc-china.taboola.com
+0.0.0.0 trc-eu.admaster.cc
 0.0.0.0 trc-events.taboola.com
+0.0.0.0 trc-us.admaster.cc
+0.0.0.0 trc.admaster.cc
 0.0.0.0 trc.taboola.co.uk
 0.0.0.0 trc.taboola.com
 0.0.0.0 trc.taboola.com.br
@@ -1727,6 +1749,7 @@
 0.0.0.0 wv.inner-active.mobi
 0.0.0.0 ww.smartadserver.com
 0.0.0.0 www.acuityads.com
+0.0.0.0 www.admaster.cc
 0.0.0.0 www.adroll.com
 0.0.0.0 www.applovin.com
 0.0.0.0 www.beeswax.com

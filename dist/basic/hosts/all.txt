@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8853
+# Total domains: 8876
 # Generated: 2026-09-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3776,6 +3776,7 @@
 0.0.0.0 gateway.glassboxdigital.com
 0.0.0.0 gatustox.net
 0.0.0.0 gb.info.lgsmartad.com
+0.0.0.0 gbidnep.admaster.cc
 0.0.0.0 gdanstum.net
 0.0.0.0 gecko-pangle-sg.byteoversea.com
 0.0.0.0 gemini-analytics.google.com
@@ -3910,6 +3911,8 @@
 0.0.0.0 gtm.replaypoker.com
 0.0.0.0 gtm.taboola.com
 0.0.0.0 gtm.ua9.ggpoker.com
+0.0.0.0 gtrace.admaster.cc
+0.0.0.0 gtracenep.admaster.cc
 0.0.0.0 gtrack.go.moovit.com
 0.0.0.0 gtrack.stories.moovit.com
 0.0.0.0 gtv.analytics.glance.inmobi.com
@@ -4116,6 +4119,7 @@
 0.0.0.0 images.revcontent.com
 0.0.0.0 images.taboola.com
 0.0.0.0 images.zergnet.com
+0.0.0.0 imagesnep.admaster.cc
 0.0.0.0 imaginganalytics.dcca.dell.com
 0.0.0.0 img-adx.op-mobile.opera.com
 0.0.0.0 img.3lift.com
@@ -5396,6 +5400,7 @@
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms.dzen.ru
 0.0.0.0 ms4.applovin.com
+0.0.0.0 msgdc.admaster.cc
 0.0.0.0 mssdk-boot.tiktokv.com
 0.0.0.0 mssdk-bu.snssdk.com
 0.0.0.0 mssdk-i18n.tiktok.com
@@ -5936,6 +5941,7 @@
 0.0.0.0 pladollmo.com
 0.0.0.0 platform-api.vistarmedia.com
 0.0.0.0 platform-cdn.sharethrough.com
+0.0.0.0 platform.admaster.cc
 0.0.0.0 platform.bidstack.com
 0.0.0.0 platform.cid.samba.tv
 0.0.0.0 platform.verve.com
@@ -6292,9 +6298,11 @@
 0.0.0.0 rt.gsspat.jp
 0.0.0.0 rtax.criteo.com
 0.0.0.0 rtb-config.samsungads.com
+0.0.0.0 rtb-eu.admaster.cc
 0.0.0.0 rtb-eu.linkedin.com
 0.0.0.0 rtb-otv.linkedin.com
 0.0.0.0 rtb-rubicon.hk.cn.criteo.com
+0.0.0.0 rtb-sg.admaster.cc
 0.0.0.0 rtb-ssl.hk.cn.criteo.com
 0.0.0.0 rtb-trk4.linkedin.com
 0.0.0.0 rtb-tvo.linkedin.com
@@ -6302,6 +6310,7 @@
 0.0.0.0 rtb-us-east.linkedin.com
 0.0.0.0 rtb-us-south.linkedin.com
 0.0.0.0 rtb-us-west.linkedin.com
+0.0.0.0 rtb-us.admaster.cc
 0.0.0.0 rtb-validation.fr.eu.criteo.com
 0.0.0.0 rtb-vto.linkedin.com
 0.0.0.0 rtb.adblade.com
@@ -6309,6 +6318,7 @@
 0.0.0.0 rtb.adform.net
 0.0.0.0 rtb.adgrx.com
 0.0.0.0 rtb.adikteev.com
+0.0.0.0 rtb.admaster.cc
 0.0.0.0 rtb.admixer.com
 0.0.0.0 rtb.admixer.net
 0.0.0.0 rtb.adsquare.com
@@ -6326,6 +6336,7 @@
 0.0.0.0 rtb.yieldlab.net
 0.0.0.0 rtb.zetaglobal.com
 0.0.0.0 rtbhouse.com
+0.0.0.0 rtbnep.admaster.cc
 0.0.0.0 rtc-logger-i18n.tiktokv.com
 0.0.0.0 rtc-logger-ie.tiktokv.eu
 0.0.0.0 rtc-logger-ttp2.tiktokv.us
@@ -6611,6 +6622,7 @@
 0.0.0.0 samsungvn.api.useinsider.com
 0.0.0.0 sandbox.activity.browser.intl.miui.com
 0.0.0.0 sandbox.yieldmo.com
+0.0.0.0 sandboxplatform.admaster.cc
 0.0.0.0 sapi.ads.oppomobile.com
 0.0.0.0 satellite.plista.com
 0.0.0.0 sb.quantserve.com
@@ -7077,6 +7089,7 @@
 0.0.0.0 static.adblade.com
 0.0.0.0 static.adf.ly
 0.0.0.0 static.adform.net
+0.0.0.0 static.admaster.cc
 0.0.0.0 static.adnow.com
 0.0.0.0 static.ads.brave.com
 0.0.0.0 static.ads.bravesoftware.com
@@ -7291,6 +7304,7 @@
 0.0.0.0 sync.3lift.com
 0.0.0.0 sync.ad.plus
 0.0.0.0 sync.adition.com
+0.0.0.0 sync.admaster.cc
 0.0.0.0 sync.adtelligent.com
 0.0.0.0 sync.aniview.com
 0.0.0.0 sync.as.criteo.com
@@ -7329,6 +7343,7 @@
 0.0.0.0 sync.us.criteo.com
 0.0.0.0 sync.zetaglobal.com
 0.0.0.0 sync2.navdmp.com
+0.0.0.0 syncnep.admaster.cc
 0.0.0.0 sysreset.stat.360safe.com
 0.0.0.0 system-mechanic.com
 0.0.0.0 systemlog.me
@@ -7768,7 +7783,11 @@
 0.0.0.0 trac.rockstargames.com
 0.0.0.0 trac.thefacebook.com
 0.0.0.0 trace-h5sdk.vivo.com.cn
+0.0.0.0 trace.admaster.cc
 0.0.0.0 trace.nordvpn.com
+0.0.0.0 tracenep-as.admaster.cc
+0.0.0.0 tracenep-eu.admaster.cc
+0.0.0.0 tracenep.admaster.cc
 0.0.0.0 traces.dev.sr.roku.com
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 track-apollo.teleport.varjo.com
@@ -8144,7 +8163,10 @@
 0.0.0.0 trafficroots.com
 0.0.0.0 trc-analytics.taboola.com
 0.0.0.0 trc-china.taboola.com
+0.0.0.0 trc-eu.admaster.cc
 0.0.0.0 trc-events.taboola.com
+0.0.0.0 trc-us.admaster.cc
+0.0.0.0 trc.admaster.cc
 0.0.0.0 trc.taboola.co.uk
 0.0.0.0 trc.taboola.com
 0.0.0.0 trc.taboola.com.br
@@ -8622,6 +8644,7 @@
 0.0.0.0 www.acoustic.com
 0.0.0.0 www.acuityads.com
 0.0.0.0 www.adaware.com
+0.0.0.0 www.admaster.cc
 0.0.0.0 www.adperio.com
 0.0.0.0 www.adroll.com
 0.0.0.0 www.ads-partners.wetransfer.com

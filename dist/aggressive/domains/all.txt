@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9256
+# Total domains: 9279
 # Generated: 2026-09-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3955,6 +3955,7 @@ gateway.crakrevenue.com
 gateway.glassboxdigital.com
 gatustox.net
 gb.info.lgsmartad.com
+gbidnep.admaster.cc
 gdanstum.net
 gdown.baidu.com
 gecko-pangle-sg.byteoversea.com
@@ -4113,6 +4114,8 @@ gtm.latam.ggpoker.com
 gtm.replaypoker.com
 gtm.taboola.com
 gtm.ua9.ggpoker.com
+gtrace.admaster.cc
+gtracenep.admaster.cc
 gtrack.go.moovit.com
 gtrack.stories.moovit.com
 gtv.analytics.glance.inmobi.com
@@ -4332,6 +4335,7 @@ images.plista.com
 images.revcontent.com
 images.taboola.com
 images.zergnet.com
+imagesnep.admaster.cc
 imaginganalytics.dcca.dell.com
 img-adx.op-mobile.opera.com
 img.3lift.com
@@ -5642,6 +5646,7 @@ ms.applovin.com
 ms.dzen.ru
 ms4.applovin.com
 msc-dct-prod.msc.apple.com
+msgdc.admaster.cc
 mssdk-boot.tiktokv.com
 mssdk-bu.snssdk.com
 mssdk-i18n.tiktok.com
@@ -6218,6 +6223,7 @@ placed.com
 pladollmo.com
 platform-api.vistarmedia.com
 platform-cdn.sharethrough.com
+platform.admaster.cc
 platform.bidstack.com
 platform.cid.samba.tv
 platform.verve.com
@@ -6615,9 +6621,11 @@ rt.applvn.com
 rt.gsspat.jp
 rtax.criteo.com
 rtb-config.samsungads.com
+rtb-eu.admaster.cc
 rtb-eu.linkedin.com
 rtb-otv.linkedin.com
 rtb-rubicon.hk.cn.criteo.com
+rtb-sg.admaster.cc
 rtb-ssl.hk.cn.criteo.com
 rtb-trk4.linkedin.com
 rtb-tvo.linkedin.com
@@ -6625,6 +6633,7 @@ rtb-us-east-new.linkedin.com
 rtb-us-east.linkedin.com
 rtb-us-south.linkedin.com
 rtb-us-west.linkedin.com
+rtb-us.admaster.cc
 rtb-validation.fr.eu.criteo.com
 rtb-vto.linkedin.com
 rtb.adblade.com
@@ -6632,6 +6641,7 @@ rtb.adcolony.com
 rtb.adform.net
 rtb.adgrx.com
 rtb.adikteev.com
+rtb.admaster.cc
 rtb.admixer.com
 rtb.admixer.net
 rtb.adsquare.com
@@ -6649,6 +6659,7 @@ rtb.us5.us.criteo.com
 rtb.yieldlab.net
 rtb.zetaglobal.com
 rtbhouse.com
+rtbnep.admaster.cc
 rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
 rtc-logger-ttp2.tiktokv.us
@@ -6937,6 +6948,7 @@ samsungusa.api.useinsider.com
 samsungvn.api.useinsider.com
 sandbox.activity.browser.intl.miui.com
 sandbox.yieldmo.com
+sandboxplatform.admaster.cc
 sapi.ads.oppomobile.com
 satellite.plista.com
 sb.quantserve.com
@@ -7419,6 +7431,7 @@ static.3lift.com
 static.adblade.com
 static.adf.ly
 static.adform.net
+static.admaster.cc
 static.adnow.com
 static.ads.brave.com
 static.ads.bravesoftware.com
@@ -7637,6 +7650,7 @@ sync.1rx.io
 sync.3lift.com
 sync.ad.plus
 sync.adition.com
+sync.admaster.cc
 sync.adtelligent.com
 sync.aniview.com
 sync.as.criteo.com
@@ -7675,6 +7689,7 @@ sync.undertone.com
 sync.us.criteo.com
 sync.zetaglobal.com
 sync2.navdmp.com
+syncnep.admaster.cc
 sysreset.stat.360safe.com
 system-mechanic.com
 systemlog.me
@@ -8128,7 +8143,11 @@ trac.reddit.com
 trac.rockstargames.com
 trac.thefacebook.com
 trace-h5sdk.vivo.com.cn
+trace.admaster.cc
 trace.nordvpn.com
+tracenep-as.admaster.cc
+tracenep-eu.admaster.cc
+tracenep.admaster.cc
 traces.dev.sr.roku.com
 traces.sr.roku.com
 track-apollo.teleport.varjo.com
@@ -8508,7 +8527,10 @@ trafficroots.com
 transacme.com
 trc-analytics.taboola.com
 trc-china.taboola.com
+trc-eu.admaster.cc
 trc-events.taboola.com
+trc-us.admaster.cc
+trc.admaster.cc
 trc.taboola.co.uk
 trc.taboola.com
 trc.taboola.com.br
@@ -9011,6 +9033,7 @@ ww25.ad.samsungadhub.com
 www.acoustic.com
 www.acuityads.com
 www.adaware.com
+www.admaster.cc
 www.adperio.com
 www.adroll.com
 www.ads-partners.wetransfer.com
