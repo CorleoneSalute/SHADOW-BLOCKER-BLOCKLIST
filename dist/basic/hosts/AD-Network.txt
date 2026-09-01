@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1772
-# Generated: 2026-08-30 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1773
+# Generated: 2026-09-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -70,6 +70,7 @@
 0.0.0.0 adition.com
 0.0.0.0 adjust.applovin.com
 0.0.0.0 adm.fwmrm.net
+0.0.0.0 admaster.cc
 0.0.0.0 admaven.com
 0.0.0.0 admix.in
 0.0.0.0 admixer.co.kr

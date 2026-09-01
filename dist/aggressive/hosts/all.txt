@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9255
-# Generated: 2026-08-30 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9256
+# Generated: 2026-09-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -310,6 +310,7 @@
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 adm.leju.sina.com.cn
 0.0.0.0 admanager.opera.com
+0.0.0.0 admaster.cc
 0.0.0.0 admaven.com
 0.0.0.0 admetrica.yandex.com
 0.0.0.0 admin-advertising.roku.com

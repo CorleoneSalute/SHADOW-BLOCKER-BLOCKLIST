@@ -1,7 +1,7 @@
 # ============================================================
 # PET CARE BLOCKLIST - BASIC
 # Total domains: 17
-# Generated: 2026-08-30 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-09-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
