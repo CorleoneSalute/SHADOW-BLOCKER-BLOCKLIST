@@ -1,6 +1,6 @@
 # ============================================================
 # ANTIVIRUS BLOCKLIST - AGGRESSIVE
-# Total domains: 67
+# Total domains: 69
 # Generated: 2026-09-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -35,6 +35,7 @@
 0.0.0.0 jubaoads.360.cn
 0.0.0.0 ksn-stat.kaspersky.com
 0.0.0.0 lc.stats.avast.com
+0.0.0.0 lianmeng.360.cn
 0.0.0.0 mdm-sentry-win.cz.avg.com
 0.0.0.0 mdm-sentry.cz.avg.com
 0.0.0.0 mdm-sentry.us.avg.com
@@ -50,6 +51,7 @@
 0.0.0.0 stat.360safe.com
 0.0.0.0 stat.avira.com
 0.0.0.0 stat.kaspersky.com
+0.0.0.0 stat.lianmeng.360.cn
 0.0.0.0 stats.avast.com
 0.0.0.0 stats.avg.com
 0.0.0.0 stats.avira.com

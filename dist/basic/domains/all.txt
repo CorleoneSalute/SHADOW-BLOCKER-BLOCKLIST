@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8876
+# Total domains: 8878
 # Generated: 2026-09-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4411,6 +4411,7 @@ lgads.lge.com
 lgads.tv
 lgadsapi.lge.com
 lgrckt-in.com
+lianmeng.360.cn
 liberty.logs.roku.com
 libittarc.com
 libs.acoustic.co
@@ -7070,6 +7071,7 @@ stat.browser.oppomobile.com
 stat.dji.com
 stat.freedownloadmanager.org
 stat.kaspersky.com
+stat.lianmeng.360.cn
 stat.maps.me
 stat.maxiol.com
 stat.miui.com
