@@ -2086,3 +2086,26 @@ cdn.connectadrealtime.com
 # AdMaster
 
 admaster.cc
+gbidnep.admaster.cc
+gtrace.admaster.cc
+gtracenep.admaster.cc
+imagesnep.admaster.cc
+msgdc.admaster.cc
+platform.admaster.cc
+rtb-eu.admaster.cc
+rtb-sg.admaster.cc
+rtb-us.admaster.cc
+rtb.admaster.cc
+rtbnep.admaster.cc
+sandboxplatform.admaster.cc
+static.admaster.cc
+sync.admaster.cc
+syncnep.admaster.cc
+trace.admaster.cc
+tracenep-as.admaster.cc
+tracenep-eu.admaster.cc
+tracenep.admaster.cc
+trc-eu.admaster.cc
+trc-us.admaster.cc
+trc.admaster.cc
+www.admaster.cc
