@@ -1,6 +1,6 @@
 # Antivirus Software Blocklist
 
-# Total domains: 74
+# Total domains: 76
 # Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -89,6 +89,8 @@ sysreset.stat.360safe.com
 click.stat.hao.360.cn
 easyad.360.cn
 jubaoads.360.cn
+lianmeng.360.cn
+stat.lianmeng.360.cn
 
 # PC MATIC
 mkt.pcpitstop.com !    
