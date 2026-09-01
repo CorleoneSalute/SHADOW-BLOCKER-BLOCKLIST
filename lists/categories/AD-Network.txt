@@ -2082,3 +2082,7 @@ vie1-nova.connectad.io
 demand.connectad.io
 api.connectadrealtime.com
 cdn.connectadrealtime.com
+
+# AdMaster
+
+admaster.cc
