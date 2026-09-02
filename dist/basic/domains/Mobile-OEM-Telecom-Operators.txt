@@ -1,7 +1,7 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1052
-# Generated: 2026-09-01 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1053
+# Generated: 2026-09-02 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -13,6 +13,7 @@ a.stat.xiaomi.com
 a.union.mi.com
 a.union.xiaomi.com
 a.video.xiaomi.com
+abtest-va-sg.data.mioffice.cn
 abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
 activity.browser.intl.miui.com

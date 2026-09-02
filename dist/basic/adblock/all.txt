@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8878
-# Generated: 2026-09-01 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8879
+# Generated: 2026-09-02 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -83,6 +83,7 @@
 ||abrt.fedoraproject.org^
 ||abtest-ch.snssdk.com^
 ||abtest-sg-tiktok.byteoversea.com^
+||abtest-va-sg.data.mioffice.cn^
 ||abtest-va-tiktok.byteoversea.com^
 ||abtest.mistat.intl.xiaomi.com^
 ||abtest.mistat.xiaomi.com^

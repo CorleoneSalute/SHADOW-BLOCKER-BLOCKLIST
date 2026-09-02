@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9281
-# Generated: 2026-09-01 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9282
+# Generated: 2026-09-02 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -89,6 +89,7 @@
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 abtest-sg-tiktok.byteoversea.com
 0.0.0.0 abtest-tv.vidaahub.com
+0.0.0.0 abtest-va-sg.data.mioffice.cn
 0.0.0.0 abtest-va-tiktok.byteoversea.com
 0.0.0.0 abtest.mistat.intl.xiaomi.com
 0.0.0.0 abtest.mistat.xiaomi.com
