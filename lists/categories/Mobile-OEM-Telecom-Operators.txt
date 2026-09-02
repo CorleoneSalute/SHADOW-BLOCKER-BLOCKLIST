@@ -250,7 +250,7 @@ znexudtrhw0nwrmga-seasamsung.siteintercept.qualtrics.com
 zneysvtqyfhzf6n4p-samsungeurope.siteintercept.qualtrics.com
 ```
 
-### Diger (4 domain)
+### Others (4 domain)
 
 ```
 api-samsung.swypeconnect.com
@@ -488,7 +488,7 @@ pi.ias.xiaomi.com
 report.n.xiaomi.com
 secure.report.iss.xiaomi.com
 ssp.xiaomi.com
-abtest-va-sg.data.mioffice.cn
+abtest-va-sg.data.mioffice.cn !
 ```
 
 ### Subdomain Finder (19 domain)
