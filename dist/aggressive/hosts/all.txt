@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9282
+# Total domains: 9283
 # Generated: 2026-09-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1476,6 +1476,7 @@
 0.0.0.0 analytics.thalesmarket.io
 0.0.0.0 analytics.theknot.com
 0.0.0.0 analytics.thirstie.com
+0.0.0.0 analytics.ticketmaster.co.nz
 0.0.0.0 analytics.ticketmaster.es
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.tiktokv.com

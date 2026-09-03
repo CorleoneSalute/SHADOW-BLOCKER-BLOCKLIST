@@ -1,11 +1,12 @@
 # ============================================================
 # TICKETING LIVE EVENT BLOCKLIST - AGGRESSIVE
-# Total domains: 17
+# Total domains: 18
 # Generated: 2026-09-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 0.0.0.0 analytics.eventim.com
+0.0.0.0 analytics.ticketmaster.co.nz
 0.0.0.0 analytics.ticketmaster.es
 0.0.0.0 analytics10.ticketmaster.com
 0.0.0.0 fr-metrics.seetickets.com
