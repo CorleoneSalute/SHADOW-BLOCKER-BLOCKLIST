@@ -10,6 +10,7 @@ hellotracking.ticketmaster.com
 post.analytics10.ticketmaster.com
 s.analytics10.ticketmaster.com
 analytics.ticketmaster.es
+analytics.ticketmaster.co.nz
 
 # Eventim
 analytics.eventim.com
