@@ -274,7 +274,7 @@ us.uxcam.com
 uxcam.com
 web.uxcam.com
 
-# OPENREPLAY | Aktif (self-hosted / cloud)
+# OPENREPLAY (self-hosted / cloud)
 api.openreplay.com
 ingest.openreplay.com
 openreplay.com
