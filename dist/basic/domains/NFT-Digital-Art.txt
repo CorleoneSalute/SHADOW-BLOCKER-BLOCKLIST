@@ -1,7 +1,7 @@
 # ============================================================
 # NFT DIGITAL ART BLOCKLIST - BASIC
 # Total domains: 26
-# Generated: 2026-09-02 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-09-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
