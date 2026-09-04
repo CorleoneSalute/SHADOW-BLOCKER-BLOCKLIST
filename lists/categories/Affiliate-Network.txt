@@ -10,6 +10,7 @@ production.ads.cj.com
 ads.cj.com
 publishertracking.api.cj.com
 tracking.api.cj.com
+tracking-ams5.cj.com
 emjcd.com
 www.emjcd.com
 jdoqocy.com
