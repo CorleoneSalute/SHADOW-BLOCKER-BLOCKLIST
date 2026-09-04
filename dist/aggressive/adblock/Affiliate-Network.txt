@@ -1,7 +1,7 @@
 # ============================================================
 # AFFILIATE NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 162
-# Generated: 2026-09-03 (UTC) - auto-generated, do not edit by hand
+# Total domains: 163
+# Generated: 2026-09-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -121,6 +121,7 @@
 ||track.linkconnector.com^
 ||track.webgains.com^
 ||tracker.prf.hn^
+||tracking-ams5.cj.com^
 ||tracking.admitad.com^
 ||tracking.affilae.com^
 ||tracking.api.cj.com^

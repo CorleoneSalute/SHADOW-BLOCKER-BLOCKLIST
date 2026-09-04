@@ -1,7 +1,7 @@
 # ============================================================
 # AI CHATBOT LLM BLOCKLIST - BASIC
 # Total domains: 40
-# Generated: 2026-09-03 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-09-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 

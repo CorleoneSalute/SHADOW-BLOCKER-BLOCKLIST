@@ -1,7 +1,7 @@
 # ============================================================
 # LOCAL VIDEO AUDIO PLAYER BLOCKLIST - BASIC
 # Total domains: 38
-# Generated: 2026-09-03 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-09-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 

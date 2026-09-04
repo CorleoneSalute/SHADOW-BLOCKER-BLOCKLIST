@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8879
-# Generated: 2026-09-03 (UTC) - auto-generated, do not edit by hand
+# Total domains: 8880
+# Generated: 2026-09-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -7970,6 +7970,7 @@
 0.0.0.0 trackerfeed.ddxq.mobi
 0.0.0.0 trackers.reddit.com
 0.0.0.0 tracking-adnet.vivo.com.cn
+0.0.0.0 tracking-ams5.cj.com
 0.0.0.0 tracking-api.italki.com
 0.0.0.0 tracking.ableton.com
 0.0.0.0 tracking.acast.com
