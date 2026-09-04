@@ -3,14 +3,27 @@
 Checks external blocklist sources for domains that are new since the
 last run, by diffing each source's full current domain set against a
 saved snapshot - not by parsing git commit patches, which GitHub
-silently truncates for large diffs (a real API limitation that caused
-an earlier version of this script to miss almost everything from
-large sources like StevenBlack/hosts or EasyPrivacy).
+silently truncates for large diffs.
 
-Reports domains that are NOT already present in this project's
-lists/categories/. Does not add anything automatically - purely a
-signal for manual research, consistent with this project's
-independent-verification approach.
+For each candidate domain:
+  - Checks whether its core domain (last two labels, e.g. example.com
+    for sub.example.com) already appears somewhere in this project's
+    lists/categories/. Split into "core domain already covered" vs
+    "new platform".
+  - Flags domains whose core label looks algorithmically generated
+    (high character entropy, low vowel ratio) as possibly obfuscated
+    tracking infrastructure worth extra scrutiny. This is a heuristic
+    signal, not a classification - false positives/negatives happen.
+
+Also compares each source's total domain count to its previous run.
+If it drops by more than 50%, that's flagged as a likely sign the
+source changed its file format or location rather than a real content
+change, since silent parsing failures look identical to "no domains
+found" otherwise.
+
+Does not add anything automatically - purely a signal for manual
+research, consistent with this project's independent-verification
+approach.
 
 State (previous snapshots) is stored under reports/.snapshots/ and
 must be committed alongside the report, so each run only needs to
@@ -20,6 +33,7 @@ Run:
     python3 scripts/check_new_domains.py
 """
 
+import math
 import re
 import urllib.request
 from pathlib import Path
@@ -36,16 +50,12 @@ DOMAIN_RE = re.compile(
     r"(\.(?!-)[A-Za-z0-9-]{1,63}(?<!-))+$"
 )
 
-# Each source is either:
-#   - {"name", "owner", "repo", "path", "format"}
-#     -> fetched from raw.githubusercontent.com/{owner}/{repo}/HEAD/{path}
-#   - {"name", "raw_url", "format"}
-#     -> fetched directly from raw_url (for sources whose distributed
-#        file is a build output published elsewhere, e.g. GitHub Pages,
-#        and isn't actually committed to the repo's git tree)
-# format: "hosts" | "adblock" | "plain" | "dnsmasq"
-# "group" is optional - sources sharing a group are nested under one
-# header in the report instead of each getting a top-level section.
+DROP_WARNING_THRESHOLD = 0.5
+
+MIN_LABEL_LENGTH_FOR_CHECK = 8
+ENTROPY_THRESHOLD = 3.6
+VOWEL_RATIO_THRESHOLD = 0.2
+
 SOURCES = [
     {"name": "AdGuard SDNS Filter",
      "raw_url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
@@ -96,6 +106,37 @@ def load_existing_domains():
                 line = line[: -len(AGGRESSIVE_FLAG)].strip()
             existing.add(line.lower())
     return existing
+
+
+def base_domain(domain: str) -> str:
+    parts = domain.split(".")
+    if len(parts) < 2:
+        return domain
+    return ".".join(parts[-2:])
+
+
+def shannon_entropy(s: str) -> float:
+    if not s:
+        return 0.0
+    freq = {}
+    for c in s:
+        freq[c] = freq.get(c, 0) + 1
+    length = len(s)
+    entropy = 0.0
+    for count in freq.values():
+        p = count / length
+        entropy -= p * math.log2(p)
+    return entropy
+
+
+def looks_algorithmically_generated(domain: str) -> bool:
+    label = base_domain(domain).split(".")[0]
+    if len(label) < MIN_LABEL_LENGTH_FOR_CHECK:
+        return False
+    entropy = shannon_entropy(label)
+    vowels = sum(1 for c in label if c in "aeiou")
+    vowel_ratio = vowels / len(label)
+    return entropy > ENTROPY_THRESHOLD and vowel_ratio < VOWEL_RATIO_THRESHOLD
 
 
 def fetch_raw(src):
@@ -161,7 +202,7 @@ def snapshot_path(src):
 
 def load_snapshot(path):
     if not path.exists():
-        return None  # no prior snapshot - first run for this source
+        return None
     return set(path.read_text(encoding="utf-8").splitlines())
 
 
@@ -172,10 +213,13 @@ def save_snapshot(path, domains):
 
 def check_all():
     existing = load_existing_domains()
-    print(f"Loaded {len(existing)} existing domains from lists/categories/")
+    existing_bases = {base_domain(d) for d in existing}
+    print(f"Loaded {len(existing)} existing domains "
+          f"({len(existing_bases)} distinct core domains) from lists/categories/")
 
-    # status: "ok" | "first_run" | "error"
     results = []
+    drop_warnings = []
+
     for src in SOURCES:
         print(f"Checking {src['name']}...")
         try:
@@ -193,10 +237,27 @@ def check_all():
             results.append((src.get("group"), src["name"], "first_run", None))
             continue
 
+        if len(previous) > 0 and len(current) < len(previous) * (1 - DROP_WARNING_THRESHOLD):
+            drop_warnings.append(
+                f"{src['name']}: domain count dropped from {len(previous)} to "
+                f"{len(current)} ({(1 - len(current) / len(previous)) * 100:.0f}% decrease) "
+                f"- possible source format or location change, worth checking manually."
+            )
+
         newly_added = current - previous
         missing = sorted(d for d in newly_added if d not in existing)
+        known_base, new_base_normal, new_base_random = [], [], []
+        for d in missing:
+            if base_domain(d) in existing_bases:
+                known_base.append(d)
+            elif looks_algorithmically_generated(d):
+                new_base_random.append(d)
+            else:
+                new_base_normal.append(d)
+
         save_snapshot(snap_path, current)
-        results.append((src.get("group"), src["name"], "ok", missing))
+        results.append((src.get("group"), src["name"], "ok",
+                         (known_base, new_base_normal, new_base_random)))
 
     REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -211,29 +272,62 @@ def check_all():
         "entry should be independently researched and classified before",
         "being added to a category file.",
         "",
-        "Detection compares each source's full current domain list against",
-        "a saved snapshot from the previous run, instead of parsing git",
-        "diffs - GitHub silently omits diff content for large file changes,",
-        "which made an earlier version of this script miss almost",
-        "everything from large sources.",
+    ]
+
+    if drop_warnings:
+        lines.append("## ⚠ Possible source issues")
+        lines.append("")
+        for w in drop_warnings:
+            lines.append(f"- {w}")
+        lines.append("")
+
+    lines += [
+        "Each candidate is split into three groups:",
+        "- Core domain already covered: likely just a missing subdomain",
+        "  for a platform already researched in this project.",
+        "- New platform: the core domain isn't present at all.",
+        "- Possibly obfuscated: the domain name looks algorithmically",
+        "  generated (high character randomness, few vowels) rather",
+        "  than a real word or brand - a heuristic signal only, not a",
+        "  classification. Often worth researching first, since these",
+        "  are sometimes deliberately obscured tracking infrastructure.",
         "",
     ]
+
+    def render_domain_table(domains):
+        block = ["| Domain |", "|---|"]
+        for domain in domains:
+            block.append(f"| {domain} |")
+        block.append("")
+        return block
 
     def render_source_block(name, status, payload, heading_level):
         block = [f"{'#' * heading_level} {name}", ""]
         if status == "first_run":
             block.append("First run for this source - baseline snapshot saved, "
                           "nothing to compare against yet.")
+            block.append("")
         elif status == "error":
             block.append(f"Could not check: {payload}")
-        elif not payload:
-            block.append("No new candidate domains since the last run.")
+            block.append("")
         else:
-            block.append("| Domain |")
-            block.append("|---|")
-            for domain in payload:
-                block.append(f"| {domain} |")
-        block.append("")
+            known_base, new_normal, new_random = payload
+            if not known_base and not new_normal and not new_random:
+                block.append("No new candidate domains since the last run.")
+                block.append("")
+            else:
+                if new_random:
+                    block.append("**Possibly obfuscated:**")
+                    block.append("")
+                    block += render_domain_table(new_random)
+                if new_normal:
+                    block.append("**New platform (core domain not in lists/categories/):**")
+                    block.append("")
+                    block += render_domain_table(new_normal)
+                if known_base:
+                    block.append("**Core domain already covered:**")
+                    block.append("")
+                    block += render_domain_table(known_base)
         return block
 
     seen_groups = []
@@ -258,9 +352,15 @@ def check_all():
             lines += render_source_block(name, status, payload, heading_level=3)
 
     REPORT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    total = sum(len(p) for _, _, s, p in results if s == "ok" and p)
-    print(f"\n{total} candidate domain(s) across all sources. "
-          f"See {REPORT_PATH.relative_to(ROOT)}")
+
+    total_known = sum(len(p[0]) for _, _, s, p in results if s == "ok")
+    total_new = sum(len(p[1]) for _, _, s, p in results if s == "ok")
+    total_random = sum(len(p[2]) for _, _, s, p in results if s == "ok")
+    print(f"\n{total_known} known-core candidate(s), {total_new} new-platform "
+          f"candidate(s), {total_random} possibly-obfuscated candidate(s).")
+    if drop_warnings:
+        print(f"{len(drop_warnings)} source(s) flagged for a large domain-count drop.")
+    print(f"See {REPORT_PATH.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":
