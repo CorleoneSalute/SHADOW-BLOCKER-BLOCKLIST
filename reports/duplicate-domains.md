@@ -1,12 +1,12 @@
 # Duplicate Domain Report
 
-Generated: 2026-09-05 16:17 UTC
+Generated: 2026-09-05 17:49 UTC
 
 Domains that appear in more than one category file's basic
 tier. Not always a mistake - shared infrastructure between
 platforms happens - but worth a quick look.
 
-136 duplicate domain(s) found:
+140 duplicate domain(s) found:
 
 | Domain | Categories |
 |---|---|
@@ -43,6 +43,7 @@ platforms happens - but worth a quick look.
 | bpu.samsungelectronics.com | Mobile-OEM-Telecom-Operators, Smart-TV |
 | cas.criteo.com | AD-Network, Retargeting-Specialist |
 | cat.us5.us.criteo.com | AD-Network, Retargeting-Specialist |
+| cloudflareinsights.com | CDN-Edge-Network, Security-Bot-Detection |
 | clr.telemetry.intel.com | Hardware-Vendor, Linux |
 | cm.everesttech.net | AD-Network, Photo-Editing-Filter |
 | config.samsungads.com | Mobile-OEM-Telecom-Operators, Smart-TV |
@@ -56,6 +57,7 @@ platforms happens - but worth a quick look.
 | d.criteo.com | AD-Network, Retargeting-Specialist |
 | d.eu.criteo.com | AD-Network, Retargeting-Specialist |
 | d.us.criteo.com | AD-Network, Retargeting-Specialist |
+| deviceinf.com | ID-Verification-KYC, Security-Bot-Detection |
 | devicelog.samsungcloudsolution.net | Mobile-OEM-Telecom-Operators, Smart-TV |
 | diagmon-policy.samsungdm.com | Mobile-OEM-Telecom-Operators, Smart-TV |
 | diagmon-serviceapi.samsungdm.com | Mobile-OEM-Telecom-Operators, Smart-TV |
@@ -106,6 +108,7 @@ platforms happens - but worth a quick look.
 | rtb-config.samsungads.com | Mobile-OEM-Telecom-Operators, Smart-TV |
 | rtb.da.us.criteo.com | AD-Network, Retargeting-Specialist |
 | rtb.us5.us.criteo.com | AD-Network, Retargeting-Specialist |
+| s.go-mpulse.net | Security-Bot-Detection, Smart-TV |
 | samsungadhub.com | Mobile-OEM-Telecom-Operators, Smart-TV |
 | samsungads.com | Mobile-OEM-Telecom-Operators, Smart-TV |
 | samsunganalytics.com | Mobile-OEM-Telecom-Operators, Smart-TV |
@@ -119,6 +122,7 @@ platforms happens - but worth a quick look.
 | smetrics.samsung.com.cn | Mobile-OEM-Telecom-Operators, Smart-TV |
 | sslwidget.criteo.com | AD-Network, Retargeting-Specialist |
 | ssp-sync.criteo.com | AD-Network, Retargeting-Specialist |
+| static.cloudflareinsights.com | CDN-Edge-Network, Security-Bot-Detection |
 | telemetry.data.nvidia.com | Gaming, Hardware-Vendor |
 | telemetry.geforcenow.com | Gaming, Hardware-Vendor |
 | telemetry.gfe.nvidia.com | Gaming, Hardware-Vendor |
