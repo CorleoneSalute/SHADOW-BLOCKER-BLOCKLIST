@@ -8,18 +8,15 @@ silently truncates for large diffs.
 For each candidate domain:
   - Checks whether its core domain (last two labels, e.g. example.com
     for sub.example.com) already appears somewhere in this project's
-    lists/categories/. Split into "core domain already covered" vs
-    "new platform".
+    lists/categories/. If so, shows which category file(s) it's in.
   - Flags domains whose core label looks algorithmically generated
     (high character entropy, low vowel ratio) as possibly obfuscated
-    tracking infrastructure worth extra scrutiny. This is a heuristic
-    signal, not a classification - false positives/negatives happen.
+    tracking infrastructure worth extra scrutiny. Heuristic only.
 
 Also compares each source's total domain count to its previous run.
 If it drops by more than 50%, that's flagged as a likely sign the
 source changed its file format or location rather than a real content
-change, since silent parsing failures look identical to "no domains
-found" otherwise.
+change.
 
 Does not add anything automatically - purely a signal for manual
 research, consistent with this project's independent-verification
@@ -99,19 +96,25 @@ SOURCES = [
 
 
 def load_existing_domains():
+    """Returns (existing_domains_set, domain_to_categories_dict)."""
     existing = set()
+    existing_categories = {}
     for master_path in CATEGORIES_DIR.glob("*.txt"):
+        category = master_path.stem
         for raw_line in master_path.read_text(encoding="utf-8").splitlines():
             line = raw_line.strip()
             if not line or line.startswith("#"):
                 continue
             if line.endswith(AGGRESSIVE_FLAG):
                 line = line[: -len(AGGRESSIVE_FLAG)].strip()
-            existing.add(line.lower())
-    return existing
+            d = line.lower()
+            existing.add(d)
+            existing_categories.setdefault(d, set()).add(category)
+    return existing, existing_categories
 
 
 def base_domain(domain: str) -> str:
+    """Best-effort core domain: last two labels."""
     parts = domain.split(".")
     if len(parts) < 2:
         return domain
@@ -215,8 +218,14 @@ def save_snapshot(path, domains):
 
 
 def check_all():
-    existing = load_existing_domains()
-    existing_bases = {base_domain(d) for d in existing}
+    existing, existing_categories = load_existing_domains()
+
+    existing_base_to_categories = {}
+    for d, cats in existing_categories.items():
+        b = base_domain(d)
+        existing_base_to_categories.setdefault(b, set()).update(cats)
+
+    existing_bases = set(existing_base_to_categories.keys())
     print(f"Loaded {len(existing)} existing domains "
           f"({len(existing_bases)} distinct core domains) from lists/categories/")
 
@@ -251,8 +260,10 @@ def check_all():
         missing = sorted(d for d in newly_added if d not in existing)
         known_base, new_base_normal, new_base_random = [], [], []
         for d in missing:
-            if base_domain(d) in existing_bases:
-                known_base.append(d)
+            b = base_domain(d)
+            if b in existing_bases:
+                cats = sorted(existing_base_to_categories[b])
+                known_base.append((d, cats))
             elif looks_algorithmically_generated(d):
                 new_base_random.append(d)
             else:
@@ -286,21 +297,27 @@ def check_all():
 
     lines += [
         "Each candidate is split into three groups:",
-        "- Core domain already covered: likely just a missing subdomain",
-        "  for a platform already researched in this project.",
+        "- Core domain already covered: the category file(s) it's",
+        "  likely a missing subdomain for are listed alongside it.",
         "- New platform: the core domain isn't present at all.",
         "- Possibly obfuscated: the domain name looks algorithmically",
         "  generated (high character randomness, few vowels) rather",
         "  than a real word or brand - a heuristic signal only, not a",
-        "  classification. Often worth researching first, since these",
-        "  are sometimes deliberately obscured tracking infrastructure.",
+        "  classification.",
         "",
     ]
 
-    def render_domain_table(domains):
+    def render_simple_table(domains):
         block = ["| Domain |", "|---|"]
         for domain in domains:
             block.append(f"| {domain} |")
+        block.append("")
+        return block
+
+    def render_known_base_table(entries):
+        block = ["| Domain | Category |", "|---|---|"]
+        for domain, cats in entries:
+            block.append(f"| {domain} | {', '.join(cats)} |")
         block.append("")
         return block
 
@@ -322,15 +339,15 @@ def check_all():
                 if new_random:
                     block.append("**Possibly obfuscated:**")
                     block.append("")
-                    block += render_domain_table(new_random)
+                    block += render_simple_table(new_random)
                 if new_normal:
                     block.append("**New platform (core domain not in lists/categories/):**")
                     block.append("")
-                    block += render_domain_table(new_normal)
+                    block += render_simple_table(new_normal)
                 if known_base:
                     block.append("**Core domain already covered:**")
                     block.append("")
-                    block += render_domain_table(known_base)
+                    block += render_known_base_table(known_base)
         return block
 
     seen_groups = []
