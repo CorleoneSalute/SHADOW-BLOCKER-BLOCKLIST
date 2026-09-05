@@ -134,11 +134,8 @@ Sources checked for new-domain signals:
 [StevenBlack](https://github.com/StevenBlack/hosts),
 [EasyPrivacy](https://github.com/easylist/easylist),
 [1Hosts](https://github.com/badmojr/1Hosts),
-[no-google](https://github.com/nickspaargaren/no-google),
-[a-dove-is-dumb](https://github.com/ignaciocastro/a-dove-is-dumb), and
-the native OEM lists from
+[no-google](https://github.com/nickspaargaren/no-google), and
 [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
-(Samsung, Xiaomi, Huawei, Oppo/Realme, Vivo, LG WebOS, TikTok).
 
 ## Contributing
 
