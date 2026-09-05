@@ -1,0 +1,179 @@
+SECURITY & BOT DETECTION BLOCKLIST
+
+Last update: 09/05/2026
+
+# FingerprintJS / Fingerprint.com
+fingerprintjs.com
+fingerprintjs.net
+fpjs.io
+fpjscdn.net !
+openfpcdn.io
+api.fpjs.io
+eu.api.fpjs.io
+ap.api.fpjs.io
+metrics.fpjs.io
+
+# SEON
+seon.io !
+deviceinf.com
+
+# LexisNexis / ThreatMetrix
+h.online-metrix.net
+online-metrix.net
+s.online-metrix.net
+fp.online-metrix.net
+
+# PerimeterX / HUMAN Security
+perimeterx.net !
+collector.perimeterx.net
+pxchk.net !
+
+# DataDome (JS/API)
+metrics.datadome.co
+metrics-v2.datadome.co
+
+# Akamai tracking
+akstat.io
+go-mpulse.net !
+c.go-mpulse.net
+s.go-mpulse.net
+s2.go-mpulse.net
+
+# Cloudflare Analytics
+cloudflareinsights.com
+static.cloudflareinsights.com
+
+# Shape Security
+analytics.shapesecurity.com
+
+# Distil Networks
+analytics.distilnetworks.com
+
+# Sift Science
+b.siftscience.com !
+
+# Forter
+forter.com !
+forter.net !
+metrics-grafana.use.forter.com
+metrics-grafana.euw.forter.com
+
+# Riskified
+riskified.com !
+beacon.riskified.com
+c.riskified.com
+
+# Signifyd
+signifyd.com !
+
+# Ravelin
+ravelin.com !
+pci-victoriametrics-f.ravelin.com
+pci-victoriametrics.ravelin.com
+victoriametrics-europe-west1.f.pci.ravelin.com
+victoriametrics-europe-west1.live.pci.ravelin.com
+victoriametrics-us-central1.live.pci.ravelin.com
+victoriametrics-us-east4.f.pci.ravelin.com
+ravelin.net
+
+# Sardine
+sardine.ai !
+
+# Accertify
+splunk-analytics.accertify.com
+accdab.net !
+
+# NeuroID
+neuro-id.com !
+analytics.neuro-id.com
+
+# MaxMind
+device.maxmind.com
+
+# Transmit Security
+riskid.security !
+
+# Fraudlogix
+fraudlogix.com !
+
+# CHEQ
+cheq.ai !
+events.cheq.ai
+cheqzone.com
+
+# Anura
+anura.io !
+ads.anura.io
+ads2.anura.io
+test0ads.anura.io
+
+# TrafficGuard
+track.trafficguard.ai
+track.g.trafficguard.ai
+pixel.trafficguard.ai
+impression.trafficguard.ai
+p.trafficguard.ai
+inad.trafficguard.ai
+ms-ads.trafficguard.ai
+
+# ClickCease
+clickcease.com
+
+# ClickGUARD
+clickguard.com
+
+# ClickPatrol
+clickpatrol.com
+
+# PPC Protect / Lunio
+ppcprotect.com
+trk.ppcprotect.com
+lunio.ai
+
+# Pixalate
+pixalate.com !
+adrta.com
+
+# WhiteOps / Forensiq
+whiteops.com !
+forensiq.com !
+
+# GeoEdge
+geoedge.com
+security-analytics.geoedge.com
+detector.geoedge.com
+
+# Confiant
+confiant.com
+confiant.net
+cdn.confiant.com
+cdn.confiant-integrations.net
+confiant-integrations.net
+
+# impact.com
+trkapi.impact.com
+trkapi2.impact.com
+trkcfg.impact.com
+app-trk.impact.com
+pxa.impact.com
+customtracking.impact.com
+generictracking.impact.com
+
+# Device Intelligence
+inst.deviceatlas.net
+51degrees.com !
+apitd.net !
+fp.incognia.com
+metrics-assets.incognia.com
+datadog.biocatch.com
+ipqualityscore.com !
+verisoul.ai !
+analytics.ksa.callsign.com
+track.salt.security
+fp.prophaze.com
+cloudfilt.com
+tracking.bitninja.com
+issuetracker.bitninja.io
+tracking.bitninja.io
+nodemetrics.wallarm.com
+telemetry.stytch.com
