@@ -136,7 +136,7 @@ def looks_algorithmically_generated(domain: str) -> bool:
     entropy = shannon_entropy(label)
     vowels = sum(1 for c in label if c in "aeiou")
     vowel_ratio = vowels / len(label)
-    return entropy > ENTROPY_THRESHOLD and vowel_ratio < VOWEL_RATIO_THRESHOLD
+    return entropy > ENTROPY_THRESHOLD or vowel_ratio < VOWEL_RATIO_THRESHOLD
 
 
 def fetch_raw(src):
