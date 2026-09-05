@@ -148,6 +148,7 @@ location-v6.tiktokv.us
 location-va.tiktokv.com
 location.tiktok.com
 location.tiktokv.com
+location.tiktokv.eu
 location.tiktokw.us
 location.us.tiktokv.com
 location16-normal-useastred.tiktokv.eu
