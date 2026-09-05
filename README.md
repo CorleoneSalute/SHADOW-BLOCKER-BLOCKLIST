@@ -64,8 +64,8 @@ https://raw.githubusercontent.com/CorleoneSalute/SHADOW-BLOCKER-BLOCKLIST/main/d
 research/            source material behind each category (verification trail)
 lists/categories/    canonical master lists (source of truth)
 scripts/build.py     generates dist/ from lists/categories/
-dist/                 generated output — do not edit directly
-reports/              new-domain reports — see "Keeping this up to date"
+dist/                generated output — do not edit directly
+reports/             new-domain reports — see "Keeping this up to date"
 
 ```
 
@@ -106,6 +106,7 @@ references:
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) —
   some of the project's "native" lists were referenced when
   researching platforms with complex, multi-layered infrastructure.
+  
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) —
   referenced for locating core domains of certain platforms.
 
