@@ -1,12 +1,16 @@
 # New Domain Suggestions
 
-Generated: 2026-09-05 10:41 UTC
+Generated: 2026-09-05 10:53 UTC
 
 Domains that appeared in the sources below since the last run,
 and are NOT currently in this project's lists/categories/. This
 is a research signal only - nothing is added automatically. Each
 entry should be independently researched and classified before
 being added to a category file.
+
+## ⚠ Possible source issues
+
+- no-google: domain count dropped from 1 to 0 (100% decrease) - possible source format or location change, worth checking manually.
 
 Each candidate is split into three groups:
 - Core domain already covered: likely just a missing subdomain
@@ -28,7 +32,7 @@ No new candidate domains since the last run.
 
 ## EasyPrivacy
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
 ## 1Hosts Lite
 
@@ -36,7 +40,7 @@ No new candidate domains since the last run.
 
 ## no-google
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
 ## HaGeZi Multi Ultimate
 
