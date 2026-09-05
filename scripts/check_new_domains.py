@@ -68,8 +68,9 @@ SOURCES = [
      "path": "Lite/domains.txt", "format": "plain"},
     {"name": "no-google", "owner": "nickspaargaren", "repo": "no-google",
      "path": "categories/domains.txt", "format": "hosts"},
-    {"name": "HaGeZi Multi Ultimate", "owner": "hagezi", "repo": "dns-blocklists",
-     "path": "hosts/ultimate.txt", "format": "hosts"},
+    {"name": "HaGeZi Multi Ultimate",
+     "raw_url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
+     "format": "adblock"},
 
     {"name": "Samsung", "group": "HaGeZi Native Lists",
      "owner": "hagezi", "repo": "dns-blocklists",
