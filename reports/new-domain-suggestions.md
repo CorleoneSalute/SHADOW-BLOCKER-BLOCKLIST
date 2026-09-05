@@ -1,6 +1,6 @@
 # New Domain Suggestions
 
-Generated: 2026-09-05 10:25 UTC
+Generated: 2026-09-05 10:41 UTC
 
 Domains that appeared in the sources below since the last run,
 and are NOT currently in this project's lists/categories/. This
@@ -28,7 +28,7 @@ No new candidate domains since the last run.
 
 ## EasyPrivacy
 
-No new candidate domains since the last run.
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
 ## 1Hosts Lite
 
@@ -36,11 +36,11 @@ No new candidate domains since the last run.
 
 ## no-google
 
-No new candidate domains since the last run.
+First run for this source - baseline snapshot saved, nothing to compare against yet.
 
 ## HaGeZi Multi Ultimate
 
-First run for this source - baseline snapshot saved, nothing to compare against yet.
+No new candidate domains since the last run.
 
 ## HaGeZi Native Lists
 
