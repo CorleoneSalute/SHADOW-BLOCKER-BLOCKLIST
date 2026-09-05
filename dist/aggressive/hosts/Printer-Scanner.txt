@@ -1,7 +1,7 @@
 # ============================================================
 # PRINTER SCANNER BLOCKLIST - AGGRESSIVE
 # Total domains: 11
-# Generated: 2026-09-04 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-09-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 

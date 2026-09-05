@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9284
-# Generated: 2026-09-04 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9285
+# Generated: 2026-09-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -2674,6 +2674,7 @@
 ||client-analytics.dropbox.com^
 ||client-log.box.com^
 ||client-log.dropbox.com^
+||client-logs-r.wbx2.com^
 ||client-telemetry.roblox.com^
 ||client-telemetry.us-east-1.amazonaws.com^
 ||client.aps.amazon-adsystem.com^
