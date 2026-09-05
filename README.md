@@ -94,6 +94,10 @@ release.
 - Grocery & Food Delivery
 - Video Editing & Creative Software
 - News
+- Crypto & Web3
+- Travel planning & booking
+- Torrent clients
+- Super apps
 
 ## Acknowledgments
 
