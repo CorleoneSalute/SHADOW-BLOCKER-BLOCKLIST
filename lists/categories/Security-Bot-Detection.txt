@@ -1,6 +1,7 @@
 SECURITY & BOT DETECTION BLOCKLIST
 
-Last update: 09/05/2026
+# Total domains: 110
+# Last update: 09/05/2026
 
 # FingerprintJS / Fingerprint.com
 fingerprintjs.com
