@@ -5,18 +5,24 @@ last run, by diffing each source's full current domain set against a
 saved snapshot - not by parsing git commit patches, which GitHub
 silently truncates for large diffs.
 
-For each candidate domain:
-  - Checks whether its core domain (last two labels, e.g. example.com
-    for sub.example.com) already appears somewhere in this project's
-    lists/categories/. If so, shows which category file(s) it's in.
-  - Flags domains whose core label looks algorithmically generated
-    (high character entropy, low vowel ratio) as possibly obfuscated
-    tracking infrastructure worth extra scrutiny. Heuristic only.
+For each candidate domain not already in lists/categories/, checks
+(in priority order):
+  1. Tracking keyword match - a label in the domain contains a known
+     tracking-related keyword (track, metrics, ads, etc.). Substring
+     matching within labels, so it can produce occasional false
+     positives (e.g. "roads.com" contains "ads") - a signal to check
+     first, not a classification.
+  2. Possibly obfuscated - the domain's core label looks
+     algorithmically generated (high character entropy, low vowel
+     ratio). Heuristic only.
+  3. New platform - neither of the above; core domain not covered.
 
-Also compares each source's total domain count to its previous run.
-If it drops by more than 50%, that's flagged as a likely sign the
-source changed its file format or location rather than a real content
-change.
+Domains whose core domain IS already covered somewhere in
+lists/categories/ are shown separately, with the category file(s)
+they likely belong to.
+
+Also compares each source's total domain count to its previous run
+and flags a >50% drop as a likely source format/location change.
 
 Does not add anything automatically - purely a signal for manual
 research, consistent with this project's independent-verification
@@ -53,6 +59,29 @@ MIN_LABEL_LENGTH_FOR_CHECK = 6
 ENTROPY_THRESHOLD = 3.2
 VOWEL_RATIO_THRESHOLD = 0.25
 
+# Substring-within-label matching, not exact match, so compound names
+# like "adserver" or "trackingapi" are still caught. Deliberately
+# excludes very short/ambiguous keywords like bare "ad" (matches too
+# many unrelated words). Adjust freely - false positives happen (e.g.
+# "roads.com" contains "ads"), this is a triage signal, not a filter.
+TRACKING_KEYWORDS = [
+    "track", "tracker", "tracking",
+    "metric", "metrics",
+    "telemetry",
+    "analytic", "analytics",
+    "pixel", "beacon",
+    "collect", "collector",
+    "ads", "adserver", "adtech", "advert", "advertising",
+]
+
+# Each source is either:
+#   - {"name", "owner", "repo", "path", "format"}
+#     -> fetched from raw.githubusercontent.com/{owner}/{repo}/HEAD/{path}
+#   - {"name", "raw_url", "format"}
+#     -> fetched directly from raw_url
+# format: "hosts" | "adblock" | "plain" | "dnsmasq"
+# "group" is optional - sources sharing a group are nested under one
+# header in the report instead of each getting a top-level section.
 SOURCES = [
     {"name": "AdGuard SDNS Filter",
      "raw_url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
@@ -114,7 +143,6 @@ def load_existing_domains():
 
 
 def base_domain(domain: str) -> str:
-    """Best-effort core domain: last two labels."""
     parts = domain.split(".")
     if len(parts) < 2:
         return domain
@@ -143,6 +171,17 @@ def looks_algorithmically_generated(domain: str) -> bool:
     vowels = sum(1 for c in label if c in "aeiou")
     vowel_ratio = vowels / len(label)
     return entropy > ENTROPY_THRESHOLD or vowel_ratio < VOWEL_RATIO_THRESHOLD
+
+
+def matching_tracking_keyword(domain: str):
+    """Returns the first matching keyword found in any label of the
+    domain (substring match within label), or None."""
+    labels = re.split(r"[.\-]", domain)
+    for label in labels:
+        for kw in TRACKING_KEYWORDS:
+            if kw in label:
+                return kw
+    return None
 
 
 def fetch_raw(src):
@@ -229,6 +268,10 @@ def check_all():
     print(f"Loaded {len(existing)} existing domains "
           f"({len(existing_bases)} distinct core domains) from lists/categories/")
 
+    # status: "ok" | "first_run" | "error"
+    # payload for "ok": (known_base, keyword_matches, random, new_platform)
+    # known_base entries: (domain, [categories])
+    # keyword_matches entries: (domain, keyword)
     results = []
     drop_warnings = []
 
@@ -258,20 +301,25 @@ def check_all():
 
         newly_added = current - previous
         missing = sorted(d for d in newly_added if d not in existing)
-        known_base, new_base_normal, new_base_random = [], [], []
+
+        known_base, keyword_matches, random_looking, new_platform = [], [], [], []
         for d in missing:
             b = base_domain(d)
             if b in existing_bases:
                 cats = sorted(existing_base_to_categories[b])
                 known_base.append((d, cats))
+                continue
+            kw = matching_tracking_keyword(d)
+            if kw:
+                keyword_matches.append((d, kw))
             elif looks_algorithmically_generated(d):
-                new_base_random.append(d)
+                random_looking.append(d)
             else:
-                new_base_normal.append(d)
+                new_platform.append(d)
 
         save_snapshot(snap_path, current)
         results.append((src.get("group"), src["name"], "ok",
-                         (known_base, new_base_normal, new_base_random)))
+                         (known_base, keyword_matches, random_looking, new_platform)))
 
     REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -296,14 +344,15 @@ def check_all():
         lines.append("")
 
     lines += [
-        "Each candidate is split into three groups:",
+        "Each candidate falls into one of four groups, in priority order:",
+        "- Tracking keyword match: a label contains a known tracking-",
+        "  related keyword (track, metrics, ads, etc.) - substring",
+        "  matching, so occasional false positives happen.",
+        "- Possibly obfuscated: the domain name looks algorithmically",
+        "  generated (high character randomness, few vowels).",
+        "- New platform: neither of the above, core domain not covered.",
         "- Core domain already covered: the category file(s) it's",
         "  likely a missing subdomain for are listed alongside it.",
-        "- New platform: the core domain isn't present at all.",
-        "- Possibly obfuscated: the domain name looks algorithmically",
-        "  generated (high character randomness, few vowels) rather",
-        "  than a real word or brand - a heuristic signal only, not a",
-        "  classification.",
         "",
     ]
 
@@ -311,6 +360,13 @@ def check_all():
         block = ["| Domain |", "|---|"]
         for domain in domains:
             block.append(f"| {domain} |")
+        block.append("")
+        return block
+
+    def render_keyword_table(entries):
+        block = ["| Domain | Matched keyword |", "|---|---|"]
+        for domain, kw in entries:
+            block.append(f"| {domain} | {kw} |")
         block.append("")
         return block
 
@@ -331,19 +387,23 @@ def check_all():
             block.append(f"Could not check: {payload}")
             block.append("")
         else:
-            known_base, new_normal, new_random = payload
-            if not known_base and not new_normal and not new_random:
+            known_base, keyword_matches, random_looking, new_platform = payload
+            if not any((known_base, keyword_matches, random_looking, new_platform)):
                 block.append("No new candidate domains since the last run.")
                 block.append("")
             else:
-                if new_random:
+                if keyword_matches:
+                    block.append("**Tracking keyword match:**")
+                    block.append("")
+                    block += render_keyword_table(keyword_matches)
+                if random_looking:
                     block.append("**Possibly obfuscated:**")
                     block.append("")
-                    block += render_simple_table(new_random)
-                if new_normal:
+                    block += render_simple_table(random_looking)
+                if new_platform:
                     block.append("**New platform (core domain not in lists/categories/):**")
                     block.append("")
-                    block += render_simple_table(new_normal)
+                    block += render_simple_table(new_platform)
                 if known_base:
                     block.append("**Core domain already covered:**")
                     block.append("")
@@ -374,10 +434,11 @@ def check_all():
     REPORT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     total_known = sum(len(p[0]) for _, _, s, p in results if s == "ok")
-    total_new = sum(len(p[1]) for _, _, s, p in results if s == "ok")
+    total_kw = sum(len(p[1]) for _, _, s, p in results if s == "ok")
     total_random = sum(len(p[2]) for _, _, s, p in results if s == "ok")
-    print(f"\n{total_known} known-core candidate(s), {total_new} new-platform "
-          f"candidate(s), {total_random} possibly-obfuscated candidate(s).")
+    total_new = sum(len(p[3]) for _, _, s, p in results if s == "ok")
+    print(f"\n{total_kw} keyword-match, {total_random} possibly-obfuscated, "
+          f"{total_new} new-platform, {total_known} known-core candidate(s).")
     if drop_warnings:
         print(f"{len(drop_warnings)} source(s) flagged for a large domain-count drop.")
     print(f"See {REPORT_PATH.relative_to(ROOT)}")
