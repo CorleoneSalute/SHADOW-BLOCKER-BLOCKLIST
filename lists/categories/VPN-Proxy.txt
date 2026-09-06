@@ -100,6 +100,7 @@ adclarity.com
 clickstream-os.com
 
 # Hola VPN
+# ⚠️ Cricital: Hola's free VPN turned users' devices into exit nodes for a commercial proxy network it owned, called Luminati, sold at $20/GB to paying customers — without meaningfully disclosing this to free users. It came to light after 8chan's founder traced a DDoS attack on the site back to Hola exit nodes. Hola's founder acknowledged the arrangement was intentional.
 hola.org
 holavpn.com
 h-cdn.com
