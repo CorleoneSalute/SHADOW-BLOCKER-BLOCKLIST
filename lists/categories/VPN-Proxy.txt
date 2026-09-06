@@ -1,6 +1,6 @@
 # VPN & Proxy Blocklist
 
-# Total domains: 60
+# Total domains: 58
 # Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -91,8 +91,8 @@ telemetry.astrill.com
 # Affects: 6M+ users across Chrome/Edge extensions
 # Do not use - uninstall immediately if installed
 urban-vpn.com
-analytics.urban-vpn.com   # [analytics] — AI konuşma yakalama altyapısı
-stats.urban-vpn.com       # [analytics] — AI konuşma yakalama altyapısı
+analytics.urban-vpn.com   # AI Conversation Capture Infrastructure
+stats.urban-vpn.com       # AI Conversation Capture Infrastructure
 urbanshield.com
 sclpfybn.com
 geo-surf.com
