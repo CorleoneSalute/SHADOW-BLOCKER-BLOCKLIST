@@ -1,6 +1,6 @@
 # VPN & Proxy Blocklist
 
-# Total domains: 58
+# Total domains: 57
 # Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -10,7 +10,6 @@ stats.ivpn.net
 
 # PROTONVPN
 telemetry.protonvpn.com
-sentry.protonvpn.com
 
 # NORDVPN (Nord Security)
 analytics.nordvpn.com
