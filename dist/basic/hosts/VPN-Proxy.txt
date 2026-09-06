@@ -1,6 +1,6 @@
 # ============================================================
 # VPN PROXY BLOCKLIST - BASIC
-# Total domains: 57
+# Total domains: 62
 # Generated: 2026-09-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -25,6 +25,11 @@
 0.0.0.0 clientlogs.tunnelbear.com
 0.0.0.0 crashes.ivpn.net
 0.0.0.0 geo-surf.com
+0.0.0.0 h-cdn.com
+0.0.0.0 hola.org
+0.0.0.0 holavpn.com
+0.0.0.0 holavpn.net
+0.0.0.0 holax.io
 0.0.0.0 insights.nordvpn.com
 0.0.0.0 log.nordvpn.com
 0.0.0.0 metrics.cyberghostvpn.com

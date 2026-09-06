@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8961
+# Total domains: 8966
 # Generated: 2026-09-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3974,6 +3974,7 @@
 0.0.0.0 gw.mediation.unity3d.com
 0.0.0.0 gwallet.com
 0.0.0.0 gz-data.com
+0.0.0.0 h-cdn.com
 0.0.0.0 h.clarity.ms
 0.0.0.0 h.online-metrix.net
 0.0.0.0 h5api.shouji.sogou.com
@@ -4036,6 +4037,10 @@
 0.0.0.0 hlserve.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hmid.bfge.bigfishgames.com
+0.0.0.0 hola.org
+0.0.0.0 holavpn.com
+0.0.0.0 holavpn.net
+0.0.0.0 holax.io
 0.0.0.0 homoluath.com
 0.0.0.0 honeybadger.io
 0.0.0.0 honorsearch-dra.hiboard.hihonorcloud.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9387
+# Total domains: 9392
 # Generated: 2026-09-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4189,6 +4189,7 @@ gw.linkedin.oribi.io
 gw.mediation.unity3d.com
 gwallet.com
 gz-data.com
+h-cdn.com
 h.clarity.ms
 h.online-metrix.net
 h5api.shouji.sogou.com
@@ -4257,6 +4258,10 @@ hk.mibi.xiaomi.com
 hlserve.com
 hm.baidu.com
 hmid.bfge.bigfishgames.com
+hola.org
+holavpn.com
+holavpn.net
+holax.io
 homeprv.lgtvcommon.com
 homoluath.com
 honeybadger.io
