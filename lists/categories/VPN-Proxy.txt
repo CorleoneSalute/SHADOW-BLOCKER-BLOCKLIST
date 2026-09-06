@@ -1,6 +1,6 @@
 # VPN & Proxy Blocklist
 
-# Total domains: 57
+# Total domains: 62
 # Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -98,3 +98,10 @@ geo-surf.com
 biscience.com
 adclarity.com
 clickstream-os.com
+
+# Hola VPN
+hola.org
+holavpn.com
+h-cdn.com
+holax.io
+holavpn.net
