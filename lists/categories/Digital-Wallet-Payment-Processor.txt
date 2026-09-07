@@ -68,6 +68,7 @@ ads.phonepe.com
 
 # KAKAO PAY
 ads.kakaopay.com
+stat.tiara.kakaopay.com !
 
 # ADYEN
 ai-analytics.adyen.com
