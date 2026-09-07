@@ -1,7 +1,7 @@
 # Video Streaming Blocklist
 
-# Total domains: 368
-# Last update: 2026/08/03
+# Total domains: 369
+# Last update: 2026/09/07
 # Note: trailing "!" marks a domain as aggressive-only
 
 # VIDEO ANALYTIC PLATFORMS
@@ -328,6 +328,7 @@ live-metrics.peacocktv.com
 sports-analytics.peacocktv.com
 analytics.nbcuni.com
 metrics.nbc.com
+track.nbc.com
 
 # 9. APPLE TV+
 
