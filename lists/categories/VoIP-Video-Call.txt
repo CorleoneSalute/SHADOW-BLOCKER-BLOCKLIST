@@ -1,6 +1,6 @@
 # VoIP & VIDEO CALL BLOCKLIST
 
-# Total domains: 28
+# Total domains: 29
 # Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -25,6 +25,7 @@ analytics.webex.com
 metrics-a.wbx2.com
 metrics-r.wbx2.com
 metrics-k.wbx2.com
+metrics-d.wbx2.com
 client-logs-r.wbx2.com
 
 # RINGCENTRAL
