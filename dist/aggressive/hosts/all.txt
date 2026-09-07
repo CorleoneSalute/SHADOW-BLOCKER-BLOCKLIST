@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9407
+# Total domains: 9408
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9333,6 +9333,7 @@
 0.0.0.0 xy.fbcdn.net
 0.0.0.0 xz.fbcdn.net
 0.0.0.0 y.clarity.ms
+0.0.0.0 yads.tech
 0.0.0.0 yahoo-native.bidder.taboola.com
 0.0.0.0 yamicsoft.com
 0.0.0.0 yandexmetrica.com

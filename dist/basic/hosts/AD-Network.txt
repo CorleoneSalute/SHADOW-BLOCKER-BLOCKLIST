@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1796
+# Total domains: 1797
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1790,6 +1790,7 @@
 0.0.0.0 xapads.com
 0.0.0.0 xaprio.com
 0.0.0.0 xerxes.media
+0.0.0.0 yads.tech
 0.0.0.0 yahoo-native.bidder.taboola.com
 0.0.0.0 yellowblue.io
 0.0.0.0 yieldlab.de

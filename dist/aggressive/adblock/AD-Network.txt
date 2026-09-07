@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1804
+# Total domains: 1805
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1798,6 +1798,7 @@
 ||xapads.com^
 ||xaprio.com^
 ||xerxes.media^
+||yads.tech^
 ||yahoo-native.bidder.taboola.com^
 ||yellowblue.io^
 ||yieldlab.de^

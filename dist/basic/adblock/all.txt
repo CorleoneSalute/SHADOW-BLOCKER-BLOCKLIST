@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8980
+# Total domains: 8981
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8909,6 +8909,7 @@
 ||xy.fbcdn.net^
 ||xz.fbcdn.net^
 ||y.clarity.ms^
+||yads.tech^
 ||yahoo-native.bidder.taboola.com^
 ||yamicsoft.com^
 ||yandexmetrica.com^
