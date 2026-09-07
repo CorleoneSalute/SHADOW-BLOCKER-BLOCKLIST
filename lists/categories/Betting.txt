@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
-# Total domains: 239
-# Total platforms: 87
+# Total domains: 246
+# Total platforms: 88
 # Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -416,3 +416,10 @@ pixel.jackpotgo.com
 
 ads.7k.bet.br
 sgtm.7k.bet.br
+sgtm.cassino.bet.br
+trk.cassino.bet.br
+ads.bing.vera.bet.br
+ad.vera.bet.br
+sgtm.vera.bet.br
+ads.vera.bet.br
+trk.vera.bet.br
