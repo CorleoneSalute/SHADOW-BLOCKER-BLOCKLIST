@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
-# Total domains: 1804
-# Total platforms: 143
+# Total domains: 1805
+# Total platforms: 144
 # Last update: 2026-07-20
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2110,3 +2110,7 @@ trc-eu.admaster.cc
 trc-us.admaster.cc
 trc.admaster.cc
 www.admaster.cc
+
+# yads.tech
+
+yads.tech
