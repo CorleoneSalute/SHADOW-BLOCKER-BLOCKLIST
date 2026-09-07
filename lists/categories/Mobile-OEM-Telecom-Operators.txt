@@ -1,6 +1,6 @@
 # Mobile OEM & Telecom Operators Blocklist
 
-# Total domains: 1102
+# Total domains: 1104
 # Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -750,6 +750,8 @@ adx.ads.heytapmobile.com
 adx.ads.oppomobile.com
 analytics.oppo.com
 analytics.realme.com
+adx-id-ads.realmemobile.com
+data-id-ads.realmemobile.com
 bdapi-ads-sg.heytapmobile.com
 bdapi-id.ads.heytapmobi.com
 bdapi-id.ads.heytapmobile.com
