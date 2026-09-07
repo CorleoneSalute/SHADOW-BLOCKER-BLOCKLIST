@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
-# Total domains: 1805
-# Total platforms: 144
+# Total domains: 1810
+# Total platforms: 149
 # Last update: 2026-07-20
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2114,3 +2114,19 @@ www.admaster.cc
 # yads.tech
 
 yads.tech
+
+# adspro.name
+
+adspro.name
+
+# ad-machina
+
+ad-machina.com
+
+# ad.ink
+
+ad.ink
+
+# adlabz.co
+
+adlabz.co
