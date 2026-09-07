@@ -1,7 +1,7 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 236
-# Generated: 2026-09-06 (UTC) - auto-generated, do not edit by hand
+# Total domains: 238
+# Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -10,6 +10,7 @@
 1mgas-log.fhcasino.com
 ad.srv.giantlottos.com
 adjust.stats.zynga.com
+ads.7k.bet.br
 ads.betfair.com
 ads.betfair.com.au
 ads.mrgreen.com
@@ -175,6 +176,7 @@ rtb.stats.zynga.com
 rtrack.lonestarcasino.com
 scopely.io
 sentry.predict.fun
+sgtm.7k.bet.br
 smetrics.blackjack.com
 smetrics.casino.org
 smetrics.replaypoker.com

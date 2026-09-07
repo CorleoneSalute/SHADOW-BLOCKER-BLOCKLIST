@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9392
-# Generated: 2026-09-06 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9394
+# Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -406,6 +406,7 @@
 ||ads-us-west-2.delivery.roku.com^
 ||ads-useast2a.tiktok.com^
 ||ads-v-darwin.hulu.com^
+||ads.7k.bet.br^
 ||ads.acast.com^
 ||ads.accuweather.com^
 ||ads.acer.com^
@@ -7271,6 +7272,7 @@
 ||sgp-ortb-api.ad.intl.xiaomi.com^
 ||sgpapi.ad.intl.xiaomi.com^
 ||sgsnssdk.com^
+||sgtm.7k.bet.br^
 ||sgtm.adyen.com^
 ||sgtm.indrive.com^
 ||sgtm.skrill.com^

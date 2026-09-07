@@ -1,7 +1,7 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 228
-# Generated: 2026-09-06 (UTC) - auto-generated, do not edit by hand
+# Total domains: 230
+# Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -10,6 +10,7 @@
 0.0.0.0 1mgas-log.fhcasino.com
 0.0.0.0 ad.srv.giantlottos.com
 0.0.0.0 adjust.stats.zynga.com
+0.0.0.0 ads.7k.bet.br
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.betfair.com.au
 0.0.0.0 ads.mrgreen.com
@@ -167,6 +168,7 @@
 0.0.0.0 rtrack.lonestarcasino.com
 0.0.0.0 scopely.io
 0.0.0.0 sentry.predict.fun
+0.0.0.0 sgtm.7k.bet.br
 0.0.0.0 smetrics.blackjack.com
 0.0.0.0 smetrics.casino.org
 0.0.0.0 smetrics.replaypoker.com
