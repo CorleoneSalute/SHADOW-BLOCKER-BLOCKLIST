@@ -1,6 +1,6 @@
 # ============================================================
 # DIGITAL WALLET PAYMENT PROCESSOR BLOCKLIST - AGGRESSIVE
-# Total domains: 45
+# Total domains: 46
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -39,6 +39,7 @@
 0.0.0.0 sentry.squareup.com
 0.0.0.0 sgtm.adyen.com
 0.0.0.0 sgtm.skrill.com
+0.0.0.0 stat.tiara.kakaopay.com
 0.0.0.0 stats.paypal.com
 0.0.0.0 track-marketing.coins.ph
 0.0.0.0 track.paytm.com
