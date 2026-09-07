@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
-# Total domains: 237
-# Total platforms: 85
+# Total domains: 239
+# Total platforms: 87
 # Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -411,3 +411,8 @@ fwtrack.freespin.com
 
 # JackpotGo
 pixel.jackpotgo.com
+
+# Bell Ventures Digital
+
+ads.7k.bet.br
+sgtm.7k.bet.br
