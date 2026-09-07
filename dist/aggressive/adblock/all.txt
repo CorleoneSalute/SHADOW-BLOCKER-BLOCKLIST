@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9394
+# Total domains: 9401
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -246,6 +246,7 @@
 ||ad.thefacebook.com^
 ||ad.tiktokv.com^
 ||ad.tiktokv.us^
+||ad.vera.bet.br^
 ||ad.vrvm.com^
 ||ad.weibo.com^
 ||ad.xiaomi.com^
@@ -432,6 +433,7 @@
 ||ads.betfair.com^
 ||ads.betfair.com.au^
 ||ads.bidstack.com^
+||ads.bing.vera.bet.br^
 ||ads.bitmovin.com^
 ||ads.bizo.com^
 ||ads.brave.com^
@@ -557,6 +559,7 @@
 ||ads.us.criteo.com^
 ||ads.us.e-planning.net^
 ||ads.us.tiktok.com^
+||ads.vera.bet.br^
 ||ads.vertamedia.com^
 ||ads.verve.com^
 ||ads.viber.com^
@@ -7274,11 +7277,13 @@
 ||sgsnssdk.com^
 ||sgtm.7k.bet.br^
 ||sgtm.adyen.com^
+||sgtm.cassino.bet.br^
 ||sgtm.indrive.com^
 ||sgtm.skrill.com^
 ||sgtm.storytel.com^
 ||sgtm.talkspace.com^
 ||sgtm.topazlabs.com^
+||sgtm.vera.bet.br^
 ||sgw-analytics.panasonic.com^
 ||sh.adingo.jp^
 ||share.ntv.io^
@@ -8652,6 +8657,7 @@
 ||triplelift.net^
 ||trk-v4.pinterest.com^
 ||trk.agreements.hertz.com^
+||trk.cassino.bet.br^
 ||trk.datify.link^
 ||trk.dowjones.com^
 ||trk.e.nothing.tech^
@@ -8669,6 +8675,7 @@
 ||trk.pinterest.com^
 ||trk.ppcprotect.com^
 ||trk.pvolve.com^
+||trk.vera.bet.br^
 ||trk.vivino.com^
 ||trk.www.orange.com^
 ||trk1.vivino.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 238
+# Total domains: 245
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9,15 +9,18 @@
 ||1fhc-event2.fhcasino.com^
 ||1mgas-log.fhcasino.com^
 ||ad.srv.giantlottos.com^
+||ad.vera.bet.br^
 ||adjust.stats.zynga.com^
 ||ads.7k.bet.br^
 ||ads.betfair.com^
 ||ads.betfair.com.au^
+||ads.bing.vera.bet.br^
 ||ads.mrgreen.com^
 ||ads.oddschecker.com^
 ||ads.pokerist.com^
 ||ads.sisal.it^
 ||ads.suprnation.com^
+||ads.vera.bet.br^
 ||ads.zynga.com^
 ||adserving-tmp.unibet.com^
 ||adserving.unibet.com^
@@ -177,6 +180,8 @@
 ||scopely.io^
 ||sentry.predict.fun^
 ||sgtm.7k.bet.br^
+||sgtm.cassino.bet.br^
+||sgtm.vera.bet.br^
 ||smetrics.blackjack.com^
 ||smetrics.casino.org^
 ||smetrics.replaypoker.com^
@@ -224,8 +229,10 @@
 ||tracking.youdagames.com^
 ||trackju.lonestarcasino.com^
 ||trackju.realprize.com^
+||trk.cassino.bet.br^
 ||trk.jackpota.com^
 ||trk.pinnacle.com^
+||trk.vera.bet.br^
 ||ua.ggpoker.com^
 ||ua.intelligence.bigfishgames.com^
 ||ua1.ggpoker.com^

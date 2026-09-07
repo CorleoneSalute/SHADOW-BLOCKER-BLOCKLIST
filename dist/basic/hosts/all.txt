@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8968
+# Total domains: 8975
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -231,6 +231,7 @@
 0.0.0.0 ad.thefacebook.com
 0.0.0.0 ad.tiktokv.com
 0.0.0.0 ad.tiktokv.us
+0.0.0.0 ad.vera.bet.br
 0.0.0.0 ad.vrvm.com
 0.0.0.0 ad.weibo.com
 0.0.0.0 ad.xiaomi.com
@@ -411,6 +412,7 @@
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.betfair.com.au
 0.0.0.0 ads.bidstack.com
+0.0.0.0 ads.bing.vera.bet.br
 0.0.0.0 ads.bitmovin.com
 0.0.0.0 ads.bizo.com
 0.0.0.0 ads.brave.com
@@ -530,6 +532,7 @@
 0.0.0.0 ads.us.criteo.com
 0.0.0.0 ads.us.e-planning.net
 0.0.0.0 ads.us.tiktok.com
+0.0.0.0 ads.vera.bet.br
 0.0.0.0 ads.vertamedia.com
 0.0.0.0 ads.verve.com
 0.0.0.0 ads.viber.com
@@ -6921,11 +6924,13 @@
 0.0.0.0 sgsnssdk.com
 0.0.0.0 sgtm.7k.bet.br
 0.0.0.0 sgtm.adyen.com
+0.0.0.0 sgtm.cassino.bet.br
 0.0.0.0 sgtm.indrive.com
 0.0.0.0 sgtm.skrill.com
 0.0.0.0 sgtm.storytel.com
 0.0.0.0 sgtm.talkspace.com
 0.0.0.0 sgtm.topazlabs.com
+0.0.0.0 sgtm.vera.bet.br
 0.0.0.0 sgw-analytics.panasonic.com
 0.0.0.0 sh.adingo.jp
 0.0.0.0 share.ntv.io
@@ -8267,6 +8272,7 @@
 0.0.0.0 triplelift.net
 0.0.0.0 trk-v4.pinterest.com
 0.0.0.0 trk.agreements.hertz.com
+0.0.0.0 trk.cassino.bet.br
 0.0.0.0 trk.datify.link
 0.0.0.0 trk.dowjones.com
 0.0.0.0 trk.e.nothing.tech
@@ -8284,6 +8290,7 @@
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.ppcprotect.com
 0.0.0.0 trk.pvolve.com
+0.0.0.0 trk.vera.bet.br
 0.0.0.0 trk.vivino.com
 0.0.0.0 trk.www.orange.com
 0.0.0.0 trk1.vivino.com

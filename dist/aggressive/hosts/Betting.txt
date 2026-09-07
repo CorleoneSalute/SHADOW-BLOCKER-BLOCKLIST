@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 238
+# Total domains: 245
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9,15 +9,18 @@
 0.0.0.0 1fhc-event2.fhcasino.com
 0.0.0.0 1mgas-log.fhcasino.com
 0.0.0.0 ad.srv.giantlottos.com
+0.0.0.0 ad.vera.bet.br
 0.0.0.0 adjust.stats.zynga.com
 0.0.0.0 ads.7k.bet.br
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.betfair.com.au
+0.0.0.0 ads.bing.vera.bet.br
 0.0.0.0 ads.mrgreen.com
 0.0.0.0 ads.oddschecker.com
 0.0.0.0 ads.pokerist.com
 0.0.0.0 ads.sisal.it
 0.0.0.0 ads.suprnation.com
+0.0.0.0 ads.vera.bet.br
 0.0.0.0 ads.zynga.com
 0.0.0.0 adserving-tmp.unibet.com
 0.0.0.0 adserving.unibet.com
@@ -177,6 +180,8 @@
 0.0.0.0 scopely.io
 0.0.0.0 sentry.predict.fun
 0.0.0.0 sgtm.7k.bet.br
+0.0.0.0 sgtm.cassino.bet.br
+0.0.0.0 sgtm.vera.bet.br
 0.0.0.0 smetrics.blackjack.com
 0.0.0.0 smetrics.casino.org
 0.0.0.0 smetrics.replaypoker.com
@@ -224,8 +229,10 @@
 0.0.0.0 tracking.youdagames.com
 0.0.0.0 trackju.lonestarcasino.com
 0.0.0.0 trackju.realprize.com
+0.0.0.0 trk.cassino.bet.br
 0.0.0.0 trk.jackpota.com
 0.0.0.0 trk.pinnacle.com
+0.0.0.0 trk.vera.bet.br
 0.0.0.0 ua.ggpoker.com
 0.0.0.0 ua.intelligence.bigfishgames.com
 0.0.0.0 ua1.ggpoker.com
