@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8975
+# Total domains: 8976
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7895,6 +7895,7 @@
 ||track.adspirit.de^
 ||track.adtelligent.com^
 ||track.adup-tech.com^
+||track.afun.bet.br^
 ||track.aitype.com^
 ||track.akamai.com^
 ||track.aniview.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 245
+# Total domains: 246
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -207,6 +207,7 @@ stats.zynga.com
 ststfstats.megawinslots.com
 tl-log.thelotter.us
 tmp-pixel.888.com
+track.afun.bet.br
 track.bagelcode.com
 track.betsson.bet.ar
 track.casino.org
