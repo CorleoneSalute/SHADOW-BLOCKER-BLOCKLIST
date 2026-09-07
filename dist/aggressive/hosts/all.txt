@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9412
+# Total domains: 9413
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5272,6 +5272,7 @@
 0.0.0.0 metrics-config-ic3.icloud.com
 0.0.0.0 metrics-config-ic4.icloud.com
 0.0.0.0 metrics-config.icloud.com
+0.0.0.0 metrics-d.wbx2.com
 0.0.0.0 metrics-dra.dt.dbankcloud.cn
 0.0.0.0 metrics-dra.dt.dbankcloud.com
 0.0.0.0 metrics-dra.dt.hicloud.com
