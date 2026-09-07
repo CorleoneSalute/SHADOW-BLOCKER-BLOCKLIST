@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1805
+# Total domains: 1809
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -39,6 +39,7 @@
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 acuityads.com
 0.0.0.0 acuityplatform.com
+0.0.0.0 ad-machina.com
 0.0.0.0 ad-srv.co
 0.0.0.0 ad-srv.net
 0.0.0.0 ad-tag.inner-active.mobi
@@ -50,6 +51,7 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.equativ.com
 0.0.0.0 ad.geniee.co.jp
+0.0.0.0 ad.ink
 0.0.0.0 ad.inner-active.com
 0.0.0.0 ad.plus
 0.0.0.0 ad.smaato.net
@@ -69,6 +71,7 @@
 0.0.0.0 adinmo.com
 0.0.0.0 adition.com
 0.0.0.0 adjust.applovin.com
+0.0.0.0 adlabz.co
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 admaster.cc
 0.0.0.0 admaven.com
@@ -144,6 +147,7 @@
 0.0.0.0 adspace.adskeeper.com
 0.0.0.0 adspirit.de
 0.0.0.0 adspirit.net
+0.0.0.0 adspro.name
 0.0.0.0 adsrvr.exponential.com
 0.0.0.0 adsrvr.org
 0.0.0.0 adsterra.com

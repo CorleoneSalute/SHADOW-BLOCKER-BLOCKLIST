@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8981
+# Total domains: 8985
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -167,6 +167,7 @@ ad-instantpage-ttp2.tiktokv.eu
 ad-instantpage-ttp2.tiktokv.us
 ad-instantpage-va.tiktokv.com
 ad-instantpage.tiktokv.us
+ad-machina.com
 ad-maven.com
 ad-metrics.espn.com
 ad-risk.prt.kuaishou.com
@@ -201,6 +202,7 @@ ad.geniee.co.jp
 ad.holalauncher.com
 ad.india.miui.com
 ad.india.xiaomi.com
+ad.ink
 ad.inner-active.com
 ad.intl.xiaomi.com
 ad.intl.xiaomi.com.edgesuite.net
@@ -291,6 +293,7 @@ adjust.stats.zynga.com
 adjustevents.purevpn.com
 adjustyourtracking.vhx.tv
 adkernel.crakrevenue.com
+adlabz.co
 adlog.vivo.com
 adlog.vivo.com.cn
 adm.fwmrm.net
@@ -614,6 +617,7 @@ adspa.acer.com
 adspace.adskeeper.com
 adspirit.de
 adspirit.net
+adspro.name
 adsquare.com
 adsrv.reddit.com
 adsrvr.exponential.com

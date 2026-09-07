@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9408
+# Total domains: 9412
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -180,6 +180,7 @@
 ||ad-instantpage-ttp2.tiktokv.us^
 ||ad-instantpage-va.tiktokv.com^
 ||ad-instantpage.tiktokv.us^
+||ad-machina.com^
 ||ad-maven.com^
 ||ad-metrics.espn.com^
 ||ad-risk.prt.kuaishou.com^
@@ -216,6 +217,7 @@
 ||ad.holalauncher.com^
 ||ad.india.miui.com^
 ||ad.india.xiaomi.com^
+||ad.ink^
 ||ad.inner-active.com^
 ||ad.intl.xiaomi.com^
 ||ad.intl.xiaomi.com.edgesuite.net^
@@ -308,6 +310,7 @@
 ||adjustevents.purevpn.com^
 ||adjustyourtracking.vhx.tv^
 ||adkernel.crakrevenue.com^
+||adlabz.co^
 ||adlock.org^
 ||adlog.vivo.com^
 ||adlog.vivo.com.cn^
@@ -644,6 +647,7 @@
 ||adspace.adskeeper.com^
 ||adspirit.de^
 ||adspirit.net^
+||adspro.name^
 ||adsquare.com^
 ||adsrv.acast.com^
 ||adsrv.reddit.com^
