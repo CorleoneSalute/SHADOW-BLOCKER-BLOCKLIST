@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9402
+# Total domains: 9403
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8572,6 +8572,7 @@
 0.0.0.0 tracking.screenpal.com
 0.0.0.0 tracking.seatgeek.com
 0.0.0.0 tracking.services.mozilla.com
+0.0.0.0 tracking.setanta.bet
 0.0.0.0 tracking.shareasale.com
 0.0.0.0 tracking.shorte.st
 0.0.0.0 tracking.simplycodes.com

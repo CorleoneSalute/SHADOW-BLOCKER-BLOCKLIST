@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8976
+# Total domains: 8977
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8188,6 +8188,7 @@
 ||tracking.screenpal.com^
 ||tracking.seatgeek.com^
 ||tracking.services.mozilla.com^
+||tracking.setanta.bet^
 ||tracking.shareasale.com^
 ||tracking.shorte.st^
 ||tracking.simplycodes.com^
