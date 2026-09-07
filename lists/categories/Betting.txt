@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
-# Total domains: 246
-# Total platforms: 88
+# Total domains: 247
+# Total platforms: 89
 # Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -423,3 +423,7 @@ ad.vera.bet.br
 sgtm.vera.bet.br
 ads.vera.bet.br
 trk.vera.bet.br
+
+# Brilliant Gaming LTDA
+
+track.afun.bet.br
