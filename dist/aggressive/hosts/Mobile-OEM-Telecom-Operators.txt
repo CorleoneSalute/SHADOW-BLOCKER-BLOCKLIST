@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1101
+# Total domains: 1103
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -86,6 +86,7 @@
 0.0.0.0 adx-drru.op.hicloud.com
 0.0.0.0 adx-f.ads.heytapmobi.com
 0.0.0.0 adx-f.ads.heytapmobile.com
+0.0.0.0 adx-id-ads.realmemobile.com
 0.0.0.0 adx-id.ads.heytapmobi.com
 0.0.0.0 adx-id.ads.heytapmobile.com
 0.0.0.0 adx-id.ads.oppomobile.com
@@ -286,6 +287,7 @@
 0.0.0.0 dapi.hmdglobal.net
 0.0.0.0 data-ads.realmemobile.com
 0.0.0.0 data-f.ads.oppomobile.com
+0.0.0.0 data-id-ads.realmemobile.com
 0.0.0.0 data-id.ads.oppomobile.com
 0.0.0.0 data-in-ads.realmemobile.com
 0.0.0.0 data-in.ads.oppomobile.com

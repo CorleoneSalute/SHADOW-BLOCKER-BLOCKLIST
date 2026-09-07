@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1052
+# Total domains: 1054
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -80,6 +80,7 @@ adx-drru.op.dbankcloud.com
 adx-drru.op.hicloud.com
 adx-f.ads.heytapmobi.com
 adx-f.ads.heytapmobile.com
+adx-id-ads.realmemobile.com
 adx-id.ads.heytapmobi.com
 adx-id.ads.heytapmobile.com
 adx-id.ads.oppomobile.com
@@ -273,6 +274,7 @@ cupid.ad.xiaomi.com
 cupid.ptqy.gitv.tv
 data-ads.realmemobile.com
 data-f.ads.oppomobile.com
+data-id-ads.realmemobile.com
 data-id.ads.oppomobile.com
 data-in-ads.realmemobile.com
 data-in.ads.oppomobile.com

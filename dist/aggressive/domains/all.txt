@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9403
+# Total domains: 9405
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -721,6 +721,7 @@ adx-drru.op.dbankcloud.com
 adx-drru.op.hicloud.com
 adx-f.ads.heytapmobi.com
 adx-f.ads.heytapmobile.com
+adx-id-ads.realmemobile.com
 adx-id.ads.heytapmobi.com
 adx-id.ads.heytapmobile.com
 adx-id.ads.oppomobile.com
@@ -3133,6 +3134,7 @@ data-collection.brightcove.com
 data-event-proxy.viber.com
 data-events.cdn.viber.com
 data-f.ads.oppomobile.com
+data-id-ads.realmemobile.com
 data-id.ads.oppomobile.com
 data-in-ads.realmemobile.com
 data-in.ads.oppomobile.com

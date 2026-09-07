@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8977
+# Total domains: 8979
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -688,6 +688,7 @@
 0.0.0.0 adx-drru.op.hicloud.com
 0.0.0.0 adx-f.ads.heytapmobi.com
 0.0.0.0 adx-f.ads.heytapmobile.com
+0.0.0.0 adx-id-ads.realmemobile.com
 0.0.0.0 adx-id.ads.heytapmobi.com
 0.0.0.0 adx-id.ads.heytapmobile.com
 0.0.0.0 adx-id.ads.oppomobile.com
@@ -3027,6 +3028,7 @@
 0.0.0.0 data-event-proxy.viber.com
 0.0.0.0 data-events.cdn.viber.com
 0.0.0.0 data-f.ads.oppomobile.com
+0.0.0.0 data-id-ads.realmemobile.com
 0.0.0.0 data-id.ads.oppomobile.com
 0.0.0.0 data-in-ads.realmemobile.com
 0.0.0.0 data-in.ads.oppomobile.com
