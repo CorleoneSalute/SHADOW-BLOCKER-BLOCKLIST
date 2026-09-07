@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8979
+# Total domains: 8980
 # Generated: 2026-09-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7970,6 +7970,7 @@
 0.0.0.0 track.myflotracker.com
 0.0.0.0 track.nativo.com
 0.0.0.0 track.naturalcycles.com
+0.0.0.0 track.nbc.com
 0.0.0.0 track.optimizely.com
 0.0.0.0 track.optimove.net
 0.0.0.0 track.outbrain.com
