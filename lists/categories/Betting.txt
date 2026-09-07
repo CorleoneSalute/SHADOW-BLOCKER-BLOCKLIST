@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
-# Total domains: 247
-# Total platforms: 89
+# Total domains: 248
+# Total platforms: 90
 # Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -427,3 +427,7 @@ trk.vera.bet.br
 # Brilliant Gaming LTDA
 
 track.afun.bet.br
+
+# Setanta Zone LLC 
+
+tracking.setanta.bet
