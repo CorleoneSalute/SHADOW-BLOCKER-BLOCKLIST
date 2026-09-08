@@ -94,7 +94,7 @@ SOURCES = [
     {"name": "1Hosts Lite", "owner": "badmojr", "repo": "1Hosts",
      "path": "Lite/domains.txt", "format": "plain"},
     {"name": "no-google",
-     "raw_url": "https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt",
+     "raw_url": "https://raw.githubusercontent.com/nickspaargaren/no-google/refs/heads/master/pihole-google.txt",
      "format": "hosts"},
     {"name": "HaGeZi Multi Ultimate",
      "raw_url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
