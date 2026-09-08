@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9415
+# Total domains: 9416
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -183,6 +183,7 @@
 ||ad-machina.com^
 ||ad-maven.com^
 ||ad-metrics.espn.com^
+||ad-on.fr^
 ||ad-risk.prt.kuaishou.com^
 ||ad-sdk.lenovomm.com^
 ||ad-sdk.samsungapps.com^

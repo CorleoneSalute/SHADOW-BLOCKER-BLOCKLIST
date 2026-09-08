@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8987
+# Total domains: 8988
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -170,6 +170,7 @@ ad-instantpage.tiktokv.us
 ad-machina.com
 ad-maven.com
 ad-metrics.espn.com
+ad-on.fr
 ad-risk.prt.kuaishou.com
 ad-sdk.lenovomm.com
 ad-sdk.samsungapps.com

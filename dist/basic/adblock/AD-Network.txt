@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1801
+# Total domains: 1802
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -40,6 +40,7 @@
 ||acuityads.com^
 ||acuityplatform.com^
 ||ad-machina.com^
+||ad-on.fr^
 ||ad-srv.co^
 ||ad-srv.net^
 ||ad-tag.inner-active.mobi^
