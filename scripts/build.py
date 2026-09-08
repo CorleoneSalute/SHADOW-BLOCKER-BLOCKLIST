@@ -5,9 +5,16 @@ Reads canonical category master files from lists/categories/*.txt
 and generates ready-to-use blocklists under dist/.
 
 Also detects cross-category duplicates: a domain that appears in more
-than one category file's basic tier. This isn't always a mistake
-(shared infrastructure between platforms happens), but it's worth a
-quick look - writes a report to reports/duplicate-domains.md.
+than one category file's basic tier. Not always a mistake (shared
+infrastructure between platforms happens), but worth a quick look -
+writes a report to reports/duplicate-domains.md.
+
+Also keeps each master file's own header in sync: if a category's
+"# Total domains: N" line no longer matches its actual domain count,
+both that line and "# Last update: ..." are rewritten. Untouched
+categories are left alone - only files whose count actually changed
+get their date bumped, even though build.py processes every category
+on every run.
 """
 
 import re
@@ -90,6 +97,31 @@ def write_variant(out_dir: Path, category: str, title: str, domains):
         )
 
 
+def update_master_header(path: Path, total_count: int) -> bool:
+    """Rewrites 'Total domains' and 'Last update' in a master file's
+    own header to match its current content - but only if the count
+    actually changed, so untouched categories don't get their date
+    bumped just because build.py ran on every category this time."""
+    text = path.read_text(encoding="utf-8")
+
+    total_pattern = re.compile(r"(?im)^(#\s*Total domains:\s*)(\d+)\s*$")
+    update_pattern = re.compile(r"(?im)^(#\s*Last update:\s*).+$")
+
+    match = total_pattern.search(text)
+    if not match:
+        return False  # doesn't use this header convention, leave alone
+
+    existing_count = int(match.group(2))
+    if existing_count == total_count:
+        return False
+
+    now_str = datetime.now(timezone.utc).strftime("%Y/%m/%d")
+    new_text = total_pattern.sub(lambda m: f"{m.group(1)}{total_count}", text)
+    new_text = update_pattern.sub(lambda m: f"{m.group(1)}{now_str}", new_text)
+    path.write_text(new_text, encoding="utf-8")
+    return True
+
+
 def write_duplicate_report(domain_categories: dict):
     duplicates = {
         d: sorted(cats) for d, cats in domain_categories.items() if len(cats) > 1
@@ -136,6 +168,7 @@ def build():
     stats = []
     had_invalid = False
     domain_categories = {}  # domain -> set of category names it appears in
+    headers_updated = []
 
     for master_path in master_files:
         category = master_path.stem
@@ -155,6 +188,10 @@ def build():
         for domain in basic:
             domain_categories.setdefault(domain, set()).add(category)
 
+        total_in_file = len(basic) + len(agg_only)
+        if update_master_header(master_path, total_in_file):
+            headers_updated.append(category)
+
         pretty_name = category.replace("-", " ").upper()
         write_variant(DIST_DIR / "basic", category, f"{pretty_name} BLOCKLIST - BASIC", basic)
         write_variant(DIST_DIR / "aggressive", category, f"{pretty_name} BLOCKLIST - AGGRESSIVE", aggressive)
@@ -172,6 +209,10 @@ def build():
     for category, b, a in stats:
         print(f"{category:<{col}}{b:>10}{a:>12}")
     print(f"{'TOTAL (unique)':<{col}}{len(all_basic):>10}{len(all_aggressive):>12}")
+
+    if headers_updated:
+        print(f"\nUpdated 'Total domains'/'Last update' header in "
+              f"{len(headers_updated)} master file(s): {', '.join(headers_updated)}")
 
     if duplicates:
         print(f"\n[WARN] {len(duplicates)} domain(s) appear in more than one "
