@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9416
+# Total domains: 9418
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -888,6 +888,7 @@
 0.0.0.0 analytics-ingress-us.bitmovin.com
 0.0.0.0 analytics-ipv6.tiktokw.us
 0.0.0.0 analytics-iq.com
+0.0.0.0 analytics-labs.adobe.com
 0.0.0.0 analytics-lingo4g.dimensions.ai
 0.0.0.0 analytics-login.avg.com
 0.0.0.0 analytics-login.norton.com
@@ -1228,6 +1229,7 @@
 0.0.0.0 analytics.logitech.com
 0.0.0.0 analytics.logly.co.jp
 0.0.0.0 analytics.logmein.com
+0.0.0.0 analytics.lon.appsvc.an.adobe.com
 0.0.0.0 analytics.looksrare.org
 0.0.0.0 analytics.loopcloud.com
 0.0.0.0 analytics.lotto247.com

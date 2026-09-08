@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8988
+# Total domains: 8990
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -848,6 +848,7 @@
 ||analytics-ingress-us.bitmovin.com^
 ||analytics-ipv6.tiktokw.us^
 ||analytics-iq.com^
+||analytics-labs.adobe.com^
 ||analytics-lingo4g.dimensions.ai^
 ||analytics-login.avg.com^
 ||analytics-login.norton.com^
@@ -1188,6 +1189,7 @@
 ||analytics.logitech.com^
 ||analytics.logly.co.jp^
 ||analytics.logmein.com^
+||analytics.lon.appsvc.an.adobe.com^
 ||analytics.looksrare.org^
 ||analytics.loopcloud.com^
 ||analytics.lotto247.com^

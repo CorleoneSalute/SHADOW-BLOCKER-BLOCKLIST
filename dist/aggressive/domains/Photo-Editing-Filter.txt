@@ -1,6 +1,6 @@
 # ============================================================
 # PHOTO EDITING FILTER BLOCKLIST - AGGRESSIVE
-# Total domains: 73
+# Total domains: 75
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -16,9 +16,11 @@ adobemobiledev.demdex.net
 adobestats.io
 adobetag.com
 ads.meitu.com
+analytics-labs.adobe.com
 analytics.beautyplus.com
 analytics.faceapp.io
 analytics.lightricks.com
+analytics.lon.appsvc.an.adobe.com
 analytics.meitu.com
 analytics.perfectcorp.com
 analytics.picsart.com
