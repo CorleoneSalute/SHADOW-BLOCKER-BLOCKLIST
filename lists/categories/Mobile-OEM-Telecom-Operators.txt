@@ -99,6 +99,7 @@ tracking.smartbusiness.samsung.com
 
 ```
 ad-sdk.samsungapps.com
+ads.samsungapps.com
 ad-server.samsungads.com
 ad.samsungadhub.com
 ads.samsung.com
@@ -257,6 +258,7 @@ api-samsung.swypeconnect.com
 lbs-samsung.swypeconnect.com
 samsungr.com # typosquatting
 swypeconnect.com
+ureca.samsungapps.com !
 ```
 
 ## XIAOMI (208 domain)
