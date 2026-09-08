@@ -1,6 +1,6 @@
 # ============================================================
 # DEEP LINKING BLOCKLIST - BASIC
-# Total domains: 24
+# Total domains: 25
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -16,6 +16,7 @@ conversion.appsflyer.com
 conversions.appsflyer.com
 event.appsflyer.com
 evgen.appsflyer.com
+experience.appsflyer.com
 impression.appsflyer.com
 impressions.appsflyer.com
 inapps.appsflyer.com

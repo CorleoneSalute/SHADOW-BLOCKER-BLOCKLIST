@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9420
+# Total domains: 9421
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3751,6 +3751,7 @@
 ||exelate.com^
 ||exelate.info^
 ||experianmarketingservices.com^
+||experience.appsflyer.com^
 ||experience.conviva.com^
 ||experience.piano.io^
 ||experiment-api.vsco.co^

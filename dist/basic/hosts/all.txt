@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8991
+# Total domains: 8992
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3601,6 +3601,7 @@
 0.0.0.0 exdsps-inventory.hivestack.com
 0.0.0.0 exelate.com
 0.0.0.0 exelate.info
+0.0.0.0 experience.appsflyer.com
 0.0.0.0 experience.conviva.com
 0.0.0.0 experience.piano.io
 0.0.0.0 experiments.adikteev.com
