@@ -142,11 +142,44 @@ def load_existing_domains():
     return existing, existing_categories
 
 
+# Multi-part public suffixes where the "core domain" needs 3 labels
+# instead of 2 (e.g. example.co.uk, not just co.uk). Not a complete
+# Public Suffix List - covers the common ccTLD patterns likely to show
+# up in this project's sources. Add more as false matches surface.
+MULTI_PART_SUFFIXES = {
+    "co.uk", "org.uk", "ac.uk", "gov.uk", "net.uk",
+    "com.au", "net.au", "org.au", "edu.au", "gov.au",
+    "com.br", "net.br", "org.br",
+    "co.jp", "ne.jp", "or.jp", "ac.jp",
+    "co.kr", "or.kr", "ne.kr",
+    "co.id", "or.id",
+    "co.in", "net.in", "org.in", "gen.in",
+    "co.il", "org.il", "ac.il",
+    "com.tr", "gov.tr", "org.tr", "edu.tr",
+    "com.mx", "com.ar", "com.co", "com.pe", "com.ec", "com.ve",
+    "co.nz", "org.nz", "net.nz",
+    "co.za", "org.za", "net.za",
+    "com.sg", "com.hk", "com.tw", "com.cn", "net.cn", "org.cn",
+    "co.th", "in.th", "or.th",
+    "com.pk", "co.ke", "co.ug", "co.tz", "com.ng",
+    "com.pl", "com.ua",
+}
+
+
 def base_domain(domain: str) -> str:
+    """Best-effort core domain. Uses 3 labels for known multi-part
+    public suffixes (example.co.uk), otherwise the last 2 labels
+    (example.com). Not a full Public Suffix List implementation, but
+    covers the common ccTLD patterns that would otherwise cause
+    unrelated domains to falsely match on a shared TLD fragment
+    (e.g. "co.uk" itself being treated as a core domain)."""
     parts = domain.split(".")
     if len(parts) < 2:
         return domain
-    return ".".join(parts[-2:])
+    last_two = ".".join(parts[-2:])
+    if last_two in MULTI_PART_SUFFIXES and len(parts) >= 3:
+        return ".".join(parts[-3:])
+    return last_two
 
 
 def shannon_entropy(s: str) -> float:
