@@ -65,13 +65,13 @@ VOWEL_RATIO_THRESHOLD = 0.25
 # many unrelated words). Adjust freely - false positives happen (e.g.
 # "roads.com" contains "ads"), this is a triage signal, not a filter.
 TRACKING_KEYWORDS = [
-    "track", "tracker", "tracking",
+    "track", "tracker", "tracking","trk",
     "metric", "metrics",
     "telemetry",
     "analytic", "analytics",
-    "pixel", "beacon",
+    "pixel", "beacon","px", "pxl",
     "collect", "collector",
-    "ads", "adserver", "adtech", "advert", "advertising",
+    "ad", "ads", "adserver", "adtech", "advert", "advertising",
 ]
 
 # Each source is either:
