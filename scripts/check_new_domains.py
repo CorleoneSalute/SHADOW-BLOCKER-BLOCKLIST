@@ -7,19 +7,19 @@ silently truncates for large diffs.
 
 For each candidate domain not already in lists/categories/, checks
 (in priority order):
-  1. Tracking keyword match - a label in the domain contains a known
-     tracking-related keyword (track, metrics, ads, etc.). Substring
-     matching within labels, so it can produce occasional false
-     positives (e.g. "roads.com" contains "ads") - a signal to check
-     first, not a classification.
-  2. Possibly obfuscated - the domain's core label looks
-     algorithmically generated (high character entropy, low vowel
-     ratio). Heuristic only.
+  1. Tracking keyword match - a label contains a known tracking
+     keyword. Substring matching, occasional false positives happen.
+  2. Possibly obfuscated - core label looks algorithmically generated
+     (high entropy, low vowel ratio). Heuristic only.
   3. New platform - neither of the above; core domain not covered.
 
 Domains whose core domain IS already covered somewhere in
-lists/categories/ are shown separately, with the category file(s)
-they likely belong to.
+lists/categories/ are shown separately, with the category file(s) and
+approximate line number(s) where a domain sharing that core domain
+currently appears - useful for finding the right spot in a large
+category file. Line numbers reflect the file as of this run; they
+shift as the file is edited, so treat them as approximate if the
+report is more than a few days old.
 
 Also compares each source's total domain count to its previous run
 and flags a >50% drop as a likely source format/location change.
@@ -59,20 +59,38 @@ MIN_LABEL_LENGTH_FOR_CHECK = 6
 ENTROPY_THRESHOLD = 3.2
 VOWEL_RATIO_THRESHOLD = 0.25
 
-# Substring-within-label matching, not exact match, so compound names
-# like "adserver" or "trackingapi" are still caught. Deliberately
-# excludes very short/ambiguous keywords like bare "ad" (matches too
-# many unrelated words). Adjust freely - false positives happen (e.g.
-# "roads.com" contains "ads"), this is a triage signal, not a filter.
 TRACKING_KEYWORDS = [
-    "track", "tracker", "tracking","trk",
+    "track", "tracker", "tracking",
     "metric", "metrics",
     "telemetry",
     "analytic", "analytics",
-    "pixel", "beacon","px", "pxl",
+    "pixel", "beacon",
     "collect", "collector",
-    "ad", "ads", "adserver", "adtech", "advert", "advertising",
+    "ads", "adserver", "adtech", "advert", "advertising",
 ]
+
+# Multi-part public suffixes where the "core domain" needs 3 labels
+# instead of 2 (e.g. example.co.uk, not just co.uk). Not a complete
+# Public Suffix List - covers common ccTLD patterns likely to appear
+# in this project's sources. Add more as false matches surface.
+MULTI_PART_SUFFIXES = {
+    "co.uk", "org.uk", "ac.uk", "gov.uk", "net.uk",
+    "com.au", "net.au", "org.au", "edu.au", "gov.au",
+    "com.br", "net.br", "org.br",
+    "co.jp", "ne.jp", "or.jp", "ac.jp",
+    "co.kr", "or.kr", "ne.kr",
+    "co.id", "or.id",
+    "co.in", "net.in", "org.in", "gen.in",
+    "co.il", "org.il", "ac.il",
+    "com.tr", "gov.tr", "org.tr", "edu.tr",
+    "com.mx", "com.ar", "com.co", "com.pe", "com.ec", "com.ve",
+    "co.nz", "org.nz", "net.nz",
+    "co.za", "org.za", "net.za",
+    "com.sg", "com.hk", "com.tw", "com.cn", "net.cn", "org.cn",
+    "co.th", "in.th", "or.th",
+    "com.pk", "co.ke", "co.ug", "co.tz", "com.ng",
+    "com.pl", "com.ua",
+}
 
 # Each source is either:
 #   - {"name", "owner", "repo", "path", "format"}
@@ -80,8 +98,6 @@ TRACKING_KEYWORDS = [
 #   - {"name", "raw_url", "format"}
 #     -> fetched directly from raw_url
 # format: "hosts" | "adblock" | "plain" | "dnsmasq"
-# "group" is optional - sources sharing a group are nested under one
-# header in the report instead of each getting a top-level section.
 SOURCES = [
     {"name": "AdGuard SDNS Filter",
      "raw_url": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
@@ -124,55 +140,9 @@ SOURCES = [
 ]
 
 
-def load_existing_domains():
-    """Returns (existing_domains_set, domain_to_categories_dict)."""
-    existing = set()
-    existing_categories = {}
-    for master_path in CATEGORIES_DIR.glob("*.txt"):
-        category = master_path.stem
-        for raw_line in master_path.read_text(encoding="utf-8").splitlines():
-            line = raw_line.strip()
-            if not line or line.startswith("#"):
-                continue
-            if line.endswith(AGGRESSIVE_FLAG):
-                line = line[: -len(AGGRESSIVE_FLAG)].strip()
-            d = line.lower()
-            existing.add(d)
-            existing_categories.setdefault(d, set()).add(category)
-    return existing, existing_categories
-
-
-# Multi-part public suffixes where the "core domain" needs 3 labels
-# instead of 2 (e.g. example.co.uk, not just co.uk). Not a complete
-# Public Suffix List - covers the common ccTLD patterns likely to show
-# up in this project's sources. Add more as false matches surface.
-MULTI_PART_SUFFIXES = {
-    "co.uk", "org.uk", "ac.uk", "gov.uk", "net.uk",
-    "com.au", "net.au", "org.au", "edu.au", "gov.au",
-    "com.br", "net.br", "org.br",
-    "co.jp", "ne.jp", "or.jp", "ac.jp",
-    "co.kr", "or.kr", "ne.kr",
-    "co.id", "or.id",
-    "co.in", "net.in", "org.in", "gen.in",
-    "co.il", "org.il", "ac.il",
-    "com.tr", "gov.tr", "org.tr", "edu.tr",
-    "com.mx", "com.ar", "com.co", "com.pe", "com.ec", "com.ve",
-    "co.nz", "org.nz", "net.nz",
-    "co.za", "org.za", "net.za",
-    "com.sg", "com.hk", "com.tw", "com.cn", "net.cn", "org.cn",
-    "co.th", "in.th", "or.th",
-    "com.pk", "co.ke", "co.ug", "co.tz", "com.ng",
-    "com.pl", "com.ua",
-}
-
-
 def base_domain(domain: str) -> str:
     """Best-effort core domain. Uses 3 labels for known multi-part
-    public suffixes (example.co.uk), otherwise the last 2 labels
-    (example.com). Not a full Public Suffix List implementation, but
-    covers the common ccTLD patterns that would otherwise cause
-    unrelated domains to falsely match on a shared TLD fragment
-    (e.g. "co.uk" itself being treated as a core domain)."""
+    public suffixes (example.co.uk), otherwise the last 2 labels."""
     parts = domain.split(".")
     if len(parts) < 2:
         return domain
@@ -180,6 +150,30 @@ def base_domain(domain: str) -> str:
     if last_two in MULTI_PART_SUFFIXES and len(parts) >= 3:
         return ".".join(parts[-3:])
     return last_two
+
+
+def load_existing_domains():
+    """Returns (existing_domains_set, base_to_category_lines).
+    base_to_category_lines maps base_domain -> {category: [line_numbers]}
+    for every existing domain sharing that base domain, so the report
+    can point at roughly where to look in a large category file."""
+    existing = set()
+    base_to_category_lines = {}
+    for master_path in CATEGORIES_DIR.glob("*.txt"):
+        category = master_path.stem
+        for line_no, raw_line in enumerate(
+            master_path.read_text(encoding="utf-8").splitlines(), start=1
+        ):
+            line = raw_line.strip()
+            if not line or line.startswith("#"):
+                continue
+            if line.endswith(AGGRESSIVE_FLAG):
+                line = line[: -len(AGGRESSIVE_FLAG)].strip()
+            d = line.lower()
+            existing.add(d)
+            b = base_domain(d)
+            base_to_category_lines.setdefault(b, {}).setdefault(category, []).append(line_no)
+    return existing, base_to_category_lines
 
 
 def shannon_entropy(s: str) -> float:
@@ -207,8 +201,6 @@ def looks_algorithmically_generated(domain: str) -> bool:
 
 
 def matching_tracking_keyword(domain: str):
-    """Returns the first matching keyword found in any label of the
-    domain (substring match within label), or None."""
     labels = re.split(r"[.\-]", domain)
     for label in labels:
         for kw in TRACKING_KEYWORDS:
@@ -290,20 +282,14 @@ def save_snapshot(path, domains):
 
 
 def check_all():
-    existing, existing_categories = load_existing_domains()
-
-    existing_base_to_categories = {}
-    for d, cats in existing_categories.items():
-        b = base_domain(d)
-        existing_base_to_categories.setdefault(b, set()).update(cats)
-
-    existing_bases = set(existing_base_to_categories.keys())
+    existing, base_to_category_lines = load_existing_domains()
+    existing_bases = set(base_to_category_lines.keys())
     print(f"Loaded {len(existing)} existing domains "
           f"({len(existing_bases)} distinct core domains) from lists/categories/")
 
     # status: "ok" | "first_run" | "error"
     # payload for "ok": (known_base, keyword_matches, random, new_platform)
-    # known_base entries: (domain, [categories])
+    # known_base entries: (domain, {category: [line_numbers]})
     # keyword_matches entries: (domain, keyword)
     results = []
     drop_warnings = []
@@ -339,8 +325,7 @@ def check_all():
         for d in missing:
             b = base_domain(d)
             if b in existing_bases:
-                cats = sorted(existing_base_to_categories[b])
-                known_base.append((d, cats))
+                known_base.append((d, base_to_category_lines[b]))
                 continue
             kw = matching_tracking_keyword(d)
             if kw:
@@ -367,6 +352,12 @@ def check_all():
         "entry should be independently researched and classified before",
         "being added to a category file.",
         "",
+        "Line numbers next to 'Core domain already covered' entries point",
+        "to where a domain sharing that core domain currently sits in the",
+        "category file - useful for finding the right spot, but they shift",
+        "as the file is edited, so treat them as approximate if this report",
+        "is more than a few days old.",
+        "",
     ]
 
     if drop_warnings:
@@ -384,8 +375,8 @@ def check_all():
         "- Possibly obfuscated: the domain name looks algorithmically",
         "  generated (high character randomness, few vowels).",
         "- New platform: neither of the above, core domain not covered.",
-        "- Core domain already covered: the category file(s) it's",
-        "  likely a missing subdomain for are listed alongside it.",
+        "- Core domain already covered: category file(s) and approximate",
+        "  line number(s) shown alongside.",
         "",
     ]
 
@@ -404,9 +395,14 @@ def check_all():
         return block
 
     def render_known_base_table(entries):
-        block = ["| Domain | Category |", "|---|---|"]
-        for domain, cats in entries:
-            block.append(f"| {domain} | {', '.join(cats)} |")
+        block = ["| Domain | Category (line) |", "|---|---|"]
+        for domain, cat_lines in entries:
+            parts = []
+            for cat, line_nums in sorted(cat_lines.items()):
+                first = line_nums[0]
+                extra = f", +{len(line_nums) - 1} more" if len(line_nums) > 1 else ""
+                parts.append(f"{cat} (line {first}{extra})")
+            block.append(f"| {domain} | {'; '.join(parts)} |")
         block.append("")
         return block
 
