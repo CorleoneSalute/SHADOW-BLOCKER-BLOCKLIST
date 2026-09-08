@@ -37,6 +37,7 @@ pixel.facebook.com
 trac.thefacebook.com
 xy.fbcdn.net
 xz.fbcdn.net
+faceb00k.live # typosquatting
 ```
 
 ### LINKEDIN (107 domain)
