@@ -60,13 +60,13 @@ ENTROPY_THRESHOLD = 3.2
 VOWEL_RATIO_THRESHOLD = 0.25
 
 TRACKING_KEYWORDS = [
-    "track", "tracker", "tracking",
-    "metric", "metrics",
+    "track", "tracker", "tracking", "trk",
+    "metric", "metrics", "metrica", "smetric" "smetrics",
     "telemetry",
     "analytic", "analytics",
-    "pixel", "beacon",
-    "collect", "collector",
-    "ads", "adserver", "adtech", "advert", "advertising",
+    "pixel", "beacon", "px", "pxl", "p13n", "L10n", "i18n",
+    "collect", "collector", "otel" 
+    "ad", "ads", "adserver", "adtech", "advert", "advertising",
 ]
 
 # Multi-part public suffixes where the "core domain" needs 3 labels
