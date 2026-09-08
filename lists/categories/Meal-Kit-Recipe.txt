@@ -1,7 +1,7 @@
 # MEAL KIT & RECIPE BLOCKLIST
 
-# Total domains: 38
-# Last update: 2026/08/03
+# Total domains: 36
+# Last update: 2026/09/08
 # Note: trailing "!" marks a domain as aggressive-only
 
 # HelloFresh Group

@@ -1,7 +1,7 @@
 # Video Streaming Blocklist
 
-# Total domains: 369
-# Last update: 2026/09/07
+# Total domains: 417
+# Last update: 2026/09/08
 # Note: trailing "!" marks a domain as aggressive-only
 
 # VIDEO ANALYTIC PLATFORMS

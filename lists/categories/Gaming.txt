@@ -1,7 +1,7 @@
 # GAMING BLOCKLIST 
 
-# Total domains: 90
-# Last update: 2026/08/03
+# Total domains: 83
+# Last update: 2026/09/08
 # Note: trailing "!" marks a domain as aggressive-only
 
 # RIOT GAMES / VANGUARD

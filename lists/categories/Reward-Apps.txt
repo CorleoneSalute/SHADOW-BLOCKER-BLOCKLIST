@@ -1,7 +1,7 @@
 # REWARD & INCENTIVE APPS BLOCKLIST 
 
-# Total domains: 67
-# Last update: 2026/08/03
+# Total domains: 65
+# Last update: 2026/09/08
 # Note: trailing "!" marks a domain as aggressive-only
 
 # Swagbucks

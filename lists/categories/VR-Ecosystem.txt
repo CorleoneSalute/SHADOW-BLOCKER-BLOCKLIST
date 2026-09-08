@@ -1,7 +1,7 @@
 # VR Ecosystem Blocklist
 
-# Total domains: 19
-# Last update: 2026/08/03
+# Total domains: 13
+# Last update: 2026/09/08
 # Note: trailing "!" marks a domain as aggressive-only
 
 # VRCHAT

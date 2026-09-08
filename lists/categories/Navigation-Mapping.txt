@@ -1,7 +1,7 @@
 # NAVIGATION & MAPPING BLOCKLIST
 
-# Total domains: 46
-# Last update: 2026/08/03
+# Total domains: 45
+# Last update: 2026/09/08
 # Note: trailing "!" marks a domain as aggressive-only
 
 # WAZE

@@ -1,7 +1,7 @@
 # SMARTWATCH & WEARABLES BLOCKLIST
 
-# Total domains:24
-# Last update: 2026/08/03
+# Total domains:23
+# Last update: 2026/09/08
 # Note: trailing "!" marks a domain as aggressive-only
 
 # FITBIT (Google-owned)
