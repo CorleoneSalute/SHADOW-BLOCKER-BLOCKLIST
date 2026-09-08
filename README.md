@@ -1,3 +1,5 @@
+![Shadow Blocker Blocklist logo](assets/logo.png)
+
 # Shadow Blocker Blocklist
 
 ![Build](https://github.com/CorleoneSalute/SHADOW-BLOCKER-BLOCKLIST/actions/workflows/build.yml/badge.svg)
