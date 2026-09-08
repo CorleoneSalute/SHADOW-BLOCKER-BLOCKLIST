@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8986
+# Total domains: 8987
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -509,6 +509,7 @@ ads.rockstargames.com
 ads.roku.com
 ads.samsung.com
 ads.samsungads.com
+ads.samsungapps.com
 ads.sharethrough.com
 ads.sisal.it
 ads.slidebean.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9413
+# Total domains: 9415
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -536,6 +536,7 @@
 0.0.0.0 ads.roku.com
 0.0.0.0 ads.samsung.com
 0.0.0.0 ads.samsungads.com
+0.0.0.0 ads.samsungapps.com
 0.0.0.0 ads.sharethrough.com
 0.0.0.0 ads.sisal.it
 0.0.0.0 ads.slidebean.com
@@ -8801,6 +8802,7 @@
 0.0.0.0 urban-vpn.com
 0.0.0.0 urbanshield.com
 0.0.0.0 urc.taboolasyndication.com
+0.0.0.0 ureca.samsungapps.com
 0.0.0.0 url.dev
 0.0.0.0 url4077.ads-service.tiktok.com
 0.0.0.0 urlcash.com

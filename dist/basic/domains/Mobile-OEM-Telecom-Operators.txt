@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1054
+# Total domains: 1055
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -52,6 +52,7 @@ ads.huawei.com
 ads.oppomobile.com
 ads.samsung.com
 ads.samsungads.com
+ads.samsungapps.com
 ads.t-mobile.com
 ads1.huawei.com
 ads5.huawei.com
