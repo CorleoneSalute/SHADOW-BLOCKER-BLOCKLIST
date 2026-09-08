@@ -19,6 +19,7 @@ analytics.avcdn.net
 analytics-prod-gcp.ff.avast.com
 analytics-stage.ff.avast.com
 analytics.ns1.ff.avast.com
+vl.ff.avast.com !
 an.avast.com
 ans.avast.com                   
 ads.avast.com
