@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9419
+# Total domains: 9420
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9042,6 +9042,7 @@
 0.0.0.0 vitsoft.net
 0.0.0.0 vivads.net
 0.0.0.0 vizio.adsmeasurement.com
+0.0.0.0 vl.ff.avast.com
 0.0.0.0 vofzpwh.com
 0.0.0.0 volcano.analytics.swiftkey.com
 0.0.0.0 voxnest.com
