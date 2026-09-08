@@ -1,6 +1,6 @@
 # ============================================================
 # AFFILIATE NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 163
+# Total domains: 164
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -37,6 +37,7 @@
 ||awin1.com^
 ||awltovhc.com^
 ||awxibrm.com^
+||banner-cdn.linksynergy.com^
 ||c.cfjump.com^
 ||cfjump.com^
 ||cj.dotomi.com^

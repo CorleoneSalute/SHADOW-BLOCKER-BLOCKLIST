@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8990
+# Total domains: 8991
 # Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2122,6 +2122,7 @@
 ||bam.nl.eu.criteo.com^
 ||bam.nr-data.net^
 ||bandar-logger.prezi.com^
+||banner-cdn.linksynergy.com^
 ||banner.criteo.com^
 ||bard-telemetry.google.com^
 ||batch.datax.yahoo.com^

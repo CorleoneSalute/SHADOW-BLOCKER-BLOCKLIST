@@ -1,6 +1,6 @@
 # AFFILIATE NETWORK BLOCKLIST
 
-# Total domains: 163
+# Total domains: 164
 # Last update: 2026/09/08
 # Note: trailing "!" marks a domain as aggressive-only
 
