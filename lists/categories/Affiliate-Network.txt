@@ -40,6 +40,7 @@ rakutenmarketing.com
 link-share.com
 linkshare.com
 ad.linksynergy.com
+banner-cdn.linksynergy.com
 tracking.rakutenmarketing.com
 analytics.rakutenmarketing.com
 rakutenadvertising.com
