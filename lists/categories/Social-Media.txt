@@ -855,6 +855,7 @@ stats.vk-portal.net
 
 ```
 ad.sina.com.cn
+ads3.cj.sina.com.cn
 ad.weibo.com
 adapp.biz.weibo.com
 adbox.sina.com.cn
