@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9424
+# Total domains: 9425
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1362,6 +1362,7 @@ analytics.playit.pk
 analytics.playstation.net
 analytics.plex.tv
 analytics.pluto.tv
+analytics.pnw.appsvc.an.adobe.com
 analytics.podbean.com
 analytics.podcaster.de
 analytics.podcastle.ai
