@@ -60,14 +60,15 @@ ENTROPY_THRESHOLD = 3.2
 VOWEL_RATIO_THRESHOLD = 0.25
 
 TRACKING_KEYWORDS = [
-    "track", "tracker", "tracking", "trk",
+    "track", "tracker", "tracking", "trk", "trx", "tracks", "trackers", "trackx",
     "metric", "metrics", "metrica", "smetric" "smetrics",
-    "telemetry",
-    "analytic", "analytics",
-    "pixel", "beacon", "px", "pxl", "p13n", "L10n", "i18n",
+    "telemetry", "tlmtry",
+    "analytic", "analytics", "analyticx",
+    "pixel", "beacon", "px", "pxl", "p13n", "L10n", "i18n", "beacons",
     "collect", "collector", "otel" 
-    "ad", "ads", "adserver", "adtech", "advert", "advertising",
-]
+    "ad", "ads", "adserver", "adtech", "advert", "advertising", "dsp", "ssp", "adbanner", "advideo",
+    "log", "logger", "logging", "logs", "loggers", "logx", "xlog", "xlogger",
+]   
 
 # Multi-part public suffixes where the "core domain" needs 3 labels
 # instead of 2 (e.g. example.co.uk, not just co.uk). Not a complete
