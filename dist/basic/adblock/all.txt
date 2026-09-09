@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8999
+# Total domains: 9000
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5041,6 +5041,7 @@
 ||metrics-dre.data.dbankcloud.cn^
 ||metrics-dre.dt.dbankcloud.cn^
 ||metrics-dre.dt.hihonorcloud.com^
+||metrics-drru.data.dbankcloud.cn^
 ||metrics-drru.dt.hihonorcloud.com^
 ||metrics-edge.icloud.com^
 ||metrics-eric.oss.demo.coder.com^

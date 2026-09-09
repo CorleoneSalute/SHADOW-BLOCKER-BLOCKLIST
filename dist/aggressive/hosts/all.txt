@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9428
+# Total domains: 9429
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5297,6 +5297,7 @@
 0.0.0.0 metrics-dre.data.dbankcloud.cn
 0.0.0.0 metrics-dre.dt.dbankcloud.cn
 0.0.0.0 metrics-dre.dt.hihonorcloud.com
+0.0.0.0 metrics-drru.data.dbankcloud.cn
 0.0.0.0 metrics-drru.dt.hihonorcloud.com
 0.0.0.0 metrics-edge.icloud.com
 0.0.0.0 metrics-eric.oss.demo.coder.com
