@@ -79,6 +79,7 @@ pixel.mercadopago.com
 
 # PICPAY
 tracking.picpay.com
+tracking.ib58193.marketing.picpay.com
 ts04358.picpay.com
 
 # COINS.PH
