@@ -84,6 +84,7 @@ dpm.demdex.net
 adobe.demdex.net
 adobemobiledev.demdex.net
 analytics-labs.adobe.com
+analytics.pnw.appsvc.an.adobe.com
 analytics.lon.appsvc.an.adobe.com
 
 # ── Adobe Telemetry ──────────────────────────────────────────────────────
