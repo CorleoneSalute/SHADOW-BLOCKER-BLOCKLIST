@@ -1,6 +1,6 @@
 # ============================================================
 # VOIP VIDEO CALL BLOCKLIST - BASIC
-# Total domains: 27
+# Total domains: 28
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -30,5 +30,6 @@ metrics-a.wbx2.com
 metrics-d.wbx2.com
 metrics-k.wbx2.com
 metrics-r.wbx2.com
+metrics-sbg.o.webex.com
 ringcentral.112.2o7.net
 telemetry.zoom.us

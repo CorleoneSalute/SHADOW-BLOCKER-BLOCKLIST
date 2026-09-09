@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9000
+# Total domains: 9001
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5063,6 +5063,7 @@
 0.0.0.0 metrics-preview.vive.com
 0.0.0.0 metrics-prom.perlego.com
 0.0.0.0 metrics-r.wbx2.com
+0.0.0.0 metrics-sbg.o.webex.com
 0.0.0.0 metrics-svc-ext.msg.t-mobile.com
 0.0.0.0 metrics-svc-ext.t-mobile.com
 0.0.0.0 metrics-test-drcn.dt.hihonorcloud.com

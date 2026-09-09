@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9429
+# Total domains: 9430
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5319,6 +5319,7 @@
 ||metrics-preview.vive.com^
 ||metrics-prom.perlego.com^
 ||metrics-r.wbx2.com^
+||metrics-sbg.o.webex.com^
 ||metrics-svc-ext.msg.t-mobile.com^
 ||metrics-svc-ext.t-mobile.com^
 ||metrics-test-drcn.dt.hihonorcloud.com^
