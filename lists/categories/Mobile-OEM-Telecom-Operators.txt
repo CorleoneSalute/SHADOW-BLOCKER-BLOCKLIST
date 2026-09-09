@@ -632,6 +632,7 @@ metrics-ad-drcn.dt.hihonorcloud.com
 metrics-appdistribute-drcn.dt.hihonorcloud.com
 metrics-basecloud-drcn.dt.hihonorcloud.com
 metrics-dra.dt.dbankcloud.cn
+metrics-drru.data.dbankcloud.cn
 metrics-dra.dt.dbankcloud.com
 metrics-dra.dt.hicloud.com
 metrics-dra.dt.hihonorcloud.com
