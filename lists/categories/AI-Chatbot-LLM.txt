@@ -30,6 +30,7 @@ track.coder.com
 client-telemetry.us-east-1.amazonaws.com     
 telemetry.aws-language-servers.us-east-1.amazonaws.com
 prod.log.shortbread.aws.dev
+kepler-analytics.aws.dev
 
 # Code Assistants — Codeium / Windsurf
 telemetry.codeium.com
