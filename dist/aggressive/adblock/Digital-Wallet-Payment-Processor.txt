@@ -1,6 +1,6 @@
 # ============================================================
 # DIGITAL WALLET PAYMENT PROCESSOR BLOCKLIST - AGGRESSIVE
-# Total domains: 46
+# Total domains: 47
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -44,6 +44,7 @@
 ||track-marketing.coins.ph^
 ||track.paytm.com^
 ||tracking.avangate.net^
+||tracking.ib58193.marketing.picpay.com^
 ||tracking.info.paytm.com^
 ||tracking.payoneer.com^
 ||tracking.paytm.com^

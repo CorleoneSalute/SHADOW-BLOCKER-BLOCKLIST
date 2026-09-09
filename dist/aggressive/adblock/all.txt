@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9430
+# Total domains: 9431
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8529,6 +8529,7 @@
 ||tracking.hertz.com^
 ||tracking.honey.io^
 ||tracking.hulu.com^
+||tracking.ib58193.marketing.picpay.com^
 ||tracking.ibotta.com^
 ||tracking.image-line.com^
 ||tracking.impact.com^

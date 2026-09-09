@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9001
+# Total domains: 9002
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8146,6 +8146,7 @@
 0.0.0.0 tracking.hertz.com
 0.0.0.0 tracking.honey.io
 0.0.0.0 tracking.hulu.com
+0.0.0.0 tracking.ib58193.marketing.picpay.com
 0.0.0.0 tracking.ibotta.com
 0.0.0.0 tracking.image-line.com
 0.0.0.0 tracking.impact.com
