@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
-# Total domains: 1810
-# Total platforms: 150
+# Total domains: 1812
+# Total platforms: 152
 # Last update: 2026/09/08
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2134,3 +2134,11 @@ adlabz.co
 # ad-on.fr
 
 ad-on.fr
+
+# ads.de
+
+ads.de
+
+# effixads.com
+
+effixads.com
