@@ -1,6 +1,6 @@
 # ============================================================
 # AI CHATBOT LLM BLOCKLIST - AGGRESSIVE
-# Total domains: 42
+# Total domains: 43
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -19,6 +19,7 @@
 0.0.0.0 customer-telemetry-sink.cursorapi.com
 0.0.0.0 events.character.ai
 0.0.0.0 gemini-analytics.google.com
+0.0.0.0 kepler-analytics.aws.dev
 0.0.0.0 logs-gateway.tabnine.com
 0.0.0.0 metrics-eric.oss.demo.coder.com
 0.0.0.0 metrics.anthropic.com

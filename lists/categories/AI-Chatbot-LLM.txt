@@ -1,7 +1,7 @@
 # AI chatbots & LLM Blocklist
 
-# Total domains: 42
-# Last update: 2026/09/08
+# Total domains: 43
+# Last update: 2026/09/09
 # Note: trailing "!" marks a domain as aggressive-only
 
 # Companion AI

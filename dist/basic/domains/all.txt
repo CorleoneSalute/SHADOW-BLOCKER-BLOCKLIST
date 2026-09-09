@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8998
+# Total domains: 8999
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4416,6 +4416,7 @@ kayzen.io
 kb.adf.ly
 kdtrk.net
 keistaru.com
+kepler-analytics.aws.dev
 kerish.org
 kerishproducts.com
 kernellog.browser.oppomobile.com

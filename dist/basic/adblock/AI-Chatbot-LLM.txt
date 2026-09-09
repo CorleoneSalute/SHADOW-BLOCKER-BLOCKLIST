@@ -1,6 +1,6 @@
 # ============================================================
 # AI CHATBOT LLM BLOCKLIST - BASIC
-# Total domains: 40
+# Total domains: 41
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -19,6 +19,7 @@
 ||customer-telemetry-sink.cursorapi.com^
 ||events.character.ai^
 ||gemini-analytics.google.com^
+||kepler-analytics.aws.dev^
 ||logs-gateway.tabnine.com^
 ||metrics-eric.oss.demo.coder.com^
 ||metrics.anthropic.com^
