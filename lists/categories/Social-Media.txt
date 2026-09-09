@@ -1,7 +1,7 @@
 # Social Media Blocklist
 
-# Total domains: 743
-# Last update: 2026/08/03
+# Total domains: 744
+# Last update: 2026/09/09
 # Note: trailing "!" marks a domain as aggressive-only
 
 ### META (30 domain)

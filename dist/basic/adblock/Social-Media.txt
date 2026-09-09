@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 717
+# Total domains: 718
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -63,6 +63,7 @@
 ||ads1.reddit.com^
 ||ads16-normal-useastred.tiktokw.eu^
 ||ads2.reddit.com^
+||ads3.cj.sina.com.cn^
 ||adsapi.snapchat.com^
 ||adsapi2.snapchat.com^
 ||adsapi3.snapchat.com^

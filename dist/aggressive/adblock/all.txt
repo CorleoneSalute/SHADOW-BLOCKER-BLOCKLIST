@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9423
+# Total domains: 9424
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -592,6 +592,7 @@
 ||ads2.anura.io^
 ||ads2.reddit.com^
 ||ads3-adnow.com^
+||ads3.cj.sina.com.cn^
 ||ads30.adcolony.com^
 ||ads33.adtelligent.com^
 ||ads5.huawei.com^

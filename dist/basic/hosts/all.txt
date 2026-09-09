@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8994
+# Total domains: 8995
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -564,6 +564,7 @@
 0.0.0.0 ads2.anura.io
 0.0.0.0 ads2.reddit.com
 0.0.0.0 ads3-adnow.com
+0.0.0.0 ads3.cj.sina.com.cn
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads33.adtelligent.com
 0.0.0.0 ads5.huawei.com
