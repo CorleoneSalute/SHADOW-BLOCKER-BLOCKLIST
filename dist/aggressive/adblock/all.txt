@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9421
-# Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9423
+# Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -458,6 +458,7 @@
 ||ads.conviva.com^
 ||ads.cozi.com^
 ||ads.crunchyroll.com^
+||ads.de^
 ||ads.disneyplus.com^
 ||ads.districtm.ca^
 ||ads.dynamicyield.com^
@@ -3481,6 +3482,7 @@
 ||edge.quantserve.com^
 ||editors.dt07.net^
 ||effiliation.com^
+||effixads.com^
 ||ehg-samsungusa.hitbox.com^
 ||ehi-analytics.com^
 ||eic-ngfts.lge.com^

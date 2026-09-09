@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1802
-# Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1804
+# Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -109,6 +109,7 @@
 0.0.0.0 ads.chartboost.com
 0.0.0.0 ads.chocolateplatform.com
 0.0.0.0 ads.contextweb.com
+0.0.0.0 ads.de
 0.0.0.0 ads.districtm.ca
 0.0.0.0 ads.e-planning.net
 0.0.0.0 ads.eu.e-planning.net
@@ -665,6 +666,7 @@
 0.0.0.0 edc.adform.net
 0.0.0.0 edge.quantserve.com
 0.0.0.0 editors.dt07.net
+0.0.0.0 effixads.com
 0.0.0.0 email.gh-mail.taboola.com
 0.0.0.0 emxdgt.com
 0.0.0.0 emxdigital.com

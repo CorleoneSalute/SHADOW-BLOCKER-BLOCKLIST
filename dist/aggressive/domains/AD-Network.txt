@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1810
-# Generated: 2026-09-08 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1812
+# Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -109,6 +109,7 @@ ads.brightroll.com
 ads.chartboost.com
 ads.chocolateplatform.com
 ads.contextweb.com
+ads.de
 ads.districtm.ca
 ads.e-planning.net
 ads.eu.e-planning.net
@@ -668,6 +669,7 @@ eb2.3lift.com
 edc.adform.net
 edge.quantserve.com
 editors.dt07.net
+effixads.com
 email.gh-mail.taboola.com
 emxdgt.com
 emxdigital.com
