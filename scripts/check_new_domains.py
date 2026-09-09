@@ -61,13 +61,24 @@ VOWEL_RATIO_THRESHOLD = 0.25
 
 TRACKING_KEYWORDS = [
     "track", "tracker", "tracking", "trk", "trx", "tracks", "trackers", "trackx",
-    "metric", "metrics", "metrica", "smetric" "smetrics",
+    "metric", "metrics", "metrica", "smetric", "smetrics",
     "telemetry", "tlmtry",
     "analytic", "analytics", "analyticx",
-    "pixel", "beacon", "px", "pxl", "p13n", "L10n", "i18n", "beacons",
-    "collect", "collector", "otel" 
-    "ad", "ads", "adserver", "adtech", "advert", "advertising", "dsp", "ssp", "adbanner", "advideo",
+    "pixel", "beacon", "px", "pxl", "p13n", "l10n", "i18n", "beacons",
+    "collect", "collector", "otel",
+    "ad", "ads", "adserver", "adtech", "advert", "advertising", "dsp", "ssp", "adbanner", "advideo", "advid", "adpicture", "adpic",
     "log", "logger", "logging", "logs", "loggers", "logx", "xlog", "xlogger",
+    "event", "events",
+    "stat", "stats",
+    "monitor", "monitoring", "mon", "mntr",
+    "reporter", "reporting",
+    "crash", "crashlytics", "crashreport", "crashing", "crashingreport", "crashs", "crashreport", "crashlytic",
+    "diagnostic", "diagnostics", "diag", "diagx", "diagnostic",
+    "fingerprint", "fprint", "fp", "fingerp", "finger", "id", "idtrack", "idtracks", "idtracker", "idtrackx", "idtracking",
+    "profiling", "profiler", "adprofile",
+    "segment", "sgmt", "sentry",
+    "geo", "geoip", "geoloc", "geolog", "geologger", "geologging", "geologs", "geotrack", "geotracker", "geotracking", "geotrackx",
+    "tag", "tagger", "tagging", "tagx",
 ]   
 
 # Multi-part public suffixes where the "core domain" needs 3 labels
