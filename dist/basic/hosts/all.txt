@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 8996
+# Total domains: 8998
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3354,6 +3354,7 @@
 0.0.0.0 editors.dt07.net
 0.0.0.0 effiliation.com
 0.0.0.0 effixads.com
+0.0.0.0 egw.ads-platform.plet.yandex.ru
 0.0.0.0 ehg-samsungusa.hitbox.com
 0.0.0.0 ehi-analytics.com
 0.0.0.0 eic-ngfts.lge.com
@@ -3611,6 +3612,7 @@
 0.0.0.0 experiments.adikteev.com
 0.0.0.0 exponential.com
 0.0.0.0 extension-telemetry.internetdownloadmanager.com
+0.0.0.0 external-ads-platform-gw.plet.yandex.net
 0.0.0.0 external.logs.roku.com
 0.0.0.0 extlog.snssdk.com
 0.0.0.0 extranet.ap-southeast-1.miui-l7-feedback.d6ocem01vo.elb.xiaomi.com

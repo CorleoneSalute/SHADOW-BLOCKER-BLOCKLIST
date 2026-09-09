@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9425
+# Total domains: 9427
 # Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3485,6 +3485,7 @@ edge.quantserve.com
 editors.dt07.net
 effiliation.com
 effixads.com
+egw.ads-platform.plet.yandex.ru
 ehg-samsungusa.hitbox.com
 ehi-analytics.com
 eic-ngfts.lge.com
@@ -3769,6 +3770,7 @@ experiments.hulu.com
 experiments.netflix.com
 exponential.com
 extension-telemetry.internetdownloadmanager.com
+external-ads-platform-gw.plet.yandex.net
 external.logs.roku.com
 extlog.snssdk.com
 extranet.ap-southeast-1.miui-l7-feedback.d6ocem01vo.elb.xiaomi.com
