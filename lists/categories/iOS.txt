@@ -5,6 +5,7 @@
 # Note: trailing "!" marks a domain as aggressive-only
 
 # --- CORE ANALYTICS ---
+telemetry.apple.com
 metrics.apple.com
 metrics.icloud.com
 metrics.mzstatic.com
