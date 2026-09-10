@@ -45,10 +45,3 @@ privacy-proxy.usercentrics.eu !
 consent.cookiehub.net !
 consent-eu.cookiehub.net !
 ds.cookiehub.net !
-
-# IAB TCF Consent String Infrastructure
-# ⚠️ Domains that carry user consent tokens via consensu.org — IAB ecosystem tracking infrastructure
-sourcepoint.mgr.consensu.org !
-pm.sourcepoint.mgr.consensu.org !
-amp.pm.sourcepoint.mgr.consensu.org !
-cdn.consentmanager.mgr.consensu.org !
