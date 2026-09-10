@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9429
+# Total domains: 9430
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2223,6 +2223,7 @@
 0.0.0.0 beaconsinspace.com
 0.0.0.0 beeswax.com
 0.0.0.0 bemobtrcks.lalal.ai
+0.0.0.0 bengalads.com
 0.0.0.0 benjamin-w.logs.roku.com
 0.0.0.0 benjamin.logs.roku.com
 0.0.0.0 beta.analytics.openaire.eu

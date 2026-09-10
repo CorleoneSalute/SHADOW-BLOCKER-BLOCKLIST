@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1812
+# Total domains: 1813
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -362,6 +362,7 @@
 0.0.0.0 beacon.sharethrough.com
 0.0.0.0 beacon.taboola.com
 0.0.0.0 beeswax.com
+0.0.0.0 bengalads.com
 0.0.0.0 bfmio.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bid.3lift.com

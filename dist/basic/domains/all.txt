@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9004
+# Total domains: 9005
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2164,6 +2164,7 @@ beacons.hulu.com
 beaconsinspace.com
 beeswax.com
 bemobtrcks.lalal.ai
+bengalads.com
 benjamin-w.logs.roku.com
 benjamin.logs.roku.com
 beta.analytics.openaire.eu

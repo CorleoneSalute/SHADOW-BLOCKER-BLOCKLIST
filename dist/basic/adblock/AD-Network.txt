@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1804
+# Total domains: 1805
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -360,6 +360,7 @@
 ||beacon.sharethrough.com^
 ||beacon.taboola.com^
 ||beeswax.com^
+||bengalads.com^
 ||bfmio.com^
 ||bh.contextweb.com^
 ||bid.3lift.com^
