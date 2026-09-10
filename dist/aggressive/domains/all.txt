@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9428
+# Total domains: 9429
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3623,6 +3623,7 @@ eventlog.avg.com
 eventlog.avira.com
 eventlog.norton.com
 eventos.asus.com
+events-analytics.apple.com.akamaized.net
 events-api.devcycle.com
 events-dc1.gfe.nvidia.com
 events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn

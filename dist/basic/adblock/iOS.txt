@@ -1,6 +1,6 @@
 # ============================================================
 # IOS BLOCKLIST - BASIC
-# Total domains: 228
+# Total domains: 229
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -68,6 +68,7 @@
 ||databeacon.apple.com^
 ||datacollection.apple.com^
 ||dz1dt3wqswdezgx4j2ryem5iad.apple.com^
+||events-analytics.apple.com.akamaized.net^
 ||feedbackws-apple-cloudkit.icloud.apple-dns.net^
 ||feedbackws-ic1.icloud.com^
 ||feedbackws-ic1.icloud.com.cn^

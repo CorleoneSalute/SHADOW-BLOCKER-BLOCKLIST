@@ -1,6 +1,6 @@
 # ============================================================
 # IOS BLOCKLIST - AGGRESSIVE
-# Total domains: 294
+# Total domains: 295
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -90,6 +90,7 @@ diagnostics.apple.com
 diagnostics.apple.com.akadns.net
 dz1dt3wqswdezgx4j2ryem5iad.apple.com
 dzc-metrics.mzstatic.com
+events-analytics.apple.com.akamaized.net
 experiments.apple.com
 experiments.apple.com.edgekey.net
 fbs.smoot.apple.com
