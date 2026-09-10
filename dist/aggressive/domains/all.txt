@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9432
+# Total domains: 9433
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -411,6 +411,7 @@ ads-us-east-2.delivery.roku.com
 ads-us-west-2.delivery.roku.com
 ads-useast2a.tiktok.com
 ads-v-darwin.hulu.com
+ads-v.reddit.com
 ads.7k.bet.br
 ads.acast.com
 ads.accuweather.com

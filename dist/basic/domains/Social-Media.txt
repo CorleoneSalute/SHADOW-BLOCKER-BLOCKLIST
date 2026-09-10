@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 718
+# Total domains: 719
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -46,6 +46,7 @@ ads-ttp2.tiktokw.eu
 ads-ttp2.us.tiktok.com
 ads-twitter.com
 ads-useast2a.tiktok.com
+ads-v.reddit.com
 ads.facebook.com
 ads.linkedin-ei.com
 ads.linkedin.cn

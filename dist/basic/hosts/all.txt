@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9007
+# Total domains: 9008
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -391,6 +391,7 @@
 0.0.0.0 ads-us-west-2.delivery.roku.com
 0.0.0.0 ads-useast2a.tiktok.com
 0.0.0.0 ads-v-darwin.hulu.com
+0.0.0.0 ads-v.reddit.com
 0.0.0.0 ads.7k.bet.br
 0.0.0.0 ads.accuweather.com
 0.0.0.0 ads.acer.com
