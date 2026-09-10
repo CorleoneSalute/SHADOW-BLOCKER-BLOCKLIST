@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 247
+# Total domains: 248
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -44,6 +44,7 @@
 0.0.0.0 analytics.888.com
 0.0.0.0 analytics.888casino.com
 0.0.0.0 analytics.888poker.com
+0.0.0.0 analytics.888poker.de
 0.0.0.0 analytics.aristocrat.com
 0.0.0.0 analytics.bagelcode.com
 0.0.0.0 analytics.bigfishgames.com

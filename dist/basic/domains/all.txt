@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9002
+# Total domains: 9003
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -884,6 +884,7 @@ analytics.4kdownload.com
 analytics.888.com
 analytics.888casino.com
 analytics.888poker.com
+analytics.888poker.de
 analytics.8x8.com
 analytics.abema.tv
 analytics.abide.co
