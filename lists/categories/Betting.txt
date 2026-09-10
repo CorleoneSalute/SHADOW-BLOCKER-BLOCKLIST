@@ -153,6 +153,7 @@ pixel.888.com
 analytics.888.com
 analytics.888casino.com
 analytics.888poker.com
+analytics.888poker.de
 analytics.mrgreen.com
 ads.mrgreen.com
 
