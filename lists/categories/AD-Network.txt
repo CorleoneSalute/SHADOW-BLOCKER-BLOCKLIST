@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 1812
-# Total platforms: 152
+# Total platforms: 153
 # Last update: 2026/09/08
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2142,3 +2142,7 @@ ads.de
 # effixads.com
 
 effixads.com
+
+# Bengalads
+
+bengalads.com
