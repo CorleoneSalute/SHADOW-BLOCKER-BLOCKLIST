@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 248
-# Total platforms: 90
+# Total platforms: 91
 # Last update: 2026/09/10
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -432,3 +432,12 @@ track.afun.bet.br
 # Setanta Zone LLC 
 
 tracking.setanta.bet
+
+# Betou.bet
+
+ad.betou.bet.br
+ads.betou.bet.br
+tracking.ib56920.ads.betou.bet.br
+tracking.ib70914.betou.bet.br
+tracking.ib93107.mkt.betou.bet.br
+ssp.betou.bet.br
