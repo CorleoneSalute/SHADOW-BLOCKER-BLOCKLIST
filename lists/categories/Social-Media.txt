@@ -770,6 +770,7 @@ ads-api.reddit.com
 ads.reddit.com
 ads1.reddit.com
 ads2.reddit.com
+ads-v.reddit.com
 adserv.reddit.com
 adserver.reddit.com
 adserver2.reddit.com
