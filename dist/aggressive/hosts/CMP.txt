@@ -1,14 +1,12 @@
 # ============================================================
 # CMP BLOCKLIST - AGGRESSIVE
-# Total domains: 35
-# Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
+# Total domains: 31
+# Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 0.0.0.0 amp.didomi.io
-0.0.0.0 amp.pm.sourcepoint.mgr.consensu.org
 0.0.0.0 analytics.cookielaw.org
-0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 consent-api.onetrust.com
 0.0.0.0 consent-eu.cookiehub.net
 0.0.0.0 consent.cookiebot.com
@@ -31,11 +29,9 @@
 0.0.0.0 log.cookieyes.com
 0.0.0.0 mms.sp-prod.net
 0.0.0.0 mobile-data.onetrust.io
-0.0.0.0 pm.sourcepoint.mgr.consensu.org
 0.0.0.0 privacy-proxy.usercentrics.eu
 0.0.0.0 region-eu.cookiehub.net
 0.0.0.0 report.cookie-script.com
-0.0.0.0 sourcepoint.mgr.consensu.org
 0.0.0.0 summerhamster.com
 0.0.0.0 tattle.api.osano.com
 0.0.0.0 uc.api.osano.com

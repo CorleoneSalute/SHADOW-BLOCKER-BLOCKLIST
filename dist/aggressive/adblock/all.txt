@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9431
-# Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9427
+# Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -822,7 +822,6 @@
 ||amp.didomi.io^
 ||amp.navdmp.com^
 ||amp.permutive.app^
-||amp.pm.sourcepoint.mgr.consensu.org^
 ||amp.taboola.com^
 ||amplify-api.outbrain.com^
 ||amplify-assets.outbrain.com^
@@ -2512,7 +2511,6 @@
 ||cdn.confiant.com^
 ||cdn.connectad.io^
 ||cdn.connectadrealtime.com^
-||cdn.consentmanager.mgr.consensu.org^
 ||cdn.content.ad^
 ||cdn.cp.ligatus.com^
 ||cdn.decibelinsight.net^
@@ -6361,7 +6359,6 @@
 ||plista573.plista.com^
 ||plista87.plista.com^
 ||pluto.tv.sc.omtrdc.net^
-||pm.sourcepoint.mgr.consensu.org^
 ||pmc-reporting.criteo.net^
 ||pnrt-stsdk.vivoglobal.com^
 ||pnrt.stsdk.vivoglobal.com^
@@ -7442,7 +7439,6 @@
 ||solvusoft.com^
 ||sonobi.com^
 ||soo.gd^
-||sourcepoint.mgr.consensu.org^
 ||sovrn.com^
 ||sovrn.net^
 ||sp-track.fliptheswitch.com^

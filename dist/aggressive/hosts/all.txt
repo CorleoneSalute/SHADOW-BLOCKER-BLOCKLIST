@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9431
-# Generated: 2026-09-09 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9427
+# Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -822,7 +822,6 @@
 0.0.0.0 amp.didomi.io
 0.0.0.0 amp.navdmp.com
 0.0.0.0 amp.permutive.app
-0.0.0.0 amp.pm.sourcepoint.mgr.consensu.org
 0.0.0.0 amp.taboola.com
 0.0.0.0 amplify-api.outbrain.com
 0.0.0.0 amplify-assets.outbrain.com
@@ -2512,7 +2511,6 @@
 0.0.0.0 cdn.confiant.com
 0.0.0.0 cdn.connectad.io
 0.0.0.0 cdn.connectadrealtime.com
-0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cdn.content.ad
 0.0.0.0 cdn.cp.ligatus.com
 0.0.0.0 cdn.decibelinsight.net
@@ -6361,7 +6359,6 @@
 0.0.0.0 plista573.plista.com
 0.0.0.0 plista87.plista.com
 0.0.0.0 pluto.tv.sc.omtrdc.net
-0.0.0.0 pm.sourcepoint.mgr.consensu.org
 0.0.0.0 pmc-reporting.criteo.net
 0.0.0.0 pnrt-stsdk.vivoglobal.com
 0.0.0.0 pnrt.stsdk.vivoglobal.com
@@ -7442,7 +7439,6 @@
 0.0.0.0 solvusoft.com
 0.0.0.0 sonobi.com
 0.0.0.0 soo.gd
-0.0.0.0 sourcepoint.mgr.consensu.org
 0.0.0.0 sovrn.com
 0.0.0.0 sovrn.net
 0.0.0.0 sp-track.fliptheswitch.com
