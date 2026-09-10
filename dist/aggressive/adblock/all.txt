@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9439
+# Total domains: 9440
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7944,6 +7944,7 @@
 ||telemetry.amd.com^
 ||telemetry.anydesk.com^
 ||telemetry.api.swiftkey.com^
+||telemetry.apple.com^
 ||telemetry.applovin.com^
 ||telemetry.appplayer.msi.com^
 ||telemetry.art19.com^

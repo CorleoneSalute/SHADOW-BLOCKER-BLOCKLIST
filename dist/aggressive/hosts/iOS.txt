@@ -1,6 +1,6 @@
 # ============================================================
 # IOS BLOCKLIST - AGGRESSIVE
-# Total domains: 295
+# Total domains: 296
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -284,6 +284,7 @@
 0.0.0.0 stocks-analytics-events.news.apple.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 supportmetrics.v.aaplimg.com
+0.0.0.0 telemetry.apple.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 tracker.apple.com
 0.0.0.0 tv-analytics.apple.com

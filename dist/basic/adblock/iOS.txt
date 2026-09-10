@@ -1,6 +1,6 @@
 # ============================================================
 # IOS BLOCKLIST - BASIC
-# Total domains: 229
+# Total domains: 230
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -225,6 +225,7 @@
 ||stocks-analytics-events.news.apple.com^
 ||supportmetrics.apple.com^
 ||supportmetrics.v.aaplimg.com^
+||telemetry.apple.com^
 ||tr.iadsdk.apple.com^
 ||tracker.apple.com^
 ||tv-analytics.apple.com^
