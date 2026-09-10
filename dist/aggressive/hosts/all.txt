@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9433
+# Total domains: 9439
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -202,6 +202,7 @@
 0.0.0.0 ad.alipay.com
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.baidu.com
+0.0.0.0 ad.betou.bet.br
 0.0.0.0 ad.cdn.pandora.xiaomi.com
 0.0.0.0 ad.click.g.doubleclick.net
 0.0.0.0 ad.cookpad.com
@@ -437,6 +438,7 @@
 0.0.0.0 ads.beta.roku.com
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.betfair.com.au
+0.0.0.0 ads.betou.bet.br
 0.0.0.0 ads.bidstack.com
 0.0.0.0 ads.bing.vera.bet.br
 0.0.0.0 ads.bitmovin.com
@@ -7496,6 +7498,7 @@
 0.0.0.0 ssp-sync.criteo.com
 0.0.0.0 ssp.ad.xiaomi.com
 0.0.0.0 ssp.adtelligent.com
+0.0.0.0 ssp.betou.bet.br
 0.0.0.0 ssp.bfmio.com
 0.0.0.0 ssp.coinis.com
 0.0.0.0 ssp.fluct.jp
@@ -8531,7 +8534,10 @@
 0.0.0.0 tracking.hertz.com
 0.0.0.0 tracking.honey.io
 0.0.0.0 tracking.hulu.com
+0.0.0.0 tracking.ib56920.ads.betou.bet.br
 0.0.0.0 tracking.ib58193.marketing.picpay.com
+0.0.0.0 tracking.ib70914.betou.bet.br
+0.0.0.0 tracking.ib93107.mkt.betou.bet.br
 0.0.0.0 tracking.ibotta.com
 0.0.0.0 tracking.image-line.com
 0.0.0.0 tracking.impact.com

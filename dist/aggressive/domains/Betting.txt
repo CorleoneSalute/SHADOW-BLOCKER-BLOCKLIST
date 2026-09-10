@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 248
+# Total domains: 254
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8,12 +8,14 @@
 1fhc-event.fhcasino.com
 1fhc-event2.fhcasino.com
 1mgas-log.fhcasino.com
+ad.betou.bet.br
 ad.srv.giantlottos.com
 ad.vera.bet.br
 adjust.stats.zynga.com
 ads.7k.bet.br
 ads.betfair.com
 ads.betfair.com.au
+ads.betou.bet.br
 ads.bing.vera.bet.br
 ads.mrgreen.com
 ads.oddschecker.com
@@ -196,6 +198,7 @@ sp-track.sbotop.net
 sptracking.bigfishcasino.com
 sptracking.jackpotmagicslots.com
 ss.pulszcasino.com
+ssp.betou.bet.br
 sstat.spreadex.com
 stake.com
 stake.us
@@ -223,6 +226,9 @@ tracking.chanced.com
 tracking.espn.com
 tracking.fun88.com
 tracking.governorofpoker.com
+tracking.ib56920.ads.betou.bet.br
+tracking.ib70914.betou.bet.br
+tracking.ib93107.mkt.betou.bet.br
 tracking.oddschecker.com
 tracking.orangegames.com
 tracking.punt.com

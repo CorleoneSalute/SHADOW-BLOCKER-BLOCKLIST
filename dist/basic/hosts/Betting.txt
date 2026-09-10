@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 240
+# Total domains: 246
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8,12 +8,14 @@
 0.0.0.0 1fhc-event.fhcasino.com
 0.0.0.0 1fhc-event2.fhcasino.com
 0.0.0.0 1mgas-log.fhcasino.com
+0.0.0.0 ad.betou.bet.br
 0.0.0.0 ad.srv.giantlottos.com
 0.0.0.0 ad.vera.bet.br
 0.0.0.0 adjust.stats.zynga.com
 0.0.0.0 ads.7k.bet.br
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.betfair.com.au
+0.0.0.0 ads.betou.bet.br
 0.0.0.0 ads.bing.vera.bet.br
 0.0.0.0 ads.mrgreen.com
 0.0.0.0 ads.oddschecker.com
@@ -188,6 +190,7 @@
 0.0.0.0 sptracking.bigfishcasino.com
 0.0.0.0 sptracking.jackpotmagicslots.com
 0.0.0.0 ss.pulszcasino.com
+0.0.0.0 ssp.betou.bet.br
 0.0.0.0 sstat.spreadex.com
 0.0.0.0 stake.com
 0.0.0.0 stake.us
@@ -215,6 +218,9 @@
 0.0.0.0 tracking.espn.com
 0.0.0.0 tracking.fun88.com
 0.0.0.0 tracking.governorofpoker.com
+0.0.0.0 tracking.ib56920.ads.betou.bet.br
+0.0.0.0 tracking.ib70914.betou.bet.br
+0.0.0.0 tracking.ib93107.mkt.betou.bet.br
 0.0.0.0 tracking.oddschecker.com
 0.0.0.0 tracking.orangegames.com
 0.0.0.0 tracking.punt.com

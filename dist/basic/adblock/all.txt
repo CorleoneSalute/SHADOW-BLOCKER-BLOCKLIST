@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9008
+# Total domains: 9014
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -187,6 +187,7 @@
 ||ad.alipay.com^
 ||ad.apsalar.com^
 ||ad.baidu.com^
+||ad.betou.bet.br^
 ||ad.cdn.pandora.xiaomi.com^
 ||ad.click.g.doubleclick.net^
 ||ad.cookpad.com^
@@ -416,6 +417,7 @@
 ||ads.beta.roku.com^
 ||ads.betfair.com^
 ||ads.betfair.com.au^
+||ads.betou.bet.br^
 ||ads.bidstack.com^
 ||ads.bing.vera.bet.br^
 ||ads.bitmovin.com^
@@ -7138,6 +7140,7 @@
 ||ssp-sync.criteo.com^
 ||ssp.ad.xiaomi.com^
 ||ssp.adtelligent.com^
+||ssp.betou.bet.br^
 ||ssp.bfmio.com^
 ||ssp.coinis.com^
 ||ssp.fluct.jp^
@@ -8152,7 +8155,10 @@
 ||tracking.hertz.com^
 ||tracking.honey.io^
 ||tracking.hulu.com^
+||tracking.ib56920.ads.betou.bet.br^
 ||tracking.ib58193.marketing.picpay.com^
+||tracking.ib70914.betou.bet.br^
+||tracking.ib93107.mkt.betou.bet.br^
 ||tracking.ibotta.com^
 ||tracking.image-line.com^
 ||tracking.impact.com^
