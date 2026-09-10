@@ -220,6 +220,7 @@ partiality.itunes-apple.com.akadns.net !
 xp.itunes-apple.com.akadns.net !
 xp-cdn-lb.itunes-apple.com.akadns.net !
 searchads.lb-apple.com.akadns.net
+events-analytics.apple.com.akamaized.net
 
 # --- ANALYTICS DNS ROUTES — apple-dns.net ---
 feedbackws.fe2.apple-dns.net
