@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9005
+# Total domains: 9007
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5017,9 +5017,11 @@
 0.0.0.0 metrica.yandex.com
 0.0.0.0 metrics-a.wbx2.com
 0.0.0.0 metrics-ad-drcn.dt.hihonorcloud.com
+0.0.0.0 metrics-ad-drcn.dt.hihonorcloud.com.host
 0.0.0.0 metrics-api.manjaro.org
 0.0.0.0 metrics-api.openalex.org
 0.0.0.0 metrics-appdistribute-drcn.dt.hihonorcloud.com
+0.0.0.0 metrics-appdistribute-drcn.dt.hihonorcloud.com.host
 0.0.0.0 metrics-apptouch-dre.hispace.dbankcloud.com
 0.0.0.0 metrics-assets.incognia.com
 0.0.0.0 metrics-basecloud-drcn.dt.hihonorcloud.com

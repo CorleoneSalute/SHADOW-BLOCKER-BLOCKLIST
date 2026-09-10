@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9430
+# Total domains: 9432
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5271,9 +5271,11 @@
 ||metrica.yandex.com^
 ||metrics-a.wbx2.com^
 ||metrics-ad-drcn.dt.hihonorcloud.com^
+||metrics-ad-drcn.dt.hihonorcloud.com.host^
 ||metrics-api.manjaro.org^
 ||metrics-api.openalex.org^
 ||metrics-appdistribute-drcn.dt.hihonorcloud.com^
+||metrics-appdistribute-drcn.dt.hihonorcloud.com.host^
 ||metrics-apptouch-dre.hispace.dbankcloud.com^
 ||metrics-assets.incognia.com^
 ||metrics-basecloud-drcn.dt.hihonorcloud.com^

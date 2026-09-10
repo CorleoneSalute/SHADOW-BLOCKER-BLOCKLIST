@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1106
+# Total domains: 1108
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -625,7 +625,9 @@
 0.0.0.0 mdp-usertrace-sg.heytapmobile.com
 0.0.0.0 metric.vodafone.com.eg
 0.0.0.0 metrics-ad-drcn.dt.hihonorcloud.com
+0.0.0.0 metrics-ad-drcn.dt.hihonorcloud.com.host
 0.0.0.0 metrics-appdistribute-drcn.dt.hihonorcloud.com
+0.0.0.0 metrics-appdistribute-drcn.dt.hihonorcloud.com.host
 0.0.0.0 metrics-apptouch-dre.hispace.dbankcloud.com
 0.0.0.0 metrics-basecloud-drcn.dt.hihonorcloud.com
 0.0.0.0 metrics-dra.dt.dbankcloud.cn

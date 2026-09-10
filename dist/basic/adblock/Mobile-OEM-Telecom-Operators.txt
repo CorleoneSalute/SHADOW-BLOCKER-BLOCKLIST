@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1056
+# Total domains: 1058
 # Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -588,7 +588,9 @@
 ||mdp-usertrace-sg.heytapmobile.com^
 ||metric.vodafone.com.eg^
 ||metrics-ad-drcn.dt.hihonorcloud.com^
+||metrics-ad-drcn.dt.hihonorcloud.com.host^
 ||metrics-appdistribute-drcn.dt.hihonorcloud.com^
+||metrics-appdistribute-drcn.dt.hihonorcloud.com.host^
 ||metrics-apptouch-dre.hispace.dbankcloud.com^
 ||metrics-basecloud-drcn.dt.hihonorcloud.com^
 ||metrics-dra.dt.dbankcloud.cn^
