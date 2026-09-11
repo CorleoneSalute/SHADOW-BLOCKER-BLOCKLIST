@@ -13,6 +13,7 @@ consentlogapi.cookieyes.com
 log.uniconsent.com
 up-track.osano.com
 tattle.api.osano.com
+webads.mgr.consensu.org
 
 # Data Collection
 analytics.didomi.io
