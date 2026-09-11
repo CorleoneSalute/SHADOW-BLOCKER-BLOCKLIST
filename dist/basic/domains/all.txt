@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9033
+# Total domains: 9034
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4543,6 +4543,7 @@ livecam.passion.com
 liverail.com
 livesession.io
 livestats.kaltura.com
+lkg08-metrics.svcs.verizon.com
 lms.analytics.lc.cx
 lmy.de
 lnk.do

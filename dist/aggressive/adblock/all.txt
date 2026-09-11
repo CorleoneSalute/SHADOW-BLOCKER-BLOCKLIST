@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9437
+# Total domains: 9438
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4778,6 +4778,7 @@
 ||liverail.com^
 ||livesession.io^
 ||livestats.kaltura.com^
+||lkg08-metrics.svcs.verizon.com^
 ||lms.analytics.lc.cx^
 ||lmy.de^
 ||lnk.do^

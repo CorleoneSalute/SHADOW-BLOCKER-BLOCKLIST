@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1058
+# Total domains: 1059
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -519,6 +519,7 @@
 0.0.0.0 kz-stsdk.vivoglobal.com
 0.0.0.0 lbs-samsung.swypeconnect.com
 0.0.0.0 lcs.di.runestone.samsung.com
+0.0.0.0 lkg08-metrics.svcs.verizon.com
 0.0.0.0 log-abroad.avlyun.sec.miui.com
 0.0.0.0 log-dra.platform.hihonorcloud.com
 0.0.0.0 log-drcn.platform.hihonorcloud.com
