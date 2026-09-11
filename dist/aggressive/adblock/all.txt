@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9435
+# Total domains: 9436
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1540,6 +1540,7 @@
 ||analytics.untappd.com^
 ||analytics.upside.com^
 ||analytics.us.tiktok.com^
+||analytics.usercentrics.com^
 ||analytics.vagaro.com^
 ||analytics.vanceai.com^
 ||analytics.verbling.com^

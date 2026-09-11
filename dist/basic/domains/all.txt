@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9024
+# Total domains: 9025
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1500,6 +1500,7 @@ analytics.unpaywall.org
 analytics.untappd.com
 analytics.upside.com
 analytics.us.tiktok.com
+analytics.usercentrics.com
 analytics.vagaro.com
 analytics.vanceai.com
 analytics.verbling.com
