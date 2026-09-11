@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9034
+# Total domains: 9035
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8069,6 +8069,7 @@
 ||track2.adition.com^
 ||track2.bidstack.com^
 ||trackedevt.1rx.io^
+||tracker-novembers-347342.appspot.com^
 ||tracker-preview.ai.xiaomi.com^
 ||tracker-server.high-cdn.com^
 ||tracker.adikteev.com^

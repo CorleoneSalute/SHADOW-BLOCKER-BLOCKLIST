@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 719
+# Total domains: 720
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -677,6 +677,7 @@
 ||trac.reddit.com^
 ||trac.thefacebook.com^
 ||track.reddit.com^
+||tracker-novembers-347342.appspot.com^
 ||tracker.reddit.com^
 ||tracker.redditmedia.com^
 ||tracker.sina.com.cn^
