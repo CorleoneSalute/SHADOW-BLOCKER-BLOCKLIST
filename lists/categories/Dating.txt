@@ -92,3 +92,9 @@ fp.passion.com
 livecam.passion.com
 movies.passion.com
 secure.passion.com
+
+# Dating.com
+
+ssgtm.dating.com
+sgtm.dating.com
+tracking.dating.com
