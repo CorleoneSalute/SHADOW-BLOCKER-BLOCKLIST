@@ -71,3 +71,9 @@ analytics.givelify.com
 
 # Abide
 analytics.abide.co
+
+# 1muslimapp
+
+ads.1muslimapp.com
+ads-media.1muslimapp.com
+api-ads.1muslimapp.com
