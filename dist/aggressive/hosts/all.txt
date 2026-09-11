@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9433
+# Total domains: 9436
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7297,6 +7297,7 @@
 0.0.0.0 sgtm.7k.bet.br
 0.0.0.0 sgtm.adyen.com
 0.0.0.0 sgtm.cassino.bet.br
+0.0.0.0 sgtm.dating.com
 0.0.0.0 sgtm.indrive.com
 0.0.0.0 sgtm.skrill.com
 0.0.0.0 sgtm.storytel.com
@@ -7481,6 +7482,7 @@
 0.0.0.0 ssbsync.smartadserver.com
 0.0.0.0 ssc.33across.com
 0.0.0.0 sse-analytics.devcycle.com
+0.0.0.0 ssgtm.dating.com
 0.0.0.0 ssl2.cdngc.net
 0.0.0.0 sslanalytics.sixt.com
 0.0.0.0 sslcs.cdngc.net
@@ -8503,6 +8505,7 @@
 0.0.0.0 tracking.csc.flm.fujitsu.com
 0.0.0.0 tracking.current.us
 0.0.0.0 tracking.cyberghostvpn.com
+0.0.0.0 tracking.dating.com
 0.0.0.0 tracking.dowjones.com
 0.0.0.0 tracking.effiliation.com
 0.0.0.0 tracking.epicgames.com

@@ -1,6 +1,6 @@
 # ============================================================
 # DATING BLOCKLIST - BASIC
-# Total domains: 58
+# Total domains: 61
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -54,10 +54,13 @@
 0.0.0.0 secure.adultfriendfinder.com
 0.0.0.0 secure.passion.com
 0.0.0.0 sexart.adultfriendfinder.com
+0.0.0.0 sgtm.dating.com
 0.0.0.0 sp.gotinder.com
+0.0.0.0 ssgtm.dating.com
 0.0.0.0 t.ads.pof.com
 0.0.0.0 telemetry.grindr.com
 0.0.0.0 telemetry.matchgroup.com
+0.0.0.0 tracking.dating.com
 0.0.0.0 www.kibanalogging.grindr.com
 0.0.0.0 www.members-sexart.adultfriendfinder.com
 0.0.0.0 www.metrix.adultfriendfinder.com

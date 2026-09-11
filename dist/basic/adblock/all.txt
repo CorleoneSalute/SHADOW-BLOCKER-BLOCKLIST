@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9029
+# Total domains: 9032
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6966,6 +6966,7 @@
 ||sgtm.7k.bet.br^
 ||sgtm.adyen.com^
 ||sgtm.cassino.bet.br^
+||sgtm.dating.com^
 ||sgtm.indrive.com^
 ||sgtm.skrill.com^
 ||sgtm.storytel.com^
@@ -7142,6 +7143,7 @@
 ||ssbsync.smartadserver.com^
 ||ssc.33across.com^
 ||sse-analytics.devcycle.com^
+||ssgtm.dating.com^
 ||ssl2.cdngc.net^
 ||sslanalytics.sixt.com^
 ||sslcs.cdngc.net^
@@ -8143,6 +8145,7 @@
 ||tracking.csc.flm.fujitsu.com^
 ||tracking.current.us^
 ||tracking.cyberghostvpn.com^
+||tracking.dating.com^
 ||tracking.dowjones.com^
 ||tracking.effiliation.com^
 ||tracking.epicgames.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # DATING BLOCKLIST - AGGRESSIVE
-# Total domains: 59
+# Total domains: 62
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -55,10 +55,13 @@ rctnano.adultfriendfinder.com
 secure.adultfriendfinder.com
 secure.passion.com
 sexart.adultfriendfinder.com
+sgtm.dating.com
 sp.gotinder.com
+ssgtm.dating.com
 t.ads.pof.com
 telemetry.grindr.com
 telemetry.matchgroup.com
+tracking.dating.com
 www.kibanalogging.grindr.com
 www.members-sexart.adultfriendfinder.com
 www.metrix.adultfriendfinder.com
