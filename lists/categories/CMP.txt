@@ -7,7 +7,7 @@
 # Analytics & Telemetry
 analytics.cookielaw.org
 log.cookieyes.com
-report.cookie-script.com
+up-track.osano.com
 tattle.api.osano.com
 
 # Data Collection
