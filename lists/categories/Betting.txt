@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 254
-# Total platforms: 91
+# Total platforms: 92
 # Last update: 2026/09/10
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -441,3 +441,7 @@ tracking.ib56920.ads.betou.bet.br
 tracking.ib70914.betou.bet.br
 tracking.ib93107.mkt.betou.bet.br
 ssp.betou.bet.br
+
+# Riobet
+
+metrics.riobet.com
