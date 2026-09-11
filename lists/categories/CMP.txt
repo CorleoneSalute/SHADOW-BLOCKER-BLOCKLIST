@@ -28,13 +28,3 @@ disclaimer-api.goadopt.io !
 summerhamster.com
 d2zv5rkii46miq.cloudfront.net
 d3fkv551xkjrmm.cloudfront.net !
-
-# Geolocation & Region Detection # ⚠️ Geolocation-based profiling domains.
-Blocking causes CMP failure to identify applicable regulations (GDPR/CCPA) - consent banner won't load or all consents auto-accepted.
-geolocation.onetrust.com !
-geo.cookiebot.com !
-geolocation.sourcepoint.com !
-geo.privacy-center.org !
-geo.uniconsent.com !
-geolocation.seersco.com !
-region-eu.cookiehub.net !
