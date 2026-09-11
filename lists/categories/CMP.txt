@@ -17,6 +17,7 @@ analytics.didomi.io
 amp.didomi.io
 history-logs.didomi.io
 metrics.didomi.io
+smetrics.onetrust.com
 disclaimer-api.goadopt.io !
 
 # Covert / Obfuscated Tracking
