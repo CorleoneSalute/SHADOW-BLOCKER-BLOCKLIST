@@ -1,6 +1,6 @@
 # ============================================================
 # CMP BLOCKLIST - AGGRESSIVE
-# Total domains: 23
+# Total domains: 24
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -22,6 +22,7 @@
 0.0.0.0 geolocation.sourcepoint.com
 0.0.0.0 history-logs.didomi.io
 0.0.0.0 log.cookieyes.com
+0.0.0.0 log.uniconsent.com
 0.0.0.0 metrics.didomi.io
 0.0.0.0 region-eu.cookiehub.net
 0.0.0.0 smetrics.onetrust.com

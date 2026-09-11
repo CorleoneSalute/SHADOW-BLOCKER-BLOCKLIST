@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9433
+# Total domains: 9434
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4913,6 +4913,7 @@ log.tiktokv.us
 log.transsion.com
 log.tresorit.com
 log.twibida.com
+log.uniconsent.com
 log.us.tiktokv.com
 log.vivo.com
 log.vizio.com

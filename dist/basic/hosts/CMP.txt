@@ -1,6 +1,6 @@
 # ============================================================
 # CMP BLOCKLIST - BASIC
-# Total domains: 14
+# Total domains: 15
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -14,6 +14,7 @@
 0.0.0.0 d2zv5rkii46miq.cloudfront.net
 0.0.0.0 history-logs.didomi.io
 0.0.0.0 log.cookieyes.com
+0.0.0.0 log.uniconsent.com
 0.0.0.0 metrics.didomi.io
 0.0.0.0 smetrics.onetrust.com
 0.0.0.0 summerhamster.com
