@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9025
+# Total domains: 9024
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -784,7 +784,6 @@
 ||america-ad.360yield.com^
 ||amobee.com^
 ||amp.ad.sina.com.cn^
-||amp.didomi.io^
 ||amp.navdmp.com^
 ||amp.permutive.app^
 ||amp.taboola.com^

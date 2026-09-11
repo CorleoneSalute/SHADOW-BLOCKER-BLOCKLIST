@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9429
+# Total domains: 9428
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -822,7 +822,6 @@
 0.0.0.0 america-ad.360yield.com
 0.0.0.0 amobee.com
 0.0.0.0 amp.ad.sina.com.cn
-0.0.0.0 amp.didomi.io
 0.0.0.0 amp.navdmp.com
 0.0.0.0 amp.permutive.app
 0.0.0.0 amp.taboola.com

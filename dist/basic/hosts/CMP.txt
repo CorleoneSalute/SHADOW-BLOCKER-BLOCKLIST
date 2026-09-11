@@ -1,11 +1,10 @@
 # ============================================================
 # CMP BLOCKLIST - BASIC
-# Total domains: 17
+# Total domains: 16
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
-0.0.0.0 amp.didomi.io
 0.0.0.0 analytics.cookielaw.org
 0.0.0.0 analytics.didomi.io
 0.0.0.0 analytics.sourcepoint.com
