@@ -1,6 +1,6 @@
 # ============================================================
 # ANTIVIRUS BLOCKLIST - BASIC
-# Total domains: 66
+# Total domains: 67
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -16,6 +16,7 @@
 0.0.0.0 analytics.bitdefender.com
 0.0.0.0 analytics.cba.kaspersky.com
 0.0.0.0 analytics.cms.avira.com
+0.0.0.0 analytics.ff.awast.com
 0.0.0.0 analytics.ns1.ff.avast.com
 0.0.0.0 ans.avast.com
 0.0.0.0 bug.kaspersky.com

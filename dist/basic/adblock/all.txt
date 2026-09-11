@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9027
+# Total domains: 9028
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1072,6 +1072,7 @@
 ||analytics.fertilityfriend.com^
 ||analytics.fetch.com^
 ||analytics.ff.avast.sec.miui.com^
+||analytics.ff.awast.com^
 ||analytics.filefactory.com^
 ||analytics.fitbark.com^
 ||analytics.fitbit.com^

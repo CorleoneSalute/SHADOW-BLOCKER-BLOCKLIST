@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9431
+# Total domains: 9432
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1111,6 +1111,7 @@
 0.0.0.0 analytics.fertilityfriend.com
 0.0.0.0 analytics.fetch.com
 0.0.0.0 analytics.ff.avast.sec.miui.com
+0.0.0.0 analytics.ff.awast.com
 0.0.0.0 analytics.filefactory.com
 0.0.0.0 analytics.fitbark.com
 0.0.0.0 analytics.fitbit.com
