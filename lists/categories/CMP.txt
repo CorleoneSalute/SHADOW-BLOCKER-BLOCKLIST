@@ -13,8 +13,10 @@ up-track.osano.com
 tattle.api.osano.com
 
 # Data Collection
-mms.sp-prod.net
+analytics.didomi.io
 amp.didomi.io
+history-logs.didomi.io
+metrics.didomi.io
 disclaimer-api.goadopt.io !
 
 # Covert / Obfuscated Tracking
