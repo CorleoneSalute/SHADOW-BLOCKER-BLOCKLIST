@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9434
+# Total domains: 9435
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9099,6 +9099,7 @@ web.adblade.com
 web.uxcam.com
 web1.adf.ly
 web3.adf.ly
+webads.mgr.consensu.org
 webanalytics.sportingbet.com
 webapp.driversupport.com
 webgains.io

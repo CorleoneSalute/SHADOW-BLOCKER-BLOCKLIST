@@ -1,6 +1,6 @@
 # ============================================================
 # CMP BLOCKLIST - BASIC
-# Total domains: 15
+# Total domains: 16
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -20,3 +20,4 @@
 0.0.0.0 summerhamster.com
 0.0.0.0 tattle.api.osano.com
 0.0.0.0 up-track.osano.com
+0.0.0.0 webads.mgr.consensu.org
