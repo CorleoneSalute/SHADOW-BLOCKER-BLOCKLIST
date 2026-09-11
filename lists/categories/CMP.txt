@@ -10,6 +10,7 @@ analytics.sourcepoint.com
 log.cookieyes.com
 consentlog.cookieyes.com
 consentlogapi.cookieyes.com
+log.uniconsent.com
 up-track.osano.com
 tattle.api.osano.com
 
