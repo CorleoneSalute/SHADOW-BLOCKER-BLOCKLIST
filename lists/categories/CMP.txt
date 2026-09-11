@@ -33,19 +33,3 @@ geo.privacy-center.org !
 geo.uniconsent.com !
 geolocation.seersco.com !
 region-eu.cookiehub.net !
-
-# Cross-Site Consent Synchronization "# ⚠️ Domains that synchronize user consent IDs across sites — tracking vector.If these domains are blocked, user's saved consent preferences cannot be loaded; consent banner reappears on every visit."
-consent.onetrust.com !
-consent-api.onetrust.com !
-cookies-data.onetrust.io !
-mobile-data.onetrust.io !
-consent.cookiebot.com !
-consentcdn.cookiebot.com !
-consent.cookiebot.eu !
-consentcdn.cookiebot.eu !
-unifiedconsent.osano.com !
-uc.api.osano.com !
-privacy-proxy.usercentrics.eu !
-consent.cookiehub.net !
-consent-eu.cookiehub.net !
-ds.cookiehub.net !
