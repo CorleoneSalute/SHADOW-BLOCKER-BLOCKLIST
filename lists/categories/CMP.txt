@@ -7,6 +7,8 @@
 # Analytics & Telemetry
 analytics.cookielaw.org
 analytics.sourcepoint.com
+analytics.didomi.io
+analytics.usercentrics.com
 log.cookieyes.com
 consentlog.cookieyes.com
 consentlogapi.cookieyes.com
@@ -16,7 +18,6 @@ tattle.api.osano.com
 webads.mgr.consensu.org
 
 # Data Collection
-analytics.didomi.io
 amp.didomi.io
 history-logs.didomi.io
 metrics.didomi.io
