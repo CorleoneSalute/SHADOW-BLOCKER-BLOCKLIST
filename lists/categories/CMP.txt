@@ -1,30 +1,42 @@
 # CMP (Consent Management Platform) Blocklist
-
-# Total domains: 19
+# Total domains: 26
 # Last update: 2026/09/11
 # Notes: trailing "!" marks a domain as aggressive-only
 
-# Analytics & Telemetry
+# OneTrust
 analytics.cookielaw.org
+smetrics.onetrust.com
+
+# Sourcepoint
 analytics.sourcepoint.com
+
+# Didomi
 analytics.didomi.io
+history-logs.didomi.io
+metrics.didomi.io
+
+# Usercentrics
 analytics.usercentrics.com
+
+# CookieYes
 log.cookieyes.com
 consentlog.cookieyes.com
 consentlogapi.cookieyes.com
+
+# UniConsent
 log.uniconsent.com
+
+# Osano
 up-track.osano.com
 tattle.api.osano.com
+
+# Consensu (IAB TCF infrastructure)
 webads.mgr.consensu.org
 
-# Data Collection
-amp.didomi.io
-history-logs.didomi.io
-metrics.didomi.io
-smetrics.onetrust.com
+# Adopt (goadopt.io)
 disclaimer-api.goadopt.io !
 
-# Covert / Obfuscated Tracking
+# Covert / Obfuscated Tracking (unidentified/disguised infra)
 summerhamster.com
 d2zv5rkii46miq.cloudfront.net
 d3fkv551xkjrmm.cloudfront.net !
