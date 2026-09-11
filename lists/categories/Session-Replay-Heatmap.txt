@@ -293,6 +293,7 @@ goacoustic.com
 libs.acoustic.co
 tealeaf.com
 tealeaf.ibmcloud.com
+getingeprod.planning-analytics.ibmcloud.com
 tealeafcloud.com
 www.acoustic.com
 
