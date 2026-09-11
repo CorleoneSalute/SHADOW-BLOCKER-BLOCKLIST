@@ -1227,6 +1227,7 @@ xaaf-metrics.directv.com
 
 ```
 analytics.verizon.com
+lkg08-metrics.svcs.verizon.com
 ```
 
 ### T-MOBILE (10 domain)
