@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9015
-# Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9016
+# Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -3874,6 +3874,7 @@
 ||get.brightdata.com^
 ||get.shouji.sogou.com^
 ||getadlib.com^
+||getingeprod.planning-analytics.ibmcloud.com^
 ||getmiles.com^
 ||getmydrivers.com^
 ||getpixelme.com^

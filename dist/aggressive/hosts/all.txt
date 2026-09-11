@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9440
-# Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9441
+# Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -4071,6 +4071,7 @@
 0.0.0.0 get.brightdata.com
 0.0.0.0 get.shouji.sogou.com
 0.0.0.0 getadlib.com
+0.0.0.0 getingeprod.planning-analytics.ibmcloud.com
 0.0.0.0 getmiles.com
 0.0.0.0 getmydrivers.com
 0.0.0.0 getpixelme.com

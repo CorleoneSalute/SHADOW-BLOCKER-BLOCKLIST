@@ -1,7 +1,7 @@
 # ============================================================
 # SESSION REPLAY HEATMAP BLOCKLIST - BASIC
-# Total domains: 284
-# Generated: 2026-09-10 (UTC) - auto-generated, do not edit by hand
+# Total domains: 285
+# Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -133,6 +133,7 @@
 0.0.0.0 fullstory.net
 0.0.0.0 g.clarity.ms
 0.0.0.0 gateway.glassboxdigital.com
+0.0.0.0 getingeprod.planning-analytics.ibmcloud.com
 0.0.0.0 glassbox.com
 0.0.0.0 glassbox.digital
 0.0.0.0 glassboxdigital.com
