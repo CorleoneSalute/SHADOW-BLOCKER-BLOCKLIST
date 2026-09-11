@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9436
+# Total domains: 9437
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -602,6 +602,7 @@ ads30.adcolony.com
 ads33.adtelligent.com
 ads5.huawei.com
 ads54.adtelligent.com
+ads6.textra.me
 adsapi-proxy-il.waze.com
 adsapi-proxy-na.waze.com
 adsapi-proxy-row.waze.com

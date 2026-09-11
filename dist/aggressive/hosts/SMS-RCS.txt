@@ -1,11 +1,12 @@
 # ============================================================
 # SMS RCS BLOCKLIST - AGGRESSIVE
-# Total domains: 25
+# Total domains: 26
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 0.0.0.0 adhoc.textra.me
+0.0.0.0 ads6.textra.me
 0.0.0.0 analytics.textra.me
 0.0.0.0 api.gosmspro.com
 0.0.0.0 backup.gosmspro.com
