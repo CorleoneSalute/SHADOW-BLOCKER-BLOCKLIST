@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9028
+# Total domains: 9029
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5256,6 +5256,7 @@
 0.0.0.0 metrics.reebok.com
 0.0.0.0 metrics.replika.ai
 0.0.0.0 metrics.resonite.com
+0.0.0.0 metrics.riobet.com
 0.0.0.0 metrics.riotgames.com
 0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.roku.com

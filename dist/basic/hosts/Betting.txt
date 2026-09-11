@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 246
+# Total domains: 247
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -158,6 +158,7 @@
 0.0.0.0 metrics.gnosischain.com
 0.0.0.0 metrics.megawinslots.com
 0.0.0.0 metrics.playhugelottos.com
+0.0.0.0 metrics.riobet.com
 0.0.0.0 metrics.sharpxch.com
 0.0.0.0 metrics.trillonario.com
 0.0.0.0 mgas-log.fhcasino.com

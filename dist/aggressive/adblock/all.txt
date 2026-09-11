@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9432
+# Total domains: 9433
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5494,6 +5494,7 @@
 ||metrics.reebok.com^
 ||metrics.replika.ai^
 ||metrics.resonite.com^
+||metrics.riobet.com^
 ||metrics.riotgames.com^
 ||metrics.roblox.com^
 ||metrics.roku.com^
