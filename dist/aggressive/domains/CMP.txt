@@ -31,8 +31,8 @@ mms.sp-prod.net
 mobile-data.onetrust.io
 privacy-proxy.usercentrics.eu
 region-eu.cookiehub.net
-report.cookie-script.com
 summerhamster.com
 tattle.api.osano.com
 uc.api.osano.com
 unifiedconsent.osano.com
+up-track.osano.com

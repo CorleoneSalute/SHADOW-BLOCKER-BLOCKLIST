@@ -10,6 +10,6 @@
 ||d2zv5rkii46miq.cloudfront.net^
 ||log.cookieyes.com^
 ||mms.sp-prod.net^
-||report.cookie-script.com^
 ||summerhamster.com^
 ||tattle.api.osano.com^
+||up-track.osano.com^

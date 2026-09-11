@@ -6324,7 +6324,6 @@ report-eu.uc.heytapmobile.com
 report-in.uc.heytapmobile.com
 report-sg.uc.heytapmobile.com
 report.appmetrica.yango.com
-report.cookie-script.com
 report.gras.samsungdm.com
 report.n.xiaomi.com
 reporting.360yield.com
@@ -8424,6 +8423,7 @@ unpollute-my-mac.com
 unreal.backtrace.io
 unruly.co
 unrulymedia.com
+up-track.osano.com
 update.3lift.com
 update.adsrvr.org
 update.avlyun.sec.miui.com

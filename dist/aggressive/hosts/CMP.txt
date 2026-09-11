@@ -31,8 +31,8 @@
 0.0.0.0 mobile-data.onetrust.io
 0.0.0.0 privacy-proxy.usercentrics.eu
 0.0.0.0 region-eu.cookiehub.net
-0.0.0.0 report.cookie-script.com
 0.0.0.0 summerhamster.com
 0.0.0.0 tattle.api.osano.com
 0.0.0.0 uc.api.osano.com
 0.0.0.0 unifiedconsent.osano.com
+0.0.0.0 up-track.osano.com
