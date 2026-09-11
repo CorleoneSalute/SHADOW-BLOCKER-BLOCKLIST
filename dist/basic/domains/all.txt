@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9020
+# Total domains: 9021
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7055,6 +7055,7 @@ smetrics.majestic.co.uk
 smetrics.medical.otsuka-us.com
 smetrics.medicalinformation.otsuka-us.com
 smetrics.nintendo.com
+smetrics.onetrust.com
 smetrics.otsuka-us.com
 smetrics.panasonic.com
 smetrics.petsmart.com

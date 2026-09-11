@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9431
+# Total domains: 9432
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7397,6 +7397,7 @@
 0.0.0.0 smetrics.medical.otsuka-us.com
 0.0.0.0 smetrics.medicalinformation.otsuka-us.com
 0.0.0.0 smetrics.nintendo.com
+0.0.0.0 smetrics.onetrust.com
 0.0.0.0 smetrics.otsuka-us.com
 0.0.0.0 smetrics.panasonic.com
 0.0.0.0 smetrics.petsmart.com
