@@ -1,6 +1,6 @@
 # ============================================================
 # CMP BLOCKLIST - AGGRESSIVE
-# Total domains: 31
+# Total domains: 33
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -15,6 +15,8 @@
 0.0.0.0 consent.onetrust.com
 0.0.0.0 consentcdn.cookiebot.com
 0.0.0.0 consentcdn.cookiebot.eu
+0.0.0.0 consentlog.cookieyes.com
+0.0.0.0 consentlogapi.cookieyes.com
 0.0.0.0 cookies-data.onetrust.io
 0.0.0.0 d2zv5rkii46miq.cloudfront.net
 0.0.0.0 d3fkv551xkjrmm.cloudfront.net

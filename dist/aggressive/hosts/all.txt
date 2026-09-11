@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9441
+# Total domains: 9443
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2922,6 +2922,8 @@
 0.0.0.0 consent.onetrust.com
 0.0.0.0 consentcdn.cookiebot.com
 0.0.0.0 consentcdn.cookiebot.eu
+0.0.0.0 consentlog.cookieyes.com
+0.0.0.0 consentlogapi.cookieyes.com
 0.0.0.0 console.fyber.com
 0.0.0.0 contact.ads.brave.com
 0.0.0.0 content-ad.net

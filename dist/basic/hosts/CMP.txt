@@ -1,12 +1,14 @@
 # ============================================================
 # CMP BLOCKLIST - BASIC
-# Total domains: 8
+# Total domains: 10
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 0.0.0.0 amp.didomi.io
 0.0.0.0 analytics.cookielaw.org
+0.0.0.0 consentlog.cookieyes.com
+0.0.0.0 consentlogapi.cookieyes.com
 0.0.0.0 d2zv5rkii46miq.cloudfront.net
 0.0.0.0 log.cookieyes.com
 0.0.0.0 mms.sp-prod.net

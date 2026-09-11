@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9016
+# Total domains: 9018
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2832,6 +2832,8 @@
 0.0.0.0 connectad.io
 0.0.0.0 connectadrealtime.com
 0.0.0.0 connectid.yahoo.com
+0.0.0.0 consentlog.cookieyes.com
+0.0.0.0 consentlogapi.cookieyes.com
 0.0.0.0 console.fyber.com
 0.0.0.0 contact.ads.brave.com
 0.0.0.0 content-ad.net
