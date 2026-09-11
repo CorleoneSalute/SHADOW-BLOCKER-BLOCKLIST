@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9445
+# Total domains: 9431
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2915,14 +2915,6 @@ connect.facebook.net
 connectad.io
 connectadrealtime.com
 connectid.yahoo.com
-consent-api.onetrust.com
-consent-eu.cookiehub.net
-consent.cookiebot.com
-consent.cookiebot.eu
-consent.cookiehub.net
-consent.onetrust.com
-consentcdn.cookiebot.com
-consentcdn.cookiebot.eu
 consentlog.cookieyes.com
 consentlogapi.cookieyes.com
 console.fyber.com
@@ -2961,7 +2953,6 @@ convlatbmp.taboola.com
 convnjmp.taboola.com
 convtrack.facebook.com
 cookiecheck.criteo.com
-cookies-data.onetrust.io
 cool.co
 cooper.logs.roku.com
 copilot-telemetry.githubusercontent.com
@@ -3411,7 +3402,6 @@ driverupdate.net
 drivescrubber.com
 dropboxexperiment.com
 drp.su
-ds.cookiehub.net
 dsp-api.smartyads.com
 dsp-cdn.eskimi.com
 dsp-trk.eskimi.com
@@ -5655,7 +5645,6 @@ mobile-analytics.uber.com
 mobile-api.revcontent.com
 mobile-api.taboola.com
 mobile-crash-reporting.facebook.com
-mobile-data.onetrust.io
 mobile-sdk.smartlook.com
 mobile.anycast.adnxs.com
 mobile.logs.roku.com
@@ -6442,7 +6431,6 @@ presentationtracking.netflix.com
 preview.crm.sms.miui.com
 preview.e-planning.net
 primis.tech
-privacy-proxy.usercentrics.eu
 privacyreviver.com
 private.dianomi.com
 probe-target.criteo.net
@@ -8783,7 +8771,6 @@ uba.huaweicloud.com
 ubacollect-drcn.cloud.dbankcloud.cn
 ubimo.com
 ubuntu-report.canonical.com
-uc.api.osano.com
 ucads-static.ucweb.com
 ucads.ucweb.com
 ucstat.baidu.com
@@ -8804,7 +8791,6 @@ undertone.com
 ungads.com
 uniblue.com
 unifiedbidding.ad.smaato.net
-unifiedconsent.osano.com
 uninstall.remerge.io
 union.baidu.com
 union.pangleglobal.com

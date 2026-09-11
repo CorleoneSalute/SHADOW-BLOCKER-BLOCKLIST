@@ -1,6 +1,6 @@
 # ============================================================
 # CMP BLOCKLIST - AGGRESSIVE
-# Total domains: 35
+# Total domains: 21
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8,21 +8,11 @@
 0.0.0.0 amp.didomi.io
 0.0.0.0 analytics.cookielaw.org
 0.0.0.0 analytics.didomi.io
-0.0.0.0 consent-api.onetrust.com
-0.0.0.0 consent-eu.cookiehub.net
-0.0.0.0 consent.cookiebot.com
-0.0.0.0 consent.cookiebot.eu
-0.0.0.0 consent.cookiehub.net
-0.0.0.0 consent.onetrust.com
-0.0.0.0 consentcdn.cookiebot.com
-0.0.0.0 consentcdn.cookiebot.eu
 0.0.0.0 consentlog.cookieyes.com
 0.0.0.0 consentlogapi.cookieyes.com
-0.0.0.0 cookies-data.onetrust.io
 0.0.0.0 d2zv5rkii46miq.cloudfront.net
 0.0.0.0 d3fkv551xkjrmm.cloudfront.net
 0.0.0.0 disclaimer-api.goadopt.io
-0.0.0.0 ds.cookiehub.net
 0.0.0.0 geo.cookiebot.com
 0.0.0.0 geo.privacy-center.org
 0.0.0.0 geo.uniconsent.com
@@ -32,11 +22,7 @@
 0.0.0.0 history-logs.didomi.io
 0.0.0.0 log.cookieyes.com
 0.0.0.0 metrics.didomi.io
-0.0.0.0 mobile-data.onetrust.io
-0.0.0.0 privacy-proxy.usercentrics.eu
 0.0.0.0 region-eu.cookiehub.net
 0.0.0.0 summerhamster.com
 0.0.0.0 tattle.api.osano.com
-0.0.0.0 uc.api.osano.com
-0.0.0.0 unifiedconsent.osano.com
 0.0.0.0 up-track.osano.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9445
+# Total domains: 9431
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2915,14 +2915,6 @@
 0.0.0.0 connectad.io
 0.0.0.0 connectadrealtime.com
 0.0.0.0 connectid.yahoo.com
-0.0.0.0 consent-api.onetrust.com
-0.0.0.0 consent-eu.cookiehub.net
-0.0.0.0 consent.cookiebot.com
-0.0.0.0 consent.cookiebot.eu
-0.0.0.0 consent.cookiehub.net
-0.0.0.0 consent.onetrust.com
-0.0.0.0 consentcdn.cookiebot.com
-0.0.0.0 consentcdn.cookiebot.eu
 0.0.0.0 consentlog.cookieyes.com
 0.0.0.0 consentlogapi.cookieyes.com
 0.0.0.0 console.fyber.com
@@ -2961,7 +2953,6 @@
 0.0.0.0 convnjmp.taboola.com
 0.0.0.0 convtrack.facebook.com
 0.0.0.0 cookiecheck.criteo.com
-0.0.0.0 cookies-data.onetrust.io
 0.0.0.0 cool.co
 0.0.0.0 cooper.logs.roku.com
 0.0.0.0 copilot-telemetry.githubusercontent.com
@@ -3411,7 +3402,6 @@
 0.0.0.0 drivescrubber.com
 0.0.0.0 dropboxexperiment.com
 0.0.0.0 drp.su
-0.0.0.0 ds.cookiehub.net
 0.0.0.0 dsp-api.smartyads.com
 0.0.0.0 dsp-cdn.eskimi.com
 0.0.0.0 dsp-trk.eskimi.com
@@ -5655,7 +5645,6 @@
 0.0.0.0 mobile-api.revcontent.com
 0.0.0.0 mobile-api.taboola.com
 0.0.0.0 mobile-crash-reporting.facebook.com
-0.0.0.0 mobile-data.onetrust.io
 0.0.0.0 mobile-sdk.smartlook.com
 0.0.0.0 mobile.anycast.adnxs.com
 0.0.0.0 mobile.logs.roku.com
@@ -6442,7 +6431,6 @@
 0.0.0.0 preview.crm.sms.miui.com
 0.0.0.0 preview.e-planning.net
 0.0.0.0 primis.tech
-0.0.0.0 privacy-proxy.usercentrics.eu
 0.0.0.0 privacyreviver.com
 0.0.0.0 private.dianomi.com
 0.0.0.0 probe-target.criteo.net
@@ -8783,7 +8771,6 @@
 0.0.0.0 ubacollect-drcn.cloud.dbankcloud.cn
 0.0.0.0 ubimo.com
 0.0.0.0 ubuntu-report.canonical.com
-0.0.0.0 uc.api.osano.com
 0.0.0.0 ucads-static.ucweb.com
 0.0.0.0 ucads.ucweb.com
 0.0.0.0 ucstat.baidu.com
@@ -8804,7 +8791,6 @@
 0.0.0.0 ungads.com
 0.0.0.0 uniblue.com
 0.0.0.0 unifiedbidding.ad.smaato.net
-0.0.0.0 unifiedconsent.osano.com
 0.0.0.0 uninstall.remerge.io
 0.0.0.0 union.baidu.com
 0.0.0.0 union.pangleglobal.com
