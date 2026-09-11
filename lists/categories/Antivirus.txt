@@ -23,6 +23,7 @@ vl.ff.avast.com !
 an.avast.com
 ans.avast.com                   
 ads.avast.com
+analytics.ff.awast.com
 
 # AVG
 tracking.avg.com
