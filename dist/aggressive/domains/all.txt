@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9436
+# Total domains: 9429
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4051,14 +4051,8 @@ geo-drcn.platform.hicloud.com
 geo-surf.com
 geo.ads.brave.com
 geo.ads.bravesoftware.com
-geo.cookiebot.com
-geo.privacy-center.org
-geo.uniconsent.com
 geoedge.com
 geoip.cactusglobal.com
-geolocation.onetrust.com
-geolocation.seersco.com
-geolocation.sourcepoint.com
 geologgera1.geodell.dell.com
 geologgeran.us.dell.com
 geologgerbn.us.dell.com
@@ -6623,7 +6617,6 @@ regcleanpro.com
 regcure.com
 regecish.net
 regi.di.atlas.samsung.com
-region-eu.cookiehub.net
 region.dbankedge.cn
 register.collector.scopely.io
 registry-cleaner.net

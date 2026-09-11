@@ -1,6 +1,6 @@
 # ============================================================
 # CMP BLOCKLIST - AGGRESSIVE
-# Total domains: 26
+# Total domains: 19
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -15,17 +15,10 @@
 ||d2zv5rkii46miq.cloudfront.net^
 ||d3fkv551xkjrmm.cloudfront.net^
 ||disclaimer-api.goadopt.io^
-||geo.cookiebot.com^
-||geo.privacy-center.org^
-||geo.uniconsent.com^
-||geolocation.onetrust.com^
-||geolocation.seersco.com^
-||geolocation.sourcepoint.com^
 ||history-logs.didomi.io^
 ||log.cookieyes.com^
 ||log.uniconsent.com^
 ||metrics.didomi.io^
-||region-eu.cookiehub.net^
 ||smetrics.onetrust.com^
 ||summerhamster.com^
 ||tattle.api.osano.com^

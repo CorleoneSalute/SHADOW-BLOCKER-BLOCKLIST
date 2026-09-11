@@ -1,6 +1,6 @@
 # CMP (Consent Management Platform) Blocklist
 
-# Total domains: 26
+# Total domains: 19
 # Last update: 2026/09/11
 # Notes: trailing "!" marks a domain as aggressive-only
 
