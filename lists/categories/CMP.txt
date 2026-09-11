@@ -6,6 +6,7 @@
 
 # Analytics & Telemetry
 analytics.cookielaw.org
+analytics.sourcepoint.com
 log.cookieyes.com
 consentlog.cookieyes.com
 consentlogapi.cookieyes.com
