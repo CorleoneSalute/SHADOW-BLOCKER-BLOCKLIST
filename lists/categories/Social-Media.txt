@@ -750,6 +750,7 @@ intg.snapchat.com
 log.sc-prod.net
 omnicollector.snapchat.com
 sc-analytics.appspot.com
+tracker-novembers-347342.appspot.com
 sentry.sc-prod.net
 server-analytics.snapchat.com
 snapads.com
