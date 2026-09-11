@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9018
+# Total domains: 9020
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1028,6 +1028,7 @@ analytics.descript.com
 analytics.devcycle.com
 analytics.dialpad.com
 analytics.didichuxing.com
+analytics.didomi.io
 analytics.digital.orange.es
 analytics.digitalpour.com
 analytics.discoveryplus.com
@@ -4062,6 +4063,7 @@ hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn
 hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn
 hisearch-dra-dt-dbankcloud-com-dra.edge.dbankedge.cn
 hist.stats.avast.com
+history-logs.didomi.io
 hitwise.com
 hivestack.com
 hk.mibi.xiaomi.com
@@ -5130,6 +5132,7 @@ metrics.data.hicloud.com
 metrics.datadome.co
 metrics.dazn.com
 metrics.descript.com
+metrics.didomi.io
 metrics.discoveryplus.com
 metrics.disneyplus.com
 metrics.dmsp.dell.com
@@ -5379,7 +5382,6 @@ ml.adikteev.com
 ml.remerge.io
 mlog.search.xiaomi.net
 mmoity.com
-mms.sp-prod.net
 mntn.com
 moa-upload-eu.allawnos.com
 moa-upload-in.allawnos.com

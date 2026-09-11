@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9443
+# Total domains: 9445
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1067,6 +1067,7 @@
 ||analytics.devcycle.com^
 ||analytics.dialpad.com^
 ||analytics.didichuxing.com^
+||analytics.didomi.io^
 ||analytics.digital.orange.es^
 ||analytics.digitalpour.com^
 ||analytics.discoveryplus.com^
@@ -4281,6 +4282,7 @@
 ||hisearch-drru.dt.dbankcloud.com^
 ||hisearch-drru.dt.dbankcloud.ru^
 ||hist.stats.avast.com^
+||history-logs.didomi.io^
 ||hitwise.com^
 ||hivestack.com^
 ||hk.mibi.xiaomi.com^
@@ -5384,6 +5386,7 @@
 ||metrics.datadome.co^
 ||metrics.dazn.com^
 ||metrics.descript.com^
+||metrics.didomi.io^
 ||metrics.discoveryplus.com^
 ||metrics.disneyplus.com^
 ||metrics.dmsp.dell.com^
@@ -5634,7 +5637,6 @@
 ||ml.remerge.io^
 ||mlog.search.xiaomi.net^
 ||mmoity.com^
-||mms.sp-prod.net^
 ||mntn.com^
 ||moa-upload-eu.allawnos.com^
 ||moa-upload-in.allawnos.com^

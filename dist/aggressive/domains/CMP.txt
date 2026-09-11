@@ -1,12 +1,13 @@
 # ============================================================
 # CMP BLOCKLIST - AGGRESSIVE
-# Total domains: 33
+# Total domains: 35
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 amp.didomi.io
 analytics.cookielaw.org
+analytics.didomi.io
 consent-api.onetrust.com
 consent-eu.cookiehub.net
 consent.cookiebot.com
@@ -28,8 +29,9 @@ geo.uniconsent.com
 geolocation.onetrust.com
 geolocation.seersco.com
 geolocation.sourcepoint.com
+history-logs.didomi.io
 log.cookieyes.com
-mms.sp-prod.net
+metrics.didomi.io
 mobile-data.onetrust.io
 privacy-proxy.usercentrics.eu
 region-eu.cookiehub.net
