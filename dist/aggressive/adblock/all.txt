@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9428
+# Total domains: 9431
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -390,6 +390,7 @@
 ||ads-ie.tiktokw.eu^
 ||ads-img.mozilla.org^
 ||ads-interfaces.sc-cdn.net^
+||ads-media.1muslimapp.com^
 ||ads-media.truecaller.com^
 ||ads-partners.roku.com^
 ||ads-portal-api-gateway.optisigns.com^
@@ -413,6 +414,7 @@
 ||ads-useast2a.tiktok.com^
 ||ads-v-darwin.hulu.com^
 ||ads-v.reddit.com^
+||ads.1muslimapp.com^
 ||ads.7k.bet.br^
 ||ads.acast.com^
 ||ads.accuweather.com^
@@ -1691,6 +1693,7 @@
 ||apex-hb.go.sonobi.com^
 ||apex.go.sonobi.com^
 ||api-access.pangolin-sdk-toutiao.com^
+||api-ads.1muslimapp.com^
 ||api-adservices.apple.com^
 ||api-advertiser.linkvertise.com^
 ||api-analytics.bird.co^

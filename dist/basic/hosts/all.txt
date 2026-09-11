@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9024
+# Total domains: 9027
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -370,6 +370,7 @@
 0.0.0.0 ads-ie.tiktokw.eu
 0.0.0.0 ads-img.mozilla.org
 0.0.0.0 ads-interfaces.sc-cdn.net
+0.0.0.0 ads-media.1muslimapp.com
 0.0.0.0 ads-media.truecaller.com
 0.0.0.0 ads-partners.roku.com
 0.0.0.0 ads-portal-api-gateway.optisigns.com
@@ -393,6 +394,7 @@
 0.0.0.0 ads-useast2a.tiktok.com
 0.0.0.0 ads-v-darwin.hulu.com
 0.0.0.0 ads-v.reddit.com
+0.0.0.0 ads.1muslimapp.com
 0.0.0.0 ads.7k.bet.br
 0.0.0.0 ads.accuweather.com
 0.0.0.0 ads.acer.com
@@ -1648,6 +1650,7 @@
 0.0.0.0 apex-hb.go.sonobi.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api-access.pangolin-sdk-toutiao.com
+0.0.0.0 api-ads.1muslimapp.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 api-advertiser.linkvertise.com
 0.0.0.0 api-analytics.bird.co

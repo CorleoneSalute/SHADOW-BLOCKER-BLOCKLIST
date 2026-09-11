@@ -1,10 +1,12 @@
 # ============================================================
 # RELIGIOUS SPIRITUAL BLOCKLIST - BASIC
-# Total domains: 30
+# Total domains: 33
 # Generated: 2026-09-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+0.0.0.0 ads-media.1muslimapp.com
+0.0.0.0 ads.1muslimapp.com
 0.0.0.0 analytics.abide.co
 0.0.0.0 analytics.athan.com
 0.0.0.0 analytics.bible.com
@@ -15,6 +17,7 @@
 0.0.0.0 analytics.muslimpro.com
 0.0.0.0 analytics.quranmajeed.com
 0.0.0.0 analytics.zabihah.com
+0.0.0.0 api-ads.1muslimapp.com
 0.0.0.0 api.xmode.io
 0.0.0.0 beaconsinspace.com
 0.0.0.0 data.locate-x.com
