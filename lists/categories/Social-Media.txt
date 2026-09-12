@@ -515,6 +515,7 @@ xlog16-normal-c-useast1a.tiktokv.com
 xlog16-normal-c-useast2a.tiktokv.com
 xlog16-platform-ycru.tiktokv.com
 xlog16-tmp-normal-useast1a.tiktokv.com
+mssdk-ru.tiktokv.com.www.digmawifi.com
 ```
 
 **tiktokv.eu Telemetry** (9 domain)
@@ -546,6 +547,7 @@ rtc-logger-ttp2.tiktokv.us
 rtc-logger.tiktokv.us
 rtlog16-normal-useast5.tiktokv.us
 rtlog16-normal-useast8.tiktokv.us
+ad-format.tiktokv.us
 ```
 
 **Location Track** (14 domain)
@@ -565,6 +567,7 @@ location-va.tiktokv.com
 location.tiktok.com
 location.tiktokv.com
 location.us.tiktokv.com
+location-ru.tiktokv.com
 ```
 
 **us.tiktokv.com Telemetry** (20 domain)
