@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - BASIC
-# Total domains: 453
+# Total domains: 506
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -58,10 +58,13 @@
 0.0.0.0 advertising.tivo.com
 0.0.0.0 advertising.us-east-1.msc.roku.com
 0.0.0.0 adview.acr.roku.com
+0.0.0.0 ae-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 aic-ngfts.lge.com
 0.0.0.0 aic.cdpbeacon.lgtvcommon.com
 0.0.0.0 aic.cdpsvc.lgtvcommon.com
 0.0.0.0 aic.nudge.lgtvcommon.com
+0.0.0.0 al-info-lgsmartad-com.aws-prd.net
+0.0.0.0 al-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 alphonso.tv
 0.0.0.0 amarillo.logs.roku.com
 0.0.0.0 analysis.coolita.com
@@ -84,6 +87,10 @@
 0.0.0.0 api.inscape.tv
 0.0.0.0 api.samba.tv
 0.0.0.0 apu.samsungelectronics.com
+0.0.0.0 at-info-lgsmartad-com.aws-prd.net
+0.0.0.0 at-rdx2-lgtvsdp-com.aws-prd.net
+0.0.0.0 au-info-lgsmartad-com.aws-prd.net
+0.0.0.0 au-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 austin.logs.roku.com
 0.0.0.0 avhk-test.brdtnet.com
 0.0.0.0 avhk-test2.brdtnet.com
@@ -93,14 +100,18 @@
 0.0.0.0 avva.conf.brdtnet.com
 0.0.0.0 aws.external.logs.roku.com
 0.0.0.0 bailey.logs.roku.com
+0.0.0.0 be-info-lgsmartad-com.aws-prd.net
 0.0.0.0 beacon.roku.com
 0.0.0.0 beacon.web.roku.com
 0.0.0.0 benjamin-w.logs.roku.com
 0.0.0.0 benjamin.logs.roku.com
+0.0.0.0 bg-info-lgsmartad-com.aws-prd.net
 0.0.0.0 bl-server.alphonso.tv
 0.0.0.0 blog-advertising-v2.us-east-1.msc.roku.com
 0.0.0.0 blog-advertising.msc.roku.com
 0.0.0.0 bpu.samsungelectronics.com
+0.0.0.0 br-info-lgsmartad-com.aws-prd.net
+0.0.0.0 br-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 brdtest.com
 0.0.0.0 brdtnet.com
 0.0.0.0 brewster.logs.roku.com
@@ -110,6 +121,10 @@
 0.0.0.0 brightdata.work
 0.0.0.0 bryan.logs.roku.com
 0.0.0.0 bugsnag.appstore.a2z.com
+0.0.0.0 by-info-lgsmartad-com.aws-prd.net
+0.0.0.0 by-rdx2-lgtvsdp-com.aws-prd.net
+0.0.0.0 ca-info-lgsmartad-com.aws-prd.net
+0.0.0.0 ca-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 ca-service.acr.roku.com
 0.0.0.0 call.me.sel.sony.com
 0.0.0.0 camden.logs.roku.com
@@ -120,6 +135,8 @@
 0.0.0.0 cdpbeacon.lgtvcommon.com
 0.0.0.0 cdpbeacon2.lgtvcommon.com
 0.0.0.0 cdpsvc.lgtvcommon.com
+0.0.0.0 ch-info-lgsmartad-com.aws-prd.net
+0.0.0.0 ch-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 channels.acr.roku.com
 0.0.0.0 client.earnapp.com
 0.0.0.0 clientsdk.brdtnet.com
@@ -163,6 +180,8 @@
 0.0.0.0 data.samba.tv
 0.0.0.0 datasets-automation-server.brdtnet.com
 0.0.0.0 dcmp.brightdata.com
+0.0.0.0 de-info-lgsmartad-com.aws-prd.net
+0.0.0.0 de-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 de.ad.lgsmartad.com
 0.0.0.0 de.info.lgsmartad.com
 0.0.0.0 de.ioam.de
@@ -189,6 +208,9 @@
 0.0.0.0 dpu.samsungelectronics.com
 0.0.0.0 dsp.samsungads.com
 0.0.0.0 eads.tcl.com
+0.0.0.0 ee-info-lgsmartad-com.aws-prd.net
+0.0.0.0 ee-rdx2-lgtvsdp-com.aws-prd.net
+0.0.0.0 eg-info-lgsmartad-com.aws-prd.net
 0.0.0.0 eic-ngfts.lge.com
 0.0.0.0 eic-ngfts.lge.com.edgekey.net
 0.0.0.0 eic.cdpbeacon.lgtvcommon.com
@@ -198,16 +220,23 @@
 0.0.0.0 es-logger-dns.bdp.roku.com
 0.0.0.0 es-logger.bdp.roku.com
 0.0.0.0 esp.logs.roku.com
+0.0.0.0 eu7-info-lgsmartad-com.aws-prd.net
 0.0.0.0 event-tracking.samsung.com
 0.0.0.0 events.cid.samba.tv
 0.0.0.0 events.samsungads.com
 0.0.0.0 external.logs.roku.com
 0.0.0.0 facemap.foldlife.net
+0.0.0.0 fi-info-lgsmartad-com.aws-prd.net
+0.0.0.0 fi-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 firetv.bugsnag.appstore.a2z.com
 0.0.0.0 flingo.tv
 0.0.0.0 forti.home.brightdata.com
+0.0.0.0 fr-info-lgsmartad-com.aws-prd.net
+0.0.0.0 fr-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 fr.rdx2.lgtvsdp.com
 0.0.0.0 g3.logs.roku.com
+0.0.0.0 gb-info-lgsmartad-com.aws-prd.net
+0.0.0.0 gb-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 gb.info.lgsmartad.com
 0.0.0.0 get.brightdata.com
 0.0.0.0 giga.logs.roku.com
@@ -217,6 +246,8 @@
 0.0.0.0 go.samsungads.com
 0.0.0.0 go2.samsungads.com
 0.0.0.0 gozendata.com
+0.0.0.0 gr-info-lgsmartad-com.aws-prd.net
+0.0.0.0 gr-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 grafana.acr.roku.com
 0.0.0.0 griffin.logs.roku.com
 0.0.0.0 gz-data.com
@@ -238,8 +269,10 @@
 0.0.0.0 hwads-o.res.leiniao.com
 0.0.0.0 hwtpc-o.api.leiniao.com
 0.0.0.0 i.ads.roku.com
+0.0.0.0 ibs.nextlgsdp.com
 0.0.0.0 identity-dev.ads.roku.com
 0.0.0.0 identity.ads.roku.com
+0.0.0.0 in-info-lgsmartad-com.aws-prd.net
 0.0.0.0 info.ads.roku.com
 0.0.0.0 info.advertising.roku.com
 0.0.0.0 info.lgsmartad.com
@@ -248,6 +281,10 @@
 0.0.0.0 insights-api.brightdata.com
 0.0.0.0 insights.brightdata.com
 0.0.0.0 insights.video.a2z.com
+0.0.0.0 ir-info-lgsmartad-com.aws-prd.net
+0.0.0.0 ir-rdx2-lgtvsdp-com.aws-prd.net
+0.0.0.0 it-info-lgsmartad-com.aws-prd.net
+0.0.0.0 it-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 jp.ad.lgsmartad.com
 0.0.0.0 jp.info.lgsmartad.com
 0.0.0.0 jp.rdx2.lgtvsdp.com
@@ -308,7 +345,11 @@
 0.0.0.0 mx.brightdata.com
 0.0.0.0 nemo.logs.roku.com
 0.0.0.0 ngfts.lge.com
+0.0.0.0 nl-info-lgsmartad-com.aws-prd.net
+0.0.0.0 nl-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 nmetrics.samsung.com
+0.0.0.0 no-info-lgsmartad-com.aws-prd.net
+0.0.0.0 no-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 notify.bugsnag.appstore.a2z.com
 0.0.0.0 notify.firetv.bugsnag.appstore.a2z.com
 0.0.0.0 nudge.lgtvcommon.com
@@ -320,10 +361,13 @@
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 perr.l-agent.me
 0.0.0.0 perr.l-err.biz
+0.0.0.0 ph-info-lgsmartad-com.aws-prd.net
 0.0.0.0 pico.logs.roku.com
 0.0.0.0 pixel.tivo.com
 0.0.0.0 pixel.web.roku.com
 0.0.0.0 pixel2.web.roku.com
+0.0.0.0 pl-info-lgsmartad-com.aws-prd.net
+0.0.0.0 pl-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 platform.cid.samba.tv
 0.0.0.0 post.analysis.coolita.com
 0.0.0.0 post.analysis.leiniao.com
@@ -343,8 +387,10 @@
 0.0.0.0 ravm-staging.data.roku.com
 0.0.0.0 ravm.tv
 0.0.0.0 rd.samsungadhub.com
+0.0.0.0 rdx2.nextlgsdp.com
 0.0.0.0 report.gras.samsungdm.com
 0.0.0.0 richmond.logs.roku.com
+0.0.0.0 ro-info-lgsmartad-com.aws-prd.net
 0.0.0.0 rockett.logs.roku.com
 0.0.0.0 roku.adsmeasurement.com
 0.0.0.0 rollingwood.logs.roku.com
@@ -369,9 +415,13 @@
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 sdk-video.brightdata.com
 0.0.0.0 sdklog.cloud.vewd.com
+0.0.0.0 se-info-lgsmartad-com.aws-prd.net
+0.0.0.0 se-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 secure-eu.imrworldwide.com
 0.0.0.0 sentry1.foxxum.com
 0.0.0.0 sgw-analytics.panasonic.com
+0.0.0.0 si-info-lgsmartad-com.aws-prd.net
+0.0.0.0 si-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 skyadsmart.com
 0.0.0.0 sl.brightdata.com
 0.0.0.0 smartclip.com
@@ -387,6 +437,7 @@
 0.0.0.0 telemetry.roku.com
 0.0.0.0 test.samsungrm.net
 0.0.0.0 titan-ads.tv
+0.0.0.0 tr-info-lgsmartad-com.aws-prd.net
 0.0.0.0 traces.dev.sr.roku.com
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 track.me.eu.panasonic.com
@@ -408,6 +459,8 @@
 0.0.0.0 unagi-na.amazon.com
 0.0.0.0 upu.samsungelectronics.com
 0.0.0.0 us-east4.ads.gcp.roku.com
+0.0.0.0 us-info-lgsmartad-com.aws-prd.net
+0.0.0.0 us-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 us-service.acr.roku.com
 0.0.0.0 us-west1.ads.gcp.roku.com
 0.0.0.0 us.ad.lgsmartad.com

@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - BASIC
-# Total domains: 453
+# Total domains: 506
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -58,10 +58,13 @@
 ||advertising.tivo.com^
 ||advertising.us-east-1.msc.roku.com^
 ||adview.acr.roku.com^
+||ae-rdx2-lgtvsdp-com.aws-prd.net^
 ||aic-ngfts.lge.com^
 ||aic.cdpbeacon.lgtvcommon.com^
 ||aic.cdpsvc.lgtvcommon.com^
 ||aic.nudge.lgtvcommon.com^
+||al-info-lgsmartad-com.aws-prd.net^
+||al-rdx2-lgtvsdp-com.aws-prd.net^
 ||alphonso.tv^
 ||amarillo.logs.roku.com^
 ||analysis.coolita.com^
@@ -84,6 +87,10 @@
 ||api.inscape.tv^
 ||api.samba.tv^
 ||apu.samsungelectronics.com^
+||at-info-lgsmartad-com.aws-prd.net^
+||at-rdx2-lgtvsdp-com.aws-prd.net^
+||au-info-lgsmartad-com.aws-prd.net^
+||au-rdx2-lgtvsdp-com.aws-prd.net^
 ||austin.logs.roku.com^
 ||avhk-test.brdtnet.com^
 ||avhk-test2.brdtnet.com^
@@ -93,14 +100,18 @@
 ||avva.conf.brdtnet.com^
 ||aws.external.logs.roku.com^
 ||bailey.logs.roku.com^
+||be-info-lgsmartad-com.aws-prd.net^
 ||beacon.roku.com^
 ||beacon.web.roku.com^
 ||benjamin-w.logs.roku.com^
 ||benjamin.logs.roku.com^
+||bg-info-lgsmartad-com.aws-prd.net^
 ||bl-server.alphonso.tv^
 ||blog-advertising-v2.us-east-1.msc.roku.com^
 ||blog-advertising.msc.roku.com^
 ||bpu.samsungelectronics.com^
+||br-info-lgsmartad-com.aws-prd.net^
+||br-rdx2-lgtvsdp-com.aws-prd.net^
 ||brdtest.com^
 ||brdtnet.com^
 ||brewster.logs.roku.com^
@@ -110,6 +121,10 @@
 ||brightdata.work^
 ||bryan.logs.roku.com^
 ||bugsnag.appstore.a2z.com^
+||by-info-lgsmartad-com.aws-prd.net^
+||by-rdx2-lgtvsdp-com.aws-prd.net^
+||ca-info-lgsmartad-com.aws-prd.net^
+||ca-rdx2-lgtvsdp-com.aws-prd.net^
 ||ca-service.acr.roku.com^
 ||call.me.sel.sony.com^
 ||camden.logs.roku.com^
@@ -120,6 +135,8 @@
 ||cdpbeacon.lgtvcommon.com^
 ||cdpbeacon2.lgtvcommon.com^
 ||cdpsvc.lgtvcommon.com^
+||ch-info-lgsmartad-com.aws-prd.net^
+||ch-rdx2-lgtvsdp-com.aws-prd.net^
 ||channels.acr.roku.com^
 ||client.earnapp.com^
 ||clientsdk.brdtnet.com^
@@ -163,6 +180,8 @@
 ||data.samba.tv^
 ||datasets-automation-server.brdtnet.com^
 ||dcmp.brightdata.com^
+||de-info-lgsmartad-com.aws-prd.net^
+||de-rdx2-lgtvsdp-com.aws-prd.net^
 ||de.ad.lgsmartad.com^
 ||de.info.lgsmartad.com^
 ||de.ioam.de^
@@ -189,6 +208,9 @@
 ||dpu.samsungelectronics.com^
 ||dsp.samsungads.com^
 ||eads.tcl.com^
+||ee-info-lgsmartad-com.aws-prd.net^
+||ee-rdx2-lgtvsdp-com.aws-prd.net^
+||eg-info-lgsmartad-com.aws-prd.net^
 ||eic-ngfts.lge.com^
 ||eic-ngfts.lge.com.edgekey.net^
 ||eic.cdpbeacon.lgtvcommon.com^
@@ -198,16 +220,23 @@
 ||es-logger-dns.bdp.roku.com^
 ||es-logger.bdp.roku.com^
 ||esp.logs.roku.com^
+||eu7-info-lgsmartad-com.aws-prd.net^
 ||event-tracking.samsung.com^
 ||events.cid.samba.tv^
 ||events.samsungads.com^
 ||external.logs.roku.com^
 ||facemap.foldlife.net^
+||fi-info-lgsmartad-com.aws-prd.net^
+||fi-rdx2-lgtvsdp-com.aws-prd.net^
 ||firetv.bugsnag.appstore.a2z.com^
 ||flingo.tv^
 ||forti.home.brightdata.com^
+||fr-info-lgsmartad-com.aws-prd.net^
+||fr-rdx2-lgtvsdp-com.aws-prd.net^
 ||fr.rdx2.lgtvsdp.com^
 ||g3.logs.roku.com^
+||gb-info-lgsmartad-com.aws-prd.net^
+||gb-rdx2-lgtvsdp-com.aws-prd.net^
 ||gb.info.lgsmartad.com^
 ||get.brightdata.com^
 ||giga.logs.roku.com^
@@ -217,6 +246,8 @@
 ||go.samsungads.com^
 ||go2.samsungads.com^
 ||gozendata.com^
+||gr-info-lgsmartad-com.aws-prd.net^
+||gr-rdx2-lgtvsdp-com.aws-prd.net^
 ||grafana.acr.roku.com^
 ||griffin.logs.roku.com^
 ||gz-data.com^
@@ -238,8 +269,10 @@
 ||hwads-o.res.leiniao.com^
 ||hwtpc-o.api.leiniao.com^
 ||i.ads.roku.com^
+||ibs.nextlgsdp.com^
 ||identity-dev.ads.roku.com^
 ||identity.ads.roku.com^
+||in-info-lgsmartad-com.aws-prd.net^
 ||info.ads.roku.com^
 ||info.advertising.roku.com^
 ||info.lgsmartad.com^
@@ -248,6 +281,10 @@
 ||insights-api.brightdata.com^
 ||insights.brightdata.com^
 ||insights.video.a2z.com^
+||ir-info-lgsmartad-com.aws-prd.net^
+||ir-rdx2-lgtvsdp-com.aws-prd.net^
+||it-info-lgsmartad-com.aws-prd.net^
+||it-rdx2-lgtvsdp-com.aws-prd.net^
 ||jp.ad.lgsmartad.com^
 ||jp.info.lgsmartad.com^
 ||jp.rdx2.lgtvsdp.com^
@@ -308,7 +345,11 @@
 ||mx.brightdata.com^
 ||nemo.logs.roku.com^
 ||ngfts.lge.com^
+||nl-info-lgsmartad-com.aws-prd.net^
+||nl-rdx2-lgtvsdp-com.aws-prd.net^
 ||nmetrics.samsung.com^
+||no-info-lgsmartad-com.aws-prd.net^
+||no-rdx2-lgtvsdp-com.aws-prd.net^
 ||notify.bugsnag.appstore.a2z.com^
 ||notify.firetv.bugsnag.appstore.a2z.com^
 ||nudge.lgtvcommon.com^
@@ -320,10 +361,13 @@
 ||perr.h-cdn.com^
 ||perr.l-agent.me^
 ||perr.l-err.biz^
+||ph-info-lgsmartad-com.aws-prd.net^
 ||pico.logs.roku.com^
 ||pixel.tivo.com^
 ||pixel.web.roku.com^
 ||pixel2.web.roku.com^
+||pl-info-lgsmartad-com.aws-prd.net^
+||pl-rdx2-lgtvsdp-com.aws-prd.net^
 ||platform.cid.samba.tv^
 ||post.analysis.coolita.com^
 ||post.analysis.leiniao.com^
@@ -343,8 +387,10 @@
 ||ravm-staging.data.roku.com^
 ||ravm.tv^
 ||rd.samsungadhub.com^
+||rdx2.nextlgsdp.com^
 ||report.gras.samsungdm.com^
 ||richmond.logs.roku.com^
+||ro-info-lgsmartad-com.aws-prd.net^
 ||rockett.logs.roku.com^
 ||roku.adsmeasurement.com^
 ||rollingwood.logs.roku.com^
@@ -369,9 +415,13 @@
 ||scribe.logs.roku.com^
 ||sdk-video.brightdata.com^
 ||sdklog.cloud.vewd.com^
+||se-info-lgsmartad-com.aws-prd.net^
+||se-rdx2-lgtvsdp-com.aws-prd.net^
 ||secure-eu.imrworldwide.com^
 ||sentry1.foxxum.com^
 ||sgw-analytics.panasonic.com^
+||si-info-lgsmartad-com.aws-prd.net^
+||si-rdx2-lgtvsdp-com.aws-prd.net^
 ||skyadsmart.com^
 ||sl.brightdata.com^
 ||smartclip.com^
@@ -387,6 +437,7 @@
 ||telemetry.roku.com^
 ||test.samsungrm.net^
 ||titan-ads.tv^
+||tr-info-lgsmartad-com.aws-prd.net^
 ||traces.dev.sr.roku.com^
 ||traces.sr.roku.com^
 ||track.me.eu.panasonic.com^
@@ -408,6 +459,8 @@
 ||unagi-na.amazon.com^
 ||upu.samsungelectronics.com^
 ||us-east4.ads.gcp.roku.com^
+||us-info-lgsmartad-com.aws-prd.net^
+||us-rdx2-lgtvsdp-com.aws-prd.net^
 ||us-service.acr.roku.com^
 ||us-west1.ads.gcp.roku.com^
 ||us.ad.lgsmartad.com^

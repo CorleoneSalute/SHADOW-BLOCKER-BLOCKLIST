@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9102
+# Total domains: 9155
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -764,6 +764,7 @@
 ||adyoulike.com^
 ||adyoulike.net^
 ||ae-ad-1.myhuaweicloud.com^
+||ae-rdx2-lgtvsdp-com.aws-prd.net^
 ||aerserv.com^
 ||aes.us-east.3px.axp.amazon-adsystem.com^
 ||aes.us-west.3px.axp.amazon-adsystem.com^
@@ -793,6 +794,8 @@
 ||akamai-res1.applovin.com^
 ||akamai.vungle-cdn.vungle.com^
 ||akstat.io^
+||al-info-lgsmartad-com.aws-prd.net^
+||al-rdx2-lgtvsdp-com.aws-prd.net^
 ||alerts.conviva.com^
 ||alerts.youbora.com^
 ||alicn-bj-ad-prod-2.cc.d.xiaomi.net^
@@ -2071,6 +2074,8 @@
 ||assets.zetaglobal.com^
 ||assetsconfigcdn.org^
 ||async-px.dynamicyield.com^
+||at-info-lgsmartad-com.aws-prd.net^
+||at-rdx2-lgtvsdp-com.aws-prd.net^
 ||at-us-east.amazon-adsystem.com^
 ||atabencot.net^
 ||atdmt.com^
@@ -2085,6 +2090,8 @@
 ||attribution.branch.io^
 ||attribution.remerge.io^
 ||attribution.zetaglobal.com^
+||au-info-lgsmartad-com.aws-prd.net^
+||au-rdx2-lgtvsdp-com.aws-prd.net^
 ||au.ff.avast.sec.miui.com^
 ||auction-load.unityads.unity3d.com^
 ||auction.bidmachine.io^
@@ -2192,6 +2199,7 @@
 ||bdapi.ads.heytapmobi.com^
 ||bdapi.ads.oppomobile.com^
 ||bds.snssdk.com^
+||be-info-lgsmartad-com.aws-prd.net^
 ||beachfront.io^
 ||beacon.aceservices.yahoo.net^
 ||beacon.dropbox.com^
@@ -2222,6 +2230,7 @@
 ||beteshis.com^
 ||beyondwickedmapping.org^
 ||bfmio.com^
+||bg-info-lgsmartad-com.aws-prd.net^
 ||bh.contextweb.com^
 ||bid.3lift.com^
 ||bid.adikteev.com^
@@ -2286,7 +2295,9 @@
 ||botemoda.com^
 ||bounce.zetaglobal.com^
 ||bpu.samsungelectronics.com^
+||br-info-lgsmartad-com.aws-prd.net^
 ||br-p.vivoglobal.com^
+||br-rdx2-lgtvsdp-com.aws-prd.net^
 ||br-st-sl.vivoglobal.com^
 ||br.smartlook.cloud^
 ||branch.flo.health^
@@ -2328,6 +2339,8 @@
 ||bugsplat.com^
 ||bugtracker.akiflow.com^
 ||build-metrics.getsol.us^
+||by-info-lgsmartad-com.aws-prd.net^
+||by-rdx2-lgtvsdp-com.aws-prd.net^
 ||bytedanceapi.com^
 ||byyd.me^
 ||bz.adx.opera.com^
@@ -2402,6 +2415,8 @@
 ||c8.telemetry.intel.com^
 ||c9.telemetry.intel.com^
 ||ca-central-1-1.telemetry.insights.video.a2z.com^
+||ca-info-lgsmartad-com.aws-prd.net^
+||ca-rdx2-lgtvsdp-com.aws-prd.net^
 ||ca-service.acr.roku.com^
 ||ca.iadsdk.apple.com^
 ||caa-analytics.topcashback.com^
@@ -2614,6 +2629,8 @@
 ||cetrk.com^
 ||cf.iadsdk.apple.com^
 ||cfjump.com^
+||ch-info-lgsmartad-com.aws-prd.net^
+||ch-rdx2-lgtvsdp-com.aws-prd.net^
 ||channels-analytics.amazon.com^
 ||channels-metrics.primevideo.com^
 ||channels.acr.roku.com^
@@ -3195,6 +3212,8 @@
 ||dco.zetaglobal.com^
 ||ddf.di.atlas.samsung.com^
 ||de-gdpr-err-up.vivoglobal.com^
+||de-info-lgsmartad-com.aws-prd.net^
+||de-rdx2-lgtvsdp-com.aws-prd.net^
 ||de.ad.lgsmartad.com^
 ||de.info.lgsmartad.com^
 ||de.ioam.de^
@@ -3420,8 +3439,11 @@
 ||edge.permutive.app^
 ||edge.quantserve.com^
 ||editors.dt07.net^
+||ee-info-lgsmartad-com.aws-prd.net^
+||ee-rdx2-lgtvsdp-com.aws-prd.net^
 ||effiliation.com^
 ||effixads.com^
+||eg-info-lgsmartad-com.aws-prd.net^
 ||egw.ads-platform.plet.yandex.ru^
 ||ehg-samsungusa.hitbox.com^
 ||ehi-analytics.com^
@@ -3520,6 +3542,7 @@
 ||eu.mouseflow.com^
 ||eu.smartlook.cloud^
 ||eu.uxcam.com^
+||eu7-info-lgsmartad-com.aws-prd.net^
 ||euc-onenote-telemetry.officeapps.live.com^
 ||eumarketing.event-tracking.samsung.com^
 ||eunsetee.com^
@@ -3788,6 +3811,8 @@
 ||feedbackws.icloud.com.cn^
 ||fhc-event.fhcasino.com^
 ||fhc-event2.fhcasino.com^
+||fi-info-lgsmartad-com.aws-prd.net^
+||fi-rdx2-lgtvsdp-com.aws-prd.net^
 ||fiaharam.net^
 ||fid-br.ggpoker.com^
 ||fid-pl.ggpoker.com^
@@ -3858,7 +3883,9 @@
 ||fp.web.tulotero.mx^
 ||fpjs.io^
 ||fpmetrics.sumsub.com^
+||fr-info-lgsmartad-com.aws-prd.net^
 ||fr-metrics.seetickets.com^
+||fr-rdx2-lgtvsdp-com.aws-prd.net^
 ||fr.rdx2.lgtvsdp.com^
 ||fra1-ib.adnxs-simple.com^
 ||fra1-ib.adnxs.com^
@@ -3907,6 +3934,8 @@
 ||gateway.crakrevenue.com^
 ||gateway.glassboxdigital.com^
 ||gatustox.net^
+||gb-info-lgsmartad-com.aws-prd.net^
+||gb-rdx2-lgtvsdp-com.aws-prd.net^
 ||gb.info.lgsmartad.com^
 ||gbidnep.admaster.cc^
 ||gdanstum.net^
@@ -4010,6 +4039,8 @@
 ||gpm-mon-va-useast2a.byteoversea.com^
 ||gpm-mon-va.byteoversea.com^
 ||gpm.samsungqbe.com^
+||gr-info-lgsmartad-com.aws-prd.net^
+||gr-rdx2-lgtvsdp-com.aws-prd.net^
 ||grabads.com^
 ||grafana.acr.roku.com^
 ||graffiti-tags.apple.com^
@@ -4198,6 +4229,7 @@
 ||ib.adnxs.com^
 ||ib.anycast.adnxs.com^
 ||ibm-weather-beacon.com^
+||ibs.nextlgsdp.com^
 ||ibytedapm.com^
 ||ice.360yield.com^
 ||ichnaea-web.dradis.netflix.com^
@@ -4325,6 +4357,7 @@
 ||in-ctdbprt-stsdk.vivoglobal.com^
 ||in-errup.vivoglobal.com^
 ||in-ex-adlog.vivoglobal.com^
+||in-info-lgsmartad-com.aws-prd.net^
 ||in-miuilog.sms.intl.xiaomi.com^
 ||in-monitor-stsdk.vivoglobal.com^
 ||in-onrt-stsdk.vivoglobal.com^
@@ -4426,8 +4459,10 @@
 ||ips.bugsee.com^
 ||ipversion.taboola.com^
 ||ir-de.amazon-adsystem.com^
+||ir-info-lgsmartad-com.aws-prd.net^
 ||ir-jp.amazon-adsystem.com^
 ||ir-na.amazon-adsystem.com^
+||ir-rdx2-lgtvsdp-com.aws-prd.net^
 ||ironsrc.com^
 ||ironsrc.mobi^
 ||isapp.navdmp.com^
@@ -4439,6 +4474,8 @@
 ||iso-stats.cachyos.org^
 ||issuetracker.bitninja.io^
 ||istats.baidu.com^
+||it-info-lgsmartad-com.aws-prd.net^
+||it-rdx2-lgtvsdp-com.aws-prd.net^
 ||itag.ads.linkedin.com^
 ||items.rollbar.com^
 ||ity.im^
@@ -5707,10 +5744,14 @@
 ||niad.analytics.elsevier.com^
 ||nimbleinity.com^
 ||nk-cktelemetryws.icloud.apple.com^
+||nl-info-lgsmartad-com.aws-prd.net^
+||nl-rdx2-lgtvsdp-com.aws-prd.net^
 ||nlog.baidu.com^
 ||nmetrics.samsung.com^
 ||nmetrics.samsungmobile.com^
 ||nmtracking.netflix.com^
+||no-info-lgsmartad-com.aws-prd.net^
+||no-rdx2-lgtvsdp-com.aws-prd.net^
 ||nodemetrics.wallarm.com^
 ||nof1.ai.supp0v3.com^
 ||notes-analytics-events.apple.com^
@@ -6022,6 +6063,7 @@
 ||personalize.zetaglobal.com^
 ||personalized.adikteev.com^
 ||pf.fluct.jp^
+||ph-info-lgsmartad-com.aws-prd.net^
 ||pheecith.com^
 ||phoenix360.iolo.com^
 ||pi.ias.xiaomi.com^
@@ -6112,6 +6154,8 @@
 ||pixelme.me^
 ||pixels.reddit.com^
 ||pkgstats.archlinux.de^
+||pl-info-lgsmartad-com.aws-prd.net^
+||pl-rdx2-lgtvsdp-com.aws-prd.net^
 ||placed.com^
 ||pladollmo.com^
 ||platform-api.vistarmedia.com^
@@ -6342,6 +6386,7 @@
 ||rd.samsungadhub.com^
 ||rdc.adobe.io^
 ||rdi.criteo.com^
+||rdx2.nextlgsdp.com^
 ||re.applovin.com^
 ||reachms.bfmio.com^
 ||realdefen.se^
@@ -6451,6 +6496,7 @@
 ||rmp-cdn.moloco.com^
 ||rmp.gsspat.jp^
 ||rnsfpw.net^
+||ro-info-lgsmartad-com.aws-prd.net^
 ||ro-up.vivoglobal.com^
 ||rockett.logs.roku.com^
 ||roiads.co^
@@ -6892,6 +6938,8 @@
 ||sdkopmetrics-asia.dsp-api.moloco.com^
 ||sdkopmetrics-eu.dsp-api.moloco.com^
 ||sdkopmetrics-us.dsp-api.moloco.com^
+||se-info-lgsmartad-com.aws-prd.net^
+||se-rdx2-lgtvsdp-com.aws-prd.net^
 ||search.spotxchange.com^
 ||searchad.naver.com^
 ||searchads-prv.apple.com^
@@ -7063,6 +7111,8 @@
 ||shouji-v6.sogou.com^
 ||shouji.sogou.com^
 ||shrtfly.com^
+||si-info-lgsmartad-com.aws-prd.net^
+||si-rdx2-lgtvsdp-com.aws-prd.net^
 ||sia.internet.apps.samsung.com^
 ||sids.gumgum.com^
 ||signal.truoptik.com^
@@ -7958,6 +8008,7 @@
 ||tqlkg.com^
 ||tr-err-up.vivoglobal.com^
 ||tr-gdpr-vgc-datacenter.vivoglobal.com^
+||tr-info-lgsmartad-com.aws-prd.net^
 ||tr-onrt-stsdk.vivoglobal.com^
 ||tr-ort-stsdk.vivoglobal.com^
 ||tr-p.vivoglobal.com^
@@ -8537,6 +8588,8 @@
 ||us-east-tlx.3lift.com^
 ||us-east-x.mgid.com^
 ||us-east4.ads.gcp.roku.com^
+||us-info-lgsmartad-com.aws-prd.net^
+||us-rdx2-lgtvsdp-com.aws-prd.net^
 ||us-service.acr.roku.com^
 ||us-west-2-1.telemetry.insights.video.a2z.com^
 ||us-west-2.dc.ads.linkedin.com^

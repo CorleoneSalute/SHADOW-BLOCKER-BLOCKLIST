@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9102
+# Total domains: 9155
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -764,6 +764,7 @@
 0.0.0.0 adyoulike.com
 0.0.0.0 adyoulike.net
 0.0.0.0 ae-ad-1.myhuaweicloud.com
+0.0.0.0 ae-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 aerserv.com
 0.0.0.0 aes.us-east.3px.axp.amazon-adsystem.com
 0.0.0.0 aes.us-west.3px.axp.amazon-adsystem.com
@@ -793,6 +794,8 @@
 0.0.0.0 akamai-res1.applovin.com
 0.0.0.0 akamai.vungle-cdn.vungle.com
 0.0.0.0 akstat.io
+0.0.0.0 al-info-lgsmartad-com.aws-prd.net
+0.0.0.0 al-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 alerts.conviva.com
 0.0.0.0 alerts.youbora.com
 0.0.0.0 alicn-bj-ad-prod-2.cc.d.xiaomi.net
@@ -2071,6 +2074,8 @@
 0.0.0.0 assets.zetaglobal.com
 0.0.0.0 assetsconfigcdn.org
 0.0.0.0 async-px.dynamicyield.com
+0.0.0.0 at-info-lgsmartad-com.aws-prd.net
+0.0.0.0 at-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 at-us-east.amazon-adsystem.com
 0.0.0.0 atabencot.net
 0.0.0.0 atdmt.com
@@ -2085,6 +2090,8 @@
 0.0.0.0 attribution.branch.io
 0.0.0.0 attribution.remerge.io
 0.0.0.0 attribution.zetaglobal.com
+0.0.0.0 au-info-lgsmartad-com.aws-prd.net
+0.0.0.0 au-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 au.ff.avast.sec.miui.com
 0.0.0.0 auction-load.unityads.unity3d.com
 0.0.0.0 auction.bidmachine.io
@@ -2192,6 +2199,7 @@
 0.0.0.0 bdapi.ads.heytapmobi.com
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bds.snssdk.com
+0.0.0.0 be-info-lgsmartad-com.aws-prd.net
 0.0.0.0 beachfront.io
 0.0.0.0 beacon.aceservices.yahoo.net
 0.0.0.0 beacon.dropbox.com
@@ -2222,6 +2230,7 @@
 0.0.0.0 beteshis.com
 0.0.0.0 beyondwickedmapping.org
 0.0.0.0 bfmio.com
+0.0.0.0 bg-info-lgsmartad-com.aws-prd.net
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bid.3lift.com
 0.0.0.0 bid.adikteev.com
@@ -2286,7 +2295,9 @@
 0.0.0.0 botemoda.com
 0.0.0.0 bounce.zetaglobal.com
 0.0.0.0 bpu.samsungelectronics.com
+0.0.0.0 br-info-lgsmartad-com.aws-prd.net
 0.0.0.0 br-p.vivoglobal.com
+0.0.0.0 br-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 br-st-sl.vivoglobal.com
 0.0.0.0 br.smartlook.cloud
 0.0.0.0 branch.flo.health
@@ -2328,6 +2339,8 @@
 0.0.0.0 bugsplat.com
 0.0.0.0 bugtracker.akiflow.com
 0.0.0.0 build-metrics.getsol.us
+0.0.0.0 by-info-lgsmartad-com.aws-prd.net
+0.0.0.0 by-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 bytedanceapi.com
 0.0.0.0 byyd.me
 0.0.0.0 bz.adx.opera.com
@@ -2402,6 +2415,8 @@
 0.0.0.0 c8.telemetry.intel.com
 0.0.0.0 c9.telemetry.intel.com
 0.0.0.0 ca-central-1-1.telemetry.insights.video.a2z.com
+0.0.0.0 ca-info-lgsmartad-com.aws-prd.net
+0.0.0.0 ca-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 ca-service.acr.roku.com
 0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 caa-analytics.topcashback.com
@@ -2614,6 +2629,8 @@
 0.0.0.0 cetrk.com
 0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 cfjump.com
+0.0.0.0 ch-info-lgsmartad-com.aws-prd.net
+0.0.0.0 ch-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 channels-analytics.amazon.com
 0.0.0.0 channels-metrics.primevideo.com
 0.0.0.0 channels.acr.roku.com
@@ -3195,6 +3212,8 @@
 0.0.0.0 dco.zetaglobal.com
 0.0.0.0 ddf.di.atlas.samsung.com
 0.0.0.0 de-gdpr-err-up.vivoglobal.com
+0.0.0.0 de-info-lgsmartad-com.aws-prd.net
+0.0.0.0 de-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 de.ad.lgsmartad.com
 0.0.0.0 de.info.lgsmartad.com
 0.0.0.0 de.ioam.de
@@ -3420,8 +3439,11 @@
 0.0.0.0 edge.permutive.app
 0.0.0.0 edge.quantserve.com
 0.0.0.0 editors.dt07.net
+0.0.0.0 ee-info-lgsmartad-com.aws-prd.net
+0.0.0.0 ee-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 effiliation.com
 0.0.0.0 effixads.com
+0.0.0.0 eg-info-lgsmartad-com.aws-prd.net
 0.0.0.0 egw.ads-platform.plet.yandex.ru
 0.0.0.0 ehg-samsungusa.hitbox.com
 0.0.0.0 ehi-analytics.com
@@ -3520,6 +3542,7 @@
 0.0.0.0 eu.mouseflow.com
 0.0.0.0 eu.smartlook.cloud
 0.0.0.0 eu.uxcam.com
+0.0.0.0 eu7-info-lgsmartad-com.aws-prd.net
 0.0.0.0 euc-onenote-telemetry.officeapps.live.com
 0.0.0.0 eumarketing.event-tracking.samsung.com
 0.0.0.0 eunsetee.com
@@ -3788,6 +3811,8 @@
 0.0.0.0 feedbackws.icloud.com.cn
 0.0.0.0 fhc-event.fhcasino.com
 0.0.0.0 fhc-event2.fhcasino.com
+0.0.0.0 fi-info-lgsmartad-com.aws-prd.net
+0.0.0.0 fi-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 fiaharam.net
 0.0.0.0 fid-br.ggpoker.com
 0.0.0.0 fid-pl.ggpoker.com
@@ -3858,7 +3883,9 @@
 0.0.0.0 fp.web.tulotero.mx
 0.0.0.0 fpjs.io
 0.0.0.0 fpmetrics.sumsub.com
+0.0.0.0 fr-info-lgsmartad-com.aws-prd.net
 0.0.0.0 fr-metrics.seetickets.com
+0.0.0.0 fr-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 fr.rdx2.lgtvsdp.com
 0.0.0.0 fra1-ib.adnxs-simple.com
 0.0.0.0 fra1-ib.adnxs.com
@@ -3907,6 +3934,8 @@
 0.0.0.0 gateway.crakrevenue.com
 0.0.0.0 gateway.glassboxdigital.com
 0.0.0.0 gatustox.net
+0.0.0.0 gb-info-lgsmartad-com.aws-prd.net
+0.0.0.0 gb-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 gb.info.lgsmartad.com
 0.0.0.0 gbidnep.admaster.cc
 0.0.0.0 gdanstum.net
@@ -4010,6 +4039,8 @@
 0.0.0.0 gpm-mon-va-useast2a.byteoversea.com
 0.0.0.0 gpm-mon-va.byteoversea.com
 0.0.0.0 gpm.samsungqbe.com
+0.0.0.0 gr-info-lgsmartad-com.aws-prd.net
+0.0.0.0 gr-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 grabads.com
 0.0.0.0 grafana.acr.roku.com
 0.0.0.0 graffiti-tags.apple.com
@@ -4198,6 +4229,7 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ib.anycast.adnxs.com
 0.0.0.0 ibm-weather-beacon.com
+0.0.0.0 ibs.nextlgsdp.com
 0.0.0.0 ibytedapm.com
 0.0.0.0 ice.360yield.com
 0.0.0.0 ichnaea-web.dradis.netflix.com
@@ -4325,6 +4357,7 @@
 0.0.0.0 in-ctdbprt-stsdk.vivoglobal.com
 0.0.0.0 in-errup.vivoglobal.com
 0.0.0.0 in-ex-adlog.vivoglobal.com
+0.0.0.0 in-info-lgsmartad-com.aws-prd.net
 0.0.0.0 in-miuilog.sms.intl.xiaomi.com
 0.0.0.0 in-monitor-stsdk.vivoglobal.com
 0.0.0.0 in-onrt-stsdk.vivoglobal.com
@@ -4426,8 +4459,10 @@
 0.0.0.0 ips.bugsee.com
 0.0.0.0 ipversion.taboola.com
 0.0.0.0 ir-de.amazon-adsystem.com
+0.0.0.0 ir-info-lgsmartad-com.aws-prd.net
 0.0.0.0 ir-jp.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
+0.0.0.0 ir-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 ironsrc.com
 0.0.0.0 ironsrc.mobi
 0.0.0.0 isapp.navdmp.com
@@ -4439,6 +4474,8 @@
 0.0.0.0 iso-stats.cachyos.org
 0.0.0.0 issuetracker.bitninja.io
 0.0.0.0 istats.baidu.com
+0.0.0.0 it-info-lgsmartad-com.aws-prd.net
+0.0.0.0 it-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 itag.ads.linkedin.com
 0.0.0.0 items.rollbar.com
 0.0.0.0 ity.im
@@ -5707,10 +5744,14 @@
 0.0.0.0 niad.analytics.elsevier.com
 0.0.0.0 nimbleinity.com
 0.0.0.0 nk-cktelemetryws.icloud.apple.com
+0.0.0.0 nl-info-lgsmartad-com.aws-prd.net
+0.0.0.0 nl-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 nlog.baidu.com
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 nmetrics.samsungmobile.com
 0.0.0.0 nmtracking.netflix.com
+0.0.0.0 no-info-lgsmartad-com.aws-prd.net
+0.0.0.0 no-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 nodemetrics.wallarm.com
 0.0.0.0 nof1.ai.supp0v3.com
 0.0.0.0 notes-analytics-events.apple.com
@@ -6022,6 +6063,7 @@
 0.0.0.0 personalize.zetaglobal.com
 0.0.0.0 personalized.adikteev.com
 0.0.0.0 pf.fluct.jp
+0.0.0.0 ph-info-lgsmartad-com.aws-prd.net
 0.0.0.0 pheecith.com
 0.0.0.0 phoenix360.iolo.com
 0.0.0.0 pi.ias.xiaomi.com
@@ -6112,6 +6154,8 @@
 0.0.0.0 pixelme.me
 0.0.0.0 pixels.reddit.com
 0.0.0.0 pkgstats.archlinux.de
+0.0.0.0 pl-info-lgsmartad-com.aws-prd.net
+0.0.0.0 pl-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 placed.com
 0.0.0.0 pladollmo.com
 0.0.0.0 platform-api.vistarmedia.com
@@ -6342,6 +6386,7 @@
 0.0.0.0 rd.samsungadhub.com
 0.0.0.0 rdc.adobe.io
 0.0.0.0 rdi.criteo.com
+0.0.0.0 rdx2.nextlgsdp.com
 0.0.0.0 re.applovin.com
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 realdefen.se
@@ -6451,6 +6496,7 @@
 0.0.0.0 rmp-cdn.moloco.com
 0.0.0.0 rmp.gsspat.jp
 0.0.0.0 rnsfpw.net
+0.0.0.0 ro-info-lgsmartad-com.aws-prd.net
 0.0.0.0 ro-up.vivoglobal.com
 0.0.0.0 rockett.logs.roku.com
 0.0.0.0 roiads.co
@@ -6892,6 +6938,8 @@
 0.0.0.0 sdkopmetrics-asia.dsp-api.moloco.com
 0.0.0.0 sdkopmetrics-eu.dsp-api.moloco.com
 0.0.0.0 sdkopmetrics-us.dsp-api.moloco.com
+0.0.0.0 se-info-lgsmartad-com.aws-prd.net
+0.0.0.0 se-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 search.spotxchange.com
 0.0.0.0 searchad.naver.com
 0.0.0.0 searchads-prv.apple.com
@@ -7063,6 +7111,8 @@
 0.0.0.0 shouji-v6.sogou.com
 0.0.0.0 shouji.sogou.com
 0.0.0.0 shrtfly.com
+0.0.0.0 si-info-lgsmartad-com.aws-prd.net
+0.0.0.0 si-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 sids.gumgum.com
 0.0.0.0 signal.truoptik.com
@@ -7958,6 +8008,7 @@
 0.0.0.0 tqlkg.com
 0.0.0.0 tr-err-up.vivoglobal.com
 0.0.0.0 tr-gdpr-vgc-datacenter.vivoglobal.com
+0.0.0.0 tr-info-lgsmartad-com.aws-prd.net
 0.0.0.0 tr-onrt-stsdk.vivoglobal.com
 0.0.0.0 tr-ort-stsdk.vivoglobal.com
 0.0.0.0 tr-p.vivoglobal.com
@@ -8537,6 +8588,8 @@
 0.0.0.0 us-east-tlx.3lift.com
 0.0.0.0 us-east-x.mgid.com
 0.0.0.0 us-east4.ads.gcp.roku.com
+0.0.0.0 us-info-lgsmartad-com.aws-prd.net
+0.0.0.0 us-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 us-service.acr.roku.com
 0.0.0.0 us-west-2-1.telemetry.insights.video.a2z.com
 0.0.0.0 us-west-2.dc.ads.linkedin.com
