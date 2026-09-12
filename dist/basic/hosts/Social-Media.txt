@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 720
+# Total domains: 723
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,6 +10,7 @@
 0.0.0.0 abtest-sg-tiktok.byteoversea.com
 0.0.0.0 abtest-va-tiktok.byteoversea.com
 0.0.0.0 ad-format-ttp2.tiktokv.eu
+0.0.0.0 ad-format.tiktokv.us
 0.0.0.0 ad-instantpage-ru.tiktokv.com
 0.0.0.0 ad-instantpage-sg.tiktokv.com
 0.0.0.0 ad-instantpage-ttp2.tiktokv.eu
@@ -201,6 +202,7 @@
 0.0.0.0 liverail.com
 0.0.0.0 lnkd.demdex.net
 0.0.0.0 location-i18n.tiktokv.com
+0.0.0.0 location-ru.tiktokv.com
 0.0.0.0 location-sg.tiktokv.com
 0.0.0.0 location-ttp2.us.tiktokv.com
 0.0.0.0 location-v6-i18n.tiktokv.com
@@ -409,6 +411,7 @@
 0.0.0.0 mssdk-quic-sg.tiktokv.com
 0.0.0.0 mssdk-quic-va.tiktokv.com
 0.0.0.0 mssdk-ru.tiktokv.com
+0.0.0.0 mssdk-ru.tiktokv.com.www.digmawifi.com
 0.0.0.0 mssdk-sg-bu.byteoversea.com
 0.0.0.0 mssdk-sg.byteoversea.com
 0.0.0.0 mssdk-sg.tiktok.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9155
+# Total domains: 9158
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -158,6 +158,7 @@ ad-drru.dt.dbankcloud.com
 ad-engine.accuweather.com
 ad-feedback.line-apps.com
 ad-format-ttp2.tiktokv.eu
+ad-format.tiktokv.us
 ad-iad1.apple.com
 ad-iad2.apple.com
 ad-iad3.apple.com
@@ -4645,6 +4646,7 @@ lnkd.demdex.net
 localad.naver.com
 locate-x.com
 location-i18n.tiktokv.com
+location-ru.tiktokv.com
 location-sg.tiktokv.com
 location-ttp2.us.tiktokv.com
 location-v6-i18n.tiktokv.com
@@ -5614,6 +5616,7 @@ mssdk-quic-sg.tiktok.com
 mssdk-quic-sg.tiktokv.com
 mssdk-quic-va.tiktokv.com
 mssdk-ru.tiktokv.com
+mssdk-ru.tiktokv.com.www.digmawifi.com
 mssdk-sg-bu.byteoversea.com
 mssdk-sg.byteoversea.com
 mssdk-sg.tiktok.com

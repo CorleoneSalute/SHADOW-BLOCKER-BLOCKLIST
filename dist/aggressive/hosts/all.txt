@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9568
+# Total domains: 9571
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -171,6 +171,7 @@
 0.0.0.0 ad-engine.accuweather.com
 0.0.0.0 ad-feedback.line-apps.com
 0.0.0.0 ad-format-ttp2.tiktokv.eu
+0.0.0.0 ad-format.tiktokv.us
 0.0.0.0 ad-iad1.apple.com
 0.0.0.0 ad-iad2.apple.com
 0.0.0.0 ad-iad3.apple.com
@@ -4885,6 +4886,7 @@
 0.0.0.0 localad.naver.com
 0.0.0.0 locate-x.com
 0.0.0.0 location-i18n.tiktokv.com
+0.0.0.0 location-ru.tiktokv.com
 0.0.0.0 location-sg.tiktokv.com
 0.0.0.0 location-ttp2.us.tiktokv.com
 0.0.0.0 location-v6-i18n.tiktokv.com
@@ -5859,6 +5861,7 @@
 0.0.0.0 mssdk-quic-sg.tiktokv.com
 0.0.0.0 mssdk-quic-va.tiktokv.com
 0.0.0.0 mssdk-ru.tiktokv.com
+0.0.0.0 mssdk-ru.tiktokv.com.www.digmawifi.com
 0.0.0.0 mssdk-sg-bu.byteoversea.com
 0.0.0.0 mssdk-sg.byteoversea.com
 0.0.0.0 mssdk-sg.tiktok.com

@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 746
+# Total domains: 749
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,6 +10,7 @@
 ||abtest-sg-tiktok.byteoversea.com^
 ||abtest-va-tiktok.byteoversea.com^
 ||ad-format-ttp2.tiktokv.eu^
+||ad-format.tiktokv.us^
 ||ad-instantpage-ru.tiktokv.com^
 ||ad-instantpage-sg.tiktokv.com^
 ||ad-instantpage-ttp2.tiktokv.eu^
@@ -225,6 +226,7 @@
 ||liverail.com^
 ||lnkd.demdex.net^
 ||location-i18n.tiktokv.com^
+||location-ru.tiktokv.com^
 ||location-sg.tiktokv.com^
 ||location-ttp2.us.tiktokv.com^
 ||location-v6-i18n.tiktokv.com^
@@ -433,6 +435,7 @@
 ||mssdk-quic-sg.tiktokv.com^
 ||mssdk-quic-va.tiktokv.com^
 ||mssdk-ru.tiktokv.com^
+||mssdk-ru.tiktokv.com.www.digmawifi.com^
 ||mssdk-sg-bu.byteoversea.com^
 ||mssdk-sg.byteoversea.com^
 ||mssdk-sg.tiktok.com^
