@@ -58,6 +58,8 @@ stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple.com
 weather-analytics-events.apple.com
 weather-analytics-events.news.apple.com
+weather-analytics.apple.com
+stocks-analytics.apple.com
 news-events.apple.com
 news-app-events.apple.com
 news-notification-events.apple.com !
