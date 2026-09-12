@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9097
+# Total domains: 9098
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3937,6 +3937,7 @@
 ||get.brightdata.com^
 ||get.shouji.sogou.com^
 ||getadlib.com^
+||getads.ru^
 ||getingeprod.planning-analytics.ibmcloud.com^
 ||getmiles.com^
 ||getmydrivers.com^
