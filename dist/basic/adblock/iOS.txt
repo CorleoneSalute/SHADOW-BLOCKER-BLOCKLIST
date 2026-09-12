@@ -1,6 +1,6 @@
 # ============================================================
 # IOS BLOCKLIST - BASIC
-# Total domains: 230
+# Total domains: 232
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -223,6 +223,7 @@
 ||stocks-analytics-events.apple.com^
 ||stocks-analytics-events.news.apple-dns.net^
 ||stocks-analytics-events.news.apple.com^
+||stocks-analytics.apple.com^
 ||supportmetrics.apple.com^
 ||supportmetrics.v.aaplimg.com^
 ||telemetry.apple.com^
@@ -234,4 +235,5 @@
 ||weather-analytics-events.apple.com^
 ||weather-analytics-events.news.apple-dns.net^
 ||weather-analytics-events.news.apple.com^
+||weather-analytics.apple.com^
 ||www.qwapi.com^

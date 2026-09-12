@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9512
+# Total domains: 9514
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7779,6 +7779,7 @@ stirista.com
 stocks-analytics-events.apple.com
 stocks-analytics-events.news.apple-dns.net
 stocks-analytics-events.news.apple.com
+stocks-analytics.apple.com
 stopzilla.com
 storage.outbrain.com
 store.criteo.com
@@ -9160,6 +9161,7 @@ wd.adcolony.com
 weather-analytics-events.apple.com
 weather-analytics-events.news.apple-dns.net
 weather-analytics-events.news.apple.com
+weather-analytics.apple.com
 weather-beacon.com
 web-analytics.lastpass.com
 web-analytics.openaire.eu
