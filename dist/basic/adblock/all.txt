@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9099
+# Total domains: 9100
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -179,6 +179,7 @@
 ||ad-srv.co^
 ||ad-srv.net^
 ||ad-tag.inner-active.mobi^
+||ad-tech-windev.weather.com^
 ||ad-trace.lenovomm.com^
 ||ad-track.jp^
 ||ad.adition.com^

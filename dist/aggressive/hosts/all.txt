@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9511
+# Total domains: 9512
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -193,6 +193,7 @@
 0.0.0.0 ad-srv.co
 0.0.0.0 ad-srv.net
 0.0.0.0 ad-tag.inner-active.mobi
+0.0.0.0 ad-tech-windev.weather.com
 0.0.0.0 ad-trace.lenovomm.com
 0.0.0.0 ad-track.jp
 0.0.0.0 ad.acast.com
