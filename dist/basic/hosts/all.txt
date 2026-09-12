@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9035
+# Total domains: 9097
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -239,7 +239,9 @@
 0.0.0.0 ad.vrvm.com
 0.0.0.0 ad.weibo.com
 0.0.0.0 ad.xiaomi.com
+0.0.0.0 ad.yahoo.com
 0.0.0.0 ad.yieldlab.net
+0.0.0.0 ad01.udb.bf1.yahoo.com
 0.0.0.0 ad1.gtie.dell.com
 0.0.0.0 ad1.reddit.com
 0.0.0.0 ad1.xiaomi.com
@@ -270,6 +272,7 @@
 0.0.0.0 adclarity.com
 0.0.0.0 adcolony.com
 0.0.0.0 add-mapping-for-wrong-activity-log-classes.feature.varify.io
+0.0.0.0 addata2.ads.vip.corp.yahoo.com
 0.0.0.0 addoncrop.com
 0.0.0.0 adelphic.com
 0.0.0.0 adex2.fwmrm.net
@@ -301,6 +304,9 @@
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 adm.leju.sina.com.cn
 0.0.0.0 admanager.opera.com
+0.0.0.0 admanager.yahoo.com
+0.0.0.0 admanagerplus.yahoo.com
+0.0.0.0 admarketing.yahoo.net
 0.0.0.0 admaster.cc
 0.0.0.0 admaven.com
 0.0.0.0 admetrica.yandex.com
@@ -313,6 +319,7 @@
 0.0.0.0 admixer.tech
 0.0.0.0 admixer.ua
 0.0.0.0 admixplay.com
+0.0.0.0 admktg.yahoo.com
 0.0.0.0 admob.com
 0.0.0.0 admob.google.com
 0.0.0.0 admob.googleapis.com
@@ -338,6 +345,8 @@
 0.0.0.0 adplatform.apple.com
 0.0.0.0 adplayer.pro
 0.0.0.0 adprofex.com
+0.0.0.0 adreporter.yahoo.com
+0.0.0.0 adreporting2.corp.yahoo.com
 0.0.0.0 adrevenue.appsflyersdk.com
 0.0.0.0 adroll.com
 0.0.0.0 adrta.com
@@ -396,6 +405,8 @@
 0.0.0.0 ads-v.reddit.com
 0.0.0.0 ads.1muslimapp.com
 0.0.0.0 ads.7k.bet.br
+0.0.0.0 ads.ac.vip.bf1.yahoo.com
+0.0.0.0 ads.ac.vip.ne1.yahoo.com
 0.0.0.0 ads.accuweather.com
 0.0.0.0 ads.acer.com
 0.0.0.0 ads.adcolony.com
@@ -412,6 +423,7 @@
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.apple.com
 0.0.0.0 ads.ar.e-planning.net
+0.0.0.0 ads.auctions.yahoo.com
 0.0.0.0 ads.avast.com
 0.0.0.0 ads.azerion.com
 0.0.0.0 ads.babbel.com
@@ -421,6 +433,7 @@
 0.0.0.0 ads.betfair.com.au
 0.0.0.0 ads.betou.bet.br
 0.0.0.0 ads.bidstack.com
+0.0.0.0 ads.bing.com
 0.0.0.0 ads.bing.vera.bet.br
 0.0.0.0 ads.bitmovin.com
 0.0.0.0 ads.bizo.com
@@ -482,6 +495,7 @@
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.lww.com
 0.0.0.0 ads.lyft.com
+0.0.0.0 ads.martech.yahoo.com
 0.0.0.0 ads.media.net
 0.0.0.0 ads.meitu.com
 0.0.0.0 ads.mobfox.com
@@ -547,6 +561,8 @@
 0.0.0.0 ads.vertamedia.com
 0.0.0.0 ads.verve.com
 0.0.0.0 ads.viber.com
+0.0.0.0 ads.vip.bf1.yahoo.com
+0.0.0.0 ads.vip.corp.yahoo.com
 0.0.0.0 ads.vk.com
 0.0.0.0 ads.vk.ru
 0.0.0.0 ads.voot.com
@@ -556,14 +572,19 @@
 0.0.0.0 ads.wineenthusiast.com
 0.0.0.0 ads.world.waze.com
 0.0.0.0 ads.x.com
+0.0.0.0 ads.yahoo.co.jp
+0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yandex.com
 0.0.0.0 ads.yieldmo.com
+0.0.0.0 ads.yimg.com
 0.0.0.0 ads.zee5.com
 0.0.0.0 ads.zombodroid.com
 0.0.0.0 ads.zynga.com
 0.0.0.0 ads1-adnow.com
 0.0.0.0 ads1.huawei.com
 0.0.0.0 ads1.reddit.com
+0.0.0.0 ads1.vip.in.yahoo.com
+0.0.0.0 ads1.vip.ir2.yahoo.com
 0.0.0.0 ads16-normal-useastred.tiktokw.eu
 0.0.0.0 ads2.ads.pof.com
 0.0.0.0 ads2.anura.io
@@ -594,6 +615,7 @@
 0.0.0.0 adscms.msc.sbz.apple.com
 0.0.0.0 adsconfig.life360.com
 0.0.0.0 adsdianying.baidu.com
+0.0.0.0 adsdk.bing.net
 0.0.0.0 adsdktest.apple.com
 0.0.0.0 adseaimg.apusapps.com
 0.0.0.0 adserv.reddit.com
@@ -605,6 +627,7 @@
 0.0.0.0 adserver.connatix.com
 0.0.0.0 adserver.jwplayer.com
 0.0.0.0 adserver.mxplayer.in
+0.0.0.0 adserver.oath.com
 0.0.0.0 adserver.podbean.com
 0.0.0.0 adserver.reddit.com
 0.0.0.0 adserver.remerge.io
@@ -625,6 +648,8 @@
 0.0.0.0 adspa-uat.acer.com
 0.0.0.0 adspa.acer.com
 0.0.0.0 adspace.adskeeper.com
+0.0.0.0 adspecs.oath.com
+0.0.0.0 adspecs.yahoo.com
 0.0.0.0 adspirit.de
 0.0.0.0 adspirit.net
 0.0.0.0 adspro.name
@@ -668,13 +693,17 @@
 0.0.0.0 advertising.accuweather.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.att.com
+0.0.0.0 advertising.oath.com
 0.0.0.0 advertising.roku.com
 0.0.0.0 advertising.tivo.com
 0.0.0.0 advertising.twitter.com
 0.0.0.0 advertising.us-east-1.msc.roku.com
 0.0.0.0 advertising.waze.com
 0.0.0.0 advertising.weatherbug.com
+0.0.0.0 advertising.yahoo.com
 0.0.0.0 advertising.yahooinc.com
+0.0.0.0 advertisingcentral.yahoo.com
+0.0.0.0 advertisinginsights.yahoo.com
 0.0.0.0 adverweb.cjenm.com
 0.0.0.0 advidi.com
 0.0.0.0 adview-prod-am.waze.com
@@ -1123,6 +1152,7 @@
 0.0.0.0 analytics.helloclue.com
 0.0.0.0 analytics.hellofresh.com
 0.0.0.0 analytics.hellotalk.com
+0.0.0.0 analytics.help.yahoo.com
 0.0.0.0 analytics.hertz.com
 0.0.0.0 analytics.hide.me
 0.0.0.0 analytics.hihonor.com
@@ -1353,6 +1383,7 @@
 0.0.0.0 analytics.protected.media
 0.0.0.0 analytics.purevpn.com
 0.0.0.0 analytics.purplecarrot.com
+0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.quitgenius.com
 0.0.0.0 analytics.quranmajeed.com
 0.0.0.0 analytics.rakutenmarketing.com
@@ -1546,6 +1577,7 @@
 0.0.0.0 analytics.x.com
 0.0.0.0 analytics.xplayerapp.com
 0.0.0.0 analytics.yabla.com
+0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yamaha.com
 0.0.0.0 analytics.yandex.com
 0.0.0.0 analytics.youbora.com
@@ -1713,12 +1745,14 @@
 0.0.0.0 api.ads.beta.roku.com
 0.0.0.0 api.ads.roku.com
 0.0.0.0 api.ads.xiaomi.com
+0.0.0.0 api.ads.yahoo.com
 0.0.0.0 api.adskeeper.com
 0.0.0.0 api.adsquare.com
 0.0.0.0 api.adswizz.com
 0.0.0.0 api.adtelligent.com
 0.0.0.0 api.adultfriendfinder.com
 0.0.0.0 api.adup-tech.com
+0.0.0.0 api.advertisinginsights.yahoo.com
 0.0.0.0 api.airbrake.io
 0.0.0.0 api.analytics-iq.com
 0.0.0.0 api.analytics.gnosis.io
@@ -2139,6 +2173,7 @@
 0.0.0.0 banner-cdn.linksynergy.com
 0.0.0.0 banner.criteo.com
 0.0.0.0 bard-telemetry.google.com
+0.0.0.0 bat.bing.com
 0.0.0.0 batch.datax.yahoo.com
 0.0.0.0 battleate.com
 0.0.0.0 bcp.crwdcntrl.net
@@ -2157,7 +2192,9 @@
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 bds.snssdk.com
 0.0.0.0 beachfront.io
+0.0.0.0 beacon.aceservices.yahoo.net
 0.0.0.0 beacon.dropbox.com
+0.0.0.0 beacon.fantasysports.yahoo.com
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.ntv.io
 0.0.0.0 beacon.pluto.tv
@@ -2177,6 +2214,7 @@
 0.0.0.0 bengalads.com
 0.0.0.0 benjamin-w.logs.roku.com
 0.0.0.0 benjamin.logs.roku.com
+0.0.0.0 beta-advertising.yahoo.com
 0.0.0.0 beta.analytics.openaire.eu
 0.0.0.0 beta.sexart.adultfriendfinder.com
 0.0.0.0 beta.telemetry.gfe.nvidia.com
@@ -2209,6 +2247,8 @@
 0.0.0.0 bigdataplus.baidu.com
 0.0.0.0 biglog.bae.baidu.com
 0.0.0.0 biglog.baidu.com
+0.0.0.0 bingads.com
+0.0.0.0 bingads.microsoft.com
 0.0.0.0 biosagentplus.com
 0.0.0.0 biscience.com
 0.0.0.0 bit-guardian.com
@@ -2260,8 +2300,13 @@
 0.0.0.0 briskrange.com
 0.0.0.0 brisktopia.com
 0.0.0.0 broadstreetads.com
+0.0.0.0 brx.ads.vip.bf1.yahoo.com
 0.0.0.0 bryan.logs.roku.com
 0.0.0.0 bs-sec-gw.taboola.com
+0.0.0.0 bs1.ads.vip.bf1.yahoo.com
+0.0.0.0 bs1.ads.vip.ne1.yahoo.com
+0.0.0.0 bs2.ads.vip.bf1.yahoo.com
+0.0.0.0 bs2.ads.vip.ne1.yahoo.com
 0.0.0.0 bt.ly
 0.0.0.0 bt.s.telemetry.intel.com
 0.0.0.0 btl.sharethrough.com
@@ -2290,6 +2335,7 @@
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.aps.amazon-adsystem.com
 0.0.0.0 c.baidu.com
+0.0.0.0 c.bing.com
 0.0.0.0 c.cfjump.com
 0.0.0.0 c.clarity.ms
 0.0.0.0 c.go-mpulse.net
@@ -2855,6 +2901,7 @@
 0.0.0.0 contentsquare.com
 0.0.0.0 contentsquare.net
 0.0.0.0 contextual.media.net
+0.0.0.0 contextualads.yahoo.net
 0.0.0.0 contextweb.com
 0.0.0.0 contile.services.mozilla.com
 0.0.0.0 control-zoo-dai-default.tvinteractive.tv
@@ -3114,9 +3161,15 @@
 0.0.0.0 datacollector-drru.dt.dbankcloud.ru
 0.0.0.0 datacollector-drru.dt.hicloud.com
 0.0.0.0 datacollector.dell.com
+0.0.0.0 datacollector.payments.yahoo.com
 0.0.0.0 datacollectorpc1-bigip.us.dell.com
 0.0.0.0 datadog.biocatch.com
 0.0.0.0 dataf.ads.oppomobile.com
+0.0.0.0 datalogger-a-snv.corp.yahoo.com
+0.0.0.0 datalogger-b-snv.corp.yahoo.com
+0.0.0.0 datalogger-d-snv.corp.yahoo.com
+0.0.0.0 datalogger-d2-snv.corp.yahoo.com
+0.0.0.0 datalogger-e-snv.corp.yahoo.com
 0.0.0.0 datalogix.com
 0.0.0.0 dataperformance.vodafone.it
 0.0.0.0 datarecoverydownload.com
@@ -3833,6 +3886,7 @@
 0.0.0.0 fwx.rtb.linkedin.com
 0.0.0.0 fyber.com
 0.0.0.0 g.baidu.com
+0.0.0.0 g.bing.com
 0.0.0.0 g.clarity.ms
 0.0.0.0 g.fwmrm.net
 0.0.0.0 g1.v.fwmrm.net
@@ -5030,6 +5084,7 @@
 0.0.0.0 metric.sourceforge.io
 0.0.0.0 metric.vodafone.com.eg
 0.0.0.0 metric.yandex.com
+0.0.0.0 metric.yimg.cn
 0.0.0.0 metrica.yandex.com
 0.0.0.0 metrics-a.wbx2.com
 0.0.0.0 metrics-ad-drcn.dt.hihonorcloud.com
@@ -5784,6 +5839,7 @@
 0.0.0.0 open.shouji.sogou.com
 0.0.0.0 open.zetaglobal.com
 0.0.0.0 openfpcdn.io
+0.0.0.0 openlog.yahoo.co.jp
 0.0.0.0 openreplay.com
 0.0.0.0 opentag-stats.qubit.com
 0.0.0.0 opera-banner-router.work.ink
@@ -5899,6 +5955,7 @@
 0.0.0.0 parsely.com
 0.0.0.0 partner.criteo.com
 0.0.0.0 partner.oceanengine.com
+0.0.0.0 partnerads.ysm.yahoo.net
 0.0.0.0 partneranalytics-dr.apple.com
 0.0.0.0 partneranalytics.apple.com
 0.0.0.0 partneranalyticsportal.apple.com
@@ -6241,9 +6298,11 @@
 0.0.0.0 r-o.pro
 0.0.0.0 r.ads.zynga.com
 0.0.0.0 r.applovin.com
+0.0.0.0 r.bat.bing.com
 0.0.0.0 r.browser.intl.miui.com
 0.0.0.0 r.browser.miui.com
 0.0.0.0 r.clarity.ms
+0.0.0.0 r.g.bing.com
 0.0.0.0 r.lgrckt-in.com
 0.0.0.0 r.ligatus.com
 0.0.0.0 r.logr-in.com
@@ -6553,6 +6612,7 @@
 0.0.0.0 rum.qwant.com
 0.0.0.0 rum.raygun.io
 0.0.0.0 rum.rollbar.com
+0.0.0.0 rum.yimg.cn
 0.0.0.0 rum1.perf.linkedin.com
 0.0.0.0 rum10.perf.linkedin.com
 0.0.0.0 rum11.perf.linkedin.com
@@ -6840,6 +6900,7 @@
 0.0.0.0 secure-system-services.com
 0.0.0.0 secure.33across.com
 0.0.0.0 secure.adultfriendfinder.com
+0.0.0.0 secure.bingads.microsoft.com
 0.0.0.0 secure.dianomi.com
 0.0.0.0 secure.esupport.com
 0.0.0.0 secure.fortect.com
@@ -8963,6 +9024,7 @@
 0.0.0.0 xy.fbcdn.net
 0.0.0.0 xz.fbcdn.net
 0.0.0.0 y.clarity.ms
+0.0.0.0 yads.c.yimg.jp
 0.0.0.0 yads.tech
 0.0.0.0 yahoo-native.bidder.taboola.com
 0.0.0.0 yamicsoft.com

@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 275
+# Total domains: 338
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -14,10 +14,19 @@ ablog.baidu.com
 ad-click.yandex.ru
 ad-constructor.yandex.com
 ad.baidu.com
+ad.yahoo.com
+ad01.udb.bf1.yahoo.com
 ada.baidu.com
+addata2.ads.vip.corp.yahoo.com
 adfox.yandex.com
 admanager.opera.com
+admanager.yahoo.com
+admanagerplus.yahoo.com
+admarketing.yahoo.net
 admetrica.yandex.com
+admktg.yahoo.com
+adreporter.yahoo.com
+adreporting2.corp.yahoo.com
 ads-config.op-mobile.opera.com
 ads-help.brave.com
 ads-img.mozilla.org
@@ -25,14 +34,34 @@ ads-serve.brave.com
 ads-serve.bravesoftware.com
 ads-static.brave.com
 ads-static.bravesoftware.com
+ads.ac.vip.bf1.yahoo.com
+ads.ac.vip.ne1.yahoo.com
+ads.auctions.yahoo.com
 ads.baidu.com
+ads.bing.com
 ads.brave.com
 ads.bravesoftware.com
+ads.martech.yahoo.com
 ads.mozilla.org
 ads.opera.com
+ads.vip.bf1.yahoo.com
+ads.vip.corp.yahoo.com
+ads.yahoo.co.jp
+ads.yahoo.com
 ads.yandex.com
+ads.yimg.com
+ads1.vip.in.yahoo.com
+ads1.vip.ir2.yahoo.com
 adscdn.baidu.com
 adsdianying.baidu.com
+adsdk.bing.net
+adserver.oath.com
+adspecs.oath.com
+adspecs.yahoo.com
+advertising.oath.com
+advertising.yahoo.com
+advertisingcentral.yahoo.com
+advertisinginsights.yahoo.com
 adx.opera.com
 af.geo.opera.com
 af.opera.com
@@ -45,6 +74,9 @@ an.yandex.com
 an.yandex.ru
 analysis-output.telemetry.mozilla.org
 analytics.brave.com
+analytics.help.yahoo.com
+analytics.query.yahoo.com
+analytics.yahoo.com
 analytics.yandex.com
 anonymous.ads.bravesoftware.com
 apd.ping.android.shouji.sogou.com
@@ -52,6 +84,8 @@ api-ios.shouji.sogou.com
 api-metrica.yandex.com
 api-metrika.yandex.com
 api.ad-fox.yandex.com
+api.ads.yahoo.com
+api.advertisinginsights.yahoo.com
 api.appmetrica.yandex.com
 api.appmetrika.yandex.com
 api.hisavana.com
@@ -71,13 +105,25 @@ b-trn.adx.opera.com
 b-us.adx.opera.com
 b-usc.adx.opera.com
 b.ns.e.opera.com
+bat.bing.com
+beacon.aceservices.yahoo.net
+beacon.fantasysports.yahoo.com
+beta-advertising.yahoo.com
 bigdata.baidu.com
 bigdataplus.baidu.com
 biglog.bae.baidu.com
 biglog.baidu.com
+bingads.com
+bingads.microsoft.com
+brx.ads.vip.bf1.yahoo.com
+bs1.ads.vip.bf1.yahoo.com
+bs1.ads.vip.ne1.yahoo.com
+bs2.ads.vip.bf1.yahoo.com
+bs2.ads.vip.ne1.yahoo.com
 bugs.baidu.com
 bz.adx.opera.com
 c.baidu.com
+c.bing.com
 c.hiphotos.baidu.com
 c.ns.e.opera.com
 cc-api.hisavana.com
@@ -86,12 +132,14 @@ chromereporting-pa.googleapis.com
 clck.yandex.ru
 click.hm.baidu.com
 clogger.waimai.baidu.com
+cms.analytics.yahoo.com
 cnt.yandex.ru
 collection.yandex.com
 collections.yandex.com
 collector.bsg.brave.com
 contact.ads.brave.com
 contentad.baidu.com
+contextualads.yahoo.net
 contile.services.mozilla.com
 cpro.baidu.cn
 cpro.baidu.com
@@ -105,6 +153,12 @@ crash.opera.com
 crash.vivaldi.com
 crashstats-collector.opera.com
 crashstats-test.opera.com
+datacollector.payments.yahoo.com
+datalogger-a-snv.corp.yahoo.com
+datalogger-b-snv.corp.yahoo.com
+datalogger-d-snv.corp.yahoo.com
+datalogger-d2-snv.corp.yahoo.com
+datalogger-e-snv.corp.yahoo.com
 desktop-dna.osp.opera.software
 doc.adx.opera.com
 docs.telemetry.mozilla.org
@@ -122,6 +176,7 @@ feedads.baidu.com
 fleet-telemetry.map.baidu.com
 foreignpb.android.shouji.sogou.com
 g.baidu.com
+g.bing.com
 geo.ads.brave.com
 geo.ads.bravesoftware.com
 get-v6.shouji.sogou.com
@@ -162,6 +217,7 @@ mc.yandex.ru
 meta-ucads.ucweb.com
 metr.yandex.com
 metric.yandex.com
+metric.yimg.cn
 metrica.yandex.com
 metrics.baidu.com
 metrics.bravesoftware.com
@@ -187,6 +243,7 @@ ohttp.ads.bravesoftware.com
 ohttp.metrics.brave.com
 ohttp.metrics.bravesoftware.com
 open.shouji.sogou.com
+openlog.yahoo.co.jp
 opr.adx.opera.com
 osp-log-fetcher.opera.com
 outspot-ash.op-mobile.opera.com
@@ -200,6 +257,7 @@ p3a-json.brave.com
 p3a.brave.com
 p3a.bravesoftware.com
 pagead.adx.ams.op-mobile.opera.com
+partnerads.ysm.yahoo.net
 pcad.video.baidu.com
 ping-ios.shouji.sogou.com
 ping-msganr.android.shouji.sogou.com
@@ -213,6 +271,8 @@ probes.telemetry.mozilla.org
 push.zhanzhang.baidu.com
 px-adx.geo2.op-mobile.opera.com
 px-adx.op-mobile.opera.com
+r.bat.bing.com
+r.g.bing.com
 reklama.yandex.com
 res.adx.opera.com
 rplog.baidu.com
@@ -220,6 +280,7 @@ rrr.shouji.sogou.com
 rsyslog-ams.opera.com
 rum.dzen.ru
 rum.qwant.com
+rum.yimg.cn
 s-adx.geo.op-mobile.opera.com
 s-adx.geo2.op-mobile.opera.com
 s-adx.op-mobile.opera.com
@@ -228,6 +289,7 @@ s.adx.opera.com
 s.bz.adx.opera.com
 sa.tuisong.baidu.com
 sclick.baidu.com
+secure.bingads.microsoft.com
 segm.shouji.sogou.com
 sestat.baidu.com
 shouji-v6.sogou.com
@@ -278,5 +340,6 @@ wkctj.baidu.com
 workflow.telemetry.mozilla.org
 ws-ios.shouji.sogou.com
 ws-keyboard.shouji.sogou.com
+yads.c.yimg.jp
 yandexmetrica.com
 zz.bdstatic.com

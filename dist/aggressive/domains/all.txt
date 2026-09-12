@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9439
+# Total domains: 9509
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -254,7 +254,9 @@ ad.vera.bet.br
 ad.vrvm.com
 ad.weibo.com
 ad.xiaomi.com
+ad.yahoo.com
 ad.yieldlab.net
+ad01.udb.bf1.yahoo.com
 ad1.gtie.dell.com
 ad1.reddit.com
 ad1.xiaomi.com
@@ -287,6 +289,7 @@ adcel.vrvm.com
 adclarity.com
 adcolony.com
 add-mapping-for-wrong-activity-log-classes.feature.varify.io
+addata2.ads.vip.corp.yahoo.com
 addoncrop.com
 adelphic.com
 adex2.fwmrm.net
@@ -319,6 +322,9 @@ adlog.vivo.com.cn
 adm.fwmrm.net
 adm.leju.sina.com.cn
 admanager.opera.com
+admanager.yahoo.com
+admanagerplus.yahoo.com
+admarketing.yahoo.net
 admaster.cc
 admaven.com
 admetrica.yandex.com
@@ -331,6 +337,7 @@ admixer.net
 admixer.tech
 admixer.ua
 admixplay.com
+admktg.yahoo.com
 admob.com
 admob.google.com
 admob.googleapis.com
@@ -358,6 +365,8 @@ adperio.com
 adplatform.apple.com
 adplayer.pro
 adprofex.com
+adreporter.yahoo.com
+adreporting2.corp.yahoo.com
 adrevenue.appsflyersdk.com
 adroll.com
 adrta.com
@@ -416,6 +425,8 @@ ads-v-darwin.hulu.com
 ads-v.reddit.com
 ads.1muslimapp.com
 ads.7k.bet.br
+ads.ac.vip.bf1.yahoo.com
+ads.ac.vip.ne1.yahoo.com
 ads.acast.com
 ads.accuweather.com
 ads.acer.com
@@ -433,6 +444,7 @@ ads.api.cj.com
 ads.api.vungle.com
 ads.apple.com
 ads.ar.e-planning.net
+ads.auctions.yahoo.com
 ads.avast.com
 ads.azerion.com
 ads.babbel.com
@@ -442,6 +454,7 @@ ads.betfair.com
 ads.betfair.com.au
 ads.betou.bet.br
 ads.bidstack.com
+ads.bing.com
 ads.bing.vera.bet.br
 ads.bitmovin.com
 ads.bizo.com
@@ -507,6 +520,7 @@ ads.linkedin.cn
 ads.linkedin.com
 ads.lww.com
 ads.lyft.com
+ads.martech.yahoo.com
 ads.media.net
 ads.meitu.com
 ads.mobfox.com
@@ -574,6 +588,8 @@ ads.vera.bet.br
 ads.vertamedia.com
 ads.verve.com
 ads.viber.com
+ads.vip.bf1.yahoo.com
+ads.vip.corp.yahoo.com
 ads.vizio.com
 ads.vk.com
 ads.vk.ru
@@ -584,14 +600,19 @@ ads.weatherbug.com
 ads.wineenthusiast.com
 ads.world.waze.com
 ads.x.com
+ads.yahoo.co.jp
+ads.yahoo.com
 ads.yandex.com
 ads.yieldmo.com
+ads.yimg.com
 ads.zee5.com
 ads.zombodroid.com
 ads.zynga.com
 ads1-adnow.com
 ads1.huawei.com
 ads1.reddit.com
+ads1.vip.in.yahoo.com
+ads1.vip.ir2.yahoo.com
 ads16-normal-useastred.tiktokw.eu
 ads2.ads.pof.com
 ads2.anura.io
@@ -622,6 +643,7 @@ adscms.mdn.sbz.apple.com
 adscms.msc.sbz.apple.com
 adsconfig.life360.com
 adsdianying.baidu.com
+adsdk.bing.net
 adsdktest.apple.com
 adse.ximalaya.com
 adseaimg.apusapps.com
@@ -634,6 +656,7 @@ adserver.adikteev.com
 adserver.connatix.com
 adserver.jwplayer.com
 adserver.mxplayer.in
+adserver.oath.com
 adserver.podbean.com
 adserver.reddit.com
 adserver.remerge.io
@@ -655,6 +678,8 @@ adsn.adtelligent.com
 adspa-uat.acer.com
 adspa.acer.com
 adspace.adskeeper.com
+adspecs.oath.com
+adspecs.yahoo.com
 adspirit.de
 adspirit.net
 adspro.name
@@ -700,13 +725,17 @@ advertising-v3.us-east-1.msc.roku.com
 advertising.accuweather.com
 advertising.apple.com
 advertising.att.com
+advertising.oath.com
 advertising.roku.com
 advertising.tivo.com
 advertising.twitter.com
 advertising.us-east-1.msc.roku.com
 advertising.waze.com
 advertising.weatherbug.com
+advertising.yahoo.com
 advertising.yahooinc.com
+advertisingcentral.yahoo.com
+advertisinginsights.yahoo.com
 adverweb.cjenm.com
 advidi.com
 adview-prod-am.waze.com
@@ -1162,6 +1191,7 @@ analytics.hellochinese.cc
 analytics.helloclue.com
 analytics.hellofresh.com
 analytics.hellotalk.com
+analytics.help.yahoo.com
 analytics.hertz.com
 analytics.hide.me
 analytics.hihonor.com
@@ -1393,6 +1423,7 @@ analytics.prizerebel.com
 analytics.protected.media
 analytics.purevpn.com
 analytics.purplecarrot.com
+analytics.query.yahoo.com
 analytics.quitgenius.com
 analytics.quranmajeed.com
 analytics.rakutenmarketing.com
@@ -1586,6 +1617,7 @@ analytics.wysa.io
 analytics.x.com
 analytics.xplayerapp.com
 analytics.yabla.com
+analytics.yahoo.com
 analytics.yamaha.com
 analytics.yandex.com
 analytics.youbora.com
@@ -1756,12 +1788,14 @@ api.adprofex.com
 api.ads.beta.roku.com
 api.ads.roku.com
 api.ads.xiaomi.com
+api.ads.yahoo.com
 api.adskeeper.com
 api.adsquare.com
 api.adswizz.com
 api.adtelligent.com
 api.adultfriendfinder.com
 api.adup-tech.com
+api.advertisinginsights.yahoo.com
 api.airbrake.io
 api.analytics-iq.com
 api.analytics.gnosis.io
@@ -1895,6 +1929,7 @@ api.rollerads.com
 api.runestone.samsung.com
 api.s.telemetry.intel.com
 api.samba.tv
+api.searchmarketing.yahoo.com
 api.seedtag.com
 api.selectmedia.asia
 api.sessioncam.com
@@ -1924,6 +1959,7 @@ api.unacast.com
 api.ungads.com
 api.unityads.unity3d.com
 api.us.smartlook.cloud
+api.userloc.location.yahoo.com
 api.uxcam.com
 api.vastify.io
 api.verve.com
@@ -1949,6 +1985,7 @@ api3.adsterratools.com
 api3.mountain.com
 apiserv.shouji.sogou.com
 apitd.net
+apiv2.userloc.location.yahoo.com
 apkrep.ff.avast.sec.miui.com
 apm.yun.hihonor.com
 apmebf.com
@@ -2194,6 +2231,7 @@ bandar-logger.prezi.com
 banner-cdn.linksynergy.com
 banner.criteo.com
 bard-telemetry.google.com
+bat.bing.com
 batch.datax.yahoo.com
 battleate.com
 bcp.crwdcntrl.net
@@ -2214,7 +2252,9 @@ bdapi.ads.oppomobile.com
 bds.snssdk.com
 beachfront.com
 beachfront.io
+beacon.aceservices.yahoo.net
 beacon.dropbox.com
+beacon.fantasysports.yahoo.com
 beacon.netflix.com
 beacon.ntv.io
 beacon.pluto.tv
@@ -2236,6 +2276,7 @@ bemobtrcks.lalal.ai
 bengalads.com
 benjamin-w.logs.roku.com
 benjamin.logs.roku.com
+beta-advertising.yahoo.com
 beta.analytics.openaire.eu
 beta.sexart.adultfriendfinder.com
 beta.telemetry.gfe.nvidia.com
@@ -2268,6 +2309,8 @@ bigdata.ssp.samsung.com
 bigdataplus.baidu.com
 biglog.bae.baidu.com
 biglog.baidu.com
+bingads.com
+bingads.microsoft.com
 biosagentplus.com
 biscience.com
 bit-guardian.com
@@ -2324,8 +2367,13 @@ brightroll.com
 briskrange.com
 brisktopia.com
 broadstreetads.com
+brx.ads.vip.bf1.yahoo.com
 bryan.logs.roku.com
 bs-sec-gw.taboola.com
+bs1.ads.vip.bf1.yahoo.com
+bs1.ads.vip.ne1.yahoo.com
+bs2.ads.vip.bf1.yahoo.com
+bs2.ads.vip.ne1.yahoo.com
 bt.ly
 bt.s.telemetry.intel.com
 btl.sharethrough.com
@@ -2356,6 +2404,7 @@ c-lick.click
 c.amazon-adsystem.com
 c.aps.amazon-adsystem.com
 c.baidu.com
+c.bing.com
 c.cfjump.com
 c.clarity.ms
 c.go-mpulse.net
@@ -2937,6 +2986,7 @@ contentnet.adblade.com
 contentsquare.com
 contentsquare.net
 contextual.media.net
+contextualads.yahoo.net
 contextweb.com
 contile.services.mozilla.com
 control-zoo-dai-default.tvinteractive.tv
@@ -3209,9 +3259,15 @@ datacollector-dre.dt.hicloud.com
 datacollector-drru.dt.dbankcloud.ru
 datacollector-drru.dt.hicloud.com
 datacollector.dell.com
+datacollector.payments.yahoo.com
 datacollectorpc1-bigip.us.dell.com
 datadog.biocatch.com
 dataf.ads.oppomobile.com
+datalogger-a-snv.corp.yahoo.com
+datalogger-b-snv.corp.yahoo.com
+datalogger-d-snv.corp.yahoo.com
+datalogger-d2-snv.corp.yahoo.com
+datalogger-e-snv.corp.yahoo.com
 datalogix.com
 dataperformance.vodafone.it
 datarecoverydownload.com
@@ -4011,6 +4067,7 @@ fwtrack.ticketnetwork.com
 fwx.rtb.linkedin.com
 fyber.com
 g.baidu.com
+g.bing.com
 g.clarity.ms
 g.fwmrm.net
 g1.v.fwmrm.net
@@ -4024,6 +4081,7 @@ gallery-metrics.api.brightcove.com
 gambleonline.ca
 game.ad.xiaomi.com
 gamegamb.com
+gamelog-games.yahoo.co.jp
 gamelogs.rec.net
 gaming-analytics.youtube.com
 gateway-v2.crakrevenue.com
@@ -5268,6 +5326,7 @@ metric.megawinslots.com
 metric.sourceforge.io
 metric.vodafone.com.eg
 metric.yandex.com
+metric.yimg.cn
 metrica.yandex.com
 metrics-a.wbx2.com
 metrics-ad-drcn.dt.hihonorcloud.com
@@ -6039,6 +6098,7 @@ openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn
 openlocation-drcn.platform.dbankcloud.com
 openlocation-dre.platform.dbankcloud.com
 openlocation-drru.platform.dbankcloud.com
+openlog.yahoo.co.jp
 openreplay.com
 opentag-stats.qubit.com
 opera-banner-router.work.ink
@@ -6167,6 +6227,7 @@ partiality.itunes.apple.com
 partiality.itunes.apple.com.edgekey.net
 partner.criteo.com
 partner.oceanengine.com
+partnerads.ysm.yahoo.net
 partneranalytics-dr.apple.com
 partneranalytics.apple.com
 partneranalyticsportal.apple.com
@@ -6544,9 +6605,11 @@ qwapi.com
 r-o.pro
 r.ads.zynga.com
 r.applovin.com
+r.bat.bing.com
 r.browser.intl.miui.com
 r.browser.miui.com
 r.clarity.ms
+r.g.bing.com
 r.lgrckt-in.com
 r.ligatus.com
 r.logr-in.com
@@ -6559,6 +6622,7 @@ radarsubmissions.apple.com
 radarsubmissions.apple.com.akadns.net
 radiumone.com
 rainonit.com
+raka.bing.com
 rakuten.dis.criteo.com
 rakutenadvertising.com
 rakutenmarketing.com
@@ -6873,6 +6937,7 @@ rum.optimizely.com
 rum.qwant.com
 rum.raygun.io
 rum.rollbar.com
+rum.yimg.cn
 rum1.perf.linkedin.com
 rum10.perf.linkedin.com
 rum11.perf.linkedin.com
@@ -7160,10 +7225,12 @@ searchads-reno.apple.com
 searchads.apple.com
 searchads.apple.com.edgesuite.net
 searchads.lb-apple.com.akadns.net
+searchmarketing.yahoo.com
 secure-eu.imrworldwide.com
 secure-system-services.com
 secure.33across.com
 secure.adultfriendfinder.com
+secure.bingads.microsoft.com
 secure.dianomi.com
 secure.esupport.com
 secure.fortect.com
@@ -7296,6 +7363,7 @@ sgee-mcs.byteoversea.com
 sgp-ortb-api.ad.intl.xiaomi.com
 sgpapi.ad.intl.xiaomi.com
 sgsnssdk.com
+sgtm-poc.news.yahoo.net
 sgtm.7k.bet.br
 sgtm.adyen.com
 sgtm.cassino.bet.br
@@ -8901,6 +8969,7 @@ user-metrics.bunnycdn.com
 user.drivermax.com
 userdata.dev.sr.roku.com
 userdata.sr.roku.com
+userloc.location.yahoo.com
 userprofile.push.heytapmobi.com
 usersync.mgid.com
 usersync.ntv.io
@@ -9364,6 +9433,7 @@ xurl.es
 xy.fbcdn.net
 xz.fbcdn.net
 y.clarity.ms
+yads.c.yimg.jp
 yads.tech
 yahoo-native.bidder.taboola.com
 yamicsoft.com

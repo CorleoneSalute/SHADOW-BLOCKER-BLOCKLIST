@@ -1,12 +1,12 @@
 # Duplicate Domain Report
 
-Generated: 2026-09-12 07:58 UTC
+Generated: 2026-09-12 18:26 UTC
 
 Domains that appear in more than one category file's basic
 tier. Not always a mistake - shared infrastructure between
 platforms happens - but worth a quick look.
 
-140 duplicate domain(s) found:
+141 duplicate domain(s) found:
 
 | Domain | Categories |
 |---|---|
@@ -46,6 +46,7 @@ platforms happens - but worth a quick look.
 | cloudflareinsights.com | CDN-Edge-Network, Security-Bot-Detection |
 | clr.telemetry.intel.com | Hardware-Vendor, Linux |
 | cm.everesttech.net | AD-Network, Photo-Editing-Filter |
+| cms.analytics.yahoo.com | AD-Network, Browser |
 | config.samsungads.com | Mobile-OEM-Telecom-Operators, Smart-TV |
 | copilot-telemetry.githubusercontent.com | AI-Chatbot-LLM, Code-Hosting |
 | cpu.samsungelectronics.com | Mobile-OEM-Telecom-Operators, Smart-TV |

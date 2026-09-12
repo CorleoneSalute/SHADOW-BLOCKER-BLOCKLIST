@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 275
+# Total domains: 338
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -14,10 +14,19 @@
 0.0.0.0 ad-click.yandex.ru
 0.0.0.0 ad-constructor.yandex.com
 0.0.0.0 ad.baidu.com
+0.0.0.0 ad.yahoo.com
+0.0.0.0 ad01.udb.bf1.yahoo.com
 0.0.0.0 ada.baidu.com
+0.0.0.0 addata2.ads.vip.corp.yahoo.com
 0.0.0.0 adfox.yandex.com
 0.0.0.0 admanager.opera.com
+0.0.0.0 admanager.yahoo.com
+0.0.0.0 admanagerplus.yahoo.com
+0.0.0.0 admarketing.yahoo.net
 0.0.0.0 admetrica.yandex.com
+0.0.0.0 admktg.yahoo.com
+0.0.0.0 adreporter.yahoo.com
+0.0.0.0 adreporting2.corp.yahoo.com
 0.0.0.0 ads-config.op-mobile.opera.com
 0.0.0.0 ads-help.brave.com
 0.0.0.0 ads-img.mozilla.org
@@ -25,14 +34,34 @@
 0.0.0.0 ads-serve.bravesoftware.com
 0.0.0.0 ads-static.brave.com
 0.0.0.0 ads-static.bravesoftware.com
+0.0.0.0 ads.ac.vip.bf1.yahoo.com
+0.0.0.0 ads.ac.vip.ne1.yahoo.com
+0.0.0.0 ads.auctions.yahoo.com
 0.0.0.0 ads.baidu.com
+0.0.0.0 ads.bing.com
 0.0.0.0 ads.brave.com
 0.0.0.0 ads.bravesoftware.com
+0.0.0.0 ads.martech.yahoo.com
 0.0.0.0 ads.mozilla.org
 0.0.0.0 ads.opera.com
+0.0.0.0 ads.vip.bf1.yahoo.com
+0.0.0.0 ads.vip.corp.yahoo.com
+0.0.0.0 ads.yahoo.co.jp
+0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yandex.com
+0.0.0.0 ads.yimg.com
+0.0.0.0 ads1.vip.in.yahoo.com
+0.0.0.0 ads1.vip.ir2.yahoo.com
 0.0.0.0 adscdn.baidu.com
 0.0.0.0 adsdianying.baidu.com
+0.0.0.0 adsdk.bing.net
+0.0.0.0 adserver.oath.com
+0.0.0.0 adspecs.oath.com
+0.0.0.0 adspecs.yahoo.com
+0.0.0.0 advertising.oath.com
+0.0.0.0 advertising.yahoo.com
+0.0.0.0 advertisingcentral.yahoo.com
+0.0.0.0 advertisinginsights.yahoo.com
 0.0.0.0 adx.opera.com
 0.0.0.0 af.geo.opera.com
 0.0.0.0 af.opera.com
@@ -45,6 +74,9 @@
 0.0.0.0 an.yandex.ru
 0.0.0.0 analysis-output.telemetry.mozilla.org
 0.0.0.0 analytics.brave.com
+0.0.0.0 analytics.help.yahoo.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yandex.com
 0.0.0.0 anonymous.ads.bravesoftware.com
 0.0.0.0 apd.ping.android.shouji.sogou.com
@@ -52,6 +84,8 @@
 0.0.0.0 api-metrica.yandex.com
 0.0.0.0 api-metrika.yandex.com
 0.0.0.0 api.ad-fox.yandex.com
+0.0.0.0 api.ads.yahoo.com
+0.0.0.0 api.advertisinginsights.yahoo.com
 0.0.0.0 api.appmetrica.yandex.com
 0.0.0.0 api.appmetrika.yandex.com
 0.0.0.0 api.hisavana.com
@@ -71,13 +105,25 @@
 0.0.0.0 b-us.adx.opera.com
 0.0.0.0 b-usc.adx.opera.com
 0.0.0.0 b.ns.e.opera.com
+0.0.0.0 bat.bing.com
+0.0.0.0 beacon.aceservices.yahoo.net
+0.0.0.0 beacon.fantasysports.yahoo.com
+0.0.0.0 beta-advertising.yahoo.com
 0.0.0.0 bigdata.baidu.com
 0.0.0.0 bigdataplus.baidu.com
 0.0.0.0 biglog.bae.baidu.com
 0.0.0.0 biglog.baidu.com
+0.0.0.0 bingads.com
+0.0.0.0 bingads.microsoft.com
+0.0.0.0 brx.ads.vip.bf1.yahoo.com
+0.0.0.0 bs1.ads.vip.bf1.yahoo.com
+0.0.0.0 bs1.ads.vip.ne1.yahoo.com
+0.0.0.0 bs2.ads.vip.bf1.yahoo.com
+0.0.0.0 bs2.ads.vip.ne1.yahoo.com
 0.0.0.0 bugs.baidu.com
 0.0.0.0 bz.adx.opera.com
 0.0.0.0 c.baidu.com
+0.0.0.0 c.bing.com
 0.0.0.0 c.hiphotos.baidu.com
 0.0.0.0 c.ns.e.opera.com
 0.0.0.0 cc-api.hisavana.com
@@ -86,12 +132,14 @@
 0.0.0.0 clck.yandex.ru
 0.0.0.0 click.hm.baidu.com
 0.0.0.0 clogger.waimai.baidu.com
+0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 cnt.yandex.ru
 0.0.0.0 collection.yandex.com
 0.0.0.0 collections.yandex.com
 0.0.0.0 collector.bsg.brave.com
 0.0.0.0 contact.ads.brave.com
 0.0.0.0 contentad.baidu.com
+0.0.0.0 contextualads.yahoo.net
 0.0.0.0 contile.services.mozilla.com
 0.0.0.0 cpro.baidu.cn
 0.0.0.0 cpro.baidu.com
@@ -105,6 +153,12 @@
 0.0.0.0 crash.vivaldi.com
 0.0.0.0 crashstats-collector.opera.com
 0.0.0.0 crashstats-test.opera.com
+0.0.0.0 datacollector.payments.yahoo.com
+0.0.0.0 datalogger-a-snv.corp.yahoo.com
+0.0.0.0 datalogger-b-snv.corp.yahoo.com
+0.0.0.0 datalogger-d-snv.corp.yahoo.com
+0.0.0.0 datalogger-d2-snv.corp.yahoo.com
+0.0.0.0 datalogger-e-snv.corp.yahoo.com
 0.0.0.0 desktop-dna.osp.opera.software
 0.0.0.0 doc.adx.opera.com
 0.0.0.0 docs.telemetry.mozilla.org
@@ -122,6 +176,7 @@
 0.0.0.0 fleet-telemetry.map.baidu.com
 0.0.0.0 foreignpb.android.shouji.sogou.com
 0.0.0.0 g.baidu.com
+0.0.0.0 g.bing.com
 0.0.0.0 geo.ads.brave.com
 0.0.0.0 geo.ads.bravesoftware.com
 0.0.0.0 get-v6.shouji.sogou.com
@@ -162,6 +217,7 @@
 0.0.0.0 meta-ucads.ucweb.com
 0.0.0.0 metr.yandex.com
 0.0.0.0 metric.yandex.com
+0.0.0.0 metric.yimg.cn
 0.0.0.0 metrica.yandex.com
 0.0.0.0 metrics.baidu.com
 0.0.0.0 metrics.bravesoftware.com
@@ -187,6 +243,7 @@
 0.0.0.0 ohttp.metrics.brave.com
 0.0.0.0 ohttp.metrics.bravesoftware.com
 0.0.0.0 open.shouji.sogou.com
+0.0.0.0 openlog.yahoo.co.jp
 0.0.0.0 opr.adx.opera.com
 0.0.0.0 osp-log-fetcher.opera.com
 0.0.0.0 outspot-ash.op-mobile.opera.com
@@ -200,6 +257,7 @@
 0.0.0.0 p3a.brave.com
 0.0.0.0 p3a.bravesoftware.com
 0.0.0.0 pagead.adx.ams.op-mobile.opera.com
+0.0.0.0 partnerads.ysm.yahoo.net
 0.0.0.0 pcad.video.baidu.com
 0.0.0.0 ping-ios.shouji.sogou.com
 0.0.0.0 ping-msganr.android.shouji.sogou.com
@@ -213,6 +271,8 @@
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 px-adx.geo2.op-mobile.opera.com
 0.0.0.0 px-adx.op-mobile.opera.com
+0.0.0.0 r.bat.bing.com
+0.0.0.0 r.g.bing.com
 0.0.0.0 reklama.yandex.com
 0.0.0.0 res.adx.opera.com
 0.0.0.0 rplog.baidu.com
@@ -220,6 +280,7 @@
 0.0.0.0 rsyslog-ams.opera.com
 0.0.0.0 rum.dzen.ru
 0.0.0.0 rum.qwant.com
+0.0.0.0 rum.yimg.cn
 0.0.0.0 s-adx.geo.op-mobile.opera.com
 0.0.0.0 s-adx.geo2.op-mobile.opera.com
 0.0.0.0 s-adx.op-mobile.opera.com
@@ -228,6 +289,7 @@
 0.0.0.0 s.bz.adx.opera.com
 0.0.0.0 sa.tuisong.baidu.com
 0.0.0.0 sclick.baidu.com
+0.0.0.0 secure.bingads.microsoft.com
 0.0.0.0 segm.shouji.sogou.com
 0.0.0.0 sestat.baidu.com
 0.0.0.0 shouji-v6.sogou.com
@@ -278,5 +340,6 @@
 0.0.0.0 workflow.telemetry.mozilla.org
 0.0.0.0 ws-ios.shouji.sogou.com
 0.0.0.0 ws-keyboard.shouji.sogou.com
+0.0.0.0 yads.c.yimg.jp
 0.0.0.0 yandexmetrica.com
 0.0.0.0 zz.bdstatic.com
