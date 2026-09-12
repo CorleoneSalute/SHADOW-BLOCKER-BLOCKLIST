@@ -7,6 +7,7 @@
 # TWC
 ibm-weather-beacon.com
 weather-beacon.com
+ad-tech-windev.weather.com
 qlik.analytics.weather.com
 metrics.qa.max.weather.com
 jenkins.analytics.weather.com
