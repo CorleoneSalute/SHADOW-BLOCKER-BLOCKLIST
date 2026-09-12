@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1806
+# Total domains: 1807
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -738,6 +738,7 @@
 0.0.0.0 fastclick.com
 0.0.0.0 fastclick.net
 0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 fbads24.com
 0.0.0.0 fk-mtrack.rayjump.com
 0.0.0.0 fledge-publisher.creativecdn.com
 0.0.0.0 fledge.as.criteo.com

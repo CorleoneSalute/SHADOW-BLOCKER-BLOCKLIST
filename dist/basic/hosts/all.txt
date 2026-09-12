@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9098
+# Total domains: 9099
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3747,6 +3747,7 @@
 0.0.0.0 fb.rtb.fr.eu.criteo.com
 0.0.0.0 fb.rtb.nl.eu.criteo.com
 0.0.0.0 fb.rtb.sv.us.criteo.com
+0.0.0.0 fbads24.com
 0.0.0.0 fbanalytics.sandbox.game
 0.0.0.0 fbthirdpartypixel.com
 0.0.0.0 fc-lc.com

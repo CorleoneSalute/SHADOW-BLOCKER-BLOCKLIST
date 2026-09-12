@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1814
+# Total domains: 1815
 # Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -741,6 +741,7 @@ farm.plista.com
 fastclick.com
 fastclick.net
 fastlane.rubiconproject.com
+fbads24.com
 fk-mtrack.rayjump.com
 fledge-publisher.creativecdn.com
 fledge.as.criteo.com
