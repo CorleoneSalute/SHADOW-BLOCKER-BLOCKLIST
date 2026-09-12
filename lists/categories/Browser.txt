@@ -398,6 +398,8 @@ ws-keyboard.shouji.sogou.com
 # ⚠️ Privacy and security risk — use is not recommended.
 # Runs on Transsion/Talpa's own infrastructure.
 
+# APK analysis
+
 # Main API/backend (bro-transsion.com):
 # api.bro-transsion.com
 # api-center.bro-transsion.com
