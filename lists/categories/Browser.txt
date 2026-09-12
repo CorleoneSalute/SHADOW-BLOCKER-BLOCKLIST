@@ -7,6 +7,90 @@
 # GOOGLE / CHROME
 chromereporting-pa.googleapis.com
 
+# Yahoo
+
+ad.yahoo.com
+ad01.udb.bf1.yahoo.com
+ads.vip.corp.yahoo.com
+addata2.ads.vip.corp.yahoo.com
+admanagerplus.yahoo.com
+admanager.yahoo.com
+admktg.yahoo.com
+adreporter.yahoo.com
+adreporting2.corp.yahoo.com
+ads.ac.vip.bf1.yahoo.com
+ads.ac.vip.ne1.yahoo.com
+ads.auctions.yahoo.com
+ads.martech.yahoo.com
+ads.yahoo.com
+ads1.vip.in.yahoo.com
+ads1.vip.ir2.yahoo.com
+adspecs.yahoo.com
+advertising.yahoo.com
+advertisingcentral.yahoo.com
+analytics.help.yahoo.com
+analytics.query.yahoo.com
+analytics.yahoo.com
+api.ads.yahoo.com
+api.advertisinginsights.yahoo.com
+advertisinginsights.yahoo.com
+searchmarketing.yahoo.com !
+api.searchmarketing.yahoo.com !
+userloc.location.yahoo.com !
+api.userloc.location.yahoo.com !
+datacollector.payments.yahoo.com
+beacon.fantasysports.yahoo.com
+apiv2.userloc.location.yahoo.com !
+ads.vip.bf1.yahoo.com
+brx.ads.vip.bf1.yahoo.com
+beta-advertising.yahoo.com
+bs1.ads.vip.ne1.yahoo.com
+bs1.ads.vip.bf1.yahoo.com
+bs2.ads.vip.ne1.yahoo.com
+bs2.ads.vip.bf1.yahoo.com
+cms.analytics.yahoo.com
+datalogger-a-snv.corp.yahoo.com
+datalogger-b-snv.corp.yahoo.com
+datalogger-d-snv.corp.yahoo.com
+datalogger-d2-snv.corp.yahoo.com
+datalogger-e-snv.corp.yahoo.com
+
+admarketing.yahoo.net
+beacon.aceservices.yahoo.net
+contextualads.yahoo.net
+partnerads.ysm.yahoo.net
+sgtm-poc.news.yahoo.net !
+
+ads.yimg.com
+
+ads.yahoo.co.jp
+openlog.yahoo.co.jp
+gamelog-games.yahoo.co.jp !
+
+yads.c.yimg.jp
+
+
+metric.yimg.cn
+rum.yimg.cn
+
+adserver.oath.com
+adspecs.oath.com
+advertising.oath.com
+
+# Bing
+
+ads.bing.com
+c.bing.com
+g.bing.com
+bat.bing.com
+r.bat.bing.com
+r.g.bing.com
+raka.bing.com !
+adsdk.bing.net
+bingads.com
+secure.bingads.microsoft.com
+bingads.microsoft.com
+
 # MOZILLA / FIREFOX
 telemetry.mozilla.org
 incoming.telemetry.mozilla.org
