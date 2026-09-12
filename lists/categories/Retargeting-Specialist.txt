@@ -4,7 +4,7 @@
 # Last update: 2026/08/03
 # Note: trailing "!" marks a domain as aggressive-only
 
-🔴 CRITEO  (99 domain)
+CRITEO  (99 domain)
 
 # Core domains (2 domain)
 criteo.com
@@ -142,8 +142,7 @@ dnsdelegation.io
 storetail.io
 
 
-🔵 RETARGETER / ZETA GLOBAL  (94 domain)
-===============================================
+RETARGETER / ZETA GLOBAL  (94 domain)
 
 # Retargeter (core and tracking domains) (19 domain)
 retargeter.com
@@ -278,8 +277,7 @@ zetalive.com
 pixel.zetalive.com
 
 
-🟢 ADIKTEEV  (83 domain)
-===============================================
+ADIKTEEV  (83 domain)
 
 # Core domain (1 domain)
 adikteev.com
@@ -411,8 +409,7 @@ partners.adikteev.com
 integrations.adikteev.com
 
 
-🟣 REMERGE  (70 domain)
-===============================================
+REMERGE  (70 domain)
 
 # Core domains (1 domain)
 remerge.io
