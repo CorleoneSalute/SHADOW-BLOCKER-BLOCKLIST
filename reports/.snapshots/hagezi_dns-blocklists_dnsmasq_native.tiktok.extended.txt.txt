@@ -1,6 +1,7 @@
 abtest-ch.snssdk.com
 ad-format-sg.tiktokv.com
 ad-format-ttp2.tiktokv.eu
+ad-format.tiktokv.us
 ad-format16-normal-useastred.tiktokv.eu
 ad-instantpage-ru.tiktokv.com
 ad-instantpage-sg.tiktokv.com
@@ -134,6 +135,7 @@ haohuo.snssdk.com
 i.snssdk.com
 live-video-log16-normal-alisg.tiktokv.com
 location-i18n.tiktokv.com
+location-ru.tiktokv.com
 location-sg.tiktokv.com
 location-ttp2.tiktokv.eu
 location-ttp2.us.tiktokv.com
@@ -238,7 +240,6 @@ log32-normal-useastred.tiktokv.eu
 log32-normal-zr.tiktokv.com
 log32-normal.capcutapi.com
 log32-normal.tiktokv.com
-log53-normal-c-useast1a.tiktokv.com
 log58-normal-alisg.tiktokv.com
 log58-normal-c-alisg.tiktokv.com
 log58-normal-c-useast1a.tiktokv.com
@@ -394,6 +395,7 @@ mssdk-quic-sg.tiktok.com
 mssdk-quic-sg.tiktokv.com
 mssdk-quic-va.tiktokv.com
 mssdk-ru.tiktokv.com
+mssdk-ru.tiktokv.com.www.digmawifi.com
 mssdk-sg-bu.byteoversea.com
 mssdk-sg.byteoversea.com
 mssdk-sg.capcutapi.com
@@ -463,6 +465,7 @@ pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net
 pc-mon16-normal-us-ttp2.capcutapi.us
 rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
+rtc-logger-ttp2.tiktokv.us
 rtc-logger-ttp2.us.tiktokv.com
 rtc-logger-va.tiktokv.com
 rtc-logger.tiktokv.com

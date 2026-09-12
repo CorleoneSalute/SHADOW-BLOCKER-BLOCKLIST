@@ -70,7 +70,6 @@ authbe.sec.intl.miui.com
 awssgp0-files.fds.api.xiaomi.com
 awsusor0-cdn.fds-ssl.api.xiaomi.com
 bgp.fe01.c3.xiaomi.com
-bgp.tv.pandora.xiaomi.com
 bigdata-lbs-pri-c3.alb.xiaomi.com
 bossadmin.pandora.xiaomi.com
 box.pandora.xiaomi.com
