@@ -20,6 +20,7 @@ analytics-api.samsunghealthcn.com
 api-analytics.huami.com
 app-analytics.huami.com
 clarity.zepp.com
+app-analytics-cn3.zepp.com
 
 # POLAR
 analytics.polar.com
