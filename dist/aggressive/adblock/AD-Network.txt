@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1815
+# Total domains: 1816
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -93,6 +93,7 @@
 ||adnxs.net^
 ||adplayer.pro^
 ||adroll.com^
+||ads-bidstrade.io^
 ||ads-i-cf.undertone.com^
 ||ads-i.undertone.com^
 ||ads-sdk.unityads.unity3d.com^

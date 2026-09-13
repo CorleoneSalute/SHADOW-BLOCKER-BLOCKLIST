@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9145
+# Total domains: 9146
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -365,6 +365,7 @@
 ||ads-bdapi-th.heytapmobile.com^
 ||ads-bdapi-vn.heytapmobile.com^
 ||ads-bidder-api.twitter.com^
+||ads-bidstrade.io^
 ||ads-canary.pinterest.com^
 ||ads-cf-us-east-1.delivery.roku.com^
 ||ads-cf-us-west-2.delivery.roku.com^

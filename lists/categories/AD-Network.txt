@@ -1,8 +1,8 @@
 AD NETWORK BLOCKLIST 
 
-# Total domains: 1815
+# Total domains: 1816
 # Total platforms: 154
-# Last update: 2026/09/12
+# Last update: 2026/09/13
 # Note: trailing "!" marks a domain as aggressive-only
 
 # --- Taboola [CRITICAL] ---
