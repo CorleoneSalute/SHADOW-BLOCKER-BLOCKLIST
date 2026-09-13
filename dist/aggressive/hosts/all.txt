@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9571
-# Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9568
+# Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -7558,7 +7558,6 @@
 0.0.0.0 sms.ads.oppomobile.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 snapads.com
-0.0.0.0 snippets.allizom.org
 0.0.0.0 snippets.cdn.mozilla.net
 0.0.0.0 snow-track.playtika.com
 0.0.0.0 snssdk.com
@@ -7802,7 +7801,6 @@
 0.0.0.0 stats.tandf.co.uk
 0.0.0.0 stats.tensor.trade
 0.0.0.0 stats.uscreen.io
-0.0.0.0 stats.vivaldi.com
 0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.waze.com
 0.0.0.0 stats.wowvegas.com
@@ -9076,7 +9074,6 @@
 0.0.0.0 vad-bid.adsrvr.org
 0.0.0.0 vae-bid.adsrvr.org
 0.0.0.0 vam-bid.adsrvr.org
-0.0.0.0 variations.bravesoftware.com
 0.0.0.0 vars.hotjar.com
 0.0.0.0 vars.webmaxy.com
 0.0.0.0 vas.outbrain.com

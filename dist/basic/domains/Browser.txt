@@ -1,7 +1,7 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 338
-# Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
+# Total domains: 332
+# Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -140,7 +140,6 @@ collector.bsg.brave.com
 contact.ads.brave.com
 contentad.baidu.com
 contextualads.yahoo.net
-contile.services.mozilla.com
 cpro.baidu.cn
 cpro.baidu.com
 crash-cn.opera.com
@@ -294,8 +293,6 @@ segm.shouji.sogou.com
 sestat.baidu.com
 shouji-v6.sogou.com
 shouji.sogou.com
-snippets.allizom.org
-snippets.cdn.mozilla.net
 speech.shouji.sogou.com
 srv.ios.shouji.sogou.com
 star-randsrv.bsg.brave.com
@@ -307,7 +304,6 @@ static.metrics.brave.com
 static.metrics.bravesoftware.com
 stats.poc.qwant.com
 stats.qwant.com
-stats.vivaldi.com
 t-adx.op-mobile.opera.com
 t-odx.geo.op-mobile.opera.com
 t-odx.geo2.op-mobile.opera.com
@@ -334,8 +330,6 @@ ucads.ucweb.com
 ucstat.baidu.com
 union.baidu.com
 update.ping.android.shouji.sogou.com
-usage-ping.brave.com
-usage-ping.bravesoftware.com
 wkctj.baidu.com
 workflow.telemetry.mozilla.org
 ws-ios.shouji.sogou.com

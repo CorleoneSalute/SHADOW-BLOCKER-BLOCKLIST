@@ -1,7 +1,7 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 356
-# Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
+# Total domains: 353
+# Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -307,7 +307,6 @@
 0.0.0.0 sgtm-poc.news.yahoo.net
 0.0.0.0 shouji-v6.sogou.com
 0.0.0.0 shouji.sogou.com
-0.0.0.0 snippets.allizom.org
 0.0.0.0 snippets.cdn.mozilla.net
 0.0.0.0 speech.shouji.sogou.com
 0.0.0.0 srv.ios.shouji.sogou.com
@@ -321,7 +320,6 @@
 0.0.0.0 static.metrics.bravesoftware.com
 0.0.0.0 stats.poc.qwant.com
 0.0.0.0 stats.qwant.com
-0.0.0.0 stats.vivaldi.com
 0.0.0.0 t-adx.op-mobile.opera.com
 0.0.0.0 t-odx.geo.op-mobile.opera.com
 0.0.0.0 t-odx.geo2.op-mobile.opera.com
@@ -352,7 +350,6 @@
 0.0.0.0 usage-ping.brave.com
 0.0.0.0 usage-ping.bravesoftware.com
 0.0.0.0 userloc.location.yahoo.com
-0.0.0.0 variations.bravesoftware.com
 0.0.0.0 wkctj.baidu.com
 0.0.0.0 workflow.telemetry.mozilla.org
 0.0.0.0 ws-ios.shouji.sogou.com

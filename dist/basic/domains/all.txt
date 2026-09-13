@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9158
-# Generated: 2026-09-12 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9152
+# Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -2922,7 +2922,6 @@ contentsquare.net
 contextual.media.net
 contextualads.yahoo.net
 contextweb.com
-contile.services.mozilla.com
 control-zoo-dai-default.tvinteractive.tv
 control.tvinteractive.tv
 control2.tvinteractive.tv
@@ -7213,8 +7212,6 @@ sms.ads.heytapmobi.com
 sms.ads.oppomobile.com
 snap.licdn.com
 snapads.com
-snippets.allizom.org
-snippets.cdn.mozilla.net
 snow-track.playtika.com
 snssdk.com
 softuna.com
@@ -7451,7 +7448,6 @@ stats.surfshark.com
 stats.tandf.co.uk
 stats.tensor.trade
 stats.uscreen.io
-stats.vivaldi.com
 stats.vk-portal.net
 stats.waze.com
 stats.wowvegas.com
@@ -8626,8 +8622,6 @@ usage-eu-fy2019.myhomescreen.tv
 usage-eu-fy2020.myhomescreen.tv
 usage-eu-fy2021.myhomescreen.tv
 usage-eu-fy2022.myhomescreen.tv
-usage-ping.brave.com
-usage-ping.bravesoftware.com
 usage-reports-api.zenvia.com
 usage-us-fy2014.myhomescreen.tv
 usage-us-fy2015.myhomescreen.tv
