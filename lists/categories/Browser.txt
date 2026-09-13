@@ -12,6 +12,7 @@ chromereporting-pa.googleapis.com
 ad.yahoo.com
 ad01.udb.bf1.yahoo.com
 ads.vip.corp.yahoo.com
+ads.vip.ne1.yahoo.com
 addata2.ads.vip.corp.yahoo.com
 admanagerplus.yahoo.com
 admanager.yahoo.com
