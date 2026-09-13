@@ -286,6 +286,7 @@ popin.cc
 
 # YANDEX BROWSER
 metrika.yandex.ru
+bymetrika.yandex.com
 yandexmetrica.com
 awaps.yandex.net
 awaps.yandex.ru
@@ -312,7 +313,6 @@ appmetrica.yandex.com
 appmetrika.yandex.com
 collection.yandex.com
 collections.yandex.com
-drivematics.yandex.com
 log.api-maps.yandex.com
 log.strm.yandex.com
 metric.yandex.com
@@ -383,11 +383,9 @@ ws-keyboard.shouji.sogou.com
 
 # HOLA BROWSER
 
-# Infinix phone browser bloatware
+# Infinix XOS browser bloatware
 
 # ⚠️ Privacy and security risk — use is not recommended.
-
-# Runs on Transsion/Talpa's own infrastructure.
 
 # APK analysis
 
