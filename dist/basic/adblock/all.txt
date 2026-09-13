@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9153
+# Total domains: 9144
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -48,7 +48,6 @@
 ||a.line.me^
 ||a.market.mi-img.com^
 ||a.mgid.com^
-||a.ns.e.opera.com^
 ||a.optmstr.com^
 ||a.plerdy.com^
 ||a.relayto.com^
@@ -2148,7 +2147,6 @@
 ||b-ca.adx.opera.com^
 ||b-eu.adx.opera.com^
 ||b-sg.adx.opera.com^
-||b-sg.geo2.op-mobile.opera.com^
 ||b-sgo.adx.opera.com^
 ||b-trn.adx.opera.com^
 ||b-us.adx.opera.com^
@@ -2159,7 +2157,6 @@
 ||b.jp2.as.criteo.com^
 ||b.ligatus.com^
 ||b.nl3.eu.criteo.com^
-||b.ns.e.opera.com^
 ||b.optmstr.com^
 ||b.scorecardresearch.com^
 ||b.sg1.as.criteo.com^
@@ -2358,7 +2355,6 @@
 ||c.hiphotos.baidu.com^
 ||c.ltmsphrcl.net^
 ||c.mgid.com^
-||c.ns.e.opera.com^
 ||c.optmstr.com^
 ||c.riskified.com^
 ||c.st.ltmsphrcl.net^
@@ -2769,7 +2765,6 @@
 ||cname-sin01-stsdk09.vivoglobal.com^
 ||cnames.raps.ravm.tv^
 ||cnhv.co^
-||cnt.yandex.ru^
 ||co-err-up.vivoglobal.com^
 ||co-onrt-stsdk.vivoglobal.com^
 ||co-ort-stsdk.vivoglobal.com^
@@ -4381,8 +4376,6 @@
 ||inferred.litix.io^
 ||info.ads.roku.com^
 ||info.advertising.roku.com^
-||info.geo.op-mobile.opera.com^
-||info.geo2.op-mobile.opera.com^
 ||info.lgsmartad.com^
 ||infoevent.startappservice.com^
 ||infoflowpb.android.shouji.sogou.com^
@@ -7596,8 +7589,6 @@
 ||t-e.site^
 ||t-id.ads.heytapmobile.com^
 ||t-in.ads.heytapmobile.com^
-||t-odx.geo.op-mobile.opera.com^
-||t-odx.geo2.op-mobile.opera.com^
 ||t-odx.op-mobile.opera.com^
 ||t.acxiom-online.com^
 ||t.ads.pof.com^

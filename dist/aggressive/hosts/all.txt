@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9569
+# Total domains: 9565
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -52,7 +52,6 @@
 0.0.0.0 a.line.me
 0.0.0.0 a.market.mi-img.com
 0.0.0.0 a.mgid.com
-0.0.0.0 a.ns.e.opera.com
 0.0.0.0 a.optmstr.com
 0.0.0.0 a.plerdy.com
 0.0.0.0 a.relayto.com
@@ -2216,7 +2215,6 @@
 0.0.0.0 b.jp2.as.criteo.com
 0.0.0.0 b.ligatus.com
 0.0.0.0 b.nl3.eu.criteo.com
-0.0.0.0 b.ns.e.opera.com
 0.0.0.0 b.optmstr.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b.sg1.as.criteo.com
@@ -2427,7 +2425,6 @@
 0.0.0.0 c.hiphotos.baidu.com
 0.0.0.0 c.ltmsphrcl.net
 0.0.0.0 c.mgid.com
-0.0.0.0 c.ns.e.opera.com
 0.0.0.0 c.optmstr.com
 0.0.0.0 c.riskified.com
 0.0.0.0 c.st.ltmsphrcl.net
@@ -2850,7 +2847,6 @@
 0.0.0.0 cname-sin01-stsdk09.vivoglobal.com
 0.0.0.0 cnames.raps.ravm.tv
 0.0.0.0 cnhv.co
-0.0.0.0 cnt.yandex.ru
 0.0.0.0 co-err-up.vivoglobal.com
 0.0.0.0 co-onrt-stsdk.vivoglobal.com
 0.0.0.0 co-ort-stsdk.vivoglobal.com

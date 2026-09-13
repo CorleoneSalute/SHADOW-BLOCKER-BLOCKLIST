@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 333
+# Total domains: 324
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9,7 +9,6 @@
 ||a.baidu.com^
 ||a.gdown.baidu.com^
 ||a.hiphotos.baidu.com^
-||a.ns.e.opera.com^
 ||ablog.baidu.com^
 ||ad-click.yandex.ru^
 ||ad-constructor.yandex.com^
@@ -99,12 +98,10 @@
 ||b-ca.adx.opera.com^
 ||b-eu.adx.opera.com^
 ||b-sg.adx.opera.com^
-||b-sg.geo2.op-mobile.opera.com^
 ||b-sgo.adx.opera.com^
 ||b-trn.adx.opera.com^
 ||b-us.adx.opera.com^
 ||b-usc.adx.opera.com^
-||b.ns.e.opera.com^
 ||bat.bing.com^
 ||beacon.aceservices.yahoo.net^
 ||beacon.fantasysports.yahoo.com^
@@ -125,7 +122,6 @@
 ||c.baidu.com^
 ||c.bing.com^
 ||c.hiphotos.baidu.com^
-||c.ns.e.opera.com^
 ||cc-api.hisavana.com^
 ||central-log.opera.com^
 ||chromereporting-pa.googleapis.com^
@@ -133,7 +129,6 @@
 ||click.hm.baidu.com^
 ||clogger.waimai.baidu.com^
 ||cms.analytics.yahoo.com^
-||cnt.yandex.ru^
 ||collection.yandex.com^
 ||collections.yandex.com^
 ||collector.bsg.brave.com^
@@ -192,8 +187,6 @@
 ||improve.ios.shouji.sogou.com^
 ||improving.duckduckgo.com^
 ||incoming.telemetry.mozilla.org^
-||info.geo.op-mobile.opera.com^
-||info.geo2.op-mobile.opera.com^
 ||infoflowpb.android.shouji.sogou.com^
 ||input.shouji.sogou.com^
 ||instantpb.android.shouji.sogou.com^
@@ -306,8 +299,6 @@
 ||stats.poc.qwant.com^
 ||stats.qwant.com^
 ||t-adx.op-mobile.opera.com^
-||t-odx.geo.op-mobile.opera.com^
-||t-odx.geo2.op-mobile.opera.com^
 ||t-odx.op-mobile.opera.com^
 ||t.adx.opera.com^
 ||telemetry-coverage.mozilla.org^

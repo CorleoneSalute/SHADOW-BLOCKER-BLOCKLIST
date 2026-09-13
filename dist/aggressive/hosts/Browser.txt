@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 354
+# Total domains: 350
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,7 +10,6 @@
 0.0.0.0 a.baidu.com
 0.0.0.0 a.gdown.baidu.com
 0.0.0.0 a.hiphotos.baidu.com
-0.0.0.0 a.ns.e.opera.com
 0.0.0.0 ablog.baidu.com
 0.0.0.0 activity.baidu.com
 0.0.0.0 ad-click.yandex.ru
@@ -109,7 +108,6 @@
 0.0.0.0 b-trn.adx.opera.com
 0.0.0.0 b-us.adx.opera.com
 0.0.0.0 b-usc.adx.opera.com
-0.0.0.0 b.ns.e.opera.com
 0.0.0.0 bat.bing.com
 0.0.0.0 beacon.aceservices.yahoo.net
 0.0.0.0 beacon.fantasysports.yahoo.com
@@ -130,7 +128,6 @@
 0.0.0.0 c.baidu.com
 0.0.0.0 c.bing.com
 0.0.0.0 c.hiphotos.baidu.com
-0.0.0.0 c.ns.e.opera.com
 0.0.0.0 cc-api.hisavana.com
 0.0.0.0 central-log.opera.com
 0.0.0.0 chromereporting-pa.googleapis.com
@@ -138,7 +135,6 @@
 0.0.0.0 click.hm.baidu.com
 0.0.0.0 clogger.waimai.baidu.com
 0.0.0.0 cms.analytics.yahoo.com
-0.0.0.0 cnt.yandex.ru
 0.0.0.0 collection.yandex.com
 0.0.0.0 collections.yandex.com
 0.0.0.0 collector.bsg.brave.com

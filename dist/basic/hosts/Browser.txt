@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 333
+# Total domains: 324
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9,7 +9,6 @@
 0.0.0.0 a.baidu.com
 0.0.0.0 a.gdown.baidu.com
 0.0.0.0 a.hiphotos.baidu.com
-0.0.0.0 a.ns.e.opera.com
 0.0.0.0 ablog.baidu.com
 0.0.0.0 ad-click.yandex.ru
 0.0.0.0 ad-constructor.yandex.com
@@ -99,12 +98,10 @@
 0.0.0.0 b-ca.adx.opera.com
 0.0.0.0 b-eu.adx.opera.com
 0.0.0.0 b-sg.adx.opera.com
-0.0.0.0 b-sg.geo2.op-mobile.opera.com
 0.0.0.0 b-sgo.adx.opera.com
 0.0.0.0 b-trn.adx.opera.com
 0.0.0.0 b-us.adx.opera.com
 0.0.0.0 b-usc.adx.opera.com
-0.0.0.0 b.ns.e.opera.com
 0.0.0.0 bat.bing.com
 0.0.0.0 beacon.aceservices.yahoo.net
 0.0.0.0 beacon.fantasysports.yahoo.com
@@ -125,7 +122,6 @@
 0.0.0.0 c.baidu.com
 0.0.0.0 c.bing.com
 0.0.0.0 c.hiphotos.baidu.com
-0.0.0.0 c.ns.e.opera.com
 0.0.0.0 cc-api.hisavana.com
 0.0.0.0 central-log.opera.com
 0.0.0.0 chromereporting-pa.googleapis.com
@@ -133,7 +129,6 @@
 0.0.0.0 click.hm.baidu.com
 0.0.0.0 clogger.waimai.baidu.com
 0.0.0.0 cms.analytics.yahoo.com
-0.0.0.0 cnt.yandex.ru
 0.0.0.0 collection.yandex.com
 0.0.0.0 collections.yandex.com
 0.0.0.0 collector.bsg.brave.com
@@ -192,8 +187,6 @@
 0.0.0.0 improve.ios.shouji.sogou.com
 0.0.0.0 improving.duckduckgo.com
 0.0.0.0 incoming.telemetry.mozilla.org
-0.0.0.0 info.geo.op-mobile.opera.com
-0.0.0.0 info.geo2.op-mobile.opera.com
 0.0.0.0 infoflowpb.android.shouji.sogou.com
 0.0.0.0 input.shouji.sogou.com
 0.0.0.0 instantpb.android.shouji.sogou.com
@@ -306,8 +299,6 @@
 0.0.0.0 stats.poc.qwant.com
 0.0.0.0 stats.qwant.com
 0.0.0.0 t-adx.op-mobile.opera.com
-0.0.0.0 t-odx.geo.op-mobile.opera.com
-0.0.0.0 t-odx.geo2.op-mobile.opera.com
 0.0.0.0 t-odx.op-mobile.opera.com
 0.0.0.0 t.adx.opera.com
 0.0.0.0 telemetry-coverage.mozilla.org
