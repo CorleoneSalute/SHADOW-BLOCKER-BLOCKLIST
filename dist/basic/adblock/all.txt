@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9146
+# Total domains: 9153
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -346,6 +346,7 @@
 ||adplatform.apple.com^
 ||adplayer.pro^
 ||adprofex.com^
+||adptrck.com^
 ||adreporter.yahoo.com^
 ||adreporting2.corp.yahoo.com^
 ||adrevenue.appsflyersdk.com^
@@ -669,6 +670,12 @@
 ||adtech.de^
 ||adtelligent.com^
 ||adtracker.inmobi.com^
+||adtrck.cc^
+||adtrck.com^
+||adtrck.net^
+||adtrck.online^
+||adtrck.org^
+||adtrck.pro^
 ||adult.xyz^
 ||adultfriendfinder.com^
 ||adup-tech.com^

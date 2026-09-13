@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1816
+# Total domains: 1823
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -92,6 +92,7 @@
 0.0.0.0 adnxs.com
 0.0.0.0 adnxs.net
 0.0.0.0 adplayer.pro
+0.0.0.0 adptrck.com
 0.0.0.0 adroll.com
 0.0.0.0 ads-bidstrade.io
 0.0.0.0 ads-i-cf.undertone.com
@@ -158,6 +159,12 @@
 0.0.0.0 adtech.de
 0.0.0.0 adtelligent.com
 0.0.0.0 adtracker.inmobi.com
+0.0.0.0 adtrck.cc
+0.0.0.0 adtrck.com
+0.0.0.0 adtrck.net
+0.0.0.0 adtrck.online
+0.0.0.0 adtrck.org
+0.0.0.0 adtrck.pro
 0.0.0.0 adup-tech.com
 0.0.0.0 advertise.quantcast.com
 0.0.0.0 advertiser-api.revcontent.com

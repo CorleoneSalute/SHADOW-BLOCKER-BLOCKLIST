@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1808
+# Total domains: 1815
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -92,6 +92,7 @@
 ||adnxs.com^
 ||adnxs.net^
 ||adplayer.pro^
+||adptrck.com^
 ||adroll.com^
 ||ads-bidstrade.io^
 ||ads-i-cf.undertone.com^
@@ -158,6 +159,12 @@
 ||adtech.de^
 ||adtelligent.com^
 ||adtracker.inmobi.com^
+||adtrck.cc^
+||adtrck.com^
+||adtrck.net^
+||adtrck.online^
+||adtrck.org^
+||adtrck.pro^
 ||adup-tech.com^
 ||advertise.quantcast.com^
 ||advertiser-api.revcontent.com^
