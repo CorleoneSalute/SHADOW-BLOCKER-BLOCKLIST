@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9153
+# Total domains: 9154
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1955,6 +1955,7 @@ apm.yun.hihonor.com
 apmebf.com
 aporasal.net
 app-ads.apple.com
+app-analytics-cn3.zepp.com
 app-analytics-v2.snapchat.com
 app-analytics.huami.com
 app-analytics.lyft.com
