@@ -2340,6 +2340,7 @@
 ||build-metrics.getsol.us^
 ||by-info-lgsmartad-com.aws-prd.net^
 ||by-rdx2-lgtvsdp-com.aws-prd.net^
+||bymetrika.yandex.com^
 ||bytedanceapi.com^
 ||byyd.me^
 ||bz.adx.opera.com^
@@ -3344,7 +3345,6 @@
 ||dragate-sg.dc.heytapmobi.com^
 ||dragate-sg.dc.oppomobile.com^
 ||dragate.dc.oppomobile.com^
-||drivematics.yandex.com^
 ||driver-soft.com^
 ||driver.applog.bolt.eu^
 ||driveragent.com^

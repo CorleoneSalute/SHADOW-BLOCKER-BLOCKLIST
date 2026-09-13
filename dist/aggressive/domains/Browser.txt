@@ -125,6 +125,7 @@ bs1.ads.vip.ne1.yahoo.com
 bs2.ads.vip.bf1.yahoo.com
 bs2.ads.vip.ne1.yahoo.com
 bugs.baidu.com
+bymetrika.yandex.com
 bz.adx.opera.com
 c.baidu.com
 c.bing.com
@@ -165,7 +166,6 @@ desktop-dna.osp.opera.software
 doc.adx.opera.com
 docs.telemetry.mozilla.org
 download-stats.mozilla.org
-drivematics.yandex.com
 e.baidu.com
 e.gdown.baidu.com
 eclick.baidu.com

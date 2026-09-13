@@ -2410,6 +2410,7 @@
 0.0.0.0 burn.link
 0.0.0.0 by-info-lgsmartad-com.aws-prd.net
 0.0.0.0 by-rdx2-lgtvsdp-com.aws-prd.net
+0.0.0.0 bymetrika.yandex.com
 0.0.0.0 bytedanceapi.com
 0.0.0.0 byyd.me
 0.0.0.0 bz.adx.opera.com
@@ -3461,7 +3462,6 @@
 0.0.0.0 dragate-sg.dc.heytapmobi.com
 0.0.0.0 dragate-sg.dc.oppomobile.com
 0.0.0.0 dragate.dc.oppomobile.com
-0.0.0.0 drivematics.yandex.com
 0.0.0.0 driver-soft.com
 0.0.0.0 driver.applog.bolt.eu
 0.0.0.0 driveragent.com

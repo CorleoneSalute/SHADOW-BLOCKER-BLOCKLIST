@@ -119,6 +119,7 @@
 0.0.0.0 bs2.ads.vip.bf1.yahoo.com
 0.0.0.0 bs2.ads.vip.ne1.yahoo.com
 0.0.0.0 bugs.baidu.com
+0.0.0.0 bymetrika.yandex.com
 0.0.0.0 bz.adx.opera.com
 0.0.0.0 c.baidu.com
 0.0.0.0 c.bing.com
@@ -158,7 +159,6 @@
 0.0.0.0 doc.adx.opera.com
 0.0.0.0 docs.telemetry.mozilla.org
 0.0.0.0 download-stats.mozilla.org
-0.0.0.0 drivematics.yandex.com
 0.0.0.0 e.baidu.com
 0.0.0.0 e.gdown.baidu.com
 0.0.0.0 eclick.baidu.com
