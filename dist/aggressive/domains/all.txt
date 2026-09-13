@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9568
+# Total domains: 9569
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5455,6 +5455,7 @@ metrics.booksy.com
 metrics.boomy.com
 metrics.brain.fm
 metrics.branch.io
+metrics.brave.com
 metrics.bravesoftware.com
 metrics.brightcove.com
 metrics.britbox.com

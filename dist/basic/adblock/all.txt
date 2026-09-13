@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9152
+# Total domains: 9153
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5211,6 +5211,7 @@
 ||metrics.boomy.com^
 ||metrics.brain.fm^
 ||metrics.branch.io^
+||metrics.brave.com^
 ||metrics.bravesoftware.com^
 ||metrics.brightcove.com^
 ||metrics.britbox.com^

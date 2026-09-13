@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 353
+# Total domains: 354
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -228,6 +228,7 @@
 ||metric.yimg.cn^
 ||metrica.yandex.com^
 ||metrics.baidu.com^
+||metrics.brave.com^
 ||metrics.bravesoftware.com^
 ||metrika-api.yandex.com^
 ||metrika.yandex.bymetrika.yandex.com^

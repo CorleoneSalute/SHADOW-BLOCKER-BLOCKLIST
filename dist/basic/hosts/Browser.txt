@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 332
+# Total domains: 333
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -219,6 +219,7 @@
 0.0.0.0 metric.yimg.cn
 0.0.0.0 metrica.yandex.com
 0.0.0.0 metrics.baidu.com
+0.0.0.0 metrics.brave.com
 0.0.0.0 metrics.bravesoftware.com
 0.0.0.0 metrika-api.yandex.com
 0.0.0.0 metrika.yandex.bymetrika.yandex.com
