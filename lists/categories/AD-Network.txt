@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 1816
-# Total platforms: 155
+# Total platforms: 156
 # Last update: 2026/09/13
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2158,3 +2158,13 @@ fbads24.com
 # BidsTrade
 
 ads-bidstrade.io
+
+# Adtrck
+
+adtrck.org
+adtrck.com
+adtrck.net
+adtrck.online
+adtrck.cc
+adtrck.pro
+adptrck.com
