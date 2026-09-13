@@ -2154,3 +2154,7 @@ getads.ru
 # Phishing domain
 
 fbads24.com
+
+# BidsTrade
+
+ads-bidstrade.io
