@@ -151,7 +151,6 @@ af.opera.com
 desktop-dna.osp.opera.software
 adx.opera.com
 a-netstats-1.opera.com
-a.ns.e.opera.com
 admanager.opera.com
 ads-config.op-mobile.opera.com
 ads.opera.com
@@ -163,14 +162,12 @@ ams-api-ad.op-mobile.opera.com
 b-ca.adx.opera.com
 b-eu.adx.opera.com
 b-sg.adx.opera.com
-b-sg.geo2.op-mobile.opera.com
+b-sg.geo2.op-mobile.opera.com !
 b-sgo.adx.opera.com
 b-trn.adx.opera.com
 b-us.adx.opera.com
 b-usc.adx.opera.com
-b.ns.e.opera.com
 bz.adx.opera.com
-c.ns.e.opera.com
 central-log.opera.com
 crash-cn.opera.com
 crashstats-collector.opera.com
@@ -179,8 +176,8 @@ doc.adx.opera.com
 hugo.crash.opera.com
 crash.opera.com
 img-adx.op-mobile.opera.com
-info.geo.op-mobile.opera.com
-info.geo2.op-mobile.opera.com
+info.geo.op-mobile.opera.com !
+info.geo2.op-mobile.opera.com !
 ipds.opr.adx.opera.com
 opr.adx.opera.com
 osp-log-fetcher.opera.com
@@ -201,8 +198,8 @@ s-pre.adx.opera.com
 s.adx.opera.com
 s.bz.adx.opera.com
 t-adx.op-mobile.opera.com
-t-odx.geo.op-mobile.opera.com
-t-odx.geo2.op-mobile.opera.com
+t-odx.geo.op-mobile.opera.com !
+t-odx.geo2.op-mobile.opera.com !
 t-odx.op-mobile.opera.com
 t.adx.opera.com
 
@@ -293,7 +290,6 @@ awaps.yandex.net
 awaps.yandex.ru
 an.yandex.ru
 clck.yandex.ru
-cnt.yandex.ru
 startup.mobile.yandex.net !
 mc.yandex.ru
 rum.dzen.ru
