@@ -5497,6 +5497,7 @@ analytics.belgacom.be
 analytics.bestreviews.com
 analytics.betterplaces.nl
 analytics.bgr.com
+analytics.bhaskarsaikia.in
 analytics.bigfishgames.com
 analytics.bitchute.com
 analytics.bitrix.info
@@ -8945,6 +8946,7 @@ caamcs.julipet.it
 caanalytics.com
 caapp.levi.com
 cache2.delvenetworks.com
+cactus.jd.com
 cactus.joybuy.com
 cactusglobal.io
 cactusmedia.com
@@ -14515,6 +14517,7 @@ events.paramount.tech
 events.pella.com
 events.pickrr.com
 events.plus.yandex.net
+events.plutus.ninja
 events.practo.com
 events.prd.api.max.com
 events.privy.com
@@ -17105,6 +17108,7 @@ hemnes.win
 hentaicounter.com
 herbgreencolumn.com
 herbstarsbuilding.com
+hermes.jd.com
 heroesdom.com
 herpes2.pa-ruit.jp
 herz-fuer-tiere.de
@@ -19156,6 +19160,7 @@ inimbus.com.au
 inistrack.net
 inkcoupon.com
 inkubate.actonservice.com
+inmobicdn.net
 inmtuj.jobs.ie
 inmuzp.popsockets.com
 innerskinresearch.com
@@ -21673,6 +21678,7 @@ log-2ffe60ee.westpac.com.au
 log-ads.r7.com
 log-api.cli.im
 log-gateway.zoom.us
+log-h5.imdada.cn
 log-lb.skyperfectv.co.jp
 log-pq.shopfully.cloud
 log-upload-os.hoyolab.com
@@ -24308,6 +24314,7 @@ merchant-app.th3rdwave.coffee
 merchant-center-analytics.goog
 merchant-mail.neosurf.com
 merchant.libertycarz.com
+mercury.jd.com
 mercuryace.com
 meremark.com
 merequartz.com
@@ -26072,6 +26079,7 @@ mlinks.fluz.app
 mlinks.helloalfred.com
 mlkblr.la-becanerie.com
 mlkklg.suncamp.de
+mllog.jd.com
 mlmswk.janpara.co.jp
 mlno6.com
 mlqzau.koffer.com
@@ -43959,6 +43967,7 @@ uqd.io
 uqhpej.wiberrentacar.com
 ur.b.inhaabit.com
 uralweb.ru
+uranus.jd.com
 urbanairship.com
 urbanlaurel.com
 urbanopus.net
