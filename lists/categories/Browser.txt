@@ -117,6 +117,7 @@ p2a-json.brave.com
 p3a-json.brave.com
 p3a-creative.brave.com
 metrics.bravesoftware.com
+metrics.brave.com
 telemetry.brave.com
 usage-ping.brave.com !
 star-randsrv.bsg.brave.com
@@ -388,6 +389,7 @@ ws-keyboard.shouji.sogou.com
 # Infinix phone browser bloatware
 
 # ⚠️ Privacy and security risk — use is not recommended.
+
 # Runs on Transsion/Talpa's own infrastructure.
 
 # APK analysis
