@@ -88,10 +88,9 @@ bingads.microsoft.com
 telemetry.mozilla.org
 incoming.telemetry.mozilla.org
 telemetry-coverage.mozilla.org
-contile.services.mozilla.com
+contile.services.mozilla.com !
 ads.mozilla.org
-snippets.cdn.mozilla.net
-snippets.allizom.org
+snippets.cdn.mozilla.net !
 crash-stats.mozilla.org
 crash-pings.mozilla.org
 analysis-output.telemetry.mozilla.org
@@ -119,7 +118,7 @@ p3a-json.brave.com
 p3a-creative.brave.com
 metrics.bravesoftware.com
 telemetry.brave.com
-usage-ping.brave.com
+usage-ping.brave.com !
 star-randsrv.bsg.brave.com
 collector.bsg.brave.com
 ads-help.brave.com
@@ -135,7 +134,7 @@ static.ads.brave.com
 static.metrics.brave.com
 ads-serve.bravesoftware.com
 ads-static.bravesoftware.com
-ads.bravesoftware.com
+ads.bravesoftware.com 
 anonymous.ads.bravesoftware.com
 geo.ads.bravesoftware.com
 mywallet.ads.bravesoftware.com
@@ -143,8 +142,7 @@ ohttp.ads.bravesoftware.com
 ohttp.metrics.bravesoftware.com
 static.ads.bravesoftware.com
 static.metrics.bravesoftware.com
-usage-ping.bravesoftware.com
-variations.bravesoftware.com !
+usage-ping.bravesoftware.com !
 
 # OPERA
 telemetry.opera.com
@@ -335,7 +333,6 @@ egw.ads-platform.plet.yandex.ru
 
 # VIVALDI
 telemetry.vivaldi.com
-stats.vivaldi.com
 crash.vivaldi.com
 
 # DUCKDUCKGO BROWSER
@@ -388,12 +385,15 @@ ws-keyboard.shouji.sogou.com
 
 # HOLA BROWSER
 
+# Infinix phone browser bloatware
+
 # ⚠️ Privacy and security risk — use is not recommended.
 # Runs on Transsion/Talpa's own infrastructure.
 
 # APK analysis
 
 # Main API/backend (bro-transsion.com):
+
 # api.bro-transsion.com
 # api-center.bro-transsion.com
 # papi.bro-transsion.com
@@ -402,6 +402,7 @@ ws-keyboard.shouji.sogou.com
 # feeds-static.bro-transsion.com
 
 # AoneRoom (app/service hub):
+
 # h5.aoneroom.com
 # api3-api6.aoneroom.com (+ sg-suffixed variants)
 # acdn.aoneroom.com
@@ -410,6 +411,7 @@ ws-keyboard.shouji.sogou.com
 # shalltry.com
 
 # (cloud config/update infrastructure):
+
 # app-manage-api.shalltry.com
 # cloud-config-api.shalltry.com
 # cloud-config-oss.shalltry.com
@@ -419,12 +421,14 @@ ws-keyboard.shouji.sogou.com
 # newsaggreg.shalltry.com
 
 # Hisavana (Transsion's own ad network):
+
 hisavana.com
 api.hisavana.com
 cc-api.hisavana.com
 hisavana-adx.transacme.com
 
 # Vskit (Transsion's short-video app, integrated into the browser):
+
 # api.vskit.tv
 # video.vskit.tv
 # up1-up10.vskit.tv
@@ -432,10 +436,12 @@ hisavana-adx.transacme.com
 vskit-log.vskit.tv # (log/analytics)
 
 # Aha Game Center:
+
 # api.ahagamecenter.com
 # aha-img-static.ahagamecenter.com etc. (~15 subdomains)
 
 # Other Transsion products:
+
 # palmplaystore.com (Palm Store)
 # xshareapp.com (Xshare)
 # twibida.com
@@ -444,6 +450,7 @@ vskit-log.vskit.tv # (log/analytics)
 # Third-party SDKs (ad/analytics)
 
 # ByteDance/TikTok/Pangle (embedded ad SDK):
+
 # log.byteoversea.com
 # log-mva.isnssdk.com
 # analytics.tiktok.com
