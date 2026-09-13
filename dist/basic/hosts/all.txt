@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9144
+# Total domains: 9145
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -564,6 +564,7 @@
 0.0.0.0 ads.viber.com
 0.0.0.0 ads.vip.bf1.yahoo.com
 0.0.0.0 ads.vip.corp.yahoo.com
+0.0.0.0 ads.vip.ne1.yahoo.com
 0.0.0.0 ads.vk.com
 0.0.0.0 ads.vk.ru
 0.0.0.0 ads.voot.com

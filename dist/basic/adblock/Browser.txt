@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 324
+# Total domains: 325
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -45,6 +45,7 @@
 ||ads.opera.com^
 ||ads.vip.bf1.yahoo.com^
 ||ads.vip.corp.yahoo.com^
+||ads.vip.ne1.yahoo.com^
 ||ads.yahoo.co.jp^
 ||ads.yahoo.com^
 ||ads.yandex.com^

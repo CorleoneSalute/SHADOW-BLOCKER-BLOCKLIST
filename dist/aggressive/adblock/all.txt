@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9565
+# Total domains: 9566
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -591,6 +591,7 @@
 ||ads.viber.com^
 ||ads.vip.bf1.yahoo.com^
 ||ads.vip.corp.yahoo.com^
+||ads.vip.ne1.yahoo.com^
 ||ads.vizio.com^
 ||ads.vk.com^
 ||ads.vk.ru^

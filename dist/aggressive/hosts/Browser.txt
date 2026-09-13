@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 350
+# Total domains: 351
 # Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -47,6 +47,7 @@
 0.0.0.0 ads.opera.com
 0.0.0.0 ads.vip.bf1.yahoo.com
 0.0.0.0 ads.vip.corp.yahoo.com
+0.0.0.0 ads.vip.ne1.yahoo.com
 0.0.0.0 ads.yahoo.co.jp
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yandex.com
