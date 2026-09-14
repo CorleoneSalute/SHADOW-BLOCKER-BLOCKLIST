@@ -4,17 +4,24 @@ Build script for the DNS blocklist project.
 Reads canonical category master files from lists/categories/*.txt
 and generates ready-to-use blocklists under dist/.
 
-Also detects cross-category duplicates: a domain that appears in more
-than one category file's basic tier. Not always a mistake (shared
-infrastructure between platforms happens), but worth a quick look -
-writes a report to reports/duplicate-domains.md.
+Also detects:
+- Cross-category duplicates: a domain appearing in more than one
+  category file's basic tier. Not always a mistake (shared
+  infrastructure happens), but worth a look.
+  -> reports/duplicate-domains.md
+- In-file duplicates: a domain appearing more than once within the
+  SAME category file (a common copy-paste mistake in large files).
+  The build already silently deduplicates these (no functional harm),
+  but they're worth cleaning up. Flags whether every occurrence is
+  byte-for-byte identical, or differs (case, or a mismatched "!"
+  aggressive-only flag - the latter actually matters, since it changes
+  which tier the domain ends up in).
+  -> reports/infile-duplicates.md
 
 Also keeps each master file's own header in sync: if a category's
 "# Total domains: N" line no longer matches its actual domain count,
 both that line and "# Last update: ..." are rewritten. Untouched
-categories are left alone - only files whose count actually changed
-get their date bumped, even though build.py processes every category
-on every run.
+categories are left alone.
 """
 
 import re
@@ -27,6 +34,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CATEGORIES_DIR = ROOT / "lists" / "categories"
 DIST_DIR = ROOT / "dist"
 DUPLICATE_REPORT_PATH = ROOT / "reports" / "duplicate-domains.md"
+INFILE_DUP_REPORT_PATH = ROOT / "reports" / "infile-duplicates.md"
 
 AGGRESSIVE_IS_SUPERSET = True
 AGGRESSIVE_FLAG = "!"
@@ -56,6 +64,37 @@ def parse_master_file(path: Path):
         else:
             basic.add(domain)
     return basic, aggressive_only, invalid
+
+
+def find_infile_duplicates(path: Path):
+    """Detects domains appearing more than once within the same master
+    file. Returns a list of dicts:
+      {"domain": str, "lines": [(line_no, raw_text), ...], "exact_match": bool}
+    exact_match is True only if every occurrence's raw text (case and
+    the trailing "!" flag included) is byte-for-byte identical."""
+    occurrences = {}  # domain_lower -> [(line_no, raw_text), ...]
+    for line_no, raw_line in enumerate(
+        path.read_text(encoding="utf-8").splitlines(), start=1
+    ):
+        line = raw_line.strip()
+        if not line or line.startswith("#"):
+            continue
+        domain_part = line[:-1].strip() if line.endswith(AGGRESSIVE_FLAG) else line
+        domain_lower = domain_part.lower()
+        if not DOMAIN_RE.match(domain_lower):
+            continue
+        occurrences.setdefault(domain_lower, []).append((line_no, line))
+
+    duplicates = []
+    for domain_lower, entries in occurrences.items():
+        if len(entries) > 1:
+            raw_texts = {text for _, text in entries}
+            duplicates.append({
+                "domain": domain_lower,
+                "lines": entries,
+                "exact_match": len(raw_texts) == 1,
+            })
+    return duplicates
 
 
 def to_plain(domains):
@@ -109,7 +148,7 @@ def update_master_header(path: Path, total_count: int) -> bool:
 
     match = total_pattern.search(text)
     if not match:
-        return False  # doesn't use this header convention, leave alone
+        return False
 
     existing_count = int(match.group(2))
     if existing_count == total_count:
@@ -151,6 +190,45 @@ def write_duplicate_report(domain_categories: dict):
     return duplicates
 
 
+def write_infile_duplicate_report(infile_duplicates):
+    INFILE_DUP_REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    lines = [
+        "# In-File Duplicate Domain Report",
+        "",
+        f"Generated: {now}",
+        "",
+        "Domains that appear more than once within the SAME category",
+        "file - usually a copy-paste mistake in a large file. The build",
+        "already silently deduplicates these (no functional harm to",
+        "dist/), but they're worth cleaning up for a tidy source file.",
+        "",
+        "\"Exact match: yes\" means every occurrence is byte-for-byte",
+        "identical (same case, same trailing \"!\" flag). \"no\" means they",
+        "differ - worth a closer look, since a mismatched \"!\" flag",
+        "changes which tier the domain ends up in.",
+        "",
+    ]
+    if not infile_duplicates:
+        lines.append("No in-file duplicates found.")
+    else:
+        total = sum(len(d) for _, d in infile_duplicates)
+        lines.append(f"{total} duplicate domain(s) found across "
+                      f"{len(infile_duplicates)} file(s):")
+        lines.append("")
+        for category, dups in infile_duplicates:
+            lines.append(f"## {category}")
+            lines.append("")
+            lines.append("| Domain | Lines | Exact match |")
+            lines.append("|---|---|---|")
+            for d in dups:
+                line_strs = ", ".join(str(ln) for ln, _ in d["lines"])
+                exact = "yes" if d["exact_match"] else "no - differs"
+                lines.append(f"| {d['domain']} | {line_strs} | {exact} |")
+            lines.append("")
+    INFILE_DUP_REPORT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
 def build():
     if not CATEGORIES_DIR.exists():
         print(f"ERROR: {CATEGORIES_DIR} not found", file=sys.stderr)
@@ -169,6 +247,7 @@ def build():
     had_invalid = False
     domain_categories = {}  # domain -> set of category names it appears in
     headers_updated = []
+    infile_duplicates = []  # (category, [dup dicts])
 
     for master_path in master_files:
         category = master_path.stem
@@ -179,6 +258,11 @@ def build():
             print(f"[WARN] {category}: {len(invalid)} invalid line(s) skipped:")
             for line in invalid:
                 print(f"    {line!r}")
+
+        dups = find_infile_duplicates(master_path)
+        if dups:
+            infile_duplicates.append((category, dups))
+            print(f"[WARN] {category}: {len(dups)} in-file duplicate domain(s)")
 
         aggressive = (basic | agg_only) if AGGRESSIVE_IS_SUPERSET else agg_only
 
@@ -202,6 +286,7 @@ def build():
     write_variant(DIST_DIR / "aggressive", "all", "FULL BLOCKLIST - AGGRESSIVE", all_aggressive)
 
     duplicates = write_duplicate_report(domain_categories)
+    write_infile_duplicate_report(infile_duplicates)
 
     col = max(len(c) for c, _, _ in stats) + 2
     print("\nBuild summary:")
@@ -217,6 +302,11 @@ def build():
     if duplicates:
         print(f"\n[WARN] {len(duplicates)} domain(s) appear in more than one "
               f"category - see reports/duplicate-domains.md")
+
+    if infile_duplicates:
+        total_infile = sum(len(d) for _, d in infile_duplicates)
+        print(f"[WARN] {total_infile} in-file duplicate(s) across "
+              f"{len(infile_duplicates)} file(s) - see reports/infile-duplicates.md")
 
     if had_invalid:
         print(
