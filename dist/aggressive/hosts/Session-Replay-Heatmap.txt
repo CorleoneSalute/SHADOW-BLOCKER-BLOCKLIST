@@ -1,7 +1,7 @@
 # ============================================================
 # SESSION REPLAY HEATMAP BLOCKLIST - AGGRESSIVE
-# Total domains: 285
-# Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
+# Total domains: 292
+# Generated: 2026-09-14 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -121,6 +121,7 @@
 0.0.0.0 e.clarity.ms
 0.0.0.0 edge.fullstory.com
 0.0.0.0 eu.fullstory.com
+0.0.0.0 eu.mar.medallia.com
 0.0.0.0 eu.mouseflow.com
 0.0.0.0 eu.smartlook.cloud
 0.0.0.0 eu.uxcam.com
@@ -158,6 +159,7 @@
 0.0.0.0 js.heatmap.com
 0.0.0.0 js.ptengine.jp
 0.0.0.0 k.clarity.ms
+0.0.0.0 keybank.md-apis.medallia.com
 0.0.0.0 l.clarity.ms
 0.0.0.0 lb-api.visitor-analytics.io
 0.0.0.0 lgrckt-in.com
@@ -203,8 +205,10 @@
 0.0.0.0 relay.fullstory.com
 0.0.0.0 rs.fullstory.com
 0.0.0.0 rs.livesession.io
+0.0.0.0 rum-gateway.medallia.com
 0.0.0.0 s.clarity.ms
 0.0.0.0 s.clicktale.net
+0.0.0.0 samsunggmc.md-apis.medallia.com
 0.0.0.0 script.crazyegg.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 script.webmaxy.com
@@ -252,6 +256,7 @@
 0.0.0.0 twipla.com
 0.0.0.0 u.clarity.ms
 0.0.0.0 upload.uxcam.com
+0.0.0.0 us.mar.medallia.com
 0.0.0.0 us.mouseflow.com
 0.0.0.0 us.smartlook.cloud
 0.0.0.0 us.uxcam.com
@@ -264,8 +269,10 @@
 0.0.0.0 vc.webmaxy.io
 0.0.0.0 visitor-analytics.io
 0.0.0.0 visitors.live
+0.0.0.0 volvo.md-apis.medallia.com
 0.0.0.0 w.clarity.ms
 0.0.0.0 w1.luckyorange.com
+0.0.0.0 walmartmx.md-apis.medallia.com
 0.0.0.0 web-sdk.smartlook.com
 0.0.0.0 web-writer.eu.smartlook.cloud
 0.0.0.0 web-writer.us.smartlook.cloud

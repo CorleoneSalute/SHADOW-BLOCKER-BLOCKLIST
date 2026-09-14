@@ -1,7 +1,7 @@
 # ============================================================
 # SESSION REPLAY HEATMAP BLOCKLIST - BASIC
-# Total domains: 285
-# Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
+# Total domains: 292
+# Generated: 2026-09-14 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -121,6 +121,7 @@
 ||e.clarity.ms^
 ||edge.fullstory.com^
 ||eu.fullstory.com^
+||eu.mar.medallia.com^
 ||eu.mouseflow.com^
 ||eu.smartlook.cloud^
 ||eu.uxcam.com^
@@ -158,6 +159,7 @@
 ||js.heatmap.com^
 ||js.ptengine.jp^
 ||k.clarity.ms^
+||keybank.md-apis.medallia.com^
 ||l.clarity.ms^
 ||lb-api.visitor-analytics.io^
 ||lgrckt-in.com^
@@ -203,8 +205,10 @@
 ||relay.fullstory.com^
 ||rs.fullstory.com^
 ||rs.livesession.io^
+||rum-gateway.medallia.com^
 ||s.clarity.ms^
 ||s.clicktale.net^
+||samsunggmc.md-apis.medallia.com^
 ||script.crazyegg.com^
 ||script.hotjar.com^
 ||script.webmaxy.com^
@@ -252,6 +256,7 @@
 ||twipla.com^
 ||u.clarity.ms^
 ||upload.uxcam.com^
+||us.mar.medallia.com^
 ||us.mouseflow.com^
 ||us.smartlook.cloud^
 ||us.uxcam.com^
@@ -264,8 +269,10 @@
 ||vc.webmaxy.io^
 ||visitor-analytics.io^
 ||visitors.live^
+||volvo.md-apis.medallia.com^
 ||w.clarity.ms^
 ||w1.luckyorange.com^
+||walmartmx.md-apis.medallia.com^
 ||web-sdk.smartlook.com^
 ||web-writer.eu.smartlook.cloud^
 ||web-writer.us.smartlook.cloud^

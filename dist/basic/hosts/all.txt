@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9154
-# Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9161
+# Generated: 2026-09-14 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -3544,6 +3544,7 @@
 0.0.0.0 eu.api.fpjs.io
 0.0.0.0 eu.fullstory.com
 0.0.0.0 eu.glitchtip.com
+0.0.0.0 eu.mar.medallia.com
 0.0.0.0 eu.mouseflow.com
 0.0.0.0 eu.smartlook.cloud
 0.0.0.0 eu.uxcam.com
@@ -4535,6 +4536,7 @@
 0.0.0.0 kerishproducts.com
 0.0.0.0 kernellog.browser.oppomobile.com
 0.0.0.0 kernellogf.browser.oppomobile.com
+0.0.0.0 keybank.md-apis.medallia.com
 0.0.0.0 kializer.com
 0.0.0.0 kibana-log.cleverdialer.com
 0.0.0.0 kibanalogging.grindr.com
@@ -6658,6 +6660,7 @@
 0.0.0.0 ru4.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 ruc-ngfts.lge.com
+0.0.0.0 rum-gateway.medallia.com
 0.0.0.0 rum.battle.net
 0.0.0.0 rum.beusable.net
 0.0.0.0 rum.bunkr.ru
@@ -6800,6 +6803,7 @@
 0.0.0.0 samsungeucdm.demdex.net
 0.0.0.0 samsungeucdm.tt.omtrdc.net
 0.0.0.0 samsungeverland.demdex.net
+0.0.0.0 samsunggmc.md-apis.medallia.com
 0.0.0.0 samsunghk.api.useinsider.com
 0.0.0.0 samsunghq.demdex.net
 0.0.0.0 samsungid.api.useinsider.com
@@ -8608,6 +8612,7 @@
 0.0.0.0 us.dianomi.com
 0.0.0.0 us.info.lgsmartad.com
 0.0.0.0 us.lgsmartad.com
+0.0.0.0 us.mar.medallia.com
 0.0.0.0 us.mouseflow.com
 0.0.0.0 us.nudge.lgtvcommon.com
 0.0.0.0 us.rdx2.lgtvsdp.com
@@ -8792,6 +8797,7 @@
 0.0.0.0 vizio.adsmeasurement.com
 0.0.0.0 vofzpwh.com
 0.0.0.0 volcano.analytics.swiftkey.com
+0.0.0.0 volvo.md-apis.medallia.com
 0.0.0.0 vpaid.adikteev.com
 0.0.0.0 vpaid.remerge.io
 0.0.0.0 vpdae.com
@@ -8808,6 +8814,7 @@
 0.0.0.0 w4.com
 0.0.0.0 w55c.net
 0.0.0.0 waf-metrics.bunnycdn.com
+0.0.0.0 walmartmx.md-apis.medallia.com
 0.0.0.0 warrantystar.com
 0.0.0.0 watchadsontape.com
 0.0.0.0 wave.outbrain.com

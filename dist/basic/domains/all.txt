@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9154
-# Generated: 2026-09-13 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9161
+# Generated: 2026-09-14 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -3544,6 +3544,7 @@ eu.adswizz.com
 eu.api.fpjs.io
 eu.fullstory.com
 eu.glitchtip.com
+eu.mar.medallia.com
 eu.mouseflow.com
 eu.smartlook.cloud
 eu.uxcam.com
@@ -4535,6 +4536,7 @@ kerish.org
 kerishproducts.com
 kernellog.browser.oppomobile.com
 kernellogf.browser.oppomobile.com
+keybank.md-apis.medallia.com
 kializer.com
 kibana-log.cleverdialer.com
 kibanalogging.grindr.com
@@ -6658,6 +6660,7 @@ ru.reimageplus.com
 ru4.com
 rubiconproject.com
 ruc-ngfts.lge.com
+rum-gateway.medallia.com
 rum.battle.net
 rum.beusable.net
 rum.bunkr.ru
@@ -6800,6 +6803,7 @@ samsungeu.demdex.net
 samsungeucdm.demdex.net
 samsungeucdm.tt.omtrdc.net
 samsungeverland.demdex.net
+samsunggmc.md-apis.medallia.com
 samsunghk.api.useinsider.com
 samsunghq.demdex.net
 samsungid.api.useinsider.com
@@ -8608,6 +8612,7 @@ us.cdpsvc.lgtvcommon.com
 us.dianomi.com
 us.info.lgsmartad.com
 us.lgsmartad.com
+us.mar.medallia.com
 us.mouseflow.com
 us.nudge.lgtvcommon.com
 us.rdx2.lgtvsdp.com
@@ -8792,6 +8797,7 @@ vitsoft.net
 vizio.adsmeasurement.com
 vofzpwh.com
 volcano.analytics.swiftkey.com
+volvo.md-apis.medallia.com
 vpaid.adikteev.com
 vpaid.remerge.io
 vpdae.com
@@ -8808,6 +8814,7 @@ w1.luckyorange.com
 w4.com
 w55c.net
 waf-metrics.bunnycdn.com
+walmartmx.md-apis.medallia.com
 warrantystar.com
 watchadsontape.com
 wave.outbrain.com
