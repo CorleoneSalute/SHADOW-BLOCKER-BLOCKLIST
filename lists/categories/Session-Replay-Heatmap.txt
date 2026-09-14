@@ -239,6 +239,13 @@ api.decibelinsight.net
 cdn.decibelinsight.net
 cdn.medallia.com
 collector.medallia.com
+volvo.md-apis.medallia.com
+walmartmx.md-apis.medallia.com
+us.mar.medallia.com
+samsunggmc.md-apis.medallia.com
+rum-gateway.medallia.com
+keybank.md-apis.medallia.com
+eu.mar.medallia.com
 decibelinsight.com
 decibelinsight.net
 digital.medallia.com
