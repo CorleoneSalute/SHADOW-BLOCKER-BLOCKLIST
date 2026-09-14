@@ -1,6 +1,10 @@
 ![Shadow Blocker Blocklist logo](assets/logo.png)
 
+[
+
 ![Star History Chart](https://api.star-history.com/svg?repos=CorleoneSalute/SHADOW-BLOCKER-BLOCKLIST&type=Date)
+
+](https://star-history.com/#CorleoneSalute/SHADOW-BLOCKER-BLOCKLIST&Date)
 
 # Shadow Blocker Blocklist
 
