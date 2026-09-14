@@ -10764,6 +10764,7 @@ crypto.egghead.link
 cryptobara.com
 cryptonoter.com
 crystalboulevard.com
+crystaldewfarm.com
 crzohw.intersport.gr
 cs.analytics.lego.com
 cs.bankmillennium.pl
@@ -11992,6 +11993,7 @@ decdna.net
 decibelinsight.net
 decidedrum.com
 decideinteractive.com
+decimalnet.com
 decisionhut.com
 decisivebase.com
 decisivedrawer.com
@@ -38999,6 +39001,7 @@ sync.adap.tv
 sync.rambler.ru
 sync.shinobi.jp
 sync.tv
+synccache.com
 syncingbridge.com
 synergy-e.com
 synerise.com
