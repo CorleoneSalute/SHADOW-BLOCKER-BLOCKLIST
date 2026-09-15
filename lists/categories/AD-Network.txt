@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 1823
-# Total platforms: 156
+# Total platforms: 159
 # Last update: 2026/09/13
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2168,3 +2168,42 @@ adtrck.online
 adtrck.cc
 adtrck.pro
 adptrck.com
+
+# BIGO ADS # C2 style domains
+
+bigo.sg
+antibanads.com
+revenuads.com
+inmense.site
+dollphoin.site
+acobt.tech
+appleads.ru
+zoly.tech
+d10sbd116h2zht.cloudfront.net
+companinons.site
+cpmmax.site
+successwe.site
+deepads.ru
+onegg.site
+cizaa.tech
+topnotchs.tech
+okvmm.tech
+zxphiz.tech
+pckqac.tech
+miskyc.tech
+acobt.tech
+adeeply.ru
+news-cdn.site
+kickoffo.site
+onegg.site
+ad-host-backup-america.oss-us-west-1.aliyuncs.com
+ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
+ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
+
+# GTVADS
+
+gtvads.com !
+
+# AdGone
+
+adgone.org ! # untrusted adblocker
