@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9161
-# Generated: 2026-09-14 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9187
+# Generated: 2026-09-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -98,6 +98,7 @@
 ||acelogix.com^
 ||aciterar.com^
 ||aclabink.com^
+||acobt.tech^
 ||acoustic.co^
 ||acoustic.com^
 ||acp-analytics.amd.com^
@@ -158,6 +159,9 @@
 ||ad-feedback.line-apps.com^
 ||ad-format-ttp2.tiktokv.eu^
 ||ad-format.tiktokv.us^
+||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
+||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
+||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
 ||ad-iad1.apple.com^
 ||ad-iad2.apple.com^
 ||ad-iad3.apple.com^
@@ -275,6 +279,7 @@
 ||add-mapping-for-wrong-activity-log-classes.feature.varify.io^
 ||addata2.ads.vip.corp.yahoo.com^
 ||addoncrop.com^
+||adeeply.ru^
 ||adelphic.com^
 ||adex2.fwmrm.net^
 ||adf.ly^
@@ -1678,6 +1683,7 @@
 ||anrdoezrs.net^
 ||ans.avast.com^
 ||anthargo.com^
+||antibanads.com^
 ||antifraud.adikteev.com^
 ||antifraud.remerge.io^
 ||anx.rtb.linkedin.com^
@@ -2004,6 +2010,7 @@
 ||apple.com-shield.live^
 ||apple.comscoreresearch.com^
 ||appleads-prz.apple.com^
+||appleads.ru^
 ||applemediaservices.com^
 ||apples-analytics.pad.squareup.com^
 ||applog.bolt.eu^
@@ -2265,6 +2272,7 @@
 ||bigdataplus.baidu.com^
 ||biglog.bae.baidu.com^
 ||biglog.baidu.com^
+||bigo.sg^
 ||bingads.com^
 ||bingads.microsoft.com^
 ||biosagentplus.com^
@@ -2654,6 +2662,7 @@
 ||churn.adikteev.com^
 ||churn.remerge.io^
 ||cigorsica.com^
+||cizaa.tech^
 ||cj.dotomi.com^
 ||cjads.com^
 ||ck-ads.realmemobile.com^
@@ -2890,6 +2899,7 @@
 ||commandersact.com^
 ||commerce.sovrn.com^
 ||community.brightdata.com^
+||companinons.site^
 ||comscoreresearch.com^
 ||conf-in-dc.heytapdl.com^
 ||conf-in-dc.heytapmobile.com^
@@ -2966,6 +2976,7 @@
 ||cowner.net^
 ||cpa.adcolony.com^
 ||cpamatica.io^
+||cpmmax.site^
 ||cprad-iad4.apple.com^
 ||cpradcnt-iad4.apple.com^
 ||cprfeed-iad4.apple.com^
@@ -3093,6 +3104,7 @@
 ||d.us.criteo.com^
 ||d.zeta.email^
 ||d10lpsik1i8c69.cloudfront.net^
+||d10sbd116h2zht.cloudfront.net^
 ||d2.ligatus.com^
 ||d24n15hnbwhuhn.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
@@ -3230,6 +3242,7 @@
 ||decibelinsight.com^
 ||decibelinsight.net^
 ||deciomm.com^
+||deepads.ru^
 ||deepintent.com^
 ||deeplink.adikteev.com^
 ||deeplink.admitad.com^
@@ -3339,6 +3352,7 @@
 ||docs.brightdata.com^
 ||docs.telemetry.mozilla.org^
 ||documentary-analytics.curiositystream.com^
+||dollphoin.site^
 ||doubleclick.net^
 ||download-samsung.dtignite.com^
 ||download-stats.mozilla.org^
@@ -4400,6 +4414,7 @@
 ||ingest.zipy.ai^
 ||init.supersonicads.com^
 ||inmarket.com^
+||inmense.site^
 ||inner-active.com^
 ||inner-active.mobi^
 ||innovative-sol.com^
@@ -4543,6 +4558,7 @@
 ||kibuilder.com^
 ||kic-ngfts.lge.com^
 ||kic-ngfts.lge.com.edgekey.net^
+||kickoffo.site^
 ||kids-analytics.youtube.com^
 ||kimechanic.com^
 ||kindle-ta-g7g.amazon.com^
@@ -5463,6 +5479,7 @@
 ||minigame.vip^
 ||minm.xyz^
 ||mintegral.com^
+||miskyc.tech^
 ||missioncontrol.telemetry.mozilla.org^
 ||mistat.india.xiaomi.com^
 ||mistat.india.xiaomi.com.edgesuite.net^
@@ -5734,6 +5751,7 @@
 ||news-ads.apple.com^
 ||news-analytics.apple.com^
 ||news-app-events.apple.com^
+||news-cdn.site^
 ||news-events-old.apple.com^
 ||news-events.apple.com^
 ||news-sports-events.apple.com^
@@ -5863,6 +5881,7 @@
 ||ohttp.metrics.brave.com^
 ||ohttp.metrics.bravesoftware.com^
 ||ois.is^
+||okvmm.tech^
 ||old-analytics.olacabs.com^
 ||om.tracking.miui.com^
 ||omnicollector.snapchat.com^
@@ -5874,6 +5893,7 @@
 ||onclickad.com^
 ||onclickads.net^
 ||oneaudience.com^
+||onegg.site^
 ||onisedeo.com^
 ||onizatop.net^
 ||online-metrix.net^
@@ -6038,6 +6058,7 @@
 ||pci-victoriametrics-f.ravelin.com^
 ||pci-victoriametrics.ravelin.com^
 ||pckeeper.com^
+||pckqac.tech^
 ||pcoptimizerpro.com^
 ||pcperformer.com^
 ||pcrepairkit.com^
@@ -6481,6 +6502,7 @@
 ||retention.adikteev.com^
 ||retrace.fedoraproject.org^
 ||revcontent.com^
+||revenuads.com^
 ||revenue.adikteev.com^
 ||revenue.remerge.io^
 ||revenuedesk.fyber.com^
@@ -7514,6 +7536,7 @@
 ||sublime.xyz^
 ||sublimeskinz.com^
 ||submit.backtrace.io^
+||successwe.site^
 ||sugarland.logs.roku.com^
 ||summerhamster.com^
 ||sungymobile.com^
@@ -8002,6 +8025,7 @@
 ||tools.luckyorange.com^
 ||tools.marketgid.com^
 ||tools.mouseflow.com^
+||topnotchs.tech^
 ||topregistrycleaner.com^
 ||toroadvertising.com^
 ||toroadvertisingmedia.com^
@@ -9160,9 +9184,11 @@
 ||zneysvtqyfhzf6n4p-samsungeurope.siteintercept.qualtrics.com^
 ||zo.ee^
 ||zohotagmanager.cdn.pagesense.io^
+||zoly.tech^
 ||zoom.info^
 ||zoomd.com^
 ||zoominfo.com^
 ||zpu.samsungelectronics.com^
+||zxphiz.tech^
 ||zyngaads.com^
 ||zz.bdstatic.com^

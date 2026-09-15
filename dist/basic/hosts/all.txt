@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9161
-# Generated: 2026-09-14 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9187
+# Generated: 2026-09-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -98,6 +98,7 @@
 0.0.0.0 acelogix.com
 0.0.0.0 aciterar.com
 0.0.0.0 aclabink.com
+0.0.0.0 acobt.tech
 0.0.0.0 acoustic.co
 0.0.0.0 acoustic.com
 0.0.0.0 acp-analytics.amd.com
@@ -158,6 +159,9 @@
 0.0.0.0 ad-feedback.line-apps.com
 0.0.0.0 ad-format-ttp2.tiktokv.eu
 0.0.0.0 ad-format.tiktokv.us
+0.0.0.0 ad-host-backup-america.oss-us-west-1.aliyuncs.com
+0.0.0.0 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
+0.0.0.0 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
 0.0.0.0 ad-iad1.apple.com
 0.0.0.0 ad-iad2.apple.com
 0.0.0.0 ad-iad3.apple.com
@@ -275,6 +279,7 @@
 0.0.0.0 add-mapping-for-wrong-activity-log-classes.feature.varify.io
 0.0.0.0 addata2.ads.vip.corp.yahoo.com
 0.0.0.0 addoncrop.com
+0.0.0.0 adeeply.ru
 0.0.0.0 adelphic.com
 0.0.0.0 adex2.fwmrm.net
 0.0.0.0 adf.ly
@@ -1678,6 +1683,7 @@
 0.0.0.0 anrdoezrs.net
 0.0.0.0 ans.avast.com
 0.0.0.0 anthargo.com
+0.0.0.0 antibanads.com
 0.0.0.0 antifraud.adikteev.com
 0.0.0.0 antifraud.remerge.io
 0.0.0.0 anx.rtb.linkedin.com
@@ -2004,6 +2010,7 @@
 0.0.0.0 apple.com-shield.live
 0.0.0.0 apple.comscoreresearch.com
 0.0.0.0 appleads-prz.apple.com
+0.0.0.0 appleads.ru
 0.0.0.0 applemediaservices.com
 0.0.0.0 apples-analytics.pad.squareup.com
 0.0.0.0 applog.bolt.eu
@@ -2265,6 +2272,7 @@
 0.0.0.0 bigdataplus.baidu.com
 0.0.0.0 biglog.bae.baidu.com
 0.0.0.0 biglog.baidu.com
+0.0.0.0 bigo.sg
 0.0.0.0 bingads.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 biosagentplus.com
@@ -2654,6 +2662,7 @@
 0.0.0.0 churn.adikteev.com
 0.0.0.0 churn.remerge.io
 0.0.0.0 cigorsica.com
+0.0.0.0 cizaa.tech
 0.0.0.0 cj.dotomi.com
 0.0.0.0 cjads.com
 0.0.0.0 ck-ads.realmemobile.com
@@ -2890,6 +2899,7 @@
 0.0.0.0 commandersact.com
 0.0.0.0 commerce.sovrn.com
 0.0.0.0 community.brightdata.com
+0.0.0.0 companinons.site
 0.0.0.0 comscoreresearch.com
 0.0.0.0 conf-in-dc.heytapdl.com
 0.0.0.0 conf-in-dc.heytapmobile.com
@@ -2966,6 +2976,7 @@
 0.0.0.0 cowner.net
 0.0.0.0 cpa.adcolony.com
 0.0.0.0 cpamatica.io
+0.0.0.0 cpmmax.site
 0.0.0.0 cprad-iad4.apple.com
 0.0.0.0 cpradcnt-iad4.apple.com
 0.0.0.0 cprfeed-iad4.apple.com
@@ -3093,6 +3104,7 @@
 0.0.0.0 d.us.criteo.com
 0.0.0.0 d.zeta.email
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
+0.0.0.0 d10sbd116h2zht.cloudfront.net
 0.0.0.0 d2.ligatus.com
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
@@ -3230,6 +3242,7 @@
 0.0.0.0 decibelinsight.com
 0.0.0.0 decibelinsight.net
 0.0.0.0 deciomm.com
+0.0.0.0 deepads.ru
 0.0.0.0 deepintent.com
 0.0.0.0 deeplink.adikteev.com
 0.0.0.0 deeplink.admitad.com
@@ -3339,6 +3352,7 @@
 0.0.0.0 docs.brightdata.com
 0.0.0.0 docs.telemetry.mozilla.org
 0.0.0.0 documentary-analytics.curiositystream.com
+0.0.0.0 dollphoin.site
 0.0.0.0 doubleclick.net
 0.0.0.0 download-samsung.dtignite.com
 0.0.0.0 download-stats.mozilla.org
@@ -4400,6 +4414,7 @@
 0.0.0.0 ingest.zipy.ai
 0.0.0.0 init.supersonicads.com
 0.0.0.0 inmarket.com
+0.0.0.0 inmense.site
 0.0.0.0 inner-active.com
 0.0.0.0 inner-active.mobi
 0.0.0.0 innovative-sol.com
@@ -4543,6 +4558,7 @@
 0.0.0.0 kibuilder.com
 0.0.0.0 kic-ngfts.lge.com
 0.0.0.0 kic-ngfts.lge.com.edgekey.net
+0.0.0.0 kickoffo.site
 0.0.0.0 kids-analytics.youtube.com
 0.0.0.0 kimechanic.com
 0.0.0.0 kindle-ta-g7g.amazon.com
@@ -5463,6 +5479,7 @@
 0.0.0.0 minigame.vip
 0.0.0.0 minm.xyz
 0.0.0.0 mintegral.com
+0.0.0.0 miskyc.tech
 0.0.0.0 missioncontrol.telemetry.mozilla.org
 0.0.0.0 mistat.india.xiaomi.com
 0.0.0.0 mistat.india.xiaomi.com.edgesuite.net
@@ -5734,6 +5751,7 @@
 0.0.0.0 news-ads.apple.com
 0.0.0.0 news-analytics.apple.com
 0.0.0.0 news-app-events.apple.com
+0.0.0.0 news-cdn.site
 0.0.0.0 news-events-old.apple.com
 0.0.0.0 news-events.apple.com
 0.0.0.0 news-sports-events.apple.com
@@ -5863,6 +5881,7 @@
 0.0.0.0 ohttp.metrics.brave.com
 0.0.0.0 ohttp.metrics.bravesoftware.com
 0.0.0.0 ois.is
+0.0.0.0 okvmm.tech
 0.0.0.0 old-analytics.olacabs.com
 0.0.0.0 om.tracking.miui.com
 0.0.0.0 omnicollector.snapchat.com
@@ -5874,6 +5893,7 @@
 0.0.0.0 onclickad.com
 0.0.0.0 onclickads.net
 0.0.0.0 oneaudience.com
+0.0.0.0 onegg.site
 0.0.0.0 onisedeo.com
 0.0.0.0 onizatop.net
 0.0.0.0 online-metrix.net
@@ -6038,6 +6058,7 @@
 0.0.0.0 pci-victoriametrics-f.ravelin.com
 0.0.0.0 pci-victoriametrics.ravelin.com
 0.0.0.0 pckeeper.com
+0.0.0.0 pckqac.tech
 0.0.0.0 pcoptimizerpro.com
 0.0.0.0 pcperformer.com
 0.0.0.0 pcrepairkit.com
@@ -6481,6 +6502,7 @@
 0.0.0.0 retention.adikteev.com
 0.0.0.0 retrace.fedoraproject.org
 0.0.0.0 revcontent.com
+0.0.0.0 revenuads.com
 0.0.0.0 revenue.adikteev.com
 0.0.0.0 revenue.remerge.io
 0.0.0.0 revenuedesk.fyber.com
@@ -7514,6 +7536,7 @@
 0.0.0.0 sublime.xyz
 0.0.0.0 sublimeskinz.com
 0.0.0.0 submit.backtrace.io
+0.0.0.0 successwe.site
 0.0.0.0 sugarland.logs.roku.com
 0.0.0.0 summerhamster.com
 0.0.0.0 sungymobile.com
@@ -8002,6 +8025,7 @@
 0.0.0.0 tools.luckyorange.com
 0.0.0.0 tools.marketgid.com
 0.0.0.0 tools.mouseflow.com
+0.0.0.0 topnotchs.tech
 0.0.0.0 topregistrycleaner.com
 0.0.0.0 toroadvertising.com
 0.0.0.0 toroadvertisingmedia.com
@@ -9160,9 +9184,11 @@
 0.0.0.0 zneysvtqyfhzf6n4p-samsungeurope.siteintercept.qualtrics.com
 0.0.0.0 zo.ee
 0.0.0.0 zohotagmanager.cdn.pagesense.io
+0.0.0.0 zoly.tech
 0.0.0.0 zoom.info
 0.0.0.0 zoomd.com
 0.0.0.0 zoominfo.com
 0.0.0.0 zpu.samsungelectronics.com
+0.0.0.0 zxphiz.tech
 0.0.0.0 zyngaads.com
 0.0.0.0 zz.bdstatic.com

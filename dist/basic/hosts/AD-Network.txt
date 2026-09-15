@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1815
-# Generated: 2026-09-14 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1841
+# Generated: 2026-09-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -37,8 +37,12 @@
 0.0.0.0 aba.gumgum.com
 0.0.0.0 abc2.adtelligent.com
 0.0.0.0 acdn.adnxs.com
+0.0.0.0 acobt.tech
 0.0.0.0 acuityads.com
 0.0.0.0 acuityplatform.com
+0.0.0.0 ad-host-backup-america.oss-us-west-1.aliyuncs.com
+0.0.0.0 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
+0.0.0.0 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
 0.0.0.0 ad-machina.com
 0.0.0.0 ad-on.fr
 0.0.0.0 ad-srv.co
@@ -63,6 +67,7 @@
 0.0.0.0 adbreaks.yieldlab.net
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcolony.com
+0.0.0.0 adeeply.ru
 0.0.0.0 adelphic.com
 0.0.0.0 adex2.fwmrm.net
 0.0.0.0 adform.com
@@ -221,6 +226,7 @@
 0.0.0.0 androidads4-7.adcolony.com
 0.0.0.0 androidads4-8.adcolony.com
 0.0.0.0 aniview-diag-server.1rx.io
+0.0.0.0 antibanads.com
 0.0.0.0 anzu.io
 0.0.0.0 ap.lijit.com
 0.0.0.0 ap.unrulymedia.com
@@ -316,6 +322,7 @@
 0.0.0.0 api3.adsterratools.com
 0.0.0.0 api3.mountain.com
 0.0.0.0 app-api.outbrain.com
+0.0.0.0 appleads.ru
 0.0.0.0 applovin.com
 0.0.0.0 applovin.io
 0.0.0.0 applvn.com
@@ -383,6 +390,7 @@
 0.0.0.0 bidstack.io
 0.0.0.0 bidtellect.com
 0.0.0.0 bidtheatre.com
+0.0.0.0 bigo.sg
 0.0.0.0 blobs.omnitagjs.com
 0.0.0.0 blockchain-ads.com
 0.0.0.0 bluehost.outbrain.com
@@ -525,6 +533,7 @@
 0.0.0.0 chartboost.com
 0.0.0.0 chi2only.outbrain.com
 0.0.0.0 chocolateplatform.com
+0.0.0.0 cizaa.tech
 0.0.0.0 clck.adskeeper.com
 0.0.0.0 clck.mgid.com
 0.0.0.0 click.dianomi.com
@@ -543,6 +552,7 @@
 0.0.0.0 cm2.adform.net
 0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 commerce.sovrn.com
+0.0.0.0 companinons.site
 0.0.0.0 config.admix.in
 0.0.0.0 config.anzu.io
 0.0.0.0 config.aps.amazon-adsystem.com
@@ -568,6 +578,7 @@
 0.0.0.0 convnjmp.taboola.com
 0.0.0.0 cool.co
 0.0.0.0 cpa.adcolony.com
+0.0.0.0 cpmmax.site
 0.0.0.0 creative.sonobi.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creatives.vistarmedia.com
@@ -589,6 +600,7 @@
 0.0.0.0 d.eu.criteo.com
 0.0.0.0 d.microad.jp
 0.0.0.0 d.us.criteo.com
+0.0.0.0 d10sbd116h2zht.cloudfront.net
 0.0.0.0 d2.ligatus.com
 0.0.0.0 d3von6il1wr7wo.cloudfront.net
 0.0.0.0 dashboard.fyber.com
@@ -608,6 +620,7 @@
 0.0.0.0 de.rayjump.com
 0.0.0.0 de01.rayjump.com
 0.0.0.0 decenterads.com
+0.0.0.0 deepads.ru
 0.0.0.0 deepintent.com
 0.0.0.0 delivery.adswizz.com
 0.0.0.0 demand.connectad.io
@@ -640,6 +653,7 @@
 0.0.0.0 dmpapi.bidtellect.com
 0.0.0.0 dmpsync.3lift.com
 0.0.0.0 dmx.districtm.io
+0.0.0.0 dollphoin.site
 0.0.0.0 doubleclick.net
 0.0.0.0 dsp-api.smartyads.com
 0.0.0.0 dsp-cdn.eskimi.com
@@ -903,6 +917,7 @@
 0.0.0.0 infoevent.startappservice.com
 0.0.0.0 ingest.vungle.com
 0.0.0.0 init.supersonicads.com
+0.0.0.0 inmense.site
 0.0.0.0 inner-active.com
 0.0.0.0 inner-active.mobi
 0.0.0.0 insight.adsrvr.org
@@ -939,6 +954,7 @@
 0.0.0.0 jstrp.adform.net
 0.0.0.0 jungroup.com
 0.0.0.0 kayzen.io
+0.0.0.0 kickoffo.site
 0.0.0.0 la-match.taboola.com
 0.0.0.0 la-vip001.taboola.com
 0.0.0.0 labs-cdn.revcontent.com
@@ -1001,6 +1017,7 @@
 0.0.0.0 microad.co.jp
 0.0.0.0 microad.jp
 0.0.0.0 mintegral.com
+0.0.0.0 miskyc.tech
 0.0.0.0 mntn.com
 0.0.0.0 mobfox.com
 0.0.0.0 mobile-api.revcontent.com
@@ -1030,6 +1047,7 @@
 0.0.0.0 net.rayjump.com
 0.0.0.0 netstorage.taboola.com
 0.0.0.0 new-www.outbrain.com
+0.0.0.0 news-cdn.site
 0.0.0.0 news.mgid.com
 0.0.0.0 news.revcontent.com
 0.0.0.0 newscgp.com
@@ -1065,9 +1083,11 @@
 0.0.0.0 oclasrv.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 offerwall.fyber.com
+0.0.0.0 okvmm.tech
 0.0.0.0 omnitagjs.com
 0.0.0.0 onclasrv.com
 0.0.0.0 onclickads.net
+0.0.0.0 onegg.site
 0.0.0.0 open-api.pangleglobal.com
 0.0.0.0 open.rubiconproject.com
 0.0.0.0 oppo.analytics.glance.inmobi.com
@@ -1106,6 +1126,7 @@
 0.0.0.0 pbs.getpublica.com
 0.0.0.0 pbs.sharethrough.com
 0.0.0.0 pbx.connectad.io
+0.0.0.0 pckqac.tech
 0.0.0.0 pdmp.dcapi.dmp.3lift.com
 0.0.0.0 pdmp.papi-public.eu-central-1.dmp.3lift.com
 0.0.0.0 pdmp.papi-public.us-east-1.dmp.3lift.com
@@ -1247,6 +1268,7 @@
 0.0.0.0 res4.applovin.com
 0.0.0.0 resources.taboola.com
 0.0.0.0 revcontent.com
+0.0.0.0 revenuads.com
 0.0.0.0 revenuedesk.fyber.com
 0.0.0.0 revx.io
 0.0.0.0 rfihub.com
@@ -1454,6 +1476,7 @@
 0.0.0.0 stx.sharethrough.com
 0.0.0.0 sublime.xyz
 0.0.0.0 sublimeskinz.com
+0.0.0.0 successwe.site
 0.0.0.0 supersonicads.com
 0.0.0.0 supply.fyber.com
 0.0.0.0 switchadhub.com
@@ -1542,6 +1565,7 @@
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tlx.3lift.com
 0.0.0.0 tools.marketgid.com
+0.0.0.0 topnotchs.tech
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tr.outbrain.com
 0.0.0.0 trace.admaster.cc
@@ -1819,4 +1843,6 @@
 0.0.0.0 zemanta.com
 0.0.0.0 zemanta.outbrain.com
 0.0.0.0 zergnet.com
+0.0.0.0 zoly.tech
 0.0.0.0 zoomd.com
+0.0.0.0 zxphiz.tech

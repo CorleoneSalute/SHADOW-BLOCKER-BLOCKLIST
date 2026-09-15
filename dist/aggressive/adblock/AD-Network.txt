@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1823
-# Generated: 2026-09-14 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1850
+# Generated: 2026-09-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -37,8 +37,12 @@
 ||aba.gumgum.com^
 ||abc2.adtelligent.com^
 ||acdn.adnxs.com^
+||acobt.tech^
 ||acuityads.com^
 ||acuityplatform.com^
+||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
+||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
+||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
 ||ad-machina.com^
 ||ad-on.fr^
 ||ad-srv.co^
@@ -63,6 +67,7 @@
 ||adbreaks.yieldlab.net^
 ||adc3-launch.adcolony.com^
 ||adcolony.com^
+||adeeply.ru^
 ||adelphic.com^
 ||adex2.fwmrm.net^
 ||adform.com^
@@ -222,6 +227,7 @@
 ||androidads4-8.adcolony.com^
 ||aniview-diag-server.1rx.io^
 ||aniview.com^
+||antibanads.com^
 ||anzu.io^
 ||ap.lijit.com^
 ||ap.unrulymedia.com^
@@ -317,6 +323,7 @@
 ||api3.adsterratools.com^
 ||api3.mountain.com^
 ||app-api.outbrain.com^
+||appleads.ru^
 ||applovin.com^
 ||applovin.io^
 ||applvn.com^
@@ -385,6 +392,7 @@
 ||bidstack.io^
 ||bidtellect.com^
 ||bidtheatre.com^
+||bigo.sg^
 ||blobs.omnitagjs.com^
 ||blockchain-ads.com^
 ||bluehost.outbrain.com^
@@ -528,6 +536,7 @@
 ||chartboost.com^
 ||chi2only.outbrain.com^
 ||chocolateplatform.com^
+||cizaa.tech^
 ||clck.adskeeper.com^
 ||clck.mgid.com^
 ||click.dianomi.com^
@@ -546,6 +555,7 @@
 ||cm2.adform.net^
 ||cms.analytics.yahoo.com^
 ||commerce.sovrn.com^
+||companinons.site^
 ||config.admix.in^
 ||config.anzu.io^
 ||config.aps.amazon-adsystem.com^
@@ -571,6 +581,7 @@
 ||convnjmp.taboola.com^
 ||cool.co^
 ||cpa.adcolony.com^
+||cpmmax.site^
 ||creative.sonobi.com^
 ||creativecdn.com^
 ||creatives.vistarmedia.com^
@@ -592,6 +603,7 @@
 ||d.eu.criteo.com^
 ||d.microad.jp^
 ||d.us.criteo.com^
+||d10sbd116h2zht.cloudfront.net^
 ||d2.ligatus.com^
 ||d3von6il1wr7wo.cloudfront.net^
 ||dashboard.fyber.com^
@@ -611,6 +623,7 @@
 ||de.rayjump.com^
 ||de01.rayjump.com^
 ||decenterads.com^
+||deepads.ru^
 ||deepintent.com^
 ||delivery.adswizz.com^
 ||demand.connectad.io^
@@ -643,6 +656,7 @@
 ||dmpapi.bidtellect.com^
 ||dmpsync.3lift.com^
 ||dmx.districtm.io^
+||dollphoin.site^
 ||doubleclick.net^
 ||dsp-api.smartyads.com^
 ||dsp-cdn.eskimi.com^
@@ -806,6 +820,7 @@
 ||gtrace.admaster.cc^
 ||gtracenep.admaster.cc^
 ||gtv.analytics.glance.inmobi.com^
+||gtvads.com^
 ||gum-ssl.criteo.com^
 ||gum.as.criteo.com^
 ||gum.criteo.net^
@@ -907,6 +922,7 @@
 ||infra.tv^
 ||ingest.vungle.com^
 ||init.supersonicads.com^
+||inmense.site^
 ||inner-active.com^
 ||inner-active.mobi^
 ||insight.adsrvr.org^
@@ -943,6 +959,7 @@
 ||jstrp.adform.net^
 ||jungroup.com^
 ||kayzen.io^
+||kickoffo.site^
 ||la-match.taboola.com^
 ||la-vip001.taboola.com^
 ||labs-cdn.revcontent.com^
@@ -1005,6 +1022,7 @@
 ||microad.co.jp^
 ||microad.jp^
 ||mintegral.com^
+||miskyc.tech^
 ||mntn.com^
 ||mobfox.com^
 ||mobile-api.revcontent.com^
@@ -1034,6 +1052,7 @@
 ||net.rayjump.com^
 ||netstorage.taboola.com^
 ||new-www.outbrain.com^
+||news-cdn.site^
 ||news.mgid.com^
 ||news.revcontent.com^
 ||newscgp.com^
@@ -1070,9 +1089,11 @@
 ||oclasrv.com^
 ||odb.outbrain.com^
 ||offerwall.fyber.com^
+||okvmm.tech^
 ||omnitagjs.com^
 ||onclasrv.com^
 ||onclickads.net^
+||onegg.site^
 ||open-api.pangleglobal.com^
 ||open.rubiconproject.com^
 ||oppo.analytics.glance.inmobi.com^
@@ -1111,6 +1132,7 @@
 ||pbs.getpublica.com^
 ||pbs.sharethrough.com^
 ||pbx.connectad.io^
+||pckqac.tech^
 ||pdmp.dcapi.dmp.3lift.com^
 ||pdmp.papi-public.eu-central-1.dmp.3lift.com^
 ||pdmp.papi-public.us-east-1.dmp.3lift.com^
@@ -1252,6 +1274,7 @@
 ||res4.applovin.com^
 ||resources.taboola.com^
 ||revcontent.com^
+||revenuads.com^
 ||revenuedesk.fyber.com^
 ||revx.io^
 ||rfihub.com^
@@ -1459,6 +1482,7 @@
 ||stx.sharethrough.com^
 ||sublime.xyz^
 ||sublimeskinz.com^
+||successwe.site^
 ||supersonicads.com^
 ||supply.fyber.com^
 ||switchadhub.com^
@@ -1548,6 +1572,7 @@
 ||tknet.rayjump.com^
 ||tlx.3lift.com^
 ||tools.marketgid.com^
+||topnotchs.tech^
 ||tpc.googlesyndication.com^
 ||tr.outbrain.com^
 ||trace.admaster.cc^
@@ -1827,4 +1852,6 @@
 ||zemanta.com^
 ||zemanta.outbrain.com^
 ||zergnet.com^
+||zoly.tech^
 ||zoomd.com^
+||zxphiz.tech^
