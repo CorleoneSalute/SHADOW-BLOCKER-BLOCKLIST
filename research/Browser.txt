@@ -1243,13 +1243,13 @@ browser.kagi.com
 kagi.com
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-ARC BROWSER ⚠️⚠️⚠️ (SUNSET - May 2025)
+ARC BROWSER (SUNSET - May 2025)
 ────────────────────────────────────────────────────────────
 Arc Services:
 arc.net
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-DIA BROWSER (The Browser Company - Atlassian) ⚠️⚠️⚠️
+DIA BROWSER (The Browser Company - Atlassian) 
 ────────────────────────────────────────────────────────────
 Dia Services:
 diabrowser.com
@@ -1257,7 +1257,7 @@ thebrowser.company
 help.diabrowser.com
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🆕 WEBOS BROWSER (LG Smart TV) ⚠️⚠️⚠️⚠️⚠️
+🆕 WEBOS BROWSER (LG Smart TV) 
 ────────────────────────────────────────────────────────────
 LG Services:
 lg.com
