@@ -4,7 +4,7 @@
 # Last update: 2026/09/12
 # Note: trailing "!" marks a domain as aggressive-only
 
-# SAMSUNG (75 domain)
+# SAMSUNG
 ============================================================
 smetrics.samsung.com
 smetrics.samsung.com.cn
@@ -82,7 +82,7 @@ samsungrm.net
 test.samsungrm.net
 www.samsungrm.net
 
-# LG (55 domain)
+# LG
 ============================================================
 ad.lgsmartad.com
 us.info.lgsmartad.com
@@ -154,7 +154,8 @@ eg-info-lgsmartad-com.aws-prd.net
 eu7-info-lgsmartad-com.aws-prd.net	
 fi-info-lgsmartad-com.aws-prd.net	
 fr-info-lgsmartad-com.aws-prd.net	
-gb-info-lgsmartad-com.aws-prd.net	
+gb-info-lgsmartad-com.aws-prd.net
+es-info-lgsmartad-com.aws-prd.net
 gr-info-lgsmartad-com.aws-prd.net	
 ibsstat.nextlgsdp.com !
 in-info-lgsmartad-com.aws-prd.net	
@@ -194,7 +195,7 @@ se-rdx2-lgtvsdp-com.aws-prd.net
 si-rdx2-lgtvsdp-com.aws-prd.net
 us-rdx2-lgtvsdp-com.aws-prd.net
 
-# VIZIO (6 domain)
+# VIZIO 
 ============================================================
 tvinteractive.tv
 log.vizio.com
@@ -203,7 +204,7 @@ www.inscape.tv
 data.inscape.tv
 api.inscape.tv
 
-# SONY BRAVIA (13 domain)
+# SONY BRAVIA
 ============================================================
 flingo.tv
 api.flingo.tv
@@ -219,7 +220,7 @@ mcp.tvinteractive.tv
 tvmeta-dynamic.tvinteractive.tv
 control-zoo-dai-default.tvinteractive.tv
 
-# TCL (9 domain)
+# TCL 
 ============================================================
 analysis.leiniao.com
 hwads-o.res.leiniao.com
@@ -231,7 +232,7 @@ ads.alcatel.tcl.com
 ads.tcl.com
 eads.tcl.com
 
-# HISENSE / VIDAA (6 domain)
+# HISENSE / VIDAA 
 ============================================================
 analytic.hisensetv.com
 logs.hisensetv.com
@@ -240,12 +241,12 @@ stats.hisensetv.com
 abtest-tv.vidaahub.com !
 rsc-ads.vidaahub.com !
 
-# PHILIPS (2 domain)
+# PHILIPS 
 ============================================================
 ad.nettvservices.com
 tv2k9ad.nettvservices.com
 
-# PANASONIC VIERA (48 domain)
+# PANASONIC VIERA 
 ============================================================
 sgw-analytics.panasonic.com
 smetrics-cns.panasonic.com
@@ -296,7 +297,7 @@ usage-eu-fy2022.myhomescreen.tv
 vindicosuite.com
 x2.vindicosuite.com
 
-# ROKU (135 domain)
+# ROKU 
 ============================================================
 ads.roku.com
 advertising.roku.com
@@ -434,7 +435,7 @@ w55c.net
 ads.w55c.net
 roku.adsmeasurement.com
 
-# AMAZON FIRE TV (20 domain)
+# AMAZON FIRE TV
 ============================================================
 unagi-na.amazon.com
 unagi-eu.amazon.com
@@ -457,7 +458,7 @@ secure-eu.imrworldwide.com
 logs1409.xiti.com
 tracksrv.zdf.de
 
-# TOSHIBA (7 domain)
+# TOSHIBA
 ============================================================
 samba.tv
 api.samba.tv
@@ -467,7 +468,7 @@ platform.cid.samba.tv
 7345023508.fxm9485766783.com
 7345023508.fxmconnect.com
 
-# SKYWORTH / COOCAA (5 domain)
+# SKYWORTH / COOCAA 
 ============================================================
 gz-data.com
 gozendata.com
@@ -475,7 +476,7 @@ analysis.coolita.com
 post.analysis.coolita.com
 s.analysis.coolita.com
 
-# VESTEL / TIVO OS (12 domain)
+# VESTEL / TIVO OS 
 ============================================================
 adgwy.tivo.com
 advertising.tivo.com
@@ -490,32 +491,32 @@ elog.vewd.com
 log-legacy.core.cloud.vewd.com
 sdklog.cloud.vewd.com
 
-# TITAN OS (3 domain)
+# TITAN OS
 ============================================================
 analytics.titanos.tv
 ads.titanos.tv
 titan-ads.tv
 
-# SKY GLASS / SKY STREAM (1 domain)
+# SKY GLASS / SKY STREAM
 ============================================================
 skyadsmart.com
 
-# WHALE OS (Zeasn) (2 domain)
+# WHALE OS (Zeasn) 
 ============================================================
 analytics.whaletv.com
 collect.whaletv.com
 
-# FOXXUM OS (2 domain)
+# FOXXUM OS 
 ============================================================
 analytics.foxxum.com
 sentry1.foxxum.com
 
-# MULTI-PLATFORM ACR / ANALYTICS (2 domain)
+# MULTI-PLATFORM ACR / ANALYTICS 
 ============================================================
 digitalsmiths.net
 hbbtv-track.redbutton.de
 
-# THIRD-PARTY PROXY / DATA NETWORK (Bright Data) — ⚠️ Israel proxyware (59 domain)
+# THIRD-PARTY PROXY / DATA NETWORK (Bright Data) — ⚠️ Israel proxyware
 ============================================================
 brightdata.com !
 community.brightdata.com
@@ -580,10 +581,10 @@ clientsdk.brdtnet.com
 # AGGRESSIVE LIST
 # ==================================================================
 
-# Samsung (1 domain) ⚠️ Failed requests may cause temporary video freezes in news apps.
+# Samsung ⚠️ Failed requests may cause temporary video freezes in news apps.
 ads.aimitv.com !
 
-# LG Recommendation (14 domain)
+# LG Recommendation
 Feeds "Recommended for You" row on home screen and recommended apps section in Content Store. Blocking may alter the appearance or behavior of these screens.
 us.homeprv.lgtvcommon.com !
 us.rdl.lgtvcommon.com !
@@ -600,7 +601,7 @@ eic.homeprv.lgtvcommon.com !
 eic.rdl.lgtvcommon.com !
 eic.recommend.lgtvcommon.com !
 
-# Vizio (WatchFree+) (1 domain) ⚠️ Vizio's WatchFree+ free ad-supported channel uses server-side ad insertion (SSAI) for content delivery. Blocking may cause intermittent freezing or content load failures.
+# Vizio (WatchFree+) ⚠️ Vizio's WatchFree+ free ad-supported channel uses server-side ad insertion (SSAI) for content delivery. Blocking may cause intermittent freezing or content load failures.
 ads.vizio.com ! 
 
 # Google / Android TV
@@ -609,5 +610,5 @@ androidtvwatsonfe-pa.googleapis.com !
 # Hisense / VIDAA
 recommend-ui-af.vidaahub.com !
 
-# Titan OS (1 domain)
+# Titan OS
 thinkanalytics.com !
