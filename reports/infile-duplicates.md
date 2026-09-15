@@ -1,6 +1,6 @@
 # In-File Duplicate Domain Report
 
-Generated: 2026-09-15 11:24 UTC
+Generated: 2026-09-15 11:28 UTC
 
 Domains that appear more than once within the SAME category
 file - usually a copy-paste mistake in a large file. The build
@@ -37,7 +37,7 @@ changes which tier the domain ends up in.
 
 | Domain | Lines | Exact match |
 |---|---|---|
-| ads.aimitv.com | 77, 584 | no - differs |
+| ads.aimitv.com | 77, 585 | no - differs |
 
 ## Social-Media
 

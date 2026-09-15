@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - AGGRESSIVE
-# Total domains: 534
+# Total domains: 535
 # Generated: 2026-09-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -230,6 +230,7 @@
 0.0.0.0 eic.rdl.lgtvcommon.com
 0.0.0.0 eic.recommend.lgtvcommon.com
 0.0.0.0 elog.vewd.com
+0.0.0.0 es-info-lgsmartad-com.aws-prd.net
 0.0.0.0 es-logger-dns.bdp.roku.com
 0.0.0.0 es-logger.bdp.roku.com
 0.0.0.0 esp.logs.roku.com

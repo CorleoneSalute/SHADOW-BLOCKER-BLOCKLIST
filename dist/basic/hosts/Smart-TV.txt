@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - BASIC
-# Total domains: 506
+# Total domains: 507
 # Generated: 2026-09-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -217,6 +217,7 @@
 0.0.0.0 eic.cdpsvc.lgtvcommon.com
 0.0.0.0 eic.nudge.lgtvcommon.com
 0.0.0.0 elog.vewd.com
+0.0.0.0 es-info-lgsmartad-com.aws-prd.net
 0.0.0.0 es-logger-dns.bdp.roku.com
 0.0.0.0 es-logger.bdp.roku.com
 0.0.0.0 esp.logs.roku.com

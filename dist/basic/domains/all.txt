@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9187
+# Total domains: 9188
 # Generated: 2026-09-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3516,6 +3516,7 @@ errors.reddit.com
 errors.ubuntu.com
 errorservice.metrics.ea.com
 errorsmart.com
+es-info-lgsmartad-com.aws-prd.net
 es-logger-dns.bdp.roku.com
 es-logger.bdp.roku.com
 es-logs.tidio.co

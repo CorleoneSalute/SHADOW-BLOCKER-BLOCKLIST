@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9609
+# Total domains: 9610
 # Generated: 2026-09-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3645,6 +3645,7 @@ errors.stripe.com
 errors.ubuntu.com
 errorservice.metrics.ea.com
 errorsmart.com
+es-info-lgsmartad-com.aws-prd.net
 es-logger-dns.bdp.roku.com
 es-logger.bdp.roku.com
 es-logs.tidio.co
