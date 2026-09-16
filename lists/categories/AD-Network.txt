@@ -1,11 +1,11 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 1850
-# Total platforms: 159
+# Total platforms: 166
 # Last update: 2026/09/15
 # Note: trailing "!" marks a domain as aggressive-only
 
-# --- Taboola [CRITICAL] ---
+# Taboola
 taboola.com
 trc.taboola.com
 cdn.taboola.com
@@ -2207,3 +2207,30 @@ gtvads.com !
 # AdGone
 
 adgone.org ! # untrusted adblocker
+
+# AdMedia
+
+Ad.com
+admedia.com
+publicgood.com
+underdogmedia.com
+advertising.com
+admedia.network
+
+# AdVolt
+
+ad-volt.com
+
+# AdSaver
+
+ad-saver.com
+
+# Adru
+
+adru.net
+
+# IGAWorks
+
+adbrix.ai
+adPOPcorn.com
+tradingworks.com
