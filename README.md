@@ -67,7 +67,7 @@ research/            source material behind each category (verification trail)
 lists/categories/    canonical master lists (source of truth)
 scripts/build.py     generates dist/ from lists/categories/
 dist/                generated output — do not edit directly
-reports/             new-domain reports — see "Keeping this up to date"
+reports/             new-domain and duplicate reports — see "Keeping this up to date"
 
 ```
 
@@ -134,6 +134,17 @@ covered here, and writes candidates to
 nothing is added automatically. Every candidate is independently
 researched and classified (platform, purpose, tier) before it's added
 to a category file, the same as any other domain in this project.
+
+**Automated duplicate detection.** Every build (triggered on every push
+to `lists/categories/`) checks for two kinds of duplicates and reports
+them without editing anything: a domain appearing in more than one
+category file (`reports/duplicate-domains.md`), and a domain appearing
+more than once within the same category file
+
+**Automated infile duplicate detection.** (`reports/infile-duplicates.md`) — the latter also flags whether the
+duplicate entries are byte-for-byte identical or differ (e.g. one
+plain, one marked aggressive-only), since a mismatched flag silently
+changes which tier the domain ends up in.
 
 Sources checked for new-domain signals:
 [AdGuard SDNS Filter](https://github.com/AdguardTeam/AdGuardSDNSFilter),
