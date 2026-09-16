@@ -86,10 +86,12 @@ adobemobiledev.demdex.net
 analytics-labs.adobe.com
 analytics.pnw.appsvc.an.adobe.com
 analytics.lon.appsvc.an.adobe.com
+analytics.discovery.adobe.net
 
 # ── Adobe Telemetry ──────────────────────────────────────────────────────
 sstats.adobe.com
 hbrt.adobe.com
+adobestats.com
 
 # ── adobestats.io — Obfuscated Telemetry ─────────────────────────────────
 adobestats.io
