@@ -5,7 +5,6 @@
 # Note: trailing "!" marks a domain as aggressive-only
 
 # SAMSUNG
-============================================================
 smetrics.samsung.com
 smetrics.samsung.com.cn
 event-tracking.samsung.com
@@ -240,9 +239,18 @@ metrics.hisensetv.com
 stats.hisensetv.com
 abtest-tv.vidaahub.com !
 rsc-ads.vidaahub.com !
+recommend-ui-as.vidaahub.com !
+recommend-ui-ee.vidaahub.com !
+recommend-ui-eu.vidaahub.com !
+recommend-ui-jp.vidaahub.com !
+recommend-ui-la.vidaahub.com !
+recommend-ui-me.vidaahub.com !
+recommend-ui-na.vidaahub.com !
+recommend-ui-oc.vidaahub.com !
+recommend-ui-sa.vidaahub.com !
+recommend-ui.vidaahub.com ! 
 
-# PHILIPS 
-============================================================
+# PHILIPS
 ad.nettvservices.com
 tv2k9ad.nettvservices.com
 
