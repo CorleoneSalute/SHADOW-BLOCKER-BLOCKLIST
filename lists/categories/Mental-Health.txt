@@ -46,6 +46,7 @@ metrics.calmerry.com
 
 # ALMA
 analytics.helloalma.com
+metrics.helloalma.com
 
 # HEADWAY
 track.headway.co
