@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9202
+# Total domains: 9203
 # Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5304,6 +5304,7 @@ metrics.glow.co
 metrics.gnome.org
 metrics.gnosischain.com
 metrics.hbomax.com
+metrics.helloalma.com
 metrics.helloclue.com
 metrics.hisensetv.com
 metrics.hotstar.com

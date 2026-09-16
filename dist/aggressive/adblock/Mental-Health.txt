@@ -1,6 +1,6 @@
 # ============================================================
 # MENTAL HEALTH BLOCKLIST - AGGRESSIVE
-# Total domains: 32
+# Total domains: 33
 # Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -24,6 +24,7 @@
 ||google-ads-mcp.ourritual.com^
 ||looker.ourritual.com^
 ||metrics.calmerry.com^
+||metrics.helloalma.com^
 ||sentry.minddoc.com^
 ||sgtm.talkspace.com^
 ||smetrics.medical.otsuka-us.com^

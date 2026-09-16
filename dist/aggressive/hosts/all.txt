@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9624
+# Total domains: 9625
 # Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5552,6 +5552,7 @@
 0.0.0.0 metrics.gnome.org
 0.0.0.0 metrics.gnosischain.com
 0.0.0.0 metrics.hbomax.com
+0.0.0.0 metrics.helloalma.com
 0.0.0.0 metrics.helloclue.com
 0.0.0.0 metrics.hisensetv.com
 0.0.0.0 metrics.hotstar.com
