@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 255
+# Total domains: 256
 # Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -239,6 +239,7 @@ tracking.unibet.com
 tracking.youdagames.com
 trackju.lonestarcasino.com
 trackju.realprize.com
+trk.betfair.com
 trk.cassino.bet.br
 trk.jackpota.com
 trk.pinnacle.com

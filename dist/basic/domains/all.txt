@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9203
+# Total domains: 9204
 # Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8489,6 +8489,7 @@ triplelift.com
 triplelift.net
 trk-v4.pinterest.com
 trk.agreements.hertz.com
+trk.betfair.com
 trk.cassino.bet.br
 trk.datify.link
 trk.dowjones.com

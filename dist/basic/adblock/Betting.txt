@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 247
+# Total domains: 248
 # Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -231,6 +231,7 @@
 ||tracking.youdagames.com^
 ||trackju.lonestarcasino.com^
 ||trackju.realprize.com^
+||trk.betfair.com^
 ||trk.cassino.bet.br^
 ||trk.jackpota.com^
 ||trk.pinnacle.com^
