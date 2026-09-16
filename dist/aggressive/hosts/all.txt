@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9610
-# Generated: 2026-09-15 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9622
+# Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -189,6 +189,7 @@
 0.0.0.0 ad-metrics.espn.com
 0.0.0.0 ad-on.fr
 0.0.0.0 ad-risk.prt.kuaishou.com
+0.0.0.0 ad-saver.com
 0.0.0.0 ad-sdk.lenovomm.com
 0.0.0.0 ad-sdk.samsungapps.com
 0.0.0.0 ad-server.linkvertise.com
@@ -200,6 +201,7 @@
 0.0.0.0 ad-tech-windev.weather.com
 0.0.0.0 ad-trace.lenovomm.com
 0.0.0.0 ad-track.jp
+0.0.0.0 ad-volt.com
 0.0.0.0 ad.acast.com
 0.0.0.0 ad.adition.com
 0.0.0.0 ad.admitad.com
@@ -210,6 +212,7 @@
 0.0.0.0 ad.betou.bet.br
 0.0.0.0 ad.cdn.pandora.xiaomi.com
 0.0.0.0 ad.click.g.doubleclick.net
+0.0.0.0 ad.com
 0.0.0.0 ad.cookpad.com
 0.0.0.0 ad.cookpad.jp
 0.0.0.0 ad.criteo.com
@@ -289,6 +292,7 @@
 0.0.0.0 adbox.nextory.com
 0.0.0.0 adbox.sina.com.cn
 0.0.0.0 adbreaks.yieldlab.net
+0.0.0.0 adbrix.ai
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adclarity.com
@@ -333,6 +337,8 @@
 0.0.0.0 admarketing.yahoo.net
 0.0.0.0 admaster.cc
 0.0.0.0 admaven.com
+0.0.0.0 admedia.com
+0.0.0.0 admedia.network
 0.0.0.0 admetrica.yandex.com
 0.0.0.0 admin-advertising.roku.com
 0.0.0.0 admitad.com
@@ -370,6 +376,7 @@
 0.0.0.0 adperio.com
 0.0.0.0 adplatform.apple.com
 0.0.0.0 adplayer.pro
+0.0.0.0 adpopcorn.com
 0.0.0.0 adprofex.com
 0.0.0.0 adptrck.com
 0.0.0.0 adreporter.yahoo.com
@@ -377,6 +384,7 @@
 0.0.0.0 adrevenue.appsflyersdk.com
 0.0.0.0 adroll.com
 0.0.0.0 adrta.com
+0.0.0.0 adru.net
 0.0.0.0 ads-aka-us-east-1.delivery.roku.com
 0.0.0.0 ads-aka-us-west-2.delivery.roku.com
 0.0.0.0 ads-api.duolingo.com
@@ -740,6 +748,7 @@
 0.0.0.0 advertising.accuweather.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.att.com
+0.0.0.0 advertising.com
 0.0.0.0 advertising.oath.com
 0.0.0.0 advertising.roku.com
 0.0.0.0 advertising.tivo.com
@@ -6629,6 +6638,7 @@
 0.0.0.0 public.api.gateway.chartboost.com
 0.0.0.0 public.api.improvedigital.com
 0.0.0.0 publica.com
+0.0.0.0 publicgood.com
 0.0.0.0 publisher-api.outbrain.com
 0.0.0.0 publisher-api.revcontent.com
 0.0.0.0 publisher-event.unityads.unity3d.com
@@ -8826,6 +8836,7 @@
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 trackworld-model-1.apps.allenai.org
 0.0.0.0 trackworld-model-2.apps.allenai.org
+0.0.0.0 tradingworks.com
 0.0.0.0 traffic-analytics.ghost.org
 0.0.0.0 traffic-media.co
 0.0.0.0 traffic-media.co.uk
@@ -8956,6 +8967,7 @@
 0.0.0.0 unagi-fe.amazon.com
 0.0.0.0 unagi-na.amazon.com
 0.0.0.0 undeleteplusapp.com
+0.0.0.0 underdogmedia.com
 0.0.0.0 undertone.com
 0.0.0.0 ungads.com
 0.0.0.0 uniblue.com

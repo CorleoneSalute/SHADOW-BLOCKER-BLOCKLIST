@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1841
-# Generated: 2026-09-15 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1853
+# Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -45,13 +45,16 @@
 ||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
 ||ad-machina.com^
 ||ad-on.fr^
+||ad-saver.com^
 ||ad-srv.co^
 ||ad-srv.net^
 ||ad-tag.inner-active.mobi^
 ||ad-track.jp^
+||ad-volt.com^
 ||ad.adition.com^
 ||ad.adsrvr.org^
 ||ad.click.g.doubleclick.net^
+||ad.com^
 ||ad.dco.quantcast.com^
 ||ad.doubleclick.net^
 ||ad.equativ.com^
@@ -65,6 +68,7 @@
 ||adaptv.advertising.com^
 ||adblade.com^
 ||adbreaks.yieldlab.net^
+||adbrix.ai^
 ||adc3-launch.adcolony.com^
 ||adcolony.com^
 ||adeeply.ru^
@@ -81,6 +85,8 @@
 ||adm.fwmrm.net^
 ||admaster.cc^
 ||admaven.com^
+||admedia.com^
+||admedia.network^
 ||admix.in^
 ||admixer.co.kr^
 ||admixer.com^
@@ -97,8 +103,10 @@
 ||adnxs.com^
 ||adnxs.net^
 ||adplayer.pro^
+||adpopcorn.com^
 ||adptrck.com^
 ||adroll.com^
+||adru.net^
 ||ads-bidstrade.io^
 ||ads-i-cf.undertone.com^
 ||ads-i.undertone.com^
@@ -173,6 +181,7 @@
 ||adup-tech.com^
 ||advertise.quantcast.com^
 ||advertiser-api.revcontent.com^
+||advertising.com^
 ||advertising.yahooinc.com^
 ||adx.adform.net^
 ||adx2.adform.net^
@@ -1227,6 +1236,7 @@
 ||public.api.gateway.chartboost.com^
 ||public.api.improvedigital.com^
 ||publica.com^
+||publicgood.com^
 ||publisher-api.outbrain.com^
 ||publisher-api.revcontent.com^
 ||publisher-event.unityads.unity3d.com^
@@ -1624,6 +1634,7 @@
 ||tracking.teads.tv^
 ||tracking.unityads.unity3d.com^
 ||tracking.zoomd.com^
+||tradingworks.com^
 ||traffic.outbrain.com^
 ||trafficroots.com^
 ||trc-analytics.taboola.com^
@@ -1652,6 +1663,7 @@
 ||tynt.com^
 ||tynt.net^
 ||u.amobee.com^
+||underdogmedia.com^
 ||undertone.com^
 ||unifiedbidding.ad.smaato.net^
 ||union.pangleglobal.com^

@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9610
-# Generated: 2026-09-15 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9622
+# Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -189,6 +189,7 @@
 ||ad-metrics.espn.com^
 ||ad-on.fr^
 ||ad-risk.prt.kuaishou.com^
+||ad-saver.com^
 ||ad-sdk.lenovomm.com^
 ||ad-sdk.samsungapps.com^
 ||ad-server.linkvertise.com^
@@ -200,6 +201,7 @@
 ||ad-tech-windev.weather.com^
 ||ad-trace.lenovomm.com^
 ||ad-track.jp^
+||ad-volt.com^
 ||ad.acast.com^
 ||ad.adition.com^
 ||ad.admitad.com^
@@ -210,6 +212,7 @@
 ||ad.betou.bet.br^
 ||ad.cdn.pandora.xiaomi.com^
 ||ad.click.g.doubleclick.net^
+||ad.com^
 ||ad.cookpad.com^
 ||ad.cookpad.jp^
 ||ad.criteo.com^
@@ -289,6 +292,7 @@
 ||adbox.nextory.com^
 ||adbox.sina.com.cn^
 ||adbreaks.yieldlab.net^
+||adbrix.ai^
 ||adc3-launch.adcolony.com^
 ||adcel.vrvm.com^
 ||adclarity.com^
@@ -333,6 +337,8 @@
 ||admarketing.yahoo.net^
 ||admaster.cc^
 ||admaven.com^
+||admedia.com^
+||admedia.network^
 ||admetrica.yandex.com^
 ||admin-advertising.roku.com^
 ||admitad.com^
@@ -370,6 +376,7 @@
 ||adperio.com^
 ||adplatform.apple.com^
 ||adplayer.pro^
+||adpopcorn.com^
 ||adprofex.com^
 ||adptrck.com^
 ||adreporter.yahoo.com^
@@ -377,6 +384,7 @@
 ||adrevenue.appsflyersdk.com^
 ||adroll.com^
 ||adrta.com^
+||adru.net^
 ||ads-aka-us-east-1.delivery.roku.com^
 ||ads-aka-us-west-2.delivery.roku.com^
 ||ads-api.duolingo.com^
@@ -740,6 +748,7 @@
 ||advertising.accuweather.com^
 ||advertising.apple.com^
 ||advertising.att.com^
+||advertising.com^
 ||advertising.oath.com^
 ||advertising.roku.com^
 ||advertising.tivo.com^
@@ -6629,6 +6638,7 @@
 ||public.api.gateway.chartboost.com^
 ||public.api.improvedigital.com^
 ||publica.com^
+||publicgood.com^
 ||publisher-api.outbrain.com^
 ||publisher-api.revcontent.com^
 ||publisher-event.unityads.unity3d.com^
@@ -8826,6 +8836,7 @@
 ||tracksrv.zdf.de^
 ||trackworld-model-1.apps.allenai.org^
 ||trackworld-model-2.apps.allenai.org^
+||tradingworks.com^
 ||traffic-analytics.ghost.org^
 ||traffic-media.co^
 ||traffic-media.co.uk^
@@ -8956,6 +8967,7 @@
 ||unagi-fe.amazon.com^
 ||unagi-na.amazon.com^
 ||undeleteplusapp.com^
+||underdogmedia.com^
 ||undertone.com^
 ||ungads.com^
 ||uniblue.com^

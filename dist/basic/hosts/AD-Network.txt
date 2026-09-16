@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1841
-# Generated: 2026-09-15 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1853
+# Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -45,13 +45,16 @@
 0.0.0.0 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
 0.0.0.0 ad-machina.com
 0.0.0.0 ad-on.fr
+0.0.0.0 ad-saver.com
 0.0.0.0 ad-srv.co
 0.0.0.0 ad-srv.net
 0.0.0.0 ad-tag.inner-active.mobi
 0.0.0.0 ad-track.jp
+0.0.0.0 ad-volt.com
 0.0.0.0 ad.adition.com
 0.0.0.0 ad.adsrvr.org
 0.0.0.0 ad.click.g.doubleclick.net
+0.0.0.0 ad.com
 0.0.0.0 ad.dco.quantcast.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.equativ.com
@@ -65,6 +68,7 @@
 0.0.0.0 adaptv.advertising.com
 0.0.0.0 adblade.com
 0.0.0.0 adbreaks.yieldlab.net
+0.0.0.0 adbrix.ai
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcolony.com
 0.0.0.0 adeeply.ru
@@ -81,6 +85,8 @@
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 admaster.cc
 0.0.0.0 admaven.com
+0.0.0.0 admedia.com
+0.0.0.0 admedia.network
 0.0.0.0 admix.in
 0.0.0.0 admixer.co.kr
 0.0.0.0 admixer.com
@@ -97,8 +103,10 @@
 0.0.0.0 adnxs.com
 0.0.0.0 adnxs.net
 0.0.0.0 adplayer.pro
+0.0.0.0 adpopcorn.com
 0.0.0.0 adptrck.com
 0.0.0.0 adroll.com
+0.0.0.0 adru.net
 0.0.0.0 ads-bidstrade.io
 0.0.0.0 ads-i-cf.undertone.com
 0.0.0.0 ads-i.undertone.com
@@ -173,6 +181,7 @@
 0.0.0.0 adup-tech.com
 0.0.0.0 advertise.quantcast.com
 0.0.0.0 advertiser-api.revcontent.com
+0.0.0.0 advertising.com
 0.0.0.0 advertising.yahooinc.com
 0.0.0.0 adx.adform.net
 0.0.0.0 adx2.adform.net
@@ -1227,6 +1236,7 @@
 0.0.0.0 public.api.gateway.chartboost.com
 0.0.0.0 public.api.improvedigital.com
 0.0.0.0 publica.com
+0.0.0.0 publicgood.com
 0.0.0.0 publisher-api.outbrain.com
 0.0.0.0 publisher-api.revcontent.com
 0.0.0.0 publisher-event.unityads.unity3d.com
@@ -1624,6 +1634,7 @@
 0.0.0.0 tracking.teads.tv
 0.0.0.0 tracking.unityads.unity3d.com
 0.0.0.0 tracking.zoomd.com
+0.0.0.0 tradingworks.com
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 trafficroots.com
 0.0.0.0 trc-analytics.taboola.com
@@ -1652,6 +1663,7 @@
 0.0.0.0 tynt.com
 0.0.0.0 tynt.net
 0.0.0.0 u.amobee.com
+0.0.0.0 underdogmedia.com
 0.0.0.0 undertone.com
 0.0.0.0 unifiedbidding.ad.smaato.net
 0.0.0.0 union.pangleglobal.com
