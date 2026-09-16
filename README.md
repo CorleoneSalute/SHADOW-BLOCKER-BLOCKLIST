@@ -122,12 +122,12 @@ range of publicly available cybersecurity and privacy resources.
 
 New domains and categories are added through two parallel processes:
 
-**Manual research.** New platforms and emerging tracking techniques
+**Manual research** New platforms and emerging tracking techniques
 are identified by following cybersecurity and technology news sources,
 then researched and classified individually using this project's
 methodology (see [Methodology](#methodology) above).
 
-**Automated new-domain signals.** A daily job checks several external
+**Automated new-domain signals** A daily job checks several external
 blocklists for domains added in the last 24 hours that aren't yet
 covered here, and writes candidates to
 `reports/new-domain-suggestions.md`. This is a research signal only —
@@ -135,13 +135,13 @@ nothing is added automatically. Every candidate is independently
 researched and classified (platform, purpose, tier) before it's added
 to a category file, the same as any other domain in this project.
 
-**Automated duplicate detection.** Every build (triggered on every push
+**Automated duplicate detection** Every build (triggered on every push
 to `lists/categories/`) checks for two kinds of duplicates and reports
 them without editing anything: a domain appearing in more than one
 category file (`reports/duplicate-domains.md`), and a domain appearing
 more than once within the same category file
 
-**Automated infile duplicate detection.** (`reports/infile-duplicates.md`) — the latter also flags whether the
+**Automated infile duplicate detection** (`reports/infile-duplicates.md`) — the latter also flags whether the
 duplicate entries are byte-for-byte identical or differ (e.g. one
 plain, one marked aggressive-only), since a mismatched flag silently
 changes which tier the domain ends up in.
