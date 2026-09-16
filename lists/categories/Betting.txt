@@ -13,6 +13,7 @@ metrics.fanduel.com
 
 # Betfair
 clientmetrics.betfair.com
+trk.betfair.com
 ads.betfair.com
 ads.betfair.com.au
 
