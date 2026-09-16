@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9622
+# Total domains: 9624
 # Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -370,6 +370,7 @@
 ||adobedtm.com.sci-hub.tw^
 ||adobemetrics.okta.com^
 ||adobemobiledev.demdex.net^
+||adobestats.com^
 ||adobestats.io^
 ||adobetag.com^
 ||adoperator.com^
@@ -1128,6 +1129,7 @@
 ||analytics.didomi.io^
 ||analytics.digital.orange.es^
 ||analytics.digitalpour.com^
+||analytics.discovery.adobe.net^
 ||analytics.discoveryplus.com^
 ||analytics.disneynow.com^
 ||analytics.disneyplus.com^
