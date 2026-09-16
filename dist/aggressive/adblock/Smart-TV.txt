@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - AGGRESSIVE
-# Total domains: 535
+# Total domains: 545
 # Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -411,6 +411,16 @@
 ||rdl.lgtvcommon.com^
 ||rdx2.nextlgsdp.com^
 ||recommend-ui-af.vidaahub.com^
+||recommend-ui-as.vidaahub.com^
+||recommend-ui-ee.vidaahub.com^
+||recommend-ui-eu.vidaahub.com^
+||recommend-ui-jp.vidaahub.com^
+||recommend-ui-la.vidaahub.com^
+||recommend-ui-me.vidaahub.com^
+||recommend-ui-na.vidaahub.com^
+||recommend-ui-oc.vidaahub.com^
+||recommend-ui-sa.vidaahub.com^
+||recommend-ui.vidaahub.com^
 ||recommend.lgtvcommon.com^
 ||report.gras.samsungdm.com^
 ||richmond.logs.roku.com^
