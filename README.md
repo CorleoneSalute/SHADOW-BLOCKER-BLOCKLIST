@@ -66,7 +66,7 @@ https://raw.githubusercontent.com/CorleoneSalute/SHADOW-BLOCKER-BLOCKLIST/main/d
 research/            source material behind each category (verification trail)
 lists/categories/    canonical master lists (source of truth)
 scripts/build.py     generates dist/ from lists/categories/
-dist/                generated output — do not edit directly
+dist/                generated output
 reports/             potential new-domain and duplicate reports — see "Keeping this up to date"
 
 ```
