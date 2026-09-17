@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9638
+# Total domains: 9642
 # Generated: 2026-09-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -16,6 +16,7 @@
 0.0.0.0 123.sogou.com
 0.0.0.0 123superproxy.com
 0.0.0.0 15.taboola.com
+0.0.0.0 192a9047-bf6e-0f35-22ef-116bf5b5b669-rum.cdnvideo.ru
 0.0.0.0 1ckpad.adrevenue.appsflyersdk.com
 0.0.0.0 1fhc-event.fhcasino.com
 0.0.0.0 1fhc-event2.fhcasino.com
@@ -33,6 +34,7 @@
 0.0.0.0 51degrees.com
 0.0.0.0 7345023508.fxm9485766783.com
 0.0.0.0 7345023508.fxmconnect.com
+0.0.0.0 8e4c275e-fc8d-fde9-9c58-37dbf0125b6c-rum.cdnvideo.ru
 0.0.0.0 a-ams-new.1rx.io
 0.0.0.0 a-iad3.1rx.io
 0.0.0.0 a-netstats-1.opera.com
@@ -485,6 +487,7 @@
 0.0.0.0 ads.cdn1.atp.vtv.vodafone.com
 0.0.0.0 ads.cdn1.id.vtv.vodafone.com
 0.0.0.0 ads.cdn1.vfgtv-id.vodafone.com
+0.0.0.0 ads.cdnvideo.ru
 0.0.0.0 ads.chartboost.com
 0.0.0.0 ads.chocolateplatform.com
 0.0.0.0 ads.cj.com
@@ -7043,6 +7046,7 @@
 0.0.0.0 rum.battle.net
 0.0.0.0 rum.beusable.net
 0.0.0.0 rum.bunkr.ru
+0.0.0.0 rum.cdnvideo.ru
 0.0.0.0 rum.dzen.ru
 0.0.0.0 rum.netflix.com
 0.0.0.0 rum.optimizely.com

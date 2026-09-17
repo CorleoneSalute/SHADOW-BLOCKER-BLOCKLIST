@@ -1,12 +1,15 @@
 # ============================================================
 # FILE HOSTING BLOCKLIST - AGGRESSIVE
-# Total domains: 50
+# Total domains: 54
 # Generated: 2026-09-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+192a9047-bf6e-0f35-22ef-116bf5b5b669-rum.cdnvideo.ru
+8e4c275e-fc8d-fde9-9c58-37dbf0125b6c-rum.cdnvideo.ru
 ad.picr.de
 ad.streamsilk.com
+ads.cdnvideo.ru
 ads.fappic.com
 ads.imagevenue.com
 advertape.net
@@ -32,6 +35,7 @@ newlytics.fileditch.com
 ox-d.wetransfer.com
 piwik.uloz.to
 rum.bunkr.ru
+rum.cdnvideo.ru
 stat.maxiol.com
 stats.bunkr.ru
 stats.pixeldrain.com
