@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9636
-# Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9638
+# Generated: 2026-09-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -3327,6 +3327,7 @@
 ||datax.yahoo.com^
 ||dataxonline.yahoo.com^
 ||dc-stat-in.heytapmobile.com^
+||dc-telemetry.net^
 ||dc.ads.linkedin-ei.com^
 ||dc.ads.linkedin.com^
 ||dc.di.atlas.samsung.com^
@@ -4517,6 +4518,7 @@
 ||idiagnostics.apple.com^
 ||idiagnostics.apple.com.akadns.net^
 ||idstelemetry.intel.com^
+||idt-bkn63f-mu4tw6ra.loc-tr-tr.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net^
 ||ie-g2.gumgum.com^
 ||ifda.ai^
 ||ifda.net^

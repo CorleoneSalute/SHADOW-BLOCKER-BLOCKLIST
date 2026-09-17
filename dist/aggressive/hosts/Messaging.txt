@@ -1,7 +1,7 @@
 # ============================================================
 # MESSAGING BLOCKLIST - AGGRESSIVE
-# Total domains: 35
-# Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
+# Total domains: 37
+# Generated: 2026-09-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -20,8 +20,10 @@
 0.0.0.0 crs-hometab-event.line.me
 0.0.0.0 data-event-proxy.viber.com
 0.0.0.0 data-events.cdn.viber.com
+0.0.0.0 dc-telemetry.net
 0.0.0.0 graph.whatsapp.com
 0.0.0.0 graph.whatsapp.net
+0.0.0.0 idt-bkn63f-mu4tw6ra.loc-tr-tr.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
 0.0.0.0 lap-click.tr.line.me
 0.0.0.0 logstash-deployment-tracking.linecorp.com
 0.0.0.0 matterlytics.com

@@ -1,7 +1,7 @@
 # ============================================================
 # MESSAGING BLOCKLIST - BASIC
-# Total domains: 31
-# Generated: 2026-09-16 (UTC) - auto-generated, do not edit by hand
+# Total domains: 33
+# Generated: 2026-09-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -20,6 +20,8 @@
 ||crs-hometab-event.line.me^
 ||data-event-proxy.viber.com^
 ||data-events.cdn.viber.com^
+||dc-telemetry.net^
+||idt-bkn63f-mu4tw6ra.loc-tr-tr.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net^
 ||logstash-deployment-tracking.linecorp.com^
 ||matterlytics.com^
 ||mixpanel.cdn.viber.com^
