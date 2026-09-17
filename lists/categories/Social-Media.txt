@@ -130,10 +130,8 @@ adsymptotic.com
 analytics.linkedin.com
 analytics.pointdrive.linkedin-ei.com
 analytics.pointdrive.linkedin.com
-bizographics.com
 cdn.linkedin.oribi.io
 dc.ads.linkedin-ei.com
-dc.ads.linkedin.com
 dpm.demdex.net
 errors.lynda.com
 gw.linkedin.oribi.io
@@ -142,10 +140,7 @@ lnkd.demdex.net
 oribi.io
 p.adsymptotic.com
 px.ads.linkedin-ei.com
-px.ads.linkedin.cn
-px.ads.linkedin.com
 px4.ads.linkedin-ei.com
-px4.ads.linkedin.com
 rum1.perf.linkedin.com
 rum14.linkedin.com
 rum17.linkedin.com
@@ -161,7 +156,6 @@ rum27.perf.linkedin-ei.com
 rum6.perf.linkedin-ei.com
 rum9.linkedin.com
 sjs.bizographics.com
-snap.licdn.com
 tracking.www.linkedin-ei.com
 us-east-1.dmp-api.ads.linkedin.com
 us-east-1.email.ads.linkedin.com
