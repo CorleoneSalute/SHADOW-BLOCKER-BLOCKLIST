@@ -71,7 +71,6 @@ stats.raspberrypi.org
 # Debian / Arch
 api.pkgstats.archlinux.de
 bttracker.debian.org
-pkgstats.archlinux.de
 popcon.debian.org
 security-tracker.debian.org
 tracker.debian.org
