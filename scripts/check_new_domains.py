@@ -79,6 +79,7 @@ TRACKING_KEYWORDS = [
     "segment", "sgmt", "sentry",
     "geo", "geoip", "geoloc", "geolog", "geologger", "geologging", "geologs", "geotrack", "geotracker", "geotracking", "geotrackx",
     "tag", "tagger", "tagging", "tagx",
+    "bet", "betting", "casino", "poker",
 ]   
 
 # Multi-part public suffixes where the "core domain" needs 3 labels
