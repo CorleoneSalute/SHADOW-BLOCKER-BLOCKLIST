@@ -905,7 +905,6 @@ adx-ads.realmemobile.com
 adx-in-ads.realmemobile.com
 b1-ads.realmemobile.com
 bdapi-ads.realmemobile.com
-bdapi-in-ads.realmemobile.com
 bjdata-ads.realmemobile.com
 ck-ads.realmemobile.com
 data-ads.realmemobile.com
