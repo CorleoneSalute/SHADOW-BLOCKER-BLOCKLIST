@@ -1,6 +1,6 @@
 # In-File Duplicate Domain Report
 
-Generated: 2026-09-17 11:08 UTC
+Generated: 2026-09-17 11:09 UTC
 
 Domains that appear more than once within the SAME category
 file - usually a copy-paste mistake in a large file. The build
@@ -12,13 +12,7 @@ identical (same case, same trailing "!" flag). "no" means they
 differ - worth a closer look, since a mismatched "!" flag
 changes which tier the domain ends up in.
 
-20 duplicate domain(s) found across 5 file(s):
-
-## Linux
-
-| Domain | Lines | Exact match |
-|---|---|---|
-| pkgstats.archlinux.de | 74, 112 | yes |
+19 duplicate domain(s) found across 4 file(s):
 
 ## Mobile-OEM-Telecom-Operators
 
