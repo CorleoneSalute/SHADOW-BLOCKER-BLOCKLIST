@@ -1,6 +1,6 @@
 # In-File Duplicate Domain Report
 
-Generated: 2026-09-17 11:10 UTC
+Generated: 2026-09-17 11:17 UTC
 
 Domains that appear more than once within the SAME category
 file - usually a copy-paste mistake in a large file. The build
@@ -12,24 +12,13 @@ identical (same case, same trailing "!" flag). "no" means they
 differ - worth a closer look, since a mismatched "!" flag
 changes which tier the domain ends up in.
 
-18 duplicate domain(s) found across 3 file(s):
+12 duplicate domain(s) found across 2 file(s):
 
 ## Smart-TV
 
 | Domain | Lines | Exact match |
 |---|---|---|
 | ads.aimitv.com | 76, 593 | no - differs |
-
-## Social-Media
-
-| Domain | Lines | Exact match |
-|---|---|---|
-| dc.ads.linkedin.com | 57, 136 | yes |
-| px.ads.linkedin.cn | 62, 145 | yes |
-| px.ads.linkedin.com | 63, 146 | yes |
-| px4.ads.linkedin.com | 65, 148 | yes |
-| bizographics.com | 86, 133 | yes |
-| snap.licdn.com | 120, 164 | yes |
 
 ## Video-Streaming
 
