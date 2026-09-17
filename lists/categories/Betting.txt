@@ -81,6 +81,14 @@ fp.web.tulotero.mx
 
 # CBS Sports
 track.cbssports.com
+track.football.cbssports.com
+track-transactional.picks.cbssports.com
+track.baseball.cbssports.com
+track.basketball.cbssports.com
+track.collegefb.cbssports.com
+track.fantasy.cbssports.com
+track.hockey.cbssports.com
+track.mayhem.cbssports.com
 
 # Coinbase
 app.analytics.coinbase.com
