@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9210
+# Total domains: 9211
 # Generated: 2026-09-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4007,6 +4007,7 @@
 0.0.0.0 getads.ru
 0.0.0.0 getingeprod.planning-analytics.ibmcloud.com
 0.0.0.0 getmiles.com
+0.0.0.0 getmyads24.com
 0.0.0.0 getmydrivers.com
 0.0.0.0 getpixelme.com
 0.0.0.0 getpublica.com

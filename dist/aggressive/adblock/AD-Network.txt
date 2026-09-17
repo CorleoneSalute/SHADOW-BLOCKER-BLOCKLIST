@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1862
+# Total domains: 1863
 # Generated: 2026-09-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -808,6 +808,7 @@
 ||genieessp.jp^
 ||getadlib.com^
 ||getads.ru^
+||getmyads24.com^
 ||getpublica.com^
 ||global.adform.net^
 ||global.criteo.com^
