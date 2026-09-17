@@ -61,3 +61,5 @@ analytics.rocket.chat
 
 # Discord
 o64374.ingest.sentry.io
+dc-telemetry.net
+idt-bkn63f-mu4tw6ra.loc-tr-tr.chk-webapp.res-ok.dur-0.v1.dc-telemetry.net
