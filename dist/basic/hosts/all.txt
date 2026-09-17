@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9211
+# Total domains: 9219
 # Generated: 2026-09-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8093,6 +8093,7 @@
 0.0.0.0 track-eu.adformnet.akadns.net
 0.0.0.0 track-integration.gojek.com
 0.0.0.0 track-marketing.coins.ph
+0.0.0.0 track-transactional.picks.cbssports.com
 0.0.0.0 track.3lift.com
 0.0.0.0 track.ad.plus
 0.0.0.0 track.ad.xiaomi.com
@@ -8116,6 +8117,8 @@
 0.0.0.0 track.anzu.io
 0.0.0.0 track.appsflyer.com
 0.0.0.0 track.bagelcode.com
+0.0.0.0 track.baseball.cbssports.com
+0.0.0.0 track.basketball.cbssports.com
 0.0.0.0 track.betsson.bet.ar
 0.0.0.0 track.bidstack.com
 0.0.0.0 track.box.com
@@ -8131,6 +8134,7 @@
 0.0.0.0 track.cj.com
 0.0.0.0 track.clickbooth.com
 0.0.0.0 track.coder.com
+0.0.0.0 track.collegefb.cbssports.com
 0.0.0.0 track.commissionfactory.com
 0.0.0.0 track.consensus.app
 0.0.0.0 track.content.ad
@@ -8144,11 +8148,13 @@
 0.0.0.0 track.dianomi.com
 0.0.0.0 track.ebsco.com
 0.0.0.0 track.factor75.com
+0.0.0.0 track.fantasy.cbssports.com
 0.0.0.0 track.fertilityfriend.com
 0.0.0.0 track.fileq.net
 0.0.0.0 track.flexlinks.com
 0.0.0.0 track.flexlinkspro.com
 0.0.0.0 track.flo.health
+0.0.0.0 track.football.cbssports.com
 0.0.0.0 track.foxlyme.com
 0.0.0.0 track.frameplay.gg
 0.0.0.0 track.g.trafficguard.ai
@@ -8163,6 +8169,7 @@
 0.0.0.0 track.heatmap.com
 0.0.0.0 track.helloclue.com
 0.0.0.0 track.hellofresh.com
+0.0.0.0 track.hockey.cbssports.com
 0.0.0.0 track.infomaniak.com
 0.0.0.0 track.joturl.com
 0.0.0.0 track.kajabi.com
@@ -8177,6 +8184,7 @@
 0.0.0.0 track.mail.muslimpro.com
 0.0.0.0 track.marketgid.com
 0.0.0.0 track.maya.live
+0.0.0.0 track.mayhem.cbssports.com
 0.0.0.0 track.me.eu.panasonic.com
 0.0.0.0 track.mgid.com
 0.0.0.0 track.myflotracker.com

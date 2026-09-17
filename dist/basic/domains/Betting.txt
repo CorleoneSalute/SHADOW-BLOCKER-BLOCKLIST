@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 248
+# Total domains: 256
 # Generated: 2026-09-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -204,14 +204,22 @@ stats.zynga.com
 ststfstats.megawinslots.com
 tl-log.thelotter.us
 tmp-pixel.888.com
+track-transactional.picks.cbssports.com
 track.afun.bet.br
 track.bagelcode.com
+track.baseball.cbssports.com
+track.basketball.cbssports.com
 track.betsson.bet.ar
 track.casino.org
 track.cazino.com
 track.cbssports.com
 track.chalkboard.io
+track.collegefb.cbssports.com
+track.fantasy.cbssports.com
+track.football.cbssports.com
+track.hockey.cbssports.com
 track.lottery.com
+track.mayhem.cbssports.com
 track.plotx.io
 track.poker.zynga.com
 tracker.williamhill.com

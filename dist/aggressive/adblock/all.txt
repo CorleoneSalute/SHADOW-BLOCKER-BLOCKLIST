@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9643
+# Total domains: 9651
 # Generated: 2026-09-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8478,6 +8478,7 @@
 ||track-eu.adformnet.akadns.net^
 ||track-integration.gojek.com^
 ||track-marketing.coins.ph^
+||track-transactional.picks.cbssports.com^
 ||track.3lift.com^
 ||track.ad.plus^
 ||track.ad.xiaomi.com^
@@ -8501,6 +8502,8 @@
 ||track.anzu.io^
 ||track.appsflyer.com^
 ||track.bagelcode.com^
+||track.baseball.cbssports.com^
+||track.basketball.cbssports.com^
 ||track.betsson.bet.ar^
 ||track.bidstack.com^
 ||track.box.com^
@@ -8516,6 +8519,7 @@
 ||track.cj.com^
 ||track.clickbooth.com^
 ||track.coder.com^
+||track.collegefb.cbssports.com^
 ||track.commissionfactory.com^
 ||track.consensus.app^
 ||track.content.ad^
@@ -8529,11 +8533,13 @@
 ||track.dianomi.com^
 ||track.ebsco.com^
 ||track.factor75.com^
+||track.fantasy.cbssports.com^
 ||track.fertilityfriend.com^
 ||track.fileq.net^
 ||track.flexlinks.com^
 ||track.flexlinkspro.com^
 ||track.flo.health^
+||track.football.cbssports.com^
 ||track.foxlyme.com^
 ||track.frameplay.gg^
 ||track.g.trafficguard.ai^
@@ -8548,6 +8554,7 @@
 ||track.heatmap.com^
 ||track.helloclue.com^
 ||track.hellofresh.com^
+||track.hockey.cbssports.com^
 ||track.infomaniak.com^
 ||track.joturl.com^
 ||track.kajabi.com^
@@ -8562,6 +8569,7 @@
 ||track.mail.muslimpro.com^
 ||track.marketgid.com^
 ||track.maya.live^
+||track.mayhem.cbssports.com^
 ||track.me.eu.panasonic.com^
 ||track.mgid.com^
 ||track.myflotracker.com^
