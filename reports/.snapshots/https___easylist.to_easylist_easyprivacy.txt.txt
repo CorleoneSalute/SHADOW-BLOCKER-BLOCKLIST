@@ -5788,6 +5788,7 @@ analytics.onlinehomeretail.co.uk
 analytics.onlyonlinemarketing.com
 analytics.optilead.co.uk
 analytics.orenshmu.com
+analytics.org.coveo.com
 analytics.ostr.io
 analytics.ovh.com
 analytics.oyorooms.com
@@ -6226,6 +6227,7 @@ aplobv.xexymix.com
 aplus.alibaba.com
 aplus.aliexpress.com
 apm-engine.meteor.com
+apm-rum.inf.miui.com
 apm.qwant.com
 apm.tnet.nl
 apollofind.com
@@ -7147,6 +7149,7 @@ apps.uquote.io
 apps.weekendgowhere.sg
 apps.wholefoodsmarket.com
 apps.zingeroo.com
+appsecstudio.com
 appsecurezomation.carte-gr.total.fr
 apptest.gotvive.com
 apptest.gwsportsapp.in
@@ -8407,6 +8410,7 @@ boundlessbrake.com
 boundlessveil.com
 boutique.ricoh.fr
 bowl.actonservice.com
+bowlershut.com
 bownow.jp
 box.bossdata.be
 boxandcover.com
@@ -9514,6 +9518,7 @@ click.gamersky.com
 click.glamsquad.com
 click.instacartemail.com
 click.kataweb.it
+click.lenovo.com
 click.lmbcustomersupport.com
 click.mail.carousell.com
 click.mail.thecarousell.com
@@ -10878,6 +10883,7 @@ cueohf.forumpro.fr
 cueohf.forumsactifs.com
 cueohf.hungarianforum.com
 cufroa.aboutyou.be
+cuisinevoyager.com
 culliganwaterco.actonservice.com
 culturaltracking.ru
 culture.intermedes.com
@@ -12658,6 +12664,7 @@ dmndfrcstng.com
 dmp.citynews.ovh
 dmpcdn.el-mundo.net
 dmpcounter.com
+dmplog.qq.com
 dmpmetrics.rcsmetrics.it
 dmpprof.com
 dmpxs.com
@@ -21814,6 +21821,7 @@ logs.betterstack.com
 logs.chatboost-cv.algoage.co.jp
 logs.datadoghq.com
 logs.dynamicauth.com
+logs.game.qq.com
 logs.hotstar.com
 logs.kaya.delfi.ee
 logs.mezmo.com
@@ -22394,6 +22402,7 @@ managedaccounts.nvenergy.com
 managedaccounts.pacificpower.net
 managedaccounts.rockymountainpower.net
 manamoment.com
+manateemotors.com
 mandant.net.anwalt.de
 mandrillapp.zola.com
 manufacturing.autodeskcommunications.com
@@ -27388,6 +27397,9 @@ omftdc.morijuku.com
 omgcreative.actonservice.com
 omgthink.com
 omguk.com
+omgup.didiglobal.com
+omgup.xiaojukeji.com
+omgup1.xiaojukeji.com
 omiki.com
 omine.org
 omjtca.emlakjet.com
@@ -37216,6 +37228,7 @@ ssy7.destinia.com.ua
 st-a.cdp.asia
 st-a8.tscubic.com
 st-nlyss1.plala.or.jp
+st-sentinel.vivo.com.cn
 st.anastasija.lt
 st.azcardinals.com
 st.bahn.de
@@ -38530,6 +38543,7 @@ stormiq.com
 stormwind.actonservice.com
 stormyflower.com
 storygize.net
+stpc.vivo.com.cn
 str.foodnetwork.ca
 str.globalnews.ca
 str1kee.com
@@ -40467,6 +40481,7 @@ tk.bricoprive.com
 tk.bullebleue.fr
 tk.cadeaux.com
 tk.conforama.fr
+tk.d.mi.com
 tk.dietbon.fr
 tk.domitys.fr
 tk.dossier.co
@@ -42074,6 +42089,7 @@ track.kueez.com
 track.kyoads.com
 track.laredoute.fr
 track.leady.cz
+track.lenovo.com.cn
 track.lesmills.com
 track.list-finder.jp
 track.livasoft.com.tr
@@ -42211,6 +42227,7 @@ tracker.eft.com
 tracker.ethicalcorp.com
 tracker.euroweb.net
 tracker.eyeforpharma.com
+tracker.fengkongcloud.com
 tracker.financialcontent.com
 tracker.gamedock.io
 tracker.gamemonkey.org
