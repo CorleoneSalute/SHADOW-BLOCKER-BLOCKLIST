@@ -167,6 +167,7 @@ apitd.net !
 fp.incognia.com
 metrics-assets.incognia.com
 datadog.biocatch.com
+log-snowtest.us.v2.customers.biocatch.com
 ipqualityscore.com !
 verisoul.ai !
 analytics.ksa.callsign.com
