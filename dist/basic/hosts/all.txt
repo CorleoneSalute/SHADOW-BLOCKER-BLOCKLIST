@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9219
-# Generated: 2026-09-17 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9229
+# Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -281,6 +281,7 @@
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adclarity.com
+0.0.0.0 adclickserving.com
 0.0.0.0 adcolony.com
 0.0.0.0 add-mapping-for-wrong-activity-log-classes.feature.varify.io
 0.0.0.0 addata2.ads.vip.corp.yahoo.com
@@ -334,6 +335,8 @@
 0.0.0.0 admixer.ua
 0.0.0.0 admixplay.com
 0.0.0.0 admktg.yahoo.com
+0.0.0.0 admob-cn.com
+0.0.0.0 admob.biz
 0.0.0.0 admob.com
 0.0.0.0 admob.google.com
 0.0.0.0 admob.googleapis.com
@@ -658,12 +661,14 @@
 0.0.0.0 adservices.roku.com
 0.0.0.0 adserving-tmp.unibet.com
 0.0.0.0 adserving.unibet.com
+0.0.0.0 adsfactor.net
 0.0.0.0 adsfs-sdkconfig.heytapimage.com
 0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adskeeper.net
 0.0.0.0 adsmanager.truecaller.com
+0.0.0.0 adsmarketplace.com
 0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsn.adtelligent.com
 0.0.0.0 adspa-uat.acer.com
@@ -686,6 +691,7 @@
 0.0.0.0 adsync.vodafone.com.eg
 0.0.0.0 adtech.de
 0.0.0.0 adtelligent.com
+0.0.0.0 adthink.com
 0.0.0.0 adtracker.inmobi.com
 0.0.0.0 adtrck.cc
 0.0.0.0 adtrck.com
@@ -732,6 +738,7 @@
 0.0.0.0 advertising.yahooinc.com
 0.0.0.0 advertisingcentral.yahoo.com
 0.0.0.0 advertisinginsights.yahoo.com
+0.0.0.0 advertstream.com
 0.0.0.0 adverweb.cjenm.com
 0.0.0.0 advidi.com
 0.0.0.0 adview-prod-am.waze.com
@@ -6200,6 +6207,7 @@
 0.0.0.0 pixelme.app
 0.0.0.0 pixelme.io
 0.0.0.0 pixelme.me
+0.0.0.0 pixelmedia-asia.com
 0.0.0.0 pixels.reddit.com
 0.0.0.0 pkgstats.archlinux.de
 0.0.0.0 pl-info-lgsmartad-com.aws-prd.net
@@ -7263,6 +7271,8 @@
 0.0.0.0 sms.ads.oppomobile.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 snapads.com
+0.0.0.0 snapmobile.asia
+0.0.0.0 snapmobile.hk
 0.0.0.0 snow-track.playtika.com
 0.0.0.0 snssdk.com
 0.0.0.0 softuna.com

@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1854
-# Generated: 2026-09-17 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1864
+# Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -70,6 +70,7 @@ adblade.com
 adbreaks.yieldlab.net
 adbrix.ai
 adc3-launch.adcolony.com
+adclickserving.com
 adcolony.com
 adeeply.ru
 adelphic.com
@@ -94,6 +95,8 @@ admixer.net
 admixer.tech
 admixer.ua
 admixplay.com
+admob-cn.com
+admob.biz
 admob.com
 admob.google.com
 admob.googleapis.com
@@ -156,9 +159,11 @@ ads54.adtelligent.com
 adserve.dianomi.com
 adserver.unityads.unity3d.com
 adservices.google.com
+adsfactor.net
 adskeeper.co.uk
 adskeeper.com
 adskeeper.net
+adsmarketplace.com
 adsmetadata.startappservice.com
 adsn.adtelligent.com
 adspace.adskeeper.com
@@ -171,6 +176,7 @@ adsterra.com
 adswizz.com
 adtech.de
 adtelligent.com
+adthink.com
 adtracker.inmobi.com
 adtrck.cc
 adtrck.com
@@ -183,6 +189,7 @@ advertise.quantcast.com
 advertiser-api.revcontent.com
 advertising.com
 advertising.yahooinc.com
+advertstream.com
 adx.adform.net
 adx2.adform.net
 adyoulike.com
@@ -1181,6 +1188,7 @@ pixel.springserve.com
 pixel.stackadapt.com
 pixel.taboola.com
 pixel.zergnet.com
+pixelmedia-asia.com
 platform-api.vistarmedia.com
 platform-cdn.sharethrough.com
 platform.admaster.cc
@@ -1421,6 +1429,8 @@ smartadserver.net
 smartclip.net
 smartclip.tv
 smartyads.com
+snapmobile.asia
+snapmobile.hk
 snssdk.com
 soloway.ru
 sonobi.com

@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1854
-# Generated: 2026-09-17 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1864
+# Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -70,6 +70,7 @@
 0.0.0.0 adbreaks.yieldlab.net
 0.0.0.0 adbrix.ai
 0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 adclickserving.com
 0.0.0.0 adcolony.com
 0.0.0.0 adeeply.ru
 0.0.0.0 adelphic.com
@@ -94,6 +95,8 @@
 0.0.0.0 admixer.tech
 0.0.0.0 admixer.ua
 0.0.0.0 admixplay.com
+0.0.0.0 admob-cn.com
+0.0.0.0 admob.biz
 0.0.0.0 admob.com
 0.0.0.0 admob.google.com
 0.0.0.0 admob.googleapis.com
@@ -156,9 +159,11 @@
 0.0.0.0 adserve.dianomi.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adservices.google.com
+0.0.0.0 adsfactor.net
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adskeeper.net
+0.0.0.0 adsmarketplace.com
 0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsn.adtelligent.com
 0.0.0.0 adspace.adskeeper.com
@@ -171,6 +176,7 @@
 0.0.0.0 adswizz.com
 0.0.0.0 adtech.de
 0.0.0.0 adtelligent.com
+0.0.0.0 adthink.com
 0.0.0.0 adtracker.inmobi.com
 0.0.0.0 adtrck.cc
 0.0.0.0 adtrck.com
@@ -183,6 +189,7 @@
 0.0.0.0 advertiser-api.revcontent.com
 0.0.0.0 advertising.com
 0.0.0.0 advertising.yahooinc.com
+0.0.0.0 advertstream.com
 0.0.0.0 adx.adform.net
 0.0.0.0 adx2.adform.net
 0.0.0.0 adyoulike.com
@@ -1181,6 +1188,7 @@
 0.0.0.0 pixel.stackadapt.com
 0.0.0.0 pixel.taboola.com
 0.0.0.0 pixel.zergnet.com
+0.0.0.0 pixelmedia-asia.com
 0.0.0.0 platform-api.vistarmedia.com
 0.0.0.0 platform-cdn.sharethrough.com
 0.0.0.0 platform.admaster.cc
@@ -1421,6 +1429,8 @@
 0.0.0.0 smartclip.net
 0.0.0.0 smartclip.tv
 0.0.0.0 smartyads.com
+0.0.0.0 snapmobile.asia
+0.0.0.0 snapmobile.hk
 0.0.0.0 snssdk.com
 0.0.0.0 soloway.ru
 0.0.0.0 sonobi.com

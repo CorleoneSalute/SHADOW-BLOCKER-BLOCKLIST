@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9651
-# Generated: 2026-09-17 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9661
+# Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -298,6 +298,7 @@
 ||adc3-launch.adcolony.com^
 ||adcel.vrvm.com^
 ||adclarity.com^
+||adclickserving.com^
 ||adcolony.com^
 ||add-mapping-for-wrong-activity-log-classes.feature.varify.io^
 ||addata2.ads.vip.corp.yahoo.com^
@@ -352,6 +353,8 @@
 ||admixer.ua^
 ||admixplay.com^
 ||admktg.yahoo.com^
+||admob-cn.com^
+||admob.biz^
 ||admob.com^
 ||admob.google.com^
 ||admob.googleapis.com^
@@ -687,6 +690,7 @@
 ||adservices.roku.com^
 ||adserving-tmp.unibet.com^
 ||adserving.unibet.com^
+||adsfactor.net^
 ||adsfs-sdkconfig.heytapimage.com^
 ||adsfs.oppomobile.com^
 ||adshrink.it^
@@ -694,6 +698,7 @@
 ||adskeeper.com^
 ||adskeeper.net^
 ||adsmanager.truecaller.com^
+||adsmarketplace.com^
 ||adsmetadata.startappservice.com^
 ||adsn.adtelligent.com^
 ||adspa-uat.acer.com^
@@ -718,6 +723,7 @@
 ||adsync.vodafone.com.eg^
 ||adtech.de^
 ||adtelligent.com^
+||adthink.com^
 ||adtracker.inmobi.com^
 ||adtrck.cc^
 ||adtrck.com^
@@ -764,6 +770,7 @@
 ||advertising.yahooinc.com^
 ||advertisingcentral.yahoo.com^
 ||advertisinginsights.yahoo.com^
+||advertstream.com^
 ||adverweb.cjenm.com^
 ||advidi.com^
 ||adview-prod-am.waze.com^
@@ -6488,6 +6495,7 @@
 ||pixelme.app^
 ||pixelme.io^
 ||pixelme.me^
+||pixelmedia-asia.com^
 ||pixels.reddit.com^
 ||pkgstats.archlinux.de^
 ||pl-info-lgsmartad-com.aws-prd.net^
@@ -7623,6 +7631,8 @@
 ||sms.ads.oppomobile.com^
 ||snap.licdn.com^
 ||snapads.com^
+||snapmobile.asia^
+||snapmobile.hk^
 ||snippets.cdn.mozilla.net^
 ||snow-track.playtika.com^
 ||snssdk.com^
