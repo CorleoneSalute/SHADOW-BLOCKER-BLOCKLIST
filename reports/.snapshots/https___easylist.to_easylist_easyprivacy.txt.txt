@@ -20596,6 +20596,8 @@ leftliquid.com
 legacy.com
 legalhold.ediscovery.com
 legenhit.com
+lego-tech.zhuanzhuan.com
+lego.zhuanzhuan.com
 legolas-media.com
 legolas.monotote.com
 leiki.com
@@ -36479,6 +36481,7 @@ spea.eko.com
 spearad.video
 spec-sensors.actonservice.com
 specialevent.informaengage.com
+specialreview.net
 specialscissors.com
 specialstat.com
 specialtypin.com
@@ -46709,6 +46712,7 @@ xmyvhu.soxo.pl
 xn--e1aaipcdgnfsn.su
 xnukcp.cpcompany.com
 xp.allianz.de
+xp.atlassian.com
 xp2023-pix.s3.amazonaws.com
 xpcpmr.gsm55.com
 xplosion.de
