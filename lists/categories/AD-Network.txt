@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 1863
-# Total platforms: 166
+# Total platforms: 169
 # Last update: 2026/09/17
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -1048,6 +1048,8 @@ media.admob.com
 admob.google.com
 admob.googleapis.com
 googleadmob.com
+admob-cn.com
+admob.biz
 
 # --- VDX.TV (Exponential) ---
 vdx.tv
@@ -2236,3 +2238,20 @@ tradingworks.com
 # getmyads24 # adware
 
 getmyads24.com
+
+# ADTHINK
+
+adthink.com
+advertstream.com
+adsmarketplace.com
+
+# adclickserving
+
+adclickserving.com
+
+# PIXELS
+
+adsfactor.net
+snapmobile.hk
+snapmobile.asia
+pixelmedia-asia.com
