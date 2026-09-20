@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - AGGRESSIVE
-# Total domains: 545
+# Total domains: 546
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -21,6 +21,7 @@
 0.0.0.0 acr-us-prd.samsungcloud.tv
 0.0.0.0 acr.roku.com
 0.0.0.0 acr0.samsungcloudsolution.com
+0.0.0.0 ad-api.coolita.com
 0.0.0.0 ad-server.samsungads.com
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 ad.lgsmartad.com

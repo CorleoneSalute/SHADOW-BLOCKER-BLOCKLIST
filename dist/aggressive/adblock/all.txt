@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9662
+# Total domains: 9663
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -162,6 +162,7 @@
 ||ad-analytics.peacocktv.com^
 ||ad-analytics.pluto.tv^
 ||ad-analytics.tubitv.com^
+||ad-api.coolita.com^
 ||ad-api.giphy.com^
 ||ad-beacon.hulu.com^
 ||ad-beacon.peacocktv.com^
