@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9661
+# Total domains: 9662
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8910,6 +8910,7 @@
 0.0.0.0 trk.e.nothing.tech
 0.0.0.0 trk.ecomm.lenovo.com
 0.0.0.0 trk.eib.presonus.com
+0.0.0.0 trk.firstbet.co.za
 0.0.0.0 trk.gojek.com
 0.0.0.0 trk.gonoise.com
 0.0.0.0 trk.helios.ligatus.com

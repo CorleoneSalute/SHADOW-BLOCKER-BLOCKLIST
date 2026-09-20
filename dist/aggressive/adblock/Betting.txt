@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 264
+# Total domains: 265
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -249,6 +249,7 @@
 ||trackju.realprize.com^
 ||trk.betfair.com^
 ||trk.cassino.bet.br^
+||trk.firstbet.co.za^
 ||trk.jackpota.com^
 ||trk.pinnacle.com^
 ||trk.vera.bet.br^

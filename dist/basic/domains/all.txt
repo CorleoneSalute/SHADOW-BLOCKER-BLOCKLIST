@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9229
+# Total domains: 9230
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8521,6 +8521,7 @@ trk.dowjones.com
 trk.e.nothing.tech
 trk.ecomm.lenovo.com
 trk.eib.presonus.com
+trk.firstbet.co.za
 trk.gojek.com
 trk.gonoise.com
 trk.helios.ligatus.com
