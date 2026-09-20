@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9663
+# Total domains: 9664
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4989,6 +4989,7 @@
 0.0.0.0 log-ru.tiktokv.com
 0.0.0.0 log-sdk.gifshow.com
 0.0.0.0 log-smart.lenovo.com
+0.0.0.0 log-snowtest.us.v2.customers.biocatch.com
 0.0.0.0 log-snssdk.tiktokv-us.com
 0.0.0.0 log-tiktok.byteoversea.net
 0.0.0.0 log-upload-os.hoyoverse.com

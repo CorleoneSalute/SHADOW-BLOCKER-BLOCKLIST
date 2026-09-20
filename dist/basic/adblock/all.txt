@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9230
+# Total domains: 9231
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4743,6 +4743,7 @@
 ||log-ru.tiktokv.com^
 ||log-sdk.gifshow.com^
 ||log-smart.lenovo.com^
+||log-snowtest.us.v2.customers.biocatch.com^
 ||log-snssdk.tiktokv-us.com^
 ||log-tiktok.byteoversea.net^
 ||log-upload-os.hoyoverse.com^

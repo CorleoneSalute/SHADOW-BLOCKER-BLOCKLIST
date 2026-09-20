@@ -1,6 +1,6 @@
 # ============================================================
 # SECURITY BOT DETECTION BLOCKLIST - AGGRESSIVE
-# Total domains: 110
+# Total domains: 111
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -64,6 +64,7 @@
 0.0.0.0 inst.deviceatlas.net
 0.0.0.0 ipqualityscore.com
 0.0.0.0 issuetracker.bitninja.io
+0.0.0.0 log-snowtest.us.v2.customers.biocatch.com
 0.0.0.0 lunio.ai
 0.0.0.0 metrics-assets.incognia.com
 0.0.0.0 metrics-grafana.euw.forter.com

@@ -1,6 +1,6 @@
 # ============================================================
 # SECURITY BOT DETECTION BLOCKLIST - BASIC
-# Total domains: 85
+# Total domains: 86
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -51,6 +51,7 @@
 ||inad.trafficguard.ai^
 ||inst.deviceatlas.net^
 ||issuetracker.bitninja.io^
+||log-snowtest.us.v2.customers.biocatch.com^
 ||lunio.ai^
 ||metrics-assets.incognia.com^
 ||metrics-grafana.euw.forter.com^
