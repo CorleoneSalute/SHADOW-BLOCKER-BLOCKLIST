@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9231
+# Total domains: 9232
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5224,6 +5224,7 @@
 0.0.0.0 metrics-k.wbx2.com
 0.0.0.0 metrics-mtls.icloud.com
 0.0.0.0 metrics-old.drift.trade
+0.0.0.0 metrics-pcc-drcn.dt.hihonorcloud.com.host
 0.0.0.0 metrics-preview.vive.com
 0.0.0.0 metrics-prom.perlego.com
 0.0.0.0 metrics-r.wbx2.com

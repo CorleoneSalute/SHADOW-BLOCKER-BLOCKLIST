@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1059
+# Total domains: 1060
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -607,6 +607,7 @@
 0.0.0.0 metrics-dre.dt.hihonorcloud.com
 0.0.0.0 metrics-drru.data.dbankcloud.cn
 0.0.0.0 metrics-drru.dt.hihonorcloud.com
+0.0.0.0 metrics-pcc-drcn.dt.hihonorcloud.com.host
 0.0.0.0 metrics-svc-ext.msg.t-mobile.com
 0.0.0.0 metrics-svc-ext.t-mobile.com
 0.0.0.0 metrics-test-drcn.dt.hihonorcloud.com
