@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 723
+# Total domains: 724
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -518,6 +518,7 @@
 ||rtlog16-normal-useast1a.tiktokv.com^
 ||rtlog16-normal-useast2a.tiktokv.com^
 ||rtlog16-normal-useast5.tiktokv.us^
+||rtlog16-normal-useast5.tiktokv.us.edgesuite.net^
 ||rtlog16-normal-useast8.tiktokv.us^
 ||rtlog16-normal-useast8.us.tiktokv.com^
 ||rtlog16-normal-useastred.tiktokv.eu^
