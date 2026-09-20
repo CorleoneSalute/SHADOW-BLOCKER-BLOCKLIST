@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 264
-# Total platforms: 92
+# Total platforms: 93
 # Last update: 2026/09/17
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -454,3 +454,7 @@ ssp.betou.bet.br
 # Riobet
 
 metrics.riobet.com
+
+# Banzostar
+
+trk.firstbet.co.za
