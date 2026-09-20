@@ -630,6 +630,7 @@ logservice1.dbankcloud.com
 logservice1.hicloud.com
 metrics-ad-drcn.dt.hihonorcloud.com
 metrics-ad-drcn.dt.hihonorcloud.com.host
+metrics-pcc-drcn.dt.hihonorcloud.com.host
 metrics-appdistribute-drcn.dt.hihonorcloud.com.host
 metrics-appdistribute-drcn.dt.hihonorcloud.com
 metrics-basecloud-drcn.dt.hihonorcloud.com
