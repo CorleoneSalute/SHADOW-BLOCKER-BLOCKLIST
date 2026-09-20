@@ -625,6 +625,7 @@ logservice-drru.dt.hicloud.com
 logservice-drru.dt.hihonorcloud.com
 logservice.dt.hihonorcloud.com
 logservice.hicloud.com
+metrics.vmall.com
 logservice.vmall.com
 logservice1.dbankcloud.com
 logservice1.hicloud.com
