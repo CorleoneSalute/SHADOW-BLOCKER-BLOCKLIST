@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9665
+# Total domains: 9666
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5700,6 +5700,7 @@
 0.0.0.0 metrics.videoland.com
 0.0.0.0 metrics.vidmoly.to
 0.0.0.0 metrics.vive.com
+0.0.0.0 metrics.vmall.com
 0.0.0.0 metrics.vodafone.com.eg
 0.0.0.0 metrics.voot.com
 0.0.0.0 metrics.vudu.com

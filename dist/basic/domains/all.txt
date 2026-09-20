@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9232
+# Total domains: 9233
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5451,6 +5451,7 @@ metrics.viaplay.com
 metrics.videoland.com
 metrics.vidmoly.to
 metrics.vive.com
+metrics.vmall.com
 metrics.vodafone.com.eg
 metrics.voot.com
 metrics.vudu.com

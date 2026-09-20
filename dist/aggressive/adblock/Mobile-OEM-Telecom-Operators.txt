@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1110
+# Total domains: 1111
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -661,6 +661,7 @@
 ||metrics.oppomobile.com^
 ||metrics.realme.com^
 ||metrics.sonymobile.com^
+||metrics.vmall.com^
 ||metrics.vodafone.com.eg^
 ||metrics1-data-hicloud-com.ge.dbankedge.cn^
 ||metrics1-data-hicloud-com.gere.dbankedge.cn^
