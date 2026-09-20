@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9667
+# Total domains: 9668
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8388,6 +8388,7 @@
 ||tiqcdn.com^
 ||titan-ads.tv^
 ||tk.amazon-adsystem.com^
+||tk.d.mi.com^
 ||tk.mntn.com^
 ||tknet.rayjump.com^
 ||tkqlhce.com^

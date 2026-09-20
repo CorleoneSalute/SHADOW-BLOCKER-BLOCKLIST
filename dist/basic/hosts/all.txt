@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9234
+# Total domains: 9235
 # Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8004,6 +8004,7 @@
 0.0.0.0 tips.shouji.sogou.com
 0.0.0.0 titan-ads.tv
 0.0.0.0 tk.amazon-adsystem.com
+0.0.0.0 tk.d.mi.com
 0.0.0.0 tk.mntn.com
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tkqlhce.com
