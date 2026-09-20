@@ -481,6 +481,7 @@ platform.cid.samba.tv
 gz-data.com
 gozendata.com
 analysis.coolita.com
+ad-api.coolita.com !
 post.analysis.coolita.com
 s.analysis.coolita.com
 
