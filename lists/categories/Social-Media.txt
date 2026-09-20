@@ -542,6 +542,7 @@ rtc-logger.tiktokv.us
 rtlog16-normal-useast5.tiktokv.us
 rtlog16-normal-useast8.tiktokv.us
 ad-format.tiktokv.us
+rtlog16-normal-useast5.tiktokv.us.edgesuite.net
 ```
 
 **Location Track** (14 domain)
