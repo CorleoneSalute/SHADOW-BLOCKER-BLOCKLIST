@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING PERIPHERALS BLOCKLIST - AGGRESSIVE
-# Total domains: 20
+# Total domains: 21
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -24,4 +24,5 @@
 0.0.0.0 telemetry.razer.com
 0.0.0.0 telemetry.roccat.com
 0.0.0.0 telemetry.steelseries.com
+0.0.0.0 tracking-retail.corsair.com
 0.0.0.0 tracking.razer.com

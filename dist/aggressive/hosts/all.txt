@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9679
+# Total domains: 9680
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8692,6 +8692,7 @@
 0.0.0.0 tracking-adnet.vivo.com.cn
 0.0.0.0 tracking-ams5.cj.com
 0.0.0.0 tracking-api.italki.com
+0.0.0.0 tracking-retail.corsair.com
 0.0.0.0 tracking.ableton.com
 0.0.0.0 tracking.acast.com
 0.0.0.0 tracking.acer.com
