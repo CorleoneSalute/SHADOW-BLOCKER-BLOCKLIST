@@ -161,6 +161,7 @@ ichnaea-web.dradis.netflix.com
 ichnaea.dradis.netflix.com
 customerevents.netflix.com
 analytics.netflix.com
+advertising.netflix.com
 metrics.netflix.com
 recommendations-telemetry.netflix.com
 api-logging.netflix.com
