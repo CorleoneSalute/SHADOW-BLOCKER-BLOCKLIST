@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9672
+# Total domains: 9673
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -761,6 +761,7 @@
 ||advertising.apple.com^
 ||advertising.att.com^
 ||advertising.com^
+||advertising.netflix.com^
 ||advertising.oath.com^
 ||advertising.roku.com^
 ||advertising.tivo.com^

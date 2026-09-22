@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9239
+# Total domains: 9240
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -728,6 +728,7 @@
 0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.att.com
 0.0.0.0 advertising.com
+0.0.0.0 advertising.netflix.com
 0.0.0.0 advertising.oath.com
 0.0.0.0 advertising.roku.com
 0.0.0.0 advertising.tivo.com

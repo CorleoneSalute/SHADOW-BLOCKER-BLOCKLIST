@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 406
+# Total domains: 407
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -48,6 +48,7 @@ ads.voot.com
 ads.zee5.com
 adserver.connatix.com
 adserver.jwplayer.com
+advertising.netflix.com
 alerts.conviva.com
 alerts.youbora.com
 amagi.tv
