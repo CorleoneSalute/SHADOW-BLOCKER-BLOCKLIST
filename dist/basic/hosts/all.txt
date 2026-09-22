@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9245
+# Total domains: 9246
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8272,6 +8272,7 @@
 0.0.0.0 tracker-preview.ai.xiaomi.com
 0.0.0.0 tracker-server.high-cdn.com
 0.0.0.0 tracker.adikteev.com
+0.0.0.0 tracker.adobe.com
 0.0.0.0 tracker.ai.xiaomi.com
 0.0.0.0 tracker.api.gnome.org
 0.0.0.0 tracker.apple.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9678
+# Total domains: 9679
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8658,6 +8658,7 @@ tracker-novembers-347342.appspot.com
 tracker-preview.ai.xiaomi.com
 tracker-server.high-cdn.com
 tracker.adikteev.com
+tracker.adobe.com
 tracker.ai.xiaomi.com
 tracker.api.gnome.org
 tracker.apple.com

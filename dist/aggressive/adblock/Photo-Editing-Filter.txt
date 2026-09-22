@@ -1,6 +1,6 @@
 # ============================================================
 # PHOTO EDITING FILTER BLOCKLIST - AGGRESSIVE
-# Total domains: 82
+# Total domains: 83
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -79,6 +79,7 @@
 ||t.picsart.com^
 ||telemetry.adobe.io^
 ||telemetry.reface.ai^
+||tracker.adobe.com^
 ||tracking.meitu.com^
 ||tracking.perfectcorp.com^
 ||tracking.picsart.com^
