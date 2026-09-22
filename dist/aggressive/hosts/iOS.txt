@@ -1,6 +1,6 @@
 # ============================================================
 # IOS BLOCKLIST - AGGRESSIVE
-# Total domains: 298
+# Total domains: 299
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -22,6 +22,7 @@
 0.0.0.0 adsdktest.apple.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 advp.apple.com
+0.0.0.0 aios-otel-collector.g.apple.com
 0.0.0.0 analytics-api.apple.com
 0.0.0.0 analytics-nk.itunes.apple.com
 0.0.0.0 analytics-st.itunes.apple.com

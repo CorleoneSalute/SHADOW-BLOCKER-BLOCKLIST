@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9673
+# Total domains: 9674
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -861,6 +861,7 @@
 0.0.0.0 aic.recommend.lgtvcommon.com
 0.0.0.0 aicube.revx.io
 0.0.0.0 aiinput.shouji.sogou.com
+0.0.0.0 aios-otel-collector.g.apple.com
 0.0.0.0 airbrake.io
 0.0.0.0 aiseesoft.com
 0.0.0.0 ak-ad-prod-2.cc.d.xiaomi.net

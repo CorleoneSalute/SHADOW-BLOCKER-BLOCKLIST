@@ -1,6 +1,6 @@
 # ============================================================
 # IOS BLOCKLIST - BASIC
-# Total domains: 232
+# Total domains: 233
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -19,6 +19,7 @@
 ||adscms.msc.sbz.apple.com^
 ||adsdktest.apple.com^
 ||advertising.apple.com^
+||aios-otel-collector.g.apple.com^
 ||analytics-api.apple.com^
 ||analytics-nk.itunes.apple.com^
 ||analytics-st.itunes.apple.com^

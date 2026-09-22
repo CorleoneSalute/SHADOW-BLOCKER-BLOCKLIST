@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9240
+# Total domains: 9241
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -823,6 +823,7 @@
 0.0.0.0 aic.nudge.lgtvcommon.com
 0.0.0.0 aicube.revx.io
 0.0.0.0 aiinput.shouji.sogou.com
+0.0.0.0 aios-otel-collector.g.apple.com
 0.0.0.0 airbrake.io
 0.0.0.0 aiseesoft.com
 0.0.0.0 ak-ad-prod-2.cc.d.xiaomi.net
