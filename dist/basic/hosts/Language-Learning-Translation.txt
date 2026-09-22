@@ -1,6 +1,6 @@
 # ============================================================
 # LANGUAGE LEARNING TRANSLATION BLOCKLIST - BASIC
-# Total domains: 53
+# Total domains: 54
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -57,4 +57,5 @@
 0.0.0.0 sre-logs.rosettastone.com
 0.0.0.0 telemetry.deepl.com
 0.0.0.0 tracking-api.italki.com
+0.0.0.0 tracking.preply.com
 0.0.0.0 tracking.rosettastone.com

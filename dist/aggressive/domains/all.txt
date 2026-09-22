@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9680
+# Total domains: 9681
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8811,6 +8811,7 @@ tracking.playit.pk
 tracking.podcorn.com
 tracking.podigee.com
 tracking.podscribe.com
+tracking.preply.com
 tracking.privateinternetaccess.com
 tracking.prizerebel.com
 tracking.punt.com
