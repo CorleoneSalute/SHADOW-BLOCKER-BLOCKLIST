@@ -75,6 +75,7 @@ analytics.lingoda.com
 
 # PREPLY
 analytics.preply.com
+tracking.preply.com
 
 # VERBLING
 analytics.verbling.com
