@@ -1,6 +1,6 @@
 # ============================================================
 # PHOTO EDITING FILTER BLOCKLIST - AGGRESSIVE
-# Total domains: 81
+# Total domains: 82
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -36,6 +36,7 @@
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 bam.nr-data.net
 0.0.0.0 cc-api-data.adobe.io
+0.0.0.0 cc-metrics.adobe.io
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 cm.everesttech.net
 0.0.0.0 crs.cr.adobe.com

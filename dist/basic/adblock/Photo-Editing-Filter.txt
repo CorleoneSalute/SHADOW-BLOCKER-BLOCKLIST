@@ -1,6 +1,6 @@
 # ============================================================
 # PHOTO EDITING FILTER BLOCKLIST - BASIC
-# Total domains: 69
+# Total domains: 70
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -34,6 +34,7 @@
 ||analytics.vsco.co^
 ||assets.adobedtm.com^
 ||bam.nr-data.net^
+||cc-metrics.adobe.io^
 ||cdn.tt.omtrdc.net^
 ||cm.everesttech.net^
 ||crs.cr.adobe.com^

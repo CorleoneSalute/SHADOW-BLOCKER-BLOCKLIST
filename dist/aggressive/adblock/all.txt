@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9675
+# Total domains: 9676
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2568,6 +2568,7 @@
 ||cbx.rtb.linkedin.com^
 ||cc-api-data.adobe.io^
 ||cc-api.hisavana.com^
+||cc-metrics.adobe.io^
 ||cc.ad.intl.xiaomi.com^
 ||cc.adingo.jp^
 ||cc.di.runestone.samsung.com^
