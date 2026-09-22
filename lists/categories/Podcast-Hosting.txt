@@ -42,6 +42,7 @@ telemetry.art19.com
 
 # SUBSPLASH
 analytics.subsplash.com
+pi.subsplash.com
 
 # XIMALAYA
 xdcs-collector.ximalaya.com
