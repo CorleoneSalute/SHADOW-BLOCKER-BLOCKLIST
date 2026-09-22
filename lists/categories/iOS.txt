@@ -92,6 +92,7 @@ newskit-events.apple.com
 pixelmator-events.infoapps.apple.com
 rtneu-events.cg.btp.apple.com
 shazam-events.cdn-apple.com
+analytics.itunes.apple.com
 
 # --- DEVICE DIAGNOSTICS & SUBMISSIONS ---
 diagnostics.apple.com !
