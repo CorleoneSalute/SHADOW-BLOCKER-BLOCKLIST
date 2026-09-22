@@ -116,6 +116,7 @@ data.adobedc.net
 telemetry.adobe.io
 rdc.adobe.io
 udp.adobe.io
+cc-metrics.adobe.io
 crs.cr.adobe.com
 
 # ── Third Party Performance Monitoring ───────────────────────────────────────
