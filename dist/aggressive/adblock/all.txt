@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9674
+# Total domains: 9675
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1272,6 +1272,7 @@
 ||analytics.iqiyi.com^
 ||analytics.ironsrc.com^
 ||analytics.italki.com^
+||analytics.itunes.apple.com^
 ||analytics.izotope.com^
 ||analytics.jackd.com^
 ||analytics.jitsi.net^

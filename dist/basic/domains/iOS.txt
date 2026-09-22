@@ -1,6 +1,6 @@
 # ============================================================
 # IOS BLOCKLIST - BASIC
-# Total domains: 233
+# Total domains: 234
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -25,6 +25,7 @@ analytics-nk.itunes.apple.com
 analytics-st.itunes.apple.com
 analytics.apple.com
 analytics.icloud.com
+analytics.itunes.apple.com
 andata.ist.apple.com
 api-adservices.apple.com
 api-searchads.apple.com

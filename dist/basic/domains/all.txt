@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9241
+# Total domains: 9242
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1232,6 +1232,7 @@ analytics.ipvanish.com
 analytics.iqiyi.com
 analytics.ironsrc.com
 analytics.italki.com
+analytics.itunes.apple.com
 analytics.izotope.com
 analytics.jackd.com
 analytics.jitsi.net
