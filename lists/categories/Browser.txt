@@ -32,6 +32,7 @@ advertisingcentral.yahoo.com
 analytics.help.yahoo.com
 analytics.query.yahoo.com
 analytics.yahoo.com
+pa.yahoo.com
 api.ads.yahoo.com
 api.advertisinginsights.yahoo.com
 advertisinginsights.yahoo.com
