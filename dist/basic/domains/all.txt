@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9236
+# Total domains: 9239
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -724,6 +724,7 @@ advertisertape.com
 advertising-v3.roku.com
 advertising-v3.us-east-1.msc.roku.com
 advertising.accuweather.com
+advertising.adobe.com
 advertising.apple.com
 advertising.att.com
 advertising.com
@@ -905,6 +906,7 @@ analytics-api.vervemobile.com
 analytics-assets.gemini.com
 analytics-attribution-va.tiktok.com
 analytics-attribution.tiktok.com
+analytics-augs.adobe.com
 analytics-bridge.pokerist.com
 analytics-bridge01.pokerist.com
 analytics-cdn.obefitness.com
@@ -967,6 +969,7 @@ analytics.ad.daum.net
 analytics.add.app
 analytics.adinmo.com
 analytics.admix.in
+analytics.adobe.com
 analytics.aerial.is
 analytics.aiva.ai
 analytics.allrecipes.com

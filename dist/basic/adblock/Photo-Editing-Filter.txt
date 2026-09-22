@@ -1,6 +1,6 @@
 # ============================================================
 # PHOTO EDITING FILTER BLOCKLIST - BASIC
-# Total domains: 66
+# Total domains: 69
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -16,7 +16,10 @@
 ||adobestats.io^
 ||adobetag.com^
 ||ads.meitu.com^
+||advertising.adobe.com^
+||analytics-augs.adobe.com^
 ||analytics-labs.adobe.com^
+||analytics.adobe.com^
 ||analytics.beautyplus.com^
 ||analytics.discovery.adobe.net^
 ||analytics.faceapp.io^

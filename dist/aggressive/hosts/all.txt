@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9669
+# Total domains: 9672
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -757,6 +757,7 @@
 0.0.0.0 advertising-v3.roku.com
 0.0.0.0 advertising-v3.us-east-1.msc.roku.com
 0.0.0.0 advertising.accuweather.com
+0.0.0.0 advertising.adobe.com
 0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.att.com
 0.0.0.0 advertising.com
@@ -945,6 +946,7 @@
 0.0.0.0 analytics-assets.gemini.com
 0.0.0.0 analytics-attribution-va.tiktok.com
 0.0.0.0 analytics-attribution.tiktok.com
+0.0.0.0 analytics-augs.adobe.com
 0.0.0.0 analytics-bridge.pokerist.com
 0.0.0.0 analytics-bridge01.pokerist.com
 0.0.0.0 analytics-cdn.obefitness.com
@@ -1007,6 +1009,7 @@
 0.0.0.0 analytics.add.app
 0.0.0.0 analytics.adinmo.com
 0.0.0.0 analytics.admix.in
+0.0.0.0 analytics.adobe.com
 0.0.0.0 analytics.aerial.is
 0.0.0.0 analytics.aiva.ai
 0.0.0.0 analytics.allrecipes.com
