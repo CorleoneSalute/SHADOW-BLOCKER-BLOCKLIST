@@ -118,6 +118,7 @@ rdc.adobe.io
 udp.adobe.io
 cc-metrics.adobe.io
 crs.cr.adobe.com
+tracker.adobe.com
 
 # ── Third Party Performance Monitoring ───────────────────────────────────────
 o1383653.ingest.sentry.io
