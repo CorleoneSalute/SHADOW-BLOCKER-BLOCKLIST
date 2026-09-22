@@ -22,6 +22,7 @@ analytics.corsair.com
 telemetry.corsair.com
 stats.corsair.com
 crash.corsair.com
+tracking-retail.corsair.com
 
 # STEELSERIES
 analytics.steelseries.com
