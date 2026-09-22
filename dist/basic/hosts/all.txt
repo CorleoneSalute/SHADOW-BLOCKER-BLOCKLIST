@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9243
+# Total domains: 9244
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6046,6 +6046,7 @@
 0.0.0.0 p3a.bravesoftware.com
 0.0.0.0 p6-flow-imagex-sign.byteimg.com
 0.0.0.0 pa-trc.taboola.com
+0.0.0.0 pa.yahoo.com
 0.0.0.0 packages-metrics.getsol.us
 0.0.0.0 pagead.adx.ams.op-mobile.opera.com
 0.0.0.0 pagead2.googlesyndication.com

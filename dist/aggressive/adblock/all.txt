@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9676
+# Total domains: 9677
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6322,6 +6322,7 @@
 ||p3a.bravesoftware.com^
 ||p6-flow-imagex-sign.byteimg.com^
 ||pa-trc.taboola.com^
+||pa.yahoo.com^
 ||packages-metrics.getsol.us^
 ||pagead.adx.ams.op-mobile.opera.com^
 ||pagead2.googlesyndication.com^

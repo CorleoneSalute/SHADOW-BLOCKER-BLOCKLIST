@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 325
+# Total domains: 326
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -250,6 +250,7 @@ p3a-creative.brave.com
 p3a-json.brave.com
 p3a.brave.com
 p3a.bravesoftware.com
+pa.yahoo.com
 pagead.adx.ams.op-mobile.opera.com
 partnerads.ysm.yahoo.net
 pcad.video.baidu.com
