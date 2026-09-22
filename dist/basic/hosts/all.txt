@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9244
+# Total domains: 9245
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6134,6 +6134,7 @@
 0.0.0.0 phoenix360.iolo.com
 0.0.0.0 pi.ias.xiaomi.com
 0.0.0.0 pi.reddit.com
+0.0.0.0 pi.subsplash.com
 0.0.0.0 piano.io
 0.0.0.0 pico.logs.roku.com
 0.0.0.0 picocurl.com

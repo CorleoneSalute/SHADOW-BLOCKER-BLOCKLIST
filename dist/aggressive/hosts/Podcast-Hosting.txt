@@ -1,6 +1,6 @@
 # ============================================================
 # PODCAST HOSTING BLOCKLIST - AGGRESSIVE
-# Total domains: 56
+# Total domains: 57
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -36,6 +36,7 @@
 0.0.0.0 audiohook.com
 0.0.0.0 audiorella-data.com
 0.0.0.0 mobwsa.ximalaya.com
+0.0.0.0 pi.subsplash.com
 0.0.0.0 podcorn.com
 0.0.0.0 podscribe.com
 0.0.0.0 podtrac.com

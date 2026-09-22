@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9677
+# Total domains: 9678
 # Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6421,6 +6421,7 @@
 ||phonesubmissions.apple.com^
 ||pi.ias.xiaomi.com^
 ||pi.reddit.com^
+||pi.subsplash.com^
 ||piano.io^
 ||pico.logs.roku.com^
 ||picocurl.com^
