@@ -1,12 +1,12 @@
 # Duplicate Domain Report
 
-Generated: 2026-09-20 17:38 UTC
+Generated: 2026-09-22 01:10 UTC
 
 Domains that appear in more than one category file's basic
 tier. Not always a mistake - shared infrastructure between
 platforms happens - but worth a quick look.
 
-141 duplicate domain(s) found:
+142 duplicate domain(s) found:
 
 | Domain | Categories |
 |---|---|
@@ -144,6 +144,7 @@ platforms happens - but worth a quick look.
 | upu.samsungelectronics.com | Mobile-OEM-Telecom-Operators, Smart-TV |
 | venntel.com | DMP-Data-Broker, Religious-Spiritual |
 | vervemobile.com | AD-Network, DMP-Data-Broker |
+| web-analytics.lastpass.com | 2FA, Password-Manager |
 | widget.criteo.com | AD-Network, Retargeting-Specialist |
 | widget.us.criteo.com | AD-Network, Retargeting-Specialist |
 | widget.us5.us.criteo.com | AD-Network, Retargeting-Specialist |

@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9668
-# Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9669
+# Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -7423,6 +7423,7 @@
 ||sentry.io^
 ||sentry.io.steinberg.net^
 ||sentry.klippa.com^
+||sentry.lastpass.com^
 ||sentry.matrix.org^
 ||sentry.minddoc.com^
 ||sentry.predict.fun^

@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9235
-# Generated: 2026-09-20 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9236
+# Generated: 2026-09-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -7070,6 +7070,7 @@
 ||sentry.io^
 ||sentry.io.steinberg.net^
 ||sentry.klippa.com^
+||sentry.lastpass.com^
 ||sentry.matrix.org^
 ||sentry.minddoc.com^
 ||sentry.predict.fun^
