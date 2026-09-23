@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9679
+# Total domains: 9680
 # Generated: 2026-09-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4701,6 +4701,7 @@
 0.0.0.0 integrations.adikteev.com
 0.0.0.0 integrations.criteo.com
 0.0.0.0 integrations.remerge.io
+0.0.0.0 integrations.remerge.iowidget.cn.criteo.com
 0.0.0.0 integrations.smartlook.com
 0.0.0.0 intelligence.conviva.com
 0.0.0.0 interact.taboola.com

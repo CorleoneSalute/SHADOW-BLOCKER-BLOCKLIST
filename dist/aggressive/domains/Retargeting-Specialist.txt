@@ -1,6 +1,6 @@
 # ============================================================
 # RETARGETING SPECIALIST BLOCKLIST - AGGRESSIVE
-# Total domains: 344
+# Total domains: 345
 # Generated: 2026-09-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -193,6 +193,7 @@ incrementality.adikteev.com
 integrations.adikteev.com
 integrations.criteo.com
 integrations.remerge.io
+integrations.remerge.iowidget.cn.criteo.com
 interactive.adikteev.com
 interactive.remerge.io
 lapsing-users.adikteev.com
