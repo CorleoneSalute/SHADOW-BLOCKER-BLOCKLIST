@@ -251,17 +251,14 @@ rezync.com
 live.rezync.com
 
 # Boomtrain (Personalization Engine) (4 domain)
-boomtrain.com
-cdn.boomtrain.com
-recommendations.api.boomtrain.com
-events.api.boomtrain.com
+boomtrain.com !
+cdn.boomtrain.com !
+recommendations.api.boomtrain.com !
+events.api.boomtrain.com !
 
 # Other Purchased Tracking Assets (2 domain)
 ru4.com
 xplusone.com
-
-# Zeta/LiveIntent Cross-ID (1 domain)
-i.lidam.com
 
 # Bizo (Programmatic Arm Pre-LinkedIn Acquisition) (6 domain)
 bizo.com
@@ -272,9 +269,7 @@ signals.bizo.com
 sync.bizo.com
 
 # ZetaLive (2 domain)
-zetalive.com
 pixel.zetalive.com
-
 
 ADIKTEEV  (83 domain)
 
@@ -406,7 +401,6 @@ asia.adikteev.com
 # Partner / Integrations (2 domain)
 partners.adikteev.com
 integrations.adikteev.com
-
 
 REMERGE  (70 domain)
 
