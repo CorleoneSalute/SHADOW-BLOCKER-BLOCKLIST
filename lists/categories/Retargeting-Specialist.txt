@@ -130,7 +130,6 @@ zeta-global.com
 zetaglobal.io
 data.zetaglobal.com
 sync.zetaglobal.com
-d.zeta.email
 bounce.zetaglobal.com
 click.zetaglobal.com
 open.zetaglobal.com
