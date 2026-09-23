@@ -1,6 +1,6 @@
 # ============================================================
 # RETARGETING SPECIALIST BLOCKLIST - AGGRESSIVE
-# Total domains: 346
+# Total domains: 344
 # Generated: 2026-09-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -181,7 +181,6 @@ gum.us.criteo.com
 gumi.criteo.com
 hb.criteo.com
 hlserve.com
-i.lidam.com
 iap.adikteev.com
 iap.remerge.io
 identity.zetaglobal.com
@@ -350,4 +349,3 @@ zeta-global.com
 zetaglobal.com
 zetaglobal.io
 zetahub.com
-zetalive.com

@@ -1,7 +1,7 @@
 # RETARGETING SPECIALIST BLOCKLIST 
 
-# Total domains: 346
-# Last update: 2026/08/03
+# Total domains: 344
+# Last update: 2026/09/23
 # Note: trailing "!" marks a domain as aggressive-only
 
 CRITEO  (99 domain)

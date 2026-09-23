@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9246
+# Total domains: 9240
 # Generated: 2026-09-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2332,7 +2332,6 @@
 0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 books-analytics-events.news.apple.com
 0.0.0.0 bookstats.kobo.com
-0.0.0.0 boomtrain.com
 0.0.0.0 bosslog.geniex.com
 0.0.0.0 bot.outbrain.com
 0.0.0.0 botemoda.com
@@ -2544,7 +2543,6 @@
 0.0.0.0 cdn.ay.gy
 0.0.0.0 cdn.azerion.com
 0.0.0.0 cdn.bidstack.com
-0.0.0.0 cdn.boomtrain.com
 0.0.0.0 cdn.bright-sdk.com
 0.0.0.0 cdn.broadstreetads.com
 0.0.0.0 cdn.cadent.tv
@@ -3651,7 +3649,6 @@
 0.0.0.0 events.adikteev.com
 0.0.0.0 events.admix.in
 0.0.0.0 events.anzu.io
-0.0.0.0 events.api.boomtrain.com
 0.0.0.0 events.api.gamma.app
 0.0.0.0 events.api.nvidia.com
 0.0.0.0 events.applovin.com
@@ -4250,7 +4247,6 @@
 0.0.0.0 i.clarity.ms
 0.0.0.0 i.connectad.io
 0.0.0.0 i.dev.jwpltx.com
-0.0.0.0 i.lidam.com
 0.0.0.0 i.microad.jp
 0.0.0.0 i.n.jwpltx.com
 0.0.0.0 iad-apple.com
@@ -6470,7 +6466,6 @@
 0.0.0.0 recimg.com
 0.0.0.0 recognicorp.com
 0.0.0.0 recommendations-telemetry.netflix.com
-0.0.0.0 recommendations.api.boomtrain.com
 0.0.0.0 recommendations.jwplayer.com
 0.0.0.0 recommendations.outbrain.com
 0.0.0.0 recorder.sessionrewind.com
@@ -9228,7 +9223,6 @@
 0.0.0.0 zetaglobal.com
 0.0.0.0 zetaglobal.io
 0.0.0.0 zetahub.com
-0.0.0.0 zetalive.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zeydoo.com

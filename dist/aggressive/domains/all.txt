@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9681
+# Total domains: 9679
 # Generated: 2026-09-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4465,7 +4465,6 @@ i.ads.roku.com
 i.clarity.ms
 i.connectad.io
 i.dev.jwpltx.com
-i.lidam.com
 i.microad.jp
 i.n.jwpltx.com
 iad-apple.com
@@ -9660,7 +9659,6 @@ zeta-global.com
 zetaglobal.com
 zetaglobal.io
 zetahub.com
-zetalive.com
 zeus.ad.intl.xiaomi.com
 zeus.ad.xiaomi.com
 zeydoo.com

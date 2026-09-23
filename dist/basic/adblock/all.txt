@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9246
+# Total domains: 9240
 # Generated: 2026-09-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2332,7 +2332,6 @@
 ||books-analytics-events.news.apple-dns.net^
 ||books-analytics-events.news.apple.com^
 ||bookstats.kobo.com^
-||boomtrain.com^
 ||bosslog.geniex.com^
 ||bot.outbrain.com^
 ||botemoda.com^
@@ -2544,7 +2543,6 @@
 ||cdn.ay.gy^
 ||cdn.azerion.com^
 ||cdn.bidstack.com^
-||cdn.boomtrain.com^
 ||cdn.bright-sdk.com^
 ||cdn.broadstreetads.com^
 ||cdn.cadent.tv^
@@ -3651,7 +3649,6 @@
 ||events.adikteev.com^
 ||events.admix.in^
 ||events.anzu.io^
-||events.api.boomtrain.com^
 ||events.api.gamma.app^
 ||events.api.nvidia.com^
 ||events.applovin.com^
@@ -4250,7 +4247,6 @@
 ||i.clarity.ms^
 ||i.connectad.io^
 ||i.dev.jwpltx.com^
-||i.lidam.com^
 ||i.microad.jp^
 ||i.n.jwpltx.com^
 ||iad-apple.com^
@@ -6470,7 +6466,6 @@
 ||recimg.com^
 ||recognicorp.com^
 ||recommendations-telemetry.netflix.com^
-||recommendations.api.boomtrain.com^
 ||recommendations.jwplayer.com^
 ||recommendations.outbrain.com^
 ||recorder.sessionrewind.com^
@@ -9228,7 +9223,6 @@
 ||zetaglobal.com^
 ||zetaglobal.io^
 ||zetahub.com^
-||zetalive.com^
 ||zeus.ad.intl.xiaomi.com^
 ||zeus.ad.xiaomi.com^
 ||zeydoo.com^

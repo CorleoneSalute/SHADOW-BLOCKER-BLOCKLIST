@@ -1,6 +1,6 @@
 # ============================================================
 # RETARGETING SPECIALIST BLOCKLIST - BASIC
-# Total domains: 344
+# Total domains: 338
 # Generated: 2026-09-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -67,7 +67,6 @@
 ||bidder.criteo.com^
 ||bidder.remerge.io^
 ||bizo.com^
-||boomtrain.com^
 ||bounce.zetaglobal.com^
 ||c1.rfihub.net^
 ||callback.adikteev.com^
@@ -85,7 +84,6 @@
 ||cas.us-west-2.criteo.com^
 ||cat.us5.us.criteo.com^
 ||cdn.adikteev.com^
-||cdn.boomtrain.com^
 ||cdn.remerge.io^
 ||cdn.retargeter.com^
 ||cdn.zetaglobal.com^
@@ -151,7 +149,6 @@
 ||eu.adikteev.com^
 ||events-stream.remerge.io^
 ||events.adikteev.com^
-||events.api.boomtrain.com^
 ||events.remerge.io^
 ||events.retargeter.com^
 ||events.zetaglobal.com^
@@ -179,7 +176,6 @@
 ||gumi.criteo.com^
 ||hb.criteo.com^
 ||hlserve.com^
-||i.lidam.com^
 ||iap.adikteev.com^
 ||iap.remerge.io^
 ||identity.zetaglobal.com^
@@ -246,7 +242,6 @@
 ||realtime.adikteev.com^
 ||realtime.remerge.io^
 ||realtime.zetaglobal.com^
-||recommendations.api.boomtrain.com^
 ||reengagement.remerge.io^
 ||remerge.io^
 ||resolve.zetaglobal.com^
@@ -348,4 +343,3 @@
 ||zetaglobal.com^
 ||zetaglobal.io^
 ||zetahub.com^
-||zetalive.com^

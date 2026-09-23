@@ -1,6 +1,6 @@
 # ============================================================
 # RETARGETING SPECIALIST BLOCKLIST - BASIC
-# Total domains: 344
+# Total domains: 338
 # Generated: 2026-09-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -67,7 +67,6 @@
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bidder.remerge.io
 0.0.0.0 bizo.com
-0.0.0.0 boomtrain.com
 0.0.0.0 bounce.zetaglobal.com
 0.0.0.0 c1.rfihub.net
 0.0.0.0 callback.adikteev.com
@@ -85,7 +84,6 @@
 0.0.0.0 cas.us-west-2.criteo.com
 0.0.0.0 cat.us5.us.criteo.com
 0.0.0.0 cdn.adikteev.com
-0.0.0.0 cdn.boomtrain.com
 0.0.0.0 cdn.remerge.io
 0.0.0.0 cdn.retargeter.com
 0.0.0.0 cdn.zetaglobal.com
@@ -151,7 +149,6 @@
 0.0.0.0 eu.adikteev.com
 0.0.0.0 events-stream.remerge.io
 0.0.0.0 events.adikteev.com
-0.0.0.0 events.api.boomtrain.com
 0.0.0.0 events.remerge.io
 0.0.0.0 events.retargeter.com
 0.0.0.0 events.zetaglobal.com
@@ -179,7 +176,6 @@
 0.0.0.0 gumi.criteo.com
 0.0.0.0 hb.criteo.com
 0.0.0.0 hlserve.com
-0.0.0.0 i.lidam.com
 0.0.0.0 iap.adikteev.com
 0.0.0.0 iap.remerge.io
 0.0.0.0 identity.zetaglobal.com
@@ -246,7 +242,6 @@
 0.0.0.0 realtime.adikteev.com
 0.0.0.0 realtime.remerge.io
 0.0.0.0 realtime.zetaglobal.com
-0.0.0.0 recommendations.api.boomtrain.com
 0.0.0.0 reengagement.remerge.io
 0.0.0.0 remerge.io
 0.0.0.0 resolve.zetaglobal.com
@@ -348,4 +343,3 @@
 0.0.0.0 zetaglobal.com
 0.0.0.0 zetaglobal.io
 0.0.0.0 zetahub.com
-0.0.0.0 zetalive.com
