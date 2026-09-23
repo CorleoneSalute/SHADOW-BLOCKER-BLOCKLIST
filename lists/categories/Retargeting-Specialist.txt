@@ -11,9 +11,9 @@ criteo.com
 criteo.net
 
 # Purchased Domains (3 domain)
-hlserve.com
-emailretargeting.com
-dnacdn.net
+hlserve.com 
+emailretargeting.com !
+dnacdn.net !
 
 # Pixel & Tracking (10 domain)
 pixel.criteo.com
@@ -140,7 +140,6 @@ www2.criteo.com
 # CNAME Cloaking (2 domain)
 dnsdelegation.io
 storetail.io
-
 
 RETARGETER / ZETA GLOBAL  (94 domain)
 
