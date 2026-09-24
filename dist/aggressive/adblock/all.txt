@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9684
+# Total domains: 9685
 # Generated: 2026-09-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2533,6 +2533,7 @@
 ||c7.telemetry.intel.com^
 ||c8.telemetry.intel.com^
 ||c9.telemetry.intel.com^
+||c9c0eaba-1cf5-3ce7-da8b-3d4650a56ba8-rum.cdnvideo.ru^
 ||ca-central-1-1.telemetry.insights.video.a2z.com^
 ||ca-info-lgsmartad-com.aws-prd.net^
 ||ca-rdx2-lgtvsdp-com.aws-prd.net^

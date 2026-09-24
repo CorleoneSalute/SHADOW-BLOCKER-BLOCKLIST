@@ -1,7 +1,7 @@
 # FILE HOSTING BLOCKLIST
 
-# Total domains: 54
-# Last update: 2026/09/17
+# Total domains: 55
+# Last update: 2026/09/24
 # Note: trailing "!" marks a domain as aggressive-only
 
 # IMAGE HOSTING 

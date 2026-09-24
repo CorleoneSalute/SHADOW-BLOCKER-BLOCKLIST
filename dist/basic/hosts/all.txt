@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9245
+# Total domains: 9246
 # Generated: 2026-09-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2461,6 +2461,7 @@
 0.0.0.0 c7.telemetry.intel.com
 0.0.0.0 c8.telemetry.intel.com
 0.0.0.0 c9.telemetry.intel.com
+0.0.0.0 c9c0eaba-1cf5-3ce7-da8b-3d4650a56ba8-rum.cdnvideo.ru
 0.0.0.0 ca-central-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 ca-info-lgsmartad-com.aws-prd.net
 0.0.0.0 ca-rdx2-lgtvsdp-com.aws-prd.net

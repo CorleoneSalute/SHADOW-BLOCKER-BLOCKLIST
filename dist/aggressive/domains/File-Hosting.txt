@@ -1,6 +1,6 @@
 # ============================================================
 # FILE HOSTING BLOCKLIST - AGGRESSIVE
-# Total domains: 54
+# Total domains: 55
 # Generated: 2026-09-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -18,6 +18,7 @@ analytics.filefactory.com
 analytics.joxi.ru
 analytics.oogly.io
 analytics.webhotpix.com
+c9c0eaba-1cf5-3ce7-da8b-3d4650a56ba8-rum.cdnvideo.ru
 collect.wetransfer.com
 diananatureforeign.com
 error-reporting.mediafire.com
