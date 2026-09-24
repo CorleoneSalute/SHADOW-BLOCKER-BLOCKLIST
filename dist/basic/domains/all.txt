@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9247
+# Total domains: 9248
 # Generated: 2026-09-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8378,6 +8378,7 @@ tracking.hulu.com
 tracking.ib56920.ads.betou.bet.br
 tracking.ib58193.marketing.picpay.com
 tracking.ib70914.betou.bet.br
+tracking.ib82990.comunicacao.picpay.com
 tracking.ib93107.mkt.betou.bet.br
 tracking.ibotta.com
 tracking.image-line.com
