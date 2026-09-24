@@ -49,6 +49,7 @@ ads.cdnvideo.ru
 rum.cdnvideo.ru
 192a9047-bf6e-0f35-22ef-116bf5b5b669-rum.cdnvideo.ru
 8e4c275e-fc8d-fde9-9c58-37dbf0125b6c-rum.cdnvideo.ru
+c9c0eaba-1cf5-3ce7-da8b-3d4650a56ba8-rum.cdnvideo.ru
 
 # CYBERLOCKER / FILE HOSTING 
 
