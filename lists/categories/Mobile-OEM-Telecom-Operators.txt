@@ -355,6 +355,7 @@ extranet.eu-east-1.miui-l7-feedback.c7qiwffdmn.elb.xiaomi.com
 extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com
 f1.g.mi.com
 tk.d.mi.com
+stat.youpin.mi.com
 fe02.lg.xiaomi.com
 fe05.lg.xiaomi.com
 feedback.d.xiaomi.com
