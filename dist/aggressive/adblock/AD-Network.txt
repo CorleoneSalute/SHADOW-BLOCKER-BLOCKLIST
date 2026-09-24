@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1873
+# Total domains: 1878
 # Generated: 2026-09-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -11,6 +11,7 @@
 ||33across.com^
 ||33across.net^
 ||360yield.com^
+||4dsply.com^
 ||a-ams-new.1rx.io^
 ||a-iad3.1rx.io^
 ||a-pdx.1rx.io^
@@ -64,6 +65,7 @@
 ||ad.plus^
 ||ad.smaato.net^
 ||ad.yieldlab.net^
+||ad7.biz^
 ||adap.tv^
 ||adaptv.advertising.com^
 ||adblade.com^
@@ -75,6 +77,7 @@
 ||adeeply.ru^
 ||adelphic.com^
 ||adex2.fwmrm.net^
+||adfootmedia.com^
 ||adform.com^
 ||adform.net^
 ||adiant.com^
@@ -173,6 +176,8 @@
 ||adsrvr.exponential.com^
 ||adsrvr.org^
 ||adsterra.com^
+||adsupply.com^
+||adsupplyexchange.com^
 ||adswizz.com^
 ||adtech.de^
 ||adtelligent.com^

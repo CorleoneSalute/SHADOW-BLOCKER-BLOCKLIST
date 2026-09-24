@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1864
+# Total domains: 1869
 # Generated: 2026-09-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -11,6 +11,7 @@
 0.0.0.0 33across.com
 0.0.0.0 33across.net
 0.0.0.0 360yield.com
+0.0.0.0 4dsply.com
 0.0.0.0 a-ams-new.1rx.io
 0.0.0.0 a-iad3.1rx.io
 0.0.0.0 a-pdx.1rx.io
@@ -64,6 +65,7 @@
 0.0.0.0 ad.plus
 0.0.0.0 ad.smaato.net
 0.0.0.0 ad.yieldlab.net
+0.0.0.0 ad7.biz
 0.0.0.0 adap.tv
 0.0.0.0 adaptv.advertising.com
 0.0.0.0 adblade.com
@@ -75,6 +77,7 @@
 0.0.0.0 adeeply.ru
 0.0.0.0 adelphic.com
 0.0.0.0 adex2.fwmrm.net
+0.0.0.0 adfootmedia.com
 0.0.0.0 adform.com
 0.0.0.0 adform.net
 0.0.0.0 adiant.com
@@ -173,6 +176,8 @@
 0.0.0.0 adsrvr.exponential.com
 0.0.0.0 adsrvr.org
 0.0.0.0 adsterra.com
+0.0.0.0 adsupply.com
+0.0.0.0 adsupplyexchange.com
 0.0.0.0 adswizz.com
 0.0.0.0 adtech.de
 0.0.0.0 adtelligent.com

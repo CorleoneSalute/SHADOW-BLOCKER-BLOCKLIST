@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9679
+# Total domains: 9684
 # Generated: 2026-09-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -31,6 +31,7 @@
 ||33across.net^
 ||360yield.com^
 ||4cite.com^
+||4dsply.com^
 ||51degrees.com^
 ||7345023508.fxm9485766783.com^
 ||7345023508.fxmconnect.com^
@@ -275,6 +276,7 @@
 ||ad2.reddit.com^
 ||ad3.gtie.dell.com^
 ||ad3.reddit.com^
+||ad7.biz^
 ||ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv^
 ||ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv^
 ||ada.baidu.com^
@@ -308,6 +310,7 @@
 ||adelphic.com^
 ||adex2.fwmrm.net^
 ||adf.ly^
+||adfootmedia.com^
 ||adform.com^
 ||adform.net^
 ||adfox.yandex.com^
@@ -717,6 +720,8 @@
 ||adsrvr.org^
 ||adsterra.com^
 ||adstradata.com^
+||adsupply.com^
+||adsupplyexchange.com^
 ||adsvideo.biz.weibo.com^
 ||adswizz.acast.com^
 ||adswizz.com^
