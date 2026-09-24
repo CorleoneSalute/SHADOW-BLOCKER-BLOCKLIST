@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 1873
-# Total platforms: 169
+# Total platforms: 172
 # Last update: 2026/09/20
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2255,3 +2255,17 @@ adsfactor.net
 snapmobile.hk
 snapmobile.asia
 pixelmedia-asia.com
+
+# Ad7
+
+ad7.biz
+
+# AdSupply
+
+adsupply.com
+adsupplyexchange.com
+4dsply.com
+
+# AdFootMedia
+
+adfootmedia.com
