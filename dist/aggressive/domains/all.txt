@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9678
-# Generated: 2026-09-23 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9679
+# Generated: 2026-09-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -7762,6 +7762,7 @@ stat.tiara.kakao.com
 stat.tiara.kakaopay.com
 stat.v.baidu.com
 stat.xiaomi.com
+stat.youpin.mi.com
 stat1.reddit.com
 stat2.reddit.com
 stat4.reddit.com
