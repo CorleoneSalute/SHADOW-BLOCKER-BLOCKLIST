@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9246
+# Total domains: 9247
 # Generated: 2026-09-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4825,6 +4825,7 @@
 0.0.0.0 log.tiktokv.us
 0.0.0.0 log.transsion.com
 0.0.0.0 log.tresorit.com
+0.0.0.0 log.tving.com
 0.0.0.0 log.twibida.com
 0.0.0.0 log.uniconsent.com
 0.0.0.0 log.us.tiktokv.com

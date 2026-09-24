@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 370
+# Total domains: 371
 # Generated: 2026-09-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -213,6 +213,7 @@
 0.0.0.0 live-metrics.youtube.com
 0.0.0.0 live-streaming-metrics.amazon.com
 0.0.0.0 livestats.kaltura.com
+0.0.0.0 log.tving.com
 0.0.0.0 logging.bamgrid.com
 0.0.0.0 logging.netflix.com
 0.0.0.0 logs.hulu.com
