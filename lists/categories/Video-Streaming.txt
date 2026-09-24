@@ -362,7 +362,7 @@ ads.voot.com
 analytics.mxplayer.in
 metrics.mxplayer.in
 
-# REGIONAL — EAST ASYA
+# REGIONAL — EAST ASIA
 
 analytics.iqiyi.com
 stats.iqiyi.com
@@ -376,6 +376,7 @@ analytics.wavve.com
 metrics.wavve.com
 analytics.tving.com
 metrics.tving.com
+log.tving.com
 analytics.abema.tv
 metrics.abema.tv
 analytics.nicovideo.jp
