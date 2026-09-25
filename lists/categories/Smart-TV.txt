@@ -87,6 +87,7 @@ ad.lgsmartad.com
 us.info.lgsmartad.com
 us.ad.lgsmartad.com
 us.cdpbeacon.lgtvcommon.com
+ads.lgtvcommon.com
 videoads.lgtvcommon.com
 cdpbeacon2.lgtvcommon.com
 us.cdpsvc.lgtvcommon.com
