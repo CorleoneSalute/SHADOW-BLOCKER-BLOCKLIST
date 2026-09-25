@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1878
+# Total domains: 1880
 # Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -517,6 +517,7 @@
 ||cdn.frameplay.gg^
 ||cdn.gsspat.jp^
 ||cdn.gumgum.com^
+||cdn.inmobi.com^
 ||cdn.insticator.com^
 ||cdn.ligatus.com^
 ||cdn.lijit.com^
@@ -945,6 +946,7 @@
 ||ingest.vungle.com^
 ||init.supersonicads.com^
 ||inmense.site^
+||inmobi.com^
 ||inner-active.com^
 ||inner-active.mobi^
 ||insight.adsrvr.org^

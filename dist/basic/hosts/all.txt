@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9251
+# Total domains: 9253
 # Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2581,6 +2581,7 @@
 0.0.0.0 cdn.gumgum.com
 0.0.0.0 cdn.heatmap.com
 0.0.0.0 cdn.ingest-lr.com
+0.0.0.0 cdn.inmobi.com
 0.0.0.0 cdn.inspectlet.com
 0.0.0.0 cdn.insticator.com
 0.0.0.0 cdn.intake-lr.com
@@ -4449,6 +4450,7 @@
 0.0.0.0 init.supersonicads.com
 0.0.0.0 inmarket.com
 0.0.0.0 inmense.site
+0.0.0.0 inmobi.com
 0.0.0.0 inner-active.com
 0.0.0.0 inner-active.mobi
 0.0.0.0 innovative-sol.com

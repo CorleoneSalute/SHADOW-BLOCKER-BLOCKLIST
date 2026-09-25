@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1869
+# Total domains: 1871
 # Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -515,6 +515,7 @@
 0.0.0.0 cdn.frameplay.gg
 0.0.0.0 cdn.gsspat.jp
 0.0.0.0 cdn.gumgum.com
+0.0.0.0 cdn.inmobi.com
 0.0.0.0 cdn.insticator.com
 0.0.0.0 cdn.ligatus.com
 0.0.0.0 cdn.lijit.com
@@ -940,6 +941,7 @@
 0.0.0.0 ingest.vungle.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 inmense.site
+0.0.0.0 inmobi.com
 0.0.0.0 inner-active.com
 0.0.0.0 inner-active.mobi
 0.0.0.0 insight.adsrvr.org
