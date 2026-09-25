@@ -1906,11 +1906,13 @@ ads.mobfox.com
 prebid.mobfox.com
 sync.mobfox.com
 
-# --- AerServ (NOTE: InMobi) ---
+# --- AerServ (InMobi) ---
 aerserv.com
 video.aerserv.com
 vast.aerserv.com
+inmobi.com
 ads.inmobi.com
+cdn.inmobi.com
 analytics.glance.inmobi.com
 gtv.analytics.glance.inmobi.com
 in.analytics.glance.inmobi.com
