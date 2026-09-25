@@ -9,6 +9,7 @@ ads.truecaller.com
 ads-media.truecaller.com
 adsmanager.truecaller.com
 advertisers.truecaller.com
+ads-segment-profile-eu.truecaller.com
 metis.truecaller.com
 
 # Truecaller + GetContact 
