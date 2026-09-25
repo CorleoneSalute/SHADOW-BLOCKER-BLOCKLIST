@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 1880
-# Total platforms: 172
+# Total platforms: 174
 # Last update: 2026/09/25
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2271,3 +2271,11 @@ adsupplyexchange.com
 # AdFootMedia
 
 adfootmedia.com
+
+Adsstar
+
+adsstar.in # untrusted
+
+Global Ads Media
+
+globaladsmedia.us
