@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - AGGRESSIVE
-# Total domains: 547
+# Total domains: 549
 # Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -57,6 +57,7 @@
 0.0.0.0 ads.vizio.com
 0.0.0.0 ads.w55c.net
 0.0.0.0 adservices.roku.com
+0.0.0.0 adts.lgtvcommon.com
 0.0.0.0 advertising-v3.roku.com
 0.0.0.0 advertising-v3.us-east-1.msc.roku.com
 0.0.0.0 advertising.roku.com
@@ -474,6 +475,7 @@
 0.0.0.0 telemetry.roku.com
 0.0.0.0 test.samsungrm.net
 0.0.0.0 thinkanalytics.com
+0.0.0.0 thinqrecommend.lgtvcommon.com
 0.0.0.0 titan-ads.tv
 0.0.0.0 tr-info-lgsmartad-com.aws-prd.net
 0.0.0.0 traces.dev.sr.roku.com

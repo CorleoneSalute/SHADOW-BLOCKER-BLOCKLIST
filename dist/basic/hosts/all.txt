@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9250
+# Total domains: 9251
 # Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -706,6 +706,7 @@
 0.0.0.0 adtrck.online
 0.0.0.0 adtrck.org
 0.0.0.0 adtrck.pro
+0.0.0.0 adts.lgtvcommon.com
 0.0.0.0 adult.xyz
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 adup-tech.com

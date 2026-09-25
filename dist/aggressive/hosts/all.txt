@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9689
+# Total domains: 9691
 # Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -739,6 +739,7 @@
 0.0.0.0 adtrck.online
 0.0.0.0 adtrck.org
 0.0.0.0 adtrck.pro
+0.0.0.0 adts.lgtvcommon.com
 0.0.0.0 adult.xyz
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 adup-tech.com
@@ -8382,6 +8383,7 @@
 0.0.0.0 thetradedesk.com
 0.0.0.0 thind.unityads.unity3d.com
 0.0.0.0 thinkanalytics.com
+0.0.0.0 thinqrecommend.lgtvcommon.com
 0.0.0.0 thislinkwillselfdestruct.com
 0.0.0.0 throtle.io
 0.0.0.0 thumbs.mgid.com
