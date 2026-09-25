@@ -18,7 +18,7 @@ changes which tier the domain ends up in.
 
 | Domain | Lines | Exact match |
 |---|---|---|
-| ads.aimitv.com | 76, 594 | no - differs |
+| ads.aimitv.com | 76, 595 | no - differs |
 
 ## Video-Streaming
 

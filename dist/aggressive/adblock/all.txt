@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9688
+# Total domains: 9689
 # Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -541,6 +541,7 @@
 ||ads.jwplayer.com^
 ||ads.kakaopay.com^
 ||ads.lastpass.com^
+||ads.lgtvcommon.com^
 ||ads.life360.com^
 ||ads.line.me^
 ||ads.linkedin-ei.com^
