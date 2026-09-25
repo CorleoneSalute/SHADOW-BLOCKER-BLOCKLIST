@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9248
-# Generated: 2026-09-24 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9249
+# Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -413,6 +413,7 @@
 0.0.0.0 ads-rebrand.rno.sbz.apple.com
 0.0.0.0 ads-resources.waze.com
 0.0.0.0 ads-sdk.unityads.unity3d.com
+0.0.0.0 ads-segment-profile-eu.truecaller.com
 0.0.0.0 ads-serve.brave.com
 0.0.0.0 ads-serve.bravesoftware.com
 0.0.0.0 ads-service.tiktok.com

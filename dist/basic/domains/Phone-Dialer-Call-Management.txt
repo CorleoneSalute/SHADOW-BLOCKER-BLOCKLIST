@@ -1,11 +1,12 @@
 # ============================================================
 # PHONE DIALER CALL MANAGEMENT BLOCKLIST - BASIC
-# Total domains: 12
-# Generated: 2026-09-24 (UTC) - auto-generated, do not edit by hand
+# Total domains: 13
+# Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 ads-media.truecaller.com
+ads-segment-profile-eu.truecaller.com
 ads.truecaller.com
 adsmanager.truecaller.com
 advertisers.truecaller.com

@@ -1,7 +1,7 @@
 # ============================================================
 # SECURITY BOT DETECTION BLOCKLIST - BASIC
 # Total domains: 86
-# Generated: 2026-09-24 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 

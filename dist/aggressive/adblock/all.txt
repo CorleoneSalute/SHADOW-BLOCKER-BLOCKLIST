@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9687
-# Generated: 2026-09-24 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9688
+# Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -434,6 +434,7 @@
 ||ads-rebrand.rno.sbz.apple.com^
 ||ads-resources.waze.com^
 ||ads-sdk.unityads.unity3d.com^
+||ads-segment-profile-eu.truecaller.com^
 ||ads-serve.brave.com^
 ||ads-serve.bravesoftware.com^
 ||ads-service.tiktok.com^
