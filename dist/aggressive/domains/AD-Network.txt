@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1880
+# Total domains: 1881
 # Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -825,6 +825,7 @@ getmyads24.com
 getpublica.com
 global.adform.net
 global.criteo.com
+globaladsmedia.us
 go.33across.com
 go.adsterra.com
 go.criteo.net

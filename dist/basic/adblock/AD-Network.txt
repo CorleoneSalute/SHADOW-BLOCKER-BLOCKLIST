@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1871
+# Total domains: 1872
 # Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -822,6 +822,7 @@
 ||getpublica.com^
 ||global.adform.net^
 ||global.criteo.com^
+||globaladsmedia.us^
 ||go.33across.com^
 ||go.adsterra.com^
 ||go.criteo.net^

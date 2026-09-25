@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9693
+# Total domains: 9694
 # Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4244,6 +4244,7 @@ global.ad.xiaomi.com
 global.adform.net
 global.criteo.com
 global.telemetry.insights.video.a2z.com
+globaladsmedia.us
 globalapi.ad.xiaomi.com
 globalreport.ad.intl.xiaomi.com
 gloyah.net
