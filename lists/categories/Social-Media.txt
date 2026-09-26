@@ -558,6 +558,7 @@ location-v6-ttp2.tiktokv.us
 location-v6.tiktokv.com
 location-v6.tiktokv.us
 location-v6.tiktokw.us
+location.tiktokv.us
 location-va.tiktokv.com
 location.tiktok.com
 location.tiktokv.com
@@ -832,6 +833,7 @@ eventsapi.pinterest.com
 log.pinterest.com
 trk-v4.pinterest.com
 trk.pinterest.com
+log.pinterest.com.eg
 ```
 
 ### TUMBLR (1 domain)
