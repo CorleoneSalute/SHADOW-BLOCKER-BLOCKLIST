@@ -424,6 +424,7 @@ metrics.movistarplus.es
 analytics.skyshowtime.com
 metrics.skyshowtime.com
 analytics.canalplus.com
+sgtm.elofizetek.canalplus.com
 metrics.mycanal.fr
 analytics.rtlplus.com
 analytics.videoland.com
