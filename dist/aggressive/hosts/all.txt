@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9695
+# Total domains: 9697
 # Generated: 2026-09-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4968,6 +4968,7 @@
 0.0.0.0 location-va.tiktokv.com
 0.0.0.0 location.tiktok.com
 0.0.0.0 location.tiktokv.com
+0.0.0.0 location.tiktokv.us
 0.0.0.0 location.us.tiktokv.com
 0.0.0.0 locinealy.com
 0.0.0.0 lockhart.logs.roku.com
@@ -5061,6 +5062,7 @@
 0.0.0.0 log.pandora.xiaomi.com
 0.0.0.0 log.pgre.dell.com
 0.0.0.0 log.pinterest.com
+0.0.0.0 log.pinterest.com.eg
 0.0.0.0 log.pre.gitlab.net
 0.0.0.0 log.prezi.com
 0.0.0.0 log.pt.xiaomi.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9255
+# Total domains: 9257
 # Generated: 2026-09-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4717,6 +4717,7 @@
 ||location-va.tiktokv.com^
 ||location.tiktok.com^
 ||location.tiktokv.com^
+||location.tiktokv.us^
 ||location.us.tiktokv.com^
 ||locinealy.com^
 ||lockhart.logs.roku.com^
@@ -4810,6 +4811,7 @@
 ||log.pandora.xiaomi.com^
 ||log.pgre.dell.com^
 ||log.pinterest.com^
+||log.pinterest.com.eg^
 ||log.pre.gitlab.net^
 ||log.prezi.com^
 ||log.pt.xiaomi.com^
