@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 408
+# Total domains: 409
 # Generated: 2026-09-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -338,6 +338,7 @@
 0.0.0.0 saa.cbsi.com
 0.0.0.0 saa.paramountplus.com
 0.0.0.0 sdk.conviva.com
+0.0.0.0 sgtm.elofizetek.canalplus.com
 0.0.0.0 smartplugin.youbora.com
 0.0.0.0 sports-analytics.paramountplus.com
 0.0.0.0 sports-analytics.peacocktv.com

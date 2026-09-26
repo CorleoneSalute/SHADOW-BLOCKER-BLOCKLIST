@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9257
+# Total domains: 9258
 # Generated: 2026-09-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7164,6 +7164,7 @@
 ||sgtm.adyen.com^
 ||sgtm.cassino.bet.br^
 ||sgtm.dating.com^
+||sgtm.elofizetek.canalplus.com^
 ||sgtm.indrive.com^
 ||sgtm.skrill.com^
 ||sgtm.storytel.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9697
+# Total domains: 9698
 # Generated: 2026-09-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7525,6 +7525,7 @@
 0.0.0.0 sgtm.adyen.com
 0.0.0.0 sgtm.cassino.bet.br
 0.0.0.0 sgtm.dating.com
+0.0.0.0 sgtm.elofizetek.canalplus.com
 0.0.0.0 sgtm.indrive.com
 0.0.0.0 sgtm.skrill.com
 0.0.0.0 sgtm.storytel.com

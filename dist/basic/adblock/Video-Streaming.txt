@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 371
+# Total domains: 372
 # Generated: 2026-09-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -310,6 +310,7 @@
 ||saa.cbsi.com^
 ||saa.paramountplus.com^
 ||sdk.conviva.com^
+||sgtm.elofizetek.canalplus.com^
 ||smartplugin.youbora.com^
 ||sports-analytics.paramountplus.com^
 ||sports-analytics.peacocktv.com^
