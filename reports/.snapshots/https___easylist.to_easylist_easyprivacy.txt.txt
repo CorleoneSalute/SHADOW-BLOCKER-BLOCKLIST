@@ -7231,8 +7231,10 @@ art.b.inhaabit.com
 art.carte-gr.total.fr
 art2wave.actonservice.com
 artbranch.net
+artcat.net
 artefact.is
 artemis-cdn.ocdn.eu
+artfulsavage.com
 artfut.com
 articledemon.com
 artisan.actonservice.com
@@ -10939,6 +10941,7 @@ customfingerprints.bablosoft.com
 customize.titanfactorydirect.com
 cutecalculator.com
 cutechin.com
+cutsmarter.net
 cux.io
 cv-match.sharebase.jp
 cv-tracker.stanby.com
@@ -21825,6 +21828,7 @@ logr-ingest.com
 logrocket.com
 logrocket.io
 logs-api.shoprunner.com
+logs-ingester.prod.zuddl.com
 logs-partners.coupang.com
 logs.51cto.com
 logs.adplay.ru

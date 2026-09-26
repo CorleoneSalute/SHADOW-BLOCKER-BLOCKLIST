@@ -57,7 +57,10 @@ cname-in-apport-stsdk.vivoglobal.com
 cname-in-bom01-nginxpool03.vivoglobal.com
 cname-in-ctdbonrt-stsdk.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
+co-cota.vivoglobal.com
 co-domaincfg.vivoglobal.com
+co-onrt-stsdk.vivoglobal.com
+co-ort-stsdk.vivoglobal.com
 co-pnrt-stsdk.vivoglobal.com
 co-romsp-unifyconfig.vivoglobal.com
 co-st-sl.vivoglobal.com
@@ -65,7 +68,9 @@ co-stsdk.vivoglobal.com
 co-timesync.vivoglobal.com
 co-vcode-api.vivoglobal.com
 co-vcode-od.vivoglobal.com
+co-vcode-or.vivoglobal.com
 de-gdpr-err-up.vivoglobal.com
+de-gdpr-vcode-api.vivoglobal.com
 dsplog-adnet.vivo.com.cn
 err-up.vivoglobal.com
 err.up.vivoglobal.com
@@ -100,6 +105,7 @@ in-apponrt-stsdk.vivoglobal.com
 in-apport-stsdk.vivoglobal.com
 in-apppnrt-stsdk.vivoglobal.com
 in-appprt-stsdk.vivoglobal.com
+in-cfg-stsdk.vivoglobal.com
 in-cota.vivoglobal.com
 in-ctdbonrt-stsdk.vivoglobal.com
 in-ctdbort-stsdk.vivoglobal.com

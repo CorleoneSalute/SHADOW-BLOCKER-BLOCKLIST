@@ -6,6 +6,7 @@ ads-bdapi-my.heytapmobile.com
 ads-bdapi-ph.heytapmobile.com
 ads-bdapi-th.heytapmobile.com
 ads-bdapi-vn.heytapmobile.com
+ads-cps-in.heytapmobile.com
 ads.heytapmobi.com
 ads.heytapmobile.com
 ads.oppomobile.com
