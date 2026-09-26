@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9694
-# Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9695
+# Generated: 2026-09-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -414,6 +414,7 @@ ads-canary.pinterest.com
 ads-cf-us-east-1.delivery.roku.com
 ads-cf-us-west-2.delivery.roku.com
 ads-config.op-mobile.opera.com
+ads-cps-in.heytapmobile.com
 ads-d.integration.viber.com
 ads-d.viber.com
 ads-drcn.platform.hihonorcloud.com

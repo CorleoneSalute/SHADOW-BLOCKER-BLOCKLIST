@@ -1,7 +1,7 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1063
-# Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1064
+# Generated: 2026-09-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -42,6 +42,7 @@ ads-bdapi-my.heytapmobile.com
 ads-bdapi-ph.heytapmobile.com
 ads-bdapi-th.heytapmobile.com
 ads-bdapi-vn.heytapmobile.com
+ads-cps-in.heytapmobile.com
 ads-drcn.platform.hihonorcloud.com
 ads-drru.cloud.huawei.ru
 ads.cloud.huawei.com

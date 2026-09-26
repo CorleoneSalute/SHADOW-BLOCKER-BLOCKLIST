@@ -1,7 +1,7 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1113
-# Generated: 2026-09-25 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1114
+# Generated: 2026-09-26 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -45,6 +45,7 @@
 0.0.0.0 ads-bdapi-ph.heytapmobile.com
 0.0.0.0 ads-bdapi-th.heytapmobile.com
 0.0.0.0 ads-bdapi-vn.heytapmobile.com
+0.0.0.0 ads-cps-in.heytapmobile.com
 0.0.0.0 ads-drcn.platform.hihonorcloud.com
 0.0.0.0 ads-drru.cloud.huawei.ru
 0.0.0.0 ads.cdn1.atp.vtv.vodafone.com
