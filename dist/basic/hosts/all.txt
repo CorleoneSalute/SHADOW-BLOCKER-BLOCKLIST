@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9264
+# Total domains: 9265
 # Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2244,6 +2244,7 @@
 0.0.0.0 bd.vungle.com
 0.0.0.0 bdapi-ads-sg.heytapmobile.com
 0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-id-ads.realmemobile.com
 0.0.0.0 bdapi-id.ads.heytapmobi.com
 0.0.0.0 bdapi-id.ads.heytapmobile.com
 0.0.0.0 bdapi-id.ads.oppomobile.com

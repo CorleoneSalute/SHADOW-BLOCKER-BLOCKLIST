@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1064
+# Total domains: 1065
 # Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -194,6 +194,7 @@ b1-ads.realmemobile.com
 b2banalytics.samsungknox.com
 bdapi-ads-sg.heytapmobile.com
 bdapi-ads.realmemobile.com
+bdapi-id-ads.realmemobile.com
 bdapi-id.ads.heytapmobi.com
 bdapi-id.ads.heytapmobile.com
 bdapi-id.ads.oppomobile.com
