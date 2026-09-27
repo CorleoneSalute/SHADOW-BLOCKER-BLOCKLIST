@@ -516,7 +516,6 @@ cricket-metrics.hotstar.com !
 video-analytics.voot.com !
 video-analytics.mxplayer.in !
 ads.mxplayer.in !
-ads.zee5.com !
 
 # EAST ASIA
 video-analytics.youku.com !
