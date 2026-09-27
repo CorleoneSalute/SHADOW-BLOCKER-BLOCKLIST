@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9261
+# Total domains: 9262
 # Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -641,6 +641,7 @@
 0.0.0.0 adsapivalidator.iad.apple.com
 0.0.0.0 adsassets-ipv6.waze.com
 0.0.0.0 adsassets.waze.com
+0.0.0.0 adsbase.ltd
 0.0.0.0 adscdn.baidu.com
 0.0.0.0 adscms.mdn.sbz.apple.com
 0.0.0.0 adscms.msc.sbz.apple.com

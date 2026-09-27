@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1881
+# Total domains: 1882
 # Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -159,6 +159,7 @@
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads33.adtelligent.com
 0.0.0.0 ads54.adtelligent.com
+0.0.0.0 adsbase.ltd
 0.0.0.0 adserve.dianomi.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adservices.google.com

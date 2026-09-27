@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9261
+# Total domains: 9262
 # Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -641,6 +641,7 @@ adsapisam.snapchat.com
 adsapivalidator.iad.apple.com
 adsassets-ipv6.waze.com
 adsassets.waze.com
+adsbase.ltd
 adscdn.baidu.com
 adscms.mdn.sbz.apple.com
 adscms.msc.sbz.apple.com

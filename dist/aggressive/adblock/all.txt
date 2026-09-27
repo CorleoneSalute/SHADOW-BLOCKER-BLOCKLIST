@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9701
+# Total domains: 9702
 # Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -670,6 +670,7 @@
 ||adsapivalidator.iad.apple.com^
 ||adsassets-ipv6.waze.com^
 ||adsassets.waze.com^
+||adsbase.ltd^
 ||adscdn.baidu.com^
 ||adscms.mdn.sbz.apple.com^
 ||adscms.msc.sbz.apple.com^
