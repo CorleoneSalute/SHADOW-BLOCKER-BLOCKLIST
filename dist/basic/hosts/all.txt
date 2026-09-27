@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9264
+# Total domains: 9262
 # Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6835,8 +6835,6 @@
 0.0.0.0 sa-east-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 sa.coder.com
 0.0.0.0 sa.tuisong.baidu.com
-0.0.0.0 saa.cbsi.com
-0.0.0.0 saa.paramountplus.com
 0.0.0.0 safedk.com
 0.0.0.0 samba.tv
 0.0.0.0 samples.voice.cti.roku.com
