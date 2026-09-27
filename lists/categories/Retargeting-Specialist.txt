@@ -354,3 +354,8 @@ api-eu.remerge.io
 api-apac.remerge.io
 partners.remerge.io
 integrations.remerge.io
+
+Ad Salad
+
+adsalad.co.kr
+adsld.link
