@@ -1,6 +1,6 @@
 # In-File Duplicate Domain Report
 
-Generated: 2026-09-27 14:11 UTC
+Generated: 2026-09-27 14:29 UTC
 
 Domains that appear more than once within the SAME category
 file - usually a copy-paste mistake in a large file. The build
@@ -24,15 +24,15 @@ changes which tier the domain ends up in.
 
 | Domain | Lines | Exact match |
 |---|---|---|
-| rum.netflix.com | 173, 477 | no - differs |
-| ads.disneyplus.com | 231, 482 | no - differs |
-| ads.hbomax.com | 281, 499 | no - differs |
-| ads.paramountplus.com | 298, 502 | no - differs |
-| saa.paramountplus.com | 302, 503 | no - differs |
-| saa.cbsi.com | 306, 504 | no - differs |
-| ads.peacocktv.com | 325, 507 | no - differs |
-| ads.hotstar.com | 353, 522 | no - differs |
-| ads.zee5.com | 358, 526 | no - differs |
-| ads.iqiyi.com | 370, 532 | no - differs |
-| ads.crunchyroll.com | 447, 537 | no - differs |
+| rum.netflix.com | 173, 479 | no - differs |
+| ads.disneyplus.com | 233, 484 | no - differs |
+| ads.hbomax.com | 283, 501 | no - differs |
+| ads.paramountplus.com | 300, 504 | no - differs |
+| saa.paramountplus.com | 304, 505 | no - differs |
+| saa.cbsi.com | 308, 506 | no - differs |
+| ads.peacocktv.com | 327, 509 | no - differs |
+| ads.hotstar.com | 355, 524 | no - differs |
+| ads.zee5.com | 360, 528 | no - differs |
+| ads.iqiyi.com | 372, 534 | no - differs |
+| ads.crunchyroll.com | 449, 539 | no - differs |
 

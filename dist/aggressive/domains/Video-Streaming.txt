@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 410
+# Total domains: 412
 # Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -26,6 +26,7 @@ ad-metrics.espn.com
 ad-server.pluto.tv
 adgen-cdn.connatix.com
 adgen.connatix.com
+adinsights.netflix.net
 ads-fa-darwin.hulu.com
 ads-v-darwin.hulu.com
 ads.bitmovin.com
@@ -198,6 +199,7 @@ experiments.disneyplus.com
 experiments.hulu.com
 experiments.netflix.com
 gallery-metrics.api.brightcove.com
+games.analytics.netflix.net
 gaming-analytics.youtube.com
 global-1.telemetry.insights.video.a2z.com
 global-2.telemetry.insights.video.a2z.com

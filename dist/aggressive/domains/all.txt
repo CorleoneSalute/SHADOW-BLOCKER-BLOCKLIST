@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9702
+# Total domains: 9704
 # Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -325,6 +325,7 @@ adimg.uve.weibo.com
 adinfo.ra1.xlmc.sec.miui.com
 adinjector.net
 adinmo.com
+adinsights.netflix.net
 adition.com
 adjust.applovin.com
 adjust.flo.health
@@ -4178,6 +4179,7 @@ game.ad.xiaomi.com
 gamegamb.com
 gamelog-games.yahoo.co.jp
 gamelogs.rec.net
+games.analytics.netflix.net
 gaming-analytics.youtube.com
 gateway-v2.crakrevenue.com
 gateway.crakrevenue.com

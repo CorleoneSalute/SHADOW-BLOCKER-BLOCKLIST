@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9262
+# Total domains: 9264
 # Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -307,6 +307,7 @@
 0.0.0.0 adinfo.ra1.xlmc.sec.miui.com
 0.0.0.0 adinjector.net
 0.0.0.0 adinmo.com
+0.0.0.0 adinsights.netflix.net
 0.0.0.0 adition.com
 0.0.0.0 adjust.applovin.com
 0.0.0.0 adjust.flo.health
@@ -3987,6 +3988,7 @@
 0.0.0.0 gambleonline.ca
 0.0.0.0 game.ad.xiaomi.com
 0.0.0.0 gamelogs.rec.net
+0.0.0.0 games.analytics.netflix.net
 0.0.0.0 gaming-analytics.youtube.com
 0.0.0.0 gateway-v2.crakrevenue.com
 0.0.0.0 gateway.crakrevenue.com

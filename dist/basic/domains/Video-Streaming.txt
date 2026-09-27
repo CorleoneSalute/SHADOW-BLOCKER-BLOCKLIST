@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 373
+# Total domains: 375
 # Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -23,6 +23,7 @@ ad-beacon.tubitv.com
 ad-metrics.espn.com
 adgen-cdn.connatix.com
 adgen.connatix.com
+adinsights.netflix.net
 ads-fa-darwin.hulu.com
 ads-v-darwin.hulu.com
 ads.bitmovin.com
@@ -185,6 +186,7 @@ events.mux.com
 experience.conviva.com
 experience.piano.io
 gallery-metrics.api.brightcove.com
+games.analytics.netflix.net
 gaming-analytics.youtube.com
 global-1.telemetry.insights.video.a2z.com
 global-2.telemetry.insights.video.a2z.com
