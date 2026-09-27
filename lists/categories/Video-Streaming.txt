@@ -177,8 +177,10 @@ nmtracking.netflix.com
 customerevents.us-west-2.prodaa.netflix.com
 ichnaea-web.geo.netflix.com
 ichnaea-web.us-west-2.prodaa.netflix.com
+adinsights.netflix.net
+games.analytics.netflix.net
 
-# 3. YOUTUBE
+# YOUTUBE
 
 youtube-analytics.googleapis.com
 video-stats.l.google.com
@@ -194,7 +196,7 @@ kids-analytics.youtube.com
 youtube-kids-metrics.googleapis.com
 parental-control-metrics.youtubekids.com
 
-# 4. AMAZON PRIME
+# AMAZON PRIME
 
 # --- Device & Player Metrics ---
 player-telemetry.amazon.com
