@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - BASIC
-# Total domains: 509
+# Total domains: 508
 # Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -41,7 +41,6 @@
 ||ads-us-east-1.delivery.roku.com^
 ||ads-us-east-2.delivery.roku.com^
 ||ads-us-west-2.delivery.roku.com^
-||ads.aimitv.com^
 ||ads.alcatel.tcl.com^
 ||ads.beta.roku.com^
 ||ads.gcp.roku.com^

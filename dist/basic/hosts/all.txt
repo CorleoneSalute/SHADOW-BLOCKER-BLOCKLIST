@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9265
+# Total domains: 9264
 # Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -442,7 +442,6 @@
 0.0.0.0 ads.adinmo.com
 0.0.0.0 ads.admix.in
 0.0.0.0 ads.adyoulike.com
-0.0.0.0 ads.aimitv.com
 0.0.0.0 ads.alcatel.tcl.com
 0.0.0.0 ads.alipay.com
 0.0.0.0 ads.anura.io
