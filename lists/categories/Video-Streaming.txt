@@ -367,7 +367,6 @@ metrics.mxplayer.in
 analytics.iqiyi.com
 stats.iqiyi.com
 video-analytics.iqiyi.com
-ads.iqiyi.com
 analytics.youku.com
 stats.youku.com
 analytics.bilibili.com
@@ -500,7 +499,6 @@ saa.paramountplus.com !
 saa.cbsi.com !
 
 # PEACOCK TV
-ads.peacocktv.com !
 mt.ssai.peacocktv.com !
 
 # PLUTO TV
@@ -515,13 +513,12 @@ video-analytics.hotstar.com !
 player-metrics.hotstar.com !
 live-sports-analytics.hotstar.com !
 cricket-metrics.hotstar.com !
-ads.hotstar.com !
 video-analytics.voot.com !
 video-analytics.mxplayer.in !
 ads.mxplayer.in !
 ads.zee5.com !
 
-# EAST ASYA
+# EAST ASIA
 video-analytics.youku.com !
 video-analytics.bilibili.com !
 live-analytics.bilibili.com !
@@ -530,4 +527,3 @@ ads.iqiyi.com !
 # Niche
 video-analytics.vudu.com !
 player-metrics.vudu.com !
-ads.crunchyroll.com !
