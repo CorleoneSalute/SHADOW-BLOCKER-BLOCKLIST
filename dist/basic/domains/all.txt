@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9262
+# Total domains: 9261
 # Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -512,7 +512,6 @@ ads.imagevenue.com
 ads.imgflip.com
 ads.inmobi.com
 ads.internetdownloadmanager.com
-ads.iqiyi.com
 ads.jwplayer.com
 ads.kakaopay.com
 ads.lastpass.com
