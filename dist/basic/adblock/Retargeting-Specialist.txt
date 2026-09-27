@@ -1,7 +1,7 @@
 # ============================================================
 # RETARGETING SPECIALIST BLOCKLIST - BASIC
-# Total domains: 337
-# Generated: 2026-09-26 (UTC) - auto-generated, do not edit by hand
+# Total domains: 339
+# Generated: 2026-09-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -13,8 +13,10 @@
 ||ads.remerge.io^
 ||ads.retargeter.com^
 ||ads.us.criteo.com^
+||adsalad.co.kr^
 ||adserver.adikteev.com^
 ||adserver.remerge.io^
+||adsld.link^
 ||adx.zetaglobal.com^
 ||ai.adikteev.com^
 ||antifraud.adikteev.com^
