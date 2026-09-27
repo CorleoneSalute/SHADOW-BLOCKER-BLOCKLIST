@@ -301,11 +301,9 @@ ads.paramountplus.com
 ad-analytics.paramountplus.com
 live-metrics.paramountplus.com
 sports-analytics.paramountplus.com
-saa.paramountplus.com
 cbsinteractive.hb.omtrdc.net
 analytics.cbsaavideo.com
 metrics.cbs.com
-saa.cbsi.com
 cbsi.demdex.net
 
 # --- Pluto TV ---
@@ -496,10 +494,8 @@ player-analytics.hbomax.com !
 video-metrics.hbomax.com !
 cdn-analytics.hbomax.com !
 personalization.hbomax.com !
-ads.hbomax.com !
 
 # PARAMOUNT+
-ads.paramountplus.com !
 saa.paramountplus.com !
 saa.cbsi.com !
 
