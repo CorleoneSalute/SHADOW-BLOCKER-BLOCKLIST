@@ -2279,3 +2279,7 @@ adsstar.in # untrusted
 Global Ads Media
 
 globaladsmedia.us
+
+# Adsbase Ltd.
+
+adsbase.ltd
