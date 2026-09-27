@@ -476,7 +476,6 @@ abtest.netflix.com !
 experiments.netflix.com !
 player-telemetry.netflix.com !
 cdn-telemetry.netflix.com !
-rum.netflix.com !
 
 # Disney
 playback-metrics.disneyplus.com !
