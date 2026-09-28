@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9262
+# Total domains: 9263
 # Generated: 2026-09-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4894,6 +4894,7 @@
 0.0.0.0 log22-normal-useast1a.tiktokv.com
 0.0.0.0 log22-normal-useast2a.tiktokv.com
 0.0.0.0 log22-normal.tiktokv.com
+0.0.0.0 log3-misc-lf.amemv.com.cn
 0.0.0.0 log3-normal-c-alisg.tiktokv.com
 0.0.0.0 log3-normal-c-useast1a.tiktokv.com
 0.0.0.0 log31-normal-alisg.tiktokv.com
