@@ -938,9 +938,7 @@ frontier16-normal-no1a.tiktokv.eu !
 frontier16-normal-useastred.tiktokv.eu !
 frontier23-normal-alisg.tiktokv.com !
 frontier23-normal-useast1a.tiktokv.com !
-frontier4-pp-lf.amemv.com !
-frontier4-pp-lq.amemv.com !
-frontier4-pp.amemv.com !
+
 ```
 
 **DNS Tracking (CNAME)** (4 domain)
