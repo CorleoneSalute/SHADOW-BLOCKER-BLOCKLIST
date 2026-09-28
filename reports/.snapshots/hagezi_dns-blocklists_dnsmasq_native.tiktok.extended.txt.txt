@@ -130,7 +130,7 @@ gpm-mon-sg.byteoversea.com
 gpm-mon-va-useast1a.byteoversea.com
 gpm-mon-va-useast2a.byteoversea.com
 gpm-mon-va.byteoversea.com
-h4g3z1-native.tiktok.extended.web.app
+h4g3z1-native-tiktok-extended.web.app
 haohuo.snssdk.com
 i.snssdk.com
 live-video-log16-normal-alisg.tiktokv.com

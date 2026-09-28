@@ -140,7 +140,7 @@ global-ad-intl-pri-alisgp.alb.xiaomi.com
 globalvideo.cdn.pandora.intl.xiaomi.com
 gstat.pandora.xiaomi.com
 gtglobal.intl.miui.com
-h4g3z1-native.xiaomi.web.app
+h4g3z1-native-xiaomi.web.app
 h5-ru.video.intl.xiaomi.com
 h5.tv.mi.com
 hd.xiaomi.com

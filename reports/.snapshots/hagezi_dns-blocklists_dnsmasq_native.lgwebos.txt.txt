@@ -73,6 +73,7 @@ ee-rdx2-lgtvsdp-com.aws-prd.net
 eg-ad-lgsmartad-com.aws-prd.net
 eg-info-lgsmartad-com.aws-prd.net
 es-ad-lgsmartad-com.aws-prd.net
+es-info-lgsmartad-com.aws-prd.net
 et-ad-lgsmartad-com.aws-prd.net
 eu7-info-lgsmartad-com.aws-prd.net
 fi-ad-lgsmartad-com.aws-prd.net
@@ -97,7 +98,7 @@ gr-info-lgsmartad-com.aws-prd.net
 gr-rdx2-lgtvsdp-com.aws-prd.net
 gt-ad-lgsmartad-com.aws-prd.net
 gy-ad-lgsmartad-com.aws-prd.net
-h4g3z1-native.lgwebos.web.app
+h4g3z1-native-lgwebos.web.app
 hk-ad-lgsmartad-com.aws-prd.net
 hn-ad-lgsmartad-com.aws-prd.net
 hr-ad-lgsmartad-com.aws-prd.net

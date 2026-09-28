@@ -246,7 +246,7 @@ gui-server-sg.allawnos.com
 gui-server-us.allawnos.com
 guif-eu.coloros.com
 guif.coloros.com
-h4g3z1-native.oppo-realme.web.app
+h4g3z1-native-oppo-realme.web.app
 hizonetech.com
 i-cn01a.ocloud.heytapmobi.com
 i-in.browser.heytapmobile.com

@@ -48,7 +48,7 @@ dqa-auth.di.atlas.samsung.com
 ehg-samsungusa.hitbox.com
 event-tracking.samsung.com
 fast.samsungsingapore.demdex.net
-h4g3z1-native.samsung.web.app
+h4g3z1-native-samsung.web.app
 images.frbusiness.samsung.com
 images.it.business.samsung.com
 images.partnersupport.samsung.com
