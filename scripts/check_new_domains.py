@@ -80,7 +80,7 @@ TRACKING_KEYWORDS = [
     "geo", "geoip", "geoloc", "geolog", "geologger", "geologging", "geologs", "geotrack", "geotracker", "geotracking", "geotrackx",
     "tag", "tagger", "tagging", "tagx",
     "bet", "betting", "casino", "poker",
-]   
+]
 
 # Multi-part public suffixes where the "core domain" needs 3 labels
 # instead of 2 (e.g. example.co.uk, not just co.uk). Not a complete
@@ -123,7 +123,7 @@ SOURCES = [
     {"name": "1Hosts Lite", "owner": "badmojr", "repo": "1Hosts",
      "path": "Lite/domains.txt", "format": "plain"},
     {"name": "no-google",
-     "raw_url": "https://raw.githubusercontent.com/nickspaargaren/no-google/refs/heads/master/pihole-google.txt",
+     "raw_url": "https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt",
      "format": "hosts"},
     {"name": "HaGeZi Multi Ultimate",
      "raw_url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
@@ -338,9 +338,7 @@ def check_all():
         for d in missing:
             b = base_domain(d)
             if b in existing_bases:
-                cats = sorted(existing_base_to_categories[b])
-                core_itself_blocked = b in existing
-                known_base.append((d, cats, core_itself_blocked))
+                known_base.append((d, base_to_category_lines[b]))
                 continue
             kw = matching_tracking_keyword(d)
             if kw:
@@ -410,10 +408,14 @@ def check_all():
         return block
 
     def render_known_base_table(entries):
-        block = ["| Domain | Category | Core domain itself blocked? |", "|---|---|---|"]
-        for domain, cats, core_blocked in entries:
-            flag = "yes" if core_blocked else "no"
-            block.append(f"| {domain} | {', '.join(cats)} | {flag} |")
+        block = ["| Domain | Category (line) |", "|---|---|"]
+        for domain, cat_lines in entries:
+            parts = []
+            for cat, line_nums in sorted(cat_lines.items()):
+                first = line_nums[0]
+                extra = f", +{len(line_nums) - 1} more" if len(line_nums) > 1 else ""
+                parts.append(f"{cat} (line {first}{extra})")
+            block.append(f"| {domain} | {'; '.join(parts)} |")
         block.append("")
         return block
 
