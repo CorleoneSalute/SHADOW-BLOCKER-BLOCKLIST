@@ -921,6 +921,7 @@ frontier-ru.tiktokv.com !
 frontier-ttp2.tiktokv.us !
 frontier-va.tiktokv.com !
 frontier.amemv.com !
+rtlog5-applog-lf.amemv.com
 frontier.tiktokv-eu.com !
 frontier.tiktokv.com !
 frontier.tiktokv.eu !
