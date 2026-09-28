@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9706
+# Total domains: 9707
 # Generated: 2026-09-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4142,6 +4142,7 @@ frontier16-normal-no1a.tiktokv.eu
 frontier16-normal-useastred.tiktokv.eu
 frontier23-normal-alisg.tiktokv.com
 frontier23-normal-useast1a.tiktokv.com
+frontier4-pp-hl.amemv.com
 frontier4-pp-lf.amemv.com
 frontier4-pp-lq.amemv.com
 frontier4-pp.amemv.com
