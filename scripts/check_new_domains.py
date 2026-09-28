@@ -338,9 +338,7 @@ def check_all():
         for d in missing:
             b = base_domain(d)
             if b in existing_bases:
-                cats = sorted(existing_base_to_categories[b])
-                core_itself_blocked = b in existing
-                known_base.append((d, cats, core_itself_blocked))
+                known_base.append((d, base_to_category_lines[b]))
                 continue
             kw = matching_tracking_keyword(d)
             if kw:
@@ -410,10 +408,14 @@ def check_all():
         return block
 
     def render_known_base_table(entries):
-        block = ["| Domain | Category | Core domain itself blocked? |", "|---|---|---|"]
-        for domain, cats, core_blocked in entries:
-            flag = "yes" if core_blocked else "no"
-            block.append(f"| {domain} | {', '.join(cats)} | {flag} |")
+        block = ["| Domain | Category (line) |", "|---|---|"]
+        for domain, cat_lines in entries:
+            parts = []
+            for cat, line_nums in sorted(cat_lines.items()):
+                first = line_nums[0]
+                extra = f", +{len(line_nums) - 1} more" if len(line_nums) > 1 else ""
+                parts.append(f"{cat} (line {first}{extra})")
+            block.append(f"| {domain} | {'; '.join(parts)} |")
         block.append("")
         return block
 
