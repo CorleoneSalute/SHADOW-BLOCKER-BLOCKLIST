@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9708
+# Total domains: 9709
 # Generated: 2026-09-29 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -676,6 +676,7 @@ adscdn.baidu.com
 adscms.mdn.sbz.apple.com
 adscms.msc.sbz.apple.com
 adsconfig.life360.com
+adsctv.com
 adsdianying.baidu.com
 adsdk.bing.net
 adsdktest.apple.com
