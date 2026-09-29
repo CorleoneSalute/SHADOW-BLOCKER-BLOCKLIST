@@ -2283,3 +2283,7 @@ globaladsmedia.us
 # Adsbase Ltd.
 
 adsbase.ltd
+
+# adsctv
+
+adsctv.com !
