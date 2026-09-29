@@ -14,12 +14,12 @@ For each candidate domain not already in lists/categories/, checks
   3. New platform - neither of the above; core domain not covered.
 
 Domains whose core domain IS already covered somewhere in
-lists/categories/ are shown separately, with the category file(s) and
+lists/categories/ are shown separately, with the category file(s),
 approximate line number(s) where a domain sharing that core domain
-currently appears - useful for finding the right spot in a large
-category file. Line numbers reflect the file as of this run; they
-shift as the file is edited, so treat them as approximate if the
-report is more than a few days old.
+currently appears, and whether the bare core domain itself is directly
+blocked. Line numbers reflect the file as of this run; they shift as
+the file is edited, so treat them as approximate if the report is more
+than a few days old.
 
 Also compares each source's total domain count to its previous run
 and flags a >50% drop as a likely source format/location change.
@@ -302,7 +302,7 @@ def check_all():
 
     # status: "ok" | "first_run" | "error"
     # payload for "ok": (known_base, keyword_matches, random, new_platform)
-    # known_base entries: (domain, {category: [line_numbers]})
+    # known_base entries: (domain, {category: [line_numbers]}, core_itself_blocked)
     # keyword_matches entries: (domain, keyword)
     results = []
     drop_warnings = []
@@ -338,7 +338,9 @@ def check_all():
         for d in missing:
             b = base_domain(d)
             if b in existing_bases:
-                known_base.append((d, base_to_category_lines[b]))
+                cats = base_to_category_lines[b]
+                core_itself_blocked = b in existing
+                known_base.append((d, cats, core_itself_blocked))
                 continue
             kw = matching_tracking_keyword(d)
             if kw:
@@ -369,7 +371,9 @@ def check_all():
         "to where a domain sharing that core domain currently sits in the",
         "category file - useful for finding the right spot, but they shift",
         "as the file is edited, so treat them as approximate if this report",
-        "is more than a few days old.",
+        "is more than a few days old. The 'core domain itself blocked?'",
+        "column shows whether the bare core domain (e.g. example.com, not",
+        "sub.example.com) is itself directly present in the file.",
         "",
     ]
 
@@ -388,8 +392,8 @@ def check_all():
         "- Possibly obfuscated: the domain name looks algorithmically",
         "  generated (high character randomness, few vowels).",
         "- New platform: neither of the above, core domain not covered.",
-        "- Core domain already covered: category file(s) and approximate",
-        "  line number(s) shown alongside.",
+        "- Core domain already covered: category file(s), approximate",
+        "  line number(s), and whether the core domain itself is blocked.",
         "",
     ]
 
@@ -408,14 +412,15 @@ def check_all():
         return block
 
     def render_known_base_table(entries):
-        block = ["| Domain | Category (line) |", "|---|---|"]
-        for domain, cat_lines in entries:
+        block = ["| Domain | Category (line) | Core domain itself blocked? |", "|---|---|---|"]
+        for domain, cat_lines, core_blocked in entries:
             parts = []
             for cat, line_nums in sorted(cat_lines.items()):
                 first = line_nums[0]
                 extra = f", +{len(line_nums) - 1} more" if len(line_nums) > 1 else ""
                 parts.append(f"{cat} (line {first}{extra})")
-            block.append(f"| {domain} | {'; '.join(parts)} |")
+            flag = "yes" if core_blocked else "no"
+            block.append(f"| {domain} | {'; '.join(parts)} | {flag} |")
         block.append("")
         return block
 
