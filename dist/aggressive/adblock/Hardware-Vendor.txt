@@ -1,6 +1,6 @@
 # ============================================================
 # HARDWARE VENDOR BLOCKLIST - AGGRESSIVE
-# Total domains: 152
+# Total domains: 153
 # Generated: 2026-09-29 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -115,6 +115,7 @@
 ||metrics.qira.lenovo.com^
 ||metrics.telemetry.data.nvidia.cn^
 ||metrics.telemetry.data.nvidia.com^
+||metrics.teleport.nvidia.com^
 ||metrix.ols.us.dell.com^
 ||nvcrashreporter.nvidia.com^
 ||nvidia.telemetry.internet.microsoft.com^
