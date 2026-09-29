@@ -1,6 +1,6 @@
 # ============================================================
 # MESSAGING BLOCKLIST - BASIC
-# Total domains: 33
+# Total domains: 34
 # Generated: 2026-09-29 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -29,6 +29,7 @@
 0.0.0.0 pdat.matterlytics.com
 0.0.0.0 pixel.messenger.com
 0.0.0.0 point-ads.line-apps.com
+0.0.0.0 posthog-element-call.element.io
 0.0.0.0 posthog-metrics.element.io
 0.0.0.0 posthog.element.io
 0.0.0.0 posthog.hss.element.io

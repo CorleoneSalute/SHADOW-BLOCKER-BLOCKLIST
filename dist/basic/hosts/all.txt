@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9263
+# Total domains: 9264
 # Generated: 2026-09-29 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6284,6 +6284,7 @@
 0.0.0.0 post.update.criteo.com
 0.0.0.0 postback.adikteev.com
 0.0.0.0 postback.remerge.io
+0.0.0.0 posthog-element-call.element.io
 0.0.0.0 posthog-metrics.element.io
 0.0.0.0 posthog.element.io
 0.0.0.0 posthog.hss.element.io
