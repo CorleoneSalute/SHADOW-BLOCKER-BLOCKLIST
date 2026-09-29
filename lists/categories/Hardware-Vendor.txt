@@ -33,7 +33,7 @@ analytics.learn.nvidia.com
 api.xlogs.nvidia.com
 events.telemetry.data.nvidia.com
 metrics.telemetry.data.nvidia.com
-metrics.teleport.nvidia.com ! # GeForce Now streaming oturum kalitesi ve bağlantı yönetimi etkilenebilir.
+metrics.teleport.nvidia.com !
 metrics.kaizen.nvidia.com
 telemetry.data.nvidia.com
 
