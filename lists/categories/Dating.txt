@@ -64,7 +64,8 @@ analytics.badoo.com
 # ZOOSK
 analytics.zoosk.com
 
-# ⚠️ ADWARE PUP BLOCK ALL DOMAINS
+# ⚠️ ADWARE PUP
+
 # [ADULT FRIENDFINDER — FriendFinder Networks]
 adultfriendfinder.com
 api.adultfriendfinder.com
