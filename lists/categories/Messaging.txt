@@ -12,7 +12,7 @@ posthog.hss.element.io
 sentry-metrics.tools.element.io
 sentry.matrix.org
 collector.jaeger.matrix.org
-posthog-element-call.element.io !
+posthog-element-call.element.io
 
 # Messenger
 pixel.messenger.com
