@@ -1,7 +1,7 @@
 # SESSION REPLAY & HEATMAP BLOCKLST
 
-# Total domains: 292
-# Last update: 2026/09/14
+# Total domains: 293
+# Last update: 2026/09/30
 # Note: trailing "!" marks a domain as aggressive-only
 
 # HOTJAR

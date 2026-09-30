@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9281
+# Total domains: 9282
 # Generated: 2026-09-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6249,6 +6249,7 @@ pl-info-lgsmartad-com.aws-prd.net
 pl-rdx2-lgtvsdp-com.aws-prd.net
 placed.com
 pladollmo.com
+planning-analytics.ibmcloud.com
 platform-api.vistarmedia.com
 platform-cdn.sharethrough.com
 platform.admaster.cc

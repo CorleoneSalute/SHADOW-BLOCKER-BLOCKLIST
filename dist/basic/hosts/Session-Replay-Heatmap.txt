@@ -1,6 +1,6 @@
 # ============================================================
 # SESSION REPLAY HEATMAP BLOCKLIST - BASIC
-# Total domains: 292
+# Total domains: 293
 # Generated: 2026-09-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -187,6 +187,7 @@
 0.0.0.0 openreplay.com
 0.0.0.0 p.clarity.ms
 0.0.0.0 p.plerdy.com
+0.0.0.0 planning-analytics.ibmcloud.com
 0.0.0.0 plerdy.com
 0.0.0.0 preprocessor.heatmap.com
 0.0.0.0 ptengine.com
