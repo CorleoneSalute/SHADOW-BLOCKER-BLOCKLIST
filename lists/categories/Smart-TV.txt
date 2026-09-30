@@ -526,6 +526,7 @@ sentry1.foxxum.com
 ============================================================
 digitalsmiths.net
 hbbtv-track.redbutton.de
+redbutton-adproxy-lb-prod.redbutton.de !
 
 # THIRD-PARTY PROXY / DATA NETWORK (Bright Data) — ⚠️ Israel proxyware
 ============================================================
