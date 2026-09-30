@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 326
+# Total domains: 327
 # Generated: 2026-09-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -127,6 +127,7 @@
 0.0.0.0 cc-api.hisavana.com
 0.0.0.0 central-log.opera.com
 0.0.0.0 chromereporting-pa.googleapis.com
+0.0.0.0 clck.yandex.net
 0.0.0.0 clck.yandex.ru
 0.0.0.0 click.hm.baidu.com
 0.0.0.0 clogger.waimai.baidu.com

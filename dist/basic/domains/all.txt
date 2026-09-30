@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9279
+# Total domains: 9280
 # Generated: 2026-09-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2723,6 +2723,7 @@ classify-app-sg.allawnos.com
 classify-app-us.allawnos.com
 clck.adskeeper.com
 clck.mgid.com
+clck.yandex.net
 clck.yandex.ru
 cldata-ads-fr.heytapmobile.com
 cldata-ads-ru.heytapmobile.com

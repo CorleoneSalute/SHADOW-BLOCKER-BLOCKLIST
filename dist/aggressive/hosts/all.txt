@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9724
+# Total domains: 9725
 # Generated: 2026-09-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2809,6 +2809,7 @@
 0.0.0.0 classify-app-us.allawnos.com
 0.0.0.0 clck.adskeeper.com
 0.0.0.0 clck.mgid.com
+0.0.0.0 clck.yandex.net
 0.0.0.0 clck.yandex.ru
 0.0.0.0 cldata-ads-fr.heytapmobile.com
 0.0.0.0 cldata-ads-ru.heytapmobile.com
