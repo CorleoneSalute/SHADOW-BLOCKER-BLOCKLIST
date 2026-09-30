@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9264
-# Generated: 2026-09-29 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9279
+# Generated: 2026-09-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -288,6 +288,7 @@
 0.0.0.0 add-mapping-for-wrong-activity-log-classes.feature.varify.io
 0.0.0.0 addata2.ads.vip.corp.yahoo.com
 0.0.0.0 addoncrop.com
+0.0.0.0 addynamo.com
 0.0.0.0 adeeply.ru
 0.0.0.0 adelphic.com
 0.0.0.0 adex2.fwmrm.net
@@ -2730,6 +2731,7 @@
 0.0.0.0 cleanupmymac.live
 0.0.0.0 clear-telemetry.jf.intel.com
 0.0.0.0 clesolea.com
+0.0.0.0 cleverads.com
 0.0.0.0 cli.gs
 0.0.0.0 click-analytics.dell.com
 0.0.0.0 click.adikteev.com
@@ -2959,6 +2961,7 @@
 0.0.0.0 connect.criteo.com
 0.0.0.0 connectad.io
 0.0.0.0 connectadrealtime.com
+0.0.0.0 connectads.com
 0.0.0.0 connectid.yahoo.com
 0.0.0.0 consentlog.cookieyes.com
 0.0.0.0 consentlogapi.cookieyes.com
@@ -4167,6 +4170,8 @@
 0.0.0.0 h5api.shouji.sogou.com
 0.0.0.0 hads.huuuge.net
 0.0.0.0 haohuo.snssdk.com
+0.0.0.0 hardcoreadv.com
+0.0.0.0 hardcoreadvertising.com
 0.0.0.0 hb-4y7w.raps.ravm.tv
 0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 hb-e8zk.raps.ravm.tv
@@ -5593,6 +5598,7 @@
 0.0.0.0 mobvista.com
 0.0.0.0 mobwsa.ximalaya.com
 0.0.0.0 mockup.ads.brave.com
+0.0.0.0 mogokads.com
 0.0.0.0 moloco.com
 0.0.0.0 mon-boot.tiktokv.com
 0.0.0.0 mon-csj-maliva-ios.byteoversea.com
@@ -5762,6 +5768,7 @@
 0.0.0.0 myhackedemail.com
 0.0.0.0 myherotech.com
 0.0.0.0 mylead.global
+0.0.0.0 myopenads.com
 0.0.0.0 mypasslock.com
 0.0.0.0 mywallet.ads.bravesoftware.com
 0.0.0.0 n.ads1-adnow.com
@@ -8941,7 +8948,13 @@
 0.0.0.0 web.uxcam.com
 0.0.0.0 web1.adf.ly
 0.0.0.0 web3.adf.ly
+0.0.0.0 webads.com
+0.0.0.0 webads.es
+0.0.0.0 webads.eu
+0.0.0.0 webads.it
 0.0.0.0 webads.mgr.consensu.org
+0.0.0.0 webads.nl
+0.0.0.0 webads.us
 0.0.0.0 webanalytics.sportingbet.com
 0.0.0.0 webapp.driversupport.com
 0.0.0.0 webgains.io
@@ -9201,6 +9214,8 @@
 0.0.0.0 yieldlab.de
 0.0.0.0 yieldlab.net
 0.0.0.0 yieldmo.com
+0.0.0.0 yingliangads.cn
+0.0.0.0 yingliangads.com
 0.0.0.0 ylcomputing.com
 0.0.0.0 youappi.com
 0.0.0.0 youbora.com

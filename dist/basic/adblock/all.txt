@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9264
-# Generated: 2026-09-29 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9279
+# Generated: 2026-09-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -288,6 +288,7 @@
 ||add-mapping-for-wrong-activity-log-classes.feature.varify.io^
 ||addata2.ads.vip.corp.yahoo.com^
 ||addoncrop.com^
+||addynamo.com^
 ||adeeply.ru^
 ||adelphic.com^
 ||adex2.fwmrm.net^
@@ -2730,6 +2731,7 @@
 ||cleanupmymac.live^
 ||clear-telemetry.jf.intel.com^
 ||clesolea.com^
+||cleverads.com^
 ||cli.gs^
 ||click-analytics.dell.com^
 ||click.adikteev.com^
@@ -2959,6 +2961,7 @@
 ||connect.criteo.com^
 ||connectad.io^
 ||connectadrealtime.com^
+||connectads.com^
 ||connectid.yahoo.com^
 ||consentlog.cookieyes.com^
 ||consentlogapi.cookieyes.com^
@@ -4167,6 +4170,8 @@
 ||h5api.shouji.sogou.com^
 ||hads.huuuge.net^
 ||haohuo.snssdk.com^
+||hardcoreadv.com^
+||hardcoreadvertising.com^
 ||hb-4y7w.raps.ravm.tv^
 ||hb-api.omnitagjs.com^
 ||hb-e8zk.raps.ravm.tv^
@@ -5593,6 +5598,7 @@
 ||mobvista.com^
 ||mobwsa.ximalaya.com^
 ||mockup.ads.brave.com^
+||mogokads.com^
 ||moloco.com^
 ||mon-boot.tiktokv.com^
 ||mon-csj-maliva-ios.byteoversea.com^
@@ -5762,6 +5768,7 @@
 ||myhackedemail.com^
 ||myherotech.com^
 ||mylead.global^
+||myopenads.com^
 ||mypasslock.com^
 ||mywallet.ads.bravesoftware.com^
 ||n.ads1-adnow.com^
@@ -8941,7 +8948,13 @@
 ||web.uxcam.com^
 ||web1.adf.ly^
 ||web3.adf.ly^
+||webads.com^
+||webads.es^
+||webads.eu^
+||webads.it^
 ||webads.mgr.consensu.org^
+||webads.nl^
+||webads.us^
 ||webanalytics.sportingbet.com^
 ||webapp.driversupport.com^
 ||webgains.io^
@@ -9201,6 +9214,8 @@
 ||yieldlab.de^
 ||yieldlab.net^
 ||yieldmo.com^
+||yingliangads.cn^
+||yingliangads.com^
 ||ylcomputing.com^
 ||youappi.com^
 ||youbora.com^
