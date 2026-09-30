@@ -54,6 +54,7 @@ analytics.komoot.com
 
 # NAVER MAP
 wcs.naver.com
+cologger.shopping.naver.com
 ad.search.naver.com
 ads.naver.com
 analytics.naver.com
