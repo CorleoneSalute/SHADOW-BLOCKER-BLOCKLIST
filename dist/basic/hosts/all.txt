@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9282
+# Total domains: 9283
 # Generated: 2026-09-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8468,6 +8468,7 @@
 0.0.0.0 tracking.risk.lexisnexis.com
 0.0.0.0 tracking.rosettastone.com
 0.0.0.0 tracking.rus.miui.com
+0.0.0.0 tracking.samsungknox.com
 0.0.0.0 tracking.screencastify.com
 0.0.0.0 tracking.screenpal.com
 0.0.0.0 tracking.seatgeek.com

@@ -1,7 +1,7 @@
 # Mobile OEM & Telecom Operators Blocklist
 
-# Total domains: 1115
-# Last update: 2026/09/27
+# Total domains: 1116
+# Last update: 2026/09/30
 # Note: trailing "!" marks a domain as aggressive-only
 
 ## SAMSUNG (218 domain)
