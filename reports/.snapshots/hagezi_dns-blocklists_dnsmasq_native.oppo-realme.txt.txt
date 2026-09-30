@@ -34,6 +34,7 @@ api-id.play.heytapmobile.com
 api-id.theme.heytapmobi.com
 api-id.theme.heytapmobile.com
 api-in.cdo.heytapmobile.com
+apisnd.heytapmobi.com
 appconf-ocs-eu.heytapdl.com
 appconf-ocs-in.heytapdl.com
 appconf-ocs-sgp.heytapdl.com
