@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9727
+# Total domains: 9728
 # Generated: 2026-09-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6846,6 +6846,7 @@
 ||recommendations.springernature.com^
 ||recorder.sessionrewind.com^
 ||recording.crazyegg.com^
+||redbutton-adproxy-lb-prod.redbutton.de^
 ||redirect.applovin.com^
 ||redirect.ligatus.com^
 ||redirect.pandora.xiaomi.com^
