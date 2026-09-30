@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 1883
-# Total platforms: 174
+# Total platforms: 179
 # Last update: 2026/09/29
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2287,3 +2287,33 @@ adsbase.ltd
 # adsctv
 
 adsctv.com !
+
+# YING LIANG SINGAPORE PTE. LTD.
+
+yingliangads.com
+yingliangads.cn
+
+# Aleph Group
+
+connectads.com
+addynamo.com
+cleverads.com
+
+# Hardcore Advertising
+
+hardcoreadvertising.com
+hardcoreadv.com
+
+# Big Impact Media Co. Ltd.
+
+myopenads.com
+mogokads.com
+
+# WebAds Europe Holding B.V.
+
+webads.com
+webads.us
+webads.es
+webads.it
+webads.nl
+webads.eu
