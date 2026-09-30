@@ -290,6 +290,7 @@ metrika.yandex.ru
 bymetrika.yandex.com
 yandexmetrica.com
 awaps.yandex.net
+clck.yandex.net
 awaps.yandex.ru
 an.yandex.ru
 clck.yandex.ru
