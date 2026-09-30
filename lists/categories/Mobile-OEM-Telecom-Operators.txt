@@ -14,6 +14,7 @@ analytics.bigdata.samsung.com
 analytics.mpay.samsung.com
 analytics.samsungedo.com
 analytics.samsungknox.com
+tracking.samsungknox.com
 api-analytics.samsungknox.com
 b2banalytics.samsungknox.com
 bigdata.ssp.samsung.com
