@@ -1,6 +1,6 @@
 # ============================================================
 # NAVIGATION MAPPING BLOCKLIST - AGGRESSIVE
-# Total domains: 45
+# Total domains: 46
 # Generated: 2026-09-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -33,6 +33,7 @@
 0.0.0.0 analytics.naver.com
 0.0.0.0 analytics.waze.com
 0.0.0.0 appanalytics.tomtom.com
+0.0.0.0 cologger.shopping.naver.com
 0.0.0.0 crash.mapbox.com
 0.0.0.0 events.mapbox.cn
 0.0.0.0 events.mapbox.com

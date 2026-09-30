@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9725
+# Total domains: 9726
 # Generated: 2026-09-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3028,6 +3028,7 @@ collector1-eu-central.pokerist.com
 collector1-eu-west.pokerist.com
 collector1-us-east.pokerist.com
 collector1-us-west.pokerist.com
+cologger.shopping.naver.com
 combostruct.com
 commandersact.com
 commerce.sovrn.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9280
+# Total domains: 9281
 # Generated: 2026-09-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2938,6 +2938,7 @@
 0.0.0.0 collector1-eu-west.pokerist.com
 0.0.0.0 collector1-us-east.pokerist.com
 0.0.0.0 collector1-us-west.pokerist.com
+0.0.0.0 cologger.shopping.naver.com
 0.0.0.0 combostruct.com
 0.0.0.0 commandersact.com
 0.0.0.0 commerce.sovrn.com
