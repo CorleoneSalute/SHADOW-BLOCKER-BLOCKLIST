@@ -1,6 +1,6 @@
 # In-File Duplicate Domain Report
 
-Generated: 2026-09-30 21:32 UTC
+Generated: 2026-10-01 20:47 UTC
 
 Domains that appear more than once within the SAME category
 file - usually a copy-paste mistake in a large file. The build
@@ -12,4 +12,12 @@ identical (same case, same trailing "!" flag). "no" means they
 differ - worth a closer look, since a mismatched "!" flag
 changes which tier the domain ends up in.
 
-No in-file duplicates found.
+2 duplicate domain(s) found across 1 file(s):
+
+## Content-Creation-Live-Streaming
+
+| Domain | Lines | Exact match |
+|---|---|---|
+| ads.rmbl.ws | 38, 44 | yes |
+| analytics.livestream.com | 83, 91 | yes |
+
