@@ -1,0 +1,124 @@
+# CONTENT CREATION & LIVE STREAMING BLOCKLIST
+
+Total domains:
+Last update: 10/1/2026
+
+# YouTube 
+
+youtube-analytics.googleapis.com
+video-stats.l.google.com
+analytics.youtube.com
+ads.youtube.com
+
+# DAILYMOTION
+
+impressions-explorer.data.dailymotion.com
+dmxleo.dailymotion.com
+dm-event.net
+advertising.dailymotion.com
+fr.advertising.dailymotion.com
+logger.dailymotion.com
+metrics.dailymotion.com
+telemetry.dailymotion.com
+
+# TWITCH
+
+analytics.twitch.tv
+ads.twitch.tv
+metrics.twitch.tv
+beacon.twitch.tv !
+vmetric.twitch.tv !
+origin.edge-beta.ads.twitch.tv
+origin.edge.ads.twitch.tv
+
+# RUMBLE
+
+ads.rumble.com
+anonymized-metrics.rmbl.ws
+ads.rmbl.ws
+a.ads.rmbl.ws
+d1.ads.rmbl.ws
+d2.ads.rmbl.ws
+d3.ads.rmbl.ws
+d4.ads.rmbl.ws
+ads.rmbl.ws
+rum-obj.us-east-1.rumble.cloud
+rum-obj.us-east-2.rumble.cloud
+rum-obj.us-west-1.rumble.cloud
+
+# SOOPLIVE/AFREECATV
+
+ad.afreecatv.com
+adimg.afreecatv.com
+
+# HUYA
+
+ad.huya.com
+metric-jingwei.huya.com
+metric.huya.com
+stat.wup.huya.com
+statwup.huya.com
+ylog.huya.com
+ylog1.huya.com
+ylog2.huya.com
+ylog3.huya.com
+
+# DOUYU
+
+wan.douyu.com
+
+# BILIBILI
+
+data.bilibili.com
+ad.api.biligame.net
+line2.adscore.api.biligame.net
+
+# NIMO TV ( HUYA GLOBAL)
+
+metric.nimo.tv
+statwup.nimo.tv
+
+# VIMEO / LIVESTREAM
+
+analytics.livestream.com
+utmtrk.vimeo.com
+appsflyer-events.vimeo.com
+mg-track.vimeo.com
+player-telemetry.vimeo.com
+qualtrics-events.vimeo.com
+trk.mg.vimeo.com
+trk.trx.vimeo.com
+analytics.livestream.com
+metrics.donations.livestream.com
+adjustyourtracking.vhx.tv
+
+# YOUNOW
+
+data.younow.com
+
+# STREAMYARD
+
+logger.streamyard.com
+
+# RESTREAM.IO
+
+analytics.restream.io
+api.analytics.restream.io
+analytics.eu-west-1.restream.io
+analytics.eu.restream.io
+analytics.us-east-1.restream.io
+chat.analytics.eu.restream.io
+chat.analytics.restream.io
+rads.analytics.eu.restream.io
+rads.analytics.restream.io
+
+# Freetube (YouTube Client)
+
+analytics.freetubeapp.io
+
+# Odysee
+
+monitor.odysee.com
+monitor.bob.lbry.tv
+monitor.lbry.tv
+monitor.scalable.lbry.tv
