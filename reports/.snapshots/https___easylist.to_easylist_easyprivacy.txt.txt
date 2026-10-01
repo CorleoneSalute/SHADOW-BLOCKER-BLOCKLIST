@@ -8696,6 +8696,7 @@ browser.pipe.aria.microsoft.com
 browserguides.net
 browsermine.com
 browserpusher.com
+browsertdidticket.m.qq.com
 brpayless.eccocar.com
 brqory.notino.sk
 brquazzar.eccocar.com
@@ -10764,6 +10765,7 @@ crrm.onjoyri.de
 crs.actonservice.com
 crta.and.co.uk
 crta.dailymail.co.uk
+crta.dailymail.com
 crta.metro.co.uk
 crtx.info
 cruisetourist.com
@@ -13341,6 +13343,7 @@ edococounter.de
 edpsmart.edpcomunicacao.com.br
 edriving.actonservice.com
 edrone.me
+edshowpigs.com
 edt02.net
 edtp.de
 edtrainingcenter.actonservice.com
@@ -14561,6 +14564,7 @@ events.ricoh.de
 events.ricoh.ie
 events.s4long.com
 events.santander.co.uk
+events.searchtap.net
 events.shareably.net
 events.shoplift.ai
 events.sk.ht
@@ -15678,6 +15682,7 @@ gastdn.wolfandbadger.com
 gatan.actonservice.com
 gateway.aimia.com
 gateway.foresee.com
+gatherer.m.qq.com
 gatorleads.co.uk
 gaudyairplane.com
 gaug.es
@@ -16053,6 +16058,7 @@ gkfdkf.jdsports.co.uk
 gkgygj.verivox.de
 gkopqp.coccodrillo.eu
 gksqdt.reitmans.com
+gkx.gokwik.co
 gl5g98t0vfjb.panprices.com
 gladysway.com
 glam.com
@@ -21761,6 +21767,7 @@ log.medietall.no
 log.mgtv.com
 log.mix.sina.com.cn
 log.mofa.go.kr
+log.news.baidu.com
 log.nordot.jp
 log.olark.com
 log.outbrain.com
@@ -28012,6 +28019,7 @@ p.placed.com
 p.pmu.fr
 p.raasnet.com
 p.ryanhalliday.com
+p.sa7eer.com
 p.skimresources.com
 p.spotidownloader.com
 p.tencentmind.com
@@ -29317,6 +29325,7 @@ pulse.shopflo.com
 pulseinsights.com
 pulselog.com
 pulsemaps.com
+pulsepoint.ideal.house
 pumlmb.netcologne.de
 pumpedpancake.com
 pumpedpurpose.com
@@ -29867,6 +29876,7 @@ realsolutions.americanexpress.it
 realsolutions.americanexpress.se
 realtime-profiling.datarize.ai
 realtime.bbcl.cl
+realtimeanalytics.yext.com
 realtimely.io
 realtimewebstats.com
 realtimewebstats.net
@@ -40091,6 +40101,7 @@ techservices.trapptechnology.com
 techsupport.balluff.com
 techtarget.com
 teczbq.amicashop.com
+ted.dailymail.co.uk
 tediousbear.com
 tedioustooth.com
 tedo-stats.de
@@ -42058,6 +42069,7 @@ track.concur.com.au
 track.concur.com.sg
 track.connectwise.com
 track.contently.com
+track.convertfox.com
 track.cordial.io
 track.cornerstonebuildingbrands.com
 track.craudia.com
@@ -43101,6 +43113,7 @@ trafficregenerator.com
 trafficroots.com
 trafficscanner.pl
 trafic.ro
+trafik.koopit.ist
 trafit.com
 trail-001.schleich-s.com
 trail-web.com
@@ -45527,6 +45540,7 @@ webstat.no
 webstat.qiumibao.com
 webstat.se
 webstat.vodafone.com
+webstat.ws.126.net
 webstatistika.lv
 webstats.americanbar.org
 webstats.bijenpatel.com
