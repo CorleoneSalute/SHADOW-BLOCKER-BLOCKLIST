@@ -26,7 +26,7 @@ published in [`research/`](research/) for independent verification.
 | Tier | Description |
 |---|---|
 | **Basic** | Confirmed tracking domains with minimal risk of affecting app functionality. |
-| **Aggressive** | Basic tier plus additional domains that carry a small risk of affecting edge-case functionality (e.g. consent banners, A/B test flags, personalization). |
+| **Aggressive** | Basic tier plus additional domains that carry a risk of affecting edge-case functionality (e.g. consent banners, A/B test flags, personalization). |
 
 The Aggressive tier always includes everything in Basic.
 
