@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 1898
-# Total platforms: 179
+# Total platforms: 183
 # Last update: 2026/09/30
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2317,3 +2317,20 @@ webads.es
 webads.it
 webads.nl
 webads.eu
+
+# Gname.com Pte. Ltd.
+
+54ad.net # untrusted domain
+
+# Alibaba Cloud Computing Ltd.
+
+360mads.com
+54ad.com
+
+# Newffads
+
+newffads.com
+
+# Targetadserver
+
+targetadserver.com
