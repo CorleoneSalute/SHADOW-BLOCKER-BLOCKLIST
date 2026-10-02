@@ -104,6 +104,7 @@ frontier-ru.tiktokv.com
 frontier-ru.tiktokv.com.edgekey.net
 frontier-ttp2.tiktokv.us
 frontier-ttp2.tiktokv.us.edgesuite.net
+frontier-us-ttp2.capcutw.us
 frontier-va.tiktokv.com
 frontier.byteoversea.com
 frontier.capcutw.us
@@ -114,6 +115,7 @@ frontier.tiktokv-eu.com.ttdns3.com
 frontier.tiktokv.com
 frontier.tiktokv.us
 frontier.tiktokv.us.edgesuite.net
+frontier.us.capcut.com
 frontier100-normal-alisg.tiktokv.com
 frontier100-normal-useast1a.tiktokv.com
 frontier16-normal-no1a.tiktokv.eu
@@ -559,6 +561,7 @@ tnc16-alisg.byteoversea.com
 tnc16-normal-ie.tiktokv.eu
 tnc16-normal-no1a.tiktokv.eu
 tnc16-normal-us-ttp.capcutapi.us
+tnc16-normal-us-ttp2.capcutapi.us
 tnc16-normal-useast5.tiktokv.us
 tnc16-normal-useast8.tiktokv.us
 tnc16-normal-useast8.us.tiktokv.com
