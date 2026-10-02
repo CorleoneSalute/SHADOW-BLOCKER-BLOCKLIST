@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9799
-# Generated: 2026-10-01 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9803
+# Generated: 2026-10-02 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -29,10 +29,12 @@
 0.0.0.0 2s.ms
 0.0.0.0 33across.com
 0.0.0.0 33across.net
+0.0.0.0 360mads.com
 0.0.0.0 360yield.com
 0.0.0.0 4cite.com
 0.0.0.0 4dsply.com
 0.0.0.0 51degrees.com
+0.0.0.0 54ad.com
 0.0.0.0 7345023508.fxm9485766783.com
 0.0.0.0 7345023508.fxmconnect.com
 0.0.0.0 8e4c275e-fc8d-fde9-9c58-37dbf0125b6c-rum.cdnvideo.ru
@@ -6117,6 +6119,7 @@
 0.0.0.0 new-telemetry.insights.video.a2z.com
 0.0.0.0 new-www.outbrain.com
 0.0.0.0 new.api.ad.xiaomi.com
+0.0.0.0 newffads.com
 0.0.0.0 newlytics.fileditch.com
 0.0.0.0 news-ads.apple.com
 0.0.0.0 news-analytics.apple.com
@@ -8211,6 +8214,7 @@
 0.0.0.0 tapjoy.net
 0.0.0.0 tapjoyads.com
 0.0.0.0 target-us.samsung.com
+0.0.0.0 targetadserver.com
 0.0.0.0 targeted-config-test.samsungacr.com
 0.0.0.0 targeting.unrulymedia.com
 0.0.0.0 tatari.tv

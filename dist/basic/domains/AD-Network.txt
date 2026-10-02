@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1888
-# Generated: 2026-10-01 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1892
+# Generated: 2026-10-02 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -10,8 +10,10 @@
 247realmedia.com
 33across.com
 33across.net
+360mads.com
 360yield.com
 4dsply.com
+54ad.com
 a-ams-new.1rx.io
 a-iad3.1rx.io
 a-pdx.1rx.io
@@ -1080,6 +1082,7 @@ nativomobileapps.share.ntv.io
 net.rayjump.com
 netstorage.taboola.com
 new-www.outbrain.com
+newffads.com
 news-cdn.site
 news.mgid.com
 news.revcontent.com
@@ -1576,6 +1579,7 @@ tags.brightroll.com
 tapjoy.com
 tapjoy.net
 tapjoyads.com
+targetadserver.com
 targeting.unrulymedia.com
 taurusx.com
 tcf.seedtag.com
