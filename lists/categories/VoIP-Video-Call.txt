@@ -47,8 +47,12 @@ analytics.dialpad.com
 # JITSI
 analytics.jitsi.net
 
-# ── 8X8 / JITSI ──────────────────────
+# 8X8 / JITSI
 # WebRTC call quality statistics service. QoS reporting and connection diagnostics will fail on 8x8, Jitsi and other WebRTC platforms; connection negotiation may be affected in some versions.
 callstats.io !
 auth.callstats.io ! 
 collector.callstats.io ! 
+
+# OCTAPULL
+
+log.octapull.com
