@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9803
+# Total domains: 9804
 # Generated: 2026-10-02 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7623,6 +7623,7 @@
 ||shazam-events.cdn-apple.com^
 ||shealth-analytics-api.samsunghealth.com^
 ||shence-log.kwai.com^
+||shield-client-analytics-ingress-prod.nonpci.prod.apay.apple.com.v.aaplimg.com^
 ||shink.in^
 ||shop.tags.elsevier.com^
 ||shopify.crazyegg.com^

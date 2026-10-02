@@ -1,6 +1,6 @@
 # ============================================================
 # IOS BLOCKLIST - AGGRESSIVE
-# Total domains: 300
+# Total domains: 301
 # Generated: 2026-10-02 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -272,6 +272,7 @@ securemetrics.v.aaplimg.com
 securemvt.apple.com
 securemvt.v.aaplimg.com
 shazam-events.cdn-apple.com
+shield-client-analytics-ingress-prod.nonpci.prod.apay.apple.com.v.aaplimg.com
 skadnetwork.iad-apple.com.akadns.net
 smoot-feedback.v.aaplimg.com
 st11p01ad-approval.apple.com
