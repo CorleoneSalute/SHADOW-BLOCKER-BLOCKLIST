@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9355
+# Total domains: 9356
 # Generated: 2026-10-02 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4849,6 +4849,7 @@
 0.0.0.0 log.nordvpn.com
 0.0.0.0 log.nothing.tech
 0.0.0.0 log.nubia.com
+0.0.0.0 log.octapull.com
 0.0.0.0 log.olark.com
 0.0.0.0 log.oneplus.net
 0.0.0.0 log.onesignal.com

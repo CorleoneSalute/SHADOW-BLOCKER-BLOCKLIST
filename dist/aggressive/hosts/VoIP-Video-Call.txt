@@ -1,6 +1,6 @@
 # ============================================================
 # VOIP VIDEO CALL BLOCKLIST - AGGRESSIVE
-# Total domains: 31
+# Total domains: 32
 # Generated: 2026-10-02 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -24,6 +24,7 @@
 0.0.0.0 log-gateway.zoom.us
 0.0.0.0 log-internal-gateway.zoom.us
 0.0.0.0 log-net.zoom.us
+0.0.0.0 log.octapull.com
 0.0.0.0 log.zoom.us
 0.0.0.0 logfiles.zoom.us
 0.0.0.0 logsystem.zoom.us

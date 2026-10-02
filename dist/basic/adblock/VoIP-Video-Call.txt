@@ -1,6 +1,6 @@
 # ============================================================
 # VOIP VIDEO CALL BLOCKLIST - BASIC
-# Total domains: 28
+# Total domains: 29
 # Generated: 2026-10-02 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -21,6 +21,7 @@
 ||log-gateway.zoom.us^
 ||log-internal-gateway.zoom.us^
 ||log-net.zoom.us^
+||log.octapull.com^
 ||log.zoom.us^
 ||logfiles.zoom.us^
 ||logsystem.zoom.us^

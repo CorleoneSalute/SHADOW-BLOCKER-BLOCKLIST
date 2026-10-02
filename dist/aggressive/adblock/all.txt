@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9804
+# Total domains: 9805
 # Generated: 2026-10-02 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5105,6 +5105,7 @@
 ||log.nordvpn.com^
 ||log.nothing.tech^
 ||log.nubia.com^
+||log.octapull.com^
 ||log.olark.com^
 ||log.oneplus.net^
 ||log.onesignal.com^
