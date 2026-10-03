@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9362
+# Total domains: 9370
 # Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3449,6 +3449,7 @@
 ||dragate-sg.dc.heytapmobi.com^
 ||dragate-sg.dc.oppomobile.com^
 ||dragate.dc.oppomobile.com^
+||dreamcarsweeps.com^
 ||driver-soft.com^
 ||driver.applog.bolt.eu^
 ||driveragent.com^
@@ -3995,6 +3996,7 @@
 ||fraud.adikteev.com^
 ||fraud.remerge.io^
 ||freeform-events.apple.com^
+||freesamplefinderusa.com^
 ||frontend-telemetry.intercom.io^
 ||frontier.byteoversea.com^
 ||frtyb.com^
@@ -5839,6 +5841,7 @@
 ||nadvideo2.baidu.com^
 ||nadvideocm.baidu.com^
 ||nano.adultfriendfinder.com^
+||nationalconsumercenter.com^
 ||native.feedback.miui.com^
 ||native.sharethrough.com^
 ||native.unrulymedia.com^
@@ -6634,6 +6637,8 @@
 ||revenuedesk.fyber.com^
 ||reviversoft.com^
 ||revx.io^
+||reward4spot.com^
+||rewardzoneusa.com^
 ||rezync.com^
 ||rfihub.com^
 ||rfihub.net^
@@ -6915,6 +6920,7 @@
 ||safedk.com^
 ||samba.tv^
 ||samples.voice.cti.roku.com^
+||samplesandsavings.com^
 ||samstats.msi.com^
 ||samsung-benelux.demdex.net^
 ||samsung-com.112.2o7.net^
@@ -7708,6 +7714,7 @@
 ||swap.fm^
 ||sweatco.in^
 ||sweeps5164.yourmonday97.live^
+||sweepstakesaday.com^
 ||switchadhub.com^
 ||sws.ligatus.com^
 ||swypeconnect.com^
@@ -8759,6 +8766,7 @@
 ||update.uniblue.com^
 ||updatereviver.com^
 ||updates.restoro.com^
+||uplevelrewards.com^
 ||upload.uxcam.com^
 ||upu.samsungelectronics.com^
 ||urban-vpn.com^

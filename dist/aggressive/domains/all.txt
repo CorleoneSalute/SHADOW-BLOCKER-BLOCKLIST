@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9814
+# Total domains: 9822
 # Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3574,6 +3574,7 @@ dragate-in.dc.heytapmobi.com
 dragate-sg.dc.heytapmobi.com
 dragate-sg.dc.oppomobile.com
 dragate.dc.oppomobile.com
+dreamcarsweeps.com
 driver-soft.com
 driver.applog.bolt.eu
 driveragent.com
@@ -4168,6 +4169,7 @@ fraud.adikteev.com
 fraud.remerge.io
 fraudlogix.com
 freeform-events.apple.com
+freesamplefinderusa.com
 frontend-telemetry.intercom.io
 frontier-i18n.tiktokv.com
 frontier-my2.tiktokv.com
@@ -6103,6 +6105,7 @@ na1.fullstory.com
 nadvideo2.baidu.com
 nadvideocm.baidu.com
 nano.adultfriendfinder.com
+nationalconsumercenter.com
 native.feedback.miui.com
 native.sharethrough.com
 native.unrulymedia.com
@@ -6984,6 +6987,8 @@ revenue.remerge.io
 revenuedesk.fyber.com
 reviversoft.com
 revx.io
+reward4spot.com
+rewardzoneusa.com
 rezync.com
 rfihub.com
 rfihub.net
@@ -7275,6 +7280,7 @@ safegraph.com
 safegraph.io
 samba.tv
 samples.voice.cti.roku.com
+samplesandsavings.com
 samstats.msi.com
 samsung-benelux.demdex.net
 samsung-com.112.2o7.net
@@ -8095,6 +8101,7 @@ svencrai.com
 swap.fm
 sweatco.in
 sweeps5164.yourmonday97.live
+sweepstakesaday.com
 switchadhub.com
 sws.ligatus.com
 swypeconnect.com
@@ -9170,6 +9177,7 @@ update.solvusoft.com
 update.uniblue.com
 updatereviver.com
 updates.restoro.com
+uplevelrewards.com
 upload.uxcam.com
 upstream.tv
 upu.samsungelectronics.com

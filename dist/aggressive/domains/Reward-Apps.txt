@@ -1,6 +1,6 @@
 # ============================================================
 # REWARD APPS BLOCKLIST - AGGRESSIVE
-# Total domains: 65
+# Total domains: 73
 # Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -30,12 +30,14 @@ collector.cint.com
 dailyrewards.com
 data.fetch.com
 disqo.com
+dreamcarsweeps.com
 events.current.us
 events.fetch.com
 events.ibotta.com
 events.surveyjunkie.com
 events.sweatco.in
 events.upside.com
+freesamplefinderusa.com
 getmiles.com
 inboxdollars.com
 inboxpounds.co.uk
@@ -53,8 +55,13 @@ metrics.sweatco.in
 metrics.toluna.com
 metrics.upside.com
 moneysms.co
+nationalconsumercenter.com
+reward4spot.com
+rewardzoneusa.com
+samplesandsavings.com
 surveyjunkie.com
 sweatco.in
+sweepstakesaday.com
 track.cint.com
 tracker.samplicio.us
 tracking.coinout.com
@@ -70,3 +77,4 @@ tracking.surveyjunkie.com
 tracking.swagbucks.com
 tracking.toluna.com
 tracking.upside.com
+uplevelrewards.com

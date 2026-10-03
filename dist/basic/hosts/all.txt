@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9362
+# Total domains: 9370
 # Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3449,6 +3449,7 @@
 0.0.0.0 dragate-sg.dc.heytapmobi.com
 0.0.0.0 dragate-sg.dc.oppomobile.com
 0.0.0.0 dragate.dc.oppomobile.com
+0.0.0.0 dreamcarsweeps.com
 0.0.0.0 driver-soft.com
 0.0.0.0 driver.applog.bolt.eu
 0.0.0.0 driveragent.com
@@ -3995,6 +3996,7 @@
 0.0.0.0 fraud.adikteev.com
 0.0.0.0 fraud.remerge.io
 0.0.0.0 freeform-events.apple.com
+0.0.0.0 freesamplefinderusa.com
 0.0.0.0 frontend-telemetry.intercom.io
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 frtyb.com
@@ -5839,6 +5841,7 @@
 0.0.0.0 nadvideo2.baidu.com
 0.0.0.0 nadvideocm.baidu.com
 0.0.0.0 nano.adultfriendfinder.com
+0.0.0.0 nationalconsumercenter.com
 0.0.0.0 native.feedback.miui.com
 0.0.0.0 native.sharethrough.com
 0.0.0.0 native.unrulymedia.com
@@ -6634,6 +6637,8 @@
 0.0.0.0 revenuedesk.fyber.com
 0.0.0.0 reviversoft.com
 0.0.0.0 revx.io
+0.0.0.0 reward4spot.com
+0.0.0.0 rewardzoneusa.com
 0.0.0.0 rezync.com
 0.0.0.0 rfihub.com
 0.0.0.0 rfihub.net
@@ -6915,6 +6920,7 @@
 0.0.0.0 safedk.com
 0.0.0.0 samba.tv
 0.0.0.0 samples.voice.cti.roku.com
+0.0.0.0 samplesandsavings.com
 0.0.0.0 samstats.msi.com
 0.0.0.0 samsung-benelux.demdex.net
 0.0.0.0 samsung-com.112.2o7.net
@@ -7708,6 +7714,7 @@
 0.0.0.0 swap.fm
 0.0.0.0 sweatco.in
 0.0.0.0 sweeps5164.yourmonday97.live
+0.0.0.0 sweepstakesaday.com
 0.0.0.0 switchadhub.com
 0.0.0.0 sws.ligatus.com
 0.0.0.0 swypeconnect.com
@@ -8759,6 +8766,7 @@
 0.0.0.0 update.uniblue.com
 0.0.0.0 updatereviver.com
 0.0.0.0 updates.restoro.com
+0.0.0.0 uplevelrewards.com
 0.0.0.0 upload.uxcam.com
 0.0.0.0 upu.samsungelectronics.com
 0.0.0.0 urban-vpn.com
