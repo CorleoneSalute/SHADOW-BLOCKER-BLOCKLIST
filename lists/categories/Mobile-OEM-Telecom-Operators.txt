@@ -1251,6 +1251,10 @@ metrics-svc-ext.t-mobile.com
 smetrics.t-mobile.com
 ```
 
+# Africa Telecom Operators
+
+digitaladvertising.vodacom.co.za
+
 ## Global Telecom Operators (36 domain)
 
 ### Vodofone (19 domain)
