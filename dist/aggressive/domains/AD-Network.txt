@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1902
+# Total domains: 1906
 # Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -181,6 +181,7 @@ adspro.name
 adsrvr.exponential.com
 adsrvr.org
 adsterra.com
+adstrcksrv.com
 adsupply.com
 adsupplyexchange.com
 adswizz.com
@@ -195,6 +196,7 @@ adtrck.online
 adtrck.org
 adtrck.pro
 adup-tech.com
+advertice.in
 advertise.quantcast.com
 advertiser-api.revcontent.com
 advertising.com
@@ -404,6 +406,7 @@ beacon.sharethrough.com
 beacon.taboola.com
 beeswax.com
 bengalads.com
+betteradz.com
 bfmio.com
 bh.contextweb.com
 bid.3lift.com
@@ -1076,6 +1079,7 @@ multissp.yieldlab.net
 my.adskeeper.co.uk
 my.mobfox.com
 myads.360yield.com
+myadsystem.com
 myopenads.com
 n.ads1-adnow.com
 n.systemlog.me

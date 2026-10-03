@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9356
+# Total domains: 9360
 # Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -705,6 +705,7 @@
 0.0.0.0 adsrvr.org
 0.0.0.0 adsterra.com
 0.0.0.0 adstradata.com
+0.0.0.0 adstrcksrv.com
 0.0.0.0 adsupply.com
 0.0.0.0 adsupplyexchange.com
 0.0.0.0 adsvideo.biz.weibo.com
@@ -736,6 +737,7 @@
 0.0.0.0 advancedsystemoptimizer.com
 0.0.0.0 advancemactools.live
 0.0.0.0 advertape.net
+0.0.0.0 advertice.in
 0.0.0.0 advertise.myspace.com
 0.0.0.0 advertise.quantcast.com
 0.0.0.0 advertise.swagbucks.com
@@ -2306,6 +2308,7 @@
 0.0.0.0 beta.sexart.adultfriendfinder.com
 0.0.0.0 beta.telemetry.gfe.nvidia.com
 0.0.0.0 beteshis.com
+0.0.0.0 betteradz.com
 0.0.0.0 beyondwickedmapping.org
 0.0.0.0 bfmio.com
 0.0.0.0 bg-info-lgsmartad-com.aws-prd.net
@@ -5812,6 +5815,7 @@
 0.0.0.0 my.adskeeper.co.uk
 0.0.0.0 my.mobfox.com
 0.0.0.0 myads.360yield.com
+0.0.0.0 myadsystem.com
 0.0.0.0 mybid.io
 0.0.0.0 mybid.partners
 0.0.0.0 mycleanid.com

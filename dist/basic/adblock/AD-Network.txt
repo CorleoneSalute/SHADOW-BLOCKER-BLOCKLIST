@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1892
+# Total domains: 1896
 # Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -180,6 +180,7 @@
 ||adsrvr.exponential.com^
 ||adsrvr.org^
 ||adsterra.com^
+||adstrcksrv.com^
 ||adsupply.com^
 ||adsupplyexchange.com^
 ||adswizz.com^
@@ -194,6 +195,7 @@
 ||adtrck.org^
 ||adtrck.pro^
 ||adup-tech.com^
+||advertice.in^
 ||advertise.quantcast.com^
 ||advertiser-api.revcontent.com^
 ||advertising.com^
@@ -401,6 +403,7 @@
 ||beacon.taboola.com^
 ||beeswax.com^
 ||bengalads.com^
+||betteradz.com^
 ||bfmio.com^
 ||bh.contextweb.com^
 ||bid.3lift.com^
@@ -1070,6 +1073,7 @@
 ||my.adskeeper.co.uk^
 ||my.mobfox.com^
 ||myads.360yield.com^
+||myadsystem.com^
 ||myopenads.com^
 ||n.ads1-adnow.com^
 ||n.systemlog.me^

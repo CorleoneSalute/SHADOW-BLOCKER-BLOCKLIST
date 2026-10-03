@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9805
+# Total domains: 9809
 # Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -740,6 +740,7 @@ adsrvr.exponential.com
 adsrvr.org
 adsterra.com
 adstradata.com
+adstrcksrv.com
 adsupply.com
 adsupplyexchange.com
 adsvideo.biz.weibo.com
@@ -772,6 +773,7 @@ advancedpccleanup.com
 advancedsystemoptimizer.com
 advancemactools.live
 advertape.net
+advertice.in
 advertise.myspace.com
 advertise.quantcast.com
 advertise.swagbucks.com
@@ -2374,6 +2376,7 @@ beta.analytics.openaire.eu
 beta.sexart.adultfriendfinder.com
 beta.telemetry.gfe.nvidia.com
 beteshis.com
+betteradz.com
 beyondwickedmapping.org
 bfmio.com
 bg-info-lgsmartad-com.aws-prd.net
@@ -6074,6 +6077,7 @@ mx.navdmp.com
 my.adskeeper.co.uk
 my.mobfox.com
 myads.360yield.com
+myadsystem.com
 mybid.io
 mybid.partners
 mycleanid.com
