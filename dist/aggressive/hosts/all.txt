@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9809
+# Total domains: 9813
 # Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4965,6 +4965,8 @@
 0.0.0.0 ligatus.com
 0.0.0.0 ligatus.de
 0.0.0.0 ligatus.fr
+0.0.0.0 lightning.adultswim.co.uk
+0.0.0.0 lightning.adultswim.com
 0.0.0.0 lihi1.com
 0.0.0.0 lihi3.cc
 0.0.0.0 lijit.com
@@ -7367,6 +7369,7 @@
 0.0.0.0 samsungus.tt.omtrdc.net
 0.0.0.0 samsungusa.api.useinsider.com
 0.0.0.0 samsungvn.api.useinsider.com
+0.0.0.0 sanalytics.adultswim.co.uk
 0.0.0.0 sandbox.activity.browser.intl.miui.com
 0.0.0.0 sandbox.yieldmo.com
 0.0.0.0 sandboxplatform.admaster.cc
@@ -7824,6 +7827,7 @@
 0.0.0.0 sspapi-prd.samsungrs.com
 0.0.0.0 sstat.spreadex.com
 0.0.0.0 sstats.adobe.com
+0.0.0.0 sstats.adultswim.com
 0.0.0.0 sstats.bitdefender.com
 0.0.0.0 sstats.epicurious.com
 0.0.0.0 st.n.ads1-adnow.com

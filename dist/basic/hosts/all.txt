@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9360
+# Total domains: 9361
 # Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7009,6 +7009,7 @@
 0.0.0.0 samsungus.tt.omtrdc.net
 0.0.0.0 samsungusa.api.useinsider.com
 0.0.0.0 samsungvn.api.useinsider.com
+0.0.0.0 sanalytics.adultswim.co.uk
 0.0.0.0 sandbox.activity.browser.intl.miui.com
 0.0.0.0 sandbox.yieldmo.com
 0.0.0.0 sandboxplatform.admaster.cc

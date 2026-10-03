@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 412
+# Total domains: 416
 # Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -222,6 +222,8 @@
 0.0.0.0 jwpltx.com
 0.0.0.0 k.pluto.tv
 0.0.0.0 kids-analytics.youtube.com
+0.0.0.0 lightning.adultswim.co.uk
+0.0.0.0 lightning.adultswim.com
 0.0.0.0 litix.mux.com
 0.0.0.0 live-analytics.bilibili.com
 0.0.0.0 live-analytics.hulu.com
@@ -339,6 +341,7 @@
 0.0.0.0 sa-east-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 saa.cbsi.com
 0.0.0.0 saa.paramountplus.com
+0.0.0.0 sanalytics.adultswim.co.uk
 0.0.0.0 sdk.conviva.com
 0.0.0.0 sgtm.elofizetek.canalplus.com
 0.0.0.0 sgtm.nabidka.canalplus.com
@@ -349,6 +352,7 @@
 0.0.0.0 src.litix.io
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 ssai.brightcove.com
+0.0.0.0 sstats.adultswim.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 stats.bilibili.com
 0.0.0.0 stats.iqiyi.com
