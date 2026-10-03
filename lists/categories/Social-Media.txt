@@ -84,6 +84,7 @@ us-west-2.dc.ads.linkedin.com
 
 ```
 bizographics.com
+log-in-linkedlin.com # phishing domain
 ```
 
 # RUM (23 domain)
