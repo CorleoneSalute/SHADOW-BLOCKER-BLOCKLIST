@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1116
+# Total domains: 1117
 # Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -333,6 +333,7 @@ di.runestone.samsung.com
 diagmon-policy.samsungdm.com
 diagmon-serviceapi.samsungdm.com
 diagnosis.ad.xiaomi.com
+digitaladvertising.vodacom.co.za
 dls-account.di.atlas.samsung.com
 dls-ddc.dqa.samsung.com
 dls-udc.dqa.samsung.com

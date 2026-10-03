@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1066
+# Total domains: 1067
 # Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -320,6 +320,7 @@
 ||diagmon-policy.samsungdm.com^
 ||diagmon-serviceapi.samsungdm.com^
 ||diagnosis.ad.xiaomi.com^
+||digitaladvertising.vodacom.co.za^
 ||dls-account.di.atlas.samsung.com^
 ||dls-ddc.dqa.samsung.com^
 ||dls-udc.dqa.samsung.com^

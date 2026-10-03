@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9361
+# Total domains: 9362
 # Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3376,6 +3376,7 @@
 ||digdug-g2.logs.roku.com^
 ||digdug.logs.roku.com^
 ||digital.medallia.com^
+||digitaladvertising.vodacom.co.za^
 ||digitalenvoy.com^
 ||digitalsmiths.net^
 ||digprjsurvey.amazon.eu^
