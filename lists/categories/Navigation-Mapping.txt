@@ -67,3 +67,7 @@ ua.kakao.com
 
 # SYGIC
 sygic.api.infinario.com
+
+WP Go Maps
+
+metrics.gocloudmaps.com # malware/phishing
