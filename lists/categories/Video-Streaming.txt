@@ -345,6 +345,13 @@ ad-analytics.tubitv.com
 ad-beacon.tubitv.com
 tracking.tubitv.com
 
+# AdultSwim
+
+sanalytics.adultswim.co.uk
+sstats.adultswim.com !
+lightning.adultswim.co.uk !
+lightning.adultswim.com !
+
 # REGIONAL — INDIA
 
 analytics.hotstar.com
