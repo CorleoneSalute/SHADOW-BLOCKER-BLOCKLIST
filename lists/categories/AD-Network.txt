@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 1912
-# Total platforms: 191
+# Total platforms: 196
 # Last update: 2026/10/04
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2368,3 +2368,23 @@ ad-platform.biz
 # ADGoto
 
 adgoto.com
+
+# Ad Boost
+
+adboostads.com
+
+# adboost.org
+
+adboost.org
+
+# adsboost.net
+
+adsboost.net
+
+# adboost360
+
+adboost360.com
+
+# Add Boost 360 Limited
+
+addboost360.com
