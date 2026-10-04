@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1912
+# Total domains: 1917
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -72,11 +72,15 @@
 0.0.0.0 adap.tv
 0.0.0.0 adaptv.advertising.com
 0.0.0.0 adblade.com
+0.0.0.0 adboost.org
+0.0.0.0 adboost360.com
+0.0.0.0 adboostads.com
 0.0.0.0 adbreaks.yieldlab.net
 0.0.0.0 adbrix.ai
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adclickserving.com
 0.0.0.0 adcolony.com
+0.0.0.0 addboost360.com
 0.0.0.0 addynamo.com
 0.0.0.0 adeeply.ru
 0.0.0.0 adelphic.com
@@ -165,6 +169,7 @@
 0.0.0.0 ads33.adtelligent.com
 0.0.0.0 ads54.adtelligent.com
 0.0.0.0 adsbase.ltd
+0.0.0.0 adsboost.net
 0.0.0.0 adsctv.com
 0.0.0.0 adserve.dianomi.com
 0.0.0.0 adserver.unityads.unity3d.com

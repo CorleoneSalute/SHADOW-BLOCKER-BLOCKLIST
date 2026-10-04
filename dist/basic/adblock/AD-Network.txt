@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1902
+# Total domains: 1907
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -72,11 +72,15 @@
 ||adap.tv^
 ||adaptv.advertising.com^
 ||adblade.com^
+||adboost.org^
+||adboost360.com^
+||adboostads.com^
 ||adbreaks.yieldlab.net^
 ||adbrix.ai^
 ||adc3-launch.adcolony.com^
 ||adclickserving.com^
 ||adcolony.com^
+||addboost360.com^
 ||addynamo.com^
 ||adeeply.ru^
 ||adelphic.com^
@@ -165,6 +169,7 @@
 ||ads33.adtelligent.com^
 ||ads54.adtelligent.com^
 ||adsbase.ltd^
+||adsboost.net^
 ||adserve.dianomi.com^
 ||adserver.unityads.unity3d.com^
 ||adservices.google.com^

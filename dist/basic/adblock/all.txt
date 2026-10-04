@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9376
+# Total domains: 9381
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -283,6 +283,9 @@
 ||adblade.com^
 ||adblogger.vk.com^
 ||adblogger.vk.ru^
+||adboost.org^
+||adboost360.com^
+||adboostads.com^
 ||adbox.nextory.com^
 ||adbox.sina.com.cn^
 ||adbreaks.yieldlab.net^
@@ -294,6 +297,7 @@
 ||adcolony.com^
 ||add-mapping-for-wrong-activity-log-classes.feature.varify.io^
 ||addata2.ads.vip.corp.yahoo.com^
+||addboost360.com^
 ||addoncrop.com^
 ||addynamo.com^
 ||adeeply.ru^
@@ -655,6 +659,7 @@
 ||adsassets-ipv6.waze.com^
 ||adsassets.waze.com^
 ||adsbase.ltd^
+||adsboost.net^
 ||adscdn.baidu.com^
 ||adscms.mdn.sbz.apple.com^
 ||adscms.msc.sbz.apple.com^
