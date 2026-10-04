@@ -1,6 +1,6 @@
 # In-File Duplicate Domain Report
 
-Generated: 2026-10-04 17:57 UTC
+Generated: 2026-10-04 18:55 UTC
 
 Domains that appear more than once within the SAME category
 file - usually a copy-paste mistake in a large file. The build
@@ -12,7 +12,14 @@ identical (same case, same trailing "!" flag). "no" means they
 differ - worth a closer look, since a mismatched "!" flag
 changes which tier the domain ends up in.
 
-3 duplicate domain(s) found across 2 file(s):
+5 duplicate domain(s) found across 3 file(s):
+
+## AD-Network
+
+| Domain | Lines | Exact match |
+|---|---|---|
+| epom.com | 1564, 2420 | yes |
+| market.epom.com | 1565, 2421 | yes |
 
 ## Content-Creation-Live-Streaming
 
