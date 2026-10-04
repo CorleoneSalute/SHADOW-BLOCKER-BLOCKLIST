@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10028
+# Total domains: 10031
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -752,6 +752,8 @@ adsmanager.truecaller.com
 adsmarketplace.com
 adsmart.com
 adsmart.com.tr
+adsmartfromsky.co.uk
+adsmartfromsky.ie
 adsmetadata.startappservice.com
 adsn.adtelligent.com
 adspa-uat.acer.com
@@ -7869,6 +7871,7 @@ skadnetwork.iad-apple.com.akadns.net
 skadpostbacks.appsflyer.com
 skamaker.com
 skamason.com
+skyads.ott.skymedia.co.uk
 skyadsmart.com
 sl-tracking.fitonhealth.com
 sl.brightdata.com

@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2112
+# Total domains: 2116
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -201,6 +201,8 @@
 0.0.0.0 adsmarketplace.com
 0.0.0.0 adsmart.com
 0.0.0.0 adsmart.com.tr
+0.0.0.0 adsmartfromsky.co.uk
+0.0.0.0 adsmartfromsky.ie
 0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsn.adtelligent.com
 0.0.0.0 adspace.adskeeper.com
@@ -1640,6 +1642,8 @@
 0.0.0.0 signals.sovrn.com
 0.0.0.0 simpli.fi
 0.0.0.0 sin3-ib.adnxs.com
+0.0.0.0 skyads.ott.skymedia.co.uk
+0.0.0.0 skyadsmart.com
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
 0.0.0.0 smadex.com

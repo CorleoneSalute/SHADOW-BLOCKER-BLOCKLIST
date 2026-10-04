@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9576
+# Total domains: 9579
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -718,6 +718,8 @@
 ||adsmarketplace.com^
 ||adsmart.com^
 ||adsmart.com.tr^
+||adsmartfromsky.co.uk^
+||adsmartfromsky.ie^
 ||adsmetadata.startappservice.com^
 ||adsn.adtelligent.com^
 ||adspa-uat.acer.com^
@@ -7494,6 +7496,7 @@
 ||skadpostbacks.appsflyer.com^
 ||skamaker.com^
 ||skamason.com^
+||skyads.ott.skymedia.co.uk^
 ||skyadsmart.com^
 ||sl-tracking.fitonhealth.com^
 ||sl.brightdata.com^
