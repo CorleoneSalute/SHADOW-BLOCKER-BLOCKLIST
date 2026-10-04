@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 1906
-# Total platforms: 187
+# Total platforms: 191
 # Last update: 2026/10/03
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2350,3 +2350,21 @@ betteradz.com
 # myadsystem
 
 myadsystem.com
+
+# Flirtads
+
+flirtads.com
+flirtads.net
+
+# RocoAds
+
+rocoads.com
+rocoads.net
+
+# ad-platform
+
+ad-platform.biz
+
+# ADGoto
+
+adgoto.com
