@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 1917
-# Total platforms: 196
+# Total platforms: 206
 # Last update: 2026/10/04
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2388,3 +2388,27 @@ adboost360.com
 # Add Boost 360 Limited
 
 addboost360.com
+
+# AdGlobal360 India Pvt.
+
+adglobal360.com
+
+# adsglobal.world
+
+adsglobal.world
+
+# Adtech Global
+
+globaladtech.com
+
+# admagnet.agency
+
+admagnet.agency
+
+# admedia.ro
+
+admedia.ro
+
+# ADMEDIA CONSULTA AGENCY S.R.L. (CUI 17632052)
+
+ad-media.ro
