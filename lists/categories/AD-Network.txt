@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 1923
-# Total platforms: 206
+# Total platforms: 207
 # Last update: 2026/10/04
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2412,3 +2412,183 @@ admedia.ro
 # ADMEDIA CONSULTA AGENCY S.R.L. (CUI 17632052)
 
 ad-media.ro
+
+# Epom
+
+# Core domains
+
+epom.com
+market.epom.com
+epomapps.com
+epmads.com
+adshost1.com
+adshost2.com
+adshost3.com
+adshostnet.com
+n777.adshostnet.com
+
+# aj series
+
+aj101.xyz
+aj102.xyz
+aj1010.online
+aj1047.online
+aj1052.online
+aj1408.online
+aj1431.online
+aj1549.online
+aj1559.online
+aj1591.online
+aj1616.online
+aj1621.online
+aj1775.online
+aj1913.online
+aj1985.online
+aj2031.online
+aj2113.online
+aj2200.bid
+aj2214.online
+aj2234.online
+aj2294.online
+aj2295.online
+aj2345.online
+aj2376.online
+aj2393.online
+aj2426.online
+aj2430.online
+aj2431.online
+aj2438.online
+aj2476.online
+aj2494.online
+aj2495.online
+aj2498.online
+aj2503.online
+aj2509.online
+aj2517.bid
+aj2538.bid
+aj2543.bid
+aj2544.bid
+aj2546.bid
+aj2547.bid
+aj2556.bid
+aj2560.bid
+aj2563.bid
+aj2566.bid
+aj2568.bid
+aj2570.bid
+aj2576.bid
+aj2577.bid
+aj2578.bid
+aj2581.bid
+aj2582.bid
+aj2583.bid
+aj2584.bid
+aj2585.bid
+aj2586.bid
+aj2587.bid
+aj2588.bid
+aj2589.bid
+aj2590.bid
+aj2591.bid
+aj2592.bid
+aj2593.bid
+aj2594.bid
+aj2595.bid
+aj2596.bid
+aj2597.bid
+aj2598.bid
+aj2711.bid
+aj3000.bid
+aj3001.bid
+aj3002.bid
+aj3003.bid
+aj3004.bid
+aj3005.bid
+aj3006.bid
+aj3007.bid
+aj3008.bid
+aj3009.bid
+aj3010.bid
+aj3011.bid
+aj3012.bid
+aj3013.bid
+aj3014.bid
+aj3015.bid
+aj3016.bid
+aj3017.bid
+aj3018.bid
+aj3019.bid
+ajx291.online
+ajxx91.online
+
+# n*adserv series
+
+n100adserv.com
+n101adserv.com
+n102adserv.com
+n291adserv.com
+
+# serv series 
+
+
+serv431.com
+serv775.com
+srv431.com
+
+# Platform spesific domains
+
+ads.epomtestsite.com
+ads.nrg30.com
+adserver-meta.com
+adsrveys.com
+an1435adserv.online
+appservestar.com
+asrv.dalecta.com
+bj1052.online
+c.smartclick.net
+cutescale.online
+delvr.iga.com.au
+epom.classtag.com
+hostnetadv.site
+media.thespike.gg
+murkymouse.online
+network.adsfin.pro
+s2517.com
+serve.iga.com.au
+serving.ad.org.vn
+ssp.sportsthread.com
+trx.hitarget.ai
+v1.oddsserve.com
+www.adjoynet.com
+www.advinapps.com
+www.cccpmo.com
+www.hostgrater.com
+www.hostingstrong.com
+www.multilinkhost.com
+www.playadserver.com
+www.solaosads.network
+www.worldoffersdaily.com
+blueadss.com
+bluadz.com
+
+# CDN domains
+
+cdn-ads.nrg30.com
+cdn.ads.epomtestsite.com
+cdn.adsrveys.com
+cdn.appservestar.com
+cdn.c.smartclick.net
+cdn.n100adserv.com
+cdn.n777.adshostnet.com
+cdn.serv775.com
+cdn.serving.ad.org.vn
+cdn77-fs.aj*.online
+cdn77-fs.aj*.bid
+cdn77.playadserver.com
+cdn77.s2517.com
+cdn77.serv431.com
+cdn77.solaosads.network
+cdn77.sportsthread.com
+cdn77.thespike.gg
+cdn77.v1.oddsserve.com
+cdn.blueadss.com
