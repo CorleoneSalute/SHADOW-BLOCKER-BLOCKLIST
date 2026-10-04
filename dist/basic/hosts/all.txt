@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9542
+# Total domains: 9576
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -73,6 +73,7 @@
 0.0.0.0 a4.applovin.com
 0.0.0.0 a5.analytics.intel.com
 0.0.0.0 a8clk.www.italki.com
+0.0.0.0 aads.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-fe-pek.amazon-adsystem.com
 0.0.0.0 aax-fe-sin.amazon-adsystem.com
@@ -177,6 +178,7 @@
 0.0.0.0 ad-instantpage-ttp2.tiktokv.us
 0.0.0.0 ad-instantpage-va.tiktokv.com
 0.0.0.0 ad-instantpage.tiktokv.us
+0.0.0.0 ad-locus.com
 0.0.0.0 ad-machina.com
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-media.ro
@@ -196,6 +198,7 @@
 0.0.0.0 ad-trace.lenovomm.com
 0.0.0.0 ad-track.jp
 0.0.0.0 ad-volt.com
+0.0.0.0 ad-zone.net
 0.0.0.0 ad.adition.com
 0.0.0.0 ad.admitad.com
 0.0.0.0 ad.adsrvr.org
@@ -292,6 +295,7 @@
 0.0.0.0 adbreaks.yieldlab.net
 0.0.0.0 adbrix.ai
 0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 adcaravan.uz
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adclarity.com
 0.0.0.0 adclickserving.com
@@ -305,6 +309,7 @@
 0.0.0.0 adelphic.com
 0.0.0.0 adex2.fwmrm.net
 0.0.0.0 adf.ly
+0.0.0.0 adflores.com
 0.0.0.0 adfootmedia.com
 0.0.0.0 adform.com
 0.0.0.0 adform.net
@@ -332,6 +337,7 @@
 0.0.0.0 adjustyourtracking.vhx.tv
 0.0.0.0 adkernel.crakrevenue.com
 0.0.0.0 adlabz.co
+0.0.0.0 adlocus.com
 0.0.0.0 adlog.vivo.com
 0.0.0.0 adlog.vivo.com.cn
 0.0.0.0 adm.fwmrm.net
@@ -649,6 +655,7 @@
 0.0.0.0 ads5.huawei.com
 0.0.0.0 ads54.adtelligent.com
 0.0.0.0 ads6.textra.me
+0.0.0.0 adsailor.com
 0.0.0.0 adsalad.co.kr
 0.0.0.0 adsapi-proxy-il.waze.com
 0.0.0.0 adsapi-proxy-na.waze.com
@@ -690,6 +697,7 @@
 0.0.0.0 adserver.remerge.io
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adserver2.reddit.com
+0.0.0.0 adserverhd.com
 0.0.0.0 adservices.google.com
 0.0.0.0 adservices.roku.com
 0.0.0.0 adserving-tmp.unibet.com
@@ -708,6 +716,8 @@
 0.0.0.0 adsld.link
 0.0.0.0 adsmanager.truecaller.com
 0.0.0.0 adsmarketplace.com
+0.0.0.0 adsmart.com
+0.0.0.0 adsmart.com.tr
 0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsn.adtelligent.com
 0.0.0.0 adspa-uat.acer.com
@@ -719,10 +729,14 @@
 0.0.0.0 adspirit.net
 0.0.0.0 adspro.name
 0.0.0.0 adsquare.com
+0.0.0.0 adsrevenue.com
+0.0.0.0 adsrevenue.net
 0.0.0.0 adsrv.reddit.com
 0.0.0.0 adsrveys.com
 0.0.0.0 adsrvr.exponential.com
 0.0.0.0 adsrvr.org
+0.0.0.0 adstat.pro
+0.0.0.0 adstats.ai
 0.0.0.0 adsterra.com
 0.0.0.0 adstradata.com
 0.0.0.0 adstrcksrv.com
@@ -845,6 +859,9 @@
 0.0.0.0 adxlog-adnet.vivo.com.cn
 0.0.0.0 adyoulike.com
 0.0.0.0 adyoulike.net
+0.0.0.0 adz2you.net
+0.0.0.0 adzone.az
+0.0.0.0 adzone.live
 0.0.0.0 ae-ad-1.myhuaweicloud.com
 0.0.0.0 ae-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 aerserv.com
@@ -857,6 +874,7 @@
 0.0.0.0 aff.stake.com
 0.0.0.0 affilae.com
 0.0.0.0 affiliate.tiktok.com
+0.0.0.0 affpaying.com
 0.0.0.0 afftrk.findoctave.com
 0.0.0.0 agileurbia.com
 0.0.0.0 ai-analytics.adyen.com
@@ -2212,6 +2230,7 @@
 0.0.0.0 arcade-analytics.apple.com
 0.0.0.0 argenteutilities.com
 0.0.0.0 array-bid.applovin.com
+0.0.0.0 artilleryads.com
 0.0.0.0 asapp.navdmp.com
 0.0.0.0 asia-abeacdataonrt-stsdk.vivoglobal.com
 0.0.0.0 asia-abeacdataort-stsdk.vivoglobal.com
@@ -2275,6 +2294,8 @@
 0.0.0.0 atabencot.net
 0.0.0.0 atdmt.com
 0.0.0.0 atharori.net
+0.0.0.0 atiads.com
+0.0.0.0 atiads.tv
 0.0.0.0 atlasdmt.com
 0.0.0.0 atlassolutions.com
 0.0.0.0 atomcurve.com
@@ -2446,6 +2467,7 @@
 0.0.0.0 bidstack.io
 0.0.0.0 bidtellect.com
 0.0.0.0 bidtheatre.com
+0.0.0.0 bidtoolads.com
 0.0.0.0 bigdata.baidu.com
 0.0.0.0 bigdata.samsung.com.cn
 0.0.0.0 bigdata.ssp.samsung.com
@@ -2480,6 +2502,7 @@
 0.0.0.0 blog.bit-guardian.com
 0.0.0.0 bluadz.com
 0.0.0.0 blueadss.com
+0.0.0.0 blueadvertising.com
 0.0.0.0 bluehost.outbrain.com
 0.0.0.0 bluenik.com
 0.0.0.0 bluesprig.com
@@ -3541,6 +3564,7 @@
 0.0.0.0 display.criteo.com
 0.0.0.0 display.ravm.tv
 0.0.0.0 displayce.com
+0.0.0.0 displayingads.com
 0.0.0.0 districtm.com
 0.0.0.0 districtm.io
 0.0.0.0 dl.brightdata.com
@@ -3939,6 +3963,7 @@
 0.0.0.0 exdsps-inventory.hivestack.com
 0.0.0.0 exelate.com
 0.0.0.0 exelate.info
+0.0.0.0 expatinfoholland.nl
 0.0.0.0 experience.appsflyer.com
 0.0.0.0 experience.conviva.com
 0.0.0.0 experience.piano.io
@@ -3961,6 +3986,7 @@
 0.0.0.0 extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com
 0.0.0.0 extrecey.com
 0.0.0.0 eyeota.net
+0.0.0.0 ezadsystem.com
 0.0.0.0 ezstat.ru
 0.0.0.0 f.clarity.ms
 0.0.0.0 f.hiphotos.baidu.com
@@ -4050,6 +4076,7 @@
 0.0.0.0 feedbackws.fe2.apple-dns.net
 0.0.0.0 feedbackws.icloud.com
 0.0.0.0 feedbackws.icloud.com.cn
+0.0.0.0 felixads.com
 0.0.0.0 fhc-event.fhcasino.com
 0.0.0.0 fhc-event2.fhcasino.com
 0.0.0.0 fi-info-lgsmartad-com.aws-prd.net
@@ -4303,6 +4330,9 @@
 0.0.0.0 griffin.logs.roku.com
 0.0.0.0 grindr-analytics.com
 0.0.0.0 groundtruth.com
+0.0.0.0 growads.net
+0.0.0.0 growadvertising.com
+0.0.0.0 growadvertising.io
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 grs.dbankcloud.cn
 0.0.0.0 grs.dbankcloud.com
@@ -4397,6 +4427,7 @@
 0.0.0.0 heylog.cc.heytapmobi.com
 0.0.0.0 heyzap.com
 0.0.0.0 hg-tr.ekatox.com
+0.0.0.0 hhadvertising.com
 0.0.0.0 hianalytics.com
 0.0.0.0 hideadew.com
 0.0.0.0 highcpmgate.com
@@ -4419,6 +4450,7 @@
 0.0.0.0 holavpn.com
 0.0.0.0 holavpn.net
 0.0.0.0 holax.io
+0.0.0.0 hollandadvertising.com
 0.0.0.0 homoluath.com
 0.0.0.0 honeybadger.io
 0.0.0.0 honorsearch-dra.hiboard.hihonorcloud.com
@@ -4767,6 +4799,7 @@
 0.0.0.0 juads.vmall.com
 0.0.0.0 jubaoads.360.cn
 0.0.0.0 jungroup.com
+0.0.0.0 justwebads.com
 0.0.0.0 jv16powertools.com
 0.0.0.0 jwpltx.com
 0.0.0.0 k.clarity.ms
@@ -9544,6 +9577,7 @@
 0.0.0.0 zoomd.com
 0.0.0.0 zoominfo.com
 0.0.0.0 zpu.samsungelectronics.com
+0.0.0.0 zx-adnet.com
 0.0.0.0 zxphiz.tech
 0.0.0.0 zyngaads.com
 0.0.0.0 zz.bdstatic.com

@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2078
+# Total domains: 2112
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -30,6 +30,7 @@
 0.0.0.0 a1.adform.net
 0.0.0.0 a2.adform.net
 0.0.0.0 a4.applovin.com
+0.0.0.0 aads.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-fe-pek.amazon-adsystem.com
 0.0.0.0 aax-fe-sin.amazon-adsystem.com
@@ -46,6 +47,7 @@
 0.0.0.0 ad-host-backup-america.oss-us-west-1.aliyuncs.com
 0.0.0.0 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
+0.0.0.0 ad-locus.com
 0.0.0.0 ad-machina.com
 0.0.0.0 ad-media.ro
 0.0.0.0 ad-on.fr
@@ -56,6 +58,7 @@
 0.0.0.0 ad-tag.inner-active.mobi
 0.0.0.0 ad-track.jp
 0.0.0.0 ad-volt.com
+0.0.0.0 ad-zone.net
 0.0.0.0 ad.adition.com
 0.0.0.0 ad.adsrvr.org
 0.0.0.0 ad.click.g.doubleclick.net
@@ -79,6 +82,7 @@
 0.0.0.0 adbreaks.yieldlab.net
 0.0.0.0 adbrix.ai
 0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 adcaravan.uz
 0.0.0.0 adclickserving.com
 0.0.0.0 adcolony.com
 0.0.0.0 addboost360.com
@@ -86,6 +90,7 @@
 0.0.0.0 adeeply.ru
 0.0.0.0 adelphic.com
 0.0.0.0 adex2.fwmrm.net
+0.0.0.0 adflores.com
 0.0.0.0 adfootmedia.com
 0.0.0.0 adform.com
 0.0.0.0 adform.net
@@ -97,6 +102,7 @@
 0.0.0.0 adition.com
 0.0.0.0 adjust.applovin.com
 0.0.0.0 adlabz.co
+0.0.0.0 adlocus.com
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 admagnet.agency
 0.0.0.0 admaster.cc
@@ -174,12 +180,14 @@
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads33.adtelligent.com
 0.0.0.0 ads54.adtelligent.com
+0.0.0.0 adsailor.com
 0.0.0.0 adsbase.ltd
 0.0.0.0 adsboost.net
 0.0.0.0 adsctv.com
 0.0.0.0 adserve.dianomi.com
 0.0.0.0 adserver-meta.com
 0.0.0.0 adserver.unityads.unity3d.com
+0.0.0.0 adserverhd.com
 0.0.0.0 adservices.google.com
 0.0.0.0 adsfactor.net
 0.0.0.0 adsglobal.world
@@ -191,15 +199,21 @@
 0.0.0.0 adskeeper.com
 0.0.0.0 adskeeper.net
 0.0.0.0 adsmarketplace.com
+0.0.0.0 adsmart.com
+0.0.0.0 adsmart.com.tr
 0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsn.adtelligent.com
 0.0.0.0 adspace.adskeeper.com
 0.0.0.0 adspirit.de
 0.0.0.0 adspirit.net
 0.0.0.0 adspro.name
+0.0.0.0 adsrevenue.com
+0.0.0.0 adsrevenue.net
 0.0.0.0 adsrveys.com
 0.0.0.0 adsrvr.exponential.com
 0.0.0.0 adsrvr.org
+0.0.0.0 adstat.pro
+0.0.0.0 adstats.ai
 0.0.0.0 adsterra.com
 0.0.0.0 adstrcksrv.com
 0.0.0.0 adsupply.com
@@ -226,9 +240,13 @@
 0.0.0.0 adx2.adform.net
 0.0.0.0 adyoulike.com
 0.0.0.0 adyoulike.net
+0.0.0.0 adz2you.net
+0.0.0.0 adzone.az
+0.0.0.0 adzone.live
 0.0.0.0 aerserv.com
 0.0.0.0 aes.us-east.3px.axp.amazon-adsystem.com
 0.0.0.0 aes.us-west.3px.axp.amazon-adsystem.com
+0.0.0.0 affpaying.com
 0.0.0.0 aicube.revx.io
 0.0.0.0 aj101.xyz
 0.0.0.0 aj1010.online
@@ -472,6 +490,7 @@
 0.0.0.0 appservestar.com
 0.0.0.0 apsoutheast-match.deepintent.com
 0.0.0.0 array-bid.applovin.com
+0.0.0.0 artilleryads.com
 0.0.0.0 asia.adform.net
 0.0.0.0 asrv.dalecta.com
 0.0.0.0 assets-cdn.outbrain.com
@@ -488,6 +507,8 @@
 0.0.0.0 assets.sublimeskinz.com
 0.0.0.0 assets.taboola.com
 0.0.0.0 at-us-east.amazon-adsystem.com
+0.0.0.0 atiads.com
+0.0.0.0 atiads.tv
 0.0.0.0 auction-load.unityads.unity3d.com
 0.0.0.0 auction.bidmachine.io
 0.0.0.0 auction.unityads.unity3d.com
@@ -535,12 +556,14 @@
 0.0.0.0 bidstack.io
 0.0.0.0 bidtellect.com
 0.0.0.0 bidtheatre.com
+0.0.0.0 bidtoolads.com
 0.0.0.0 bigo.sg
 0.0.0.0 bj1052.online
 0.0.0.0 blobs.omnitagjs.com
 0.0.0.0 blockchain-ads.com
 0.0.0.0 bluadz.com
 0.0.0.0 blueadss.com
+0.0.0.0 blueadvertising.com
 0.0.0.0 bluehost.outbrain.com
 0.0.0.0 bot.outbrain.com
 0.0.0.0 brightroll.com
@@ -814,6 +837,7 @@
 0.0.0.0 discovery.outbrain.com
 0.0.0.0 display.bidder.taboola.com
 0.0.0.0 displayce.com
+0.0.0.0 displayingads.com
 0.0.0.0 districtm.com
 0.0.0.0 districtm.io
 0.0.0.0 dm.bytedance.com
@@ -928,7 +952,9 @@
 0.0.0.0 exchange.start.io
 0.0.0.0 exchange.verve.com
 0.0.0.0 exdsps-inventory.hivestack.com
+0.0.0.0 expatinfoholland.nl
 0.0.0.0 exponential.com
+0.0.0.0 ezadsystem.com
 0.0.0.0 fairbid.fyber.com
 0.0.0.0 fam.adingo.jp
 0.0.0.0 farm.plista.com
@@ -936,6 +962,7 @@
 0.0.0.0 fastclick.net
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fbads24.com
+0.0.0.0 felixads.com
 0.0.0.0 fk-mtrack.rayjump.com
 0.0.0.0 fledge-publisher.creativecdn.com
 0.0.0.0 fledge.as.criteo.com
@@ -991,6 +1018,9 @@
 0.0.0.0 got.pubnative.net
 0.0.0.0 grid-bidder.criteo.com
 0.0.0.0 groundtruth.com
+0.0.0.0 growads.net
+0.0.0.0 growadvertising.com
+0.0.0.0 growadvertising.io
 0.0.0.0 gsspat.jp
 0.0.0.0 gt-pixel-prod.groundtruth.com
 0.0.0.0 gtm.taboola.com
@@ -1026,8 +1056,10 @@
 0.0.0.0 helium.chartboost.com
 0.0.0.0 helpersng.taboola.com
 0.0.0.0 heyzap.com
+0.0.0.0 hhadvertising.com
 0.0.0.0 highcpmgate.com
 0.0.0.0 hivestack.com
+0.0.0.0 hollandadvertising.com
 0.0.0.0 hostnetadv.site
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 huawei-api.taboola.com
@@ -1139,6 +1171,7 @@
 0.0.0.0 jssdk.rayjump.com
 0.0.0.0 jstrp.adform.net
 0.0.0.0 jungroup.com
+0.0.0.0 justwebads.com
 0.0.0.0 kayzen.io
 0.0.0.0 kickoffo.site
 0.0.0.0 la-match.taboola.com
@@ -2082,4 +2115,5 @@
 0.0.0.0 zergnet.com
 0.0.0.0 zoly.tech
 0.0.0.0 zoomd.com
+0.0.0.0 zx-adnet.com
 0.0.0.0 zxphiz.tech

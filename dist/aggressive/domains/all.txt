@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9994
+# Total domains: 10028
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -77,6 +77,7 @@ a4.analytics.intel.com
 a4.applovin.com
 a5.analytics.intel.com
 a8clk.www.italki.com
+aads.com
 aax-eu.amazon-adsystem.com
 aax-fe-pek.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
@@ -191,6 +192,7 @@ ad-instantpage-ttp2.tiktokv.eu
 ad-instantpage-ttp2.tiktokv.us
 ad-instantpage-va.tiktokv.com
 ad-instantpage.tiktokv.us
+ad-locus.com
 ad-machina.com
 ad-maven.com
 ad-media.ro
@@ -211,6 +213,7 @@ ad-tech-windev.weather.com
 ad-trace.lenovomm.com
 ad-track.jp
 ad-volt.com
+ad-zone.net
 ad.acast.com
 ad.adition.com
 ad.admitad.com
@@ -310,6 +313,7 @@ adbox.sina.com.cn
 adbreaks.yieldlab.net
 adbrix.ai
 adc3-launch.adcolony.com
+adcaravan.uz
 adcel.vrvm.com
 adclarity.com
 adclickserving.com
@@ -323,6 +327,7 @@ adeeply.ru
 adelphic.com
 adex2.fwmrm.net
 adf.ly
+adflores.com
 adfootmedia.com
 adform.com
 adform.net
@@ -351,6 +356,7 @@ adjustyourtracking.vhx.tv
 adkernel.crakrevenue.com
 adlabz.co
 adlock.org
+adlocus.com
 adlog.vivo.com
 adlog.vivo.com.cn
 adm.fwmrm.net
@@ -680,6 +686,7 @@ ads33.adtelligent.com
 ads5.huawei.com
 ads54.adtelligent.com
 ads6.textra.me
+adsailor.com
 adsalad.co.kr
 adsapi-proxy-il.waze.com
 adsapi-proxy-na.waze.com
@@ -723,6 +730,7 @@ adserver.reddit.com
 adserver.remerge.io
 adserver.unityads.unity3d.com
 adserver2.reddit.com
+adserverhd.com
 adservices.google.com
 adservices.roku.com
 adserving-tmp.unibet.com
@@ -742,6 +750,8 @@ adskeeper.net
 adsld.link
 adsmanager.truecaller.com
 adsmarketplace.com
+adsmart.com
+adsmart.com.tr
 adsmetadata.startappservice.com
 adsn.adtelligent.com
 adspa-uat.acer.com
@@ -753,11 +763,15 @@ adspirit.de
 adspirit.net
 adspro.name
 adsquare.com
+adsrevenue.com
+adsrevenue.net
 adsrv.acast.com
 adsrv.reddit.com
 adsrveys.com
 adsrvr.exponential.com
 adsrvr.org
+adstat.pro
+adstats.ai
 adsterra.com
 adstradata.com
 adstrcksrv.com
@@ -882,6 +896,9 @@ adx2.adform.net
 adxlog-adnet.vivo.com.cn
 adyoulike.com
 adyoulike.net
+adz2you.net
+adzone.az
+adzone.live
 ae-ad-1.myhuaweicloud.com
 ae-rdx2-lgtvsdp-com.aws-prd.net
 aerserv.com
@@ -894,6 +911,7 @@ afcyhf.com
 aff.stake.com
 affilae.com
 affiliate.tiktok.com
+affpaying.com
 afftrk.findoctave.com
 agileurbia.com
 ahagamecenter.com
@@ -2266,6 +2284,7 @@ arc-metrics.corp.codeium.com
 arcade-analytics.apple.com
 argenteutilities.com
 array-bid.applovin.com
+artilleryads.com
 asapp.navdmp.com
 asia-abeacdataonrt-stsdk.vivoglobal.com
 asia-abeacdataort-stsdk.vivoglobal.com
@@ -2331,6 +2350,8 @@ atabencot.net
 atdata.com
 atdmt.com
 atharori.net
+atiads.com
+atiads.tv
 atlasdmt.com
 atlassolutions.com
 atomcurve.com
@@ -2514,6 +2535,7 @@ bidstack.com
 bidstack.io
 bidtellect.com
 bidtheatre.com
+bidtoolads.com
 bigdata.baidu.com
 bigdata.samsung.com.cn
 bigdata.ssp.samsung.com
@@ -2550,6 +2572,7 @@ blog.adultfriendfinder.com
 blog.bit-guardian.com
 bluadz.com
 blueadss.com
+blueadvertising.com
 bluehost.outbrain.com
 bluenik.com
 bluesprig.com
@@ -3656,6 +3679,7 @@ display.bidder.taboola.com
 display.criteo.com
 display.ravm.tv
 displayce.com
+displayingads.com
 disqo.com
 districtm.com
 districtm.io
@@ -4091,6 +4115,7 @@ exe.io
 exee.io
 exelate.com
 exelate.info
+expatinfoholland.nl
 experianmarketingservices.com
 experience.appsflyer.com
 experience.conviva.com
@@ -4123,6 +4148,7 @@ extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com
 extrecey.com
 eyeota.com
 eyeota.net
+ezadsystem.com
 ezstat.ru
 f.clarity.ms
 f.hiphotos.baidu.com
@@ -4218,6 +4244,7 @@ feedbackws.fe.apple-dns.cn
 feedbackws.fe2.apple-dns.net
 feedbackws.icloud.com
 feedbackws.icloud.com.cn
+felixads.com
 fhc-event.fhcasino.com
 fhc-event2.fhcasino.com
 fi-info-lgsmartad-com.aws-prd.net
@@ -4504,6 +4531,9 @@ grid-bidder.criteo.com
 griffin.logs.roku.com
 grindr-analytics.com
 groundtruth.com
+growads.net
+growadvertising.com
+growadvertising.io
 growthbook-proxy.citizen.com
 growthbook.citizen.com
 growthbook.server.citizen.com
@@ -4613,6 +4643,7 @@ hertztrack.com
 heylog.cc.heytapmobi.com
 heyzap.com
 hg-tr.ekatox.com
+hhadvertising.com
 hianalytics.com
 hideadew.com
 highcpmgate.com
@@ -4640,6 +4671,7 @@ hola.org
 holavpn.com
 holavpn.net
 holax.io
+hollandadvertising.com
 homeprv.lgtvcommon.com
 homoluath.com
 honeybadger.io
@@ -5010,6 +5042,7 @@ jstrp.adform.net
 juads.vmall.com
 jubaoads.360.cn
 jungroup.com
+justwebads.com
 jv16powertools.com
 jwpltx.com
 k.clarity.ms
@@ -9996,6 +10029,7 @@ zoom.info
 zoomd.com
 zoominfo.com
 zpu.samsungelectronics.com
+zx-adnet.com
 zxphiz.tech
 zyngaads.com
 zz.bdstatic.com

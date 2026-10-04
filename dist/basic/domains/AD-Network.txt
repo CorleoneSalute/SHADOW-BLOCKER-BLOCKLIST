@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2068
+# Total domains: 2102
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -30,6 +30,7 @@ a.teads.tv
 a1.adform.net
 a2.adform.net
 a4.applovin.com
+aads.com
 aax-eu.amazon-adsystem.com
 aax-fe-pek.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
@@ -46,6 +47,7 @@ acuityplatform.com
 ad-host-backup-america.oss-us-west-1.aliyuncs.com
 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
+ad-locus.com
 ad-machina.com
 ad-media.ro
 ad-on.fr
@@ -56,6 +58,7 @@ ad-srv.net
 ad-tag.inner-active.mobi
 ad-track.jp
 ad-volt.com
+ad-zone.net
 ad.adition.com
 ad.adsrvr.org
 ad.click.g.doubleclick.net
@@ -79,6 +82,7 @@ adboostads.com
 adbreaks.yieldlab.net
 adbrix.ai
 adc3-launch.adcolony.com
+adcaravan.uz
 adclickserving.com
 adcolony.com
 addboost360.com
@@ -86,6 +90,7 @@ addynamo.com
 adeeply.ru
 adelphic.com
 adex2.fwmrm.net
+adflores.com
 adfootmedia.com
 adform.com
 adform.net
@@ -97,6 +102,7 @@ adinmo.com
 adition.com
 adjust.applovin.com
 adlabz.co
+adlocus.com
 adm.fwmrm.net
 admagnet.agency
 admaster.cc
@@ -174,11 +180,13 @@ ads3-adnow.com
 ads30.adcolony.com
 ads33.adtelligent.com
 ads54.adtelligent.com
+adsailor.com
 adsbase.ltd
 adsboost.net
 adserve.dianomi.com
 adserver-meta.com
 adserver.unityads.unity3d.com
+adserverhd.com
 adservices.google.com
 adsfactor.net
 adsglobal.world
@@ -190,15 +198,21 @@ adskeeper.co.uk
 adskeeper.com
 adskeeper.net
 adsmarketplace.com
+adsmart.com
+adsmart.com.tr
 adsmetadata.startappservice.com
 adsn.adtelligent.com
 adspace.adskeeper.com
 adspirit.de
 adspirit.net
 adspro.name
+adsrevenue.com
+adsrevenue.net
 adsrveys.com
 adsrvr.exponential.com
 adsrvr.org
+adstat.pro
+adstats.ai
 adsterra.com
 adstrcksrv.com
 adsupply.com
@@ -225,9 +239,13 @@ adx.adform.net
 adx2.adform.net
 adyoulike.com
 adyoulike.net
+adz2you.net
+adzone.az
+adzone.live
 aerserv.com
 aes.us-east.3px.axp.amazon-adsystem.com
 aes.us-west.3px.axp.amazon-adsystem.com
+affpaying.com
 aicube.revx.io
 aj101.xyz
 aj1010.online
@@ -470,6 +488,7 @@ apps.hivestack.com
 appservestar.com
 apsoutheast-match.deepintent.com
 array-bid.applovin.com
+artilleryads.com
 asia.adform.net
 asrv.dalecta.com
 assets-cdn.outbrain.com
@@ -486,6 +505,8 @@ assets.strossle.com
 assets.sublimeskinz.com
 assets.taboola.com
 at-us-east.amazon-adsystem.com
+atiads.com
+atiads.tv
 auction-load.unityads.unity3d.com
 auction.bidmachine.io
 auction.unityads.unity3d.com
@@ -532,12 +553,14 @@ bidstack.com
 bidstack.io
 bidtellect.com
 bidtheatre.com
+bidtoolads.com
 bigo.sg
 bj1052.online
 blobs.omnitagjs.com
 blockchain-ads.com
 bluadz.com
 blueadss.com
+blueadvertising.com
 bluehost.outbrain.com
 bot.outbrain.com
 brightroll.com
@@ -810,6 +833,7 @@ discover.taboola.com
 discovery.outbrain.com
 display.bidder.taboola.com
 displayce.com
+displayingads.com
 districtm.com
 districtm.io
 dm.bytedance.com
@@ -924,7 +948,9 @@ exchange.rfihub.com
 exchange.start.io
 exchange.verve.com
 exdsps-inventory.hivestack.com
+expatinfoholland.nl
 exponential.com
+ezadsystem.com
 fairbid.fyber.com
 fam.adingo.jp
 farm.plista.com
@@ -932,6 +958,7 @@ fastclick.com
 fastclick.net
 fastlane.rubiconproject.com
 fbads24.com
+felixads.com
 fk-mtrack.rayjump.com
 fledge-publisher.creativecdn.com
 fledge.as.criteo.com
@@ -987,6 +1014,9 @@ googlesyndication.com
 got.pubnative.net
 grid-bidder.criteo.com
 groundtruth.com
+growads.net
+growadvertising.com
+growadvertising.io
 gsspat.jp
 gt-pixel-prod.groundtruth.com
 gtm.taboola.com
@@ -1021,8 +1051,10 @@ helium-sdk.chartboost.com
 helium.chartboost.com
 helpersng.taboola.com
 heyzap.com
+hhadvertising.com
 highcpmgate.com
 hivestack.com
+hollandadvertising.com
 hostnetadv.site
 html5.adsrvr.org
 huawei-api.taboola.com
@@ -1133,6 +1165,7 @@ jsc.mgid.com
 jssdk.rayjump.com
 jstrp.adform.net
 jungroup.com
+justwebads.com
 kayzen.io
 kickoffo.site
 la-match.taboola.com
@@ -2072,4 +2105,5 @@ zemanta.outbrain.com
 zergnet.com
 zoly.tech
 zoomd.com
+zx-adnet.com
 zxphiz.tech
