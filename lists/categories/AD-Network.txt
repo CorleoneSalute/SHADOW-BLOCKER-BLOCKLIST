@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2078
-# Total platforms: 207
+# Total platforms: 239
 # Last update: 2026/10/04
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2592,3 +2592,134 @@ cdn77.sportsthread.com
 cdn77.thespike.gg
 cdn77.v1.oddsserve.com
 cdn.blueadss.com
+
+# Adsmart
+
+Adsmart.com
+
+# Adsmart.com.tr
+
+Adsmart.com.tr
+
+# adsrevenue.net
+
+adsrevenue.net
+
+# adsrevenue.com
+
+adsrevenue.com
+
+# adstat.pro
+
+adstat.pro
+
+# adstats.ai
+
+adstats.ai
+
+# adz2you.net
+
+adz2you.net
+
+# adzones.net
+
+ad-zone.net
+
+# adzone.az
+
+adzone.az
+
+# adzone.live
+
+adzone.live
+
+# LOCUS 絡客思行銷科技 (LOCUS Marketing Technology Co., Ltd.)
+
+adlocus.com
+ad-locus.com
+
+# adserverhd.com
+
+adserverhd.com
+
+# ezadsystem.com
+
+ezadsystem.com
+
+# AADS
+
+aads.com
+
+# atiads
+
+atiads.com
+atiads.TV
+
+# BITAD
+
+affpaying.COM
+
+# Blue Advertising
+
+blueadvertising.com
+
+# bidtoolads.com
+
+bidtoolads.com
+
+# "Smart Media Solutions" ООО (OOO Adcaravan)
+
+adcaravan.uz
+
+# zx-adnet.com
+
+zx-adnet.com
+
+# FelixAds
+
+felixads.com
+
+# displayingads.com
+
+displayingads.com
+
+# Adsailor
+
+adsailor.com
+
+# Grow Advertising
+
+growadvertising.com
+growadvertising.io
+
+# growads.net
+
+growads.net
+
+# hhadvertising.com
+
+hhadvertising.com
+
+# Holland Advertising
+
+hollandadvertising.com
+
+# expatinfoholland.nl
+
+expatinfoholland.nl
+
+# JustWebAds
+
+justwebads.com
+
+# AdFlores
+
+adflores.com
+
+# mytrafficads.net 
+
+mytrafficads.net # scam
+
+# Artillery Marketing Group AB
+
+artilleryads.com
