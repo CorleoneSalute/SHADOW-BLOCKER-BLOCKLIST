@@ -1,7 +1,7 @@
 # ============================================================
 # HARDWARE VENDOR BLOCKLIST - AGGRESSIVE
 # Total domains: 153
-# Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 

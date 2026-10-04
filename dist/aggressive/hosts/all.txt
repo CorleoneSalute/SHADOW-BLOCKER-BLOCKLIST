@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9822
-# Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9828
+# Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -195,6 +195,7 @@
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-metrics.espn.com
 0.0.0.0 ad-on.fr
+0.0.0.0 ad-platform.biz
 0.0.0.0 ad-risk.prt.kuaishou.com
 0.0.0.0 ad-saver.com
 0.0.0.0 ad-sdk.lenovomm.com
@@ -323,6 +324,7 @@
 0.0.0.0 adfox.yandex.com
 0.0.0.0 adgen-cdn.connatix.com
 0.0.0.0 adgen.connatix.com
+0.0.0.0 adgoto.com
 0.0.0.0 adgrx.com
 0.0.0.0 adgwy.tivo.com
 0.0.0.0 adhoc.textra.me
@@ -4115,6 +4117,8 @@
 0.0.0.0 flexlinks.com
 0.0.0.0 flexlinkspro.com
 0.0.0.0 flingo.tv
+0.0.0.0 flirtads.com
+0.0.0.0 flirtads.net
 0.0.0.0 flow.adform.net
 0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 fls-fe.amazon-adsystem.com
@@ -7013,6 +7017,8 @@
 0.0.0.0 ro-info-lgsmartad-com.aws-prd.net
 0.0.0.0 ro-up.vivoglobal.com
 0.0.0.0 rockett.logs.roku.com
+0.0.0.0 rocoads.com
+0.0.0.0 rocoads.net
 0.0.0.0 roiads.co
 0.0.0.0 roku.adsmeasurement.com
 0.0.0.0 rollbar.com

@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9822
-# Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9828
+# Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -195,6 +195,7 @@
 ||ad-maven.com^
 ||ad-metrics.espn.com^
 ||ad-on.fr^
+||ad-platform.biz^
 ||ad-risk.prt.kuaishou.com^
 ||ad-saver.com^
 ||ad-sdk.lenovomm.com^
@@ -323,6 +324,7 @@
 ||adfox.yandex.com^
 ||adgen-cdn.connatix.com^
 ||adgen.connatix.com^
+||adgoto.com^
 ||adgrx.com^
 ||adgwy.tivo.com^
 ||adhoc.textra.me^
@@ -4115,6 +4117,8 @@
 ||flexlinks.com^
 ||flexlinkspro.com^
 ||flingo.tv^
+||flirtads.com^
+||flirtads.net^
 ||flow.adform.net^
 ||fls-eu.amazon-adsystem.com^
 ||fls-fe.amazon-adsystem.com^
@@ -7013,6 +7017,8 @@
 ||ro-info-lgsmartad-com.aws-prd.net^
 ||ro-up.vivoglobal.com^
 ||rockett.logs.roku.com^
+||rocoads.com^
+||rocoads.net^
 ||roiads.co^
 ||roku.adsmeasurement.com^
 ||rollbar.com^

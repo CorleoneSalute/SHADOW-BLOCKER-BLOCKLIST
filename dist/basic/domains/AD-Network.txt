@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1896
-# Generated: 2026-10-03 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1902
+# Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -48,6 +48,7 @@ ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
 ad-machina.com
 ad-on.fr
+ad-platform.biz
 ad-saver.com
 ad-srv.co
 ad-srv.net
@@ -83,6 +84,7 @@ adex2.fwmrm.net
 adfootmedia.com
 adform.com
 adform.net
+adgoto.com
 adiant.com
 adinjector.net
 adinmo.com
@@ -797,6 +799,8 @@ fledge-publisher.creativecdn.com
 fledge.as.criteo.com
 fledge.eu.criteo.com
 fledge.us.criteo.com
+flirtads.com
+flirtads.net
 flow.adform.net
 fls-eu.amazon-adsystem.com
 fls-fe.amazon-adsystem.com
@@ -1320,6 +1324,8 @@ risecodes.com
 rmp-api.moloco.com
 rmp-cdn.moloco.com
 rmp.gsspat.jp
+rocoads.com
+rocoads.net
 rollworks.com
 rss.revcontent.com
 rt.applovin.com
