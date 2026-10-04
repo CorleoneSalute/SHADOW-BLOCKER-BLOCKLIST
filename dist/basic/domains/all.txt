@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9381
+# Total domains: 9387
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -179,6 +179,7 @@ ad-instantpage-va.tiktokv.com
 ad-instantpage.tiktokv.us
 ad-machina.com
 ad-maven.com
+ad-media.ro
 ad-metrics.espn.com
 ad-on.fr
 ad-platform.biz
@@ -310,6 +311,7 @@ adform.net
 adfox.yandex.com
 adgen-cdn.connatix.com
 adgen.connatix.com
+adglobal360.com
 adgoto.com
 adgrx.com
 adgwy.tivo.com
@@ -334,6 +336,7 @@ adlog.vivo.com
 adlog.vivo.com.cn
 adm.fwmrm.net
 adm.leju.sina.com.cn
+admagnet.agency
 admanager.opera.com
 admanager.yahoo.com
 admanagerplus.yahoo.com
@@ -342,6 +345,7 @@ admaster.cc
 admaven.com
 admedia.com
 admedia.network
+admedia.ro
 admetrica.yandex.com
 admin-advertising.roku.com
 admitad.com
@@ -690,6 +694,7 @@ adserving.unibet.com
 adsfactor.net
 adsfs-sdkconfig.heytapimage.com
 adsfs.oppomobile.com
+adsglobal.world
 adskeeper.co.uk
 adskeeper.com
 adskeeper.net
@@ -4111,6 +4116,7 @@ global.adform.net
 global.criteo.com
 global.telemetry.insights.video.a2z.com
 globaladsmedia.us
+globaladtech.com
 globalapi.ad.xiaomi.com
 globalreport.ad.intl.xiaomi.com
 gloyah.net

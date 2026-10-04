@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9381
+# Total domains: 9387
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -179,6 +179,7 @@
 0.0.0.0 ad-instantpage.tiktokv.us
 0.0.0.0 ad-machina.com
 0.0.0.0 ad-maven.com
+0.0.0.0 ad-media.ro
 0.0.0.0 ad-metrics.espn.com
 0.0.0.0 ad-on.fr
 0.0.0.0 ad-platform.biz
@@ -310,6 +311,7 @@
 0.0.0.0 adfox.yandex.com
 0.0.0.0 adgen-cdn.connatix.com
 0.0.0.0 adgen.connatix.com
+0.0.0.0 adglobal360.com
 0.0.0.0 adgoto.com
 0.0.0.0 adgrx.com
 0.0.0.0 adgwy.tivo.com
@@ -334,6 +336,7 @@
 0.0.0.0 adlog.vivo.com.cn
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 adm.leju.sina.com.cn
+0.0.0.0 admagnet.agency
 0.0.0.0 admanager.opera.com
 0.0.0.0 admanager.yahoo.com
 0.0.0.0 admanagerplus.yahoo.com
@@ -342,6 +345,7 @@
 0.0.0.0 admaven.com
 0.0.0.0 admedia.com
 0.0.0.0 admedia.network
+0.0.0.0 admedia.ro
 0.0.0.0 admetrica.yandex.com
 0.0.0.0 admin-advertising.roku.com
 0.0.0.0 admitad.com
@@ -690,6 +694,7 @@
 0.0.0.0 adsfactor.net
 0.0.0.0 adsfs-sdkconfig.heytapimage.com
 0.0.0.0 adsfs.oppomobile.com
+0.0.0.0 adsglobal.world
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adskeeper.net
@@ -4111,6 +4116,7 @@
 0.0.0.0 global.criteo.com
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 globaladsmedia.us
+0.0.0.0 globaladtech.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalreport.ad.intl.xiaomi.com
 0.0.0.0 gloyah.net

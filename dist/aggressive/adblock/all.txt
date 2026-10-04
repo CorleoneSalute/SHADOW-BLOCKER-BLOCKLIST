@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 9833
+# Total domains: 9839
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -193,6 +193,7 @@
 ||ad-instantpage.tiktokv.us^
 ||ad-machina.com^
 ||ad-maven.com^
+||ad-media.ro^
 ||ad-metrics.espn.com^
 ||ad-on.fr^
 ||ad-platform.biz^
@@ -328,6 +329,7 @@
 ||adfox.yandex.com^
 ||adgen-cdn.connatix.com^
 ||adgen.connatix.com^
+||adglobal360.com^
 ||adgoto.com^
 ||adgrx.com^
 ||adgwy.tivo.com^
@@ -353,6 +355,7 @@
 ||adlog.vivo.com.cn^
 ||adm.fwmrm.net^
 ||adm.leju.sina.com.cn^
+||admagnet.agency^
 ||admanager.opera.com^
 ||admanager.yahoo.com^
 ||admanagerplus.yahoo.com^
@@ -361,6 +364,7 @@
 ||admaven.com^
 ||admedia.com^
 ||admedia.network^
+||admedia.ro^
 ||admetrica.yandex.com^
 ||admin-advertising.roku.com^
 ||admitad.com^
@@ -723,6 +727,7 @@
 ||adsfactor.net^
 ||adsfs-sdkconfig.heytapimage.com^
 ||adsfs.oppomobile.com^
+||adsglobal.world^
 ||adshrink.it^
 ||adskeeper.co.uk^
 ||adskeeper.com^
@@ -4309,6 +4314,7 @@
 ||global.criteo.com^
 ||global.telemetry.insights.video.a2z.com^
 ||globaladsmedia.us^
+||globaladtech.com^
 ||globalapi.ad.xiaomi.com^
 ||globalreport.ad.intl.xiaomi.com^
 ||gloyah.net^

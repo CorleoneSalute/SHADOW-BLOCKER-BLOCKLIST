@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 1907
+# Total domains: 1913
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -47,6 +47,7 @@
 ||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
 ||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
 ||ad-machina.com^
+||ad-media.ro^
 ||ad-on.fr^
 ||ad-platform.biz^
 ||ad-saver.com^
@@ -88,6 +89,7 @@
 ||adfootmedia.com^
 ||adform.com^
 ||adform.net^
+||adglobal360.com^
 ||adgoto.com^
 ||adiant.com^
 ||adinjector.net^
@@ -96,10 +98,12 @@
 ||adjust.applovin.com^
 ||adlabz.co^
 ||adm.fwmrm.net^
+||admagnet.agency^
 ||admaster.cc^
 ||admaven.com^
 ||admedia.com^
 ||admedia.network^
+||admedia.ro^
 ||admix.in^
 ||admixer.co.kr^
 ||admixer.com^
@@ -174,6 +178,7 @@
 ||adserver.unityads.unity3d.com^
 ||adservices.google.com^
 ||adsfactor.net^
+||adsglobal.world^
 ||adskeeper.co.uk^
 ||adskeeper.com^
 ||adskeeper.net^
@@ -841,6 +846,7 @@
 ||global.adform.net^
 ||global.criteo.com^
 ||globaladsmedia.us^
+||globaladtech.com^
 ||go.33across.com^
 ||go.adsterra.com^
 ||go.criteo.net^

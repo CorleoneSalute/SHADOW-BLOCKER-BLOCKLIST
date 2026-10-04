@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 1917
+# Total domains: 1923
 # Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -47,6 +47,7 @@
 0.0.0.0 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
 0.0.0.0 ad-machina.com
+0.0.0.0 ad-media.ro
 0.0.0.0 ad-on.fr
 0.0.0.0 ad-platform.biz
 0.0.0.0 ad-saver.com
@@ -88,6 +89,7 @@
 0.0.0.0 adfootmedia.com
 0.0.0.0 adform.com
 0.0.0.0 adform.net
+0.0.0.0 adglobal360.com
 0.0.0.0 adgoto.com
 0.0.0.0 adiant.com
 0.0.0.0 adinjector.net
@@ -96,10 +98,12 @@
 0.0.0.0 adjust.applovin.com
 0.0.0.0 adlabz.co
 0.0.0.0 adm.fwmrm.net
+0.0.0.0 admagnet.agency
 0.0.0.0 admaster.cc
 0.0.0.0 admaven.com
 0.0.0.0 admedia.com
 0.0.0.0 admedia.network
+0.0.0.0 admedia.ro
 0.0.0.0 admix.in
 0.0.0.0 admixer.co.kr
 0.0.0.0 admixer.com
@@ -175,6 +179,7 @@
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adservices.google.com
 0.0.0.0 adsfactor.net
+0.0.0.0 adsglobal.world
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adskeeper.net
@@ -845,6 +850,7 @@
 0.0.0.0 global.adform.net
 0.0.0.0 global.criteo.com
 0.0.0.0 globaladsmedia.us
+0.0.0.0 globaladtech.com
 0.0.0.0 go.33across.com
 0.0.0.0 go.adsterra.com
 0.0.0.0 go.criteo.net
