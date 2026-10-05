@@ -43,6 +43,7 @@ telemetry.grindr.com
 crash.grindr.com
 kibanalogging.grindr.com
 www.kibanalogging.grindr.com
+advertising.web.grindr.com
 
 # PERRY STREET — Scruff / Jack'd
 analytics.scruff.com
