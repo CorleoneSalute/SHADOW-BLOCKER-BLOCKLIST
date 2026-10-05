@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2116
-# Total platforms: 242
+# Total platforms: 259
 # Last update: 2026/10/04
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2789,3 +2789,61 @@ adserve.zone
 # AdServers
 
 adservers.com.br
+
+# FAROS
+
+adwidecenter.com
+adleave.com
+plurielmediacenter.com
+
+# Adzreach Media Private Limited
+
+adzreach.com # SPAM/fraud domain
+
+# alphaadsdigital.com
+
+alphaadsdigital.com
+
+# alphaadsgroup.com
+
+alphaadsgroup.com
+
+# alphaads-group.com
+
+alphaads-group.com
+
+# awmads.com
+
+awmads.com
+
+# ADWEB
+
+adweb.gr
+
+# adshub.dk
+
+adshub.dk
+
+# adshubmedia.com
+
+adshubmedia.com
+
+# adshub.de
+
+adshub.de
+
+# adsorb.io
+
+adsorb.io
+
+# remove-ads.xyz
+
+remove-ads.xyz # adware PUP
+
+# trakads
+
+trakads.com
+
+# Adwoox Dijital Pazarlama Ajansı
+
+adwoox.com
