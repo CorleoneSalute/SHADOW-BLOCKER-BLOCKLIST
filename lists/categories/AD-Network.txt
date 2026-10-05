@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2116
-# Total platforms: 239
+# Total platforms: 242
 # Last update: 2026/10/04
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2730,3 +2730,62 @@ adsmartfromsky.co.uk
 adsmartfromsky.ie
 skyadsmart.com
 skyads.ott.skymedia.co.uk
+
+# ActionAds.ru
+
+actionads.ru
+
+# ad1data
+
+ad1data.com
+go.ad1data.com
+
+# adexp
+
+adexp.net
+
+# theadexp
+
+theadexp.com
+
+# Adhit Media
+
+adhit.com
+ads.adhit.com
+cpa.adhit.com
+offers.adhit.com
+
+# AdMaster (精硕科技)
+
+admaster.com.cn
+v.admaster.com.cn
+
+# AdHitz
+
+AdHitz.com
+
+# ADMASTER 
+
+admaster.İO
+
+# Adprime Media
+
+adprimemedia.com
+adprimehealth.com
+adprime.com
+
+# Ads Gold
+
+adsgold.com.br
+
+# AdServe.TV
+
+adserve.tv
+
+# Adserve.zone
+
+adserve.zone
+
+# AdServers
+
+adservers.com.br
