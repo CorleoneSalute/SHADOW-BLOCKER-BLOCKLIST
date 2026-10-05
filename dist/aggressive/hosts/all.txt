@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10034
+# Total domains: 10035
 # Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -754,6 +754,7 @@
 0.0.0.0 adsmart.com.tr
 0.0.0.0 adsmartfromsky.co.uk
 0.0.0.0 adsmartfromsky.ie
+0.0.0.0 adsmeasurement.com
 0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsn.adtelligent.com
 0.0.0.0 adspa-uat.acer.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9582
+# Total domains: 9583
 # Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -720,6 +720,7 @@ adsmart.com
 adsmart.com.tr
 adsmartfromsky.co.uk
 adsmartfromsky.ie
+adsmeasurement.com
 adsmetadata.startappservice.com
 adsn.adtelligent.com
 adspa-uat.acer.com
