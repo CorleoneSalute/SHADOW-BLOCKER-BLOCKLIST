@@ -105,6 +105,7 @@ fr.rdx2.lgtvsdp.com
 kr.info.lgsmartad.com
 GB.info.lgsmartad.com
 info.lgsmartad.com
+lgads.adsmeasurement.com
 lgads.tv
 www.lgads.tv
 ngfts.lge.com
