@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9581
+# Total domains: 9582
 # Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4883,6 +4883,7 @@ lf16-adsformat-sign.tiktokcdn.com
 lf19-adsformat-sign.tiktokcdn.com
 lgad.cjpowercast.com
 lgad.cjpowercast.com.edgesuite.net
+lgads.adsmeasurement.com
 lgads.lge.com
 lgads.tv
 lgadsapi.lge.com

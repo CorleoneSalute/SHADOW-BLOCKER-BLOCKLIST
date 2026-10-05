@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - BASIC
-# Total domains: 508
+# Total domains: 509
 # Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -299,6 +299,7 @@
 ||learncyber.brightdata.com^
 ||lgad.cjpowercast.com^
 ||lgad.cjpowercast.com.edgesuite.net^
+||lgads.adsmeasurement.com^
 ||lgads.lge.com^
 ||lgads.tv^
 ||lgadsapi.lge.com^

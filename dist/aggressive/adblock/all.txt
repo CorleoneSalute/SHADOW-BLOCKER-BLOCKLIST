@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10033
+# Total domains: 10034
 # Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5131,6 +5131,7 @@
 ||lf19-adsformat-sign.tiktokcdn.com^
 ||lgad.cjpowercast.com^
 ||lgad.cjpowercast.com.edgesuite.net^
+||lgads.adsmeasurement.com^
 ||lgads.lge.com^
 ||lgads.tv^
 ||lgadsapi.lge.com^
