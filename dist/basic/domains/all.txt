@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9583
+# Total domains: 9616
 # Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -123,6 +123,7 @@ acscdn.lavasoft.com
 action.effiliation.com
 action.metaffiliation.com
 action.netaffiliation.com
+actionads.ru
 activeation.com
 activeterium.com
 activity-log-improvements.feature.varify.io
@@ -267,6 +268,7 @@ ad01.udb.bf1.yahoo.com
 ad1.gtie.dell.com
 ad1.reddit.com
 ad1.xiaomi.com
+ad1data.com
 ad2.gtie.dell.com
 ad2.reddit.com
 ad3.gtie.dell.com
@@ -308,6 +310,7 @@ addynamo.com
 adeeply.ru
 adelphic.com
 adex2.fwmrm.net
+adexp.net
 adf.ly
 adflores.com
 adfootmedia.com
@@ -320,6 +323,8 @@ adglobal360.com
 adgoto.com
 adgrx.com
 adgwy.tivo.com
+adhit.com
+adhitz.com
 adhoc.textra.me
 adiant.com
 adikteev.com
@@ -337,6 +342,7 @@ adjustevents.purevpn.com
 adjustyourtracking.vhx.tv
 adkernel.crakrevenue.com
 adlabz.co
+adleave.com
 adlocus.com
 adlog.vivo.com
 adlog.vivo.com.cn
@@ -348,6 +354,7 @@ admanager.yahoo.com
 admanagerplus.yahoo.com
 admarketing.yahoo.net
 admaster.cc
+admaster.com.cn
 admaven.com
 admedia.com
 admedia.network
@@ -391,6 +398,9 @@ adperio.com
 adplatform.apple.com
 adplayer.pro
 adpopcorn.com
+adprime.com
+adprimehealth.com
+adprimemedia.com
 adprofex.com
 adptrck.com
 adreporter.yahoo.com
@@ -462,6 +472,7 @@ ads.ac.vip.ne1.yahoo.com
 ads.accuweather.com
 ads.acer.com
 ads.adcolony.com
+ads.adhit.com
 ads.adikteev.com
 ads.adinmo.com
 ads.admix.in
@@ -683,6 +694,8 @@ adsdktest.apple.com
 adseaimg.apusapps.com
 adserv.reddit.com
 adserve.dianomi.com
+adserve.tv
+adserve.zone
 adserver-backend.myspace.com
 adserver-banners.myspace.com
 adserver-meta.com
@@ -698,6 +711,7 @@ adserver.remerge.io
 adserver.unityads.unity3d.com
 adserver2.reddit.com
 adserverhd.com
+adservers.com.br
 adservices.google.com
 adservices.roku.com
 adserving-tmp.unibet.com
@@ -706,10 +720,14 @@ adsfactor.net
 adsfs-sdkconfig.heytapimage.com
 adsfs.oppomobile.com
 adsglobal.world
+adsgold.com.br
 adshost1.com
 adshost2.com
 adshost3.com
 adshostnet.com
+adshub.de
+adshub.dk
+adshubmedia.com
 adskeeper.co.uk
 adskeeper.com
 adskeeper.net
@@ -723,6 +741,7 @@ adsmartfromsky.ie
 adsmeasurement.com
 adsmetadata.startappservice.com
 adsn.adtelligent.com
+adsorb.io
 adspa-uat.acer.com
 adspa.acer.com
 adspace.adskeeper.com
@@ -814,6 +833,9 @@ adview.acr.roku.com
 advil.waze.com
 advilapsoutheast1.waze.com
 advisor-analytics.ouraring.com
+adweb.gr
+adwidecenter.com
+adwoox.com
 adx-ads-fr.heytapmobile.com
 adx-ads-ru.heytapmobile.com
 adx-ads.realmemobile.com
@@ -998,6 +1020,9 @@ alicn-bj-ad-prod-2.cc.d.xiaomi.net
 alicn-bj-ad-prod.cc.d.xiaomi.net
 alipaylog.com
 alldcs.outbrain.org
+alphaads-group.com
+alphaadsdigital.com
+alphaadsgroup.com
 alphonso.tv
 alturl.com
 alx.apac.rtb.linkedin.com
@@ -2351,6 +2376,7 @@ awin.nl
 awin.pl
 awin1.com
 awltovhc.com
+awmads.com
 aws-glue.sc-prod.net
 aws.external.logs.roku.com
 awslogs.garmin.com
@@ -3210,6 +3236,7 @@ corplcms-ads-int-sgp.apple.com
 covid19-feedbackws.icloud.com
 cowner.net
 cpa.adcolony.com
+cpa.adhit.com
 cpamatica.io
 cpmmax.site
 cprad-iad4.apple.com
@@ -4282,6 +4309,7 @@ gloyah.net
 gm-telemetry.bfge.bigfishgames.com
 go-mpulse.net
 go.33across.com
+go.ad1data.com
 go.adsterra.com
 go.criteo.net
 go.oclasrv.com
@@ -6184,6 +6212,7 @@ oclasrv.com
 ocr.shouji.sogou.com
 odb.outbrain.com
 odml.ad.intl.xiaomi.com
+offers.adhit.com
 offerwall.fyber.com
 offline-analytics.youtube.com
 ohttp.ads.bravesoftware.com
@@ -6526,6 +6555,7 @@ plista.fr
 plista125.plista.com
 plista573.plista.com
 plista87.plista.com
+plurielmediacenter.com
 pluto.tv.sc.omtrdc.net
 pmc-reporting.criteo.net
 pnrt-stsdk.vivoglobal.com
@@ -8294,6 +8324,7 @@ test.ad.xiaomi.com
 test.admixer.co.kr
 test.samsungrm.net
 test0ads.anura.io
+theadexp.com
 thecoolcompany.com
 thecyberprotector.com
 thetradedesk.com
@@ -8817,6 +8848,7 @@ traffic-media.co
 traffic-media.co.uk
 traffic.outbrain.com
 trafficroots.com
+trakads.com
 trc-analytics.taboola.com
 trc-china.taboola.com
 trc-eu.admaster.cc
@@ -9063,6 +9095,7 @@ utmtrk.vimeo.com
 utt.impactcdn.com
 uxcam.com
 uxintg-iad.apple.com
+v.admaster.com.cn
 v.adsrvr.org
 v.clarity.ms
 v.plerdy.com

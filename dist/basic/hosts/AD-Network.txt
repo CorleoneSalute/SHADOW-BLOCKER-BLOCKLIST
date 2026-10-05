@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2106
+# Total domains: 2139
 # Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -42,6 +42,7 @@
 0.0.0.0 abc2.adtelligent.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 acobt.tech
+0.0.0.0 actionads.ru
 0.0.0.0 acuityads.com
 0.0.0.0 acuityplatform.com
 0.0.0.0 ad-host-backup-america.oss-us-west-1.aliyuncs.com
@@ -72,6 +73,7 @@
 0.0.0.0 ad.plus
 0.0.0.0 ad.smaato.net
 0.0.0.0 ad.yieldlab.net
+0.0.0.0 ad1data.com
 0.0.0.0 ad7.biz
 0.0.0.0 adap.tv
 0.0.0.0 adaptv.advertising.com
@@ -90,22 +92,27 @@
 0.0.0.0 adeeply.ru
 0.0.0.0 adelphic.com
 0.0.0.0 adex2.fwmrm.net
+0.0.0.0 adexp.net
 0.0.0.0 adflores.com
 0.0.0.0 adfootmedia.com
 0.0.0.0 adform.com
 0.0.0.0 adform.net
 0.0.0.0 adglobal360.com
 0.0.0.0 adgoto.com
+0.0.0.0 adhit.com
+0.0.0.0 adhitz.com
 0.0.0.0 adiant.com
 0.0.0.0 adinjector.net
 0.0.0.0 adinmo.com
 0.0.0.0 adition.com
 0.0.0.0 adjust.applovin.com
 0.0.0.0 adlabz.co
+0.0.0.0 adleave.com
 0.0.0.0 adlocus.com
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 admagnet.agency
 0.0.0.0 admaster.cc
+0.0.0.0 admaster.com.cn
 0.0.0.0 admaven.com
 0.0.0.0 admedia.com
 0.0.0.0 admedia.network
@@ -129,6 +136,9 @@
 0.0.0.0 adnxs.net
 0.0.0.0 adplayer.pro
 0.0.0.0 adpopcorn.com
+0.0.0.0 adprime.com
+0.0.0.0 adprimehealth.com
+0.0.0.0 adprimemedia.com
 0.0.0.0 adptrck.com
 0.0.0.0 adroll.com
 0.0.0.0 adru.net
@@ -137,6 +147,7 @@
 0.0.0.0 ads-i.undertone.com
 0.0.0.0 ads-sdk.unityads.unity3d.com
 0.0.0.0 ads.adcolony.com
+0.0.0.0 ads.adhit.com
 0.0.0.0 ads.adinmo.com
 0.0.0.0 ads.admix.in
 0.0.0.0 ads.adyoulike.com
@@ -184,16 +195,23 @@
 0.0.0.0 adsbase.ltd
 0.0.0.0 adsboost.net
 0.0.0.0 adserve.dianomi.com
+0.0.0.0 adserve.tv
+0.0.0.0 adserve.zone
 0.0.0.0 adserver-meta.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adserverhd.com
+0.0.0.0 adservers.com.br
 0.0.0.0 adservices.google.com
 0.0.0.0 adsfactor.net
 0.0.0.0 adsglobal.world
+0.0.0.0 adsgold.com.br
 0.0.0.0 adshost1.com
 0.0.0.0 adshost2.com
 0.0.0.0 adshost3.com
 0.0.0.0 adshostnet.com
+0.0.0.0 adshub.de
+0.0.0.0 adshub.dk
+0.0.0.0 adshubmedia.com
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adskeeper.net
@@ -204,6 +222,7 @@
 0.0.0.0 adsmartfromsky.ie
 0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsn.adtelligent.com
+0.0.0.0 adsorb.io
 0.0.0.0 adspace.adskeeper.com
 0.0.0.0 adspirit.de
 0.0.0.0 adspirit.net
@@ -237,6 +256,9 @@
 0.0.0.0 advertising.com
 0.0.0.0 advertising.yahooinc.com
 0.0.0.0 advertstream.com
+0.0.0.0 adweb.gr
+0.0.0.0 adwidecenter.com
+0.0.0.0 adwoox.com
 0.0.0.0 adx.adform.net
 0.0.0.0 adx2.adform.net
 0.0.0.0 adyoulike.com
@@ -343,6 +365,9 @@
 0.0.0.0 akamai-res1.applovin.com
 0.0.0.0 akamai.vungle-cdn.vungle.com
 0.0.0.0 alldcs.outbrain.org
+0.0.0.0 alphaads-group.com
+0.0.0.0 alphaadsdigital.com
+0.0.0.0 alphaadsgroup.com
 0.0.0.0 alx.applovin.com
 0.0.0.0 am-api.taboola.com
 0.0.0.0 am-huawei-api.taboola.com
@@ -516,6 +541,7 @@
 0.0.0.0 audiences.seedtag.com
 0.0.0.0 audiomax.adswizz.com
 0.0.0.0 auth.connectad.io
+0.0.0.0 awmads.com
 0.0.0.0 axon.ai
 0.0.0.0 azad.adsrvr.org
 0.0.0.0 azenduser.adsrvr.org
@@ -769,6 +795,7 @@
 0.0.0.0 convnjmp.taboola.com
 0.0.0.0 cool.co
 0.0.0.0 cpa.adcolony.com
+0.0.0.0 cpa.adhit.com
 0.0.0.0 cpmmax.site
 0.0.0.0 creative.sonobi.com
 0.0.0.0 creativecdn.com
@@ -1005,6 +1032,7 @@
 0.0.0.0 globaladsmedia.us
 0.0.0.0 globaladtech.com
 0.0.0.0 go.33across.com
+0.0.0.0 go.ad1data.com
 0.0.0.0 go.adsterra.com
 0.0.0.0 go.criteo.net
 0.0.0.0 go.oclasrv.com
@@ -1309,6 +1337,7 @@
 0.0.0.0 oblookup.com
 0.0.0.0 oclasrv.com
 0.0.0.0 odb.outbrain.com
+0.0.0.0 offers.adhit.com
 0.0.0.0 offerwall.fyber.com
 0.0.0.0 okvmm.tech
 0.0.0.0 omnitagjs.com
@@ -1414,6 +1443,7 @@
 0.0.0.0 plista125.plista.com
 0.0.0.0 plista573.plista.com
 0.0.0.0 plista87.plista.com
+0.0.0.0 plurielmediacenter.com
 0.0.0.0 pmc-reporting.criteo.net
 0.0.0.0 popup.taboola.com
 0.0.0.0 post.update.criteo.com
@@ -1793,6 +1823,7 @@
 0.0.0.0 telemetry-gke-gw3.ssp.inmobi.com
 0.0.0.0 telemetry.applovin.com
 0.0.0.0 test.admixer.co.kr
+0.0.0.0 theadexp.com
 0.0.0.0 thecoolcompany.com
 0.0.0.0 thetradedesk.com
 0.0.0.0 thind.unityads.unity3d.com
@@ -1870,6 +1901,7 @@
 0.0.0.0 tradingworks.com
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 trafficroots.com
+0.0.0.0 trakads.com
 0.0.0.0 trc-analytics.taboola.com
 0.0.0.0 trc-china.taboola.com
 0.0.0.0 trc-eu.admaster.cc
@@ -1927,6 +1959,7 @@
 0.0.0.0 usw-lax.adsrvr.org
 0.0.0.0 usw.unrulymedia.com
 0.0.0.0 usync.admixer.net
+0.0.0.0 v.admaster.com.cn
 0.0.0.0 v.adsrvr.org
 0.0.0.0 v.vungle.com
 0.0.0.0 v1.oddsserve.com

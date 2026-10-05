@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2106
+# Total domains: 2139
 # Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -42,6 +42,7 @@ aba.gumgum.com
 abc2.adtelligent.com
 acdn.adnxs.com
 acobt.tech
+actionads.ru
 acuityads.com
 acuityplatform.com
 ad-host-backup-america.oss-us-west-1.aliyuncs.com
@@ -72,6 +73,7 @@ ad.inner-active.com
 ad.plus
 ad.smaato.net
 ad.yieldlab.net
+ad1data.com
 ad7.biz
 adap.tv
 adaptv.advertising.com
@@ -90,22 +92,27 @@ addynamo.com
 adeeply.ru
 adelphic.com
 adex2.fwmrm.net
+adexp.net
 adflores.com
 adfootmedia.com
 adform.com
 adform.net
 adglobal360.com
 adgoto.com
+adhit.com
+adhitz.com
 adiant.com
 adinjector.net
 adinmo.com
 adition.com
 adjust.applovin.com
 adlabz.co
+adleave.com
 adlocus.com
 adm.fwmrm.net
 admagnet.agency
 admaster.cc
+admaster.com.cn
 admaven.com
 admedia.com
 admedia.network
@@ -129,6 +136,9 @@ adnxs.com
 adnxs.net
 adplayer.pro
 adpopcorn.com
+adprime.com
+adprimehealth.com
+adprimemedia.com
 adptrck.com
 adroll.com
 adru.net
@@ -137,6 +147,7 @@ ads-i-cf.undertone.com
 ads-i.undertone.com
 ads-sdk.unityads.unity3d.com
 ads.adcolony.com
+ads.adhit.com
 ads.adinmo.com
 ads.admix.in
 ads.adyoulike.com
@@ -184,16 +195,23 @@ adsailor.com
 adsbase.ltd
 adsboost.net
 adserve.dianomi.com
+adserve.tv
+adserve.zone
 adserver-meta.com
 adserver.unityads.unity3d.com
 adserverhd.com
+adservers.com.br
 adservices.google.com
 adsfactor.net
 adsglobal.world
+adsgold.com.br
 adshost1.com
 adshost2.com
 adshost3.com
 adshostnet.com
+adshub.de
+adshub.dk
+adshubmedia.com
 adskeeper.co.uk
 adskeeper.com
 adskeeper.net
@@ -204,6 +222,7 @@ adsmartfromsky.co.uk
 adsmartfromsky.ie
 adsmetadata.startappservice.com
 adsn.adtelligent.com
+adsorb.io
 adspace.adskeeper.com
 adspirit.de
 adspirit.net
@@ -237,6 +256,9 @@ advertiser-api.revcontent.com
 advertising.com
 advertising.yahooinc.com
 advertstream.com
+adweb.gr
+adwidecenter.com
+adwoox.com
 adx.adform.net
 adx2.adform.net
 adyoulike.com
@@ -343,6 +365,9 @@ ajxx91.online
 akamai-res1.applovin.com
 akamai.vungle-cdn.vungle.com
 alldcs.outbrain.org
+alphaads-group.com
+alphaadsdigital.com
+alphaadsgroup.com
 alx.applovin.com
 am-api.taboola.com
 am-huawei-api.taboola.com
@@ -516,6 +541,7 @@ audience.kayzen.io
 audiences.seedtag.com
 audiomax.adswizz.com
 auth.connectad.io
+awmads.com
 axon.ai
 azad.adsrvr.org
 azenduser.adsrvr.org
@@ -769,6 +795,7 @@ convlatbmp.taboola.com
 convnjmp.taboola.com
 cool.co
 cpa.adcolony.com
+cpa.adhit.com
 cpmmax.site
 creative.sonobi.com
 creativecdn.com
@@ -1005,6 +1032,7 @@ global.criteo.com
 globaladsmedia.us
 globaladtech.com
 go.33across.com
+go.ad1data.com
 go.adsterra.com
 go.criteo.net
 go.oclasrv.com
@@ -1309,6 +1337,7 @@ ob-retarget.com
 oblookup.com
 oclasrv.com
 odb.outbrain.com
+offers.adhit.com
 offerwall.fyber.com
 okvmm.tech
 omnitagjs.com
@@ -1414,6 +1443,7 @@ plista.fr
 plista125.plista.com
 plista573.plista.com
 plista87.plista.com
+plurielmediacenter.com
 pmc-reporting.criteo.net
 popup.taboola.com
 post.update.criteo.com
@@ -1793,6 +1823,7 @@ telemetry-gke-gw2.ssp.inmobi.com
 telemetry-gke-gw3.ssp.inmobi.com
 telemetry.applovin.com
 test.admixer.co.kr
+theadexp.com
 thecoolcompany.com
 thetradedesk.com
 thind.unityads.unity3d.com
@@ -1870,6 +1901,7 @@ tracking.zoomd.com
 tradingworks.com
 traffic.outbrain.com
 trafficroots.com
+trakads.com
 trc-analytics.taboola.com
 trc-china.taboola.com
 trc-eu.admaster.cc
@@ -1927,6 +1959,7 @@ usw-ca2.adsrvr.org
 usw-lax.adsrvr.org
 usw.unrulymedia.com
 usync.admixer.net
+v.admaster.com.cn
 v.adsrvr.org
 v.vungle.com
 v1.oddsserve.com
