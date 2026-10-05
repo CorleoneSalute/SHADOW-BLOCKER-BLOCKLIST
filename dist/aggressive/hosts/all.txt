@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10032
+# Total domains: 10033
 # Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6333,6 +6333,7 @@
 0.0.0.0 newscgp.com
 0.0.0.0 newscorpau.taboola.com
 0.0.0.0 newskit-events.apple.com
+0.0.0.0 newt.analytics.mobile.ig.com
 0.0.0.0 nexage.com
 0.0.0.0 nextmillennium.com
 0.0.0.0 nextmillennium.io

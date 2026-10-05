@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 755
+# Total domains: 756
 # Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -480,6 +480,7 @@
 ||mssdk32-normal-zr-alisg.tiktokv.com^
 ||mssdk32-normal-zr-useast1a.tiktokv.com^
 ||msx.rtb.linkedin.com^
+||newt.analytics.mobile.ig.com^
 ||omnicollector.snapchat.com^
 ||oribi.io^
 ||os-mon.snssdk.com^

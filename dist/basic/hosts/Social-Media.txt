@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 728
+# Total domains: 729
 # Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -455,6 +455,7 @@
 0.0.0.0 mssdk32-normal-zr-alisg.tiktokv.com
 0.0.0.0 mssdk32-normal-zr-useast1a.tiktokv.com
 0.0.0.0 msx.rtb.linkedin.com
+0.0.0.0 newt.analytics.mobile.ig.com
 0.0.0.0 omnicollector.snapchat.com
 0.0.0.0 oribi.io
 0.0.0.0 os-mon.snssdk.com

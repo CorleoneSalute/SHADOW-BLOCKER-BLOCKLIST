@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9580
+# Total domains: 9581
 # Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6066,6 +6066,7 @@ news.revcontent.com
 newscgp.com
 newscorpau.taboola.com
 newskit-events.apple.com
+newt.analytics.mobile.ig.com
 nexage.com
 nextmillennium.com
 nextmillennium.io
