@@ -14,6 +14,7 @@ an.facebook.com
 analytics.facebook.com
 analytics.instagram.com
 analytics.mobile.ig.com
+newt.analytics.mobile.ig.com
 atdmt.com
 atlasdmt.com
 atlassolutions.com
