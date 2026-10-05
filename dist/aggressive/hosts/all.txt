@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10031
-# Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10032
+# Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -834,6 +834,7 @@
 0.0.0.0 advertising.us-east-1.msc.roku.com
 0.0.0.0 advertising.waze.com
 0.0.0.0 advertising.weatherbug.com
+0.0.0.0 advertising.web.grindr.com
 0.0.0.0 advertising.yahoo.com
 0.0.0.0 advertising.yahooinc.com
 0.0.0.0 advertisingcentral.yahoo.com

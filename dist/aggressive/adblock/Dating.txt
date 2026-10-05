@@ -1,12 +1,13 @@
 # ============================================================
 # DATING BLOCKLIST - AGGRESSIVE
-# Total domains: 62
-# Generated: 2026-10-04 (UTC) - auto-generated, do not edit by hand
+# Total domains: 63
+# Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 ||ads2.ads.pof.com^
 ||adultfriendfinder.com^
+||advertising.web.grindr.com^
 ||analytics.badoo.com^
 ||analytics.bumble.com^
 ||analytics.coffeemeetsbagel.com^

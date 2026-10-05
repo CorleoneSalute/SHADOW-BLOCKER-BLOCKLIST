@@ -1,6 +1,6 @@
 # DATING APPS BLOCKLIST 
-# Total domains: 62
-# Last update: 2026/09/11
+# Total domains: 63
+# Last update: 2026/10/05
 # Note: trailing "!" marks a domain as aggressive-only
 
 # Tinder
