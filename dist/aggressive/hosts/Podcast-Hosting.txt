@@ -1,6 +1,6 @@
 # ============================================================
 # PODCAST HOSTING BLOCKLIST - AGGRESSIVE
-# Total domains: 57
+# Total domains: 59
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -11,9 +11,11 @@
 0.0.0.0 ads.iono.fm
 0.0.0.0 ads.podbean.com
 0.0.0.0 adse.ximalaya.com
+0.0.0.0 adsehera.ximalaya.com
 0.0.0.0 adserver.podbean.com
 0.0.0.0 adsrv.acast.com
 0.0.0.0 adswizz.acast.com
+0.0.0.0 adwbs.ximalaya.com
 0.0.0.0 analytics.acast.com
 0.0.0.0 analytics.art19.com
 0.0.0.0 analytics.audioboom.com

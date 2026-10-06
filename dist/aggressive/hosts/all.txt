@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10086
+# Total domains: 10088
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -729,6 +729,7 @@
 0.0.0.0 adsdktest.apple.com
 0.0.0.0 adse.ximalaya.com
 0.0.0.0 adseaimg.apusapps.com
+0.0.0.0 adsehera.ximalaya.com
 0.0.0.0 adserv.reddit.com
 0.0.0.0 adserve.dianomi.com
 0.0.0.0 adserve.tv
@@ -874,6 +875,7 @@
 0.0.0.0 advilapsoutheast1.waze.com
 0.0.0.0 advisor-analytics.ouraring.com
 0.0.0.0 advp.apple.com
+0.0.0.0 adwbs.ximalaya.com
 0.0.0.0 adweb.gr
 0.0.0.0 adwidecenter.com
 0.0.0.0 adwoox.com

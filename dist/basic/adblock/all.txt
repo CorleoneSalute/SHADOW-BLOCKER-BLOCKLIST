@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9634
+# Total domains: 9636
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -696,6 +696,7 @@
 ||adsdk.bing.net^
 ||adsdktest.apple.com^
 ||adseaimg.apusapps.com^
+||adsehera.ximalaya.com^
 ||adserv.reddit.com^
 ||adserve.dianomi.com^
 ||adserve.tv^
@@ -837,6 +838,7 @@
 ||advil.waze.com^
 ||advilapsoutheast1.waze.com^
 ||advisor-analytics.ouraring.com^
+||adwbs.ximalaya.com^
 ||adweb.gr^
 ||adwidecenter.com^
 ||adwoox.com^
