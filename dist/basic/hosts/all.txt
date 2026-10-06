@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9654
+# Total domains: 9661
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1018,6 +1018,7 @@
 0.0.0.0 ajxx91.online
 0.0.0.0 ak-ad-prod-2.cc.d.xiaomi.net
 0.0.0.0 ak-ad-prod.cc.d.xiaomi.net
+0.0.0.0 aka-ulog.kwai-pro.com
 0.0.0.0 akamai-res1.applovin.com
 0.0.0.0 akamai.vungle-cdn.vungle.com
 0.0.0.0 akstat.io
@@ -2609,6 +2610,7 @@
 0.0.0.0 bz.adx.opera.com
 0.0.0.0 c-all.telemetry.intel.com
 0.0.0.0 c-lick.click
+0.0.0.0 c-ulog.kwaipros.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.aps.amazon-adsystem.com
 0.0.0.0 c.baidu.com
@@ -3729,6 +3731,7 @@
 0.0.0.0 e.baidu.com
 0.0.0.0 e.clarity.ms
 0.0.0.0 e.gdown.baidu.com
+0.0.0.0 e.kuaishou.cn
 0.0.0.0 e.ligatus.com
 0.0.0.0 eaaceutilities.com
 0.0.0.0 eads.tcl.com
@@ -4854,6 +4857,8 @@
 0.0.0.0 justwebads.com
 0.0.0.0 jv16powertools.com
 0.0.0.0 jwpltx.com
+0.0.0.0 k-ulog.kwai-pro.com
+0.0.0.0 k-ulog.kwaipros.com
 0.0.0.0 k.clarity.ms
 0.0.0.0 k.pluto.tv
 0.0.0.0 kadam.net
@@ -9005,6 +9010,8 @@
 0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 ug.snssdk.com
 0.0.0.0 ukrep.reimage.com
+0.0.0.0 ulog3-ru.kwai-pro.com
+0.0.0.0 ulogt3-ru.kwai-pro.com
 0.0.0.0 ums-rum-cn.heytapimage.com
 0.0.0.0 ums-rum-global.heytapimage.com
 0.0.0.0 ums-telemetry-cn.heytapmobi.com

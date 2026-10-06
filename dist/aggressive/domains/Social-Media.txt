@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 767
+# Total domains: 780
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -88,6 +88,7 @@ advertise.myspace.com
 advertising.twitter.com
 adx.rtb.linkedin.com
 affiliate.tiktok.com
+aka-ulog.kwai-pro.com
 alx.apac.rtb.linkedin.com
 alx.emea.rtb.linkedin.com
 alx.rtb.linkedin.com
@@ -153,6 +154,7 @@ aws-glue.sc-prod.net
 bds.snssdk.com
 bizographics.com
 bpgslb.com
+c-ulog.kwaipros.com
 cbx.rtb.linkedin.com
 cdn.linkedin.oribi.io
 click.learn.ads.snapchat.com
@@ -173,6 +175,7 @@ direct-response-gcp.api.snapchat.com
 dpm.demdex.net
 dtu-analytics.mobile.ig.com
 dvaitas.lt
+e.kuaishou.cn
 emarketing.sina.com.cn
 error.facebook.com
 error.reddit.com
@@ -227,6 +230,13 @@ haohuo.snssdk.com
 ibytedapm.com
 intg.snapchat.com
 itag.ads.linkedin.com
+k-ulog.kwai-pro.com
+k-ulog.kwaipros.com
+kwai-pro.com
+kwai.com
+kwai.net
+kwaipros.com
+kwcdn.com
 lf16-adsformat-sign.tiktokcdn.com
 lf19-adsformat-sign.tiktokcdn.com
 live-video-log16-normal-alisg.tiktokv.com
@@ -740,6 +750,8 @@ ttdns2.com
 ttdns3.com
 ug-sg.byteoversea.com
 ug.snssdk.com
+ulog3-ru.kwai-pro.com
+ulogt3-ru.kwai-pro.com
 url4077.ads-service.tiktok.com
 us-east-1.dc.ads.linkedin.com
 us-east-1.dmp-api.ads.linkedin.com
@@ -772,3 +784,4 @@ xlog16-platform-ycru.tiktokv.com
 xlog16-tmp-normal-useast1a.tiktokv.com
 xy.fbcdn.net
 xz.fbcdn.net
+yximgs.com

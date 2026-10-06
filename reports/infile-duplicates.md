@@ -1,6 +1,6 @@
 # In-File Duplicate Domain Report
 
-Generated: 2026-10-06 19:54 UTC
+Generated: 2026-10-06 20:08 UTC
 
 Domains that appear more than once within the SAME category
 file - usually a copy-paste mistake in a large file. The build
@@ -12,7 +12,7 @@ identical (same case, same trailing "!" flag). "no" means they
 differ - worth a closer look, since a mismatched "!" flag
 changes which tier the domain ends up in.
 
-5 duplicate domain(s) found across 3 file(s):
+6 duplicate domain(s) found across 4 file(s):
 
 ## AD-Network
 
@@ -33,4 +33,10 @@ changes which tier the domain ends up in.
 | Domain | Lines | Exact match |
 |---|---|---|
 | sweepstakesaday.com | 122, 124 | yes |
+
+## Social-Media
+
+| Domain | Lines | Exact match |
+|---|---|---|
+| shence-log.kwai.com | 902, 937 | yes |
 

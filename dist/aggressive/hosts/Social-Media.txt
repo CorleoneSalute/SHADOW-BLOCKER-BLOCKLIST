@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 767
+# Total domains: 780
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -88,6 +88,7 @@
 0.0.0.0 advertising.twitter.com
 0.0.0.0 adx.rtb.linkedin.com
 0.0.0.0 affiliate.tiktok.com
+0.0.0.0 aka-ulog.kwai-pro.com
 0.0.0.0 alx.apac.rtb.linkedin.com
 0.0.0.0 alx.emea.rtb.linkedin.com
 0.0.0.0 alx.rtb.linkedin.com
@@ -153,6 +154,7 @@
 0.0.0.0 bds.snssdk.com
 0.0.0.0 bizographics.com
 0.0.0.0 bpgslb.com
+0.0.0.0 c-ulog.kwaipros.com
 0.0.0.0 cbx.rtb.linkedin.com
 0.0.0.0 cdn.linkedin.oribi.io
 0.0.0.0 click.learn.ads.snapchat.com
@@ -173,6 +175,7 @@
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dtu-analytics.mobile.ig.com
 0.0.0.0 dvaitas.lt
+0.0.0.0 e.kuaishou.cn
 0.0.0.0 emarketing.sina.com.cn
 0.0.0.0 error.facebook.com
 0.0.0.0 error.reddit.com
@@ -227,6 +230,13 @@
 0.0.0.0 ibytedapm.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 itag.ads.linkedin.com
+0.0.0.0 k-ulog.kwai-pro.com
+0.0.0.0 k-ulog.kwaipros.com
+0.0.0.0 kwai-pro.com
+0.0.0.0 kwai.com
+0.0.0.0 kwai.net
+0.0.0.0 kwaipros.com
+0.0.0.0 kwcdn.com
 0.0.0.0 lf16-adsformat-sign.tiktokcdn.com
 0.0.0.0 lf19-adsformat-sign.tiktokcdn.com
 0.0.0.0 live-video-log16-normal-alisg.tiktokv.com
@@ -740,6 +750,8 @@
 0.0.0.0 ttdns3.com
 0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 ug.snssdk.com
+0.0.0.0 ulog3-ru.kwai-pro.com
+0.0.0.0 ulogt3-ru.kwai-pro.com
 0.0.0.0 url4077.ads-service.tiktok.com
 0.0.0.0 us-east-1.dc.ads.linkedin.com
 0.0.0.0 us-east-1.dmp-api.ads.linkedin.com
@@ -772,3 +784,4 @@
 0.0.0.0 xlog16-tmp-normal-useast1a.tiktokv.com
 0.0.0.0 xy.fbcdn.net
 0.0.0.0 xz.fbcdn.net
+0.0.0.0 yximgs.com

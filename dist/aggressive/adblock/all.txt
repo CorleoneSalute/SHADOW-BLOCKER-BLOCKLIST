@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10106
+# Total domains: 10119
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1059,6 +1059,7 @@
 ||ajxx91.online^
 ||ak-ad-prod-2.cc.d.xiaomi.net^
 ||ak-ad-prod.cc.d.xiaomi.net^
+||aka-ulog.kwai-pro.com^
 ||akamai-res1.applovin.com^
 ||akamai.vungle-cdn.vungle.com^
 ||akstat.io^
@@ -2685,6 +2686,7 @@
 ||bz.adx.opera.com^
 ||c-all.telemetry.intel.com^
 ||c-lick.click^
+||c-ulog.kwaipros.com^
 ||c.amazon-adsystem.com^
 ||c.aps.amazon-adsystem.com^
 ||c.baidu.com^
@@ -3858,6 +3860,7 @@
 ||e.baidu.com^
 ||e.clarity.ms^
 ||e.gdown.baidu.com^
+||e.kuaishou.cn^
 ||e.ligatus.com^
 ||eaaceutilities.com^
 ||eads.tcl.com^
@@ -5097,6 +5100,8 @@
 ||justwebads.com^
 ||jv16powertools.com^
 ||jwpltx.com^
+||k-ulog.kwai-pro.com^
+||k-ulog.kwaipros.com^
 ||k.clarity.ms^
 ||k.pluto.tv^
 ||kadam.net^
@@ -5134,6 +5139,11 @@
 ||ksn-stat.kaspersky.com^
 ||kudoflow.com^
 ||kutt.it^
+||kwai-pro.com^
+||kwai.com^
+||kwai.net^
+||kwaipros.com^
+||kwcdn.com^
 ||kyson.ad.daum.net^
 ||kz-cname-sin01-bigdata.vivoglobal.com^
 ||kz-err-up.vivoglobal.com^
@@ -9416,6 +9426,8 @@
 ||ug-sg.byteoversea.com^
 ||ug.snssdk.com^
 ||ukrep.reimage.com^
+||ulog3-ru.kwai-pro.com^
+||ulogt3-ru.kwai-pro.com^
 ||ums-rum-cn.heytapimage.com^
 ||ums-rum-global.heytapimage.com^
 ||ums-telemetry-cn.heytapmobi.com^
@@ -10065,6 +10077,7 @@
 ||ytmusic-analytics.googleapis.com^
 ||yum.stats.zynga.com^
 ||yumenetworks.com^
+||yximgs.com^
 ||z.clarity.ms^
 ||za.gl^
 ||za.uy^
