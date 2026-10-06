@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9637
+# Total domains: 9638
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -795,6 +795,7 @@ advanalytics.underarmour.com
 advanced-mac-cleaner.com
 advancedmactools.com
 advancedmactools.live
+advancedpasswordmanager.com
 advancedpccleanup.com
 advancedsystemoptimizer.com
 advancemactools.live
