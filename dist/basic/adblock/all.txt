@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9618
+# Total domains: 9619
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -486,6 +486,7 @@
 ||ads.api.cj.com^
 ||ads.api.vungle.com^
 ||ads.apple.com^
+||ads.apple.com.akadns.net^
 ||ads.ar.e-planning.net^
 ||ads.auctions.yahoo.com^
 ||ads.avast.com^

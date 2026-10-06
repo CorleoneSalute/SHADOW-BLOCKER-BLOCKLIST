@@ -1,6 +1,6 @@
 # ============================================================
 # IOS BLOCKLIST - AGGRESSIVE
-# Total domains: 301
+# Total domains: 302
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -16,6 +16,7 @@ ads-apple.apple.com.cn
 ads-rebrand.prz.sbz.apple.com
 ads-rebrand.rno.sbz.apple.com
 ads.apple.com
+ads.apple.com.akadns.net
 adsapivalidator.iad.apple.com
 adscms.mdn.sbz.apple.com
 adscms.msc.sbz.apple.com
