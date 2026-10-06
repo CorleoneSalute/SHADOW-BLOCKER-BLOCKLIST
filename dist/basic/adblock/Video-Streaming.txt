@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 382
+# Total domains: 387
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -26,6 +26,7 @@
 ||adinsights.netflix.net^
 ||ads-fa-darwin.hulu.com^
 ||ads-v-darwin.hulu.com^
+||ads.aplus.pptv.com^
 ||ads.bitmovin.com^
 ||ads.brightcove.com^
 ||ads.conviva.com^
@@ -192,6 +193,9 @@
 ||global-2.telemetry.insights.video.a2z.com^
 ||global-3.telemetry.insights.video.a2z.com^
 ||global.telemetry.insights.video.a2z.com^
+||h5tracker5.pptv.com^
+||h5tracker6.gslb.pptv.com^
+||h5tracker7.gslb.pptv.com^
 ||i.dev.jwpltx.com^
 ||i.n.jwpltx.com^
 ||ichnaea-web.dradis.netflix.com^
@@ -298,6 +302,7 @@
 ||playlog.youku.com^
 ||plex-attribution.plex.tv^
 ||pluto.tv.sc.omtrdc.net^
+||ppad.gslb.pptv.com^
 ||pre.smartplugin.youbora.com^
 ||presentationtracking.netflix.com^
 ||protected.media^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9645
+# Total domains: 9650
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -486,6 +486,7 @@
 0.0.0.0 ads.anzu.io
 0.0.0.0 ads.api.cj.com
 0.0.0.0 ads.api.vungle.com
+0.0.0.0 ads.aplus.pptv.com
 0.0.0.0 ads.apple.com
 0.0.0.0 ads.apple.com.akadns.net
 0.0.0.0 ads.ar.e-planning.net
@@ -4429,6 +4430,9 @@
 0.0.0.0 h.clarity.ms
 0.0.0.0 h.online-metrix.net
 0.0.0.0 h5api.shouji.sogou.com
+0.0.0.0 h5tracker5.pptv.com
+0.0.0.0 h5tracker6.gslb.pptv.com
+0.0.0.0 h5tracker7.gslb.pptv.com
 0.0.0.0 hads.huuuge.net
 0.0.0.0 haohuo.snssdk.com
 0.0.0.0 hardcoreadv.com
@@ -6605,6 +6609,7 @@
 0.0.0.0 postrelease.com
 0.0.0.0 powersuite.com
 0.0.0.0 pp2-api.nextmillennium.io
+0.0.0.0 ppad.gslb.pptv.com
 0.0.0.0 ppcprotect.com
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 prd-usw2-requestattribution-iad.apple.com

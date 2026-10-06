@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10097
+# Total domains: 10102
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -509,6 +509,7 @@ ads.anura.io
 ads.anzu.io
 ads.api.cj.com
 ads.api.vungle.com
+ads.aplus.pptv.com
 ads.apple.com
 ads.apple.com.akadns.net
 ads.ar.e-planning.net
@@ -4644,6 +4645,9 @@ h-cdn.com
 h.clarity.ms
 h.online-metrix.net
 h5api.shouji.sogou.com
+h5tracker5.pptv.com
+h5tracker6.gslb.pptv.com
+h5tracker7.gslb.pptv.com
 hads.huuuge.net
 han.gl
 haohuo.snssdk.com
@@ -6918,6 +6922,7 @@ postman.fortect.com
 postrelease.com
 powersuite.com
 pp2-api.nextmillennium.io
+ppad.gslb.pptv.com
 ppcprotect.com
 pps-log.op-mobile.opera.com
 prd-usw2-requestattribution-iad.apple.com
