@@ -175,6 +175,7 @@ st11p01ad-iadapi.apple.com
 st11p01ad-iadworkbench.apple.com
 st11p01ad-iadworkbenchsoak.apple.com
 uxintg-iad.apple.com
+ads.apple.com.akadns.net
 
 # --- ATTRIBUTION & SKADNETWORK ---
 proxy-skadnetwork.apple.com
