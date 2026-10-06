@@ -82,7 +82,11 @@ analytics.torguard.net
 
 # ASTRILL VPN
 analytics.astrill.com     
-telemetry.astrill.com     
+telemetry.astrill.com
+
+# PrivadoVPN
+
+sentry.privadovpn.com
 
 # URBAN VPN
 # ⚠️ CRITICAL: Urban VPN Proxy secretly intercepts ChatGPT, Claude, 
