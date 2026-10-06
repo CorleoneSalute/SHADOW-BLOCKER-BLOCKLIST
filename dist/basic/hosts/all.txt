@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9619
+# Total domains: 9620
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3713,6 +3713,7 @@
 0.0.0.0 dynamic.remerge.io
 0.0.0.0 dynamic.zetaglobal.com
 0.0.0.0 dz1dt3wqswdezgx4j2ryem5iad.apple.com
+0.0.0.0 e-ad-monitor.huya.com
 0.0.0.0 e-planning.net
 0.0.0.0 e-tracking.fujitsu.com
 0.0.0.0 e.ad.xiaomi.com

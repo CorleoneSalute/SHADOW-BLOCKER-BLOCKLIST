@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10071
+# Total domains: 10072
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3842,6 +3842,7 @@
 ||dynamic.zetaglobal.com^
 ||dz1dt3wqswdezgx4j2ryem5iad.apple.com^
 ||dzc-metrics.mzstatic.com^
+||e-ad-monitor.huya.com^
 ||e-planning.net^
 ||e-tracking.fujitsu.com^
 ||e.ad.xiaomi.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # CONTENT CREATION LIVE STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 73
+# Total domains: 74
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -38,6 +38,7 @@ data.bilibili.com
 data.younow.com
 dm-event.net
 dmxleo.dailymotion.com
+e-ad-monitor.huya.com
 fr.advertising.dailymotion.com
 impressions-explorer.data.dailymotion.com
 line2.adscore.api.biligame.net

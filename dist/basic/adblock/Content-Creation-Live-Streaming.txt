@@ -1,6 +1,6 @@
 # ============================================================
 # CONTENT CREATION LIVE STREAMING BLOCKLIST - BASIC
-# Total domains: 71
+# Total domains: 72
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -37,6 +37,7 @@
 ||data.younow.com^
 ||dm-event.net^
 ||dmxleo.dailymotion.com^
+||e-ad-monitor.huya.com^
 ||fr.advertising.dailymotion.com^
 ||impressions-explorer.data.dailymotion.com^
 ||line2.adscore.api.biligame.net^
