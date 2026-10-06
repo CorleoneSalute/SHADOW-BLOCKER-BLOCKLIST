@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 377
+# Total domains: 378
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -323,6 +323,7 @@
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 ssai.brightcove.com
 0.0.0.0 static.chartbeat.com
+0.0.0.0 stats.adultswim.com
 0.0.0.0 stats.bilibili.com
 0.0.0.0 stats.iqiyi.com
 0.0.0.0 stats.kaltura.com

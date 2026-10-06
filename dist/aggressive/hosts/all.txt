@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10084
+# Total domains: 10085
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8172,6 +8172,7 @@
 0.0.0.0 static.zetaglobal.com
 0.0.0.0 statistics.vivo.com
 0.0.0.0 stats-and-reports.booksy.com
+0.0.0.0 stats.adultswim.com
 0.0.0.0 stats.apps.allenai.org
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.avast.com

@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 420
+# Total domains: 421
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -358,6 +358,7 @@
 0.0.0.0 ssai.brightcove.com
 0.0.0.0 sstats.adultswim.com
 0.0.0.0 static.chartbeat.com
+0.0.0.0 stats.adultswim.com
 0.0.0.0 stats.bilibili.com
 0.0.0.0 stats.iqiyi.com
 0.0.0.0 stats.kaltura.com

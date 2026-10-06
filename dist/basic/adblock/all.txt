@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9632
+# Total domains: 9633
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7789,6 +7789,7 @@
 ||static.zetaglobal.com^
 ||statistics.vivo.com^
 ||stats-and-reports.booksy.com^
+||stats.adultswim.com^
 ||stats.apps.allenai.org^
 ||stats.appsflyer.com^
 ||stats.avast.com^
