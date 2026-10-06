@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10096
+# Total domains: 10097
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6977,6 +6977,7 @@
 ||prod-ms.applovin.com^
 ||prod-news-notification-events.v.aaplimg.com^
 ||prod.adgwy.tivo.com^
+||prod.html5-ads.vk-apps.com^
 ||prod.log.shortbread.aws.dev^
 ||prod.logs.infra.yoti.com^
 ||prod.logs.yoti.com^

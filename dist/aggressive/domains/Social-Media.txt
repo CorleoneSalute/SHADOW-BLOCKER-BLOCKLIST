@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 766
+# Total domains: 767
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -508,6 +508,7 @@ pixel.facebook.com
 pixel.reddit.com
 pixel.redditmedia.com
 pixels.reddit.com
+prod.html5-ads.vk-apps.com
 px.ads.linkedin-ei.com
 px.ads.linkedin.cn
 px.ads.linkedin.com

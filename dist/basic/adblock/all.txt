@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9644
+# Total domains: 9645
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6657,6 +6657,7 @@
 ||prod-mediate-events.applovin.com^
 ||prod-ms.applovin.com^
 ||prod.adgwy.tivo.com^
+||prod.html5-ads.vk-apps.com^
 ||prod.log.shortbread.aws.dev^
 ||prod.logs.infra.yoti.com^
 ||prod.logs.yoti.com^
