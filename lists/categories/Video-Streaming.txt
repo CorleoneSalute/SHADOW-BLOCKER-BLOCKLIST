@@ -179,6 +179,7 @@ ichnaea-web.geo.netflix.com
 ichnaea-web.us-west-2.prodaa.netflix.com
 adinsights.netflix.net
 games.analytics.netflix.net
+pcp-live-metrics-service.netflix.com
 
 # YOUTUBE
 
