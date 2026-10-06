@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9629
+# Total domains: 9630
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2239,6 +2239,7 @@
 0.0.0.0 appleads.ru
 0.0.0.0 applemediaservices.com
 0.0.0.0 apples-analytics.pad.squareup.com
+0.0.0.0 application-logs-disk-production.s3-private.mds.yandex.net
 0.0.0.0 applog.bolt.eu
 0.0.0.0 applog.musical.ly
 0.0.0.0 applog.snssdk.com

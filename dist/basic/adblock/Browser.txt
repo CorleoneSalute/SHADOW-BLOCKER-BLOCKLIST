@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 327
+# Total domains: 328
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -92,6 +92,7 @@
 ||apiserv.shouji.sogou.com^
 ||app.tracker.yandex.com^
 ||appads.baidu.com^
+||application-logs-disk-production.s3-private.mds.yandex.net^
 ||appmetrica.yandex.com^
 ||appmetrika.yandex.com^
 ||awaps.yandex.net^
