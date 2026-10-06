@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10079
+# Total domains: 10080
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -349,6 +349,7 @@
 ||adiant.com^
 ||adikteev.com^
 ||adimg.afreecatv.com^
+||adimg.mobile.sina.cn^
 ||adimg.uve.weibo.com^
 ||adinfo.ra1.xlmc.sec.miui.com^
 ||adinjector.net^
