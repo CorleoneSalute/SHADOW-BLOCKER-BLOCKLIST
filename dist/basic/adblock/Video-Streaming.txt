@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 376
+# Total domains: 377
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -209,6 +209,7 @@
 ||k.pluto.tv^
 ||kids-analytics.youtube.com^
 ||litix.mux.com^
+||live-cm-ad-08-39.video.globo.com^
 ||live-metrics.paramountplus.com^
 ||live-metrics.peacocktv.com^
 ||live-metrics.youtube.com^
