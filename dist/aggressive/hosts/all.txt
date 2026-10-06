@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10085
+# Total domains: 10086
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3894,6 +3894,7 @@
 0.0.0.0 email.gh-mail.taboola.com
 0.0.0.0 emailretargeting.com
 0.0.0.0 emailtracking.soothe.com
+0.0.0.0 emarketing.sina.com.cn
 0.0.0.0 emea-analytics.lnw.com
 0.0.0.0 emetrics.engineeringvillage.com
 0.0.0.0 emi-cube.ad.xiaomi.com

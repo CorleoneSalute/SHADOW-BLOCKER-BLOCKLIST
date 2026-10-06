@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9633
+# Total domains: 9634
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3758,6 +3758,7 @@ elmah.io
 elog.vewd.com
 email.gh-mail.taboola.com
 emailtracking.soothe.com
+emarketing.sina.com.cn
 emea-analytics.lnw.com
 emetrics.engineeringvillage.com
 emi-cube.ad.xiaomi.com
