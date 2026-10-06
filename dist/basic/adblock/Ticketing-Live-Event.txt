@@ -1,6 +1,6 @@
 # ============================================================
 # TICKETING LIVE EVENT BLOCKLIST - BASIC
-# Total domains: 18
+# Total domains: 19
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8,6 +8,7 @@
 ||analytics.eventim.com^
 ||analytics.ticketmaster.co.nz^
 ||analytics.ticketmaster.es^
+||analytics.ticketmaster.ie^
 ||analytics10.ticketmaster.com^
 ||fr-metrics.seetickets.com^
 ||fwtrack.ticketnetwork.com^

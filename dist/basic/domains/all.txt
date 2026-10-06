@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9638
+# Total domains: 9639
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1746,6 +1746,7 @@ analytics.theknot.com
 analytics.thirstie.com
 analytics.ticketmaster.co.nz
 analytics.ticketmaster.es
+analytics.ticketmaster.ie
 analytics.tiktok.com
 analytics.tiktokv.com
 analytics.timesinternet.in
