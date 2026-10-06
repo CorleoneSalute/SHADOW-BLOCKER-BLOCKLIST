@@ -855,6 +855,10 @@ analytics.vk.ru
 stats.vk-portal.net
 ```
 
+# Odnoklassniki
+
+ads.ok.ru
+
 ### WEIBO (14 domain)
 
 ```
