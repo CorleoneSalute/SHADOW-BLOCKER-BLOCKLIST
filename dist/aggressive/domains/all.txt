@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10080
+# Total domains: 10081
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8763,6 +8763,7 @@ tips.shouji.sogou.com
 tiqcdn.cn
 tiqcdn.com
 titan-ads.tv
+tjs.sjs.sinajs.cn
 tk.amazon-adsystem.com
 tk.d.mi.com
 tk.mntn.com

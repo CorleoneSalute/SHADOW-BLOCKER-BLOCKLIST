@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 736
+# Total domains: 737
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -641,6 +641,7 @@
 ||telemetry.twitter.com^
 ||tellapart.com^
 ||temai.snssdk.com^
+||tjs.sjs.sinajs.cn^
 ||tlx.rtb.linkedin.com^
 ||tnc-boot.tiktokv.com^
 ||tnc0-normal-alisg.tiktokv.com^

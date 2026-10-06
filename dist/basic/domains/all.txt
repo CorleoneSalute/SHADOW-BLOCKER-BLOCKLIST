@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9628
+# Total domains: 9629
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8361,6 +8361,7 @@ tinyium.com
 tinylink.co
 tips.shouji.sogou.com
 titan-ads.tv
+tjs.sjs.sinajs.cn
 tk.amazon-adsystem.com
 tk.d.mi.com
 tk.mntn.com
