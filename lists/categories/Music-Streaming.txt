@@ -1,0 +1,91 @@
+MUSIC STREAMING BLOCKLIST
+
+Total domains: 61
+
+Last update: 10/6/2026
+
+# Spotify
+crashdump.spotify.com
+analytics.spotify.com
+pixel.spotify.com
+pixels.spotify.com
+pixel-static.spotify.com
+bloodhound.spotify.com !
+ads.spotify.com
+adstudio.spotify.com
+adeventtracker.spotify.com
+log.spotify.com
+log2.spotify.com
+cdn-spotify-experiments.conductrics.com
+
+# Deezer
+ads.deezer.com
+
+# Tidal
+analytics.tidal.com
+vb-ad-ak.video.tidal.com
+
+# SoundCloud
+ads.soundcloud.com
+eventlogger.soundcloud.com
+events-api.soundcloud.com
+eventgateway.soundcloud.com
+telemetry.soundcloud.com
+eventgateway.l.soundcloud.com
+
+# Pandora
+analytics.pandora.com
+stats.pandora.com
+tracking.pandora.com
+adserver.pandora.com
+ads.pandora.com !
+adserver.gslb.pandora.com
+advertising.pandora.com !
+px.pandora.com
+smetrics.pandora.com
+
+# TuneIn
+event.platform.tunein.com
+reports.tunein.com
+ad-impression.streamguys1.com
+ad-server01.streamguys1.com
+ad-server02.streamguys1.com
+logger.streamguys1.com
+
+# iHeartRadio
+trck.iheartmedia.com
+
+# Kugou Music
+collect.kugou.com
+emcollect.kugou.com
+epcollect.kugou.com
+fanxing.kugou.com !
+fanxing2.kugou.com !
+gatecollect.kugou.com
+nbcollect.kugou.com
+pcstat.kugou.com !
+pcstatbak.kugou.com !
+webcollect.kugou.com
+webcollects.kugou.com
+
+# Gaana
+ads.gaana.com
+analytics.gaana.com
+apptracker.gaana.com
+logs.gaana.com
+logsnew.gaana.com
+tracker.gaana.com
+
+# Napster
+collect.napster.com
+
+# Sirius XM
+metrics-target.siriusxm.com
+smetrics.siriusxm.com
+
+# LiveOne / Slacker Radio
+track.liveone.com
+
+# Audius (Blockchain)
+fp.audius.co
+analytics.audius.co
