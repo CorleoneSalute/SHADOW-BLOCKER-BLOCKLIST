@@ -291,6 +291,7 @@ bymetrika.yandex.com
 yandexmetrica.com
 awaps.yandex.net
 clck.yandex.net
+application-logs-disk-production.s3-private.mds.yandex.net
 awaps.yandex.ru
 an.yandex.ru
 clck.yandex.ru
