@@ -40,3 +40,7 @@ v3.log.moji.com
 
 # TENKI.JP (Japan Weather Association)
 xscmzs.tenki.jp
+
+# Weathernews, Inc. (株式会社ウェザーニューズ, WNI)
+
+ad-api.weathernews.jp
