@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 421
+# Total domains: 425
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -201,6 +201,7 @@
 0.0.0.0 gallery-metrics.api.brightcove.com
 0.0.0.0 games.analytics.netflix.net
 0.0.0.0 gaming-analytics.youtube.com
+0.0.0.0 geo.justwatch.com
 0.0.0.0 global-1.telemetry.insights.video.a2z.com
 0.0.0.0 global-2.telemetry.insights.video.a2z.com
 0.0.0.0 global-3.telemetry.insights.video.a2z.com
@@ -312,6 +313,7 @@
 0.0.0.0 piano.io
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 pixalate.com
+0.0.0.0 pixel.justwatch.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 playback-analytics.hulu.com
 0.0.0.0 playback-metrics.disneyplus.com
@@ -347,9 +349,11 @@
 0.0.0.0 saa.paramountplus.com
 0.0.0.0 sanalytics.adultswim.co.uk
 0.0.0.0 sdk.conviva.com
+0.0.0.0 sentry.justwatch.com
 0.0.0.0 sgtm.elofizetek.canalplus.com
 0.0.0.0 sgtm.nabidka.canalplus.com
 0.0.0.0 smartplugin.youbora.com
+0.0.0.0 sp.justwatch.com
 0.0.0.0 sports-analytics.paramountplus.com
 0.0.0.0 sports-analytics.peacocktv.com
 0.0.0.0 sports-metrics.espn.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9639
+# Total domains: 9643
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4277,6 +4277,7 @@ geo-drcn.platform.hicloud.com
 geo-surf.com
 geo.ads.brave.com
 geo.ads.bravesoftware.com
+geo.justwatch.com
 geoedge.com
 geologgera1.geodell.dell.com
 geologgeran.us.dell.com
@@ -6501,6 +6502,7 @@ pixel.dianomi.com
 pixel.everesttech.net
 pixel.facebook.com
 pixel.jackpotgo.com
+pixel.justwatch.com
 pixel.ligatus.com
 pixel.limeade.com
 pixel.me
@@ -7417,6 +7419,7 @@ sentry.hub.klippa.com
 sentry.identomat.com
 sentry.io
 sentry.io.steinberg.net
+sentry.justwatch.com
 sentry.klippa.com
 sentry.lastpass.com
 sentry.matrix.org
@@ -7648,6 +7651,7 @@ sp-track.fliptheswitch.com
 sp-track.sbotop.net
 sp.backtrace.io
 sp.gotinder.com
+sp.justwatch.com
 sp1.convertro.com
 spaceseeker.com
 speakol.com

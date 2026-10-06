@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10091
+# Total domains: 10095
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4474,6 +4474,7 @@
 0.0.0.0 geo-surf.com
 0.0.0.0 geo.ads.brave.com
 0.0.0.0 geo.ads.bravesoftware.com
+0.0.0.0 geo.justwatch.com
 0.0.0.0 geoedge.com
 0.0.0.0 geoip.cactusglobal.com
 0.0.0.0 geologgera1.geodell.dell.com
@@ -6802,6 +6803,7 @@
 0.0.0.0 pixel.everesttech.net
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.jackpotgo.com
+0.0.0.0 pixel.justwatch.com
 0.0.0.0 pixel.ligatus.com
 0.0.0.0 pixel.limeade.com
 0.0.0.0 pixel.me
@@ -7785,6 +7787,7 @@
 0.0.0.0 sentry.identomat.com
 0.0.0.0 sentry.io
 0.0.0.0 sentry.io.steinberg.net
+0.0.0.0 sentry.justwatch.com
 0.0.0.0 sentry.klippa.com
 0.0.0.0 sentry.lastpass.com
 0.0.0.0 sentry.matrix.org
@@ -8026,6 +8029,7 @@
 0.0.0.0 sp-track.sbotop.net
 0.0.0.0 sp.backtrace.io
 0.0.0.0 sp.gotinder.com
+0.0.0.0 sp.justwatch.com
 0.0.0.0 sp1.convertro.com
 0.0.0.0 spaceseeker.com
 0.0.0.0 spaste.com

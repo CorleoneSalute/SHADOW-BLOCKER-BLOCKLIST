@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 378
+# Total domains: 382
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -187,6 +187,7 @@ experience.piano.io
 gallery-metrics.api.brightcove.com
 games.analytics.netflix.net
 gaming-analytics.youtube.com
+geo.justwatch.com
 global-1.telemetry.insights.video.a2z.com
 global-2.telemetry.insights.video.a2z.com
 global-3.telemetry.insights.video.a2z.com
@@ -289,6 +290,7 @@ performance.netflix.com
 piano.io
 ping.chartbeat.net
 pixalate.com
+pixel.justwatch.com
 pixel.parsely.com
 player-metrics.crunchyroll.com
 player-telemetry.amazon.com
@@ -314,9 +316,11 @@ s.n.jwpltx.com
 sa-east-1-1.telemetry.insights.video.a2z.com
 sanalytics.adultswim.co.uk
 sdk.conviva.com
+sentry.justwatch.com
 sgtm.elofizetek.canalplus.com
 sgtm.nabidka.canalplus.com
 smartplugin.youbora.com
+sp.justwatch.com
 sports-analytics.paramountplus.com
 sports-analytics.peacocktv.com
 sports-metrics.espn.com
