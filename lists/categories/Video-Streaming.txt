@@ -4,6 +4,13 @@
 # Last update: 2026/10/06
 # Note: trailing "!" marks a domain as aggressive-only
 
+# Justwatch
+
+geo.justwatch.com
+pixel.justwatch.com
+sentry.justwatch.com
+sp.justwatch.com
+
 # VIDEO ANALYTIC PLATFORMS
 
 # --- Conviva (Enterprise Video Analytics) ---
