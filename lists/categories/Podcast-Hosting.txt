@@ -47,6 +47,8 @@ pi.subsplash.com
 # XIMALAYA
 xdcs-collector.ximalaya.com
 mobwsa.ximalaya.com
+adsehera.ximalaya.com
+adwbs.ximalaya.com
 
 # PODCASTER.DE
 analytics.podcaster.de
