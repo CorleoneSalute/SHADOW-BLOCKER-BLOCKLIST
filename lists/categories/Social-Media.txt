@@ -880,6 +880,7 @@ slog.sina.com.cn
 m.beacon.sina.com.cn
 client.ad.sina.com.cn
 sbeacon.sina.com.cn
+tjs.sjs.sinajs.cn
 ```
 
 # MySpace
