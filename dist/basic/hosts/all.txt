@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9623
+# Total domains: 9624
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7547,6 +7547,7 @@
 0.0.0.0 slimimage.com
 0.0.0.0 slimwareutilities.com
 0.0.0.0 slink.to
+0.0.0.0 slog.sina.com.cn
 0.0.0.0 sls-telemetry.sophosupd.com
 0.0.0.0 sluppend.com
 0.0.0.0 smaato.com

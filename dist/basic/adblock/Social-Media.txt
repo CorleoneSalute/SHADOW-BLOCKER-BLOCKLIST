@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 731
+# Total domains: 732
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -617,6 +617,7 @@
 ||sgee-mcs.byteoversea.com^
 ||shence-log.kwai.com^
 ||sjs.bizographics.com^
+||slog.sina.com.cn^
 ||snap.licdn.com^
 ||snapads.com^
 ||starling-oversea.byteoversea.com^
