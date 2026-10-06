@@ -348,6 +348,7 @@ tracking.tubitv.com
 
 # AdultSwim
 
+stats.adultswim.com
 sanalytics.adultswim.co.uk
 sstats.adultswim.com !
 lightning.adultswim.co.uk !
