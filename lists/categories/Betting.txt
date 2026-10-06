@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 265
-# Total platforms: 93
+# Total platforms: 94
 # Last update: 2026/09/20
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -458,3 +458,10 @@ metrics.riobet.com
 # Banzostar
 
 trk.firstbet.co.za
+
+# LiveScore Betting and Gaming (Gibraltar) Ltd.
+
+fp.livescorebet.com
+logging.livescorebet.com
+fp.virginbet.com
+logging.virginbet.com
