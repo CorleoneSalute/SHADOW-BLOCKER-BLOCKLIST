@@ -863,6 +863,7 @@ ad2.sina.com.cn
 ad3.sina.com.cn
 ads3.cj.sina.com.cn
 ad.weibo.com
+adimg.mobile.sina.cn
 adapp.biz.weibo.com
 adbox.sina.com.cn
 adimg.uve.weibo.com
