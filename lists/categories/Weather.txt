@@ -1,7 +1,7 @@
 # WEATHER BLOCKLIST
 
-# Total domains: 21
-# Last update: 2026/09/12
+# Total domains: 22
+# Last update: 2026/10/06
 # Note: trailing "!" marks a domain as aggressive-only
 
 # TWC

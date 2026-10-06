@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9661
+# Total domains: 9662
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -156,6 +156,7 @@
 ||ad-analytics.pluto.tv^
 ||ad-analytics.tubitv.com^
 ||ad-api.giphy.com^
+||ad-api.weathernews.jp^
 ||ad-beacon.hulu.com^
 ||ad-beacon.peacocktv.com^
 ||ad-beacon.tubitv.com^
