@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 732
+# Total domains: 735
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -153,6 +153,7 @@ bizographics.com
 cbx.rtb.linkedin.com
 cdn.linkedin.oribi.io
 click.learn.ads.snapchat.com
+client.ad.sina.com.cn
 clientmetrics.twitter.com
 cloud.learn.ads.snapchat.com
 collector-ops.twitter.com
@@ -320,6 +321,7 @@ logs.reddit.com
 logserver.reddit.com
 logtrace.snssdk.com
 ls.dtu-analytics.mobile.ig.com
+m.beacon.sina.com.cn
 maliva-mcs-useast2a.byteoversea.com
 maliva-mcs.byteoversea.com
 mcs-i18n.tiktok.com
@@ -602,6 +604,7 @@ rum9.perf.linkedin.com
 rux.rtb.linkedin.com
 s3adm.ad.weibo.com
 s3zz.ad.weibo.com
+sbeacon.sina.com.cn
 sc-analytics.appspot.com
 sdfp.snssdk.com
 sdkapp.uve.weibo.com

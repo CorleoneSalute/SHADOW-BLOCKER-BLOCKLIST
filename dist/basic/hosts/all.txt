@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9624
+# Total domains: 9627
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2996,6 +2996,7 @@
 0.0.0.0 client-logs-r.wbx2.com
 0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 client-telemetry.us-east-1.amazonaws.com
+0.0.0.0 client.ad.sina.com.cn
 0.0.0.0 client.aps.amazon-adsystem.com
 0.0.0.0 client.earnapp.com
 0.0.0.0 clientapi-samsung.dtignite.com
@@ -5326,6 +5327,7 @@
 0.0.0.0 m-taxify-eu.applog.bolt.eu
 0.0.0.0 m.adnxs.com
 0.0.0.0 m.anycast.adnxs.com
+0.0.0.0 m.beacon.sina.com.cn
 0.0.0.0 m.clarity.ms
 0.0.0.0 m.revcontent.com
 0.0.0.0 m.track.ad.xiaomi.com
@@ -7256,6 +7258,7 @@
 0.0.0.0 sb.quantserve.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sbc.connectad.io
+0.0.0.0 sbeacon.sina.com.cn
 0.0.0.0 sblog.lalal.ai
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sc.omtrdc.net
