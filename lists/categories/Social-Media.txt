@@ -855,6 +855,7 @@ ads.vk.com
 ads.vk.ru
 analytics.vk.ru
 stats.vk-portal.net
+prod.html5-ads.vk-apps.com
 ```
 
 # Odnoklassniki
