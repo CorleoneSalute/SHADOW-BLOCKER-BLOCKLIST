@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9643
+# Total domains: 9644
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7426,6 +7426,7 @@
 0.0.0.0 sentry.minddoc.com
 0.0.0.0 sentry.predict.fun
 0.0.0.0 sentry.prequel.app
+0.0.0.0 sentry.privadovpn.com
 0.0.0.0 sentry.pushwoosh.com
 0.0.0.0 sentry.reddit.com
 0.0.0.0 sentry.sc-prod.net
