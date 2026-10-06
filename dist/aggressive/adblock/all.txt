@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10120
+# Total domains: 10180
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -188,6 +188,7 @@
 ||ad-iad1.apple.com^
 ||ad-iad2.apple.com^
 ||ad-iad3.apple.com^
+||ad-impression.streamguys1.com^
 ||ad-instantpage-ru.tiktokv.com^
 ||ad-instantpage-sg.tiktokv.com^
 ||ad-instantpage-ttp2.tiktokv.eu^
@@ -208,6 +209,8 @@
 ||ad-server.linkvertise.com^
 ||ad-server.pluto.tv^
 ||ad-server.samsungads.com^
+||ad-server01.streamguys1.com^
+||ad-server02.streamguys1.com^
 ||ad-srv.co^
 ||ad-srv.net^
 ||ad-tag.inner-active.mobi^
@@ -330,6 +333,7 @@
 ||addynamo.com^
 ||adeeply.ru^
 ||adelphic.com^
+||adeventtracker.spotify.com^
 ||adex2.fwmrm.net^
 ||adexp.net^
 ||adf.ly^
@@ -548,6 +552,7 @@
 ||ads.cozi.com^
 ||ads.crunchyroll.com^
 ||ads.de^
+||ads.deezer.com^
 ||ads.disneyplus.com^
 ||ads.districtm.ca^
 ||ads.dynamicyield.com^
@@ -562,6 +567,7 @@
 ||ads.fix.orange.ro^
 ||ads.flaviar.com^
 ||ads.fubo.tv^
+||ads.gaana.com^
 ||ads.gcp.roku.com^
 ||ads.gentoo.org^
 ||ads.giphy.com^
@@ -611,6 +617,7 @@
 ||ads.oppomobile.com^
 ||ads.outbrain.com^
 ||ads.ovia.com^
+||ads.pandora.com^
 ||ads.paramountplus.com^
 ||ads.paytm.com^
 ||ads.peacocktv.com^
@@ -640,7 +647,9 @@
 ||ads.slidebean.com^
 ||ads.snap.com^
 ||ads.snapchat.com^
+||ads.soundcloud.com^
 ||ads.speedbit.com^
+||ads.spotify.com^
 ||ads.staging.roku.com^
 ||ads.suprnation.com^
 ||ads.t-mobile.com^
@@ -743,9 +752,11 @@
 ||adserver-scripts.myspace.com^
 ||adserver.adikteev.com^
 ||adserver.connatix.com^
+||adserver.gslb.pandora.com^
 ||adserver.jwplayer.com^
 ||adserver.mxplayer.in^
 ||adserver.oath.com^
+||adserver.pandora.com^
 ||adserver.podbean.com^
 ||adserver.reddit.com^
 ||adserver.remerge.io^
@@ -805,6 +816,7 @@
 ||adsterra.com^
 ||adstradata.com^
 ||adstrcksrv.com^
+||adstudio.spotify.com^
 ||adsupply.com^
 ||adsupplyexchange.com^
 ||adsvideo.biz.weibo.com^
@@ -857,6 +869,7 @@
 ||advertising.dailymotion.com^
 ||advertising.netflix.com^
 ||advertising.oath.com^
+||advertising.pandora.com^
 ||advertising.roku.com^
 ||advertising.tivo.com^
 ||advertising.twitter.com^
@@ -1235,6 +1248,7 @@
 ||analytics.att.com^
 ||analytics.audioboom.com^
 ||analytics.audionamix.com^
+||analytics.audius.co^
 ||analytics.auphonic.com^
 ||analytics.authy.com^
 ||analytics.avast.com^
@@ -1406,6 +1420,7 @@
 ||analytics.fubo.tv^
 ||analytics.furbo.com^
 ||analytics.fyber.com^
+||analytics.gaana.com^
 ||analytics.gamban.com^
 ||analytics.gamstop.co.uk^
 ||analytics.geforcenow.com^
@@ -1616,6 +1631,7 @@
 ||analytics.oviahealth.com^
 ||analytics.palteca.com^
 ||analytics.pancakeswap.finance^
+||analytics.pandora.com^
 ||analytics.paprikaapp.com^
 ||analytics.paramountplus.com^
 ||analytics.parrot.sh^
@@ -1757,6 +1773,7 @@
 ||analytics.splashmusic.com^
 ||analytics.splashtop.com^
 ||analytics.splice.com^
+||analytics.spotify.com^
 ||analytics.squareup.com^
 ||analytics.stability.ai^
 ||analytics.stan.com.au^
@@ -1794,6 +1811,7 @@
 ||analytics.ticketmaster.co.nz^
 ||analytics.ticketmaster.es^
 ||analytics.ticketmaster.ie^
+||analytics.tidal.com^
 ||analytics.tiktok.com^
 ||analytics.tiktokv.com^
 ||analytics.timesinternet.in^
@@ -2320,6 +2338,7 @@
 ||appsignal.com^
 ||appstat.stat.mi.com^
 ||appstore-trace-h5sdk.vivo.com.cn^
+||apptracker.gaana.com^
 ||apsoutheast-match.deepintent.com^
 ||apu.samsungelectronics.com^
 ||arc-metrics.corp.codeium.com^
@@ -2613,6 +2632,7 @@
 ||blog.ads.paytm.com^
 ||blog.adultfriendfinder.com^
 ||blog.bit-guardian.com^
+||bloodhound.spotify.com^
 ||bluadz.com^
 ||blueadss.com^
 ||blueadvertising.com^
@@ -2824,6 +2844,7 @@
 ||cdn-lz.pagesense.io^
 ||cdn-sa.pagesense.io^
 ||cdn-sg.pagesense.io^
+||cdn-spotify-experiments.conductrics.com^
 ||cdn-telemetry.netflix.com^
 ||cdn-xp-ingest-ab.v.aaplimg.com^
 ||cdn-xp-ingest.edge.apple^
@@ -3186,8 +3207,10 @@
 ||collect.evergage.com^
 ||collect.ficfun.com^
 ||collect.in.lyra.com^
+||collect.kugou.com^
 ||collect.mindbodyonline.com^
 ||collect.myhomescreen.tv^
+||collect.napster.com^
 ||collect.passfort.com^
 ||collect.skrill.com^
 ||collect.springer.com^
@@ -3384,6 +3407,7 @@
 ||crash.sonymobile.com^
 ||crash.soundhound.com^
 ||crash.vivaldi.com^
+||crashdump.spotify.com^
 ||crashes.1password.com^
 ||crashes.dashlane.com^
 ||crashes.ivpn.net^
@@ -3905,6 +3929,7 @@
 ||emailretargeting.com^
 ||emailtracking.soothe.com^
 ||emarketing.sina.com.cn^
+||emcollect.kugou.com^
 ||emea-analytics.lnw.com^
 ||emetrics.engineeringvillage.com^
 ||emi-cube.ad.xiaomi.com^
@@ -3920,6 +3945,7 @@
 ||engagement.brightcove.com^
 ||ensighten.com^
 ||enterprise-analytics.com^
+||epcollect.kugou.com^
 ||epg-metrics.pluto.tv^
 ||epmads.com^
 ||epoch-id.cdo.heytapmobi.com^
@@ -4023,17 +4049,22 @@
 ||event.mi.com^
 ||event.msi.com^
 ||event.outbrain.com^
+||event.platform.tunein.com^
 ||event.realme.com^
 ||event.vanceai.com^
+||eventgateway.l.soundcloud.com^
+||eventgateway.soundcloud.com^
 ||eventlog-failtest.norton.com^
 ||eventlog-sd-beta.norton.com^
 ||eventlog-sd.norton.com^
 ||eventlog.avg.com^
 ||eventlog.avira.com^
 ||eventlog.norton.com^
+||eventlogger.soundcloud.com^
 ||eventos.asus.com^
 ||events-analytics.apple.com.akamaized.net^
 ||events-api.devcycle.com^
+||events-api.soundcloud.com^
 ||events-dc1.gfe.nvidia.com^
 ||events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn^
 ||events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn^
@@ -4213,6 +4244,8 @@
 ||fainbory.com^
 ||fairbid.fyber.com^
 ||fam.adingo.jp^
+||fanxing.kugou.com^
+||fanxing2.kugou.com^
 ||farm.plista.com^
 ||fast.samsung-benelux.demdex.net^
 ||fast.samsung-france.demdex.net^
@@ -4358,6 +4391,7 @@
 ||fp-ua.ggpoker.com^
 ||fp-ua1.ggpoker.com^
 ||fp.adultfriendfinder.com^
+||fp.audius.co^
 ||fp.bankrolla.com^
 ||fp.btloader.com^
 ||fp.coinbase.com^
@@ -4450,6 +4484,7 @@
 ||gamelogs.rec.net^
 ||games.analytics.netflix.net^
 ||gaming-analytics.youtube.com^
+||gatecollect.kugou.com^
 ||gateway-v2.crakrevenue.com^
 ||gateway.crakrevenue.com^
 ||gateway.glassboxdigital.com^
@@ -5379,6 +5414,7 @@
 ||log.sogou.com^
 ||log.sonymobile.com^
 ||log.soundhound.com^
+||log.spotify.com^
 ||log.strm.yandex.com^
 ||log.strm.yango.com^
 ||log.stubhub.com^
@@ -5438,6 +5474,7 @@
 ||log19-normal.tiktokv.com^
 ||log2.musical.ly^
 ||log2.pgre.dell.com^
+||log2.spotify.com^
 ||log22-applog-useast1a.tiktokv.com^
 ||log22-applog-useast2a.tiktokv.com^
 ||log22-normal-alisg.tiktokv.com^
@@ -5484,6 +5521,7 @@
 ||logger.reddit.com^
 ||logger.sciencedirect.com^
 ||logger.scite.ai^
+||logger.streamguys1.com^
 ||logger.streamyard.com^
 ||logging-janus.env.ubble.ai^
 ||logging-web.env.ubble.ai^
@@ -5528,6 +5566,7 @@
 ||logs.facebook.com^
 ||logs.fitbark.com^
 ||logs.flaviar.com^
+||logs.gaana.com^
 ||logs.ghost.org^
 ||logs.gnosis.io^
 ||logs.gnu.org^
@@ -5567,6 +5606,7 @@
 ||logservice.vmall.com^
 ||logservice1.dbankcloud.com^
 ||logservice1.hicloud.com^
+||logsnew.gaana.com^
 ||logssug.ucweb.com^
 ||logstash-deployment-tracking.linecorp.com^
 ||logsystem.zoom.us^
@@ -5815,6 +5855,7 @@
 ||metrics-sbg.o.webex.com^
 ||metrics-svc-ext.msg.t-mobile.com^
 ||metrics-svc-ext.t-mobile.com^
+||metrics-target.siriusxm.com^
 ||metrics-test-drcn.dt.hihonorcloud.com^
 ||metrics-tracking.revolut.com^
 ||metrics-v2.datadome.co^
@@ -6369,6 +6410,7 @@
 ||navdmp.com^
 ||navegg.com^
 ||navegg.com.br^
+||nbcollect.kugou.com^
 ||nebula-collector.huawei.cn^
 ||nebula-collector.huawei.com^
 ||nemo.logs.roku.com^
@@ -6735,6 +6777,8 @@
 ||pcperformer.com^
 ||pcrepairkit.com^
 ||pcreviver.com^
+||pcstat.kugou.com^
+||pcstatbak.kugou.com^
 ||pctuneupmaestro.com^
 ||pcv.com^
 ||pcvark.com^
@@ -6800,6 +6844,7 @@
 ||pixel-apac.zetaglobal.com^
 ||pixel-config.reddit.com^
 ||pixel-eu.zetaglobal.com^
+||pixel-static.spotify.com^
 ||pixel-us.zetaglobal.com^
 ||pixel.33across.com^
 ||pixel.3lift.com^
@@ -6845,6 +6890,7 @@
 ||pixel.slidebean.com^
 ||pixel.sorceryreels.com^
 ||pixel.speakol.com^
+||pixel.spotify.com^
 ||pixel.springserve.com^
 ||pixel.stackadapt.com^
 ||pixel.taboola.com^
@@ -6864,6 +6910,7 @@
 ||pixelme.me^
 ||pixelmedia-asia.com^
 ||pixels.reddit.com^
+||pixels.spotify.com^
 ||pkgstats.archlinux.de^
 ||pl-info-lgsmartad-com.aws-prd.net^
 ||pl-rdx2-lgtvsdp-com.aws-prd.net^
@@ -7060,6 +7107,7 @@
 ||px.ads.linkedin.com^
 ||px.adswizz.com^
 ||px.jobs.linkedin.com^
+||px.pandora.com^
 ||px.sharethrough.com^
 ||px.srvcs.tumblr.com^
 ||px4.ads.linkedin-ei.com^
@@ -7222,6 +7270,7 @@
 ||reporting.fyber.com^
 ||reporting.playdigo.com^
 ||reports-api.yellowblue.io^
+||reports.tunein.com^
 ||reqstat.api.mega.co.nz^
 ||res.adx.opera.com^
 ||res1-streaming.applovin.com^
@@ -8004,6 +8053,7 @@
 ||smetrics.onetrust.com^
 ||smetrics.otsuka-us.com^
 ||smetrics.panasonic.com^
+||smetrics.pandora.com^
 ||smetrics.petsmart.com^
 ||smetrics.reaxys.com^
 ||smetrics.rejoyn.com^
@@ -8013,6 +8063,7 @@
 ||smetrics.samsung.com^
 ||smetrics.samsung.com.cn^
 ||smetrics.sciencedirect.com^
+||smetrics.siriusxm.com^
 ||smetrics.sportsbet.com.au^
 ||smetrics.suunto.com^
 ||smetrics.t-mobile.com^
@@ -8260,6 +8311,7 @@
 ||stats.norton.com^
 ||stats.old.reddit.com^
 ||stats.opensea.io^
+||stats.pandora.com^
 ||stats.paypal.com^
 ||stats.pixeldrain.com^
 ||stats.playit.pk^
@@ -8714,6 +8766,7 @@
 ||telemetry.shadow.tech^
 ||telemetry.shazam.com^
 ||telemetry.sonymobile.com^
+||telemetry.soundcloud.com^
 ||telemetry.soundhound.com^
 ||telemetry.soundverse.ai^
 ||telemetry.speedbit.com^
@@ -8991,6 +9044,7 @@
 ||track.kindara.com^
 ||track.ligatus.com^
 ||track.linkconnector.com^
+||track.liveone.com^
 ||track.locals.com^
 ||track.lottery.com^
 ||track.lyrahealth.com^
@@ -9069,6 +9123,7 @@
 ||tracker.core.ac.uk^
 ||tracker.debian.org^
 ||tracker.doodstream.com^
+||tracker.gaana.com^
 ||tracker.gnome.org^
 ||tracker.gymshark.com^
 ||tracker.kali.org^
@@ -9203,6 +9258,7 @@
 ||tracking.oneplus.net^
 ||tracking.orangegames.com^
 ||tracking.ott.yandex.com^
+||tracking.pandora.com^
 ||tracking.partnerize.com^
 ||tracking.payoneer.com^
 ||tracking.paytm.com^
@@ -9317,6 +9373,7 @@
 ||trc.taboola.com.br^
 ||trc.taboola.de^
 ||trc.taboola.fr^
+||trck.iheartmedia.com^
 ||trck.vodafone.com^
 ||trckr.petcube.com^
 ||tremorhub.com^
@@ -9607,6 +9664,7 @@
 ||vast.remerge.io^
 ||vastify.io^
 ||vault.analytics.ubble.ai^
+||vb-ad-ak.video.tidal.com^
 ||vc.webmaxy.io^
 ||vcdn.adnxs.com^
 ||vce.comscore.com^
@@ -9768,6 +9826,8 @@
 ||webads.us^
 ||webanalytics.sportingbet.com^
 ||webapp.driversupport.com^
+||webcollect.kugou.com^
+||webcollects.kugou.com^
 ||webgains.io^
 ||webhook.adikteev.com^
 ||webhook.remerge.io^

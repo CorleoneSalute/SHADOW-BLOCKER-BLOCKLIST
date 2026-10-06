@@ -1,0 +1,60 @@
+# ============================================================
+# MUSIC STREAMING BLOCKLIST - BASIC
+# Total domains: 53
+# Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||ad-impression.streamguys1.com^
+||ad-server01.streamguys1.com^
+||ad-server02.streamguys1.com^
+||adeventtracker.spotify.com^
+||ads.deezer.com^
+||ads.gaana.com^
+||ads.soundcloud.com^
+||ads.spotify.com^
+||adserver.gslb.pandora.com^
+||adserver.pandora.com^
+||adstudio.spotify.com^
+||analytics.audius.co^
+||analytics.gaana.com^
+||analytics.pandora.com^
+||analytics.spotify.com^
+||analytics.tidal.com^
+||apptracker.gaana.com^
+||cdn-spotify-experiments.conductrics.com^
+||collect.kugou.com^
+||collect.napster.com^
+||crashdump.spotify.com^
+||emcollect.kugou.com^
+||epcollect.kugou.com^
+||event.platform.tunein.com^
+||eventgateway.l.soundcloud.com^
+||eventgateway.soundcloud.com^
+||eventlogger.soundcloud.com^
+||events-api.soundcloud.com^
+||fp.audius.co^
+||gatecollect.kugou.com^
+||log.spotify.com^
+||log2.spotify.com^
+||logger.streamguys1.com^
+||logs.gaana.com^
+||logsnew.gaana.com^
+||metrics-target.siriusxm.com^
+||nbcollect.kugou.com^
+||pixel-static.spotify.com^
+||pixel.spotify.com^
+||pixels.spotify.com^
+||px.pandora.com^
+||reports.tunein.com^
+||smetrics.pandora.com^
+||smetrics.siriusxm.com^
+||stats.pandora.com^
+||telemetry.soundcloud.com^
+||track.liveone.com^
+||tracker.gaana.com^
+||tracking.pandora.com^
+||trck.iheartmedia.com^
+||vb-ad-ak.video.tidal.com^
+||webcollect.kugou.com^
+||webcollects.kugou.com^

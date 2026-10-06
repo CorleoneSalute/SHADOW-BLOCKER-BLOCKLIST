@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9662
+# Total domains: 9715
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -174,6 +174,7 @@ ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
 ad-iad1.apple.com
 ad-iad2.apple.com
 ad-iad3.apple.com
+ad-impression.streamguys1.com
 ad-instantpage-ru.tiktokv.com
 ad-instantpage-sg.tiktokv.com
 ad-instantpage-ttp2.tiktokv.eu
@@ -193,6 +194,8 @@ ad-sdk.lenovomm.com
 ad-sdk.samsungapps.com
 ad-server.linkvertise.com
 ad-server.samsungads.com
+ad-server01.streamguys1.com
+ad-server02.streamguys1.com
 ad-srv.co
 ad-srv.net
 ad-tag.inner-active.mobi
@@ -312,6 +315,7 @@ addoncrop.com
 addynamo.com
 adeeply.ru
 adelphic.com
+adeventtracker.spotify.com
 adex2.fwmrm.net
 adexp.net
 adf.ly
@@ -522,6 +526,7 @@ ads.conviva.com
 ads.cozi.com
 ads.crunchyroll.com
 ads.de
+ads.deezer.com
 ads.disneyplus.com
 ads.districtm.ca
 ads.dynamicyield.com
@@ -536,6 +541,7 @@ ads.fitbit.com
 ads.fix.orange.ro
 ads.flaviar.com
 ads.fubo.tv
+ads.gaana.com
 ads.gcp.roku.com
 ads.gentoo.org
 ads.giphy.com
@@ -610,7 +616,9 @@ ads.sisal.it
 ads.slidebean.com
 ads.snap.com
 ads.snapchat.com
+ads.soundcloud.com
 ads.speedbit.com
+ads.spotify.com
 ads.staging.roku.com
 ads.suprnation.com
 ads.t-mobile.com
@@ -710,9 +718,11 @@ adserver-meta.com
 adserver-scripts.myspace.com
 adserver.adikteev.com
 adserver.connatix.com
+adserver.gslb.pandora.com
 adserver.jwplayer.com
 adserver.mxplayer.in
 adserver.oath.com
+adserver.pandora.com
 adserver.podbean.com
 adserver.reddit.com
 adserver.remerge.io
@@ -770,6 +780,7 @@ adstats.ai
 adsterra.com
 adstradata.com
 adstrcksrv.com
+adstudio.spotify.com
 adsupply.com
 adsupplyexchange.com
 adsvideo.biz.weibo.com
@@ -1192,6 +1203,7 @@ analytics.athan.com
 analytics.att.com
 analytics.audioboom.com
 analytics.audionamix.com
+analytics.audius.co
 analytics.auphonic.com
 analytics.authy.com
 analytics.avast.com
@@ -1363,6 +1375,7 @@ analytics.fresha.com
 analytics.fubo.tv
 analytics.furbo.com
 analytics.fyber.com
+analytics.gaana.com
 analytics.gamban.com
 analytics.gamstop.co.uk
 analytics.geforcenow.com
@@ -1573,6 +1586,7 @@ analytics.ovia.com
 analytics.oviahealth.com
 analytics.palteca.com
 analytics.pancakeswap.finance
+analytics.pandora.com
 analytics.paprikaapp.com
 analytics.paramountplus.com
 analytics.parrot.sh
@@ -1713,6 +1727,7 @@ analytics.speedbit.com
 analytics.splashmusic.com
 analytics.splashtop.com
 analytics.splice.com
+analytics.spotify.com
 analytics.squareup.com
 analytics.stability.ai
 analytics.stan.com.au
@@ -1750,6 +1765,7 @@ analytics.thirstie.com
 analytics.ticketmaster.co.nz
 analytics.ticketmaster.es
 analytics.ticketmaster.ie
+analytics.tidal.com
 analytics.tiktok.com
 analytics.tiktokv.com
 analytics.timesinternet.in
@@ -2266,6 +2282,7 @@ appsignal-endpoint.net
 appsignal.com
 appstat.stat.mi.com
 appstore-trace-h5sdk.vivo.com.cn
+apptracker.gaana.com
 apsoutheast-match.deepintent.com
 apu.samsungelectronics.com
 arc-metrics.corp.codeium.com
@@ -2744,6 +2761,7 @@ cdn-lb.vungle.com
 cdn-lz.pagesense.io
 cdn-sa.pagesense.io
 cdn-sg.pagesense.io
+cdn-spotify-experiments.conductrics.com
 cdn.360yield.com
 cdn.acxiom.com
 cdn.ad-maven.com
@@ -3096,8 +3114,10 @@ collect.contentsquare.net
 collect.evergage.com
 collect.ficfun.com
 collect.in.lyra.com
+collect.kugou.com
 collect.mindbodyonline.com
 collect.myhomescreen.tv
+collect.napster.com
 collect.passfort.com
 collect.skrill.com
 collect.springer.com
@@ -3290,6 +3310,7 @@ crash.shazam.com
 crash.sonymobile.com
 crash.soundhound.com
 crash.vivaldi.com
+crashdump.spotify.com
 crashes.1password.com
 crashes.dashlane.com
 crashes.ivpn.net
@@ -3769,6 +3790,7 @@ elog.vewd.com
 email.gh-mail.taboola.com
 emailtracking.soothe.com
 emarketing.sina.com.cn
+emcollect.kugou.com
 emea-analytics.lnw.com
 emetrics.engineeringvillage.com
 emi-cube.ad.xiaomi.com
@@ -3783,6 +3805,7 @@ engage.kaltura.com
 engage.youbora.com
 engagement.brightcove.com
 enterprise-analytics.com
+epcollect.kugou.com
 epg-metrics.pluto.tv
 epmads.com
 epoch-id.cdo.heytapmobi.com
@@ -3878,17 +3901,22 @@ event.mackeeper.com
 event.mi.com
 event.msi.com
 event.outbrain.com
+event.platform.tunein.com
 event.realme.com
 event.vanceai.com
+eventgateway.l.soundcloud.com
+eventgateway.soundcloud.com
 eventlog-failtest.norton.com
 eventlog-sd-beta.norton.com
 eventlog-sd.norton.com
 eventlog.avg.com
 eventlog.avira.com
 eventlog.norton.com
+eventlogger.soundcloud.com
 eventos.asus.com
 events-analytics.apple.com.akamaized.net
 events-api.devcycle.com
+events-api.soundcloud.com
 events-dc1.gfe.nvidia.com
 events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn
 events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn
@@ -4187,6 +4215,7 @@ fp-pl.ggpoker.com
 fp-ua.ggpoker.com
 fp-ua1.ggpoker.com
 fp.adultfriendfinder.com
+fp.audius.co
 fp.bankrolla.com
 fp.btloader.com
 fp.coinbase.com
@@ -4254,6 +4283,7 @@ game.ad.xiaomi.com
 gamelogs.rec.net
 games.analytics.netflix.net
 gaming-analytics.youtube.com
+gatecollect.kugou.com
 gateway-v2.crakrevenue.com
 gateway.crakrevenue.com
 gateway.glassboxdigital.com
@@ -5116,6 +5146,7 @@ log.snssdk.com
 log.sogou.com
 log.sonymobile.com
 log.soundhound.com
+log.spotify.com
 log.strm.yandex.com
 log.strm.yango.com
 log.stubhub.com
@@ -5175,6 +5206,7 @@ log19-normal-useast2a.tiktokv.com
 log19-normal.tiktokv.com
 log2.musical.ly
 log2.pgre.dell.com
+log2.spotify.com
 log22-applog-useast1a.tiktokv.com
 log22-applog-useast2a.tiktokv.com
 log22-normal-alisg.tiktokv.com
@@ -5221,6 +5253,7 @@ logger.kameleoon.io
 logger.reddit.com
 logger.sciencedirect.com
 logger.scite.ai
+logger.streamguys1.com
 logger.streamyard.com
 logging-janus.env.ubble.ai
 logging-web.env.ubble.ai
@@ -5265,6 +5298,7 @@ logs.eyecon-app.com
 logs.facebook.com
 logs.fitbark.com
 logs.flaviar.com
+logs.gaana.com
 logs.ghost.org
 logs.gnosis.io
 logs.gnu.org
@@ -5304,6 +5338,7 @@ logservice.hicloud.com
 logservice.vmall.com
 logservice1.dbankcloud.com
 logservice1.hicloud.com
+logsnew.gaana.com
 logssug.ucweb.com
 logstash-deployment-tracking.linecorp.com
 logsystem.zoom.us
@@ -5549,6 +5584,7 @@ metrics-r.wbx2.com
 metrics-sbg.o.webex.com
 metrics-svc-ext.msg.t-mobile.com
 metrics-svc-ext.t-mobile.com
+metrics-target.siriusxm.com
 metrics-test-drcn.dt.hihonorcloud.com
 metrics-tracking.revolut.com
 metrics-v2.datadome.co
@@ -6100,6 +6136,7 @@ nav.browser.miui.com
 navdmp.com
 navegg.com
 navegg.com.br
+nbcollect.kugou.com
 nebula-collector.huawei.cn
 nebula-collector.huawei.com
 nemo.logs.roku.com
@@ -6494,6 +6531,7 @@ pixalate.com
 pixel-apac.zetaglobal.com
 pixel-config.reddit.com
 pixel-eu.zetaglobal.com
+pixel-static.spotify.com
 pixel-us.zetaglobal.com
 pixel.33across.com
 pixel.3lift.com
@@ -6539,6 +6577,7 @@ pixel.rubiconproject.com
 pixel.slidebean.com
 pixel.sorceryreels.com
 pixel.speakol.com
+pixel.spotify.com
 pixel.springserve.com
 pixel.stackadapt.com
 pixel.taboola.com
@@ -6558,6 +6597,7 @@ pixelme.io
 pixelme.me
 pixelmedia-asia.com
 pixels.reddit.com
+pixels.spotify.com
 pkgstats.archlinux.de
 pl-info-lgsmartad-com.aws-prd.net
 pl-rdx2-lgtvsdp-com.aws-prd.net
@@ -6732,6 +6772,7 @@ px.ads.linkedin.cn
 px.ads.linkedin.com
 px.adswizz.com
 px.jobs.linkedin.com
+px.pandora.com
 px.sharethrough.com
 px.srvcs.tumblr.com
 px4.ads.linkedin-ei.com
@@ -6867,6 +6908,7 @@ reporting.fluct.jp
 reporting.fyber.com
 reporting.playdigo.com
 reports-api.yellowblue.io
+reports.tunein.com
 reqstat.api.mega.co.nz
 res.adx.opera.com
 res1-streaming.applovin.com
@@ -7624,6 +7666,7 @@ smetrics.nintendo.com
 smetrics.onetrust.com
 smetrics.otsuka-us.com
 smetrics.panasonic.com
+smetrics.pandora.com
 smetrics.petsmart.com
 smetrics.reaxys.com
 smetrics.rejoyn.com
@@ -7633,6 +7676,7 @@ smetrics.retailmenot.com
 smetrics.samsung.com
 smetrics.samsung.com.cn
 smetrics.sciencedirect.com
+smetrics.siriusxm.com
 smetrics.sportsbet.com.au
 smetrics.suunto.com
 smetrics.t-mobile.com
@@ -7871,6 +7915,7 @@ stats.nordvpn.com
 stats.norton.com
 stats.old.reddit.com
 stats.opensea.io
+stats.pandora.com
 stats.pixeldrain.com
 stats.playit.pk
 stats.poc.qwant.com
@@ -8312,6 +8357,7 @@ telemetry.roku.com
 telemetry.shadow.tech
 telemetry.shazam.com
 telemetry.sonymobile.com
+telemetry.soundcloud.com
 telemetry.soundhound.com
 telemetry.soundverse.ai
 telemetry.speedbit.com
@@ -8582,6 +8628,7 @@ track.kakao.com
 track.kindara.com
 track.ligatus.com
 track.linkconnector.com
+track.liveone.com
 track.locals.com
 track.lottery.com
 track.lyrahealth.com
@@ -8660,6 +8707,7 @@ tracker.baidu.com
 tracker.core.ac.uk
 tracker.debian.org
 tracker.doodstream.com
+tracker.gaana.com
 tracker.gnome.org
 tracker.gymshark.com
 tracker.kali.org
@@ -8793,6 +8841,7 @@ tracking.oddschecker.com
 tracking.oneplus.net
 tracking.orangegames.com
 tracking.ott.yandex.com
+tracking.pandora.com
 tracking.partnerize.com
 tracking.payoneer.com
 tracking.paytm.com
@@ -8904,6 +8953,7 @@ trc.taboola.com
 trc.taboola.com.br
 trc.taboola.de
 trc.taboola.fr
+trck.iheartmedia.com
 trck.vodafone.com
 trckr.petcube.com
 tremorhub.com
@@ -9178,6 +9228,7 @@ vast.aniview.com
 vast.remerge.io
 vastify.io
 vault.analytics.ubble.ai
+vb-ad-ak.video.tidal.com
 vc.webmaxy.io
 vcdn.adnxs.com
 vce.comscore.com
@@ -9326,6 +9377,8 @@ webads.nl
 webads.us
 webanalytics.sportingbet.com
 webapp.driversupport.com
+webcollect.kugou.com
+webcollects.kugou.com
 webgains.io
 webhook.adikteev.com
 webhook.remerge.io

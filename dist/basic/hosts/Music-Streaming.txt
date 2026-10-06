@@ -1,0 +1,60 @@
+# ============================================================
+# MUSIC STREAMING BLOCKLIST - BASIC
+# Total domains: 53
+# Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+0.0.0.0 ad-impression.streamguys1.com
+0.0.0.0 ad-server01.streamguys1.com
+0.0.0.0 ad-server02.streamguys1.com
+0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 ads.deezer.com
+0.0.0.0 ads.gaana.com
+0.0.0.0 ads.soundcloud.com
+0.0.0.0 ads.spotify.com
+0.0.0.0 adserver.gslb.pandora.com
+0.0.0.0 adserver.pandora.com
+0.0.0.0 adstudio.spotify.com
+0.0.0.0 analytics.audius.co
+0.0.0.0 analytics.gaana.com
+0.0.0.0 analytics.pandora.com
+0.0.0.0 analytics.spotify.com
+0.0.0.0 analytics.tidal.com
+0.0.0.0 apptracker.gaana.com
+0.0.0.0 cdn-spotify-experiments.conductrics.com
+0.0.0.0 collect.kugou.com
+0.0.0.0 collect.napster.com
+0.0.0.0 crashdump.spotify.com
+0.0.0.0 emcollect.kugou.com
+0.0.0.0 epcollect.kugou.com
+0.0.0.0 event.platform.tunein.com
+0.0.0.0 eventgateway.l.soundcloud.com
+0.0.0.0 eventgateway.soundcloud.com
+0.0.0.0 eventlogger.soundcloud.com
+0.0.0.0 events-api.soundcloud.com
+0.0.0.0 fp.audius.co
+0.0.0.0 gatecollect.kugou.com
+0.0.0.0 log.spotify.com
+0.0.0.0 log2.spotify.com
+0.0.0.0 logger.streamguys1.com
+0.0.0.0 logs.gaana.com
+0.0.0.0 logsnew.gaana.com
+0.0.0.0 metrics-target.siriusxm.com
+0.0.0.0 nbcollect.kugou.com
+0.0.0.0 pixel-static.spotify.com
+0.0.0.0 pixel.spotify.com
+0.0.0.0 pixels.spotify.com
+0.0.0.0 px.pandora.com
+0.0.0.0 reports.tunein.com
+0.0.0.0 smetrics.pandora.com
+0.0.0.0 smetrics.siriusxm.com
+0.0.0.0 stats.pandora.com
+0.0.0.0 telemetry.soundcloud.com
+0.0.0.0 track.liveone.com
+0.0.0.0 tracker.gaana.com
+0.0.0.0 tracking.pandora.com
+0.0.0.0 trck.iheartmedia.com
+0.0.0.0 vb-ad-ak.video.tidal.com
+0.0.0.0 webcollect.kugou.com
+0.0.0.0 webcollects.kugou.com
