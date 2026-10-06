@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10068
-# Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10070
+# Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -287,8 +287,10 @@ ad1.xiaomi.com
 ad1data.com
 ad2.gtie.dell.com
 ad2.reddit.com
+ad2.sina.com.cn
 ad3.gtie.dell.com
 ad3.reddit.com
+ad3.sina.com.cn
 ad7.biz
 ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv

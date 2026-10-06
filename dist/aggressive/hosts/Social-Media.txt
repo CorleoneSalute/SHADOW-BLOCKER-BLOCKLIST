@@ -1,7 +1,7 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 756
-# Generated: 2026-10-05 (UTC) - auto-generated, do not edit by hand
+# Total domains: 758
+# Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -28,7 +28,9 @@
 0.0.0.0 ad.weibo.com
 0.0.0.0 ad1.reddit.com
 0.0.0.0 ad2.reddit.com
+0.0.0.0 ad2.sina.com.cn
 0.0.0.0 ad3.reddit.com
+0.0.0.0 ad3.sina.com.cn
 0.0.0.0 adapp.biz.weibo.com
 0.0.0.0 adblogger.vk.com
 0.0.0.0 adblogger.vk.ru
