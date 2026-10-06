@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 738
+# Total domains: 739
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -55,6 +55,7 @@
 ||ads.linkedin-ei.com^
 ||ads.linkedin.cn^
 ||ads.linkedin.com^
+||ads.ok.ru^
 ||ads.pinterest.com^
 ||ads.reddit.com^
 ||ads.snap.com^

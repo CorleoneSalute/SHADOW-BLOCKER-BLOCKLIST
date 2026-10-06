@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10088
+# Total domains: 10089
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -603,6 +603,7 @@ ads.myfitnesspal.com
 ads.naver.com
 ads.nrg30.com
 ads.oddschecker.com
+ads.ok.ru
 ads.openai.com
 ads.opera.com
 ads.oppomobile.com

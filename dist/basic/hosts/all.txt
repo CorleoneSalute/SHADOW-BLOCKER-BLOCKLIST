@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9636
+# Total domains: 9637
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -575,6 +575,7 @@
 0.0.0.0 ads.naver.com
 0.0.0.0 ads.nrg30.com
 0.0.0.0 ads.oddschecker.com
+0.0.0.0 ads.ok.ru
 0.0.0.0 ads.openai.com
 0.0.0.0 ads.opera.com
 0.0.0.0 ads.oppomobile.com
