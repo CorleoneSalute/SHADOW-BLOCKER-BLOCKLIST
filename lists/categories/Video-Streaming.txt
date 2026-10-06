@@ -377,6 +377,8 @@ stats.iqiyi.com
 video-analytics.iqiyi.com
 analytics.youku.com
 stats.youku.com
+lstat.youku.com
+playlog.youku.com
 analytics.bilibili.com
 stats.bilibili.com
 analytics.wavve.com
