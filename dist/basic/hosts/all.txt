@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9650
+# Total domains: 9654
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4188,11 +4188,13 @@
 0.0.0.0 fp.coinbase.com
 0.0.0.0 fp.ggpoker.com
 0.0.0.0 fp.incognia.com
+0.0.0.0 fp.livescorebet.com
 0.0.0.0 fp.online-metrix.net
 0.0.0.0 fp.passion.com
 0.0.0.0 fp.prophaze.com
 0.0.0.0 fp.pulsz.com
 0.0.0.0 fp.underdogfantasy.com
+0.0.0.0 fp.virginbet.com
 0.0.0.0 fp.web.tulotero.com
 0.0.0.0 fp.web.tulotero.es
 0.0.0.0 fp.web.tulotero.mx
@@ -5222,9 +5224,11 @@
 0.0.0.0 logging.drift.trade
 0.0.0.0 logging.facia.ai
 0.0.0.0 logging.fantrax.com
+0.0.0.0 logging.livescorebet.com
 0.0.0.0 logging.netflix.com
 0.0.0.0 logging.rarible.com
 0.0.0.0 logging.reddit.com
+0.0.0.0 logging.virginbet.com
 0.0.0.0 logicpro-events.apple.com
 0.0.0.0 login.adf.ly
 0.0.0.0 login.ads.roku.com

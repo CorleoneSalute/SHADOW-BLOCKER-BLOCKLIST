@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 257
+# Total domains: 261
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -117,8 +117,10 @@ fp-ua1.ggpoker.com
 fp.bankrolla.com
 fp.coinbase.com
 fp.ggpoker.com
+fp.livescorebet.com
 fp.pulsz.com
 fp.underdogfantasy.com
+fp.virginbet.com
 fp.web.tulotero.com
 fp.web.tulotero.es
 fp.web.tulotero.mx
@@ -144,6 +146,8 @@ log.ggpoker.com
 log.replaypoker.com
 logging.drift.trade
 logging.fantrax.com
+logging.livescorebet.com
+logging.virginbet.com
 logs.gnosis.io
 logs.replaypoker.com
 logs.thrillzz.com
