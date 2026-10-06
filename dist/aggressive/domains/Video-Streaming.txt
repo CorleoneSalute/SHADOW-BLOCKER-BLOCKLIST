@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 417
+# Total domains: 419
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -239,6 +239,7 @@ logging.bamgrid.com
 logging.netflix.com
 logs.hulu.com
 logs.netflix.com
+lstat.youku.com
 metrics.abema.tv
 metrics.binge.com.au
 metrics.bitmovin.com
@@ -322,6 +323,7 @@ player-metrics.vudu.com
 player-telemetry.amazon.com
 player-telemetry.netflix.com
 player-telemetry.tv.apple.com
+playlog.youku.com
 plex-attribution.plex.tv
 pluto.tv.sc.omtrdc.net
 pre.smartplugin.youbora.com

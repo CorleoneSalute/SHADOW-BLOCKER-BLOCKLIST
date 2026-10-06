@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10073
+# Total domains: 10075
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5567,6 +5567,7 @@
 0.0.0.0 lrkt-in.com
 0.0.0.0 ls.dtrace.nvidia.com
 0.0.0.0 ls.dtu-analytics.mobile.ig.com
+0.0.0.0 lstat.youku.com
 0.0.0.0 lt.logs.roku.com
 0.0.0.0 ltmsphrcl.net
 0.0.0.0 ltv.adikteev.com
@@ -6860,6 +6861,7 @@
 0.0.0.0 player-telemetry.tv.apple.com
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 player.vertamedia.com
+0.0.0.0 playlog.youku.com
 0.0.0.0 plerdy.com
 0.0.0.0 plex-attribution.plex.tv
 0.0.0.0 plista.co.uk

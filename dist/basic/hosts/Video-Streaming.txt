@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 374
+# Total domains: 376
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -219,6 +219,7 @@
 0.0.0.0 logging.netflix.com
 0.0.0.0 logs.hulu.com
 0.0.0.0 logs.netflix.com
+0.0.0.0 lstat.youku.com
 0.0.0.0 metrics.abema.tv
 0.0.0.0 metrics.binge.com.au
 0.0.0.0 metrics.bitmovin.com
@@ -291,6 +292,7 @@
 0.0.0.0 player-metrics.crunchyroll.com
 0.0.0.0 player-telemetry.amazon.com
 0.0.0.0 player-telemetry.tv.apple.com
+0.0.0.0 playlog.youku.com
 0.0.0.0 plex-attribution.plex.tv
 0.0.0.0 pluto.tv.sc.omtrdc.net
 0.0.0.0 pre.smartplugin.youbora.com
