@@ -39,6 +39,8 @@ trac.thefacebook.com
 xy.fbcdn.net
 xz.fbcdn.net
 faceb00k.live # typosquatting
+faceb00k.video # typosquatting
+facebook-badge.com # phishing
 ```
 
 ### LINKEDIN (107 domain)
