@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 354
+# Total domains: 355
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -278,6 +278,7 @@
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 probeinfo.telemetry.mozilla.org
 0.0.0.0 probes.telemetry.mozilla.org
+0.0.0.0 promotionalads.yahoo.co.jp
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 px-adx.geo2.op-mobile.opera.com
 0.0.0.0 px-adx.op-mobile.opera.com

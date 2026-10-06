@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9631
+# Total domains: 9632
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6655,6 +6655,7 @@
 ||prodregistryv2.org^
 ||production.ads.cj.com^
 ||profiling.sentry.io^
+||promotionalads.yahoo.co.jp^
 ||protected.media^
 ||prov-lg.alphonso.tv^
 ||proxy-skadnetwork.apple.com^

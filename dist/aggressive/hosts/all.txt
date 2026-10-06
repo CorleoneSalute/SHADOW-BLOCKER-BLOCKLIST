@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10083
+# Total domains: 10084
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6976,6 +6976,7 @@
 0.0.0.0 production.ads.cj.com
 0.0.0.0 profilebroker.apple.com
 0.0.0.0 profiling.sentry.io
+0.0.0.0 promotionalads.yahoo.co.jp
 0.0.0.0 protected.media
 0.0.0.0 protonurl.ch
 0.0.0.0 prov-lg.alphonso.tv
