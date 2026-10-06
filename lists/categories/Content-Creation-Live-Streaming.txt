@@ -54,6 +54,7 @@ adimg.afreecatv.com
 # HUYA
 
 ad.huya.com
+e-ad-monitor.huya.com
 metric-jingwei.huya.com
 metric.huya.com
 stat.wup.huya.com
