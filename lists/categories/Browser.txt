@@ -63,6 +63,7 @@ partnerads.ysm.yahoo.net
 sgtm-poc.news.yahoo.net !
 ads.yimg.com
 ads.yahoo.co.jp
+promotionalads.yahoo.co.jp
 openlog.yahoo.co.jp
 gamelog-games.yahoo.co.jp !
 yads.c.yimg.jp
