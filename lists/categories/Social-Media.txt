@@ -876,6 +876,9 @@ s3zz.ad.weibo.com
 sdkapp.uve.weibo.com
 tracker.sina.com.cn
 slog.sina.com.cn
+m.beacon.sina.com.cn
+client.ad.sina.com.cn
+sbeacon.sina.com.cn
 ```
 
 # MySpace
