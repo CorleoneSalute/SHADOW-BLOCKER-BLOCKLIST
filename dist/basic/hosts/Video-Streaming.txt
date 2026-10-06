@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 373
+# Total domains: 374
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -282,6 +282,7 @@
 0.0.0.0 offline-analytics.youtube.com
 0.0.0.0 parental-control-metrics.youtubekids.com
 0.0.0.0 parsely.com
+0.0.0.0 pcp-live-metrics-service.netflix.com
 0.0.0.0 performance.netflix.com
 0.0.0.0 piano.io
 0.0.0.0 ping.chartbeat.net

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10072
+# Total domains: 10073
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6699,6 +6699,7 @@
 ||pckeeper.com^
 ||pckqac.tech^
 ||pcoptimizerpro.com^
+||pcp-live-metrics-service.netflix.com^
 ||pcperformer.com^
 ||pcrepairkit.com^
 ||pcreviver.com^

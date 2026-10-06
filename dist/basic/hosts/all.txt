@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9620
+# Total domains: 9621
 # Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6405,6 +6405,7 @@
 0.0.0.0 pckeeper.com
 0.0.0.0 pckqac.tech
 0.0.0.0 pcoptimizerpro.com
+0.0.0.0 pcp-live-metrics-service.netflix.com
 0.0.0.0 pcperformer.com
 0.0.0.0 pcrepairkit.com
 0.0.0.0 pcreviver.com
