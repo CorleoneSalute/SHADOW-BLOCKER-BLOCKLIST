@@ -11,6 +11,7 @@ post.analytics10.ticketmaster.com
 s.analytics10.ticketmaster.com
 analytics.ticketmaster.es
 analytics.ticketmaster.co.nz
+analytics.ticketmaster.ie
 
 # Eventim
 analytics.eventim.com
