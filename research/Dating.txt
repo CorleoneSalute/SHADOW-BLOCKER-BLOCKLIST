@@ -764,6 +764,13 @@ ruby.com
 adlmedia.com
 
 ADULT FRIENDFINDER (FriendFinder Networks)
+
+2016 data breach: More than 412 million user accounts (usernames, emails, passwords) were leaked; passwords were stored in plain text or with the insecure SHA-1 hash.
+
+Fake profiles and fraud suspicions: Users report that fake profiles and bot accounts are widespread, especially on AdultFriendFinder, luring users into messaging in order to extract payments.
+
+Pricing model: Messaging and basic features require a paid membership; subscriptions renew automatically, and users find the cancellation process problematic.
+
 adultfriendfinder.com
 api.adultfriendfinder.com
 cdn.adultfriendfinder.com
