@@ -3,7 +3,7 @@
 # Last update: 2026/10/07
 # Note: trailing "!" marks a domain as aggressive-only
 
-# Together Networks
+# Together Networks # ⚠️ scam,automic billing,bot accounts
 
 # Together Networks does not officially publish its full portfolio; it claims 300+ sites. Known domains, by source, are listed below:
 
@@ -197,7 +197,7 @@ analytics.badoo.com
 # ZOOSK
 analytics.zoosk.com
 
-# ⚠️ ADWARE PUP
+# ⚠️ Adware,bot accounts,scam,automic billing,2016 big data leak
 
 # [ADULT FRIENDFINDER — FriendFinder Networks]
 
