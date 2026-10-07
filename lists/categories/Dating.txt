@@ -3,6 +3,140 @@
 # Last update: 2026/10/05
 # Note: trailing "!" marks a domain as aggressive-only
 
+# Together Networks
+
+# Together Networks does not officially publish its full portfolio; it claims 300+ sites. Known domains, by source, are listed below:
+
+# Main / Flagship Sites (acquired from Cupid plc in 2013)
+
+BeNaughty.com
+Flirt.com
+WildBuddies.com
+CheekyLovers.com
+
+# New Brands After 2013 (founded by Together Networks)
+
+Loveaholics.com
+NaughtyDate.com
+SpicyMeetings.com
+Wildmeets.com
+QuickFlirt.com
+OneNightFriend.com
+
+# Others Known from User Complaints and Affiliate Records
+
+HornyContacts.com
+IWantU.com
+WantuBad.com
+UpForIt.com
+EbonyFlirt.com
+FlirtSpielchen.com (DE)
+ClickFlirt.com
+Becoquine.com (FR)
+IWantHotties.com
+SexInTouch.com
+SluttHour.com
+MeetMe4Date.com
+AskMe4Date.com
+PlayCougar.com
+FlirtyMature.com
+SparkMeets.com
+
+# "Payment Companies" Used By Together Networks
+
+senzapudore.it
+lam.benaughty.com
+setravieso.com
+myshagaholic.com
+uniformdating.com
+momsgetnaughty.com
+bangexperts.com
+wivesgowild.com
+shagaholic.com
+nastyhookups.com
+lesbiemates.com
+wildspank.com
+naughtythai.com
+flirtycougars.com
+amoursexuel.com
+justgetnaughty.com
+spicydesires.com
+granniestomeet.com
+matchmeets.com
+hornyplumps.com
+hornyasia.com
+medpaadenvaerste.com
+girlsdateforfree.com
+foreigngirlfriend.com
+mamflirt.com
+yolovers.com
+fristemeg.no
+panteroneonfire.com
+usm.flirt.com
+iwantblacks.com
+taklks.com
+tnwbill.com
+tspaym.com
+hvncpl.com
+lobyms.com
+mnapmt.com
+mnwfee.com
+mpouse.com
+mspfee.com
+msppmt.com
+mspuse.com
+mynwaf.com
+nlbfee.com
+nlvfee.com
+nlvpmt.com
+nwlovi.com
+plffee.com
+plfpmt.com
+plofnd.com
+prlfee.com
+prlovr.com
+snlstu.com
+tlospo.com
+tlsfee.com
+tlspmt.com
+tspfee.com
+datleis.com
+datlsr.com
+dngire.com
+drmchs.com
+drmcru.com
+drmpay.com
+dtiure.com
+dtngsr.com
+dtnpay.com
+getlvm.com
+glmpay.com
+glvamr.com
+gtlmre.com
+gtlov.com
+gtlvmr.com
+paydmc.com
+paydrc.com
+paydtg.com
+paydtl.com
+payglm.com
+payulm.com
+payuml.com
+paywrl.com
+paywul.com
+ulbpay.com
+ulmfee.com
+urlmt.com
+urlovemate.com
+urlvmt.com
+urlvte.com
+wanturlove.com
+wlfee.com
+wntrlv.com
+wntulv.com
+wnturl.com
+wtlpay.com
+
 # Tinder
 analytics.gotinder.com
 etl.tindersparks.com !
