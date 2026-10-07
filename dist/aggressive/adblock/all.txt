@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10180
-# Generated: 2026-10-06 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10296
+# Generated: 2026-10-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -1106,6 +1106,7 @@
 ||amazon-adsystem.com^
 ||america-ad.360yield.com^
 ||amobee.com^
+||amoursexuel.com^
 ||amp.ad.sina.com.cn^
 ||amp.navdmp.com^
 ||amp.permutive.app^
@@ -2375,6 +2376,7 @@
 ||asia.adform.net^
 ||asia.adikteev.com^
 ||ask.hotjar.com^
+||askme4date.com^
 ||aspedrom.com^
 ||aspenlogs.apple.com^
 ||asrv.dalecta.com^
@@ -2517,6 +2519,7 @@
 ||bam.nl.eu.criteo.com^
 ||bam.nr-data.net^
 ||bandar-logger.prezi.com^
+||bangexperts.com^
 ||banner-cdn.linksynergy.com^
 ||banner.criteo.com^
 ||bard-telemetry.google.com^
@@ -2565,6 +2568,7 @@
 ||beaconsinspace.com^
 ||beeswax.com^
 ||bemobtrcks.lalal.ai^
+||benaughty.com^
 ||bengalads.com^
 ||benjamin-w.logs.roku.com^
 ||benjamin.logs.roku.com^
@@ -3032,6 +3036,7 @@
 ||chat.analytics.eu.restream.io^
 ||chat.analytics.restream.io^
 ||checkout51.com^
+||cheekylovers.com^
 ||cheq.ai^
 ||cheqzone.com^
 ||chi2only.outbrain.com^
@@ -3096,6 +3101,7 @@
 ||clickbank.net^
 ||clickbooth.com^
 ||clickcease.com^
+||clickflirt.com^
 ||clickguard.com^
 ||clickmeter.com^
 ||clickny.taboola.com^
@@ -3629,6 +3635,8 @@
 ||dataurbia.com^
 ||datax.yahoo.com^
 ||dataxonline.yahoo.com^
+||datleis.com^
+||datlsr.com^
 ||dc-stat-in.heytapmobile.com^
 ||dc-telemetry.net^
 ||dc.ads.linkedin-ei.com^
@@ -3775,6 +3783,7 @@
 ||dmx.districtm.io^
 ||dmxleo.dailymotion.com^
 ||dnacdn.net^
+||dngire.com^
 ||dnkeeper.dbankcloud.com^
 ||dnkeeper.hicloud.com^
 ||dnkeeper.platform.dbankcloud.cn^
@@ -3824,6 +3833,9 @@
 ||driverturbo.com^
 ||driverupdate.net^
 ||drivescrubber.com^
+||drmchs.com^
+||drmcru.com^
+||drmpay.com^
 ||dropboxexperiment.com^
 ||drp.su^
 ||dsp-api.smartyads.com^
@@ -3855,6 +3867,9 @@
 ||dt.hicloud.com^
 ||dt.hihonorcloud.com^
 ||dt07.net^
+||dtiure.com^
+||dtngsr.com^
+||dtnpay.com^
 ||dtrack.facia.ai^
 ||dtrack.wysa.io^
 ||dts.startappservice.com^
@@ -3896,6 +3911,7 @@
 ||easeware.com^
 ||easyad.360.cn^
 ||eb2.3lift.com^
+||ebonyflirt.com^
 ||eccmp.com^
 ||ecleneue.com^
 ||eclick.baidu.com^
@@ -4364,8 +4380,11 @@
 ||flexlinks.com^
 ||flexlinkspro.com^
 ||flingo.tv^
+||flirt.com^
 ||flirtads.com^
 ||flirtads.net^
+||flirtycougars.com^
+||flirtymature.com^
 ||flow.adform.net^
 ||fls-eu.amazon-adsystem.com^
 ||fls-fe.amazon-adsystem.com^
@@ -4376,6 +4395,7 @@
 ||fmtrack1.fractal.id^
 ||fn.us.metricscdn2.eu.veri-das.com^
 ||footprints.intel.com^
+||foreigngirlfriend.com^
 ||foreignpb.android.shouji.sogou.com^
 ||forensiq.com^
 ||forest.fyber.com^
@@ -4424,6 +4444,7 @@
 ||fraudlogix.com^
 ||freeform-events.apple.com^
 ||freesamplefinderusa.com^
+||fristemeg.no^
 ||frontend-telemetry.intercom.io^
 ||frontier-i18n.tiktokv.com^
 ||frontier-my2.tiktokv.com^
@@ -4528,6 +4549,7 @@
 ||getadlib.com^
 ||getads.ru^
 ||getingeprod.planning-analytics.ibmcloud.com^
+||getlvm.com^
 ||getmiles.com^
 ||getmyads24.com^
 ||getmydrivers.com^
@@ -4541,6 +4563,7 @@
 ||giga.logs.roku.com^
 ||gilbert.logs.roku.com^
 ||giphy-analytics.giphy.com^
+||girlsdateforfree.com^
 ||gitlab.brightdata.com^
 ||gjapplog.ucweb.com^
 ||glam.telemetry.mozilla.org^
@@ -4548,6 +4571,7 @@
 ||glassbox.digital^
 ||glassboxdigital.com^
 ||glitchtip.com^
+||glmpay.com^
 ||global-1.telemetry.insights.video.a2z.com^
 ||global-2.telemetry.insights.video.a2z.com^
 ||global-3.telemetry.insights.video.a2z.com^
@@ -4560,6 +4584,7 @@
 ||globalapi.ad.xiaomi.com^
 ||globalreport.ad.intl.xiaomi.com^
 ||gloyah.net^
+||glvamr.com^
 ||gm-telemetry.bfge.bigfishgames.com^
 ||go-mpulse.net^
 ||go.33across.com^
@@ -4607,6 +4632,7 @@
 ||grabads.com^
 ||grafana.acr.roku.com^
 ||graffiti-tags.apple.com^
+||granniestomeet.com^
 ||graph.whatsapp.com^
 ||graph.whatsapp.net^
 ||graph.zetaglobal.com^
@@ -4651,6 +4677,9 @@
 ||gstat.pandora.xiaomi.com^
 ||gstat.u.to^
 ||gt-pixel-prod.groundtruth.com^
+||gtlmre.com^
+||gtlov.com^
+||gtlvmr.com^
 ||gtm-analytics.united.vividseats.com^
 ||gtm-analytics.vividseats.com^
 ||gtm.br.ggpoker.com^
@@ -4770,6 +4799,9 @@
 ||honorsearch-drcn.hiboard.hihonorcloud.com^
 ||honorsearch-dre.hiboard.hihonorcloud.com^
 ||hopigrarn.com^
+||hornyasia.com^
+||hornycontacts.com^
+||hornyplumps.com^
 ||hostnetadv.site^
 ||hotjar.com^
 ||hotjar.io^
@@ -4781,6 +4813,7 @@
 ||huawei-api.taboola.com^
 ||hugo.crash.opera.com^
 ||hurirk.net^
+||hvncpl.com^
 ||hw-tdp-o.api.leiniao.com^
 ||hwads-o.res.leiniao.com^
 ||hwtpc-o.api.leiniao.com^
@@ -5098,6 +5131,9 @@
 ||items.rollbar.com^
 ||ity.im^
 ||ivononic.com^
+||iwantblacks.com^
+||iwanthotties.com^
+||iwantu.com^
 ||iwork-events.apple.com^
 ||j.clarity.ms^
 ||j.gs^
@@ -5133,6 +5169,7 @@
 ||juads.vmall.com^
 ||jubaoads.360.cn^
 ||jungroup.com^
+||justgetnaughty.com^
 ||justwebads.com^
 ||jv16powertools.com^
 ||jwpltx.com^
@@ -5202,6 +5239,7 @@
 ||labs-cdn.revcontent.com^
 ||labs.revcontent.com^
 ||lagrange.logs.roku.com^
+||lam.benaughty.com^
 ||landsideresendtrousers.com^
 ||lap-click.tr.line.me^
 ||lapsing-users.adikteev.com^
@@ -5221,6 +5259,7 @@
 ||lduhtrp.net^
 ||learncyber.brightdata.com^
 ||legeerook.com^
+||lesbiemates.com^
 ||lexicon.33across.com^
 ||lf16-adsformat-sign.tiktokcdn.com^
 ||lf19-adsformat-sign.tiktokcdn.com^
@@ -5289,6 +5328,7 @@
 ||lmy.de^
 ||lnk.do^
 ||lnkd.demdex.net^
+||lobyms.com^
 ||localad.naver.com^
 ||locate-x.com^
 ||location-i18n.tiktokv.com^
@@ -5625,6 +5665,7 @@
 ||loriwithinfamily.com^
 ||lotame.com^
 ||lotame.io^
+||loveaholics.com^
 ||lp.adskeeper.com^
 ||lp.mgid.com^
 ||lp.outbrain.com^
@@ -5684,6 +5725,7 @@
 ||maizhenapi.ad.xiaomi.com^
 ||maliva-mcs-useast2a.byteoversea.com^
 ||maliva-mcs.byteoversea.com^
+||mamflirt.com^
 ||market-analysis.samsungcloud.tv^
 ||market.epom.com^
 ||marketgid.com^
@@ -5710,6 +5752,7 @@
 ||match.taboola.com^
 ||match.zetaglobal.com^
 ||matchanalytics.com^
+||matchmeets.com^
 ||matomo.garmin.com^
 ||matomo.samsungsdibs.at^
 ||matrix.api.ad.xiaomi.com^
@@ -5766,7 +5809,9 @@
 ||media.thespike.gg^
 ||mediation.adnxs.com^
 ||mediation.fyber.com^
+||medpaadenvaerste.com^
 ||meetings-telemetry.goog^
+||meetme4date.com^
 ||meez.crwdcntrl.net^
 ||megaify.com^
 ||meitudata.com^
@@ -6169,7 +6214,9 @@
 ||ml.remerge.io^
 ||mlog.search.xiaomi.net^
 ||mmoity.com^
+||mnapmt.com^
 ||mntn.com^
+||mnwfee.com^
 ||moa-upload-eu.allawnos.com^
 ||moa-upload-in.allawnos.com^
 ||moa-upload-online-in.coloros.com^
@@ -6204,6 +6251,7 @@
 ||mockup.ads.brave.com^
 ||mogokads.com^
 ||moloco.com^
+||momsgetnaughty.com^
 ||mon-boot.tiktokv.com^
 ||mon-csj-maliva-ios.byteoversea.com^
 ||mon-hl.snssdk.com^
@@ -6285,6 +6333,7 @@
 ||movies.adultfriendfinder.com^
 ||movies.passion.com^
 ||movincle.com^
+||mpouse.com^
 ||mqs-log.miui.com^
 ||mrpdata.net^
 ||ms-ads.trafficguard.ai^
@@ -6293,6 +6342,9 @@
 ||ms4.applovin.com^
 ||msc-dct-prod.msc.apple.com^
 ||msgdc.admaster.cc^
+||mspfee.com^
+||msppmt.com^
+||mspuse.com^
 ||mssdk-boot.tiktokv.com^
 ||mssdk-bu.snssdk.com^
 ||mssdk-i18n.tiktok.com^
@@ -6380,8 +6432,10 @@
 ||myhackedemail.com^
 ||myherotech.com^
 ||mylead.global^
+||mynwaf.com^
 ||myopenads.com^
 ||mypasslock.com^
+||myshagaholic.com^
 ||mywallet.ads.bravesoftware.com^
 ||n.ads1-adnow.com^
 ||n.clarity.ms^
@@ -6399,6 +6453,7 @@
 ||nadvideo2.baidu.com^
 ||nadvideocm.baidu.com^
 ||nano.adultfriendfinder.com^
+||nastyhookups.com^
 ||nationalconsumercenter.com^
 ||native.feedback.miui.com^
 ||native.sharethrough.com^
@@ -6406,6 +6461,8 @@
 ||nativo.com^
 ||nativo.net^
 ||nativomobileapps.share.ntv.io^
+||naughtydate.com^
+||naughtythai.com^
 ||nav.browser.miui.com^
 ||navdmp.com^
 ||navegg.com^
@@ -6455,7 +6512,10 @@
 ||nk-cktelemetryws.icloud.apple.com^
 ||nl-info-lgsmartad-com.aws-prd.net^
 ||nl-rdx2-lgtvsdp-com.aws-prd.net^
+||nlbfee.com^
 ||nlog.baidu.com^
+||nlvfee.com^
+||nlvpmt.com^
 ||nmetrics.samsung.com^
 ||nmetrics.samsungmobile.com^
 ||nmtracking.netflix.com^
@@ -6503,6 +6563,7 @@
 ||nvcrashreporter.nvidia.com^
 ||nvidia.telemetry.internet.microsoft.com^
 ||nvidia.tt.omtrdc.net^
+||nwlovi.com^
 ||nxad.nextory.com^
 ||nxads.nextory.com^
 ||ny1-bid.adsrvr.org^
@@ -6583,6 +6644,7 @@
 ||onclickads.net^
 ||oneaudience.com^
 ||onegg.site^
+||onenightfriend.com^
 ||onisedeo.com^
 ||onizatop.net^
 ||online-metrix.net^
@@ -6727,6 +6789,7 @@
 ||pangleglobal.com^
 ||pangolin-sdk-toutiao.com^
 ||pangolin.snssdk.com^
+||panteroneonfire.com^
 ||paolo.logs.roku.com^
 ||par.service.criteo.net^
 ||parental-control-metrics.youtubekids.com^
@@ -6747,11 +6810,20 @@
 ||passendo.com^
 ||passion.com^
 ||paved.com^
+||paydmc.com^
+||paydrc.com^
+||paydtg.com^
+||paydtl.com^
+||payglm.com^
 ||paypal.112.2o7.net^
 ||paypal.demdex.net^
 ||paypal.tt.omtrdc.net^
 ||payskip.me^
 ||payskip.org^
+||payulm.com^
+||payuml.com^
+||paywrl.com^
+||paywul.com^
 ||pb.bi.gitv.tv^
 ||pbs.360yield.com^
 ||pbs.getpublica.com^
@@ -6928,6 +7000,7 @@
 ||playable.remerge.io^
 ||playback-analytics.hulu.com^
 ||playback-metrics.disneyplus.com^
+||playcougar.com^
 ||playdigo.com^
 ||player-analytics.hbomax.com^
 ||player-metrics.crunchyroll.com^
@@ -6943,6 +7016,8 @@
 ||playlog.youku.com^
 ||plerdy.com^
 ||plex-attribution.plex.tv^
+||plffee.com^
+||plfpmt.com^
 ||plista.co.uk^
 ||plista.com^
 ||plista.de^
@@ -6950,6 +7025,7 @@
 ||plista125.plista.com^
 ||plista573.plista.com^
 ||plista87.plista.com^
+||plofnd.com^
 ||plurielmediacenter.com^
 ||pluto.tv.sc.omtrdc.net^
 ||pmc-reporting.criteo.net^
@@ -7025,6 +7101,8 @@
 ||primis.tech^
 ||privacyreviver.com^
 ||private.dianomi.com^
+||prlfee.com^
+||prlovr.com^
 ||probe-target.criteo.net^
 ||probe.me.apple-dns.net^
 ||probe.yieldlab.net^
@@ -7134,6 +7212,7 @@
 ||quamiller.com^
 ||quantserve.com^
 ||quantummetric.com^
+||quickflirt.com^
 ||qwapi.com^
 ||r-o.pro^
 ||r.ads.zynga.com^
@@ -7885,6 +7964,7 @@
 ||sentry2.cos.io^
 ||sentry2.sync.me^
 ||sentry3.cos.io^
+||senzapudore.it^
 ||seon.io^
 ||serv431.com^
 ||serv775.com^
@@ -7917,9 +7997,11 @@
 ||sessionstack.com^
 ||sestat.baidu.com^
 ||set.track.smaato.net^
+||setravieso.com^
 ||setting.rayjump.com^
 ||settings.crashlytics.com^
 ||sexart.adultfriendfinder.com^
+||sexintouch.com^
 ||sf16-ads-format-sign.tiktokcdn.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||sf19-ads-format-sign.tiktokcdn.com^
@@ -7953,6 +8035,7 @@
 ||sgtm.vera.bet.br^
 ||sgw-analytics.panasonic.com^
 ||sh.adingo.jp^
+||shagaholic.com^
 ||share.ntv.io^
 ||shareasale-analytics.com^
 ||sharethrough.com^
@@ -8012,6 +8095,7 @@
 ||slog.sina.com.cn^
 ||sls-telemetry.sophosupd.com^
 ||sluppend.com^
+||slutthour.com^
 ||smaato.com^
 ||smaato.net^
 ||smadex.com^
@@ -8088,6 +8172,7 @@
 ||snapmobile.asia^
 ||snapmobile.hk^
 ||snippets.cdn.mozilla.net^
+||snlstu.com^
 ||snow-track.playtika.com^
 ||snssdk.com^
 ||softuna.com^
@@ -8105,6 +8190,7 @@
 ||sp.justwatch.com^
 ||sp1.convertro.com^
 ||spaceseeker.com^
+||sparkmeets.com^
 ||spaste.com^
 ||speakol.com^
 ||speech.shouji.sogou.com^
@@ -8114,6 +8200,8 @@
 ||speedoptimizer.com^
 ||speedupmypc.com^
 ||speedypcpro.com^
+||spicydesires.com^
+||spicymeetings.com^
 ||splunk-analytics.accertify.com^
 ||sports-analytics.paramountplus.com^
 ||sports-analytics.peacocktv.com^
@@ -8548,6 +8636,7 @@
 ||tags.mindbodyonline.com^
 ||tags.retargeter.com^
 ||tags.zetaglobal.com^
+||taklks.com^
 ||talkback-reports.mozilla.org^
 ||tapad.com^
 ||tapeadsenjoyer.com^
@@ -8859,6 +8948,9 @@
 ||tknet.rayjump.com^
 ||tkqlhce.com^
 ||tl-log.thelotter.us^
+||tlospo.com^
+||tlsfee.com^
+||tlspmt.com^
 ||tlwsd.in^
 ||tlx.3lift.com^
 ||tlx.rtb.linkedin.com^
@@ -8905,6 +8997,7 @@
 ||tnc31-platform-useast2a.tiktokv.com^
 ||tnc58-platform-ycru.tiktokv.com^
 ||tns-sec-log-useast2a.tiktokv.com^
+||tnwbill.com^
 ||tobapplog.snssdk.com^
 ||toblog.snssdk.com^
 ||tongji.baidu.com^
@@ -9422,6 +9515,8 @@
 ||ts.crwdcntrl.net^
 ||ts04358.picpay.com^
 ||tsearch.snssdk.com^
+||tspaym.com^
+||tspfee.com^
 ||tsr-cdn.taboola.com^
 ||tt.omtrdc.net^
 ||ttddnnss.com^
@@ -9484,6 +9579,8 @@
 ||ug-sg.byteoversea.com^
 ||ug.snssdk.com^
 ||ukrep.reimage.com^
+||ulbpay.com^
+||ulmfee.com^
 ||ulog3-ru.kwai-pro.com^
 ||ulogt3-ru.kwai-pro.com^
 ||ums-rum-cn.heytapimage.com^
@@ -9499,6 +9596,7 @@
 ||ungads.com^
 ||uniblue.com^
 ||unifiedbidding.ad.smaato.net^
+||uniformdating.com^
 ||uninstall.remerge.io^
 ||union.baidu.com^
 ||union.pangleglobal.com^
@@ -9519,6 +9617,7 @@
 ||update.uniblue.com^
 ||updatereviver.com^
 ||updates.restoro.com^
+||upforit.com^
 ||uplevelrewards.com^
 ||upload.uxcam.com^
 ||upstream.tv^
@@ -9530,7 +9629,11 @@
 ||url.dev^
 ||url4077.ads-service.tiktok.com^
 ||urlcash.com^
+||urlmt.com^
+||urlovemate.com^
 ||urlshorter.com^
+||urlvmt.com^
+||urlvte.com^
 ||us-east-1-1.telemetry.insights.video.a2z.com^
 ||us-east-1-2.telemetry.insights.video.a2z.com^
 ||us-east-1-3.telemetry.insights.video.a2z.com^
@@ -9612,6 +9715,7 @@
 ||usersync.ntv.io^
 ||usersync.triplelift.com^
 ||uskip.me^
+||usm.flirt.com^
 ||usms.taboola.com^
 ||uspider.yuanshen.com^
 ||usr.navdmp.com^
@@ -9793,6 +9897,8 @@
 ||waf-metrics.bunnycdn.com^
 ||walmartmx.md-apis.medallia.com^
 ||wan.douyu.com^
+||wantubad.com^
+||wanturlove.com^
 ||warrantystar.com^
 ||watchadsontape.com^
 ||wave.outbrain.com^
@@ -9877,6 +9983,9 @@
 ||wifi.ads.oppomobile.com^
 ||wiki-drivers.com^
 ||wiland.com^
+||wildbuddies.com^
+||wildmeets.com^
+||wildspank.com^
 ||win-guardian.com^
 ||winback.remerge.io^
 ||windsor.logs.roku.com^
@@ -9888,10 +9997,15 @@
 ||winutilities.com^
 ||wise-analytics.com^
 ||wisepops.com^
+||wivesgowild.com^
 ||wkctj.baidu.com^
+||wlfee.com^
 ||wms-eu.amazon-adsystem.com^
 ||wms-fe.amazon-adsystem.com^
 ||wms-na.amazon-adsystem.com^
+||wntrlv.com^
+||wntulv.com^
+||wnturl.com^
 ||woanalytics.gsn.com^
 ||woolog-us.wooclap.com^
 ||woolog.wooclap.com^
@@ -9907,6 +10021,7 @@
 ||ws.tapjoyads.com^
 ||ws.zoominfo.com^
 ||wsp.mgid.com^
+||wtlpay.com^
 ||wtradv.market.xiaomi.com^
 ||wv.inner-active.mobi^
 ||ww.smartadserver.com^
@@ -10113,6 +10228,7 @@
 ||ylog1.huya.com^
 ||ylog2.huya.com^
 ||ylog3.huya.com^
+||yolovers.com^
 ||youappi.com^
 ||youbora.com^
 ||youboranqs01.com^
