@@ -1,6 +1,6 @@
 # ============================================================
 # DATING BLOCKLIST - BASIC
-# Total domains: 176
+# Total domains: 199
 # Generated: 2026-10-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8,6 +8,8 @@
 ||ads2.ads.pof.com^
 ||adultfriendfinder.com^
 ||advertising.web.grindr.com^
+||alt.com^
+||amigos.com^
 ||amoursexuel.com^
 ||analytics.badoo.com^
 ||analytics.bumble.com^
@@ -23,11 +25,20 @@
 ||analytics.scruff.com^
 ||analytics.zoosk.com^
 ||api.adultfriendfinder.com^
+||api.friendfinderinc.com^
+||asiafriendfinder.com^
+||asianbeautygirl.com^
+||asianhotlips.com^
+||asianmatchmate.com^
 ||askme4date.com^
 ||bangexperts.com^
+||banners.adultfriendfinder.com^
 ||benaughty.com^
-||beta.sexart.adultfriendfinder.com^
-||blog.adultfriendfinder.com^
+||bigchurch.com^
+||cams.com^
+||cdn.adultfriendfinder.com^
+||cdn.friendfinderinc.com^
+||chatmaduras.com^
 ||cheekylovers.com^
 ||clickflirt.com^
 ||crash.grindr.com^
@@ -46,14 +57,24 @@
 ||dtngsr.com^
 ||dtnpay.com^
 ||ebonyflirt.com^
-||find.passion.com^
+||fastcupid.com^
+||ffn.com^
+||filipinofriendfinder.com^
 ||flirt.com^
 ||flirtycougars.com^
 ||flirtymature.com^
 ||foreigngirlfriend.com^
 ||fp.adultfriendfinder.com^
 ||fp.passion.com^
+||frenchfriendfinder.com^
+||friendfinder-x.com^
+||friendfinder.com^
+||friendfinderinc.com^
 ||fristemeg.no^
+||gayfriendfinder.com^
+||geek2geek.com^
+||germanfriendfinder.com^
+||getiton.com^
 ||getlvm.com^
 ||girlsdateforfree.com^
 ||glmpay.com^
@@ -64,36 +85,37 @@
 ||gtlmre.com^
 ||gtlov.com^
 ||gtlvmr.com^
-||guest.adultfriendfinder.com^
 ||hornyasia.com^
 ||hornycontacts.com^
 ||hornyplumps.com^
+||hotdatingreview.com^
 ||hvncpl.com^
+||icams.com^
+||indianfriendfinder.com^
+||italianfriendfinder.com^
 ||iwantblacks.com^
 ||iwanthotties.com^
 ||iwantu.com^
+||jewishfriendfinder.com^
 ||justgetnaughty.com^
 ||kibanalogging.grindr.com^
+||koreanfriendfinder.com^
 ||lam.benaughty.com^
 ||lesbiemates.com^
-||livecam.adultfriendfinder.com^
-||livecam.passion.com^
 ||lobyms.com^
 ||loveaholics.com^
 ||mamflirt.com^
 ||matchanalytics.com^
 ||matchmeets.com^
-||mc.adultfriendfinder.com^
+||mates.com^
 ||medpaadenvaerste.com^
 ||meetme4date.com^
-||members-sexart.adultfriendfinder.com^
 ||metrics.matchgroup.com^
-||metrix.adultfriendfinder.com^
+||millionairemate.com^
+||mlflow.friendfinderinc.com^
 ||mnapmt.com^
 ||mnwfee.com^
 ||momsgetnaughty.com^
-||movies.adultfriendfinder.com^
-||movies.passion.com^
 ||mpouse.com^
 ||mspfee.com^
 ||msppmt.com^
@@ -101,15 +123,17 @@
 ||mtch-analytics.com^
 ||mynwaf.com^
 ||myshagaholic.com^
-||nano.adultfriendfinder.com^
 ||nastyhookups.com^
 ||naughtydate.com^
 ||naughtythai.com^
+||neonlove.net^
 ||nlbfee.com^
 ||nlvfee.com^
 ||nlvpmt.com^
+||nostringsattached.com^
 ||nwlovi.com^
 ||onenightfriend.com^
+||outpersonals.com^
 ||panteroneonfire.com^
 ||passion.com^
 ||paydmc.com^
@@ -121,6 +145,7 @@
 ||payuml.com^
 ||paywrl.com^
 ||paywul.com^
+||perfectmatch.com^
 ||playcougar.com^
 ||plffee.com^
 ||plfpmt.com^
@@ -128,12 +153,10 @@
 ||prlfee.com^
 ||prlovr.com^
 ||quickflirt.com^
-||rctnano.adultfriendfinder.com^
 ||secure.adultfriendfinder.com^
-||secure.passion.com^
+||seniorfriendfinder.com^
 ||senzapudore.it^
 ||setravieso.com^
-||sexart.adultfriendfinder.com^
 ||sexintouch.com^
 ||sgtm.dating.com^
 ||shagaholic.com^
@@ -144,6 +167,8 @@
 ||spicydesires.com^
 ||spicymeetings.com^
 ||ssgtm.dating.com^
+||static.adultfriendfinder.com^
+||stripshow.com^
 ||t.ads.pof.com^
 ||taklks.com^
 ||telemetry.grindr.com^
@@ -164,6 +189,8 @@
 ||urlvmt.com^
 ||urlvte.com^
 ||usm.flirt.com^
+||various.com^
+||variousinc.com^
 ||wantubad.com^
 ||wanturlove.com^
 ||wildbuddies.com^
@@ -176,8 +203,4 @@
 ||wnturl.com^
 ||wtlpay.com^
 ||www.kibanalogging.grindr.com^
-||www.members-sexart.adultfriendfinder.com^
-||www.metrix.adultfriendfinder.com^
-||www.sexart.adultfriendfinder.com^
-||xlate01.adultfriendfinder.com^
 ||yolovers.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9829
+# Total domains: 9852
 # Generated: 2026-10-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1046,6 +1046,7 @@
 ||alphaadsdigital.com^
 ||alphaadsgroup.com^
 ||alphonso.tv^
+||alt.com^
 ||alturl.com^
 ||alx.apac.rtb.linkedin.com^
 ||alx.applovin.com^
@@ -1061,6 +1062,7 @@
 ||amarillo.logs.roku.com^
 ||amazon-adsystem.com^
 ||america-ad.360yield.com^
+||amigos.com^
 ||amobee.com^
 ||amoursexuel.com^
 ||amp.ad.sina.com.cn^
@@ -2080,6 +2082,7 @@
 ||api.fluct.jp^
 ||api.fpjs.io^
 ||api.frameplay.gg^
+||api.friendfinderinc.com^
 ||api.fullcontact.com^
 ||api.fullstory.com^
 ||api.fwmrm.net^
@@ -2319,6 +2322,10 @@
 ||asia-vpushort-stsdk.vivoglobal.com^
 ||asia.adform.net^
 ||asia.adikteev.com^
+||asiafriendfinder.com^
+||asianbeautygirl.com^
+||asianhotlips.com^
+||asianmatchmate.com^
 ||ask.hotjar.com^
 ||askme4date.com^
 ||aspedrom.com^
@@ -2457,6 +2464,7 @@
 ||bangexperts.com^
 ||banner-cdn.linksynergy.com^
 ||banner.criteo.com^
+||banners.adultfriendfinder.com^
 ||bard-telemetry.google.com^
 ||bat.bing.com^
 ||batch.datax.yahoo.com^
@@ -2504,7 +2512,6 @@
 ||benjamin.logs.roku.com^
 ||beta-advertising.yahoo.com^
 ||beta.analytics.openaire.eu^
-||beta.sexart.adultfriendfinder.com^
 ||beta.telemetry.gfe.nvidia.com^
 ||beteshis.com^
 ||betteradz.com^
@@ -2532,6 +2539,7 @@
 ||bidtellect.com^
 ||bidtheatre.com^
 ||bidtoolads.com^
+||bigchurch.com^
 ||bigdata.baidu.com^
 ||bigdata.samsung.com.cn^
 ||bigdata.ssp.samsung.com^
@@ -2562,7 +2570,6 @@
 ||blog-advertising-v2.us-east-1.msc.roku.com^
 ||blog-advertising.msc.roku.com^
 ||blog.ads.paytm.com^
-||blog.adultfriendfinder.com^
 ||blog.bit-guardian.com^
 ||bluadz.com^
 ||blueadss.com^
@@ -2714,6 +2721,7 @@
 ||callback.adikteev.com^
 ||callback.remerge.io^
 ||camden.logs.roku.com^
+||cams.com^
 ||caneddir.com^
 ||capi.hybrid.ai^
 ||captify.co^
@@ -2786,6 +2794,7 @@
 ||cdn.adskeeper.com^
 ||cdn.adspirit.de^
 ||cdn.adsrveys.com^
+||cdn.adultfriendfinder.com^
 ||cdn.adup-tech.com^
 ||cdn.advertiser.linkvertise.com^
 ||cdn.adyoulike.com^
@@ -2816,6 +2825,7 @@
 ||cdn.evadav.com^
 ||cdn.exp.xiaomi.com^
 ||cdn.frameplay.gg^
+||cdn.friendfinderinc.com^
 ||cdn.fullstory.com^
 ||cdn.glassbox.com^
 ||cdn.glassboxdigital.com^
@@ -2946,6 +2956,7 @@
 ||chartboost.com^
 ||chat.analytics.eu.restream.io^
 ||chat.analytics.restream.io^
+||chatmaduras.com^
 ||checkout51.com^
 ||cheekylovers.com^
 ||cheqzone.com^
@@ -4123,6 +4134,7 @@
 ||fast.samsungturkey.demdex.net^
 ||fastclick.com^
 ||fastclick.net^
+||fastcupid.com^
 ||fastlane.rubiconproject.com^
 ||fasttory.com^
 ||fault.trackjs.com^
@@ -4170,6 +4182,7 @@
 ||feedbackws.icloud.com^
 ||feedbackws.icloud.com.cn^
 ||felixads.com^
+||ffn.com^
 ||fhc-event.fhcasino.com^
 ||fhc-event2.fhcasino.com^
 ||fi-info-lgsmartad-com.aws-prd.net^
@@ -4184,10 +4197,10 @@
 ||files.crazyegg.com^
 ||filesigcheck.com^
 ||fileviewpro.com^
+||filipinofriendfinder.com^
 ||finalcut-camera-events.apple.com^
 ||finalcut-events.apple.com^
 ||finalcutpro-events.apple.com^
-||find.passion.com^
 ||fingerprintjs.com^
 ||fingerprintjs.net^
 ||fionread-ta-g7g.amazon.com^
@@ -4266,6 +4279,10 @@
 ||fraud.remerge.io^
 ||freeform-events.apple.com^
 ||freesamplefinderusa.com^
+||frenchfriendfinder.com^
+||friendfinder-x.com^
+||friendfinder.com^
+||friendfinderinc.com^
 ||fristemeg.no^
 ||frontend-telemetry.intercom.io^
 ||frontier.byteoversea.com^
@@ -4309,12 +4326,14 @@
 ||gateway.crakrevenue.com^
 ||gateway.glassboxdigital.com^
 ||gatustox.net^
+||gayfriendfinder.com^
 ||gb-info-lgsmartad-com.aws-prd.net^
 ||gb-rdx2-lgtvsdp-com.aws-prd.net^
 ||gb.info.lgsmartad.com^
 ||gbidnep.admaster.cc^
 ||gdanstum.net^
 ||gecko-pangle-sg.byteoversea.com^
+||geek2geek.com^
 ||gemini-analytics.google.com^
 ||gemini.yahoo.com^
 ||gen.adsrvr.org^
@@ -4340,12 +4359,14 @@
 ||geologgera1.geodell.dell.com^
 ||geologgeran.us.dell.com^
 ||geologgerbn.us.dell.com^
+||germanfriendfinder.com^
 ||get-v6.shouji.sogou.com^
 ||get.brightdata.com^
 ||get.shouji.sogou.com^
 ||getadlib.com^
 ||getads.ru^
 ||getingeprod.planning-analytics.ibmcloud.com^
+||getiton.com^
 ||getlvm.com^
 ||getmiles.com^
 ||getmyads24.com^
@@ -4474,7 +4495,6 @@
 ||gtrack.go.moovit.com^
 ||gtrack.stories.moovit.com^
 ||gtv.analytics.glance.inmobi.com^
-||guest.adultfriendfinder.com^
 ||gum-ssl.criteo.com^
 ||gum.as.criteo.com^
 ||gum.criteo.com^
@@ -4576,6 +4596,7 @@
 ||hornycontacts.com^
 ||hornyplumps.com^
 ||hostnetadv.site^
+||hotdatingreview.com^
 ||hotjar.com^
 ||hotjar.io^
 ||hpanalytics.net^
@@ -4633,6 +4654,7 @@
 ||ibm-weather-beacon.com^
 ||ibs.nextlgsdp.com^
 ||ibytedapm.com^
+||icams.com^
 ||ice.360yield.com^
 ||ichnaea-web.dradis.netflix.com^
 ||ichnaea-web.geo.netflix.com^
@@ -4780,6 +4802,7 @@
 ||incoming.telemetry.mozilla.org^
 ||incrementality.adikteev.com^
 ||india.activity.browser.intl.miui.com^
+||indianfriendfinder.com^
 ||industry.adblade.com^
 ||industrybrains.com^
 ||inferred.litix.io^
@@ -4880,6 +4903,7 @@
 ||it-info-lgsmartad-com.aws-prd.net^
 ||it-rdx2-lgtvsdp-com.aws-prd.net^
 ||itag.ads.linkedin.com^
+||italianfriendfinder.com^
 ||items.rollbar.com^
 ||ity.im^
 ||ivononic.com^
@@ -4898,6 +4922,7 @@
 ||jdoqocy.com^
 ||jenkins.analytics.weather.com^
 ||jetclean.com^
+||jewishfriendfinder.com^
 ||jilliandescribecompany.com^
 ||jp.ad.lgsmartad.com^
 ||jp.info.lgsmartad.com^
@@ -4956,6 +4981,7 @@
 ||kindle-unlimited-logging.amazon.com^
 ||kinesis.us-east-1.amazonaws.com^
 ||kingshiper.com^
+||koreanfriendfinder.com^
 ||kpu.samsungelectronics.com^
 ||kqzyfj.com^
 ||kr.info.lgsmartad.com^
@@ -5049,8 +5075,6 @@
 ||live.primis.tech^
 ||live.rezync.com^
 ||live.sekindo.com^
-||livecam.adultfriendfinder.com^
-||livecam.passion.com^
 ||liverail.com^
 ||livesession.io^
 ||livestats.kaltura.com^
@@ -5481,6 +5505,7 @@
 ||match.zetaglobal.com^
 ||matchanalytics.com^
 ||matchmeets.com^
+||mates.com^
 ||matomo.garmin.com^
 ||matomo.samsungsdibs.at^
 ||matrix.api.ad.xiaomi.com^
@@ -5492,7 +5517,6 @@
 ||mb01.com^
 ||mb103.com^
 ||mbapi.ad.intl.xiaomi.com^
-||mc.adultfriendfinder.com^
 ||mc.yandex.ru^
 ||mcd.navdmp.com^
 ||mcdn.navdmp.com^
@@ -5543,7 +5567,6 @@
 ||meez.crwdcntrl.net^
 ||megaify.com^
 ||meitudata.com^
-||members-sexart.adultfriendfinder.com^
 ||memorykeeper.com^
 ||mercury-sdk.snssdk.com^
 ||meriabub.net^
@@ -5890,7 +5913,6 @@
 ||metrika.yandex.bymetrika.yandex.com^
 ||metrika.yandex.com^
 ||metrika.yandex.ru^
-||metrix.adultfriendfinder.com^
 ||metrix.ols.us.dell.com^
 ||mfadsrvr.com^
 ||mg-track.vimeo.com^
@@ -5907,6 +5929,7 @@
 ||microify.com^
 ||midland.logs.roku.com^
 ||migrate-adfly.linkvertise.com^
+||millionairemate.com^
 ||minigame.vip^
 ||minm.xyz^
 ||mintegral.com^
@@ -5939,6 +5962,7 @@
 ||mkt3.photobucket.com^
 ||ml.adikteev.com^
 ||ml.remerge.io^
+||mlflow.friendfinderinc.com^
 ||mlog.search.xiaomi.net^
 ||mmoity.com^
 ||mnapmt.com^
@@ -6057,8 +6081,6 @@
 ||motriael.com^
 ||mountain.com^
 ||mouseflow.com^
-||movies.adultfriendfinder.com^
-||movies.passion.com^
 ||movincle.com^
 ||mpouse.com^
 ||mqs-log.miui.com^
@@ -6177,7 +6199,6 @@
 ||na1.fullstory.com^
 ||nadvideo2.baidu.com^
 ||nadvideocm.baidu.com^
-||nano.adultfriendfinder.com^
 ||nastyhookups.com^
 ||nationalconsumercenter.com^
 ||native.feedback.miui.com^
@@ -6196,6 +6217,7 @@
 ||nebula-collector.huawei.cn^
 ||nebula-collector.huawei.com^
 ||nemo.logs.roku.com^
+||neonlove.net^
 ||neswery.com^
 ||net.rayjump.com^
 ||netaffiliation.com^
@@ -6244,6 +6266,7 @@
 ||no-rdx2-lgtvsdp-com.aws-prd.net^
 ||nodemetrics.wallarm.com^
 ||nof1.ai.supp0v3.com^
+||nostringsattached.com^
 ||notes-analytics-events.apple.com^
 ||notes-analytics-events.news.apple-dns.net^
 ||notifications-gke-sdk-bidding-a.fyber.com^
@@ -6435,6 +6458,7 @@
 ||outcome-ssp.supersonicads.com^
 ||outcome.supersonicads.com^
 ||outlogic.io^
+||outpersonals.com^
 ||outspot-ash.op-mobile.opera.com^
 ||outspot2-ams.adx.opera.com^
 ||overseauspider.yuanshen.com^
@@ -6557,6 +6581,7 @@
 ||pegasun.com^
 ||pepperjam.com^
 ||perf-events.cloud.unity3d.com^
+||perfectmatch.com^
 ||performance-partners.apple.com^
 ||performance.netflix.com^
 ||performance.revcontent.com^
@@ -6917,7 +6942,6 @@
 ||rcm-fe.amazon-adsystem.com^
 ||rcm-na.amazon-adsystem.com^
 ||rcom-dump.dynamicyield.com^
-||rctnano.adultfriendfinder.com^
 ||rd.samsungadhub.com^
 ||rdc.adobe.io^
 ||rdi.criteo.com^
@@ -7506,7 +7530,6 @@
 ||secure.esupport.com^
 ||secure.fortect.com^
 ||secure.lavasoft.com^
-||secure.passion.com^
 ||secure.quantserve.com^
 ||secure.report.iss.xiaomi.com^
 ||security-analytics.geoedge.com^
@@ -7536,6 +7559,7 @@
 ||select.beachfront.io^
 ||selectmedia.asia^
 ||send.microad.jp^
+||seniorfriendfinder.com^
 ||sense360.com^
 ||sentry-metrics.tools.element.io^
 ||sentry-new.tidio.co^
@@ -7617,7 +7641,6 @@
 ||setravieso.com^
 ||setting.rayjump.com^
 ||settings.crashlytics.com^
-||sexart.adultfriendfinder.com^
 ||sexintouch.com^
 ||sf16-ads-format-sign.tiktokcdn.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
@@ -7913,6 +7936,7 @@
 ||static.ads.brave.com^
 ||static.ads.bravesoftware.com^
 ||static.ads.twitter.com^
+||static.adultfriendfinder.com^
 ||static.adup-tech.com^
 ||static.anzu.io^
 ||static.chartbeat.com^
@@ -8080,6 +8104,7 @@
 ||streamvoyage.com^
 ||street-production.s3.amazonaws.com^
 ||streme.fullcontact.com^
+||stripshow.com^
 ||strossle.com^
 ||stsdk.vivoglobal.com^
 ||ststfstats.megawinslots.com^
@@ -9321,6 +9346,8 @@
 ||vad-bid.adsrvr.org^
 ||vae-bid.adsrvr.org^
 ||vam-bid.adsrvr.org^
+||various.com^
+||variousinc.com^
 ||vars.hotjar.com^
 ||vars.webmaxy.com^
 ||vas.outbrain.com^
@@ -9631,9 +9658,7 @@
 ||www.lgads.tv^
 ||www.linkconnector.com^
 ||www.maxbounty.com^
-||www.members-sexart.adultfriendfinder.com^
 ||www.metaffiliation.com^
-||www.metrix.adultfriendfinder.com^
 ||www.microad.co.jp^
 ||www.moai-dev-samsung.com^
 ||www.mobideapush.com^
@@ -9669,7 +9694,6 @@
 ||www.samsungtvads.com^
 ||www.sessionrewind.com^
 ||www.sessionstack.com^
-||www.sexart.adultfriendfinder.com^
 ||www.shareasale-analytics.com^
 ||www.shrunken.com^
 ||www.simplediskoptimizer.com^
@@ -9718,7 +9742,6 @@
 ||xcode-metrics.lightricks.com^
 ||xdcs-collector.ximalaya.com^
 ||xerxes.media^
-||xlate01.adultfriendfinder.com^
 ||xlmc.sec.miui.com^
 ||xlog-o.byteoversea.com^
 ||xlog-ru.tiktokv.com^
