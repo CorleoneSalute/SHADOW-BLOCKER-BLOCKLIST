@@ -1,8 +1,5 @@
 # DATING APPS DOMAIN BLOCKLIST RESEARCH LIST
 
----
----
-
 ## TIER 1 — MAJOR DATING APPS (Match Group)
 
 ### TINDER (Match Group)
@@ -1963,56 +1960,3 @@ NOTE: Cupid Media was acquired by DatingGroup in 2021 for $51M.
 - datinggroup.com
 - api.datinggroup.com
 - cupidmedia.imgix.net
-
----
-
-## TIER 12 — SCAM & FRAUD DATING SITES
-
-### SOCIAL DISCOVERY VENTURES / ANASTASIADATE
-
-- socialdiscoveryventures.com
-- dating.com
-- api.dating.com
-- africandate.com
-- arabiandate.com
-- amolatina.com
-- asiandate.com
-- yourtravelmateclub.com
-- datemyage.com
-- api.datemyage.com
-- udates.io
-- chinalove.com
-- solnetworks.eu
-- eurodate.com
-- flirtwith.com
-
-### RUSSIAN/UKRAINIAN SCAM SITES
-
-- russianbeautydate.com
-- victoriyaclub.com
-- anastasiadate.com
-- anastasia.com
-- ukrainedate.com
-- russianbrides.com
-- mail-order-bride.com
-- romancecompass.com
-- loveswans.com
-- jollyromance.com
-- ukrainiancharm.com
-- sofiadate.com
-- kissrussianbeauty.com
-- bravodate.com
-- ukrainebrides4you.com
-
-### ASIAN / LATIN SCAM SITES
-
-- charmdate.com
-- asiancharm.com
-- asianmelodies.com
-- easternhoneys.com
-- orchidromance.com
-- latamdate.com
-- colombialady.com
-- latinfeels.com
-- latinwomanlove.com
-- lovefort.com
