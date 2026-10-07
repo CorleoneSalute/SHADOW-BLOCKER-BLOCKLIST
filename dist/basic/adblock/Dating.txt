@@ -1,6 +1,6 @@
 # ============================================================
 # DATING BLOCKLIST - BASIC
-# Total domains: 178
+# Total domains: 176
 # Generated: 2026-10-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -69,7 +69,6 @@
 ||hornycontacts.com^
 ||hornyplumps.com^
 ||hvncpl.com^
-||io.cmbus.app^
 ||iwantblacks.com^
 ||iwanthotties.com^
 ||iwantu.com^
@@ -129,7 +128,6 @@
 ||prlfee.com^
 ||prlovr.com^
 ||quickflirt.com^
-||rapidfirepublishpxy.ue1az.gotinder.com^
 ||rctnano.adultfriendfinder.com^
 ||secure.adultfriendfinder.com^
 ||secure.passion.com^

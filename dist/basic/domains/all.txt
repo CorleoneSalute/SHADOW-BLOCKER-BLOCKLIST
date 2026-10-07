@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9831
+# Total domains: 9829
 # Generated: 2026-10-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4842,7 +4842,6 @@ intg.snapchat.com
 intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com
 inv-nets-us.admixer.net
 inventory-dsp.hivestack.com
-io.cmbus.app
 iolo.com
 iolosystem.com
 iolovpn.com
@@ -6902,7 +6901,6 @@ rakutenadvertising.com
 rakutenmarketing.com
 ramble.bash-analytics.gsngames.com
 rantenah.com
-rapidfirepublishpxy.ue1az.gotinder.com
 rapidteria.com
 rapidtory.com
 raps.ravm.tv

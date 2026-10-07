@@ -1,5 +1,5 @@
 # DATING APPS BLOCKLIST 
-# Total domains: 179
+# Total domains: 177
 # Last update: 2026/10/07
 # Note: trailing "!" marks a domain as aggressive-only
 

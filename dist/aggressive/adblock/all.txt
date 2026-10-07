@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10296
+# Total domains: 10294
 # Generated: 2026-10-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5081,7 +5081,6 @@
 ||intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com^
 ||inv-nets-us.admixer.net^
 ||inventory-dsp.hivestack.com^
-||io.cmbus.app^
 ||iolo.com^
 ||iolosystem.com^
 ||iolovpn.com^
@@ -7242,7 +7241,6 @@
 ||rakutenmarketing.com^
 ||ramble.bash-analytics.gsngames.com^
 ||rantenah.com^
-||rapidfirepublishpxy.ue1az.gotinder.com^
 ||rapidteria.com^
 ||rapidtory.com^
 ||rapleaf.com^

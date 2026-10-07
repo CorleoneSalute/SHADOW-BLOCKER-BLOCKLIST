@@ -1,6 +1,6 @@
 # ============================================================
 # DATING BLOCKLIST - AGGRESSIVE
-# Total domains: 179
+# Total domains: 177
 # Generated: 2026-10-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -70,7 +70,6 @@ hornyasia.com
 hornycontacts.com
 hornyplumps.com
 hvncpl.com
-io.cmbus.app
 iwantblacks.com
 iwanthotties.com
 iwantu.com
@@ -130,7 +129,6 @@ plofnd.com
 prlfee.com
 prlovr.com
 quickflirt.com
-rapidfirepublishpxy.ue1az.gotinder.com
 rctnano.adultfriendfinder.com
 secure.adultfriendfinder.com
 secure.passion.com
