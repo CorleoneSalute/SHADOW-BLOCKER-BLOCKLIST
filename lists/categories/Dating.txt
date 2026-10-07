@@ -141,7 +141,6 @@ wtlpay.com
 analytics.gotinder.com
 etl.tindersparks.com !
 sp.gotinder.com
-rapidfirepublishpxy.ue1az.gotinder.com
 
 # Bumble
 analytics.bumble.com
@@ -188,7 +187,6 @@ analytics.hornet.com
 
 # COFFEE MEETS BAGEL
 analytics.coffeemeetsbagel.com
-io.cmbus.app
 
 # HAPPN
 analytics.happn.com
@@ -202,6 +200,7 @@ analytics.zoosk.com
 # ⚠️ ADWARE PUP
 
 # [ADULT FRIENDFINDER — FriendFinder Networks]
+
 adultfriendfinder.com
 api.adultfriendfinder.com
 beta.sexart.adultfriendfinder.com
