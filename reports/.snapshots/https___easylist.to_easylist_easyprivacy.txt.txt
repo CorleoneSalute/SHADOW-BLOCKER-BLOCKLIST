@@ -5958,6 +5958,7 @@ analytics.traderlink.com
 analytics.truckingauthority.com
 analytics.trust.page
 analytics.trutv.com
+analytics.tsoftapps.com
 analytics.tufos.com.br
 analytics.turk.pro
 analytics.turnertv.com
@@ -8401,6 +8402,7 @@ booster.osnova.io
 bopmkf.lolahome.es
 boqufs.2nn.jp
 boredcrown.com
+borefee.com
 boringberry.com
 boringpirate.com
 boss.openapp.link
@@ -9584,6 +9586,7 @@ clickcount.cnool.net
 clickdensity.com
 clicked.ebates.com
 clickening.com
+clickersdigest.com
 clickferret.com
 clickguard.com
 clickguardian.app
@@ -9731,6 +9734,7 @@ cltr.willhaben.at
 cltxxq.cruises.united.com
 clubcollector.com
 clumsycar.com
+clutchcourses.com
 clyexf.decathlon.ie
 cm-exchange.toast.com
 cm-in.americanexpress.com
@@ -16071,7 +16075,6 @@ gkfdkf.jdsports.co.uk
 gkgygj.verivox.de
 gkopqp.coccodrillo.eu
 gksqdt.reitmans.com
-gkx.gokwik.co
 gl5g98t0vfjb.panprices.com
 gladysway.com
 glam.com
@@ -22308,6 +22311,7 @@ ma.axiomatics.com
 ma.betterbusiness.se
 ma.brightby.se
 ma.cbre.com
+ma.gamersnexus.net
 ma.hitachi-systems.com
 ma.hmhco.com
 ma.kyloepartners.com
@@ -38459,6 +38463,7 @@ stats.yourfone.de
 stats.zimri.net
 stats.zoogletools.net
 stats.zotabox.com
+stats.zruvix.com
 stats2.algo.at
 stats2.architecturaldigest.com
 stats2.bonappetit.com
@@ -40818,6 +40823,7 @@ townhouses.woodlea.com.au
 townsquareinteractive.actonservice.com
 toysbasics.com
 toytakeover.com
+tp-em.cc
 tp.ackermann.ch
 tp.ambria.de
 tp.baur.de
