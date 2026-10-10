@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10347
+# Total domains: 10348
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6814,6 +6814,7 @@
 0.0.0.0 p2a-json.brave.com
 0.0.0.0 p2a.brave.com
 0.0.0.0 p2a.bravesoftware.com
+0.0.0.0 p3-ad-aweme.byteimg.com
 0.0.0.0 p3-ad-sign.byteimg.com
 0.0.0.0 p3-flow-imagex-sign.byteimg.com
 0.0.0.0 p3a-creative.brave.com

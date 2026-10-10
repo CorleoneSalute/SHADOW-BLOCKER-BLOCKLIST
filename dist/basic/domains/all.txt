@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9882
+# Total domains: 9883
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6516,6 +6516,7 @@ p16-ad.byteoversea.com
 p2a-json.brave.com
 p2a.brave.com
 p2a.bravesoftware.com
+p3-ad-aweme.byteimg.com
 p3-ad-sign.byteimg.com
 p3-flow-imagex-sign.byteimg.com
 p3a-creative.brave.com

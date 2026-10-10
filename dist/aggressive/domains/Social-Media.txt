@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 780
+# Total domains: 781
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -505,6 +505,7 @@ otel.atmeta.com
 p.adsymptotic.com
 p16-ad-sg.ibyteimg.com
 p16-ad.byteoversea.com
+p3-ad-aweme.byteimg.com
 p3-ad-sign.byteimg.com
 p3-flow-imagex-sign.byteimg.com
 p6-flow-imagex-sign.byteimg.com
