@@ -1,6 +1,6 @@
 # ============================================================
 # SMARTWATCH WEARABLES BLOCKLIST - BASIC
-# Total domains: 24
+# Total domains: 26
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8,6 +8,7 @@
 0.0.0.0 ad-analytics.fitbit.com
 0.0.0.0 ads.fitbit.com
 0.0.0.0 advisor-analytics.ouraring.com
+0.0.0.0 analytics-api.samsunghealthanalytics.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics.fitbit.com
 0.0.0.0 analytics.polar.com
@@ -22,6 +23,7 @@
 0.0.0.0 ft-sentry2.hetangsmart.com
 0.0.0.0 metrics.fitbit.com
 0.0.0.0 metrics.reebok.com
+0.0.0.0 samsunghealthanalytics.com
 0.0.0.0 sentry.elitehrv.com
 0.0.0.0 shealth-analytics-api.samsunghealth.com
 0.0.0.0 smetrics.suunto.com

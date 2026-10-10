@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10345
+# Total domains: 10347
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1170,6 +1170,7 @@ analytics-api.playusalotteries.com
 analytics-api.pulsz.com
 analytics-api.pulszbingo.com
 analytics-api.robin.markets
+analytics-api.samsunghealthanalytics.com
 analytics-api.samsunghealthcn.com
 analytics-api.t-mobile.com
 analytics-api.tombola.co.uk
@@ -7758,6 +7759,7 @@ samsungeucdm.demdex.net
 samsungeucdm.tt.omtrdc.net
 samsungeverland.demdex.net
 samsunggmc.md-apis.medallia.com
+samsunghealthanalytics.com
 samsunghk.api.useinsider.com
 samsunghq.demdex.net
 samsungid.api.useinsider.com

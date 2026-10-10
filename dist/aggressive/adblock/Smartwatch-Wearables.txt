@@ -1,6 +1,6 @@
 # ============================================================
 # SMARTWATCH WEARABLES BLOCKLIST - AGGRESSIVE
-# Total domains: 24
+# Total domains: 26
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8,6 +8,7 @@
 ||ad-analytics.fitbit.com^
 ||ads.fitbit.com^
 ||advisor-analytics.ouraring.com^
+||analytics-api.samsunghealthanalytics.com^
 ||analytics-api.samsunghealthcn.com^
 ||analytics.fitbit.com^
 ||analytics.polar.com^
@@ -22,6 +23,7 @@
 ||ft-sentry2.hetangsmart.com^
 ||metrics.fitbit.com^
 ||metrics.reebok.com^
+||samsunghealthanalytics.com^
 ||sentry.elitehrv.com^
 ||shealth-analytics-api.samsunghealth.com^
 ||smetrics.suunto.com^

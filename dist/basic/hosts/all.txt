@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9880
+# Total domains: 9882
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1125,6 +1125,7 @@
 0.0.0.0 analytics-api.pulsz.com
 0.0.0.0 analytics-api.pulszbingo.com
 0.0.0.0 analytics-api.robin.markets
+0.0.0.0 analytics-api.samsunghealthanalytics.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-api.t-mobile.com
 0.0.0.0 analytics-api.tombola.co.uk
@@ -7386,6 +7387,7 @@
 0.0.0.0 samsungeucdm.tt.omtrdc.net
 0.0.0.0 samsungeverland.demdex.net
 0.0.0.0 samsunggmc.md-apis.medallia.com
+0.0.0.0 samsunghealthanalytics.com
 0.0.0.0 samsunghk.api.useinsider.com
 0.0.0.0 samsunghq.demdex.net
 0.0.0.0 samsungid.api.useinsider.com
