@@ -20,6 +20,7 @@ ads.betfair.com.au
 # ESPN Fantasy
 tracking.espn.com
 log.espn.com
+abtmetric.espn.go.com
 
 # PrizePicks
 analytics.prizepicks.com
