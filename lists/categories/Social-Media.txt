@@ -241,6 +241,7 @@ lf19-adsformat-sign.tiktokcdn.com
 p16-ad-sg.ibyteimg.com
 p16-ad.byteoversea.com
 p3-ad-sign.byteimg.com
+p3-ad-aweme.byteimg.com
 p3-flow-imagex-sign.byteimg.com
 p6-flow-imagex-sign.byteimg.com
 sf16-ads-format-sign.tiktokcdn.com
