@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 781
+# Total domains: 782
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -598,6 +598,7 @@
 0.0.0.0 rtlog31-normal.tiktokv.com
 0.0.0.0 rtlog32-normal-alisg.tiktokv.com
 0.0.0.0 rtlog32-normal-zr.tiktokv.com
+0.0.0.0 rtlog5-applog-hl.amemv.com
 0.0.0.0 rtlog5-applog-lf.amemv.com
 0.0.0.0 rtlog58-normal-alisg.tiktokv.com
 0.0.0.0 rtlog58-normal-useast1a.tiktokv.com
