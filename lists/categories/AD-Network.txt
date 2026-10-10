@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2149
-# Total platforms: 259
+# Total platforms: 278
 # Last update: 2026/10/05
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2847,3 +2847,82 @@ trakads.com
 # Adwoox Dijital Pazarlama Ajansı
 
 adwoox.com
+
+# Ads & Impact
+
+adsimpact.nl
+
+# Bappaads
+
+bappaads.com
+
+# AiPlex Ads
+
+aiplexads.com
+
+# AdExpress
+
+adexpressmarketing.com
+
+# AdNexus Marketing LLC
+
+adnexusmarketing.com
+
+# ByAds
+
+byads.co
+
+# EpikAds
+
+epikads.com
+xml-v4.epikads.com # malicious domain
+
+# agentsads.com
+
+agentsads.com
+
+# agenciats.com
+
+agenciats.com
+
+# agenciamads.com
+
+agenciamads.com
+
+# Adsconflux Co., Limited
+
+adsconflux.com
+
+# Vokut (Paynx)
+
+vokutads.com
+vokutads.xml
+vokutads.xs
+
+# TenX Ads
+
+tenxads.com
+
+# xmladsystem.com
+
+xml.xmladsystem.com # malicious
+
+# 50websads.com
+
+50websads.com
+
+# A D S MEDIA SRL
+
+adsmedia.ro
+
+# flow-ads.com
+
+flow-ads.com
+
+# flowads.net
+
+flowads.net
+
+# getflowads.net
+
+getflowads.net # adware/browser hijacking
