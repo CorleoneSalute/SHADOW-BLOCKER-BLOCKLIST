@@ -36,3 +36,5 @@ stats.jottacloud.com
 # KDRIVE / INFOMANIAK [Rev2]
 track.infomaniak.com
 analytics.infomaniak.com
+sentry-kchat.infomaniak.com
+sentry-ws.infomaniak.com
