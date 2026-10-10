@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9853
+# Total domains: 9855
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5859,6 +5859,7 @@ metrics.telemetry.data.nvidia.cn
 metrics.telemetry.data.nvidia.com
 metrics.teleport.nvidia.com
 metrics.theknot.com
+metrics.ticketmaster.de
 metrics.toluna.com
 metrics.trento.suse.com
 metrics.trillonario.com
@@ -7789,6 +7790,7 @@ smetrics.t-mobile.com
 smetrics.tab.com.au
 smetrics.teambeachbody.com
 smetrics.three.co.uk
+smetrics.ticketmaster.de
 smetrics.totalwine.com
 smetrics.ubi.com
 smetrics.us.playstation.com
