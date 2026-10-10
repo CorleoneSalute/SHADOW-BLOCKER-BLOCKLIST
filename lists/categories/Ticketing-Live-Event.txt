@@ -12,6 +12,8 @@ s.analytics10.ticketmaster.com
 analytics.ticketmaster.es
 analytics.ticketmaster.co.nz
 analytics.ticketmaster.ie
+smetrics.ticketmaster.de
+metrics.ticketmaster.de
 
 # Eventim
 analytics.eventim.com
