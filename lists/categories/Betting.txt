@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 270
-# Total platforms: 94
+# Total platforms: 96
 # Last update: 2026/10/10
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -466,3 +466,15 @@ fp.livescorebet.com
 logging.livescorebet.com
 fp.virginbet.com
 logging.virginbet.com
+
+# SortenaBet
+
+ad.sortenabet.bet.br
+ads.sortenabet.bet.br
+tracking.ib40151.mkt.sortenabet.bet.br
+tracking.ib65939.ads.sortenabet.bet.br
+tracking.sortenabet.bet.br
+
+# BetDasorte
+
+ads.betdasorte.bet.br
