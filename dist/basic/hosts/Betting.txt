@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 262
+# Total domains: 268
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,10 +10,12 @@
 0.0.0.0 1mgas-log.fhcasino.com
 0.0.0.0 abtmetric.espn.go.com
 0.0.0.0 ad.betou.bet.br
+0.0.0.0 ad.sortenabet.bet.br
 0.0.0.0 ad.srv.giantlottos.com
 0.0.0.0 ad.vera.bet.br
 0.0.0.0 adjust.stats.zynga.com
 0.0.0.0 ads.7k.bet.br
+0.0.0.0 ads.betdasorte.bet.br
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.betfair.com.au
 0.0.0.0 ads.betou.bet.br
@@ -22,6 +24,7 @@
 0.0.0.0 ads.oddschecker.com
 0.0.0.0 ads.pokerist.com
 0.0.0.0 ads.sisal.it
+0.0.0.0 ads.sortenabet.bet.br
 0.0.0.0 ads.suprnation.com
 0.0.0.0 ads.vera.bet.br
 0.0.0.0 ads.zynga.com
@@ -232,13 +235,16 @@
 0.0.0.0 tracking.espn.com
 0.0.0.0 tracking.fun88.com
 0.0.0.0 tracking.governorofpoker.com
+0.0.0.0 tracking.ib40151.mkt.sortenabet.bet.br
 0.0.0.0 tracking.ib56920.ads.betou.bet.br
+0.0.0.0 tracking.ib65939.ads.sortenabet.bet.br
 0.0.0.0 tracking.ib70914.betou.bet.br
 0.0.0.0 tracking.ib93107.mkt.betou.bet.br
 0.0.0.0 tracking.oddschecker.com
 0.0.0.0 tracking.orangegames.com
 0.0.0.0 tracking.punt.com
 0.0.0.0 tracking.setanta.bet
+0.0.0.0 tracking.sortenabet.bet.br
 0.0.0.0 tracking.sportsbet.com.au
 0.0.0.0 tracking.unibet.com
 0.0.0.0 tracking.youdagames.com

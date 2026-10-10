@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 270
+# Total domains: 276
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,10 +10,12 @@
 1mgas-log.fhcasino.com
 abtmetric.espn.go.com
 ad.betou.bet.br
+ad.sortenabet.bet.br
 ad.srv.giantlottos.com
 ad.vera.bet.br
 adjust.stats.zynga.com
 ads.7k.bet.br
+ads.betdasorte.bet.br
 ads.betfair.com
 ads.betfair.com.au
 ads.betou.bet.br
@@ -22,6 +24,7 @@ ads.mrgreen.com
 ads.oddschecker.com
 ads.pokerist.com
 ads.sisal.it
+ads.sortenabet.bet.br
 ads.suprnation.com
 ads.vera.bet.br
 ads.zynga.com
@@ -240,13 +243,16 @@ tracking.chanced.com
 tracking.espn.com
 tracking.fun88.com
 tracking.governorofpoker.com
+tracking.ib40151.mkt.sortenabet.bet.br
 tracking.ib56920.ads.betou.bet.br
+tracking.ib65939.ads.sortenabet.bet.br
 tracking.ib70914.betou.bet.br
 tracking.ib93107.mkt.betou.bet.br
 tracking.oddschecker.com
 tracking.orangegames.com
 tracking.punt.com
 tracking.setanta.bet
+tracking.sortenabet.bet.br
 tracking.sportsbet.com.au
 tracking.unibet.com
 tracking.youdagames.com

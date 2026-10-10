@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10339
+# Total domains: 10345
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -275,6 +275,7 @@
 0.0.0.0 ad.search.naver.com
 0.0.0.0 ad.sina.com.cn
 0.0.0.0 ad.smaato.net
+0.0.0.0 ad.sortenabet.bet.br
 0.0.0.0 ad.srv.giantlottos.com
 0.0.0.0 ad.streamsilk.com
 0.0.0.0 ad.thefacebook.com
@@ -528,6 +529,7 @@
 0.0.0.0 ads.babbel.com
 0.0.0.0 ads.baidu.com
 0.0.0.0 ads.beta.roku.com
+0.0.0.0 ads.betdasorte.bet.br
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.betfair.com.au
 0.0.0.0 ads.betou.bet.br
@@ -651,6 +653,7 @@
 0.0.0.0 ads.slidebean.com
 0.0.0.0 ads.snap.com
 0.0.0.0 ads.snapchat.com
+0.0.0.0 ads.sortenabet.bet.br
 0.0.0.0 ads.soundcloud.com
 0.0.0.0 ads.speedbit.com
 0.0.0.0 ads.spotify.com
@@ -9355,8 +9358,10 @@
 0.0.0.0 tracking.hertz.com
 0.0.0.0 tracking.honey.io
 0.0.0.0 tracking.hulu.com
+0.0.0.0 tracking.ib40151.mkt.sortenabet.bet.br
 0.0.0.0 tracking.ib56920.ads.betou.bet.br
 0.0.0.0 tracking.ib58193.marketing.picpay.com
+0.0.0.0 tracking.ib65939.ads.sortenabet.bet.br
 0.0.0.0 tracking.ib70914.betou.bet.br
 0.0.0.0 tracking.ib82990.comunicacao.picpay.com
 0.0.0.0 tracking.ib93107.mkt.betou.bet.br
@@ -9436,6 +9441,7 @@
 0.0.0.0 tracking.simplycodes.com
 0.0.0.0 tracking.smartbusiness.samsung.com
 0.0.0.0 tracking.sonymobile.com
+0.0.0.0 tracking.sortenabet.bet.br
 0.0.0.0 tracking.speedbit.com
 0.0.0.0 tracking.sportsbet.com.au
 0.0.0.0 tracking.stubhub.com

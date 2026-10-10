@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9874
+# Total domains: 9880
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -259,6 +259,7 @@
 ||ad.search.naver.com^
 ||ad.sina.com.cn^
 ||ad.smaato.net^
+||ad.sortenabet.bet.br^
 ||ad.srv.giantlottos.com^
 ||ad.streamsilk.com^
 ||ad.thefacebook.com^
@@ -505,6 +506,7 @@
 ||ads.babbel.com^
 ||ads.baidu.com^
 ||ads.beta.roku.com^
+||ads.betdasorte.bet.br^
 ||ads.betfair.com^
 ||ads.betfair.com.au^
 ||ads.betou.bet.br^
@@ -620,6 +622,7 @@
 ||ads.slidebean.com^
 ||ads.snap.com^
 ||ads.snapchat.com^
+||ads.sortenabet.bet.br^
 ||ads.soundcloud.com^
 ||ads.speedbit.com^
 ||ads.spotify.com^
@@ -8938,8 +8941,10 @@
 ||tracking.hertz.com^
 ||tracking.honey.io^
 ||tracking.hulu.com^
+||tracking.ib40151.mkt.sortenabet.bet.br^
 ||tracking.ib56920.ads.betou.bet.br^
 ||tracking.ib58193.marketing.picpay.com^
+||tracking.ib65939.ads.sortenabet.bet.br^
 ||tracking.ib70914.betou.bet.br^
 ||tracking.ib82990.comunicacao.picpay.com^
 ||tracking.ib93107.mkt.betou.bet.br^
@@ -9017,6 +9022,7 @@
 ||tracking.simplycodes.com^
 ||tracking.smartbusiness.samsung.com^
 ||tracking.sonymobile.com^
+||tracking.sortenabet.bet.br^
 ||tracking.speedbit.com^
 ||tracking.sportsbet.com.au^
 ||tracking.stubhub.com^
