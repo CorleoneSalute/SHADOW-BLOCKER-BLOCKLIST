@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10320
+# Total domains: 10339
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -33,6 +33,7 @@
 ||360yield.com^
 ||4cite.com^
 ||4dsply.com^
+||50websads.com^
 ||51degrees.com^
 ||54ad.com^
 ||7345023508.fxm9485766783.com^
@@ -337,6 +338,7 @@
 ||adeventtracker.spotify.com^
 ||adex2.fwmrm.net^
 ||adexp.net^
+||adexpressmarketing.com^
 ||adf.ly^
 ||adflores.com^
 ||adfootmedia.com^
@@ -408,6 +410,7 @@
 ||admon.acr.roku.com^
 ||admon.ca.acr.roku.com^
 ||admylink.com^
+||adnexusmarketing.com^
 ||adnow.com^
 ||adnow.one^
 ||adnxs-simple.com^
@@ -736,6 +739,7 @@
 ||adscms.mdn.sbz.apple.com^
 ||adscms.msc.sbz.apple.com^
 ||adsconfig.life360.com^
+||adsconflux.com^
 ||adsctv.com^
 ||adsdianying.baidu.com^
 ||adsdk.bing.net^
@@ -782,6 +786,7 @@
 ||adshub.de^
 ||adshub.dk^
 ||adshubmedia.com^
+||adsimpact.nl^
 ||adskeeper.co.uk^
 ||adskeeper.com^
 ||adskeeper.net^
@@ -793,6 +798,7 @@
 ||adsmartfromsky.co.uk^
 ||adsmartfromsky.ie^
 ||adsmeasurement.com^
+||adsmedia.ro^
 ||adsmetadata.startappservice.com^
 ||adsn.adtelligent.com^
 ||adsorb.io^
@@ -963,6 +969,9 @@
 ||affiliate.tiktok.com^
 ||affpaying.com^
 ||afftrk.findoctave.com^
+||agenciamads.com^
+||agenciats.com^
+||agentsads.com^
 ||agileurbia.com^
 ||ahagamecenter.com^
 ||ai-analytics.adyen.com^
@@ -979,6 +988,7 @@
 ||aicube.revx.io^
 ||aiinput.shouji.sogou.com^
 ||aios-otel-collector.g.apple.com^
+||aiplexads.com^
 ||airbrake.io^
 ||aiseesoft.com^
 ||aj101.xyz^
@@ -2531,6 +2541,7 @@
 ||banner-cdn.linksynergy.com^
 ||banner.criteo.com^
 ||banners.adultfriendfinder.com^
+||bappaads.com^
 ||bard-telemetry.google.com^
 ||bat.bing.com^
 ||batch.datax.yahoo.com^
@@ -2713,6 +2724,7 @@
 ||burn.link^
 ||by-info-lgsmartad-com.aws-prd.net^
 ||by-rdx2-lgtvsdp-com.aws-prd.net^
+||byads.co^
 ||bymetrika.yandex.com^
 ||bytedanceapi.com^
 ||byyd.me^
@@ -3975,6 +3987,7 @@
 ||enterprise-analytics.com^
 ||epcollect.kugou.com^
 ||epg-metrics.pluto.tv^
+||epikads.com^
 ||epmads.com^
 ||epoch-id.cdo.heytapmobi.com^
 ||epom.classtag.com^
@@ -4399,7 +4412,9 @@
 ||flirtads.net^
 ||flirtycougars.com^
 ||flirtymature.com^
+||flow-ads.com^
 ||flow.adform.net^
+||flowads.net^
 ||fls-eu.amazon-adsystem.com^
 ||fls-fe.amazon-adsystem.com^
 ||fls-na.amazon-adsystem.com^
@@ -8931,6 +8946,7 @@
 ||temai.snssdk.com^
 ||temp-ads.linkvertise.com^
 ||temu.work.ink^
+||tenxads.com^
 ||test-tips.shouji.sogou.com^
 ||test.ad.intl.xiaomi.com^
 ||test.ad.xiaomi.com^
@@ -9904,6 +9920,9 @@
 ||vl.ff.avast.com^
 ||vmetric.twitch.tv^
 ||vofzpwh.com^
+||vokutads.com^
+||vokutads.xml^
+||vokutads.xs^
 ||volcano.analytics.swiftkey.com^
 ||volvo.md-apis.medallia.com^
 ||voxnest.com^

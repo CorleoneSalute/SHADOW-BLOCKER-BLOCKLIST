@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9855
+# Total domains: 9874
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -30,6 +30,7 @@
 0.0.0.0 360yield.com
 0.0.0.0 4cite.com
 0.0.0.0 4dsply.com
+0.0.0.0 50websads.com
 0.0.0.0 54ad.com
 0.0.0.0 7345023508.fxm9485766783.com
 0.0.0.0 7345023508.fxmconnect.com
@@ -319,6 +320,7 @@
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adex2.fwmrm.net
 0.0.0.0 adexp.net
+0.0.0.0 adexpressmarketing.com
 0.0.0.0 adf.ly
 0.0.0.0 adflores.com
 0.0.0.0 adfootmedia.com
@@ -388,6 +390,7 @@
 0.0.0.0 admon-api.acr.roku.com
 0.0.0.0 admon.acr.roku.com
 0.0.0.0 admon.ca.acr.roku.com
+0.0.0.0 adnexusmarketing.com
 0.0.0.0 adnow.com
 0.0.0.0 adnow.one
 0.0.0.0 adnxs-simple.com
@@ -704,6 +707,7 @@
 0.0.0.0 adscms.mdn.sbz.apple.com
 0.0.0.0 adscms.msc.sbz.apple.com
 0.0.0.0 adsconfig.life360.com
+0.0.0.0 adsconflux.com
 0.0.0.0 adsdianying.baidu.com
 0.0.0.0 adsdk.bing.net
 0.0.0.0 adsdktest.apple.com
@@ -747,6 +751,7 @@
 0.0.0.0 adshub.de
 0.0.0.0 adshub.dk
 0.0.0.0 adshubmedia.com
+0.0.0.0 adsimpact.nl
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adskeeper.net
@@ -758,6 +763,7 @@
 0.0.0.0 adsmartfromsky.co.uk
 0.0.0.0 adsmartfromsky.ie
 0.0.0.0 adsmeasurement.com
+0.0.0.0 adsmedia.ro
 0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsn.adtelligent.com
 0.0.0.0 adsorb.io
@@ -924,6 +930,9 @@
 0.0.0.0 affiliate.tiktok.com
 0.0.0.0 affpaying.com
 0.0.0.0 afftrk.findoctave.com
+0.0.0.0 agenciamads.com
+0.0.0.0 agenciats.com
+0.0.0.0 agentsads.com
 0.0.0.0 agileurbia.com
 0.0.0.0 ai-analytics.adyen.com
 0.0.0.0 ai.adikteev.com
@@ -936,6 +945,7 @@
 0.0.0.0 aicube.revx.io
 0.0.0.0 aiinput.shouji.sogou.com
 0.0.0.0 aios-otel-collector.g.apple.com
+0.0.0.0 aiplexads.com
 0.0.0.0 airbrake.io
 0.0.0.0 aiseesoft.com
 0.0.0.0 aj101.xyz
@@ -2466,6 +2476,7 @@
 0.0.0.0 banner-cdn.linksynergy.com
 0.0.0.0 banner.criteo.com
 0.0.0.0 banners.adultfriendfinder.com
+0.0.0.0 bappaads.com
 0.0.0.0 bard-telemetry.google.com
 0.0.0.0 bat.bing.com
 0.0.0.0 batch.datax.yahoo.com
@@ -2634,6 +2645,7 @@
 0.0.0.0 build-metrics.getsol.us
 0.0.0.0 by-info-lgsmartad-com.aws-prd.net
 0.0.0.0 by-rdx2-lgtvsdp-com.aws-prd.net
+0.0.0.0 byads.co
 0.0.0.0 bymetrika.yandex.com
 0.0.0.0 bytedanceapi.com
 0.0.0.0 byyd.me
@@ -3835,6 +3847,7 @@
 0.0.0.0 enterprise-analytics.com
 0.0.0.0 epcollect.kugou.com
 0.0.0.0 epg-metrics.pluto.tv
+0.0.0.0 epikads.com
 0.0.0.0 epmads.com
 0.0.0.0 epoch-id.cdo.heytapmobi.com
 0.0.0.0 epom.classtag.com
@@ -4226,7 +4239,9 @@
 0.0.0.0 flirtads.net
 0.0.0.0 flirtycougars.com
 0.0.0.0 flirtymature.com
+0.0.0.0 flow-ads.com
 0.0.0.0 flow.adform.net
+0.0.0.0 flowads.net
 0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 fls-fe.amazon-adsystem.com
 0.0.0.0 fls-na.amazon-adsystem.com
@@ -8522,6 +8537,7 @@
 0.0.0.0 temai.snssdk.com
 0.0.0.0 temp-ads.linkvertise.com
 0.0.0.0 temu.work.ink
+0.0.0.0 tenxads.com
 0.0.0.0 test-tips.shouji.sogou.com
 0.0.0.0 test.ad.intl.xiaomi.com
 0.0.0.0 test.ad.xiaomi.com
@@ -9456,6 +9472,9 @@
 0.0.0.0 vitsoft.net
 0.0.0.0 vizio.adsmeasurement.com
 0.0.0.0 vofzpwh.com
+0.0.0.0 vokutads.com
+0.0.0.0 vokutads.xml
+0.0.0.0 vokutads.xs
 0.0.0.0 volcano.analytics.swiftkey.com
 0.0.0.0 volvo.md-apis.medallia.com
 0.0.0.0 vpaid.adikteev.com

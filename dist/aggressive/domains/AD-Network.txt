@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2149
+# Total domains: 2168
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -13,6 +13,7 @@
 360mads.com
 360yield.com
 4dsply.com
+50websads.com
 54ad.com
 a-ams-new.1rx.io
 a-iad3.1rx.io
@@ -93,6 +94,7 @@ adeeply.ru
 adelphic.com
 adex2.fwmrm.net
 adexp.net
+adexpressmarketing.com
 adflores.com
 adfootmedia.com
 adform.com
@@ -129,6 +131,7 @@ admob.biz
 admob.com
 admob.google.com
 admob.googleapis.com
+adnexusmarketing.com
 adnow.com
 adnow.one
 adnxs-simple.com
@@ -194,6 +197,7 @@ ads54.adtelligent.com
 adsailor.com
 adsbase.ltd
 adsboost.net
+adsconflux.com
 adsctv.com
 adserve.dianomi.com
 adserve.tv
@@ -213,6 +217,7 @@ adshostnet.com
 adshub.de
 adshub.dk
 adshubmedia.com
+adsimpact.nl
 adskeeper.co.uk
 adskeeper.com
 adskeeper.net
@@ -221,6 +226,7 @@ adsmart.com
 adsmart.com.tr
 adsmartfromsky.co.uk
 adsmartfromsky.ie
+adsmedia.ro
 adsmetadata.startappservice.com
 adsn.adtelligent.com
 adsorb.io
@@ -271,7 +277,11 @@ aerserv.com
 aes.us-east.3px.axp.amazon-adsystem.com
 aes.us-west.3px.axp.amazon-adsystem.com
 affpaying.com
+agenciamads.com
+agenciats.com
+agentsads.com
 aicube.revx.io
+aiplexads.com
 aj101.xyz
 aj1010.online
 aj102.xyz
@@ -559,6 +569,7 @@ b.us5.us.criteo.com
 backend.asia-northeast1gcp0.pubnative.net
 backend.pubnative.net
 balihoo.com
+bappaads.com
 batch.datax.yahoo.com
 bd.vungle.com
 beachfront.com
@@ -601,6 +612,7 @@ btl.sharethrough.com
 btloader.com
 btlr.sharethrough.com
 bttrack.com
+byads.co
 bytedanceapi.com
 byyd.me
 c.amazon-adsystem.com
@@ -921,6 +933,7 @@ emxdigital.com
 en.ipinyou.com
 en.yoyi.com.cn
 enduser.adsrvr.org
+epikads.com
 epmads.com
 epom.classtag.com
 epom.com
@@ -999,7 +1012,9 @@ fledge.eu.criteo.com
 fledge.us.criteo.com
 flirtads.com
 flirtads.net
+flow-ads.com
 flow.adform.net
+flowads.net
 fls-eu.amazon-adsystem.com
 fls-fe.amazon-adsystem.com
 fls-na.amazon-adsystem.com
@@ -1830,6 +1845,7 @@ telaria.com
 telemetry-gke-gw2.ssp.inmobi.com
 telemetry-gke-gw3.ssp.inmobi.com
 telemetry.applovin.com
+tenxads.com
 test.admixer.co.kr
 theadexp.com
 thecoolcompany.com
@@ -2035,6 +2051,9 @@ visit.plista.com
 visitor-waardex.omnitagjs.com
 visitor.omnitagjs.com
 vistarmedia.com
+vokutads.com
+vokutads.xml
+vokutads.xs
 vpdae.com
 vt.outbrain.com
 vungle-cdn.vungle.com
