@@ -1,6 +1,6 @@
 # ============================================================
 # CLOUD STORAGE BLOCKLIST - AGGRESSIVE
-# Total domains: 19
+# Total domains: 21
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -18,6 +18,8 @@
 ||marketing.dropbox.com^
 ||realtimeanalytics.yext.com^
 ||reqstat.api.mega.co.nz^
+||sentry-kchat.infomaniak.com^
+||sentry-ws.infomaniak.com^
 ||stats.jottacloud.com^
 ||stats.sfu.mega.co.nz^
 ||telemetry.dropbox.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9884
+# Total domains: 9886
 # Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7585,12 +7585,14 @@
 ||send.microad.jp^
 ||seniorfriendfinder.com^
 ||sense360.com^
+||sentry-kchat.infomaniak.com^
 ||sentry-metrics.tools.element.io^
 ||sentry-new.tidio.co^
 ||sentry-read.svc.overdrive.com^
 ||sentry-reporter.ente.io^
 ||sentry-th.line-apps.com^
 ||sentry-uit.line-apps.com^
+||sentry-ws.infomaniak.com^
 ||sentry.api.stronglifts.com^
 ||sentry.audacityteam.org^
 ||sentry.clickdealer.com^
