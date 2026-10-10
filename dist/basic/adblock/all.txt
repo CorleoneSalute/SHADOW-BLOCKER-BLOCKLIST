@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9852
-# Generated: 2026-10-07 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9853
+# Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -93,6 +93,7 @@
 ||abtest.mistat.intl.xiaomi.com^
 ||abtest.mistat.xiaomi.com^
 ||abtesting.roblox.com^
+||abtmetric.espn.go.com^
 ||acc-analytics.amd.com^
 ||acconpit.com^
 ||account.fortect.com^

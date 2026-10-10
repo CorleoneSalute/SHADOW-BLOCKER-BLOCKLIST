@@ -1,7 +1,7 @@
 # ============================================================
 # PODCAST HOSTING BLOCKLIST - BASIC
 # Total domains: 39
-# Generated: 2026-10-07 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
