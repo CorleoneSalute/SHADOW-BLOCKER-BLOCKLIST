@@ -375,6 +375,7 @@ rtlog58-normal-useast1a.tiktokv.com
 rtlog58-normal-useast2a.tiktokv.com
 rtlog58-normal-ycru.tiktokv.com
 rtlog58-normal.tiktokv.com
+rtlog5-applog-hl.amemv.com
 ```
 
 **tiktokv.com mon* (Monitoring)** (38 domain)
