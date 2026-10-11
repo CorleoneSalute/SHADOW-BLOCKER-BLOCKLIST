@@ -909,6 +909,7 @@ aka-ulog.kwai-pro.com
 k-ulog.kwai-pro.com
 ulog3-ru.kwai-pro.com
 ulogt3-ru.kwai-pro.com
+g-logsdk.kwai-pro.com
 v66-ad.ndcjl.com.v1.kwaiselfcdn.com
 p66-ad.adkwai.com.v1.kwaiselfcdn.com
 
