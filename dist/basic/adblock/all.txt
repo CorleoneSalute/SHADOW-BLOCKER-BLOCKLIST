@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9906
+# Total domains: 9908
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6538,6 +6538,7 @@
 ||p3a.brave.com^
 ||p3a.bravesoftware.com^
 ||p6-flow-imagex-sign.byteimg.com^
+||p66-ad.adkwai.com.v1.kwaiselfcdn.com^
 ||pa-trc.taboola.com^
 ||pa.yahoo.com^
 ||packages-metrics.getsol.us^
@@ -9384,6 +9385,7 @@
 ||v2.log.moji.com^
 ||v2.whapi.chartboost.com^
 ||v3.log.moji.com^
+||v66-ad.ndcjl.com.v1.kwaiselfcdn.com^
 ||v7.stats.avast.com^
 ||v7event.stats.avast.com^
 ||v9.stats.avast.com^
