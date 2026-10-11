@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9914
+# Total domains: 9915
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8257,6 +8257,7 @@ t-e.site
 t-id.ads.heytapmobile.com
 t-in.ads.heytapmobile.com
 t-odx.op-mobile.opera.com
+t-ulog.ga.kwai-pro.com
 t.acxiom-online.com
 t.ads.pof.com
 t.adx.opera.com

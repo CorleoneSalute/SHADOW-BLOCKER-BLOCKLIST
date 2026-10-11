@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10381
+# Total domains: 10382
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8660,6 +8660,7 @@
 0.0.0.0 t-odx.geo.op-mobile.opera.com
 0.0.0.0 t-odx.geo2.op-mobile.opera.com
 0.0.0.0 t-odx.op-mobile.opera.com
+0.0.0.0 t-ulog.ga.kwai-pro.com
 0.0.0.0 t.acxiom-online.com
 0.0.0.0 t.ads.pof.com
 0.0.0.0 t.adx.opera.com
