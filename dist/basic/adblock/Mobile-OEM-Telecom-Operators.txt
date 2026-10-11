@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1067
+# Total domains: 1068
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -385,6 +385,7 @@
 ||events-dre.op.dbankcloud.com^
 ||events-dre.op.hicloud.com^
 ||events.samsungads.com^
+||events.sp.vodafone.com^
 ||events01.huawei.com^
 ||events02.huawei.com^
 ||events03.huawei.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10376
+# Total domains: 10377
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4198,6 +4198,7 @@
 ||events.revcontent.com^
 ||events.samsungads.com^
 ||events.seedtag.com^
+||events.sp.vodafone.com^
 ||events.start.io^
 ||events.statsigapi.net^
 ||events.supersonicads.com^
