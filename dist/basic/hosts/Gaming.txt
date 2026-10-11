@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - BASIC
-# Total domains: 79
+# Total domains: 81
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -23,6 +23,7 @@
 0.0.0.0 analytics.roblox.com
 0.0.0.0 analytics.shadow.tech
 0.0.0.0 analytics.store-jp.nintendo.com
+0.0.0.0 analytics.xbox-interactive.com
 0.0.0.0 api.xlogs.nvidia.com
 0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 errorservice.metrics.ea.com
@@ -76,6 +77,7 @@
 0.0.0.0 tracking.api-web.shadow.tech
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.geforcenow.com
+0.0.0.0 tracking.xbox-interactive.com
 0.0.0.0 uspider.yuanshen.com
 0.0.0.0 web-play.faro.highscore.com
 0.0.0.0 web-play.otel.highscore.com

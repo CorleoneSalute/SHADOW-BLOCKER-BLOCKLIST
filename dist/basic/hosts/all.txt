@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9900
+# Total domains: 9902
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1861,6 +1861,7 @@
 0.0.0.0 analytics.www1-0.pad.squareup.com
 0.0.0.0 analytics.wysa.io
 0.0.0.0 analytics.x.com
+0.0.0.0 analytics.xbox-interactive.com
 0.0.0.0 analytics.xplayerapp.com
 0.0.0.0 analytics.yabla.com
 0.0.0.0 analytics.yahoo.com
@@ -9078,6 +9079,7 @@
 0.0.0.0 tracking.weddingwire.com
 0.0.0.0 tracking.wisepops.com
 0.0.0.0 tracking.www.linkedin-ei.com
+0.0.0.0 tracking.xbox-interactive.com
 0.0.0.0 tracking.youdagames.com
 0.0.0.0 tracking.zanfia.com
 0.0.0.0 tracking.zipcar.com
