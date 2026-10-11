@@ -904,6 +904,7 @@ api-access.pangolin-sdk-toutiao.com
 log-api.pangolin-sdk-toutiao.com
 open-api.pangleglobal.com
 partner.oceanengine.com
+log-api.oceanengine.com
 dm.bytedance.com
 dm.bytedance.net
 bytedanceapi.com
