@@ -271,6 +271,7 @@ ads-v-darwin.hulu.com
 ads-fa-darwin.hulu.com
 ad-analytics.hulu.com
 ad-beacon.hulu.com
+smetrics.help.hulu.com
 
 # --- ESPN+ ---
 espn.hb.omtrdc.net
