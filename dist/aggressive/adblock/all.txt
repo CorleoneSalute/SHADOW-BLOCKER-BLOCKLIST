@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10369
+# Total domains: 10370
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7990,6 +7990,7 @@
 ||sentry-th.line-apps.com^
 ||sentry-uit.line-apps.com^
 ||sentry-ws.infomaniak.com^
+||sentry.adelielinux.org^
 ||sentry.api.stronglifts.com^
 ||sentry.audacityteam.org^
 ||sentry.clickdealer.com^

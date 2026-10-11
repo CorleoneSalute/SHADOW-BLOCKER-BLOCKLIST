@@ -1,6 +1,6 @@
 # ============================================================
 # LINUX BLOCKLIST - BASIC
-# Total domains: 71
+# Total domains: 72
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -51,6 +51,7 @@
 ||retrace.fedoraproject.org^
 ||rpi-imager-stats.raspberrypi.com^
 ||security-tracker.debian.org^
+||sentry.adelielinux.org^
 ||sentry.system76.com^
 ||stats.elementary.io^
 ||stats.flathub.org^

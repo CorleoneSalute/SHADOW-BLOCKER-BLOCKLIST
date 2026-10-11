@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9903
+# Total domains: 9904
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7609,6 +7609,7 @@
 0.0.0.0 sentry-th.line-apps.com
 0.0.0.0 sentry-uit.line-apps.com
 0.0.0.0 sentry-ws.infomaniak.com
+0.0.0.0 sentry.adelielinux.org
 0.0.0.0 sentry.api.stronglifts.com
 0.0.0.0 sentry.audacityteam.org
 0.0.0.0 sentry.clickdealer.com

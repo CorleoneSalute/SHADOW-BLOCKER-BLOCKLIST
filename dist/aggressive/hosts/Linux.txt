@@ -1,6 +1,6 @@
 # ============================================================
 # LINUX BLOCKLIST - AGGRESSIVE
-# Total domains: 71
+# Total domains: 72
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -51,6 +51,7 @@
 0.0.0.0 retrace.fedoraproject.org
 0.0.0.0 rpi-imager-stats.raspberrypi.com
 0.0.0.0 security-tracker.debian.org
+0.0.0.0 sentry.adelielinux.org
 0.0.0.0 sentry.system76.com
 0.0.0.0 stats.elementary.io
 0.0.0.0 stats.flathub.org
