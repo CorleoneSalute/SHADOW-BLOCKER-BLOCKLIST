@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9899
+# Total domains: 9900
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -215,6 +215,7 @@
 ||ad.api.biligame.net^
 ||ad.apsalar.com^
 ||ad.baidu.com^
+||ad.betcity.ru^
 ||ad.betou.bet.br^
 ||ad.cdn.pandora.xiaomi.com^
 ||ad.click.g.doubleclick.net^

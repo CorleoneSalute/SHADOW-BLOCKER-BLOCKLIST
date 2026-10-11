@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 276
+# Total domains: 277
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9,6 +9,7 @@
 0.0.0.0 1fhc-event2.fhcasino.com
 0.0.0.0 1mgas-log.fhcasino.com
 0.0.0.0 abtmetric.espn.go.com
+0.0.0.0 ad.betcity.ru
 0.0.0.0 ad.betou.bet.br
 0.0.0.0 ad.sortenabet.bet.br
 0.0.0.0 ad.srv.giantlottos.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10364
+# Total domains: 10365
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -231,6 +231,7 @@
 0.0.0.0 ad.api.biligame.net
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.baidu.com
+0.0.0.0 ad.betcity.ru
 0.0.0.0 ad.betou.bet.br
 0.0.0.0 ad.cdn.pandora.xiaomi.com
 0.0.0.0 ad.click.g.doubleclick.net
