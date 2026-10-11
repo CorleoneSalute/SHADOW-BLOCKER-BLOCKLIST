@@ -67,6 +67,7 @@ pcstat.kugou.com !
 pcstatbak.kugou.com !
 webcollect.kugou.com
 webcollects.kugou.com
+adservice.kugou.com !
 
 # Gaana
 ads.gaana.com
