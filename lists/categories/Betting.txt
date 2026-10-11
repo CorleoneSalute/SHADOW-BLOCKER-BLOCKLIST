@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 276
-# Total platforms: 96
+# Total platforms: 97
 # Last update: 2026/10/10
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -478,3 +478,7 @@ tracking.sortenabet.bet.br
 # BetDasorte
 
 ads.betdasorte.bet.br
+
+# Betcity
+
+ad.betcity.ru
