@@ -1,6 +1,6 @@
 # ============================================================
 # MUSIC STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 60
+# Total domains: 61
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -16,6 +16,7 @@
 0.0.0.0 ads.spotify.com
 0.0.0.0 adserver.gslb.pandora.com
 0.0.0.0 adserver.pandora.com
+0.0.0.0 adservice.kugou.com
 0.0.0.0 adstudio.spotify.com
 0.0.0.0 advertising.pandora.com
 0.0.0.0 analytics.audius.co

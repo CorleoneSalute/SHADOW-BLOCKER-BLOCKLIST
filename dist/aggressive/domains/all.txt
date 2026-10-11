@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10374
+# Total domains: 10375
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -776,6 +776,7 @@ adserver2.reddit.com
 adserverhd.com
 adserverplugins.com
 adservers.com.br
+adservice.kugou.com
 adservices.google.com
 adservices.roku.com
 adserving-tmp.unibet.com
