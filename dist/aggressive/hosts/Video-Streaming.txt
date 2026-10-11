@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 430
+# Total domains: 432
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -39,6 +39,7 @@
 0.0.0.0 ads.fubo.tv
 0.0.0.0 ads.hbomax.com
 0.0.0.0 ads.hotstar.com
+0.0.0.0 ads.huan.tv
 0.0.0.0 ads.hulu.com
 0.0.0.0 ads.iqiyi.com
 0.0.0.0 ads.jwplayer.com
@@ -296,6 +297,7 @@
 0.0.0.0 metrics.youbora.com
 0.0.0.0 metrics.zee5.com
 0.0.0.0 monetization-tracking.youtube.com
+0.0.0.0 monitor-ads.huan.tv
 0.0.0.0 monitoring.youbora.com
 0.0.0.0 mt.ssai.peacocktv.com
 0.0.0.0 music-analytics.youtube.com

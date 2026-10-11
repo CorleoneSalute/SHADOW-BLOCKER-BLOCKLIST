@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9902
+# Total domains: 9903
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -561,6 +561,7 @@
 0.0.0.0 ads.heytapmobi.com
 0.0.0.0 ads.heytapmobile.com
 0.0.0.0 ads.hotstar.com
+0.0.0.0 ads.huan.tv
 0.0.0.0 ads.huawei.com
 0.0.0.0 ads.hulu.com
 0.0.0.0 ads.idwall.co

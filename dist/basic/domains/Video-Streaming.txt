@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 387
+# Total domains: 388
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -36,6 +36,7 @@ ads.espn.com
 ads.fubo.tv
 ads.hbomax.com
 ads.hotstar.com
+ads.huan.tv
 ads.hulu.com
 ads.jwplayer.com
 ads.paramountplus.com

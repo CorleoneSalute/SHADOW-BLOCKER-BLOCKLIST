@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10367
+# Total domains: 10369
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -587,6 +587,7 @@
 ||ads.heytapmobi.com^
 ||ads.heytapmobile.com^
 ||ads.hotstar.com^
+||ads.huan.tv^
 ||ads.huawei.com^
 ||ads.hulu.com^
 ||ads.idwall.co^
@@ -6369,6 +6370,7 @@
 ||monetization.adikteev.com^
 ||monetize.rollerads.com^
 ||moneysms.co^
+||monitor-ads.huan.tv^
 ||monitor-stsdk.vivoglobal.com^
 ||monitor.bob.lbry.tv^
 ||monitor.lbry.tv^
