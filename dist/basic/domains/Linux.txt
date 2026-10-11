@@ -1,6 +1,6 @@
 # ============================================================
 # LINUX BLOCKLIST - BASIC
-# Total domains: 72
+# Total domains: 74
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -31,6 +31,7 @@ faf.fedoraproject.org
 fedora-telemetry.org
 google-ua-analytics.raspberrypi.org
 iso-stats.cachyos.org
+logger.cloudlinux.com
 logging.archlinux.org
 logs.cachyos.org
 logs.gnu.org
@@ -52,6 +53,7 @@ retrace.fedoraproject.org
 rpi-imager-stats.raspberrypi.com
 security-tracker.debian.org
 sentry.adelielinux.org
+sentry.cloudlinux.com
 sentry.system76.com
 stats.elementary.io
 stats.flathub.org

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9904
+# Total domains: 9906
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5342,6 +5342,7 @@
 0.0.0.0 logbk.tiktokv.com
 0.0.0.0 logfiles.zoom.us
 0.0.0.0 logforward.browser.heytapmobi.com
+0.0.0.0 logger.cloudlinux.com
 0.0.0.0 logger.dailymotion.com
 0.0.0.0 logger.kameleoon.io
 0.0.0.0 logger.reddit.com
@@ -7613,6 +7614,7 @@
 0.0.0.0 sentry.api.stronglifts.com
 0.0.0.0 sentry.audacityteam.org
 0.0.0.0 sentry.clickdealer.com
+0.0.0.0 sentry.cloudlinux.com
 0.0.0.0 sentry.codeium.com
 0.0.0.0 sentry.elitehrv.com
 0.0.0.0 sentry.gitlab.net

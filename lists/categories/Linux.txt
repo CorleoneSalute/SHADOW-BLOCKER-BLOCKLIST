@@ -1,6 +1,6 @@
 # Linux Blocklist
 
-# Total domains: 72
+# Total domains: 74
 # Last update: 2026/10/11
 # Note: trailing "!" marks a domain as aggressive-only
 
