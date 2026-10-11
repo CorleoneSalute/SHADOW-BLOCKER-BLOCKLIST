@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10351
-# Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10364
+# Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -215,6 +215,7 @@
 0.0.0.0 ad-server02.streamguys1.com
 0.0.0.0 ad-srv.co
 0.0.0.0 ad-srv.net
+0.0.0.0 ad-sys.com
 0.0.0.0 ad-tag.inner-active.mobi
 0.0.0.0 ad-tech-windev.weather.com
 0.0.0.0 ad-trace.lenovomm.com
@@ -771,6 +772,7 @@
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adserver2.reddit.com
 0.0.0.0 adserverhd.com
+0.0.0.0 adserverplugins.com
 0.0.0.0 adservers.com.br
 0.0.0.0 adservices.google.com
 0.0.0.0 adservices.roku.com
@@ -2360,6 +2362,9 @@
 0.0.0.0 apptracker.gaana.com
 0.0.0.0 apsoutheast-match.deepintent.com
 0.0.0.0 apu.samsungelectronics.com
+0.0.0.0 aqua-adserver.com
+0.0.0.0 aquaplatform.com
+0.0.0.0 aquaplatform.net
 0.0.0.0 arc-metrics.corp.codeium.com
 0.0.0.0 arcade-analytics.apple.com
 0.0.0.0 argenteutilities.com
@@ -3755,6 +3760,9 @@
 0.0.0.0 dianomioffers.co.uk
 0.0.0.0 digdug-g2.logs.roku.com
 0.0.0.0 digdug.logs.roku.com
+0.0.0.0 digiad.in
+0.0.0.0 digiad.ir
+0.0.0.0 digiadsolution.com
 0.0.0.0 digital.medallia.com
 0.0.0.0 digitaladvertising.vodacom.co.za
 0.0.0.0 digitalenvoy.com
@@ -6253,6 +6261,7 @@
 0.0.0.0 mkt1.photobucket.com
 0.0.0.0 mkt2.photobucket.com
 0.0.0.0 mkt3.photobucket.com
+0.0.0.0 mktad.cn
 0.0.0.0 ml.adikteev.com
 0.0.0.0 ml.remerge.io
 0.0.0.0 mlflow.friendfinderinc.com
@@ -6662,6 +6671,7 @@
 0.0.0.0 obus-jssdk-us.heytapmobile.com
 0.0.0.0 obus-sg.dc.heytapmobile.com
 0.0.0.0 oclasrv.com
+0.0.0.0 ocpx.mktad.cn
 0.0.0.0 ocr.shouji.sogou.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 odin-signals.apple.com
@@ -7420,6 +7430,9 @@
 0.0.0.0 revenue.adikteev.com
 0.0.0.0 revenue.remerge.io
 0.0.0.0 revenuedesk.fyber.com
+0.0.0.0 revive-adserver.atlassian.net
+0.0.0.0 revive-adserver.com
+0.0.0.0 revive-adserver.net
 0.0.0.0 reviversoft.com
 0.0.0.0 revx.io
 0.0.0.0 reward4spot.com

@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10351
-# Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10364
+# Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -215,6 +215,7 @@
 ||ad-server02.streamguys1.com^
 ||ad-srv.co^
 ||ad-srv.net^
+||ad-sys.com^
 ||ad-tag.inner-active.mobi^
 ||ad-tech-windev.weather.com^
 ||ad-trace.lenovomm.com^
@@ -771,6 +772,7 @@
 ||adserver.unityads.unity3d.com^
 ||adserver2.reddit.com^
 ||adserverhd.com^
+||adserverplugins.com^
 ||adservers.com.br^
 ||adservices.google.com^
 ||adservices.roku.com^
@@ -2360,6 +2362,9 @@
 ||apptracker.gaana.com^
 ||apsoutheast-match.deepintent.com^
 ||apu.samsungelectronics.com^
+||aqua-adserver.com^
+||aquaplatform.com^
+||aquaplatform.net^
 ||arc-metrics.corp.codeium.com^
 ||arcade-analytics.apple.com^
 ||argenteutilities.com^
@@ -3755,6 +3760,9 @@
 ||dianomioffers.co.uk^
 ||digdug-g2.logs.roku.com^
 ||digdug.logs.roku.com^
+||digiad.in^
+||digiad.ir^
+||digiadsolution.com^
 ||digital.medallia.com^
 ||digitaladvertising.vodacom.co.za^
 ||digitalenvoy.com^
@@ -6253,6 +6261,7 @@
 ||mkt1.photobucket.com^
 ||mkt2.photobucket.com^
 ||mkt3.photobucket.com^
+||mktad.cn^
 ||ml.adikteev.com^
 ||ml.remerge.io^
 ||mlflow.friendfinderinc.com^
@@ -6662,6 +6671,7 @@
 ||obus-jssdk-us.heytapmobile.com^
 ||obus-sg.dc.heytapmobile.com^
 ||oclasrv.com^
+||ocpx.mktad.cn^
 ||ocr.shouji.sogou.com^
 ||odb.outbrain.com^
 ||odin-signals.apple.com^
@@ -7420,6 +7430,9 @@
 ||revenue.adikteev.com^
 ||revenue.remerge.io^
 ||revenuedesk.fyber.com^
+||revive-adserver.atlassian.net^
+||revive-adserver.com^
+||revive-adserver.net^
 ||reviversoft.com^
 ||revx.io^
 ||reward4spot.com^

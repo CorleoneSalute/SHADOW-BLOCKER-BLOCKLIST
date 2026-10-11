@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2158
-# Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2171
+# Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -57,6 +57,7 @@
 0.0.0.0 ad-saver.com
 0.0.0.0 ad-srv.co
 0.0.0.0 ad-srv.net
+0.0.0.0 ad-sys.com
 0.0.0.0 ad-tag.inner-active.mobi
 0.0.0.0 ad-track.jp
 0.0.0.0 ad-volt.com
@@ -204,6 +205,7 @@
 0.0.0.0 adserver-meta.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adserverhd.com
+0.0.0.0 adserverplugins.com
 0.0.0.0 adservers.com.br
 0.0.0.0 adservices.google.com
 0.0.0.0 adsfactor.net
@@ -524,6 +526,9 @@
 0.0.0.0 apps.hivestack.com
 0.0.0.0 appservestar.com
 0.0.0.0 apsoutheast-match.deepintent.com
+0.0.0.0 aqua-adserver.com
+0.0.0.0 aquaplatform.com
+0.0.0.0 aquaplatform.net
 0.0.0.0 array-bid.applovin.com
 0.0.0.0 artilleryads.com
 0.0.0.0 asia.adform.net
@@ -864,6 +869,9 @@
 0.0.0.0 dianomi.com
 0.0.0.0 dianomi.de
 0.0.0.0 dianomioffers.co.uk
+0.0.0.0 digiad.in
+0.0.0.0 digiad.ir
+0.0.0.0 digiadsolution.com
 0.0.0.0 direct.adsrvr.org
 0.0.0.0 directads-tool.ligatus.com
 0.0.0.0 dis-ssl.criteo.com
@@ -1277,6 +1285,7 @@
 0.0.0.0 microad.jp
 0.0.0.0 mintegral.com
 0.0.0.0 miskyc.tech
+0.0.0.0 mktad.cn
 0.0.0.0 mntn.com
 0.0.0.0 mobfox.com
 0.0.0.0 mobile-api.revcontent.com
@@ -1351,6 +1360,7 @@
 0.0.0.0 ob-retarget.com
 0.0.0.0 oblookup.com
 0.0.0.0 oclasrv.com
+0.0.0.0 ocpx.mktad.cn
 0.0.0.0 odb.outbrain.com
 0.0.0.0 offers.adhit.com
 0.0.0.0 offerwall.fyber.com
@@ -1544,6 +1554,9 @@
 0.0.0.0 revcontent.com
 0.0.0.0 revenuads.com
 0.0.0.0 revenuedesk.fyber.com
+0.0.0.0 revive-adserver.atlassian.net
+0.0.0.0 revive-adserver.com
+0.0.0.0 revive-adserver.net
 0.0.0.0 revx.io
 0.0.0.0 rfihub.com
 0.0.0.0 rfihub.net

@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2168
-# Generated: 2026-10-10 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2181
+# Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -57,6 +57,7 @@
 ||ad-saver.com^
 ||ad-srv.co^
 ||ad-srv.net^
+||ad-sys.com^
 ||ad-tag.inner-active.mobi^
 ||ad-track.jp^
 ||ad-volt.com^
@@ -205,6 +206,7 @@
 ||adserver-meta.com^
 ||adserver.unityads.unity3d.com^
 ||adserverhd.com^
+||adserverplugins.com^
 ||adservers.com.br^
 ||adservices.google.com^
 ||adsfactor.net^
@@ -526,6 +528,9 @@
 ||apps.hivestack.com^
 ||appservestar.com^
 ||apsoutheast-match.deepintent.com^
+||aqua-adserver.com^
+||aquaplatform.com^
+||aquaplatform.net^
 ||array-bid.applovin.com^
 ||artilleryads.com^
 ||asia.adform.net^
@@ -868,6 +873,9 @@
 ||dianomi.com^
 ||dianomi.de^
 ||dianomioffers.co.uk^
+||digiad.in^
+||digiad.ir^
+||digiadsolution.com^
 ||direct.adsrvr.org^
 ||directads-tool.ligatus.com^
 ||dis-ssl.criteo.com^
@@ -1283,6 +1291,7 @@
 ||microad.jp^
 ||mintegral.com^
 ||miskyc.tech^
+||mktad.cn^
 ||mntn.com^
 ||mobfox.com^
 ||mobile-api.revcontent.com^
@@ -1358,6 +1367,7 @@
 ||ob-retarget.com^
 ||oblookup.com^
 ||oclasrv.com^
+||ocpx.mktad.cn^
 ||odb.outbrain.com^
 ||offers.adhit.com^
 ||offerwall.fyber.com^
@@ -1551,6 +1561,9 @@
 ||revcontent.com^
 ||revenuads.com^
 ||revenuedesk.fyber.com^
+||revive-adserver.atlassian.net^
+||revive-adserver.com^
+||revive-adserver.net^
 ||revx.io^
 ||rfihub.com^
 ||rfihub.net^
