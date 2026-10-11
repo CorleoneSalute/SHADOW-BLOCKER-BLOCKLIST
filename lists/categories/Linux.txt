@@ -128,3 +128,8 @@ analytics.rockylinux.org
 # Adelie Linux
 
 sentry.adelielinux.org
+
+# Cloud Linux
+
+sentry.cloudlinux.com
+logger.cloudlinux.com
