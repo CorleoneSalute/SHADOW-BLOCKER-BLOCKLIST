@@ -9397,6 +9397,7 @@ chipcardice.com
 chipperisle.com
 chivalrouscord.com
 chloro.trip.com
+choicebump.com
 choose.adelaide.edu.au
 choose.nu.edu
 choymp.pooldawg.com
@@ -10429,9 +10430,10 @@ content22.citi.eu
 content22.citibank.com.au
 content22.citibank.com.sg
 content22.citibankonline.com
-content22.online.citi.com
 contentinsights.com
 contents.pwc.com
+contents1.00110.citi.com
+contents2.00110.citi.com
 contentsfeed.com
 contentspread.net
 contentsquare.net
@@ -10775,6 +10777,7 @@ crookedcreature.com
 crossees.com
 crossengage.io
 crosspixel.net
+crossseasent.com
 crosswalkmail.com
 crowdedmass.com
 crowdscience.com
@@ -11293,6 +11296,7 @@ dadispapi.gmarket.co.kr
 daegis.actonservice.com
 dafvng.sunrefre.jp
 daifez.thebay.com
+dailydesigned.com
 dailydivision.com
 dailydomino.com
 dajdnm.splits59.com
@@ -45274,6 +45278,7 @@ wdsvc.net
 wdukge.midwayusa.com
 we-love-privacy.humane.club
 we-stats.com
+we-stats.com.cdn.cloudflare.net
 we.care.oswegohealth.org
 we.kurly.com
 wealth.informabi.com
