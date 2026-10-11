@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 785
+# Total domains: 786
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -241,6 +241,7 @@
 0.0.0.0 lf16-adsformat-sign.tiktokcdn.com
 0.0.0.0 lf19-adsformat-sign.tiktokcdn.com
 0.0.0.0 live-video-log16-normal-alisg.tiktokv.com
+0.0.0.0 live-video-log16-normal-no1a.tiktokv.eu
 0.0.0.0 liverail.com
 0.0.0.0 lnkd.demdex.net
 0.0.0.0 location-i18n.tiktokv.com

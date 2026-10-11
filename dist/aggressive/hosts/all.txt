@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10378
+# Total domains: 10379
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5373,6 +5373,7 @@
 0.0.0.0 live-sports-analytics.hotstar.com
 0.0.0.0 live-streaming-metrics.amazon.com
 0.0.0.0 live-video-log16-normal-alisg.tiktokv.com
+0.0.0.0 live-video-log16-normal-no1a.tiktokv.eu
 0.0.0.0 live.chartboost.com
 0.0.0.0 live.demand.primis.tech
 0.0.0.0 live.primis.tech

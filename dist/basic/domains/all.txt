@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9911
+# Total domains: 9912
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5104,6 +5104,7 @@ live-metrics.peacocktv.com
 live-metrics.youtube.com
 live-streaming-metrics.amazon.com
 live-video-log16-normal-alisg.tiktokv.com
+live-video-log16-normal-no1a.tiktokv.eu
 live.chartboost.com
 live.demand.primis.tech
 live.primis.tech
