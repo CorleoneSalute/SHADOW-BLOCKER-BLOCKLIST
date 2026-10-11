@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 751
+# Total domains: 752
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -192,6 +192,7 @@
 0.0.0.0 fbthirdpartypixel.com
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 fwx.rtb.linkedin.com
+0.0.0.0 g-logsdk.kwai-pro.com
 0.0.0.0 gecko-pangle-sg.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
 0.0.0.0 gplog-va-useast2a.byteoversea.com

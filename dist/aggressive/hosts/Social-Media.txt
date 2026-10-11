@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 784
+# Total domains: 785
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -217,6 +217,7 @@
 0.0.0.0 frontier4-pp-lq.amemv.com
 0.0.0.0 frontier4-pp.amemv.com
 0.0.0.0 fwx.rtb.linkedin.com
+0.0.0.0 g-logsdk.kwai-pro.com
 0.0.0.0 gecko-pangle-sg.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
 0.0.0.0 gplog-va-useast2a.byteoversea.com

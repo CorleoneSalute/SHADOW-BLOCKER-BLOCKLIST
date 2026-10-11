@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10377
+# Total domains: 10378
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4537,6 +4537,7 @@
 ||fwtrack.ticketnetwork.com^
 ||fwx.rtb.linkedin.com^
 ||fyber.com^
+||g-logsdk.kwai-pro.com^
 ||g.baidu.com^
 ||g.bing.com^
 ||g.clarity.ms^
