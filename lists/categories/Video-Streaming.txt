@@ -411,11 +411,16 @@ amagi.tv
 
 # PPTV
 
-h5tracker5.pptv.COM
+h5tracker5.pptv.com
 h5tracker6.gslb.pptv.com
 h5tracker7.gslb.pptv.com
 ppad.gslb.pptv.com
 ads.aplus.pptv.com
+
+# Huan TV
+
+ads.huan.tv
+monitor-ads.huan.tv !
 
 # ============================================================
 # SPOR STREAMING
