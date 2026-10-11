@@ -50,6 +50,8 @@ beacons.xboxlive.com !
 beacons-origin.xboxlive.com ! # ⚠️ Online/offline status may degrade; may affect Xbox Live connectivity detection.
 telemetry.commerce.xboxlive.com
 xboxreporting.xboxlive.com
+tracking.xbox-interactive.com
+analytics.xbox-interactive.com
 
 # PLAYSTATION NETWORK
 telemetry-console.api.playstation.com
