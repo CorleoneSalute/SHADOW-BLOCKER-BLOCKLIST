@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2171
+# Total domains: 2172
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1241,6 +1241,7 @@ live.chartboost.com
 live.demand.primis.tech
 live.primis.tech
 live.sekindo.com
+log-api.oceanengine.com
 log-api.pangolin-sdk-toutiao.com
 log.outbrain.com
 log.quantserve.com

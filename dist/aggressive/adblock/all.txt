@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10379
+# Total domains: 10380
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5412,6 +5412,7 @@
 ||log-2.samsungacr.com^
 ||log-3.samsungacr.com^
 ||log-abroad.avlyun.sec.miui.com^
+||log-api.oceanengine.com^
 ||log-api.pangolin-sdk-toutiao.com^
 ||log-boot.tiktokv.com^
 ||log-collector.svctr.zynga.com^

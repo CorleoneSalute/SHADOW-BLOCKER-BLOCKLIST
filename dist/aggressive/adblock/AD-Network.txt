@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2181
+# Total domains: 2182
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1247,6 +1247,7 @@
 ||live.demand.primis.tech^
 ||live.primis.tech^
 ||live.sekindo.com^
+||log-api.oceanengine.com^
 ||log-api.pangolin-sdk-toutiao.com^
 ||log.outbrain.com^
 ||log.quantserve.com^

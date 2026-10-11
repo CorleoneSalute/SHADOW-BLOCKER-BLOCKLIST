@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9912
+# Total domains: 9913
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5143,6 +5143,7 @@ log-1.samsungacr.com
 log-2.samsungacr.com
 log-3.samsungacr.com
 log-abroad.avlyun.sec.miui.com
+log-api.oceanengine.com
 log-api.pangolin-sdk-toutiao.com
 log-boot.tiktokv.com
 log-collector.svctr.zynga.com
