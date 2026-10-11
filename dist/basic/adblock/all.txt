@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9908
+# Total domains: 9909
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3348,6 +3348,7 @@
 ||crash.nothing.tech^
 ||crash.oneplus.net^
 ||crash.opera.com^
+||crash.pcsafe.360safe.com^
 ||crash.shazam.com^
 ||crash.sonymobile.com^
 ||crash.soundhound.com^
