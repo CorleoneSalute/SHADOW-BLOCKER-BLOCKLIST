@@ -124,3 +124,7 @@ logs.cachyos.org
 
 # Rocky Linux
 analytics.rockylinux.org
+
+# Adelie Linux
+
+sentry.adelielinux.org
