@@ -88,6 +88,7 @@ sls-telemetry.sophosupd.com
 # 360 TOTAL SECURITY
 stat.360safe.com
 sysreset.stat.360safe.com
+crash.pcsafe.360safe.com
 click.stat.hao.360.cn
 easyad.360.cn
 jubaoads.360.cn
