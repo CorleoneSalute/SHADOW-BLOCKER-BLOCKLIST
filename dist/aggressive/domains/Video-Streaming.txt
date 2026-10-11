@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 432
+# Total domains: 433
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -360,6 +360,7 @@ sentry.justwatch.com
 sgtm.elofizetek.canalplus.com
 sgtm.nabidka.canalplus.com
 smartplugin.youbora.com
+smetrics.help.hulu.com
 sp.justwatch.com
 sports-analytics.paramountplus.com
 sports-analytics.peacocktv.com

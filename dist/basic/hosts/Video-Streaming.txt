@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 388
+# Total domains: 389
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -326,6 +326,7 @@
 0.0.0.0 sgtm.elofizetek.canalplus.com
 0.0.0.0 sgtm.nabidka.canalplus.com
 0.0.0.0 smartplugin.youbora.com
+0.0.0.0 smetrics.help.hulu.com
 0.0.0.0 sp.justwatch.com
 0.0.0.0 sports-analytics.paramountplus.com
 0.0.0.0 sports-analytics.peacocktv.com

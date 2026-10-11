@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9913
+# Total domains: 9914
 # Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7814,6 +7814,7 @@
 0.0.0.0 smetrics.engineeringvillage.com
 0.0.0.0 smetrics.enterprise.com
 0.0.0.0 smetrics.eu.playstation.com
+0.0.0.0 smetrics.help.hulu.com
 0.0.0.0 smetrics.lww.com
 0.0.0.0 smetrics.majestic.co.uk
 0.0.0.0 smetrics.medical.otsuka-us.com
