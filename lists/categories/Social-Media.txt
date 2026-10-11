@@ -530,6 +530,7 @@ mon16-normal-useastred.tiktokv.eu
 rtc-logger-ie.tiktokv.eu
 rtlog16-normal-no1a.tiktokv.eu
 rtlog16-normal-useastred.tiktokv.eu
+live-video-log16-normal-no1a.tiktokv.eu
 ```
 
 **tiktokv.us Telemetry** (12 domain)
