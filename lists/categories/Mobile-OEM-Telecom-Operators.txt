@@ -1279,6 +1279,7 @@ telemetry.vodafone.com
 tracking.vodafone.com
 tracking.vodafone.it
 trck.vodafone.com
+events.sp.vodafone.com
 ```
 
 ### Orange (12 domain)
