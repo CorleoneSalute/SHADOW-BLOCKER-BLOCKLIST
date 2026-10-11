@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2168
-# Total platforms: 278
+# Total platforms: 284
 # Last update: 2026/10/10
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2926,3 +2926,34 @@ flowads.net
 # getflowads.net
 
 getflowads.net # adware/browser hijacking
+
+# Ad-Sys Ltd.
+
+ad-sys.com
+
+# DigiAd (Atieh Parsis Kish Co.)
+
+digiad.ir
+
+# DigiAd Solution Pvt Ltd
+
+digiadsolution.com
+
+# DigiAd
+
+digiad.in
+
+# Aqua Platform
+
+aquaplatform.com
+aquaplatform.net
+aqua-adserver.com
+revive-adserver.com
+revive-adserver.net
+adserverplugins.com
+revive-adserver.atlassian.net
+
+# mktad.cn
+
+mktad.cn
+ocpx.mktad.cn
