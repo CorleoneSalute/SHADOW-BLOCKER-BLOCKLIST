@@ -53,6 +53,7 @@ rmmetrics.mcafee.com
 telemetry.mcafee.com
 stats.mcafee.com
 telemetry.mobile.api.mcafee.com
+metrics.mcafee.com
 
 # KASPERSKY
 stat.kaspersky.com
