@@ -49,6 +49,7 @@ xdcs-collector.ximalaya.com
 mobwsa.ximalaya.com
 adsehera.ximalaya.com
 adwbs.ximalaya.com
+xuid-tracking.ximalaya.com
 
 # PODCASTER.DE
 analytics.podcaster.de
