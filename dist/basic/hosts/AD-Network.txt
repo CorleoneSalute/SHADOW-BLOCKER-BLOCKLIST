@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2172
-# Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2180
+# Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -199,6 +199,7 @@
 0.0.0.0 adsbase.ltd
 0.0.0.0 adsboost.net
 0.0.0.0 adsconflux.com
+0.0.0.0 adsdomaintracking.com
 0.0.0.0 adserve.dianomi.com
 0.0.0.0 adserve.tv
 0.0.0.0 adserve.zone
@@ -257,6 +258,7 @@
 0.0.0.0 adtrck.online
 0.0.0.0 adtrck.org
 0.0.0.0 adtrck.pro
+0.0.0.0 adtryx.com
 0.0.0.0 adup-tech.com
 0.0.0.0 advertice.in
 0.0.0.0 advertise.quantcast.com
@@ -580,7 +582,9 @@
 0.0.0.0 beacon.revcontent.com
 0.0.0.0 beacon.sharethrough.com
 0.0.0.0 beacon.taboola.com
+0.0.0.0 beargrowthads.com.br
 0.0.0.0 beeswax.com
+0.0.0.0 beliads.com
 0.0.0.0 bengalads.com
 0.0.0.0 betteradz.com
 0.0.0.0 bfmio.com
@@ -1692,6 +1696,7 @@
 0.0.0.0 sharethrough.net
 0.0.0.0 sids.gumgum.com
 0.0.0.0 signals.sovrn.com
+0.0.0.0 simpleads.com.br
 0.0.0.0 simpli.fi
 0.0.0.0 sin3-ib.adnxs.com
 0.0.0.0 skyads.ott.skymedia.co.uk
@@ -1699,6 +1704,7 @@
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
 0.0.0.0 smadex.com
+0.0.0.0 smallads.com.br
 0.0.0.0 smart.admaven.com
 0.0.0.0 smartad-apac.bidder.taboola.com
 0.0.0.0 smartadserver.com
@@ -1968,6 +1974,8 @@
 0.0.0.0 unrulymedia.com
 0.0.0.0 update.3lift.com
 0.0.0.0 update.adsrvr.org
+0.0.0.0 upiads.com
+0.0.0.0 uppyads.com
 0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 us-east-eb2.3lift.com
 0.0.0.0 us-east-tlx.3lift.com

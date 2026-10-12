@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9915
-# Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9923
+# Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -717,6 +717,7 @@ adsconflux.com
 adsdianying.baidu.com
 adsdk.bing.net
 adsdktest.apple.com
+adsdomaintracking.com
 adseaimg.apusapps.com
 adsehera.ximalaya.com
 adserv.reddit.com
@@ -811,6 +812,7 @@ adtrck.net
 adtrck.online
 adtrck.org
 adtrck.pro
+adtryx.com
 adts.lgtvcommon.com
 adult.xyz
 adultfriendfinder.com
@@ -2528,7 +2530,9 @@ beacon.taboola.com
 beacon.web.roku.com
 beacons.hulu.com
 beaconsinspace.com
+beargrowthads.com.br
 beeswax.com
+beliads.com
 bemobtrcks.lalal.ai
 benaughty.com
 bengalads.com
@@ -7758,6 +7762,7 @@ signals.bizo.com
 signals.sovrn.com
 similarphotocleaner.com
 simizer.com
+simpleads.com.br
 simplediskoptimizer.com
 simplepcoptimizer.com
 simpli.fi
@@ -7784,6 +7789,7 @@ slutthour.com
 smaato.com
 smaato.net
 smadex.com
+smallads.com.br
 smart.admaven.com
 smartad-apac.bidder.taboola.com
 smartadserver.com
@@ -9277,8 +9283,10 @@ update.uniblue.com
 updatereviver.com
 updates.restoro.com
 upforit.com
+upiads.com
 uplevelrewards.com
 upload.uxcam.com
+uppyads.com
 upu.samsungelectronics.com
 urban-vpn.com
 urbanshield.com

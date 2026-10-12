@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2182
-# Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2190
+# Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -200,6 +200,7 @@
 ||adsboost.net^
 ||adsconflux.com^
 ||adsctv.com^
+||adsdomaintracking.com^
 ||adserve.dianomi.com^
 ||adserve.tv^
 ||adserve.zone^
@@ -258,6 +259,7 @@
 ||adtrck.online^
 ||adtrck.org^
 ||adtrck.pro^
+||adtryx.com^
 ||adup-tech.com^
 ||advertice.in^
 ||advertise.quantcast.com^
@@ -583,7 +585,9 @@
 ||beacon.revcontent.com^
 ||beacon.sharethrough.com^
 ||beacon.taboola.com^
+||beargrowthads.com.br^
 ||beeswax.com^
+||beliads.com^
 ||bengalads.com^
 ||betteradz.com^
 ||bfmio.com^
@@ -1699,6 +1703,7 @@
 ||sharethrough.net^
 ||sids.gumgum.com^
 ||signals.sovrn.com^
+||simpleads.com.br^
 ||simpli.fi^
 ||sin3-ib.adnxs.com^
 ||skyads.ott.skymedia.co.uk^
@@ -1706,6 +1711,7 @@
 ||smaato.com^
 ||smaato.net^
 ||smadex.com^
+||smallads.com.br^
 ||smart.admaven.com^
 ||smartad-apac.bidder.taboola.com^
 ||smartadserver.com^
@@ -1976,6 +1982,8 @@
 ||unrulymedia.com^
 ||update.3lift.com^
 ||update.adsrvr.org^
+||upiads.com^
+||uppyads.com^
 ||upstream.tv^
 ||urc.taboolasyndication.com^
 ||us-east-eb2.3lift.com^

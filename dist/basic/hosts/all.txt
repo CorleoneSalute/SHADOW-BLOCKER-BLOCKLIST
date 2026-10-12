@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9915
-# Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9923
+# Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -717,6 +717,7 @@
 0.0.0.0 adsdianying.baidu.com
 0.0.0.0 adsdk.bing.net
 0.0.0.0 adsdktest.apple.com
+0.0.0.0 adsdomaintracking.com
 0.0.0.0 adseaimg.apusapps.com
 0.0.0.0 adsehera.ximalaya.com
 0.0.0.0 adserv.reddit.com
@@ -811,6 +812,7 @@
 0.0.0.0 adtrck.online
 0.0.0.0 adtrck.org
 0.0.0.0 adtrck.pro
+0.0.0.0 adtryx.com
 0.0.0.0 adts.lgtvcommon.com
 0.0.0.0 adult.xyz
 0.0.0.0 adultfriendfinder.com
@@ -2528,7 +2530,9 @@
 0.0.0.0 beacon.web.roku.com
 0.0.0.0 beacons.hulu.com
 0.0.0.0 beaconsinspace.com
+0.0.0.0 beargrowthads.com.br
 0.0.0.0 beeswax.com
+0.0.0.0 beliads.com
 0.0.0.0 bemobtrcks.lalal.ai
 0.0.0.0 benaughty.com
 0.0.0.0 bengalads.com
@@ -7758,6 +7762,7 @@
 0.0.0.0 signals.sovrn.com
 0.0.0.0 similarphotocleaner.com
 0.0.0.0 simizer.com
+0.0.0.0 simpleads.com.br
 0.0.0.0 simplediskoptimizer.com
 0.0.0.0 simplepcoptimizer.com
 0.0.0.0 simpli.fi
@@ -7784,6 +7789,7 @@
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
 0.0.0.0 smadex.com
+0.0.0.0 smallads.com.br
 0.0.0.0 smart.admaven.com
 0.0.0.0 smartad-apac.bidder.taboola.com
 0.0.0.0 smartadserver.com
@@ -9277,8 +9283,10 @@
 0.0.0.0 updatereviver.com
 0.0.0.0 updates.restoro.com
 0.0.0.0 upforit.com
+0.0.0.0 upiads.com
 0.0.0.0 uplevelrewards.com
 0.0.0.0 upload.uxcam.com
+0.0.0.0 uppyads.com
 0.0.0.0 upu.samsungelectronics.com
 0.0.0.0 urban-vpn.com
 0.0.0.0 urbanshield.com

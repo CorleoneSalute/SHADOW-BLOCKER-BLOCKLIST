@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10382
-# Generated: 2026-10-11 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10390
+# Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -750,6 +750,7 @@ adsctv.com
 adsdianying.baidu.com
 adsdk.bing.net
 adsdktest.apple.com
+adsdomaintracking.com
 adse.ximalaya.com
 adseaimg.apusapps.com
 adsehera.ximalaya.com
@@ -849,6 +850,7 @@ adtrck.net
 adtrck.online
 adtrck.org
 adtrck.pro
+adtryx.com
 adts.lgtvcommon.com
 adult.xyz
 adultfriendfinder.com
@@ -2599,7 +2601,9 @@ beaconapi.helpscout.net
 beacons.hulu.com
 beacons.xboxlive.com
 beaconsinspace.com
+beargrowthads.com.br
 beeswax.com
+beliads.com
 bemobtrcks.lalal.ai
 benaughty.com
 bengalads.com
@@ -8147,6 +8151,7 @@ signals.sovrn.com
 signifyd.com
 similarphotocleaner.com
 simizer.com
+simpleads.com.br
 simplediskoptimizer.com
 simplepcoptimizer.com
 simpli.fi
@@ -8173,6 +8178,7 @@ slutthour.com
 smaato.com
 smaato.net
 smadex.com
+smallads.com.br
 smart.admaven.com
 smartad-apac.bidder.taboola.com
 smartadserver.com
@@ -9702,8 +9708,10 @@ update.uniblue.com
 updatereviver.com
 updates.restoro.com
 upforit.com
+upiads.com
 uplevelrewards.com
 upload.uxcam.com
+uppyads.com
 upstream.tv
 upu.samsungelectronics.com
 urban-vpn.com
