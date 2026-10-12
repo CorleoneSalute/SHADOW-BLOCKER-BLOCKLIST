@@ -448,6 +448,7 @@ metrics.crave.ca
 analytics.globoplay.globo.com
 metrics.globo.com
 live-cm-ad-08-39.video.globo.com
+live-cm-ad-08-18.video.globo.com
 analytics.clarovideo.com
 metrics.clarovideo.com
 analytics.blim.com
