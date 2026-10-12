@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10395
+# Total domains: 10396
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10305,6 +10305,7 @@
 0.0.0.0 xscmzs.tenki.jp
 0.0.0.0 xss.tw
 0.0.0.0 xtracker.polymarket.com
+0.0.0.0 xuid-tracking.ximalaya.com
 0.0.0.0 xurl.es
 0.0.0.0 xy.fbcdn.net
 0.0.0.0 xz.fbcdn.net

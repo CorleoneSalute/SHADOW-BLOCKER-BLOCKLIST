@@ -1,6 +1,6 @@
 # ============================================================
 # PODCAST HOSTING BLOCKLIST - BASIC
-# Total domains: 39
+# Total domains: 40
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -44,3 +44,4 @@ tracking.podigee.com
 tracking.redcircle.com
 tracking.swap.fm
 xdcs-collector.ximalaya.com
+xuid-tracking.ximalaya.com

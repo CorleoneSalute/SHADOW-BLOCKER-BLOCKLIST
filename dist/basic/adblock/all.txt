@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9928
+# Total domains: 9929
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9842,6 +9842,7 @@
 ||xscmzs.tenki.jp^
 ||xss.tw^
 ||xtracker.polymarket.com^
+||xuid-tracking.ximalaya.com^
 ||xurl.es^
 ||xy.fbcdn.net^
 ||xz.fbcdn.net^

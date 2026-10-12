@@ -1,6 +1,6 @@
 # ============================================================
 # PODCAST HOSTING BLOCKLIST - AGGRESSIVE
-# Total domains: 59
+# Total domains: 60
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -64,3 +64,4 @@
 ||www.audiohook.com^
 ||www.voxnest.com^
 ||xdcs-collector.ximalaya.com^
+||xuid-tracking.ximalaya.com^
