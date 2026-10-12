@@ -1,6 +1,6 @@
 # ============================================================
 # SMARTWATCH WEARABLES BLOCKLIST - BASIC
-# Total domains: 26
+# Total domains: 27
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -31,3 +31,4 @@ telemetry.fitbit.com
 telemetry.polar.com
 tracker.polar.com
 trk.gonoise.com
+web-analytics.huami.com

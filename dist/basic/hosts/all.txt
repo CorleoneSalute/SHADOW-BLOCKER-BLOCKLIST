@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9927
+# Total domains: 9928
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9560,6 +9560,7 @@
 0.0.0.0 weather-analytics-events.news.apple.com
 0.0.0.0 weather-analytics.apple.com
 0.0.0.0 weather-beacon.com
+0.0.0.0 web-analytics.huami.com
 0.0.0.0 web-analytics.lastpass.com
 0.0.0.0 web-analytics.openaire.eu
 0.0.0.0 web-mon-useast2a.byteoversea.com

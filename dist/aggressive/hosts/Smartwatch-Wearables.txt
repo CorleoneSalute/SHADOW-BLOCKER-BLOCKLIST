@@ -1,6 +1,6 @@
 # ============================================================
 # SMARTWATCH WEARABLES BLOCKLIST - AGGRESSIVE
-# Total domains: 26
+# Total domains: 27
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -31,3 +31,4 @@
 0.0.0.0 telemetry.polar.com
 0.0.0.0 tracker.polar.com
 0.0.0.0 trk.gonoise.com
+0.0.0.0 web-analytics.huami.com
