@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9924
+# Total domains: 9925
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5103,6 +5103,7 @@
 0.0.0.0 linkshare.com
 0.0.0.0 litix.mux.com
 0.0.0.0 littlefield.logs.roku.com
+0.0.0.0 live-cm-ad-08-18.video.globo.com
 0.0.0.0 live-cm-ad-08-39.video.globo.com
 0.0.0.0 live-metrics.paramountplus.com
 0.0.0.0 live-metrics.peacocktv.com

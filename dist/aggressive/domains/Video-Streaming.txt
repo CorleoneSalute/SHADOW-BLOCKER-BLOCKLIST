@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 433
+# Total domains: 434
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -233,6 +233,7 @@ lightning.adultswim.com
 litix.mux.com
 live-analytics.bilibili.com
 live-analytics.hulu.com
+live-cm-ad-08-18.video.globo.com
 live-cm-ad-08-39.video.globo.com
 live-metrics.hulu.com
 live-metrics.paramountplus.com

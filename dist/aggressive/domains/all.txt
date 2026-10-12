@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10391
+# Total domains: 10392
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5370,6 +5370,7 @@ litix.mux.com
 littlefield.logs.roku.com
 live-analytics.bilibili.com
 live-analytics.hulu.com
+live-cm-ad-08-18.video.globo.com
 live-cm-ad-08-39.video.globo.com
 live-metrics.hulu.com
 live-metrics.paramountplus.com
