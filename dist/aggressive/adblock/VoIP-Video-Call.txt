@@ -1,6 +1,6 @@
 # ============================================================
 # VOIP VIDEO CALL BLOCKLIST - AGGRESSIVE
-# Total domains: 32
+# Total domains: 40
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -17,10 +17,16 @@
 ||analytics.ringcentral.eu^
 ||analytics.webex.com^
 ||analytics.zoom.us^
+||au.telemetry.zoomconnector.com^
 ||auth.callstats.io^
+||ca.telemetry.zoomconnector.com^
 ||callstats.io^
 ||client-logs-r.wbx2.com^
 ||collector.callstats.io^
+||dogfood.telemetry.zoomconnector.com^
+||eu.telemetry.zoomconnector.com^
+||go.telemetry.zoomconnector.com^
+||in.telemetry.zoomconnector.com^
 ||log-gateway.zoom.us^
 ||log-internal-gateway.zoom.us^
 ||log-net.zoom.us^
@@ -37,3 +43,5 @@
 ||metrics-sbg.o.webex.com^
 ||ringcentral.112.2o7.net^
 ||telemetry.zoom.us^
+||telemetry.zoomconnector.com^
+||us.telemetry.zoomconnector.com^

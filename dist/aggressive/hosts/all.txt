@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10398
+# Total domains: 10406
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2461,6 +2461,7 @@
 0.0.0.0 au-info-lgsmartad-com.aws-prd.net
 0.0.0.0 au-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 au.ff.avast.sec.miui.com
+0.0.0.0 au.telemetry.zoomconnector.com
 0.0.0.0 auction-load.unityads.unity3d.com
 0.0.0.0 auction.bidmachine.io
 0.0.0.0 auction.unityads.unity3d.com
@@ -2824,6 +2825,7 @@
 0.0.0.0 ca-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 ca-service.acr.roku.com
 0.0.0.0 ca.iadsdk.apple.com
+0.0.0.0 ca.telemetry.zoomconnector.com
 0.0.0.0 caa-analytics.topcashback.com
 0.0.0.0 cadent.com
 0.0.0.0 cadent.tv
@@ -3840,6 +3842,7 @@
 0.0.0.0 docs.brightdata.com
 0.0.0.0 docs.telemetry.mozilla.org
 0.0.0.0 documentary-analytics.curiositystream.com
+0.0.0.0 dogfood.telemetry.zoomconnector.com
 0.0.0.0 dollphoin.site
 0.0.0.0 dotcom-preview.tags.elsevier.com
 0.0.0.0 dotcom.tags.elsevier.com
@@ -4087,6 +4090,7 @@
 0.0.0.0 eu.mar.medallia.com
 0.0.0.0 eu.mouseflow.com
 0.0.0.0 eu.smartlook.cloud
+0.0.0.0 eu.telemetry.zoomconnector.com
 0.0.0.0 eu.uxcam.com
 0.0.0.0 eu7-info-lgsmartad-com.aws-prd.net
 0.0.0.0 euc-onenote-telemetry.officeapps.live.com
@@ -4655,6 +4659,7 @@
 0.0.0.0 go.oclasrv.com
 0.0.0.0 go.samsungads.com
 0.0.0.0 go.sonobi.com
+0.0.0.0 go.telemetry.zoomconnector.com
 0.0.0.0 go2.samsungads.com
 0.0.0.0 goacoustic.com
 0.0.0.0 goappdl.goforandroid.com
@@ -5069,6 +5074,7 @@
 0.0.0.0 in-vpushonrt-stsdk.vivoglobal.com
 0.0.0.0 in-vpushort-stsdk.vivoglobal.com
 0.0.0.0 in.analytics.glance.inmobi.com
+0.0.0.0 in.telemetry.zoomconnector.com
 0.0.0.0 inad.trafficguard.ai
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 inboxdollars.com
@@ -8988,6 +8994,7 @@
 0.0.0.0 telemetry.zoho.com
 0.0.0.0 telemetry.zombodroid.com
 0.0.0.0 telemetry.zoom.us
+0.0.0.0 telemetry.zoomconnector.com
 0.0.0.0 telemetry.zorinos.com
 0.0.0.0 telemetry.zte.com.cn
 0.0.0.0 telemetrydata.intel.com
@@ -9771,6 +9778,7 @@
 0.0.0.0 us.rdx2.lgtvsdp.com
 0.0.0.0 us.recommend.lgtvcommon.com
 0.0.0.0 us.smartlook.cloud
+0.0.0.0 us.telemetry.zoomconnector.com
 0.0.0.0 us.tracker.parrot.sh
 0.0.0.0 us.uxcam.com
 0.0.0.0 us01.rayjump.com

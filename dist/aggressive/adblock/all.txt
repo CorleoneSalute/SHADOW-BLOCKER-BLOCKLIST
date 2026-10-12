@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10398
+# Total domains: 10406
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2461,6 +2461,7 @@
 ||au-info-lgsmartad-com.aws-prd.net^
 ||au-rdx2-lgtvsdp-com.aws-prd.net^
 ||au.ff.avast.sec.miui.com^
+||au.telemetry.zoomconnector.com^
 ||auction-load.unityads.unity3d.com^
 ||auction.bidmachine.io^
 ||auction.unityads.unity3d.com^
@@ -2824,6 +2825,7 @@
 ||ca-rdx2-lgtvsdp-com.aws-prd.net^
 ||ca-service.acr.roku.com^
 ||ca.iadsdk.apple.com^
+||ca.telemetry.zoomconnector.com^
 ||caa-analytics.topcashback.com^
 ||cadent.com^
 ||cadent.tv^
@@ -3840,6 +3842,7 @@
 ||docs.brightdata.com^
 ||docs.telemetry.mozilla.org^
 ||documentary-analytics.curiositystream.com^
+||dogfood.telemetry.zoomconnector.com^
 ||dollphoin.site^
 ||dotcom-preview.tags.elsevier.com^
 ||dotcom.tags.elsevier.com^
@@ -4087,6 +4090,7 @@
 ||eu.mar.medallia.com^
 ||eu.mouseflow.com^
 ||eu.smartlook.cloud^
+||eu.telemetry.zoomconnector.com^
 ||eu.uxcam.com^
 ||eu7-info-lgsmartad-com.aws-prd.net^
 ||euc-onenote-telemetry.officeapps.live.com^
@@ -4655,6 +4659,7 @@
 ||go.oclasrv.com^
 ||go.samsungads.com^
 ||go.sonobi.com^
+||go.telemetry.zoomconnector.com^
 ||go2.samsungads.com^
 ||goacoustic.com^
 ||goappdl.goforandroid.com^
@@ -5069,6 +5074,7 @@
 ||in-vpushonrt-stsdk.vivoglobal.com^
 ||in-vpushort-stsdk.vivoglobal.com^
 ||in.analytics.glance.inmobi.com^
+||in.telemetry.zoomconnector.com^
 ||inad.trafficguard.ai^
 ||inapps.appsflyer.com^
 ||inboxdollars.com^
@@ -8988,6 +8994,7 @@
 ||telemetry.zoho.com^
 ||telemetry.zombodroid.com^
 ||telemetry.zoom.us^
+||telemetry.zoomconnector.com^
 ||telemetry.zorinos.com^
 ||telemetry.zte.com.cn^
 ||telemetrydata.intel.com^
@@ -9771,6 +9778,7 @@
 ||us.rdx2.lgtvsdp.com^
 ||us.recommend.lgtvcommon.com^
 ||us.smartlook.cloud^
+||us.telemetry.zoomconnector.com^
 ||us.tracker.parrot.sh^
 ||us.uxcam.com^
 ||us01.rayjump.com^
