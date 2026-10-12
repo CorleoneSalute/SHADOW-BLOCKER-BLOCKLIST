@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2182
-# Total platforms: 284
+# Total platforms: 292
 # Last update: 2026/10/11
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2958,3 +2958,35 @@ revive-adserver.atlassian.net
 
 mktad.cn
 ocpx.mktad.cn
+
+# adsdomaintracking.com
+
+adsdomaintracking.com
+
+# SmallAds
+
+smallads.com.br
+
+# SimpleAds
+
+simpleads.com.br
+
+# adtryx.com
+
+adtryx.com
+
+# Agência Bear (Agencia Bear Marketing Educacional LTDA)
+
+beargrowthads.com.br
+
+# Beliads Tech Limited
+
+beliads.com
+
+# uppyads.com
+
+uppyads.com
+
+# UPIADS
+
+upiads.com
