@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10397
+# Total domains: 10398
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6093,6 +6093,7 @@
 0.0.0.0 metrics.matchgroup.com
 0.0.0.0 metrics.max.com
 0.0.0.0 metrics.maya.live
+0.0.0.0 metrics.mcafee.com
 0.0.0.0 metrics.media-amazon.com
 0.0.0.0 metrics.megawinslots.com
 0.0.0.0 metrics.meitu.com

@@ -1,7 +1,7 @@
 # Antivirus Software Blocklist
 
-# Total domains: 72
-# Last update: 2026/10/11
+# Total domains: 73
+# Last update: 2026/10/12
 # Note: trailing "!" marks a domain as aggressive-only
 
 # AVAST

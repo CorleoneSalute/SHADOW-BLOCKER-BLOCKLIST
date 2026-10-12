@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9930
+# Total domains: 9931
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5821,6 +5821,7 @@ metrics.manjaro.org
 metrics.matchgroup.com
 metrics.max.com
 metrics.maya.live
+metrics.mcafee.com
 metrics.media-amazon.com
 metrics.megawinslots.com
 metrics.meitu.com
