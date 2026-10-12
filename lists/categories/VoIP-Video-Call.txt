@@ -19,6 +19,14 @@ log.zoom.us
 logfiles.zoom.us
 02.sa.telemetry.zoom.us
 01.sa.telemetry.zoom.us
+telemetry.zoomconnector.com
+us.telemetry.zoomconnector.com
+in.telemetry.zoomconnector.com
+go.telemetry.zoomconnector.com
+eu.telemetry.zoomconnector.com
+dogfood.telemetry.zoomconnector.com
+ca.telemetry.zoomconnector.com
+au.telemetry.zoomconnector.com
 
 # WEBEX
 analytics.webex.com
