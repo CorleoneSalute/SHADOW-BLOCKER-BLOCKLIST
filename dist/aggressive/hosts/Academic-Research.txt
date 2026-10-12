@@ -1,6 +1,6 @@
 # ============================================================
 # ACADEMIC RESEARCH BLOCKLIST - AGGRESSIVE
-# Total domains: 71
+# Total domains: 72
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -41,6 +41,7 @@
 0.0.0.0 logger.scite.ai
 0.0.0.0 looker.digital-science.com
 0.0.0.0 metrics-api.openalex.org
+0.0.0.0 metrics.engineeringvillage.com
 0.0.0.0 metrics.sci-hub.tw
 0.0.0.0 metrics.unpaywall.org
 0.0.0.0 mit.metrics.unpaywall.org

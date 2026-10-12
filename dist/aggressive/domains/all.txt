@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10396
+# Total domains: 10397
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6035,6 +6035,7 @@ metrics.dt.hicloud.com
 metrics.dt.hihonorcloud.com
 metrics.duolingo.com
 metrics.ea.com
+metrics.engineeringvillage.com
 metrics.espn.com
 metrics.eu.platform.idnow.io
 metrics.evernote.com

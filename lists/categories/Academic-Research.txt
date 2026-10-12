@@ -1,7 +1,7 @@
 # Academic Research Blocklist
 
-# Total domains: 71
-# Last update: 2026/09/08
+# Total domains: 72
+# Last update: 2026/10/12
 # Note: trailing "!" marks a domain as aggressive-only
 
 # ELSEVIER

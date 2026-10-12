@@ -1,6 +1,6 @@
 # ============================================================
 # ACADEMIC RESEARCH BLOCKLIST - BASIC
-# Total domains: 66
+# Total domains: 67
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -38,6 +38,7 @@ logger.sciencedirect.com
 logger.scite.ai
 looker.digital-science.com
 metrics-api.openalex.org
+metrics.engineeringvillage.com
 metrics.sci-hub.tw
 metrics.unpaywall.org
 mit.metrics.unpaywall.org
