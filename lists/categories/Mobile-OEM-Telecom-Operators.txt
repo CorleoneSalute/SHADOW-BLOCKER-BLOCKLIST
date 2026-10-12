@@ -1297,6 +1297,7 @@ tracking.es.orange.com
 trk.orange.be
 trk.orange.com
 trk.www.orange.com
+beacon.orange.com
 ```
 
 ### O2 (2 domain)
