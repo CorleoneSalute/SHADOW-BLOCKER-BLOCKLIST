@@ -1,6 +1,6 @@
 # ============================================================
 # MUSIC STREAMING BLOCKLIST - BASIC
-# Total domains: 53
+# Total domains: 54
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -47,6 +47,7 @@
 0.0.0.0 pixels.spotify.com
 0.0.0.0 px.pandora.com
 0.0.0.0 reports.tunein.com
+0.0.0.0 sentry.kugou.com
 0.0.0.0 smetrics.pandora.com
 0.0.0.0 smetrics.siriusxm.com
 0.0.0.0 stats.pandora.com

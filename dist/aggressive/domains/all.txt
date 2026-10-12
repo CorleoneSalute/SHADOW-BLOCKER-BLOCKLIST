@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10392
+# Total domains: 10393
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8019,6 +8019,7 @@ sentry.io
 sentry.io.steinberg.net
 sentry.justwatch.com
 sentry.klippa.com
+sentry.kugou.com
 sentry.lastpass.com
 sentry.matrix.org
 sentry.minddoc.com
