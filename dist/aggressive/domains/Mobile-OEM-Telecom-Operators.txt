@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1118
+# Total domains: 1119
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -215,6 +215,7 @@ bdapi-in.ads.heytapmobile.com
 bdapi-in.ads.oppomobile.com
 bdapi.ads.heytapmobi.com
 bdapi.ads.oppomobile.com
+beacon.orange.com
 bigdata.samsung.com.cn
 bigdata.ssp.samsung.com
 bjdata-ads.realmemobile.com

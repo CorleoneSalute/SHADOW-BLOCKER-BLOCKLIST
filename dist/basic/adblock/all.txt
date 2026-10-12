@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9923
+# Total domains: 9924
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2518,6 +2518,7 @@
 ||beacon.fantasysports.yahoo.com^
 ||beacon.netflix.com^
 ||beacon.ntv.io^
+||beacon.orange.com^
 ||beacon.pluto.tv^
 ||beacon.retargeter.com^
 ||beacon.revcontent.com^
