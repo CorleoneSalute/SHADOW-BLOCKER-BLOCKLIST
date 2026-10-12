@@ -21,6 +21,7 @@ smetrics.sciencedirect.com
 emetrics.engineeringvillage.com
 smetrics.reaxys.com
 smetrics.engineeringvillage.com
+metrics.engineeringvillage.com
 
 # SPRINGER NATURE
 collect.springer.com
