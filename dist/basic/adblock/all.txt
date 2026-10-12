@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9926
+# Total domains: 9927
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7663,6 +7663,7 @@
 ||sentry2-client.cos.io^
 ||sentry2.cos.io^
 ||sentry2.sync.me^
+||sentry2.whale.naver.com^
 ||sentry3.cos.io^
 ||senzapudore.it^
 ||serv431.com^

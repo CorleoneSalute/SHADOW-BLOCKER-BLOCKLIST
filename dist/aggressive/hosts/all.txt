@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10393
+# Total domains: 10394
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8045,6 +8045,7 @@
 0.0.0.0 sentry2-client.cos.io
 0.0.0.0 sentry2.cos.io
 0.0.0.0 sentry2.sync.me
+0.0.0.0 sentry2.whale.naver.com
 0.0.0.0 sentry3.cos.io
 0.0.0.0 senzapudore.it
 0.0.0.0 seon.io

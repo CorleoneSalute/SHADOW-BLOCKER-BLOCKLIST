@@ -1,6 +1,6 @@
 # ============================================================
 # NAVIGATION MAPPING BLOCKLIST - BASIC
-# Total domains: 46
+# Total domains: 47
 # Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -42,6 +42,7 @@
 0.0.0.0 localad.naver.com
 0.0.0.0 rt-clientstats-il.waze.com
 0.0.0.0 searchad.naver.com
+0.0.0.0 sentry2.whale.naver.com
 0.0.0.0 stat.maps.me
 0.0.0.0 stats.waze.com
 0.0.0.0 sygic.api.infinario.com
