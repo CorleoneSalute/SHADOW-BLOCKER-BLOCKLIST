@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10406
-# Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10407
+# Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -5811,6 +5811,7 @@
 ||marketing.flo.health^
 ||marketing.outbrain.com^
 ||marketing.services.apple^
+||marketplace-analytics.canonical.com^
 ||marlin.logs.roku.com^
 ||match.360yield.com^
 ||match.adsquare.com^

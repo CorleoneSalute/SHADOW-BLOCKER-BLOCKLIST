@@ -1,7 +1,7 @@
 # ============================================================
 # LINUX BLOCKLIST - AGGRESSIVE
-# Total domains: 74
-# Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
+# Total domains: 75
+# Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -36,6 +36,7 @@
 0.0.0.0 logs.cachyos.org
 0.0.0.0 logs.gnu.org
 0.0.0.0 logs.guix.gnu.org
+0.0.0.0 marketplace-analytics.canonical.com
 0.0.0.0 metrics-api.manjaro.org
 0.0.0.0 metrics.altlinux.org
 0.0.0.0 metrics.gnome.org

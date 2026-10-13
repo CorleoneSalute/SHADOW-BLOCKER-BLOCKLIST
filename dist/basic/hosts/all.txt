@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 9939
-# Generated: 2026-10-12 (UTC) - auto-generated, do not edit by hand
+# Total domains: 9940
+# Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -5539,6 +5539,7 @@
 0.0.0.0 marketing.flo.health
 0.0.0.0 marketing.outbrain.com
 0.0.0.0 marketing.services.apple
+0.0.0.0 marketplace-analytics.canonical.com
 0.0.0.0 marlin.logs.roku.com
 0.0.0.0 match.360yield.com
 0.0.0.0 match.adsquare.com

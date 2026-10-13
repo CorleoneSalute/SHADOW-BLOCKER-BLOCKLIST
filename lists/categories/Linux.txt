@@ -1,7 +1,7 @@
 # Linux Blocklist
 
-# Total domains: 74
-# Last update: 2026/10/11
+# Total domains: 75
+# Last update: 2026/10/13
 # Note: trailing "!" marks a domain as aggressive-only
 
 # Analytics & Telemetry — Ubuntu / Canonical
