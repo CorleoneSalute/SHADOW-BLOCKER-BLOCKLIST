@@ -48,6 +48,7 @@ ringcentral.112.2o7.net
 # 8X8
 analytics.8x8.com
 analytics-portal.8x8.com
+analytics-fe-np01-iad.8x8.com
 
 # DIALPAD
 analytics.dialpad.com
