@@ -1,12 +1,13 @@
 # ============================================================
 # VOIP VIDEO CALL BLOCKLIST - AGGRESSIVE
-# Total domains: 40
+# Total domains: 41
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 ||01.sa.telemetry.zoom.us^
 ||02.sa.telemetry.zoom.us^
+||analytics-fe-np01-iad.8x8.com^
 ||analytics-portal.8x8.com^
 ||analytics.8x8.com^
 ||analytics.dialpad.com^

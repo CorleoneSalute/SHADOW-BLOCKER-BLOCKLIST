@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10038
+# Total domains: 10039
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1159,6 +1159,7 @@
 ||analytics-exp-sg.tiktok.com^
 ||analytics-exp-ttp2.tiktokw.eu^
 ||analytics-exp.us.tiktok.com^
+||analytics-fe-np01-iad.8x8.com^
 ||analytics-i18n.tiktok.com^
 ||analytics-ie.tiktokw.eu^
 ||analytics-ingress-apac.bitmovin.com^

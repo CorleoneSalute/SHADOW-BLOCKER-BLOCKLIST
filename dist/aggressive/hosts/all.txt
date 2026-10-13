@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10506
+# Total domains: 10507
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1205,6 +1205,7 @@
 0.0.0.0 analytics-exp-sg.tiktok.com
 0.0.0.0 analytics-exp-ttp2.tiktokw.eu
 0.0.0.0 analytics-exp.us.tiktok.com
+0.0.0.0 analytics-fe-np01-iad.8x8.com
 0.0.0.0 analytics-i18n.tiktok.com
 0.0.0.0 analytics-ie.tiktokw.eu
 0.0.0.0 analytics-ingress-apac.bitmovin.com
