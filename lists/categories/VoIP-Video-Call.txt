@@ -35,6 +35,7 @@ metrics-r.wbx2.com
 metrics-k.wbx2.com
 metrics-d.wbx2.com
 metrics-sbg.o.webex.com
+logs.o.webex.com
 client-logs-r.wbx2.com
 
 # RINGCENTRAL
