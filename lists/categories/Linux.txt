@@ -12,6 +12,7 @@ popcon.ubuntu.com
 telemetry-service.ubuntu.com
 telemetry.ubuntu.com
 ubuntu-report.canonical.com
+marketplace-analytics.canonical.com
 
 # Snap Telemetry
 analytics.snapcraft.io
