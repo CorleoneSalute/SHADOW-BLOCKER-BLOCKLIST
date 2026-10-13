@@ -1,6 +1,6 @@
 # VoIP & VIDEO CALL BLOCKLIST
 
-# Total domains: 42
+# Total domains: 43
 # Last update: 2026/10/13
 # Note: trailing "!" marks a domain as aggressive-only
 

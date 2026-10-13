@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10508
+# Total domains: 10509
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6017,6 +6017,7 @@
 0.0.0.0 metrics-ic4.icloud.com.cn
 0.0.0.0 metrics-icperf.icloud.com
 0.0.0.0 metrics-k.wbx2.com
+0.0.0.0 metrics-m.wbx2.com
 0.0.0.0 metrics-mtls.icloud.com
 0.0.0.0 metrics-old.drift.trade
 0.0.0.0 metrics-pcc-drcn.dt.hihonorcloud.com.host
