@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10505
+# Total domains: 10506
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2419,6 +2419,7 @@ asia.adform.net
 asia.adikteev.com
 asiafriendfinder.com
 asianbeautygirl.com
+asiandating.com
 asianhotlips.com
 asianmatchmate.com
 ask.hotjar.com

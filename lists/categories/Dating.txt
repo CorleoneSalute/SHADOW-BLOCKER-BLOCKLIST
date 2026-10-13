@@ -1,6 +1,6 @@
 # DATING APPS BLOCKLIST 
-# Total domains: 200
-# Last update: 2026/10/07
+# Total domains: 201
+# Last update: 2026/10/13
 # Note: trailing "!" marks a domain as aggressive-only
 
 # Together Networks # ⚠️ scam,automic billing,bot accounts

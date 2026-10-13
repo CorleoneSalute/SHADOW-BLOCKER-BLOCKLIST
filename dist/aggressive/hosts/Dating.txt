@@ -1,6 +1,6 @@
 # ============================================================
 # DATING BLOCKLIST - AGGRESSIVE
-# Total domains: 200
+# Total domains: 201
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -28,6 +28,7 @@
 0.0.0.0 api.friendfinderinc.com
 0.0.0.0 asiafriendfinder.com
 0.0.0.0 asianbeautygirl.com
+0.0.0.0 asiandating.com
 0.0.0.0 asianhotlips.com
 0.0.0.0 asianmatchmate.com
 0.0.0.0 askme4date.com

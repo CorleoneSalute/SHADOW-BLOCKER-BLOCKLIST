@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10037
+# Total domains: 10038
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2362,6 +2362,7 @@
 0.0.0.0 asia.adikteev.com
 0.0.0.0 asiafriendfinder.com
 0.0.0.0 asianbeautygirl.com
+0.0.0.0 asiandating.com
 0.0.0.0 asianhotlips.com
 0.0.0.0 asianmatchmate.com
 0.0.0.0 ask.hotjar.com
