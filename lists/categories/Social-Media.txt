@@ -244,6 +244,7 @@ p3-ad-sign.byteimg.com
 p3-ad-aweme.byteimg.com
 p3-flow-imagex-sign.byteimg.com
 p6-flow-imagex-sign.byteimg.com
+p16-ad-sg.tiktokcdn.com
 sf16-ads-format-sign.tiktokcdn.com
 sf19-ads-format-sign.tiktokcdn.com
 url4077.ads-service.tiktok.com
