@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 754
+# Total domains: 755
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -476,6 +476,7 @@
 0.0.0.0 otel.atmeta.com
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 p16-ad-sg.ibyteimg.com
+0.0.0.0 p16-ad-sg.tiktokcdn.com
 0.0.0.0 p16-ad.byteoversea.com
 0.0.0.0 p3-ad-aweme.byteimg.com
 0.0.0.0 p3-ad-sign.byteimg.com

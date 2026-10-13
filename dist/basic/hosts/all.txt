@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10041
+# Total domains: 10042
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6607,6 +6607,7 @@
 0.0.0.0 p1.zemanta.com
 0.0.0.0 p13nlog.optimizely.com
 0.0.0.0 p16-ad-sg.ibyteimg.com
+0.0.0.0 p16-ad-sg.tiktokcdn.com
 0.0.0.0 p16-ad.byteoversea.com
 0.0.0.0 p2a-json.brave.com
 0.0.0.0 p2a.brave.com
