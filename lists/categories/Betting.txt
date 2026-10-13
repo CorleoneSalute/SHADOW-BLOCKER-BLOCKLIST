@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 277
-# Total platforms: 97
+# Total platforms: 98
 # Last update: 2026/10/11
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -482,3 +482,8 @@ ads.betdasorte.bet.br
 # Betcity
 
 ad.betcity.ru
+
+# 5BET (3-102-938336 SRL)
+
+metrics.5bet.com
+track.vip.5bet.com
