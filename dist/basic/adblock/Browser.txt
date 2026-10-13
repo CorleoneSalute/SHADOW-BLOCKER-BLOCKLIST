@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 329
+# Total domains: 330
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -74,6 +74,7 @@
 ||an.yandex.ru^
 ||analysis-output.telemetry.mozilla.org^
 ||analytics.brave.com^
+||analytics.brave.software^
 ||analytics.help.yahoo.com^
 ||analytics.query.yahoo.com^
 ||analytics.yahoo.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 355
+# Total domains: 357
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -76,6 +76,7 @@ an.yandex.com
 an.yandex.ru
 analysis-output.telemetry.mozilla.org
 analytics.brave.com
+analytics.brave.software
 analytics.help.yahoo.com
 analytics.query.yahoo.com
 analytics.yahoo.com
@@ -350,6 +351,7 @@ ucstat.baidu.com
 union.baidu.com
 update.ping.android.shouji.sogou.com
 usage-ping.brave.com
+usage-ping.brave.software
 usage-ping.bravesoftware.com
 userloc.location.yahoo.com
 wkctj.baidu.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10501
+# Total domains: 10503
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1326,6 +1326,7 @@
 0.0.0.0 analytics.brain.fm
 0.0.0.0 analytics.branch.io
 0.0.0.0 analytics.brave.com
+0.0.0.0 analytics.brave.software
 0.0.0.0 analytics.britbox.com
 0.0.0.0 analytics.bsplayer.com
 0.0.0.0 analytics.bumble.com
@@ -9876,6 +9877,7 @@
 0.0.0.0 usage-eu-fy2021.myhomescreen.tv
 0.0.0.0 usage-eu-fy2022.myhomescreen.tv
 0.0.0.0 usage-ping.brave.com
+0.0.0.0 usage-ping.brave.software
 0.0.0.0 usage-ping.bravesoftware.com
 0.0.0.0 usage-reports-api.zenvia.com
 0.0.0.0 usage-us-fy2014.myhomescreen.tv
