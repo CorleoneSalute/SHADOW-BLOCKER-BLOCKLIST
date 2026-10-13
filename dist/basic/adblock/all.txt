@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10039
+# Total domains: 10040
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5469,6 +5469,7 @@
 ||logs.ironsrc.mobi^
 ||logs.n.xiaomi.com^
 ||logs.netflix.com^
+||logs.o.webex.com^
 ||logs.olark.com^
 ||logs.reddit.com^
 ||logs.replaypoker.com^
