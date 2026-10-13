@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 277
+# Total domains: 279
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -161,6 +161,7 @@ mcp.analytics.gnosis.io
 metric.luckyslots.net
 metric.megawinslots.com
 metrics-old.drift.trade
+metrics.5bet.com
 metrics.betinasia.com
 metrics.draftkings.com
 metrics.drift.trade
@@ -239,6 +240,7 @@ track.lottery.com
 track.mayhem.cbssports.com
 track.plotx.io
 track.poker.zynga.com
+track.vip.5bet.com
 tracker.williamhill.com
 tracking.chanced.com
 tracking.espn.com

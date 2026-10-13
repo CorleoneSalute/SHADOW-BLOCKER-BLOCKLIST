@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10035
+# Total domains: 10037
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5756,6 +5756,7 @@ metrics-test-drcn.dt.hihonorcloud.com
 metrics-tracking.revolut.com
 metrics-v2.datadome.co
 metrics.1password.com
+metrics.5bet.com
 metrics.abema.tv
 metrics.ableton.com
 metrics.add.app
@@ -8959,6 +8960,7 @@ track.trafficguard.ai
 track.u.send.microad.jp
 track.underarmour.com
 track.vanceai.com
+track.vip.5bet.com
 track.webgains.com
 track.winegifts.wine.com
 track.womanlog.com

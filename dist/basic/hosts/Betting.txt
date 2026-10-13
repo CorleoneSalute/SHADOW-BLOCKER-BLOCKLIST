@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 269
+# Total domains: 271
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -160,6 +160,7 @@
 0.0.0.0 metric.luckyslots.net
 0.0.0.0 metric.megawinslots.com
 0.0.0.0 metrics-old.drift.trade
+0.0.0.0 metrics.5bet.com
 0.0.0.0 metrics.betinasia.com
 0.0.0.0 metrics.draftkings.com
 0.0.0.0 metrics.drift.trade
@@ -231,6 +232,7 @@
 0.0.0.0 track.mayhem.cbssports.com
 0.0.0.0 track.plotx.io
 0.0.0.0 track.poker.zynga.com
+0.0.0.0 track.vip.5bet.com
 0.0.0.0 tracker.williamhill.com
 0.0.0.0 tracking.chanced.com
 0.0.0.0 tracking.espn.com

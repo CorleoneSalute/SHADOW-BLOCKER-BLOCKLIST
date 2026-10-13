@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10503
+# Total domains: 10505
 # Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6028,6 +6028,7 @@
 0.0.0.0 metrics-tracking.revolut.com
 0.0.0.0 metrics-v2.datadome.co
 0.0.0.0 metrics.1password.com
+0.0.0.0 metrics.5bet.com
 0.0.0.0 metrics.abema.tv
 0.0.0.0 metrics.ableton.com
 0.0.0.0 metrics.add.app
@@ -9377,6 +9378,7 @@
 0.0.0.0 track.u.send.microad.jp
 0.0.0.0 track.underarmour.com
 0.0.0.0 track.vanceai.com
+0.0.0.0 track.vip.5bet.com
 0.0.0.0 track.webgains.com
 0.0.0.0 track.winegifts.wine.com
 0.0.0.0 track.womanlog.com
