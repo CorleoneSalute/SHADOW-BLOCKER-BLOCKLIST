@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2190
-# Total platforms: 292
+# Total platforms: 297
 # Last update: 2026/10/12
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -2990,3 +2990,115 @@ uppyads.com
 # UPIADS
 
 upiads.com
+
+# Adconnect Sp. z o.o. sp.k.
+
+adconnect.pl
+urlmetryka.pl
+
+# adlytics GmbH
+
+adlytics.de
+adlytics.net
+
+# adlytics.online
+
+adlytics.online
+
+# Adlytics Media
+
+adlyticsmedia.com
+
+# RTB domains
+
+adpatrof.com
+adrokt.com
+adswad.com
+advservert.com
+artaunt.com
+askwithads.com
+cantilpe.com
+cicloserv.com
+clifads.com
+disploot.com
+dotmerger.com
+emmtree.com
+fantarts.com
+fantoly.com
+flashnetic.com
+flipool.com
+flowkir.com
+futadyou.com
+guandads.com
+hedinos.com
+hintfly.com
+hitbip.com
+husfly.com
+impruads.com
+kloperd.com
+laikwer.com
+lambdasrv.com
+landiek.com
+lasthashsol.com
+likervertising.com
+linkdatnet.com
+looplik.com
+loxitdat.com
+maltsalty.com
+mediawoot.com
+nerloop.com
+nichools.com
+oholamad.com
+olayomad.com
+oskiwood.com
+pisterper.com
+ploxtar.com
+powferads.com
+randiul.com
+redcarpat.com
+reinderk.com
+reingod.com
+rendfy.com
+runwaff.com
+sandelf.com
+sandflos.com
+santils.com
+sholke.com
+sinmufar.com
+slashis.com
+thinktot.com
+treewaves.com
+vuwepseo.com
+watwait.com
+windaloop.com
+windsplay.com
+wishjus.com
+wudisplay.com
+yetislook.com
+yuppieads.com
+amicfu.com
+andhrajyothy.com
+compitfast.com
+detik.com
+intelaxa.com
+irondeux.com
+lapatilla.com
+motornk.com
+reindaks.com
+slinkway.com
+sopalk.com
+sportekz.com
+static.drf.com
+sumilet.com
+synsads.com
+theroswaf.com
+topbetfast.com
+tophitbit.com
+voominem.com
+whileem.com
+yadloop.com
+
+# Chance Advertising (畅思广告)
+
+cocounion.com
+chance-ad.com
