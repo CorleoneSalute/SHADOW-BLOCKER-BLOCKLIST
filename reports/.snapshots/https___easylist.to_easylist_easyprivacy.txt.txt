@@ -10023,6 +10023,7 @@ commercial-analytics-collector.news.co.uk
 commercial.davey.com
 commercial.equifax.com
 commercial.inform.equifax.com
+commitlogs.com
 commondreams.actonservice.com
 comms.adss.com
 comms.bps.org.uk
@@ -12788,6 +12789,7 @@ doppler-beacon.cbsivideo.com
 doppler-client-events.cbsivideo.com
 doppler-config.cbsivideo.com
 doppler-reporting.cbsivideo.com
+dorsalapp.com
 dot.wp.pl
 dotaki.com
 dotaudiences.com
@@ -12927,6 +12929,7 @@ dtzrrz.green-japan.com
 du4rq1xqh3i1k.cloudfront.net
 dualping.com
 duckdns.org
+duetcode.com
 dujgiq.trendhim.pl
 dumpster.cam4.com
 dup.baidustatic.com
