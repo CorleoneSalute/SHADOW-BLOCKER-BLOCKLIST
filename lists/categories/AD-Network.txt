@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2284
-# Total platforms: 297
+# Total platforms: 302
 # Last update: 2026/10/13
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3102,3 +3102,25 @@ yadloop.com
 
 cocounion.com
 chance-ad.com
+
+# Adsfly
+
+adsfly.app
+
+# AdVoxel
+
+advoxel.com
+
+# Hakuhodo DY ONE Inc.
+
+impact-ad.jp
+
+# Kelltan Ads LLC
+
+kelltanadsltd.com
+kelltanads.bid
+
+# ADFLY (ADFLY Vietnam)
+
+adfly.vn
+adfly.tech
