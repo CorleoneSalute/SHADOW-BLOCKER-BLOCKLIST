@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 279
+# Total domains: 280
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -195,6 +195,7 @@ scopely.io
 sentry.predict.fun
 sgtm.7k.bet.br
 sgtm.cassino.bet.br
+sgtm.pokerstars.de
 sgtm.vera.bet.br
 smetrics.blackjack.com
 smetrics.casino.org

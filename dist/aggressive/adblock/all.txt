@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10529
+# Total domains: 10530
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8213,6 +8213,7 @@
 ||sgtm.elofizetek.canalplus.com^
 ||sgtm.indrive.com^
 ||sgtm.nabidka.canalplus.com^
+||sgtm.pokerstars.de^
 ||sgtm.skrill.com^
 ||sgtm.storytel.com^
 ||sgtm.talkspace.com^

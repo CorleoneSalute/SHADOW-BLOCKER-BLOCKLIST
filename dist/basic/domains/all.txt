@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10061
+# Total domains: 10062
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7829,6 +7829,7 @@ sgtm.dating.com
 sgtm.elofizetek.canalplus.com
 sgtm.indrive.com
 sgtm.nabidka.canalplus.com
+sgtm.pokerstars.de
 sgtm.skrill.com
 sgtm.storytel.com
 sgtm.talkspace.com
