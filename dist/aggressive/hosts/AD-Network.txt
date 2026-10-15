@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2284
-# Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2291
+# Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -98,6 +98,8 @@
 0.0.0.0 adexp.net
 0.0.0.0 adexpressmarketing.com
 0.0.0.0 adflores.com
+0.0.0.0 adfly.tech
+0.0.0.0 adfly.vn
 0.0.0.0 adfootmedia.com
 0.0.0.0 adform.com
 0.0.0.0 adform.net
@@ -218,6 +220,7 @@
 0.0.0.0 adservers.com.br
 0.0.0.0 adservices.google.com
 0.0.0.0 adsfactor.net
+0.0.0.0 adsfly.app
 0.0.0.0 adsglobal.world
 0.0.0.0 adsgold.com.br
 0.0.0.0 adshost1.com
@@ -275,6 +278,7 @@
 0.0.0.0 advertising.com
 0.0.0.0 advertising.yahooinc.com
 0.0.0.0 advertstream.com
+0.0.0.0 advoxel.com
 0.0.0.0 advservert.com
 0.0.0.0 adweb.gr
 0.0.0.0 adwidecenter.com
@@ -1207,6 +1211,7 @@
 0.0.0.0 imp.mgid.com
 0.0.0.0 imp.outbrain.com
 0.0.0.0 imp.taboola.com
+0.0.0.0 impact-ad.jp
 0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 imprnymp.taboola.com
 0.0.0.0 improvedigital.co.uk
@@ -1267,6 +1272,8 @@
 0.0.0.0 jungroup.com
 0.0.0.0 justwebads.com
 0.0.0.0 kayzen.io
+0.0.0.0 kelltanads.bid
+0.0.0.0 kelltanadsltd.com
 0.0.0.0 kickoffo.site
 0.0.0.0 kloperd.com
 0.0.0.0 la-match.taboola.com

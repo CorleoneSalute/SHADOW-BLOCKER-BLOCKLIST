@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2274
-# Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2281
+# Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -98,6 +98,8 @@ adex2.fwmrm.net
 adexp.net
 adexpressmarketing.com
 adflores.com
+adfly.tech
+adfly.vn
 adfootmedia.com
 adform.com
 adform.net
@@ -217,6 +219,7 @@ adserverplugins.com
 adservers.com.br
 adservices.google.com
 adsfactor.net
+adsfly.app
 adsglobal.world
 adsgold.com.br
 adshost1.com
@@ -274,6 +277,7 @@ advertiser-api.revcontent.com
 advertising.com
 advertising.yahooinc.com
 advertstream.com
+advoxel.com
 advservert.com
 adweb.gr
 adwidecenter.com
@@ -1202,6 +1206,7 @@ imp.fluct.jp
 imp.mgid.com
 imp.outbrain.com
 imp.taboola.com
+impact-ad.jp
 imprlatbmp.taboola.com
 imprnymp.taboola.com
 improvedigital.co.uk
@@ -1261,6 +1266,8 @@ jstrp.adform.net
 jungroup.com
 justwebads.com
 kayzen.io
+kelltanads.bid
+kelltanadsltd.com
 kickoffo.site
 kloperd.com
 la-match.taboola.com

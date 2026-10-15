@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10510
-# Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10517
+# Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -345,6 +345,8 @@
 ||adexpressmarketing.com^
 ||adf.ly^
 ||adflores.com^
+||adfly.tech^
+||adfly.vn^
 ||adfootmedia.com^
 ||adform.com^
 ||adform.net^
@@ -790,6 +792,7 @@
 ||adserving-tmp.unibet.com^
 ||adserving.unibet.com^
 ||adsfactor.net^
+||adsfly.app^
 ||adsfs-sdkconfig.heytapimage.com^
 ||adsfs.oppomobile.com^
 ||adsglobal.world^
@@ -916,6 +919,7 @@
 ||advil.waze.com^
 ||advilapsoutheast1.waze.com^
 ||advisor-analytics.ouraring.com^
+||advoxel.com^
 ||advp.apple.com^
 ||advservert.com^
 ||adwbs.ximalaya.com^
@@ -5059,6 +5063,7 @@
 ||imp.mgid.com^
 ||imp.outbrain.com^
 ||imp.taboola.com^
+||impact-ad.jp^
 ||impact-ad.net^
 ||impactcdn.com^
 ||impactradius-event.com^
@@ -5296,6 +5301,8 @@
 ||kb.adf.ly^
 ||kdtrk.net^
 ||keistaru.com^
+||kelltanads.bid^
+||kelltanadsltd.com^
 ||kepler-analytics.aws.dev^
 ||kerish.org^
 ||kerishproducts.com^

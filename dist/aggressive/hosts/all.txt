@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10510
-# Generated: 2026-10-13 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10517
+# Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -345,6 +345,8 @@
 0.0.0.0 adexpressmarketing.com
 0.0.0.0 adf.ly
 0.0.0.0 adflores.com
+0.0.0.0 adfly.tech
+0.0.0.0 adfly.vn
 0.0.0.0 adfootmedia.com
 0.0.0.0 adform.com
 0.0.0.0 adform.net
@@ -790,6 +792,7 @@
 0.0.0.0 adserving-tmp.unibet.com
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adsfactor.net
+0.0.0.0 adsfly.app
 0.0.0.0 adsfs-sdkconfig.heytapimage.com
 0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 adsglobal.world
@@ -916,6 +919,7 @@
 0.0.0.0 advil.waze.com
 0.0.0.0 advilapsoutheast1.waze.com
 0.0.0.0 advisor-analytics.ouraring.com
+0.0.0.0 advoxel.com
 0.0.0.0 advp.apple.com
 0.0.0.0 advservert.com
 0.0.0.0 adwbs.ximalaya.com
@@ -5059,6 +5063,7 @@
 0.0.0.0 imp.mgid.com
 0.0.0.0 imp.outbrain.com
 0.0.0.0 imp.taboola.com
+0.0.0.0 impact-ad.jp
 0.0.0.0 impact-ad.net
 0.0.0.0 impactcdn.com
 0.0.0.0 impactradius-event.com
@@ -5296,6 +5301,8 @@
 0.0.0.0 kb.adf.ly
 0.0.0.0 kdtrk.net
 0.0.0.0 keistaru.com
+0.0.0.0 kelltanads.bid
+0.0.0.0 kelltanadsltd.com
 0.0.0.0 kepler-analytics.aws.dev
 0.0.0.0 kerish.org
 0.0.0.0 kerishproducts.com
