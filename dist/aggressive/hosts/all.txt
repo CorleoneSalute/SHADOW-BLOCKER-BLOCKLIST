@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10530
+# Total domains: 10531
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9709,6 +9709,7 @@
 0.0.0.0 trk.mg.vimeo.com
 0.0.0.0 trk.orange.be
 0.0.0.0 trk.orange.com
+0.0.0.0 trk.orange.pl
 0.0.0.0 trk.pinnacle.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.ppcprotect.com

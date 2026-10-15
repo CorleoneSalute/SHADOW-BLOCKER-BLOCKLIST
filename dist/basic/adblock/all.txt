@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10062
+# Total domains: 10063
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9287,6 +9287,7 @@
 ||trk.mg.vimeo.com^
 ||trk.orange.be^
 ||trk.orange.com^
+||trk.orange.pl^
 ||trk.pinnacle.com^
 ||trk.pinterest.com^
 ||trk.ppcprotect.com^

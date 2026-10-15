@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1069
+# Total domains: 1070
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1017,6 +1017,7 @@
 0.0.0.0 trk.e.nothing.tech
 0.0.0.0 trk.orange.be
 0.0.0.0 trk.orange.com
+0.0.0.0 trk.orange.pl
 0.0.0.0 trk.www.orange.com
 0.0.0.0 tvp-ads-log.samsungads.com
 0.0.0.0 tvp-interactive-ad.samsungads.com

@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1119
+# Total domains: 1120
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1064,6 +1064,7 @@ trck.vodafone.com
 trk.e.nothing.tech
 trk.orange.be
 trk.orange.com
+trk.orange.pl
 trk.www.orange.com
 tvp-ads-log.samsungads.com
 tvp-interactive-ad.samsungads.com
