@@ -281,6 +281,7 @@ collector.pokerstars.it
 collector.sisal.pokerstars.it
 collector.pokerstars.de
 collector.sh.pokerstars.de
+sgtm.pokerstars.de
 collector.pokerstars.ro
 collector.pokerstars.pt
 collector.pokerstars.es
