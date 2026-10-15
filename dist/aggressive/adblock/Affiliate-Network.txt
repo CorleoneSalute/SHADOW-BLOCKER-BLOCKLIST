@@ -1,6 +1,6 @@
 # ============================================================
 # AFFILIATE NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 164
+# Total domains: 176
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9,10 +9,17 @@
 ||action.metaffiliation.com^
 ||action.netaffiliation.com^
 ||ad.admitad.com^
+||ad.adpump.com^
 ||ad.linksynergy.com^
 ||adkernel.crakrevenue.com^
 ||admitad.com^
+||adnextmedia.com^
+||adnextmedia.net^
 ||adperio.com^
+||adpump.com^
+||adpump.com.br^
+||adpump.io^
+||adpump.net^
 ||ads.api.cj.com^
 ||ads.cj.com^
 ||advidi.com^
@@ -53,10 +60,14 @@
 ||cualbr.com^
 ||d.impactradius-event.com^
 ||deeplink.admitad.com^
+||dgmaxad.com^
+||dgmaxinteractive.com^
+||dgmaxinteractive.com.br^
 ||dpbolvw.net^
 ||dwin1.com^
 ||dwin2.com^
 ||effiliation.com^
+||elegancyco.com^
 ||emjcd.com^
 ||exads.crakrevenue.com^
 ||flexlinks.com^
@@ -94,6 +105,7 @@
 ||performance.timeone.io^
 ||performance.timeonegroup.com^
 ||performancehorizon.com^
+||performancein.live^
 ||production.ads.cj.com^
 ||pub.mylead.global^
 ||publishertracking.api.cj.com^

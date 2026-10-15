@@ -1,6 +1,6 @@
 # ============================================================
 # AFFILIATE NETWORK BLOCKLIST - BASIC
-# Total domains: 164
+# Total domains: 176
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9,10 +9,17 @@
 0.0.0.0 action.metaffiliation.com
 0.0.0.0 action.netaffiliation.com
 0.0.0.0 ad.admitad.com
+0.0.0.0 ad.adpump.com
 0.0.0.0 ad.linksynergy.com
 0.0.0.0 adkernel.crakrevenue.com
 0.0.0.0 admitad.com
+0.0.0.0 adnextmedia.com
+0.0.0.0 adnextmedia.net
 0.0.0.0 adperio.com
+0.0.0.0 adpump.com
+0.0.0.0 adpump.com.br
+0.0.0.0 adpump.io
+0.0.0.0 adpump.net
 0.0.0.0 ads.api.cj.com
 0.0.0.0 ads.cj.com
 0.0.0.0 advidi.com
@@ -53,10 +60,14 @@
 0.0.0.0 cualbr.com
 0.0.0.0 d.impactradius-event.com
 0.0.0.0 deeplink.admitad.com
+0.0.0.0 dgmaxad.com
+0.0.0.0 dgmaxinteractive.com
+0.0.0.0 dgmaxinteractive.com.br
 0.0.0.0 dpbolvw.net
 0.0.0.0 dwin1.com
 0.0.0.0 dwin2.com
 0.0.0.0 effiliation.com
+0.0.0.0 elegancyco.com
 0.0.0.0 emjcd.com
 0.0.0.0 exads.crakrevenue.com
 0.0.0.0 flexlinks.com
@@ -94,6 +105,7 @@
 0.0.0.0 performance.timeone.io
 0.0.0.0 performance.timeonegroup.com
 0.0.0.0 performancehorizon.com
+0.0.0.0 performancein.live
 0.0.0.0 production.ads.cj.com
 0.0.0.0 pub.mylead.global
 0.0.0.0 publishertracking.api.cj.com

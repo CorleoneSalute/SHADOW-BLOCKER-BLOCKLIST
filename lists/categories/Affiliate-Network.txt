@@ -1,7 +1,7 @@
 # AFFILIATE NETWORK BLOCKLIST
 
-# Total domains: 164
-# Last update: 2026/09/08
+# Total domains: 176
+# Last update: 2026/10/15
 # Note: trailing "!" marks a domain as aggressive-only
 
 # CJ AFFILIATE

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10517
+# Total domains: 10529
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -225,6 +225,7 @@
 0.0.0.0 ad.acast.com
 0.0.0.0 ad.adition.com
 0.0.0.0 ad.admitad.com
+0.0.0.0 ad.adpump.com
 0.0.0.0 ad.adsrvr.org
 0.0.0.0 ad.afreecatv.com
 0.0.0.0 ad.alipay.com
@@ -420,6 +421,8 @@
 0.0.0.0 admon.acr.roku.com
 0.0.0.0 admon.ca.acr.roku.com
 0.0.0.0 admylink.com
+0.0.0.0 adnextmedia.com
+0.0.0.0 adnextmedia.net
 0.0.0.0 adnexusmarketing.com
 0.0.0.0 adnow.com
 0.0.0.0 adnow.one
@@ -447,6 +450,10 @@
 0.0.0.0 adprimemedia.com
 0.0.0.0 adprofex.com
 0.0.0.0 adptrck.com
+0.0.0.0 adpump.com
+0.0.0.0 adpump.com.br
+0.0.0.0 adpump.io
+0.0.0.0 adpump.net
 0.0.0.0 adreporter.yahoo.com
 0.0.0.0 adreporting2.corp.yahoo.com
 0.0.0.0 adrevenue.appsflyersdk.com
@@ -3781,6 +3788,9 @@
 0.0.0.0 device.maxmind.com
 0.0.0.0 deviceinf.com
 0.0.0.0 devicelog.samsungcloudsolution.net
+0.0.0.0 dgmaxad.com
+0.0.0.0 dgmaxinteractive.com
+0.0.0.0 dgmaxinteractive.com.br
 0.0.0.0 di.runestone.samsung.com
 0.0.0.0 diagassets-lb.apple.com.akadns.net
 0.0.0.0 diagassets.apple.com
@@ -4017,6 +4027,7 @@
 0.0.0.0 eic.recommend.lgtvcommon.com
 0.0.0.0 ekb.analytics.elsevier.com
 0.0.0.0 eleburic.com
+0.0.0.0 elegancyco.com
 0.0.0.0 elmah.io
 0.0.0.0 elog.vewd.com
 0.0.0.0 email.gh-mail.taboola.com
@@ -7022,6 +7033,7 @@
 0.0.0.0 performance.timeone.io
 0.0.0.0 performance.timeonegroup.com
 0.0.0.0 performancehorizon.com
+0.0.0.0 performancein.live
 0.0.0.0 performanceoptimizer.com
 0.0.0.0 perimeterx.net
 0.0.0.0 perion-one-i.undertone.com

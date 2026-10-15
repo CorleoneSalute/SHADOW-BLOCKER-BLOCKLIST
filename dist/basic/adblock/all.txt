@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10049
+# Total domains: 10061
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -209,6 +209,7 @@
 ||ad-zone.net^
 ||ad.adition.com^
 ||ad.admitad.com^
+||ad.adpump.com^
 ||ad.adsrvr.org^
 ||ad.afreecatv.com^
 ||ad.alipay.com^
@@ -400,6 +401,8 @@
 ||admon-api.acr.roku.com^
 ||admon.acr.roku.com^
 ||admon.ca.acr.roku.com^
+||adnextmedia.com^
+||adnextmedia.net^
 ||adnexusmarketing.com^
 ||adnow.com^
 ||adnow.one^
@@ -426,6 +429,10 @@
 ||adprimemedia.com^
 ||adprofex.com^
 ||adptrck.com^
+||adpump.com^
+||adpump.com.br^
+||adpump.io^
+||adpump.net^
 ||adreporter.yahoo.com^
 ||adreporting2.corp.yahoo.com^
 ||adrevenue.appsflyersdk.com^
@@ -3668,6 +3675,9 @@
 ||device.maxmind.com^
 ||deviceinf.com^
 ||devicelog.samsungcloudsolution.net^
+||dgmaxad.com^
+||dgmaxinteractive.com^
+||dgmaxinteractive.com.br^
 ||di.runestone.samsung.com^
 ||diagmon-policy.samsungdm.com^
 ||diagmon-serviceapi.samsungdm.com^
@@ -3878,6 +3888,7 @@
 ||eic.nudge.lgtvcommon.com^
 ||ekb.analytics.elsevier.com^
 ||eleburic.com^
+||elegancyco.com^
 ||elmah.io^
 ||elog.vewd.com^
 ||email.gh-mail.taboola.com^
@@ -6714,6 +6725,7 @@
 ||performance.timeone.io^
 ||performance.timeonegroup.com^
 ||performancehorizon.com^
+||performancein.live^
 ||performanceoptimizer.com^
 ||perion-one-i.undertone.com^
 ||perion.com^
