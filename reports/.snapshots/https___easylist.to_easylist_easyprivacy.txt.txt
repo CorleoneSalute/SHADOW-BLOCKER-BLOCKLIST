@@ -12877,6 +12877,7 @@ drive.carpoollogistics.com
 drive.seagate.com
 drive.waitrapp.com
 driven.actonservice.com
+drivenmove.com
 driver.dctaxi.com
 driver.jugnoo.in
 droidwiz.com
@@ -13150,6 +13151,7 @@ earthups.com
 earthyfarm.com
 eastcapelots.com
 eastern2.secureforms.mcafee.com
+eastpalms.com
 easy-hit-counter.com
 easy-hit-counters.com
 easy.lv
@@ -14749,6 +14751,7 @@ external.techopian.com
 extmaps-api.yandex.net
 extole.com
 extole.io
+extracover.net
 extractobservation.com
 extralocker.com
 extramilefloorcare.ericksonbuilt.com
