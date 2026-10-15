@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10063
+# Total domains: 10064
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9647,6 +9647,7 @@
 ||vitalstatistix.launchdarkly.com^
 ||vitsoft.net^
 ||vizio.adsmeasurement.com^
+||vod-cm-ad-08-18.video.globo.com^
 ||vofzpwh.com^
 ||vokutads.com^
 ||vokutads.xml^

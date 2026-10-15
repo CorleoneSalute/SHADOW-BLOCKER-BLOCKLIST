@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 434
+# Total domains: 435
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -433,6 +433,7 @@
 0.0.0.0 video-verification.pixalate.com
 0.0.0.0 video.chartbeat.com
 0.0.0.0 vizio.adsmeasurement.com
+0.0.0.0 vod-cm-ad-08-18.video.globo.com
 0.0.0.0 youbora.com
 0.0.0.0 youboranqs01.com
 0.0.0.0 youtrack.ops.connatix.com

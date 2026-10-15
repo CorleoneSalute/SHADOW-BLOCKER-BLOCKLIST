@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 390
+# Total domains: 391
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -389,6 +389,7 @@
 ||video-verification.pixalate.com^
 ||video.chartbeat.com^
 ||vizio.adsmeasurement.com^
+||vod-cm-ad-08-18.video.globo.com^
 ||youbora.com^
 ||youboranqs01.com^
 ||youtrack.ops.connatix.com^

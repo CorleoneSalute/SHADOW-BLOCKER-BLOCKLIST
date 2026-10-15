@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10531
+# Total domains: 10532
 # Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10098,6 +10098,7 @@ vivads.net
 vizio.adsmeasurement.com
 vl.ff.avast.com
 vmetric.twitch.tv
+vod-cm-ad-08-18.video.globo.com
 vofzpwh.com
 vokutads.com
 vokutads.xml
