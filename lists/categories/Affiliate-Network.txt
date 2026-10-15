@@ -231,3 +231,24 @@ network.w4.com
 
 # DATIFY.LINK
 trk.datify.link
+
+# AdPump Echidna LLC
+
+adpump.com
+adpump.io
+adpump.com.br
+adpump.net
+ad.adpump.com
+
+# DGMAX Interactive
+
+dgmaxinteractive.com
+dgmaxad.com
+dgmaxinteractive.com.br
+performancein.live
+
+# ADNext Media
+
+adnextmedia.com
+adnextmedia.net
+elegancyco.com
