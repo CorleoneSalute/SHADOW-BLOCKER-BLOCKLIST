@@ -51,6 +51,7 @@ xp2.apple.com !
 xp-daf.apple.com !
 xp.trbo.apple.com !
 aios-otel-collector.g.apple.com
+drupalmetrics.ppg.apple.com
 
 # --- APP ANALYTICS ---
 books-analytics-events.apple.com
