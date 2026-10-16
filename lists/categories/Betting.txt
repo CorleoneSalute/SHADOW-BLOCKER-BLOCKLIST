@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 280
-# Total platforms: 98
+# Total platforms: 102
 # Last update: 2026/10/15
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -488,3 +488,26 @@ ad.betcity.ru
 
 metrics.5bet.com
 track.vip.5bet.com
+
+# Drago Bet Casino ⚠️ scambling
+
+dragobet.net
+drago-bet.net
+dragobet.io
+dragobet-nl.net
+drago-bet-casino.net
+appcasino.online
+
+# endisbet.com ⚠️ advance-fee fraud
+
+endisbet.com
+
+# JetLuck # untrusted
+
+jetluck.com
+jetluck.bet
+jetluck.top
+
+# skybetcasino.fr ⚠️ Counterfeit fraud
+
+skybetcasino.fr
