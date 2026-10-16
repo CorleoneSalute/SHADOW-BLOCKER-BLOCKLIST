@@ -14,6 +14,7 @@ analytics.furbo.com
 advertiser.petcube.com
 analytics.petcube.com
 trckr.petcube.com
+logs.petcube.com
 
 # FitBark
 analytics.fitbark.com
