@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2291
-# Total platforms: 302
+# Total platforms: 307
 # Last update: 2026/10/15
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3124,3 +3124,58 @@ kelltanads.bid
 
 adfly.vn
 adfly.tech
+
+# Matomy Media Group
+
+ad120m.com
+ad127m.com
+ad131m.com
+ad132m.com
+adsmarket.com
+m2pub.com
+
+# TappAds
+
+tappads.io
+
+# Bring Ads (ООО «Бринг эдс»)
+
+bringads.com
+bringads.ru
+
+# ООО «СЭНСЭЙ ЭДЗ» (SENSEI ADS)
+
+adsensei.ai
+
+# Discover-Tech Ltd ⚠️ Spyware
+
+discover-tech.io
+mtrtb.com
+mydsp.io
+controlium.net
+platc-tester.com
+powerium.net
+platc-tester.com
+myweb3id.io
+myipinfo.io
+akedo.gg
+volasim.com
+trakking.co
+impchkdsp.com
+tracookiepixel.xyz
+cookiesurfer.com
+cookie-sync.xyz
+ads-monitor.xyz
+checkmyimp.com
+ads-impressions.com
+nutralove.co
+tekma-dmp.ai
+tekma.io
+remindmewhere.app
+globaldatapoints.com
+keyadapter.com
+fearevolve.com
+jobmarcher.com
+insightenterprisells.com
+plasticbells.com
+discovertech-alb-100966113.us-east-1.elb.amazonaws.com
