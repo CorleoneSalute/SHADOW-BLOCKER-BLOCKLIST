@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 272
+# Total domains: 283
 # Generated: 2026-10-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -77,6 +77,7 @@ analytics.zynga.com
 api.analytics.gnosis.io
 api.analytics.robin.markets
 app.analytics.coinbase.com
+appcasino.online
 click.stats.zynga.com
 clientmetrics.betfair.com
 collector-v2.spinxgames.com
@@ -105,7 +106,13 @@ ct.zynga.com
 data.a.fanatics.com
 data.adobe.fanatics.com
 data.t.fanatics.com
+drago-bet-casino.net
+drago-bet.net
+dragobet-nl.net
+dragobet.io
+dragobet.net
 emea-analytics.lnw.com
+endisbet.com
 etlogs.fantrax.com
 event.collector.scopely.io
 fhc-event.fhcasino.com
@@ -142,6 +149,9 @@ gtm.ua9.ggpoker.com
 hads.huuuge.net
 hc-tracking.huuuge.net
 hmid.bfge.bigfishgames.com
+jetluck.bet
+jetluck.com
+jetluck.top
 laslucaads-util.scientificgames.com
 laslucaads.scientificgames.com
 log-collector.svctr.zynga.com
@@ -189,6 +199,7 @@ sgtm.7k.bet.br
 sgtm.cassino.bet.br
 sgtm.pokerstars.de
 sgtm.vera.bet.br
+skybetcasino.fr
 smetrics.blackjack.com
 smetrics.casino.org
 smetrics.replaypoker.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10571
+# Total domains: 10582
 # Generated: 2026-10-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2370,6 +2370,7 @@
 0.0.0.0 app7.kromtech.net
 0.0.0.0 appads.baidu.com
 0.0.0.0 appanalytics.tomtom.com
+0.0.0.0 appcasino.online
 0.0.0.0 apple-ads.apple.com
 0.0.0.0 apple.com-scan.live
 0.0.0.0 apple.com-shield.live
@@ -3919,6 +3920,11 @@
 0.0.0.0 dragate-sg.dc.heytapmobi.com
 0.0.0.0 dragate-sg.dc.oppomobile.com
 0.0.0.0 dragate.dc.oppomobile.com
+0.0.0.0 drago-bet-casino.net
+0.0.0.0 drago-bet.net
+0.0.0.0 dragobet-nl.net
+0.0.0.0 dragobet.io
+0.0.0.0 dragobet.net
 0.0.0.0 dreamcarsweeps.com
 0.0.0.0 driver-soft.com
 0.0.0.0 driver.applog.bolt.eu
@@ -4062,6 +4068,7 @@
 0.0.0.0 emxdigital.com
 0.0.0.0 en.ipinyou.com
 0.0.0.0 en.yoyi.com.cn
+0.0.0.0 endisbet.com
 0.0.0.0 enduser.adsrvr.org
 0.0.0.0 engage.kaltura.com
 0.0.0.0 engage.youbora.com
@@ -5292,6 +5299,9 @@
 0.0.0.0 jdoqocy.com
 0.0.0.0 jenkins.analytics.weather.com
 0.0.0.0 jetclean.com
+0.0.0.0 jetluck.bet
+0.0.0.0 jetluck.com
+0.0.0.0 jetluck.top
 0.0.0.0 jewishfriendfinder.com
 0.0.0.0 jilliandescribecompany.com
 0.0.0.0 jobmarcher.com
@@ -8306,6 +8316,7 @@
 0.0.0.0 skamason.com
 0.0.0.0 skyads.ott.skymedia.co.uk
 0.0.0.0 skyadsmart.com
+0.0.0.0 skybetcasino.fr
 0.0.0.0 sl-tracking.fitonhealth.com
 0.0.0.0 sl.brightdata.com
 0.0.0.0 slashis.com

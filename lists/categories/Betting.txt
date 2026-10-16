@@ -1,8 +1,8 @@
 # BETTING BLOCKLIST
 
-# Total domains: 280
+# Total domains: 291
 # Total platforms: 102
-# Last update: 2026/10/15
+# Last update: 2026/10/16
 # Note: trailing "!" marks a domain as aggressive-only
 
 # DraftKings

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10571
+# Total domains: 10582
 # Generated: 2026-10-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2370,6 +2370,7 @@ app6.kromtech.net
 app7.kromtech.net
 appads.baidu.com
 appanalytics.tomtom.com
+appcasino.online
 apple-ads.apple.com
 apple.com-scan.live
 apple.com-shield.live
@@ -3919,6 +3920,11 @@ dragate-in.dc.heytapmobi.com
 dragate-sg.dc.heytapmobi.com
 dragate-sg.dc.oppomobile.com
 dragate.dc.oppomobile.com
+drago-bet-casino.net
+drago-bet.net
+dragobet-nl.net
+dragobet.io
+dragobet.net
 dreamcarsweeps.com
 driver-soft.com
 driver.applog.bolt.eu
@@ -4062,6 +4068,7 @@ emxdgt.com
 emxdigital.com
 en.ipinyou.com
 en.yoyi.com.cn
+endisbet.com
 enduser.adsrvr.org
 engage.kaltura.com
 engage.youbora.com
@@ -5292,6 +5299,9 @@ jat.gumgum.com
 jdoqocy.com
 jenkins.analytics.weather.com
 jetclean.com
+jetluck.bet
+jetluck.com
+jetluck.top
 jewishfriendfinder.com
 jilliandescribecompany.com
 jobmarcher.com
@@ -8306,6 +8316,7 @@ skamaker.com
 skamason.com
 skyads.ott.skymedia.co.uk
 skyadsmart.com
+skybetcasino.fr
 sl-tracking.fitonhealth.com
 sl.brightdata.com
 slashis.com

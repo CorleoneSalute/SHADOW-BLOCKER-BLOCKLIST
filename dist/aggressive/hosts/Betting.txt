@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 280
+# Total domains: 291
 # Generated: 2026-10-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -77,6 +77,7 @@
 0.0.0.0 api.analytics.gnosis.io
 0.0.0.0 api.analytics.robin.markets
 0.0.0.0 app.analytics.coinbase.com
+0.0.0.0 appcasino.online
 0.0.0.0 click.stats.zynga.com
 0.0.0.0 clientmetrics.betfair.com
 0.0.0.0 collector-v2.spinxgames.com
@@ -105,7 +106,13 @@
 0.0.0.0 data.a.fanatics.com
 0.0.0.0 data.adobe.fanatics.com
 0.0.0.0 data.t.fanatics.com
+0.0.0.0 drago-bet-casino.net
+0.0.0.0 drago-bet.net
+0.0.0.0 dragobet-nl.net
+0.0.0.0 dragobet.io
+0.0.0.0 dragobet.net
 0.0.0.0 emea-analytics.lnw.com
+0.0.0.0 endisbet.com
 0.0.0.0 etlogs.fantrax.com
 0.0.0.0 event.collector.scopely.io
 0.0.0.0 events-service.coinbase.com
@@ -143,6 +150,9 @@
 0.0.0.0 hads.huuuge.net
 0.0.0.0 hc-tracking.huuuge.net
 0.0.0.0 hmid.bfge.bigfishgames.com
+0.0.0.0 jetluck.bet
+0.0.0.0 jetluck.com
+0.0.0.0 jetluck.top
 0.0.0.0 laslucaads-util.scientificgames.com
 0.0.0.0 laslucaads.scientificgames.com
 0.0.0.0 log-collector.svctr.zynga.com
@@ -197,6 +207,7 @@
 0.0.0.0 sgtm.cassino.bet.br
 0.0.0.0 sgtm.pokerstars.de
 0.0.0.0 sgtm.vera.bet.br
+0.0.0.0 skybetcasino.fr
 0.0.0.0 smetrics.blackjack.com
 0.0.0.0 smetrics.casino.org
 0.0.0.0 smetrics.replaypoker.com
