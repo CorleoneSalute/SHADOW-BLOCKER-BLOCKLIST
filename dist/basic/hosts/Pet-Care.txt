@@ -1,6 +1,6 @@
 # ============================================================
 # PET CARE BLOCKLIST - BASIC
-# Total domains: 17
+# Total domains: 18
 # Generated: 2026-10-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -17,6 +17,7 @@
 0.0.0.0 analytics.tractive.com
 0.0.0.0 data.app-analytics.petdesk.com
 0.0.0.0 logs.fitbark.com
+0.0.0.0 logs.petcube.com
 0.0.0.0 smetrics.petsmart.com
 0.0.0.0 tracking.bark.co
 0.0.0.0 tracking.chewy.com

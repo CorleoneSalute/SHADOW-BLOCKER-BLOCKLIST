@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10115
+# Total domains: 10116
 # Generated: 2026-10-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5523,6 +5523,7 @@
 0.0.0.0 logs.netflix.com
 0.0.0.0 logs.o.webex.com
 0.0.0.0 logs.olark.com
+0.0.0.0 logs.petcube.com
 0.0.0.0 logs.reddit.com
 0.0.0.0 logs.replaypoker.com
 0.0.0.0 logs.reservebar.com
