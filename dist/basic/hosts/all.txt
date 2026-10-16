@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10064
-# Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10103
+# Generated: 2026-10-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -278,6 +278,10 @@
 0.0.0.0 ad1.gtie.dell.com
 0.0.0.0 ad1.reddit.com
 0.0.0.0 ad1.xiaomi.com
+0.0.0.0 ad120m.com
+0.0.0.0 ad127m.com
+0.0.0.0 ad131m.com
+0.0.0.0 ad132m.com
 0.0.0.0 ad1data.com
 0.0.0.0 ad2.gtie.dell.com
 0.0.0.0 ad2.reddit.com
@@ -470,9 +474,11 @@
 0.0.0.0 ads-i.undertone.com
 0.0.0.0 ads-ie.tiktokw.eu
 0.0.0.0 ads-img.mozilla.org
+0.0.0.0 ads-impressions.com
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-media.1muslimapp.com
 0.0.0.0 ads-media.truecaller.com
+0.0.0.0 ads-monitor.xyz
 0.0.0.0 ads-partners.roku.com
 0.0.0.0 ads-portal-api-gateway.optisigns.com
 0.0.0.0 ads-preview.linkvertise.com
@@ -736,6 +742,7 @@
 0.0.0.0 adsdomaintracking.com
 0.0.0.0 adseaimg.apusapps.com
 0.0.0.0 adsehera.ximalaya.com
+0.0.0.0 adsensei.ai
 0.0.0.0 adserv.reddit.com
 0.0.0.0 adserve.dianomi.com
 0.0.0.0 adserve.tv
@@ -782,6 +789,7 @@
 0.0.0.0 adskeeper.net
 0.0.0.0 adsld.link
 0.0.0.0 adsmanager.truecaller.com
+0.0.0.0 adsmarket.com
 0.0.0.0 adsmarketplace.com
 0.0.0.0 adsmart.com
 0.0.0.0 adsmart.com.tr
@@ -1073,6 +1081,7 @@
 0.0.0.0 aka-ulog.kwai-pro.com
 0.0.0.0 akamai-res1.applovin.com
 0.0.0.0 akamai.vungle-cdn.vungle.com
+0.0.0.0 akedo.gg
 0.0.0.0 akstat.io
 0.0.0.0 al-info-lgsmartad-com.aws-prd.net
 0.0.0.0 al-rdx2-lgtvsdp-com.aws-prd.net
@@ -2658,6 +2667,8 @@
 0.0.0.0 brightdata.digital
 0.0.0.0 brightdata.work
 0.0.0.0 brightroll.com
+0.0.0.0 bringads.com
+0.0.0.0 bringads.ru
 0.0.0.0 briskrange.com
 0.0.0.0 brisktopia.com
 0.0.0.0 broadstreetads.com
@@ -3018,6 +3029,7 @@
 0.0.0.0 chat.analytics.eu.restream.io
 0.0.0.0 chat.analytics.restream.io
 0.0.0.0 chatmaduras.com
+0.0.0.0 checkmyimp.com
 0.0.0.0 checkout51.com
 0.0.0.0 cheekylovers.com
 0.0.0.0 cheqzone.com
@@ -3319,6 +3331,7 @@
 0.0.0.0 control-zoo-dai-default.tvinteractive.tv
 0.0.0.0 control.tvinteractive.tv
 0.0.0.0 control2.tvinteractive.tv
+0.0.0.0 controlium.net
 0.0.0.0 convammp.taboola.com
 0.0.0.0 convchmp.taboola.com
 0.0.0.0 conversion.adikteev.com
@@ -3335,7 +3348,9 @@
 0.0.0.0 convlatbmp.taboola.com
 0.0.0.0 convnjmp.taboola.com
 0.0.0.0 convtrack.facebook.com
+0.0.0.0 cookie-sync.xyz
 0.0.0.0 cookiecheck.criteo.com
+0.0.0.0 cookiesurfer.com
 0.0.0.0 cool.co
 0.0.0.0 cooper.logs.roku.com
 0.0.0.0 copilot-telemetry.githubusercontent.com
@@ -3708,9 +3723,11 @@
 0.0.0.0 dis.eu.criteo.com
 0.0.0.0 dis.nl.eu.criteo.com
 0.0.0.0 dis.us.criteo.com
+0.0.0.0 discover-tech.io
 0.0.0.0 discover.outbrain.com
 0.0.0.0 discover.taboola.com
 0.0.0.0 discoverorg.com
+0.0.0.0 discovertech-alb-100966113.us-east-1.elb.amazonaws.com
 0.0.0.0 discovery.outbrain.com
 0.0.0.0 discuss-metrics.getsol.us
 0.0.0.0 diskreviver.com
@@ -4236,6 +4253,7 @@
 0.0.0.0 fclog.baidu.com
 0.0.0.0 fe02.lg.xiaomi.com
 0.0.0.0 fe05.lg.xiaomi.com
+0.0.0.0 fearevolve.com
 0.0.0.0 featureassets.org
 0.0.0.0 featuregates.org
 0.0.0.0 fedora-telemetry.org
@@ -4490,6 +4508,7 @@
 0.0.0.0 globaladsmedia.us
 0.0.0.0 globaladtech.com
 0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 globaldatapoints.com
 0.0.0.0 globalreport.ad.intl.xiaomi.com
 0.0.0.0 gloyah.net
 0.0.0.0 glvamr.com
@@ -4843,6 +4862,7 @@
 0.0.0.0 impact-ad.net
 0.0.0.0 impactcdn.com
 0.0.0.0 impactradius-event.com
+0.0.0.0 impchkdsp.com
 0.0.0.0 impression.adikteev.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 impression.remerge.io
@@ -4928,6 +4948,7 @@
 0.0.0.0 input.shouji.sogou.com
 0.0.0.0 inscape.tv
 0.0.0.0 insight.adsrvr.org
+0.0.0.0 insightenterprisells.com
 0.0.0.0 insights-api-ms.brightdata.com
 0.0.0.0 insights-api.brightdata.com
 0.0.0.0 insights-collector.gog.com
@@ -5025,6 +5046,7 @@
 0.0.0.0 jetclean.com
 0.0.0.0 jewishfriendfinder.com
 0.0.0.0 jilliandescribecompany.com
+0.0.0.0 jobmarcher.com
 0.0.0.0 jp.ad.lgsmartad.com
 0.0.0.0 jp.info.lgsmartad.com
 0.0.0.0 jp.rdx2.lgtvsdp.com
@@ -5070,6 +5092,7 @@
 0.0.0.0 kerishproducts.com
 0.0.0.0 kernellog.browser.oppomobile.com
 0.0.0.0 kernellogf.browser.oppomobile.com
+0.0.0.0 keyadapter.com
 0.0.0.0 keybank.md-apis.medallia.com
 0.0.0.0 kializer.com
 0.0.0.0 kibana-log.cleverdialer.com
@@ -5576,6 +5599,7 @@
 0.0.0.0 m1.baidu.com
 0.0.0.0 m1.merkle.com
 0.0.0.0 m2m1.inner-active.mobi
+0.0.0.0 m2pub.com
 0.0.0.0 mac-ads-cleaner.com
 0.0.0.0 mac-cleanup-pro.com
 0.0.0.0 mac-speedup-pro.com
@@ -6275,6 +6299,7 @@
 0.0.0.0 msx.rtb.linkedin.com
 0.0.0.0 mtch-analytics.com
 0.0.0.0 mtj.baidu.com
+0.0.0.0 mtrtb.com
 0.0.0.0 mug.criteo.com
 0.0.0.0 multiply.crwdcntrl.net
 0.0.0.0 multissp.yieldlab.net
@@ -6304,14 +6329,17 @@
 0.0.0.0 mycleanid.com
 0.0.0.0 mycleanmac.com
 0.0.0.0 mycleanpc.com
+0.0.0.0 mydsp.io
 0.0.0.0 myhackedemail.com
 0.0.0.0 myherotech.com
+0.0.0.0 myipinfo.io
 0.0.0.0 mylead.global
 0.0.0.0 mynwaf.com
 0.0.0.0 myopenads.com
 0.0.0.0 mypasslock.com
 0.0.0.0 myshagaholic.com
 0.0.0.0 mywallet.ads.bravesoftware.com
+0.0.0.0 myweb3id.io
 0.0.0.0 n.ads1-adnow.com
 0.0.0.0 n.clarity.ms
 0.0.0.0 n.jwpltx.com
@@ -6434,6 +6462,7 @@
 0.0.0.0 nudge.lgtvcommon.com
 0.0.0.0 nuomi-metric.baidu.com
 0.0.0.0 nuomimetric.baidu.com
+0.0.0.0 nutralove.co
 0.0.0.0 nvcrashreporter.nvidia.com
 0.0.0.0 nvidia.telemetry.internet.microsoft.com
 0.0.0.0 nvidia.tt.omtrdc.net
@@ -6839,6 +6868,8 @@
 0.0.0.0 placed.com
 0.0.0.0 pladollmo.com
 0.0.0.0 planning-analytics.ibmcloud.com
+0.0.0.0 plasticbells.com
+0.0.0.0 platc-tester.com
 0.0.0.0 platform-api.vistarmedia.com
 0.0.0.0 platform-cdn.sharethrough.com
 0.0.0.0 platform.admaster.cc
@@ -6897,6 +6928,7 @@
 0.0.0.0 posthog.hss.element.io
 0.0.0.0 postman.fortect.com
 0.0.0.0 postrelease.com
+0.0.0.0 powerium.net
 0.0.0.0 powersuite.com
 0.0.0.0 powferads.com
 0.0.0.0 pp2-api.nextmillennium.io
@@ -7138,6 +7170,7 @@
 0.0.0.0 relay.flo.health
 0.0.0.0 relay.fullstory.com
 0.0.0.0 remerge.io
+0.0.0.0 remindmewhere.app
 0.0.0.0 removemenow.com
 0.0.0.0 rendfy.com
 0.0.0.0 replay.sentry.io
@@ -8443,6 +8476,7 @@
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoy.net
 0.0.0.0 tapjoyads.com
+0.0.0.0 tappads.io
 0.0.0.0 target-us.samsung.com
 0.0.0.0 targetadserver.com
 0.0.0.0 targeted-config-test.samsungacr.com
@@ -8465,6 +8499,8 @@
 0.0.0.0 tealiumiq.com
 0.0.0.0 techsupport.paretologic.com
 0.0.0.0 techyutils.com
+0.0.0.0 tekma-dmp.ai
+0.0.0.0 tekma.io
 0.0.0.0 telaria.com
 0.0.0.0 telemetrics-collector.01.org
 0.0.0.0 telemetry-analytic-api.optisigns.com
@@ -9239,6 +9275,7 @@
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 trackworld-model-1.apps.allenai.org
 0.0.0.0 trackworld-model-2.apps.allenai.org
+0.0.0.0 tracookiepixel.xyz
 0.0.0.0 tradingworks.com
 0.0.0.0 traffic-analytics.ghost.org
 0.0.0.0 traffic-media.co
@@ -9246,6 +9283,7 @@
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 trafficroots.com
 0.0.0.0 trakads.com
+0.0.0.0 trakking.co
 0.0.0.0 trc-analytics.taboola.com
 0.0.0.0 trc-china.taboola.com
 0.0.0.0 trc-eu.admaster.cc
@@ -9652,6 +9690,7 @@
 0.0.0.0 vokutads.com
 0.0.0.0 vokutads.xml
 0.0.0.0 vokutads.xs
+0.0.0.0 volasim.com
 0.0.0.0 volcano.analytics.swiftkey.com
 0.0.0.0 volvo.md-apis.medallia.com
 0.0.0.0 voominem.com

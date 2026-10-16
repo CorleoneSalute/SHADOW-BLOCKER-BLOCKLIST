@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2291
-# Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2330
+# Generated: 2026-10-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -75,6 +75,10 @@ ad.inner-active.com
 ad.plus
 ad.smaato.net
 ad.yieldlab.net
+ad120m.com
+ad127m.com
+ad131m.com
+ad132m.com
 ad1data.com
 ad7.biz
 adap.tv
@@ -158,6 +162,8 @@ adru.net
 ads-bidstrade.io
 ads-i-cf.undertone.com
 ads-i.undertone.com
+ads-impressions.com
+ads-monitor.xyz
 ads-sdk.unityads.unity3d.com
 ads.adcolony.com
 ads.adhit.com
@@ -210,6 +216,7 @@ adsboost.net
 adsconflux.com
 adsctv.com
 adsdomaintracking.com
+adsensei.ai
 adserve.dianomi.com
 adserve.tv
 adserve.zone
@@ -234,6 +241,7 @@ adsimpact.nl
 adskeeper.co.uk
 adskeeper.com
 adskeeper.net
+adsmarket.com
 adsmarketplace.com
 adsmart.com
 adsmart.com.tr
@@ -392,6 +400,7 @@ ajx291.online
 ajxx91.online
 akamai-res1.applovin.com
 akamai.vungle-cdn.vungle.com
+akedo.gg
 alldcs.outbrain.org
 alphaads-group.com
 alphaadsdigital.com
@@ -632,6 +641,8 @@ blueadvertising.com
 bluehost.outbrain.com
 bot.outbrain.com
 brightroll.com
+bringads.com
+bringads.ru
 broadstreetads.com
 bs-sec-gw.taboola.com
 btl.sharethrough.com
@@ -790,6 +801,7 @@ cdn77.v1.oddsserve.com
 cdp.cloud.unity3d.com
 chance-ad.com
 chartboost.com
+checkmyimp.com
 chi2only.outbrain.com
 chocolateplatform.com
 cicloserv.com
@@ -835,12 +847,15 @@ content.yieldmo.com
 contentnet.adblade.com
 contextual.media.net
 contextweb.com
+controlium.net
 convammp.taboola.com
 convchmp.taboola.com
 conveump.taboola.com
 convhkmp.taboola.com
 convlatbmp.taboola.com
 convnjmp.taboola.com
+cookie-sync.xyz
+cookiesurfer.com
 cool.co
 cpa.adcolony.com
 cpa.adhit.com
@@ -909,8 +924,10 @@ directads-tool.ligatus.com
 dis-ssl.criteo.com
 dis.eu.criteo.com
 dis.us.criteo.com
+discover-tech.io
 discover.outbrain.com
 discover.taboola.com
+discovertech-alb-100966113.us-east-1.elb.amazonaws.com
 discovery.outbrain.com
 display.bidder.taboola.com
 displayce.com
@@ -1045,6 +1062,7 @@ fastclick.com
 fastclick.net
 fastlane.rubiconproject.com
 fbads24.com
+fearevolve.com
 felixads.com
 fk-mtrack.rayjump.com
 flashnetic.com
@@ -1095,6 +1113,7 @@ global.adform.net
 global.criteo.com
 globaladsmedia.us
 globaladtech.com
+globaldatapoints.com
 go.33across.com
 go.ad1data.com
 go.adsterra.com
@@ -1212,6 +1231,7 @@ imp.mgid.com
 imp.outbrain.com
 imp.taboola.com
 impact-ad.jp
+impchkdsp.com
 imprlatbmp.taboola.com
 imprnymp.taboola.com
 improvedigital.co.uk
@@ -1236,6 +1256,7 @@ inmobi.com
 inner-active.com
 inner-active.mobi
 insight.adsrvr.org
+insightenterprisells.com
 insights.hybrid.ai
 insparq.adblade.com
 insticator.com
@@ -1258,6 +1279,7 @@ j.microad.jp
 jadserve.postrelease.com
 jampp.com
 jat.gumgum.com
+jobmarcher.com
 js.adblade.com
 js.adsrvr.org
 js.geniee.co.jp
@@ -1274,6 +1296,7 @@ justwebads.com
 kayzen.io
 kelltanads.bid
 kelltanadsltd.com
+keyadapter.com
 kickoffo.site
 kloperd.com
 la-match.taboola.com
@@ -1320,6 +1343,7 @@ m.adnxs.com
 m.anycast.adnxs.com
 m.revcontent.com
 m2m1.inner-active.mobi
+m2pub.com
 mads.amazon-adsystem.com
 maltsalty.com
 market.epom.com
@@ -1369,13 +1393,17 @@ ms.applovin.com
 ms4.applovin.com
 msgdc.admaster.cc
 mssl.fwmrm.net
+mtrtb.com
 multissp.yieldlab.net
 murkymouse.online
 my.adskeeper.co.uk
 my.mobfox.com
 myads.360yield.com
 myadsystem.com
+mydsp.io
+myipinfo.io
 myopenads.com
+myweb3id.io
 n.ads1-adnow.com
 n.systemlog.me
 n100adserv.com
@@ -1416,6 +1444,7 @@ nt-sdkfnt-asia.dsp-api.moloco.com
 nt-sdkfnt-eu.dsp-api.moloco.com
 nt-sdkfnt-us.dsp-api.moloco.com
 ntv.io
+nutralove.co
 ny1-bid.adsrvr.org
 nym1-ib.adnxs-simple.com
 nym1-ib.adnxs.com
@@ -1528,6 +1557,8 @@ pixel.stackadapt.com
 pixel.taboola.com
 pixel.zergnet.com
 pixelmedia-asia.com
+plasticbells.com
+platc-tester.com
 platform-api.vistarmedia.com
 platform-cdn.sharethrough.com
 platform.admaster.cc
@@ -1549,6 +1580,7 @@ pmc-reporting.criteo.net
 popup.taboola.com
 post.update.criteo.com
 postrelease.com
+powerium.net
 powferads.com
 pp2-api.nextmillennium.io
 prebid-adapter.taboola.com
@@ -1624,6 +1656,7 @@ reindaks.com
 reinderk.com
 reingod.com
 remerge.io
+remindmewhere.app
 rendfy.com
 reporting.360yield.com
 reporting.fluct.jp
@@ -1937,6 +1970,7 @@ tags.brightroll.com
 tapjoy.com
 tapjoy.net
 tapjoyads.com
+tappads.io
 targetadserver.com
 targeting.unrulymedia.com
 tatari.tv
@@ -1945,6 +1979,8 @@ tcf.seedtag.com
 tcr.tynt.com
 teads.com
 teads.tv
+tekma-dmp.ai
+tekma.io
 telaria.com
 telemetry-gke-gw2.ssp.inmobi.com
 telemetry-gke-gw3.ssp.inmobi.com
@@ -2030,10 +2066,12 @@ tracking.tapjoy.com
 tracking.teads.tv
 tracking.unityads.unity3d.com
 tracking.zoomd.com
+tracookiepixel.xyz
 tradingworks.com
 traffic.outbrain.com
 trafficroots.com
 trakads.com
+trakking.co
 trc-analytics.taboola.com
 trc-china.taboola.com
 trc-eu.admaster.cc
@@ -2166,6 +2204,7 @@ vistarmedia.com
 vokutads.com
 vokutads.xml
 vokutads.xs
+volasim.com
 voominem.com
 vpdae.com
 vt.outbrain.com

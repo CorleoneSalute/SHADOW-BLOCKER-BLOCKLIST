@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2291
-# Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2330
+# Generated: 2026-10-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -75,6 +75,10 @@
 0.0.0.0 ad.plus
 0.0.0.0 ad.smaato.net
 0.0.0.0 ad.yieldlab.net
+0.0.0.0 ad120m.com
+0.0.0.0 ad127m.com
+0.0.0.0 ad131m.com
+0.0.0.0 ad132m.com
 0.0.0.0 ad1data.com
 0.0.0.0 ad7.biz
 0.0.0.0 adap.tv
@@ -158,6 +162,8 @@
 0.0.0.0 ads-bidstrade.io
 0.0.0.0 ads-i-cf.undertone.com
 0.0.0.0 ads-i.undertone.com
+0.0.0.0 ads-impressions.com
+0.0.0.0 ads-monitor.xyz
 0.0.0.0 ads-sdk.unityads.unity3d.com
 0.0.0.0 ads.adcolony.com
 0.0.0.0 ads.adhit.com
@@ -210,6 +216,7 @@
 0.0.0.0 adsconflux.com
 0.0.0.0 adsctv.com
 0.0.0.0 adsdomaintracking.com
+0.0.0.0 adsensei.ai
 0.0.0.0 adserve.dianomi.com
 0.0.0.0 adserve.tv
 0.0.0.0 adserve.zone
@@ -234,6 +241,7 @@
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adskeeper.net
+0.0.0.0 adsmarket.com
 0.0.0.0 adsmarketplace.com
 0.0.0.0 adsmart.com
 0.0.0.0 adsmart.com.tr
@@ -392,6 +400,7 @@
 0.0.0.0 ajxx91.online
 0.0.0.0 akamai-res1.applovin.com
 0.0.0.0 akamai.vungle-cdn.vungle.com
+0.0.0.0 akedo.gg
 0.0.0.0 alldcs.outbrain.org
 0.0.0.0 alphaads-group.com
 0.0.0.0 alphaadsdigital.com
@@ -632,6 +641,8 @@
 0.0.0.0 bluehost.outbrain.com
 0.0.0.0 bot.outbrain.com
 0.0.0.0 brightroll.com
+0.0.0.0 bringads.com
+0.0.0.0 bringads.ru
 0.0.0.0 broadstreetads.com
 0.0.0.0 bs-sec-gw.taboola.com
 0.0.0.0 btl.sharethrough.com
@@ -790,6 +801,7 @@
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 chance-ad.com
 0.0.0.0 chartboost.com
+0.0.0.0 checkmyimp.com
 0.0.0.0 chi2only.outbrain.com
 0.0.0.0 chocolateplatform.com
 0.0.0.0 cicloserv.com
@@ -835,12 +847,15 @@
 0.0.0.0 contentnet.adblade.com
 0.0.0.0 contextual.media.net
 0.0.0.0 contextweb.com
+0.0.0.0 controlium.net
 0.0.0.0 convammp.taboola.com
 0.0.0.0 convchmp.taboola.com
 0.0.0.0 conveump.taboola.com
 0.0.0.0 convhkmp.taboola.com
 0.0.0.0 convlatbmp.taboola.com
 0.0.0.0 convnjmp.taboola.com
+0.0.0.0 cookie-sync.xyz
+0.0.0.0 cookiesurfer.com
 0.0.0.0 cool.co
 0.0.0.0 cpa.adcolony.com
 0.0.0.0 cpa.adhit.com
@@ -909,8 +924,10 @@
 0.0.0.0 dis-ssl.criteo.com
 0.0.0.0 dis.eu.criteo.com
 0.0.0.0 dis.us.criteo.com
+0.0.0.0 discover-tech.io
 0.0.0.0 discover.outbrain.com
 0.0.0.0 discover.taboola.com
+0.0.0.0 discovertech-alb-100966113.us-east-1.elb.amazonaws.com
 0.0.0.0 discovery.outbrain.com
 0.0.0.0 display.bidder.taboola.com
 0.0.0.0 displayce.com
@@ -1045,6 +1062,7 @@
 0.0.0.0 fastclick.net
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fbads24.com
+0.0.0.0 fearevolve.com
 0.0.0.0 felixads.com
 0.0.0.0 fk-mtrack.rayjump.com
 0.0.0.0 flashnetic.com
@@ -1095,6 +1113,7 @@
 0.0.0.0 global.criteo.com
 0.0.0.0 globaladsmedia.us
 0.0.0.0 globaladtech.com
+0.0.0.0 globaldatapoints.com
 0.0.0.0 go.33across.com
 0.0.0.0 go.ad1data.com
 0.0.0.0 go.adsterra.com
@@ -1212,6 +1231,7 @@
 0.0.0.0 imp.outbrain.com
 0.0.0.0 imp.taboola.com
 0.0.0.0 impact-ad.jp
+0.0.0.0 impchkdsp.com
 0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 imprnymp.taboola.com
 0.0.0.0 improvedigital.co.uk
@@ -1236,6 +1256,7 @@
 0.0.0.0 inner-active.com
 0.0.0.0 inner-active.mobi
 0.0.0.0 insight.adsrvr.org
+0.0.0.0 insightenterprisells.com
 0.0.0.0 insights.hybrid.ai
 0.0.0.0 insparq.adblade.com
 0.0.0.0 insticator.com
@@ -1258,6 +1279,7 @@
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 jampp.com
 0.0.0.0 jat.gumgum.com
+0.0.0.0 jobmarcher.com
 0.0.0.0 js.adblade.com
 0.0.0.0 js.adsrvr.org
 0.0.0.0 js.geniee.co.jp
@@ -1274,6 +1296,7 @@
 0.0.0.0 kayzen.io
 0.0.0.0 kelltanads.bid
 0.0.0.0 kelltanadsltd.com
+0.0.0.0 keyadapter.com
 0.0.0.0 kickoffo.site
 0.0.0.0 kloperd.com
 0.0.0.0 la-match.taboola.com
@@ -1320,6 +1343,7 @@
 0.0.0.0 m.anycast.adnxs.com
 0.0.0.0 m.revcontent.com
 0.0.0.0 m2m1.inner-active.mobi
+0.0.0.0 m2pub.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 maltsalty.com
 0.0.0.0 market.epom.com
@@ -1369,13 +1393,17 @@
 0.0.0.0 ms4.applovin.com
 0.0.0.0 msgdc.admaster.cc
 0.0.0.0 mssl.fwmrm.net
+0.0.0.0 mtrtb.com
 0.0.0.0 multissp.yieldlab.net
 0.0.0.0 murkymouse.online
 0.0.0.0 my.adskeeper.co.uk
 0.0.0.0 my.mobfox.com
 0.0.0.0 myads.360yield.com
 0.0.0.0 myadsystem.com
+0.0.0.0 mydsp.io
+0.0.0.0 myipinfo.io
 0.0.0.0 myopenads.com
+0.0.0.0 myweb3id.io
 0.0.0.0 n.ads1-adnow.com
 0.0.0.0 n.systemlog.me
 0.0.0.0 n100adserv.com
@@ -1416,6 +1444,7 @@
 0.0.0.0 nt-sdkfnt-eu.dsp-api.moloco.com
 0.0.0.0 nt-sdkfnt-us.dsp-api.moloco.com
 0.0.0.0 ntv.io
+0.0.0.0 nutralove.co
 0.0.0.0 ny1-bid.adsrvr.org
 0.0.0.0 nym1-ib.adnxs-simple.com
 0.0.0.0 nym1-ib.adnxs.com
@@ -1528,6 +1557,8 @@
 0.0.0.0 pixel.taboola.com
 0.0.0.0 pixel.zergnet.com
 0.0.0.0 pixelmedia-asia.com
+0.0.0.0 plasticbells.com
+0.0.0.0 platc-tester.com
 0.0.0.0 platform-api.vistarmedia.com
 0.0.0.0 platform-cdn.sharethrough.com
 0.0.0.0 platform.admaster.cc
@@ -1549,6 +1580,7 @@
 0.0.0.0 popup.taboola.com
 0.0.0.0 post.update.criteo.com
 0.0.0.0 postrelease.com
+0.0.0.0 powerium.net
 0.0.0.0 powferads.com
 0.0.0.0 pp2-api.nextmillennium.io
 0.0.0.0 prebid-adapter.taboola.com
@@ -1624,6 +1656,7 @@
 0.0.0.0 reinderk.com
 0.0.0.0 reingod.com
 0.0.0.0 remerge.io
+0.0.0.0 remindmewhere.app
 0.0.0.0 rendfy.com
 0.0.0.0 reporting.360yield.com
 0.0.0.0 reporting.fluct.jp
@@ -1937,6 +1970,7 @@
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoy.net
 0.0.0.0 tapjoyads.com
+0.0.0.0 tappads.io
 0.0.0.0 targetadserver.com
 0.0.0.0 targeting.unrulymedia.com
 0.0.0.0 tatari.tv
@@ -1945,6 +1979,8 @@
 0.0.0.0 tcr.tynt.com
 0.0.0.0 teads.com
 0.0.0.0 teads.tv
+0.0.0.0 tekma-dmp.ai
+0.0.0.0 tekma.io
 0.0.0.0 telaria.com
 0.0.0.0 telemetry-gke-gw2.ssp.inmobi.com
 0.0.0.0 telemetry-gke-gw3.ssp.inmobi.com
@@ -2030,10 +2066,12 @@
 0.0.0.0 tracking.teads.tv
 0.0.0.0 tracking.unityads.unity3d.com
 0.0.0.0 tracking.zoomd.com
+0.0.0.0 tracookiepixel.xyz
 0.0.0.0 tradingworks.com
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 trafficroots.com
 0.0.0.0 trakads.com
+0.0.0.0 trakking.co
 0.0.0.0 trc-analytics.taboola.com
 0.0.0.0 trc-china.taboola.com
 0.0.0.0 trc-eu.admaster.cc
@@ -2166,6 +2204,7 @@
 0.0.0.0 vokutads.com
 0.0.0.0 vokutads.xml
 0.0.0.0 vokutads.xs
+0.0.0.0 volasim.com
 0.0.0.0 voominem.com
 0.0.0.0 vpdae.com
 0.0.0.0 vt.outbrain.com

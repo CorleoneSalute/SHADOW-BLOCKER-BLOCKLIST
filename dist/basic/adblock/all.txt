@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10064
-# Generated: 2026-10-15 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10103
+# Generated: 2026-10-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -278,6 +278,10 @@
 ||ad1.gtie.dell.com^
 ||ad1.reddit.com^
 ||ad1.xiaomi.com^
+||ad120m.com^
+||ad127m.com^
+||ad131m.com^
+||ad132m.com^
 ||ad1data.com^
 ||ad2.gtie.dell.com^
 ||ad2.reddit.com^
@@ -470,9 +474,11 @@
 ||ads-i.undertone.com^
 ||ads-ie.tiktokw.eu^
 ||ads-img.mozilla.org^
+||ads-impressions.com^
 ||ads-interfaces.sc-cdn.net^
 ||ads-media.1muslimapp.com^
 ||ads-media.truecaller.com^
+||ads-monitor.xyz^
 ||ads-partners.roku.com^
 ||ads-portal-api-gateway.optisigns.com^
 ||ads-preview.linkvertise.com^
@@ -736,6 +742,7 @@
 ||adsdomaintracking.com^
 ||adseaimg.apusapps.com^
 ||adsehera.ximalaya.com^
+||adsensei.ai^
 ||adserv.reddit.com^
 ||adserve.dianomi.com^
 ||adserve.tv^
@@ -782,6 +789,7 @@
 ||adskeeper.net^
 ||adsld.link^
 ||adsmanager.truecaller.com^
+||adsmarket.com^
 ||adsmarketplace.com^
 ||adsmart.com^
 ||adsmart.com.tr^
@@ -1073,6 +1081,7 @@
 ||aka-ulog.kwai-pro.com^
 ||akamai-res1.applovin.com^
 ||akamai.vungle-cdn.vungle.com^
+||akedo.gg^
 ||akstat.io^
 ||al-info-lgsmartad-com.aws-prd.net^
 ||al-rdx2-lgtvsdp-com.aws-prd.net^
@@ -2658,6 +2667,8 @@
 ||brightdata.digital^
 ||brightdata.work^
 ||brightroll.com^
+||bringads.com^
+||bringads.ru^
 ||briskrange.com^
 ||brisktopia.com^
 ||broadstreetads.com^
@@ -3018,6 +3029,7 @@
 ||chat.analytics.eu.restream.io^
 ||chat.analytics.restream.io^
 ||chatmaduras.com^
+||checkmyimp.com^
 ||checkout51.com^
 ||cheekylovers.com^
 ||cheqzone.com^
@@ -3319,6 +3331,7 @@
 ||control-zoo-dai-default.tvinteractive.tv^
 ||control.tvinteractive.tv^
 ||control2.tvinteractive.tv^
+||controlium.net^
 ||convammp.taboola.com^
 ||convchmp.taboola.com^
 ||conversion.adikteev.com^
@@ -3335,7 +3348,9 @@
 ||convlatbmp.taboola.com^
 ||convnjmp.taboola.com^
 ||convtrack.facebook.com^
+||cookie-sync.xyz^
 ||cookiecheck.criteo.com^
+||cookiesurfer.com^
 ||cool.co^
 ||cooper.logs.roku.com^
 ||copilot-telemetry.githubusercontent.com^
@@ -3708,9 +3723,11 @@
 ||dis.eu.criteo.com^
 ||dis.nl.eu.criteo.com^
 ||dis.us.criteo.com^
+||discover-tech.io^
 ||discover.outbrain.com^
 ||discover.taboola.com^
 ||discoverorg.com^
+||discovertech-alb-100966113.us-east-1.elb.amazonaws.com^
 ||discovery.outbrain.com^
 ||discuss-metrics.getsol.us^
 ||diskreviver.com^
@@ -4236,6 +4253,7 @@
 ||fclog.baidu.com^
 ||fe02.lg.xiaomi.com^
 ||fe05.lg.xiaomi.com^
+||fearevolve.com^
 ||featureassets.org^
 ||featuregates.org^
 ||fedora-telemetry.org^
@@ -4490,6 +4508,7 @@
 ||globaladsmedia.us^
 ||globaladtech.com^
 ||globalapi.ad.xiaomi.com^
+||globaldatapoints.com^
 ||globalreport.ad.intl.xiaomi.com^
 ||gloyah.net^
 ||glvamr.com^
@@ -4843,6 +4862,7 @@
 ||impact-ad.net^
 ||impactcdn.com^
 ||impactradius-event.com^
+||impchkdsp.com^
 ||impression.adikteev.com^
 ||impression.appsflyer.com^
 ||impression.remerge.io^
@@ -4928,6 +4948,7 @@
 ||input.shouji.sogou.com^
 ||inscape.tv^
 ||insight.adsrvr.org^
+||insightenterprisells.com^
 ||insights-api-ms.brightdata.com^
 ||insights-api.brightdata.com^
 ||insights-collector.gog.com^
@@ -5025,6 +5046,7 @@
 ||jetclean.com^
 ||jewishfriendfinder.com^
 ||jilliandescribecompany.com^
+||jobmarcher.com^
 ||jp.ad.lgsmartad.com^
 ||jp.info.lgsmartad.com^
 ||jp.rdx2.lgtvsdp.com^
@@ -5070,6 +5092,7 @@
 ||kerishproducts.com^
 ||kernellog.browser.oppomobile.com^
 ||kernellogf.browser.oppomobile.com^
+||keyadapter.com^
 ||keybank.md-apis.medallia.com^
 ||kializer.com^
 ||kibana-log.cleverdialer.com^
@@ -5576,6 +5599,7 @@
 ||m1.baidu.com^
 ||m1.merkle.com^
 ||m2m1.inner-active.mobi^
+||m2pub.com^
 ||mac-ads-cleaner.com^
 ||mac-cleanup-pro.com^
 ||mac-speedup-pro.com^
@@ -6275,6 +6299,7 @@
 ||msx.rtb.linkedin.com^
 ||mtch-analytics.com^
 ||mtj.baidu.com^
+||mtrtb.com^
 ||mug.criteo.com^
 ||multiply.crwdcntrl.net^
 ||multissp.yieldlab.net^
@@ -6304,14 +6329,17 @@
 ||mycleanid.com^
 ||mycleanmac.com^
 ||mycleanpc.com^
+||mydsp.io^
 ||myhackedemail.com^
 ||myherotech.com^
+||myipinfo.io^
 ||mylead.global^
 ||mynwaf.com^
 ||myopenads.com^
 ||mypasslock.com^
 ||myshagaholic.com^
 ||mywallet.ads.bravesoftware.com^
+||myweb3id.io^
 ||n.ads1-adnow.com^
 ||n.clarity.ms^
 ||n.jwpltx.com^
@@ -6434,6 +6462,7 @@
 ||nudge.lgtvcommon.com^
 ||nuomi-metric.baidu.com^
 ||nuomimetric.baidu.com^
+||nutralove.co^
 ||nvcrashreporter.nvidia.com^
 ||nvidia.telemetry.internet.microsoft.com^
 ||nvidia.tt.omtrdc.net^
@@ -6839,6 +6868,8 @@
 ||placed.com^
 ||pladollmo.com^
 ||planning-analytics.ibmcloud.com^
+||plasticbells.com^
+||platc-tester.com^
 ||platform-api.vistarmedia.com^
 ||platform-cdn.sharethrough.com^
 ||platform.admaster.cc^
@@ -6897,6 +6928,7 @@
 ||posthog.hss.element.io^
 ||postman.fortect.com^
 ||postrelease.com^
+||powerium.net^
 ||powersuite.com^
 ||powferads.com^
 ||pp2-api.nextmillennium.io^
@@ -7138,6 +7170,7 @@
 ||relay.flo.health^
 ||relay.fullstory.com^
 ||remerge.io^
+||remindmewhere.app^
 ||removemenow.com^
 ||rendfy.com^
 ||replay.sentry.io^
@@ -8443,6 +8476,7 @@
 ||tapjoy.com^
 ||tapjoy.net^
 ||tapjoyads.com^
+||tappads.io^
 ||target-us.samsung.com^
 ||targetadserver.com^
 ||targeted-config-test.samsungacr.com^
@@ -8465,6 +8499,8 @@
 ||tealiumiq.com^
 ||techsupport.paretologic.com^
 ||techyutils.com^
+||tekma-dmp.ai^
+||tekma.io^
 ||telaria.com^
 ||telemetrics-collector.01.org^
 ||telemetry-analytic-api.optisigns.com^
@@ -9239,6 +9275,7 @@
 ||tracksrv.zdf.de^
 ||trackworld-model-1.apps.allenai.org^
 ||trackworld-model-2.apps.allenai.org^
+||tracookiepixel.xyz^
 ||tradingworks.com^
 ||traffic-analytics.ghost.org^
 ||traffic-media.co^
@@ -9246,6 +9283,7 @@
 ||traffic.outbrain.com^
 ||trafficroots.com^
 ||trakads.com^
+||trakking.co^
 ||trc-analytics.taboola.com^
 ||trc-china.taboola.com^
 ||trc-eu.admaster.cc^
@@ -9652,6 +9690,7 @@
 ||vokutads.com^
 ||vokutads.xml^
 ||vokutads.xs^
+||volasim.com^
 ||volcano.analytics.swiftkey.com^
 ||volvo.md-apis.medallia.com^
 ||voominem.com^
