@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10114
+# Total domains: 10115
 # Generated: 2026-10-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3819,6 +3819,7 @@
 ||drmcru.com^
 ||drmpay.com^
 ||drp.su^
+||drupalmetrics.ppg.apple.com^
 ||dsp-api.smartyads.com^
 ||dsp-cdn.eskimi.com^
 ||dsp-trk.eskimi.com^
