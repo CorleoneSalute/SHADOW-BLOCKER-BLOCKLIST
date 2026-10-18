@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 293
-# Total platforms: 103
+# Total platforms: 104
 # Last update: 2026/10/18
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -516,3 +516,12 @@ skybetcasino.fr
 
 metrics.lider-bet.com
 track.lider-bet.com
+
+# V Venture Limited
+
+track.victorybet.ro
+crash.vbet.ro
+ad.vbet.com
+ad.offers-ua.vbet.com
+smtracking.vbet.com
+track.vbet.com
