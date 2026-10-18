@@ -76,3 +76,7 @@ telemetry.dataplatform.zing.coach
 sentry.api.stronglifts.com
 analytics.stronglifts.com
 stats.stronglifts.com
+
+# AI Sparks Labs, LLC / Better Labs
+
+analytics.eatbetter.app
