@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 357
+# Total domains: 358
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -77,6 +77,7 @@
 ||analysis-output.telemetry.mozilla.org^
 ||analytics.brave.com^
 ||analytics.brave.software^
+||analytics.bravesoftware.com^
 ||analytics.help.yahoo.com^
 ||analytics.query.yahoo.com^
 ||analytics.yahoo.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10593
+# Total domains: 10594
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1350,6 +1350,7 @@
 ||analytics.branch.io^
 ||analytics.brave.com^
 ||analytics.brave.software^
+||analytics.bravesoftware.com^
 ||analytics.britbox.com^
 ||analytics.bsplayer.com^
 ||analytics.bumble.com^
