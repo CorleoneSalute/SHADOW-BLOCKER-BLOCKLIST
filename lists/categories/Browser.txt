@@ -149,6 +149,7 @@ static.metrics.bravesoftware.com
 usage-ping.bravesoftware.com !
 analytics.brave.software
 usage-ping.brave.software !
+analytics.bravesoftware.com
 
 # OPERA
 telemetry.opera.com
