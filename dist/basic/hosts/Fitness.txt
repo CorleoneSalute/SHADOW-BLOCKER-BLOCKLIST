@@ -1,7 +1,7 @@
 # ============================================================
 # FITNESS BLOCKLIST - BASIC
-# Total domains: 35
-# Generated: 2026-10-16 (UTC) - auto-generated, do not edit by hand
+# Total domains: 36
+# Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -10,6 +10,7 @@
 0.0.0.0 analytic.underarmour.com
 0.0.0.0 analytics-api.obefitness.com
 0.0.0.0 analytics-cdn.obefitness.com
+0.0.0.0 analytics.eatbetter.app
 0.0.0.0 analytics.myfitnesspal.com
 0.0.0.0 analytics.noom.com
 0.0.0.0 analytics.onepeloton.com

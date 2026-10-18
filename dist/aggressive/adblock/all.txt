@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10584
-# Generated: 2026-10-16 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10585
+# Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -1424,6 +1424,7 @@
 ||analytics.drift.com^
 ||analytics.drift.trade^
 ||analytics.duosecurity.com^
+||analytics.eatbetter.app^
 ||analytics.eatthismuch.com^
 ||analytics.ecrettmusic.com^
 ||analytics.elevenlabs.io^

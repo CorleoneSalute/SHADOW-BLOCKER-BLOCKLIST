@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10116
-# Generated: 2026-10-16 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10117
+# Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -1378,6 +1378,7 @@
 0.0.0.0 analytics.drift.com
 0.0.0.0 analytics.drift.trade
 0.0.0.0 analytics.duosecurity.com
+0.0.0.0 analytics.eatbetter.app
 0.0.0.0 analytics.eatthismuch.com
 0.0.0.0 analytics.ecrettmusic.com
 0.0.0.0 analytics.elevenlabs.io
