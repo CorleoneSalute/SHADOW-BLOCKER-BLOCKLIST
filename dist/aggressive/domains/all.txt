@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10587
+# Total domains: 10593
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -268,6 +268,7 @@ ad.mi.com
 ad.minigame.vip
 ad.mxplayer.in
 ad.nettvservices.com
+ad.offers-ua.vbet.com
 ad.picr.de
 ad.playstation.net
 ad.plus
@@ -284,6 +285,7 @@ ad.streamsilk.com
 ad.thefacebook.com
 ad.tiktokv.com
 ad.tiktokv.us
+ad.vbet.com
 ad.vera.bet.br
 ad.vrvm.com
 ad.weibo.com
@@ -3507,6 +3509,7 @@ crash.pcsafe.360safe.com
 crash.shazam.com
 crash.sonymobile.com
 crash.soundhound.com
+crash.vbet.ro
 crash.vivaldi.com
 crashdump.spotify.com
 crashes.1password.com
@@ -8409,6 +8412,7 @@ sms-ads-ru.heytapmobile.com
 sms-sg.ads.heytapmobile.com
 sms.ads.heytapmobi.com
 sms.ads.oppomobile.com
+smtracking.vbet.com
 snap.licdn.com
 snapads.com
 snapmobile.asia
@@ -9455,6 +9459,8 @@ track.trafficguard.ai
 track.u.send.microad.jp
 track.underarmour.com
 track.vanceai.com
+track.vbet.com
+track.victorybet.ro
 track.vip.5bet.com
 track.webgains.com
 track.winegifts.wine.com

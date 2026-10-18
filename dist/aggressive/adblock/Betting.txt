@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 293
+# Total domains: 299
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -11,8 +11,10 @@
 ||abtmetric.espn.go.com^
 ||ad.betcity.ru^
 ||ad.betou.bet.br^
+||ad.offers-ua.vbet.com^
 ||ad.sortenabet.bet.br^
 ||ad.srv.giantlottos.com^
+||ad.vbet.com^
 ||ad.vera.bet.br^
 ||adjust.stats.zynga.com^
 ||ads.7k.bet.br^
@@ -102,6 +104,7 @@
 ||collector1-eu-west.pokerist.com^
 ||collector1-us-east.pokerist.com^
 ||collector1-us-west.pokerist.com^
+||crash.vbet.ro^
 ||ct.zynga.com^
 ||data.a.fanatics.com^
 ||data.adobe.fanatics.com^
@@ -216,6 +219,7 @@
 ||smetrics.tab.com.au^
 ||smetrics.williamhill.com^
 ||smetrics2.williamhill.com^
+||smtracking.vbet.com^
 ||snow-track.playtika.com^
 ||sp-track.fliptheswitch.com^
 ||sp-track.sbotop.net^
@@ -254,6 +258,8 @@
 ||track.mayhem.cbssports.com^
 ||track.plotx.io^
 ||track.poker.zynga.com^
+||track.vbet.com^
+||track.victorybet.ro^
 ||track.vip.5bet.com^
 ||tracker.williamhill.com^
 ||tracking.chanced.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 293
+# Total domains: 299
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -11,8 +11,10 @@
 0.0.0.0 abtmetric.espn.go.com
 0.0.0.0 ad.betcity.ru
 0.0.0.0 ad.betou.bet.br
+0.0.0.0 ad.offers-ua.vbet.com
 0.0.0.0 ad.sortenabet.bet.br
 0.0.0.0 ad.srv.giantlottos.com
+0.0.0.0 ad.vbet.com
 0.0.0.0 ad.vera.bet.br
 0.0.0.0 adjust.stats.zynga.com
 0.0.0.0 ads.7k.bet.br
@@ -102,6 +104,7 @@
 0.0.0.0 collector1-eu-west.pokerist.com
 0.0.0.0 collector1-us-east.pokerist.com
 0.0.0.0 collector1-us-west.pokerist.com
+0.0.0.0 crash.vbet.ro
 0.0.0.0 ct.zynga.com
 0.0.0.0 data.a.fanatics.com
 0.0.0.0 data.adobe.fanatics.com
@@ -216,6 +219,7 @@
 0.0.0.0 smetrics.tab.com.au
 0.0.0.0 smetrics.williamhill.com
 0.0.0.0 smetrics2.williamhill.com
+0.0.0.0 smtracking.vbet.com
 0.0.0.0 snow-track.playtika.com
 0.0.0.0 sp-track.fliptheswitch.com
 0.0.0.0 sp-track.sbotop.net
@@ -254,6 +258,8 @@
 0.0.0.0 track.mayhem.cbssports.com
 0.0.0.0 track.plotx.io
 0.0.0.0 track.poker.zynga.com
+0.0.0.0 track.vbet.com
+0.0.0.0 track.victorybet.ro
 0.0.0.0 track.vip.5bet.com
 0.0.0.0 tracker.williamhill.com
 0.0.0.0 tracking.chanced.com

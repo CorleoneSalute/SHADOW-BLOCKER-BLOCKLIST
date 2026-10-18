@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10587
+# Total domains: 10593
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -268,6 +268,7 @@
 0.0.0.0 ad.minigame.vip
 0.0.0.0 ad.mxplayer.in
 0.0.0.0 ad.nettvservices.com
+0.0.0.0 ad.offers-ua.vbet.com
 0.0.0.0 ad.picr.de
 0.0.0.0 ad.playstation.net
 0.0.0.0 ad.plus
@@ -284,6 +285,7 @@
 0.0.0.0 ad.thefacebook.com
 0.0.0.0 ad.tiktokv.com
 0.0.0.0 ad.tiktokv.us
+0.0.0.0 ad.vbet.com
 0.0.0.0 ad.vera.bet.br
 0.0.0.0 ad.vrvm.com
 0.0.0.0 ad.weibo.com
@@ -3507,6 +3509,7 @@
 0.0.0.0 crash.shazam.com
 0.0.0.0 crash.sonymobile.com
 0.0.0.0 crash.soundhound.com
+0.0.0.0 crash.vbet.ro
 0.0.0.0 crash.vivaldi.com
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 crashes.1password.com
@@ -8409,6 +8412,7 @@
 0.0.0.0 sms-sg.ads.heytapmobile.com
 0.0.0.0 sms.ads.heytapmobi.com
 0.0.0.0 sms.ads.oppomobile.com
+0.0.0.0 smtracking.vbet.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 snapads.com
 0.0.0.0 snapmobile.asia
@@ -9455,6 +9459,8 @@
 0.0.0.0 track.u.send.microad.jp
 0.0.0.0 track.underarmour.com
 0.0.0.0 track.vanceai.com
+0.0.0.0 track.vbet.com
+0.0.0.0 track.victorybet.ro
 0.0.0.0 track.vip.5bet.com
 0.0.0.0 track.webgains.com
 0.0.0.0 track.winegifts.wine.com
