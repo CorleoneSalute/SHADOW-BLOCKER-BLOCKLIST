@@ -30,6 +30,7 @@ ad.donefirst.com
 
 # BRIGHTSIDE
 analytics.api.brightside.com
+analytics.brightside.com
 
 # REJOYN
 smetrics.rejoyn.com
