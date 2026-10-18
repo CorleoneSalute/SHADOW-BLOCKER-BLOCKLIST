@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10126
+# Total domains: 10127
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1305,6 +1305,7 @@ analytics.branch.io
 analytics.brave.com
 analytics.brave.software
 analytics.bravesoftware.com
+analytics.brightside.com
 analytics.britbox.com
 analytics.bsplayer.com
 analytics.bumble.com

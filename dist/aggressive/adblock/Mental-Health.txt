@@ -1,6 +1,6 @@
 # ============================================================
 # MENTAL HEALTH BLOCKLIST - AGGRESSIVE
-# Total domains: 33
+# Total domains: 34
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9,6 +9,7 @@
 ||afftrk.findoctave.com^
 ||analytic.wysa.io^
 ||analytics.api.brightside.com^
+||analytics.brightside.com^
 ||analytics.helloalma.com^
 ||analytics.lyrahealth.com^
 ||analytics.mavidahealth.com^
