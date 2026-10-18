@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10127
+# Total domains: 10128
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2804,6 +2804,7 @@
 0.0.0.0 captify.co
 0.0.0.0 captify.co.uk
 0.0.0.0 capture.trackjs.com
+0.0.0.0 car-app-sentry.d.xiaomi.net
 0.0.0.0 car-app-sentry.pt.xiaomi.net
 0.0.0.0 cas.ap-northeast-1.criteo.com
 0.0.0.0 cas.ap-south-1.criteo.com

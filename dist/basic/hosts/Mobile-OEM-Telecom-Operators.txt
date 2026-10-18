@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1070
+# Total domains: 1071
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -216,6 +216,7 @@
 0.0.0.0 br-st-sl.vivoglobal.com
 0.0.0.0 bugreport.pt.xiaomi.com
 0.0.0.0 bugreport.xiaomi.net
+0.0.0.0 car-app-sentry.d.xiaomi.net
 0.0.0.0 car-app-sentry.pt.xiaomi.net
 0.0.0.0 cc.ad.intl.xiaomi.com
 0.0.0.0 cc.di.runestone.samsung.com
