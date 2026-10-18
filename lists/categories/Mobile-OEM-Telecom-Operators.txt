@@ -372,6 +372,7 @@ miui-l7-data-other-c3.pt.miui.com
 miui-l7-data-other.pt.miui.com
 mqs-log.miui.com
 native.feedback.miui.com
+car-app-sentry.d.xiaomi.net
 ```
 
 ### Xiaomi Ad Network (56 domain)
