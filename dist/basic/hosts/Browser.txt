@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 331
+# Total domains: 333
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -317,6 +317,8 @@
 0.0.0.0 test-tips.shouji.sogou.com
 0.0.0.0 tips.shouji.sogou.com
 0.0.0.0 tongji.baidu.com
+0.0.0.0 track.bravesoftware.com
+0.0.0.0 track.chat.api.dnsecho.opera.com
 0.0.0.0 tracker.baidu.com
 0.0.0.0 tracker.yandex.com
 0.0.0.0 tracking.ott.yandex.com
