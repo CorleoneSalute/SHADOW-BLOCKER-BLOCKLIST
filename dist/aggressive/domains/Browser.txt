@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 360
+# Total domains: 361
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -228,6 +228,7 @@ metr.yandex.com
 metric.yandex.com
 metric.yimg.cn
 metrica.yandex.com
+metrica.yandex.ru
 metrics.baidu.com
 metrics.brave.com
 metrics.bravesoftware.com

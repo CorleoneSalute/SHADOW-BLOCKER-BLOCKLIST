@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10598
+# Total domains: 10599
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6030,6 +6030,7 @@
 0.0.0.0 metric.yandex.com
 0.0.0.0 metric.yimg.cn
 0.0.0.0 metrica.yandex.com
+0.0.0.0 metrica.yandex.ru
 0.0.0.0 metrics-a.wbx2.com
 0.0.0.0 metrics-ad-drcn.dt.hihonorcloud.com
 0.0.0.0 metrics-ad-drcn.dt.hihonorcloud.com.host
