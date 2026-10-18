@@ -150,6 +150,7 @@ usage-ping.bravesoftware.com !
 analytics.brave.software
 usage-ping.brave.software !
 analytics.bravesoftware.com
+track.bravesoftware.com
 
 # OPERA
 telemetry.opera.com
@@ -208,6 +209,7 @@ t-odx.geo.op-mobile.opera.com !
 t-odx.geo2.op-mobile.opera.com !
 t-odx.op-mobile.opera.com
 t.adx.opera.com
+track.chat.api.dnsecho.opera.com
 
 # UC BROWSER (Alibaba)
 gjapplog.ucweb.com
