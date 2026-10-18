@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10585
+# Total domains: 10587
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6203,6 +6203,7 @@ metrics.landr.com
 metrics.lenovo.com
 metrics.lensa-ai.com
 metrics.libbyapp.com
+metrics.lider-bet.com
 metrics.logitech.com
 metrics.luna.amazon.com
 metrics.lyft.com
@@ -9393,6 +9394,7 @@ track.joturl.com
 track.kajabi.com
 track.kakao.com
 track.kindara.com
+track.lider-bet.com
 track.ligatus.com
 track.linkconnector.com
 track.liveone.com

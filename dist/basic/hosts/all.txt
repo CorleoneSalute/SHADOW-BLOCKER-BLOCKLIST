@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10117
+# Total domains: 10119
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5931,6 +5931,7 @@
 0.0.0.0 metrics.lenovo.com
 0.0.0.0 metrics.lensa-ai.com
 0.0.0.0 metrics.libbyapp.com
+0.0.0.0 metrics.lider-bet.com
 0.0.0.0 metrics.logitech.com
 0.0.0.0 metrics.luna.amazon.com
 0.0.0.0 metrics.lyft.com
@@ -8975,6 +8976,7 @@
 0.0.0.0 track.kajabi.com
 0.0.0.0 track.kakao.com
 0.0.0.0 track.kindara.com
+0.0.0.0 track.lider-bet.com
 0.0.0.0 track.ligatus.com
 0.0.0.0 track.linkconnector.com
 0.0.0.0 track.liveone.com

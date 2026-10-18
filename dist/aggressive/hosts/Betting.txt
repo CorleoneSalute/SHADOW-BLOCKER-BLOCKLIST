@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 291
+# Total domains: 293
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -177,6 +177,7 @@
 0.0.0.0 metrics.drift.trade
 0.0.0.0 metrics.fanduel.com
 0.0.0.0 metrics.gnosischain.com
+0.0.0.0 metrics.lider-bet.com
 0.0.0.0 metrics.megawinslots.com
 0.0.0.0 metrics.playhugelottos.com
 0.0.0.0 metrics.riobet.com
@@ -248,6 +249,7 @@
 0.0.0.0 track.fantasy.cbssports.com
 0.0.0.0 track.football.cbssports.com
 0.0.0.0 track.hockey.cbssports.com
+0.0.0.0 track.lider-bet.com
 0.0.0.0 track.lottery.com
 0.0.0.0 track.mayhem.cbssports.com
 0.0.0.0 track.plotx.io

@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 283
+# Total domains: 285
 # Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -176,6 +176,7 @@
 ||metrics.drift.trade^
 ||metrics.fanduel.com^
 ||metrics.gnosischain.com^
+||metrics.lider-bet.com^
 ||metrics.megawinslots.com^
 ||metrics.playhugelottos.com^
 ||metrics.riobet.com^
@@ -240,6 +241,7 @@
 ||track.fantasy.cbssports.com^
 ||track.football.cbssports.com^
 ||track.hockey.cbssports.com^
+||track.lider-bet.com^
 ||track.lottery.com^
 ||track.mayhem.cbssports.com^
 ||track.plotx.io^
