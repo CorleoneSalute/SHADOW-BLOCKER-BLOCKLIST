@@ -7973,6 +7973,7 @@ beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.cdn.qq.com
 beacon.cdnma.com
+beacon.cdnpure.com
 beacon.coofis.com
 beacon.dropbox.com
 beacon.errorception.com
@@ -15126,6 +15127,7 @@ flashb.id
 flashplayerfeedback.adobe.com
 flashstats.libsyn.com
 flashtexting.com
+flatpebble.com
 flavors.firmenich.com
 flcounter.com
 fldoai.municipal.com
@@ -15447,6 +15449,7 @@ frdoki.nailcolor.work
 frdoki.selftanning.work
 frdoki.studioglass.work
 frdoki.woodblock.work
+freakywacko.com
 free-counter.co.uk
 free-counter.com
 free-counters.co.uk
@@ -16858,6 +16861,7 @@ gravitec.net
 gravity4.com
 gravitygive.com
 gravitykick.com
+graychalk.com
 graylog.prod.cams.run
 grayoranges.com
 grayreceipt.com
@@ -29771,6 +29775,7 @@ r.sdiapi.net
 r.skimresources.com
 r.sportsie.com
 r.stripe.com
+r.upload.app
 r.winf.site
 r.wz.de
 r1ztni.oui.sncf
@@ -38381,6 +38386,7 @@ stats.tazeros.com
 stats.tdameritrade.com
 stats.te.com
 stats.teamdetails.com
+stats.techinate.com
 stats.tedserbinski.com
 stats.teenranch.com
 stats.tekin.co.uk
