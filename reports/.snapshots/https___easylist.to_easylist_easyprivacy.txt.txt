@@ -14879,6 +14879,7 @@ farshake.com
 farsnails.com
 fashion.edm.globalsources.com
 fashion.tradeshow.globalsources.com
+fashionposter.com
 fast-counter.net
 fast-thinking.co.uk
 fast.icars.cc
@@ -15185,6 +15186,7 @@ flyflightstar.com
 flyingpt.com
 flystranger.com
 flysupercars.com
+flyyoung.net
 flznib.weblio.jp
 fma7.aegon.es
 fmbankva.actonservice.com
@@ -15338,6 +15340,7 @@ fp.mandatum.fi
 fp.mandatumlife.fi
 fp.mandatumtrader.fi
 fp.measure.office.com
+fp.uncensored.com
 fpa-cdn.adweek.com
 fpa-cdn.arstechnica.com
 fpad.jp
@@ -15712,6 +15715,7 @@ gaconnector.com
 gadgetboy.net
 gagysn.floward.com
 gahhfg.bobo.com.br
+gaij.app
 gak.webtoons.com
 galaxiemedia.fr
 galileotelemetry.tencent.com
@@ -17063,6 +17067,7 @@ harborcaption.com
 harborcontrol.com
 harborcub.com
 hardinet.actonservice.com
+hardsixhockey.net
 hariken.co
 harlan.actonservice.com
 harman.epoise.com
@@ -17416,6 +17421,7 @@ homeyware.com
 honestharbor.com
 honeybulb.com
 honeybutterbliss.com
+honeyscene.com
 honorablehydrant.com
 honorableland.com
 hoojts.demmelhuber.net
@@ -20235,6 +20241,7 @@ knapia.weightwatchers.com
 knewpenny.com
 knfjhy.echo.msk.ru
 knifetreasury.com
+knightface.com
 knitstamp.com
 knjybs.luminis-films.com
 knlqeu.jewlr.com
@@ -25996,6 +26003,7 @@ mgln.ai
 mgn.ebis.xn--olsz5f0ufw02b.net
 mgntat.mno.link
 mgptul.finson.com
+mgrace.net
 mgt7.madeindesign.it
 mgtmod01.com
 mh9qqwotr890.koelewijn.nl
@@ -26523,6 +26531,7 @@ mx.information.maileva.com
 mx.mywd.com
 mx2.carte-gr.total.fr
 mx2.happ.social
+mxanalytics.youruncensoredai.workers.dev
 mxapis.com
 mxcdn.net
 mxdzxd.mister-auto.com
@@ -29653,7 +29662,6 @@ quadquality.com
 quadran.eu
 qualaroo.com
 qualitas-app.hotdoc.com.au
-qualtrics.com
 quant.jp
 quantcount.com
 quantserve.com
@@ -30165,6 +30173,7 @@ report-uri.io
 report.23video.com
 report.appmetrica.yandex.net.iberostar.com
 report.meituan.com
+report.senzia.cc
 reportic.app
 reporting-api.gannettinnovation.com
 reporting.autographapp.me
@@ -39610,6 +39619,7 @@ t.usctrojans.com
 t.utahstateaggies.com
 t.utrockets.com
 t.valcyte.com
+t.venice.ai
 t.veranstaltungsticket-bahn.de
 t.vibe.co
 t.villanova.com
