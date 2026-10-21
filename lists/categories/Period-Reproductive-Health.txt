@@ -99,6 +99,7 @@ analytics.avawomen.com
 
 # Daysy (Valley Electronics)
 analytics.daysy.me
+sentry2.daysy.me
 
 # Sympto
 analytics.sympto.org
