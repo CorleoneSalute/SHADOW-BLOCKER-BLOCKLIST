@@ -37,6 +37,7 @@ ads.viber.com
 ads.cdn.viber.com
 ads-d.viber.com
 ads-d.integration.viber.com
+analytics.viber.com
 
 # Line
 crs-event.line.me
