@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10611
+# Total domains: 10612
 # Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2393,6 +2393,7 @@ apples-analytics.pad.squareup.com
 application-logs-disk-production.s3-private.mds.yandex.net
 applinking.market.xiaomi.com
 applog.bolt.eu
+applog.linguee.com
 applog.musical.ly
 applog.snssdk.com
 applog.tiktokv.com

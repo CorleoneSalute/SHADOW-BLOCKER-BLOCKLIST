@@ -1,7 +1,7 @@
 # Language Learning & Translation Blocklist
 
-# Total domains: 57
-# Last update: 2026/09/22
+# Total domains: 58
+# Last update: 2026/10/21
 # Note: trailing "!" marks a domain as aggressive-only
 
 # DEEPL

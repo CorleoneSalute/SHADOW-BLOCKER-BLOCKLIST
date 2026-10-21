@@ -1,6 +1,6 @@
 # ============================================================
 # LANGUAGE LEARNING TRANSLATION BLOCKLIST - BASIC
-# Total domains: 54
+# Total domains: 55
 # Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -49,6 +49,7 @@
 0.0.0.0 analytics.vpc.duolingo.com
 0.0.0.0 analytics.wordreference.com
 0.0.0.0 analytics.yabla.com
+0.0.0.0 applog.linguee.com
 0.0.0.0 collect.babbel.io
 0.0.0.0 logs.tandem.net
 0.0.0.0 marketing-tracker.babbel.com

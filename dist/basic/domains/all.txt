@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10143
+# Total domains: 10144
 # Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2336,6 +2336,7 @@ applemediaservices.com
 apples-analytics.pad.squareup.com
 application-logs-disk-production.s3-private.mds.yandex.net
 applog.bolt.eu
+applog.linguee.com
 applog.musical.ly
 applog.snssdk.com
 applog.tiktokv.com
