@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10144
+# Total domains: 10145
 # Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5211,6 +5211,7 @@
 ||lijit.net^
 ||likervertising.com^
 ||line2.adscore.api.biligame.net^
+||lineman-ads.line.me^
 ||link-share.com^
 ||linkbucks.com^
 ||linkconnector.com^

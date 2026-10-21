@@ -1,6 +1,6 @@
 # MESSAGING APPS BLOCKLIST
 
-# Total domains: 38
+# Total domains: 39
 # Last update: 2026/10/21
 # Note: trailing "!" marks a domain as aggressive-only
 
