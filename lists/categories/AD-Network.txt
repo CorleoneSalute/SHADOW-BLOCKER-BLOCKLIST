@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2330
-# Total platforms: 307
+# Total platforms: 312
 # Last update: 2026/10/16
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3179,3 +3179,29 @@ jobmarcher.com
 insightenterprisells.com
 plasticbells.com
 discovertech-alb-100966113.us-east-1.elb.amazonaws.com
+
+# PANOT
+
+panotads.com
+
+# Adtrck
+
+adktrack.com
+adktrack68.xyz
+adktrack124.xyz
+adktrack.124.xyz
+
+# R2 Ads
+
+r2ads.online
+
+# Tarrob Web Services (Tarcorp, Inc.)
+
+tarrobads.com
+
+# LightAd DSP (Three Spring Media LTD)
+
+lightad.com
+ads-lightad.com
+rmediaads.com
+threespringmedia.go2cloud.org
