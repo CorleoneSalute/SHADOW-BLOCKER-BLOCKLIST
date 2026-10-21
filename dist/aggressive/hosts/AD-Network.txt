@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2330
-# Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2341
+# Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -116,6 +116,10 @@
 0.0.0.0 adinmo.com
 0.0.0.0 adition.com
 0.0.0.0 adjust.applovin.com
+0.0.0.0 adktrack.124.xyz
+0.0.0.0 adktrack.com
+0.0.0.0 adktrack124.xyz
+0.0.0.0 adktrack68.xyz
 0.0.0.0 adlabz.co
 0.0.0.0 adleave.com
 0.0.0.0 adlocus.com
@@ -163,6 +167,7 @@
 0.0.0.0 ads-i-cf.undertone.com
 0.0.0.0 ads-i.undertone.com
 0.0.0.0 ads-impressions.com
+0.0.0.0 ads-lightad.com
 0.0.0.0 ads-monitor.xyz
 0.0.0.0 ads-sdk.unityads.unity3d.com
 0.0.0.0 ads.adcolony.com
@@ -1318,6 +1323,7 @@
 0.0.0.0 ligatus.com
 0.0.0.0 ligatus.de
 0.0.0.0 ligatus.fr
+0.0.0.0 lightad.com
 0.0.0.0 lijit.com
 0.0.0.0 lijit.net
 0.0.0.0 likervertising.com
@@ -1503,6 +1509,7 @@
 0.0.0.0 pangle.io
 0.0.0.0 pangleglobal.com
 0.0.0.0 pangolin-sdk-toutiao.com
+0.0.0.0 panotads.com
 0.0.0.0 partner.oceanengine.com
 0.0.0.0 passendo.com
 0.0.0.0 paved.com
@@ -1635,6 +1642,7 @@
 0.0.0.0 r.applovin.com
 0.0.0.0 r.ligatus.com
 0.0.0.0 r.teads.tv
+0.0.0.0 r2ads.online
 0.0.0.0 radiumone.com
 0.0.0.0 randiul.com
 0.0.0.0 rate.outbrain.com
@@ -1678,6 +1686,7 @@
 0.0.0.0 rfihub.net
 0.0.0.0 rhythmone.com
 0.0.0.0 risecodes.com
+0.0.0.0 rmediaads.com
 0.0.0.0 rmp-api.moloco.com
 0.0.0.0 rmp-cdn.moloco.com
 0.0.0.0 rmp.gsspat.jp
@@ -1973,6 +1982,7 @@
 0.0.0.0 tappads.io
 0.0.0.0 targetadserver.com
 0.0.0.0 targeting.unrulymedia.com
+0.0.0.0 tarrobads.com
 0.0.0.0 tatari.tv
 0.0.0.0 taurusx.com
 0.0.0.0 tcf.seedtag.com
@@ -1993,6 +2003,7 @@
 0.0.0.0 thetradedesk.com
 0.0.0.0 thind.unityads.unity3d.com
 0.0.0.0 thinktot.com
+0.0.0.0 threespringmedia.go2cloud.org
 0.0.0.0 thumbs.mgid.com
 0.0.0.0 thumbs.outbrain.com
 0.0.0.0 thumbs.plista.com

@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10131
-# Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10142
+# Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -365,6 +365,10 @@
 ||adjustevents.purevpn.com^
 ||adjustyourtracking.vhx.tv^
 ||adkernel.crakrevenue.com^
+||adktrack.124.xyz^
+||adktrack.com^
+||adktrack124.xyz^
+||adktrack68.xyz^
 ||adlabz.co^
 ||adleave.com^
 ||adlocus.com^
@@ -478,6 +482,7 @@
 ||ads-img.mozilla.org^
 ||ads-impressions.com^
 ||ads-interfaces.sc-cdn.net^
+||ads-lightad.com^
 ||ads-media.1muslimapp.com^
 ||ads-media.truecaller.com^
 ||ads-monitor.xyz^
@@ -5199,6 +5204,7 @@
 ||ligatus.com^
 ||ligatus.de^
 ||ligatus.fr^
+||lightad.com^
 ||lijit.com^
 ||lijit.net^
 ||likervertising.com^
@@ -6701,6 +6707,7 @@
 ||pangleglobal.com^
 ||pangolin-sdk-toutiao.com^
 ||pangolin.snssdk.com^
+||panotads.com^
 ||panteroneonfire.com^
 ||paolo.logs.roku.com^
 ||par.service.criteo.net^
@@ -7109,6 +7116,7 @@
 ||r.lr-ingest.io^
 ||r.lrkt-in.com^
 ||r.teads.tv^
+||r2ads.online^
 ||rabidcleaner.com^
 ||raboninco.com^
 ||radiumone.com^
@@ -7257,6 +7265,7 @@
 ||ringcentral.112.2o7.net^
 ||risecodes.com^
 ||rkhbxm26.topazlabs.com^
+||rmediaads.com^
 ||rmmetrics.mcafee.com^
 ||rmp-api.moloco.com^
 ||rmp-cdn.moloco.com^
@@ -8504,6 +8513,7 @@
 ||targetadserver.com^
 ||targeted-config-test.samsungacr.com^
 ||targeting.unrulymedia.com^
+||tarrobads.com^
 ||tattle.api.osano.com^
 ||taurusx.com^
 ||tbm.snssdk.com^
@@ -8770,6 +8780,7 @@
 ||thetradedesk.com^
 ||thind.unityads.unity3d.com^
 ||thinktot.com^
+||threespringmedia.go2cloud.org^
 ||throtle.io^
 ||thumbs.mgid.com^
 ||thumbs.outbrain.com^

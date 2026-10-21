@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10599
-# Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10610
+# Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -383,6 +383,10 @@ adjust.stats.zynga.com
 adjustevents.purevpn.com
 adjustyourtracking.vhx.tv
 adkernel.crakrevenue.com
+adktrack.124.xyz
+adktrack.com
+adktrack124.xyz
+adktrack68.xyz
 adlabz.co
 adleave.com
 adlock.org
@@ -499,6 +503,7 @@ ads-ie.tiktokw.eu
 ads-img.mozilla.org
 ads-impressions.com
 ads-interfaces.sc-cdn.net
+ads-lightad.com
 ads-media.1muslimapp.com
 ads-media.truecaller.com
 ads-monitor.xyz
@@ -5459,6 +5464,7 @@ ligatus.ch
 ligatus.com
 ligatus.de
 ligatus.fr
+lightad.com
 lightning.adultswim.co.uk
 lightning.adultswim.com
 lihi1.com
@@ -7001,6 +7007,7 @@ pangle.io
 pangleglobal.com
 pangolin-sdk-toutiao.com
 pangolin.snssdk.com
+panotads.com
 panteroneonfire.com
 paolo.logs.roku.com
 par.service.criteo.net
@@ -7448,6 +7455,7 @@ r.logr-in.com
 r.lr-ingest.io
 r.lrkt-in.com
 r.teads.tv
+r2ads.online
 rabidcleaner.com
 raboninco.com
 radarsubmissions.apple.com
@@ -7624,6 +7632,7 @@ risk.clearbit.com
 riskid.security
 riskified.com
 rkhbxm26.topazlabs.com
+rmediaads.com
 rmmetrics.mcafee.com
 rmp-api.moloco.com
 rmp-cdn.moloco.com
@@ -8914,6 +8923,7 @@ target-us.samsung.com
 targetadserver.com
 targeted-config-test.samsungacr.com
 targeting.unrulymedia.com
+tarrobads.com
 tatari.tv
 tattle.api.osano.com
 taurusx.com
@@ -9184,6 +9194,7 @@ thinkanalytics.com
 thinktot.com
 thinqrecommend.lgtvcommon.com
 thislinkwillselfdestruct.com
+threespringmedia.go2cloud.org
 throtle.io
 thumbs.mgid.com
 thumbs.outbrain.com

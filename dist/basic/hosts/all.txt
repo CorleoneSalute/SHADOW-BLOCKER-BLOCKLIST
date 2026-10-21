@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10131
-# Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10142
+# Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -365,6 +365,10 @@
 0.0.0.0 adjustevents.purevpn.com
 0.0.0.0 adjustyourtracking.vhx.tv
 0.0.0.0 adkernel.crakrevenue.com
+0.0.0.0 adktrack.124.xyz
+0.0.0.0 adktrack.com
+0.0.0.0 adktrack124.xyz
+0.0.0.0 adktrack68.xyz
 0.0.0.0 adlabz.co
 0.0.0.0 adleave.com
 0.0.0.0 adlocus.com
@@ -478,6 +482,7 @@
 0.0.0.0 ads-img.mozilla.org
 0.0.0.0 ads-impressions.com
 0.0.0.0 ads-interfaces.sc-cdn.net
+0.0.0.0 ads-lightad.com
 0.0.0.0 ads-media.1muslimapp.com
 0.0.0.0 ads-media.truecaller.com
 0.0.0.0 ads-monitor.xyz
@@ -5199,6 +5204,7 @@
 0.0.0.0 ligatus.com
 0.0.0.0 ligatus.de
 0.0.0.0 ligatus.fr
+0.0.0.0 lightad.com
 0.0.0.0 lijit.com
 0.0.0.0 lijit.net
 0.0.0.0 likervertising.com
@@ -6701,6 +6707,7 @@
 0.0.0.0 pangleglobal.com
 0.0.0.0 pangolin-sdk-toutiao.com
 0.0.0.0 pangolin.snssdk.com
+0.0.0.0 panotads.com
 0.0.0.0 panteroneonfire.com
 0.0.0.0 paolo.logs.roku.com
 0.0.0.0 par.service.criteo.net
@@ -7109,6 +7116,7 @@
 0.0.0.0 r.lr-ingest.io
 0.0.0.0 r.lrkt-in.com
 0.0.0.0 r.teads.tv
+0.0.0.0 r2ads.online
 0.0.0.0 rabidcleaner.com
 0.0.0.0 raboninco.com
 0.0.0.0 radiumone.com
@@ -7257,6 +7265,7 @@
 0.0.0.0 ringcentral.112.2o7.net
 0.0.0.0 risecodes.com
 0.0.0.0 rkhbxm26.topazlabs.com
+0.0.0.0 rmediaads.com
 0.0.0.0 rmmetrics.mcafee.com
 0.0.0.0 rmp-api.moloco.com
 0.0.0.0 rmp-cdn.moloco.com
@@ -8504,6 +8513,7 @@
 0.0.0.0 targetadserver.com
 0.0.0.0 targeted-config-test.samsungacr.com
 0.0.0.0 targeting.unrulymedia.com
+0.0.0.0 tarrobads.com
 0.0.0.0 tattle.api.osano.com
 0.0.0.0 taurusx.com
 0.0.0.0 tbm.snssdk.com
@@ -8770,6 +8780,7 @@
 0.0.0.0 thetradedesk.com
 0.0.0.0 thind.unityads.unity3d.com
 0.0.0.0 thinktot.com
+0.0.0.0 threespringmedia.go2cloud.org
 0.0.0.0 throtle.io
 0.0.0.0 thumbs.mgid.com
 0.0.0.0 thumbs.outbrain.com

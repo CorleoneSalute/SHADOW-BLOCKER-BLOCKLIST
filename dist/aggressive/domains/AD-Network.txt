@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2330
-# Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2341
+# Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -116,6 +116,10 @@ adinjector.net
 adinmo.com
 adition.com
 adjust.applovin.com
+adktrack.124.xyz
+adktrack.com
+adktrack124.xyz
+adktrack68.xyz
 adlabz.co
 adleave.com
 adlocus.com
@@ -163,6 +167,7 @@ ads-bidstrade.io
 ads-i-cf.undertone.com
 ads-i.undertone.com
 ads-impressions.com
+ads-lightad.com
 ads-monitor.xyz
 ads-sdk.unityads.unity3d.com
 ads.adcolony.com
@@ -1318,6 +1323,7 @@ ligatus.ch
 ligatus.com
 ligatus.de
 ligatus.fr
+lightad.com
 lijit.com
 lijit.net
 likervertising.com
@@ -1503,6 +1509,7 @@ paid.outbrain.com
 pangle.io
 pangleglobal.com
 pangolin-sdk-toutiao.com
+panotads.com
 partner.oceanengine.com
 passendo.com
 paved.com
@@ -1635,6 +1642,7 @@ quantserve.com
 r.applovin.com
 r.ligatus.com
 r.teads.tv
+r2ads.online
 radiumone.com
 randiul.com
 rate.outbrain.com
@@ -1678,6 +1686,7 @@ rfihub.com
 rfihub.net
 rhythmone.com
 risecodes.com
+rmediaads.com
 rmp-api.moloco.com
 rmp-cdn.moloco.com
 rmp.gsspat.jp
@@ -1973,6 +1982,7 @@ tapjoyads.com
 tappads.io
 targetadserver.com
 targeting.unrulymedia.com
+tarrobads.com
 tatari.tv
 taurusx.com
 tcf.seedtag.com
@@ -1993,6 +2003,7 @@ theroswaf.com
 thetradedesk.com
 thind.unityads.unity3d.com
 thinktot.com
+threespringmedia.go2cloud.org
 thumbs.mgid.com
 thumbs.outbrain.com
 thumbs.plista.com

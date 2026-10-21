@@ -1,7 +1,7 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
 # Total domains: 299
-# Generated: 2026-10-18 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
