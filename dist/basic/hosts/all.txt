@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10142
+# Total domains: 10143
 # Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1872,6 +1872,7 @@
 0.0.0.0 analytics.verizon.com
 0.0.0.0 analytics.vewd.com
 0.0.0.0 analytics.viaplay.com
+0.0.0.0 analytics.viber.com
 0.0.0.0 analytics.videoland.com
 0.0.0.0 analytics.vivino.com
 0.0.0.0 analytics.vivo.com

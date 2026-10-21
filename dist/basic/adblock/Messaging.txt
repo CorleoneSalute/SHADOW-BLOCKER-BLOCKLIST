@@ -1,6 +1,6 @@
 # ============================================================
 # MESSAGING BLOCKLIST - BASIC
-# Total domains: 34
+# Total domains: 35
 # Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -13,6 +13,7 @@
 ||ads.line.me^
 ||ads.viber.com^
 ||analytics.rocket.chat^
+||analytics.viber.com^
 ||collector.jaeger.matrix.org^
 ||collector.rocket.chat^
 ||crashlogs.whatsapp.net^
