@@ -50,6 +50,7 @@ point-ads.line-apps.com
 sentry-th.line-apps.com
 logstash-deployment-tracking.linecorp.com
 a.line.me
+lineman-ads.line.me
 
 # Mattermost
 telemetry.mattermost.com
