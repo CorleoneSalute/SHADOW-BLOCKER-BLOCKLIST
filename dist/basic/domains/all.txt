@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10145
+# Total domains: 10146
 # Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7831,6 +7831,7 @@ sentry.zopim.com
 sentry1.foxxum.com
 sentry2-client.cos.io
 sentry2.cos.io
+sentry2.daysy.me
 sentry2.sync.me
 sentry2.whale.naver.com
 sentry3.cos.io
