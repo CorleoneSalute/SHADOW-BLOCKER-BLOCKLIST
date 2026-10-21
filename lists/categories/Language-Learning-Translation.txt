@@ -113,6 +113,7 @@ analytics.gikken.co
 
 # LINGUEE
 analytics.linguee.com
+applog.linguee.com
 
 # WORDREFERENCE
 analytics.wordreference.com
