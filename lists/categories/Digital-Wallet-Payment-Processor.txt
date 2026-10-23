@@ -85,3 +85,7 @@ tracking.ib82990.comunicacao.picpay.com
 
 # COINS.PH
 track-marketing.coins.ph
+
+# UseePay Limited
+
+track.useepay.com
