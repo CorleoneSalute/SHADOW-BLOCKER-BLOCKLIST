@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10619
+# Total domains: 10623
 # Generated: 2026-10-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -454,6 +454,7 @@ adpatrof.com
 adperio.com
 adplatform.apple.com
 adplayer.pro
+adplify.com
 adpopcorn.com
 adprime.com
 adprimehealth.com
@@ -471,6 +472,7 @@ adrokt.com
 adroll.com
 adrta.com
 adru.net
+ads-adplify.com
 ads-aka-us-east-1.delivery.roku.com
 ads-aka-us-west-2.delivery.roku.com
 ads-api.duolingo.com
@@ -4699,6 +4701,7 @@ get-v6.shouji.sogou.com
 get.brightdata.com
 get.shouji.sogou.com
 getadlib.com
+getadplify.in
 getads.ru
 getingeprod.planning-analytics.ibmcloud.com
 getiton.com
@@ -7398,6 +7401,7 @@ publishertracking.api.cj.com
 pubnative.info
 pubnative.io
 pubnative.net
+puffableads.com
 pulse-apac.conviva.com
 pulse-eu.conviva.com
 pulse-us.conviva.com

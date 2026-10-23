@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2341
+# Total domains: 2345
 # Generated: 2026-10-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -155,6 +155,7 @@ adnxs.com
 adnxs.net
 adpatrof.com
 adplayer.pro
+adplify.com
 adpopcorn.com
 adprime.com
 adprimehealth.com
@@ -163,6 +164,7 @@ adptrck.com
 adrokt.com
 adroll.com
 adru.net
+ads-adplify.com
 ads-bidstrade.io
 ads-i-cf.undertone.com
 ads-i.undertone.com
@@ -1111,6 +1113,7 @@ geniee.vn
 genieegroup.com
 genieessp.jp
 getadlib.com
+getadplify.in
 getads.ru
 getmyads24.com
 getpublica.com
@@ -1636,6 +1639,7 @@ publisher.nextmillennium.io
 pubnative.info
 pubnative.io
 pubnative.net
+puffableads.com
 px.adswizz.com
 px.sharethrough.com
 quantserve.com

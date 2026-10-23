@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10151
+# Total domains: 10155
 # Generated: 2026-10-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -433,6 +433,7 @@
 ||adperio.com^
 ||adplatform.apple.com^
 ||adplayer.pro^
+||adplify.com^
 ||adpopcorn.com^
 ||adprime.com^
 ||adprimehealth.com^
@@ -450,6 +451,7 @@
 ||adroll.com^
 ||adrta.com^
 ||adru.net^
+||ads-adplify.com^
 ||ads-aka-us-east-1.delivery.roku.com^
 ||ads-aka-us-west-2.delivery.roku.com^
 ||ads-api.duolingo.com^
@@ -4495,6 +4497,7 @@
 ||get.brightdata.com^
 ||get.shouji.sogou.com^
 ||getadlib.com^
+||getadplify.in^
 ||getads.ru^
 ||getingeprod.planning-analytics.ibmcloud.com^
 ||getiton.com^
@@ -7061,6 +7064,7 @@
 ||pubnative.info^
 ||pubnative.io^
 ||pubnative.net^
+||puffableads.com^
 ||pulse-apac.conviva.com^
 ||pulse-eu.conviva.com^
 ||pulse-us.conviva.com^
