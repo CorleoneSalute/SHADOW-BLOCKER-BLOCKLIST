@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2341
-# Total platforms: 312
+# Total platforms: 314
 # Last update: 2026/10/21
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3205,3 +3205,13 @@ lightad.com
 ads-lightad.com
 rmediaads.com
 threespringmedia.go2cloud.org
+
+# 420 Singles ADS
+
+puffableads.com
+
+# AdPlify
+
+adplify.com
+getadplify.in
+ads-adplify.com
