@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 299
-# Total platforms: 104
+# Total platforms: 105
 # Last update: 2026/10/18
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -525,3 +525,9 @@ ad.vbet.com
 ad.offers-ua.vbet.com
 smtracking.vbet.com
 track.vbet.com
+
+# Starzbet
+
+analytics.api.starzbet.com
+sentry.api.starzbet.com
+site-analytics.api.starzbet.com
