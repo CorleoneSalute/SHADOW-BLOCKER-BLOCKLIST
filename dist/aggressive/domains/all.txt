@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10614
-# Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10615
+# Generated: 2026-10-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -6318,6 +6318,7 @@ metrics.tunnelbear.com
 metrics.tving.com
 metrics.twitch.tv
 metrics.uber.com
+metrics.ubook.com
 metrics.ubuntu.com
 metrics.unpaywall.org
 metrics.upside.com

@@ -1,7 +1,7 @@
 # ============================================================
 # MUSIC STREAMING BLOCKLIST - AGGRESSIVE
 # Total domains: 62
-# Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-10-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 

@@ -1,7 +1,7 @@
 # ============================================================
 # E BOOK BLOCKLIST - AGGRESSIVE
-# Total domains: 27
-# Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
+# Total domains: 28
+# Generated: 2026-10-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -25,6 +25,7 @@
 0.0.0.0 metrics-prom.perlego.com
 0.0.0.0 metrics.libbyapp.com
 0.0.0.0 metrics.perlego.com
+0.0.0.0 metrics.ubook.com
 0.0.0.0 nxad.nextory.com
 0.0.0.0 nxads.nextory.com
 0.0.0.0 recommendations.springernature.com

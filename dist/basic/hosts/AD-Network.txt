@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
 # Total domains: 2331
-# Generated: 2026-10-21 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-10-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
