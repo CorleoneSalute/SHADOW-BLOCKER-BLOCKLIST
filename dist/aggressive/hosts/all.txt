@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10618
+# Total domains: 10619
 # Generated: 2026-10-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9483,6 +9483,7 @@
 0.0.0.0 track.trafficguard.ai
 0.0.0.0 track.u.send.microad.jp
 0.0.0.0 track.underarmour.com
+0.0.0.0 track.useepay.com
 0.0.0.0 track.vanceai.com
 0.0.0.0 track.vbet.com
 0.0.0.0 track.victorybet.ro

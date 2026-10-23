@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10150
+# Total domains: 10151
 # Generated: 2026-10-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9065,6 +9065,7 @@ track.tr.eu.panasonic.com
 track.trafficguard.ai
 track.u.send.microad.jp
 track.underarmour.com
+track.useepay.com
 track.vanceai.com
 track.vbet.com
 track.victorybet.ro

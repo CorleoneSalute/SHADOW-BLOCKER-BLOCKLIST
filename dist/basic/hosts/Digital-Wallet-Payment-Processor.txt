@@ -1,6 +1,6 @@
 # ============================================================
 # DIGITAL WALLET PAYMENT PROCESSOR BLOCKLIST - BASIC
-# Total domains: 44
+# Total domains: 45
 # Generated: 2026-10-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -39,6 +39,7 @@
 0.0.0.0 sgtm.skrill.com
 0.0.0.0 track-marketing.coins.ph
 0.0.0.0 track.paytm.com
+0.0.0.0 track.useepay.com
 0.0.0.0 tracking.avangate.net
 0.0.0.0 tracking.ib58193.marketing.picpay.com
 0.0.0.0 tracking.ib82990.comunicacao.picpay.com
