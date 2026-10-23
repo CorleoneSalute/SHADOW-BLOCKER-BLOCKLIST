@@ -57,3 +57,7 @@ metrics-prom.perlego.com
 # INKITT / GALATEA
 collector.inkitt.com
 log.inkitt.com
+
+# Ubook Editora S.A.
+
+metrics.ubook.com
