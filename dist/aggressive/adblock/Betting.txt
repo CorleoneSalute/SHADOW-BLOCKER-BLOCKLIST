@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 299
+# Total domains: 302
 # Generated: 2026-10-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -54,6 +54,7 @@
 ||analytics.888casino.com^
 ||analytics.888poker.com^
 ||analytics.888poker.de^
+||analytics.api.starzbet.com^
 ||analytics.aristocrat.com^
 ||analytics.bagelcode.com^
 ||analytics.bigfishgames.com^
@@ -206,11 +207,13 @@
 ||rtb.stats.zynga.com^
 ||rtrack.lonestarcasino.com^
 ||scopely.io^
+||sentry.api.starzbet.com^
 ||sentry.predict.fun^
 ||sgtm.7k.bet.br^
 ||sgtm.cassino.bet.br^
 ||sgtm.pokerstars.de^
 ||sgtm.vera.bet.br^
+||site-analytics.api.starzbet.com^
 ||skybetcasino.fr^
 ||smetrics.blackjack.com^
 ||smetrics.casino.org^

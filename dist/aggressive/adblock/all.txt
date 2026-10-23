@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10615
+# Total domains: 10618
 # Generated: 2026-10-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1299,6 +1299,7 @@
 ||analytics.api.brightcove.com^
 ||analytics.api.brightside.com^
 ||analytics.api.services.leonardo.ai^
+||analytics.api.starzbet.com^
 ||analytics.apple.com^
 ||analytics.applovin.com^
 ||analytics.appsflyer.com^
@@ -8175,6 +8176,7 @@
 ||sentry-uit.line-apps.com^
 ||sentry-ws.infomaniak.com^
 ||sentry.adelielinux.org^
+||sentry.api.starzbet.com^
 ||sentry.api.stronglifts.com^
 ||sentry.audacityteam.org^
 ||sentry.clickdealer.com^
@@ -8334,6 +8336,7 @@
 ||simpli.fi^
 ||sin3-ib.adnxs.com^
 ||sinmufar.com^
+||site-analytics.api.starzbet.com^
 ||sjs.bizographics.com^
 ||skadnetwork.iad-apple.com.akadns.net^
 ||skadpostbacks.appsflyer.com^
