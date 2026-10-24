@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2345
-# Total platforms: 314
+# Total platforms: 317
 # Last update: 2026/10/23
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3215,3 +3215,18 @@ puffableads.com
 adplify.com
 getadplify.in
 ads-adplify.com
+
+# adsforindia
+
+adsforindia.com
+
+# lekkerads B.V.
+
+lekkerads.com
+lekkerads.nl
+mediards.com
+
+# 益起广告 (Yiqi Ads)
+
+17admob.com
+eqikeji.com
