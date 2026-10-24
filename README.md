@@ -92,7 +92,6 @@ release.
 - Email Marketing
 - Windows
 - Job & Recruitment
-- Adult Ecosystem
 - Grocery & Food Delivery
 - Video Editing & Creative Software
 - News
