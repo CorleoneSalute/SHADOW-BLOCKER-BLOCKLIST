@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10623
-# Generated: 2026-10-23 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10708
+# Generated: 2026-10-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -59,10 +59,12 @@
 0.0.0.0 a.line.me
 0.0.0.0 a.market.mi-img.com
 0.0.0.0 a.mgid.com
+0.0.0.0 a.nel.livejasmin.com
 0.0.0.0 a.optmstr.com
 0.0.0.0 a.plerdy.com
 0.0.0.0 a.relayto.com
 0.0.0.0 a.rfihub.com
+0.0.0.0 a.sankakucomplex.com
 0.0.0.0 a.sharethrough.com
 0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.teads.tv
@@ -89,6 +91,7 @@
 0.0.0.0 ab-test.adikteev.com
 0.0.0.0 ab-test.hulu.com
 0.0.0.0 ab.apple.com.akadns.net
+0.0.0.0 ab.cams.com
 0.0.0.0 aba.gumgum.com
 0.0.0.0 abc2.adtelligent.com
 0.0.0.0 abilitec.acxiom.com
@@ -257,6 +260,7 @@
 0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 ad.intl.xiaomi.com.edgesuite.net
 0.0.0.0 ad.intl.xiaomi.com.ksyna.net
+0.0.0.0 ad.javmost.com
 0.0.0.0 ad.jp.dell.com
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 ad.lgsmartad.com
@@ -272,6 +276,7 @@
 0.0.0.0 ad.picr.de
 0.0.0.0 ad.playstation.net
 0.0.0.0 ad.plus
+0.0.0.0 ad.porngo.com
 0.0.0.0 ad.reddit.com
 0.0.0.0 ad.rus.miui.com
 0.0.0.0 ad.rus.xiaomi.com
@@ -288,6 +293,7 @@
 0.0.0.0 ad.vbet.com
 0.0.0.0 ad.vera.bet.br
 0.0.0.0 ad.vrvm.com
+0.0.0.0 ad.watchporn.to
 0.0.0.0 ad.weibo.com
 0.0.0.0 ad.xiaomi.com
 0.0.0.0 ad.yahoo.com
@@ -295,6 +301,7 @@
 0.0.0.0 ad01.udb.bf1.yahoo.com
 0.0.0.0 ad1.gtie.dell.com
 0.0.0.0 ad1.reddit.com
+0.0.0.0 ad1.watchporn.to
 0.0.0.0 ad1.xiaomi.com
 0.0.0.0 ad120m.com
 0.0.0.0 ad127m.com
@@ -304,6 +311,7 @@
 0.0.0.0 ad2.gtie.dell.com
 0.0.0.0 ad2.reddit.com
 0.0.0.0 ad2.sina.com.cn
+0.0.0.0 ad2.watchporn.to
 0.0.0.0 ad3.gtie.dell.com
 0.0.0.0 ad3.reddit.com
 0.0.0.0 ad3.sina.com.cn
@@ -339,6 +347,7 @@
 0.0.0.0 adclickserving.com
 0.0.0.0 adcolony.com
 0.0.0.0 adconnect.pl
+0.0.0.0 adcreative2.awempire.com
 0.0.0.0 add-mapping-for-wrong-activity-log-classes.feature.varify.io
 0.0.0.0 addata2.ads.vip.corp.yahoo.com
 0.0.0.0 addboost360.com
@@ -372,6 +381,7 @@
 0.0.0.0 adimg.afreecatv.com
 0.0.0.0 adimg.mobile.sina.cn
 0.0.0.0 adimg.uve.weibo.com
+0.0.0.0 adimg.watchporn.to
 0.0.0.0 adinfo.ra1.xlmc.sec.miui.com
 0.0.0.0 adinjector.net
 0.0.0.0 adinmo.com
@@ -576,6 +586,7 @@
 0.0.0.0 ads.brightcove.com
 0.0.0.0 ads.brightroll.com
 0.0.0.0 ads.bsplayer.com
+0.0.0.0 ads.cams.com
 0.0.0.0 ads.careem.com
 0.0.0.0 ads.cdn.viber.com
 0.0.0.0 ads.cdn1.atp.vtv.vodafone.com
@@ -583,6 +594,7 @@
 0.0.0.0 ads.cdn1.vfgtv-id.vodafone.com
 0.0.0.0 ads.cdnvideo.ru
 0.0.0.0 ads.chartboost.com
+0.0.0.0 ads.chaturbate.com
 0.0.0.0 ads.chocolateplatform.com
 0.0.0.0 ads.cj.com
 0.0.0.0 ads.cloud.huawei.com
@@ -628,6 +640,7 @@
 0.0.0.0 ads.internetdownloadmanager.com
 0.0.0.0 ads.iono.fm
 0.0.0.0 ads.iqiyi.com
+0.0.0.0 ads.javmost.com
 0.0.0.0 ads.jwplayer.com
 0.0.0.0 ads.kakaopay.com
 0.0.0.0 ads.lastpass.com
@@ -706,6 +719,7 @@
 0.0.0.0 ads.truecaller.com
 0.0.0.0 ads.twitch.tv
 0.0.0.0 ads.twitter.com
+0.0.0.0 ads.txxx.com
 0.0.0.0 ads.undertone.com
 0.0.0.0 ads.universe.microad.jp
 0.0.0.0 ads.untappd.com
@@ -724,6 +738,7 @@
 0.0.0.0 ads.vk.ru
 0.0.0.0 ads.voot.com
 0.0.0.0 ads.w55c.net
+0.0.0.0 ads.watchporn.to
 0.0.0.0 ads.waze.com
 0.0.0.0 ads.weatherbug.com
 0.0.0.0 ads.wineenthusiast.com
@@ -743,12 +758,16 @@
 0.0.0.0 ads1.reddit.com
 0.0.0.0 ads1.vip.in.yahoo.com
 0.0.0.0 ads1.vip.ir2.yahoo.com
+0.0.0.0 ads129xdriver.watchporn.to
 0.0.0.0 ads16-normal-useastred.tiktokw.eu
 0.0.0.0 ads2.ads.pof.com
 0.0.0.0 ads2.anura.io
+0.0.0.0 ads2.javmost.com
 0.0.0.0 ads2.reddit.com
+0.0.0.0 ads2.watchporn.to
 0.0.0.0 ads3-adnow.com
 0.0.0.0 ads3.cj.sina.com.cn
+0.0.0.0 ads3.javmost.com
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads33.adtelligent.com
 0.0.0.0 ads5.huawei.com
@@ -798,6 +817,7 @@
 0.0.0.0 adserver.connatix.com
 0.0.0.0 adserver.gslb.pandora.com
 0.0.0.0 adserver.jwplayer.com
+0.0.0.0 adserver.kikdirty.chaturbate.com
 0.0.0.0 adserver.mxplayer.in
 0.0.0.0 adserver.oath.com
 0.0.0.0 adserver.pandora.com
@@ -805,6 +825,7 @@
 0.0.0.0 adserver.reddit.com
 0.0.0.0 adserver.remerge.io
 0.0.0.0 adserver.unityads.unity3d.com
+0.0.0.0 adserver.watchporn.to
 0.0.0.0 adserver2.reddit.com
 0.0.0.0 adserverhd.com
 0.0.0.0 adserverplugins.com
@@ -816,6 +837,7 @@
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adsfactor.net
 0.0.0.0 adsfly.app
+0.0.0.0 adsfree.chaturbate.com
 0.0.0.0 adsfs-sdkconfig.heytapimage.com
 0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 adsglobal.world
@@ -832,6 +854,7 @@
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
 0.0.0.0 adskeeper.net
+0.0.0.0 adsl.watchporn.to
 0.0.0.0 adsld.link
 0.0.0.0 adsmanager.truecaller.com
 0.0.0.0 adsmarket.com
@@ -844,6 +867,7 @@
 0.0.0.0 adsmedia.ro
 0.0.0.0 adsmetadata.startappservice.com
 0.0.0.0 adsn.adtelligent.com
+0.0.0.0 adson.awempire.com
 0.0.0.0 adsorb.io
 0.0.0.0 adspa-uat.acer.com
 0.0.0.0 adspa.acer.com
@@ -926,6 +950,7 @@
 0.0.0.0 advertising.tivo.com
 0.0.0.0 advertising.twitter.com
 0.0.0.0 advertising.us-east-1.msc.roku.com
+0.0.0.0 advertising.watchporn.to
 0.0.0.0 advertising.waze.com
 0.0.0.0 advertising.weatherbug.com
 0.0.0.0 advertising.web.grindr.com
@@ -1204,6 +1229,7 @@
 0.0.0.0 analytic.hisensetv.com
 0.0.0.0 analytic.tiktok.com
 0.0.0.0 analytic.underarmour.com
+0.0.0.0 analytic.watchporn.to
 0.0.0.0 analytic.wysa.io
 0.0.0.0 analytics-api.analytics-cluster.smartsupp.com
 0.0.0.0 analytics-api.apple.com
@@ -1258,6 +1284,7 @@
 0.0.0.0 analytics-pub.pokerist.com
 0.0.0.0 analytics-report.idwall.co
 0.0.0.0 analytics-ru.tiktok.com
+0.0.0.0 analytics-sandbox.sxyprn.co
 0.0.0.0 analytics-sdk-1.onfido.com
 0.0.0.0 analytics-sdk.onfido.com
 0.0.0.0 analytics-sg.tiktok.com
@@ -1596,6 +1623,7 @@
 0.0.0.0 analytics.linguee.com
 0.0.0.0 analytics.lingvist.com
 0.0.0.0 analytics.linkedin.com
+0.0.0.0 analytics.livejasmin.com
 0.0.0.0 analytics.liveperson.net
 0.0.0.0 analytics.livestream.com
 0.0.0.0 analytics.lnw.com
@@ -1863,6 +1891,7 @@
 0.0.0.0 analytics.surveyjunkie.com
 0.0.0.0 analytics.swagbucks.com
 0.0.0.0 analytics.sweatco.in
+0.0.0.0 analytics.sxyprn.coevent.sxyprn.co
 0.0.0.0 analytics.sympto.org
 0.0.0.0 analytics.sync.me
 0.0.0.0 analytics.systweak.com
@@ -1937,6 +1966,7 @@
 0.0.0.0 analytics.vsco.co
 0.0.0.0 analytics.vudu.com
 0.0.0.0 analytics.vyprvpn.com
+0.0.0.0 analytics.watchporn.to
 0.0.0.0 analytics.waves.com
 0.0.0.0 analytics.wavve.com
 0.0.0.0 analytics.waze.com
@@ -2034,6 +2064,7 @@
 0.0.0.0 analyticsdr.otsuka-us.com
 0.0.0.0 analyticshub.services.swiftkey.com
 0.0.0.0 analyticshub.swiftkey.com
+0.0.0.0 analyze.watchporn.to
 0.0.0.0 andata.ist.apple.com
 0.0.0.0 andhrajyothy.com
 0.0.0.0 android-zone.org
@@ -2352,6 +2383,7 @@
 0.0.0.0 app-events.infoapps.apple.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app-measurement.uber.com
+0.0.0.0 app-metrics.ord.myfreecams.com
 0.0.0.0 app-searchads.apple.com
 0.0.0.0 app-trk.impact.com
 0.0.0.0 app.ad-maven.com
@@ -2368,6 +2400,7 @@
 0.0.0.0 app.getsentry.com
 0.0.0.0 app.glitchtip.com
 0.0.0.0 app.kadam.net
+0.0.0.0 app.log.watchporn.to
 0.0.0.0 app.mobidea.com
 0.0.0.0 app.mybid.io
 0.0.0.0 app.onclicka.com
@@ -2608,7 +2641,10 @@
 0.0.0.0 bangexperts.com
 0.0.0.0 banner-cdn.linksynergy.com
 0.0.0.0 banner.criteo.com
+0.0.0.0 banner.watchporn.to
 0.0.0.0 banners.adultfriendfinder.com
+0.0.0.0 banners.cams.com
+0.0.0.0 banners.watchporn.to
 0.0.0.0 bappaads.com
 0.0.0.0 bard-telemetry.google.com
 0.0.0.0 bat.bing.com
@@ -2663,6 +2699,7 @@
 0.0.0.0 bengalads.com
 0.0.0.0 benjamin-w.logs.roku.com
 0.0.0.0 benjamin.logs.roku.com
+0.0.0.0 beta-ads.sankakucomplex.com
 0.0.0.0 beta-advertising.yahoo.com
 0.0.0.0 beta.analytics.openaire.eu
 0.0.0.0 beta.telemetry.gfe.nvidia.com
@@ -2818,6 +2855,7 @@
 0.0.0.0 c.mgid.com
 0.0.0.0 c.optmstr.com
 0.0.0.0 c.riskified.com
+0.0.0.0 c.sankakucomplex.com
 0.0.0.0 c.smartclick.net
 0.0.0.0 c.st.ltmsphrcl.net
 0.0.0.0 c.taboola.com
@@ -3133,6 +3171,7 @@
 0.0.0.0 chartbeat.com
 0.0.0.0 chartbeat.net
 0.0.0.0 chartboost.com
+0.0.0.0 chat-metrics.ord.myfreecams.com
 0.0.0.0 chat.analytics.eu.restream.io
 0.0.0.0 chat.analytics.restream.io
 0.0.0.0 chatmaduras.com
@@ -3199,6 +3238,7 @@
 0.0.0.0 click.stats.zynga.com
 0.0.0.0 click.taboola.com
 0.0.0.0 click.zetaglobal.com
+0.0.0.0 click2.javhd.com
 0.0.0.0 clickagy.com
 0.0.0.0 clickbank.com
 0.0.0.0 clickbank.net
@@ -3390,10 +3430,22 @@
 0.0.0.0 collector.tealeaf.goacoustic.com
 0.0.0.0 collector.usa.canon.com
 0.0.0.0 collector.vhx.tv
+0.0.0.0 collector.xhamster.com
+0.0.0.0 collector.xhamster.desi
+0.0.0.0 collector.xhamster2.com
 0.0.0.0 collector1-eu-central.pokerist.com
 0.0.0.0 collector1-eu-west.pokerist.com
 0.0.0.0 collector1-us-east.pokerist.com
 0.0.0.0 collector1-us-west.pokerist.com
+0.0.0.0 collector1.xhamster.com
+0.0.0.0 collector1.xhamster.desi
+0.0.0.0 collector1.xhamster2.com
+0.0.0.0 collector2.xhamster.com
+0.0.0.0 collector2.xhamster.desi
+0.0.0.0 collector2.xhamster2.com
+0.0.0.0 collector3.xhamster.com
+0.0.0.0 collector3.xhamster.desi
+0.0.0.0 collector3.xhamster2.com
 0.0.0.0 cologger.shopping.naver.com
 0.0.0.0 combostruct.com
 0.0.0.0 commandersact.com
@@ -3493,6 +3545,7 @@
 0.0.0.0 cpro.baidu.com
 0.0.0.0 cpu.samsungelectronics.com
 0.0.0.0 cr.fullcontact.com
+0.0.0.0 cradver.livejasmin.com
 0.0.0.0 crakrevenue.com
 0.0.0.0 crash-analytics.uber.com
 0.0.0.0 crash-cn.opera.com
@@ -3625,6 +3678,7 @@
 0.0.0.0 d.impactradius-event.com
 0.0.0.0 d.microad.jp
 0.0.0.0 d.plerdy.com
+0.0.0.0 d.sankakucomplex.com
 0.0.0.0 d.us.criteo.com
 0.0.0.0 d1.ads.rmbl.ws
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
@@ -4201,7 +4255,9 @@
 0.0.0.0 event.outbrain.com
 0.0.0.0 event.platform.tunein.com
 0.0.0.0 event.realme.com
+0.0.0.0 event.sxyprn.co
 0.0.0.0 event.vanceai.com
+0.0.0.0 event.watchporn.to
 0.0.0.0 eventgateway.l.soundcloud.com
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 eventlog-failtest.norton.com
@@ -4302,6 +4358,7 @@
 0.0.0.0 events.telemetry.data.nvidia.com
 0.0.0.0 events.tiktok.com
 0.0.0.0 events.upside.com
+0.0.0.0 events.watchporn.to
 0.0.0.0 events.yieldmo.com
 0.0.0.0 events.zergnet.com
 0.0.0.0 events.zetaglobal.com
@@ -4383,6 +4440,7 @@
 0.0.0.0 ezstat.ru
 0.0.0.0 f.clarity.ms
 0.0.0.0 f.hiphotos.baidu.com
+0.0.0.0 f.sankakucomplex.com
 0.0.0.0 f1.g.mi.com
 0.0.0.0 facebook-admanager.com
 0.0.0.0 facebook-analytics.com
@@ -4559,7 +4617,9 @@
 0.0.0.0 fp.audius.co
 0.0.0.0 fp.bankrolla.com
 0.0.0.0 fp.btloader.com
+0.0.0.0 fp.camsoda.com
 0.0.0.0 fp.coinbase.com
+0.0.0.0 fp.gfx.streamate.com
 0.0.0.0 fp.ggpoker.com
 0.0.0.0 fp.incognia.com
 0.0.0.0 fp.livescorebet.com
@@ -4569,6 +4629,7 @@
 0.0.0.0 fp.pulsz.com
 0.0.0.0 fp.underdogfantasy.com
 0.0.0.0 fp.virginbet.com
+0.0.0.0 fp.watchporn.to
 0.0.0.0 fp.web.tulotero.com
 0.0.0.0 fp.web.tulotero.es
 0.0.0.0 fp.web.tulotero.mx
@@ -4768,6 +4829,8 @@
 0.0.0.0 google-ua-analytics.raspberrypi.org
 0.0.0.0 googleadmob.com
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads.g.xnxx.net
+0.0.0.0 googleads.xnxx.net
 0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com
 0.0.0.0 googlesyndication.com.sci-hub.tw
@@ -5235,6 +5298,7 @@
 0.0.0.0 intamema.com
 0.0.0.0 integralmarket.goforandroid.com
 0.0.0.0 integralwall.goforandroid.com
+0.0.0.0 integration-analytic.sxyprn.co
 0.0.0.0 integration-api.crazyegg.com
 0.0.0.0 integration.analytics.lightricks.com
 0.0.0.0 integrations.adikteev.com
@@ -5756,6 +5820,7 @@
 0.0.0.0 logger.scite.ai
 0.0.0.0 logger.streamguys1.com
 0.0.0.0 logger.streamyard.com
+0.0.0.0 logger.watchporn.to
 0.0.0.0 logging-janus.env.ubble.ai
 0.0.0.0 logging-web.env.ubble.ai
 0.0.0.0 logging.archlinux.org
@@ -5818,6 +5883,7 @@
 0.0.0.0 logs.reservebar.com
 0.0.0.0 logs.rmnapp.t-mobile.com
 0.0.0.0 logs.roku.com
+0.0.0.0 logs.sankakucomplex.com
 0.0.0.0 logs.sr.roku.com
 0.0.0.0 logs.tandem.net
 0.0.0.0 logs.thrillzz.com
@@ -6209,6 +6275,7 @@
 0.0.0.0 metrics.icloud.com.cn
 0.0.0.0 metrics.idfy.com
 0.0.0.0 metrics.image-line.com
+0.0.0.0 metrics.imlive.com
 0.0.0.0 metrics.infra.yoti.com
 0.0.0.0 metrics.intel.com
 0.0.0.0 metrics.intercom.io
@@ -6530,6 +6597,7 @@
 0.0.0.0 monitor.lbry.tv
 0.0.0.0 monitor.odysee.com
 0.0.0.0 monitor.scalable.lbry.tv
+0.0.0.0 monitor.skyprivate.com
 0.0.0.0 monitoring-log.gitlab.net
 0.0.0.0 monitoring.youbora.com
 0.0.0.0 more.criteo.com
@@ -7100,6 +7168,8 @@
 0.0.0.0 performancehorizon.com
 0.0.0.0 performancein.live
 0.0.0.0 performanceoptimizer.com
+0.0.0.0 performers-origin.cam4.com
+0.0.0.0 performers.cam4.com
 0.0.0.0 perimeterx.net
 0.0.0.0 perion-one-i.undertone.com
 0.0.0.0 perion.com
@@ -7130,6 +7200,7 @@
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping.ios.shouji.sogou.com
 0.0.0.0 ping.pinyin.sogou.com
+0.0.0.0 ping.xnxx.net
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pintient.com
 0.0.0.0 pips.taboola.com
@@ -7428,6 +7499,7 @@
 0.0.0.0 px4.ads.linkedin.com
 0.0.0.0 pxa.impact.com
 0.0.0.0 pxchk.net
+0.0.0.0 pxl.stripchat.com
 0.0.0.0 pxl.sweepnext.com
 0.0.0.0 pxl.to
 0.0.0.0 pxlme.me
@@ -8173,6 +8245,7 @@
 0.0.0.0 sense360.com
 0.0.0.0 sentry-kchat.infomaniak.com
 0.0.0.0 sentry-metrics.tools.element.io
+0.0.0.0 sentry-new.cams.run
 0.0.0.0 sentry-new.tidio.co
 0.0.0.0 sentry-read.svc.overdrive.com
 0.0.0.0 sentry-reporter.ente.io
@@ -8183,6 +8256,7 @@
 0.0.0.0 sentry.api.starzbet.com
 0.0.0.0 sentry.api.stronglifts.com
 0.0.0.0 sentry.audacityteam.org
+0.0.0.0 sentry.cams.run
 0.0.0.0 sentry.clickdealer.com
 0.0.0.0 sentry.cloudlinux.com
 0.0.0.0 sentry.codeium.com
@@ -8486,6 +8560,7 @@
 0.0.0.0 sprysphere.com
 0.0.0.0 sptracking.bigfishcasino.com
 0.0.0.0 sptracking.jackpotmagicslots.com
+0.0.0.0 sqlmetrics.ord.myfreecams.com
 0.0.0.0 src.litix.io
 0.0.0.0 sre-logs.rosettastone.com
 0.0.0.0 srv.ios.shouji.sogou.com
@@ -8494,6 +8569,7 @@
 0.0.0.0 srv431.com
 0.0.0.0 srvtrck.com
 0.0.0.0 ss-analytics.ee.co.uk
+0.0.0.0 ss.phncdn.com
 0.0.0.0 ss.pulszcasino.com
 0.0.0.0 ssai.brightcove.com
 0.0.0.0 ssbsync-global.smartadserver.com
@@ -8755,6 +8831,9 @@
 0.0.0.0 streamvoyage.com
 0.0.0.0 street-production.s3.amazonaws.com
 0.0.0.0 streme.fullcontact.com
+0.0.0.0 stripchat.com
+0.0.0.0 stripchat.global
+0.0.0.0 stripchat.net
 0.0.0.0 stripshow.com
 0.0.0.0 strossle.com
 0.0.0.0 stsdk.vivoglobal.com
@@ -9374,6 +9453,7 @@
 0.0.0.0 track.box.com
 0.0.0.0 track.branch.io
 0.0.0.0 track.bravesoftware.com
+0.0.0.0 track.cam4.com
 0.0.0.0 track.capitaloneshopping.com
 0.0.0.0 track.casino.org
 0.0.0.0 track.cazino.com
@@ -9781,7 +9861,9 @@
 0.0.0.0 triplelift.com
 0.0.0.0 triplelift.net
 0.0.0.0 trk-v4.pinterest.com
+0.0.0.0 trk.account.stripchat.com
 0.0.0.0 trk.agreements.hertz.com
+0.0.0.0 trk.bellesa.co
 0.0.0.0 trk.betfair.com
 0.0.0.0 trk.cassino.bet.br
 0.0.0.0 trk.datify.link
@@ -9797,6 +9879,7 @@
 0.0.0.0 trk.jackpota.com
 0.0.0.0 trk.joturl.com
 0.0.0.0 trk.mg.vimeo.com
+0.0.0.0 trk.notify.stripchat.com
 0.0.0.0 trk.orange.be
 0.0.0.0 trk.orange.com
 0.0.0.0 trk.orange.pl
@@ -9804,6 +9887,7 @@
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.ppcprotect.com
 0.0.0.0 trk.pvolve.com
+0.0.0.0 trk.sender.stripchat.com
 0.0.0.0 trk.trx.vimeo.com
 0.0.0.0 trk.vera.bet.br
 0.0.0.0 trk.vivino.com
@@ -10512,6 +10596,7 @@
 0.0.0.0 xlog16-platform-useast5.us.tiktokv.com
 0.0.0.0 xlog16-platform-ycru.tiktokv.com
 0.0.0.0 xlog16-tmp-normal-useast1a.tiktokv.com
+0.0.0.0 xmetrics.camsoda.com
 0.0.0.0 xmode.io
 0.0.0.0 xn--ex-adreq-asa-c5b.vivoglobal.com
 0.0.0.0 xn-ex-adreq-asa-c5b.vivoglobal.com
