@@ -1,0 +1,153 @@
+Adult Blocklist
+
+Total domains:40
+
+Last update:2026/10/24
+
+# WatchPorn
+
+ad.watchporn.to
+ad1.watchporn.to
+ad2.watchporn.to
+adimg.watchporn.to
+logger.watchporn.to
+ads.watchporn.to
+ads2.watchporn.to
+ads129xdriver.watchporn.to
+adserver.watchporn.to
+adsl.watchporn.to
+analytic.watchporn.to
+analytics.watchporn.to
+analyze.watchporn.to
+advertising.watchporn.to
+app.log.watchporn.to
+banner.watchporn.to
+banners.watchporn.to
+event.watchporn.to
+events.watchporn.to
+fp.watchporn.to
+
+# Pornhub
+
+ss.phncdn.com !
+
+# XNXX
+
+googleads.xnxx.net
+googleads.g.xnxx.net
+ping.xnxx.net !
+
+# Xhamster
+
+collector.xhamster.com
+collector1.xhamster.com
+collector2.xhamster.com
+collector3.xhamster.com
+collector.xhamster.desi
+collector1.xhamster.desi
+collector2.xhamster.desi
+collector3.xhamster.desi
+collector.xhamster2.com
+collector1.xhamster2.com
+collector2.xhamster2.com
+collector3.xhamster2.com
+
+# TXXX
+
+ads.txxx.com
+
+# Bellesa
+
+trk.bellesa.co
+
+# JavHD
+
+click2.javhd.com !
+
+# Javmost
+
+ad.javmost.com
+ads.javmost.com
+ads2.javmost.com
+ads3.javmost.com
+
+# Sankaku Complex
+
+beta-ads.sankakucomplex.com
+a.sankakucomplex.com
+c.sankakucomplex.com
+d.sankakucomplex.com
+f.sankakucomplex.com
+logs.sankakucomplex.com
+
+# SexyPorn
+
+analytics-sandbox.sxyprn.co
+analytics.sxyprn.coevent.sxyprn.co
+integration-analytic.sxyprn.co
+event.sxyprn.co
+
+# Charturbate
+
+ads.chaturbate.com
+adserver.kikdirty.chaturbate.com
+adsfree.chaturbate.com
+
+# LiveJasmin
+
+a.nel.livejasmin.com !
+analytics.livejasmin.com
+cradver.livejasmin.com
+
+# A.W. Empire
+
+adcreative2.awempire.com
+adson.awempire.com
+
+# Myfreecams
+
+app-metrics.ord.myfreecams.com
+chat-metrics.ord.myfreecams.com
+sqlmetrics.ord.myfreecams.com
+
+# StripChat
+
+pxl.stripchat.com
+trk.account.stripchat.com
+trk.notify.stripchat.com
+trk.sender.stripchat.com
+stripchat.com !
+stripchat.net !
+stripchat.global !
+
+# Camsoda
+
+fp.camsoda.com
+fp.gfx.streamate.com
+xmetrics.camsoda.com
+
+# Cam4
+
+performers-origin.cam4.com
+performers.cam4.com
+track.cam4.com
+
+# ImLive
+
+metrics.imlive.com
+
+# Cams
+
+ab.cams.com !
+ads.cams.com
+banners.cams.com
+sentry-new.cams.run
+sentry.cams.run
+
+# SkyPrivate
+
+monitor.skyprivate.com
+
+# PornGO
+
+ad.porngo.com
