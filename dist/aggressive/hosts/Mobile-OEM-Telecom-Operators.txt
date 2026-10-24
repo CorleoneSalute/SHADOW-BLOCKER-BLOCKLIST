@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1121
+# Total domains: 1125
 # Generated: 2026-10-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -149,6 +149,7 @@
 0.0.0.0 analytics.verizon.com
 0.0.0.0 analytics.vivo.com
 0.0.0.0 analytics.vodafone.com
+0.0.0.0 analytics.vodafone.com.au
 0.0.0.0 analytics.vodafone.it
 0.0.0.0 analytics.zte.com.cn
 0.0.0.0 api-analytics.samsungknox.com
@@ -368,6 +369,7 @@
 0.0.0.0 err-up.vivoglobal.com
 0.0.0.0 err.up.vivoglobal.com
 0.0.0.0 etl.xlmc.sec.miui.com
+0.0.0.0 etplog.vodafone.com.au
 0.0.0.0 eu-1.nebula-collector.huawei.com
 0.0.0.0 eu-errup.vivoglobal.com
 0.0.0.0 eu-onrt-stsdk.vivoglobal.com
@@ -1034,6 +1036,8 @@
 0.0.0.0 trace-h5sdk.vivo.com.cn
 0.0.0.0 track.ad.xiaomi.com
 0.0.0.0 track.m.nothing.tech
+0.0.0.0 track.vodafone.com.au
+0.0.0.0 track2.vodafone.com.au
 0.0.0.0 tracker-preview.ai.xiaomi.com
 0.0.0.0 tracker.ai.xiaomi.com
 0.0.0.0 trackercollect.ddxq.mobi

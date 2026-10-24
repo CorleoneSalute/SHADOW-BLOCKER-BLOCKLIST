@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10242
+# Total domains: 10246
 # Generated: 2026-10-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1910,6 +1910,7 @@
 ||analytics.vivo.com^
 ||analytics.vk.ru^
 ||analytics.vodafone.com^
+||analytics.vodafone.com.au^
 ||analytics.vodafone.it^
 ||analytics.voiscooters.com^
 ||analytics.voot.com^
@@ -4049,6 +4050,7 @@
 ||ethobleo.com^
 ||etl.xlmc.sec.miui.com^
 ||etlogs.fantrax.com^
+||etplog.vodafone.com.au^
 ||etrack.np.norton.com^
 ||etrackcanon.csa.canon.com^
 ||etrackcanon.usa.canon.com^
@@ -9155,6 +9157,7 @@
 ||track.vbet.com^
 ||track.victorybet.ro^
 ||track.vip.5bet.com^
+||track.vodafone.com.au^
 ||track.webgains.com^
 ||track.winegifts.wine.com^
 ||track.womanlog.com^
@@ -9163,6 +9166,7 @@
 ||track.zetaglobal.com^
 ||track2.adition.com^
 ||track2.bidstack.com^
+||track2.vodafone.com.au^
 ||trackedevt.1rx.io^
 ||tracker-novembers-347342.appspot.com^
 ||tracker-preview.ai.xiaomi.com^
