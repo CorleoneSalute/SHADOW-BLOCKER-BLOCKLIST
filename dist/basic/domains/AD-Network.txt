@@ -1,11 +1,12 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2335
+# Total domains: 2341
 # Generated: 2026-10-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 15.taboola.com
+17admob.com
 1rx.io
 247realmedia.com
 33across.com
@@ -234,6 +235,7 @@ adservers.com.br
 adservices.google.com
 adsfactor.net
 adsfly.app
+adsforindia.com
 adsglobal.world
 adsgold.com.br
 adshost1.com
@@ -997,6 +999,7 @@ epmads.com
 epom.classtag.com
 epom.com
 epomapps.com
+eqikeji.com
 equativ.com
 eskimi.com
 esp.rtbhouse.com
@@ -1312,6 +1315,8 @@ lapatilla.com
 lasthashsol.com
 lax1-ib.adnxs-simple.com
 lax1-ib.adnxs.com
+lekkerads.com
+lekkerads.nl
 lexicon.33across.com
 liftoff.ai
 liftoff.io
@@ -1366,6 +1371,7 @@ measurement-api.criteo.com
 media.admob.com
 media.net
 media.thespike.gg
+mediards.com
 mediation.adnxs.com
 mediation.fyber.com
 mediawoot.com

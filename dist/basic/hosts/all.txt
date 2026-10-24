@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10232
+# Total domains: 10238
 # Generated: 2026-10-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -14,6 +14,7 @@
 0.0.0.0 0i.sh-cdn.com
 0.0.0.0 1.upload.advertise.myspace.com
 0.0.0.0 15.taboola.com
+0.0.0.0 17admob.com
 0.0.0.0 192a9047-bf6e-0f35-22ef-116bf5b5b669-rum.cdnvideo.ru
 0.0.0.0 1ckpad.adrevenue.appsflyersdk.com
 0.0.0.0 1fhc-event.fhcasino.com
@@ -800,6 +801,7 @@
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adsfactor.net
 0.0.0.0 adsfly.app
+0.0.0.0 adsforindia.com
 0.0.0.0 adsfree.chaturbate.com
 0.0.0.0 adsfs-sdkconfig.heytapimage.com
 0.0.0.0 adsfs.oppomobile.com
@@ -4012,6 +4014,7 @@
 0.0.0.0 epom.com
 0.0.0.0 epomapps.com
 0.0.0.0 epsonanalytics.com
+0.0.0.0 eqikeji.com
 0.0.0.0 equativ.com
 0.0.0.0 er2d2.criteo.com
 0.0.0.0 err-up.vivoglobal.com
@@ -5248,6 +5251,8 @@
 0.0.0.0 lduhtrp.net
 0.0.0.0 learncyber.brightdata.com
 0.0.0.0 legeerook.com
+0.0.0.0 lekkerads.com
+0.0.0.0 lekkerads.nl
 0.0.0.0 lesbiemates.com
 0.0.0.0 lexicon.33across.com
 0.0.0.0 lf16-adsformat-sign.tiktokcdn.com
@@ -5798,6 +5803,7 @@
 0.0.0.0 media.gosmspro.com
 0.0.0.0 media.net
 0.0.0.0 media.thespike.gg
+0.0.0.0 mediards.com
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediation.fyber.com
 0.0.0.0 mediawoot.com

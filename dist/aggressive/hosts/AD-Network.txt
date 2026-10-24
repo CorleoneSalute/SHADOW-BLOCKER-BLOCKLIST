@@ -1,11 +1,12 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2345
+# Total domains: 2351
 # Generated: 2026-10-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 0.0.0.0 15.taboola.com
+0.0.0.0 17admob.com
 0.0.0.0 1rx.io
 0.0.0.0 247realmedia.com
 0.0.0.0 33across.com
@@ -235,6 +236,7 @@
 0.0.0.0 adservices.google.com
 0.0.0.0 adsfactor.net
 0.0.0.0 adsfly.app
+0.0.0.0 adsforindia.com
 0.0.0.0 adsglobal.world
 0.0.0.0 adsgold.com.br
 0.0.0.0 adshost1.com
@@ -1001,6 +1003,7 @@
 0.0.0.0 epom.classtag.com
 0.0.0.0 epom.com
 0.0.0.0 epomapps.com
+0.0.0.0 eqikeji.com
 0.0.0.0 equativ.com
 0.0.0.0 eskimi.com
 0.0.0.0 esp.rtbhouse.com
@@ -1318,6 +1321,8 @@
 0.0.0.0 lasthashsol.com
 0.0.0.0 lax1-ib.adnxs-simple.com
 0.0.0.0 lax1-ib.adnxs.com
+0.0.0.0 lekkerads.com
+0.0.0.0 lekkerads.nl
 0.0.0.0 lexicon.33across.com
 0.0.0.0 liftoff.ai
 0.0.0.0 liftoff.io
@@ -1372,6 +1377,7 @@
 0.0.0.0 media.admob.com
 0.0.0.0 media.net
 0.0.0.0 media.thespike.gg
+0.0.0.0 mediards.com
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediation.fyber.com
 0.0.0.0 mediawoot.com
