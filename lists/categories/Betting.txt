@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 302
-# Total platforms: 105
+# Total platforms: 106
 # Last update: 2026/10/23
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -531,3 +531,9 @@ track.vbet.com
 analytics.api.starzbet.com
 sentry.api.starzbet.com
 site-analytics.api.starzbet.com
+
+# Get's Bet
+
+tracker.getsbet.ro
+metrics.getsbet.ro
+metrics-ib.getsbet.ro
