@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10239
+# Total domains: 10242
 # Generated: 2026-10-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5880,6 +5880,7 @@
 ||metrics-grafana.euw.forter.com^
 ||metrics-grafana.use.forter.com^
 ||metrics-hd.ops.kobo.com^
+||metrics-ib.getsbet.ro^
 ||metrics-ic1.icloud.com^
 ||metrics-ic1.icloud.com.cn^
 ||metrics-ic2.icloud.com^
@@ -5986,6 +5987,7 @@
 ||metrics.fresha.com^
 ||metrics.fubo.tv^
 ||metrics.geforcenow.com^
+||metrics.getsbet.ro^
 ||metrics.gitlab.com^
 ||metrics.glarysoft.com^
 ||metrics.globo.com^
@@ -9175,6 +9177,7 @@
 ||tracker.debian.org^
 ||tracker.doodstream.com^
 ||tracker.gaana.com^
+||tracker.getsbet.ro^
 ||tracker.gnome.org^
 ||tracker.gymshark.com^
 ||tracker.kali.org^

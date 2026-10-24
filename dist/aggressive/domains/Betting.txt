@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 302
+# Total domains: 305
 # Generated: 2026-10-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -174,12 +174,14 @@ logs.thrillzz.com
 mcp.analytics.gnosis.io
 metric.luckyslots.net
 metric.megawinslots.com
+metrics-ib.getsbet.ro
 metrics-old.drift.trade
 metrics.5bet.com
 metrics.betinasia.com
 metrics.draftkings.com
 metrics.drift.trade
 metrics.fanduel.com
+metrics.getsbet.ro
 metrics.gnosischain.com
 metrics.lider-bet.com
 metrics.megawinslots.com
@@ -264,6 +266,7 @@ track.poker.zynga.com
 track.vbet.com
 track.victorybet.ro
 track.vip.5bet.com
+tracker.getsbet.ro
 tracker.williamhill.com
 tracking.chanced.com
 tracking.espn.com
