@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10714
+# Total domains: 10715
 # Generated: 2026-10-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4582,6 +4582,7 @@
 ||flexlinks.com^
 ||flexlinkspro.com^
 ||flingo.tv^
+||flingoads.com^
 ||flipool.com^
 ||flirt.com^
 ||flirtads.com^

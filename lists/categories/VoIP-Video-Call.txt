@@ -1,7 +1,7 @@
 # VoIP & VIDEO CALL BLOCKLIST
 
-# Total domains: 43
-# Last update: 2026/10/13
+# Total domains: 44
+# Last update: 2026/10/24
 # Note: trailing "!" marks a domain as aggressive-only
 
 # GOOGLE MEET

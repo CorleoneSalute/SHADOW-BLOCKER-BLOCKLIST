@@ -1,6 +1,6 @@
 # ============================================================
 # VOIP VIDEO CALL BLOCKLIST - BASIC
-# Total domains: 40
+# Total domains: 41
 # Generated: 2026-10-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -23,6 +23,7 @@
 0.0.0.0 client-logs-r.wbx2.com
 0.0.0.0 dogfood.telemetry.zoomconnector.com
 0.0.0.0 eu.telemetry.zoomconnector.com
+0.0.0.0 flingoads.com
 0.0.0.0 go.telemetry.zoomconnector.com
 0.0.0.0 in.telemetry.zoomconnector.com
 0.0.0.0 log-gateway.zoom.us

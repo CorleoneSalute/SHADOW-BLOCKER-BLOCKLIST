@@ -1,6 +1,6 @@
 # ============================================================
 # VOIP VIDEO CALL BLOCKLIST - AGGRESSIVE
-# Total domains: 43
+# Total domains: 44
 # Generated: 2026-10-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -26,6 +26,7 @@
 0.0.0.0 collector.callstats.io
 0.0.0.0 dogfood.telemetry.zoomconnector.com
 0.0.0.0 eu.telemetry.zoomconnector.com
+0.0.0.0 flingoads.com
 0.0.0.0 go.telemetry.zoomconnector.com
 0.0.0.0 in.telemetry.zoomconnector.com
 0.0.0.0 log-gateway.zoom.us
