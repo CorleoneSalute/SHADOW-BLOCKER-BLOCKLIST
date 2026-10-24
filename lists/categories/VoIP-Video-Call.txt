@@ -67,3 +67,7 @@ collector.callstats.io !
 # OCTAPULL
 
 log.octapull.com
+
+# Flingster
+
+flingoads.com
