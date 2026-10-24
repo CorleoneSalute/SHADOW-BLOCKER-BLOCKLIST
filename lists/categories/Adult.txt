@@ -1,6 +1,6 @@
 Adult Blocklist
 
-Total domains:40
+Total domains:77
 
 Last update:2026/10/24
 
