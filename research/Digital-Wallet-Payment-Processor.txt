@@ -7,13 +7,7 @@ googlepay.com
 payments.google.com
 pay.googleapis.com
 wallet.googleapis.com
-android.clients.google.com
-android.googleapis.com
-geller-pa.googleapis.com
-clientservices.googleapis.com
-play.googleapis.com
 payment.googleapis.com
-chromemanagement.googleapis.com
 analytics.google.com
 google-analytics.com
 www.google-analytics.com
@@ -30,21 +24,6 @@ app-measurement.googleapis.com
 doubleclick.net
 googleadservices.com
 googlesyndication.com
-pagead2.googlesyndication.com
-maps.googleapis.com
-maps.google.com
-gstatic.com
-fonts.gstatic.com
-ssl.gstatic.com
-csi.gstatic.com
-encrypted-tbn0.gstatic.com
-encrypted-tbn1.gstatic.com
-encrypted-tbn2.gstatic.com
-encrypted-tbn3.gstatic.com
-maps.gstatic.com
-connectivitycheck.gstatic.com
-fonts.googleapis.com
-www.googleapis.com
 
 APPLE PAY / APPLE WALLET
 wallet.apple.com
@@ -54,21 +33,11 @@ cn-apple-pay-gateway.apple.com
 applepay.cdn-apple.com
 apple-pay-gateway-cert.apple.com
 cn-apple-pay-gateway-cert.apple.com
-np.itunes.apple.com
-buy.itunes.apple.com
 payments.apple.com
-smp-device-content.apple.com
-nc-pod1.smp-device.apple.com
-nc-pod2.smp-device.apple.com
-nc-pod3.smp-device.apple.com
-nc-pod4.smp-device.apple.com
-nc-pod5.smp-device.apple.com
 metrics.apple.com
 metrics.icloud.com
 xp.apple.com
 diagassets.apple.com
-supportmetrics.apple.com
-developer.apple.com
 
 SAMSUNG PAY
 pay.samsung.com
@@ -89,24 +58,11 @@ account.samsung.com
 log-ingestion-eu.samsungacr.com
 devicelog.samsungcloudsolution.net
 acr0.samsungcloudsolution.com
-upu.samsungelectronics.com
-dpu.samsungelectronics.com
-kpu.samsungelectronics.com
-lcprd1.samsungcloudsolution.net
-lcprd2.samsungcloudsolution.net
-noticecdn.samsungcloudsolution.com
-notice.samsungcloudsolution.com
-osb.samsungqbe.com
-osb-apps.samsungqbe.com
-www.samsungotn.net
-www.samsungrm.net
-time.samsungcloudsolution.com
 img.mpay.samsung.com
 us-partner.pay.samsung.com
 d35p4vvdul393k.cloudfront.net
 d16i99j5zwwv51.cloudfront.net
 developer.samsung.com/pay
-docs.samsungknox.com
 
 PAYPAL
 paypal.com
