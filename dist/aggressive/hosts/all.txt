@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10722
-# Generated: 2026-10-24 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10721
+# Generated: 2026-10-25 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -3727,7 +3727,6 @@
 0.0.0.0 data-id.ads.oppomobile.com
 0.0.0.0 data-in-ads.realmemobile.com
 0.0.0.0 data-in.ads.oppomobile.com
-0.0.0.0 data-talos.revolut.com
 0.0.0.0 data.a.fanatics.com
 0.0.0.0 data.acxiom.com
 0.0.0.0 data.adition.com
