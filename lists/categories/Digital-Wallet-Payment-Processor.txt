@@ -32,7 +32,6 @@ wise-analytics.com
 
 # REVOLUT
 analytics.revolut.com
-data-talos.revolut.com
 metrics-tracking.revolut.com
 
 # 2CHECKOUT / AVANGATE
