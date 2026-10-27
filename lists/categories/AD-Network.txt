@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2351
-# Total platforms: 317
+# Total platforms: 320
 # Last update: 2026/10/24
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3230,3 +3230,15 @@ mediards.com
 
 17admob.com
 eqikeji.com
+
+# MavinAds
+
+mavinads.com
+
+# POP Advertising Partners
+
+popadpartners.com
+
+# Striker Ads
+
+strikerads.com
