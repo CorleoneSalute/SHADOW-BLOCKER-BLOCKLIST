@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2341
-# Generated: 2026-10-25 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2344
+# Generated: 2026-10-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -1367,6 +1367,7 @@ match.microad.jp
 match.primis.tech
 match.sharethrough.com
 match.taboola.com
+mavinads.com
 measurement-api.criteo.com
 media.admob.com
 media.net
@@ -1586,6 +1587,7 @@ plista87.plista.com
 ploxtar.com
 plurielmediacenter.com
 pmc-reporting.criteo.net
+popadpartners.com
 popup.taboola.com
 post.update.criteo.com
 postrelease.com
@@ -1913,6 +1915,7 @@ store.criteo.com
 streamrail.com
 streamrail.net
 street-production.s3.amazonaws.com
+strikerads.com
 strossle.com
 stx.sharethrough.com
 sublime.xyz

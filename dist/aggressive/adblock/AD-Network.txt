@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2351
-# Generated: 2026-10-25 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2354
+# Generated: 2026-10-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -1373,6 +1373,7 @@
 ||match.primis.tech^
 ||match.sharethrough.com^
 ||match.taboola.com^
+||mavinads.com^
 ||measurement-api.criteo.com^
 ||media.admob.com^
 ||media.net^
@@ -1593,6 +1594,7 @@
 ||ploxtar.com^
 ||plurielmediacenter.com^
 ||pmc-reporting.criteo.net^
+||popadpartners.com^
 ||popup.taboola.com^
 ||post.update.criteo.com^
 ||postrelease.com^
@@ -1920,6 +1922,7 @@
 ||streamrail.com^
 ||streamrail.net^
 ||street-production.s3.amazonaws.com^
+||strikerads.com^
 ||strossle.com^
 ||stx.sharethrough.com^
 ||sublime.xyz^

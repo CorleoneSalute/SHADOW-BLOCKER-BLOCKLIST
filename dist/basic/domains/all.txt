@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10245
-# Generated: 2026-10-25 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10248
+# Generated: 2026-10-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -5756,6 +5756,7 @@ matomo.garmin.com
 matomo.samsungsdibs.at
 matrix.api.ad.xiaomi.com
 matterlytics.com
+mavinads.com
 max.ad.xiaomi.com
 maxbounty.com
 maxfinishseveral.com
@@ -7022,6 +7023,7 @@ podcasts-analytics.apple.com
 point-ads.line-apps.com
 pointstone.com
 poker.track.zynga.com
+popadpartners.com
 popcon.debian.org
 popcon.ubuntu.com
 popin.cc
@@ -8436,6 +8438,7 @@ streamtape.com
 streamvoyage.com
 street-production.s3.amazonaws.com
 streme.fullcontact.com
+strikerads.com
 stripshow.com
 strossle.com
 stsdk.vivoglobal.com

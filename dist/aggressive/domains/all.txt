@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10721
-# Generated: 2026-10-25 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10724
+# Generated: 2026-10-27 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -6031,6 +6031,7 @@ matomo.garmin.com
 matomo.samsungsdibs.at
 matrix.api.ad.xiaomi.com
 matterlytics.com
+mavinads.com
 max.ad.xiaomi.com
 maxbounty.com
 maxfinishseveral.com
@@ -7352,6 +7353,7 @@ podtrac.com
 point-ads.line-apps.com
 pointstone.com
 poker.track.zynga.com
+popadpartners.com
 popcon.debian.org
 popcon.ubuntu.com
 popin.cc
@@ -8841,6 +8843,7 @@ streamtape.com
 streamvoyage.com
 street-production.s3.amazonaws.com
 streme.fullcontact.com
+strikerads.com
 stripchat.com
 stripchat.global
 stripchat.net
