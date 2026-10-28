@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1125
+# Total domains: 1126
 # Generated: 2026-10-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -662,6 +662,7 @@
 0.0.0.0 metrics.dt.dbankcloud.ru
 0.0.0.0 metrics.dt.hicloud.com
 0.0.0.0 metrics.dt.hihonorcloud.com
+0.0.0.0 metrics.dt.hihonorcloud.com.host
 0.0.0.0 metrics.huawei.com
 0.0.0.0 metrics.motorola.com
 0.0.0.0 metrics.oneplus.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10250
+# Total domains: 10251
 # Generated: 2026-10-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5972,6 +5972,7 @@
 0.0.0.0 metrics.dt.dbankcloud.ru
 0.0.0.0 metrics.dt.hicloud.com
 0.0.0.0 metrics.dt.hihonorcloud.com
+0.0.0.0 metrics.dt.hihonorcloud.com.host
 0.0.0.0 metrics.duolingo.com
 0.0.0.0 metrics.ea.com
 0.0.0.0 metrics.engineeringvillage.com
