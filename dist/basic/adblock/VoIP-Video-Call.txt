@@ -1,7 +1,7 @@
 # ============================================================
 # VOIP VIDEO CALL BLOCKLIST - BASIC
-# Total domains: 41
-# Generated: 2026-10-27 (UTC) - auto-generated, do not edit by hand
+# Total domains: 42
+# Generated: 2026-10-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -21,6 +21,7 @@
 ||au.telemetry.zoomconnector.com^
 ||ca.telemetry.zoomconnector.com^
 ||client-logs-r.wbx2.com^
+||collector-muon-metrics.us.aggmet.o.webex.com^
 ||dogfood.telemetry.zoomconnector.com^
 ||eu.telemetry.zoomconnector.com^
 ||flingoads.com^

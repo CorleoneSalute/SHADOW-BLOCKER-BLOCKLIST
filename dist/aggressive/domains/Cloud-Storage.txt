@@ -1,7 +1,7 @@
 # ============================================================
 # CLOUD STORAGE BLOCKLIST - AGGRESSIVE
 # Total domains: 21
-# Generated: 2026-10-27 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-10-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 

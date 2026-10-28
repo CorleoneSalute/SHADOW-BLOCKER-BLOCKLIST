@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10248
-# Generated: 2026-10-27 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10249
+# Generated: 2026-10-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -3292,6 +3292,7 @@ collections.cmp.optimizely.com
 collections.marketing.cmp.optimizely.com
 collections.yandex.com
 collector-eu.conviva.com
+collector-muon-metrics.us.aggmet.o.webex.com
 collector-ops.twitter.com
 collector-us.conviva.com
 collector-v2.spinxgames.com
