@@ -39,6 +39,7 @@ logs.o.webex.com
 client-logs-r.wbx2.com
 metrics-m.wbx2.com
 collector-muon-metrics.us.aggmet.o.webex.com
+metrics.o.extusgov.infra.webex.com
 
 # RINGCENTRAL
 analytics.ringcentral.com
