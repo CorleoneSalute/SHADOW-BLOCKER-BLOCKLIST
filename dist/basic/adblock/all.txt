@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10251
+# Total domains: 10252
 # Generated: 2026-10-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9115,6 +9115,7 @@
 ||track.nativo.com^
 ||track.naturalcycles.com^
 ||track.nbc.com^
+||track.netflix.com^
 ||track.optimizely.com^
 ||track.optimove.net^
 ||track.outbrain.com^

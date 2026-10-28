@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 391
+# Total domains: 392
 # Generated: 2026-10-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -361,6 +361,7 @@
 0.0.0.0 telemetry.pluto.tv
 0.0.0.0 telemetry.tubitv.com
 0.0.0.0 track.nbc.com
+0.0.0.0 track.netflix.com
 0.0.0.0 track.parsely.com
 0.0.0.0 tracking.hbomax.com
 0.0.0.0 tracking.hulu.com

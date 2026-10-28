@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10727
+# Total domains: 10728
 # Generated: 2026-10-28 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9541,6 +9541,7 @@ track.myflotracker.com
 track.nativo.com
 track.naturalcycles.com
 track.nbc.com
+track.netflix.com
 track.optimizely.com
 track.optimove.net
 track.outbrain.com
