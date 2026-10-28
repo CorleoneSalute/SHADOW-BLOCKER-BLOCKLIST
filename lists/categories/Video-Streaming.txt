@@ -170,6 +170,7 @@ customerevents.netflix.com
 analytics.netflix.com
 advertising.netflix.com
 metrics.netflix.com
+track.netflix.com
 recommendations-telemetry.netflix.com
 api-logging.netflix.com
 logs.netflix.com
