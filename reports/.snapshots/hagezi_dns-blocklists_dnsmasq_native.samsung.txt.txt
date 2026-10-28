@@ -41,6 +41,7 @@ diagmon-serviceapi.samsungdm.com
 dls-account.di.atlas.samsung.com
 dls-ddc.dqa.samsung.com
 dls-udc.dqa.samsung.com
+dls.di.atlas.samsung.com
 dls.di.runestone.samsung.com
 download-samsung.dtignite.com
 dpu.samsungelectronics.com
