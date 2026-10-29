@@ -11906,6 +11906,7 @@ dbbest.actonservice.com
 dbex-tracker-v2.driveback.ru
 dbfocus.jp
 dbhbgz.suitableshop.nl
+dbik.literatur-couch.de
 dbj.quebecregion.com
 dbl.cadriamarketing.com
 dblarson.com
@@ -14376,6 +14377,7 @@ etyper.com
 etznkn.ec-store.net
 eu-1-id5-sync.com
 eu-mobile.events.data.microsoft.com
+eu-office.events.data.microsoft.com
 eu-survey.com
 eu.business.samsung.com
 eu.cignaglobalhealth.com
@@ -17177,6 +17179,7 @@ heatmap.com
 heatmap.it
 heatmap.support-inc.co.jp
 heatmaps.lcisoft.it
+heatrave.com
 heavydetail.com
 heavyplayground.com
 hebiichigo.com
@@ -17213,6 +17216,7 @@ helpflame.com
 helpingbits.com
 hemblx.vans.cl
 hemnes.win
+hensonempire.com
 hentaicounter.com
 herbgreencolumn.com
 herbstarsbuilding.com
@@ -17227,6 +17231,7 @@ hevqaz.submarino.com.br
 hexagon-analytics.com
 heyaxr.fashiondays.bg
 heycomputers.com
+heyhotshots.com
 heylink.com
 heymatic.com
 heystaks.com
@@ -29827,6 +29832,7 @@ rabbitbreath.com
 rabbitrifle.com
 rac.ruutu.fi
 racemanager-app.sapsailing.com
+racerpets.com
 rackforstorage.com
 radar.imgsmail.ru
 radar.wizzo.media
@@ -29947,6 +29953,7 @@ readertracking.com
 readingguilt.com
 readingpartners.actonservice.com
 readnotify.com
+readourminds.com
 ready.curriculumassociates.com
 ready.nerdery.com
 readymoon.com
@@ -30111,6 +30118,7 @@ regulatesleet.com
 rehabilitatereason.com
 rehmann.actonservice.com
 reico.actonservice.com
+reignfans.com
 reinvigorate.net
 reitingi.lv
 rejestr.org
@@ -38091,6 +38099,7 @@ stats.jdheyburn.co.uk
 stats.jerickson.net
 stats.jetzt-aktivieren.de
 stats.jhsheridan.com
+stats.jiosaavn.com
 stats.jjude.com
 stats.jkdesa.com
 stats.joaopedro.dev
@@ -40789,6 +40798,7 @@ tms.hft.factor75.com
 tms.hft.goodchop.com
 tms.hft.greenchef.com
 tms.hft.hellofresh.com
+tms.wape.autodesk.com
 tmt.intelligence.informa.com
 tmvasapp.fitnessyard.com
 tmvtp.com
@@ -44129,7 +44139,6 @@ unicornprices.com
 unidays.world
 unifiedwfo.verintsystemsinc.com
 unifilabs.actonservice.com
-unifybots.com
 uninterestedquarter.com
 uniqodo.com
 united-infos.net

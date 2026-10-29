@@ -267,6 +267,11 @@ ruvideo.cdn.pandora.intl.xiaomi.com
 sandbox.xmpush.xiaomi.com
 sdk-cache.video.ptqy.gitv.tv
 sdk.ptqy.gitv.tv
+sdkconfig.eu.xiaomi.com
+sdkconfig.india.xiaomi.com
+sdkconfig.intl.xiaomi.com
+sdkconfig.rus.xiaomi.com
+sdkconfig.xiaomi.com
 search.miui.com
 sec-cdn.static.intl.xiaomi.net
 sec-cdn.static.xiaomi.net
