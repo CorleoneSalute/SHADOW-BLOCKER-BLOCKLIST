@@ -1,6 +1,6 @@
 # ============================================================
 # VPN PROXY BLOCKLIST - AGGRESSIVE
-# Total domains: 63
+# Total domains: 65
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -32,6 +32,8 @@
 ||holax.io^
 ||insights.nordvpn.com^
 ||log.nordvpn.com^
+||matomo-tracking.vsgitvpn.com^
+||matomo.vsgitvpn.com^
 ||metrics.cyberghostvpn.com^
 ||metrics.expressvpn.com^
 ||metrics.ipvanish.com^
