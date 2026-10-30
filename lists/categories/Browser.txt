@@ -338,6 +338,26 @@ tracker.yandex.com
 tracking.ott.yandex.com
 external-ads-platform-gw.plet.yandex.net
 egw.ads-platform.plet.yandex.ru
+ads.yandex.com.tr
+admetrica.yandex.com.tr
+analytics.yandex.com.tr
+advertising.yandex.com.tr
+api-metrika.yandex.com.tr
+api.appmetrica.yandex.com.tr
+appmetrika.yandex.com.tr
+appmetrica.yandex.com.tr
+clck.yandex.com.tr
+log.api-maps.yandex.com.tr
+metric.yandex.com.tr
+metrica.yandex.com.tr
+metrika-api.yandex.com.tr
+metrika.yandex.com.tr
+metr.yandex.com.tr
+mobmetrica.yandex.com.tr
+mobmetrika.yandex.com.tr
+mobile-feedback.yandex.com.tr
+reklam.yandex.com.tr
+personalization.yandex.com.tr !
 
 # VIVALDI
 telemetry.vivaldi.com
