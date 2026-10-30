@@ -1,6 +1,6 @@
 # SMARTWATCH & WEARABLES BLOCKLIST
 
-# Total domains:28
+# Total domains:29
 # Last update: 2026/10/30
 # Note: trailing "!" marks a domain as aggressive-only
 

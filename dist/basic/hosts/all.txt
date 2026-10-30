@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10293
+# Total domains: 10294
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2076,6 +2076,7 @@
 0.0.0.0 api-ads.1muslimapp.com
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 api-advertiser.linkvertise.com
+0.0.0.0 api-analytics-cn.huami.com
 0.0.0.0 api-analytics.bird.co
 0.0.0.0 api-analytics.huami.com
 0.0.0.0 api-analytics.samsungknox.com
