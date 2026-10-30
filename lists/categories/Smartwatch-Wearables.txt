@@ -17,6 +17,7 @@ shealth-analytics-api.samsunghealth.com
 analytics-api.samsunghealthcn.com
 samsunghealthanalytics.com
 analytics-api.samsunghealthanalytics.com
+analytics.samsungknowledge.com
 
 # XIAOMI / HUAMI / ZEPP / AMAZFIT
 api-analytics.huami.com
