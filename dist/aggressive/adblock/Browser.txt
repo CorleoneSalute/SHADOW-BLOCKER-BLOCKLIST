@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 382
+# Total domains: 383
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -88,6 +88,7 @@
 ||analytics.yandex.com.tr^
 ||analytics.yandex.ru^
 ||anonymous.ads.bravesoftware.com^
+||anti-bot.baidu.com^
 ||apd.ping.android.shouji.sogou.com^
 ||api-ios.shouji.sogou.com^
 ||api-metrica.yandex.com^

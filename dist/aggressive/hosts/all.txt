@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10770
+# Total domains: 10771
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2104,6 +2104,7 @@
 0.0.0.0 anrdoezrs.net
 0.0.0.0 ans.avast.com
 0.0.0.0 anthargo.com
+0.0.0.0 anti-bot.baidu.com
 0.0.0.0 antibanads.com
 0.0.0.0 antifraud.adikteev.com
 0.0.0.0 antifraud.remerge.io
