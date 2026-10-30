@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10735
+# Total domains: 10736
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9520,6 +9520,7 @@
 ||track.go.moovit.com^
 ||track.gobble.com^
 ||track.gojek.com^
+||track.goodnotes.com^
 ||track.headway.co^
 ||track.heatmap.com^
 ||track.helloclue.com^

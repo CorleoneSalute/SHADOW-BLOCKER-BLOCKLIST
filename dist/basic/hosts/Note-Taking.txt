@@ -1,6 +1,6 @@
 # ============================================================
 # NOTE TAKING BLOCKLIST - BASIC
-# Total domains: 25
+# Total domains: 26
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -29,4 +29,5 @@
 0.0.0.0 evernotemetrics.com
 0.0.0.0 metrics.evernote.com
 0.0.0.0 pagesense.io
+0.0.0.0 track.goodnotes.com
 0.0.0.0 zohotagmanager.cdn.pagesense.io

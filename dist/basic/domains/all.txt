@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10259
+# Total domains: 10260
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9094,6 +9094,7 @@ track.glow.co
 track.go.moovit.com
 track.gobble.com
 track.gojek.com
+track.goodnotes.com
 track.headway.co
 track.heatmap.com
 track.helloclue.com
