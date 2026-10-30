@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10738
+# Total domains: 10737
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9740,7 +9740,6 @@ tracking.launchdarkly.com
 tracking.livechatinc.com
 tracking.loopcloud.com
 tracking.meitu.com
-tracking.mg.airpay.com.ph
 tracking.micron.com
 tracking.mindbodyonline.com
 tracking.miui.com

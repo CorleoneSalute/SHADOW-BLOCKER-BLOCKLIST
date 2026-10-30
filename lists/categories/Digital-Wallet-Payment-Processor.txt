@@ -1,6 +1,6 @@
 # Digital Wallet & Payment Processor Blocklist
 
-# Total domains: 50
+# Total domains: 49
 # Last update: 2026/10/30
 # Note: trailing "!" marks a domain as aggressive-only
 
