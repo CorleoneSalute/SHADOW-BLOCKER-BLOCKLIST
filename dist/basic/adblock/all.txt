@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10303
+# Total domains: 10304
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8102,6 +8102,7 @@
 ||slimwareutilities.com^
 ||slink.to^
 ||slinkway.com^
+||slog.sina.cn^
 ||slog.sina.com.cn^
 ||sls-telemetry.sophosupd.com^
 ||sluppend.com^

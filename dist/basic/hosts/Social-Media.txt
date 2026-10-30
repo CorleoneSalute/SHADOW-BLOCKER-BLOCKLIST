@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 759
+# Total domains: 760
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -639,6 +639,7 @@
 0.0.0.0 sgee-mcs.byteoversea.com
 0.0.0.0 shence-log.kwai.com
 0.0.0.0 sjs.bizographics.com
+0.0.0.0 slog.sina.cn
 0.0.0.0 slog.sina.com.cn
 0.0.0.0 snap.licdn.com
 0.0.0.0 snapads.com

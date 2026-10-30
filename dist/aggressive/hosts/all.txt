@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10781
+# Total domains: 10782
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8497,6 +8497,7 @@
 0.0.0.0 slimwareutilities.com
 0.0.0.0 slink.to
 0.0.0.0 slinkway.com
+0.0.0.0 slog.sina.cn
 0.0.0.0 slog.sina.com.cn
 0.0.0.0 sls-telemetry.sophosupd.com
 0.0.0.0 sluppend.com
