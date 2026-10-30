@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 392
+# Total domains: 393
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -21,6 +21,7 @@
 0.0.0.0 ad-beacon.peacocktv.com
 0.0.0.0 ad-beacon.tubitv.com
 0.0.0.0 ad-metrics.espn.com
+0.0.0.0 ad.mobile.youku.com
 0.0.0.0 adgen-cdn.connatix.com
 0.0.0.0 adgen.connatix.com
 0.0.0.0 adinsights.netflix.net

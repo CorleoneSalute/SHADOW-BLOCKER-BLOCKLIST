@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10286
+# Total domains: 10287
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -256,6 +256,7 @@
 0.0.0.0 ad.meitu.com
 0.0.0.0 ad.mi.com
 0.0.0.0 ad.minigame.vip
+0.0.0.0 ad.mobile.youku.com
 0.0.0.0 ad.mxplayer.in
 0.0.0.0 ad.nettvservices.com
 0.0.0.0 ad.offers-ua.vbet.com
