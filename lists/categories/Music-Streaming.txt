@@ -69,6 +69,7 @@ webcollect.kugou.com
 webcollects.kugou.com
 adservice.kugou.com !
 sentry.kugou.com
+mvads.kugou.com
 
 # Gaana
 ads.gaana.com
