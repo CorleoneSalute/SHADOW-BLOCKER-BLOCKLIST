@@ -160,6 +160,7 @@ gb-info-lgsmartad-com.aws-prd.net
 es-info-lgsmartad-com.aws-prd.net
 gr-info-lgsmartad-com.aws-prd.net	
 ibsstat.nextlgsdp.com !
+ad.nextlgsdp.com
 in-info-lgsmartad-com.aws-prd.net	
 ir-info-lgsmartad-com.aws-prd.net	
 it-info-lgsmartad-com.aws-prd.net	
