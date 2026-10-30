@@ -91,5 +91,4 @@ track.useepay.com
 
 # AIRPAY TECHNOLOGIES PHILIPPINES INC.
 
-tracking.mg.airpay.com.ph
 tracker.iv.airpay.com.ph
