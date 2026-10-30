@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10741
+# Total domains: 10761
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -423,6 +423,7 @@
 ||admedia.network^
 ||admedia.ro^
 ||admetrica.yandex.com^
+||admetrica.yandex.com.tr^
 ||admin-advertising.roku.com^
 ||admitad.com^
 ||admix.in^
@@ -750,6 +751,7 @@
 ||ads.yahoo.co.jp^
 ||ads.yahoo.com^
 ||ads.yandex.com^
+||ads.yandex.com.tr^
 ||ads.yieldmo.com^
 ||ads.yimg.com^
 ||ads.youtube.com^
@@ -960,6 +962,7 @@
 ||advertising.web.grindr.com^
 ||advertising.yahoo.com^
 ||advertising.yahooinc.com^
+||advertising.yandex.com.tr^
 ||advertisingcentral.yahoo.com^
 ||advertisinginsights.yahoo.com^
 ||advertserve.com^
@@ -2000,6 +2003,7 @@
 ||analytics.yahoo.com^
 ||analytics.yamaha.com^
 ||analytics.yandex.com^
+||analytics.yandex.com.tr^
 ||analytics.youbora.com^
 ||analytics.youku.com^
 ||analytics.youtube.com^
@@ -2137,6 +2141,7 @@
 ||api-logging.netflix.com^
 ||api-metrica.yandex.com^
 ||api-metrika.yandex.com^
+||api-metrika.yandex.com.tr^
 ||api-news-integration.taboola.com^
 ||api-s2s-america-f.taboola.com^
 ||api-s2s.taboola.com^
@@ -2189,6 +2194,7 @@
 ||api.aniview.com^
 ||api.anzu.io^
 ||api.appmetrica.yandex.com^
+||api.appmetrica.yandex.com.tr^
 ||api.appmetrika.yandex.com^
 ||api.appsignal.com^
 ||api.audiohook.com^
@@ -2444,7 +2450,9 @@
 ||applovin.io^
 ||applvn.com^
 ||appmetrica.yandex.com^
+||appmetrica.yandex.com.tr^
 ||appmetrika.yandex.com^
+||appmetrika.yandex.com.tr^
 ||appnexus.com^
 ||apps.hivestack.com^
 ||appservestar.com^
@@ -3215,6 +3223,7 @@
 ||classify-app-us.allawnos.com^
 ||clck.adskeeper.com^
 ||clck.mgid.com^
+||clck.yandex.com.tr^
 ||clck.yandex.net^
 ||clck.yandex.ru^
 ||cldata-ads-fr.heytapmobile.com^
@@ -5669,6 +5678,7 @@
 ||log.ai-type.com^
 ||log.alipay.com^
 ||log.api-maps.yandex.com^
+||log.api-maps.yandex.com.tr^
 ||log.apps.aericast.com^
 ||log.avlyun.sec.intl.miui.com^
 ||log.avlyun.sec.miui.com^
@@ -6116,6 +6126,7 @@
 ||metastead.com^
 ||metis.truecaller.com^
 ||metr.yandex.com^
+||metr.yandex.com.tr^
 ||metric-jingwei.huya.com^
 ||metric.huya.com^
 ||metric.luckyslots.net^
@@ -6124,8 +6135,10 @@
 ||metric.sourceforge.io^
 ||metric.vodafone.com.eg^
 ||metric.yandex.com^
+||metric.yandex.com.tr^
 ||metric.yimg.cn^
 ||metrica.yandex.com^
+||metrica.yandex.com.tr^
 ||metrica.yandex.ru^
 ||metrics-a.wbx2.com^
 ||metrics-ad-drcn.dt.hihonorcloud.com^
@@ -6455,8 +6468,10 @@
 ||metricsha-drcn.dt.dbankcloud.cn^
 ||metricstm.podcastle.ai^
 ||metrika-api.yandex.com^
+||metrika-api.yandex.com.tr^
 ||metrika.yandex.bymetrika.yandex.com^
 ||metrika.yandex.com^
+||metrika.yandex.com.tr^
 ||metrika.yandex.ru^
 ||metrix.ols.us.dell.com^
 ||mfadsrvr.com^
@@ -6532,6 +6547,7 @@
 ||mobile-api.revcontent.com^
 ||mobile-api.taboola.com^
 ||mobile-crash-reporting.facebook.com^
+||mobile-feedback.yandex.com.tr^
 ||mobile-sdk.smartlook.com^
 ||mobile.anycast.adnxs.com^
 ||mobile.logs.roku.com^
@@ -6543,7 +6559,9 @@
 ||mobilereporting.ext.nokia.com^
 ||mobilewalla.com^
 ||mobmetrica.yandex.com^
+||mobmetrica.yandex.com.tr^
 ||mobmetrika.yandex.com^
+||mobmetrika.yandex.com.tr^
 ||mobvista.com^
 ||mobwsa.ximalaya.com^
 ||mockup.ads.brave.com^
@@ -7201,6 +7219,7 @@
 ||perr.l-err.biz^
 ||personalization.hbomax.com^
 ||personalization.hulu.com^
+||personalization.yandex.com.tr^
 ||personalize.zetaglobal.com^
 ||personalized.adikteev.com^
 ||pf.fluct.jp^
@@ -7661,6 +7680,7 @@
 ||reindaks.com^
 ||reinderk.com^
 ||reingod.com^
+||reklam.yandex.com.tr^
 ||reklama.yandex.com^
 ||relay.flo.health^
 ||relay.fullstory.com^

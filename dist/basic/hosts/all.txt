@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10265
+# Total domains: 10284
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -402,6 +402,7 @@
 0.0.0.0 admedia.network
 0.0.0.0 admedia.ro
 0.0.0.0 admetrica.yandex.com
+0.0.0.0 admetrica.yandex.com.tr
 0.0.0.0 admin-advertising.roku.com
 0.0.0.0 admitad.com
 0.0.0.0 admix.in
@@ -716,6 +717,7 @@
 0.0.0.0 ads.yahoo.co.jp
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yandex.com
+0.0.0.0 ads.yandex.com.tr
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 ads.yimg.com
 0.0.0.0 ads.youtube.com
@@ -919,6 +921,7 @@
 0.0.0.0 advertising.web.grindr.com
 0.0.0.0 advertising.yahoo.com
 0.0.0.0 advertising.yahooinc.com
+0.0.0.0 advertising.yandex.com.tr
 0.0.0.0 advertisingcentral.yahoo.com
 0.0.0.0 advertisinginsights.yahoo.com
 0.0.0.0 advertserve.com
@@ -1951,6 +1954,7 @@
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yamaha.com
 0.0.0.0 analytics.yandex.com
+0.0.0.0 analytics.yandex.com.tr
 0.0.0.0 analytics.youbora.com
 0.0.0.0 analytics.youku.com
 0.0.0.0 analytics.youtube.com
@@ -2085,6 +2089,7 @@
 0.0.0.0 api-logging.netflix.com
 0.0.0.0 api-metrica.yandex.com
 0.0.0.0 api-metrika.yandex.com
+0.0.0.0 api-metrika.yandex.com.tr
 0.0.0.0 api-news-integration.taboola.com
 0.0.0.0 api-s2s-america-f.taboola.com
 0.0.0.0 api-s2s.taboola.com
@@ -2137,6 +2142,7 @@
 0.0.0.0 api.aniview.com
 0.0.0.0 api.anzu.io
 0.0.0.0 api.appmetrica.yandex.com
+0.0.0.0 api.appmetrica.yandex.com.tr
 0.0.0.0 api.appmetrika.yandex.com
 0.0.0.0 api.appsignal.com
 0.0.0.0 api.ay.gy
@@ -2385,7 +2391,9 @@
 0.0.0.0 applovin.io
 0.0.0.0 applvn.com
 0.0.0.0 appmetrica.yandex.com
+0.0.0.0 appmetrica.yandex.com.tr
 0.0.0.0 appmetrika.yandex.com
+0.0.0.0 appmetrika.yandex.com.tr
 0.0.0.0 appnexus.com
 0.0.0.0 apps.hivestack.com
 0.0.0.0 appservestar.com
@@ -3122,6 +3130,7 @@
 0.0.0.0 classify-app-us.allawnos.com
 0.0.0.0 clck.adskeeper.com
 0.0.0.0 clck.mgid.com
+0.0.0.0 clck.yandex.com.tr
 0.0.0.0 clck.yandex.net
 0.0.0.0 clck.yandex.ru
 0.0.0.0 cldata-ads-fr.heytapmobile.com
@@ -5397,6 +5406,7 @@
 0.0.0.0 log.ai-type.com
 0.0.0.0 log.alipay.com
 0.0.0.0 log.api-maps.yandex.com
+0.0.0.0 log.api-maps.yandex.com.tr
 0.0.0.0 log.apps.aericast.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.avlyun.sec.miui.com
@@ -5841,6 +5851,7 @@
 0.0.0.0 metastead.com
 0.0.0.0 metis.truecaller.com
 0.0.0.0 metr.yandex.com
+0.0.0.0 metr.yandex.com.tr
 0.0.0.0 metric-jingwei.huya.com
 0.0.0.0 metric.huya.com
 0.0.0.0 metric.luckyslots.net
@@ -5849,8 +5860,10 @@
 0.0.0.0 metric.sourceforge.io
 0.0.0.0 metric.vodafone.com.eg
 0.0.0.0 metric.yandex.com
+0.0.0.0 metric.yandex.com.tr
 0.0.0.0 metric.yimg.cn
 0.0.0.0 metrica.yandex.com
+0.0.0.0 metrica.yandex.com.tr
 0.0.0.0 metrica.yandex.ru
 0.0.0.0 metrics-a.wbx2.com
 0.0.0.0 metrics-ad-drcn.dt.hihonorcloud.com
@@ -6180,8 +6193,10 @@
 0.0.0.0 metricsha-drcn.dt.dbankcloud.cn
 0.0.0.0 metricstm.podcastle.ai
 0.0.0.0 metrika-api.yandex.com
+0.0.0.0 metrika-api.yandex.com.tr
 0.0.0.0 metrika.yandex.bymetrika.yandex.com
 0.0.0.0 metrika.yandex.com
+0.0.0.0 metrika.yandex.com.tr
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 metrix.ols.us.dell.com
 0.0.0.0 mfadsrvr.com
@@ -6256,6 +6271,7 @@
 0.0.0.0 mobile-api.revcontent.com
 0.0.0.0 mobile-api.taboola.com
 0.0.0.0 mobile-crash-reporting.facebook.com
+0.0.0.0 mobile-feedback.yandex.com.tr
 0.0.0.0 mobile-sdk.smartlook.com
 0.0.0.0 mobile.anycast.adnxs.com
 0.0.0.0 mobile.logs.roku.com
@@ -6267,7 +6283,9 @@
 0.0.0.0 mobilereporting.ext.nokia.com
 0.0.0.0 mobilewalla.com
 0.0.0.0 mobmetrica.yandex.com
+0.0.0.0 mobmetrica.yandex.com.tr
 0.0.0.0 mobmetrika.yandex.com
+0.0.0.0 mobmetrika.yandex.com.tr
 0.0.0.0 mobvista.com
 0.0.0.0 mobwsa.ximalaya.com
 0.0.0.0 mockup.ads.brave.com
@@ -7294,6 +7312,7 @@
 0.0.0.0 reindaks.com
 0.0.0.0 reinderk.com
 0.0.0.0 reingod.com
+0.0.0.0 reklam.yandex.com.tr
 0.0.0.0 reklama.yandex.com
 0.0.0.0 relay.flo.health
 0.0.0.0 relay.fullstory.com

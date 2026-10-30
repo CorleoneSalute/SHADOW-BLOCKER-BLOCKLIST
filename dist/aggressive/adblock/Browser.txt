@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 361
+# Total domains: 381
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -25,6 +25,7 @@
 ||admanagerplus.yahoo.com^
 ||admarketing.yahoo.net^
 ||admetrica.yandex.com^
+||admetrica.yandex.com.tr^
 ||admktg.yahoo.com^
 ||adreporter.yahoo.com^
 ||adreporting2.corp.yahoo.com^
@@ -51,6 +52,7 @@
 ||ads.yahoo.co.jp^
 ||ads.yahoo.com^
 ||ads.yandex.com^
+||ads.yandex.com.tr^
 ||ads.yimg.com^
 ||ads1.vip.in.yahoo.com^
 ||ads1.vip.ir2.yahoo.com^
@@ -62,6 +64,7 @@
 ||adspecs.yahoo.com^
 ||advertising.oath.com^
 ||advertising.yahoo.com^
+||advertising.yandex.com.tr^
 ||advertisingcentral.yahoo.com^
 ||advertisinginsights.yahoo.com^
 ||adx.opera.com^
@@ -82,15 +85,18 @@
 ||analytics.query.yahoo.com^
 ||analytics.yahoo.com^
 ||analytics.yandex.com^
+||analytics.yandex.com.tr^
 ||anonymous.ads.bravesoftware.com^
 ||apd.ping.android.shouji.sogou.com^
 ||api-ios.shouji.sogou.com^
 ||api-metrica.yandex.com^
 ||api-metrika.yandex.com^
+||api-metrika.yandex.com.tr^
 ||api.ad-fox.yandex.com^
 ||api.ads.yahoo.com^
 ||api.advertisinginsights.yahoo.com^
 ||api.appmetrica.yandex.com^
+||api.appmetrica.yandex.com.tr^
 ||api.appmetrika.yandex.com^
 ||api.hisavana.com^
 ||api.searchmarketing.yahoo.com^
@@ -101,7 +107,9 @@
 ||appads.baidu.com^
 ||application-logs-disk-production.s3-private.mds.yandex.net^
 ||appmetrica.yandex.com^
+||appmetrica.yandex.com.tr^
 ||appmetrika.yandex.com^
+||appmetrika.yandex.com.tr^
 ||awaps.yandex.net^
 ||awaps.yandex.ru^
 ||b-ca.adx.opera.com^
@@ -136,6 +144,7 @@
 ||cc-api.hisavana.com^
 ||central-log.opera.com^
 ||chromereporting-pa.googleapis.com^
+||clck.yandex.com.tr^
 ||clck.yandex.net^
 ||clck.yandex.ru^
 ||click.hm.baidu.com^
@@ -211,6 +220,7 @@
 ||ipds.opr.adx.opera.com^
 ||istats.baidu.com^
 ||log.api-maps.yandex.com^
+||log.api-maps.yandex.com.tr^
 ||log.baidu.com^
 ||log.hm.baidu.com^
 ||log.im.baidu.com^
@@ -225,21 +235,29 @@
 ||mc.yandex.ru^
 ||meta-ucads.ucweb.com^
 ||metr.yandex.com^
+||metr.yandex.com.tr^
 ||metric.yandex.com^
+||metric.yandex.com.tr^
 ||metric.yimg.cn^
 ||metrica.yandex.com^
+||metrica.yandex.com.tr^
 ||metrica.yandex.ru^
 ||metrics.baidu.com^
 ||metrics.brave.com^
 ||metrics.bravesoftware.com^
 ||metrika-api.yandex.com^
+||metrika-api.yandex.com.tr^
 ||metrika.yandex.bymetrika.yandex.com^
 ||metrika.yandex.com^
+||metrika.yandex.com.tr^
 ||metrika.yandex.ru^
 ||missioncontrol.telemetry.mozilla.org^
 ||mobads.baidu.com^
+||mobile-feedback.yandex.com.tr^
 ||mobmetrica.yandex.com^
+||mobmetrica.yandex.com.tr^
 ||mobmetrika.yandex.com^
+||mobmetrika.yandex.com.tr^
 ||mockup.ads.brave.com^
 ||ms.dzen.ru^
 ||mtj.baidu.com^
@@ -271,6 +289,7 @@
 ||pagead.adx.ams.op-mobile.opera.com^
 ||partnerads.ysm.yahoo.net^
 ||pcad.video.baidu.com^
+||personalization.yandex.com.tr^
 ||ping-ios.shouji.sogou.com^
 ||ping-msganr.android.shouji.sogou.com^
 ||ping.android.shouji.sogou.com^
@@ -288,6 +307,7 @@
 ||r.bat.bing.com^
 ||r.g.bing.com^
 ||raka.bing.com^
+||reklam.yandex.com.tr^
 ||reklama.yandex.com^
 ||report-uri.baidu.com^
 ||res.adx.opera.com^

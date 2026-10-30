@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 361
+# Total domains: 381
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -25,6 +25,7 @@
 0.0.0.0 admanagerplus.yahoo.com
 0.0.0.0 admarketing.yahoo.net
 0.0.0.0 admetrica.yandex.com
+0.0.0.0 admetrica.yandex.com.tr
 0.0.0.0 admktg.yahoo.com
 0.0.0.0 adreporter.yahoo.com
 0.0.0.0 adreporting2.corp.yahoo.com
@@ -51,6 +52,7 @@
 0.0.0.0 ads.yahoo.co.jp
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yandex.com
+0.0.0.0 ads.yandex.com.tr
 0.0.0.0 ads.yimg.com
 0.0.0.0 ads1.vip.in.yahoo.com
 0.0.0.0 ads1.vip.ir2.yahoo.com
@@ -62,6 +64,7 @@
 0.0.0.0 adspecs.yahoo.com
 0.0.0.0 advertising.oath.com
 0.0.0.0 advertising.yahoo.com
+0.0.0.0 advertising.yandex.com.tr
 0.0.0.0 advertisingcentral.yahoo.com
 0.0.0.0 advertisinginsights.yahoo.com
 0.0.0.0 adx.opera.com
@@ -82,15 +85,18 @@
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yandex.com
+0.0.0.0 analytics.yandex.com.tr
 0.0.0.0 anonymous.ads.bravesoftware.com
 0.0.0.0 apd.ping.android.shouji.sogou.com
 0.0.0.0 api-ios.shouji.sogou.com
 0.0.0.0 api-metrica.yandex.com
 0.0.0.0 api-metrika.yandex.com
+0.0.0.0 api-metrika.yandex.com.tr
 0.0.0.0 api.ad-fox.yandex.com
 0.0.0.0 api.ads.yahoo.com
 0.0.0.0 api.advertisinginsights.yahoo.com
 0.0.0.0 api.appmetrica.yandex.com
+0.0.0.0 api.appmetrica.yandex.com.tr
 0.0.0.0 api.appmetrika.yandex.com
 0.0.0.0 api.hisavana.com
 0.0.0.0 api.searchmarketing.yahoo.com
@@ -101,7 +107,9 @@
 0.0.0.0 appads.baidu.com
 0.0.0.0 application-logs-disk-production.s3-private.mds.yandex.net
 0.0.0.0 appmetrica.yandex.com
+0.0.0.0 appmetrica.yandex.com.tr
 0.0.0.0 appmetrika.yandex.com
+0.0.0.0 appmetrika.yandex.com.tr
 0.0.0.0 awaps.yandex.net
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 b-ca.adx.opera.com
@@ -136,6 +144,7 @@
 0.0.0.0 cc-api.hisavana.com
 0.0.0.0 central-log.opera.com
 0.0.0.0 chromereporting-pa.googleapis.com
+0.0.0.0 clck.yandex.com.tr
 0.0.0.0 clck.yandex.net
 0.0.0.0 clck.yandex.ru
 0.0.0.0 click.hm.baidu.com
@@ -211,6 +220,7 @@
 0.0.0.0 ipds.opr.adx.opera.com
 0.0.0.0 istats.baidu.com
 0.0.0.0 log.api-maps.yandex.com
+0.0.0.0 log.api-maps.yandex.com.tr
 0.0.0.0 log.baidu.com
 0.0.0.0 log.hm.baidu.com
 0.0.0.0 log.im.baidu.com
@@ -225,21 +235,29 @@
 0.0.0.0 mc.yandex.ru
 0.0.0.0 meta-ucads.ucweb.com
 0.0.0.0 metr.yandex.com
+0.0.0.0 metr.yandex.com.tr
 0.0.0.0 metric.yandex.com
+0.0.0.0 metric.yandex.com.tr
 0.0.0.0 metric.yimg.cn
 0.0.0.0 metrica.yandex.com
+0.0.0.0 metrica.yandex.com.tr
 0.0.0.0 metrica.yandex.ru
 0.0.0.0 metrics.baidu.com
 0.0.0.0 metrics.brave.com
 0.0.0.0 metrics.bravesoftware.com
 0.0.0.0 metrika-api.yandex.com
+0.0.0.0 metrika-api.yandex.com.tr
 0.0.0.0 metrika.yandex.bymetrika.yandex.com
 0.0.0.0 metrika.yandex.com
+0.0.0.0 metrika.yandex.com.tr
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 missioncontrol.telemetry.mozilla.org
 0.0.0.0 mobads.baidu.com
+0.0.0.0 mobile-feedback.yandex.com.tr
 0.0.0.0 mobmetrica.yandex.com
+0.0.0.0 mobmetrica.yandex.com.tr
 0.0.0.0 mobmetrika.yandex.com
+0.0.0.0 mobmetrika.yandex.com.tr
 0.0.0.0 mockup.ads.brave.com
 0.0.0.0 ms.dzen.ru
 0.0.0.0 mtj.baidu.com
@@ -271,6 +289,7 @@
 0.0.0.0 pagead.adx.ams.op-mobile.opera.com
 0.0.0.0 partnerads.ysm.yahoo.net
 0.0.0.0 pcad.video.baidu.com
+0.0.0.0 personalization.yandex.com.tr
 0.0.0.0 ping-ios.shouji.sogou.com
 0.0.0.0 ping-msganr.android.shouji.sogou.com
 0.0.0.0 ping.android.shouji.sogou.com
@@ -288,6 +307,7 @@
 0.0.0.0 r.bat.bing.com
 0.0.0.0 r.g.bing.com
 0.0.0.0 raka.bing.com
+0.0.0.0 reklam.yandex.com.tr
 0.0.0.0 reklama.yandex.com
 0.0.0.0 report-uri.baidu.com
 0.0.0.0 res.adx.opera.com
