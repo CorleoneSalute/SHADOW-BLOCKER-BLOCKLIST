@@ -1,6 +1,6 @@
 # ============================================================
 # HARDWARE VENDOR BLOCKLIST - BASIC
-# Total domains: 150
+# Total domains: 151
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -19,6 +19,7 @@ ad.jp.dell.com
 ad1.gtie.dell.com
 ad2.gtie.dell.com
 ad3.gtie.dell.com
+adcore.lenovomm.com
 ads.acer.com
 adspa-uat.acer.com
 adspa.acer.com
