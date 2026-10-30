@@ -324,6 +324,7 @@ ad-analytics.pluto.tv
 beacon.pluto.tv
 epg-metrics.pluto.tv
 cdn-analytics.pluto.tv
+service-ad-impression-proxy.clusters.pluto.tv
 k.pluto.tv
 pluto.tv.sc.omtrdc.net
 
