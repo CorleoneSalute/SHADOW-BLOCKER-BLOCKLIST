@@ -419,6 +419,7 @@ h5tracker6.gslb.pptv.com
 h5tracker7.gslb.pptv.com
 ppad.gslb.pptv.com
 ads.aplus.pptv.com
+ads.aplusapi.pptv.com
 
 # Huan TV
 
