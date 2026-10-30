@@ -896,6 +896,7 @@ m.beacon.sina.com.cn
 client.ad.sina.com.cn
 sbeacon.sina.com.cn
 emarketing.sina.com.cn
+slog.sina.cn
 tjs.sjs.sinajs.cn
 ```
 
