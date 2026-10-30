@@ -1,6 +1,6 @@
 # ============================================================
 # MUSIC STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 62
+# Total domains: 63
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -47,6 +47,7 @@
 ||logs.gaana.com^
 ||logsnew.gaana.com^
 ||metrics-target.siriusxm.com^
+||mvads.kugou.com^
 ||nbcollect.kugou.com^
 ||pcstat.kugou.com^
 ||pcstatbak.kugou.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10778
+# Total domains: 10779
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6745,6 +6745,7 @@
 0.0.0.0 musr.navdmp.com
 0.0.0.0 mustang.logs.roku.com
 0.0.0.0 mvads.cdn.espn.com
+0.0.0.0 mvads.kugou.com
 0.0.0.0 mx-err-up.vivoglobal.com
 0.0.0.0 mx-onrt-stsdk.vivoglobal.com
 0.0.0.0 mx-ort-stsdk.vivoglobal.com

@@ -1,6 +1,6 @@
 # ============================================================
 # MUSIC STREAMING BLOCKLIST - BASIC
-# Total domains: 54
+# Total domains: 55
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -41,6 +41,7 @@
 ||logs.gaana.com^
 ||logsnew.gaana.com^
 ||metrics-target.siriusxm.com^
+||mvads.kugou.com^
 ||nbcollect.kugou.com^
 ||pixel-static.spotify.com^
 ||pixel.spotify.com^

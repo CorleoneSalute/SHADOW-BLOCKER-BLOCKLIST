@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10300
+# Total domains: 10301
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6465,6 +6465,7 @@ musicanalytics.apple.com
 musr.navdmp.com
 mustang.logs.roku.com
 mvads.cdn.espn.com
+mvads.kugou.com
 mx-err-up.vivoglobal.com
 mx-onrt-stsdk.vivoglobal.com
 mx-ort-stsdk.vivoglobal.com
