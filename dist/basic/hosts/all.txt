@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10302
+# Total domains: 10303
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8007,6 +8007,7 @@
 0.0.0.0 set.track.smaato.net
 0.0.0.0 setravieso.com
 0.0.0.0 setting.rayjump.com
+0.0.0.0 settings-analytics.hotstar.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 sexintouch.com
 0.0.0.0 sf16-ads-format-sign.tiktokcdn.com

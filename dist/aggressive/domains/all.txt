@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10780
+# Total domains: 10781
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8396,6 +8396,7 @@ sestat.baidu.com
 set.track.smaato.net
 setravieso.com
 setting.rayjump.com
+settings-analytics.hotstar.com
 settings.crashlytics.com
 sexintouch.com
 sf16-ads-format-sign.tiktokcdn.com
