@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2344
-# Generated: 2026-10-28 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2348
+# Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -61,6 +61,7 @@
 0.0.0.0 ad-sys.com
 0.0.0.0 ad-tag.inner-active.mobi
 0.0.0.0 ad-track.jp
+0.0.0.0 ad-visedigital.com
 0.0.0.0 ad-volt.com
 0.0.0.0 ad-zone.net
 0.0.0.0 ad.adition.com
@@ -161,6 +162,7 @@
 0.0.0.0 adprime.com
 0.0.0.0 adprimehealth.com
 0.0.0.0 adprimemedia.com
+0.0.0.0 adprudence.com
 0.0.0.0 adptrck.com
 0.0.0.0 adrokt.com
 0.0.0.0 adroll.com
@@ -293,6 +295,7 @@
 0.0.0.0 advertiser-api.revcontent.com
 0.0.0.0 advertising.com
 0.0.0.0 advertising.yahooinc.com
+0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
 0.0.0.0 advoxel.com
 0.0.0.0 advservert.com
@@ -1754,6 +1757,7 @@
 0.0.0.0 sandboxplatform.admaster.cc
 0.0.0.0 sandelf.com
 0.0.0.0 sandflos.com
+0.0.0.0 santaads.com
 0.0.0.0 santils.com
 0.0.0.0 satellite.plista.com
 0.0.0.0 sb.quantserve.com

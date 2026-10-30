@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10252
-# Generated: 2026-10-28 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10256
+# Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -207,6 +207,7 @@
 0.0.0.0 ad-tech-windev.weather.com
 0.0.0.0 ad-trace.lenovomm.com
 0.0.0.0 ad-track.jp
+0.0.0.0 ad-visedigital.com
 0.0.0.0 ad-volt.com
 0.0.0.0 ad-zone.net
 0.0.0.0 ad.adition.com
@@ -448,6 +449,7 @@
 0.0.0.0 adprimehealth.com
 0.0.0.0 adprimemedia.com
 0.0.0.0 adprofex.com
+0.0.0.0 adprudence.com
 0.0.0.0 adptrck.com
 0.0.0.0 adpump.com
 0.0.0.0 adpump.com.br
@@ -919,6 +921,7 @@
 0.0.0.0 advertising.yahooinc.com
 0.0.0.0 advertisingcentral.yahoo.com
 0.0.0.0 advertisinginsights.yahoo.com
+0.0.0.0 advertserve.com
 0.0.0.0 advertstream.com
 0.0.0.0 adverweb.cjenm.com
 0.0.0.0 advidi.com
@@ -7734,6 +7737,7 @@
 0.0.0.0 sandboxplatform.admaster.cc
 0.0.0.0 sandelf.com
 0.0.0.0 sandflos.com
+0.0.0.0 santaads.com
 0.0.0.0 santils.com
 0.0.0.0 sapi.ads.oppomobile.com
 0.0.0.0 satellite.plista.com

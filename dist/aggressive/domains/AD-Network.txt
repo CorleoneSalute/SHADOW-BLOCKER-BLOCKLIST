@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2354
-# Generated: 2026-10-28 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2358
+# Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -61,6 +61,7 @@ ad-srv.net
 ad-sys.com
 ad-tag.inner-active.mobi
 ad-track.jp
+ad-visedigital.com
 ad-volt.com
 ad-zone.net
 ad.adition.com
@@ -161,6 +162,7 @@ adpopcorn.com
 adprime.com
 adprimehealth.com
 adprimemedia.com
+adprudence.com
 adptrck.com
 adrokt.com
 adroll.com
@@ -294,6 +296,7 @@ advertise.quantcast.com
 advertiser-api.revcontent.com
 advertising.com
 advertising.yahooinc.com
+advertserve.com
 advertstream.com
 advoxel.com
 advservert.com
@@ -1761,6 +1764,7 @@ sandbox.yieldmo.com
 sandboxplatform.admaster.cc
 sandelf.com
 sandflos.com
+santaads.com
 santils.com
 satellite.plista.com
 sb.quantserve.com
