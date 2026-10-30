@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10767
+# Total domains: 10768
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -782,6 +782,7 @@ ads3.javmost.com
 ads30.adcolony.com
 ads33.adtelligent.com
 ads5.huawei.com
+ads5.truecaller.com
 ads54.adtelligent.com
 ads6.textra.me
 adsailor.com
