@@ -338,6 +338,7 @@ tracker.yandex.com
 tracking.ott.yandex.com
 external-ads-platform-gw.plet.yandex.net
 egw.ads-platform.plet.yandex.ru
+analytics.yandex.ru
 ads.yandex.com.tr
 admetrica.yandex.com.tr
 analytics.yandex.com.tr
