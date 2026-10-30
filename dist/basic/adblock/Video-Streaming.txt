@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 393
+# Total domains: 394
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -28,6 +28,7 @@
 ||ads-fa-darwin.hulu.com^
 ||ads-v-darwin.hulu.com^
 ||ads.aplus.pptv.com^
+||ads.aplusapi.pptv.com^
 ||ads.bitmovin.com^
 ||ads.brightcove.com^
 ||ads.conviva.com^

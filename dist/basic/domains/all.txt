@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10289
+# Total domains: 10290
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -547,6 +547,7 @@ ads.anzu.io
 ads.api.cj.com
 ads.api.vungle.com
 ads.aplus.pptv.com
+ads.aplusapi.pptv.com
 ads.apple.com
 ads.apple.com.akadns.net
 ads.ar.e-planning.net

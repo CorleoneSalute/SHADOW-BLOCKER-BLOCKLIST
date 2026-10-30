@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10766
+# Total domains: 10767
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -572,6 +572,7 @@
 ||ads.api.cj.com^
 ||ads.api.vungle.com^
 ||ads.aplus.pptv.com^
+||ads.aplusapi.pptv.com^
 ||ads.apple.com^
 ||ads.apple.com.akadns.net^
 ||ads.ar.e-planning.net^
