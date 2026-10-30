@@ -325,6 +325,10 @@ log9-normal-c-alisg.tiktokv.com
 log9-normal-c-useast1a.tiktokv.com
 logbk.tiktokv.com
 tns-sec-log-useast2a.tiktokv.com
+log0-misc-lq.amemv.com
+log0-misc-alinc2.amemv.com
+log3-misc-lq.amemv.com
+log5-misc-lq.amemv.com
 ```
 
 **tiktokv.com rtlog* (Real-Time Log)** (46 domain)
