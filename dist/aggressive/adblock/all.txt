@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10772
+# Total domains: 10773
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4299,6 +4299,7 @@
 ||eventlogger.soundcloud.com^
 ||eventos.asus.com^
 ||events-analytics.apple.com.akamaized.net^
+||events-analytics.hotstar.com^
 ||events-api.devcycle.com^
 ||events-api.soundcloud.com^
 ||events-dc1.gfe.nvidia.com^

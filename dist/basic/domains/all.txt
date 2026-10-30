@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10294
+# Total domains: 10295
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4146,6 +4146,7 @@ eventlog.norton.com
 eventlogger.soundcloud.com
 eventos.asus.com
 events-analytics.apple.com.akamaized.net
+events-analytics.hotstar.com
 events-api.devcycle.com
 events-api.soundcloud.com
 events-dc1.gfe.nvidia.com

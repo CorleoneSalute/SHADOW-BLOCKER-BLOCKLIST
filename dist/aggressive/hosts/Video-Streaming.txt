@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 438
+# Total domains: 439
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -194,6 +194,7 @@
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 eu-west-1-1.telemetry.insights.video.a2z.com
+0.0.0.0 events-analytics.hotstar.com
 0.0.0.0 events.jwplayer.com
 0.0.0.0 events.kaltura.com
 0.0.0.0 events.mux.com
