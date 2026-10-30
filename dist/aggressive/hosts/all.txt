@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10769
+# Total domains: 10770
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2012,6 +2012,7 @@
 0.0.0.0 analytics.yamaha.com
 0.0.0.0 analytics.yandex.com
 0.0.0.0 analytics.yandex.com.tr
+0.0.0.0 analytics.yandex.ru
 0.0.0.0 analytics.youbora.com
 0.0.0.0 analytics.youku.com
 0.0.0.0 analytics.youtube.com

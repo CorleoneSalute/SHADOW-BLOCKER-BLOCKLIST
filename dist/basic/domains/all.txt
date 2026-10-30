@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10292
+# Total domains: 10293
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1963,6 +1963,7 @@ analytics.yahoo.com
 analytics.yamaha.com
 analytics.yandex.com
 analytics.yandex.com.tr
+analytics.yandex.ru
 analytics.youbora.com
 analytics.youku.com
 analytics.youtube.com

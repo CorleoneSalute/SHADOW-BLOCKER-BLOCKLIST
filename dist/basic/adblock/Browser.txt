@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 353
+# Total domains: 354
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -84,6 +84,7 @@
 ||analytics.yahoo.com^
 ||analytics.yandex.com^
 ||analytics.yandex.com.tr^
+||analytics.yandex.ru^
 ||anonymous.ads.bravesoftware.com^
 ||apd.ping.android.shouji.sogou.com^
 ||api-ios.shouji.sogou.com^
