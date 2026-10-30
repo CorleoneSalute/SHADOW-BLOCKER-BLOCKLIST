@@ -132,6 +132,7 @@ qstanalytics.lenovo.com
 trk.ecomm.lenovo.com
 ad-sdk.lenovomm.com
 ad-trace.lenovomm.com
+adcore.lenovomm.com
 
 # Purism
 tracker.puri.sm
