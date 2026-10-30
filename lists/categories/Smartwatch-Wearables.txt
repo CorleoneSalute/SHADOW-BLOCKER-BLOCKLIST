@@ -23,6 +23,7 @@ analytics.samsungknowledge.com
 api-analytics.huami.com
 app-analytics.huami.com
 web-analytics.huami.com
+api-analytics-cn.huami.com
 clarity.zepp.com
 app-analytics-cn3.zepp.com
 
