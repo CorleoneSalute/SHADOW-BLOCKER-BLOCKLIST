@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1126
+# Total domains: 1130
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -290,6 +290,7 @@
 0.0.0.0 cse.avlyun.sec.miui.com
 0.0.0.0 cupid.ad.xiaomi.com
 0.0.0.0 cupid.ptqy.gitv.tv
+0.0.0.0 cvmanalytics.vodafone.com.tr
 0.0.0.0 dapi.hmdglobal.net
 0.0.0.0 data-ads.realmemobile.com
 0.0.0.0 data-f.ads.oppomobile.com
@@ -956,6 +957,7 @@
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 secure.report.iss.xiaomi.com
 0.0.0.0 sentry.sec.miui.com
+0.0.0.0 sentry.vodafone.com.tr
 0.0.0.0 sg-cfg-stsdk.vivoglobal.com
 0.0.0.0 sgp-ortb-api.ad.intl.xiaomi.com
 0.0.0.0 sgpapi.ad.intl.xiaomi.com
@@ -968,6 +970,7 @@
 0.0.0.0 smetrics.t-mobile.com
 0.0.0.0 smetrics.three.co.uk
 0.0.0.0 smetrics.v.vodafone.com
+0.0.0.0 smetrics.vodafone.com.tr
 0.0.0.0 sms-ads-in.heytapmobile.com
 0.0.0.0 sms-ads-ru.heytapmobile.com
 0.0.0.0 sms-sg.ads.heytapmobile.com
@@ -1071,6 +1074,7 @@
 0.0.0.0 trk.orange.be
 0.0.0.0 trk.orange.com
 0.0.0.0 trk.orange.pl
+0.0.0.0 trk.vodafone.com.tr
 0.0.0.0 trk.www.orange.com
 0.0.0.0 tvp-ads-log.samsungads.com
 0.0.0.0 tvp-interactive-ad.samsungads.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10737
+# Total domains: 10741
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3673,6 +3673,7 @@
 0.0.0.0 cuttlinks.com
 0.0.0.0 cutwin.com
 0.0.0.0 cutyion.com
+0.0.0.0 cvmanalytics.vodafone.com.tr
 0.0.0.0 cws.conviva.com
 0.0.0.0 cyberdefender.com
 0.0.0.0 d.adroll.com
@@ -8310,6 +8311,7 @@
 0.0.0.0 sentry.system76.com
 0.0.0.0 sentry.tidio.co
 0.0.0.0 sentry.tools.element.io
+0.0.0.0 sentry.vodafone.com.tr
 0.0.0.0 sentry.work.ink
 0.0.0.0 sentry.xinchenai.com
 0.0.0.0 sentry.zopim.com
@@ -8524,6 +8526,7 @@
 0.0.0.0 smetrics.ubi.com
 0.0.0.0 smetrics.us.playstation.com
 0.0.0.0 smetrics.v.vodafone.com
+0.0.0.0 smetrics.vodafone.com.tr
 0.0.0.0 smetrics.williamhill.com
 0.0.0.0 smetrics2.williamhill.com
 0.0.0.0 smoner.com
@@ -9920,6 +9923,7 @@
 0.0.0.0 trk.trx.vimeo.com
 0.0.0.0 trk.vera.bet.br
 0.0.0.0 trk.vivino.com
+0.0.0.0 trk.vodafone.com.tr
 0.0.0.0 trk.www.orange.com
 0.0.0.0 trk1.vivino.com
 0.0.0.0 trk2.vivino.com

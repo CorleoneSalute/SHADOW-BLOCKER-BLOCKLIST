@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1126
+# Total domains: 1130
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -290,6 +290,7 @@ crash.sonymobile.com
 cse.avlyun.sec.miui.com
 cupid.ad.xiaomi.com
 cupid.ptqy.gitv.tv
+cvmanalytics.vodafone.com.tr
 dapi.hmdglobal.net
 data-ads.realmemobile.com
 data-f.ads.oppomobile.com
@@ -956,6 +957,7 @@ sdkconfig.ad.rus.xiaomi.com
 sdkconfig.ad.xiaomi.com
 secure.report.iss.xiaomi.com
 sentry.sec.miui.com
+sentry.vodafone.com.tr
 sg-cfg-stsdk.vivoglobal.com
 sgp-ortb-api.ad.intl.xiaomi.com
 sgpapi.ad.intl.xiaomi.com
@@ -968,6 +970,7 @@ smetrics.samsung.com.cn
 smetrics.t-mobile.com
 smetrics.three.co.uk
 smetrics.v.vodafone.com
+smetrics.vodafone.com.tr
 sms-ads-in.heytapmobile.com
 sms-ads-ru.heytapmobile.com
 sms-sg.ads.heytapmobile.com
@@ -1071,6 +1074,7 @@ trk.e.nothing.tech
 trk.orange.be
 trk.orange.com
 trk.orange.pl
+trk.vodafone.com.tr
 trk.www.orange.com
 tvp-ads-log.samsungads.com
 tvp-interactive-ad.samsungads.com
