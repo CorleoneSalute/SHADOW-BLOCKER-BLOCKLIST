@@ -95,6 +95,7 @@ easyad.360.cn
 jubaoads.360.cn
 lianmeng.360.cn
 stat.lianmeng.360.cn
+ad.gamebox.360.cn
 
 # PC MATIC
 mkt.pcpitstop.com !    
