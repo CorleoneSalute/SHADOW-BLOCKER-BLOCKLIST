@@ -289,6 +289,7 @@ nuomi-metric.baidu.com
 nuomimetric.baidu.com
 pcad.video.baidu.com
 report-uri.baidu.com !
+anti-bot.baidu.com !
 popin.cc
 
 # YANDEX BROWSER
