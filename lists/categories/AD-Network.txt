@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2354
-# Total platforms: 320
+# Total platforms: 324
 # Last update: 2026/10/27
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3242,3 +3242,19 @@ popadpartners.com
 # Striker Ads
 
 strikerads.com
+
+# Ad-Vise Digital Media
+
+ad-visedigital.com
+
+# AdPrudence
+
+adprudence.com
+
+# Renegade Internet
+
+advertserve.com
+
+# SantaAds
+
+santaads.com
