@@ -1,6 +1,6 @@
 # ============================================================
 # PODCAST HOSTING BLOCKLIST - BASIC
-# Total domains: 40
+# Total domains: 41
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8,6 +8,7 @@
 ||adsehera.ximalaya.com^
 ||adserver.podbean.com^
 ||adwbs.ximalaya.com^
+||adweb.ximalaya.com^
 ||analytics.acast.com^
 ||analytics.art19.com^
 ||analytics.audioboom.com^

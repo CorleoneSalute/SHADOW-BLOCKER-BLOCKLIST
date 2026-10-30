@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10291
+# Total domains: 10292
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -946,6 +946,7 @@ advoxel.com
 advservert.com
 adwbs.ximalaya.com
 adweb.gr
+adweb.ximalaya.com
 adwidecenter.com
 adwoox.com
 adx-ads-fr.heytapmobile.com

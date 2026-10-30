@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10768
+# Total domains: 10769
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -988,6 +988,7 @@ advp.apple.com
 advservert.com
 adwbs.ximalaya.com
 adweb.gr
+adweb.ximalaya.com
 adwidecenter.com
 adwoox.com
 adx-ads-fr.heytapmobile.com
