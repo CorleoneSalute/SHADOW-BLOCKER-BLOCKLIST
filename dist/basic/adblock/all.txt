@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10301
+# Total domains: 10302
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7985,6 +7985,7 @@
 ||server-analytics.snapchat.com^
 ||server.adform.net^
 ||servg.eskimi.com^
+||service-ad-impression-proxy.clusters.pluto.tv^
 ||service.githubusercontent.com^
 ||service.goforandroid.com^
 ||service.youappi.com^

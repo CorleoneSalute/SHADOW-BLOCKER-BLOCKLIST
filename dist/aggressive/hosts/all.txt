@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10779
+# Total domains: 10780
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8374,6 +8374,7 @@
 0.0.0.0 server-analytics.snapchat.com
 0.0.0.0 server.adform.net
 0.0.0.0 servg.eskimi.com
+0.0.0.0 service-ad-impression-proxy.clusters.pluto.tv
 0.0.0.0 service.githubusercontent.com
 0.0.0.0 service.goforandroid.com
 0.0.0.0 service.youappi.com
