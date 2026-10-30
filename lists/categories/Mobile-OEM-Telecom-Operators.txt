@@ -1286,6 +1286,10 @@ analytics.vodafone.com.au
 etplog.vodafone.com.au
 track.vodafone.com.au
 track2.vodafone.com.au
+cvmanalytics.vodafone.com.tr
+sentry.vodafone.com.tr
+smetrics.vodafone.com.tr
+trk.vodafone.com.tr
 ```
 
 ### Orange (12 domain)
