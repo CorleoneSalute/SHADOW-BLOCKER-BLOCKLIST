@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 305
+# Total domains: 306
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -11,6 +11,7 @@
 abtmetric.espn.go.com
 ad.betcity.ru
 ad.betou.bet.br
+ad.family.go.com
 ad.offers-ua.vbet.com
 ad.sortenabet.bet.br
 ad.srv.giantlottos.com
