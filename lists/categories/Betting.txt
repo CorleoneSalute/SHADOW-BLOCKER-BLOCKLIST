@@ -21,6 +21,7 @@ ads.betfair.com.au
 tracking.espn.com
 log.espn.com
 abtmetric.espn.go.com
+ad.family.go.com
 
 # PrizePicks
 analytics.prizepicks.com
