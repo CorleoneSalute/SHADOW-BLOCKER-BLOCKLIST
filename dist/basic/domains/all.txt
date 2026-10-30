@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10256
+# Total domains: 10257
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1789,6 +1789,7 @@ analytics.s.id
 analytics.samsungedo.com
 analytics.samsungfood.com
 analytics.samsunghealth.com
+analytics.samsungknowledge.com
 analytics.samsungknox.com
 analytics.samsungpay.com
 analytics.scielo.org

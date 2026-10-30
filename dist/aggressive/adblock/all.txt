@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10732
+# Total domains: 10733
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1838,6 +1838,7 @@
 ||analytics.samsungedo.com^
 ||analytics.samsungfood.com^
 ||analytics.samsunghealth.com^
+||analytics.samsungknowledge.com^
 ||analytics.samsungknox.com^
 ||analytics.samsungpay.com^
 ||analytics.scielo.org^
