@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10762
+# Total domains: 10763
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -253,6 +253,7 @@ ad.doubleclick.net
 ad.equativ.com
 ad.eu.xiaomi.com
 ad.family.go.com
+ad.gamebox.360.cn
 ad.geniee.co.jp
 ad.holalauncher.com
 ad.huya.com

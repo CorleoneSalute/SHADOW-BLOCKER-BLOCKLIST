@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10285
+# Total domains: 10286
 # Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -235,6 +235,7 @@
 0.0.0.0 ad.equativ.com
 0.0.0.0 ad.eu.xiaomi.com
 0.0.0.0 ad.family.go.com
+0.0.0.0 ad.gamebox.360.cn
 0.0.0.0 ad.geniee.co.jp
 0.0.0.0 ad.holalauncher.com
 0.0.0.0 ad.huya.com
