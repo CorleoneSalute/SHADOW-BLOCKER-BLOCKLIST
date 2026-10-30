@@ -6,6 +6,7 @@
 
 # Truecaller
 ads.truecaller.com
+ads5.truecaller.com
 ads-media.truecaller.com
 adsmanager.truecaller.com
 advertisers.truecaller.com
