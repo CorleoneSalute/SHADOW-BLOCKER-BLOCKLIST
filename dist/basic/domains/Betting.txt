@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 299
+# Total domains: 300
 # Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -262,6 +262,7 @@ track.victorybet.ro
 track.vip.5bet.com
 tracker.getsbet.ro
 tracker.williamhill.com
+tracking.bet.buzz
 tracking.chanced.com
 tracking.espn.com
 tracking.fun88.com

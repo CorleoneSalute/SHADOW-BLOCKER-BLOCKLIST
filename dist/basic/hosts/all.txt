@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10308
+# Total domains: 10309
 # Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9288,6 +9288,7 @@
 0.0.0.0 tracking.awin.com
 0.0.0.0 tracking.bark.co
 0.0.0.0 tracking.befrugal.com
+0.0.0.0 tracking.bet.buzz
 0.0.0.0 tracking.bidstack.com
 0.0.0.0 tracking.bitly.com
 0.0.0.0 tracking.bitninja.com

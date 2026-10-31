@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 307
+# Total domains: 308
 # Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -270,6 +270,7 @@
 ||track.vip.5bet.com^
 ||tracker.getsbet.ro^
 ||tracker.williamhill.com^
+||tracking.bet.buzz^
 ||tracking.chanced.com^
 ||tracking.espn.com^
 ||tracking.fun88.com^
