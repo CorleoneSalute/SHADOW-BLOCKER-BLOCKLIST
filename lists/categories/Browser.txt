@@ -1,7 +1,7 @@
 # BROWSER APPS DNS BLOCKLIST
 
-# Total domains: 383
-# Last update: 2026/10/30
+# Total domains: 384
+# Last update: 2026/10/31
 # Note: trailing "!" marks a domain as aggressive-only
 
 # GOOGLE / CHROME

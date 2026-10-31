@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10310
+# Total domains: 10311
 # Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5483,6 +5483,7 @@
 ||log.stubhub.com^
 ||log.su.baidu.com^
 ||log.svc.screencastify.com^
+||log.thumbnails.opera.com^
 ||log.tiktokv.com^
 ||log.tiktokv.us^
 ||log.transsion.com^

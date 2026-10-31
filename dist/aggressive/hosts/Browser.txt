@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 383
+# Total domains: 384
 # Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -231,6 +231,7 @@
 0.0.0.0 log.sogou.com
 0.0.0.0 log.strm.yandex.com
 0.0.0.0 log.su.baidu.com
+0.0.0.0 log.thumbnails.opera.com
 0.0.0.0 log.waimai.baidu.com
 0.0.0.0 logssug.ucweb.com
 0.0.0.0 m1.baidu.com

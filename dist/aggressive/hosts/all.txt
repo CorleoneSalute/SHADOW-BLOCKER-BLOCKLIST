@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10788
+# Total domains: 10789
 # Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5756,6 +5756,7 @@
 0.0.0.0 log.stubhub.com
 0.0.0.0 log.su.baidu.com
 0.0.0.0 log.svc.screencastify.com
+0.0.0.0 log.thumbnails.opera.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log.tiktokv.us
 0.0.0.0 log.transsion.com

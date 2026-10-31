@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 354
+# Total domains: 355
 # Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -218,6 +218,7 @@
 ||log.sogou.com^
 ||log.strm.yandex.com^
 ||log.su.baidu.com^
+||log.thumbnails.opera.com^
 ||log.waimai.baidu.com^
 ||logssug.ucweb.com^
 ||m1.baidu.com^
