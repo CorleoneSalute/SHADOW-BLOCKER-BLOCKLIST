@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10782
-# Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10786
+# Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -207,6 +207,7 @@ ad-maven.com
 ad-media.ro
 ad-metrics.espn.com
 ad-on.fr
+ad-ops.hu
 ad-platform.biz
 ad-risk.prt.kuaishou.com
 ad-saver.com
@@ -2815,6 +2816,9 @@ br-rdx2-lgtvsdp-com.aws-prd.net
 br-st-sl.vivoglobal.com
 br.smartlook.cloud
 branch.flo.health
+bravads.com
+bravads.g2afse.com
+bravads.go2affise.com
 brdtest.com
 brdtnet.com
 brewster.logs.roku.com

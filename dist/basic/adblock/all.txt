@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10304
-# Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10308
+# Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -191,6 +191,7 @@
 ||ad-media.ro^
 ||ad-metrics.espn.com^
 ||ad-on.fr^
+||ad-ops.hu^
 ||ad-platform.biz^
 ||ad-risk.prt.kuaishou.com^
 ||ad-saver.com^
@@ -2735,6 +2736,9 @@
 ||br-st-sl.vivoglobal.com^
 ||br.smartlook.cloud^
 ||branch.flo.health^
+||bravads.com^
+||bravads.g2afse.com^
+||bravads.go2affise.com^
 ||brdtest.com^
 ||brdtnet.com^
 ||brewster.logs.roku.com^

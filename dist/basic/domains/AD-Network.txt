@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2348
-# Generated: 2026-10-30 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2352
+# Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -54,6 +54,7 @@ ad-locus.com
 ad-machina.com
 ad-media.ro
 ad-on.fr
+ad-ops.hu
 ad-platform.biz
 ad-saver.com
 ad-srv.co
@@ -649,6 +650,9 @@ blueadss.com
 blueadvertising.com
 bluehost.outbrain.com
 bot.outbrain.com
+bravads.com
+bravads.g2afse.com
+bravads.go2affise.com
 brightroll.com
 bringads.com
 bringads.ru
