@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1130
+# Total domains: 1133
 # Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -372,6 +372,7 @@ err.up.vivoglobal.com
 etl.xlmc.sec.miui.com
 etplog.vodafone.com.au
 eu-1.nebula-collector.huawei.com
+eu-api-stsdk.vivoglobal.com
 eu-errup.vivoglobal.com
 eu-onrt-stsdk.vivoglobal.com
 eu-ort-stsdk.vivoglobal.com
@@ -524,6 +525,7 @@ in-adlog.vivoglobal.com
 in-adreq.vivoglobal.com
 in-adsjssdk.vivoglobal.com
 in-analyzer-appstore.vivoglobal.com
+in-api-stsdk.vivoglobal.com
 in-apponrt-stsdk.vivoglobal.com
 in-apport-stsdk.vivoglobal.com
 in-apppnrt-stsdk.vivoglobal.com
@@ -537,6 +539,7 @@ in-errup.vivoglobal.com
 in-ex-adlog.vivoglobal.com
 in-miuilog.sms.intl.xiaomi.com
 in-monitor-stsdk.vivoglobal.com
+in-nrt-stsdk.vivoglobal.com
 in-onrt-stsdk.vivoglobal.com
 in-ort-stsdk.vivoglobal.com
 in-ortb-api.ad.intl.xiaomi.com

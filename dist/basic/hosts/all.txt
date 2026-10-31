@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10311
+# Total domains: 10314
 # Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4086,6 +4086,7 @@
 0.0.0.0 ets-eu-west-1.track.smaato.net
 0.0.0.0 ets-us-east-1.track.smaato.net
 0.0.0.0 eu-1.nebula-collector.huawei.com
+0.0.0.0 eu-api-stsdk.vivoglobal.com
 0.0.0.0 eu-api.honeybadger.io
 0.0.0.0 eu-data.experiment.dev
 0.0.0.0 eu-data.kameleoon.eu
@@ -5009,6 +5010,7 @@
 0.0.0.0 in-adreq.vivoglobal.com
 0.0.0.0 in-adsjssdk.vivoglobal.com
 0.0.0.0 in-analyzer-appstore.vivoglobal.com
+0.0.0.0 in-api-stsdk.vivoglobal.com
 0.0.0.0 in-app-events.adikteev.com
 0.0.0.0 in-app-events.remerge.io
 0.0.0.0 in-apponrt-stsdk.vivoglobal.com
@@ -5025,6 +5027,7 @@
 0.0.0.0 in-info-lgsmartad-com.aws-prd.net
 0.0.0.0 in-miuilog.sms.intl.xiaomi.com
 0.0.0.0 in-monitor-stsdk.vivoglobal.com
+0.0.0.0 in-nrt-stsdk.vivoglobal.com
 0.0.0.0 in-onrt-stsdk.vivoglobal.com
 0.0.0.0 in-ort-stsdk.vivoglobal.com
 0.0.0.0 in-ortb-api.ad.intl.xiaomi.com

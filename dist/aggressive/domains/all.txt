@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10789
+# Total domains: 10792
 # Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4236,6 +4236,7 @@ ets-ap-southeast-1.track.smaato.net
 ets-eu-west-1.track.smaato.net
 ets-us-east-1.track.smaato.net
 eu-1.nebula-collector.huawei.com
+eu-api-stsdk.vivoglobal.com
 eu-api.honeybadger.io
 eu-data.experiment.dev
 eu-data.kameleoon.eu
@@ -5248,6 +5249,7 @@ in-adlog.vivoglobal.com
 in-adreq.vivoglobal.com
 in-adsjssdk.vivoglobal.com
 in-analyzer-appstore.vivoglobal.com
+in-api-stsdk.vivoglobal.com
 in-app-events.adikteev.com
 in-app-events.remerge.io
 in-apponrt-stsdk.vivoglobal.com
@@ -5264,6 +5266,7 @@ in-ex-adlog.vivoglobal.com
 in-info-lgsmartad-com.aws-prd.net
 in-miuilog.sms.intl.xiaomi.com
 in-monitor-stsdk.vivoglobal.com
+in-nrt-stsdk.vivoglobal.com
 in-onrt-stsdk.vivoglobal.com
 in-ort-stsdk.vivoglobal.com
 in-ortb-api.ad.intl.xiaomi.com
