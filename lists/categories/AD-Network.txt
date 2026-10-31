@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2358
-# Total platforms: 324
+# Total platforms: 327
 # Last update: 2026/10/30
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3258,3 +3258,17 @@ advertserve.com
 # SantaAds
 
 santaads.com
+
+# Admolo
+
+admolo.com # possibly scam
+
+# BrawAds
+
+bravads.com
+bravads.g2afse.com
+bravads.go2affise.com
+
+# AdOps Digital
+
+ad-ops.hu
