@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10787
+# Total domains: 10788
 # Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5300,6 +5300,7 @@ ingest.fullstory.com
 ingest.logrocket.io
 ingest.openreplay.com
 ingest.sessionstack.com
+ingest.telemetry.plus.yango.com
 ingest.vungle.com
 ingest.zipy.ai
 init.supersonicads.com

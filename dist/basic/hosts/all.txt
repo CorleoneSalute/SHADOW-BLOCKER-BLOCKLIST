@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10309
+# Total domains: 10310
 # Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5057,6 +5057,7 @@
 0.0.0.0 ingest.logrocket.io
 0.0.0.0 ingest.openreplay.com
 0.0.0.0 ingest.sessionstack.com
+0.0.0.0 ingest.telemetry.plus.yango.com
 0.0.0.0 ingest.vungle.com
 0.0.0.0 ingest.zipy.ai
 0.0.0.0 init.supersonicads.com

@@ -1,6 +1,6 @@
 # ============================================================
 # RIDE SHARING MICRO MOBILITY BLOCKLIST - AGGRESSIVE
-# Total domains: 45
+# Total domains: 46
 # Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -27,6 +27,7 @@ dcexcelsior.applog.bolt.eu
 driver.applog.bolt.eu
 dummy.applog.bolt.eu
 grabads.com
+ingest.telemetry.plus.yango.com
 log.strm.yango.com
 m-prelive-bolt-eu.applog.bolt.eu
 m-taxify-eu.applog.bolt.eu
