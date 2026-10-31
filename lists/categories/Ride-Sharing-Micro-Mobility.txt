@@ -72,6 +72,7 @@ report-eu.appmetrica.yango.com
 report.appmetrica.yango.com
 tracking.appmetrica.yango.com
 tracking.movies.yango.com
+ingest.telemetry.plus.yango.com
 
 # Via (Microtransit)
 track-aws.m.ridewithvia.com
