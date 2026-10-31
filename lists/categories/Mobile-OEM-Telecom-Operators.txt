@@ -1000,6 +1000,9 @@ eu-pnrt-stsdk.vivoglobal.com
 eu-prt-stsdk.vivoglobal.com
 eu-st-sl.vivoglobal.com
 eu-stsdk.vivoglobal.com
+eu-api-stsdk.vivoglobal.com
+in-api-stsdk.vivoglobal.com
+in-nrt-stsdk.vivoglobal.com
 ex-adreq-asia.vivoglobal.com
 ex-adreq-in.vivoglobal.com
 id-analyzer-appstore.vivoglobal.com
