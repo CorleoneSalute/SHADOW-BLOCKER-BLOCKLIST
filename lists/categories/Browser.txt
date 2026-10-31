@@ -210,6 +210,7 @@ t-odx.geo2.op-mobile.opera.com !
 t-odx.op-mobile.opera.com
 t.adx.opera.com
 track.chat.api.dnsecho.opera.com
+log.thumbnails.opera.com
 
 # UC BROWSER (Alibaba)
 gjapplog.ucweb.com
