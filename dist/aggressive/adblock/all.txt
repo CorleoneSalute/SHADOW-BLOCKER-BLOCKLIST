@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10792
-# Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10795
+# Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -3832,6 +3832,7 @@
 ||dataurbia.com^
 ||datax.yahoo.com^
 ||dataxonline.yahoo.com^
+||datingspot24.com^
 ||datleis.com^
 ||datlsr.com^
 ||dc-stat-in.heytapmobile.com^
@@ -4620,6 +4621,8 @@
 ||flirt.com^
 ||flirtads.com^
 ||flirtads.net^
+||flirtbook.online^
+||flirthub.net^
 ||flirtycougars.com^
 ||flirtymature.com^
 ||flow-ads.com^

@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10314
-# Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10317
+# Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -3717,6 +3717,7 @@
 0.0.0.0 dataurbia.com
 0.0.0.0 datax.yahoo.com
 0.0.0.0 dataxonline.yahoo.com
+0.0.0.0 datingspot24.com
 0.0.0.0 datleis.com
 0.0.0.0 datlsr.com
 0.0.0.0 dc-stat-in.heytapmobile.com
@@ -4442,6 +4443,8 @@
 0.0.0.0 flirt.com
 0.0.0.0 flirtads.com
 0.0.0.0 flirtads.net
+0.0.0.0 flirtbook.online
+0.0.0.0 flirthub.net
 0.0.0.0 flirtycougars.com
 0.0.0.0 flirtymature.com
 0.0.0.0 flow-ads.com

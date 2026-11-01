@@ -1,7 +1,7 @@
 # ============================================================
 # DATING BLOCKLIST - AGGRESSIVE
-# Total domains: 201
-# Generated: 2026-10-31 (UTC) - auto-generated, do not edit by hand
+# Total domains: 204
+# Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -48,6 +48,7 @@ d6y2.ads.pof.com
 d6y3.ads.pof.com
 d6y4.ads.pof.com
 d6y5.ads.pof.com
+datingspot24.com
 datleis.com
 datlsr.com
 dngire.com
@@ -63,6 +64,8 @@ fastcupid.com
 ffn.com
 filipinofriendfinder.com
 flirt.com
+flirtbook.online
+flirthub.net
 flirtycougars.com
 flirtymature.com
 foreigngirlfriend.com
