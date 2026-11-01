@@ -23,6 +23,7 @@ tracking.epicgames.com
 analytics.epicgames.com
 telemetry.unrealengine.com
 telemetry.artpipe.epicgames.com
+metrics.ol.epicgames.com
 
 # EA / ORIGIN APP
 telemetry.ea.com
