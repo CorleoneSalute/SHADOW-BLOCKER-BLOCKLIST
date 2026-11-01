@@ -711,6 +711,7 @@ log2.musical.ly
 mcs.tiktok-row.net
 mon.musical.ly
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
+live-player-log-service.bytedance.com.host
 ```
 
 **Monitoring** (1 domain)
