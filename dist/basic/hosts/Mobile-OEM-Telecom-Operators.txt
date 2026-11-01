@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1083
+# Total domains: 1084
 # Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1040,6 +1040,7 @@
 0.0.0.0 uapi-ads.realmemobile.com
 0.0.0.0 uba.huaweicloud.com
 0.0.0.0 ubacollect-drcn.cloud.dbankcloud.cn
+0.0.0.0 uc-track-fr.heytapmobile.com
 0.0.0.0 ums-rum-cn.heytapimage.com
 0.0.0.0 ums-rum-global.heytapimage.com
 0.0.0.0 ums-telemetry-cn.heytapmobi.com

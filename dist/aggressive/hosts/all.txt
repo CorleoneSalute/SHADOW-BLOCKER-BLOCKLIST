@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10798
+# Total domains: 10799
 # Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10050,6 +10050,7 @@
 0.0.0.0 ubacollect-drcn.cloud.dbankcloud.cn
 0.0.0.0 ubimo.com
 0.0.0.0 ubuntu-report.canonical.com
+0.0.0.0 uc-track-fr.heytapmobile.com
 0.0.0.0 ucads-static.ucweb.com
 0.0.0.0 ucads.ucweb.com
 0.0.0.0 ucstat.baidu.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10320
+# Total domains: 10321
 # Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9615,6 +9615,7 @@ uapi-ads.realmemobile.com
 uba.huaweicloud.com
 ubacollect-drcn.cloud.dbankcloud.cn
 ubuntu-report.canonical.com
+uc-track-fr.heytapmobile.com
 ucads-static.ucweb.com
 ucads.ucweb.com
 ucstat.baidu.com

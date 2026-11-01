@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1133
+# Total domains: 1134
 # Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1087,6 +1087,7 @@ u-id.cpc.heytapmobile.com
 uapi-ads.realmemobile.com
 uba.huaweicloud.com
 ubacollect-drcn.cloud.dbankcloud.cn
+uc-track-fr.heytapmobile.com
 ums-rum-cn.heytapimage.com
 ums-rum-global.heytapimage.com
 ums-telemetry-cn.heytapmobi.com
