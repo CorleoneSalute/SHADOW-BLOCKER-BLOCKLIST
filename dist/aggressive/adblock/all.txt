@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10795
+# Total domains: 10796
 # Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5611,6 +5611,7 @@
 ||live-metrics.paramountplus.com^
 ||live-metrics.peacocktv.com^
 ||live-metrics.youtube.com^
+||live-player-log-service.bytedance.com.host^
 ||live-sports-analytics.hotstar.com^
 ||live-streaming-metrics.amazon.com^
 ||live-video-log16-normal-alisg.tiktokv.com^

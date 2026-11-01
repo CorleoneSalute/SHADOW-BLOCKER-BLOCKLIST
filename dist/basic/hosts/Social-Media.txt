@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 760
+# Total domains: 761
 # Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -210,6 +210,7 @@
 0.0.0.0 k-ulog.kwaipros.com
 0.0.0.0 lf16-adsformat-sign.tiktokcdn.com
 0.0.0.0 lf19-adsformat-sign.tiktokcdn.com
+0.0.0.0 live-player-log-service.bytedance.com.host
 0.0.0.0 live-video-log16-normal-alisg.tiktokv.com
 0.0.0.0 live-video-log16-normal-no1a.tiktokv.eu
 0.0.0.0 liverail.com

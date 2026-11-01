@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10317
+# Total domains: 10318
 # Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5339,6 +5339,7 @@
 ||live-metrics.paramountplus.com^
 ||live-metrics.peacocktv.com^
 ||live-metrics.youtube.com^
+||live-player-log-service.bytedance.com.host^
 ||live-streaming-metrics.amazon.com^
 ||live-video-log16-normal-alisg.tiktokv.com^
 ||live-video-log16-normal-no1a.tiktokv.eu^
