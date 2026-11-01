@@ -897,6 +897,7 @@ stg-data-th.ads.heytapmobile.com
 stg-data-tw.ads.heytapmobile.com
 stg-data-vn.ads.heytapmobile.com
 stgdata-ads-fr.heytapmobile.com
+uc-track-fr.heytapmobile.com
 t-id.ads.heytapmobile.com
 t-in.ads.heytapmobile.com
 u-id.cpc.heytapmobile.com
