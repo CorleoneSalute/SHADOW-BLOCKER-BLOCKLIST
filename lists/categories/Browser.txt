@@ -298,6 +298,7 @@ metrika.yandex.ru
 metrica.yandex.ru
 bymetrika.yandex.com
 yandexmetrica.com
+tracker.yandex.net
 awaps.yandex.net
 clck.yandex.net
 application-logs-disk-production.s3-private.mds.yandex.net
