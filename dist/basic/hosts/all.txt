@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10318
+# Total domains: 10319
 # Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6104,6 +6104,7 @@
 0.0.0.0 metrics.nickjr.com
 0.0.0.0 metrics.nordvpn.com
 0.0.0.0 metrics.o.extusgov.infra.webex.com
+0.0.0.0 metrics.ol.epicgames.com
 0.0.0.0 metrics.ols.us.dell.com
 0.0.0.0 metrics.oneplus.com
 0.0.0.0 metrics.openai.com
