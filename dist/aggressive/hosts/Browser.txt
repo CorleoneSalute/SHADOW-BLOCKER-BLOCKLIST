@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 384
+# Total domains: 385
 # Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -367,6 +367,7 @@
 0.0.0.0 track.chat.api.dnsecho.opera.com
 0.0.0.0 tracker.baidu.com
 0.0.0.0 tracker.yandex.com
+0.0.0.0 tracker.yandex.net
 0.0.0.0 tracking.ott.yandex.com
 0.0.0.0 tracking.services.mozilla.com
 0.0.0.0 tuijian.baidu.com

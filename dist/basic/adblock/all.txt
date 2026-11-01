@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10319
+# Total domains: 10320
 # Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9271,6 +9271,7 @@
 ||tracker.sina.com.cn^
 ||tracker.williamhill.com^
 ||tracker.yandex.com^
+||tracker.yandex.net^
 ||tracker1.reddit.com^
 ||tracker2.reddit.com^
 ||trackercollect.ddxq.mobi^
