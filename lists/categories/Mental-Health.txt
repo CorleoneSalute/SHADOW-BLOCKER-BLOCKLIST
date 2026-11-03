@@ -73,3 +73,7 @@ google-ads-mcp.ourritual.com
 
 # iPREVAIL (Prevail Health Solutions LLC)
 analytics.prevailhealth.com
+
+# Simple Health Technology Limited
+
+ t.adhdsimple.co.uk
