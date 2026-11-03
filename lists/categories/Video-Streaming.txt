@@ -533,6 +533,10 @@ player-metrics.pluto.tv !
 video-analytics.pluto.tv !
 channel-analytics.pluto.tv !
 
+# TOU TV
+
+stats.tou.tv
+
 # INDIA
 video-analytics.hotstar.com !
 player-metrics.hotstar.com !
