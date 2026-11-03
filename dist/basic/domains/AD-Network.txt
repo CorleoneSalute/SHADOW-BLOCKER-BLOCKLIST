@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2362
+# Total domains: 2371
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -115,6 +115,8 @@ adfly.vn
 adfootmedia.com
 adform.com
 adform.net
+adgebra.co
+adgebra.in
 adglobal360.com
 adgoto.com
 adhit.com
@@ -172,6 +174,7 @@ adprimehealth.com
 adprimemedia.com
 adprudence.com
 adptrck.com
+adpx-b-cdn.net
 adrokt.com
 adroll.com
 adru.net
@@ -274,6 +277,7 @@ adsorb.io
 adspace.adskeeper.com
 adspirit.de
 adspirit.net
+adspostx.com
 adspro.name
 adsrevenue.com
 adsrevenue.net
@@ -1094,6 +1098,7 @@ fledge.as.criteo.com
 fledge.eu.criteo.com
 fledge.us.criteo.com
 flipool.com
+flippadvertising.com
 flirtads.com
 flirtads.net
 flow-ads.com
@@ -1414,6 +1419,7 @@ mobilelogs.supersonic.com
 mobvista.com
 mogokads.com
 moloco.com
+momentscience.com
 motornk.com
 mountain.com
 ms.applovin.com
@@ -1547,6 +1553,7 @@ perf-events.cloud.unity3d.com
 performance.revcontent.com
 perion-one-i.undertone.com
 perion.com
+perkswall.com
 pf.fluct.jp
 ping-hk.taboola.com
 pips.taboola.com
@@ -1657,6 +1664,7 @@ publisher.nextmillennium.io
 pubnative.info
 pubnative.io
 pubnative.net
+pubtailer.com
 puffableads.com
 px.adswizz.com
 px.sharethrough.com
@@ -2025,6 +2033,7 @@ thecoolcompany.com
 theroswaf.com
 thetradedesk.com
 thind.unityads.unity3d.com
+thinkflipp.com
 thinktot.com
 threespringmedia.go2cloud.org
 thumbs.mgid.com

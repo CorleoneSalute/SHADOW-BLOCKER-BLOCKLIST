@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10803
+# Total domains: 10812
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -380,6 +380,8 @@
 ||adform.com^
 ||adform.net^
 ||adfox.yandex.com^
+||adgebra.co^
+||adgebra.in^
 ||adgen-cdn.connatix.com^
 ||adgen.connatix.com^
 ||adglobal360.com^
@@ -492,6 +494,7 @@
 ||adpump.com.br^
 ||adpump.io^
 ||adpump.net^
+||adpx-b-cdn.net^
 ||adreporter.yahoo.com^
 ||adreporting2.corp.yahoo.com^
 ||adrevenue.appsflyersdk.com^
@@ -900,6 +903,7 @@
 ||adspecs.yahoo.com^
 ||adspirit.de^
 ||adspirit.net^
+||adspostx.com^
 ||adspro.name^
 ||adsquare.com^
 ||adsrevenue.com^
@@ -4630,6 +4634,7 @@
 ||flingo.tv^
 ||flingoads.com^
 ||flipool.com^
+||flippadvertising.com^
 ||flirt.com^
 ||flirtads.com^
 ||flirtads.net^
@@ -6607,6 +6612,7 @@
 ||mockup.ads.brave.com^
 ||mogokads.com^
 ||moloco.com^
+||momentscience.com^
 ||momsgetnaughty.com^
 ||mon-boot.tiktokv.com^
 ||mon-csj-maliva-ios.byteoversea.com^
@@ -7250,6 +7256,7 @@
 ||perimeterx.net^
 ||perion-one-i.undertone.com^
 ||perion.com^
+||perkswall.com^
 ||permutive.app^
 ||permutive.com^
 ||perr.h-cdn.com^
@@ -7551,6 +7558,7 @@
 ||pubnative.info^
 ||pubnative.io^
 ||pubnative.net^
+||pubtailer.com^
 ||puffableads.com^
 ||pulse-apac.conviva.com^
 ||pulse-eu.conviva.com^
@@ -9369,6 +9377,7 @@
 ||thetradedesk.com^
 ||thind.unityads.unity3d.com^
 ||thinkanalytics.com^
+||thinkflipp.com^
 ||thinktot.com^
 ||thinqrecommend.lgtvcommon.com^
 ||thislinkwillselfdestruct.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10803
+# Total domains: 10812
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -380,6 +380,8 @@
 0.0.0.0 adform.com
 0.0.0.0 adform.net
 0.0.0.0 adfox.yandex.com
+0.0.0.0 adgebra.co
+0.0.0.0 adgebra.in
 0.0.0.0 adgen-cdn.connatix.com
 0.0.0.0 adgen.connatix.com
 0.0.0.0 adglobal360.com
@@ -492,6 +494,7 @@
 0.0.0.0 adpump.com.br
 0.0.0.0 adpump.io
 0.0.0.0 adpump.net
+0.0.0.0 adpx-b-cdn.net
 0.0.0.0 adreporter.yahoo.com
 0.0.0.0 adreporting2.corp.yahoo.com
 0.0.0.0 adrevenue.appsflyersdk.com
@@ -900,6 +903,7 @@
 0.0.0.0 adspecs.yahoo.com
 0.0.0.0 adspirit.de
 0.0.0.0 adspirit.net
+0.0.0.0 adspostx.com
 0.0.0.0 adspro.name
 0.0.0.0 adsquare.com
 0.0.0.0 adsrevenue.com
@@ -4630,6 +4634,7 @@
 0.0.0.0 flingo.tv
 0.0.0.0 flingoads.com
 0.0.0.0 flipool.com
+0.0.0.0 flippadvertising.com
 0.0.0.0 flirt.com
 0.0.0.0 flirtads.com
 0.0.0.0 flirtads.net
@@ -6607,6 +6612,7 @@
 0.0.0.0 mockup.ads.brave.com
 0.0.0.0 mogokads.com
 0.0.0.0 moloco.com
+0.0.0.0 momentscience.com
 0.0.0.0 momsgetnaughty.com
 0.0.0.0 mon-boot.tiktokv.com
 0.0.0.0 mon-csj-maliva-ios.byteoversea.com
@@ -7250,6 +7256,7 @@
 0.0.0.0 perimeterx.net
 0.0.0.0 perion-one-i.undertone.com
 0.0.0.0 perion.com
+0.0.0.0 perkswall.com
 0.0.0.0 permutive.app
 0.0.0.0 permutive.com
 0.0.0.0 perr.h-cdn.com
@@ -7551,6 +7558,7 @@
 0.0.0.0 pubnative.info
 0.0.0.0 pubnative.io
 0.0.0.0 pubnative.net
+0.0.0.0 pubtailer.com
 0.0.0.0 puffableads.com
 0.0.0.0 pulse-apac.conviva.com
 0.0.0.0 pulse-eu.conviva.com
@@ -9369,6 +9377,7 @@
 0.0.0.0 thetradedesk.com
 0.0.0.0 thind.unityads.unity3d.com
 0.0.0.0 thinkanalytics.com
+0.0.0.0 thinkflipp.com
 0.0.0.0 thinktot.com
 0.0.0.0 thinqrecommend.lgtvcommon.com
 0.0.0.0 thislinkwillselfdestruct.com

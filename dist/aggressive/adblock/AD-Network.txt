@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2372
+# Total domains: 2381
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -115,6 +115,8 @@
 ||adfootmedia.com^
 ||adform.com^
 ||adform.net^
+||adgebra.co^
+||adgebra.in^
 ||adglobal360.com^
 ||adgoto.com^
 ||adhit.com^
@@ -172,6 +174,7 @@
 ||adprimemedia.com^
 ||adprudence.com^
 ||adptrck.com^
+||adpx-b-cdn.net^
 ||adrokt.com^
 ||adroll.com^
 ||adru.net^
@@ -275,6 +278,7 @@
 ||adspace.adskeeper.com^
 ||adspirit.de^
 ||adspirit.net^
+||adspostx.com^
 ||adspro.name^
 ||adsrevenue.com^
 ||adsrevenue.net^
@@ -1098,6 +1102,7 @@
 ||fledge.eu.criteo.com^
 ||fledge.us.criteo.com^
 ||flipool.com^
+||flippadvertising.com^
 ||flirtads.com^
 ||flirtads.net^
 ||flow-ads.com^
@@ -1420,6 +1425,7 @@
 ||mobvista.com^
 ||mogokads.com^
 ||moloco.com^
+||momentscience.com^
 ||motornk.com^
 ||mountain.com^
 ||ms.applovin.com^
@@ -1554,6 +1560,7 @@
 ||performance.revcontent.com^
 ||perion-one-i.undertone.com^
 ||perion.com^
+||perkswall.com^
 ||pf.fluct.jp^
 ||ping-hk.taboola.com^
 ||pips.taboola.com^
@@ -1664,6 +1671,7 @@
 ||pubnative.info^
 ||pubnative.io^
 ||pubnative.net^
+||pubtailer.com^
 ||puffableads.com^
 ||px.adswizz.com^
 ||px.sharethrough.com^
@@ -2033,6 +2041,7 @@
 ||theroswaf.com^
 ||thetradedesk.com^
 ||thind.unityads.unity3d.com^
+||thinkflipp.com^
 ||thinktot.com^
 ||threespringmedia.go2cloud.org^
 ||thumbs.mgid.com^
