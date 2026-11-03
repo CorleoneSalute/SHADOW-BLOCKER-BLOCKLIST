@@ -1,5 +1,5 @@
 # ============================================================
-# ADULT BLOCKLIST - BASIC
+# ADULT CONTENT BLOCKLIST - BASIC
 # Total domains: 77
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)

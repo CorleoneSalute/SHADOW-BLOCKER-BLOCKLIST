@@ -1,13 +1,11 @@
 # ============================================================
-# ADULT BLOCKLIST - AGGRESSIVE
-# Total domains: 85
+# ADULT CONTENT BLOCKLIST - BASIC
+# Total domains: 77
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
-||a.nel.livejasmin.com^
 ||a.sankakucomplex.com^
-||ab.cams.com^
 ||ad.javmost.com^
 ||ad.porngo.com^
 ||ad.watchporn.to^
@@ -44,7 +42,6 @@
 ||beta-ads.sankakucomplex.com^
 ||c.sankakucomplex.com^
 ||chat-metrics.ord.myfreecams.com^
-||click2.javhd.com^
 ||collector.xhamster.com^
 ||collector.xhamster.desi^
 ||collector.xhamster2.com^
@@ -75,15 +72,10 @@
 ||monitor.skyprivate.com^
 ||performers-origin.cam4.com^
 ||performers.cam4.com^
-||ping.xnxx.net^
 ||pxl.stripchat.com^
 ||sentry-new.cams.run^
 ||sentry.cams.run^
 ||sqlmetrics.ord.myfreecams.com^
-||ss.phncdn.com^
-||stripchat.com^
-||stripchat.global^
-||stripchat.net^
 ||track.cam4.com^
 ||trk.account.stripchat.com^
 ||trk.bellesa.co^
