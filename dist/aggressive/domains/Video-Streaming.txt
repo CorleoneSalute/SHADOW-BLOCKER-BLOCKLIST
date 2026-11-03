@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 428
+# Total domains: 429
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -373,6 +373,7 @@ stats.bilibili.com
 stats.iqiyi.com
 stats.kaltura.com
 stats.nicovideo.jp
+stats.tou.tv
 stats.youku.com
 stg.jwpltx.com
 streaming.conviva.com

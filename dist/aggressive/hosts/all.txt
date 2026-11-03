@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10818
+# Total domains: 10819
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8876,6 +8876,7 @@
 0.0.0.0 stats.surfshark.com
 0.0.0.0 stats.tandf.co.uk
 0.0.0.0 stats.tensor.trade
+0.0.0.0 stats.tou.tv
 0.0.0.0 stats.uscreen.io
 0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.waze.com

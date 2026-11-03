@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10340
+# Total domains: 10341
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8470,6 +8470,7 @@
 ||stats.surfshark.com^
 ||stats.tandf.co.uk^
 ||stats.tensor.trade^
+||stats.tou.tv^
 ||stats.uscreen.io^
 ||stats.vk-portal.net^
 ||stats.waze.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 384
+# Total domains: 385
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -337,6 +337,7 @@
 0.0.0.0 stats.iqiyi.com
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.nicovideo.jp
+0.0.0.0 stats.tou.tv
 0.0.0.0 stats.youku.com
 0.0.0.0 stg.jwpltx.com
 0.0.0.0 streaming.conviva.com

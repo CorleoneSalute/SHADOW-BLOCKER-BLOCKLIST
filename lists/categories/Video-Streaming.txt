@@ -1,6 +1,6 @@
 # Video Streaming Blocklist
 
-# Total domains: 428
+# Total domains: 429
 # Last update: 2026/11/03
 # Note: trailing "!" marks a domain as aggressive-only
 
