@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 385
+# Total domains: 386
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -112,6 +112,7 @@
 0.0.0.0 appmetrica.yandex.com.tr
 0.0.0.0 appmetrika.yandex.com
 0.0.0.0 appmetrika.yandex.com.tr
+0.0.0.0 appmetrika.yandex.ru
 0.0.0.0 awaps.yandex.net
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 b-ca.adx.opera.com

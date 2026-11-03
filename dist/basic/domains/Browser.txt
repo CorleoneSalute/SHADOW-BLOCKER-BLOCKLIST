@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 356
+# Total domains: 357
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -106,6 +106,7 @@ appmetrica.yandex.com
 appmetrica.yandex.com.tr
 appmetrika.yandex.com
 appmetrika.yandex.com.tr
+appmetrika.yandex.ru
 awaps.yandex.net
 awaps.yandex.ru
 b-ca.adx.opera.com

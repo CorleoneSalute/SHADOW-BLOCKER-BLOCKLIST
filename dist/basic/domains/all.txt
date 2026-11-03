@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10331
+# Total domains: 10332
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2415,6 +2415,7 @@ appmetrica.yandex.com
 appmetrica.yandex.com.tr
 appmetrika.yandex.com
 appmetrika.yandex.com.tr
+appmetrika.yandex.ru
 appnexus.com
 apps.hivestack.com
 appservestar.com
