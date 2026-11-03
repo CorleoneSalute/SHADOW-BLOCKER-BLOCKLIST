@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2372
-# Total platforms: 335
+# Total platforms: 338
 # Last update: 2026/11/03
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3306,3 +3306,21 @@ adcannybid.com
 # Adbidglobal.com
 
 Adbidglobal.com
+
+# AdsPostX
+
+adspostx.com
+momentscience.com
+pubtailer.com
+perkswall.com
+adpx-b-cdn.net
+
+# Inuxu Digital Media Technologies Pvt. Ltd.
+
+adgebra.co
+adgebra.in
+
+# Flipp Advertising Inc.
+
+flippadvertising.com
+thinkflipp.com
