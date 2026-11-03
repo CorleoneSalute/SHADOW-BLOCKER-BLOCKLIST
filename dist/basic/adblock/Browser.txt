@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 358
+# Total domains: 359
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -315,6 +315,7 @@
 ||sclick.baidu.com^
 ||secure.bingads.microsoft.com^
 ||segm.shouji.sogou.com^
+||sentry-sre360-relay.yandex.net^
 ||sestat.baidu.com^
 ||shouji-v6.sogou.com^
 ||shouji.sogou.com^

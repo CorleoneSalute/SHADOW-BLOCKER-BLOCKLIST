@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 387
+# Total domains: 388
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -333,6 +333,7 @@
 0.0.0.0 searchmarketing.yahoo.com
 0.0.0.0 secure.bingads.microsoft.com
 0.0.0.0 segm.shouji.sogou.com
+0.0.0.0 sentry-sre360-relay.yandex.net
 0.0.0.0 sestat.baidu.com
 0.0.0.0 sgtm-poc.news.yahoo.net
 0.0.0.0 shouji-v6.sogou.com
