@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2362
-# Total platforms: 327
+# Total platforms: 335
 # Last update: 2026/10/31
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3272,3 +3272,37 @@ bravads.go2affise.com
 # AdOps Digital
 
 ad-ops.hu
+
+# AdtapMedia
+
+adtapmedia.com
+
+# AdKernel
+
+adksrv.com
+
+# adportonic.com
+
+adportonic.com
+
+# adsfloow.net
+
+adsfloow.net
+
+# adApace Media
+
+adapace.com
+adapace.live
+
+# Adsimilate Marketing Inc.
+
+adsimilate.com
+
+# AdCanny
+
+adcanny.com
+adcannybid.com
+
+# Adbidglobal.com
+
+Adbidglobal.com
