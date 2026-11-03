@@ -1,4 +1,4 @@
-Adult Blocklist
+Adult Content Blocklist
 
 Total domains:77
 
