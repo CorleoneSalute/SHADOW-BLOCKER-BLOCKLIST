@@ -41,6 +41,7 @@ analytics.gomlab.com
 ## POTPLAYER (Kakao/Daum)
 adverweb.cjenm.com
 ad.daum.net
+ads-api.daum.net
 analytics.ad.daum.net
 display.ad.daum.net
 kyson.ad.daum.net
