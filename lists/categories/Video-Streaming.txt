@@ -189,22 +189,6 @@ adinsights.netflix.net
 games.analytics.netflix.net
 pcp-live-metrics-service.netflix.com
 
-# YOUTUBE
-
-youtube-analytics.googleapis.com
-video-stats.l.google.com
-live-metrics.youtube.com
-superchat-analytics.youtube.com
-monetization-tracking.youtube.com
-music-analytics.youtube.com
-ytmusic-analytics.googleapis.com
-background-play-metrics.youtube.com
-offline-analytics.youtube.com
-gaming-analytics.youtube.com
-kids-analytics.youtube.com
-youtube-kids-metrics.googleapis.com
-parental-control-metrics.youtubekids.com
-
 # AMAZON PRIME
 
 # --- Device & Player Metrics ---
@@ -430,7 +414,7 @@ ads.huan.tv
 monitor-ads.huan.tv !
 
 # ============================================================
-# SPOR STREAMING
+# SPORT STREAMING
 # ============================================================
 
 analytics.dazn.com
