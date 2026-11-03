@@ -151,3 +151,11 @@ monitor.skyprivate.com
 # PornGO
 
 ad.porngo.com
+
+# FapHouse
+
+collector.faphouse4.com
+collector.faphouse.com
+collector.faphouse4k.com
+collector.faphouse.tv
+collector.fap.house
