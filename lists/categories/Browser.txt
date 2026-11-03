@@ -295,6 +295,7 @@ popin.cc
 
 # YANDEX BROWSER
 metrika.yandex.ru
+appmetrika.yandex.ru
 metrica.yandex.ru
 bymetrika.yandex.com
 yandexmetrica.com
