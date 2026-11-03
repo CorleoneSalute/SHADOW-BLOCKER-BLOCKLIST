@@ -1,7 +1,7 @@
 # MENTAL HEALTH & THERAPY BLOCKLIST
 
-# Total domains: 34
-# Last update: 2026/10/18
+# Total domains: 35
+# Last update: 2026/11/03
 # Note: trailing "!" marks a domain as aggressive-only
 
 # BETTER HELP

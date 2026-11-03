@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10339
+# Total domains: 10340
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8628,6 +8628,7 @@
 0.0.0.0 t-odx.op-mobile.opera.com
 0.0.0.0 t-ulog.ga.kwai-pro.com
 0.0.0.0 t.acxiom-online.com
+0.0.0.0 t.adhdsimple.co.uk
 0.0.0.0 t.ads.pof.com
 0.0.0.0 t.adx.opera.com
 0.0.0.0 t.applovin.com

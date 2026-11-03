@@ -1,6 +1,6 @@
 # ============================================================
 # MENTAL HEALTH BLOCKLIST - BASIC
-# Total domains: 33
+# Total domains: 34
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -32,6 +32,7 @@ smetrics.medicalinformation.otsuka-us.com
 smetrics.otsuka-us.com
 smetrics.rejoyn.com
 smetrics.rejoynhcp.com
+t.adhdsimple.co.uk
 t.helloklarity.com
 telemetry.otsuka-us.com
 track.ctx.app.danharris.com
