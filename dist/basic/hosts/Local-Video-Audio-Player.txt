@@ -1,12 +1,13 @@
 # ============================================================
 # LOCAL VIDEO AUDIO PLAYER BLOCKLIST - BASIC
-# Total domains: 38
+# Total domains: 39
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 0.0.0.0 ad.daum.net
 0.0.0.0 ad.mxplayer.in
+0.0.0.0 ads-api.daum.net
 0.0.0.0 ads.bsplayer.com
 0.0.0.0 ads.gomlab.com
 0.0.0.0 ads.mxplayer.in

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10324
+# Total domains: 10325
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -479,6 +479,7 @@ adru.net
 ads-adplify.com
 ads-aka-us-east-1.delivery.roku.com
 ads-aka-us-west-2.delivery.roku.com
+ads-api.daum.net
 ads-api.duolingo.com
 ads-api.facebook.com
 ads-api.flaviar.com
