@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10333
+# Total domains: 10334
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4504,6 +4504,7 @@
 0.0.0.0 fp.web.tulotero.com
 0.0.0.0 fp.web.tulotero.es
 0.0.0.0 fp.web.tulotero.mx
+0.0.0.0 fp.yahoo.com
 0.0.0.0 fpjs.io
 0.0.0.0 fpmetrics.sumsub.com
 0.0.0.0 fr-info-lgsmartad-com.aws-prd.net

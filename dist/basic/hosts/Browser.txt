@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 357
+# Total domains: 358
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -185,6 +185,7 @@
 0.0.0.0 feedads.baidu.com
 0.0.0.0 fleet-telemetry.map.baidu.com
 0.0.0.0 foreignpb.android.shouji.sogou.com
+0.0.0.0 fp.yahoo.com
 0.0.0.0 g.baidu.com
 0.0.0.0 g.bing.com
 0.0.0.0 geo.ads.brave.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10811
+# Total domains: 10812
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4685,6 +4685,7 @@ fp.watchporn.to
 fp.web.tulotero.com
 fp.web.tulotero.es
 fp.web.tulotero.mx
+fp.yahoo.com
 fpjs.io
 fpjscdn.net
 fpmetrics.sumsub.com

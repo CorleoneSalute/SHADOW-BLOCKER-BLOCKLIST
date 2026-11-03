@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 386
+# Total domains: 387
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -194,6 +194,7 @@ fclog.baidu.com
 feedads.baidu.com
 fleet-telemetry.map.baidu.com
 foreignpb.android.shouji.sogou.com
+fp.yahoo.com
 g.baidu.com
 g.bing.com
 gamelog-games.yahoo.co.jp
