@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10332
+# Total domains: 10333
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3908,6 +3908,7 @@
 ||dragobet.io^
 ||dragobet.net^
 ||dreamcarsweeps.com^
+||driver-portal-csp.applog.bolt.eu^
 ||driver-soft.com^
 ||driver.applog.bolt.eu^
 ||driveragent.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10810
+# Total domains: 10811
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4041,6 +4041,7 @@
 0.0.0.0 dragobet.io
 0.0.0.0 dragobet.net
 0.0.0.0 dreamcarsweeps.com
+0.0.0.0 driver-portal-csp.applog.bolt.eu
 0.0.0.0 driver-soft.com
 0.0.0.0 driver.applog.bolt.eu
 0.0.0.0 driveragent.com

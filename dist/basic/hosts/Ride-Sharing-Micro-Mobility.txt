@@ -1,6 +1,6 @@
 # ============================================================
 # RIDE SHARING MICRO MOBILITY BLOCKLIST - BASIC
-# Total domains: 46
+# Total domains: 47
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -24,6 +24,7 @@
 0.0.0.0 crash-analytics.uber.com
 0.0.0.0 customer-track.careem.com
 0.0.0.0 dcexcelsior.applog.bolt.eu
+0.0.0.0 driver-portal-csp.applog.bolt.eu
 0.0.0.0 driver.applog.bolt.eu
 0.0.0.0 dummy.applog.bolt.eu
 0.0.0.0 grabads.com
