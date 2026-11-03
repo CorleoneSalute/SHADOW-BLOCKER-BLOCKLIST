@@ -342,6 +342,7 @@ reklama.yandex.com
 tracker.yandex.com
 tracking.ott.yandex.com
 external-ads-platform-gw.plet.yandex.net
+sentry-sre360-relay.yandex.net
 egw.ads-platform.plet.yandex.ru
 analytics.yandex.ru
 ads.yandex.com.tr
