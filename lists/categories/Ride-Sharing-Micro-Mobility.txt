@@ -35,6 +35,7 @@ driver.applog.bolt.eu
 dummy.applog.bolt.eu
 m-prelive-bolt-eu.applog.bolt.eu
 m-taxify-eu.applog.bolt.eu
+driver-portal-csp.applog.bolt.eu
 tracking.bolt.eu
 
 # CAREEM
