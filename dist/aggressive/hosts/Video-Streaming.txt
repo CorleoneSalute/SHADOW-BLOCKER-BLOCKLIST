@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 441
+# Total domains: 428
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -135,7 +135,6 @@
 0.0.0.0 api.conviva.com
 0.0.0.0 api.youbora.com
 0.0.0.0 audience.api.brightcove.com
-0.0.0.0 background-play-metrics.youtube.com
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.pluto.tv
 0.0.0.0 beacons.hulu.com
@@ -205,7 +204,6 @@
 0.0.0.0 experiments.netflix.com
 0.0.0.0 gallery-metrics.api.brightcove.com
 0.0.0.0 games.analytics.netflix.net
-0.0.0.0 gaming-analytics.youtube.com
 0.0.0.0 geo.justwatch.com
 0.0.0.0 global-1.telemetry.insights.video.a2z.com
 0.0.0.0 global-2.telemetry.insights.video.a2z.com
@@ -230,7 +228,6 @@
 0.0.0.0 intelligence.conviva.com
 0.0.0.0 jwpltx.com
 0.0.0.0 k.pluto.tv
-0.0.0.0 kids-analytics.youtube.com
 0.0.0.0 lightning.adultswim.co.uk
 0.0.0.0 lightning.adultswim.com
 0.0.0.0 litix.mux.com
@@ -241,7 +238,6 @@
 0.0.0.0 live-metrics.hulu.com
 0.0.0.0 live-metrics.paramountplus.com
 0.0.0.0 live-metrics.peacocktv.com
-0.0.0.0 live-metrics.youtube.com
 0.0.0.0 live-sports-analytics.hotstar.com
 0.0.0.0 live-streaming-metrics.amazon.com
 0.0.0.0 livestats.kaltura.com
@@ -300,11 +296,9 @@
 0.0.0.0 metrics.wavve.com
 0.0.0.0 metrics.youbora.com
 0.0.0.0 metrics.zee5.com
-0.0.0.0 monetization-tracking.youtube.com
 0.0.0.0 monitor-ads.huan.tv
 0.0.0.0 monitoring.youbora.com
 0.0.0.0 mt.ssai.peacocktv.com
-0.0.0.0 music-analytics.youtube.com
 0.0.0.0 n.jwpltx.com
 0.0.0.0 new-telemetry.insights.video.a2z.com
 0.0.0.0 nmtracking.netflix.com
@@ -313,8 +307,6 @@
 0.0.0.0 nqs-eu.youbora.com
 0.0.0.0 nqs-us.youbora.com
 0.0.0.0 nqs.youbora.com
-0.0.0.0 offline-analytics.youtube.com
-0.0.0.0 parental-control-metrics.youtubekids.com
 0.0.0.0 parsely.com
 0.0.0.0 pcp-live-metrics-service.netflix.com
 0.0.0.0 performance.netflix.com
@@ -384,7 +376,6 @@
 0.0.0.0 stats.youku.com
 0.0.0.0 stg.jwpltx.com
 0.0.0.0 streaming.conviva.com
-0.0.0.0 superchat-analytics.youtube.com
 0.0.0.0 telemetry.bamgrid.com
 0.0.0.0 telemetry.bitmovin.com
 0.0.0.0 telemetry.crunchyroll.com
@@ -435,7 +426,6 @@
 0.0.0.0 video-metrics.hbomax.com
 0.0.0.0 video-ping.chartbeat.net
 0.0.0.0 video-player-metrics.amazon.com
-0.0.0.0 video-stats.l.google.com
 0.0.0.0 video-verification.pixalate.com
 0.0.0.0 video.chartbeat.com
 0.0.0.0 vizio.adsmeasurement.com
@@ -443,6 +433,3 @@
 0.0.0.0 youbora.com
 0.0.0.0 youboranqs01.com
 0.0.0.0 youtrack.ops.connatix.com
-0.0.0.0 youtube-analytics.googleapis.com
-0.0.0.0 youtube-kids-metrics.googleapis.com
-0.0.0.0 ytmusic-analytics.googleapis.com

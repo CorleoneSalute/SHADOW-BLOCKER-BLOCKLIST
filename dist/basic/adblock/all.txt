@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10335
+# Total domains: 10324
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2598,7 +2598,6 @@
 ||babblecase.com^
 ||backend.asia-northeast1gcp0.pubnative.net^
 ||backend.pubnative.net^
-||background-play-metrics.youtube.com^
 ||backtrace.io^
 ||backup.gosmspro.com^
 ||bailey.logs.roku.com^
@@ -4563,7 +4562,6 @@
 ||game.ad.xiaomi.com^
 ||gamelogs.rec.net^
 ||games.analytics.netflix.net^
-||gaming-analytics.youtube.com^
 ||gatecollect.kugou.com^
 ||gateway-v2.crakrevenue.com^
 ||gateway.crakrevenue.com^
@@ -5246,7 +5244,6 @@
 ||kic-ngfts.lge.com^
 ||kic-ngfts.lge.com.edgekey.net^
 ||kickoffo.site^
-||kids-analytics.youtube.com^
 ||kimechanic.com^
 ||kindle-ta-g7g.amazon.com^
 ||kindle-unlimited-logging.amazon.com^
@@ -5351,7 +5348,6 @@
 ||live-cm-ad-08-39.video.globo.com^
 ||live-metrics.paramountplus.com^
 ||live-metrics.peacocktv.com^
-||live-metrics.youtube.com^
 ||live-player-log-service.bytedance.com.host^
 ||live-streaming-metrics.amazon.com^
 ||live-video-log16-normal-alisg.tiktokv.com^
@@ -6392,7 +6388,6 @@
 ||mon32-normal-useast1a.tiktokv.com^
 ||mon32-normal.tiktokv.com^
 ||monbk.tiktokv.com^
-||monetization-tracking.youtube.com^
 ||monetization.adikteev.com^
 ||monetize.rollerads.com^
 ||moneysms.co^
@@ -6487,7 +6482,6 @@
 ||multitrack.endel.io^
 ||murkymouse.online^
 ||music-analytics.apple.com^
-||music-analytics.youtube.com^
 ||musicanalytics.apple.com^
 ||musr.navdmp.com^
 ||mustang.logs.roku.com^
@@ -6708,7 +6702,6 @@
 ||odml.ad.intl.xiaomi.com^
 ||offers.adhit.com^
 ||offerwall.fyber.com^
-||offline-analytics.youtube.com^
 ||oholamad.com^
 ||ohttp.ads.bravesoftware.com^
 ||ohttp.metrics.brave.com^
@@ -6867,7 +6860,6 @@
 ||panteroneonfire.com^
 ||paolo.logs.roku.com^
 ||par.service.criteo.net^
-||parental-control-metrics.youtubekids.com^
 ||paretologic.com^
 ||parsely.com^
 ||partner.criteo.com^
@@ -8533,7 +8525,6 @@
 ||summerhamster.com^
 ||sungymobile.com^
 ||superantispyware.com^
-||superchat-analytics.youtube.com^
 ||supersonicads.com^
 ||superutils.co^
 ||supp0v3.com^
@@ -10279,7 +10270,6 @@
 ||youtrack.idscan.net^
 ||youtrack.ops.connatix.com^
 ||youtube-analytics.googleapis.com^
-||youtube-kids-metrics.googleapis.com^
 ||yoyi.com.cn^
 ||ypu.samsungelectronics.com^
 ||yscyads071501.minigame.vip^
@@ -10293,7 +10283,6 @@
 ||yscyadx071502.minigame.vip^
 ||yscyadx072901.minigame.vip^
 ||yscyadx072902.minigame.vip^
-||ytmusic-analytics.googleapis.com^
 ||yum.stats.zynga.com^
 ||yumenetworks.com^
 ||yuppieads.com^

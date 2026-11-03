@@ -1,7 +1,7 @@
 # Video Streaming Blocklist
 
-# Total domains: 441
-# Last update: 2026/10/30
+# Total domains: 428
+# Last update: 2026/11/03
 # Note: trailing "!" marks a domain as aggressive-only
 
 # Justwatch

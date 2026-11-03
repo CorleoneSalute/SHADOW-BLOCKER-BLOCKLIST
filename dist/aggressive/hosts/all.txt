@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10813
+# Total domains: 10802
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2667,7 +2667,6 @@
 0.0.0.0 babblecase.com
 0.0.0.0 backend.asia-northeast1gcp0.pubnative.net
 0.0.0.0 backend.pubnative.net
-0.0.0.0 background-play-metrics.youtube.com
 0.0.0.0 backtrace.io
 0.0.0.0 backup.gosmspro.com
 0.0.0.0 bailey.logs.roku.com
@@ -4769,7 +4768,6 @@
 0.0.0.0 gamelog-games.yahoo.co.jp
 0.0.0.0 gamelogs.rec.net
 0.0.0.0 games.analytics.netflix.net
-0.0.0.0 gaming-analytics.youtube.com
 0.0.0.0 gatecollect.kugou.com
 0.0.0.0 gateway-v2.crakrevenue.com
 0.0.0.0 gateway.crakrevenue.com
@@ -5499,7 +5497,6 @@
 0.0.0.0 kic-ngfts.lge.com
 0.0.0.0 kic-ngfts.lge.com.edgekey.net
 0.0.0.0 kickoffo.site
-0.0.0.0 kids-analytics.youtube.com
 0.0.0.0 kimechanic.com
 0.0.0.0 kindle-ta-g7g.amazon.com
 0.0.0.0 kindle-unlimited-logging.amazon.com
@@ -5623,7 +5620,6 @@
 0.0.0.0 live-metrics.hulu.com
 0.0.0.0 live-metrics.paramountplus.com
 0.0.0.0 live-metrics.peacocktv.com
-0.0.0.0 live-metrics.youtube.com
 0.0.0.0 live-player-log-service.bytedance.com.host
 0.0.0.0 live-sports-analytics.hotstar.com
 0.0.0.0 live-streaming-metrics.amazon.com
@@ -6669,7 +6665,6 @@
 0.0.0.0 mon32-normal-useast1a.tiktokv.com
 0.0.0.0 mon32-normal.tiktokv.com
 0.0.0.0 monbk.tiktokv.com
-0.0.0.0 monetization-tracking.youtube.com
 0.0.0.0 monetization.adikteev.com
 0.0.0.0 monetize.rollerads.com
 0.0.0.0 moneysms.co
@@ -6767,7 +6762,6 @@
 0.0.0.0 multitrack.endel.io
 0.0.0.0 murkymouse.online
 0.0.0.0 music-analytics.apple.com
-0.0.0.0 music-analytics.youtube.com
 0.0.0.0 musicanalytics.apple.com
 0.0.0.0 musr.navdmp.com
 0.0.0.0 mustang.logs.roku.com
@@ -6996,7 +6990,6 @@
 0.0.0.0 odml.ad.intl.xiaomi.com
 0.0.0.0 offers.adhit.com
 0.0.0.0 offerwall.fyber.com
-0.0.0.0 offline-analytics.youtube.com
 0.0.0.0 oholamad.com
 0.0.0.0 ohttp.ads.bravesoftware.com
 0.0.0.0 ohttp.metrics.brave.com
@@ -7171,7 +7164,6 @@
 0.0.0.0 panteroneonfire.com
 0.0.0.0 paolo.logs.roku.com
 0.0.0.0 par.service.criteo.net
-0.0.0.0 parental-control-metrics.youtubekids.com
 0.0.0.0 paretologic.com
 0.0.0.0 parsely.com
 0.0.0.0 partiality.itunes-apple.com.akadns.net
@@ -8943,7 +8935,6 @@
 0.0.0.0 summerhamster.com
 0.0.0.0 sungymobile.com
 0.0.0.0 superantispyware.com
-0.0.0.0 superchat-analytics.youtube.com
 0.0.0.0 supersonicads.com
 0.0.0.0 superutils.co
 0.0.0.0 supp0v3.com
@@ -10753,7 +10744,6 @@
 0.0.0.0 youtrack.idscan.net
 0.0.0.0 youtrack.ops.connatix.com
 0.0.0.0 youtube-analytics.googleapis.com
-0.0.0.0 youtube-kids-metrics.googleapis.com
 0.0.0.0 yoyi.com.cn
 0.0.0.0 ypu.samsungelectronics.com
 0.0.0.0 yscyads071501.minigame.vip
@@ -10767,7 +10757,6 @@
 0.0.0.0 yscyadx071502.minigame.vip
 0.0.0.0 yscyadx072901.minigame.vip
 0.0.0.0 yscyadx072902.minigame.vip
-0.0.0.0 ytmusic-analytics.googleapis.com
 0.0.0.0 yum.stats.zynga.com
 0.0.0.0 yumenetworks.com
 0.0.0.0 yuppieads.com

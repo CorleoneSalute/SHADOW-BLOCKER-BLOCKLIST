@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 397
+# Total domains: 384
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -129,7 +129,6 @@ api.chartbeat.net
 api.conviva.com
 api.youbora.com
 audience.api.brightcove.com
-background-play-metrics.youtube.com
 beacon.netflix.com
 beacon.pluto.tv
 beacons.hulu.com
@@ -191,7 +190,6 @@ experience.conviva.com
 experience.piano.io
 gallery-metrics.api.brightcove.com
 games.analytics.netflix.net
-gaming-analytics.youtube.com
 geo.justwatch.com
 global-1.telemetry.insights.video.a2z.com
 global-2.telemetry.insights.video.a2z.com
@@ -216,13 +214,11 @@ insights.video.a2z.com
 intelligence.conviva.com
 jwpltx.com
 k.pluto.tv
-kids-analytics.youtube.com
 litix.mux.com
 live-cm-ad-08-18.video.globo.com
 live-cm-ad-08-39.video.globo.com
 live-metrics.paramountplus.com
 live-metrics.peacocktv.com
-live-metrics.youtube.com
 live-streaming-metrics.amazon.com
 livestats.kaltura.com
 log.tving.com
@@ -280,9 +276,7 @@ metrics.watchnebula.com
 metrics.wavve.com
 metrics.youbora.com
 metrics.zee5.com
-monetization-tracking.youtube.com
 monitoring.youbora.com
-music-analytics.youtube.com
 n.jwpltx.com
 new-telemetry.insights.video.a2z.com
 nmtracking.netflix.com
@@ -291,8 +285,6 @@ nqs-apac.youbora.com
 nqs-eu.youbora.com
 nqs-us.youbora.com
 nqs.youbora.com
-offline-analytics.youtube.com
-parental-control-metrics.youtubekids.com
 parsely.com
 pcp-live-metrics-service.netflix.com
 performance.netflix.com
@@ -348,7 +340,6 @@ stats.nicovideo.jp
 stats.youku.com
 stg.jwpltx.com
 streaming.conviva.com
-superchat-analytics.youtube.com
 telemetry.bamgrid.com
 telemetry.bitmovin.com
 telemetry.crunchyroll.com
@@ -391,7 +382,6 @@ video-analytics.zee5.com
 video-census.comscore.com
 video-ping.chartbeat.net
 video-player-metrics.amazon.com
-video-stats.l.google.com
 video-verification.pixalate.com
 video.chartbeat.com
 vizio.adsmeasurement.com
@@ -399,6 +389,3 @@ vod-cm-ad-08-18.video.globo.com
 youbora.com
 youboranqs01.com
 youtrack.ops.connatix.com
-youtube-analytics.googleapis.com
-youtube-kids-metrics.googleapis.com
-ytmusic-analytics.googleapis.com
