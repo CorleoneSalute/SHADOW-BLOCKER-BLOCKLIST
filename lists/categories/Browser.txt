@@ -51,6 +51,7 @@ bs1.ads.vip.bf1.yahoo.com
 bs2.ads.vip.ne1.yahoo.com
 bs2.ads.vip.bf1.yahoo.com
 cms.analytics.yahoo.com
+fp.yahoo.com
 datalogger-a-snv.corp.yahoo.com
 datalogger-b-snv.corp.yahoo.com
 datalogger-d-snv.corp.yahoo.com
