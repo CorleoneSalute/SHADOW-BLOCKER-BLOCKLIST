@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10799
-# Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10809
+# Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -327,6 +327,8 @@
 0.0.0.0 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
 0.0.0.0 ada.baidu.com
 0.0.0.0 adap.tv
+0.0.0.0 adapace.com
+0.0.0.0 adapace.live
 0.0.0.0 adapi.holalauncher.com
 0.0.0.0 adapi.tivo.com
 0.0.0.0 adapp.biz.weibo.com
@@ -337,6 +339,7 @@
 0.0.0.0 adaware.com
 0.0.0.0 adbarker.com
 0.0.0.0 adbemdigitalmediarebootprod2.112.2o7.net
+0.0.0.0 adbidglobal.com
 0.0.0.0 adblade.com
 0.0.0.0 adblogger.vk.com
 0.0.0.0 adblogger.vk.ru
@@ -348,6 +351,8 @@
 0.0.0.0 adbreaks.yieldlab.net
 0.0.0.0 adbrix.ai
 0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 adcanny.com
+0.0.0.0 adcannybid.com
 0.0.0.0 adcaravan.uz
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adclarity.com
@@ -401,6 +406,7 @@
 0.0.0.0 adjustevents.purevpn.com
 0.0.0.0 adjustyourtracking.vhx.tv
 0.0.0.0 adkernel.crakrevenue.com
+0.0.0.0 adksrv.com
 0.0.0.0 adktrack.124.xyz
 0.0.0.0 adktrack.com
 0.0.0.0 adktrack124.xyz
@@ -475,6 +481,7 @@
 0.0.0.0 adplayer.pro
 0.0.0.0 adplify.com
 0.0.0.0 adpopcorn.com
+0.0.0.0 adportonic.com
 0.0.0.0 adprime.com
 0.0.0.0 adprimehealth.com
 0.0.0.0 adprimemedia.com
@@ -849,6 +856,7 @@
 0.0.0.0 adserving-tmp.unibet.com
 0.0.0.0 adserving.unibet.com
 0.0.0.0 adsfactor.net
+0.0.0.0 adsfloow.net
 0.0.0.0 adsfly.app
 0.0.0.0 adsforindia.com
 0.0.0.0 adsfree.chaturbate.com
@@ -864,6 +872,7 @@
 0.0.0.0 adshub.de
 0.0.0.0 adshub.dk
 0.0.0.0 adshubmedia.com
+0.0.0.0 adsimilate.com
 0.0.0.0 adsimpact.nl
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adskeeper.com
@@ -913,6 +922,7 @@
 0.0.0.0 adswizz.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 adsync.vodafone.com.eg
+0.0.0.0 adtapmedia.com
 0.0.0.0 adtech.de
 0.0.0.0 adtelligent.com
 0.0.0.0 adthink.com

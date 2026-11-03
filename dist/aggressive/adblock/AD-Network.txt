@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2362
-# Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2372
+# Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -85,7 +85,10 @@
 ||ad1data.com^
 ||ad7.biz^
 ||adap.tv^
+||adapace.com^
+||adapace.live^
 ||adaptv.advertising.com^
+||adbidglobal.com^
 ||adblade.com^
 ||adboost.org^
 ||adboost360.com^
@@ -93,6 +96,8 @@
 ||adbreaks.yieldlab.net^
 ||adbrix.ai^
 ||adc3-launch.adcolony.com^
+||adcanny.com^
+||adcannybid.com^
 ||adcaravan.uz^
 ||adclickserving.com^
 ||adcolony.com^
@@ -119,6 +124,7 @@
 ||adinmo.com^
 ||adition.com^
 ||adjust.applovin.com^
+||adksrv.com^
 ||adktrack.124.xyz^
 ||adktrack.com^
 ||adktrack124.xyz^
@@ -160,6 +166,7 @@
 ||adplayer.pro^
 ||adplify.com^
 ||adpopcorn.com^
+||adportonic.com^
 ||adprime.com^
 ||adprimehealth.com^
 ||adprimemedia.com^
@@ -238,6 +245,7 @@
 ||adservers.com.br^
 ||adservices.google.com^
 ||adsfactor.net^
+||adsfloow.net^
 ||adsfly.app^
 ||adsforindia.com^
 ||adsglobal.world^
@@ -249,6 +257,7 @@
 ||adshub.de^
 ||adshub.dk^
 ||adshubmedia.com^
+||adsimilate.com^
 ||adsimpact.nl^
 ||adskeeper.co.uk^
 ||adskeeper.com^
@@ -280,6 +289,7 @@
 ||adsupplyexchange.com^
 ||adswad.com^
 ||adswizz.com^
+||adtapmedia.com^
 ||adtech.de^
 ||adtelligent.com^
 ||adthink.com^

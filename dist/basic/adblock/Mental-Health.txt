@@ -1,7 +1,7 @@
 # ============================================================
 # MENTAL HEALTH BLOCKLIST - BASIC
 # Total domains: 33
-# Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 

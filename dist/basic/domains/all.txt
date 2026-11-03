@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10321
-# Generated: 2026-11-01 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10331
+# Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -309,6 +309,8 @@ ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
 ada.baidu.com
 adap.tv
+adapace.com
+adapace.live
 adapi.holalauncher.com
 adapi.tivo.com
 adapp.biz.weibo.com
@@ -317,6 +319,7 @@ adassets.waze.com
 adattributionservice.itunes.apple.com
 adaware.com
 adbemdigitalmediarebootprod2.112.2o7.net
+adbidglobal.com
 adblade.com
 adblogger.vk.com
 adblogger.vk.ru
@@ -328,6 +331,8 @@ adbox.sina.com.cn
 adbreaks.yieldlab.net
 adbrix.ai
 adc3-launch.adcolony.com
+adcanny.com
+adcannybid.com
 adcaravan.uz
 adcel.vrvm.com
 adclarity.com
@@ -381,6 +386,7 @@ adjust.stats.zynga.com
 adjustevents.purevpn.com
 adjustyourtracking.vhx.tv
 adkernel.crakrevenue.com
+adksrv.com
 adktrack.124.xyz
 adktrack.com
 adktrack124.xyz
@@ -452,6 +458,7 @@ adplatform.apple.com
 adplayer.pro
 adplify.com
 adpopcorn.com
+adportonic.com
 adprime.com
 adprimehealth.com
 adprimemedia.com
@@ -812,6 +819,7 @@ adservices.roku.com
 adserving-tmp.unibet.com
 adserving.unibet.com
 adsfactor.net
+adsfloow.net
 adsfly.app
 adsforindia.com
 adsfree.chaturbate.com
@@ -826,6 +834,7 @@ adshostnet.com
 adshub.de
 adshub.dk
 adshubmedia.com
+adsimilate.com
 adsimpact.nl
 adskeeper.co.uk
 adskeeper.com
@@ -873,6 +882,7 @@ adswad.com
 adswizz.com
 adsymptotic.com
 adsync.vodafone.com.eg
+adtapmedia.com
 adtech.de
 adtelligent.com
 adthink.com
