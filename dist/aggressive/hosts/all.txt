@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10812
+# Total domains: 10817
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3444,6 +3444,11 @@
 0.0.0.0 collector.clickdealer.com
 0.0.0.0 collector.conviva.com
 0.0.0.0 collector.exceptionless.io
+0.0.0.0 collector.fap.house
+0.0.0.0 collector.faphouse.com
+0.0.0.0 collector.faphouse.tv
+0.0.0.0 collector.faphouse4.com
+0.0.0.0 collector.faphouse4k.com
 0.0.0.0 collector.github.com
 0.0.0.0 collector.glassbox.com
 0.0.0.0 collector.glassbox.digital

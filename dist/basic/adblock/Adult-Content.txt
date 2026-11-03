@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 77
+# Total domains: 82
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -42,6 +42,11 @@
 ||beta-ads.sankakucomplex.com^
 ||c.sankakucomplex.com^
 ||chat-metrics.ord.myfreecams.com^
+||collector.fap.house^
+||collector.faphouse.com^
+||collector.faphouse.tv^
+||collector.faphouse4.com^
+||collector.faphouse4k.com^
 ||collector.xhamster.com^
 ||collector.xhamster.desi^
 ||collector.xhamster2.com^

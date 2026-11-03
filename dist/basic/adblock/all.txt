@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10334
+# Total domains: 10339
 # Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3345,6 +3345,11 @@
 ||collector.clickdealer.com^
 ||collector.conviva.com^
 ||collector.exceptionless.io^
+||collector.fap.house^
+||collector.faphouse.com^
+||collector.faphouse.tv^
+||collector.faphouse4.com^
+||collector.faphouse4k.com^
 ||collector.github.com^
 ||collector.glassbox.com^
 ||collector.glassbox.digital^
