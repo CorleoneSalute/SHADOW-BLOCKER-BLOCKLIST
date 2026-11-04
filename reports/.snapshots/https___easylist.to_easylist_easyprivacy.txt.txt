@@ -11863,6 +11863,7 @@ databreakers.com
 datacaciques.com
 datacollector-dra.dt.hicloud.com
 datacomm.ch
+dataconsumed.com
 datacoral.com
 datacoral.io
 datacygnal.io
@@ -12334,6 +12335,7 @@ dialogue.nl.mazda.be
 diamages.carte-gr.total.fr
 diboji.class101.net
 dicecandies.com
+dicezing.com
 did-it.com
 didit.com
 didna.io
@@ -17467,7 +17469,6 @@ hopeful.coh.org
 horacemann.actonservice.com
 horizon-track.globo.com
 horizon.globo.com
-horizoneurope.ukri.org
 horizononline.actonservice.com
 hornymatches.com
 horzrb.com
@@ -20649,7 +20650,6 @@ leadintel.io
 leadintelligence.co.uk
 leadium.com
 leadlab.click
-leadlife.com
 leadmanagement.leads360.com
 leadmanagement.velocify.com
 leadmanagerfx.com
@@ -21978,6 +21978,7 @@ logz.io
 logz.ru
 lokalleads-cci.com
 lokalwerben.t-online.de
+loki-ingest.fox.com
 lomadee.com
 lonelyflavor.com
 longingtrees.com
@@ -25268,6 +25269,7 @@ metrics.jungheinrich-profishop.co.uk
 metrics.kadcyla.com
 metrics.kaercher.com
 metrics.kao.com
+metrics.kapa.ai
 metrics.kawai-juku.ac.jp
 metrics.kayosports.com.au
 metrics.kempinski.com
@@ -26998,6 +27000,7 @@ ni8.lafuma.com
 niblewren.co
 nicefollows.com
 nicehuh.com
+nicemenswear.com
 nicequest.com
 nid.mansionglobal.com
 nid.thesun.co.uk
@@ -27339,6 +27342,7 @@ obhnrw.furniturebox.se
 obhxvb.tmktools.ru
 objecthero.com
 objectpartners.actonservice.com
+objsoftware.com
 oblivionfleet.com
 obnrap.neimanmarcus.com
 obooom.robinmaybag.com
@@ -27559,6 +27563,7 @@ omgup.xiaojukeji.com
 omgup1.xiaojukeji.com
 omiki.com
 omine.org
+ominousmusic.com
 omjtca.emlakjet.com
 omkt.co
 omn.americanexpress.com
@@ -27865,6 +27870,7 @@ openweb.bid
 openxcdn.net
 operationchicken.com
 operationnail.com
+operawise.com
 oph7o.montecarlosbm-corporate.com
 ophan.theguardian.com
 opim.pixmania.com
@@ -29243,6 +29249,7 @@ procollecting.com
 procroanalytics.com
 procurement.cipscomms.org
 prod-events.nykaa.com
+prod-foxkit.kts.fox
 prod.ew.srp.navigacloud.com
 prod.fennec.atp.fox
 prod.nitrosniffer.ottogroup.io
