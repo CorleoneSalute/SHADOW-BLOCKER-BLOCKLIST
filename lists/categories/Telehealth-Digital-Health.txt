@@ -1,0 +1,146 @@
+TELEHEALTH & DIGITAL HEALTH BLOCKLIST
+
+Total domains: 30
+Last update: 11/4/2026
+
+# TELADOC / INTOUCH HEALTH
+
+logrocket-trial.teladoc.com
+analytics.ca.visitnow.org
+analytics.intouchhealth.com
+
+# CARBON HEALTH
+
+app-analytics.carbonhealth.com
+analytics.carbonhealth.com
+analytics01.carbonhealth.com
+logs.carbonhealth.com
+logs-raw.carbonhealth.com
+logstash-metrics.carbonhealth.com
+logstash.carbonhealth.com
+
+# AMWELL
+
+tracking.amwell.com
+pixel.americanwell.com
+
+# VSEE
+
+analytics.vsee.net
+
+# MDLIVE
+
+smetrics.mdlive.com
+track.ecomms.mdlive.com
+analytics.async.mdlive.com
+track.ecomms.mdlivetechnology.com
+
+# PLUSHCARE
+
+metrics.plushcare.com
+
+# K HEALTH
+
+otel-http.khealth.com
+
+# NURX
+
+sgtm.nurx.com
+
+# CUROLOGY
+
+fp.curology.com
+
+# GRAND ROUNDS HEALTH (INCLUDED HEALTH)
+
+analytics.grandrounds.com
+
+# FELIX HEALTH
+
+analytics.felixforyou.ca
+analytics-api.felixforyou.ca
+
+# ALTO PHARMACY
+
+activity-metrics.infra.alto.com
+api-metrics.infra.alto.com
+sentry.infra.alto.com
+services-metrics.infra.alto.com
+slack-metrics.infra.alto.com
+
+# QUARTET HEALTH
+
+analytics.quartethealth.com
+
+# CURAI
+
+metrics.curaihealth.com
+
+# SOLV
+
+track.solvhealth.com
+tracking-livestage.solvhealth.com
+
+# VOSITA / MICROWIZE
+
+logs.vosita.com
+
+# TRANSCARENT
+
+tc-ai-metrics.transcarent.com
+
+# CVS HEALTH
+
+analytics.cvshealth.com
+acranalytics.cvshealth.com
+api-acranalytics.cvshealth.com
+api-acranalyticsuat.cvshealth.com
+api-ctsanalyticsuat.cvshealth.com
+api-ctsanalytics.cvshealth.com
+cmxanalytics.cvshealth.com
+digital-perf-metrics.cvshealth.com
+ios.metrics.prod.cvshealth.com
+ios.logs.prod.cvshealth.com
+metrics-sentry.cvshealth.com
+metrics-sentry-prod.cvshealth.com
+metrics.cvshealth.com
+origin-metrics-east.cvshealth.com
+origin-metrics-west.cvshealth.com
+origin-pt-metrics-east.cvshealth.com
+origin-sit-metrics-east.cvshealth.com
+origin-sit-metrics-west.cvshealth.com
+web.metrics.prod.cvshealth.com
+aip-rcc-analytics-api.prod.cvshealth.com
+android.metrics.prod.cvshealth.com
+ingress.telemetry.prod.gcp.cvshealth.com
+
+# EVERNORTH
+
+smetrics.evernorth.com
+
+# TIMEDOC HEALTH
+
+analytics.timedochealth.com
+
+# E-VISIT
+
+web-analytics.thr.consult.evisit.com
+
+# TELUS HEALTH
+
+analytics.telushealth.com
+
+# CHARTREQUEST
+
+glpi.ad.chartrequest.com
+
+# MD REVOLUTION
+
+ad.mdrevolution.com
+
+# BRIGHT.MD
+
+logs.bright.md
+adselfserve.bright.md
+adsense.bright.md
+otel-collector.hub.bright.md
