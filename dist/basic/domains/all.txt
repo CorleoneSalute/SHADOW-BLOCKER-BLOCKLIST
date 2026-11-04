@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10341
-# Generated: 2026-11-03 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10408
+# Generated: 2026-11-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -123,6 +123,7 @@ acr-mx-prd.samsungcloud.tv
 acr-us-prd.samsungcloud.tv
 acr.roku.com
 acr0.samsungcloudsolution.com
+acranalytics.cvshealth.com
 acscdn.lavasoft.com
 action.effiliation.com
 action.metaffiliation.com
@@ -131,6 +132,7 @@ actionads.ru
 activeation.com
 activeterium.com
 activity-log-improvements.feature.varify.io
+activity-metrics.infra.alto.com
 activity.browser.intl.miui.com
 activity.wisepops.com
 acuityads.com
@@ -254,6 +256,7 @@ ad.lgsmartad.com
 ad.linkedin-ei.com
 ad.linkedin.com
 ad.linksynergy.com
+ad.mdrevolution.com
 ad.meitu.com
 ad.mi.com
 ad.minigame.vip
@@ -792,6 +795,8 @@ adsdktest.apple.com
 adsdomaintracking.com
 adseaimg.apusapps.com
 adsehera.ximalaya.com
+adselfserve.bright.md
+adsense.bright.md
 adsensei.ai
 adserv.reddit.com
 adserve.dianomi.com
@@ -1046,6 +1051,7 @@ aic.nudge.lgtvcommon.com
 aicube.revx.io
 aiinput.shouji.sogou.com
 aios-otel-collector.g.apple.com
+aip-rcc-analytics-api.prod.cvshealth.com
 aiplexads.com
 airbrake.io
 aiseesoft.com
@@ -1218,6 +1224,7 @@ analytic.wysa.io
 analytics-api.analytics-cluster.smartsupp.com
 analytics-api.apple.com
 analytics-api.crowncoinscasino.com
+analytics-api.felixforyou.ca
 analytics-api.grandesloterias.com
 analytics-api.id.me
 analytics-api.lotto247.com
@@ -1321,6 +1328,7 @@ analytics.art19.com
 analytics.astrill.com
 analytics.asus.com
 analytics.asus.com.cn
+analytics.async.mdlive.com
 analytics.athan.com
 analytics.att.com
 analytics.audioboom.com
@@ -1377,11 +1385,13 @@ analytics.bumble.com
 analytics.busuu.com
 analytics.buzzsprout.com
 analytics.bwin.com
+analytics.ca.visitnow.org
 analytics.cambly.com
 analytics.canalplus.com
 analytics.capitaloneshopping.com
 analytics.captivate.fm
 analytics.capture.app
+analytics.carbonhealth.com
 analytics.careem.com
 analytics.cba.kaspersky.com
 analytics.cbsaavideo.com
@@ -1420,6 +1430,7 @@ analytics.crunchyroll.com
 analytics.cs.zohohost.com
 analytics.curiositystream.com
 analytics.current.us
+analytics.cvshealth.com
 analytics.cyberghostvpn.com
 analytics.dailywire.com
 analytics.dashlane.com
@@ -1478,6 +1489,7 @@ analytics.fairphone.com
 analytics.faithlife.com
 analytics.fandangoathome.com
 analytics.feedpress.it
+analytics.felixforyou.ca
 analytics.femia.health
 analytics.fertilityfriend.com
 analytics.fetch.com
@@ -1525,6 +1537,7 @@ analytics.gotinder.com
 analytics.goyoapp.com
 analytics.gpapps.com
 analytics.grandesloterias.com
+analytics.grandrounds.com
 analytics.hallow.com
 analytics.happn.com
 analytics.hardrock.com
@@ -1565,6 +1578,7 @@ analytics.infomaniak.com
 analytics.insighttimer.com
 analytics.instagram.com
 analytics.intel.com
+analytics.intouchhealth.com
 analytics.iono.fm
 analytics.ipvanish.com
 analytics.iqiyi.com
@@ -1769,6 +1783,7 @@ analytics.prizerebel.com
 analytics.protected.media
 analytics.purevpn.com
 analytics.purplecarrot.com
+analytics.quartethealth.com
 analytics.query.yahoo.com
 analytics.quitgenius.com
 analytics.quranmajeed.com
@@ -1886,6 +1901,7 @@ analytics.taphunter.com
 analytics.tapjoy.com
 analytics.tasty.co
 analytics.teamviewer.com
+analytics.telushealth.com
 analytics.tensor.trade
 analytics.textra.me
 analytics.thalesmarket.io
@@ -1897,6 +1913,7 @@ analytics.ticketmaster.ie
 analytics.tidal.com
 analytics.tiktok.com
 analytics.tiktokv.com
+analytics.timedochealth.com
 analytics.timesinternet.in
 analytics.titanos.tv
 analytics.toluna.com
@@ -1949,6 +1966,7 @@ analytics.voxy.com
 analytics.vpc.duolingo.com
 analytics.vrchat.cloud
 analytics.vsco.co
+analytics.vsee.net
 analytics.vudu.com
 analytics.vyprvpn.com
 analytics.watchporn.to
@@ -1996,6 +2014,7 @@ analytics.zoosk.com
 analytics.zorinos.com
 analytics.zte.com.cn
 analytics.zynga.com
+analytics01.carbonhealth.com
 analytics01.techsmith.com
 analytics03.techsmith.com
 analytics05.techsmith.com
@@ -2055,6 +2074,7 @@ analyze.watchporn.to
 andata.ist.apple.com
 andhrajyothy.com
 android-zone.org
+android.metrics.prod.cvshealth.com
 androidads20.adcolony.com
 androidads21.adcolony.com
 androidads23.adcolony.com
@@ -2089,6 +2109,8 @@ apd.ping.android.shouji.sogou.com
 apex-hb.go.sonobi.com
 apex.go.sonobi.com
 api-access.pangolin-sdk-toutiao.com
+api-acranalytics.cvshealth.com
+api-acranalyticsuat.cvshealth.com
 api-ads.1muslimapp.com
 api-adservices.apple.com
 api-advertiser.linkvertise.com
@@ -2100,6 +2122,8 @@ api-apac.adikteev.com
 api-apac.remerge.io
 api-apac.zetaglobal.com
 api-audience.kayzen.io
+api-ctsanalytics.cvshealth.com
+api-ctsanalyticsuat.cvshealth.com
 api-diagmon.samsungdm.com
 api-dooh.samsungads.com
 api-eu.adikteev.com
@@ -2114,6 +2138,7 @@ api-logging.bunnycdn.com
 api-logging.hulu.com
 api-logging.netflix.com
 api-metrica.yandex.com
+api-metrics.infra.alto.com
 api-metrika.yandex.com
 api-metrika.yandex.com.tr
 api-news-integration.taboola.com
@@ -2354,6 +2379,7 @@ aporasal.net
 app-ads.apple.com
 app-analytics-cn3.zepp.com
 app-analytics-v2.snapchat.com
+app-analytics.carbonhealth.com
 app-analytics.huami.com
 app-analytics.lyft.com
 app-analytics.snapchat.com
@@ -3251,6 +3277,7 @@ cm.mgid.com
 cm2.adform.net
 cmp.optimizely.com
 cms.analytics.yahoo.com
+cmxanalytics.cvshealth.com
 cn-app-ads.apple.com
 cn-zh-ort-stsdk.vivoglobal.com
 cn-zh-prt-stsdk.vivoglobal.com
@@ -3830,6 +3857,7 @@ digdug.logs.roku.com
 digiad.in
 digiad.ir
 digiadsolution.com
+digital-perf-metrics.cvshealth.com
 digital.medallia.com
 digitaladvertising.vodacom.co.za
 digitalenvoy.com
@@ -4500,6 +4528,7 @@ fp.bankrolla.com
 fp.btloader.com
 fp.camsoda.com
 fp.coinbase.com
+fp.curology.com
 fp.gfx.streamate.com
 fp.ggpoker.com
 fp.incognia.com
@@ -4656,6 +4685,7 @@ globalapi.ad.xiaomi.com
 globaldatapoints.com
 globalreport.ad.intl.xiaomi.com
 gloyah.net
+glpi.ad.chartrequest.com
 glvamr.com
 gm-telemetry.bfge.bigfishgames.com
 go-mpulse.net
@@ -5088,6 +5118,7 @@ ingest.sessionstack.com
 ingest.telemetry.plus.yango.com
 ingest.vungle.com
 ingest.zipy.ai
+ingress.telemetry.prod.gcp.cvshealth.com
 init.supersonicads.com
 inmarket.com
 inmense.site
@@ -5141,6 +5172,8 @@ iolo.com
 iolosystem.com
 iolovpn.com
 ioptimizer.com
+ios.logs.prod.cvshealth.com
+ios.metrics.prod.cvshealth.com
 ios.shouji.sogou.com
 iosads24.adcolony.com
 ipcheck0.jdownloader.org
@@ -5643,19 +5676,23 @@ logly.co.jp
 logo.adf.ly
 logr-in.com
 logr-ingest.com
+logrocket-trial.teladoc.com
 logrocket.com
 logrocket.io
 logs-api.zenvia.com
 logs-coordinating.vsco.co
 logs-gateway.tabnine.com
 logs-logstash.vsco.co
+logs-raw.carbonhealth.com
 logs.1password.com
 logs.ads.vungle.com
 logs.alipay.com
 logs.apple.com
 logs.bobble.ai
 logs.boosteroid.com
+logs.bright.md
 logs.cachyos.org
+logs.carbonhealth.com
 logs.circle.so
 logs.dds.lenovo.com
 logs.dev.sr.roku.com
@@ -5686,6 +5723,7 @@ logs.sankakucomplex.com
 logs.sr.roku.com
 logs.tandem.net
 logs.thrillzz.com
+logs.vosita.com
 logs.yieldmo.com
 logs1409.xiti.com
 logserver.hicloud.com
@@ -5709,6 +5747,8 @@ logservice1.hicloud.com
 logsnew.gaana.com
 logssug.ucweb.com
 logstash-deployment-tracking.linecorp.com
+logstash-metrics.carbonhealth.com
+logstash.carbonhealth.com
 logsystem.zoom.us
 logtrace.snssdk.com
 logtracker.orange.pl
@@ -5970,6 +6010,8 @@ metrics-preview.vive.com
 metrics-prom.perlego.com
 metrics-r.wbx2.com
 metrics-sbg.o.webex.com
+metrics-sentry-prod.cvshealth.com
+metrics-sentry.cvshealth.com
 metrics-svc-ext.msg.t-mobile.com
 metrics-svc-ext.t-mobile.com
 metrics-target.siriusxm.com
@@ -6017,10 +6059,12 @@ metrics.convertexperiments.com
 metrics.conviva.com
 metrics.crave.ca
 metrics.crunchyroll.com
+metrics.curaihealth.com
 metrics.curiositystream.com
 metrics.current.us
 metrics.cursor.net
 metrics.cursor.sh
+metrics.cvshealth.com
 metrics.cyberghostvpn.com
 metrics.dailymotion.com
 metrics.dailywire.com
@@ -6143,6 +6187,7 @@ metrics.pixlr.com
 metrics.playhugelottos.com
 metrics.playit.pk
 metrics.plex.tv
+metrics.plushcare.com
 metrics.pluto.tv
 metrics.presonus.com
 metrics.prisma-ai.com
@@ -6770,6 +6815,11 @@ orangeads.fr
 orbit-telemetry.ubi.com
 oribi.io
 origin-analytics.branch.io
+origin-metrics-east.cvshealth.com
+origin-metrics-west.cvshealth.com
+origin-pt-metrics-east.cvshealth.com
+origin-sit-metrics-east.cvshealth.com
+origin-sit-metrics-west.cvshealth.com
 origin.edge-beta.ads.twitch.tv
 origin.edge.ads.twitch.tv
 orsdls.di.runestone.samsung.com
@@ -6784,6 +6834,8 @@ osb-krsvc.samsungqbe.com
 osint.au10tix.com
 oskiwood.com
 osp-log-fetcher.opera.com
+otel-collector.hub.bright.md
+otel-http.khealth.com
 otel.atmeta.com
 otel.observability.app.launchdarkly.com
 oth.dt00.net
@@ -6997,6 +7049,7 @@ pixel.adspirit.de
 pixel.adsrvr.org
 pixel.adup-tech.com
 pixel.advertising.com
+pixel.americanwell.com
 pixel.anzu.io
 pixel.bizo.com
 pixel.branch.io
@@ -7972,6 +8025,7 @@ sentry.gitlab.net
 sentry.highscore.com
 sentry.hub.klippa.com
 sentry.identomat.com
+sentry.infra.alto.com
 sentry.io
 sentry.io.steinberg.net
 sentry.justwatch.com
@@ -8027,6 +8081,7 @@ servicer-asia.mgid.com
 servicer-eu.mgid.com
 servicer-us.mgid.com
 servicer.mgid.com
+services-metrics.infra.alto.com
 services.adroll.com
 serving.ad.org.vn
 servr.eskimi.com
@@ -8069,6 +8124,7 @@ sgtm.dating.com
 sgtm.elofizetek.canalplus.com
 sgtm.indrive.com
 sgtm.nabidka.canalplus.com
+sgtm.nurx.com
 sgtm.pokerstars.de
 sgtm.skrill.com
 sgtm.storytel.com
@@ -8128,6 +8184,7 @@ skyadsmart.com
 skybetcasino.fr
 sl-tracking.fitonhealth.com
 sl.brightdata.com
+slack-metrics.infra.alto.com
 slashis.com
 slimcleaner.com
 slimcomputer.com
@@ -8175,9 +8232,11 @@ smetrics.elsevier.com
 smetrics.engineeringvillage.com
 smetrics.enterprise.com
 smetrics.eu.playstation.com
+smetrics.evernorth.com
 smetrics.help.hulu.com
 smetrics.lww.com
 smetrics.majestic.co.uk
+smetrics.mdlive.com
 smetrics.medical.otsuka-us.com
 smetrics.medicalinformation.otsuka-us.com
 smetrics.nintendo.com
@@ -8700,6 +8759,7 @@ tarrobads.com
 tattle.api.osano.com
 taurusx.com
 tbm.snssdk.com
+tc-ai-metrics.transcarent.com
 tcf.seedtag.com
 tcr.tynt.com
 td.crwdcntrl.net
@@ -9154,6 +9214,8 @@ track.crazyegg.com
 track.ctx.app.danharris.com
 track.dianomi.com
 track.ebsco.com
+track.ecomms.mdlive.com
+track.ecomms.mdlivetechnology.com
 track.factor75.com
 track.fantasy.cbssports.com
 track.fertilityfriend.com
@@ -9230,6 +9292,7 @@ track.romanticai.com
 track.salt.security
 track.selectmedia.asia
 track.smaato.net
+track.solvhealth.com
 track.sonobi.com
 track.speakol.com
 track.sr.roku.com
@@ -9302,6 +9365,7 @@ trackers.reddit.com
 tracking-adnet.vivo.com.cn
 tracking-ams5.cj.com
 tracking-api.italki.com
+tracking-livestage.solvhealth.com
 tracking-retail.corsair.com
 tracking.ableton.com
 tracking.acast.com
@@ -9309,6 +9373,7 @@ tracking.acer.com
 tracking.admitad.com
 tracking.affilae.com
 tracking.americas.business.samsung.com
+tracking.amwell.com
 tracking.apac.business.samsung.com
 tracking.api-web.shadow.tech
 tracking.api.cj.com
@@ -9968,6 +10033,7 @@ weather-beacon.com
 web-analytics.huami.com
 web-analytics.lastpass.com
 web-analytics.openaire.eu
+web-analytics.thr.consult.evisit.com
 web-mon-useast2a.byteoversea.com
 web-play.faro.highscore.com
 web-play.otel.highscore.com
@@ -9977,6 +10043,7 @@ web-writer.us.smartlook.cloud
 web-www.faro.highscore.com
 web-www.otel.highscore.com
 web.adblade.com
+web.metrics.prod.cvshealth.com
 web.uxcam.com
 web1.adf.ly
 web3.adf.ly

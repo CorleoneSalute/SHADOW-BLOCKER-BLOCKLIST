@@ -1,0 +1,74 @@
+# ============================================================
+# TELEHEALTH DIGITAL HEALTH BLOCKLIST - BASIC
+# Total domains: 67
+# Generated: 2026-11-04 (UTC) - auto-generated, do not edit by hand
+# Source: lists/categories/ (canonical master files)
+# ============================================================
+
+||acranalytics.cvshealth.com^
+||activity-metrics.infra.alto.com^
+||ad.mdrevolution.com^
+||adselfserve.bright.md^
+||adsense.bright.md^
+||aip-rcc-analytics-api.prod.cvshealth.com^
+||analytics-api.felixforyou.ca^
+||analytics.async.mdlive.com^
+||analytics.ca.visitnow.org^
+||analytics.carbonhealth.com^
+||analytics.cvshealth.com^
+||analytics.felixforyou.ca^
+||analytics.grandrounds.com^
+||analytics.intouchhealth.com^
+||analytics.quartethealth.com^
+||analytics.telushealth.com^
+||analytics.timedochealth.com^
+||analytics.vsee.net^
+||analytics01.carbonhealth.com^
+||android.metrics.prod.cvshealth.com^
+||api-acranalytics.cvshealth.com^
+||api-acranalyticsuat.cvshealth.com^
+||api-ctsanalytics.cvshealth.com^
+||api-ctsanalyticsuat.cvshealth.com^
+||api-metrics.infra.alto.com^
+||app-analytics.carbonhealth.com^
+||cmxanalytics.cvshealth.com^
+||digital-perf-metrics.cvshealth.com^
+||fp.curology.com^
+||glpi.ad.chartrequest.com^
+||ingress.telemetry.prod.gcp.cvshealth.com^
+||ios.logs.prod.cvshealth.com^
+||ios.metrics.prod.cvshealth.com^
+||logrocket-trial.teladoc.com^
+||logs-raw.carbonhealth.com^
+||logs.bright.md^
+||logs.carbonhealth.com^
+||logs.vosita.com^
+||logstash-metrics.carbonhealth.com^
+||logstash.carbonhealth.com^
+||metrics-sentry-prod.cvshealth.com^
+||metrics-sentry.cvshealth.com^
+||metrics.curaihealth.com^
+||metrics.cvshealth.com^
+||metrics.plushcare.com^
+||origin-metrics-east.cvshealth.com^
+||origin-metrics-west.cvshealth.com^
+||origin-pt-metrics-east.cvshealth.com^
+||origin-sit-metrics-east.cvshealth.com^
+||origin-sit-metrics-west.cvshealth.com^
+||otel-collector.hub.bright.md^
+||otel-http.khealth.com^
+||pixel.americanwell.com^
+||sentry.infra.alto.com^
+||services-metrics.infra.alto.com^
+||sgtm.nurx.com^
+||slack-metrics.infra.alto.com^
+||smetrics.evernorth.com^
+||smetrics.mdlive.com^
+||tc-ai-metrics.transcarent.com^
+||track.ecomms.mdlive.com^
+||track.ecomms.mdlivetechnology.com^
+||track.solvhealth.com^
+||tracking-livestage.solvhealth.com^
+||tracking.amwell.com^
+||web-analytics.thr.consult.evisit.com^
+||web.metrics.prod.cvshealth.com^
