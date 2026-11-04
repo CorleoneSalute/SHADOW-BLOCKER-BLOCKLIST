@@ -592,6 +592,27 @@ proxyjs.bright-sdk.com
 clientsdk.bright-sdk.com
 clientsdk.brdtnet.com
 
+# Videostrong C2 domains
+
+anyevonline.com
+mcstb.anyevonline.com
+stbngms.anyevonline.com
+extstb.anyevonline.com
+szbboys.com
+mqtt.szbboys.com
+mqtt.anyevonline.com
+file.anyevonline.com
+ott.szbboys.com
+intermedia-arts.tv
+yokatvonline.com
+usamqtt.szbboys.com
+api.package.coreservice.io
+bmw.bestipip.com
+hiddeninplainsight.top
+mb002.jaguar-distributor.syslogcollector.com
+sdk.titantitanservicetitannet.io
+api.dddlink.link
+
 # AGGRESSIVE LIST
 # ==================================================================
 
