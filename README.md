@@ -88,7 +88,6 @@ functionality, so each domain is being individually verified before
 release.
 
 - Android
-- Telehealth & Digital Health
 - Email Marketing
 - Windows
 - Job & Recruitment
