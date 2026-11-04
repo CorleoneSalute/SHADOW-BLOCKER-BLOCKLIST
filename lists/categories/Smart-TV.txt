@@ -1,7 +1,7 @@
 # SMART TV BLOCKLIST
 
-# Total domains: 552
-# Last update: 2026/10/30
+# Total domains: 570
+# Last update: 2026/11/04
 # Note: trailing "!" marks a domain as aggressive-only
 
 # SAMSUNG

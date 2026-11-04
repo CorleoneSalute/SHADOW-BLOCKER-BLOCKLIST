@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - AGGRESSIVE
-# Total domains: 552
+# Total domains: 570
 # Generated: 2026-11-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -89,13 +89,16 @@
 ||analytics.vewd.com^
 ||analytics.whaletv.com^
 ||androidtvwatsonfe-pa.googleapis.com^
+||anyevonline.com^
 ||api-diagmon.samsungdm.com^
 ||api-dooh.samsungads.com^
 ||api.ads.beta.roku.com^
 ||api.ads.roku.com^
 ||api.cid.samba.tv^
+||api.dddlink.link^
 ||api.flingo.tv^
 ||api.inscape.tv^
+||api.package.coreservice.io^
 ||api.samba.tv^
 ||apu.samsungelectronics.com^
 ||at-info-lgsmartad-com.aws-prd.net^
@@ -120,6 +123,7 @@
 ||bl-server.alphonso.tv^
 ||blog-advertising-v2.us-east-1.msc.roku.com^
 ||blog-advertising.msc.roku.com^
+||bmw.bestipip.com^
 ||bpu.samsungelectronics.com^
 ||br-info-lgsmartad-com.aws-prd.net^
 ||br-rdx2-lgtvsdp-com.aws-prd.net^
@@ -243,9 +247,11 @@
 ||events.cid.samba.tv^
 ||events.samsungads.com^
 ||external.logs.roku.com^
+||extstb.anyevonline.com^
 ||facemap.foldlife.net^
 ||fi-info-lgsmartad-com.aws-prd.net^
 ||fi-rdx2-lgtvsdp-com.aws-prd.net^
+||file.anyevonline.com^
 ||firetv.bugsnag.appstore.a2z.com^
 ||flingo.tv^
 ||forti.home.brightdata.com^
@@ -283,6 +289,7 @@
 ||help.bright-sdk.com^
 ||help.brightdata.com^
 ||hereford.logs.roku.com^
+||hiddeninplainsight.top^
 ||homeprv.lgtvcommon.com^
 ||hw-tdp-o.api.leiniao.com^
 ||hwads-o.res.leiniao.com^
@@ -301,6 +308,7 @@
 ||insights-api.brightdata.com^
 ||insights.brightdata.com^
 ||insights.video.a2z.com^
+||intermedia-arts.tv^
 ||ir-info-lgsmartad-com.aws-prd.net^
 ||ir-rdx2-lgtvsdp-com.aws-prd.net^
 ||it-info-lgsmartad-com.aws-prd.net^
@@ -361,12 +369,16 @@
 ||madison.logs.roku.com^
 ||market-analysis.samsungcloud.tv^
 ||marlin.logs.roku.com^
+||mb002.jaguar-distributor.syslogcollector.com^
 ||mcp.tvinteractive.tv^
+||mcstb.anyevonline.com^
 ||metrics.hisensetv.com^
 ||metrics.roku.com^
 ||midland.logs.roku.com^
 ||mobile.logs.roku.com^
 ||mobileanalytics.us-east-1.amazonaws.com^
+||mqtt.anyevonline.com^
+||mqtt.szbboys.com^
 ||mustang.logs.roku.com^
 ||mx.brightdata.com^
 ||nemo.logs.roku.com^
@@ -381,6 +393,7 @@
 ||nudge.lgtvcommon.com^
 ||os-12-5-alpha.logs.roku.com^
 ||otnstats.samsungcloud.tv^
+||ott.szbboys.com^
 ||p.ads.roku.com^
 ||p.ravm.tv^
 ||paolo.logs.roku.com^
@@ -455,6 +468,7 @@
 ||scribe.logs.bdp.roku.com^
 ||scribe.logs.roku.com^
 ||sdk-video.brightdata.com^
+||sdk.titantitanservicetitannet.io^
 ||sdklog.cloud.vewd.com^
 ||se-info-lgsmartad-com.aws-prd.net^
 ||se-rdx2-lgtvsdp-com.aws-prd.net^
@@ -472,7 +486,9 @@
 ||smetrics.samsung.com^
 ||smetrics.samsung.com.cn^
 ||stats.hisensetv.com^
+||stbngms.anyevonline.com^
 ||sugarland.logs.roku.com^
+||szbboys.com^
 ||targeted-config-test.samsungacr.com^
 ||telemetry.insights.video.a2z.com^
 ||telemetry.roku.com^
@@ -535,6 +551,7 @@
 ||usage-us-fy2021.myhomescreen.tv^
 ||usage-us-fy2022.myhomescreen.tv^
 ||usage.myhomescreen.tv^
+||usamqtt.szbboys.com^
 ||use1.aws.external.logs.roku.com^
 ||userdata.dev.sr.roku.com^
 ||userdata.sr.roku.com^
@@ -554,6 +571,7 @@
 ||www.samsungrm.net^
 ||x2.vindicosuite.com^
 ||xpu.samsungelectronics.com^
+||yokatvonline.com^
 ||ypu.samsungelectronics.com^
 ||yumenetworks.com^
 ||zpu.samsungelectronics.com^

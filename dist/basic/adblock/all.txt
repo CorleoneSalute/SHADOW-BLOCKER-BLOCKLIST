@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10408
+# Total domains: 10426
 # Generated: 2026-11-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2094,6 +2094,7 @@
 ||antifraud.remerge.io^
 ||anx.rtb.linkedin.com^
 ||any.gs^
+||anyevonline.com^
 ||anzu.io^
 ||ap-northeast-1-1.telemetry.insights.video.a2z.com^
 ||ap-southeast-1-1.telemetry.insights.video.a2z.com^
@@ -2228,6 +2229,7 @@
 ||api.cutt.ly^
 ||api.daopush-api.info^
 ||api.datalogix.com^
+||api.dddlink.link^
 ||api.decibelinsight.net^
 ||api.dianomi.com^
 ||api.e-planning.net^
@@ -2290,6 +2292,7 @@
 ||api.onclicka.com^
 ||api.openreplay.com^
 ||api.outbrain.com^
+||api.package.coreservice.io^
 ||api.passendo.com^
 ||api.paved.com^
 ||api.permutive.app^
@@ -2761,6 +2764,7 @@
 ||bluehost.outbrain.com^
 ||bluenik.com^
 ||bluesprig.com^
+||bmw.bestipip.com^
 ||bombora.com^
 ||books-analytics-events.apple.com^
 ||books-analytics-events.news.apple-dns.net^
@@ -4351,6 +4355,7 @@
 ||extranet.eu-east-1.miui-l7-feedback.c7qiwffdmn.elb.xiaomi.com^
 ||extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com^
 ||extrecey.com^
+||extstb.anyevonline.com^
 ||eyeota.net^
 ||ezadsystem.com^
 ||ezstat.ru^
@@ -4459,6 +4464,7 @@
 ||fid-ua.ggpoker.com^
 ||fid-ua1.ggpoker.com^
 ||fid.ggpoker.com^
+||file.anyevonline.com^
 ||filecure.com^
 ||files.crazyegg.com^
 ||filesigcheck.com^
@@ -4853,6 +4859,7 @@
 ||hg-tr.ekatox.com^
 ||hhadvertising.com^
 ||hianalytics.com^
+||hiddeninplainsight.top^
 ||hideadew.com^
 ||highcpmgate.com^
 ||highline-events.apple.com^
@@ -5164,6 +5171,7 @@
 ||interactive.adikteev.com^
 ||interactive.remerge.io^
 ||intercom-reporting.com^
+||intermedia-arts.tv^
 ||intg.snapchat.com^
 ||intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com^
 ||inv-nets-us.admixer.net^
@@ -5867,6 +5875,7 @@
 ||maxbounty.com^
 ||maxfinishseveral.com^
 ||mazu.sec.miui.com^
+||mb002.jaguar-distributor.syslogcollector.com^
 ||mb01.com^
 ||mb103.com^
 ||mbapi.ad.intl.xiaomi.com^
@@ -5896,6 +5905,7 @@
 ||mcs16-normal-no1a.tiktokw.eu^
 ||mcs16-normal-useastred.tiktokw.eu^
 ||mcs16-normal-ycru.tiktok.com^
+||mcstb.anyevonline.com^
 ||mdm-sentry-win.cz.avg.com^
 ||mdm-sentry.cz.avg.com^
 ||mdm-sentry.us.avg.com^
@@ -6469,6 +6479,8 @@
 ||movincle.com^
 ||mpouse.com^
 ||mqs-log.miui.com^
+||mqtt.anyevonline.com^
+||mqtt.szbboys.com^
 ||mrpdata.net^
 ||ms-ads.trafficguard.ai^
 ||ms.applovin.com^
@@ -6846,6 +6858,7 @@
 ||otnstats.samsungcloud.tv^
 ||ott.adikteev.com^
 ||ott.remerge.io^
+||ott.szbboys.com^
 ||ourl.cn^
 ||outbrain.co.il^
 ||outbrain.co.uk^
@@ -7933,6 +7946,7 @@
 ||sdk.smartlook.com^
 ||sdk.speakol.com^
 ||sdk.taboola.com^
+||sdk.titantitanservicetitannet.io^
 ||sdk.uxcam.com^
 ||sdk.verve.com^
 ||sdk.zetaglobal.com^
@@ -8544,6 +8558,7 @@
 ||statslogger.image-line.com^
 ||statwup.huya.com^
 ||statwup.nimo.tv^
+||stbngms.anyevonline.com^
 ||stg-data-f.ads.heytapmobile.com^
 ||stg-data-id.ads.heytapmobile.com^
 ||stg-data-in.ads.heytapmobile.com^
@@ -8681,6 +8696,7 @@
 ||systemlog.me^
 ||systweak.com^
 ||systweaksoftware.com^
+||szbboys.com^
 ||t-adx.op-mobile.opera.com^
 ||t-e.site^
 ||t-id.ads.heytapmobile.com^
@@ -9828,6 +9844,7 @@
 ||usage.myhomescreen.tv^
 ||usage.trackjs.com^
 ||usagereports.elsevier.com^
+||usamqtt.szbboys.com^
 ||use-tor.adsrvr.org^
 ||use.unrulymedia.com^
 ||use1.aws.external.logs.roku.com^
@@ -10345,6 +10362,7 @@
 ||ylog1.huya.com^
 ||ylog2.huya.com^
 ||ylog3.huya.com^
+||yokatvonline.com^
 ||yolovers.com^
 ||youappi.com^
 ||youbora.com^

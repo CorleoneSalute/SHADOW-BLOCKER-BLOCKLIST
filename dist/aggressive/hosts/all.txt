@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10886
+# Total domains: 10904
 # Generated: 2026-11-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2147,6 +2147,7 @@
 0.0.0.0 anura.io
 0.0.0.0 anx.rtb.linkedin.com
 0.0.0.0 any.gs
+0.0.0.0 anyevonline.com
 0.0.0.0 anzu.io
 0.0.0.0 ap-northeast-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 ap-southeast-1-1.telemetry.insights.video.a2z.com
@@ -2282,6 +2283,7 @@
 0.0.0.0 api.cutt.ly
 0.0.0.0 api.daopush-api.info
 0.0.0.0 api.datalogix.com
+0.0.0.0 api.dddlink.link
 0.0.0.0 api.decibelinsight.net
 0.0.0.0 api.dianomi.com
 0.0.0.0 api.e-planning.net
@@ -2344,6 +2346,7 @@
 0.0.0.0 api.onclicka.com
 0.0.0.0 api.openreplay.com
 0.0.0.0 api.outbrain.com
+0.0.0.0 api.package.coreservice.io
 0.0.0.0 api.passendo.com
 0.0.0.0 api.paved.com
 0.0.0.0 api.permutive.app
@@ -2838,6 +2841,7 @@
 0.0.0.0 bluehost.outbrain.com
 0.0.0.0 bluenik.com
 0.0.0.0 bluesprig.com
+0.0.0.0 bmw.bestipip.com
 0.0.0.0 bombora.com
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 books-analytics-events.news.apple-dns.net
@@ -4520,6 +4524,7 @@
 0.0.0.0 extranet.eu-east-1.miui-l7-feedback.c7qiwffdmn.elb.xiaomi.com
 0.0.0.0 extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com
 0.0.0.0 extrecey.com
+0.0.0.0 extstb.anyevonline.com
 0.0.0.0 eyeota.com
 0.0.0.0 eyeota.net
 0.0.0.0 ezadsystem.com
@@ -4637,6 +4642,7 @@
 0.0.0.0 fid-ua.ggpoker.com
 0.0.0.0 fid-ua1.ggpoker.com
 0.0.0.0 fid.ggpoker.com
+0.0.0.0 file.anyevonline.com
 0.0.0.0 filecure.com
 0.0.0.0 files.crazyegg.com
 0.0.0.0 filesigcheck.com
@@ -5079,6 +5085,7 @@
 0.0.0.0 hg-tr.ekatox.com
 0.0.0.0 hhadvertising.com
 0.0.0.0 hianalytics.com
+0.0.0.0 hiddeninplainsight.top
 0.0.0.0 hideadew.com
 0.0.0.0 highcpmgate.com
 0.0.0.0 highline-events.apple.com
@@ -5407,6 +5414,7 @@
 0.0.0.0 interactive.adikteev.com
 0.0.0.0 interactive.remerge.io
 0.0.0.0 intercom-reporting.com
+0.0.0.0 intermedia-arts.tv
 0.0.0.0 internalcheck.apple.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com
@@ -6143,6 +6151,7 @@
 0.0.0.0 maxbounty.com
 0.0.0.0 maxfinishseveral.com
 0.0.0.0 mazu.sec.miui.com
+0.0.0.0 mb002.jaguar-distributor.syslogcollector.com
 0.0.0.0 mb01.com
 0.0.0.0 mb103.com
 0.0.0.0 mbapi.ad.intl.xiaomi.com
@@ -6172,6 +6181,7 @@
 0.0.0.0 mcs16-normal-no1a.tiktokw.eu
 0.0.0.0 mcs16-normal-useastred.tiktokw.eu
 0.0.0.0 mcs16-normal-ycru.tiktok.com
+0.0.0.0 mcstb.anyevonline.com
 0.0.0.0 mdm-sentry-win.cz.avg.com
 0.0.0.0 mdm-sentry.cz.avg.com
 0.0.0.0 mdm-sentry.us.avg.com
@@ -6747,6 +6757,8 @@
 0.0.0.0 movincle.com
 0.0.0.0 mpouse.com
 0.0.0.0 mqs-log.miui.com
+0.0.0.0 mqtt.anyevonline.com
+0.0.0.0 mqtt.szbboys.com
 0.0.0.0 mrpdata.net
 0.0.0.0 ms-ads.trafficguard.ai
 0.0.0.0 ms.applovin.com
@@ -7148,6 +7160,7 @@
 0.0.0.0 otnstats.samsungcloud.tv
 0.0.0.0 ott.adikteev.com
 0.0.0.0 ott.remerge.io
+0.0.0.0 ott.szbboys.com
 0.0.0.0 ourl.cn
 0.0.0.0 outbrain.co.il
 0.0.0.0 outbrain.co.uk
@@ -8314,6 +8327,7 @@
 0.0.0.0 sdk.smartlook.com
 0.0.0.0 sdk.speakol.com
 0.0.0.0 sdk.taboola.com
+0.0.0.0 sdk.titantitanservicetitannet.io
 0.0.0.0 sdk.uxcam.com
 0.0.0.0 sdk.verve.com
 0.0.0.0 sdk.zetaglobal.com
@@ -8950,6 +8964,7 @@
 0.0.0.0 statslogger.image-line.com
 0.0.0.0 statwup.huya.com
 0.0.0.0 statwup.nimo.tv
+0.0.0.0 stbngms.anyevonline.com
 0.0.0.0 stg-data-f.ads.heytapmobile.com
 0.0.0.0 stg-data-id.ads.heytapmobile.com
 0.0.0.0 stg-data-in.ads.heytapmobile.com
@@ -9092,6 +9107,7 @@
 0.0.0.0 systemlog.me
 0.0.0.0 systweak.com
 0.0.0.0 systweaksoftware.com
+0.0.0.0 szbboys.com
 0.0.0.0 t-adx.op-mobile.opera.com
 0.0.0.0 t-e.site
 0.0.0.0 t-id.ads.heytapmobile.com
@@ -10272,6 +10288,7 @@
 0.0.0.0 usage.myhomescreen.tv
 0.0.0.0 usage.trackjs.com
 0.0.0.0 usagereports.elsevier.com
+0.0.0.0 usamqtt.szbboys.com
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 use.unrulymedia.com
 0.0.0.0 use1.aws.external.logs.roku.com
@@ -10819,6 +10836,7 @@
 0.0.0.0 ylog1.huya.com
 0.0.0.0 ylog2.huya.com
 0.0.0.0 ylog3.huya.com
+0.0.0.0 yokatvonline.com
 0.0.0.0 yolovers.com
 0.0.0.0 youappi.com
 0.0.0.0 youbora.com

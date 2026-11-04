@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - AGGRESSIVE
-# Total domains: 552
+# Total domains: 570
 # Generated: 2026-11-04 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -89,13 +89,16 @@
 0.0.0.0 analytics.vewd.com
 0.0.0.0 analytics.whaletv.com
 0.0.0.0 androidtvwatsonfe-pa.googleapis.com
+0.0.0.0 anyevonline.com
 0.0.0.0 api-diagmon.samsungdm.com
 0.0.0.0 api-dooh.samsungads.com
 0.0.0.0 api.ads.beta.roku.com
 0.0.0.0 api.ads.roku.com
 0.0.0.0 api.cid.samba.tv
+0.0.0.0 api.dddlink.link
 0.0.0.0 api.flingo.tv
 0.0.0.0 api.inscape.tv
+0.0.0.0 api.package.coreservice.io
 0.0.0.0 api.samba.tv
 0.0.0.0 apu.samsungelectronics.com
 0.0.0.0 at-info-lgsmartad-com.aws-prd.net
@@ -120,6 +123,7 @@
 0.0.0.0 bl-server.alphonso.tv
 0.0.0.0 blog-advertising-v2.us-east-1.msc.roku.com
 0.0.0.0 blog-advertising.msc.roku.com
+0.0.0.0 bmw.bestipip.com
 0.0.0.0 bpu.samsungelectronics.com
 0.0.0.0 br-info-lgsmartad-com.aws-prd.net
 0.0.0.0 br-rdx2-lgtvsdp-com.aws-prd.net
@@ -243,9 +247,11 @@
 0.0.0.0 events.cid.samba.tv
 0.0.0.0 events.samsungads.com
 0.0.0.0 external.logs.roku.com
+0.0.0.0 extstb.anyevonline.com
 0.0.0.0 facemap.foldlife.net
 0.0.0.0 fi-info-lgsmartad-com.aws-prd.net
 0.0.0.0 fi-rdx2-lgtvsdp-com.aws-prd.net
+0.0.0.0 file.anyevonline.com
 0.0.0.0 firetv.bugsnag.appstore.a2z.com
 0.0.0.0 flingo.tv
 0.0.0.0 forti.home.brightdata.com
@@ -283,6 +289,7 @@
 0.0.0.0 help.bright-sdk.com
 0.0.0.0 help.brightdata.com
 0.0.0.0 hereford.logs.roku.com
+0.0.0.0 hiddeninplainsight.top
 0.0.0.0 homeprv.lgtvcommon.com
 0.0.0.0 hw-tdp-o.api.leiniao.com
 0.0.0.0 hwads-o.res.leiniao.com
@@ -301,6 +308,7 @@
 0.0.0.0 insights-api.brightdata.com
 0.0.0.0 insights.brightdata.com
 0.0.0.0 insights.video.a2z.com
+0.0.0.0 intermedia-arts.tv
 0.0.0.0 ir-info-lgsmartad-com.aws-prd.net
 0.0.0.0 ir-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 it-info-lgsmartad-com.aws-prd.net
@@ -361,12 +369,16 @@
 0.0.0.0 madison.logs.roku.com
 0.0.0.0 market-analysis.samsungcloud.tv
 0.0.0.0 marlin.logs.roku.com
+0.0.0.0 mb002.jaguar-distributor.syslogcollector.com
 0.0.0.0 mcp.tvinteractive.tv
+0.0.0.0 mcstb.anyevonline.com
 0.0.0.0 metrics.hisensetv.com
 0.0.0.0 metrics.roku.com
 0.0.0.0 midland.logs.roku.com
 0.0.0.0 mobile.logs.roku.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
+0.0.0.0 mqtt.anyevonline.com
+0.0.0.0 mqtt.szbboys.com
 0.0.0.0 mustang.logs.roku.com
 0.0.0.0 mx.brightdata.com
 0.0.0.0 nemo.logs.roku.com
@@ -381,6 +393,7 @@
 0.0.0.0 nudge.lgtvcommon.com
 0.0.0.0 os-12-5-alpha.logs.roku.com
 0.0.0.0 otnstats.samsungcloud.tv
+0.0.0.0 ott.szbboys.com
 0.0.0.0 p.ads.roku.com
 0.0.0.0 p.ravm.tv
 0.0.0.0 paolo.logs.roku.com
@@ -455,6 +468,7 @@
 0.0.0.0 scribe.logs.bdp.roku.com
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 sdk-video.brightdata.com
+0.0.0.0 sdk.titantitanservicetitannet.io
 0.0.0.0 sdklog.cloud.vewd.com
 0.0.0.0 se-info-lgsmartad-com.aws-prd.net
 0.0.0.0 se-rdx2-lgtvsdp-com.aws-prd.net
@@ -472,7 +486,9 @@
 0.0.0.0 smetrics.samsung.com
 0.0.0.0 smetrics.samsung.com.cn
 0.0.0.0 stats.hisensetv.com
+0.0.0.0 stbngms.anyevonline.com
 0.0.0.0 sugarland.logs.roku.com
+0.0.0.0 szbboys.com
 0.0.0.0 targeted-config-test.samsungacr.com
 0.0.0.0 telemetry.insights.video.a2z.com
 0.0.0.0 telemetry.roku.com
@@ -535,6 +551,7 @@
 0.0.0.0 usage-us-fy2021.myhomescreen.tv
 0.0.0.0 usage-us-fy2022.myhomescreen.tv
 0.0.0.0 usage.myhomescreen.tv
+0.0.0.0 usamqtt.szbboys.com
 0.0.0.0 use1.aws.external.logs.roku.com
 0.0.0.0 userdata.dev.sr.roku.com
 0.0.0.0 userdata.sr.roku.com
@@ -554,6 +571,7 @@
 0.0.0.0 www.samsungrm.net
 0.0.0.0 x2.vindicosuite.com
 0.0.0.0 xpu.samsungelectronics.com
+0.0.0.0 yokatvonline.com
 0.0.0.0 ypu.samsungelectronics.com
 0.0.0.0 yumenetworks.com
 0.0.0.0 zpu.samsungelectronics.com
