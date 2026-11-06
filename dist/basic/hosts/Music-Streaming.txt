@@ -1,6 +1,6 @@
 # ============================================================
 # MUSIC STREAMING BLOCKLIST - BASIC
-# Total domains: 55
+# Total domains: 56
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -13,6 +13,7 @@
 0.0.0.0 ads.gaana.com
 0.0.0.0 ads.soundcloud.com
 0.0.0.0 ads.spotify.com
+0.0.0.0 ads.tunein.com
 0.0.0.0 adserver.gslb.pandora.com
 0.0.0.0 adserver.pandora.com
 0.0.0.0 adstudio.spotify.com

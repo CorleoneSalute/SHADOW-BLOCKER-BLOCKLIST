@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10908
+# Total domains: 10909
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -746,6 +746,7 @@
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 ads.triplelift.com
 0.0.0.0 ads.truecaller.com
+0.0.0.0 ads.tunein.com
 0.0.0.0 ads.twitch.tv
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.txxx.com

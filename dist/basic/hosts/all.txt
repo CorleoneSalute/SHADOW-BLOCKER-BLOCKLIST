@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10430
+# Total domains: 10431
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -713,6 +713,7 @@
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 ads.triplelift.com
 0.0.0.0 ads.truecaller.com
+0.0.0.0 ads.tunein.com
 0.0.0.0 ads.twitch.tv
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.txxx.com
