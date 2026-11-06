@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10428
+# Total domains: 10429
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -345,6 +345,7 @@
 ||adcolony.com^
 ||adconnect.pl^
 ||adcore.lenovomm.com^
+||adcreative.naver.com^
 ||adcreative2.awempire.com^
 ||add-mapping-for-wrong-activity-log-classes.feature.varify.io^
 ||addata2.ads.vip.corp.yahoo.com^

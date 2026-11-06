@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10906
+# Total domains: 10907
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -365,6 +365,7 @@
 0.0.0.0 adcolony.com
 0.0.0.0 adconnect.pl
 0.0.0.0 adcore.lenovomm.com
+0.0.0.0 adcreative.naver.com
 0.0.0.0 adcreative2.awempire.com
 0.0.0.0 add-mapping-for-wrong-activity-log-classes.feature.varify.io
 0.0.0.0 addata2.ads.vip.corp.yahoo.com
