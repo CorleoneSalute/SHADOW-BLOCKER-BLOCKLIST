@@ -27,6 +27,15 @@ stats.speedbit.com
 telemetry.speedbit.com
 metrics.speedbit.com
 ads.speedbit.com
+ads1.speedbit.com
+ads2.speedbit.com
+ads3.speedbit.com
+ads4.speedbit.com
+ads5.speedbit.com
+ads6.speedbit.com
+ads7.speedbit.com
+ads8.speedbit.com
+ads9.speedbit.com
 
 # JDownloader
 stats.jdownloader.org
