@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 309
+# Total domains: 310
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -193,6 +193,7 @@
 0.0.0.0 metrics.trillonario.com
 0.0.0.0 mgas-log.fhcasino.com
 0.0.0.0 mvads.cdn.espn.com
+0.0.0.0 ngads.go.com
 0.0.0.0 optimizely.hellomillions.com
 0.0.0.0 optimizely.mcluck.com
 0.0.0.0 optimizely.playfame.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10929
+# Total domains: 10930
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6960,6 +6960,7 @@
 ||nextroll.com^
 ||nexus.analytics.vodafone.com^
 ||nexxen.com^
+||ngads.go.com^
 ||ngfts.lge.com^
 ||nginx.34.sec.miui.com^
 ||niad.analytics.elsevier.com^

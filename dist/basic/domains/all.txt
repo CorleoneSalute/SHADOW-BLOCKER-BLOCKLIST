@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10451
+# Total domains: 10452
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6676,6 +6676,7 @@ nextmillennium.com
 nextmillennium.io
 nextroll.com
 nexus.analytics.vodafone.com
+ngads.go.com
 ngfts.lge.com
 nginx.34.sec.miui.com
 niad.analytics.elsevier.com
