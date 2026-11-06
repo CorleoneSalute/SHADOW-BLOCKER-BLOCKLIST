@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10427
+# Total domains: 10428
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -263,6 +263,7 @@
 ||ad.minigame.vip^
 ||ad.mobile.youku.com^
 ||ad.mxplayer.in^
+||ad.naver.com^
 ||ad.nettvservices.com^
 ||ad.nextlgsdp.com^
 ||ad.offers-ua.vbet.com^

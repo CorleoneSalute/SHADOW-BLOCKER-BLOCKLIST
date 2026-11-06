@@ -1,10 +1,11 @@
 # ============================================================
 # NAVIGATION MAPPING BLOCKLIST - AGGRESSIVE
-# Total domains: 47
+# Total domains: 48
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+0.0.0.0 ad.naver.com
 0.0.0.0 ad.search.naver.com
 0.0.0.0 adassets.waze.com
 0.0.0.0 ads-resources.waze.com

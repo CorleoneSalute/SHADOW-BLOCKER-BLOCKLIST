@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10905
+# Total domains: 10906
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -281,6 +281,7 @@
 0.0.0.0 ad.minigame.vip
 0.0.0.0 ad.mobile.youku.com
 0.0.0.0 ad.mxplayer.in
+0.0.0.0 ad.naver.com
 0.0.0.0 ad.nettvservices.com
 0.0.0.0 ad.nextlgsdp.com
 0.0.0.0 ad.offers-ua.vbet.com
