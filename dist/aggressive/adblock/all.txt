@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10909
+# Total domains: 10918
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -787,6 +787,7 @@
 ||ads1-adnow.com^
 ||ads1.huawei.com^
 ||ads1.reddit.com^
+||ads1.speedbit.com^
 ||ads1.vip.in.yahoo.com^
 ||ads1.vip.ir2.yahoo.com^
 ||ads129xdriver.watchporn.to^
@@ -795,16 +796,24 @@
 ||ads2.anura.io^
 ||ads2.javmost.com^
 ||ads2.reddit.com^
+||ads2.speedbit.com^
 ||ads2.watchporn.to^
 ||ads3-adnow.com^
 ||ads3.cj.sina.com.cn^
 ||ads3.javmost.com^
+||ads3.speedbit.com^
 ||ads30.adcolony.com^
 ||ads33.adtelligent.com^
+||ads4.speedbit.com^
 ||ads5.huawei.com^
+||ads5.speedbit.com^
 ||ads5.truecaller.com^
 ||ads54.adtelligent.com^
+||ads6.speedbit.com^
 ||ads6.textra.me^
+||ads7.speedbit.com^
+||ads8.speedbit.com^
+||ads9.speedbit.com^
 ||adsailor.com^
 ||adsalad.co.kr^
 ||adsapi-proxy-il.waze.com^

@@ -1,7 +1,7 @@
 # DOWNLOAD MANAGER BLOCKLIST
 
-# Total domains: 24
-# Last update: 2026/08/03
+# Total domains: 33
+# Last update: 2026/11/06
 # Note: trailing "!" marks a domain as aggressive-only
 
 # IDM (Internet Download Manager / Tonec Inc.)

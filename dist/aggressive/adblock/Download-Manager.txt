@@ -1,6 +1,6 @@
 # ============================================================
 # DOWNLOAD MANAGER BLOCKLIST - AGGRESSIVE
-# Total domains: 24
+# Total domains: 33
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8,6 +8,15 @@
 ||addoncrop.com^
 ||ads.internetdownloadmanager.com^
 ||ads.speedbit.com^
+||ads1.speedbit.com^
+||ads2.speedbit.com^
+||ads3.speedbit.com^
+||ads4.speedbit.com^
+||ads5.speedbit.com^
+||ads6.speedbit.com^
+||ads7.speedbit.com^
+||ads8.speedbit.com^
+||ads9.speedbit.com^
 ||analytics.4kdownload.com^
 ||analytics.freedownloadmanager.org^
 ||analytics.my.jdownloader.org^
