@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10449
+# Total domains: 10450
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6405,6 +6405,7 @@
 ||mobile.zetaglobal.com^
 ||mobileads.bharatiyamobile.com^
 ||mobileanalytics.us-east-1.amazonaws.com^
+||mobileanalytics.useinsider.com^
 ||mobilefeedback.twitter.com^
 ||mobilelogs.supersonic.com^
 ||mobilereporting.ext.nokia.com^

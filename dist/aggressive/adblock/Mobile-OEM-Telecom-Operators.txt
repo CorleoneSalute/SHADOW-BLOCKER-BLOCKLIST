@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1134
+# Total domains: 1135
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -725,6 +725,7 @@
 ||moa-upload-us.allawnos.com^
 ||moai-dev-samsung.com^
 ||mobile-ads.vodafone.com.eg^
+||mobileanalytics.useinsider.com^
 ||mobilereporting.ext.nokia.com^
 ||mon.n.xiaomi.com^
 ||monitor-stsdk.vivoglobal.com^

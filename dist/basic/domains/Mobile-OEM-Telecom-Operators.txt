@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1084
+# Total domains: 1085
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -688,6 +688,7 @@ moa-upload-sg.allawnos.com
 moa-upload-us.allawnos.com
 moai-dev-samsung.com
 mobile-ads.vodafone.com.eg
+mobileanalytics.useinsider.com
 mobilereporting.ext.nokia.com
 mon.n.xiaomi.com
 monitor-stsdk.vivoglobal.com
