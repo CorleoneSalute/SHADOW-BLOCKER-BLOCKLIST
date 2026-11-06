@@ -23,6 +23,7 @@ log.espn.com
 mvads.cdn.espn.com
 abtmetric.espn.go.com
 ad.family.go.com
+analytics.go.com
 
 # PrizePicks
 analytics.prizepicks.com
