@@ -1,10 +1,11 @@
 # ============================================================
 # WEDDING BLOCKLIST - AGGRESSIVE
-# Total domains: 12
+# Total domains: 13
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+0.0.0.0 adserver.theknot.com
 0.0.0.0 analytics.theknot.com
 0.0.0.0 analytics.weddingwire.com
 0.0.0.0 analytics.withjoy.com

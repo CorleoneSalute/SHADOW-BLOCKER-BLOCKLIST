@@ -1,6 +1,6 @@
 # WEDDING BLOCKLIST
-# Total domains: 12
-# Last update: 2026/07/16
+# Total domains: 13
+# Last update: 2026/11/06
 # Note: trailing "!" marks a domain as aggressive-only
 
 # THE KNOT / WEDDINGWIRE (TKWW)

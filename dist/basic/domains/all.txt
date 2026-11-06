@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10440
+# Total domains: 10441
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -831,6 +831,7 @@ adserver.pandora.com
 adserver.podbean.com
 adserver.reddit.com
 adserver.remerge.io
+adserver.theknot.com
 adserver.unityads.unity3d.com
 adserver.watchporn.to
 adserver2.reddit.com

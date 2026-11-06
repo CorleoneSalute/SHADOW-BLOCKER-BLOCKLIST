@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10918
+# Total domains: 10919
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -867,6 +867,7 @@
 0.0.0.0 adserver.podbean.com
 0.0.0.0 adserver.reddit.com
 0.0.0.0 adserver.remerge.io
+0.0.0.0 adserver.theknot.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adserver.watchporn.to
 0.0.0.0 adserver2.reddit.com
