@@ -326,6 +326,7 @@ sentry.work.ink
 analytics.shorte.st
 collector.shorte.st
 tracking.shorte.st
+ads.shorte.st
 
 # --- UII.IO --- (1 domain)
 uii.io # ⚠️ (scam)
