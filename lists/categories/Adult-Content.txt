@@ -160,3 +160,7 @@ collector.faphouse.com
 collector.faphouse4k.com
 collector.faphouse.tv
 collector.fap.house
+
+# Shemale-club
+
+track.shemale-club.com
