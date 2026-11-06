@@ -36,6 +36,7 @@ analytics.oviahealth.com
 track.ovia.com
 metrics.oviahealth.com
 ads.ovia.com
+tracking.ent.oviahealth.com
 
 # Glow / Nurture (Upward Labs Holdings)
 analytics.glowing.com
