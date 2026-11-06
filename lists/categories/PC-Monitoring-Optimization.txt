@@ -385,3 +385,4 @@ telemetry.batteryoptimizer.net
 
 #### MacPaw (CleanMyMac X) — Tracking Links
 analytics.macpaw.com
+a8clk.macpaw.com
