@@ -29,7 +29,8 @@ sentry2.sync.me
 # Should I Answer
 stats.shouldianswer.net
 
-# Bharatiya mobile mobileads.bharatiyamobile.com
+# Bharatiya mobile 
+mobileads.bharatiyamobile.com
 
 # Clever Dialer
 kibana-log.cleverdialer.com
