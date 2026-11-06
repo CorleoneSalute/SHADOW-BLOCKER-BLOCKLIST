@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 386
+# Total domains: 387
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -199,6 +199,7 @@
 ||h5tracker5.pptv.com^
 ||h5tracker6.gslb.pptv.com^
 ||h5tracker7.gslb.pptv.com^
+||hb-analytics.hotstar.com^
 ||i.dev.jwpltx.com^
 ||i.n.jwpltx.com^
 ||ichnaea-web.dradis.netflix.com^

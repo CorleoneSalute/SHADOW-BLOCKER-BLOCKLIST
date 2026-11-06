@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 430
+# Total domains: 431
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -213,6 +213,7 @@
 0.0.0.0 h5tracker5.pptv.com
 0.0.0.0 h5tracker6.gslb.pptv.com
 0.0.0.0 h5tracker7.gslb.pptv.com
+0.0.0.0 hb-analytics.hotstar.com
 0.0.0.0 i.dev.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
 0.0.0.0 ichnaea-web.dradis.netflix.com

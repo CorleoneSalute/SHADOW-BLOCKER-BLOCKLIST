@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10448
+# Total domains: 10449
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4838,6 +4838,7 @@
 0.0.0.0 hardcoreadv.com
 0.0.0.0 hardcoreadvertising.com
 0.0.0.0 hb-4y7w.raps.ravm.tv
+0.0.0.0 hb-analytics.hotstar.com
 0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 hb-e8zk.raps.ravm.tv
 0.0.0.0 hb-gf26.raps.ravm.tv

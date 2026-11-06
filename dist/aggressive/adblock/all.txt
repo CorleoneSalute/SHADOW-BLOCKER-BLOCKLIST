@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10926
+# Total domains: 10927
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5064,6 +5064,7 @@
 ||hardcoreadv.com^
 ||hardcoreadvertising.com^
 ||hb-4y7w.raps.ravm.tv^
+||hb-analytics.hotstar.com^
 ||hb-api.omnitagjs.com^
 ||hb-e8zk.raps.ravm.tv^
 ||hb-gf26.raps.ravm.tv^
