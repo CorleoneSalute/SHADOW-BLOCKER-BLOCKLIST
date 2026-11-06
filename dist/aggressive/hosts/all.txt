@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10936
+# Total domains: 10937
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10073,6 +10073,7 @@
 0.0.0.0 trc.taboola.com.br
 0.0.0.0 trc.taboola.de
 0.0.0.0 trc.taboola.fr
+0.0.0.0 trck.com-sit.dell.com
 0.0.0.0 trck.iheartmedia.com
 0.0.0.0 trck.vodafone.com
 0.0.0.0 trckr.petcube.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10457
+# Total domains: 10458
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9640,6 +9640,7 @@ trc.taboola.com
 trc.taboola.com.br
 trc.taboola.de
 trc.taboola.fr
+trck.com-sit.dell.com
 trck.iheartmedia.com
 trck.vodafone.com
 trckr.petcube.com
