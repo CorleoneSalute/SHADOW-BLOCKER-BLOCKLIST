@@ -71,7 +71,8 @@ videoads.filefactory.com
 
 
 # ULOZ.TO 
-piwik.uloz.to              
+piwik.uloz.to
+advert.uloz.to
 
 
 # WETRANSFER 
