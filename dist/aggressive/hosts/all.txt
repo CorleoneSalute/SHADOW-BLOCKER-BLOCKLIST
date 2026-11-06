@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10924
+# Total domains: 10925
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3374,6 +3374,7 @@
 0.0.0.0 clifads.com
 0.0.0.0 clk.asia
 0.0.0.0 clk.sh
+0.0.0.0 clk.ubi.com
 0.0.0.0 clkmr.com
 0.0.0.0 clksh.com
 0.0.0.0 clockskew.alphonso.tv

@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - BASIC
-# Total domains: 82
+# Total domains: 83
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -26,6 +26,7 @@
 0.0.0.0 analytics.xbox-interactive.com
 0.0.0.0 api.xlogs.nvidia.com
 0.0.0.0 client-telemetry.roblox.com
+0.0.0.0 clk.ubi.com
 0.0.0.0 errorservice.metrics.ea.com
 0.0.0.0 events.telemetry.data.nvidia.com
 0.0.0.0 galaxy-log.gog.com

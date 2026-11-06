@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10446
+# Total domains: 10447
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3278,6 +3278,7 @@ clientsdk.luminatinet.com
 clifads.com
 clk.asia
 clk.sh
+clk.ubi.com
 clkmr.com
 clksh.com
 clockskew.alphonso.tv

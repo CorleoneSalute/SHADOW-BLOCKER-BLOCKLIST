@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 86
+# Total domains: 87
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -27,6 +27,7 @@
 ||api.xlogs.nvidia.com^
 ||beacons.xboxlive.com^
 ||client-telemetry.roblox.com^
+||clk.ubi.com^
 ||errorservice.metrics.ea.com^
 ||events.telemetry.data.nvidia.com^
 ||galaxy-log.gog.com^
