@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 308
+# Total domains: 309
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -63,6 +63,7 @@ analytics.bwin.com
 analytics.comply.gig.com
 analytics.drift.trade
 analytics.gnosis.io
+analytics.go.com
 analytics.grandesloterias.com
 analytics.hardrock.com
 analytics.lnw.com

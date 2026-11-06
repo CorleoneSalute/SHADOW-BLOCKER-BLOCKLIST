@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10920
+# Total domains: 10921
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1595,6 +1595,7 @@
 0.0.0.0 analytics.glowing.com
 0.0.0.0 analytics.gnome.org
 0.0.0.0 analytics.gnosis.io
+0.0.0.0 analytics.go.com
 0.0.0.0 analytics.gobble.com
 0.0.0.0 analytics.gomlab.com
 0.0.0.0 analytics.gotinder.com

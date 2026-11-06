@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10442
+# Total domains: 10443
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1547,6 +1547,7 @@
 ||analytics.glowing.com^
 ||analytics.gnome.org^
 ||analytics.gnosis.io^
+||analytics.go.com^
 ||analytics.gobble.com^
 ||analytics.gomlab.com^
 ||analytics.gotinder.com^

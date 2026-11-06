@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 300
+# Total domains: 301
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -63,6 +63,7 @@
 0.0.0.0 analytics.comply.gig.com
 0.0.0.0 analytics.drift.trade
 0.0.0.0 analytics.gnosis.io
+0.0.0.0 analytics.go.com
 0.0.0.0 analytics.grandesloterias.com
 0.0.0.0 analytics.hardrock.com
 0.0.0.0 analytics.lnw.com
