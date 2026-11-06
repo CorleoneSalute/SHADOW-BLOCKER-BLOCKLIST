@@ -1230,6 +1230,7 @@ yscyadx072902.minigame.vip
 ```
 advertising.att.com
 analytics.att.com
+tracking.att.com
 metrics.att.com
 smetrics.directv.com
 xaaf-be-live.att.com
