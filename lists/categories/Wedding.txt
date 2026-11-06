@@ -8,6 +8,7 @@ analytics.theknot.com
 tracking.theknot.com
 metrics.theknot.com
 pixel.theknot.com
+adserver.theknot.com
 analytics.weddingwire.com
 tracking.weddingwire.com
 
