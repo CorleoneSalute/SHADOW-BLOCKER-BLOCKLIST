@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10933
+# Total domains: 10935
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9875,9 +9875,11 @@ tracking.ccleaner.com
 tracking.cently.com
 tracking.chanced.com
 tracking.chewy.com
+tracking.china.comms.dell.com
 tracking.cognitohq.com
 tracking.cohostpodcasting.com
 tracking.coinout.com
+tracking.comms.dell.com
 tracking.connexity.com
 tracking.couponcabin.com
 tracking.cp.ligatus.com

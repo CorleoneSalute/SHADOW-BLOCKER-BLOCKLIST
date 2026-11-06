@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10454
+# Total domains: 10456
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9445,9 +9445,11 @@
 0.0.0.0 tracking.cently.com
 0.0.0.0 tracking.chanced.com
 0.0.0.0 tracking.chewy.com
+0.0.0.0 tracking.china.comms.dell.com
 0.0.0.0 tracking.cognitohq.com
 0.0.0.0 tracking.cohostpodcasting.com
 0.0.0.0 tracking.coinout.com
+0.0.0.0 tracking.comms.dell.com
 0.0.0.0 tracking.connexity.com
 0.0.0.0 tracking.couponcabin.com
 0.0.0.0 tracking.cp.ligatus.com
