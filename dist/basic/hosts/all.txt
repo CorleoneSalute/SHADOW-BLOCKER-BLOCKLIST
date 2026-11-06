@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10452
+# Total domains: 10453
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8840,6 +8840,7 @@
 0.0.0.0 telemetry.altered.ai
 0.0.0.0 telemetry.amd.com
 0.0.0.0 telemetry.anydesk.com
+0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.apple.com
 0.0.0.0 telemetry.applovin.com

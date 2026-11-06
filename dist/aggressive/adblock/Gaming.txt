@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 87
+# Total domains: 88
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -65,6 +65,7 @@
 ||telemetry-api.rockstargames.com^
 ||telemetry-console.api.playstation.com^
 ||telemetry-in.battle.net^
+||telemetry.api.playstation.com^
 ||telemetry.artpipe.epicgames.com^
 ||telemetry.blacknut.com^
 ||telemetry.boosteroid.com^
