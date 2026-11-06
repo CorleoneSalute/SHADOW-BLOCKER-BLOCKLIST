@@ -56,6 +56,7 @@ analytics.komoot.com
 wcs.naver.com
 cologger.shopping.naver.com
 ad.search.naver.com
+ad.naver.com
 ads.naver.com
 analytics.naver.com
 localad.naver.com
