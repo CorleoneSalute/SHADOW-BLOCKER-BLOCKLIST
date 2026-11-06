@@ -1,7 +1,7 @@
 # PERIOD & REPRODUCTIVE HEALTH BLOCKLIST 
 
-# Total domains: 58
-# Last update: 2026/10/21
+# Total domains: 59
+# Last update: 2026/11/06
 # Note: trailing "!" marks a domain as aggressive-only
 
 # Flo Health

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10935
+# Total domains: 10936
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9890,6 +9890,7 @@
 ||tracking.dating.com^
 ||tracking.dowjones.com^
 ||tracking.effiliation.com^
+||tracking.ent.oviahealth.com^
 ||tracking.epicgames.com^
 ||tracking.es.orange.com^
 ||tracking.espn.com^
