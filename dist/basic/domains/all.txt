@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10447
+# Total domains: 10448
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4542,6 +4542,7 @@ forest.fyber.com
 formcomplete.zoominfo.com
 fortect.com
 forti.home.brightdata.com
+fp-analytics.hotstar.com
 fp-api.data.sandbox.game
 fp-br.ggpoker.com
 fp-metrics.shuftipro.com

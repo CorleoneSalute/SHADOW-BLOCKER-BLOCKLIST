@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 429
+# Total domains: 430
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -202,6 +202,7 @@
 0.0.0.0 experiments.disneyplus.com
 0.0.0.0 experiments.hulu.com
 0.0.0.0 experiments.netflix.com
+0.0.0.0 fp-analytics.hotstar.com
 0.0.0.0 gallery-metrics.api.brightcove.com
 0.0.0.0 games.analytics.netflix.net
 0.0.0.0 geo.justwatch.com

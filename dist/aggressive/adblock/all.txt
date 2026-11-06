@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10925
+# Total domains: 10926
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4723,6 +4723,7 @@
 ||forter.com^
 ||forter.net^
 ||forti.home.brightdata.com^
+||fp-analytics.hotstar.com^
 ||fp-api.data.sandbox.game^
 ||fp-br.ggpoker.com^
 ||fp-metrics.shuftipro.com^

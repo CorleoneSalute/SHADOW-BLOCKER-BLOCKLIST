@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 385
+# Total domains: 386
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -188,6 +188,7 @@
 0.0.0.0 events.mux.com
 0.0.0.0 experience.conviva.com
 0.0.0.0 experience.piano.io
+0.0.0.0 fp-analytics.hotstar.com
 0.0.0.0 gallery-metrics.api.brightcove.com
 0.0.0.0 games.analytics.netflix.net
 0.0.0.0 geo.justwatch.com
