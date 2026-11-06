@@ -12,6 +12,7 @@ adsmanager.truecaller.com
 advertisers.truecaller.com
 ads-segment-profile-eu.truecaller.com
 metis.truecaller.com
+batchlogging4.truecaller.com
 
 # Truecaller + GetContact 
 pbssrv-centralevents.com
