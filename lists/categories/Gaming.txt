@@ -31,9 +31,9 @@ metrics.ea.com
 errorservice.metrics.ea.com
 
 # UBISOFT CONNECT
-# Kaynak: "Telemetry" bölümü
 orbit-telemetry.ubi.com
 smetrics.ubi.com
+clk.ubi.com
 
 # ROCKSTAR GAMES
 telemetry.rockstargames.com
