@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10429
+# Total domains: 10430
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -691,6 +691,7 @@ ads.samsung.com
 ads.samsungads.com
 ads.samsungapps.com
 ads.sharethrough.com
+ads.shorte.st
 ads.sisal.it
 ads.slidebean.com
 ads.snap.com

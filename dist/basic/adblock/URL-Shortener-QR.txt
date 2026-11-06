@@ -1,6 +1,6 @@
 # ============================================================
 # URL SHORTENER QR BLOCKLIST - BASIC
-# Total domains: 275
+# Total domains: 276
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -15,6 +15,7 @@
 ||adf.ly^
 ||ads-preview.linkvertise.com^
 ||ads.rebrandly.com^
+||ads.shorte.st^
 ||ads.tinu.be^
 ||adult.xyz^
 ||advertiser.linkvertise.com^
