@@ -47,6 +47,7 @@ smetrics.pandora.com
 # TuneIn
 event.platform.tunein.com
 reports.tunein.com
+ads.tunein.com
 ad-impression.streamguys1.com
 ad-server01.streamguys1.com
 ad-server02.streamguys1.com
