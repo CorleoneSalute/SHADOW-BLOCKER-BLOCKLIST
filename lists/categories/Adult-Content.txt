@@ -131,6 +131,7 @@ xmetrics.camsoda.com
 performers-origin.cam4.com
 performers.cam4.com
 track.cam4.com
+cdnads.cam4.com
 
 # ImLive
 
