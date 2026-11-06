@@ -357,6 +357,7 @@ ads.hotstar.com
 ad-analytics.hotstar.com
 events-analytics.hotstar.com
 settings-analytics.hotstar.com
+fp-analytics.hotstar.com
 analytics.zee5.com
 metrics.zee5.com
 video-analytics.zee5.com
