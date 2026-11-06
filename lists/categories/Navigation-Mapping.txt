@@ -58,6 +58,7 @@ cologger.shopping.naver.com
 ad.search.naver.com
 ad.naver.com
 ads.naver.com
+adcreative.naver.com
 analytics.naver.com
 localad.naver.com
 searchad.naver.com
