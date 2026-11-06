@@ -81,6 +81,7 @@ analytics.cms.avira.com
 
 # MALWAREBYTES
 telemetry.malwarebytes.com
+stats.malwarebytes.com !
 
 # SOPHOS
 sftelemetry.sophos.com
