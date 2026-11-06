@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10445
+# Total domains: 10446
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3147,6 +3147,7 @@
 ||cdn77.sportsthread.com^
 ||cdn77.thespike.gg^
 ||cdn77.v1.oddsserve.com^
+||cdnads.cam4.com^
 ||cdnclicktale.com^
 ||cdnrep.reimage.com^
 ||cdnrep.reimageplus.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - AGGRESSIVE
-# Total domains: 90
+# Total domains: 91
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -43,6 +43,7 @@
 0.0.0.0 banners.watchporn.to
 0.0.0.0 beta-ads.sankakucomplex.com
 0.0.0.0 c.sankakucomplex.com
+0.0.0.0 cdnads.cam4.com
 0.0.0.0 chat-metrics.ord.myfreecams.com
 0.0.0.0 click2.javhd.com
 0.0.0.0 collector.fap.house

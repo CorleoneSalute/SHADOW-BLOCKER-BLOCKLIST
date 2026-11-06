@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 82
+# Total domains: 83
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -41,6 +41,7 @@
 ||banners.watchporn.to^
 ||beta-ads.sankakucomplex.com^
 ||c.sankakucomplex.com^
+||cdnads.cam4.com^
 ||chat-metrics.ord.myfreecams.com^
 ||collector.fap.house^
 ||collector.faphouse.com^

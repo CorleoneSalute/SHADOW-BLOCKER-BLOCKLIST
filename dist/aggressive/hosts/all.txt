@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10923
+# Total domains: 10924
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3238,6 +3238,7 @@
 0.0.0.0 cdn77.sportsthread.com
 0.0.0.0 cdn77.thespike.gg
 0.0.0.0 cdn77.v1.oddsserve.com
+0.0.0.0 cdnads.cam4.com
 0.0.0.0 cdnclicktale.com
 0.0.0.0 cdnrep.reimage.com
 0.0.0.0 cdnrep.reimageplus.com
