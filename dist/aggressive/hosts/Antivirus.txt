@@ -1,6 +1,6 @@
 # ============================================================
 # ANTIVIRUS BLOCKLIST - AGGRESSIVE
-# Total domains: 74
+# Total domains: 75
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -61,6 +61,7 @@
 0.0.0.0 stats.avira.com
 0.0.0.0 stats.bitdefender.com
 0.0.0.0 stats.kaspersky.com
+0.0.0.0 stats.malwarebytes.com
 0.0.0.0 stats.mcafee.com
 0.0.0.0 stats.norton.com
 0.0.0.0 sysreset.stat.360safe.com

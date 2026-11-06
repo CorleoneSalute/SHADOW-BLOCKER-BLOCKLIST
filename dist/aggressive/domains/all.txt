@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10930
+# Total domains: 10931
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8937,6 +8937,7 @@ stats.kaspersky.com
 stats.libsyn.com
 stats.looksrare.org
 stats.magiceden.io
+stats.malwarebytes.com
 stats.mcafee.com
 stats.mealime.com
 stats.megawinslots.com
