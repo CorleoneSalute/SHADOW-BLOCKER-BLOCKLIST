@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 83
+# Total domains: 84
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -83,6 +83,7 @@
 0.0.0.0 sentry.cams.run
 0.0.0.0 sqlmetrics.ord.myfreecams.com
 0.0.0.0 track.cam4.com
+0.0.0.0 track.shemale-club.com
 0.0.0.0 trk.account.stripchat.com
 0.0.0.0 trk.bellesa.co
 0.0.0.0 trk.notify.stripchat.com

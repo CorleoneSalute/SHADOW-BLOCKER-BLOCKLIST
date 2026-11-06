@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - AGGRESSIVE
-# Total domains: 91
+# Total domains: 92
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -91,6 +91,7 @@
 0.0.0.0 stripchat.global
 0.0.0.0 stripchat.net
 0.0.0.0 track.cam4.com
+0.0.0.0 track.shemale-club.com
 0.0.0.0 trk.account.stripchat.com
 0.0.0.0 trk.bellesa.co
 0.0.0.0 trk.notify.stripchat.com

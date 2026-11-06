@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10458
+# Total domains: 10459
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9334,6 +9334,7 @@
 0.0.0.0 track.romanticai.com
 0.0.0.0 track.salt.security
 0.0.0.0 track.selectmedia.asia
+0.0.0.0 track.shemale-club.com
 0.0.0.0 track.smaato.net
 0.0.0.0 track.solvhealth.com
 0.0.0.0 track.sonobi.com

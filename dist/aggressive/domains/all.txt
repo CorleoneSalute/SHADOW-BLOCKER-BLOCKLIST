@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10937
+# Total domains: 10938
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9763,6 +9763,7 @@ track.risk.lexisnexis.com
 track.romanticai.com
 track.salt.security
 track.selectmedia.asia
+track.shemale-club.com
 track.smaato.net
 track.solvhealth.com
 track.sonobi.com
