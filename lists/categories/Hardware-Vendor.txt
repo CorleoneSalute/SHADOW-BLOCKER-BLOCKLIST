@@ -111,6 +111,7 @@ metrics.ols.us.dell.com
 metrix.ols.us.dell.com
 tracking.comms.dell.com
 tracking.china.comms.dell.com
+trck.com-sit.dell.com
 
 # HP Telemetry / OMEN Hub
 metrics.hp.com
