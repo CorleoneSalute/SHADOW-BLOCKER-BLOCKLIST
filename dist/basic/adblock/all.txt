@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10450
+# Total domains: 10451
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6509,6 +6509,7 @@
 ||ms-ads.trafficguard.ai^
 ||ms.applovin.com^
 ||ms.dzen.ru^
+||ms.yandex.ru^
 ||ms4.applovin.com^
 ||msgdc.admaster.cc^
 ||mspfee.com^

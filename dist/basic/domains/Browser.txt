@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 359
+# Total domains: 360
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -252,6 +252,7 @@ mobmetrika.yandex.com
 mobmetrika.yandex.com.tr
 mockup.ads.brave.com
 ms.dzen.ru
+ms.yandex.ru
 mtj.baidu.com
 mywallet.ads.bravesoftware.com
 nadvideo2.baidu.com

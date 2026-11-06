@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10928
+# Total domains: 10929
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6787,6 +6787,7 @@
 0.0.0.0 ms-ads.trafficguard.ai
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms.dzen.ru
+0.0.0.0 ms.yandex.ru
 0.0.0.0 ms4.applovin.com
 0.0.0.0 msc-dct-prod.msc.apple.com
 0.0.0.0 msgdc.admaster.cc
