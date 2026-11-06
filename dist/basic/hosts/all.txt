@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10443
+# Total domains: 10444
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2668,6 +2668,7 @@
 0.0.0.0 bard-telemetry.google.com
 0.0.0.0 bat.bing.com
 0.0.0.0 batch.datax.yahoo.com
+0.0.0.0 batchlogging4.truecaller.com
 0.0.0.0 battleate.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bcp.st.crwdcntrl.net

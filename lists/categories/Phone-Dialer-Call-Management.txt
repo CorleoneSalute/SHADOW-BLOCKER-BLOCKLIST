@@ -1,7 +1,7 @@
 # PHONE DIALER & CALL MANAGEMENT BLOCKLIST 
 
-# Total domains: 14
-# Last update: 2026/10/30
+# Total domains: 15
+# Last update: 2026/11/06
 # Note: trailing "!" marks a domain as aggressive-only
 
 # Truecaller

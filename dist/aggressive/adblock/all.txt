@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10921
+# Total domains: 10922
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2737,6 +2737,7 @@
 ||bard-telemetry.google.com^
 ||bat.bing.com^
 ||batch.datax.yahoo.com^
+||batchlogging4.truecaller.com^
 ||battleate.com^
 ||bcp.crwdcntrl.net^
 ||bcp.st.crwdcntrl.net^
