@@ -1,6 +1,6 @@
 # PHONE DIALER & CALL MANAGEMENT BLOCKLIST 
 
-# Total domains: 15
+# Total domains: 16
 # Last update: 2026/11/06
 # Note: trailing "!" marks a domain as aggressive-only
 

@@ -1,6 +1,6 @@
 # ============================================================
 # PHONE DIALER CALL MANAGEMENT BLOCKLIST - BASIC
-# Total domains: 15
+# Total domains: 16
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -16,6 +16,7 @@
 0.0.0.0 kibana-log.cleverdialer.com
 0.0.0.0 logs.eyecon-app.com
 0.0.0.0 metis.truecaller.com
+0.0.0.0 mobileads.bharatiyamobile.com
 0.0.0.0 pbssrv-centralevents.com
 0.0.0.0 sentry.sync.me
 0.0.0.0 sentry2.sync.me

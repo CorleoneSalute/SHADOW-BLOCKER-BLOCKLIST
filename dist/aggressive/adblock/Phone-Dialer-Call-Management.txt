@@ -1,6 +1,6 @@
 # ============================================================
 # PHONE DIALER CALL MANAGEMENT BLOCKLIST - AGGRESSIVE
-# Total domains: 15
+# Total domains: 16
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -16,6 +16,7 @@
 ||kibana-log.cleverdialer.com^
 ||logs.eyecon-app.com^
 ||metis.truecaller.com^
+||mobileads.bharatiyamobile.com^
 ||pbssrv-centralevents.com^
 ||sentry.sync.me^
 ||sentry2.sync.me^

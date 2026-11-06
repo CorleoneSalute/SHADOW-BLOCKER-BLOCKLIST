@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10922
+# Total domains: 10923
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6676,6 +6676,7 @@
 0.0.0.0 mobile.logs.roku.com
 0.0.0.0 mobile.outbrain.com
 0.0.0.0 mobile.zetaglobal.com
+0.0.0.0 mobileads.bharatiyamobile.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobilefeedback.twitter.com
 0.0.0.0 mobilelogs.supersonic.com
