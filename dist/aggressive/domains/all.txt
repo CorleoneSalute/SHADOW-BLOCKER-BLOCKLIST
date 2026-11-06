@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10919
+# Total domains: 10920
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -974,6 +974,7 @@ advancedpasswordmanager.com
 advancedpccleanup.com
 advancedsystemoptimizer.com
 advancemactools.live
+advert.uloz.to
 advertape.net
 advertice.in
 advertise.myspace.com

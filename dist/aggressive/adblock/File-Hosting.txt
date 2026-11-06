@@ -1,6 +1,6 @@
 # ============================================================
 # FILE HOSTING BLOCKLIST - AGGRESSIVE
-# Total domains: 55
+# Total domains: 56
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -12,6 +12,7 @@
 ||ads.cdnvideo.ru^
 ||ads.fappic.com^
 ||ads.imagevenue.com^
+||advert.uloz.to^
 ||advertape.net^
 ||advertisertape.com^
 ||analytics.filefactory.com^

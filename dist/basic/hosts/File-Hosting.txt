@@ -1,6 +1,6 @@
 # ============================================================
 # FILE HOSTING BLOCKLIST - BASIC
-# Total domains: 53
+# Total domains: 54
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -12,6 +12,7 @@
 0.0.0.0 ads.cdnvideo.ru
 0.0.0.0 ads.fappic.com
 0.0.0.0 ads.imagevenue.com
+0.0.0.0 advert.uloz.to
 0.0.0.0 advertape.net
 0.0.0.0 advertisertape.com
 0.0.0.0 analytics.filefactory.com
