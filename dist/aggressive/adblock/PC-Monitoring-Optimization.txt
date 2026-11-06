@@ -1,10 +1,11 @@
 # ============================================================
 # PC MONITORING OPTIMIZATION BLOCKLIST - AGGRESSIVE
-# Total domains: 285
-# Generated: 2026-11-04 (UTC) - auto-generated, do not edit by hand
+# Total domains: 286
+# Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+||a8clk.macpaw.com^
 ||account.fortect.com^
 ||account.kromtech.net^
 ||accountportal.driversupport.com^

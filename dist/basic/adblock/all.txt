@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10426
-# Generated: 2026-11-04 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10427
+# Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -75,6 +75,7 @@
 ||a4.analytics.intel.com^
 ||a4.applovin.com^
 ||a5.analytics.intel.com^
+||a8clk.macpaw.com^
 ||a8clk.www.italki.com^
 ||aads.com^
 ||aax-eu.amazon-adsystem.com^
