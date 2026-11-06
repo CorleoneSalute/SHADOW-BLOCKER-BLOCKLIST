@@ -178,6 +178,7 @@ samsungads.adsmeasurement.com
 samsungafrica.demdex.net
 samsungafrica.tt.omtrdc.net
 samsungau.api.useinsider.com
+mobileanalytics.useinsider.com
 samsungau.demdex.net
 samsungbenelux.tt.omtrdc.net
 samsungbrazil.demdex.net
