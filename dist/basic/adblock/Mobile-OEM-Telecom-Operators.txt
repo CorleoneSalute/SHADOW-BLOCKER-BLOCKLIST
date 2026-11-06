@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1085
+# Total domains: 1086
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1007,6 +1007,7 @@
 ||tracking-adnet.vivo.com.cn^
 ||tracking.americas.business.samsung.com^
 ||tracking.apac.business.samsung.com^
+||tracking.att.com^
 ||tracking.browser.miui.com^
 ||tracking.es.orange.com^
 ||tracking.eu.miui.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10453
+# Total domains: 10454
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9422,6 +9422,7 @@
 0.0.0.0 tracking.api.cj.com
 0.0.0.0 tracking.appmetrica.yango.com
 0.0.0.0 tracking.appsflyer.com
+0.0.0.0 tracking.att.com
 0.0.0.0 tracking.avangate.net
 0.0.0.0 tracking.avantlink.com
 0.0.0.0 tracking.avast.com

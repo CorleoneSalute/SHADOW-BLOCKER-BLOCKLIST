@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1135
+# Total domains: 1136
 # Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1053,6 +1053,7 @@ trackerfeed.ddxq.mobi
 tracking-adnet.vivo.com.cn
 tracking.americas.business.samsung.com
 tracking.apac.business.samsung.com
+tracking.att.com
 tracking.browser.miui.com
 tracking.es.orange.com
 tracking.eu.miui.com
