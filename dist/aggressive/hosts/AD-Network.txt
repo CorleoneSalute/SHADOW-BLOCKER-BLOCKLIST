@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2381
-# Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2416
+# Generated: 2026-11-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -75,6 +75,7 @@
 0.0.0.0 ad.geniee.co.jp
 0.0.0.0 ad.ink
 0.0.0.0 ad.inner-active.com
+0.0.0.0 ad.iq
 0.0.0.0 ad.plus
 0.0.0.0 ad.smaato.net
 0.0.0.0 ad.yieldlab.net
@@ -84,6 +85,7 @@
 0.0.0.0 ad132m.com
 0.0.0.0 ad1data.com
 0.0.0.0 ad7.biz
+0.0.0.0 adadapted.com
 0.0.0.0 adap.tv
 0.0.0.0 adapace.com
 0.0.0.0 adapace.live
@@ -105,6 +107,7 @@
 0.0.0.0 addboost360.com
 0.0.0.0 addynamo.com
 0.0.0.0 adeeply.ru
+0.0.0.0 adelement.com
 0.0.0.0 adelphic.com
 0.0.0.0 adex2.fwmrm.net
 0.0.0.0 adexp.net
@@ -124,6 +127,7 @@
 0.0.0.0 adiant.com
 0.0.0.0 adinjector.net
 0.0.0.0 adinmo.com
+0.0.0.0 adintend.com
 0.0.0.0 adition.com
 0.0.0.0 adjust.applovin.com
 0.0.0.0 adksrv.com
@@ -141,6 +145,7 @@
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 admagnet.agency
 0.0.0.0 admaster.cc
+0.0.0.0 admaster.co
 0.0.0.0 admaster.com.cn
 0.0.0.0 admaven.com
 0.0.0.0 admedia.com
@@ -158,6 +163,7 @@
 0.0.0.0 admob.com
 0.0.0.0 admob.google.com
 0.0.0.0 admob.googleapis.com
+0.0.0.0 adnatus.com
 0.0.0.0 adnexusmarketing.com
 0.0.0.0 adnow.com
 0.0.0.0 adnow.one
@@ -168,6 +174,8 @@
 0.0.0.0 adplayer.pro
 0.0.0.0 adplify.com
 0.0.0.0 adpopcorn.com
+0.0.0.0 adportal.io
+0.0.0.0 adportal.net
 0.0.0.0 adportonic.com
 0.0.0.0 adprime.com
 0.0.0.0 adprimehealth.com
@@ -278,6 +286,7 @@
 0.0.0.0 adspace.adskeeper.com
 0.0.0.0 adspirit.de
 0.0.0.0 adspirit.net
+0.0.0.0 adsplay.in
 0.0.0.0 adspostx.com
 0.0.0.0 adspro.name
 0.0.0.0 adsrevenue.com
@@ -294,9 +303,11 @@
 0.0.0.0 adswad.com
 0.0.0.0 adswizz.com
 0.0.0.0 adtapmedia.com
+0.0.0.0 adtec.ru
 0.0.0.0 adtech.de
 0.0.0.0 adtelligent.com
 0.0.0.0 adthink.com
+0.0.0.0 adtpix.com
 0.0.0.0 adtracker.inmobi.com
 0.0.0.0 adtrck.cc
 0.0.0.0 adtrck.com
@@ -306,6 +317,7 @@
 0.0.0.0 adtrck.pro
 0.0.0.0 adtryx.com
 0.0.0.0 adup-tech.com
+0.0.0.0 advads.net
 0.0.0.0 advertice.in
 0.0.0.0 advertise.quantcast.com
 0.0.0.0 advertiser-api.revcontent.com
@@ -315,8 +327,11 @@
 0.0.0.0 advertstream.com
 0.0.0.0 advoxel.com
 0.0.0.0 advservert.com
+0.0.0.0 adwatch.in
+0.0.0.0 adwatchmedia.com
 0.0.0.0 adweb.gr
 0.0.0.0 adwidecenter.com
+0.0.0.0 adwiser.kr
 0.0.0.0 adwoox.com
 0.0.0.0 adx.adform.net
 0.0.0.0 adx2.adform.net
@@ -613,6 +628,8 @@
 0.0.0.0 audiences.seedtag.com
 0.0.0.0 audiomax.adswizz.com
 0.0.0.0 auth.connectad.io
+0.0.0.0 avads.ai
+0.0.0.0 avads.net
 0.0.0.0 awmads.com
 0.0.0.0 axon.ai
 0.0.0.0 azad.adsrvr.org
@@ -855,6 +872,7 @@
 0.0.0.0 cm.mgid.com
 0.0.0.0 cm2.adform.net
 0.0.0.0 cms.analytics.yahoo.com
+0.0.0.0 cobaltads.com
 0.0.0.0 cocounion.com
 0.0.0.0 commerce.sovrn.com
 0.0.0.0 companinons.site
@@ -875,6 +893,7 @@
 0.0.0.0 content.ad
 0.0.0.0 content.yieldmo.com
 0.0.0.0 contentnet.adblade.com
+0.0.0.0 contextuad.com
 0.0.0.0 contextual.media.net
 0.0.0.0 contextweb.com
 0.0.0.0 controlium.net
@@ -887,6 +906,7 @@
 0.0.0.0 cookie-sync.xyz
 0.0.0.0 cookiesurfer.com
 0.0.0.0 cool.co
+0.0.0.0 counciladvertising.net
 0.0.0.0 cpa.adcolony.com
 0.0.0.0 cpa.adhit.com
 0.0.0.0 cpmmax.site
@@ -1163,6 +1183,7 @@
 0.0.0.0 growads.net
 0.0.0.0 growadvertising.com
 0.0.0.0 growadvertising.io
+0.0.0.0 growua.com
 0.0.0.0 gsspat.jp
 0.0.0.0 gt-pixel-prod.groundtruth.com
 0.0.0.0 gtm.taboola.com
@@ -1345,6 +1366,7 @@
 0.0.0.0 lax1-ib.adnxs.com
 0.0.0.0 lekkerads.com
 0.0.0.0 lekkerads.nl
+0.0.0.0 letmeads.com
 0.0.0.0 lexicon.33across.com
 0.0.0.0 liftoff.ai
 0.0.0.0 liftoff.io
@@ -1697,9 +1719,12 @@
 0.0.0.0 redcarpat.com
 0.0.0.0 redirect.applovin.com
 0.0.0.0 redirect.ligatus.com
+0.0.0.0 referrer.club
 0.0.0.0 reindaks.com
 0.0.0.0 reinderk.com
 0.0.0.0 reingod.com
+0.0.0.0 reklammobi.com
+0.0.0.0 reklamvidi.com
 0.0.0.0 remerge.io
 0.0.0.0 remindmewhere.app
 0.0.0.0 rendfy.com
@@ -1723,6 +1748,7 @@
 0.0.0.0 rfihub.net
 0.0.0.0 rhythmone.com
 0.0.0.0 risecodes.com
+0.0.0.0 rklmstr.com
 0.0.0.0 rmediaads.com
 0.0.0.0 rmp-api.moloco.com
 0.0.0.0 rmp-cdn.moloco.com
@@ -1867,6 +1893,8 @@
 0.0.0.0 skyadsmart.com
 0.0.0.0 slashis.com
 0.0.0.0 slinkway.com
+0.0.0.0 smaad.jp
+0.0.0.0 smaad.net
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
 0.0.0.0 smadex.com
@@ -1878,6 +1906,7 @@
 0.0.0.0 smartadserver.net
 0.0.0.0 smartclip.net
 0.0.0.0 smartclip.tv
+0.0.0.0 smartnews-ads.com
 0.0.0.0 smartyads.com
 0.0.0.0 snapmobile.asia
 0.0.0.0 snapmobile.hk
@@ -1890,6 +1919,9 @@
 0.0.0.0 sp1.convertro.com
 0.0.0.0 speakol.com
 0.0.0.0 sportekz.com
+0.0.0.0 sportradar.com
+0.0.0.0 sportradar.us
+0.0.0.0 sportradarserving.com
 0.0.0.0 spotx.tv
 0.0.0.0 spotxcdn.com
 0.0.0.0 spotxchange.com
@@ -1901,6 +1933,7 @@
 0.0.0.0 ssbsync.smartadserver.com
 0.0.0.0 ssc.33across.com
 0.0.0.0 sslwidget.criteo.com
+0.0.0.0 ssmaad.net
 0.0.0.0 ssp-bidder.criteo.net
 0.0.0.0 ssp-sync.bfmio.com
 0.0.0.0 ssp-sync.criteo.com
@@ -2037,6 +2070,7 @@
 0.0.0.0 tenxads.com
 0.0.0.0 test.admixer.co.kr
 0.0.0.0 theadexp.com
+0.0.0.0 theadwatch.com
 0.0.0.0 thecoolcompany.com
 0.0.0.0 theroswaf.com
 0.0.0.0 thetradedesk.com
@@ -2181,6 +2215,7 @@
 0.0.0.0 usersync.triplelift.com
 0.0.0.0 usms.taboola.com
 0.0.0.0 usr.undertone.com
+0.0.0.0 ust-ad.com
 0.0.0.0 usw-ca2.adsrvr.org
 0.0.0.0 usw-lax.adsrvr.org
 0.0.0.0 usw.unrulymedia.com

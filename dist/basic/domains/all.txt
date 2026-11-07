@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10459
-# Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10494
+# Generated: 2026-11-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -250,6 +250,7 @@ ad.inner-active.com
 ad.intl.xiaomi.com
 ad.intl.xiaomi.com.edgesuite.net
 ad.intl.xiaomi.com.ksyna.net
+ad.iq
 ad.javmost.com
 ad.jp.dell.com
 ad.lgappstv.com
@@ -313,6 +314,7 @@ ad7.biz
 ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
 ada.baidu.com
+adadapted.com
 adap.tv
 adapace.com
 adapace.live
@@ -353,6 +355,7 @@ addboost360.com
 addoncrop.com
 addynamo.com
 adeeply.ru
+adelement.com
 adelphic.com
 adeventtracker.spotify.com
 adex2.fwmrm.net
@@ -387,6 +390,7 @@ adinfo.ra1.xlmc.sec.miui.com
 adinjector.net
 adinmo.com
 adinsights.netflix.net
+adintend.com
 adition.com
 adjust.applovin.com
 adjust.flo.health
@@ -416,6 +420,7 @@ admanager.yahoo.com
 admanagerplus.yahoo.com
 admarketing.yahoo.net
 admaster.cc
+admaster.co
 admaster.com.cn
 admaven.com
 admedia.com
@@ -442,6 +447,7 @@ admob.gpapps.com
 admon-api.acr.roku.com
 admon.acr.roku.com
 admon.ca.acr.roku.com
+adnatus.com
 adnextmedia.com
 adnextmedia.net
 adnexusmarketing.com
@@ -466,6 +472,8 @@ adplatform.apple.com
 adplayer.pro
 adplify.com
 adpopcorn.com
+adportal.io
+adportal.net
 adportonic.com
 adprime.com
 adprimehealth.com
@@ -885,6 +893,7 @@ adspecs.oath.com
 adspecs.yahoo.com
 adspirit.de
 adspirit.net
+adsplay.in
 adspostx.com
 adspro.name
 adsquare.com
@@ -908,9 +917,11 @@ adswizz.com
 adsymptotic.com
 adsync.vodafone.com.eg
 adtapmedia.com
+adtec.ru
 adtech.de
 adtelligent.com
 adthink.com
+adtpix.com
 adtracker.inmobi.com
 adtrck.cc
 adtrck.com
@@ -926,6 +937,7 @@ adup-tech.com
 adv.l7.34.sec.miui.com
 adv.sec.intl.miui.com
 adv.sec.miui.com
+advads.net
 advanalytics.underarmour.com
 advanced-mac-cleaner.com
 advancedmactools.com
@@ -981,10 +993,13 @@ advilapsoutheast1.waze.com
 advisor-analytics.ouraring.com
 advoxel.com
 advservert.com
+adwatch.in
+adwatchmedia.com
 adwbs.ximalaya.com
 adweb.gr
 adweb.ximalaya.com
 adwidecenter.com
+adwiser.kr
 adwoox.com
 adx-ads-fr.heytapmobile.com
 adx-ads-ru.heytapmobile.com
@@ -2590,6 +2605,8 @@ audiorella-data.com
 ausdimetrics.aus.amer.dell.com
 austin.logs.roku.com
 auth.connectad.io
+avads.ai
+avads.net
 avantmetrics.com
 avhk-test.brdtnet.com
 avhk-test2.brdtnet.com
@@ -3325,6 +3342,7 @@ co-ort-stsdk.vivoglobal.com
 co-pnrt-stsdk.vivoglobal.com
 co-st-sl.vivoglobal.com
 co-stsdk.vivoglobal.com
+cobaltads.com
 cocounion.com
 codemetrics.springernature.com
 coginator.com
@@ -3493,6 +3511,7 @@ contentad.baidu.com
 contentnet.adblade.com
 contentsquare.com
 contentsquare.net
+contextuad.com
 contextual.media.net
 contextualads.yahoo.net
 contextweb.com
@@ -3533,6 +3552,7 @@ coremetrics-usw2.apple.com
 coremetrics.apple.com
 corplcms-ads-int-prn.apple.com
 corplcms-ads-int-sgp.apple.com
+counciladvertising.net
 covid19-feedbackws.icloud.com
 cowner.net
 cpa.adcolony.com
@@ -4777,6 +4797,7 @@ groundtruth.com
 growads.net
 growadvertising.com
 growadvertising.io
+growua.com
 grs.dbankcloud.asia
 grs.dbankcloud.cn
 grs.dbankcloud.com
@@ -5377,6 +5398,7 @@ legeerook.com
 lekkerads.com
 lekkerads.nl
 lesbiemates.com
+letmeads.com
 lexicon.33across.com
 lf16-adsformat-sign.tiktokcdn.com
 lf19-adsformat-sign.tiktokcdn.com
@@ -7433,6 +7455,7 @@ redirect.applovin.com
 redirect.ligatus.com
 redirect.pandora.xiaomi.com
 reengagement.remerge.io
+referrer.club
 regcleanpro.com
 regcure.com
 regecish.net
@@ -7456,6 +7479,8 @@ reinderk.com
 reingod.com
 reklam.yandex.com.tr
 reklama.yandex.com
+reklammobi.com
+reklamvidi.com
 relay.flo.health
 relay.fullstory.com
 remerge.io
@@ -7525,6 +7550,7 @@ rightmedia.criteo.com
 ringcentral.112.2o7.net
 risecodes.com
 rkhbxm26.topazlabs.com
+rklmstr.com
 rmediaads.com
 rmmetrics.mcafee.com
 rmp-api.moloco.com
@@ -8238,6 +8264,8 @@ slog.sina.com.cn
 sls-telemetry.sophosupd.com
 sluppend.com
 slutthour.com
+smaad.jp
+smaad.net
 smaato.com
 smaato.net
 smadex.com
@@ -8253,6 +8281,7 @@ smartclip.tv
 smartlook.cloud
 smartlook.com
 smartmacbooster.com
+smartnews-ads.com
 smartplugin.youbora.com
 smartyads.com
 smeartha.com
@@ -8350,6 +8379,9 @@ spicydesires.com
 spicymeetings.com
 splunk-analytics.accertify.com
 sportekz.com
+sportradar.com
+sportradar.us
+sportradarserving.com
 sports-analytics.paramountplus.com
 sports-analytics.peacocktv.com
 sports-metrics.espn.com
@@ -8379,6 +8411,7 @@ ssl2.cdngc.net
 sslanalytics.sixt.com
 sslcs.cdngc.net
 sslwidget.criteo.com
+ssmaad.net
 ssp-adx.ads.heytapmobi.com
 ssp-bidder.criteo.net
 ssp-sync.bfmio.com
@@ -9060,6 +9093,7 @@ test.admixer.co.kr
 test.samsungrm.net
 test0ads.anura.io
 theadexp.com
+theadwatch.com
 thecoolcompany.com
 thecyberprotector.com
 theroswaf.com
@@ -9895,6 +9929,7 @@ usms.taboola.com
 uspider.yuanshen.com
 usr.navdmp.com
 usr.undertone.com
+ust-ad.com
 ustechsupport.com
 usw-ca2.adsrvr.org
 usw-lax.adsrvr.org

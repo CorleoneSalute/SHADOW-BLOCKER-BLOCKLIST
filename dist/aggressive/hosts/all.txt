@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10938
-# Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10973
+# Generated: 2026-11-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -268,6 +268,7 @@
 0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 ad.intl.xiaomi.com.edgesuite.net
 0.0.0.0 ad.intl.xiaomi.com.ksyna.net
+0.0.0.0 ad.iq
 0.0.0.0 ad.javmost.com
 0.0.0.0 ad.jp.dell.com
 0.0.0.0 ad.lgappstv.com
@@ -331,6 +332,7 @@
 0.0.0.0 ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
 0.0.0.0 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
 0.0.0.0 ada.baidu.com
+0.0.0.0 adadapted.com
 0.0.0.0 adap.tv
 0.0.0.0 adapace.com
 0.0.0.0 adapace.live
@@ -373,6 +375,7 @@
 0.0.0.0 addoncrop.com
 0.0.0.0 addynamo.com
 0.0.0.0 adeeply.ru
+0.0.0.0 adelement.com
 0.0.0.0 adelphic.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adex2.fwmrm.net
@@ -407,6 +410,7 @@
 0.0.0.0 adinjector.net
 0.0.0.0 adinmo.com
 0.0.0.0 adinsights.netflix.net
+0.0.0.0 adintend.com
 0.0.0.0 adition.com
 0.0.0.0 adjust.applovin.com
 0.0.0.0 adjust.flo.health
@@ -437,6 +441,7 @@
 0.0.0.0 admanagerplus.yahoo.com
 0.0.0.0 admarketing.yahoo.net
 0.0.0.0 admaster.cc
+0.0.0.0 admaster.co
 0.0.0.0 admaster.com.cn
 0.0.0.0 admaven.com
 0.0.0.0 admedia.com
@@ -464,6 +469,7 @@
 0.0.0.0 admon.acr.roku.com
 0.0.0.0 admon.ca.acr.roku.com
 0.0.0.0 admylink.com
+0.0.0.0 adnatus.com
 0.0.0.0 adnextmedia.com
 0.0.0.0 adnextmedia.net
 0.0.0.0 adnexusmarketing.com
@@ -489,6 +495,8 @@
 0.0.0.0 adplayer.pro
 0.0.0.0 adplify.com
 0.0.0.0 adpopcorn.com
+0.0.0.0 adportal.io
+0.0.0.0 adportal.net
 0.0.0.0 adportonic.com
 0.0.0.0 adprime.com
 0.0.0.0 adprimehealth.com
@@ -923,6 +931,7 @@
 0.0.0.0 adspecs.yahoo.com
 0.0.0.0 adspirit.de
 0.0.0.0 adspirit.net
+0.0.0.0 adsplay.in
 0.0.0.0 adspostx.com
 0.0.0.0 adspro.name
 0.0.0.0 adsquare.com
@@ -948,9 +957,11 @@
 0.0.0.0 adsymptotic.com
 0.0.0.0 adsync.vodafone.com.eg
 0.0.0.0 adtapmedia.com
+0.0.0.0 adtec.ru
 0.0.0.0 adtech.de
 0.0.0.0 adtelligent.com
 0.0.0.0 adthink.com
+0.0.0.0 adtpix.com
 0.0.0.0 adtracker.inmobi.com
 0.0.0.0 adtrck.cc
 0.0.0.0 adtrck.com
@@ -966,6 +977,7 @@
 0.0.0.0 adv.l7.34.sec.miui.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
+0.0.0.0 advads.net
 0.0.0.0 advanalytics.underarmour.com
 0.0.0.0 advanced-mac-cleaner.com
 0.0.0.0 advancedmactools.com
@@ -1023,10 +1035,13 @@
 0.0.0.0 advoxel.com
 0.0.0.0 advp.apple.com
 0.0.0.0 advservert.com
+0.0.0.0 adwatch.in
+0.0.0.0 adwatchmedia.com
 0.0.0.0 adwbs.ximalaya.com
 0.0.0.0 adweb.gr
 0.0.0.0 adweb.ximalaya.com
 0.0.0.0 adwidecenter.com
+0.0.0.0 adwiser.kr
 0.0.0.0 adwoox.com
 0.0.0.0 adx-ads-fr.heytapmobile.com
 0.0.0.0 adx-ads-ru.heytapmobile.com
@@ -2656,6 +2671,8 @@
 0.0.0.0 auth.callstats.io
 0.0.0.0 auth.connectad.io
 0.0.0.0 auth.ff.avast.sec.miui.com
+0.0.0.0 avads.ai
+0.0.0.0 avads.net
 0.0.0.0 avantmetrics.com
 0.0.0.0 avhk-test.brdtnet.com
 0.0.0.0 avhk-test2.brdtnet.com
@@ -3422,6 +3439,7 @@
 0.0.0.0 co-pnrt-stsdk.vivoglobal.com
 0.0.0.0 co-st-sl.vivoglobal.com
 0.0.0.0 co-stsdk.vivoglobal.com
+0.0.0.0 cobaltads.com
 0.0.0.0 cocounion.com
 0.0.0.0 codemetrics.springernature.com
 0.0.0.0 coginator.com
@@ -3594,6 +3612,7 @@
 0.0.0.0 contentnet.adblade.com
 0.0.0.0 contentsquare.com
 0.0.0.0 contentsquare.net
+0.0.0.0 contextuad.com
 0.0.0.0 contextual.media.net
 0.0.0.0 contextualads.yahoo.net
 0.0.0.0 contextweb.com
@@ -3635,6 +3654,7 @@
 0.0.0.0 coremetrics.apple.com
 0.0.0.0 corplcms-ads-int-prn.apple.com
 0.0.0.0 corplcms-ads-int-sgp.apple.com
+0.0.0.0 counciladvertising.net
 0.0.0.0 covid19-feedbackws.icloud.com
 0.0.0.0 cowner.net
 0.0.0.0 cpa.adcolony.com
@@ -4991,6 +5011,7 @@
 0.0.0.0 growthbook-proxy.citizen.com
 0.0.0.0 growthbook.citizen.com
 0.0.0.0 growthbook.server.citizen.com
+0.0.0.0 growua.com
 0.0.0.0 grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn
 0.0.0.0 grs-dbankcloud-asia-dra.appacc.dbankedge.cn
 0.0.0.0 grs-dbankcloud-com-dra.appacc.dbankedge.cn
@@ -5640,6 +5661,7 @@
 0.0.0.0 lekkerads.com
 0.0.0.0 lekkerads.nl
 0.0.0.0 lesbiemates.com
+0.0.0.0 letmeads.com
 0.0.0.0 lexicon.33across.com
 0.0.0.0 lf16-adsformat-sign.tiktokcdn.com
 0.0.0.0 lf19-adsformat-sign.tiktokcdn.com
@@ -7802,6 +7824,7 @@
 0.0.0.0 redirect.ligatus.com
 0.0.0.0 redirect.pandora.xiaomi.com
 0.0.0.0 reengagement.remerge.io
+0.0.0.0 referrer.club
 0.0.0.0 regcleanpro.com
 0.0.0.0 regcure.com
 0.0.0.0 regecish.net
@@ -7825,6 +7848,8 @@
 0.0.0.0 reingod.com
 0.0.0.0 reklam.yandex.com.tr
 0.0.0.0 reklama.yandex.com
+0.0.0.0 reklammobi.com
+0.0.0.0 reklamvidi.com
 0.0.0.0 relay.flo.health
 0.0.0.0 relay.fullstory.com
 0.0.0.0 remerge.io
@@ -7898,6 +7923,7 @@
 0.0.0.0 riskid.security
 0.0.0.0 riskified.com
 0.0.0.0 rkhbxm26.topazlabs.com
+0.0.0.0 rklmstr.com
 0.0.0.0 rmediaads.com
 0.0.0.0 rmmetrics.mcafee.com
 0.0.0.0 rmp-api.moloco.com
@@ -8633,6 +8659,8 @@
 0.0.0.0 sls-telemetry.sophosupd.com
 0.0.0.0 sluppend.com
 0.0.0.0 slutthour.com
+0.0.0.0 smaad.jp
+0.0.0.0 smaad.net
 0.0.0.0 smaato.com
 0.0.0.0 smaato.net
 0.0.0.0 smadex.com
@@ -8648,6 +8676,7 @@
 0.0.0.0 smartlook.cloud
 0.0.0.0 smartlook.com
 0.0.0.0 smartmacbooster.com
+0.0.0.0 smartnews-ads.com
 0.0.0.0 smartplugin.youbora.com
 0.0.0.0 smartyads.com
 0.0.0.0 smeartha.com
@@ -8749,6 +8778,9 @@
 0.0.0.0 spicymeetings.com
 0.0.0.0 splunk-analytics.accertify.com
 0.0.0.0 sportekz.com
+0.0.0.0 sportradar.com
+0.0.0.0 sportradar.us
+0.0.0.0 sportradarserving.com
 0.0.0.0 sports-analytics.paramountplus.com
 0.0.0.0 sports-analytics.peacocktv.com
 0.0.0.0 sports-metrics.espn.com
@@ -8780,6 +8812,7 @@
 0.0.0.0 sslanalytics.sixt.com
 0.0.0.0 sslcs.cdngc.net
 0.0.0.0 sslwidget.criteo.com
+0.0.0.0 ssmaad.net
 0.0.0.0 ssp-adx.ads.heytapmobi.com
 0.0.0.0 ssp-bidder.criteo.net
 0.0.0.0 ssp-sync.bfmio.com
@@ -9482,6 +9515,7 @@
 0.0.0.0 test.samsungrm.net
 0.0.0.0 test0ads.anura.io
 0.0.0.0 theadexp.com
+0.0.0.0 theadwatch.com
 0.0.0.0 thecoolcompany.com
 0.0.0.0 thecyberprotector.com
 0.0.0.0 theroswaf.com
@@ -10343,6 +10377,7 @@
 0.0.0.0 uspider.yuanshen.com
 0.0.0.0 usr.navdmp.com
 0.0.0.0 usr.undertone.com
+0.0.0.0 ust-ad.com
 0.0.0.0 ustechsupport.com
 0.0.0.0 usw-ca2.adsrvr.org
 0.0.0.0 usw-lax.adsrvr.org

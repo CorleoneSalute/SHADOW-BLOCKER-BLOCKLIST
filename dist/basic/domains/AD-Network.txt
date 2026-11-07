@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2371
-# Generated: 2026-11-06 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2406
+# Generated: 2026-11-07 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -75,6 +75,7 @@ ad.equativ.com
 ad.geniee.co.jp
 ad.ink
 ad.inner-active.com
+ad.iq
 ad.plus
 ad.smaato.net
 ad.yieldlab.net
@@ -84,6 +85,7 @@ ad131m.com
 ad132m.com
 ad1data.com
 ad7.biz
+adadapted.com
 adap.tv
 adapace.com
 adapace.live
@@ -105,6 +107,7 @@ adconnect.pl
 addboost360.com
 addynamo.com
 adeeply.ru
+adelement.com
 adelphic.com
 adex2.fwmrm.net
 adexp.net
@@ -124,6 +127,7 @@ adhitz.com
 adiant.com
 adinjector.net
 adinmo.com
+adintend.com
 adition.com
 adjust.applovin.com
 adksrv.com
@@ -141,6 +145,7 @@ adlyticsmedia.com
 adm.fwmrm.net
 admagnet.agency
 admaster.cc
+admaster.co
 admaster.com.cn
 admaven.com
 admedia.com
@@ -158,6 +163,7 @@ admob.biz
 admob.com
 admob.google.com
 admob.googleapis.com
+adnatus.com
 adnexusmarketing.com
 adnow.com
 adnow.one
@@ -168,6 +174,8 @@ adpatrof.com
 adplayer.pro
 adplify.com
 adpopcorn.com
+adportal.io
+adportal.net
 adportonic.com
 adprime.com
 adprimehealth.com
@@ -277,6 +285,7 @@ adsorb.io
 adspace.adskeeper.com
 adspirit.de
 adspirit.net
+adsplay.in
 adspostx.com
 adspro.name
 adsrevenue.com
@@ -293,9 +302,11 @@ adsupplyexchange.com
 adswad.com
 adswizz.com
 adtapmedia.com
+adtec.ru
 adtech.de
 adtelligent.com
 adthink.com
+adtpix.com
 adtracker.inmobi.com
 adtrck.cc
 adtrck.com
@@ -305,6 +316,7 @@ adtrck.org
 adtrck.pro
 adtryx.com
 adup-tech.com
+advads.net
 advertice.in
 advertise.quantcast.com
 advertiser-api.revcontent.com
@@ -314,8 +326,11 @@ advertserve.com
 advertstream.com
 advoxel.com
 advservert.com
+adwatch.in
+adwatchmedia.com
 adweb.gr
 adwidecenter.com
+adwiser.kr
 adwoox.com
 adx.adform.net
 adx2.adform.net
@@ -611,6 +626,8 @@ audience.kayzen.io
 audiences.seedtag.com
 audiomax.adswizz.com
 auth.connectad.io
+avads.ai
+avads.net
 awmads.com
 axon.ai
 azad.adsrvr.org
@@ -851,6 +868,7 @@ cm.ipinyou.com
 cm.mgid.com
 cm2.adform.net
 cms.analytics.yahoo.com
+cobaltads.com
 cocounion.com
 commerce.sovrn.com
 companinons.site
@@ -871,6 +889,7 @@ content-ad.net
 content.ad
 content.yieldmo.com
 contentnet.adblade.com
+contextuad.com
 contextual.media.net
 contextweb.com
 controlium.net
@@ -883,6 +902,7 @@ convnjmp.taboola.com
 cookie-sync.xyz
 cookiesurfer.com
 cool.co
+counciladvertising.net
 cpa.adcolony.com
 cpa.adhit.com
 cpmmax.site
@@ -1159,6 +1179,7 @@ groundtruth.com
 growads.net
 growadvertising.com
 growadvertising.io
+growua.com
 gsspat.jp
 gt-pixel-prod.groundtruth.com
 gtm.taboola.com
@@ -1339,6 +1360,7 @@ lax1-ib.adnxs-simple.com
 lax1-ib.adnxs.com
 lekkerads.com
 lekkerads.nl
+letmeads.com
 lexicon.33across.com
 liftoff.ai
 liftoff.io
@@ -1690,9 +1712,12 @@ recommendations.outbrain.com
 redcarpat.com
 redirect.applovin.com
 redirect.ligatus.com
+referrer.club
 reindaks.com
 reinderk.com
 reingod.com
+reklammobi.com
+reklamvidi.com
 remerge.io
 remindmewhere.app
 rendfy.com
@@ -1716,6 +1741,7 @@ rfihub.com
 rfihub.net
 rhythmone.com
 risecodes.com
+rklmstr.com
 rmediaads.com
 rmp-api.moloco.com
 rmp-cdn.moloco.com
@@ -1860,6 +1886,8 @@ skyads.ott.skymedia.co.uk
 skyadsmart.com
 slashis.com
 slinkway.com
+smaad.jp
+smaad.net
 smaato.com
 smaato.net
 smadex.com
@@ -1871,6 +1899,7 @@ smartadserver.fr
 smartadserver.net
 smartclip.net
 smartclip.tv
+smartnews-ads.com
 smartyads.com
 snapmobile.asia
 snapmobile.hk
@@ -1883,6 +1912,9 @@ sovrn.net
 sp1.convertro.com
 speakol.com
 sportekz.com
+sportradar.com
+sportradar.us
+sportradarserving.com
 spotx.tv
 spotxcdn.com
 spotxchange.com
@@ -1894,6 +1926,7 @@ ssbsync-global.smartadserver.com
 ssbsync.smartadserver.com
 ssc.33across.com
 sslwidget.criteo.com
+ssmaad.net
 ssp-bidder.criteo.net
 ssp-sync.bfmio.com
 ssp-sync.criteo.com
@@ -2029,6 +2062,7 @@ telemetry.applovin.com
 tenxads.com
 test.admixer.co.kr
 theadexp.com
+theadwatch.com
 thecoolcompany.com
 theroswaf.com
 thetradedesk.com
@@ -2172,6 +2206,7 @@ usersync.ntv.io
 usersync.triplelift.com
 usms.taboola.com
 usr.undertone.com
+ust-ad.com
 usw-ca2.adsrvr.org
 usw-lax.adsrvr.org
 usw.unrulymedia.com
