@@ -3,11 +3,9 @@ ad-format-i18n.tiktokv.com
 ad-format-ie.tiktokv.eu
 ad-format-ru.tiktokv.com
 ad-format-sg.tiktokv.com
-ad-format-ttp2.tiktokv.eu
 ad-format-ttp2.tiktokv.us
 ad-format-ttp2.us.tiktokv.com
 ad-format.tiktokv.eu
-ad-format.tiktokv.us
 ad-format.us.tiktokv.com
 ad-format16-normal-useastred.tiktokv.eu
 ad-instantpage-i18n.tiktokv.com
@@ -27,7 +25,6 @@ ad-instantpage.tiktokv.us
 ad-instantpage.tiktokv.us.edgesuite.net
 ad-instantpage.tiktokv.us.ttdns4.com
 ad-instantpage.us.tiktokv.com
-ad-union-i18n-api.tos-sg.tiktok-row.org
 ad.tiktok.tv
 ad.tiktokv.com
 ad.tiktokv.eu
@@ -185,9 +182,7 @@ live-video-log16-normal-useast5.tiktokv.us
 live-video-log16-normal-useastred.tiktokv.eu
 location-i18n.tiktokv.com
 location-ie.tiktokv.eu
-location-ru.tiktokv.com
 location-sg.tiktokv.com
-location-ttp2.tiktokv.eu
 location-ttp2.tiktokv.us
 location-ttp2.tiktokw.eu
 location-ttp2.tiktokw.us
@@ -206,11 +201,9 @@ location.capcutapi.us
 location.tiktok.com
 location.tiktokv.com
 location.tiktokv.eu
-location.tiktokv.us
 location.tiktokw.eu
 location.tiktokw.us
 location.us.tiktokv.com
-location16-normal-useastred.tiktokv.eu
 location16-normal-useastred.tiktokw.eu
 locationv16-normal-useastred.tiktokv.eu
 log-boot.capcutapi.com
@@ -250,6 +243,7 @@ log15-normal.tiktokv.com
 log15.byteoversea.com
 log16-applog-useast5.us.tiktokv.com
 log16-normal-alisg.tiktokv.com
+log16-normal-alisg.tiktokv.com.kp45.ru
 log16-normal-c-useast1a.tiktokv.com
 log16-normal-c-useast2a.tiktokv.com
 log16-normal-delay-alisg.tiktokv.com
@@ -292,6 +286,7 @@ log19-normal.tiktokv.com
 log22-applog-useast1a.tiktokv.com
 log22-applog-useast2a.tiktokv.com
 log22-normal-alisg.tiktokv.com
+log22-normal-alisg.tiktokv.com.kp45.ru
 log22-normal-useast1a.tiktokv.com
 log22-normal-useast2a.tiktokv.com
 log22-normal-zr-alisg.tiktokv.com
@@ -300,7 +295,9 @@ log22-normal-zr.tiktokv.com
 log22-normal.capcutapi.com
 log22-normal.tiktokv.com
 log3-normal-c-alisg.tiktokv.com
+log3-normal-c-alisg.tiktokv.com.w.kunlunsl.com
 log3-normal-c-useast1a.tiktokv.com
+log3-normal-c-useast1a.tiktokv.com.w.kunlunsl.com
 log31-normal-alisg.tiktokv.com
 log31-normal-no1a.tiktokv.eu
 log31-normal-sg.capcutapi.com
@@ -333,6 +330,7 @@ log58-normal.tiktokv.com
 log77-normal-c-alisg.tiktokv.com
 log77-normal-c-useast1a.tiktokv.com
 log9-normal-c-useast1a.tiktokv.com
+log9-normal-c-useast1a.tiktokv.com.ecdnx.com
 logbk.tiktokv.com
 logtrace.snssdk.com
 maliva-mcs-useast2a.byteoversea.com
@@ -424,6 +422,7 @@ mon15-normal-useast1a-checkout.tiktokv.com
 mon15-normal-useast1a.tiktokv.com
 mon15-normal.tiktokv.com
 mon16-normal-alisg.tiktokv.com
+mon16-normal-alisg.tiktokv.com.kp45.ru
 mon16-normal-c-useast1a.tiktokv.com
 mon16-normal-c-useast2a.tiktokv.com
 mon16-normal-ie.tiktokv.eu
@@ -566,7 +565,6 @@ pc-mon16-normal-us-ttp.capcutapi.us
 pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net
 pc-mon16-normal-us-ttp2.capcutapi.us
 rtc-logger-i18n.tiktokv.com
-rtc-logger-ie.tiktokv.eu
 rtc-logger-ttp2.tiktokv.eu
 rtc-logger-ttp2.tiktokv.us
 rtc-logger-ttp2.us.tiktokv.com
@@ -594,6 +592,7 @@ rtlog16-applog-useast1a.tiktokv.com
 rtlog16-applog-useast2a.tiktokv.com
 rtlog16-applog-useast5.us.tiktokv.com
 rtlog16-normal-alisg.tiktokv.com
+rtlog16-normal-alisg.tiktokv.com.kp45.ru
 rtlog16-normal-ie.tiktokv.eu
 rtlog16-normal-ind.tiktokv.com
 rtlog16-normal-no1a.tiktokv.eu
@@ -630,6 +629,7 @@ rtlog19-platform-useast5.us.tiktokv.com
 rtlog22-applog-useast1a.tiktokv.com
 rtlog22-applog-useast2a.tiktokv.com
 rtlog22-normal-alisg.tiktokv.com
+rtlog22-normal-alisg.tiktokv.com.kp45.ru
 rtlog22-normal-useast1a.tiktokv.com
 rtlog22-normal-useast2a.tiktokv.com
 rtlog22-normal-zr-alisg.tiktokv.com
