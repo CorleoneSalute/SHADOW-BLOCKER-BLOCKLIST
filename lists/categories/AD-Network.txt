@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2381
-# Total platforms: 338
+# Total platforms: 365
 # Last update: 2026/11/03
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3324,3 +3324,121 @@ adgebra.in
 
 flippadvertising.com
 thinkflipp.com
+
+# GMO SmaAD
+
+smaad.jp
+ssmaad.net
+smaad.net
+
+# ReklamStore (RS İnternet Pazarlama A.Ş.)
+
+reklammobi.com
+reklamvidi.com
+rklmstr.com
+growua.com
+contextuad.com
+referrer.club
+
+# ТОВ «МЕРЕЖА ПАРТНЕРСЬКИХ ПРОГРАМ «ЛЕТМІЕДС»» (LLC Letmeads Network of Partner Programs)
+
+letmeads.com
+
+# 애드와이저 / ADWISER
+
+adwiser.kr
+
+# AdIQ
+
+ad.iq
+
+# Sportradar Group AG
+
+sportradar.com
+sportradarserving.com
+sportradar.us
+
+# SmartNews, Inc. (スマートニュース株式会社)
+
+smartnews-ads.com
+
+# Adtegrity.com International, Inc.
+
+adtpix.com
+
+# Cobalt Ads., s.r.o.
+
+cobaltads.com
+
+# Council Advertising Network (CAN)
+
+counciladvertising.net
+
+# Adtec, Российская SSP (для монетизации)
+
+adtec.ru
+
+# AdAdapted, Inc.
+
+adadapted.com
+
+# avads.net
+
+avads.net
+
+# LAUNCHARM, INC.
+
+avads.ai
+
+# advads.net
+
+advads.net
+
+# AdAdapted, Inc.
+
+adadapted.com
+
+# adportal.io
+
+adportal.io
+
+# AdPortal (Mode Media)
+
+adportal.net
+
+# AdElement (Ad Element Vast, LLC / AdElement Media Solutions Pvt. Ltd.)
+
+adelement.com
+
+# Adnatus SA
+
+adnatus.com
+
+# Adsplay International
+
+adsplay.in
+
+# Ad Intend Srl
+
+adintend.com
+
+# AdMaster 精硕科技
+
+admaster.com.cn
+admaster.co
+
+# Adwatch, SL
+
+theadwatch.com
+
+# AdWatch Media
+
+adwatchmedia.com
+
+# AdWatch by BrandMonitoring.ai
+
+adwatch.in
+
+# UNIQUEST (ユニクエスト)
+
+ust-ad.com
