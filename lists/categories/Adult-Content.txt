@@ -222,3 +222,11 @@ analytics.spankbanglive.com
 # xham.live ⚠️ unauthorized trademark use
 
 xham.live
+
+# Nsfwlivechat
+
+logs.nsfwlivechat.com
+
+# Tranny.öne
+
+log.tranny.show
