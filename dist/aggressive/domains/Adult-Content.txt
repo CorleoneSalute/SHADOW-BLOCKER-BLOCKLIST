@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - AGGRESSIVE
-# Total domains: 104
+# Total domains: 105
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,6 +10,7 @@ a.sankakucomplex.com
 ab.cams.com
 ad.javmost.com
 ad.porngo.com
+ad.stripchat.ninja
 ad.watchporn.to
 ad1.watchporn.to
 ad2.watchporn.to

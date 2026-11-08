@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 88
+# Total domains: 89
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8,6 +8,7 @@
 0.0.0.0 a.sankakucomplex.com
 0.0.0.0 ad.javmost.com
 0.0.0.0 ad.porngo.com
+0.0.0.0 ad.stripchat.ninja
 0.0.0.0 ad.watchporn.to
 0.0.0.0 ad1.watchporn.to
 0.0.0.0 ad2.watchporn.to

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10498
+# Total domains: 10499
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -282,6 +282,7 @@ ad.smaato.net
 ad.sortenabet.bet.br
 ad.srv.giantlottos.com
 ad.streamsilk.com
+ad.stripchat.ninja
 ad.thefacebook.com
 ad.tiktokv.com
 ad.tiktokv.us

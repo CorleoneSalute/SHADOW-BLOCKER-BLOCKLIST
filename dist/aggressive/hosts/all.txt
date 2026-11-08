@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10985
+# Total domains: 10986
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -300,6 +300,7 @@
 0.0.0.0 ad.sortenabet.bet.br
 0.0.0.0 ad.srv.giantlottos.com
 0.0.0.0 ad.streamsilk.com
+0.0.0.0 ad.stripchat.ninja
 0.0.0.0 ad.thefacebook.com
 0.0.0.0 ad.tiktokv.com
 0.0.0.0 ad.tiktokv.us
