@@ -116,9 +116,23 @@ pxl.stripchat.com
 trk.account.stripchat.com
 trk.notify.stripchat.com
 trk.sender.stripchat.com
+analytics.stripchat.direct
+analytics.stripchat.ooo
+analytics.stripchats.global
+analytics.strp.chat
 stripchat.com !
 stripchat.net !
 stripchat.global !
+stripchat.app !
+stripchat.fans !
+stripchat.me !
+stripchat.direct !
+stripchat.global !
+stripchat.xyz !
+stripchat.ninja !
+stripchat.ooo !
+strp.chat !
+
 
 # Camsoda
 
