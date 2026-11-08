@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10559
+# Total domains: 10563
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4594,6 +4594,7 @@ fls-eu.amazon-adsystem.com
 fls-fe.amazon-adsystem.com
 fls-na.amazon-adsystem.com
 fluct.jp
+fluid-player-analytics.sky.it
 flurry.com
 flyserve.co
 fmtrack1.fractal.id
@@ -7177,6 +7178,7 @@ pixel.criteo.com
 pixel.crwdcntrl.net
 pixel.datalogix.com
 pixel.dianomi.com
+pixel.disco.nowtv.it
 pixel.everesttech.net
 pixel.facebook.com
 pixel.jackpotgo.com
@@ -8142,6 +8144,7 @@ sentry.api.stronglifts.com
 sentry.audacityteam.org
 sentry.cams.run
 sentry.clickdealer.com
+sentry.clients.nowtv.it
 sentry.cloudlinux.com
 sentry.codeium.com
 sentry.elitehrv.com
@@ -8251,6 +8254,7 @@ sgtm.nabidka.canalplus.com
 sgtm.nurx.com
 sgtm.pokerstars.de
 sgtm.skrill.com
+sgtm.sky.it
 sgtm.storytel.com
 sgtm.talkspace.com
 sgtm.topazlabs.com

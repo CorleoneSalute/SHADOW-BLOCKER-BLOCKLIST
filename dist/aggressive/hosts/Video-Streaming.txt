@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 454
+# Total domains: 458
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -211,6 +211,7 @@
 0.0.0.0 experiments.disneyplus.com
 0.0.0.0 experiments.hulu.com
 0.0.0.0 experiments.netflix.com
+0.0.0.0 fluid-player-analytics.sky.it
 0.0.0.0 fp-analytics.hotstar.com
 0.0.0.0 gallery-metrics.api.brightcove.com
 0.0.0.0 games.analytics.netflix.net
@@ -335,6 +336,7 @@
 0.0.0.0 piano.io
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 pixalate.com
+0.0.0.0 pixel.disco.nowtv.it
 0.0.0.0 pixel.justwatch.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 playback-analytics.hulu.com
@@ -373,11 +375,13 @@
 0.0.0.0 sanalytics.adultswim.co.uk
 0.0.0.0 sdk-log.jowo.tv
 0.0.0.0 sdk.conviva.com
+0.0.0.0 sentry.clients.nowtv.it
 0.0.0.0 sentry.justwatch.com
 0.0.0.0 service-ad-impression-proxy.clusters.pluto.tv
 0.0.0.0 settings-analytics.hotstar.com
 0.0.0.0 sgtm.elofizetek.canalplus.com
 0.0.0.0 sgtm.nabidka.canalplus.com
+0.0.0.0 sgtm.sky.it
 0.0.0.0 smartplugin.youbora.com
 0.0.0.0 smetrics.airtv.net
 0.0.0.0 smetrics.help.hulu.com
