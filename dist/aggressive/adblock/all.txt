@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11017
+# Total domains: 11019
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -119,6 +119,7 @@
 ||acd.navdmp.com^
 ||acdn.adnxs.com^
 ||acdn.navdmp.com^
+||acelauncher.com^
 ||acelogix.com^
 ||acfeedbackws.icloud.com^
 ||aciterar.com^
@@ -1395,6 +1396,7 @@
 ||analytics.abide.co^
 ||analytics.ableton.com^
 ||analytics.acast.com^
+||analytics.acelauncher.com^
 ||analytics.acer.com^
 ||analytics.ad.daum.net^
 ||analytics.add.app^

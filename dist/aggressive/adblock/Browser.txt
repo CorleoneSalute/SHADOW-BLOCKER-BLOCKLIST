@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 389
+# Total domains: 391
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -11,6 +11,7 @@
 ||a.gdown.baidu.com^
 ||a.hiphotos.baidu.com^
 ||ablog.baidu.com^
+||acelauncher.com^
 ||activity.baidu.com^
 ||ad-click.yandex.ru^
 ||ad-constructor.yandex.com^
@@ -78,6 +79,7 @@
 ||an.yandex.com^
 ||an.yandex.ru^
 ||analysis-output.telemetry.mozilla.org^
+||analytics.acelauncher.com^
 ||analytics.brave.com^
 ||analytics.brave.software^
 ||analytics.bravesoftware.com^

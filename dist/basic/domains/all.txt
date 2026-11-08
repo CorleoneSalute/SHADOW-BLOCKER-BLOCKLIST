@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10530
+# Total domains: 10532
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -107,6 +107,7 @@ accuweather-beacon.com
 acd.navdmp.com
 acdn.adnxs.com
 acdn.navdmp.com
+acelauncher.com
 acelogix.com
 aciterar.com
 aclabink.com
@@ -1347,6 +1348,7 @@ analytics.abema.tv
 analytics.abide.co
 analytics.ableton.com
 analytics.acast.com
+analytics.acelauncher.com
 analytics.acer.com
 analytics.ad.daum.net
 analytics.add.app

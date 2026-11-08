@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10530
+# Total domains: 10532
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -107,6 +107,7 @@
 0.0.0.0 acd.navdmp.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 acdn.navdmp.com
+0.0.0.0 acelauncher.com
 0.0.0.0 acelogix.com
 0.0.0.0 aciterar.com
 0.0.0.0 aclabink.com
@@ -1347,6 +1348,7 @@
 0.0.0.0 analytics.abide.co
 0.0.0.0 analytics.ableton.com
 0.0.0.0 analytics.acast.com
+0.0.0.0 analytics.acelauncher.com
 0.0.0.0 analytics.acer.com
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.add.app
