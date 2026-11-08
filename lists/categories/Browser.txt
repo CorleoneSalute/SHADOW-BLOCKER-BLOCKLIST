@@ -419,6 +419,11 @@ update.ping.android.shouji.sogou.com
 ws-ios.shouji.sogou.com
 ws-keyboard.shouji.sogou.com
 
+# AceLauncher ⚠️ malicious
+
+acelauncher.com
+analytics.acelauncher.com
+
 # HOLA BROWSER
 
 # Infinix XOS browser bloatware
