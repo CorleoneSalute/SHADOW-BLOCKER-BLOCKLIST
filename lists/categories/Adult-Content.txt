@@ -179,3 +179,36 @@ collector.fap.house
 # Shemale-club
 
 track.shemale-club.com
+
+# Shemale.show
+
+analytics.shemale.show
+
+# Porndude
+
+analytics.porndudecams.com
+
+# OMG Adult
+
+analytics.omg.adult
+
+# Mycamtv
+
+analytics.mycamtv.com
+
+# FikFap
+
+analytics.fikfapcams.com
+
+# Cambaddies
+
+analytics.cambaddies.com
+
+# BoyfriendTV
+
+analytics.boyfriend.show
+
+# 3xxx
+
+ads.3xxx.gay
+ads.xxxvideo.link
