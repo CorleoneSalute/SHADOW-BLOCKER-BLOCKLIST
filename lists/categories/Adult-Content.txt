@@ -128,7 +128,6 @@ stripchat.app !
 stripchat.fans !
 stripchat.me !
 stripchat.direct !
-stripchat.global !
 stripchat.xyz !
 stripchat.ninja !
 stripchat.ooo !
