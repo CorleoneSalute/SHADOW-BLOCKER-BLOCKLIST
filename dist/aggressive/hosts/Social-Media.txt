@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 794
+# Total domains: 797
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -124,6 +124,7 @@
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.snapchat.com
 0.0.0.0 analytics.snssdk.com
+0.0.0.0 analytics.snssdk.com.bytedns1.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.tiktokv.com
 0.0.0.0 analytics.us.tiktok.com
@@ -194,6 +195,7 @@
 0.0.0.0 facebookads.com
 0.0.0.0 fb-analytics.com
 0.0.0.0 fbthirdpartypixel.com
+0.0.0.0 finderlog.volces.com
 0.0.0.0 frontier-i18n.tiktokv.com
 0.0.0.0 frontier-my2.tiktokv.com
 0.0.0.0 frontier-ru.tiktokv.com
@@ -391,6 +393,7 @@
 0.0.0.0 mcs16-normal-useastred.tiktokw.eu
 0.0.0.0 mcs16-normal-ycru.tiktok.com
 0.0.0.0 mercury-sdk.snssdk.com
+0.0.0.0 metrics-producer-proxy-asia-south-eastbd.byteglb.com
 0.0.0.0 metrics.bereal.com
 0.0.0.0 metrics.reddit.com
 0.0.0.0 mgx.rtb.linkedin.com

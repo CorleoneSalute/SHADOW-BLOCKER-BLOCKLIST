@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 761
+# Total domains: 764
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -124,6 +124,7 @@
 ||analytics.pointdrive.linkedin.com^
 ||analytics.snapchat.com^
 ||analytics.snssdk.com^
+||analytics.snssdk.com.bytedns1.com^
 ||analytics.tiktok.com^
 ||analytics.tiktokv.com^
 ||analytics.us.tiktok.com^
@@ -190,6 +191,7 @@
 ||facebookads.com^
 ||fb-analytics.com^
 ||fbthirdpartypixel.com^
+||finderlog.volces.com^
 ||frontier.byteoversea.com^
 ||fwx.rtb.linkedin.com^
 ||g-logsdk.kwai-pro.com^
@@ -361,6 +363,7 @@
 ||mcs16-normal-useastred.tiktokw.eu^
 ||mcs16-normal-ycru.tiktok.com^
 ||mercury-sdk.snssdk.com^
+||metrics-producer-proxy-asia-south-eastbd.byteglb.com^
 ||metrics.bereal.com^
 ||metrics.reddit.com^
 ||mgx.rtb.linkedin.com^

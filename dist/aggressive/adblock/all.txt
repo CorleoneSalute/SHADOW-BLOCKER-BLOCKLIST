@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11022
+# Total domains: 11025
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1962,6 +1962,7 @@
 ||analytics.snapchat.com^
 ||analytics.snapcraft.io^
 ||analytics.snssdk.com^
+||analytics.snssdk.com.bytedns1.com^
 ||analytics.softwareimprovement.intel.com^
 ||analytics.sonymobile.com^
 ||analytics.soothe.com^
@@ -4725,6 +4726,7 @@
 ||finalcut-camera-events.apple.com^
 ||finalcut-events.apple.com^
 ||finalcutpro-events.apple.com^
+||finderlog.volces.com^
 ||fingerprintjs.com^
 ||fingerprintjs.net^
 ||fionread-ta-g7g.amazon.com^
@@ -6374,6 +6376,7 @@
 ||metrics-old.drift.trade^
 ||metrics-pcc-drcn.dt.hihonorcloud.com.host^
 ||metrics-preview.vive.com^
+||metrics-producer-proxy-asia-south-eastbd.byteglb.com^
 ||metrics-prom.perlego.com^
 ||metrics-r.wbx2.com^
 ||metrics-sbg.o.webex.com^
