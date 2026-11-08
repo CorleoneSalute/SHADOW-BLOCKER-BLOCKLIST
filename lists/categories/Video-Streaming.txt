@@ -441,8 +441,9 @@ metrics.mgtv.net
 pcc-v1.log.mgtv.net
 pcweb-v1.log.mgtv.net
 pdata.log.mgtv.net
-v1-play.log.mgtv.net
+v1-play.log.mgtv.net !
 v2.log.mgtv.net
+apperr.log.mgtv.com
 
 # Zapping TV
 
