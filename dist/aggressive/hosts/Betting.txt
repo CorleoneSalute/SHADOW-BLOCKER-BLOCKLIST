@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 312
+# Total domains: 313
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -19,6 +19,7 @@
 0.0.0.0 ad.vera.bet.br
 0.0.0.0 adjust.stats.zynga.com
 0.0.0.0 ads.7k.bet.br
+0.0.0.0 ads.affiliateclub.com
 0.0.0.0 ads.betdasorte.bet.br
 0.0.0.0 ads.betfair.com
 0.0.0.0 ads.betfair.com.au

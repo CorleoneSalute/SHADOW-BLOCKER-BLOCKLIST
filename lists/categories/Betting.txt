@@ -1,6 +1,6 @@
 # BETTING BLOCKLIST
 
-# Total domains: 312
+# Total domains: 313
 # Total platforms: 109
 # Last update: 2026/11/08
 # Note: trailing "!" marks a domain as aggressive-only

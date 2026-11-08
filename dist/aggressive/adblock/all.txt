@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11059
+# Total domains: 11060
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -605,6 +605,7 @@
 ||ads.adinmo.com^
 ||ads.admix.in^
 ||ads.adyoulike.com^
+||ads.affiliateclub.com^
 ||ads.aimitv.com^
 ||ads.alcatel.tcl.com^
 ||ads.alipay.com^

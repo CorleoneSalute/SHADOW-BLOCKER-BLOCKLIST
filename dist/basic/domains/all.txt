@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10570
+# Total domains: 10571
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -581,6 +581,7 @@ ads.adikteev.com
 ads.adinmo.com
 ads.admix.in
 ads.adyoulike.com
+ads.affiliateclub.com
 ads.alcatel.tcl.com
 ads.alipay.com
 ads.anura.io

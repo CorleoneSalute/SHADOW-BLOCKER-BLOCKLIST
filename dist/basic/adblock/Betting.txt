@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 304
+# Total domains: 305
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -19,6 +19,7 @@
 ||ad.vera.bet.br^
 ||adjust.stats.zynga.com^
 ||ads.7k.bet.br^
+||ads.affiliateclub.com^
 ||ads.betdasorte.bet.br^
 ||ads.betfair.com^
 ||ads.betfair.com.au^
