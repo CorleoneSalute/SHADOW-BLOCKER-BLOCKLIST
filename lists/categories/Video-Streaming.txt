@@ -424,6 +424,26 @@ smetrics.airtv.net
 
 ads.every.tv
 
+# Mango TV
+
+collect.bz.mgtv.com
+crash.data.v2.mgtv.com
+ec-app.log.mgtv.com
+ec.log.mgtv.com
+pdata.log.mgtv.com
+xmerr.log.mgtv.com
+layer.bz.mgtv.com
+collect.bz.mgtv.net
+dpapm.log.mgtv.net
+log.mgtv.net
+marketing.mgtv.net
+metrics.mgtv.net
+pcc-v1.log.mgtv.net
+pcweb-v1.log.mgtv.net
+pdata.log.mgtv.net
+v1-play.log.mgtv.net
+v2.log.mgtv.net
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
