@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11012
+# Total domains: 11014
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4312,6 +4312,7 @@ epsonanalytics.com
 eqikeji.com
 equativ.com
 er2d2.criteo.com
+erohub.com
 err-up.vivoglobal.com
 err.up.vivoglobal.com
 error-reporting.disneyplus.com
@@ -5057,6 +5058,7 @@ grs.hicloud.com
 grs.hihonorcloud.com
 grs.platform.dbankcloud.ru
 grtyv.com
+gruvi.tv
 gs.amplitude.com
 gs.eu.amplitude.com
 gssganalytics.dell.com

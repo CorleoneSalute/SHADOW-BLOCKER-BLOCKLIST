@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2427
+# Total domains: 2429
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1057,6 +1057,7 @@ epom.com
 epomapps.com
 eqikeji.com
 equativ.com
+erohub.com
 eskimi.com
 esp.rtbhouse.com
 et-gcp.33across.com
@@ -1195,6 +1196,7 @@ growads.net
 growadvertising.com
 growadvertising.io
 growua.com
+gruvi.tv
 gsspat.jp
 gt-pixel-prod.groundtruth.com
 gtm.taboola.com

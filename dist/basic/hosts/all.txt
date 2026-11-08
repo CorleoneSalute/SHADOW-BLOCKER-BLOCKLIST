@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10525
+# Total domains: 10527
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4167,6 +4167,7 @@
 0.0.0.0 eqikeji.com
 0.0.0.0 equativ.com
 0.0.0.0 er2d2.criteo.com
+0.0.0.0 erohub.com
 0.0.0.0 err-up.vivoglobal.com
 0.0.0.0 err.up.vivoglobal.com
 0.0.0.0 error-reporting.disneyplus.com
@@ -4833,6 +4834,7 @@
 0.0.0.0 grs.hihonorcloud.com
 0.0.0.0 grs.platform.dbankcloud.ru
 0.0.0.0 grtyv.com
+0.0.0.0 gruvi.tv
 0.0.0.0 gs.amplitude.com
 0.0.0.0 gs.eu.amplitude.com
 0.0.0.0 gssganalytics.dell.com

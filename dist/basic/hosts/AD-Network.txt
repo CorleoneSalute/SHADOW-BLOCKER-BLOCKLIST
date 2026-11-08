@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2417
+# Total domains: 2419
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1053,6 +1053,7 @@
 0.0.0.0 epomapps.com
 0.0.0.0 eqikeji.com
 0.0.0.0 equativ.com
+0.0.0.0 erohub.com
 0.0.0.0 eskimi.com
 0.0.0.0 esp.rtbhouse.com
 0.0.0.0 et-gcp.33across.com
@@ -1191,6 +1192,7 @@
 0.0.0.0 growadvertising.com
 0.0.0.0 growadvertising.io
 0.0.0.0 growua.com
+0.0.0.0 gruvi.tv
 0.0.0.0 gsspat.jp
 0.0.0.0 gt-pixel-prod.groundtruth.com
 0.0.0.0 gtm.taboola.com
