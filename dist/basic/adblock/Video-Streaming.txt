@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 390
+# Total domains: 407
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -144,6 +144,8 @@
 ||channels-metrics.primevideo.com^
 ||chartbeat.com^
 ||chartbeat.net^
+||collect.bz.mgtv.com^
+||collect.bz.mgtv.net^
 ||collect.youbora.com^
 ||collector-eu.conviva.com^
 ||collector-us.conviva.com^
@@ -154,6 +156,7 @@
 ||crash-reports.hulu.com^
 ||crash-reports.netflix.com^
 ||crash.bamgrid.com^
+||crash.data.v2.mgtv.com^
 ||ctv-verification.pixalate.com^
 ||customdomains.litix.io^
 ||customerevents.netflix.com^
@@ -173,6 +176,9 @@
 ||disney.my.sentry.io^
 ||disneyplus.com.ssl.sc.omtrdc.net^
 ||documentary-analytics.curiositystream.com^
+||dpapm.log.mgtv.net^
+||ec-app.log.mgtv.com^
+||ec.log.mgtv.com^
 ||engage.kaltura.com^
 ||engage.youbora.com^
 ||engagement.brightcove.com^
@@ -218,6 +224,7 @@
 ||intelligence.conviva.com^
 ||jwpltx.com^
 ||k.pluto.tv^
+||layer.bz.mgtv.com^
 ||litix.mux.com^
 ||live-cm-ad-08-18.video.globo.com^
 ||live-cm-ad-08-39.video.globo.com^
@@ -225,12 +232,14 @@
 ||live-metrics.peacocktv.com^
 ||live-streaming-metrics.amazon.com^
 ||livestats.kaltura.com^
+||log.mgtv.net^
 ||log.tving.com^
 ||logging.bamgrid.com^
 ||logging.netflix.com^
 ||logs.hulu.com^
 ||logs.netflix.com^
 ||lstat.youku.com^
+||marketing.mgtv.net^
 ||metrics.abema.tv^
 ||metrics.binge.com.au^
 ||metrics.bitmovin.com^
@@ -255,6 +264,7 @@
 ||metrics.jwplayer.com^
 ||metrics.max.com^
 ||metrics.media-amazon.com^
+||metrics.mgtv.net^
 ||metrics.movistarplus.es^
 ||metrics.mubi.com^
 ||metrics.mux.com^
@@ -290,7 +300,11 @@
 ||nqs-us.youbora.com^
 ||nqs.youbora.com^
 ||parsely.com^
+||pcc-v1.log.mgtv.net^
 ||pcp-live-metrics-service.netflix.com^
+||pcweb-v1.log.mgtv.net^
+||pdata.log.mgtv.com^
+||pdata.log.mgtv.net^
 ||performance.netflix.com^
 ||piano.io^
 ||ping.chartbeat.net^
@@ -375,6 +389,8 @@
 ||us-east-1-2.telemetry.insights.video.a2z.com^
 ||us-east-1-3.telemetry.insights.video.a2z.com^
 ||us-west-2-1.telemetry.insights.video.a2z.com^
+||v1-play.log.mgtv.net^
+||v2.log.mgtv.net^
 ||vce.comscore.com^
 ||verification.pixalate.com^
 ||verification.protected.media^
@@ -392,6 +408,7 @@
 ||video.chartbeat.com^
 ||vizio.adsmeasurement.com^
 ||vod-cm-ad-08-18.video.globo.com^
+||xmerr.log.mgtv.com^
 ||youbora.com^
 ||youboranqs01.com^
 ||youtrack.ops.connatix.com^

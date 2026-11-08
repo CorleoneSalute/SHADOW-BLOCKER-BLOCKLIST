@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11025
+# Total domains: 11042
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3503,6 +3503,8 @@ collect-us-fy2022.myhomescreen.tv
 collect.airbrake.io
 collect.babbel.io
 collect.biomedcentral.com
+collect.bz.mgtv.com
+collect.bz.mgtv.net
 collect.contentsquare.net
 collect.evergage.com
 collect.ficfun.com
@@ -3720,6 +3722,7 @@ crash-stats.mozilla.org
 crash.bamgrid.com
 crash.corsair.com
 crash.cyberlink.com
+crash.data.v2.mgtv.com
 crash.dji.com
 crash.elementary.io
 crash.grindr.com
@@ -4138,6 +4141,7 @@ download-samsung.dtignite.com
 download-stats.mozilla.org
 download.reimage.com
 download.restoro.com
+dpapm.log.mgtv.net
 dpbolvw.net
 dpm.demdex.net
 dpu.samsungelectronics.com
@@ -4255,6 +4259,8 @@ easeware.com
 easyad.360.cn
 eb2.3lift.com
 ebonyflirt.com
+ec-app.log.mgtv.com
+ec.log.mgtv.com
 eccmp.com
 ecleneue.com
 eclick.baidu.com
@@ -5687,6 +5693,7 @@ launches.appsflyer.com
 lavasoft.com
 lax1-ib.adnxs-simple.com
 lax1-ib.adnxs.com
+layer.bz.mgtv.com
 lb-api.visitor-analytics.io
 lbs-samsung.swypeconnect.com
 lc.chat
@@ -5869,6 +5876,7 @@ log.im.baidu.com
 log.inkitt.com
 log.internetat.tv
 log.map.baidu.com
+log.mgtv.net
 log.mix.sina.com.cn
 log.motorola.com
 log.news.baidu.com
@@ -6204,6 +6212,7 @@ marketing.ai.xiaomi.com
 marketing.dropbox.com
 marketing.event-tracking.samsung.com
 marketing.flo.health
+marketing.mgtv.net
 marketing.outbrain.com
 marketing.services.apple
 marketplace-analytics.canonical.com
@@ -6522,6 +6531,7 @@ metrics.mcafee.com
 metrics.media-amazon.com
 metrics.megawinslots.com
 metrics.meitu.com
+metrics.mgtv.net
 metrics.mindbodyonline.com
 metrics.moises.ai
 metrics.motorola.com
@@ -7370,6 +7380,7 @@ pc-clarity.us.dell.com
 pc-mon-va.byteoversea.com
 pc-mon.snssdk.com
 pcad.video.baidu.com
+pcc-v1.log.mgtv.net
 pccleaner.site
 pccleanerpro.com
 pcdrivershq.com
@@ -7390,7 +7401,10 @@ pcstatbak.kugou.com
 pctuneupmaestro.com
 pcv.com
 pcvark.com
+pcweb-v1.log.mgtv.net
 pdat.matterlytics.com
+pdata.log.mgtv.com
+pdata.log.mgtv.net
 pdmp.dcapi.dmp.3lift.com
 pdmp.papi-public.eu-central-1.dmp.3lift.com
 pdmp.papi-public.us-east-1.dmp.3lift.com
@@ -10443,6 +10457,7 @@ v.clarity.ms
 v.plerdy.com
 v.vungle.com
 v.w-x.co
+v1-play.log.mgtv.net
 v1.adf.ly
 v1.log.moji.com
 v1.oddsserve.com
@@ -10450,6 +10465,7 @@ v1.telemetry.coder.com
 v16-ad.byteoversea.com
 v2.adf.ly
 v2.chartboost.com
+v2.log.mgtv.net
 v2.log.moji.com
 v2.whapi.chartboost.com
 v3.log.moji.com
@@ -10914,6 +10930,7 @@ xlog16-normal-useast8.us.tiktokv.com
 xlog16-platform-useast5.us.tiktokv.com
 xlog16-platform-ycru.tiktokv.com
 xlog16-tmp-normal-useast1a.tiktokv.com
+xmerr.log.mgtv.com
 xmetrics.camsoda.com
 xmode.io
 xn--ex-adreq-asa-c5b.vivoglobal.com

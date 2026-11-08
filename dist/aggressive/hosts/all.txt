@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11025
+# Total domains: 11042
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3503,6 +3503,8 @@
 0.0.0.0 collect.airbrake.io
 0.0.0.0 collect.babbel.io
 0.0.0.0 collect.biomedcentral.com
+0.0.0.0 collect.bz.mgtv.com
+0.0.0.0 collect.bz.mgtv.net
 0.0.0.0 collect.contentsquare.net
 0.0.0.0 collect.evergage.com
 0.0.0.0 collect.ficfun.com
@@ -3720,6 +3722,7 @@
 0.0.0.0 crash.bamgrid.com
 0.0.0.0 crash.corsair.com
 0.0.0.0 crash.cyberlink.com
+0.0.0.0 crash.data.v2.mgtv.com
 0.0.0.0 crash.dji.com
 0.0.0.0 crash.elementary.io
 0.0.0.0 crash.grindr.com
@@ -4138,6 +4141,7 @@
 0.0.0.0 download-stats.mozilla.org
 0.0.0.0 download.reimage.com
 0.0.0.0 download.restoro.com
+0.0.0.0 dpapm.log.mgtv.net
 0.0.0.0 dpbolvw.net
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dpu.samsungelectronics.com
@@ -4255,6 +4259,8 @@
 0.0.0.0 easyad.360.cn
 0.0.0.0 eb2.3lift.com
 0.0.0.0 ebonyflirt.com
+0.0.0.0 ec-app.log.mgtv.com
+0.0.0.0 ec.log.mgtv.com
 0.0.0.0 eccmp.com
 0.0.0.0 ecleneue.com
 0.0.0.0 eclick.baidu.com
@@ -5687,6 +5693,7 @@
 0.0.0.0 lavasoft.com
 0.0.0.0 lax1-ib.adnxs-simple.com
 0.0.0.0 lax1-ib.adnxs.com
+0.0.0.0 layer.bz.mgtv.com
 0.0.0.0 lb-api.visitor-analytics.io
 0.0.0.0 lbs-samsung.swypeconnect.com
 0.0.0.0 lc.chat
@@ -5869,6 +5876,7 @@
 0.0.0.0 log.inkitt.com
 0.0.0.0 log.internetat.tv
 0.0.0.0 log.map.baidu.com
+0.0.0.0 log.mgtv.net
 0.0.0.0 log.mix.sina.com.cn
 0.0.0.0 log.motorola.com
 0.0.0.0 log.news.baidu.com
@@ -6204,6 +6212,7 @@
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.event-tracking.samsung.com
 0.0.0.0 marketing.flo.health
+0.0.0.0 marketing.mgtv.net
 0.0.0.0 marketing.outbrain.com
 0.0.0.0 marketing.services.apple
 0.0.0.0 marketplace-analytics.canonical.com
@@ -6522,6 +6531,7 @@
 0.0.0.0 metrics.media-amazon.com
 0.0.0.0 metrics.megawinslots.com
 0.0.0.0 metrics.meitu.com
+0.0.0.0 metrics.mgtv.net
 0.0.0.0 metrics.mindbodyonline.com
 0.0.0.0 metrics.moises.ai
 0.0.0.0 metrics.motorola.com
@@ -7370,6 +7380,7 @@
 0.0.0.0 pc-mon-va.byteoversea.com
 0.0.0.0 pc-mon.snssdk.com
 0.0.0.0 pcad.video.baidu.com
+0.0.0.0 pcc-v1.log.mgtv.net
 0.0.0.0 pccleaner.site
 0.0.0.0 pccleanerpro.com
 0.0.0.0 pcdrivershq.com
@@ -7390,7 +7401,10 @@
 0.0.0.0 pctuneupmaestro.com
 0.0.0.0 pcv.com
 0.0.0.0 pcvark.com
+0.0.0.0 pcweb-v1.log.mgtv.net
 0.0.0.0 pdat.matterlytics.com
+0.0.0.0 pdata.log.mgtv.com
+0.0.0.0 pdata.log.mgtv.net
 0.0.0.0 pdmp.dcapi.dmp.3lift.com
 0.0.0.0 pdmp.papi-public.eu-central-1.dmp.3lift.com
 0.0.0.0 pdmp.papi-public.us-east-1.dmp.3lift.com
@@ -10443,6 +10457,7 @@
 0.0.0.0 v.plerdy.com
 0.0.0.0 v.vungle.com
 0.0.0.0 v.w-x.co
+0.0.0.0 v1-play.log.mgtv.net
 0.0.0.0 v1.adf.ly
 0.0.0.0 v1.log.moji.com
 0.0.0.0 v1.oddsserve.com
@@ -10450,6 +10465,7 @@
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 v2.adf.ly
 0.0.0.0 v2.chartboost.com
+0.0.0.0 v2.log.mgtv.net
 0.0.0.0 v2.log.moji.com
 0.0.0.0 v2.whapi.chartboost.com
 0.0.0.0 v3.log.moji.com
@@ -10914,6 +10930,7 @@
 0.0.0.0 xlog16-platform-useast5.us.tiktokv.com
 0.0.0.0 xlog16-platform-ycru.tiktokv.com
 0.0.0.0 xlog16-tmp-normal-useast1a.tiktokv.com
+0.0.0.0 xmerr.log.mgtv.com
 0.0.0.0 xmetrics.camsoda.com
 0.0.0.0 xmode.io
 0.0.0.0 xn--ex-adreq-asa-c5b.vivoglobal.com

@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 434
+# Total domains: 451
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -154,6 +154,8 @@
 0.0.0.0 channels-metrics.primevideo.com
 0.0.0.0 chartbeat.com
 0.0.0.0 chartbeat.net
+0.0.0.0 collect.bz.mgtv.com
+0.0.0.0 collect.bz.mgtv.net
 0.0.0.0 collect.youbora.com
 0.0.0.0 collector-eu.conviva.com
 0.0.0.0 collector-us.conviva.com
@@ -164,6 +166,7 @@
 0.0.0.0 crash-reports.hulu.com
 0.0.0.0 crash-reports.netflix.com
 0.0.0.0 crash.bamgrid.com
+0.0.0.0 crash.data.v2.mgtv.com
 0.0.0.0 cricket-metrics.hotstar.com
 0.0.0.0 ctv-verification.pixalate.com
 0.0.0.0 customdomains.litix.io
@@ -184,6 +187,9 @@
 0.0.0.0 disney.my.sentry.io
 0.0.0.0 disneyplus.com.ssl.sc.omtrdc.net
 0.0.0.0 documentary-analytics.curiositystream.com
+0.0.0.0 dpapm.log.mgtv.net
+0.0.0.0 ec-app.log.mgtv.com
+0.0.0.0 ec.log.mgtv.com
 0.0.0.0 engage.kaltura.com
 0.0.0.0 engage.youbora.com
 0.0.0.0 engagement.brightcove.com
@@ -232,6 +238,7 @@
 0.0.0.0 intelligence.conviva.com
 0.0.0.0 jwpltx.com
 0.0.0.0 k.pluto.tv
+0.0.0.0 layer.bz.mgtv.com
 0.0.0.0 lightning.adultswim.co.uk
 0.0.0.0 lightning.adultswim.com
 0.0.0.0 litix.mux.com
@@ -245,12 +252,14 @@
 0.0.0.0 live-sports-analytics.hotstar.com
 0.0.0.0 live-streaming-metrics.amazon.com
 0.0.0.0 livestats.kaltura.com
+0.0.0.0 log.mgtv.net
 0.0.0.0 log.tving.com
 0.0.0.0 logging.bamgrid.com
 0.0.0.0 logging.netflix.com
 0.0.0.0 logs.hulu.com
 0.0.0.0 logs.netflix.com
 0.0.0.0 lstat.youku.com
+0.0.0.0 marketing.mgtv.net
 0.0.0.0 metrics.abema.tv
 0.0.0.0 metrics.binge.com.au
 0.0.0.0 metrics.bitmovin.com
@@ -275,6 +284,7 @@
 0.0.0.0 metrics.jwplayer.com
 0.0.0.0 metrics.max.com
 0.0.0.0 metrics.media-amazon.com
+0.0.0.0 metrics.mgtv.net
 0.0.0.0 metrics.movistarplus.es
 0.0.0.0 metrics.mubi.com
 0.0.0.0 metrics.mux.com
@@ -312,7 +322,11 @@
 0.0.0.0 nqs-us.youbora.com
 0.0.0.0 nqs.youbora.com
 0.0.0.0 parsely.com
+0.0.0.0 pcc-v1.log.mgtv.net
 0.0.0.0 pcp-live-metrics-service.netflix.com
+0.0.0.0 pcweb-v1.log.mgtv.net
+0.0.0.0 pdata.log.mgtv.com
+0.0.0.0 pdata.log.mgtv.net
 0.0.0.0 performance.netflix.com
 0.0.0.0 personalization.hbomax.com
 0.0.0.0 personalization.hulu.com
@@ -411,6 +425,8 @@
 0.0.0.0 us-east-1-2.telemetry.insights.video.a2z.com
 0.0.0.0 us-east-1-3.telemetry.insights.video.a2z.com
 0.0.0.0 us-west-2-1.telemetry.insights.video.a2z.com
+0.0.0.0 v1-play.log.mgtv.net
+0.0.0.0 v2.log.mgtv.net
 0.0.0.0 vce.comscore.com
 0.0.0.0 verification.pixalate.com
 0.0.0.0 verification.protected.media
@@ -436,6 +452,7 @@
 0.0.0.0 video.chartbeat.com
 0.0.0.0 vizio.adsmeasurement.com
 0.0.0.0 vod-cm-ad-08-18.video.globo.com
+0.0.0.0 xmerr.log.mgtv.com
 0.0.0.0 youbora.com
 0.0.0.0 youboranqs01.com
 0.0.0.0 youtrack.ops.connatix.com
