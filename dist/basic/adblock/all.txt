@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10557
+# Total domains: 10558
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8486,6 +8486,7 @@
 ||ssp.smartyads.com^
 ||ssp.sportsthread.com^
 ||ssp.xiaomi.com^
+||ssp.zeasn.tv^
 ||ssp.zetaglobal.com^
 ||sspapi-prd.samsungrs.com^
 ||sstat.spreadex.com^

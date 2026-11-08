@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11045
+# Total domains: 11046
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8887,6 +8887,7 @@
 ||ssp.smartyads.com^
 ||ssp.sportsthread.com^
 ||ssp.xiaomi.com^
+||ssp.zeasn.tv^
 ||ssp.zetaglobal.com^
 ||sspapi-prd.samsungrs.com^
 ||sstat.spreadex.com^

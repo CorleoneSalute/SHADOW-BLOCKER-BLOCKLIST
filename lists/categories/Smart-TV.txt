@@ -1,6 +1,6 @@
 # SMART TV BLOCKLIST
 
-# Total domains: 571
+# Total domains: 572
 # Last update: 2026/11/08
 # Note: trailing "!" marks a domain as aggressive-only
 

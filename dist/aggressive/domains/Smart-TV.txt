@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - AGGRESSIVE
-# Total domains: 571
+# Total domains: 572
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -486,6 +486,7 @@ smetrics-cns.panasonic.com
 smetrics.panasonic.com
 smetrics.samsung.com
 smetrics.samsung.com.cn
+ssp.zeasn.tv
 stats.hisensetv.com
 stbngms.anyevonline.com
 sugarland.logs.roku.com

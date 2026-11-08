@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - BASIC
-# Total domains: 529
+# Total domains: 530
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -449,6 +449,7 @@
 0.0.0.0 smetrics.panasonic.com
 0.0.0.0 smetrics.samsung.com
 0.0.0.0 smetrics.samsung.com.cn
+0.0.0.0 ssp.zeasn.tv
 0.0.0.0 stats.hisensetv.com
 0.0.0.0 stbngms.anyevonline.com
 0.0.0.0 sugarland.logs.roku.com
