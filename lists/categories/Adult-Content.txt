@@ -51,6 +51,7 @@ collector.xhamster2.com
 collector1.xhamster2.com
 collector2.xhamster2.com
 collector3.xhamster2.com
+analytics.xhamsterlive.info
 
 # TXXX
 
@@ -215,5 +216,9 @@ ads.xxxvideo.link
 
 # spankbanglive.com ⚠️ unauthorized trademark use
 
+spankbanglive.com 
 analytics.spankbanglive.com
-spankbanglive.com !
+
+# xham.live ⚠️ unauthorized trademark use
+
+xham.live
