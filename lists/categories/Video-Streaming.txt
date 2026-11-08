@@ -415,6 +415,15 @@ ads.aplusapi.pptv.com
 ads.huan.tv
 monitor-ads.huan.tv !
 
+# AirTV
+
+analytics.airtv.net
+smetrics.airtv.net
+
+# 株式会社エブリー (every, Inc.)
+
+ads.every.tv
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
