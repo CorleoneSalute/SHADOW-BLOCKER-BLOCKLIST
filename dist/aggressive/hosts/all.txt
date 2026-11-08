@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11046
+# Total domains: 11047
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8406,6 +8406,7 @@
 0.0.0.0 sdk-exchange.startappservice.com
 0.0.0.0 sdk-ios.adikteev.com
 0.0.0.0 sdk-ios.zetaglobal.com
+0.0.0.0 sdk-log.jowo.tv
 0.0.0.0 sdk-video.brightdata.com
 0.0.0.0 sdk-writer.br.smartlook.cloud
 0.0.0.0 sdk-writer.eu.smartlook.cloud

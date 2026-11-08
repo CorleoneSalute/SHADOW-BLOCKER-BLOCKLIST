@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 453
+# Total domains: 454
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -371,6 +371,7 @@ sa-east-1-1.telemetry.insights.video.a2z.com
 saa.cbsi.com
 saa.paramountplus.com
 sanalytics.adultswim.co.uk
+sdk-log.jowo.tv
 sdk.conviva.com
 sentry.justwatch.com
 service-ad-impression-proxy.clusters.pluto.tv

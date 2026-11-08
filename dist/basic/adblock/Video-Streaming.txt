@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 408
+# Total domains: 409
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -337,6 +337,7 @@
 ||s.n.jwpltx.com^
 ||sa-east-1-1.telemetry.insights.video.a2z.com^
 ||sanalytics.adultswim.co.uk^
+||sdk-log.jowo.tv^
 ||sdk.conviva.com^
 ||sentry.justwatch.com^
 ||service-ad-impression-proxy.clusters.pluto.tv^
