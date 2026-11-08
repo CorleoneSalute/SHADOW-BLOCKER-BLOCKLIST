@@ -3184,12 +3184,23 @@ discovertech-alb-100966113.us-east-1.elb.amazonaws.com
 
 panotads.com
 
-# Adtrck
+# Adktrck
 
 adktrack.com
 adktrack68.xyz
 adktrack124.xyz
 adktrack.124.xyz
+adktrack12.xyz
+adktrack28.xyz
+adktrack32.xyz
+adktrack37.xyz
+adktrack39.xyz
+adktrack42.xyz
+adktrack45.xyz
+adktrack55.xyz
+adktrack72.xyz
+adktrack82.xyz
+adktrack84.xyz
 
 # R2 Ads
 
