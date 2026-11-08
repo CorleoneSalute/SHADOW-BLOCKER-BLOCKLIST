@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11057
+# Total domains: 11059
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -728,6 +728,7 @@
 0.0.0.0 ads.peacocktv.com
 0.0.0.0 ads.phonepe.com
 0.0.0.0 ads.pinterest.com
+0.0.0.0 ads.planetwin365affiliate.com
 0.0.0.0 ads.pluto.tv
 0.0.0.0 ads.podbean.com
 0.0.0.0 ads.pokerist.com
@@ -8645,6 +8646,7 @@
 0.0.0.0 sgtm.indrive.com
 0.0.0.0 sgtm.nabidka.canalplus.com
 0.0.0.0 sgtm.nurx.com
+0.0.0.0 sgtm.planetwin365.it
 0.0.0.0 sgtm.pokerstars.de
 0.0.0.0 sgtm.skrill.com
 0.0.0.0 sgtm.sky.it

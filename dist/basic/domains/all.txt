@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10568
+# Total domains: 10570
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -697,6 +697,7 @@ ads.paytm.com
 ads.peacocktv.com
 ads.phonepe.com
 ads.pinterest.com
+ads.planetwin365affiliate.com
 ads.pokerist.com
 ads.realnetworks.com
 ads.rebrandly.com
@@ -8255,6 +8256,7 @@ sgtm.elofizetek.canalplus.com
 sgtm.indrive.com
 sgtm.nabidka.canalplus.com
 sgtm.nurx.com
+sgtm.planetwin365.it
 sgtm.pokerstars.de
 sgtm.skrill.com
 sgtm.sky.it

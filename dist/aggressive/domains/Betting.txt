@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 310
+# Total domains: 312
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -26,6 +26,7 @@ ads.betou.bet.br
 ads.bing.vera.bet.br
 ads.mrgreen.com
 ads.oddschecker.com
+ads.planetwin365affiliate.com
 ads.pokerist.com
 ads.sisal.it
 ads.sortenabet.bet.br
@@ -217,6 +218,7 @@ sentry.api.starzbet.com
 sentry.predict.fun
 sgtm.7k.bet.br
 sgtm.cassino.bet.br
+sgtm.planetwin365.it
 sgtm.pokerstars.de
 sgtm.vera.bet.br
 site-analytics.api.starzbet.com
