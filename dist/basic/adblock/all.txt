@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10512
+# Total domains: 10514
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5614,6 +5614,7 @@
 ||log.thumbnails.opera.com^
 ||log.tiktokv.com^
 ||log.tiktokv.us^
+||log.tranny.show^
 ||log.transsion.com^
 ||log.tresorit.com^
 ||log.tving.com^
@@ -5779,6 +5780,7 @@
 ||logs.ironsrc.mobi^
 ||logs.n.xiaomi.com^
 ||logs.netflix.com^
+||logs.nsfwlivechat.com^
 ||logs.o.webex.com^
 ||logs.olark.com^
 ||logs.petcube.com^

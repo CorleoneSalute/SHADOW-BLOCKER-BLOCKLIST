@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 102
+# Total domains: 104
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -88,7 +88,9 @@
 ||googleads.g.xnxx.net^
 ||googleads.xnxx.net^
 ||integration-analytic.sxyprn.co^
+||log.tranny.show^
 ||logger.watchporn.to^
+||logs.nsfwlivechat.com^
 ||logs.sankakucomplex.com^
 ||metrics.imlive.com^
 ||monitor.skyprivate.com^

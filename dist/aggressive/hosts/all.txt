@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10999
+# Total domains: 11001
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5887,6 +5887,7 @@
 0.0.0.0 log.thumbnails.opera.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log.tiktokv.us
+0.0.0.0 log.tranny.show
 0.0.0.0 log.transsion.com
 0.0.0.0 log.tresorit.com
 0.0.0.0 log.tving.com
@@ -6052,6 +6053,7 @@
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logs.n.xiaomi.com
 0.0.0.0 logs.netflix.com
+0.0.0.0 logs.nsfwlivechat.com
 0.0.0.0 logs.o.webex.com
 0.0.0.0 logs.olark.com
 0.0.0.0 logs.petcube.com

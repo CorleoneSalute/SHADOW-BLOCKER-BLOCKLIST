@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - AGGRESSIVE
-# Total domains: 118
+# Total domains: 120
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -91,7 +91,9 @@ fp.watchporn.to
 googleads.g.xnxx.net
 googleads.xnxx.net
 integration-analytic.sxyprn.co
+log.tranny.show
 logger.watchporn.to
+logs.nsfwlivechat.com
 logs.sankakucomplex.com
 metrics.imlive.com
 monitor.skyprivate.com

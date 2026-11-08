@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - AGGRESSIVE
-# Total domains: 118
+# Total domains: 120
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -91,7 +91,9 @@
 0.0.0.0 googleads.g.xnxx.net
 0.0.0.0 googleads.xnxx.net
 0.0.0.0 integration-analytic.sxyprn.co
+0.0.0.0 log.tranny.show
 0.0.0.0 logger.watchporn.to
+0.0.0.0 logs.nsfwlivechat.com
 0.0.0.0 logs.sankakucomplex.com
 0.0.0.0 metrics.imlive.com
 0.0.0.0 monitor.skyprivate.com
