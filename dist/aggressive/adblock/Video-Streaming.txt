@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 458
+# Total domains: 464
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -206,6 +206,8 @@
 ||events.jwplayer.com^
 ||events.kaltura.com^
 ||events.mux.com^
+||events.zahs.tv^
+||events.zba-prod.zahs.tv^
 ||experience.conviva.com^
 ||experience.piano.io^
 ||experiments.disneyplus.com^
@@ -324,6 +326,7 @@
 ||nqs-eu.youbora.com^
 ||nqs-us.youbora.com^
 ||nqs.youbora.com^
+||otel.zba-prod.k8s.zattoo.com^
 ||parsely.com^
 ||pcc-v1.log.mgtv.net^
 ||pcp-live-metrics-service.netflix.com^
@@ -403,6 +406,8 @@
 ||stats.youku.com^
 ||stg.jwpltx.com^
 ||streaming.conviva.com^
+||telemetrics.zattools.zattoo.com^
+||telemetry-api.k8s.zahs.tv^
 ||telemetry.bamgrid.com^
 ||telemetry.bitmovin.com^
 ||telemetry.crunchyroll.com^
@@ -453,6 +458,7 @@
 ||video-analytics.zee5.com^
 ||video-census.comscore.com^
 ||video-metrics.hbomax.com^
+||video-metrics.zba-prod.k8s.zattoo.com^
 ||video-ping.chartbeat.net^
 ||video-player-metrics.amazon.com^
 ||video-verification.pixalate.com^

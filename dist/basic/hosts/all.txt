@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10563
+# Total domains: 10568
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4374,6 +4374,8 @@
 0.0.0.0 events.upside.com
 0.0.0.0 events.watchporn.to
 0.0.0.0 events.yieldmo.com
+0.0.0.0 events.zahs.tv
+0.0.0.0 events.zba-prod.zahs.tv
 0.0.0.0 events.zergnet.com
 0.0.0.0 events.zetaglobal.com
 0.0.0.0 events01.huawei.com
@@ -6952,6 +6954,7 @@
 0.0.0.0 otel-http.khealth.com
 0.0.0.0 otel.atmeta.com
 0.0.0.0 otel.observability.app.launchdarkly.com
+0.0.0.0 otel.zba-prod.k8s.zattoo.com
 0.0.0.0 oth.dt00.net
 0.0.0.0 oth.dt07.net
 0.0.0.0 oth.mgid.com
@@ -8919,7 +8922,9 @@
 0.0.0.0 tekma.io
 0.0.0.0 telaria.com
 0.0.0.0 telemetrics-collector.01.org
+0.0.0.0 telemetrics.zattools.zattoo.com
 0.0.0.0 telemetry-analytic-api.optisigns.com
+0.0.0.0 telemetry-api.k8s.zahs.tv
 0.0.0.0 telemetry-api.rockstargames.com
 0.0.0.0 telemetry-console.api.playstation.com
 0.0.0.0 telemetry-coverage.mozilla.org

@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 413
+# Total domains: 418
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -195,6 +195,8 @@ events-analytics.hotstar.com
 events.jwplayer.com
 events.kaltura.com
 events.mux.com
+events.zahs.tv
+events.zba-prod.zahs.tv
 experience.conviva.com
 experience.piano.io
 fluid-player-analytics.sky.it
@@ -302,6 +304,7 @@ nqs-apac.youbora.com
 nqs-eu.youbora.com
 nqs-us.youbora.com
 nqs.youbora.com
+otel.zba-prod.k8s.zattoo.com
 parsely.com
 pcc-v1.log.mgtv.net
 pcp-live-metrics-service.netflix.com
@@ -367,6 +370,8 @@ stats.tou.tv
 stats.youku.com
 stg.jwpltx.com
 streaming.conviva.com
+telemetrics.zattools.zattoo.com
+telemetry-api.k8s.zahs.tv
 telemetry.bamgrid.com
 telemetry.bitmovin.com
 telemetry.crunchyroll.com
