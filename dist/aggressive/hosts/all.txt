@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10986
+# Total domains: 10995
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -579,6 +579,7 @@
 0.0.0.0 ads-v-darwin.hulu.com
 0.0.0.0 ads-v.reddit.com
 0.0.0.0 ads.1muslimapp.com
+0.0.0.0 ads.3xxx.gay
 0.0.0.0 ads.7k.bet.br
 0.0.0.0 ads.ac.vip.bf1.yahoo.com
 0.0.0.0 ads.ac.vip.ne1.yahoo.com
@@ -783,6 +784,7 @@
 0.0.0.0 ads.wineenthusiast.com
 0.0.0.0 ads.world.waze.com
 0.0.0.0 ads.x.com
+0.0.0.0 ads.xxxvideo.link
 0.0.0.0 ads.yahoo.co.jp
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yandex.com
@@ -1453,6 +1455,7 @@
 0.0.0.0 analytics.boomy.com
 0.0.0.0 analytics.boosteroid.com
 0.0.0.0 analytics.box.com
+0.0.0.0 analytics.boyfriend.show
 0.0.0.0 analytics.brain.fm
 0.0.0.0 analytics.branch.io
 0.0.0.0 analytics.brave.com
@@ -1466,6 +1469,7 @@
 0.0.0.0 analytics.buzzsprout.com
 0.0.0.0 analytics.bwin.com
 0.0.0.0 analytics.ca.visitnow.org
+0.0.0.0 analytics.cambaddies.com
 0.0.0.0 analytics.cambly.com
 0.0.0.0 analytics.canalplus.com
 0.0.0.0 analytics.capitaloneshopping.com
@@ -1575,6 +1579,7 @@
 0.0.0.0 analytics.fetch.com
 0.0.0.0 analytics.ff.avast.sec.miui.com
 0.0.0.0 analytics.ff.awast.com
+0.0.0.0 analytics.fikfapcams.com
 0.0.0.0 analytics.filefactory.com
 0.0.0.0 analytics.fitbark.com
 0.0.0.0 analytics.fitbit.com
@@ -1760,6 +1765,7 @@
 0.0.0.0 analytics.mux.com
 0.0.0.0 analytics.mxplayer.in
 0.0.0.0 analytics.my.jdownloader.org
+0.0.0.0 analytics.mycamtv.com
 0.0.0.0 analytics.myfitnesspal.com
 0.0.0.0 analytics.myflotracker.com
 0.0.0.0 analytics.native-instruments.com
@@ -1789,6 +1795,7 @@
 0.0.0.0 analytics.okcupid.com
 0.0.0.0 analytics.okta.com
 0.0.0.0 analytics.olacabs.com
+0.0.0.0 analytics.omg.adult
 0.0.0.0 analytics.onepeloton.com
 0.0.0.0 analytics.oneplus.net
 0.0.0.0 analytics.oogly.io
@@ -1851,6 +1858,7 @@
 0.0.0.0 analytics.pointdrive.linkedin-ei.com
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.polar.com
+0.0.0.0 analytics.porndudecams.com
 0.0.0.0 analytics.powervision.me
 0.0.0.0 analytics.prageru.com
 0.0.0.0 analytics.prembly.com
@@ -1922,6 +1930,7 @@
 0.0.0.0 analytics.shadow.tech
 0.0.0.0 analytics.shapesecurity.com
 0.0.0.0 analytics.shazam.com
+0.0.0.0 analytics.shemale.show
 0.0.0.0 analytics.short.io
 0.0.0.0 analytics.shorte.st
 0.0.0.0 analytics.shrtfly.com

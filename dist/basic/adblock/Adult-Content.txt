@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 89
+# Total domains: 98
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -14,11 +14,13 @@
 ||ad2.watchporn.to^
 ||adcreative2.awempire.com^
 ||adimg.watchporn.to^
+||ads.3xxx.gay^
 ||ads.cams.com^
 ||ads.chaturbate.com^
 ||ads.javmost.com^
 ||ads.txxx.com^
 ||ads.watchporn.to^
+||ads.xxxvideo.link^
 ||ads129xdriver.watchporn.to^
 ||ads2.javmost.com^
 ||ads2.watchporn.to^
@@ -31,7 +33,14 @@
 ||advertising.watchporn.to^
 ||analytic.watchporn.to^
 ||analytics-sandbox.sxyprn.co^
+||analytics.boyfriend.show^
+||analytics.cambaddies.com^
+||analytics.fikfapcams.com^
 ||analytics.livejasmin.com^
+||analytics.mycamtv.com^
+||analytics.omg.adult^
+||analytics.porndudecams.com^
+||analytics.shemale.show^
 ||analytics.stripchat.direct^
 ||analytics.stripchat.ooo^
 ||analytics.stripchats.global^

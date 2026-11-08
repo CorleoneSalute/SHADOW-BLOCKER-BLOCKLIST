@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10499
+# Total domains: 10508
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -556,6 +556,7 @@ ads-useast2a.tiktok.com
 ads-v-darwin.hulu.com
 ads-v.reddit.com
 ads.1muslimapp.com
+ads.3xxx.gay
 ads.7k.bet.br
 ads.ac.vip.bf1.yahoo.com
 ads.ac.vip.ne1.yahoo.com
@@ -749,6 +750,7 @@ ads.weatherbug.com
 ads.wineenthusiast.com
 ads.world.waze.com
 ads.x.com
+ads.xxxvideo.link
 ads.yahoo.co.jp
 ads.yahoo.com
 ads.yandex.com
@@ -1405,6 +1407,7 @@ analytics.booksy.com
 analytics.boomy.com
 analytics.boosteroid.com
 analytics.box.com
+analytics.boyfriend.show
 analytics.brain.fm
 analytics.branch.io
 analytics.brave.com
@@ -1418,6 +1421,7 @@ analytics.busuu.com
 analytics.buzzsprout.com
 analytics.bwin.com
 analytics.ca.visitnow.org
+analytics.cambaddies.com
 analytics.cambly.com
 analytics.canalplus.com
 analytics.capitaloneshopping.com
@@ -1527,6 +1531,7 @@ analytics.fertilityfriend.com
 analytics.fetch.com
 analytics.ff.avast.sec.miui.com
 analytics.ff.awast.com
+analytics.fikfapcams.com
 analytics.filefactory.com
 analytics.fitbark.com
 analytics.fitbit.com
@@ -1712,6 +1717,7 @@ analytics.muslimpro.com
 analytics.mux.com
 analytics.mxplayer.in
 analytics.my.jdownloader.org
+analytics.mycamtv.com
 analytics.myfitnesspal.com
 analytics.myflotracker.com
 analytics.native-instruments.com
@@ -1741,6 +1747,7 @@ analytics.obsidian.md
 analytics.okcupid.com
 analytics.okta.com
 analytics.olacabs.com
+analytics.omg.adult
 analytics.onepeloton.com
 analytics.oneplus.net
 analytics.oogly.io
@@ -1802,6 +1809,7 @@ analytics.pof.com
 analytics.pointdrive.linkedin-ei.com
 analytics.pointdrive.linkedin.com
 analytics.polar.com
+analytics.porndudecams.com
 analytics.powervision.me
 analytics.prageru.com
 analytics.prembly.com
@@ -1873,6 +1881,7 @@ analytics.scruff.com
 analytics.shadow.tech
 analytics.shapesecurity.com
 analytics.shazam.com
+analytics.shemale.show
 analytics.short.io
 analytics.shorte.st
 analytics.shrtfly.com
