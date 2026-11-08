@@ -120,6 +120,7 @@ analytics.stripchat.direct
 analytics.stripchat.ooo
 analytics.stripchats.global
 analytics.strp.chat
+ad.stripchat.ninja
 stripchat.com !
 stripchat.net !
 stripchat.global !
