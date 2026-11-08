@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10532
+# Total domains: 10535
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -483,6 +483,7 @@
 ||adperio.com^
 ||adplatform.apple.com^
 ||adplayer.pro^
+||adplayer.videoplaza.tv^
 ||adplify.com^
 ||adpopcorn.com^
 ||adportal.io^
@@ -864,6 +865,7 @@
 ||adservers.com.br^
 ||adservices.google.com^
 ||adservices.roku.com^
+||adserving-edge.videoplaza.tv^
 ||adserving-tmp.unibet.com^
 ||adserving.unibet.com^
 ||adsfactor.net^
@@ -10091,6 +10093,7 @@
 ||videoevents.outbrain.com^
 ||videoexternalapi.outbrain.com^
 ||videohub.tv^
+||videoplaza.tv^
 ||vids.3lift.com^
 ||vidstat.taboola.com^
 ||vidstatb.taboola.com^

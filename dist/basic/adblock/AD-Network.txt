@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2419
+# Total domains: 2422
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -183,6 +183,7 @@
 ||adnxs.net^
 ||adpatrof.com^
 ||adplayer.pro^
+||adplayer.videoplaza.tv^
 ||adplify.com^
 ||adpopcorn.com^
 ||adportal.io^
@@ -265,6 +266,7 @@
 ||adserverplugins.com^
 ||adservers.com.br^
 ||adservices.google.com^
+||adserving-edge.videoplaza.tv^
 ||adsfactor.net^
 ||adsfloow.net^
 ||adsfly.app^
@@ -2280,6 +2282,7 @@
 ||videoevents.outbrain.com^
 ||videoexternalapi.outbrain.com^
 ||videohub.tv^
+||videoplaza.tv^
 ||vids.3lift.com^
 ||vidstat.taboola.com^
 ||vidstatb.taboola.com^

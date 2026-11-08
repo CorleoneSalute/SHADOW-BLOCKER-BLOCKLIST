@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2429
+# Total domains: 2432
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -183,6 +183,7 @@ adnxs.com
 adnxs.net
 adpatrof.com
 adplayer.pro
+adplayer.videoplaza.tv
 adplify.com
 adpopcorn.com
 adportal.io
@@ -266,6 +267,7 @@ adserverhd.com
 adserverplugins.com
 adservers.com.br
 adservices.google.com
+adserving-edge.videoplaza.tv
 adsfactor.net
 adsfloow.net
 adsfly.app
@@ -2289,6 +2291,7 @@ video.vastify.io
 videoevents.outbrain.com
 videoexternalapi.outbrain.com
 videohub.tv
+videoplaza.tv
 vids.3lift.com
 vidstat.taboola.com
 vidstatb.taboola.com
