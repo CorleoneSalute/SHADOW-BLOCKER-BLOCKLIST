@@ -444,6 +444,10 @@ pdata.log.mgtv.net
 v1-play.log.mgtv.net
 v2.log.mgtv.net
 
+# Zapping TV
+
+metrics.zappingtv.com
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
