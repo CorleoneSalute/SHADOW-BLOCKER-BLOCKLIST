@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 431
+# Total domains: 434
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -38,6 +38,7 @@ ads.conviva.com
 ads.crunchyroll.com
 ads.disneyplus.com
 ads.espn.com
+ads.every.tv
 ads.fubo.tv
 ads.hbomax.com
 ads.hotstar.com
@@ -62,6 +63,7 @@ analytics-ingress-eu.bitmovin.com
 analytics-ingress-global.bitmovin.com
 analytics-ingress-us.bitmovin.com
 analytics.abema.tv
+analytics.airtv.net
 analytics.api.brightcove.com
 analytics.bilibili.com
 analytics.binge.com.au
@@ -360,6 +362,7 @@ settings-analytics.hotstar.com
 sgtm.elofizetek.canalplus.com
 sgtm.nabidka.canalplus.com
 smartplugin.youbora.com
+smetrics.airtv.net
 smetrics.help.hulu.com
 sp.justwatch.com
 sports-analytics.paramountplus.com

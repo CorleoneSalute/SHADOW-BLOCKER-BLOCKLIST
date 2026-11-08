@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10527
+# Total domains: 10530
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -633,6 +633,7 @@
 ||ads.epomtestsite.com^
 ||ads.espn.com^
 ||ads.eu.e-planning.net^
+||ads.every.tv^
 ||ads.facebook.com^
 ||ads.fappic.com^
 ||ads.fitbit.com^
@@ -1353,6 +1354,7 @@
 ||analytics.admix.in^
 ||analytics.adobe.com^
 ||analytics.aerial.is^
+||analytics.airtv.net^
 ||analytics.aiva.ai^
 ||analytics.allrecipes.com^
 ||analytics.altered.ai^
@@ -8320,6 +8322,7 @@
 ||smetrics-cns.panasonic.com^
 ||smetrics-ieeexplore.ieee.org^
 ||smetrics.aem.playstation.com^
+||smetrics.airtv.net^
 ||smetrics.amd.com^
 ||smetrics.axs.com^
 ||smetrics.bitdefender.com^
