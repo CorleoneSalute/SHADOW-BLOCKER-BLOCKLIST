@@ -453,6 +453,13 @@ metrics.zappingtv.com
 
 sdk-log.jowo.tv
 
+# Sky Italia S.r.l.
+
+sgtm.sky.it
+fluid-player-analytics.sky.it
+sentry.clients.nowtv.it
+pixel.disco.nowtv.it
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
