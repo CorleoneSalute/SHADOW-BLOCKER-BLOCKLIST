@@ -2494,6 +2494,7 @@
 0.0.0.0 appads.baidu.com
 0.0.0.0 appanalytics.tomtom.com
 0.0.0.0 appcasino.online
+0.0.0.0 apperr.log.mgtv.com
 0.0.0.0 apple-ads.apple.com
 0.0.0.0 apple.com-scan.live
 0.0.0.0 apple.com-shield.live
@@ -10001,7 +10002,6 @@
 0.0.0.0 v.clarity.ms
 0.0.0.0 v.plerdy.com
 0.0.0.0 v.vungle.com
-0.0.0.0 v1-play.log.mgtv.net
 0.0.0.0 v1.adf.ly
 0.0.0.0 v1.log.moji.com
 0.0.0.0 v1.oddsserve.com

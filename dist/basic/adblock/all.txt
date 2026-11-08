@@ -2494,6 +2494,7 @@
 ||appads.baidu.com^
 ||appanalytics.tomtom.com^
 ||appcasino.online^
+||apperr.log.mgtv.com^
 ||apple-ads.apple.com^
 ||apple.com-scan.live^
 ||apple.com-shield.live^
@@ -10001,7 +10002,6 @@
 ||v.clarity.ms^
 ||v.plerdy.com^
 ||v.vungle.com^
-||v1-play.log.mgtv.net^
 ||v1.adf.ly^
 ||v1.log.moji.com^
 ||v1.oddsserve.com^

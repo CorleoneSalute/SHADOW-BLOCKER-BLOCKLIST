@@ -130,6 +130,7 @@ api.chartbeat.com
 api.chartbeat.net
 api.conviva.com
 api.youbora.com
+apperr.log.mgtv.com
 audience.api.brightcove.com
 beacon.netflix.com
 beacon.pluto.tv
@@ -390,7 +391,6 @@ us-east-1-1.telemetry.insights.video.a2z.com
 us-east-1-2.telemetry.insights.video.a2z.com
 us-east-1-3.telemetry.insights.video.a2z.com
 us-west-2-1.telemetry.insights.video.a2z.com
-v1-play.log.mgtv.net
 v2.log.mgtv.net
 vce.comscore.com
 verification.pixalate.com

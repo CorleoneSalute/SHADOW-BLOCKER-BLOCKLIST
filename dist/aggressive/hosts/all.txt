@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11043
+# Total domains: 11044
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2553,6 +2553,7 @@
 0.0.0.0 appads.baidu.com
 0.0.0.0 appanalytics.tomtom.com
 0.0.0.0 appcasino.online
+0.0.0.0 apperr.log.mgtv.com
 0.0.0.0 apple-ads.apple.com
 0.0.0.0 apple.com-scan.live
 0.0.0.0 apple.com-shield.live

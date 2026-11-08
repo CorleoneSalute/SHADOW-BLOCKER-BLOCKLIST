@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 452
+# Total domains: 453
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -136,6 +136,7 @@
 0.0.0.0 api.chartbeat.net
 0.0.0.0 api.conviva.com
 0.0.0.0 api.youbora.com
+0.0.0.0 apperr.log.mgtv.com
 0.0.0.0 audience.api.brightcove.com
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.pluto.tv
