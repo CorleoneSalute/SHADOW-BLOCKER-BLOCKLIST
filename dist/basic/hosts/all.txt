@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10494
-# Generated: 2026-11-07 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10498
+# Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -1912,7 +1912,11 @@
 0.0.0.0 analytics.stickypassword.com
 0.0.0.0 analytics.store-jp.nintendo.com
 0.0.0.0 analytics.strava.com
+0.0.0.0 analytics.stripchat.direct
+0.0.0.0 analytics.stripchat.ooo
+0.0.0.0 analytics.stripchats.global
 0.0.0.0 analytics.stronglifts.com
+0.0.0.0 analytics.strp.chat
 0.0.0.0 analytics.styleseat.com
 0.0.0.0 analytics.subsplash.com
 0.0.0.0 analytics.sunbasket.com

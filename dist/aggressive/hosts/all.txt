@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10973
-# Generated: 2026-11-07 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10985
+# Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -1961,7 +1961,11 @@
 0.0.0.0 analytics.stickypassword.com
 0.0.0.0 analytics.store-jp.nintendo.com
 0.0.0.0 analytics.strava.com
+0.0.0.0 analytics.stripchat.direct
+0.0.0.0 analytics.stripchat.ooo
+0.0.0.0 analytics.stripchats.global
 0.0.0.0 analytics.stronglifts.com
+0.0.0.0 analytics.strp.chat
 0.0.0.0 analytics.styleseat.com
 0.0.0.0 analytics.subsplash.com
 0.0.0.0 analytics.sunbasket.com
@@ -9067,11 +9071,19 @@
 0.0.0.0 street-production.s3.amazonaws.com
 0.0.0.0 streme.fullcontact.com
 0.0.0.0 strikerads.com
+0.0.0.0 stripchat.app
 0.0.0.0 stripchat.com
+0.0.0.0 stripchat.direct
+0.0.0.0 stripchat.fans
 0.0.0.0 stripchat.global
+0.0.0.0 stripchat.me
 0.0.0.0 stripchat.net
+0.0.0.0 stripchat.ninja
+0.0.0.0 stripchat.ooo
+0.0.0.0 stripchat.xyz
 0.0.0.0 stripshow.com
 0.0.0.0 strossle.com
+0.0.0.0 strp.chat
 0.0.0.0 stsdk.vivoglobal.com
 0.0.0.0 ststfstats.megawinslots.com
 0.0.0.0 stx.sharethrough.com

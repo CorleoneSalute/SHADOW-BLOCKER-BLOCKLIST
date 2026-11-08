@@ -1,7 +1,7 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 84
-# Generated: 2026-11-07 (UTC) - auto-generated, do not edit by hand
+# Total domains: 88
+# Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -31,6 +31,10 @@ advertising.watchporn.to
 analytic.watchporn.to
 analytics-sandbox.sxyprn.co
 analytics.livejasmin.com
+analytics.stripchat.direct
+analytics.stripchat.ooo
+analytics.stripchats.global
+analytics.strp.chat
 analytics.sxyprn.coevent.sxyprn.co
 analytics.watchporn.to
 analyze.watchporn.to

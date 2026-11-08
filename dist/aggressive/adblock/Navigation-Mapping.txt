@@ -1,7 +1,7 @@
 # ============================================================
 # NAVIGATION MAPPING BLOCKLIST - AGGRESSIVE
 # Total domains: 49
-# Generated: 2026-11-07 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
