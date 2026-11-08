@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 312
-# Total platforms: 108
+# Total platforms: 109
 # Last update: 2026/11/08
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -550,3 +550,7 @@ tracking.bet.buzz
 
 sgtm.planetwin365.it
 ads.planetwin365affiliate.com
+
+# Gaming VC Corp BV
+
+ads.affiliateclub.com
