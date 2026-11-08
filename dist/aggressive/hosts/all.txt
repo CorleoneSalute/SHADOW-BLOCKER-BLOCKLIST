@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11042
+# Total domains: 11043
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6639,6 +6639,7 @@
 0.0.0.0 metrics.watchnebula.com
 0.0.0.0 metrics.wavve.com
 0.0.0.0 metrics.youbora.com
+0.0.0.0 metrics.zappingtv.com
 0.0.0.0 metrics.zee5.com
 0.0.0.0 metrics.zenoti.com
 0.0.0.0 metrics.zetaglobal.com

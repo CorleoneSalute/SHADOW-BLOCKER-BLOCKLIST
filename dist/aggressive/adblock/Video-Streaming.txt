@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 451
+# Total domains: 452
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -309,6 +309,7 @@
 ||metrics.watchnebula.com^
 ||metrics.wavve.com^
 ||metrics.youbora.com^
+||metrics.zappingtv.com^
 ||metrics.zee5.com^
 ||monitor-ads.huan.tv^
 ||monitoring.youbora.com^
