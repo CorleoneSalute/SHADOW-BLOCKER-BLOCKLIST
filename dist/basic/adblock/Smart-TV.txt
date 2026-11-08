@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - BASIC
-# Total domains: 528
+# Total domains: 529
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -329,6 +329,7 @@
 ||log-legacy.core.cloud.vewd.com^
 ||log.core.cloud.vewd.com^
 ||log.internetat.tv^
+||log.saas.zeasn.tv^
 ||log.vizio.com^
 ||logan.logs.roku.com^
 ||login.ads.roku.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11044
+# Total domains: 11045
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5901,6 +5901,7 @@
 ||log.quantserve.com^
 ||log.reddit.com^
 ||log.replaypoker.com^
+||log.saas.zeasn.tv^
 ||log.sc-prod.net^
 ||log.shazam.com^
 ||log.snow.me^

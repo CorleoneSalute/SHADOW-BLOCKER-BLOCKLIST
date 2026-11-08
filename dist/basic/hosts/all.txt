@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10556
+# Total domains: 10557
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5628,6 +5628,7 @@
 0.0.0.0 log.quantserve.com
 0.0.0.0 log.reddit.com
 0.0.0.0 log.replaypoker.com
+0.0.0.0 log.saas.zeasn.tv
 0.0.0.0 log.sc-prod.net
 0.0.0.0 log.shazam.com
 0.0.0.0 log.snow.me
