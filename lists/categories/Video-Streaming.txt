@@ -460,6 +460,15 @@ fluid-player-analytics.sky.it
 sentry.clients.nowtv.it
 pixel.disco.nowtv.it
 
+# Zattoo
+
+otel.zba-prod.k8s.zattoo.com
+video-metrics.zba-prod.k8s.zattoo.com !
+telemetrics.zattools.zattoo.com
+telemetry-api.k8s.zahs.tv
+events.zahs.tv
+events.zba-prod.zahs.tv
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
