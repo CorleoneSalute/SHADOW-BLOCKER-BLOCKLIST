@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - AGGRESSIVE
-# Total domains: 114
+# Total domains: 116
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -43,6 +43,7 @@
 ||analytics.omg.adult^
 ||analytics.porndudecams.com^
 ||analytics.shemale.show^
+||analytics.spankbanglive.com^
 ||analytics.stripchat.direct^
 ||analytics.stripchat.ooo^
 ||analytics.stripchats.global^
@@ -99,6 +100,7 @@
 ||pxl.stripchat.com^
 ||sentry-new.cams.run^
 ||sentry.cams.run^
+||spankbanglive.com^
 ||sqlmetrics.ord.myfreecams.com^
 ||ss.phncdn.com^
 ||stripchat.app^

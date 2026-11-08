@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10995
+# Total domains: 10997
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1953,6 +1953,7 @@
 ||analytics.soundraw.io^
 ||analytics.soundverse.ai^
 ||analytics.sourcepoint.com^
+||analytics.spankbanglive.com^
 ||analytics.spatial.io^
 ||analytics.speaky.com^
 ||analytics.speechace.com^
@@ -8778,6 +8779,7 @@
 ||sp.justwatch.com^
 ||sp1.convertro.com^
 ||spaceseeker.com^
+||spankbanglive.com^
 ||sparkmeets.com^
 ||spaste.com^
 ||speakol.com^

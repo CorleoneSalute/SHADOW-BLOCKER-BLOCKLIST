@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 98
+# Total domains: 99
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -41,6 +41,7 @@
 ||analytics.omg.adult^
 ||analytics.porndudecams.com^
 ||analytics.shemale.show^
+||analytics.spankbanglive.com^
 ||analytics.stripchat.direct^
 ||analytics.stripchat.ooo^
 ||analytics.stripchats.global^

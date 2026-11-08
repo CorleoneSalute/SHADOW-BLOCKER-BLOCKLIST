@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10508
+# Total domains: 10509
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1904,6 +1904,7 @@
 ||analytics.soundraw.io^
 ||analytics.soundverse.ai^
 ||analytics.sourcepoint.com^
+||analytics.spankbanglive.com^
 ||analytics.spatial.io^
 ||analytics.speaky.com^
 ||analytics.speechace.com^
