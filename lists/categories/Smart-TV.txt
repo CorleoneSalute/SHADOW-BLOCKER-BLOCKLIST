@@ -519,6 +519,7 @@ skyadsmart.com
 analytics.whaletv.com
 collect.whaletv.com
 log.saas.zeasn.tv
+ssp.zeasn.tv
 
 # FOXXUM OS 
 ============================================================
