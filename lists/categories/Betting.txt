@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 310
-# Total platforms: 107
+# Total platforms: 108
 # Last update: 2026/11/06
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -545,3 +545,8 @@ metrics-ib.getsbet.ro
 # BigWin Brazil
 
 tracking.bet.buzz
+
+# PWO S.p.A
+
+sgtm.planetwin365.it
+ads.planetwin365affiliate.com
