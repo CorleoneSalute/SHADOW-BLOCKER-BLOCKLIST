@@ -449,6 +449,10 @@ apperr.log.mgtv.com
 
 metrics.zappingtv.com
 
+# Jowo TV
+
+sdk-log.jowo.tv
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
