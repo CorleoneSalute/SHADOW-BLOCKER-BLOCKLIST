@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 99
+# Total domains: 102
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -48,6 +48,7 @@
 0.0.0.0 analytics.strp.chat
 0.0.0.0 analytics.sxyprn.coevent.sxyprn.co
 0.0.0.0 analytics.watchporn.to
+0.0.0.0 analytics.xhamsterlive.info
 0.0.0.0 analyze.watchporn.to
 0.0.0.0 app-metrics.ord.myfreecams.com
 0.0.0.0 app.log.watchporn.to
@@ -96,6 +97,7 @@
 0.0.0.0 pxl.stripchat.com
 0.0.0.0 sentry-new.cams.run
 0.0.0.0 sentry.cams.run
+0.0.0.0 spankbanglive.com
 0.0.0.0 sqlmetrics.ord.myfreecams.com
 0.0.0.0 track.cam4.com
 0.0.0.0 track.shemale-club.com
@@ -103,4 +105,5 @@
 0.0.0.0 trk.bellesa.co
 0.0.0.0 trk.notify.stripchat.com
 0.0.0.0 trk.sender.stripchat.com
+0.0.0.0 xham.live
 0.0.0.0 xmetrics.camsoda.com

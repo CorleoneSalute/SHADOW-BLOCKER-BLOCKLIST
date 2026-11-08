@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10509
+# Total domains: 10512
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2038,6 +2038,7 @@ analytics.www1-0.pad.squareup.com
 analytics.wysa.io
 analytics.x.com
 analytics.xbox-interactive.com
+analytics.xhamsterlive.info
 analytics.xplayerapp.com
 analytics.yabla.com
 analytics.yahoo.com
@@ -8381,6 +8382,7 @@ sp.gotinder.com
 sp.justwatch.com
 sp1.convertro.com
 spaceseeker.com
+spankbanglive.com
 sparkmeets.com
 speakol.com
 speech.shouji.sogou.com
@@ -10395,6 +10397,7 @@ xcarpartlog.ias.huawei.com
 xcode-metrics.lightricks.com
 xdcs-collector.ximalaya.com
 xerxes.media
+xham.live
 xlmc.sec.miui.com
 xlog-o.byteoversea.com
 xlog-ru.tiktokv.com

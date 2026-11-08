@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 10997
+# Total domains: 10999
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2087,6 +2087,7 @@
 ||analytics.wysa.io^
 ||analytics.x.com^
 ||analytics.xbox-interactive.com^
+||analytics.xhamsterlive.info^
 ||analytics.xplayerapp.com^
 ||analytics.yabla.com^
 ||analytics.yahoo.com^
@@ -10871,6 +10872,7 @@
 ||xcode-metrics.lightricks.com^
 ||xdcs-collector.ximalaya.com^
 ||xerxes.media^
+||xham.live^
 ||xlmc.sec.miui.com^
 ||xlog-o.byteoversea.com^
 ||xlog-ru.tiktokv.com^

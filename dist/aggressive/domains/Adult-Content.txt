@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - AGGRESSIVE
-# Total domains: 116
+# Total domains: 118
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -50,6 +50,7 @@ analytics.stripchats.global
 analytics.strp.chat
 analytics.sxyprn.coevent.sxyprn.co
 analytics.watchporn.to
+analytics.xhamsterlive.info
 analyze.watchporn.to
 app-metrics.ord.myfreecams.com
 app.log.watchporn.to
@@ -120,4 +121,5 @@ trk.account.stripchat.com
 trk.bellesa.co
 trk.notify.stripchat.com
 trk.sender.stripchat.com
+xham.live
 xmetrics.camsoda.com

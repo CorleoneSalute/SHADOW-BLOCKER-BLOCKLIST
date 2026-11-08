@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10509
+# Total domains: 10512
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2038,6 +2038,7 @@
 0.0.0.0 analytics.wysa.io
 0.0.0.0 analytics.x.com
 0.0.0.0 analytics.xbox-interactive.com
+0.0.0.0 analytics.xhamsterlive.info
 0.0.0.0 analytics.xplayerapp.com
 0.0.0.0 analytics.yabla.com
 0.0.0.0 analytics.yahoo.com
@@ -8381,6 +8382,7 @@
 0.0.0.0 sp.justwatch.com
 0.0.0.0 sp1.convertro.com
 0.0.0.0 spaceseeker.com
+0.0.0.0 spankbanglive.com
 0.0.0.0 sparkmeets.com
 0.0.0.0 speakol.com
 0.0.0.0 speech.shouji.sogou.com
@@ -10395,6 +10397,7 @@
 0.0.0.0 xcode-metrics.lightricks.com
 0.0.0.0 xdcs-collector.ximalaya.com
 0.0.0.0 xerxes.media
+0.0.0.0 xham.live
 0.0.0.0 xlmc.sec.miui.com
 0.0.0.0 xlog-o.byteoversea.com
 0.0.0.0 xlog-ru.tiktokv.com
