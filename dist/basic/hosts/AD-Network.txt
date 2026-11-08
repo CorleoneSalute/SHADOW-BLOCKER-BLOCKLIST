@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2406
+# Total domains: 2417
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -133,8 +133,19 @@
 0.0.0.0 adksrv.com
 0.0.0.0 adktrack.124.xyz
 0.0.0.0 adktrack.com
+0.0.0.0 adktrack12.xyz
 0.0.0.0 adktrack124.xyz
+0.0.0.0 adktrack28.xyz
+0.0.0.0 adktrack32.xyz
+0.0.0.0 adktrack37.xyz
+0.0.0.0 adktrack39.xyz
+0.0.0.0 adktrack42.xyz
+0.0.0.0 adktrack45.xyz
+0.0.0.0 adktrack55.xyz
 0.0.0.0 adktrack68.xyz
+0.0.0.0 adktrack72.xyz
+0.0.0.0 adktrack82.xyz
+0.0.0.0 adktrack84.xyz
 0.0.0.0 adlabz.co
 0.0.0.0 adleave.com
 0.0.0.0 adlocus.com

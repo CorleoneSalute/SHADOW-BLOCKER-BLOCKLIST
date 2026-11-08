@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2416
+# Total domains: 2427
 # Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -133,8 +133,19 @@
 ||adksrv.com^
 ||adktrack.124.xyz^
 ||adktrack.com^
+||adktrack12.xyz^
 ||adktrack124.xyz^
+||adktrack28.xyz^
+||adktrack32.xyz^
+||adktrack37.xyz^
+||adktrack39.xyz^
+||adktrack42.xyz^
+||adktrack45.xyz^
+||adktrack55.xyz^
 ||adktrack68.xyz^
+||adktrack72.xyz^
+||adktrack82.xyz^
+||adktrack84.xyz^
 ||adlabz.co^
 ||adleave.com^
 ||adlocus.com^

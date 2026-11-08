@@ -1,6 +1,6 @@
 # In-File Duplicate Domain Report
 
-Generated: 2026-11-08 05:18 UTC
+Generated: 2026-11-08 05:22 UTC
 
 Domains that appear more than once within the SAME category
 file - usually a copy-paste mistake in a large file. The build
@@ -20,9 +20,9 @@ changes which tier the domain ends up in.
 |---|---|---|
 | epom.com | 1565, 2421 | yes |
 | market.epom.com | 1566, 2422 | yes |
-| admaster.com.cn | 2761, 3427 | yes |
+| admaster.com.cn | 2761, 3438 | yes |
 | platc-tester.com | 3156, 3158 | yes |
-| adadapted.com | 3383, 3399 | yes |
+| adadapted.com | 3394, 3410 | yes |
 
 ## Content-Creation-Live-Streaming
 
