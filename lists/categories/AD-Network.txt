@@ -1,6 +1,6 @@
 AD NETWORK BLOCKLIST 
 
-# Total domains: 2439
+# Total domains: 2449
 # Total platforms: 382
 # Last update: 2026/11/09
 # Note: trailing "!" marks a domain as aggressive-only

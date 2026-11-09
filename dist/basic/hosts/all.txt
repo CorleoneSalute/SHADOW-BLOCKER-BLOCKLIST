@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10578
+# Total domains: 10588
 # Generated: 2026-11-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -339,6 +339,7 @@
 0.0.0.0 adbox.sina.com.cn
 0.0.0.0 adbreaks.yieldlab.net
 0.0.0.0 adbrix.ai
+0.0.0.0 adbucks.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcanny.com
 0.0.0.0 adcannybid.com
@@ -3222,6 +3223,9 @@
 0.0.0.0 cfjump.com
 0.0.0.0 ch-info-lgsmartad-com.aws-prd.net
 0.0.0.0 ch-rdx2-lgtvsdp-com.aws-prd.net
+0.0.0.0 chameleon.ad
+0.0.0.0 chameleonads.eu
+0.0.0.0 chameleonads.hasoffers.com
 0.0.0.0 chance-ad.com
 0.0.0.0 channels-analytics.amazon.com
 0.0.0.0 channels-metrics.primevideo.com
@@ -7152,6 +7156,7 @@
 0.0.0.0 ping.android.shouji.sogou.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping.ios.shouji.sogou.com
+0.0.0.0 pinkads.org
 0.0.0.0 pintient.com
 0.0.0.0 pips.taboola.com
 0.0.0.0 pisterper.com
@@ -7410,6 +7415,7 @@
 0.0.0.0 pulse-us.conviva.com
 0.0.0.0 pulse.conviva.com
 0.0.0.0 pulse.raygun.com
+0.0.0.0 purestreamads.com
 0.0.0.0 push.appsignal.com
 0.0.0.0 push.goforandroid.com
 0.0.0.0 push.house
@@ -7787,6 +7793,7 @@
 0.0.0.0 ru4.com
 0.0.0.0 rubiconproject.com
 0.0.0.0 ruc-ngfts.lge.com
+0.0.0.0 rugbymentalads.com
 0.0.0.0 rum-gateway.medallia.com
 0.0.0.0 rum-obj.us-east-1.rumble.cloud
 0.0.0.0 rum-obj.us-east-2.rumble.cloud
@@ -8325,6 +8332,7 @@
 0.0.0.0 sl-tracking.fitonhealth.com
 0.0.0.0 sl.brightdata.com
 0.0.0.0 slack-metrics.infra.alto.com
+0.0.0.0 slamads.com
 0.0.0.0 slashis.com
 0.0.0.0 slimcleaner.com
 0.0.0.0 slimcomputer.com
@@ -9821,6 +9829,7 @@
 0.0.0.0 tune-up.com
 0.0.0.0 tuneup.com
 0.0.0.0 tups-ads.eww.panasonic.com
+0.0.0.0 turbotraff.com
 0.0.0.0 turn.com
 0.0.0.0 turo-analytics.com
 0.0.0.0 tv-ads.adikteev.com
@@ -10453,6 +10462,7 @@
 0.0.0.0 xaaf-metrics.directv.com
 0.0.0.0 xad.com
 0.0.0.0 xadx.file.market.xiaomi.com
+0.0.0.0 xameleonads.com
 0.0.0.0 xandr.com
 0.0.0.0 xapads.com
 0.0.0.0 xaprio.com

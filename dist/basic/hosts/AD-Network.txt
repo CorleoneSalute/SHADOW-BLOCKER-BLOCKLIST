@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2429
+# Total domains: 2439
 # Generated: 2026-11-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -97,6 +97,7 @@
 0.0.0.0 adboostads.com
 0.0.0.0 adbreaks.yieldlab.net
 0.0.0.0 adbrix.ai
+0.0.0.0 adbucks.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adcanny.com
 0.0.0.0 adcannybid.com
@@ -858,6 +859,9 @@
 0.0.0.0 cdn77.sportsthread.com
 0.0.0.0 cdn77.thespike.gg
 0.0.0.0 cdn77.v1.oddsserve.com
+0.0.0.0 chameleon.ad
+0.0.0.0 chameleonads.eu
+0.0.0.0 chameleonads.hasoffers.com
 0.0.0.0 chance-ad.com
 0.0.0.0 chartboost.com
 0.0.0.0 checkmyimp.com
@@ -1598,6 +1602,7 @@
 0.0.0.0 perkswall.com
 0.0.0.0 pf.fluct.jp
 0.0.0.0 ping-hk.taboola.com
+0.0.0.0 pinkads.org
 0.0.0.0 pips.taboola.com
 0.0.0.0 pisterper.com
 0.0.0.0 pix.as.criteo.net
@@ -1708,6 +1713,7 @@
 0.0.0.0 pubnative.net
 0.0.0.0 pubtailer.com
 0.0.0.0 puffableads.com
+0.0.0.0 purestreamads.com
 0.0.0.0 px.adswizz.com
 0.0.0.0 px.sharethrough.com
 0.0.0.0 quantserve.com
@@ -1794,6 +1800,7 @@
 0.0.0.0 rtdp.seedtag.com
 0.0.0.0 rtk.sonobi.com
 0.0.0.0 rubiconproject.com
+0.0.0.0 rugbymentalads.com
 0.0.0.0 runwaff.com
 0.0.0.0 rv-gateway.supersonicads.com
 0.0.0.0 rxcdn.1rx.io
@@ -1905,6 +1912,7 @@
 0.0.0.0 skyads.com.vn
 0.0.0.0 skyads.ott.skymedia.co.uk
 0.0.0.0 skyadsmart.com
+0.0.0.0 slamads.com
 0.0.0.0 slashis.com
 0.0.0.0 slinkway.com
 0.0.0.0 smaad.jp
@@ -2193,6 +2201,7 @@
 0.0.0.0 ts.amazon-adsystem.com
 0.0.0.0 tsr-cdn.taboola.com
 0.0.0.0 ttddnnss.com
+0.0.0.0 turbotraff.com
 0.0.0.0 turn.com
 0.0.0.0 tv.springserve.com
 0.0.0.0 tynt.com
@@ -2409,6 +2418,7 @@
 0.0.0.0 x.adroll.com
 0.0.0.0 x.mgid.com
 0.0.0.0 xad.com
+0.0.0.0 xameleonads.com
 0.0.0.0 xandr.com
 0.0.0.0 xapads.com
 0.0.0.0 xaprio.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11067
+# Total domains: 11077
 # Generated: 2026-11-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -359,6 +359,7 @@ adbox.nextory.com
 adbox.sina.com.cn
 adbreaks.yieldlab.net
 adbrix.ai
+adbucks.com
 adc3-launch.adcolony.com
 adcanny.com
 adcannybid.com
@@ -3314,6 +3315,9 @@ cf.iadsdk.apple.com
 cfjump.com
 ch-info-lgsmartad-com.aws-prd.net
 ch-rdx2-lgtvsdp-com.aws-prd.net
+chameleon.ad
+chameleonads.eu
+chameleonads.hasoffers.com
 chance-ad.com
 channel-analytics.pluto.tv
 channels-analytics.amazon.com
@@ -7473,6 +7477,7 @@ ping.ios.shouji.sogou.com
 ping.pinyin.sogou.com
 ping.xnxx.net
 pingback.giphy.com
+pinkads.org
 pintient.com
 pips.taboola.com
 pisterper.com
@@ -7753,6 +7758,7 @@ pulse-eu.conviva.com
 pulse-us.conviva.com
 pulse.conviva.com
 pulse.raygun.com
+purestreamads.com
 push.appsignal.com
 push.goforandroid.com
 push.house
@@ -8162,6 +8168,7 @@ ru.reimageplus.com
 ru4.com
 rubiconproject.com
 ruc-ngfts.lge.com
+rugbymentalads.com
 rum-gateway.medallia.com
 rum-obj.us-east-1.rumble.cloud
 rum-obj.us-east-2.rumble.cloud
@@ -8720,6 +8727,7 @@ skybetcasino.fr
 sl-tracking.fitonhealth.com
 sl.brightdata.com
 slack-metrics.infra.alto.com
+slamads.com
 slashis.com
 slimcleaner.com
 slimcomputer.com
@@ -10264,6 +10272,7 @@ tuisong.baidu.com
 tune-up.com
 tuneup.com
 tups-ads.eww.panasonic.com
+turbotraff.com
 turn.com
 turo-analytics.com
 tv-ads.adikteev.com
@@ -10930,6 +10939,7 @@ xaaf-be-live.att.com
 xaaf-metrics.directv.com
 xad.com
 xadx.file.market.xiaomi.com
+xameleonads.com
 xandr.com
 xapads.com
 xaprio.com

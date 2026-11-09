@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2429
+# Total domains: 2439
 # Generated: 2026-11-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -97,6 +97,7 @@
 ||adboostads.com^
 ||adbreaks.yieldlab.net^
 ||adbrix.ai^
+||adbucks.com^
 ||adc3-launch.adcolony.com^
 ||adcanny.com^
 ||adcannybid.com^
@@ -858,6 +859,9 @@
 ||cdn77.sportsthread.com^
 ||cdn77.thespike.gg^
 ||cdn77.v1.oddsserve.com^
+||chameleon.ad^
+||chameleonads.eu^
+||chameleonads.hasoffers.com^
 ||chance-ad.com^
 ||chartboost.com^
 ||checkmyimp.com^
@@ -1598,6 +1602,7 @@
 ||perkswall.com^
 ||pf.fluct.jp^
 ||ping-hk.taboola.com^
+||pinkads.org^
 ||pips.taboola.com^
 ||pisterper.com^
 ||pix.as.criteo.net^
@@ -1708,6 +1713,7 @@
 ||pubnative.net^
 ||pubtailer.com^
 ||puffableads.com^
+||purestreamads.com^
 ||px.adswizz.com^
 ||px.sharethrough.com^
 ||quantserve.com^
@@ -1794,6 +1800,7 @@
 ||rtdp.seedtag.com^
 ||rtk.sonobi.com^
 ||rubiconproject.com^
+||rugbymentalads.com^
 ||runwaff.com^
 ||rv-gateway.supersonicads.com^
 ||rxcdn.1rx.io^
@@ -1905,6 +1912,7 @@
 ||skyads.com.vn^
 ||skyads.ott.skymedia.co.uk^
 ||skyadsmart.com^
+||slamads.com^
 ||slashis.com^
 ||slinkway.com^
 ||smaad.jp^
@@ -2193,6 +2201,7 @@
 ||ts.amazon-adsystem.com^
 ||tsr-cdn.taboola.com^
 ||ttddnnss.com^
+||turbotraff.com^
 ||turn.com^
 ||tv.springserve.com^
 ||tynt.com^
@@ -2409,6 +2418,7 @@
 ||x.adroll.com^
 ||x.mgid.com^
 ||xad.com^
+||xameleonads.com^
 ||xandr.com^
 ||xapads.com^
 ||xaprio.com^
