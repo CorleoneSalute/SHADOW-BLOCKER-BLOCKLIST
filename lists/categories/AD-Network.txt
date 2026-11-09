@@ -6,6 +6,7 @@ AD NETWORK BLOCKLIST
 # Note: trailing "!" marks a domain as aggressive-only
 
 # Taboola
+
 taboola.com
 trc.taboola.com
 cdn.taboola.com
@@ -106,7 +107,8 @@ api-taboola.com
 taboola-display.com
 display.bidder.taboola.com
 
-# --- Outbrain [CRITICAL] ---
+# Outbrain
+
 outbrain.com
 outbrain.net
 widgets.outbrain.com
@@ -165,12 +167,12 @@ zemanta.outbrain.com
 outbrainimg.com
 oblookup.com
 outbrain.org
-
 www.outbrain.com
 www.zemanta.com
 p1.zemanta.com
 
-# --- Revcontent [CRITICAL] ---
+# Revcontent
+
 revcontent.com
 cdn.revcontent.com
 trends.revcontent.com
@@ -200,7 +202,8 @@ widget-cdn.revcontent.com
 rss.revcontent.com
 news.revcontent.com
 
-# --- MGID [HIGH] ---
+# MGID
+
 mgid.com
 servicer.mgid.com
 cdn.mgid.com
@@ -251,7 +254,8 @@ cm-x.mgid.com
 lp.mgid.com
 wsp.mgid.com
 
-# --- Dianomi [MEDIUM] ---
+# Dianomi
+
 dianomi.com
 dianomioffers.co.uk
 premium.dianomi.com
@@ -274,7 +278,8 @@ private.dianomi.com
 secure.dianomi.com
 click.dianomi.com
 
-# --- Nativo [HIGH] ---
+# Nativo
+
 nativo.com
 nativo.net
 postrelease.com
@@ -304,7 +309,8 @@ assets.postrelease.com
 share.ntv.io
 nativomobileapps.share.ntv.io
 
-# --- TripleLift [HIGH] ---
+# TripleLift
+
 triplelift.com
 triplelift.net
 tlx.3lift.com
@@ -340,13 +346,13 @@ update.3lift.com
 s.update.3lift.com
 us-east-eb2.3lift.com
 us-east-tlx.3lift.com
-
 ads.triplelift.com
 img.triplelift.com
 prebid.triplelift.com
 analytics.triplelift.com
 
-# --- Content.ad [HIGH] ---
+# Content.ad
+
 content.ad
 content-ad.net
 switchadhub.com
@@ -361,7 +367,7 @@ onclickads.net
 oclasrv.com
 api.content.ad
 
-# --- Zergnet [MEDIUM] ---
+# Zergnet
 zergnet.com
 api.zergnet.com
 cdn.zergnet.com
@@ -374,7 +380,7 @@ thumbs.zergnet.com
 widget.zergnet.com
 js.zergnet.com
 
-# --- Adblade [HIGH] ---
+# Adblade
 adblade.com
 adinjector.net
 newscgp.com
@@ -396,7 +402,7 @@ insparq.adblade.com
 exchange.adblade.com
 rtb.adblade.com
 
-# --- plista [MEDIUM] ---
+# plista
 plista.com
 static.plista.com
 farm.plista.com
@@ -420,7 +426,7 @@ plista125.plista.com
 plista573.plista.com
 rec.plista.com
 
-# --- Ligatus [MEDIUM] ---
+# Ligatus
 ligatus.com
 ligatus.de
 r.ligatus.com
@@ -456,7 +462,7 @@ s.ligatus.com
 sws.ligatus.com
 w.ligatus.com
 
-# --- Sharethrough [CRITICAL] ---
+# Sharethrough
 sharethrough.com
 cdn.sharethrough.com
 btlr.sharethrough.com
@@ -465,14 +471,12 @@ ads.sharethrough.com
 beacon.sharethrough.com
 match.sharethrough.com
 px.sharethrough.com
-
 btl.sharethrough.com
 native.sharethrough.com
 stx.sharethrough.com
 b.sharethrough.com
 a.sharethrough.com
 tag.sharethrough.com
-
 sharethrough.net
 btloader.com
 platform-cdn.sharethrough.com
@@ -481,7 +485,7 @@ pbs.sharethrough.com
 api.btloader.com
 fp.btloader.com
 
-# --- Speakol (MENA/GCC) [HIGH] ---
+# Speakol (MENA/GCC)
 speakol.com
 cdn.speakol.com
 api.speakol.com
@@ -491,7 +495,7 @@ widget.speakol.com
 static.speakol.com
 sdk.speakol.com
 
-# --- AdsKeeper [HIGH] ---
+# AdsKeeper
 adskeeper.com
 adskeeper.net
 jsc.adskeeper.com
@@ -507,7 +511,7 @@ s-img.adskeeper.co.uk
 video-native.adskeeper.co.uk
 my.adskeeper.co.uk
 
-# --- AdNow [HIGH] ---
+# AdNow
 adnow.com
 adnow.one
 ads1-adnow.com
@@ -518,7 +522,7 @@ cdn.adnow.com
 static.adnow.com
 track.adnow.com
 
-# --- AdUp Technology (Germany/Axel Springer) [MEDIUM] ---
+# AdUp Technology (Germany/Axel Springer)
 adup-tech.com
 api.adup-tech.com
 s.d.adup-tech.com
@@ -529,17 +533,17 @@ cdn.adup-tech.com
 static.adup-tech.com
 pixel.adup-tech.com
 
-# --- Strossle (Scandinavia) [MEDIUM] ---
+# Strossle (Scandinavia)
 strossle.com
 assets.strossle.com
 widgets.sprinklecontent.com
 
-# --- Paved [MEDIUM] ---
+# Paved
 paved.com
 vpdae.com
 api.paved.com
 
-# --- Admix [MEDIUM] ---
+# Admix
 admix.in
 sdk.admix.in
 ads.admix.in
@@ -553,7 +557,7 @@ admixplay.com
 events.admix.in
 sdk2.admix.in
 
-# --- Anzu [MEDIUM] ---
+# Anzu
 anzu.io
 ads.anzu.io
 api.anzu.io
@@ -572,7 +576,7 @@ pixel.anzu.io
 match.anzu.io
 static.anzu.io
 
-# --- Bidstack [MEDIUM] ---
+# Bidstack
 bidstack.com
 ads.bidstack.com
 api.bidstack.com
@@ -589,13 +593,12 @@ track2.bidstack.com
 pubguard.io
 sdk.pubguard.com
 api.pubguard.com
-
 bidstack.io
 platform.bidstack.com
 tracking.bidstack.com
 events.bidstack.com
 
-# --- Frameplay [MEDIUM] ---
+# Frameplay
 frameplay.gg
 frameplay.com
 sdk.frameplay.gg
@@ -604,7 +607,7 @@ cdn.frameplay.gg
 track.frameplay.gg
 analytics.frameplay.gg
 
-# --- RapidFire / RFI Hub [MEDIUM] ---
+# RapidFire / RFI Hub
 rfihub.com
 ads.rfihub.com
 api.rfihub.com
@@ -619,7 +622,7 @@ rfihub.net
 a.rfihub.com
 s.rfihub.com
 
-# --- AdInMo [LOW] ---
+# AdInMo
 adinmo.com
 ads.adinmo.com
 api.adinmo.com
