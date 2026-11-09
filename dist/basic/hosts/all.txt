@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10571
-# Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10578
+# Generated: 2026-11-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -347,6 +347,7 @@
 0.0.0.0 adclarity.com
 0.0.0.0 adclickserving.com
 0.0.0.0 adcolony.com
+0.0.0.0 adconflux.com
 0.0.0.0 adconnect.pl
 0.0.0.0 adcore.lenovomm.com
 0.0.0.0 adcreative.naver.com
@@ -870,6 +871,7 @@
 0.0.0.0 adserving-edge.videoplaza.tv
 0.0.0.0 adserving-tmp.unibet.com
 0.0.0.0 adserving.unibet.com
+0.0.0.0 adsexo.com
 0.0.0.0 adsfactor.net
 0.0.0.0 adsfloow.net
 0.0.0.0 adsfly.app
@@ -2534,6 +2536,7 @@
 0.0.0.0 aqua-adserver.com
 0.0.0.0 aquaplatform.com
 0.0.0.0 aquaplatform.net
+0.0.0.0 arabyads.com
 0.0.0.0 arc-metrics.corp.codeium.com
 0.0.0.0 arcade-analytics.apple.com
 0.0.0.0 argenteutilities.com
@@ -4082,6 +4085,7 @@
 0.0.0.0 dt-cdn.net
 0.0.0.0 dt.hicloud.com
 0.0.0.0 dt.hihonorcloud.com
+0.0.0.0 dt00.net
 0.0.0.0 dt07.net
 0.0.0.0 dtiure.com
 0.0.0.0 dtngsr.com
@@ -5426,6 +5430,7 @@
 0.0.0.0 lambdasrv.com
 0.0.0.0 landiek.com
 0.0.0.0 landsideresendtrousers.com
+0.0.0.0 lanistaads.com
 0.0.0.0 lapatilla.com
 0.0.0.0 lapsing-users.adikteev.com
 0.0.0.0 larati.net
@@ -8313,6 +8318,7 @@
 0.0.0.0 skadpostbacks.appsflyer.com
 0.0.0.0 skamaker.com
 0.0.0.0 skamason.com
+0.0.0.0 skyads.com.vn
 0.0.0.0 skyads.ott.skymedia.co.uk
 0.0.0.0 skyadsmart.com
 0.0.0.0 skybetcasino.fr
@@ -10496,6 +10502,7 @@
 0.0.0.0 yaso.su
 0.0.0.0 yceml.net
 0.0.0.0 yellowblue.io
+0.0.0.0 yengo.com
 0.0.0.0 yetislook.com
 0.0.0.0 yieldlab.de
 0.0.0.0 yieldlab.net

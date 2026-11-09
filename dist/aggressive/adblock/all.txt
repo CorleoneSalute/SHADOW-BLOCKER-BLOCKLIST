@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11060
-# Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
+# Total domains: 11067
+# Generated: 2026-11-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -367,6 +367,7 @@
 ||adclarity.com^
 ||adclickserving.com^
 ||adcolony.com^
+||adconflux.com^
 ||adconnect.pl^
 ||adcore.lenovomm.com^
 ||adcreative.naver.com^
@@ -907,6 +908,7 @@
 ||adserving-edge.videoplaza.tv^
 ||adserving-tmp.unibet.com^
 ||adserving.unibet.com^
+||adsexo.com^
 ||adsfactor.net^
 ||adsfloow.net^
 ||adsfly.app^
@@ -2594,6 +2596,7 @@
 ||aqua-adserver.com^
 ||aquaplatform.com^
 ||aquaplatform.net^
+||arabyads.com^
 ||arc-metrics.corp.codeium.com^
 ||arcade-analytics.apple.com^
 ||argenteutilities.com^
@@ -4216,6 +4219,7 @@
 ||dt-cdn.net^
 ||dt.hicloud.com^
 ||dt.hihonorcloud.com^
+||dt00.net^
 ||dt07.net^
 ||dtiure.com^
 ||dtngsr.com^
@@ -5687,6 +5691,7 @@
 ||lambdasrv.com^
 ||landiek.com^
 ||landsideresendtrousers.com^
+||lanistaads.com^
 ||lap-click.tr.line.me^
 ||lapatilla.com^
 ||lapsing-users.adikteev.com^
@@ -8708,6 +8713,7 @@
 ||skadpostbacks.appsflyer.com^
 ||skamaker.com^
 ||skamason.com^
+||skyads.com.vn^
 ||skyads.ott.skymedia.co.uk^
 ||skyadsmart.com^
 ||skybetcasino.fr^
@@ -10981,6 +10987,7 @@
 ||yaso.su^
 ||yceml.net^
 ||yellowblue.io^
+||yengo.com^
 ||yetislook.com^
 ||yieldlab.de^
 ||yieldlab.net^

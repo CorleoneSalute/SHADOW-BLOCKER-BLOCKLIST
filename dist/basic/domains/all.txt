@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10571
-# Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10578
+# Generated: 2026-11-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -347,6 +347,7 @@ adcel.vrvm.com
 adclarity.com
 adclickserving.com
 adcolony.com
+adconflux.com
 adconnect.pl
 adcore.lenovomm.com
 adcreative.naver.com
@@ -870,6 +871,7 @@ adservices.roku.com
 adserving-edge.videoplaza.tv
 adserving-tmp.unibet.com
 adserving.unibet.com
+adsexo.com
 adsfactor.net
 adsfloow.net
 adsfly.app
@@ -2534,6 +2536,7 @@ apu.samsungelectronics.com
 aqua-adserver.com
 aquaplatform.com
 aquaplatform.net
+arabyads.com
 arc-metrics.corp.codeium.com
 arcade-analytics.apple.com
 argenteutilities.com
@@ -4082,6 +4085,7 @@ dsstat.kaspersky.com
 dt-cdn.net
 dt.hicloud.com
 dt.hihonorcloud.com
+dt00.net
 dt07.net
 dtiure.com
 dtngsr.com
@@ -5426,6 +5430,7 @@ lam.benaughty.com
 lambdasrv.com
 landiek.com
 landsideresendtrousers.com
+lanistaads.com
 lapatilla.com
 lapsing-users.adikteev.com
 larati.net
@@ -8313,6 +8318,7 @@ skadnetwork.iad-apple.com.akadns.net
 skadpostbacks.appsflyer.com
 skamaker.com
 skamason.com
+skyads.com.vn
 skyads.ott.skymedia.co.uk
 skyadsmart.com
 skybetcasino.fr
@@ -10496,6 +10502,7 @@ yandexmetrica.com
 yaso.su
 yceml.net
 yellowblue.io
+yengo.com
 yetislook.com
 yieldlab.de
 yieldlab.net

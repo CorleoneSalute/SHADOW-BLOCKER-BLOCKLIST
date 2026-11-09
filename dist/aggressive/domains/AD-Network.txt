@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2432
-# Generated: 2026-11-08 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2439
+# Generated: 2026-11-09 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -103,6 +103,7 @@ adcannybid.com
 adcaravan.uz
 adclickserving.com
 adcolony.com
+adconflux.com
 adconnect.pl
 addboost360.com
 addynamo.com
@@ -268,6 +269,7 @@ adserverplugins.com
 adservers.com.br
 adservices.google.com
 adserving-edge.videoplaza.tv
+adsexo.com
 adsfactor.net
 adsfloow.net
 adsfly.app
@@ -612,6 +614,7 @@ apsoutheast-match.deepintent.com
 aqua-adserver.com
 aquaplatform.com
 aquaplatform.net
+arabyads.com
 array-bid.applovin.com
 artaunt.com
 artilleryads.com
@@ -1032,6 +1035,7 @@ dsp.yahoo.com
 dspbeacons.ihasdsp.inmobi.com
 dspbeacons.old.ihasdsp.inmobi.com
 dt-cdn.net
+dt00.net
 dt07.net
 dts.startappservice.com
 dub-1-apex.go.sonobi.com
@@ -1375,6 +1379,7 @@ labs.revcontent.com
 laikwer.com
 lambdasrv.com
 landiek.com
+lanistaads.com
 lapatilla.com
 lasthashsol.com
 lax1-ib.adnxs-simple.com
@@ -1904,6 +1909,7 @@ simpleads.com.br
 simpli.fi
 sin3-ib.adnxs.com
 sinmufar.com
+skyads.com.vn
 skyads.ott.skymedia.co.uk
 skyadsmart.com
 slashis.com
@@ -2421,6 +2427,7 @@ yadloop.com
 yads.tech
 yahoo-native.bidder.taboola.com
 yellowblue.io
+yengo.com
 yetislook.com
 yieldlab.de
 yieldlab.net
