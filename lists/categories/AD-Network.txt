@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2432
-# Total platforms: 368
+# Total platforms: 373
 # Last update: 2026/11/08
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3467,3 +3467,28 @@ erohub.com
 videoplaza.tv
 adserving-edge.videoplaza.tv
 adplayer.videoplaza.TV
+
+# Lanista Concepts ⚠️ click fraud
+
+lanistaads.com
+
+# Adconflux LLC
+
+adconflux.com
+
+# Công Ty TNHH Sky Ads (Sky Ads Company Limited)
+
+skyads.com.vn
+
+# ArabyAds
+
+arabyads.com
+
+# MGID Inc.
+
+mgid.com
+marketgid.com
+dt00.net
+dt07.net
+yengo.com
+adsexo.com
