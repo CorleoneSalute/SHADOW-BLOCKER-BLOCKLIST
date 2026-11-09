@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2439
-# Total platforms: 373
+# Total platforms: 382
 # Last update: 2026/11/09
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3492,3 +3492,40 @@ dt00.net
 dt07.net
 yengo.com
 adsexo.com
+
+# Pink Ads LLC
+
+pinkads.org
+
+# PureStreamAds
+
+purestreamads.com
+
+# rugbymentalads.com
+
+rugbymentalads.com
+
+# SlamAds Media
+
+slamads.com
+
+# Adbucks
+
+adbucks.com
+
+# xameleonads.com
+
+xameleonads.com
+
+# turbotraff.com
+
+turbotraff.com
+
+# ChameleonAds (Velor Advertising Group S.L.)
+
+chameleonads.eu
+chameleonads.hasoffers.com
+
+# Chameleon Advertising Technologies
+
+chameleon.ad
