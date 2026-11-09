@@ -1,6 +1,6 @@
 # In-File Duplicate Domain Report
 
-Generated: 2026-11-09 20:25 UTC
+Generated: 2026-11-09 20:33 UTC
 
 Domains that appear more than once within the SAME category
 file - usually a copy-paste mistake in a large file. The build
@@ -18,14 +18,14 @@ changes which tier the domain ends up in.
 
 | Domain | Lines | Exact match |
 |---|---|---|
-| mgid.com | 204, 3489 | yes |
-| dt07.net | 209, 3492 | yes |
-| marketgid.com | 210, 3490 | yes |
-| epom.com | 1565, 2421 | yes |
-| market.epom.com | 1566, 2422 | yes |
-| admaster.com.cn | 2761, 3438 | yes |
-| platc-tester.com | 3156, 3158 | yes |
-| adadapted.com | 3394, 3410 | yes |
+| mgid.com | 207, 3492 | yes |
+| dt07.net | 212, 3495 | yes |
+| marketgid.com | 213, 3493 | yes |
+| epom.com | 1568, 2424 | yes |
+| market.epom.com | 1569, 2425 | yes |
+| admaster.com.cn | 2764, 3441 | yes |
+| platc-tester.com | 3159, 3161 | yes |
+| adadapted.com | 3397, 3413 | yes |
 
 ## Content-Creation-Live-Streaming
 
