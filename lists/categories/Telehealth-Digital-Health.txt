@@ -144,3 +144,10 @@ logs.bright.md
 adselfserve.bright.md
 adsense.bright.md
 otel-collector.hub.bright.md
+
+# Sutter Health
+
+collect.sutterhealth.org
+t.collect.sutterhealth.org
+tags.sutterhealth.org !
+t.tags.sutterhealth.org !
