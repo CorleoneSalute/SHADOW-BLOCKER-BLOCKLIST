@@ -252,6 +252,7 @@ crash-reports.hulu.com
 api-logging.hulu.com
 logs.hulu.com
 ads.hulu.com
+adtrack.hulu.com
 ads-v-darwin.hulu.com
 ads-fa-darwin.hulu.com
 ad-analytics.hulu.com
