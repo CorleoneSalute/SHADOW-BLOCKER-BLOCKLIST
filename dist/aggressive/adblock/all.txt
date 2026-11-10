@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11084
+# Total domains: 11085
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1477,6 +1477,7 @@
 ||analytics.blueapron.com^
 ||analytics.blueberrysoftware.com^
 ||analytics.bluefirereader.com^
+||analytics.bluekai.com^
 ||analytics.blur.io^
 ||analytics.bobble.ai^
 ||analytics.bolt.eu^

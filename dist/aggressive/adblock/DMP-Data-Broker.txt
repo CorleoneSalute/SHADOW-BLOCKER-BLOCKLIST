@@ -1,6 +1,6 @@
 # ============================================================
 # DMP DATA BROKER BLOCKLIST - AGGRESSIVE
-# Total domains: 178
+# Total domains: 179
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -29,6 +29,7 @@
 ||amp.permutive.app^
 ||analytics-api.vervemobile.com^
 ||analytics-iq.com^
+||analytics.bluekai.com^
 ||api.adsquare.com^
 ||api.analytics-iq.com^
 ||api.bombora.com^

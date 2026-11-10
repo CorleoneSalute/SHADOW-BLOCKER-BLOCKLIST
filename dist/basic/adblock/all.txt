@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10594
+# Total domains: 10595
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1428,6 +1428,7 @@
 ||analytics.blueapron.com^
 ||analytics.blueberrysoftware.com^
 ||analytics.bluefirereader.com^
+||analytics.bluekai.com^
 ||analytics.blur.io^
 ||analytics.bobble.ai^
 ||analytics.bolt.eu^
