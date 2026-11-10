@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11147
+# Total domains: 11148
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -113,6 +113,7 @@ abtestvm.bytedance.com
 abtmetric.espn.go.com
 acc-analytics.amd.com
 accdab.net
+accf1a4a-19fe-a71a-3906-c2daa2a9ed94-rum.cdnvideo.ru
 acconpit.com
 account.fortect.com
 account.kromtech.net

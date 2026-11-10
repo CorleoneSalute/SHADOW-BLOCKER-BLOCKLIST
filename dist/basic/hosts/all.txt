@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10655
+# Total domains: 10656
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -100,6 +100,7 @@
 0.0.0.0 abtesting.roblox.com
 0.0.0.0 abtmetric.espn.go.com
 0.0.0.0 acc-analytics.amd.com
+0.0.0.0 accf1a4a-19fe-a71a-3906-c2daa2a9ed94-rum.cdnvideo.ru
 0.0.0.0 acconpit.com
 0.0.0.0 account.fortect.com
 0.0.0.0 account.kromtech.net

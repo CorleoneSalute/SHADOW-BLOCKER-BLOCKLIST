@@ -1,12 +1,13 @@
 # ============================================================
 # FILE HOSTING BLOCKLIST - BASIC
-# Total domains: 54
+# Total domains: 55
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 0.0.0.0 192a9047-bf6e-0f35-22ef-116bf5b5b669-rum.cdnvideo.ru
 0.0.0.0 8e4c275e-fc8d-fde9-9c58-37dbf0125b6c-rum.cdnvideo.ru
+0.0.0.0 accf1a4a-19fe-a71a-3906-c2daa2a9ed94-rum.cdnvideo.ru
 0.0.0.0 ad.picr.de
 0.0.0.0 ad.streamsilk.com
 0.0.0.0 ads.cdnvideo.ru
