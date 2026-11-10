@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - AGGRESSIVE
-# Total domains: 392
+# Total domains: 393
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -304,6 +304,7 @@
 0.0.0.0 ping.android.shouji.sogou.com
 0.0.0.0 ping.ios.shouji.sogou.com
 0.0.0.0 ping.pinyin.sogou.com
+0.0.0.0 pixel.plus.yandex.net
 0.0.0.0 popin.cc
 0.0.0.0 post.bz.adx.opera.com
 0.0.0.0 pps-log.op-mobile.opera.com

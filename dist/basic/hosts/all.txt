@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10601
+# Total domains: 10602
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7222,6 +7222,7 @@
 0.0.0.0 pixel.outbrain.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.plista.com
+0.0.0.0 pixel.plus.yandex.net
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rebrandly.com
 0.0.0.0 pixel.reddit.com

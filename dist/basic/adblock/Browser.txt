@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 363
+# Total domains: 364
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -289,6 +289,7 @@
 ||ping-msganr.android.shouji.sogou.com^
 ||ping.android.shouji.sogou.com^
 ||ping.ios.shouji.sogou.com^
+||pixel.plus.yandex.net^
 ||popin.cc^
 ||post.bz.adx.opera.com^
 ||pps-log.op-mobile.opera.com^

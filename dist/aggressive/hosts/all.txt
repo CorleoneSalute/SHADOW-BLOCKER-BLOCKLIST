@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11091
+# Total domains: 11092
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7544,6 +7544,7 @@
 0.0.0.0 pixel.outbrain.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.plista.com
+0.0.0.0 pixel.plus.yandex.net
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rebrandly.com
 0.0.0.0 pixel.reddit.com
