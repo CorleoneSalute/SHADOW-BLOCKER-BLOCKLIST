@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11077
-# Generated: 2026-11-09 (UTC) - auto-generated, do not edit by hand
+# Total domains: 11078
+# Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -108,6 +108,7 @@
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abtest.netflix.com
 0.0.0.0 abtesting.roblox.com
+0.0.0.0 abtestvm.bytedance.com
 0.0.0.0 abtmetric.espn.go.com
 0.0.0.0 acc-analytics.amd.com
 0.0.0.0 accdab.net

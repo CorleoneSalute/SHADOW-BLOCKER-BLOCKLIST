@@ -1,7 +1,7 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 797
-# Generated: 2026-11-09 (UTC) - auto-generated, do not edit by hand
+# Total domains: 798
+# Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -9,6 +9,7 @@
 abtest-ch.snssdk.com
 abtest-sg-tiktok.byteoversea.com
 abtest-va-tiktok.byteoversea.com
+abtestvm.bytedance.com
 ad-format-ttp2.tiktokv.eu
 ad-format.tiktokv.us
 ad-instantpage-ru.tiktokv.com
