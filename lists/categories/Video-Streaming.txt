@@ -494,6 +494,16 @@ sanalytics.tntdrama.com
 ads.trutv.com
 sanalytics.trutv.com
 
+# Pogo
+
+analytics.pogo.tv
+
+# PuhuTV
+
+collector.puhutv.com
+dogus-ads-cdn.dygdigital.com
+ads.dygdigital.com
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
