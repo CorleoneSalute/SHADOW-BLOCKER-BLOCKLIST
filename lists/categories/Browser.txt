@@ -298,6 +298,7 @@ popin.cc
 metrika.yandex.ru
 ms.yandex.ru
 appmetrika.yandex.ru
+pixel.plus.yandex.net
 metrica.yandex.ru
 bymetrika.yandex.com
 yandexmetrica.com
