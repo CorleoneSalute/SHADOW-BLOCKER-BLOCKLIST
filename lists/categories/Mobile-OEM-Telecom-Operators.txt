@@ -551,7 +551,6 @@ adx-drru.op.hicloud.com
 adx.huawei.com
 analytics.hihonor.com
 analytics.honor.com
-apm.yun.hihonor.com
 click.hicloud.com
 data.hicloud.com
 datacollector-dra.dt.dbankcloud.cn
