@@ -42,7 +42,6 @@ d1.ads.rmbl.ws
 d2.ads.rmbl.ws
 d3.ads.rmbl.ws
 d4.ads.rmbl.ws
-ads.rmbl.ws
 rum-obj.us-east-1.rumble.cloud
 rum-obj.us-east-2.rumble.cloud
 rum-obj.us-west-1.rumble.cloud
@@ -90,7 +89,6 @@ player-telemetry.vimeo.com
 qualtrics-events.vimeo.com
 trk.mg.vimeo.com
 trk.trx.vimeo.com
-analytics.livestream.com
 metrics.donations.livestream.com
 adjustyourtracking.vhx.tv
 
