@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11128
+# Total domains: 11129
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -273,6 +273,7 @@ ad.inner-active.com
 ad.intl.xiaomi.com
 ad.intl.xiaomi.com.edgesuite.net
 ad.intl.xiaomi.com.ksyna.net
+ad.intl.xiaomi.com.mgslb.com
 ad.iq
 ad.javmost.com
 ad.jp.dell.com

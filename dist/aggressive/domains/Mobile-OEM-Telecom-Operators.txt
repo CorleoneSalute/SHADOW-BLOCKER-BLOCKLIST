@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1138
+# Total domains: 1139
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -29,6 +29,7 @@ ad.india.xiaomi.com
 ad.intl.xiaomi.com
 ad.intl.xiaomi.com.edgesuite.net
 ad.intl.xiaomi.com.ksyna.net
+ad.intl.xiaomi.com.mgslb.com
 ad.mi.com
 ad.minigame.vip
 ad.rus.miui.com

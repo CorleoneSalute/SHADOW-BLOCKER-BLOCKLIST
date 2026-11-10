@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10638
+# Total domains: 10639
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -254,6 +254,7 @@
 0.0.0.0 ad.intl.xiaomi.com
 0.0.0.0 ad.intl.xiaomi.com.edgesuite.net
 0.0.0.0 ad.intl.xiaomi.com.ksyna.net
+0.0.0.0 ad.intl.xiaomi.com.mgslb.com
 0.0.0.0 ad.iq
 0.0.0.0 ad.javmost.com
 0.0.0.0 ad.jp.dell.com
