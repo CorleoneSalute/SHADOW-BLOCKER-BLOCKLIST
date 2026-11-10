@@ -15,6 +15,7 @@ collections.marketing.cmp.optimizely.com
 cmp.optimizely.com
 rum.optimizely.com
 track.optimizely.com
+events.mobile.optimizely.com
 
 # KAMELEOON
 logger.kameleoon.io
