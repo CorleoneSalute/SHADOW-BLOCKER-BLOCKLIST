@@ -1,6 +1,6 @@
 # ============================================================
 # BROWSER BLOCKLIST - BASIC
-# Total domains: 362
+# Total domains: 363
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -180,6 +180,7 @@
 ||e.gdown.baidu.com^
 ||eclick.baidu.com^
 ||egw.ads-platform.plet.yandex.ru^
+||events.plus.yandex.net^
 ||external-ads-platform-gw.plet.yandex.net^
 ||f.hiphotos.baidu.com^
 ||fclick.baidu.com^

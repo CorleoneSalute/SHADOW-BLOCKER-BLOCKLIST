@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10598
+# Total domains: 10599
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4373,6 +4373,7 @@ events.mz.unity3d.com
 events.nativo.com
 events.outbrain.com
 events.plista.com
+events.plus.yandex.net
 events.reddit.com
 events.redditmedia.com
 events.remerge.io
