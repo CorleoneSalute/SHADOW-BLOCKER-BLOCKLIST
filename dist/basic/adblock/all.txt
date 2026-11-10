@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10591
+# Total domains: 10592
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -681,6 +681,7 @@
 ||ads.lww.com^
 ||ads.lyft.com^
 ||ads.martech.yahoo.com^
+||ads.mcafee.com^
 ||ads.media.net^
 ||ads.meitu.com^
 ||ads.mobfox.com^

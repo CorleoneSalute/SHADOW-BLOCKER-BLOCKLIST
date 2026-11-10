@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11081
+# Total domains: 11082
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -712,6 +712,7 @@
 0.0.0.0 ads.lww.com
 0.0.0.0 ads.lyft.com
 0.0.0.0 ads.martech.yahoo.com
+0.0.0.0 ads.mcafee.com
 0.0.0.0 ads.media.net
 0.0.0.0 ads.meitu.com
 0.0.0.0 ads.mobfox.com

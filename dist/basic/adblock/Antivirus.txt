@@ -1,12 +1,13 @@
 # ============================================================
 # ANTIVIRUS BLOCKLIST - BASIC
-# Total domains: 70
+# Total domains: 71
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 ||ad.gamebox.360.cn^
 ||ads.avast.com^
+||ads.mcafee.com^
 ||an.avast.com^
 ||analytics-login.avg.com^
 ||analytics-login.norton.com^
