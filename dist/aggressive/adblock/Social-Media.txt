@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 799
+# Total domains: 800
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -196,6 +196,7 @@
 ||facebookads.com^
 ||fb-analytics.com^
 ||fbthirdpartypixel.com^
+||fe-ad-lb-ttp.useast5.tiktoklb.us^
 ||finderlog.volces.com^
 ||frontier-i18n.tiktokv.com^
 ||frontier-my2.tiktokv.com^

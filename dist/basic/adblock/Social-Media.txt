@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 765
+# Total domains: 766
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -191,6 +191,7 @@
 ||facebookads.com^
 ||fb-analytics.com^
 ||fbthirdpartypixel.com^
+||fe-ad-lb-ttp.useast5.tiktoklb.us^
 ||finderlog.volces.com^
 ||frontier.byteoversea.com^
 ||fwx.rtb.linkedin.com^

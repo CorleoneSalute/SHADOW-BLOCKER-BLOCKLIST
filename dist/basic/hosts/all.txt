@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10639
+# Total domains: 10640
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4536,6 +4536,7 @@
 0.0.0.0 fcleaner.com
 0.0.0.0 fclick.baidu.com
 0.0.0.0 fclog.baidu.com
+0.0.0.0 fe-ad-lb-ttp.useast5.tiktoklb.us
 0.0.0.0 fe02.lg.xiaomi.com
 0.0.0.0 fe05.lg.xiaomi.com
 0.0.0.0 fearevolve.com

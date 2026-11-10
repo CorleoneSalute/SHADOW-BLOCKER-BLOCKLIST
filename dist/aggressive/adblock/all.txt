@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11129
+# Total domains: 11130
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4714,6 +4714,7 @@
 ||fcleaner.com^
 ||fclick.baidu.com^
 ||fclog.baidu.com^
+||fe-ad-lb-ttp.useast5.tiktoklb.us^
 ||fe02.lg.xiaomi.com^
 ||fe05.lg.xiaomi.com^
 ||fearevolve.com^
