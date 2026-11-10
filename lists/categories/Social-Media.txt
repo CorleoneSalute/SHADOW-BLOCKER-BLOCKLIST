@@ -710,6 +710,7 @@ applog.musical.ly
 log2.musical.ly
 mcs.tiktok-row.net
 mon.musical.ly
+log.musical.ly
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 live-player-log-service.bytedance.com.host
 finderlog.volces.com
