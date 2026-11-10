@@ -917,7 +917,7 @@ slog.sina.cn
 tjs.sjs.sinajs.cn
 ```
 
-# Kwai
+# KUAISHOU (Kwai)
 
 kwai.com !
 kwai.net !
@@ -935,6 +935,8 @@ ulog3-ru.kwai-pro.com
 ulogt3-ru.kwai-pro.com
 g-logsdk.kwai-pro.com
 t-ulog.ga.kwai-pro.com
+ad-risk.prt.kuaishou.com
+log-sdk.gifshow.com
 v66-ad.ndcjl.com.v1.kwaiselfcdn.com
 p66-ad.adkwai.com.v1.kwaiselfcdn.com
 
@@ -957,14 +959,6 @@ events.bsky.app
 
 ```
 metrics.bereal.com
-```
-
-### KUAISHOU (3 domain)
-
-```
-ad-risk.prt.kuaishou.com
-log-sdk.gifshow.com
-shence-log.kwai.com
 ```
 
 ### SIDECHAT (1 domain)
