@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11094
+# Total domains: 11095
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9769,6 +9769,7 @@ tracenep-eu.admaster.cc
 tracenep.admaster.cc
 traces.dev.sr.roku.com
 traces.sr.roku.com
+tracing-collector.strava.com
 track-apollo.teleport.varjo.com
 track-aws.m.ridewithvia.com
 track-dr.risk.lexisnexis.com

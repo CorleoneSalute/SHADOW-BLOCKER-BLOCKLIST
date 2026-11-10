@@ -1,6 +1,6 @@
 # ============================================================
 # FITNESS BLOCKLIST - BASIC
-# Total domains: 36
+# Total domains: 37
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -32,6 +32,7 @@ sl-tracking.fitonhealth.com
 smetrics.teambeachbody.com
 stats.stronglifts.com
 telemetry.dataplatform.zing.coach
+tracing-collector.strava.com
 track.underarmour.com
 tracker.gymshark.com
 tracking.myfitnesspal.com

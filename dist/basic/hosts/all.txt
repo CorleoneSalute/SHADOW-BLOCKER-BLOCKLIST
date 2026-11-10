@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10604
+# Total domains: 10605
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9331,6 +9331,7 @@
 0.0.0.0 tracenep.admaster.cc
 0.0.0.0 traces.dev.sr.roku.com
 0.0.0.0 traces.sr.roku.com
+0.0.0.0 tracing-collector.strava.com
 0.0.0.0 track-apollo.teleport.varjo.com
 0.0.0.0 track-aws.m.ridewithvia.com
 0.0.0.0 track-dr.risk.lexisnexis.com
