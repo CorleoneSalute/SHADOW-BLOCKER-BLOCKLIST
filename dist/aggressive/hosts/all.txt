@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11148
+# Total domains: 11149
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -898,6 +898,7 @@
 0.0.0.0 adserve.zone
 0.0.0.0 adserver-backend.myspace.com
 0.0.0.0 adserver-banners.myspace.com
+0.0.0.0 adserver-ingress-direct-usw2.nativo-prod.life360.com
 0.0.0.0 adserver-meta.com
 0.0.0.0 adserver-scripts.myspace.com
 0.0.0.0 adserver.adikteev.com

@@ -1,12 +1,13 @@
 # ============================================================
 # EMERGENCY SAFETY BLOCKLIST - AGGRESSIVE
-# Total domains: 6
+# Total domains: 7
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 ads.life360.com
 adsconfig.life360.com
+adserver-ingress-direct-usw2.nativo-prod.life360.com
 amplitude.life360.com
 growthbook-proxy.citizen.com
 growthbook.citizen.com

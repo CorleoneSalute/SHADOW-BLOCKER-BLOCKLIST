@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10656
+# Total domains: 10657
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -861,6 +861,7 @@ adserve.tv
 adserve.zone
 adserver-backend.myspace.com
 adserver-banners.myspace.com
+adserver-ingress-direct-usw2.nativo-prod.life360.com
 adserver-meta.com
 adserver-scripts.myspace.com
 adserver.adikteev.com

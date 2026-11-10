@@ -1,10 +1,11 @@
 # ============================================================
 # EMERGENCY SAFETY BLOCKLIST - BASIC
-# Total domains: 3
+# Total domains: 4
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 0.0.0.0 ads.life360.com
 0.0.0.0 adsconfig.life360.com
+0.0.0.0 adserver-ingress-direct-usw2.nativo-prod.life360.com
 0.0.0.0 amplitude.life360.com
