@@ -1,6 +1,6 @@
 # ============================================================
 # ANTIVIRUS BLOCKLIST - AGGRESSIVE
-# Total domains: 77
+# Total domains: 78
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -25,6 +25,7 @@
 0.0.0.0 bug.kaspersky.com
 0.0.0.0 click.stat.hao.360.cn
 0.0.0.0 crash.pcsafe.360safe.com
+0.0.0.0 directads.mcafee.com
 0.0.0.0 dsstat.kaspersky.com
 0.0.0.0 easyad.360.cn
 0.0.0.0 etrack.np.norton.com

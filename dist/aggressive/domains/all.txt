@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11086
+# Total domains: 11087
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4088,6 +4088,7 @@ digprjsurvey.amazon.eu
 direct-response-gcp.api.snapchat.com
 direct.adsrvr.org
 directads-tool.ligatus.com
+directads.mcafee.com
 directbidder.criteo.com
 dis-ssl.criteo.com
 dis.criteo.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10596
+# Total domains: 10597
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3965,6 +3965,7 @@
 0.0.0.0 direct-response-gcp.api.snapchat.com
 0.0.0.0 direct.adsrvr.org
 0.0.0.0 directads-tool.ligatus.com
+0.0.0.0 directads.mcafee.com
 0.0.0.0 directbidder.criteo.com
 0.0.0.0 dis-ssl.criteo.com
 0.0.0.0 dis.criteo.com

@@ -1,6 +1,6 @@
 # Antivirus Software Blocklist
 
-# Total domains: 77
+# Total domains: 78
 # Last update: 2026/11/10
 # Note: trailing "!" marks a domain as aggressive-only
 
