@@ -31,6 +31,7 @@ au.telemetry.zoomconnector.com
 # WEBEX
 analytics.webex.com
 metrics-a.wbx2.com
+metrics-c.wbx2.com
 metrics-r.wbx2.com
 metrics-k.wbx2.com
 metrics-d.wbx2.com
