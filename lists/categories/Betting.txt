@@ -188,6 +188,7 @@ smetrics.tab.com.au
 # Sportsbet / Flutter
 tracking.sportsbet.com.au
 smetrics.sportsbet.com.au
+tracking.sportsbet.com.au.edgekey.net
 
 # Flutter Owned Other Companys
 ads.sisal.it
