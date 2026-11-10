@@ -1,6 +1,6 @@
 # ============================================================
 # FITNESS BLOCKLIST - AGGRESSIVE
-# Total domains: 37
+# Total domains: 39
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -18,6 +18,7 @@
 0.0.0.0 analytics.runtastic.com
 0.0.0.0 analytics.strava.com
 0.0.0.0 analytics.stronglifts.com
+0.0.0.0 analytics.supersapiens.com
 0.0.0.0 analytics.tonal.com
 0.0.0.0 analytics.underarmour.com
 0.0.0.0 awslogs.garmin.com
@@ -34,6 +35,7 @@
 0.0.0.0 telemetry.dataplatform.zing.coach
 0.0.0.0 tracing-collector.strava.com
 0.0.0.0 track.underarmour.com
+0.0.0.0 track.wahoo.wahoofitness.com
 0.0.0.0 tracker.gymshark.com
 0.0.0.0 tracking.myfitnesspal.com
 0.0.0.0 tracking.november-project.com

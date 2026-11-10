@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10652
+# Total domains: 10654
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1973,6 +1973,7 @@
 ||analytics.sunbasket.com^
 ||analytics.suno.ai^
 ||analytics.superrare.com^
+||analytics.supersapiens.com^
 ||analytics.surfshark.com^
 ||analytics.surveyjunkie.com^
 ||analytics.swagbucks.com^
@@ -9537,6 +9538,7 @@
 ||track.victorybet.ro^
 ||track.vip.5bet.com^
 ||track.vodafone.com.au^
+||track.wahoo.wahoofitness.com^
 ||track.webgains.com^
 ||track.winegifts.wine.com^
 ||track.womanlog.com^

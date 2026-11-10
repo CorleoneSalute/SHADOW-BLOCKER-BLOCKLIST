@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11144
+# Total domains: 11146
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2023,6 +2023,7 @@ analytics.subsplash.com
 analytics.sunbasket.com
 analytics.suno.ai
 analytics.superrare.com
+analytics.supersapiens.com
 analytics.surfshark.com
 analytics.surveyjunkie.com
 analytics.swagbucks.com
@@ -9977,6 +9978,7 @@ track.vbet.com
 track.victorybet.ro
 track.vip.5bet.com
 track.vodafone.com.au
+track.wahoo.wahoofitness.com
 track.webgains.com
 track.winegifts.wine.com
 track.womanlog.com

@@ -1,6 +1,6 @@
 # Fitness Blocklist
 
-# Total domains: 37
+# Total domains: 39
 # Last update: 2026/11/10
 # Note: trailing "!" marks a domain as aggressive-only
 
