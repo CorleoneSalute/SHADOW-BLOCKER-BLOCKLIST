@@ -1,6 +1,6 @@
 # ============================================================
 # WEATHER BLOCKLIST - BASIC
-# Total domains: 20
+# Total domains: 21
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9,6 +9,7 @@ accuweather-beacon.com
 ad-api.weathernews.jp
 ad-engine.accuweather.com
 ad-tech-windev.weather.com
+ad.weatherbug.com
 ads.accuweather.com
 ads.weatherbug.com
 advertising.accuweather.com

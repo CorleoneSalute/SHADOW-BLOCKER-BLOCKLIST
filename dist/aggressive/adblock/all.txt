@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11080
+# Total domains: 11081
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -311,6 +311,7 @@
 ||ad.vera.bet.br^
 ||ad.vrvm.com^
 ||ad.watchporn.to^
+||ad.weatherbug.com^
 ||ad.weibo.com^
 ||ad.xiaomi.com^
 ||ad.yahoo.com^

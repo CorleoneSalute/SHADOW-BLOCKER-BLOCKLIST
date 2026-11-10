@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10590
+# Total domains: 10591
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -292,6 +292,7 @@
 ||ad.vera.bet.br^
 ||ad.vrvm.com^
 ||ad.watchporn.to^
+||ad.weatherbug.com^
 ||ad.weibo.com^
 ||ad.xiaomi.com^
 ||ad.yahoo.com^

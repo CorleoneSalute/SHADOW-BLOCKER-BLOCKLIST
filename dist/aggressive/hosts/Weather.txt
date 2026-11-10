@@ -1,6 +1,6 @@
 # ============================================================
 # WEATHER BLOCKLIST - AGGRESSIVE
-# Total domains: 22
+# Total domains: 23
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9,6 +9,7 @@
 0.0.0.0 ad-api.weathernews.jp
 0.0.0.0 ad-engine.accuweather.com
 0.0.0.0 ad-tech-windev.weather.com
+0.0.0.0 ad.weatherbug.com
 0.0.0.0 ads.accuweather.com
 0.0.0.0 ads.weatherbug.com
 0.0.0.0 advertising.accuweather.com
