@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10664
+# Total domains: 10674
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5786,6 +5786,7 @@
 ||log58-normal-useast2a.tiktokv.com^
 ||log58-normal-ycru.tiktokv.com^
 ||log58-normal.tiktokv.com^
+||log61-normal-c-alisg.tiktokv.com^
 ||log61-normal-c-useast1a.tiktokv.com^
 ||log77-normal-c-alisg.tiktokv.com^
 ||log77-normal-c-useast1a.tiktokv.com^
@@ -6700,6 +6701,8 @@
 ||mssdk22-normal-zr-useast1a.tiktokv.com^
 ||mssdk22-normal-zr.tiktokv.com^
 ||mssdk22-normal.tiktokv.com^
+||mssdk23-normal-zr-alisg.tiktokv.com^
+||mssdk23-normal-zr-useast1a.tiktokv.com^
 ||mssdk24-normal-alisg.tiktokv.com^
 ||mssdk24-normal-useast1a.tiktokv.com^
 ||mssdk24-normal-useast2a.tiktokv.com^
@@ -8308,6 +8311,13 @@
 ||settings-analytics.hotstar.com^
 ||settings.crashlytics.com^
 ||sexintouch.com^
+||sf-ssp.tiktokcdn-eu.com.edgesuite.net^
+||sf-ssp.tiktokcdn-eu.com.ttdns3.com^
+||sf-ssp.tiktokcdn-us.com^
+||sf-ssp.tiktokcdn-us.com.edgesuite.net^
+||sf-ssp.tiktokcdn.com^
+||sf-ssp.tiktokcdn.com.edgesuite.net^
+||sf-ssp.tiktokcdn.com.ttdns2.com^
 ||sf16-ads-format-sign.tiktokcdn.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||sf19-ads-format-sign.tiktokcdn.com^

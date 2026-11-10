@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 766
+# Total domains: 776
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -327,6 +327,7 @@
 0.0.0.0 log58-normal-useast2a.tiktokv.com
 0.0.0.0 log58-normal-ycru.tiktokv.com
 0.0.0.0 log58-normal.tiktokv.com
+0.0.0.0 log61-normal-c-alisg.tiktokv.com
 0.0.0.0 log61-normal-c-useast1a.tiktokv.com
 0.0.0.0 log77-normal-c-alisg.tiktokv.com
 0.0.0.0 log77-normal-c-useast1a.tiktokv.com
@@ -470,6 +471,8 @@
 0.0.0.0 mssdk22-normal-zr-useast1a.tiktokv.com
 0.0.0.0 mssdk22-normal-zr.tiktokv.com
 0.0.0.0 mssdk22-normal.tiktokv.com
+0.0.0.0 mssdk23-normal-zr-alisg.tiktokv.com
+0.0.0.0 mssdk23-normal-zr-useast1a.tiktokv.com
 0.0.0.0 mssdk24-normal-alisg.tiktokv.com
 0.0.0.0 mssdk24-normal-useast1a.tiktokv.com
 0.0.0.0 mssdk24-normal-useast2a.tiktokv.com
@@ -636,6 +639,13 @@
 0.0.0.0 sentry.reddit.com
 0.0.0.0 sentry.sc-prod.net
 0.0.0.0 server-analytics.snapchat.com
+0.0.0.0 sf-ssp.tiktokcdn-eu.com.edgesuite.net
+0.0.0.0 sf-ssp.tiktokcdn-eu.com.ttdns3.com
+0.0.0.0 sf-ssp.tiktokcdn-us.com
+0.0.0.0 sf-ssp.tiktokcdn-us.com.edgesuite.net
+0.0.0.0 sf-ssp.tiktokcdn.com
+0.0.0.0 sf-ssp.tiktokcdn.com.edgesuite.net
+0.0.0.0 sf-ssp.tiktokcdn.com.ttdns2.com
 0.0.0.0 sf16-ads-format-sign.tiktokcdn.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 sf19-ads-format-sign.tiktokcdn.com
