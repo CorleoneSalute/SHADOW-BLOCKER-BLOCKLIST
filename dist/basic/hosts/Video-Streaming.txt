@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 431
+# Total domains: 435
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -36,6 +36,7 @@
 0.0.0.0 ads.conviva.com
 0.0.0.0 ads.crunchyroll.com
 0.0.0.0 ads.disneyplus.com
+0.0.0.0 ads.dygdigital.com
 0.0.0.0 ads.espn.com
 0.0.0.0 ads.every.tv
 0.0.0.0 ads.fubo.tv
@@ -110,6 +111,7 @@
 0.0.0.0 analytics.pixalate.com
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.pluto.tv
+0.0.0.0 analytics.pogo.tv
 0.0.0.0 analytics.prageru.com
 0.0.0.0 analytics.protected.media
 0.0.0.0 analytics.rtlplus.com
@@ -156,6 +158,7 @@
 0.0.0.0 collector-eu.conviva.com
 0.0.0.0 collector-us.conviva.com
 0.0.0.0 collector.conviva.com
+0.0.0.0 collector.puhutv.com
 0.0.0.0 conviva.ai
 0.0.0.0 conviva.com
 0.0.0.0 crash-reports.hbomax.com
@@ -182,6 +185,7 @@
 0.0.0.0 disney.my.sentry.io
 0.0.0.0 disneyplus.com.ssl.sc.omtrdc.net
 0.0.0.0 documentary-analytics.curiositystream.com
+0.0.0.0 dogus-ads-cdn.dygdigital.com
 0.0.0.0 dpapm.log.mgtv.net
 0.0.0.0 ec-app.log.mgtv.com
 0.0.0.0 ec.log.mgtv.com

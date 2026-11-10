@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 477
+# Total domains: 481
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -39,6 +39,7 @@
 ||ads.conviva.com^
 ||ads.crunchyroll.com^
 ||ads.disneyplus.com^
+||ads.dygdigital.com^
 ||ads.espn.com^
 ||ads.every.tv^
 ||ads.fubo.tv^
@@ -116,6 +117,7 @@
 ||analytics.pixalate.com^
 ||analytics.plex.tv^
 ||analytics.pluto.tv^
+||analytics.pogo.tv^
 ||analytics.prageru.com^
 ||analytics.protected.media^
 ||analytics.rtlplus.com^
@@ -166,6 +168,7 @@
 ||collector-eu.conviva.com^
 ||collector-us.conviva.com^
 ||collector.conviva.com^
+||collector.puhutv.com^
 ||conviva.ai^
 ||conviva.com^
 ||crash-reports.hbomax.com^
@@ -193,6 +196,7 @@
 ||disney.my.sentry.io^
 ||disneyplus.com.ssl.sc.omtrdc.net^
 ||documentary-analytics.curiositystream.com^
+||dogus-ads-cdn.dygdigital.com^
 ||dpapm.log.mgtv.net^
 ||ec-app.log.mgtv.com^
 ||ec.log.mgtv.com^

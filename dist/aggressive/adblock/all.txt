@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11108
+# Total domains: 11112
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -666,6 +666,7 @@
 ||ads.deezer.com^
 ||ads.disneyplus.com^
 ||ads.districtm.ca^
+||ads.dygdigital.com^
 ||ads.dynamicyield.com^
 ||ads.e-planning.net^
 ||ads.emojixpress.com^
@@ -1889,6 +1890,7 @@
 ||analytics.podigee.com^
 ||analytics.podtrac.com^
 ||analytics.pof.com^
+||analytics.pogo.tv^
 ||analytics.pointdrive.linkedin-ei.com^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.polar.com^
@@ -3599,6 +3601,7 @@
 ||collector.pokerstars.ro^
 ||collector.pokerstars.uk^
 ||collector.pokerstarsnj.com^
+||collector.puhutv.com^
 ||collector.quantummetric.com^
 ||collector.reddit.com^
 ||collector.rocket.chat^
@@ -4156,6 +4159,7 @@
 ||docs.telemetry.mozilla.org^
 ||documentary-analytics.curiositystream.com^
 ||dogfood.telemetry.zoomconnector.com^
+||dogus-ads-cdn.dygdigital.com^
 ||dollphoin.site^
 ||dotcom-preview.tags.elsevier.com^
 ||dotcom.tags.elsevier.com^

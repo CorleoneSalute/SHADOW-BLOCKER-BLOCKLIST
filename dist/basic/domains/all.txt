@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10618
+# Total domains: 10622
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -637,6 +637,7 @@ ads.de
 ads.deezer.com
 ads.disneyplus.com
 ads.districtm.ca
+ads.dygdigital.com
 ads.dynamicyield.com
 ads.e-planning.net
 ads.emojixpress.com
@@ -1839,6 +1840,7 @@ analytics.podcaster.de
 analytics.podcastle.ai
 analytics.podigee.com
 analytics.pof.com
+analytics.pogo.tv
 analytics.pointdrive.linkedin-ei.com
 analytics.pointdrive.linkedin.com
 analytics.polar.com
@@ -3499,6 +3501,7 @@ collector.pokerstars.pt
 collector.pokerstars.ro
 collector.pokerstars.uk
 collector.pokerstarsnj.com
+collector.puhutv.com
 collector.quantummetric.com
 collector.reddit.com
 collector.rocket.chat
@@ -4026,6 +4029,7 @@ docs.brightdata.com
 docs.telemetry.mozilla.org
 documentary-analytics.curiositystream.com
 dogfood.telemetry.zoomconnector.com
+dogus-ads-cdn.dygdigital.com
 dollphoin.site
 dotmerger.com
 doubleclick.net
