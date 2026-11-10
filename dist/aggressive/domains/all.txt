@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11152
+# Total domains: 11154
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8273,8 +8273,10 @@ rum26.perf.linkedin-ei.com
 rum26.perf.linkedin.com
 rum27.perf.linkedin-ei.com
 rum27.perf.linkedin.com
+rum3.cdnvideo.ru
 rum3.perf.linkedin.com
 rum4.perf.linkedin.com
+rum5.cdnvideo.ru
 rum5.perf.linkedin.com
 rum6.perf.linkedin-ei.com
 rum6.perf.linkedin.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FILE HOSTING BLOCKLIST - AGGRESSIVE
-# Total domains: 57
+# Total domains: 59
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -39,6 +39,8 @@
 0.0.0.0 piwik.uloz.to
 0.0.0.0 rum.bunkr.ru
 0.0.0.0 rum.cdnvideo.ru
+0.0.0.0 rum3.cdnvideo.ru
+0.0.0.0 rum5.cdnvideo.ru
 0.0.0.0 stat.maxiol.com
 0.0.0.0 stats.bunkr.ru
 0.0.0.0 stats.pixeldrain.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FILE HOSTING BLOCKLIST - BASIC
-# Total domains: 55
+# Total domains: 57
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -39,6 +39,8 @@ ox-d.wetransfer.com
 piwik.uloz.to
 rum.bunkr.ru
 rum.cdnvideo.ru
+rum3.cdnvideo.ru
+rum5.cdnvideo.ru
 stat.maxiol.com
 stats.bunkr.ru
 stats.pixeldrain.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10660
+# Total domains: 10662
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7897,8 +7897,10 @@
 ||rum26.perf.linkedin.com^
 ||rum27.perf.linkedin-ei.com^
 ||rum27.perf.linkedin.com^
+||rum3.cdnvideo.ru^
 ||rum3.perf.linkedin.com^
 ||rum4.perf.linkedin.com^
+||rum5.cdnvideo.ru^
 ||rum5.perf.linkedin.com^
 ||rum6.perf.linkedin-ei.com^
 ||rum6.perf.linkedin.com^
