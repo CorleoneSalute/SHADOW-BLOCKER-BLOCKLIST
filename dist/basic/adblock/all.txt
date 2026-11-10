@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10603
+# Total domains: 10604
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7808,6 +7808,7 @@
 ||rubiconproject.com^
 ||ruc-ngfts.lge.com^
 ||rugbymentalads.com^
+||rum-cust.perfops.cdb.cdn.orange.com^
 ||rum-gateway.medallia.com^
 ||rum-mkt.perfops.cdb.cdn.orange.com^
 ||rum-obj.us-east-1.rumble.cloud^
