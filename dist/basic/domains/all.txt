@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10600
+# Total domains: 10601
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6071,6 +6071,7 @@ metis.truecaller.com
 metr.yandex.com
 metr.yandex.com.tr
 metric-jingwei.huya.com
+metric.brightcove.com
 metric.huya.com
 metric.luckyslots.net
 metric.megawinslots.com

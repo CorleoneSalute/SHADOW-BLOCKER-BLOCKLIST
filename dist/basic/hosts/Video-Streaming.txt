@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 419
+# Total domains: 420
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -245,6 +245,7 @@
 0.0.0.0 logs.netflix.com
 0.0.0.0 lstat.youku.com
 0.0.0.0 marketing.mgtv.net
+0.0.0.0 metric.brightcove.com
 0.0.0.0 metrics.abema.tv
 0.0.0.0 metrics.binge.com.au
 0.0.0.0 metrics.bitmovin.com
