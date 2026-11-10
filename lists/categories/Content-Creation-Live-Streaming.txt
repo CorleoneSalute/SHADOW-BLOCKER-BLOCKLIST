@@ -30,6 +30,7 @@ beacon.twitch.tv !
 vmetric.twitch.tv !
 origin.edge-beta.ads.twitch.tv
 origin.edge.ads.twitch.tv
+client-event-reporter.twitch.tv
 
 # RUMBLE
 
