@@ -435,6 +435,7 @@ wtradv.market.xiaomi.com
 xadx.file.market.xiaomi.com
 zeus.ad.intl.xiaomi.com
 zeus.ad.xiaomi.com
+ad.intl.xiaomi.com.mgslb.com
 ```
 
 ### In-browser track (19 domain)
