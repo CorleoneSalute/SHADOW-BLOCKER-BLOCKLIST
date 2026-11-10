@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2449
-# Total platforms: 382
+# Total platforms: 384
 # Last update: 2026/11/09
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3532,3 +3532,19 @@ chameleonads.hasoffers.com
 # Chameleon Advertising Technologies
 
 chameleon.ad
+
+# Integral Ad Science
+
+integralads.com
+integr.al
+adsafeprotected.com
+integraladscience.com
+iasds01.com
+integratedadscience.com
+wearecontext.com
+iasoz.com
+admantx.com
+
+# AdsSciences
+
+adssciences.com
