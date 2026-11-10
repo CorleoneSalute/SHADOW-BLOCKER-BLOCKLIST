@@ -1,6 +1,6 @@
 # ============================================================
 # HARDWARE VENDOR BLOCKLIST - BASIC
-# Total domains: 154
+# Total domains: 156
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -153,8 +153,10 @@
 ||tracking.china.comms.dell.com^
 ||tracking.comms.dell.com^
 ||tracking.geforcenow.com^
+||tracking.lenovo.com^
 ||tracking.micron.com^
 ||tracking.turtlebeach.com^
+||tracking3.lenovo.com^
 ||trackr.puri.sm^
 ||trck.com-sit.dell.com^
 ||trk.ecomm.lenovo.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10606
+# Total domains: 10608
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9642,6 +9642,7 @@ tracking.jwplayer.com
 tracking.kelkoo.com
 tracking.lastpass.com
 tracking.launchdarkly.com
+tracking.lenovo.com
 tracking.livechatinc.com
 tracking.loopcloud.com
 tracking.meitu.com
@@ -9748,6 +9749,7 @@ tracking.zipcar.com
 tracking.zola.com
 tracking.zoomd.com
 tracking1.paytm.com
+tracking3.lenovo.com
 trackit.reddit.com
 trackjs.com
 trackju.lonestarcasino.com

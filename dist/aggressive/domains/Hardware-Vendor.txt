@@ -1,6 +1,6 @@
 # ============================================================
 # HARDWARE VENDOR BLOCKLIST - AGGRESSIVE
-# Total domains: 157
+# Total domains: 159
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -156,8 +156,10 @@ tracking.acer.com
 tracking.china.comms.dell.com
 tracking.comms.dell.com
 tracking.geforcenow.com
+tracking.lenovo.com
 tracking.micron.com
 tracking.turtlebeach.com
+tracking3.lenovo.com
 trackr.puri.sm
 trck.com-sit.dell.com
 trk.ecomm.lenovo.com
