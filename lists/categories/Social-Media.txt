@@ -250,6 +250,7 @@ sf19-ads-format-sign.tiktokcdn.com
 url4077.ads-service.tiktok.com
 v16-ad.byteoversea.com
 ad-format-ttp2.tiktokv.eu
+fe-ad-lb-ttp.useast5.tiktoklb.us
 ```
 
 **tiktokv.com log* (App Log)** (70 domain)
