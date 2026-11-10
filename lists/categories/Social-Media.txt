@@ -714,7 +714,8 @@ sf16-telemetry-proxy-oci.tiktokcdn-us.com
 live-player-log-service.bytedance.com.host
 finderlog.volces.com
 analytics.snssdk.com.bytedns1.com
- metrics-producer-proxy-asia-south-eastbd.byteglb.com
+metrics-producer-proxy-asia-south-eastbd.byteglb.com
+abtestvm.bytedance.com !
 ```
 
 **Monitoring** (1 domain)
