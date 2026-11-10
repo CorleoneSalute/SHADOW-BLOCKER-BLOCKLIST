@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10593
+# Total domains: 10594
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1402,6 +1402,7 @@
 0.0.0.0 analytics.avcdn.net
 0.0.0.0 analytics.avid.com
 0.0.0.0 analytics.avis.com
+0.0.0.0 analytics.awscommon.mcafee.com
 0.0.0.0 analytics.babbel.com
 0.0.0.0 analytics.badoo.com
 0.0.0.0 analytics.bagelcode.com

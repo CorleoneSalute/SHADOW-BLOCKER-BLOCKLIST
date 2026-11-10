@@ -1,6 +1,6 @@
 # ============================================================
 # ANTIVIRUS BLOCKLIST - BASIC
-# Total domains: 71
+# Total domains: 72
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -15,6 +15,7 @@ analytics-prod-gcp.ff.avast.com
 analytics-stage.ff.avast.com
 analytics.avast.com
 analytics.avcdn.net
+analytics.awscommon.mcafee.com
 analytics.bitdefender.com
 analytics.cba.kaspersky.com
 analytics.cms.avira.com

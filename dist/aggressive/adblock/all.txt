@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11083
+# Total domains: 11084
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1451,6 +1451,7 @@
 ||analytics.avcdn.net^
 ||analytics.avid.com^
 ||analytics.avis.com^
+||analytics.awscommon.mcafee.com^
 ||analytics.babbel.com^
 ||analytics.badoo.com^
 ||analytics.bagelcode.com^
