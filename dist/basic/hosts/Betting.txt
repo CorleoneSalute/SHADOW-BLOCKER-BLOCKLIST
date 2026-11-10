@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 305
+# Total domains: 307
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -12,11 +12,13 @@
 0.0.0.0 ad.betcity.ru
 0.0.0.0 ad.betou.bet.br
 0.0.0.0 ad.family.go.com
+0.0.0.0 ad.go.com
 0.0.0.0 ad.offers-ua.vbet.com
 0.0.0.0 ad.sortenabet.bet.br
 0.0.0.0 ad.srv.giantlottos.com
 0.0.0.0 ad.vbet.com
 0.0.0.0 ad.vera.bet.br
+0.0.0.0 adimages.go.com
 0.0.0.0 adjust.stats.zynga.com
 0.0.0.0 ads.7k.bet.br
 0.0.0.0 ads.affiliateclub.com

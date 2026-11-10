@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10588
+# Total domains: 10590
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -242,6 +242,7 @@
 ||ad.family.go.com^
 ||ad.gamebox.360.cn^
 ||ad.geniee.co.jp^
+||ad.go.com^
 ||ad.holalauncher.com^
 ||ad.huya.com^
 ||ad.india.miui.com^
@@ -386,6 +387,7 @@
 ||adhoc.textra.me^
 ||adiant.com^
 ||adikteev.com^
+||adimages.go.com^
 ||adimg.afreecatv.com^
 ||adimg.mobile.sina.cn^
 ||adimg.uve.weibo.com^
