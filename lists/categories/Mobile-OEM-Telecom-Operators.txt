@@ -1304,6 +1304,7 @@ trk.vodafone.com.tr
 ads.fix.orange.ro
 analytics.digital.orange.es
 analytics.orange.com
+rum-mkt.perfops.cdb.cdn.orange.com
 analytics.orange.ro
 collecte-mobile.orange.fr
 collector.boutique.orange.fr
