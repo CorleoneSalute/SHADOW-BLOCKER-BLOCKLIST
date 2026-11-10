@@ -472,6 +472,17 @@ telemetry-api.k8s.zahs.tv
 events.zahs.tv
 events.zba-prod.zahs.tv
 
+# TV360
+
+pubads-wiinvent.tv360.vn
+abc3-log.tv360.vn
+
+# CIBN (China International Broadcasting Network / 国广东方)
+
+ad.cp68.ott.cibntv.net
+tvlog.cp81.ott.cibntv.net
+log.usrdata.uums.cibn.cc
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
