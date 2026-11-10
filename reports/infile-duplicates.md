@@ -1,6 +1,6 @@
 # In-File Duplicate Domain Report
 
-Generated: 2026-11-10 21:12 UTC
+Generated: 2026-11-10 21:17 UTC
 
 Domains that appear more than once within the SAME category
 file - usually a copy-paste mistake in a large file. The build
@@ -12,7 +12,7 @@ identical (same case, same trailing "!" flag). "no" means they
 differ - worth a closer look, since a mismatched "!" flag
 changes which tier the domain ends up in.
 
-12 duplicate domain(s) found across 4 file(s):
+10 duplicate domain(s) found across 3 file(s):
 
 ## AD-Network
 
@@ -26,13 +26,6 @@ changes which tier the domain ends up in.
 | admaster.com.cn | 2764, 3441 | yes |
 | platc-tester.com | 3159, 3161 | yes |
 | adadapted.com | 3397, 3413 | yes |
-
-## Content-Creation-Live-Streaming
-
-| Domain | Lines | Exact match |
-|---|---|---|
-| ads.rmbl.ws | 39, 45 | yes |
-| analytics.livestream.com | 85, 93 | yes |
 
 ## Reward-Apps
 
