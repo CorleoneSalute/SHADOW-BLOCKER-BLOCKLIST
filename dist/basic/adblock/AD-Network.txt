@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2439
+# Total domains: 2449
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -157,6 +157,7 @@
 ||adlyticsmedia.com^
 ||adm.fwmrm.net^
 ||admagnet.agency^
+||admantx.com^
 ||admaster.cc^
 ||admaster.co^
 ||admaster.com.cn^
@@ -253,6 +254,7 @@
 ||ads30.adcolony.com^
 ||ads33.adtelligent.com^
 ||ads54.adtelligent.com^
+||adsafeprotected.com^
 ||adsailor.com^
 ||adsbase.ltd^
 ||adsboost.net^
@@ -309,6 +311,7 @@
 ||adsrveys.com^
 ||adsrvr.exponential.com^
 ||adsrvr.org^
+||adssciences.com^
 ||adstat.pro^
 ||adstats.ai^
 ||adsterra.com^
@@ -1258,6 +1261,8 @@
 ||i.connectad.io^
 ||i.microad.jp^
 ||iads.unity3d.com^
+||iasds01.com^
+||iasoz.com^
 ||ib.3lift.com^
 ||ib.adnxs-simple.com^
 ||ib.adnxs.com^
@@ -1331,6 +1336,10 @@
 ||insights.hybrid.ai^
 ||insparq.adblade.com^
 ||insticator.com^
+||integr.al^
+||integralads.com^
+||integraladscience.com^
+||integratedadscience.com^
 ||intelaxa.com^
 ||interact.taboola.com^
 ||inv-nets-us.admixer.net^
@@ -2324,6 +2333,7 @@
 ||watwait.com^
 ||wave.outbrain.com^
 ||wd.adcolony.com^
+||wearecontext.com^
 ||web.adblade.com^
 ||webads.com^
 ||webads.es^

@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2439
+# Total domains: 2449
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -157,6 +157,7 @@
 0.0.0.0 adlyticsmedia.com
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 admagnet.agency
+0.0.0.0 admantx.com
 0.0.0.0 admaster.cc
 0.0.0.0 admaster.co
 0.0.0.0 admaster.com.cn
@@ -253,6 +254,7 @@
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads33.adtelligent.com
 0.0.0.0 ads54.adtelligent.com
+0.0.0.0 adsafeprotected.com
 0.0.0.0 adsailor.com
 0.0.0.0 adsbase.ltd
 0.0.0.0 adsboost.net
@@ -309,6 +311,7 @@
 0.0.0.0 adsrveys.com
 0.0.0.0 adsrvr.exponential.com
 0.0.0.0 adsrvr.org
+0.0.0.0 adssciences.com
 0.0.0.0 adstat.pro
 0.0.0.0 adstats.ai
 0.0.0.0 adsterra.com
@@ -1258,6 +1261,8 @@
 0.0.0.0 i.connectad.io
 0.0.0.0 i.microad.jp
 0.0.0.0 iads.unity3d.com
+0.0.0.0 iasds01.com
+0.0.0.0 iasoz.com
 0.0.0.0 ib.3lift.com
 0.0.0.0 ib.adnxs-simple.com
 0.0.0.0 ib.adnxs.com
@@ -1331,6 +1336,10 @@
 0.0.0.0 insights.hybrid.ai
 0.0.0.0 insparq.adblade.com
 0.0.0.0 insticator.com
+0.0.0.0 integr.al
+0.0.0.0 integralads.com
+0.0.0.0 integraladscience.com
+0.0.0.0 integratedadscience.com
 0.0.0.0 intelaxa.com
 0.0.0.0 interact.taboola.com
 0.0.0.0 inv-nets-us.admixer.net
@@ -2324,6 +2333,7 @@
 0.0.0.0 watwait.com
 0.0.0.0 wave.outbrain.com
 0.0.0.0 wd.adcolony.com
+0.0.0.0 wearecontext.com
 0.0.0.0 web.adblade.com
 0.0.0.0 webads.com
 0.0.0.0 webads.es

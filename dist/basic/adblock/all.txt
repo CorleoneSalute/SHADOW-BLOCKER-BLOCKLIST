@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10640
+# Total domains: 10650
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -439,6 +439,7 @@
 ||admanager.opera.com^
 ||admanager.yahoo.com^
 ||admanagerplus.yahoo.com^
+||admantx.com^
 ||admarketing.yahoo.net^
 ||admaster.cc^
 ||admaster.co^
@@ -819,6 +820,7 @@
 ||ads7.speedbit.com^
 ||ads8.speedbit.com^
 ||ads9.speedbit.com^
+||adsafeprotected.com^
 ||adsailor.com^
 ||adsalad.co.kr^
 ||adsapi-proxy-il.waze.com^
@@ -936,6 +938,7 @@
 ||adsrveys.com^
 ||adsrvr.exponential.com^
 ||adsrvr.org^
+||adssciences.com^
 ||adstat.pro^
 ||adstats.ai^
 ||adsterra.com^
@@ -5068,6 +5071,8 @@
 ||iadworkbench.apple.com^
 ||iap.adikteev.com^
 ||iap.remerge.io^
+||iasds01.com^
+||iasoz.com^
 ||ib.3lift.com^
 ||ib.adnxs-simple.com^
 ||ib.adnxs.com^
@@ -5278,8 +5283,12 @@
 ||insticator.com^
 ||intake-lr.com^
 ||intamema.com^
+||integr.al^
+||integralads.com^
+||integraladscience.com^
 ||integralmarket.goforandroid.com^
 ||integralwall.goforandroid.com^
+||integratedadscience.com^
 ||integration-analytic.sxyprn.co^
 ||integration-api.crazyegg.com^
 ||integration.analytics.lightricks.com^
@@ -10252,6 +10261,7 @@
 ||wave.outbrain.com^
 ||wcs.naver.com^
 ||wd.adcolony.com^
+||wearecontext.com^
 ||weather-analytics-events.apple.com^
 ||weather-analytics-events.news.apple-dns.net^
 ||weather-analytics-events.news.apple.com^

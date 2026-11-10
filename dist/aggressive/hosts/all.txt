@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11130
+# Total domains: 11140
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -461,6 +461,7 @@
 0.0.0.0 admanager.opera.com
 0.0.0.0 admanager.yahoo.com
 0.0.0.0 admanagerplus.yahoo.com
+0.0.0.0 admantx.com
 0.0.0.0 admarketing.yahoo.net
 0.0.0.0 admaster.cc
 0.0.0.0 admaster.co
@@ -854,6 +855,7 @@
 0.0.0.0 ads7.speedbit.com
 0.0.0.0 ads8.speedbit.com
 0.0.0.0 ads9.speedbit.com
+0.0.0.0 adsafeprotected.com
 0.0.0.0 adsailor.com
 0.0.0.0 adsalad.co.kr
 0.0.0.0 adsapi-proxy-il.waze.com
@@ -976,6 +978,7 @@
 0.0.0.0 adsrveys.com
 0.0.0.0 adsrvr.exponential.com
 0.0.0.0 adsrvr.org
+0.0.0.0 adssciences.com
 0.0.0.0 adstat.pro
 0.0.0.0 adstats.ai
 0.0.0.0 adsterra.com
@@ -5302,6 +5305,8 @@
 0.0.0.0 iadworkbench.apple.com
 0.0.0.0 iap.adikteev.com
 0.0.0.0 iap.remerge.io
+0.0.0.0 iasds01.com
+0.0.0.0 iasoz.com
 0.0.0.0 ib.3lift.com
 0.0.0.0 ib.adnxs-simple.com
 0.0.0.0 ib.adnxs.com
@@ -5522,8 +5527,12 @@
 0.0.0.0 insticator.com
 0.0.0.0 intake-lr.com
 0.0.0.0 intamema.com
+0.0.0.0 integr.al
+0.0.0.0 integralads.com
+0.0.0.0 integraladscience.com
 0.0.0.0 integralmarket.goforandroid.com
 0.0.0.0 integralwall.goforandroid.com
+0.0.0.0 integratedadscience.com
 0.0.0.0 integration-analytic.sxyprn.co
 0.0.0.0 integration-api.crazyegg.com
 0.0.0.0 integration.analytics.lightricks.com
@@ -10726,6 +10735,7 @@
 0.0.0.0 wave.outbrain.com
 0.0.0.0 wcs.naver.com
 0.0.0.0 wd.adcolony.com
+0.0.0.0 wearecontext.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.news.apple-dns.net
 0.0.0.0 weather-analytics-events.news.apple.com

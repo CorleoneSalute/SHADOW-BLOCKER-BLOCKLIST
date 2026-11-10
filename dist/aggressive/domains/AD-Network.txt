@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2449
+# Total domains: 2459
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -157,6 +157,7 @@ adlytics.online
 adlyticsmedia.com
 adm.fwmrm.net
 admagnet.agency
+admantx.com
 admaster.cc
 admaster.co
 admaster.com.cn
@@ -253,6 +254,7 @@ ads3-adnow.com
 ads30.adcolony.com
 ads33.adtelligent.com
 ads54.adtelligent.com
+adsafeprotected.com
 adsailor.com
 adsbase.ltd
 adsboost.net
@@ -310,6 +312,7 @@ adsrevenue.net
 adsrveys.com
 adsrvr.exponential.com
 adsrvr.org
+adssciences.com
 adstat.pro
 adstats.ai
 adsterra.com
@@ -1263,6 +1266,8 @@ i.adingo.jp
 i.connectad.io
 i.microad.jp
 iads.unity3d.com
+iasds01.com
+iasoz.com
 ib.3lift.com
 ib.adnxs-simple.com
 ib.adnxs.com
@@ -1337,6 +1342,10 @@ insightenterprisells.com
 insights.hybrid.ai
 insparq.adblade.com
 insticator.com
+integr.al
+integralads.com
+integraladscience.com
+integratedadscience.com
 intelaxa.com
 interact.taboola.com
 inv-nets-us.admixer.net
@@ -2333,6 +2342,7 @@ w.ligatus.com
 watwait.com
 wave.outbrain.com
 wd.adcolony.com
+wearecontext.com
 web.adblade.com
 webads.com
 webads.es
