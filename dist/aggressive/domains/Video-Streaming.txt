@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 472
+# Total domains: 477
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -52,6 +52,8 @@ ads.mxplayer.in
 ads.paramountplus.com
 ads.peacocktv.com
 ads.pluto.tv
+ads.tnt.tv
+ads.trutv.com
 ads.voot.com
 ads.zee5.com
 adserver.connatix.com
@@ -382,6 +384,9 @@ sa-east-1-1.telemetry.insights.video.a2z.com
 saa.cbsi.com
 saa.paramountplus.com
 sanalytics.adultswim.co.uk
+sanalytics.tbs.com
+sanalytics.tntdrama.com
+sanalytics.trutv.com
 sdk-log.jowo.tv
 sdk.conviva.com
 sentry.clients.nowtv.it

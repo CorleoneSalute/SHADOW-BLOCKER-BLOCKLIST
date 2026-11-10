@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10613
+# Total domains: 10618
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -744,9 +744,11 @@
 0.0.0.0 ads.timesinternet.in
 0.0.0.0 ads.tinu.be
 0.0.0.0 ads.titanos.tv
+0.0.0.0 ads.tnt.tv
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 ads.triplelift.com
 0.0.0.0 ads.truecaller.com
+0.0.0.0 ads.trutv.com
 0.0.0.0 ads.tunein.com
 0.0.0.0 ads.twitch.tv
 0.0.0.0 ads.twitter.com
@@ -8019,6 +8021,9 @@
 0.0.0.0 samsungusa.api.useinsider.com
 0.0.0.0 samsungvn.api.useinsider.com
 0.0.0.0 sanalytics.adultswim.co.uk
+0.0.0.0 sanalytics.tbs.com
+0.0.0.0 sanalytics.tntdrama.com
+0.0.0.0 sanalytics.trutv.com
 0.0.0.0 sandbox.activity.browser.intl.miui.com
 0.0.0.0 sandbox.yieldmo.com
 0.0.0.0 sandboxplatform.admaster.cc
