@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11112
+# Total domains: 11113
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10095,6 +10095,7 @@
 ||tracking.lastpass.com^
 ||tracking.launchdarkly.com^
 ||tracking.lenovo.com^
+||tracking.lenovopartnernetwork.com^
 ||tracking.livechatinc.com^
 ||tracking.loopcloud.com^
 ||tracking.meitu.com^

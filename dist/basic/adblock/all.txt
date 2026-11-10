@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10622
+# Total domains: 10623
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9656,6 +9656,7 @@
 ||tracking.lastpass.com^
 ||tracking.launchdarkly.com^
 ||tracking.lenovo.com^
+||tracking.lenovopartnernetwork.com^
 ||tracking.livechatinc.com^
 ||tracking.loopcloud.com^
 ||tracking.meitu.com^

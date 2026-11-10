@@ -1,6 +1,6 @@
 # HARDWARE VENDOR BLOCKLIST
 
-# Total domains: 159
+# Total domains: 160
 # Last update: 2026/11/10
 # Note: trailing "!" marks a domain as aggressive-only
 
