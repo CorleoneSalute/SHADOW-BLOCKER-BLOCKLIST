@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 466
+# Total domains: 467
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -426,6 +426,7 @@
 ||telemetry.peacocktv.com^
 ||telemetry.pluto.tv^
 ||telemetry.tubitv.com^
+||track.cbs.com^
 ||track.nbc.com^
 ||track.netflix.com^
 ||track.parsely.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11095
+# Total domains: 11096
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9811,6 +9811,7 @@ track.cam4.com
 track.capitaloneshopping.com
 track.casino.org
 track.cazino.com
+track.cbs.com
 track.cbssports.com
 track.cg.wine.com
 track.chalkboard.io

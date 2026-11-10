@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10605
+# Total domains: 10606
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9373,6 +9373,7 @@
 0.0.0.0 track.capitaloneshopping.com
 0.0.0.0 track.casino.org
 0.0.0.0 track.cazino.com
+0.0.0.0 track.cbs.com
 0.0.0.0 track.cbssports.com
 0.0.0.0 track.cg.wine.com
 0.0.0.0 track.chalkboard.io

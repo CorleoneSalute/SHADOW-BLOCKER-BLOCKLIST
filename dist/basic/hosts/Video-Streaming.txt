@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 420
+# Total domains: 421
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -390,6 +390,7 @@
 0.0.0.0 telemetry.peacocktv.com
 0.0.0.0 telemetry.pluto.tv
 0.0.0.0 telemetry.tubitv.com
+0.0.0.0 track.cbs.com
 0.0.0.0 track.nbc.com
 0.0.0.0 track.netflix.com
 0.0.0.0 track.parsely.com
