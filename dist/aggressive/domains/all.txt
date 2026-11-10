@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11098
+# Total domains: 11103
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -96,6 +96,7 @@ ab.apple.com.akadns.net
 ab.cams.com
 aba.gumgum.com
 abc2.adtelligent.com
+abc3-log.tv360.vn
 abilitec.acxiom.com
 ablog.baidu.com
 abrt.fedoraproject.org
@@ -250,6 +251,7 @@ ad.click.g.doubleclick.net
 ad.com
 ad.cookpad.com
 ad.cookpad.jp
+ad.cp68.ott.cibntv.net
 ad.criteo.com
 ad.crwdcntrl.net
 ad.daum.net
@@ -5952,6 +5954,7 @@ log.tving.com
 log.twibida.com
 log.uniconsent.com
 log.us.tiktokv.com
+log.usrdata.uums.cibn.cc
 log.vivo.com
 log.vizio.com
 log.waimai.baidu.com
@@ -7747,6 +7750,7 @@ ptengine.com
 ptengine.jp
 pub.mylead.global
 pub.observability.app.launchdarkly.com
+pubads-wiinvent.tv360.vn
 pubads.g.doubleclick.net
 pubguard.com
 pubguard.io
@@ -10303,6 +10307,7 @@ tv.springserve.com
 tv2k9ad.nettvservices.com
 tvacr-tools.acr.roku.com
 tvinteractive.tv
+tvlog.cp81.ott.cibntv.net
 tvmeta-dynamic.tvinteractive.tv
 tvp-ads-log.samsungads.com
 tvp-interactive-ad.samsungads.com

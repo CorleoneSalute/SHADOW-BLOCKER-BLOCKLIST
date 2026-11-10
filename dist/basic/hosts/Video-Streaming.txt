@@ -1,10 +1,11 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 421
+# Total domains: 426
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+0.0.0.0 abc3-log.tv360.vn
 0.0.0.0 ad-analytics.bamgrid.com
 0.0.0.0 ad-analytics.conviva.com
 0.0.0.0 ad-analytics.crunchyroll.com
@@ -21,6 +22,7 @@
 0.0.0.0 ad-beacon.peacocktv.com
 0.0.0.0 ad-beacon.tubitv.com
 0.0.0.0 ad-metrics.espn.com
+0.0.0.0 ad.cp68.ott.cibntv.net
 0.0.0.0 ad.mobile.youku.com
 0.0.0.0 adgen-cdn.connatix.com
 0.0.0.0 adgen.connatix.com
@@ -239,6 +241,7 @@
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 log.mgtv.net
 0.0.0.0 log.tving.com
+0.0.0.0 log.usrdata.uums.cibn.cc
 0.0.0.0 logging.bamgrid.com
 0.0.0.0 logging.netflix.com
 0.0.0.0 logs.hulu.com
@@ -330,6 +333,7 @@
 0.0.0.0 pre.smartplugin.youbora.com
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 protected.media
+0.0.0.0 pubads-wiinvent.tv360.vn
 0.0.0.0 pulse-apac.conviva.com
 0.0.0.0 pulse-eu.conviva.com
 0.0.0.0 pulse-us.conviva.com
@@ -399,6 +403,7 @@
 0.0.0.0 tracking.jwplayer.com
 0.0.0.0 tracking.tubitv.com
 0.0.0.0 tvinteractive.tv
+0.0.0.0 tvlog.cp81.ott.cibntv.net
 0.0.0.0 tvp-ads-log.samsungads.com
 0.0.0.0 us-east-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 us-east-1-2.telemetry.insights.video.a2z.com

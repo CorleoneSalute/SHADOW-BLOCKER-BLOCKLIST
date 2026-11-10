@@ -1,10 +1,11 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 421
+# Total domains: 426
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+||abc3-log.tv360.vn^
 ||ad-analytics.bamgrid.com^
 ||ad-analytics.conviva.com^
 ||ad-analytics.crunchyroll.com^
@@ -21,6 +22,7 @@
 ||ad-beacon.peacocktv.com^
 ||ad-beacon.tubitv.com^
 ||ad-metrics.espn.com^
+||ad.cp68.ott.cibntv.net^
 ||ad.mobile.youku.com^
 ||adgen-cdn.connatix.com^
 ||adgen.connatix.com^
@@ -239,6 +241,7 @@
 ||livestats.kaltura.com^
 ||log.mgtv.net^
 ||log.tving.com^
+||log.usrdata.uums.cibn.cc^
 ||logging.bamgrid.com^
 ||logging.netflix.com^
 ||logs.hulu.com^
@@ -330,6 +333,7 @@
 ||pre.smartplugin.youbora.com^
 ||presentationtracking.netflix.com^
 ||protected.media^
+||pubads-wiinvent.tv360.vn^
 ||pulse-apac.conviva.com^
 ||pulse-eu.conviva.com^
 ||pulse-us.conviva.com^
@@ -399,6 +403,7 @@
 ||tracking.jwplayer.com^
 ||tracking.tubitv.com^
 ||tvinteractive.tv^
+||tvlog.cp81.ott.cibntv.net^
 ||tvp-ads-log.samsungads.com^
 ||us-east-1-1.telemetry.insights.video.a2z.com^
 ||us-east-1-2.telemetry.insights.video.a2z.com^

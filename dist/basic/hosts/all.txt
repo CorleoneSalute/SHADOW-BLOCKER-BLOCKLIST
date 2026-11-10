@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10608
+# Total domains: 10613
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -88,6 +88,7 @@
 0.0.0.0 ab-test.adikteev.com
 0.0.0.0 aba.gumgum.com
 0.0.0.0 abc2.adtelligent.com
+0.0.0.0 abc3-log.tv360.vn
 0.0.0.0 abilitec.acxiom.com
 0.0.0.0 ablog.baidu.com
 0.0.0.0 abrt.fedoraproject.org
@@ -231,6 +232,7 @@
 0.0.0.0 ad.com
 0.0.0.0 ad.cookpad.com
 0.0.0.0 ad.cookpad.jp
+0.0.0.0 ad.cp68.ott.cibntv.net
 0.0.0.0 ad.criteo.com
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.daum.net
@@ -5678,6 +5680,7 @@
 0.0.0.0 log.twibida.com
 0.0.0.0 log.uniconsent.com
 0.0.0.0 log.us.tiktokv.com
+0.0.0.0 log.usrdata.uums.cibn.cc
 0.0.0.0 log.vivo.com
 0.0.0.0 log.vizio.com
 0.0.0.0 log.waimai.baidu.com
@@ -7403,6 +7406,7 @@
 0.0.0.0 ptengine.jp
 0.0.0.0 pub.mylead.global
 0.0.0.0 pub.observability.app.launchdarkly.com
+0.0.0.0 pubads-wiinvent.tv360.vn
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubguard.com
 0.0.0.0 pubguard.io
@@ -9859,6 +9863,7 @@
 0.0.0.0 tv2k9ad.nettvservices.com
 0.0.0.0 tvacr-tools.acr.roku.com
 0.0.0.0 tvinteractive.tv
+0.0.0.0 tvlog.cp81.ott.cibntv.net
 0.0.0.0 tvmeta-dynamic.tvinteractive.tv
 0.0.0.0 tvp-ads-log.samsungads.com
 0.0.0.0 tvp-interactive-ad.samsungads.com
