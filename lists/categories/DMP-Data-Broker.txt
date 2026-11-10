@@ -3,7 +3,7 @@
 # Last update: 2026/09/08
 # Note: trailing "!" marks a domain as aggressive-only
 
-🔴 DATA BROKERS & DMP
+DATA BROKERS & DMP
 
 # ACXIOM
 acxiom.com
@@ -33,6 +33,7 @@ ats.eccmp.com
 
 # ORACLE DATA CLOUD (BlueKai DMP)
 bkrtx.com
+analytics.bluekai.com
 tags.bluekai.com !
 tags.bkrtx.com
 oracleinfinity.io
@@ -190,7 +191,7 @@ vht.navdmp.com
 throtle.io
 
 
-🟠 MOBILE DATA BROKERS (Location Tracking)
+MOBILE DATA BROKERS (Location Tracking)
 
 # FACTUAL / FOURSQUARE
 factual.com !
