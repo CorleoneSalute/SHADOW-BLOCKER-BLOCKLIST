@@ -92,3 +92,24 @@ track.useepay.com
 # AIRPAY TECHNOLOGIES PHILIPPINES INC.
 
 tracker.iv.airpay.com.ph
+
+# Juspay
+
+logs.as1.juspay.io
+logs.bpl.eu5.juspay.io
+logs.bpl.eu5.prod-sbx.juspay.io
+logs.eu1.juspay.io
+logs.juspay.io
+logs.visabenefits.in1.juspay.io
+logs.visabenefits.me1.juspay.io
+logger.in-west-1.juspay.in
+logs.juspay.in
+logs.beckn.juspay.in
+logs.in-west-1.juspay.in
+logs.yesbank.upi.juspay.in
+analytics.xyne.juspay.in
+logs.juspay.net
+
+# Xenith
+
+otel-collector.xenithpay.com
