@@ -1,6 +1,6 @@
 # ============================================================
 # TELEHEALTH DIGITAL HEALTH BLOCKLIST - BASIC
-# Total domains: 67
+# Total domains: 69
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -32,6 +32,7 @@
 0.0.0.0 api-metrics.infra.alto.com
 0.0.0.0 app-analytics.carbonhealth.com
 0.0.0.0 cmxanalytics.cvshealth.com
+0.0.0.0 collect.sutterhealth.org
 0.0.0.0 digital-perf-metrics.cvshealth.com
 0.0.0.0 fp.curology.com
 0.0.0.0 glpi.ad.chartrequest.com
@@ -64,6 +65,7 @@
 0.0.0.0 slack-metrics.infra.alto.com
 0.0.0.0 smetrics.evernorth.com
 0.0.0.0 smetrics.mdlive.com
+0.0.0.0 t.collect.sutterhealth.org
 0.0.0.0 tc-ai-metrics.transcarent.com
 0.0.0.0 track.ecomms.mdlive.com
 0.0.0.0 track.ecomms.mdlivetechnology.com

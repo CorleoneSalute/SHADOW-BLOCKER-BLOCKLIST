@@ -1,6 +1,6 @@
 # ============================================================
 # TELEHEALTH DIGITAL HEALTH BLOCKLIST - AGGRESSIVE
-# Total domains: 67
+# Total domains: 71
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -32,6 +32,7 @@ api-ctsanalyticsuat.cvshealth.com
 api-metrics.infra.alto.com
 app-analytics.carbonhealth.com
 cmxanalytics.cvshealth.com
+collect.sutterhealth.org
 digital-perf-metrics.cvshealth.com
 fp.curology.com
 glpi.ad.chartrequest.com
@@ -64,6 +65,9 @@ sgtm.nurx.com
 slack-metrics.infra.alto.com
 smetrics.evernorth.com
 smetrics.mdlive.com
+t.collect.sutterhealth.org
+t.tags.sutterhealth.org
+tags.sutterhealth.org
 tc-ai-metrics.transcarent.com
 track.ecomms.mdlive.com
 track.ecomms.mdlivetechnology.com

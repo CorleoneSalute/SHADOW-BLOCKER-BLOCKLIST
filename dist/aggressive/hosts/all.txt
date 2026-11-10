@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11140
+# Total domains: 11144
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3548,6 +3548,7 @@
 0.0.0.0 collect.springer.com
 0.0.0.0 collect.springernature.com
 0.0.0.0 collect.surveyjunkie.com
+0.0.0.0 collect.sutterhealth.org
 0.0.0.0 collect.swagbucks.com
 0.0.0.0 collect.uae.passfort.com
 0.0.0.0 collect.wetransfer.com
@@ -9333,6 +9334,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.clarity.ms
+0.0.0.0 t.collect.sutterhealth.org
 0.0.0.0 t.contentsquare.net
 0.0.0.0 t.gumgum.com
 0.0.0.0 t.helloklarity.com
@@ -9343,6 +9345,7 @@
 0.0.0.0 t.ptengine.com
 0.0.0.0 t.ptengine.jp
 0.0.0.0 t.seedtag.com
+0.0.0.0 t.tags.sutterhealth.org
 0.0.0.0 t.teads.tv
 0.0.0.0 t.track.ad.xiaomi.com
 0.0.0.0 t.update.adsrvr.org
@@ -9379,6 +9382,7 @@
 0.0.0.0 tags.elsevier.com
 0.0.0.0 tags.mindbodyonline.com
 0.0.0.0 tags.retargeter.com
+0.0.0.0 tags.sutterhealth.org
 0.0.0.0 tags.zetaglobal.com
 0.0.0.0 taklks.com
 0.0.0.0 talkback-reports.mozilla.org

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10650
+# Total domains: 10652
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3449,6 +3449,7 @@
 0.0.0.0 collect.springer.com
 0.0.0.0 collect.springernature.com
 0.0.0.0 collect.surveyjunkie.com
+0.0.0.0 collect.sutterhealth.org
 0.0.0.0 collect.swagbucks.com
 0.0.0.0 collect.uae.passfort.com
 0.0.0.0 collect.wetransfer.com
@@ -8910,6 +8911,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.clarity.ms
+0.0.0.0 t.collect.sutterhealth.org
 0.0.0.0 t.contentsquare.net
 0.0.0.0 t.gumgum.com
 0.0.0.0 t.helloklarity.com
