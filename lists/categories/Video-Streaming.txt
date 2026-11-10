@@ -300,6 +300,7 @@ sports-analytics.paramountplus.com
 cbsinteractive.hb.omtrdc.net
 analytics.cbsaavideo.com
 metrics.cbs.com
+track.cbs.com
 cbsi.demdex.net
 
 # --- Pluto TV ---
