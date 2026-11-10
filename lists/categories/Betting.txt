@@ -27,6 +27,7 @@ analytics.go.com
 ngads.go.com
 ad.go.com
 adimages.go.com
+adimages.gns.go.com
 
 # PrizePicks
 analytics.prizepicks.com
