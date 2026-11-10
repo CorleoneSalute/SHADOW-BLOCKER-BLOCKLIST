@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10662
+# Total domains: 10663
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9761,6 +9761,7 @@
 ||tracking.sortenabet.bet.br^
 ||tracking.speedbit.com^
 ||tracking.sportsbet.com.au^
+||tracking.sportsbet.com.au.edgekey.net^
 ||tracking.stubhub.com^
 ||tracking.styleseat.com^
 ||tracking.supersonicads.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 316
+# Total domains: 317
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -294,6 +294,7 @@
 ||tracking.setanta.bet^
 ||tracking.sortenabet.bet.br^
 ||tracking.sportsbet.com.au^
+||tracking.sportsbet.com.au.edgekey.net^
 ||tracking.unibet.com^
 ||tracking.youdagames.com^
 ||trackju.lonestarcasino.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 308
+# Total domains: 309
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -286,6 +286,7 @@
 0.0.0.0 tracking.setanta.bet
 0.0.0.0 tracking.sortenabet.bet.br
 0.0.0.0 tracking.sportsbet.com.au
+0.0.0.0 tracking.sportsbet.com.au.edgekey.net
 0.0.0.0 tracking.unibet.com
 0.0.0.0 tracking.youdagames.com
 0.0.0.0 trackju.lonestarcasino.com

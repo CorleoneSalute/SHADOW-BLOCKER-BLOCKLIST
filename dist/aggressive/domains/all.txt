@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11154
+# Total domains: 11155
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10204,6 +10204,7 @@ tracking.sonymobile.com
 tracking.sortenabet.bet.br
 tracking.speedbit.com
 tracking.sportsbet.com.au
+tracking.sportsbet.com.au.edgekey.net
 tracking.stubhub.com
 tracking.styleseat.com
 tracking.supersonicads.com
