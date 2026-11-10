@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10599
+# Total domains: 10600
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5632,6 +5632,7 @@ log.map.baidu.com
 log.mgtv.net
 log.mix.sina.com.cn
 log.motorola.com
+log.musical.ly
 log.news.baidu.com
 log.nordvpn.com
 log.nothing.tech

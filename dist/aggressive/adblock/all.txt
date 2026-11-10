@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11089
+# Total domains: 11090
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5906,6 +5906,7 @@
 ||log.mgtv.net^
 ||log.mix.sina.com.cn^
 ||log.motorola.com^
+||log.musical.ly^
 ||log.news.baidu.com^
 ||log.nordvpn.com^
 ||log.nothing.tech^
