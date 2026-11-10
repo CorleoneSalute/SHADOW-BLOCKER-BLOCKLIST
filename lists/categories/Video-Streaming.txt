@@ -483,6 +483,17 @@ ad.cp68.ott.cibntv.net
 tvlog.cp81.ott.cibntv.net
 log.usrdata.uums.cibn.cc
 
+# TNT (Turner Network Television)
+
+ads.tnt.tv
+sanalytics.tbs.com
+sanalytics.tntdrama.com
+
+# TruTV
+
+ads.trutv.com
+sanalytics.trutv.com
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
