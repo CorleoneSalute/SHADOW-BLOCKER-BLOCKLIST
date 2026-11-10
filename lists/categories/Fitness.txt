@@ -81,3 +81,8 @@ stats.stronglifts.com
 # AI Sparks Labs, LLC / Better Labs
 
 analytics.eatbetter.app
+
+# Wahoo Fitness
+
+track.wahoo.wahoofitness.com
+analytics.supersapiens.com
