@@ -25,6 +25,8 @@ abtmetric.espn.go.com
 ad.family.go.com
 analytics.go.com
 ngads.go.com
+ad.go.com
+adimages.go.com
 
 # PrizePicks
 analytics.prizepicks.com
