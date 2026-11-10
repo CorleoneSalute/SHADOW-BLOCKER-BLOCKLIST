@@ -656,6 +656,7 @@ metrics-dre.dt.dbankcloud.cn
 metrics-dre.dt.hihonorcloud.com
 metrics-drru.dt.hihonorcloud.com
 metrics-test-drcn.dt.hihonorcloud.com
+rms-behavior-collect-drcn.hihonorcdn.com
 metrics.data.hicloud.com
 metrics.dt.dbankcloud.cn
 metrics.dt.dbankcloud.ru
