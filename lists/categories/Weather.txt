@@ -15,6 +15,7 @@ dataanalyst.mercury.weather.com
 ai.analytics.weather.com
 
 # WEATHERBUG
+ad.weatherbug.com
 ads.weatherbug.com
 advertising.weatherbug.com
 dsx.weather.com ! # ⚠️ WARNING: A/B Testing/Personalization; Weather Widget and Custom Content May Break
