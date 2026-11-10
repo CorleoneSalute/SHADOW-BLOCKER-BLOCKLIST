@@ -1,6 +1,6 @@
 # ============================================================
 # VOIP VIDEO CALL BLOCKLIST - BASIC
-# Total domains: 44
+# Total domains: 45
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -48,4 +48,5 @@
 ||ringcentral.112.2o7.net^
 ||telemetry.zoom.us^
 ||telemetry.zoomconnector.com^
+||us-analytics.ringcentral.com^
 ||us.telemetry.zoomconnector.com^

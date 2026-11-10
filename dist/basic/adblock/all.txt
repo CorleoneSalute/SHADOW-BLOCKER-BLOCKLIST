@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10663
+# Total domains: 10664
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10011,6 +10011,7 @@
 ||urlshorter.com^
 ||urlvmt.com^
 ||urlvte.com^
+||us-analytics.ringcentral.com^
 ||us-east-1-1.telemetry.insights.video.a2z.com^
 ||us-east-1-2.telemetry.insights.video.a2z.com^
 ||us-east-1-3.telemetry.insights.video.a2z.com^
