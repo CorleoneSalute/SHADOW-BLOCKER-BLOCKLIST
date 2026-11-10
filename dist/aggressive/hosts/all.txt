@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11092
+# Total domains: 11093
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8185,6 +8185,7 @@
 0.0.0.0 ruc-ngfts.lge.com
 0.0.0.0 rugbymentalads.com
 0.0.0.0 rum-gateway.medallia.com
+0.0.0.0 rum-mkt.perfops.cdb.cdn.orange.com
 0.0.0.0 rum-obj.us-east-1.rumble.cloud
 0.0.0.0 rum-obj.us-east-2.rumble.cloud
 0.0.0.0 rum-obj.us-west-1.rumble.cloud

@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1136
+# Total domains: 1137
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -853,6 +853,7 @@
 ||ru-st-sl.vivoglobal.com^
 ||ru-stsdk.vivoglobal.com^
 ||ru.nebula-collector.huawei.cn^
+||rum-mkt.perfops.cdb.cdn.orange.com^
 ||samsung-benelux.demdex.net^
 ||samsung-com.112.2o7.net^
 ||samsung-france.demdex.net^

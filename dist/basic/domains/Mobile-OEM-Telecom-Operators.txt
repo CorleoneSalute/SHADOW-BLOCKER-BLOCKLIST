@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1086
+# Total domains: 1087
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -808,6 +808,7 @@ ru-st-exappupgrade.vivoglobal.com
 ru-st-sl.vivoglobal.com
 ru-stsdk.vivoglobal.com
 ru.nebula-collector.huawei.cn
+rum-mkt.perfops.cdb.cdn.orange.com
 samsung-benelux.demdex.net
 samsung-com.112.2o7.net
 samsung-france.demdex.net
