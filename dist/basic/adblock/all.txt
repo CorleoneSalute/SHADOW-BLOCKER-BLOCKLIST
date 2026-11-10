@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10659
+# Total domains: 10660
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6135,6 +6135,7 @@
 ||metrics-apptouch-dre.hispace.dbankcloud.com^
 ||metrics-assets.incognia.com^
 ||metrics-basecloud-drcn.dt.hihonorcloud.com^
+||metrics-c.wbx2.com^
 ||metrics-china-ic1.icloud.com^
 ||metrics-china-ic2.icloud.com^
 ||metrics-china-ic3.icloud.com^

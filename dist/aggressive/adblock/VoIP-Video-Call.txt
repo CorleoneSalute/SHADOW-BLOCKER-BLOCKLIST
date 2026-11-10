@@ -1,6 +1,6 @@
 # ============================================================
 # VOIP VIDEO CALL BLOCKLIST - AGGRESSIVE
-# Total domains: 46
+# Total domains: 47
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -41,6 +41,7 @@
 ||logzilla.zoom.us^
 ||meetings-telemetry.goog^
 ||metrics-a.wbx2.com^
+||metrics-c.wbx2.com^
 ||metrics-d.wbx2.com^
 ||metrics-k.wbx2.com^
 ||metrics-m.wbx2.com^
