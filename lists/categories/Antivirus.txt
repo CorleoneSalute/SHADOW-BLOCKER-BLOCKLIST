@@ -55,6 +55,7 @@ stats.mcafee.com
 telemetry.mobile.api.mcafee.com
 metrics.mcafee.com
 ads.mcafee.com
+directads.mcafee.com
 analytics.awscommon.mcafee.com
 
 # KASPERSKY
