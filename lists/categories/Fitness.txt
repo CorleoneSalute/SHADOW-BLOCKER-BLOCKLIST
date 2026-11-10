@@ -11,6 +11,7 @@ ads.myfitnesspal.com
 
 # Strava
 analytics.strava.com
+tracing-collector.strava.com
 
 # Runtastic / Adidas
 analytics.runtastic.com
