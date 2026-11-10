@@ -251,6 +251,13 @@ url4077.ads-service.tiktok.com
 v16-ad.byteoversea.com
 ad-format-ttp2.tiktokv.eu
 fe-ad-lb-ttp.useast5.tiktoklb.us
+sf-ssp.tiktokcdn-eu.com.edgesuite.net
+sf-ssp.tiktokcdn-eu.com.ttdns3.com
+sf-ssp.tiktokcdn-us.com
+sf-ssp.tiktokcdn-us.com.edgesuite.net
+sf-ssp.tiktokcdn.com
+sf-ssp.tiktokcdn.com.edgesuite.net
+sf-ssp.tiktokcdn.com.ttdns2.com
 ```
 
 **tiktokv.com log* (App Log)** (70 domain)
@@ -326,6 +333,7 @@ log9-normal-c-alisg.tiktokv.com
 log9-normal-c-useast1a.tiktokv.com
 logbk.tiktokv.com
 tns-sec-log-useast2a.tiktokv.com
+log61-normal-c-alisg.tiktokv.com
 log0-misc-lq.amemv.com
 log0-misc-alinc2.amemv.com
 log3-misc-lq.amemv.com
@@ -511,6 +519,8 @@ mssdk31-normal-zr-alisg.tiktokv.com
 mssdk31-normal-zr-useast1a.tiktokv.com
 mssdk32-normal-zr-alisg.tiktokv.com
 mssdk32-normal-zr-useast1a.tiktokv.com
+mssdk23-normal-zr-alisg.tiktokv.com
+mssdk23-normal-zr-useast1a.tiktokv.com
 rtc-logger-i18n.tiktokv.com
 rtc-logger-va.tiktokv.com
 rtc-logger.tiktokv.com
