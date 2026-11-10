@@ -13,3 +13,4 @@ growthbook.server.citizen.com !
 ads.life360.com
 adsconfig.life360.com
 amplitude.life360.com
+adserver-ingress-direct-usw2.nativo-prod.life360.com
