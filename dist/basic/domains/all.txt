@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10654
+# Total domains: 10655
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -391,6 +391,7 @@ adhitz.com
 adhoc.textra.me
 adiant.com
 adikteev.com
+adimages.gns.go.com
 adimages.go.com
 adimg.afreecatv.com
 adimg.mobile.sina.cn

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10654
+# Total domains: 10655
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -391,6 +391,7 @@
 0.0.0.0 adhoc.textra.me
 0.0.0.0 adiant.com
 0.0.0.0 adikteev.com
+0.0.0.0 adimages.gns.go.com
 0.0.0.0 adimages.go.com
 0.0.0.0 adimg.afreecatv.com
 0.0.0.0 adimg.mobile.sina.cn

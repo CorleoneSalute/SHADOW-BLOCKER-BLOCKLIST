@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11146
+# Total domains: 11147
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -412,6 +412,7 @@ adhitz.com
 adhoc.textra.me
 adiant.com
 adikteev.com
+adimages.gns.go.com
 adimages.go.com
 adimg.afreecatv.com
 adimg.mobile.sina.cn
