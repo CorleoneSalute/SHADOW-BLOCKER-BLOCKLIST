@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1090
+# Total domains: 1089
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -159,7 +159,6 @@ api.eagllwin.com
 api.runestone.samsung.com
 api.sms.intl.miui.com
 api.tw06.xlmc.sec.miui.com
-apm.yun.hihonor.com
 app.analytics.t-mobile.com
 app.events.huawei.com
 appstat.stat.mi.com

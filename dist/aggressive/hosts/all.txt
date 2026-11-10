@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11157
+# Total domains: 11156
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2529,7 +2529,6 @@
 0.0.0.0 apitd.net
 0.0.0.0 apiv2.userloc.location.yahoo.com
 0.0.0.0 apkrep.ff.avast.sec.miui.com
-0.0.0.0 apm.yun.hihonor.com
 0.0.0.0 apmebf.com
 0.0.0.0 aporasal.net
 0.0.0.0 app-ads.apple.com

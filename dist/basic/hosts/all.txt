@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10665
+# Total domains: 10664
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2469,7 +2469,6 @@
 0.0.0.0 api3.adsterratools.com
 0.0.0.0 api3.mountain.com
 0.0.0.0 apiserv.shouji.sogou.com
-0.0.0.0 apm.yun.hihonor.com
 0.0.0.0 apmebf.com
 0.0.0.0 aporasal.net
 0.0.0.0 app-ads.apple.com
