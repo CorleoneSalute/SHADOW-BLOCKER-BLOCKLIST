@@ -6,6 +6,7 @@ TELEHEALTH & DIGITAL HEALTH BLOCKLIST
 # TELADOC / INTOUCH HEALTH
 
 logrocket-trial.teladoc.com
+events.data.teladoc.com
 analytics.ca.visitnow.org
 analytics.intouchhealth.com
 
