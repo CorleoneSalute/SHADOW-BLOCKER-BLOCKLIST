@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1139
+# Total domains: 1140
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -833,6 +833,7 @@
 0.0.0.0 report-sg.uc.heytapmobile.com
 0.0.0.0 report.gras.samsungdm.com
 0.0.0.0 report.n.xiaomi.com
+0.0.0.0 rms-behavior-collect-drcn.hihonorcdn.com
 0.0.0.0 ro-up.vivoglobal.com
 0.0.0.0 router.tracking.miui.com
 0.0.0.0 rtb-config.samsungads.com

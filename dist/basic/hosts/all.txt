@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10664
+# Total domains: 10665
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7689,6 +7689,7 @@
 0.0.0.0 rmp-api.moloco.com
 0.0.0.0 rmp-cdn.moloco.com
 0.0.0.0 rmp.gsspat.jp
+0.0.0.0 rms-behavior-collect-drcn.hihonorcdn.com
 0.0.0.0 rnsfpw.net
 0.0.0.0 ro-info-lgsmartad-com.aws-prd.net
 0.0.0.0 ro-up.vivoglobal.com

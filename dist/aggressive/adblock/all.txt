@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11156
+# Total domains: 11157
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8063,6 +8063,7 @@
 ||rmp-api.moloco.com^
 ||rmp-cdn.moloco.com^
 ||rmp.gsspat.jp^
+||rms-behavior-collect-drcn.hihonorcdn.com^
 ||rnsfpw.net^
 ||ro-info-lgsmartad-com.aws-prd.net^
 ||ro-up.vivoglobal.com^

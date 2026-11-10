@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1089
+# Total domains: 1090
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -788,6 +788,7 @@ report-in.uc.heytapmobile.com
 report-sg.uc.heytapmobile.com
 report.gras.samsungdm.com
 report.n.xiaomi.com
+rms-behavior-collect-drcn.hihonorcdn.com
 ro-up.vivoglobal.com
 router.tracking.miui.com
 rtb-config.samsungads.com
