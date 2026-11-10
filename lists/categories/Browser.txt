@@ -366,6 +366,7 @@ mobmetrika.yandex.com.tr
 mobile-feedback.yandex.com.tr
 reklam.yandex.com.tr
 personalization.yandex.com.tr !
+events.plus.yandex.net
 
 # VIVALDI
 telemetry.vivaldi.com
