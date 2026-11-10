@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10658
+# Total domains: 10659
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4369,6 +4369,7 @@
 ||events.content.ad^
 ||events.cuebiq.com^
 ||events.current.us^
+||events.data.teladoc.com^
 ||events.devcycle.com^
 ||events.dianomi.com^
 ||events.eu.launchdarkly.com^

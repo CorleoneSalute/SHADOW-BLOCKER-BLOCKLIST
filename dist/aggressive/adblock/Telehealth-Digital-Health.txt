@@ -1,6 +1,6 @@
 # ============================================================
 # TELEHEALTH DIGITAL HEALTH BLOCKLIST - AGGRESSIVE
-# Total domains: 71
+# Total domains: 72
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -34,6 +34,7 @@
 ||cmxanalytics.cvshealth.com^
 ||collect.sutterhealth.org^
 ||digital-perf-metrics.cvshealth.com^
+||events.data.teladoc.com^
 ||fp.curology.com^
 ||glpi.ad.chartrequest.com^
 ||ingress.telemetry.prod.gcp.cvshealth.com^

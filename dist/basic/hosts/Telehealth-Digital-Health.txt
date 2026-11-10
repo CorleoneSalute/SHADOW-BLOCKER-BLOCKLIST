@@ -1,6 +1,6 @@
 # ============================================================
 # TELEHEALTH DIGITAL HEALTH BLOCKLIST - BASIC
-# Total domains: 69
+# Total domains: 70
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -34,6 +34,7 @@
 0.0.0.0 cmxanalytics.cvshealth.com
 0.0.0.0 collect.sutterhealth.org
 0.0.0.0 digital-perf-metrics.cvshealth.com
+0.0.0.0 events.data.teladoc.com
 0.0.0.0 fp.curology.com
 0.0.0.0 glpi.ad.chartrequest.com
 0.0.0.0 ingress.telemetry.prod.gcp.cvshealth.com

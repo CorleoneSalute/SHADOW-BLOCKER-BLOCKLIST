@@ -1,6 +1,6 @@
 TELEHEALTH & DIGITAL HEALTH BLOCKLIST
 
-# Total domains: 71
+# Total domains: 72
 # Last update: 2026/11/10
 
 # TELADOC / INTOUCH HEALTH
