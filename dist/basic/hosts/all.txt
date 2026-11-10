@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10597
+# Total domains: 10598
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4367,6 +4367,7 @@
 0.0.0.0 events.mapbox.cn
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.mgid.com
+0.0.0.0 events.mobile.optimizely.com
 0.0.0.0 events.mux.com
 0.0.0.0 events.mz.unity3d.com
 0.0.0.0 events.nativo.com

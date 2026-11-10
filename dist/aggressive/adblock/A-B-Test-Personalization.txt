@@ -1,6 +1,6 @@
 # ============================================================
 # A B TEST PERSONALIZATION BLOCKLIST - AGGRESSIVE
-# Total domains: 66
+# Total domains: 67
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -35,6 +35,7 @@
 ||events.ff.harness.io^
 ||events.intuit.launchdarkly.com^
 ||events.launchdarkly.com^
+||events.mobile.optimizely.com^
 ||events.statsigapi.net^
 ||featureassets.org^
 ||featuregates.org^

@@ -1,7 +1,7 @@
 # A/B TESTING & PERSONALIZATION BLOCKLIST
 
-# Total domains: 66
-# Last update: 2026/08/03
+# Total domains: 67
+# Last update: 2026/11/10
 # Note: trailing "!" marks a domain as aggressive-only
 
 # OPTIMIZELY

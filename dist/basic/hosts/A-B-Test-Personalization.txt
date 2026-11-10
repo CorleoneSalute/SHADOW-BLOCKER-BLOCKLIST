@@ -1,6 +1,6 @@
 # ============================================================
 # A B TEST PERSONALIZATION BLOCKLIST - BASIC
-# Total domains: 64
+# Total domains: 65
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -33,6 +33,7 @@
 0.0.0.0 events.eu.launchdarkly.com
 0.0.0.0 events.ff.harness.io
 0.0.0.0 events.intuit.launchdarkly.com
+0.0.0.0 events.mobile.optimizely.com
 0.0.0.0 events.statsigapi.net
 0.0.0.0 featureassets.org
 0.0.0.0 featuregates.org
