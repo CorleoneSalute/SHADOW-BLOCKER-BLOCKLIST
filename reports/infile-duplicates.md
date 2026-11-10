@@ -12,7 +12,7 @@ identical (same case, same trailing "!" flag). "no" means they
 differ - worth a closer look, since a mismatched "!" flag
 changes which tier the domain ends up in.
 
-10 duplicate domain(s) found across 3 file(s):
+9 duplicate domain(s) found across 2 file(s):
 
 ## AD-Network
 
@@ -26,12 +26,6 @@ changes which tier the domain ends up in.
 | admaster.com.cn | 2764, 3441 | yes |
 | platc-tester.com | 3159, 3161 | yes |
 | adadapted.com | 3397, 3413 | yes |
-
-## Reward-Apps
-
-| Domain | Lines | Exact match |
-|---|---|---|
-| sweepstakesaday.com | 122, 124 | yes |
 
 ## Social-Media
 
