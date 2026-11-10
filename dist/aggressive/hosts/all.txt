@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11113
+# Total domains: 11128
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2126,6 +2126,7 @@
 0.0.0.0 analytics.xbox-interactive.com
 0.0.0.0 analytics.xhamsterlive.info
 0.0.0.0 analytics.xplayerapp.com
+0.0.0.0 analytics.xyne.juspay.in
 0.0.0.0 analytics.yabla.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yamaha.com
@@ -6055,6 +6056,7 @@
 0.0.0.0 logforward.browser.heytapmobi.com
 0.0.0.0 logger.cloudlinux.com
 0.0.0.0 logger.dailymotion.com
+0.0.0.0 logger.in-west-1.juspay.in
 0.0.0.0 logger.kameleoon.io
 0.0.0.0 logger.reddit.com
 0.0.0.0 logger.sciencedirect.com
@@ -6097,14 +6099,19 @@
 0.0.0.0 logs.ads.vungle.com
 0.0.0.0 logs.alipay.com
 0.0.0.0 logs.apple.com
+0.0.0.0 logs.as1.juspay.io
+0.0.0.0 logs.beckn.juspay.in
 0.0.0.0 logs.bobble.ai
 0.0.0.0 logs.boosteroid.com
+0.0.0.0 logs.bpl.eu5.juspay.io
+0.0.0.0 logs.bpl.eu5.prod-sbx.juspay.io
 0.0.0.0 logs.bright.md
 0.0.0.0 logs.cachyos.org
 0.0.0.0 logs.carbonhealth.com
 0.0.0.0 logs.circle.so
 0.0.0.0 logs.dds.lenovo.com
 0.0.0.0 logs.dev.sr.roku.com
+0.0.0.0 logs.eu1.juspay.io
 0.0.0.0 logs.eyecon-app.com
 0.0.0.0 logs.facebook.com
 0.0.0.0 logs.fitbark.com
@@ -6117,7 +6124,11 @@
 0.0.0.0 logs.harness.io
 0.0.0.0 logs.hisensetv.com
 0.0.0.0 logs.hulu.com
+0.0.0.0 logs.in-west-1.juspay.in
 0.0.0.0 logs.ironsrc.mobi
+0.0.0.0 logs.juspay.in
+0.0.0.0 logs.juspay.io
+0.0.0.0 logs.juspay.net
 0.0.0.0 logs.n.xiaomi.com
 0.0.0.0 logs.netflix.com
 0.0.0.0 logs.nsfwlivechat.com
@@ -6133,7 +6144,10 @@
 0.0.0.0 logs.sr.roku.com
 0.0.0.0 logs.tandem.net
 0.0.0.0 logs.thrillzz.com
+0.0.0.0 logs.visabenefits.in1.juspay.io
+0.0.0.0 logs.visabenefits.me1.juspay.io
 0.0.0.0 logs.vosita.com
+0.0.0.0 logs.yesbank.upi.juspay.in
 0.0.0.0 logs.yieldmo.com
 0.0.0.0 logs1409.xiti.com
 0.0.0.0 logserver.hicloud.com
@@ -7287,6 +7301,7 @@
 0.0.0.0 oskiwood.com
 0.0.0.0 osp-log-fetcher.opera.com
 0.0.0.0 otel-collector.hub.bright.md
+0.0.0.0 otel-collector.xenithpay.com
 0.0.0.0 otel-http.khealth.com
 0.0.0.0 otel.atmeta.com
 0.0.0.0 otel.observability.app.launchdarkly.com

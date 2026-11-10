@@ -1,6 +1,6 @@
 # ============================================================
 # DIGITAL WALLET PAYMENT PROCESSOR BLOCKLIST - BASIC
-# Total domains: 45
+# Total domains: 60
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -20,15 +20,30 @@
 ||analytics.squareup.com^
 ||analytics.wise.com^
 ||analytics.www1-0.pad.squareup.com^
+||analytics.xyne.juspay.in^
 ||apples-analytics.pad.squareup.com^
 ||blog.ads.paytm.com^
 ||collect.skrill.com^
 ||log.alipay.com^
 ||log01.mtv.squareup.com^
+||logger.in-west-1.juspay.in^
 ||logs.alipay.com^
+||logs.as1.juspay.io^
+||logs.beckn.juspay.in^
+||logs.bpl.eu5.juspay.io^
+||logs.bpl.eu5.prod-sbx.juspay.io^
+||logs.eu1.juspay.io^
+||logs.in-west-1.juspay.in^
+||logs.juspay.in^
+||logs.juspay.io^
+||logs.juspay.net^
+||logs.visabenefits.in1.juspay.io^
+||logs.visabenefits.me1.juspay.io^
+||logs.yesbank.upi.juspay.in^
 ||metrics-tracking.revolut.com^
 ||metrics.alipay.com^
 ||metrics.squareup.com^
+||otel-collector.xenithpay.com^
 ||paypal.112.2o7.net^
 ||paypal.demdex.net^
 ||paypal.tt.omtrdc.net^

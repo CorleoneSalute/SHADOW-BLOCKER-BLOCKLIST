@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11113
+# Total domains: 11128
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2126,6 +2126,7 @@
 ||analytics.xbox-interactive.com^
 ||analytics.xhamsterlive.info^
 ||analytics.xplayerapp.com^
+||analytics.xyne.juspay.in^
 ||analytics.yabla.com^
 ||analytics.yahoo.com^
 ||analytics.yamaha.com^
@@ -6055,6 +6056,7 @@
 ||logforward.browser.heytapmobi.com^
 ||logger.cloudlinux.com^
 ||logger.dailymotion.com^
+||logger.in-west-1.juspay.in^
 ||logger.kameleoon.io^
 ||logger.reddit.com^
 ||logger.sciencedirect.com^
@@ -6097,14 +6099,19 @@
 ||logs.ads.vungle.com^
 ||logs.alipay.com^
 ||logs.apple.com^
+||logs.as1.juspay.io^
+||logs.beckn.juspay.in^
 ||logs.bobble.ai^
 ||logs.boosteroid.com^
+||logs.bpl.eu5.juspay.io^
+||logs.bpl.eu5.prod-sbx.juspay.io^
 ||logs.bright.md^
 ||logs.cachyos.org^
 ||logs.carbonhealth.com^
 ||logs.circle.so^
 ||logs.dds.lenovo.com^
 ||logs.dev.sr.roku.com^
+||logs.eu1.juspay.io^
 ||logs.eyecon-app.com^
 ||logs.facebook.com^
 ||logs.fitbark.com^
@@ -6117,7 +6124,11 @@
 ||logs.harness.io^
 ||logs.hisensetv.com^
 ||logs.hulu.com^
+||logs.in-west-1.juspay.in^
 ||logs.ironsrc.mobi^
+||logs.juspay.in^
+||logs.juspay.io^
+||logs.juspay.net^
 ||logs.n.xiaomi.com^
 ||logs.netflix.com^
 ||logs.nsfwlivechat.com^
@@ -6133,7 +6144,10 @@
 ||logs.sr.roku.com^
 ||logs.tandem.net^
 ||logs.thrillzz.com^
+||logs.visabenefits.in1.juspay.io^
+||logs.visabenefits.me1.juspay.io^
 ||logs.vosita.com^
+||logs.yesbank.upi.juspay.in^
 ||logs.yieldmo.com^
 ||logs1409.xiti.com^
 ||logserver.hicloud.com^
@@ -7287,6 +7301,7 @@
 ||oskiwood.com^
 ||osp-log-fetcher.opera.com^
 ||otel-collector.hub.bright.md^
+||otel-collector.xenithpay.com^
 ||otel-http.khealth.com^
 ||otel.atmeta.com^
 ||otel.observability.app.launchdarkly.com^
