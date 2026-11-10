@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11149
+# Total domains: 11150
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3477,6 +3477,7 @@
 ||clr.telemetry.intel.com^
 ||cm-x.mgid.com^
 ||cm.adform.net^
+||cm.dmp.360.cn^
 ||cm.everesttech.net^
 ||cm.ipinyou.com^
 ||cm.mgid.com^

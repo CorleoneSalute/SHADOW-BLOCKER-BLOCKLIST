@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10657
+# Total domains: 10658
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3379,6 +3379,7 @@
 ||clr.telemetry.intel.com^
 ||cm-x.mgid.com^
 ||cm.adform.net^
+||cm.dmp.360.cn^
 ||cm.everesttech.net^
 ||cm.ipinyou.com^
 ||cm.mgid.com^
