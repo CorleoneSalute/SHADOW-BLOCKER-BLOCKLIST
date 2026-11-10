@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 418
+# Total domains: 419
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -48,6 +48,7 @@
 ||ads.zee5.com^
 ||adserver.connatix.com^
 ||adserver.jwplayer.com^
+||adtrack.hulu.com^
 ||advertising.netflix.com^
 ||alerts.conviva.com^
 ||alerts.youbora.com^

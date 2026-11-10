@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10592
+# Total domains: 10593
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -949,6 +949,7 @@ adtech.de
 adtelligent.com
 adthink.com
 adtpix.com
+adtrack.hulu.com
 adtracker.inmobi.com
 adtrck.cc
 adtrck.com

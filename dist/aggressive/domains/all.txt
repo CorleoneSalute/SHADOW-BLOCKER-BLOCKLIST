@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11082
+# Total domains: 11083
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -990,6 +990,7 @@ adtech.de
 adtelligent.com
 adthink.com
 adtpix.com
+adtrack.hulu.com
 adtracker.inmobi.com
 adtrck.cc
 adtrck.com
