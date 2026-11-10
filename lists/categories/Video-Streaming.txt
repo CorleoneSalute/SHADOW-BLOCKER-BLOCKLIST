@@ -102,6 +102,7 @@ youtrack.ops.connatix.com
 adserver.connatix.com
 
 # --- Brightcove Analytics ---
+metric.brightcove.com
 metrics.brightcove.com
 analytics.api.brightcove.com
 data-collection.brightcove.com
