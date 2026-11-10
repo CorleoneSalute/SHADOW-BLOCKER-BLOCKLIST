@@ -1,6 +1,6 @@
 # ============================================================
 # CONTENT CREATION LIVE STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 74
+# Total domains: 75
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -30,6 +30,7 @@
 ||beacon.twitch.tv^
 ||chat.analytics.eu.restream.io^
 ||chat.analytics.restream.io^
+||client-event-reporter.twitch.tv^
 ||d1.ads.rmbl.ws^
 ||d2.ads.rmbl.ws^
 ||d3.ads.rmbl.ws^

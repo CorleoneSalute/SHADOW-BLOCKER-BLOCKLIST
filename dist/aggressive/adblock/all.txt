@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11085
+# Total domains: 11086
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3424,6 +3424,7 @@
 ||client-analytics-ingress-sbox.apay.apple.com^
 ||client-analytics-ingress.apay.apple.com^
 ||client-analytics.dropbox.com^
+||client-event-reporter.twitch.tv^
 ||client-log.box.com^
 ||client-log.dropbox.com^
 ||client-logs-r.wbx2.com^

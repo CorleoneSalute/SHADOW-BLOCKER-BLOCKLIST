@@ -1,6 +1,6 @@
 # ============================================================
 # CONTENT CREATION LIVE STREAMING BLOCKLIST - BASIC
-# Total domains: 72
+# Total domains: 73
 # Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -29,6 +29,7 @@
 ||appsflyer-events.vimeo.com^
 ||chat.analytics.eu.restream.io^
 ||chat.analytics.restream.io^
+||client-event-reporter.twitch.tv^
 ||d1.ads.rmbl.ws^
 ||d2.ads.rmbl.ws^
 ||d3.ads.rmbl.ws^
