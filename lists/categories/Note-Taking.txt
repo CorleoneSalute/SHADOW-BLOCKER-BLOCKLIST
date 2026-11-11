@@ -51,3 +51,7 @@ analytics.obsidian.md
 
 # JOPLIN CLOUD
 analytics.joplincloud.com
+
+# NoteClearly
+
+analytics.noteclearly.com
