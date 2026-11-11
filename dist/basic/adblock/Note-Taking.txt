@@ -1,6 +1,6 @@
 # ============================================================
 # NOTE TAKING BLOCKLIST - BASIC
-# Total domains: 26
+# Total domains: 27
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,6 +10,7 @@
 ||analytics.cs.zohohost.com^
 ||analytics.evernote.com^
 ||analytics.joplincloud.com^
+||analytics.noteclearly.com^
 ||analytics.obsidian.md^
 ||analytics.roamresearch.com^
 ||analytics.simplenote.com^

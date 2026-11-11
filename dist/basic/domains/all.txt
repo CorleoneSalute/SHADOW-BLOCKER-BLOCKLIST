@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10688
+# Total domains: 10689
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1787,6 +1787,7 @@ analytics.nomachine.com
 analytics.noom.com
 analytics.nordpass.com
 analytics.nordvpn.com
+analytics.noteclearly.com
 analytics.notify.elsevier.com
 analytics.ns1.ff.avast.com
 analytics.nubia.com

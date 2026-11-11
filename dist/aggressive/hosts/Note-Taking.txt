@@ -1,6 +1,6 @@
 # ============================================================
 # NOTE TAKING BLOCKLIST - AGGRESSIVE
-# Total domains: 27
+# Total domains: 28
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,6 +10,7 @@
 0.0.0.0 analytics.cs.zohohost.com
 0.0.0.0 analytics.evernote.com
 0.0.0.0 analytics.joplincloud.com
+0.0.0.0 analytics.noteclearly.com
 0.0.0.0 analytics.obsidian.md
 0.0.0.0 analytics.roamresearch.com
 0.0.0.0 analytics.simplenote.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11180
+# Total domains: 11181
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1836,6 +1836,7 @@
 ||analytics.noom.com^
 ||analytics.nordpass.com^
 ||analytics.nordvpn.com^
+||analytics.noteclearly.com^
 ||analytics.notify.elsevier.com^
 ||analytics.ns1.ff.avast.com^
 ||analytics.nubia.com^

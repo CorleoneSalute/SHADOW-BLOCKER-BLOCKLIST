@@ -1,7 +1,7 @@
 # NOTE TAKING BLOCKLIST
 
-# Total domains: 27
-# Last update: 2026/10/30
+# Total domains: 28
+# Last update: 2026/11/11
 # Note: trailing "!" marks a domain as aggressive-only
 
 # Goodnotes Limited
