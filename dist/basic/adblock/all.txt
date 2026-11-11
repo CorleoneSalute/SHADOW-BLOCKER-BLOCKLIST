@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10690
+# Total domains: 10691
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1821,6 +1821,7 @@
 ||analytics.paramountplus.com^
 ||analytics.parrot.sh^
 ||analytics.parsely.com^
+||analytics.partycasino.com^
 ||analytics.pawprint.eco^
 ||analytics.payoneer.com^
 ||analytics.paytm.com^

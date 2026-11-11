@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 317
+# Total domains: 318
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -78,6 +78,7 @@ analytics.megawinslots.com
 analytics.metawin.us
 analytics.mrgreen.com
 analytics.pancakeswap.finance
+analytics.partycasino.com
 analytics.playhugelottos.com
 analytics.prizepicks.com
 analytics.robin.markets

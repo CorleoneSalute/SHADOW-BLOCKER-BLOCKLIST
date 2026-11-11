@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11182
+# Total domains: 11183
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1870,6 +1870,7 @@ analytics.paprikaapp.com
 analytics.paramountplus.com
 analytics.parrot.sh
 analytics.parsely.com
+analytics.partycasino.com
 analytics.pawprint.eco
 analytics.payoneer.com
 analytics.paytm.com
