@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10691
+# Total domains: 10692
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8365,6 +8365,7 @@ sgtm.sky.it
 sgtm.storytel.com
 sgtm.talkspace.com
 sgtm.topazlabs.com
+sgtm.unionbet.com
 sgtm.vera.bet.br
 sgw-analytics.panasonic.com
 sh.adingo.jp

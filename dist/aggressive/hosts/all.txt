@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11183
+# Total domains: 11184
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8756,6 +8756,7 @@
 0.0.0.0 sgtm.storytel.com
 0.0.0.0 sgtm.talkspace.com
 0.0.0.0 sgtm.topazlabs.com
+0.0.0.0 sgtm.unionbet.com
 0.0.0.0 sgtm.vera.bet.br
 0.0.0.0 sgw-analytics.panasonic.com
 0.0.0.0 sh.adingo.jp

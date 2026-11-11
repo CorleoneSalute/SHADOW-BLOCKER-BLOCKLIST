@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - AGGRESSIVE
-# Total domains: 318
+# Total domains: 319
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -225,6 +225,7 @@
 0.0.0.0 sgtm.cassino.bet.br
 0.0.0.0 sgtm.planetwin365.it
 0.0.0.0 sgtm.pokerstars.de
+0.0.0.0 sgtm.unionbet.com
 0.0.0.0 sgtm.vera.bet.br
 0.0.0.0 site-analytics.api.starzbet.com
 0.0.0.0 skybetcasino.fr
