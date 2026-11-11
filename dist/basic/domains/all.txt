@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10689
+# Total domains: 10690
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2060,6 +2060,7 @@ analytics.vodafone.com
 analytics.vodafone.com.au
 analytics.vodafone.it
 analytics.voiscooters.com
+analytics.voltboostproxy.com
 analytics.voot.com
 analytics.voxy.com
 analytics.vpc.duolingo.com

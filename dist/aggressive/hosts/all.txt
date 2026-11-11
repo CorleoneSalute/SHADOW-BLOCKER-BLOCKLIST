@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11181
+# Total domains: 11182
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2110,6 +2110,7 @@
 0.0.0.0 analytics.vodafone.com.au
 0.0.0.0 analytics.vodafone.it
 0.0.0.0 analytics.voiscooters.com
+0.0.0.0 analytics.voltboostproxy.com
 0.0.0.0 analytics.voot.com
 0.0.0.0 analytics.voxy.com
 0.0.0.0 analytics.vpc.duolingo.com

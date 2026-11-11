@@ -1,7 +1,7 @@
 # VPN & Proxy Blocklist
 
-# Total domains: 65
-# Last update: 2026/10/30
+# Total domains: 66
+# Last update: 2026/11/11
 # Note: trailing "!" marks a domain as aggressive-only
 
 # IVPN

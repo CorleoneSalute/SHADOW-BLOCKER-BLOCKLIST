@@ -1,6 +1,6 @@
 # ============================================================
 # VPN PROXY BLOCKLIST - AGGRESSIVE
-# Total domains: 65
+# Total domains: 66
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -18,6 +18,7 @@
 0.0.0.0 analytics.surfshark.com
 0.0.0.0 analytics.torguard.net
 0.0.0.0 analytics.tunnelbear.com
+0.0.0.0 analytics.voltboostproxy.com
 0.0.0.0 analytics.vyprvpn.com
 0.0.0.0 analytics.windscribe.com
 0.0.0.0 biscience.com
