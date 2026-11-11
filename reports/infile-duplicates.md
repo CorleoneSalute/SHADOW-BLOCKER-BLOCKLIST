@@ -1,6 +1,6 @@
 # In-File Duplicate Domain Report
 
-Generated: 2026-11-11 16:49 UTC
+Generated: 2026-11-11 16:52 UTC
 
 Domains that appear more than once within the SAME category
 file - usually a copy-paste mistake in a large file. The build
@@ -12,7 +12,7 @@ identical (same case, same trailing "!" flag). "no" means they
 differ - worth a closer look, since a mismatched "!" flag
 changes which tier the domain ends up in.
 
-10 duplicate domain(s) found across 2 file(s):
+8 duplicate domain(s) found across 1 file(s):
 
 ## AD-Network
 
@@ -26,11 +26,4 @@ changes which tier the domain ends up in.
 | admaster.com.cn | 2764, 3441 | yes |
 | platc-tester.com | 3159, 3161 | yes |
 | adadapted.com | 3397, 3413 | yes |
-
-## Betting
-
-| Domain | Lines | Exact match |
-|---|---|---|
-| analytics.bwin.com | 165, 564 | yes |
-| webanalytics.sportingbet.com | 183, 566 | yes |
 
