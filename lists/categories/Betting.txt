@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 319
-# Total platforms: 110
+# Total platforms: 108
 # Last update: 2026/11/11
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -161,9 +161,6 @@ adserving.unibet.com
 adserving-tmp.unibet.com
 tracking.unibet.com
 
-# Bwin
-analytics.bwin.com
-
 # 888 Holdings
 tmp-pixel.888.com
 pixel.888.com
@@ -178,9 +175,6 @@ ads.mrgreen.com
 tracker.williamhill.com
 smetrics2.williamhill.com
 smetrics.williamhill.com
-
-# Sporting Bet
-webanalytics.sportingbet.com
 
 # TAB / Tabcorp
 smetrics.tab.com.au
