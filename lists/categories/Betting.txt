@@ -558,3 +558,9 @@ ads.planetwin365affiliate.com
 # Gaming VC Corp BV
 
 ads.affiliateclub.com
+
+# Dcentral Enterprises S.R.L.
+
+analytics.bwin.com
+analytics.partycasino.com
+webanalytics.sportingbet.com
