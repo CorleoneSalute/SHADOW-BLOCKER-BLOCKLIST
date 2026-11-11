@@ -113,3 +113,7 @@ logs.juspay.net
 # Xenith
 
 otel-collector.xenithpay.com
+
+# ShopeePay Malaysia Sdn Bhd
+
+tracker.iv.airpay.com.my
