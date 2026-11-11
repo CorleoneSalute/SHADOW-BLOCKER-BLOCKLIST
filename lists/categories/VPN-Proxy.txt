@@ -117,3 +117,7 @@ holavpn.net
 
 matomo.vsgitvpn.com
 matomo-tracking.vsgitvpn.com
+
+# Volt Proxy
+
+analytics.voltboostproxy.com
