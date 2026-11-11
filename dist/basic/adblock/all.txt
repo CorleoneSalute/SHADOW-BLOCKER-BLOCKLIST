@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10674
-# Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10688
+# Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -216,6 +216,7 @@
 ||ad-track.jp^
 ||ad-visedigital.com^
 ||ad-volt.com^
+||ad-works.fr^
 ||ad-zone.net^
 ||ad.adition.com^
 ||ad.admitad.com^
@@ -404,6 +405,8 @@
 ||adinsights.netflix.net^
 ||adintend.com^
 ||adition.com^
+||adivery.com^
+||adivery.ir^
 ||adjust.applovin.com^
 ||adjust.flo.health^
 ||adjust.stats.zynga.com^
@@ -472,6 +475,8 @@
 ||admon.acr.roku.com^
 ||admon.ca.acr.roku.com^
 ||adnatus.com^
+||adnext.pl^
+||adnext.tv^
 ||adnextmedia.com^
 ||adnextmedia.net^
 ||adnexusmarketing.com^
@@ -813,6 +818,7 @@
 ||ads30.adcolony.com^
 ||ads33.adtelligent.com^
 ||ads4.speedbit.com^
+||ads4you.digital^
 ||ads5.huawei.com^
 ||ads5.speedbit.com^
 ||ads5.truecaller.com^
@@ -953,6 +959,7 @@
 ||adsvideo.biz.weibo.com^
 ||adswad.com^
 ||adswizz.com^
+||adsxpress.de^
 ||adsymptotic.com^
 ||adsync.vodafone.com.eg^
 ||adtapmedia.com^
@@ -2185,6 +2192,7 @@
 ||antibanads.com^
 ||antifraud.adikteev.com^
 ||antifraud.remerge.io^
+||antonritz.com^
 ||anx.rtb.linkedin.com^
 ||any.gs^
 ||anyevonline.com^
@@ -6010,6 +6018,7 @@
 ||marketing.services.apple^
 ||marketplace-analytics.canonical.com^
 ||marlin.logs.roku.com^
+||mastermind.pl^
 ||match.360yield.com^
 ||match.adsquare.com^
 ||match.adsrvr.org^
@@ -6084,6 +6093,7 @@
 ||media.net^
 ||media.thespike.gg^
 ||mediards.com^
+||mediateam.pl^
 ||mediation.adnxs.com^
 ||mediation.fyber.com^
 ||mediawoot.com^
@@ -7476,6 +7486,7 @@
 ||pulse.conviva.com^
 ||pulse.raygun.com^
 ||purestreamads.com^
+||push-ad.com^
 ||push.appsignal.com^
 ||push.goforandroid.com^
 ||push.house^
@@ -10333,6 +10344,7 @@
 ||webview.unityads.unity3d.com^
 ||webwww.faro.highscore.com^
 ||webwww.traces.highscore.com^
+||wedare.pl^
 ||weeklyad.petsmart.com^
 ||weighted.logs.roku.com^
 ||welcome.supp0v3.com^
@@ -10597,6 +10609,8 @@
 ||yandexmetrica.com^
 ||yaso.su^
 ||yceml.net^
+||yektanet.com^
+||yektanet.ir^
 ||yellowblue.io^
 ||yengo.com^
 ||yetislook.com^

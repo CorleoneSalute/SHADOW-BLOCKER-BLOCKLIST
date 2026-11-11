@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10674
-# Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10688
+# Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -216,6 +216,7 @@
 0.0.0.0 ad-track.jp
 0.0.0.0 ad-visedigital.com
 0.0.0.0 ad-volt.com
+0.0.0.0 ad-works.fr
 0.0.0.0 ad-zone.net
 0.0.0.0 ad.adition.com
 0.0.0.0 ad.admitad.com
@@ -404,6 +405,8 @@
 0.0.0.0 adinsights.netflix.net
 0.0.0.0 adintend.com
 0.0.0.0 adition.com
+0.0.0.0 adivery.com
+0.0.0.0 adivery.ir
 0.0.0.0 adjust.applovin.com
 0.0.0.0 adjust.flo.health
 0.0.0.0 adjust.stats.zynga.com
@@ -472,6 +475,8 @@
 0.0.0.0 admon.acr.roku.com
 0.0.0.0 admon.ca.acr.roku.com
 0.0.0.0 adnatus.com
+0.0.0.0 adnext.pl
+0.0.0.0 adnext.tv
 0.0.0.0 adnextmedia.com
 0.0.0.0 adnextmedia.net
 0.0.0.0 adnexusmarketing.com
@@ -813,6 +818,7 @@
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads33.adtelligent.com
 0.0.0.0 ads4.speedbit.com
+0.0.0.0 ads4you.digital
 0.0.0.0 ads5.huawei.com
 0.0.0.0 ads5.speedbit.com
 0.0.0.0 ads5.truecaller.com
@@ -953,6 +959,7 @@
 0.0.0.0 adsvideo.biz.weibo.com
 0.0.0.0 adswad.com
 0.0.0.0 adswizz.com
+0.0.0.0 adsxpress.de
 0.0.0.0 adsymptotic.com
 0.0.0.0 adsync.vodafone.com.eg
 0.0.0.0 adtapmedia.com
@@ -2185,6 +2192,7 @@
 0.0.0.0 antibanads.com
 0.0.0.0 antifraud.adikteev.com
 0.0.0.0 antifraud.remerge.io
+0.0.0.0 antonritz.com
 0.0.0.0 anx.rtb.linkedin.com
 0.0.0.0 any.gs
 0.0.0.0 anyevonline.com
@@ -6010,6 +6018,7 @@
 0.0.0.0 marketing.services.apple
 0.0.0.0 marketplace-analytics.canonical.com
 0.0.0.0 marlin.logs.roku.com
+0.0.0.0 mastermind.pl
 0.0.0.0 match.360yield.com
 0.0.0.0 match.adsquare.com
 0.0.0.0 match.adsrvr.org
@@ -6084,6 +6093,7 @@
 0.0.0.0 media.net
 0.0.0.0 media.thespike.gg
 0.0.0.0 mediards.com
+0.0.0.0 mediateam.pl
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediation.fyber.com
 0.0.0.0 mediawoot.com
@@ -7476,6 +7486,7 @@
 0.0.0.0 pulse.conviva.com
 0.0.0.0 pulse.raygun.com
 0.0.0.0 purestreamads.com
+0.0.0.0 push-ad.com
 0.0.0.0 push.appsignal.com
 0.0.0.0 push.goforandroid.com
 0.0.0.0 push.house
@@ -10333,6 +10344,7 @@
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 webwww.faro.highscore.com
 0.0.0.0 webwww.traces.highscore.com
+0.0.0.0 wedare.pl
 0.0.0.0 weeklyad.petsmart.com
 0.0.0.0 weighted.logs.roku.com
 0.0.0.0 welcome.supp0v3.com
@@ -10597,6 +10609,8 @@
 0.0.0.0 yandexmetrica.com
 0.0.0.0 yaso.su
 0.0.0.0 yceml.net
+0.0.0.0 yektanet.com
+0.0.0.0 yektanet.ir
 0.0.0.0 yellowblue.io
 0.0.0.0 yengo.com
 0.0.0.0 yetislook.com

@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2459
-# Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2473
+# Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -64,6 +64,7 @@
 ||ad-track.jp^
 ||ad-visedigital.com^
 ||ad-volt.com^
+||ad-works.fr^
 ||ad-zone.net^
 ||ad.adition.com^
 ||ad.adsrvr.org^
@@ -131,6 +132,8 @@
 ||adinmo.com^
 ||adintend.com^
 ||adition.com^
+||adivery.com^
+||adivery.ir^
 ||adjust.applovin.com^
 ||adksrv.com^
 ||adktrack.124.xyz^
@@ -178,6 +181,8 @@
 ||admob.google.com^
 ||admob.googleapis.com^
 ||adnatus.com^
+||adnext.pl^
+||adnext.tv^
 ||adnexusmarketing.com^
 ||adnow.com^
 ||adnow.one^
@@ -253,6 +258,7 @@
 ||ads3-adnow.com^
 ||ads30.adcolony.com^
 ||ads33.adtelligent.com^
+||ads4you.digital^
 ||ads54.adtelligent.com^
 ||adsafeprotected.com^
 ||adsailor.com^
@@ -321,6 +327,7 @@
 ||adsupplyexchange.com^
 ||adswad.com^
 ||adswizz.com^
+||adsxpress.de^
 ||adtapmedia.com^
 ||adtec.ru^
 ||adtech.de^
@@ -512,6 +519,7 @@
 ||aniview-diag-server.1rx.io^
 ||aniview.com^
 ||antibanads.com^
+||antonritz.com^
 ||anzu.io^
 ||ap.lijit.com^
 ||ap.unrulymedia.com^
@@ -1441,6 +1449,7 @@
 ||marketgid.com^
 ||marketgid.net^
 ||marketing.outbrain.com^
+||mastermind.pl^
 ||match.360yield.com^
 ||match.adsrvr.org^
 ||match.anzu.io^
@@ -1456,6 +1465,7 @@
 ||media.net^
 ||media.thespike.gg^
 ||mediards.com^
+||mediateam.pl^
 ||mediation.adnxs.com^
 ||mediation.fyber.com^
 ||mediawoot.com^
@@ -1730,6 +1740,7 @@
 ||pubtailer.com^
 ||puffableads.com^
 ||purestreamads.com^
+||push-ad.com^
 ||px.adswizz.com^
 ||px.sharethrough.com^
 ||quantserve.com^
@@ -2351,6 +2362,7 @@
 ||webads.nl^
 ||webads.us^
 ||webview.unityads.unity3d.com^
+||wedare.pl^
 ||wf.taboola.com^
 ||whileem.com^
 ||widerplanet.com^
@@ -2446,6 +2458,8 @@
 ||yadloop.com^
 ||yads.tech^
 ||yahoo-native.bidder.taboola.com^
+||yektanet.com^
+||yektanet.ir^
 ||yellowblue.io^
 ||yengo.com^
 ||yetislook.com^

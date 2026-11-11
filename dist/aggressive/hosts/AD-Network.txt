@@ -1,7 +1,7 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2459
-# Generated: 2026-11-10 (UTC) - auto-generated, do not edit by hand
+# Total domains: 2473
+# Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -64,6 +64,7 @@
 0.0.0.0 ad-track.jp
 0.0.0.0 ad-visedigital.com
 0.0.0.0 ad-volt.com
+0.0.0.0 ad-works.fr
 0.0.0.0 ad-zone.net
 0.0.0.0 ad.adition.com
 0.0.0.0 ad.adsrvr.org
@@ -131,6 +132,8 @@
 0.0.0.0 adinmo.com
 0.0.0.0 adintend.com
 0.0.0.0 adition.com
+0.0.0.0 adivery.com
+0.0.0.0 adivery.ir
 0.0.0.0 adjust.applovin.com
 0.0.0.0 adksrv.com
 0.0.0.0 adktrack.124.xyz
@@ -178,6 +181,8 @@
 0.0.0.0 admob.google.com
 0.0.0.0 admob.googleapis.com
 0.0.0.0 adnatus.com
+0.0.0.0 adnext.pl
+0.0.0.0 adnext.tv
 0.0.0.0 adnexusmarketing.com
 0.0.0.0 adnow.com
 0.0.0.0 adnow.one
@@ -253,6 +258,7 @@
 0.0.0.0 ads3-adnow.com
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads33.adtelligent.com
+0.0.0.0 ads4you.digital
 0.0.0.0 ads54.adtelligent.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsailor.com
@@ -321,6 +327,7 @@
 0.0.0.0 adsupplyexchange.com
 0.0.0.0 adswad.com
 0.0.0.0 adswizz.com
+0.0.0.0 adsxpress.de
 0.0.0.0 adtapmedia.com
 0.0.0.0 adtec.ru
 0.0.0.0 adtech.de
@@ -512,6 +519,7 @@
 0.0.0.0 aniview-diag-server.1rx.io
 0.0.0.0 aniview.com
 0.0.0.0 antibanads.com
+0.0.0.0 antonritz.com
 0.0.0.0 anzu.io
 0.0.0.0 ap.lijit.com
 0.0.0.0 ap.unrulymedia.com
@@ -1441,6 +1449,7 @@
 0.0.0.0 marketgid.com
 0.0.0.0 marketgid.net
 0.0.0.0 marketing.outbrain.com
+0.0.0.0 mastermind.pl
 0.0.0.0 match.360yield.com
 0.0.0.0 match.adsrvr.org
 0.0.0.0 match.anzu.io
@@ -1456,6 +1465,7 @@
 0.0.0.0 media.net
 0.0.0.0 media.thespike.gg
 0.0.0.0 mediards.com
+0.0.0.0 mediateam.pl
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediation.fyber.com
 0.0.0.0 mediawoot.com
@@ -1730,6 +1740,7 @@
 0.0.0.0 pubtailer.com
 0.0.0.0 puffableads.com
 0.0.0.0 purestreamads.com
+0.0.0.0 push-ad.com
 0.0.0.0 px.adswizz.com
 0.0.0.0 px.sharethrough.com
 0.0.0.0 quantserve.com
@@ -2351,6 +2362,7 @@
 0.0.0.0 webads.nl
 0.0.0.0 webads.us
 0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 wedare.pl
 0.0.0.0 wf.taboola.com
 0.0.0.0 whileem.com
 0.0.0.0 widerplanet.com
@@ -2446,6 +2458,8 @@
 0.0.0.0 yadloop.com
 0.0.0.0 yads.tech
 0.0.0.0 yahoo-native.bidder.taboola.com
+0.0.0.0 yektanet.com
+0.0.0.0 yektanet.ir
 0.0.0.0 yellowblue.io
 0.0.0.0 yengo.com
 0.0.0.0 yetislook.com
