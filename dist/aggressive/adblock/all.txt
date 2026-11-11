@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11184
+# Total domains: 11185
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10038,6 +10038,7 @@
 ||tracker.getsbet.ro^
 ||tracker.gnome.org^
 ||tracker.gymshark.com^
+||tracker.iv.airpay.com.my^
 ||tracker.iv.airpay.com.ph^
 ||tracker.kali.org^
 ||tracker.lyrahealth.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10692
+# Total domains: 10693
 # Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9598,6 +9598,7 @@
 0.0.0.0 tracker.getsbet.ro
 0.0.0.0 tracker.gnome.org
 0.0.0.0 tracker.gymshark.com
+0.0.0.0 tracker.iv.airpay.com.my
 0.0.0.0 tracker.iv.airpay.com.ph
 0.0.0.0 tracker.kali.org
 0.0.0.0 tracker.lyrahealth.com
