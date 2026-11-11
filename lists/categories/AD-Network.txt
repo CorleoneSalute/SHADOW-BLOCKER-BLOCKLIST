@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2459
-# Total platforms: 384
+# Total platforms: 390
 # Last update: 2026/11/10
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3548,3 +3548,35 @@ admantx.com
 # AdsSciences
 
 adssciences.com
+
+# Ad-Works
+
+ad-works.fr
+
+# AdsXpress GmbH
+
+adsxpress.de
+
+# ADNEXT TV INC
+
+adnext.tv
+
+# AdNext Sp. z o.o.
+
+adnext.pl
+mastermind.pl
+wedare.pl
+mediateam.pl
+antonritz.com
+push-ad.com
+
+# Yektanet (گروه یکتانت)
+
+yektanet.com
+yektanet.ir
+adivery.com
+adivery.ir
+
+# Ads4you LLC
+
+ads4you.digital
