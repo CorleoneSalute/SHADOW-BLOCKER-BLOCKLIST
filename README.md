@@ -96,6 +96,7 @@ release.
 - News
 - Crypto & Web3
 - Travel planning & booking
+- Fintech
 - Torrent clients
 - Super apps
 
