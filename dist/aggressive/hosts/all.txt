@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11225
+# Total domains: 11228
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -391,6 +391,7 @@
 0.0.0.0 addynamo.com
 0.0.0.0 adeeply.ru
 0.0.0.0 adelement.com
+0.0.0.0 adelivery.se
 0.0.0.0 adelphic.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adex2.fwmrm.net
@@ -898,6 +899,7 @@
 0.0.0.0 adse.ximalaya.com
 0.0.0.0 adseaimg.apusapps.com
 0.0.0.0 adsehera.ximalaya.com
+0.0.0.0 adselect.net
 0.0.0.0 adselfserve.bright.md
 0.0.0.0 adsense.bright.md
 0.0.0.0 adsensei.ai
@@ -1082,6 +1084,7 @@
 0.0.0.0 adview.acr.roku.com
 0.0.0.0 advil.waze.com
 0.0.0.0 advilapsoutheast1.waze.com
+0.0.0.0 adviser.se
 0.0.0.0 advisor-analytics.ouraring.com
 0.0.0.0 advoxel.com
 0.0.0.0 advp.apple.com

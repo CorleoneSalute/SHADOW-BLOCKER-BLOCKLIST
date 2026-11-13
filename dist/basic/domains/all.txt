@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10731
+# Total domains: 10734
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -370,6 +370,7 @@ addoncrop.com
 addynamo.com
 adeeply.ru
 adelement.com
+adelivery.se
 adelphic.com
 adeventtracker.spotify.com
 adex2.fwmrm.net
@@ -861,6 +862,7 @@ adsdktest.apple.com
 adsdomaintracking.com
 adseaimg.apusapps.com
 adsehera.ximalaya.com
+adselect.net
 adselfserve.bright.md
 adsense.bright.md
 adsensei.ai
@@ -1040,6 +1042,7 @@ adview-prod-row.waze.com
 adview.acr.roku.com
 advil.waze.com
 advilapsoutheast1.waze.com
+adviser.se
 advisor-analytics.ouraring.com
 advoxel.com
 advservert.com

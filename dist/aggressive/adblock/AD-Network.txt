@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2475
+# Total domains: 2478
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -111,6 +111,7 @@
 ||addynamo.com^
 ||adeeply.ru^
 ||adelement.com^
+||adelivery.se^
 ||adelphic.com^
 ||adex2.fwmrm.net^
 ||adexp.net^
@@ -267,6 +268,7 @@
 ||adsconflux.com^
 ||adsctv.com^
 ||adsdomaintracking.com^
+||adselect.net^
 ||adsensei.ai^
 ||adserve.dianomi.com^
 ||adserve.tv^
@@ -351,6 +353,7 @@
 ||advertising.yahooinc.com^
 ||advertserve.com^
 ||advertstream.com^
+||adviser.se^
 ||advoxel.com^
 ||advservert.com^
 ||adwatch.in^

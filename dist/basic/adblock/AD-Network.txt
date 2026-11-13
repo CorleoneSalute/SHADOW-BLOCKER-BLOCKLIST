@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2465
+# Total domains: 2468
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -111,6 +111,7 @@
 ||addynamo.com^
 ||adeeply.ru^
 ||adelement.com^
+||adelivery.se^
 ||adelphic.com^
 ||adex2.fwmrm.net^
 ||adexp.net^
@@ -266,6 +267,7 @@
 ||adsboost.net^
 ||adsconflux.com^
 ||adsdomaintracking.com^
+||adselect.net^
 ||adsensei.ai^
 ||adserve.dianomi.com^
 ||adserve.tv^
@@ -350,6 +352,7 @@
 ||advertising.yahooinc.com^
 ||advertserve.com^
 ||advertstream.com^
+||adviser.se^
 ||advoxel.com^
 ||advservert.com^
 ||adwatch.in^
