@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2463
+# Total domains: 2465
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1169,6 +1169,8 @@
 0.0.0.0 fra1-ib.adnxs.com
 0.0.0.0 frameplay.com
 0.0.0.0 frameplay.gg
+0.0.0.0 frequency33.com
+0.0.0.0 frequency33adhub.com
 0.0.0.0 futadyou.com
 0.0.0.0 fyber.com
 0.0.0.0 g.fwmrm.net

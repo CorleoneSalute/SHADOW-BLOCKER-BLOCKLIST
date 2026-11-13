@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10727
+# Total domains: 10729
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4731,6 +4731,8 @@
 0.0.0.0 freeform-events.apple.com
 0.0.0.0 freesamplefinderusa.com
 0.0.0.0 frenchfriendfinder.com
+0.0.0.0 frequency33.com
+0.0.0.0 frequency33adhub.com
 0.0.0.0 friendfinder-x.com
 0.0.0.0 friendfinder.com
 0.0.0.0 friendfinderinc.com
