@@ -1,6 +1,6 @@
 # ============================================================
 # DIGITAL WALLET PAYMENT PROCESSOR BLOCKLIST - BASIC
-# Total domains: 63
+# Total domains: 64
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -58,6 +58,7 @@
 0.0.0.0 track.useepay.com
 0.0.0.0 tracker.iv.airpay.com.my
 0.0.0.0 tracker.iv.airpay.com.ph
+0.0.0.0 tracker.pagamerican.app
 0.0.0.0 tracking.avangate.net
 0.0.0.0 tracking.ib58193.marketing.picpay.com
 0.0.0.0 tracking.ib82990.comunicacao.picpay.com

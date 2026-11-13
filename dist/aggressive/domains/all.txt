@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11223
+# Total domains: 11224
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10082,6 +10082,7 @@ tracker.lyrahealth.com
 tracker.mobidea.com
 tracker.opensuse.org
 tracker.or.intel.com
+tracker.pagamerican.app
 tracker.polar.com
 tracker.prf.hn
 tracker.puri.sm

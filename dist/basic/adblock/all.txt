@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10729
+# Total domains: 10730
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9640,6 +9640,7 @@
 ||tracker.mobidea.com^
 ||tracker.opensuse.org^
 ||tracker.or.intel.com^
+||tracker.pagamerican.app^
 ||tracker.polar.com^
 ||tracker.prf.hn^
 ||tracker.puri.sm^
