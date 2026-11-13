@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11217
+# Total domains: 11218
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7864,6 +7864,7 @@
 0.0.0.0 pulse.raygun.com
 0.0.0.0 purestreamads.com
 0.0.0.0 push-ad.com
+0.0.0.0 push-collector.happypointcard.com
 0.0.0.0 push.appsignal.com
 0.0.0.0 push.goforandroid.com
 0.0.0.0 push.house

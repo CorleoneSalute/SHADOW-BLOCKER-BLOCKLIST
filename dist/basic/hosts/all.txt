@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10724
+# Total domains: 10725
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7520,6 +7520,7 @@
 0.0.0.0 pulse.raygun.com
 0.0.0.0 purestreamads.com
 0.0.0.0 push-ad.com
+0.0.0.0 push-collector.happypointcard.com
 0.0.0.0 push.appsignal.com
 0.0.0.0 push.goforandroid.com
 0.0.0.0 push.house

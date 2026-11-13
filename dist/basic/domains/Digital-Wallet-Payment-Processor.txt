@@ -1,6 +1,6 @@
 # ============================================================
 # DIGITAL WALLET PAYMENT PROCESSOR BLOCKLIST - BASIC
-# Total domains: 61
+# Total domains: 62
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -48,6 +48,7 @@ paypal.112.2o7.net
 paypal.demdex.net
 paypal.tt.omtrdc.net
 pixel.mercadopago.com
+push-collector.happypointcard.com
 sentry.squareup.com
 sgtm.adyen.com
 sgtm.skrill.com
