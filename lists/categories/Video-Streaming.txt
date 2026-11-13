@@ -504,6 +504,11 @@ collector.puhutv.com
 dogus-ads-cdn.dygdigital.com
 ads.dygdigital.com
 
+# Of.TV
+
+analytics-dc.of.tv
+logs.of.tv
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
