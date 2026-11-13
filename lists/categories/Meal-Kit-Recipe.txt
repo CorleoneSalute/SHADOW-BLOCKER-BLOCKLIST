@@ -95,3 +95,6 @@ analytics.eatthismuch.com
 
 # PlateJoy (RVO Health)
 analytics.platejoy.com
+
+# Simply Recipes
+track.simplyrecipes.com
