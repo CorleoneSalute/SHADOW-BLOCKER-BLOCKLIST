@@ -117,3 +117,7 @@ otel-collector.xenithpay.com
 # ShopeePay Malaysia Sdn Bhd
 
 tracker.iv.airpay.com.my
+
+# Happy Point Card
+
+push-collector.happypointcard.com
