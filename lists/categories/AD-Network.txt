@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2475
-# Total platforms: 391
+# Total platforms: 393
 # Last update: 2026/11/13
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3585,3 +3585,12 @@ ads4you.digital
 
 frequency33.com
 frequency33adhub.com
+
+# Another Media Group
+
+adviser.se
+adelivery.se
+
+# adselect.net ⚠️ untrusted video reward platform
+
+adselect.net
