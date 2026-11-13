@@ -1,6 +1,6 @@
 # ============================================================
 # AI CHATBOT LLM BLOCKLIST - AGGRESSIVE
-# Total domains: 43
+# Total domains: 46
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -12,6 +12,7 @@ analytics.openai.com
 analytics.replika.ai
 arc-metrics.corp.codeium.com
 bard-telemetry.google.com
+beacon.deutschlandgpt.de
 blobs.pixel.coder.com
 client-telemetry.us-east-1.amazonaws.com
 collector.lovable.dev
@@ -35,6 +36,8 @@ prod.log.shortbread.aws.dev
 proxy-traffic-usage-check.cursorapi.com
 sa.coder.com
 sentry.codeium.com
+sentry.logging.deutschlandgpt.de
+sentry.logging.eu-de.prod.deutschlandgpt.de
 sentry.xinchenai.com
 service.githubusercontent.com
 stats.cursor.net

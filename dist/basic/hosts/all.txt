@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10736
+# Total domains: 10739
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2788,6 +2788,7 @@
 0.0.0.0 be-info-lgsmartad-com.aws-prd.net
 0.0.0.0 beachfront.io
 0.0.0.0 beacon.aceservices.yahoo.net
+0.0.0.0 beacon.deutschlandgpt.de
 0.0.0.0 beacon.dropbox.com
 0.0.0.0 beacon.fantasysports.yahoo.com
 0.0.0.0 beacon.netflix.com
@@ -8298,6 +8299,8 @@
 0.0.0.0 sentry.klippa.com
 0.0.0.0 sentry.kugou.com
 0.0.0.0 sentry.lastpass.com
+0.0.0.0 sentry.logging.deutschlandgpt.de
+0.0.0.0 sentry.logging.eu-de.prod.deutschlandgpt.de
 0.0.0.0 sentry.matrix.org
 0.0.0.0 sentry.minddoc.com
 0.0.0.0 sentry.predict.fun
