@@ -126,3 +126,7 @@ push-collector.happypointcard.com
 
 sentry.antarcticwallet.com
 antarcticwallet.com !
+
+# PagAmerican
+
+tracker.pagamerican.app
