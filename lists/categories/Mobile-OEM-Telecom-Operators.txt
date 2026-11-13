@@ -329,6 +329,7 @@ sentry.sec.miui.com
 streamback.ff.avast.sec.miui.com !
 update.avlyun.sec.miui.com
 xlmc.sec.miui.com
+info.analysis.kp.sec.miui.com
 ```
 
 ### SMS track (3 domain)
@@ -355,6 +356,8 @@ extranet.c4.miui-l7-feedback.izsagsovue.elb.xiaomi.com
 extranet.c4.miui-l7-feedback.q2fo3bs76f.elb.xiaomi.com
 extranet.eu-east-1.miui-l7-feedback.c7qiwffdmn.elb.xiaomi.com
 extranet.eu-east-1.miui-l7-feedback.fvlyh0lisv.elb.xiaomi.com
+extranet.ap-south-1.miui-l7-feedback.gualne84bg.elb.xiaomi.com
+extranet.ap-south-1.miui-l7-feedback.y5qvxdjy6g.elb.xiaomi.com
 f1.g.mi.com
 tk.d.mi.com
 stat.youpin.mi.com
@@ -379,6 +382,7 @@ car-app-sentry.d.xiaomi.net
 ### Xiaomi Ad Network (56 domain)
 
 ```
+ads.mi.com
 ad.eu.xiaomi.com
 ad.india.xiaomi.com
 ad.intl.xiaomi.com
@@ -497,6 +501,8 @@ report.n.xiaomi.com
 secure.report.iss.xiaomi.com
 ssp.xiaomi.com
 abtest-va-sg.data.mioffice.cn !
+monitor.pt.ai.xiaomi.com !
+sentry.pt.xiaomi.com
 ```
 
 ### Subdomain Finder (19 domain)
