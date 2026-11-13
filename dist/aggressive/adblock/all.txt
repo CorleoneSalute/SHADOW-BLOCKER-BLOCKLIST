@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11211
+# Total domains: 11214
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3610,6 +3610,9 @@
 ||collector.github.com^
 ||collector.glassbox.com^
 ||collector.glassbox.digital^
+||collector.hamsx.digital^
+||collector.hamxcatalog.world^
+||collector.hamxsecure.world^
 ||collector.inkitt.com^
 ||collector.intel.com^
 ||collector.jaeger.matrix.org^

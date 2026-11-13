@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10718
+# Total domains: 10721
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3510,6 +3510,9 @@
 ||collector.github.com^
 ||collector.glassbox.com^
 ||collector.glassbox.digital^
+||collector.hamsx.digital^
+||collector.hamxcatalog.world^
+||collector.hamxsecure.world^
 ||collector.inkitt.com^
 ||collector.intel.com^
 ||collector.jaeger.matrix.org^

@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 120
+# Total domains: 123
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -66,6 +66,9 @@ collector.faphouse.com
 collector.faphouse.tv
 collector.faphouse4.com
 collector.faphouse4k.com
+collector.hamsx.digital
+collector.hamxcatalog.world
+collector.hamxsecure.world
 collector.xhamster.com
 collector.xhamster.desi
 collector.xhamster19.com
