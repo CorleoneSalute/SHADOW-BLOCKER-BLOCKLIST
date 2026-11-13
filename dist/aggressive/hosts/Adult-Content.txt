@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - AGGRESSIVE
-# Total domains: 122
+# Total domains: 130
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -70,17 +70,25 @@
 0.0.0.0 collector.faphouse4k.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster.desi
+0.0.0.0 collector.xhamster19.com
 0.0.0.0 collector.xhamster2.com
+0.0.0.0 collector.xhamster8.com
 0.0.0.0 collector.xhlife.today
 0.0.0.0 collector1.xhamster.com
 0.0.0.0 collector1.xhamster.desi
+0.0.0.0 collector1.xhamster19.com
 0.0.0.0 collector1.xhamster2.com
+0.0.0.0 collector1.xhamster8.com
 0.0.0.0 collector2.xhamster.com
 0.0.0.0 collector2.xhamster.desi
+0.0.0.0 collector2.xhamster19.com
 0.0.0.0 collector2.xhamster2.com
+0.0.0.0 collector2.xhamster8.com
 0.0.0.0 collector3.xhamster.com
 0.0.0.0 collector3.xhamster.desi
+0.0.0.0 collector3.xhamster19.com
 0.0.0.0 collector3.xhamster2.com
+0.0.0.0 collector3.xhamster8.com
 0.0.0.0 cradver.livejasmin.com
 0.0.0.0 d.sankakucomplex.com
 0.0.0.0 event.sxyprn.co

@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 106
+# Total domains: 114
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -67,17 +67,25 @@ collector.faphouse4.com
 collector.faphouse4k.com
 collector.xhamster.com
 collector.xhamster.desi
+collector.xhamster19.com
 collector.xhamster2.com
+collector.xhamster8.com
 collector.xhlife.today
 collector1.xhamster.com
 collector1.xhamster.desi
+collector1.xhamster19.com
 collector1.xhamster2.com
+collector1.xhamster8.com
 collector2.xhamster.com
 collector2.xhamster.desi
+collector2.xhamster19.com
 collector2.xhamster2.com
+collector2.xhamster8.com
 collector3.xhamster.com
 collector3.xhamster.desi
+collector3.xhamster19.com
 collector3.xhamster2.com
+collector3.xhamster8.com
 cradver.livejasmin.com
 d.sankakucomplex.com
 event.sxyprn.co

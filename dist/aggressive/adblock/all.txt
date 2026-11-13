@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11197
+# Total domains: 11205
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3642,7 +3642,9 @@
 ||collector.vhx.tv^
 ||collector.xhamster.com^
 ||collector.xhamster.desi^
+||collector.xhamster19.com^
 ||collector.xhamster2.com^
+||collector.xhamster8.com^
 ||collector.xhlife.today^
 ||collector1-eu-central.pokerist.com^
 ||collector1-eu-west.pokerist.com^
@@ -3650,13 +3652,19 @@
 ||collector1-us-west.pokerist.com^
 ||collector1.xhamster.com^
 ||collector1.xhamster.desi^
+||collector1.xhamster19.com^
 ||collector1.xhamster2.com^
+||collector1.xhamster8.com^
 ||collector2.xhamster.com^
 ||collector2.xhamster.desi^
+||collector2.xhamster19.com^
 ||collector2.xhamster2.com^
+||collector2.xhamster8.com^
 ||collector3.xhamster.com^
 ||collector3.xhamster.desi^
+||collector3.xhamster19.com^
 ||collector3.xhamster2.com^
+||collector3.xhamster8.com^
 ||cologger.shopping.naver.com^
 ||combostruct.com^
 ||commandersact.com^
