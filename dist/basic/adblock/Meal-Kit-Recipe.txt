@@ -1,6 +1,6 @@
 # ============================================================
 # MEAL KIT RECIPE BLOCKLIST - BASIC
-# Total domains: 36
+# Total domains: 37
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -40,4 +40,5 @@
 ||track.factor75.com^
 ||track.gobble.com^
 ||track.hellofresh.com^
+||track.simplyrecipes.com^
 ||ziplog.marleyspoon.com^

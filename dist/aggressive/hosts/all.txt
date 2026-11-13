@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11220
+# Total domains: 11221
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10023,6 +10023,7 @@
 0.0.0.0 track.salt.security
 0.0.0.0 track.selectmedia.asia
 0.0.0.0 track.shemale-club.com
+0.0.0.0 track.simplyrecipes.com
 0.0.0.0 track.smaato.net
 0.0.0.0 track.solvhealth.com
 0.0.0.0 track.sonobi.com
