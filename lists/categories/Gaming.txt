@@ -135,3 +135,13 @@ webwww.traces.highscore.com
 sentry.highscore.com
 web-play.otel.highscore.com
 web-www.otel.highscore.com
+
+# Weplayer
+
+ad-old-proxy.weplayer.cc
+ad-proxy.weplayer.cc
+ad.weplayer.cc
+tags-prod.weplayer.cc !
+crosspromotion.weplayer.cc
+cross-promote-cdn.weplayer.cc
+cross-promote-sdk.weplayer.cc
