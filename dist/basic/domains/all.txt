@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10742
+# Total domains: 10747
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -701,6 +701,7 @@ ads.martech.yahoo.com
 ads.mcafee.com
 ads.media.net
 ads.meitu.com
+ads.mi.com
 ads.mobfox.com
 ads.moovit.com
 ads.mozilla.org
@@ -4511,6 +4512,8 @@ extension-telemetry.internetdownloadmanager.com
 external-ads-platform-gw.plet.yandex.net
 external.logs.roku.com
 extlog.snssdk.com
+extranet.ap-south-1.miui-l7-feedback.gualne84bg.elb.xiaomi.com
+extranet.ap-south-1.miui-l7-feedback.y5qvxdjy6g.elb.xiaomi.com
 extranet.ap-southeast-1.miui-l7-feedback.d6ocem01vo.elb.xiaomi.com
 extranet.ap-southeast-1.miui-l7-feedback.qkou0akepj.elb.xiaomi.com
 extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com
@@ -5292,6 +5295,7 @@ industrybrains.com
 inferred.litix.io
 info.ads.roku.com
 info.advertising.roku.com
+info.analysis.kp.sec.miui.com
 info.lgsmartad.com
 infoevent.startappservice.com
 infoflowpb.android.shouji.sogou.com
@@ -8308,6 +8312,7 @@ sentry.minddoc.com
 sentry.predict.fun
 sentry.prequel.app
 sentry.privadovpn.com
+sentry.pt.xiaomi.com
 sentry.pushwoosh.com
 sentry.reddit.com
 sentry.sc-prod.net

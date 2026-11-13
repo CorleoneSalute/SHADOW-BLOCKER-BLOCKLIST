@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1089
+# Total domains: 1094
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -51,6 +51,7 @@
 0.0.0.0 ads.heytapmobi.com
 0.0.0.0 ads.heytapmobile.com
 0.0.0.0 ads.huawei.com
+0.0.0.0 ads.mi.com
 0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.samsung.com
 0.0.0.0 ads.samsungads.com
@@ -397,6 +398,8 @@
 0.0.0.0 events03.huawei.com
 0.0.0.0 ex-adreq-asia.vivoglobal.com
 0.0.0.0 ex-adreq-in.vivoglobal.com
+0.0.0.0 extranet.ap-south-1.miui-l7-feedback.gualne84bg.elb.xiaomi.com
+0.0.0.0 extranet.ap-south-1.miui-l7-feedback.y5qvxdjy6g.elb.xiaomi.com
 0.0.0.0 extranet.ap-southeast-1.miui-l7-feedback.d6ocem01vo.elb.xiaomi.com
 0.0.0.0 extranet.ap-southeast-1.miui-l7-feedback.qkou0akepj.elb.xiaomi.com
 0.0.0.0 extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com
@@ -513,6 +516,7 @@
 0.0.0.0 in-vpushonrt-stsdk.vivoglobal.com
 0.0.0.0 in-vpushort-stsdk.vivoglobal.com
 0.0.0.0 india.activity.browser.intl.miui.com
+0.0.0.0 info.analysis.kp.sec.miui.com
 0.0.0.0 intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com
 0.0.0.0 juads.vmall.com
 0.0.0.0 kernellog.browser.oppomobile.com
@@ -918,6 +922,7 @@
 0.0.0.0 sdkconfig.ad.rus.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 secure.report.iss.xiaomi.com
+0.0.0.0 sentry.pt.xiaomi.com
 0.0.0.0 sentry.sec.miui.com
 0.0.0.0 sentry.vodafone.com.tr
 0.0.0.0 sg-cfg-stsdk.vivoglobal.com

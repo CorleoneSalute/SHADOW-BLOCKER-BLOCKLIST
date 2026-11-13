@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10742
+# Total domains: 10747
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -701,6 +701,7 @@
 0.0.0.0 ads.mcafee.com
 0.0.0.0 ads.media.net
 0.0.0.0 ads.meitu.com
+0.0.0.0 ads.mi.com
 0.0.0.0 ads.mobfox.com
 0.0.0.0 ads.moovit.com
 0.0.0.0 ads.mozilla.org
@@ -4511,6 +4512,8 @@
 0.0.0.0 external-ads-platform-gw.plet.yandex.net
 0.0.0.0 external.logs.roku.com
 0.0.0.0 extlog.snssdk.com
+0.0.0.0 extranet.ap-south-1.miui-l7-feedback.gualne84bg.elb.xiaomi.com
+0.0.0.0 extranet.ap-south-1.miui-l7-feedback.y5qvxdjy6g.elb.xiaomi.com
 0.0.0.0 extranet.ap-southeast-1.miui-l7-feedback.d6ocem01vo.elb.xiaomi.com
 0.0.0.0 extranet.ap-southeast-1.miui-l7-feedback.qkou0akepj.elb.xiaomi.com
 0.0.0.0 extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com
@@ -5292,6 +5295,7 @@
 0.0.0.0 inferred.litix.io
 0.0.0.0 info.ads.roku.com
 0.0.0.0 info.advertising.roku.com
+0.0.0.0 info.analysis.kp.sec.miui.com
 0.0.0.0 info.lgsmartad.com
 0.0.0.0 infoevent.startappservice.com
 0.0.0.0 infoflowpb.android.shouji.sogou.com
@@ -8308,6 +8312,7 @@
 0.0.0.0 sentry.predict.fun
 0.0.0.0 sentry.prequel.app
 0.0.0.0 sentry.privadovpn.com
+0.0.0.0 sentry.pt.xiaomi.com
 0.0.0.0 sentry.pushwoosh.com
 0.0.0.0 sentry.reddit.com
 0.0.0.0 sentry.sc-prod.net

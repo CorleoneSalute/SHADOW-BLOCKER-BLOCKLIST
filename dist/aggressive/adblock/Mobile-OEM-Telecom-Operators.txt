@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1139
+# Total domains: 1145
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -57,6 +57,7 @@
 ||ads.heytapmobi.com^
 ||ads.heytapmobile.com^
 ||ads.huawei.com^
+||ads.mi.com^
 ||ads.oppomobile.com^
 ||ads.samsung.com^
 ||ads.samsungads.com^
@@ -415,6 +416,8 @@
 ||events03.huawei.com^
 ||ex-adreq-asia.vivoglobal.com^
 ||ex-adreq-in.vivoglobal.com^
+||extranet.ap-south-1.miui-l7-feedback.gualne84bg.elb.xiaomi.com^
+||extranet.ap-south-1.miui-l7-feedback.y5qvxdjy6g.elb.xiaomi.com^
 ||extranet.ap-southeast-1.miui-l7-feedback.d6ocem01vo.elb.xiaomi.com^
 ||extranet.ap-southeast-1.miui-l7-feedback.qkou0akepj.elb.xiaomi.com^
 ||extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com^
@@ -549,6 +552,7 @@
 ||in-vpushonrt-stsdk.vivoglobal.com^
 ||in-vpushort-stsdk.vivoglobal.com^
 ||india.activity.browser.intl.miui.com^
+||info.analysis.kp.sec.miui.com^
 ||intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com^
 ||ip-info.ff.avast.sec.miui.com^
 ||juads.vmall.com^
@@ -729,6 +733,7 @@
 ||mobilereporting.ext.nokia.com^
 ||mon.n.xiaomi.com^
 ||monitor-stsdk.vivoglobal.com^
+||monitor.pt.ai.xiaomi.com^
 ||mos-ortb-api.ad.intl.xiaomi.com^
 ||mosapi.ad.intl.xiaomi.com^
 ||mqs-log.miui.com^
@@ -963,6 +968,7 @@
 ||sdkconfig.ad.rus.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
 ||secure.report.iss.xiaomi.com^
+||sentry.pt.xiaomi.com^
 ||sentry.sec.miui.com^
 ||sentry.vodafone.com.tr^
 ||sg-cfg-stsdk.vivoglobal.com^
