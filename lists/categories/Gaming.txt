@@ -111,6 +111,7 @@ analytics.shadow.tech
 telemetry.shadow.tech
 metrics.shadow.tech
 tracking.api-web.shadow.tech
+prod.log.uswdc01.shadow.tech
 
 # BOOSTEROID
 analytics.boosteroid.com
