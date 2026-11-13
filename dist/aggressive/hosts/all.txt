@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11224
+# Total domains: 11225
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7815,6 +7815,7 @@
 0.0.0.0 prod.adgwy.tivo.com
 0.0.0.0 prod.html5-ads.vk-apps.com
 0.0.0.0 prod.log.shortbread.aws.dev
+0.0.0.0 prod.log.uswdc01.shadow.tech
 0.0.0.0 prod.logs.infra.yoti.com
 0.0.0.0 prod.logs.yoti.com
 0.0.0.0 prodregistryv2.org

@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - BASIC
-# Total domains: 90
+# Total domains: 91
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -54,6 +54,7 @@
 0.0.0.0 metrics.teleport.nvidia.com
 0.0.0.0 orbit-telemetry.ubi.com
 0.0.0.0 overseauspider.yuanshen.com
+0.0.0.0 prod.log.uswdc01.shadow.tech
 0.0.0.0 rsg.sc.omtrdc.net
 0.0.0.0 rum.battle.net
 0.0.0.0 sentry.highscore.com

@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 95
+# Total domains: 96
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -55,6 +55,7 @@
 ||metrics.teleport.nvidia.com^
 ||orbit-telemetry.ubi.com^
 ||overseauspider.yuanshen.com^
+||prod.log.uswdc01.shadow.tech^
 ||receive-lp1.dg.srv.nintendo.net^
 ||receive-lp1.er.srv.nintendo.net^
 ||receive.p01.lp1.dg.srv.nintendo.net^
