@@ -76,3 +76,9 @@ customer-telemetry-sink.cursorapi.com
 metrics.cursor.net
 proxy-traffic-usage-check.cursorapi.com !
 stats.cursor.net !
+
+# DeutschlandGPT
+
+sentry.logging.deutschlandgpt.de
+sentry.logging.eu-de.prod.deutschlandgpt.de
+beacon.deutschlandgpt.de
