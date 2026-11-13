@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11208
+# Total domains: 11209
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3646,6 +3646,7 @@
 0.0.0.0 collector.xhamster19.com
 0.0.0.0 collector.xhamster2.com
 0.0.0.0 collector.xhamster8.com
+0.0.0.0 collector.xhday.com
 0.0.0.0 collector.xhlife.today
 0.0.0.0 collector1-eu-central.pokerist.com
 0.0.0.0 collector1-eu-west.pokerist.com

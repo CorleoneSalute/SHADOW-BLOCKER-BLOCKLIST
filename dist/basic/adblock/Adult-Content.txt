@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 117
+# Total domains: 118
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -71,6 +71,7 @@
 ||collector.xhamster19.com^
 ||collector.xhamster2.com^
 ||collector.xhamster8.com^
+||collector.xhday.com^
 ||collector.xhlife.today^
 ||collector1.xhamster.com^
 ||collector1.xhamster.desi^

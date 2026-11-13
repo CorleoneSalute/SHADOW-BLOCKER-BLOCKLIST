@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10715
+# Total domains: 10716
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3546,6 +3546,7 @@ collector.xhamster.desi
 collector.xhamster19.com
 collector.xhamster2.com
 collector.xhamster8.com
+collector.xhday.com
 collector.xhlife.today
 collector1-eu-central.pokerist.com
 collector1-eu-west.pokerist.com
