@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11228
+# Total domains: 11230
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1378,6 +1378,7 @@
 0.0.0.0 analytics-bridge.pokerist.com
 0.0.0.0 analytics-bridge01.pokerist.com
 0.0.0.0 analytics-cdn.obefitness.com
+0.0.0.0 analytics-dc.of.tv
 0.0.0.0 analytics-embedded.cloud.vewd.com
 0.0.0.0 analytics-exp-i18n.tiktok.com
 0.0.0.0 analytics-exp-ru.tiktok.com
@@ -6195,6 +6196,7 @@
 0.0.0.0 logs.netflix.com
 0.0.0.0 logs.nsfwlivechat.com
 0.0.0.0 logs.o.webex.com
+0.0.0.0 logs.of.tv
 0.0.0.0 logs.olark.com
 0.0.0.0 logs.petcube.com
 0.0.0.0 logs.reddit.com

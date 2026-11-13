@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10734
+# Total domains: 10736
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1329,6 +1329,7 @@
 ||analytics-bridge.pokerist.com^
 ||analytics-bridge01.pokerist.com^
 ||analytics-cdn.obefitness.com^
+||analytics-dc.of.tv^
 ||analytics-embedded.cloud.vewd.com^
 ||analytics-exp-i18n.tiktok.com^
 ||analytics-exp-ru.tiktok.com^
@@ -5920,6 +5921,7 @@
 ||logs.netflix.com^
 ||logs.nsfwlivechat.com^
 ||logs.o.webex.com^
+||logs.of.tv^
 ||logs.olark.com^
 ||logs.petcube.com^
 ||logs.reddit.com^

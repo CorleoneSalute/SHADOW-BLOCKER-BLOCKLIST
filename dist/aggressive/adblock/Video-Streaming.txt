@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 481
+# Total domains: 483
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -64,6 +64,7 @@
 ||alerts.conviva.com^
 ||alerts.youbora.com^
 ||amagi.tv^
+||analytics-dc.of.tv^
 ||analytics-ingress-apac.bitmovin.com^
 ||analytics-ingress-eu.bitmovin.com^
 ||analytics-ingress-global.bitmovin.com^
@@ -272,6 +273,7 @@
 ||logging.netflix.com^
 ||logs.hulu.com^
 ||logs.netflix.com^
+||logs.of.tv^
 ||lstat.youku.com^
 ||marketing.mgtv.net^
 ||metric.brightcove.com^

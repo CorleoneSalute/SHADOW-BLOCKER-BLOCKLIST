@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 435
+# Total domains: 437
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -58,6 +58,7 @@
 0.0.0.0 alerts.conviva.com
 0.0.0.0 alerts.youbora.com
 0.0.0.0 amagi.tv
+0.0.0.0 analytics-dc.of.tv
 0.0.0.0 analytics-ingress-apac.bitmovin.com
 0.0.0.0 analytics-ingress-eu.bitmovin.com
 0.0.0.0 analytics-ingress-global.bitmovin.com
@@ -252,6 +253,7 @@
 0.0.0.0 logging.netflix.com
 0.0.0.0 logs.hulu.com
 0.0.0.0 logs.netflix.com
+0.0.0.0 logs.of.tv
 0.0.0.0 lstat.youku.com
 0.0.0.0 marketing.mgtv.net
 0.0.0.0 metric.brightcove.com
