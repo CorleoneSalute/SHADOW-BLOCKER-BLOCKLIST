@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11192
+# Total domains: 11193
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1887,6 +1887,7 @@
 ||analytics.petcube.com^
 ||analytics.petdesk.com^
 ||analytics.petsmart.com^
+||analytics.pharmacychecker.com^
 ||analytics.piano.io^
 ||analytics.picsart.com^
 ||analytics.pimsleur.com^

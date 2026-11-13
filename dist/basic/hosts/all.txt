@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10699
+# Total domains: 10700
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1838,6 +1838,7 @@
 0.0.0.0 analytics.petcube.com
 0.0.0.0 analytics.petdesk.com
 0.0.0.0 analytics.petsmart.com
+0.0.0.0 analytics.pharmacychecker.com
 0.0.0.0 analytics.piano.io
 0.0.0.0 analytics.picsart.com
 0.0.0.0 analytics.pimsleur.com
