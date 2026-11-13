@@ -89,6 +89,9 @@ stats.malwarebytes.com !
 # SOPHOS
 sftelemetry.sophos.com
 sls-telemetry.sophosupd.com
+eptelemetry.sophosapps.com
+metrics.sophosapps.com
+logging.ai.sst.sophosapps.com
 
 # 360 TOTAL SECURITY
 stat.360safe.com
