@@ -1,6 +1,6 @@
 Adult Content Blocklist
 
-# Total domains:134
+# Total domains:136
 # Last update:2026/11/13
 
 # WatchPorn
