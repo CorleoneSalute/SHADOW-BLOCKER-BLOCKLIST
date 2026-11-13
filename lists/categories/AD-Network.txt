@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2473
-# Total platforms: 390
+# Total platforms: 391
 # Last update: 2026/11/11
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3580,3 +3580,8 @@ adivery.ir
 # Ads4you LLC
 
 ads4you.digital
+
+# Frequency33 LLC
+
+frequency33.com
+frequency33adhub.com
