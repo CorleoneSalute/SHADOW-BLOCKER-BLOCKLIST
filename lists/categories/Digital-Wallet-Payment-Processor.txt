@@ -121,3 +121,8 @@ tracker.iv.airpay.com.my
 # Happy Point Card
 
 push-collector.happypointcard.com
+
+# Antarctic Wallet ⚠️ possible untrusted platform
+
+sentry.antarcticwallet.com
+antarcticwallet.com !
