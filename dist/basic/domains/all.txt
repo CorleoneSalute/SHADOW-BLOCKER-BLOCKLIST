@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10721
+# Total domains: 10724
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4251,6 +4251,7 @@ epom.classtag.com
 epom.com
 epomapps.com
 epsonanalytics.com
+eptelemetry.sophosapps.com
 eqikeji.com
 equativ.com
 er2d2.criteo.com
@@ -5846,6 +5847,7 @@ logger.streamyard.com
 logger.watchporn.to
 logging-janus.env.ubble.ai
 logging-web.env.ubble.ai
+logging.ai.sst.sophosapps.com
 logging.archlinux.org
 logging.bamgrid.com
 logging.bunnycdn.com
@@ -6428,6 +6430,7 @@ metrics.skyshowtime.com
 metrics.slides.com
 metrics.snapcraft.io
 metrics.sonymobile.com
+metrics.sophosapps.com
 metrics.soundhound.com
 metrics.soundverse.ai
 metrics.speedbit.com

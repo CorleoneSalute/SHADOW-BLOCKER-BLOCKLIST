@@ -1,6 +1,6 @@
 # ============================================================
 # ANTIVIRUS BLOCKLIST - BASIC
-# Total domains: 74
+# Total domains: 77
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -29,6 +29,7 @@
 ||directads.mcafee.com^
 ||dsstat.kaspersky.com^
 ||easyad.360.cn^
+||eptelemetry.sophosapps.com^
 ||etrack.np.norton.com^
 ||eventlog-failtest.norton.com^
 ||eventlog-sd-beta.norton.com^
@@ -41,12 +42,14 @@
 ||ksn-stat.kaspersky.com^
 ||lc.stats.avast.com^
 ||lianmeng.360.cn^
+||logging.ai.sst.sophosapps.com^
 ||mdm-sentry-win.cz.avg.com^
 ||mdm-sentry.cz.avg.com^
 ||mdm-sentry.us.avg.com^
 ||metrics.avast.com^
 ||metrics.bitdefender.com^
 ||metrics.mcafee.com^
+||metrics.sophosapps.com^
 ||mi.telemetry.lab.norton.com^
 ||rmmetrics.mcafee.com^
 ||sftelemetry.sophos.com^

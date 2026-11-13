@@ -1,6 +1,6 @@
 # ============================================================
 # ANTIVIRUS BLOCKLIST - AGGRESSIVE
-# Total domains: 79
+# Total domains: 82
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -29,6 +29,7 @@
 0.0.0.0 directads.mcafee.com
 0.0.0.0 dsstat.kaspersky.com
 0.0.0.0 easyad.360.cn
+0.0.0.0 eptelemetry.sophosapps.com
 0.0.0.0 etrack.np.norton.com
 0.0.0.0 eventlog-failtest.norton.com
 0.0.0.0 eventlog-sd-beta.norton.com
@@ -43,12 +44,14 @@
 0.0.0.0 ksn-stat.kaspersky.com
 0.0.0.0 lc.stats.avast.com
 0.0.0.0 lianmeng.360.cn
+0.0.0.0 logging.ai.sst.sophosapps.com
 0.0.0.0 mdm-sentry-win.cz.avg.com
 0.0.0.0 mdm-sentry.cz.avg.com
 0.0.0.0 mdm-sentry.us.avg.com
 0.0.0.0 metrics.avast.com
 0.0.0.0 metrics.bitdefender.com
 0.0.0.0 metrics.mcafee.com
+0.0.0.0 metrics.sophosapps.com
 0.0.0.0 mi.telemetry.lab.norton.com
 0.0.0.0 mkt.pcpitstop.com
 0.0.0.0 rmmetrics.mcafee.com
