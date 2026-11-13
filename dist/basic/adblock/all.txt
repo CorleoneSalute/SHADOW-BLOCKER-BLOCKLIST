@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10725
+# Total domains: 10726
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8269,6 +8269,7 @@
 ||sentry-uit.line-apps.com^
 ||sentry-ws.infomaniak.com^
 ||sentry.adelielinux.org^
+||sentry.antarcticwallet.com^
 ||sentry.api.starzbet.com^
 ||sentry.api.stronglifts.com^
 ||sentry.audacityteam.org^

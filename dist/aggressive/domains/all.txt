@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11218
+# Total domains: 11220
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2248,6 +2248,7 @@ anonymized-metrics.rmbl.ws
 anonymous.ads.bravesoftware.com
 anrdoezrs.net
 ans.avast.com
+antarcticwallet.com
 anthargo.com
 anti-bot.baidu.com
 antibanads.com
@@ -8658,6 +8659,7 @@ sentry-th.line-apps.com
 sentry-uit.line-apps.com
 sentry-ws.infomaniak.com
 sentry.adelielinux.org
+sentry.antarcticwallet.com
 sentry.api.starzbet.com
 sentry.api.stronglifts.com
 sentry.audacityteam.org

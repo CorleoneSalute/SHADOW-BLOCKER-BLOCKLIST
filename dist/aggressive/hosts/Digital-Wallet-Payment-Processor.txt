@@ -1,6 +1,6 @@
 # ============================================================
 # DIGITAL WALLET PAYMENT PROCESSOR BLOCKLIST - AGGRESSIVE
-# Total domains: 66
+# Total domains: 68
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -21,6 +21,7 @@
 0.0.0.0 analytics.wise.com
 0.0.0.0 analytics.www1-0.pad.squareup.com
 0.0.0.0 analytics.xyne.juspay.in
+0.0.0.0 antarcticwallet.com
 0.0.0.0 apples-analytics.pad.squareup.com
 0.0.0.0 blog.ads.paytm.com
 0.0.0.0 collect.skrill.com
@@ -51,6 +52,7 @@
 0.0.0.0 pixel.mercadopago.com
 0.0.0.0 push-collector.happypointcard.com
 0.0.0.0 q.stripe.com
+0.0.0.0 sentry.antarcticwallet.com
 0.0.0.0 sentry.squareup.com
 0.0.0.0 sgtm.adyen.com
 0.0.0.0 sgtm.skrill.com
