@@ -51,6 +51,8 @@ collector1.xhamster2.com
 collector2.xhamster2.com
 collector3.xhamster2.com
 analytics.xhamsterlive.info
+collector.auth.xhamster3.com
+collector.xhlife.today
 
 # TXXX
 
