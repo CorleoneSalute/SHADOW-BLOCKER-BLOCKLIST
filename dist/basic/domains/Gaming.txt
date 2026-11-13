@@ -1,13 +1,16 @@
 # ============================================================
 # GAMING BLOCKLIST - BASIC
-# Total domains: 84
-# Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
+# Total domains: 90
+# Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 a.ad.playstation.net
 abtesting.roblox.com
+ad-old-proxy.weplayer.cc
+ad-proxy.weplayer.cc
 ad.playstation.net
+ad.weplayer.cc
 ads.roblox.com
 ads.rockstargames.com
 analytics.blacknut.com
@@ -27,6 +30,9 @@ analytics.xbox-interactive.com
 api.xlogs.nvidia.com
 client-telemetry.roblox.com
 clk.ubi.com
+cross-promote-cdn.weplayer.cc
+cross-promote-sdk.weplayer.cc
+crosspromotion.weplayer.cc
 errorservice.metrics.ea.com
 events.telemetry.data.nvidia.com
 galaxy-log.gog.com

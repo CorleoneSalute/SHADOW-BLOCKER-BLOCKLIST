@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10693
-# Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10699
+# Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -196,9 +196,11 @@
 0.0.0.0 ad-maven.com
 0.0.0.0 ad-media.ro
 0.0.0.0 ad-metrics.espn.com
+0.0.0.0 ad-old-proxy.weplayer.cc
 0.0.0.0 ad-on.fr
 0.0.0.0 ad-ops.hu
 0.0.0.0 ad-platform.biz
+0.0.0.0 ad-proxy.weplayer.cc
 0.0.0.0 ad-risk.prt.kuaishou.com
 0.0.0.0 ad-saver.com
 0.0.0.0 ad-sdk.lenovomm.com
@@ -299,6 +301,7 @@
 0.0.0.0 ad.watchporn.to
 0.0.0.0 ad.weatherbug.com
 0.0.0.0 ad.weibo.com
+0.0.0.0 ad.weplayer.cc
 0.0.0.0 ad.xiaomi.com
 0.0.0.0 ad.yahoo.com
 0.0.0.0 ad.yieldlab.net
@@ -3716,6 +3719,9 @@
 0.0.0.0 criteo.net
 0.0.0.0 cross-promo.adikteev.com
 0.0.0.0 cross-promo.remerge.io
+0.0.0.0 cross-promote-cdn.weplayer.cc
+0.0.0.0 cross-promote-sdk.weplayer.cc
+0.0.0.0 crosspromotion.weplayer.cc
 0.0.0.0 crs-event.line.me
 0.0.0.0 crs-hometab-event.line.me
 0.0.0.0 crs.cr.adobe.com

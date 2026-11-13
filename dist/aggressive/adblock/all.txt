@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11185
-# Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
+# Total domains: 11192
+# Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -213,9 +213,11 @@
 ||ad-maven.com^
 ||ad-media.ro^
 ||ad-metrics.espn.com^
+||ad-old-proxy.weplayer.cc^
 ||ad-on.fr^
 ||ad-ops.hu^
 ||ad-platform.biz^
+||ad-proxy.weplayer.cc^
 ||ad-risk.prt.kuaishou.com^
 ||ad-saver.com^
 ||ad-sdk.lenovomm.com^
@@ -318,6 +320,7 @@
 ||ad.watchporn.to^
 ||ad.weatherbug.com^
 ||ad.weibo.com^
+||ad.weplayer.cc^
 ||ad.xiaomi.com^
 ||ad.yahoo.com^
 ||ad.yieldlab.net^
@@ -3820,6 +3823,9 @@
 ||criteo.net^
 ||cross-promo.adikteev.com^
 ||cross-promo.remerge.io^
+||cross-promote-cdn.weplayer.cc^
+||cross-promote-sdk.weplayer.cc^
+||crosspromotion.weplayer.cc^
 ||crs-event.line.me^
 ||crs-hometab-event.line.me^
 ||crs.cr.adobe.com^
@@ -9409,6 +9415,7 @@
 ||tagassistant.google.com^
 ||tagcommander.com^
 ||tagmanager.google.com^
+||tags-prod.weplayer.cc^
 ||tags.bkrtx.com^
 ||tags.bluekai.com^
 ||tags.brightroll.com^

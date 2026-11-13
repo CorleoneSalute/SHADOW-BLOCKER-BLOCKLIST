@@ -1,13 +1,16 @@
 # ============================================================
 # GAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 88
-# Generated: 2026-11-11 (UTC) - auto-generated, do not edit by hand
+# Total domains: 95
+# Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 0.0.0.0 a.ad.playstation.net
 0.0.0.0 abtesting.roblox.com
+0.0.0.0 ad-old-proxy.weplayer.cc
+0.0.0.0 ad-proxy.weplayer.cc
 0.0.0.0 ad.playstation.net
+0.0.0.0 ad.weplayer.cc
 0.0.0.0 ads.roblox.com
 0.0.0.0 ads.rockstargames.com
 0.0.0.0 analytics.blacknut.com
@@ -28,6 +31,9 @@
 0.0.0.0 beacons.xboxlive.com
 0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 clk.ubi.com
+0.0.0.0 cross-promote-cdn.weplayer.cc
+0.0.0.0 cross-promote-sdk.weplayer.cc
+0.0.0.0 crosspromotion.weplayer.cc
 0.0.0.0 errorservice.metrics.ea.com
 0.0.0.0 events.telemetry.data.nvidia.com
 0.0.0.0 galaxy-log.gog.com
@@ -62,6 +68,7 @@
 0.0.0.0 smetrics.us.playstation.com
 0.0.0.0 stats.blacknut.com
 0.0.0.0 stats.boosteroid.com
+0.0.0.0 tags-prod.weplayer.cc
 0.0.0.0 telemetry-api.rockstargames.com
 0.0.0.0 telemetry-console.api.playstation.com
 0.0.0.0 telemetry-in.battle.net
