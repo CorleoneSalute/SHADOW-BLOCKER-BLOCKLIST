@@ -146,3 +146,12 @@ tags-prod.weplayer.cc !
 crosspromotion.weplayer.cc
 cross-promote-cdn.weplayer.cc
 cross-promote-sdk.weplayer.cc
+
+# FACEIT
+
+ads.faceit.com
+advertise.faceit.com
+
+# 5EPlay
+
+tracker.5eplaycdn.com
