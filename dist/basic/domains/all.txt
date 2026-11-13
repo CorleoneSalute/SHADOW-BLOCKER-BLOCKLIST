@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10700
+# Total domains: 10702
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1743,6 +1743,7 @@ analytics.maximumsettings.com
 analytics.maya.live
 analytics.mealime.com
 analytics.means.tv
+analytics.medic.chat
 analytics.megawinslots.com
 analytics.meitu.com
 analytics.memrise.com
@@ -7427,6 +7428,7 @@ premium.dianomi.com
 preprocessor.heatmap.com
 prereheus.com
 presentationtracking.netflix.com
+preview.analytics.medic.chat
 preview.crm.sms.miui.com
 preview.e-planning.net
 primis.tech

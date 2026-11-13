@@ -1,6 +1,6 @@
 # ============================================================
 # TELEHEALTH DIGITAL HEALTH BLOCKLIST - BASIC
-# Total domains: 71
+# Total domains: 73
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -19,6 +19,7 @@
 0.0.0.0 analytics.felixforyou.ca
 0.0.0.0 analytics.grandrounds.com
 0.0.0.0 analytics.intouchhealth.com
+0.0.0.0 analytics.medic.chat
 0.0.0.0 analytics.pharmacychecker.com
 0.0.0.0 analytics.quartethealth.com
 0.0.0.0 analytics.telushealth.com
@@ -61,6 +62,7 @@
 0.0.0.0 otel-collector.hub.bright.md
 0.0.0.0 otel-http.khealth.com
 0.0.0.0 pixel.americanwell.com
+0.0.0.0 preview.analytics.medic.chat
 0.0.0.0 sentry.infra.alto.com
 0.0.0.0 services-metrics.infra.alto.com
 0.0.0.0 sgtm.nurx.com

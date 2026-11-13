@@ -1,6 +1,6 @@
 # ============================================================
 # TELEHEALTH DIGITAL HEALTH BLOCKLIST - AGGRESSIVE
-# Total domains: 73
+# Total domains: 75
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -19,6 +19,7 @@
 ||analytics.felixforyou.ca^
 ||analytics.grandrounds.com^
 ||analytics.intouchhealth.com^
+||analytics.medic.chat^
 ||analytics.pharmacychecker.com^
 ||analytics.quartethealth.com^
 ||analytics.telushealth.com^
@@ -61,6 +62,7 @@
 ||otel-collector.hub.bright.md^
 ||otel-http.khealth.com^
 ||pixel.americanwell.com^
+||preview.analytics.medic.chat^
 ||sentry.infra.alto.com^
 ||services-metrics.infra.alto.com^
 ||sgtm.nurx.com^

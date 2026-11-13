@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11193
+# Total domains: 11195
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1792,6 +1792,7 @@
 ||analytics.maya.live^
 ||analytics.mealime.com^
 ||analytics.means.tv^
+||analytics.medic.chat^
 ||analytics.megawinslots.com^
 ||analytics.meitu.com^
 ||analytics.memrise.com^
@@ -7761,6 +7762,7 @@
 ||preprocessor.heatmap.com^
 ||prereheus.com^
 ||presentationtracking.netflix.com^
+||preview.analytics.medic.chat^
 ||preview.crm.sms.miui.com^
 ||preview.e-planning.net^
 ||primis.tech^
