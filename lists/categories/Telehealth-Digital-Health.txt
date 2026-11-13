@@ -152,3 +152,7 @@ collect.sutterhealth.org
 t.collect.sutterhealth.org
 tags.sutterhealth.org !
 t.tags.sutterhealth.org !
+
+# PharmacyChecker
+
+analytics.pharmacychecker.com
