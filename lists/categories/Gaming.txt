@@ -1,6 +1,6 @@
 # GAMING BLOCKLIST 
 
-# Total domains: 96
+# Total domains: 99
 # Last update: 2026/11/13
 # Note: trailing "!" marks a domain as aggressive-only
 

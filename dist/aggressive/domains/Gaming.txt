@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 96
+# Total domains: 99
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -11,8 +11,10 @@ ad-old-proxy.weplayer.cc
 ad-proxy.weplayer.cc
 ad.playstation.net
 ad.weplayer.cc
+ads.faceit.com
 ads.roblox.com
 ads.rockstargames.com
+advertise.faceit.com
 analytics.blacknut.com
 analytics.boosteroid.com
 analytics.epicgames.com
@@ -89,6 +91,7 @@ telemetry.rockstargames.com
 telemetry.shadow.tech
 telemetry.unrealengine.com
 trac.rockstargames.com
+tracker.5eplaycdn.com
 tracking.api-web.shadow.tech
 tracking.epicgames.com
 tracking.geforcenow.com

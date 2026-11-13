@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11233
+# Total domains: 11236
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -688,6 +688,7 @@ ads.espn.com
 ads.eu.e-planning.net
 ads.every.tv
 ads.facebook.com
+ads.faceit.com
 ads.fappic.com
 ads.fitbit.com
 ads.fix.orange.ro
@@ -1042,6 +1043,7 @@ advancemactools.live
 advert.uloz.to
 advertape.net
 advertice.in
+advertise.faceit.com
 advertise.myspace.com
 advertise.quantcast.com
 advertise.swagbucks.com
@@ -10071,6 +10073,7 @@ trackedevt.1rx.io
 tracker-novembers-347342.appspot.com
 tracker-preview.ai.xiaomi.com
 tracker-server.high-cdn.com
+tracker.5eplaycdn.com
 tracker.adikteev.com
 tracker.adobe.com
 tracker.ai.xiaomi.com
