@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11205
+# Total domains: 11208
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3376,6 +3376,7 @@
 ||chi2only.outbrain.com^
 ||chinnica.net^
 ||chocolateplatform.com^
+||choto.click^
 ||chromereporting-pa.googleapis.com^
 ||churn.adikteev.com^
 ||churn.remerge.io^
@@ -6237,6 +6238,7 @@
 ||loriwithinfamily.com^
 ||lotame.com^
 ||lotame.io^
+||lotto60.com^
 ||loveaholics.com^
 ||loxitdat.com^
 ||lp.adskeeper.com^
@@ -11075,6 +11077,7 @@
 ||xdcs-collector.ximalaya.com^
 ||xerxes.media^
 ||xham.live^
+||xhamster.directory^
 ||xlmc.sec.miui.com^
 ||xlog-o.byteoversea.com^
 ||xlog-ru.tiktokv.com^

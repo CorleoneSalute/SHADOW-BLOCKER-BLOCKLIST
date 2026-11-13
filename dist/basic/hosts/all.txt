@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10712
+# Total domains: 10715
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3281,6 +3281,7 @@
 0.0.0.0 chi2only.outbrain.com
 0.0.0.0 chinnica.net
 0.0.0.0 chocolateplatform.com
+0.0.0.0 choto.click
 0.0.0.0 chromereporting-pa.googleapis.com
 0.0.0.0 churn.adikteev.com
 0.0.0.0 churn.remerge.io
@@ -5962,6 +5963,7 @@
 0.0.0.0 lopoteam.com
 0.0.0.0 loriwithinfamily.com
 0.0.0.0 lotame.io
+0.0.0.0 lotto60.com
 0.0.0.0 loveaholics.com
 0.0.0.0 loxitdat.com
 0.0.0.0 lp.adskeeper.com
@@ -10594,6 +10596,7 @@
 0.0.0.0 xdcs-collector.ximalaya.com
 0.0.0.0 xerxes.media
 0.0.0.0 xham.live
+0.0.0.0 xhamster.directory
 0.0.0.0 xlmc.sec.miui.com
 0.0.0.0 xlog-o.byteoversea.com
 0.0.0.0 xlog-ru.tiktokv.com

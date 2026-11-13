@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - AGGRESSIVE
-# Total domains: 130
+# Total domains: 133
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -61,6 +61,7 @@
 ||c.sankakucomplex.com^
 ||cdnads.cam4.com^
 ||chat-metrics.ord.myfreecams.com^
+||choto.click^
 ||click2.javhd.com^
 ||collector.auth.xhamster3.com^
 ||collector.fap.house^
@@ -105,6 +106,7 @@
 ||logger.watchporn.to^
 ||logs.nsfwlivechat.com^
 ||logs.sankakucomplex.com^
+||lotto60.com^
 ||metrics.imlive.com^
 ||monitor.skyprivate.com^
 ||performers-origin.cam4.com^
@@ -134,4 +136,5 @@
 ||trk.notify.stripchat.com^
 ||trk.sender.stripchat.com^
 ||xham.live^
+||xhamster.directory^
 ||xmetrics.camsoda.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 114
+# Total domains: 117
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -59,6 +59,7 @@
 0.0.0.0 c.sankakucomplex.com
 0.0.0.0 cdnads.cam4.com
 0.0.0.0 chat-metrics.ord.myfreecams.com
+0.0.0.0 choto.click
 0.0.0.0 collector.auth.xhamster3.com
 0.0.0.0 collector.fap.house
 0.0.0.0 collector.faphouse.com
@@ -102,6 +103,7 @@
 0.0.0.0 logger.watchporn.to
 0.0.0.0 logs.nsfwlivechat.com
 0.0.0.0 logs.sankakucomplex.com
+0.0.0.0 lotto60.com
 0.0.0.0 metrics.imlive.com
 0.0.0.0 monitor.skyprivate.com
 0.0.0.0 performers-origin.cam4.com
@@ -118,4 +120,5 @@
 0.0.0.0 trk.notify.stripchat.com
 0.0.0.0 trk.sender.stripchat.com
 0.0.0.0 xham.live
+0.0.0.0 xhamster.directory
 0.0.0.0 xmetrics.camsoda.com
