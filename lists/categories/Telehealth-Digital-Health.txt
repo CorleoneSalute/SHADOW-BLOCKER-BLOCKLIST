@@ -156,3 +156,8 @@ t.tags.sutterhealth.org !
 # PharmacyChecker
 
 analytics.pharmacychecker.com
+
+# Medic Chat
+
+analytics.medic.chat
+preview.analytics.medic.chat
