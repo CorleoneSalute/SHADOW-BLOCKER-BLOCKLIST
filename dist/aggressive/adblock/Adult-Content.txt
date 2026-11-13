@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - AGGRESSIVE
-# Total domains: 120
+# Total domains: 122
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -62,6 +62,7 @@
 ||cdnads.cam4.com^
 ||chat-metrics.ord.myfreecams.com^
 ||click2.javhd.com^
+||collector.auth.xhamster3.com^
 ||collector.fap.house^
 ||collector.faphouse.com^
 ||collector.faphouse.tv^
@@ -70,6 +71,7 @@
 ||collector.xhamster.com^
 ||collector.xhamster.desi^
 ||collector.xhamster2.com^
+||collector.xhlife.today^
 ||collector1.xhamster.com^
 ||collector1.xhamster.desi^
 ||collector1.xhamster2.com^

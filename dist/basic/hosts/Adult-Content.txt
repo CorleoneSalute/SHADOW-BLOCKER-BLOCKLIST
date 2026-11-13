@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 104
+# Total domains: 106
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -59,6 +59,7 @@
 0.0.0.0 c.sankakucomplex.com
 0.0.0.0 cdnads.cam4.com
 0.0.0.0 chat-metrics.ord.myfreecams.com
+0.0.0.0 collector.auth.xhamster3.com
 0.0.0.0 collector.fap.house
 0.0.0.0 collector.faphouse.com
 0.0.0.0 collector.faphouse.tv
@@ -67,6 +68,7 @@
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster.desi
 0.0.0.0 collector.xhamster2.com
+0.0.0.0 collector.xhlife.today
 0.0.0.0 collector1.xhamster.com
 0.0.0.0 collector1.xhamster.desi
 0.0.0.0 collector1.xhamster2.com

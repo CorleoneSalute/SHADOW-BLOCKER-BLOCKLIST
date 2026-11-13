@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11195
+# Total domains: 11197
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3593,6 +3593,7 @@
 0.0.0.0 collector-us.conviva.com
 0.0.0.0 collector-v2.spinxgames.com
 0.0.0.0 collector.acoustic.co
+0.0.0.0 collector.auth.xhamster3.com
 0.0.0.0 collector.boutique.orange.fr
 0.0.0.0 collector.bsg.brave.com
 0.0.0.0 collector.callstats.io
@@ -3642,6 +3643,7 @@
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster.desi
 0.0.0.0 collector.xhamster2.com
+0.0.0.0 collector.xhlife.today
 0.0.0.0 collector1-eu-central.pokerist.com
 0.0.0.0 collector1-eu-west.pokerist.com
 0.0.0.0 collector1-us-east.pokerist.com

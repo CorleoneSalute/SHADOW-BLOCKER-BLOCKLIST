@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10702
+# Total domains: 10704
 # Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3494,6 +3494,7 @@ collector-ops.twitter.com
 collector-us.conviva.com
 collector-v2.spinxgames.com
 collector.acoustic.co
+collector.auth.xhamster3.com
 collector.boutique.orange.fr
 collector.bsg.brave.com
 collector.cint.com
@@ -3542,6 +3543,7 @@ collector.vhx.tv
 collector.xhamster.com
 collector.xhamster.desi
 collector.xhamster2.com
+collector.xhlife.today
 collector1-eu-central.pokerist.com
 collector1-eu-west.pokerist.com
 collector1-us-east.pokerist.com
