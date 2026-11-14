@@ -4759,6 +4759,7 @@ admit.mountsaintvincent.edu
 admo.tv
 adnext.co
 adnl.bk.mufg.jp
+adnz.co
 adobe-analytics-dc.belastingdienst.nl
 adobe-analytics.vionicshoes.com
 adobe-dev-landingpageprefix.descubre.interbank.pe
@@ -5496,6 +5497,7 @@ analytics.airtron.com
 analytics.algolia.com
 analytics.allovoisins.com
 analytics.alrajhibank.com.sa
+analytics.alvarezrosa.com
 analytics.amakings.com
 analytics.americanfunds.com
 analytics.amig.com
@@ -5538,6 +5540,7 @@ analytics.box.com
 analytics.boxlunch.com
 analytics.brave.com
 analytics.brickaward.com
+analytics.bucks.helixo.co
 analytics.byecorps.com
 analytics.canaltnt.es
 analytics.capitalgroup.com
@@ -9261,6 +9264,7 @@ cdanjoyner4374.myre.io
 cdapi.collegedunia.com
 cdeatz.spartoo.it
 cdfhpj.automobile.it
+cdid.trip.com
 cdjbf8trk.com
 cdjhcf.hometogo.es
 cdl.lvsafe.io
@@ -9288,6 +9292,7 @@ cdn.ravm.tv
 cdn.seonintelligence.com
 cdn.sy-d.io
 cdn.usefathom.com
+cdn.visits.dqapis.com
 cdn1.skrill.com
 cdn7.baunetz.de
 cdnhst.xyz
@@ -11355,6 +11360,7 @@ darkartsyoga.com
 darngavel.com
 dart.onjoyri.de
 dash.getsitecontrol.com
+dash.kryon.one
 dashboard.io
 dashboardbntest.branchcustom.xyz
 dashingdrop.com
@@ -13406,6 +13412,7 @@ edge.truist.com
 edge.truistmomentum.com
 edge.truistsecurities.com
 edge.venatusmedia.com
+edge.wingify.net
 edge.wnetwork.com
 edgeadx.net
 edgedc.falabella.com
@@ -15389,6 +15396,7 @@ fp.measure.office.com
 fp.uncensored.com
 fpa-cdn.adweek.com
 fpa-cdn.arstechnica.com
+fpa-events.theintercept.com
 fpad.jp
 fpadga.mcruises.ru
 fpapi.io
@@ -27005,6 +27013,7 @@ nex.163.com
 nextsmarty.com
 nextstat.com
 nexttopchef.com
+nexus.firecrown.com
 nexx360-static.io
 nexx360.io
 nexxtv-events.servicebus.windows.net
@@ -28048,6 +28057,7 @@ ot.obi.si
 ot.obi.sk
 otclick-adv.ru
 otel-collector.lenta.tech
+otel-gw.booking.com
 otel-mobile.doordash.com
 othanasis.openapp.link
 othisf.tagomago.pl
@@ -30578,6 +30588,7 @@ riovdv.mustit.co.kr
 ripples.sh
 riscitsolutions.actonservice.com
 riskid.security
+riskpoc.trip.com
 ritzyrepresentative.com
 ritzyveil.com
 riundo.bonprix.no
@@ -30628,6 +30639,7 @@ rochelle.wantsext.me
 rockagainst.com
 rockcarving.com
 rocketmonitor.com
+rocketserver.net
 rockincontent.net
 rocks.io
 rockspreading.com
@@ -30830,6 +30842,7 @@ rxhsry.sortiraparis.com
 rxqqaq.hollandandbarrett.com
 rxtolo.domiporta.pl
 ry0.rythmefm.com
+rybbit-analytics.livecounts.io
 rybbit.com
 rybbit.sg-app.com
 ryjknw.sonnenbrillen.com
@@ -32951,6 +32964,7 @@ singlefeed.com
 singleplatform.actonservice.com
 singroot.com
 singular.net
+sink.gw.booking.com
 sinkou.tireshop.com.br
 sinkportal.com
 sinmo.chasecenter.com
@@ -39834,6 +39848,7 @@ tag.boulanger.fr
 tag.brandcdn.com
 tag.contentanalytics.jp
 tag.cribnotes.jp
+tag.decentriq.com
 tag.digops.sincro.io
 tag.eisa.mercari.com
 tag.elevaate.io
@@ -39871,6 +39886,7 @@ tagging.steelseries.com
 taggrs.io
 taggstar.com
 taghike.com
+tagloyalty.com
 tagm.eduscho.at
 tagm.tchibo.de
 tagmanager.cn
@@ -40201,6 +40217,7 @@ tatpek.com
 tawdryson.com
 taxel.jp
 taxisubsea.com
+taxiwear.com
 taylorshellfish.actonservice.com
 taznfx.renters.pl
 tba.smrtp.link
@@ -40403,6 +40420,7 @@ telulr.golfgalaxy.com
 temails.productnotice.thomsonreuters.com
 temp.twicomi.com
 tempertrick.com
+tempowraps.com
 temptteam.com
 temsys.temsys.fr
 tend.io
@@ -47160,6 +47178,7 @@ yellowbrix.com
 yellowscissors.com
 yes88kks.infinityscans.net
 yesss-a1at.mno.link
+yetiminis.com
 yewrcd.govoyages.com
 yext-pixel.com
 yextevents.com
