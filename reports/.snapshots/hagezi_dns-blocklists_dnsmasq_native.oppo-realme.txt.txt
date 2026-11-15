@@ -262,6 +262,12 @@ hg-sa.ekatox.com
 hg-sg.ekatox.com
 hg-us.ekatox.com
 hizonetech.com
+htms.heytapmobile.com
+httpdns-euex-push.heytapmobile.com
+httpdns-ocloud.heytapmobile.com
+httpdns-push.heytapmobile.com
+httpdns.ocloud.heytapmobi.com
+httpdns.push.heytapmobi.com
 i-cn01a.ocloud.heytapmobi.com
 i-in.browser.heytapmobile.com
 i-insurance.finzfin.com
@@ -457,6 +463,7 @@ obus-jssdk-sg.heytapmobile.com
 obus-jssdk-us.heytapmobile.com
 omes-sec.heytapmobi.com
 omes-sec.heytapmobile.com
+oop-installer-gl.heytapmobile.com
 opay.heytapmobile.com
 opex-service-eu.allawnos.com
 opex-service-in.allawnos.com
@@ -516,6 +523,7 @@ video-api-fr.heytapmobile.com
 video-api-gl.heytapmobile.com
 video-api-in.heytapmobile.com
 video-api-ru.heytapmobile.com
+virusinfo-cloudscan-in.heytapmobile.com
 zen-core-fr.allawnos.com
 zen-core-in.allawnos.com
 zen-core-sg.allawnos.com
