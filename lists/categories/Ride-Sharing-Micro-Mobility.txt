@@ -78,3 +78,7 @@ ingest.telemetry.plus.yango.com
 # Via (Microtransit)
 track-aws.m.ridewithvia.com
 tracking.ridewithvia.com
+
+# Yandex Go (Яндекс Go)
+
+ads.go.yandex
