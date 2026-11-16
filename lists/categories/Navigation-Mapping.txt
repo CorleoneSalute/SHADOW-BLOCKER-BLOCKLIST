@@ -74,3 +74,7 @@ sygic.api.infinario.com
 WP Go Maps
 
 metrics.gocloudmaps.com # malware/phishing
+
+# Mapquest
+
+analytics-adapter.aws.mapquest.com
