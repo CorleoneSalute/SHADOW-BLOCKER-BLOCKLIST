@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10757
+# Total domains: 10761
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1348,6 +1348,7 @@
 0.0.0.0 analytics-exp-ttp2.tiktokw.eu
 0.0.0.0 analytics-exp.us.tiktok.com
 0.0.0.0 analytics-fe-np01-iad.8x8.com
+0.0.0.0 analytics-gateway.th.owhealth.com
 0.0.0.0 analytics-i18n.tiktok.com
 0.0.0.0 analytics-ie.tiktokw.eu
 0.0.0.0 analytics-ingress-apac.bitmovin.com
@@ -3722,7 +3723,9 @@
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 crashes.1password.com
 0.0.0.0 crashes.dashlane.com
+0.0.0.0 crashes.infra.owhealth.com
 0.0.0.0 crashes.ivpn.net
+0.0.0.0 crashes.owhealth.com
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
@@ -8254,6 +8257,7 @@
 0.0.0.0 secure.quantserve.com
 0.0.0.0 secure.report.iss.xiaomi.com
 0.0.0.0 security-analytics.geoedge.com
+0.0.0.0 security-metrics.infra.owhealth.com
 0.0.0.0 security-tracker.debian.org
 0.0.0.0 security.adikteev.com
 0.0.0.0 security.remerge.io

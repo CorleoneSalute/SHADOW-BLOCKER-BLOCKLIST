@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11252
+# Total domains: 11256
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1397,6 +1397,7 @@
 ||analytics-exp-ttp2.tiktokw.eu^
 ||analytics-exp.us.tiktok.com^
 ||analytics-fe-np01-iad.8x8.com^
+||analytics-gateway.th.owhealth.com^
 ||analytics-i18n.tiktok.com^
 ||analytics-ie.tiktokw.eu^
 ||analytics-ingress-apac.bitmovin.com^
@@ -3826,7 +3827,9 @@
 ||crashdump.spotify.com^
 ||crashes.1password.com^
 ||crashes.dashlane.com^
+||crashes.infra.owhealth.com^
 ||crashes.ivpn.net^
+||crashes.owhealth.com^
 ||crashlogs.whatsapp.net^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
@@ -8644,6 +8647,7 @@
 ||securemvt.apple.com^
 ||securemvt.v.aaplimg.com^
 ||security-analytics.geoedge.com^
+||security-metrics.infra.owhealth.com^
 ||security-tracker.debian.org^
 ||security.adikteev.com^
 ||security.remerge.io^

@@ -1,6 +1,6 @@
 # ============================================================
 # PERIOD REPRODUCTIVE HEALTH BLOCKLIST - AGGRESSIVE
-# Total domains: 59
+# Total domains: 63
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,6 +10,7 @@
 0.0.0.0 ads.gpapps.com
 0.0.0.0 ads.ovia.com
 0.0.0.0 amplitude.flo.health
+0.0.0.0 analytics-gateway.th.owhealth.com
 0.0.0.0 analytics.avawomen.com
 0.0.0.0 analytics.daysy.me
 0.0.0.0 analytics.evebyglow.com
@@ -33,6 +34,8 @@
 0.0.0.0 analytics.womanlog.com
 0.0.0.0 appsflyer.flo.health
 0.0.0.0 branch.flo.health
+0.0.0.0 crashes.infra.owhealth.com
+0.0.0.0 crashes.owhealth.com
 0.0.0.0 facebook.flo.health
 0.0.0.0 looker.babycenter.com
 0.0.0.0 marketing.flo.health
@@ -45,6 +48,7 @@
 0.0.0.0 metrics.oviahealth.com
 0.0.0.0 metrics.period-tracker.com
 0.0.0.0 relay.flo.health
+0.0.0.0 security-metrics.infra.owhealth.com
 0.0.0.0 sentry2.daysy.me
 0.0.0.0 telemetry.clue.app
 0.0.0.0 telemetry.flo.health
