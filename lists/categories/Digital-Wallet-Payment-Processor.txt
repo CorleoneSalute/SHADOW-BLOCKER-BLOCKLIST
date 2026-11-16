@@ -1,7 +1,7 @@
 # Digital Wallet & Payment Processor Blocklist
 
-# Total domains: 69
-# Last update: 2026/11/13
+# Total domains: 74
+# Last update: 2026/11/16
 # Note: trailing "!" marks a domain as aggressive-only
 
 # SAMSUNG PAY

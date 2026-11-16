@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11261
+# Total domains: 11266
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4796,6 +4796,7 @@
 0.0.0.0 featureinfo-service-sg.allawnos.com
 0.0.0.0 fedora-telemetry.org
 0.0.0.0 feedads.baidu.com
+0.0.0.0 feedback-analytics.services.production.infinitepay.io
 0.0.0.0 feedback-global.youpin.mi-img.com
 0.0.0.0 feedback.d.xiaomi.com
 0.0.0.0 feedback.hotjar.com
@@ -4912,6 +4913,7 @@
 0.0.0.0 fp.gfx.streamate.com
 0.0.0.0 fp.ggpoker.com
 0.0.0.0 fp.incognia.com
+0.0.0.0 fp.infinitepay.io
 0.0.0.0 fp.livescorebet.com
 0.0.0.0 fp.online-metrix.net
 0.0.0.0 fp.passion.com
@@ -6453,6 +6455,7 @@
 0.0.0.0 messagecenterlog-dr.intel.com
 0.0.0.0 messagecenterlog.intel.com
 0.0.0.0 messaging.metrics.icloud.com
+0.0.0.0 meta-ads-connector.services.production.infinitepay.io
 0.0.0.0 meta-ucads.ucweb.com
 0.0.0.0 metabase.analytics.native-instruments.com
 0.0.0.0 metaffiliation.com
@@ -7615,11 +7618,13 @@
 0.0.0.0 pips.taboola.com
 0.0.0.0 pisterper.com
 0.0.0.0 piwik.uloz.to
+0.0.0.0 pix-h.infinitepay.io
 0.0.0.0 pix.as.criteo.net
 0.0.0.0 pix.cdn.criteo.net
 0.0.0.0 pix.criteo.com
 0.0.0.0 pix.criteo.net
 0.0.0.0 pix.eu.criteo.net
+0.0.0.0 pix.infinitepay.io
 0.0.0.0 pix.reddit.com
 0.0.0.0 pix.us.criteo.net
 0.0.0.0 pixalate.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10766
+# Total domains: 10771
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4616,6 +4616,7 @@ featureassets.org
 featuregates.org
 fedora-telemetry.org
 feedads.baidu.com
+feedback-analytics.services.production.infinitepay.io
 feedback-global.youpin.mi-img.com
 feedback.d.xiaomi.com
 feedback.hotjar.com
@@ -4729,6 +4730,7 @@ fp.curology.com
 fp.gfx.streamate.com
 fp.ggpoker.com
 fp.incognia.com
+fp.infinitepay.io
 fp.livescorebet.com
 fp.online-metrix.net
 fp.passion.com
@@ -6175,6 +6177,7 @@ merkury.dentsu.com
 messagecenterlog-dr.intel.com
 messagecenterlog.intel.com
 messaging.metrics.icloud.com
+meta-ads-connector.services.production.infinitepay.io
 meta-ucads.ucweb.com
 metabase.analytics.native-instruments.com
 metaffiliation.com
@@ -7291,11 +7294,13 @@ pintient.com
 pips.taboola.com
 pisterper.com
 piwik.uloz.to
+pix-h.infinitepay.io
 pix.as.criteo.net
 pix.cdn.criteo.net
 pix.criteo.com
 pix.criteo.net
 pix.eu.criteo.net
+pix.infinitepay.io
 pix.reddit.com
 pix.us.criteo.net
 pixalate.com

@@ -1,6 +1,6 @@
 # ============================================================
 # DIGITAL WALLET PAYMENT PROCESSOR BLOCKLIST - BASIC
-# Total domains: 64
+# Total domains: 69
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -24,6 +24,8 @@ analytics.xyne.juspay.in
 apples-analytics.pad.squareup.com
 blog.ads.paytm.com
 collect.skrill.com
+feedback-analytics.services.production.infinitepay.io
+fp.infinitepay.io
 log.alipay.com
 log01.mtv.squareup.com
 logger.in-west-1.juspay.in
@@ -40,6 +42,7 @@ logs.juspay.net
 logs.visabenefits.in1.juspay.io
 logs.visabenefits.me1.juspay.io
 logs.yesbank.upi.juspay.in
+meta-ads-connector.services.production.infinitepay.io
 metrics-tracking.revolut.com
 metrics.alipay.com
 metrics.squareup.com
@@ -47,6 +50,8 @@ otel-collector.xenithpay.com
 paypal.112.2o7.net
 paypal.demdex.net
 paypal.tt.omtrdc.net
+pix-h.infinitepay.io
+pix.infinitepay.io
 pixel.mercadopago.com
 push-collector.happypointcard.com
 sentry.antarcticwallet.com

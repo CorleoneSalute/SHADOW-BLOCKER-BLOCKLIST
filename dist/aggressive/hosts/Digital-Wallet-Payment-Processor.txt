@@ -1,6 +1,6 @@
 # ============================================================
 # DIGITAL WALLET PAYMENT PROCESSOR BLOCKLIST - AGGRESSIVE
-# Total domains: 69
+# Total domains: 74
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -26,6 +26,8 @@
 0.0.0.0 blog.ads.paytm.com
 0.0.0.0 collect.skrill.com
 0.0.0.0 errors.stripe.com
+0.0.0.0 feedback-analytics.services.production.infinitepay.io
+0.0.0.0 fp.infinitepay.io
 0.0.0.0 log.alipay.com
 0.0.0.0 log01.mtv.squareup.com
 0.0.0.0 logger.in-west-1.juspay.in
@@ -42,6 +44,7 @@
 0.0.0.0 logs.visabenefits.in1.juspay.io
 0.0.0.0 logs.visabenefits.me1.juspay.io
 0.0.0.0 logs.yesbank.upi.juspay.in
+0.0.0.0 meta-ads-connector.services.production.infinitepay.io
 0.0.0.0 metrics-tracking.revolut.com
 0.0.0.0 metrics.alipay.com
 0.0.0.0 metrics.squareup.com
@@ -49,6 +52,8 @@
 0.0.0.0 paypal.112.2o7.net
 0.0.0.0 paypal.demdex.net
 0.0.0.0 paypal.tt.omtrdc.net
+0.0.0.0 pix-h.infinitepay.io
+0.0.0.0 pix.infinitepay.io
 0.0.0.0 pixel.mercadopago.com
 0.0.0.0 push-collector.happypointcard.com
 0.0.0.0 q.stripe.com
