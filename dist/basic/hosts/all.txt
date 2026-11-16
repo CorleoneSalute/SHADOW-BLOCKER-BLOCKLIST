@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10748
+# Total domains: 10749
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -227,6 +227,7 @@
 0.0.0.0 ad.adsrvr.org
 0.0.0.0 ad.afreecatv.com
 0.0.0.0 ad.alipay.com
+0.0.0.0 ad.aniu.tv
 0.0.0.0 ad.api.biligame.net
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.baidu.com

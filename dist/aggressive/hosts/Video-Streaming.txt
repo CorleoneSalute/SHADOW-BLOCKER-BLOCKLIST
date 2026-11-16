@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 484
+# Total domains: 485
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -26,6 +26,7 @@
 0.0.0.0 ad-metrics.espn.com
 0.0.0.0 ad-server.pluto.tv
 0.0.0.0 ad.9tv.co.il
+0.0.0.0 ad.aniu.tv
 0.0.0.0 ad.cp68.ott.cibntv.net
 0.0.0.0 ad.mobile.youku.com
 0.0.0.0 adgen-cdn.connatix.com
