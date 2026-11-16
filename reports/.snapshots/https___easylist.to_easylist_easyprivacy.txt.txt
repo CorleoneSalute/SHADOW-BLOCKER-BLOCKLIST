@@ -4874,6 +4874,7 @@ ads-trk.vidible.tv
 ads.dandelionchocolate.jp
 ads.tikpage.com
 ads.tvp.pl
+adsagentclientafd-b7hqhjdrf3fpeqh2.b01.azurefd.net
 adsave.co
 adschoom.com
 adscore.com
@@ -11439,6 +11440,7 @@ data.campaigns.therecroom.com
 data.canon.club-news.com.hk
 data.cart.metrobyt-mobile.com
 data.carts.t-mobile.com
+data.cdnbasket.net
 data.charles-colby.com
 data.chelseafc.com
 data.circulate.com
@@ -28250,6 +28252,7 @@ page-events-ustats.udemy.com
 page-hit.de
 page.asraymond.com
 page.care.salinasvalleyhealth.com
+page.cdnbasket.net
 page.e.silverfernfarms.com
 page.email.key.com
 page.email.trinity-health.org
@@ -36697,6 +36700,7 @@ soska.us
 sotelsystems.actonservice.com
 soubej.larebajavirtual.com
 soulclicking.com
+soulfreedom.net
 soundcloud.com
 soundmachine.net
 soundmuseums.com
@@ -43497,6 +43501,7 @@ treeoflifecenterus.actonservice.com
 trelleborg.tecs1.com
 tremendousplastic.com
 tremendoustime.com
+trendcone.com
 trendcounter.com
 trendcounter.de
 trendemon.com
@@ -43995,6 +44000,7 @@ turtlemobile.com.tw
 tutbc1.www.tapmyback.com
 tutorshelf.com
 tuvevx.agent-sana.com
+tuxedocard.com
 tv-test.esvdigital.com
 tv.totaljobs.com
 tvcoag.brw.pl
@@ -45086,11 +45092,13 @@ vidfiles.net.mydays.de
 vidigital.ru
 view.americanbuildings.com
 view.aon.com
+view.cdnbasket.net
 view.centria.com
 view.fujitv.co.jp
 view.kirbybuildingsystems.com
 view.metlspan.com
 view.nucorbuildingsystems.com
+view.publitas.com
 viewar.org
 viewer.pandasuite.io
 viewresource.com
@@ -45111,6 +45119,7 @@ vilynx.com
 vinlens.com
 vinsight.de
 vinub.com
+vinylanswer.net
 violetdemise.com
 viously.com
 viowrel.com
@@ -45456,6 +45465,7 @@ watch.stctv.com
 watch.vipa.me
 watchtower.graindata.com
 water.tetrapak.com
+waterloco.com
 waterlooberlin.viessmann.ca
 waterywave.com
 watg.xxxlutz.com
@@ -46183,6 +46193,7 @@ wt.generali.de
 wt.generalibewegtdeutschland.de
 wt.generalihealthsolutions.de
 wt.netze-bw.de
+wt.omnisendlink.com
 wt.oscaro.com
 wt.vhb.de
 wt.viagogo.net
