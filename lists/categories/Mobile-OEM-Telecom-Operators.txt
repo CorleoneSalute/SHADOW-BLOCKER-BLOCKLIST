@@ -299,6 +299,7 @@ tracking.india.miui.com
 tracking.intl.miui.com
 tracking.miui.com
 tracking.rus.miui.com
+tracker-preview.xiaomixiaoai.com
 ```
 
 ### Security infrastructure (analytics + risky components combined) (25 domain)
