@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 439
+# Total domains: 441
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -60,6 +60,8 @@
 0.0.0.0 alerts.conviva.com
 0.0.0.0 alerts.youbora.com
 0.0.0.0 amagi.tv
+0.0.0.0 analytics-api.delight-vr.com
+0.0.0.0 analytics-api.greenvideo.io
 0.0.0.0 analytics-dc.of.tv
 0.0.0.0 analytics-ingress-apac.bitmovin.com
 0.0.0.0 analytics-ingress-eu.bitmovin.com

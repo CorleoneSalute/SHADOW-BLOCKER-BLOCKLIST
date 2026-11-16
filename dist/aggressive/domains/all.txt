@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11250
+# Total domains: 11252
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1366,8 +1366,10 @@ analytic.wysa.io
 analytics-api.analytics-cluster.smartsupp.com
 analytics-api.apple.com
 analytics-api.crowncoinscasino.com
+analytics-api.delight-vr.com
 analytics-api.felixforyou.ca
 analytics-api.grandesloterias.com
+analytics-api.greenvideo.io
 analytics-api.id.me
 analytics-api.lotto247.com
 analytics-api.obefitness.com

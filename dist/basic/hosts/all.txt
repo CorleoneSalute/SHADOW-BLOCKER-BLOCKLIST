@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10755
+# Total domains: 10757
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1317,8 +1317,10 @@
 0.0.0.0 analytics-api.analytics-cluster.smartsupp.com
 0.0.0.0 analytics-api.apple.com
 0.0.0.0 analytics-api.crowncoinscasino.com
+0.0.0.0 analytics-api.delight-vr.com
 0.0.0.0 analytics-api.felixforyou.ca
 0.0.0.0 analytics-api.grandesloterias.com
+0.0.0.0 analytics-api.greenvideo.io
 0.0.0.0 analytics-api.id.me
 0.0.0.0 analytics-api.lotto247.com
 0.0.0.0 analytics-api.obefitness.com
