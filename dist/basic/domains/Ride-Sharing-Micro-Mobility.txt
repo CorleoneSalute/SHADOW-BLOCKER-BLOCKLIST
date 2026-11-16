@@ -1,11 +1,12 @@
 # ============================================================
 # RIDE SHARING MICRO MOBILITY BLOCKLIST - BASIC
-# Total domains: 47
+# Total domains: 48
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 ads.careem.com
+ads.go.yandex
 ads.lyft.com
 analytics.bird.co
 analytics.bolt.eu

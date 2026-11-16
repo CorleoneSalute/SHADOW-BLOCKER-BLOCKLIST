@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10754
+# Total domains: 10755
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -673,6 +673,7 @@
 ||ads.gcp.roku.com^
 ||ads.gentoo.org^
 ||ads.giphy.com^
+||ads.go.yandex^
 ||ads.gomlab.com^
 ||ads.gpapps.com^
 ||ads.groundtruth.com^

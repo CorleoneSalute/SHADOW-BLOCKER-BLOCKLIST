@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11249
+# Total domains: 11250
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -702,6 +702,7 @@ ads.gaana.com
 ads.gcp.roku.com
 ads.gentoo.org
 ads.giphy.com
+ads.go.yandex
 ads.gomlab.com
 ads.gpapps.com
 ads.groundtruth.com
