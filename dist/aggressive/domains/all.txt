@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11242
-# Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
+# Total domains: 11243
+# Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -238,6 +238,7 @@ ad-visedigital.com
 ad-volt.com
 ad-works.fr
 ad-zone.net
+ad.9tv.co.il
 ad.acast.com
 ad.adition.com
 ad.admitad.com

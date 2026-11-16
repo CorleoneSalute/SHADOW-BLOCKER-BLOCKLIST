@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10747
-# Generated: 2026-11-13 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10748
+# Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -220,6 +220,7 @@
 ||ad-volt.com^
 ||ad-works.fr^
 ||ad-zone.net^
+||ad.9tv.co.il^
 ||ad.adition.com^
 ||ad.admitad.com^
 ||ad.adpump.com^
