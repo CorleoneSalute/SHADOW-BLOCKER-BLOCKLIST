@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11256
+# Total domains: 11257
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1363,6 +1363,7 @@
 ||analytic.underarmour.com^
 ||analytic.watchporn.to^
 ||analytic.wysa.io^
+||analytics-adapter.aws.mapquest.com^
 ||analytics-api.analytics-cluster.smartsupp.com^
 ||analytics-api.apple.com^
 ||analytics-api.crowncoinscasino.com^

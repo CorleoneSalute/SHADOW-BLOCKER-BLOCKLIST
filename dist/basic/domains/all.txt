@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10761
+# Total domains: 10762
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1314,6 +1314,7 @@ analytic.tiktok.com
 analytic.underarmour.com
 analytic.watchporn.to
 analytic.wysa.io
+analytics-adapter.aws.mapquest.com
 analytics-api.analytics-cluster.smartsupp.com
 analytics-api.apple.com
 analytics-api.crowncoinscasino.com
