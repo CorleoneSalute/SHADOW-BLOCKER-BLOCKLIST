@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11258
+# Total domains: 11259
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2048,6 +2048,7 @@
 0.0.0.0 analytics.stickypassword.com
 0.0.0.0 analytics.store-jp.nintendo.com
 0.0.0.0 analytics.strava.com
+0.0.0.0 analytics.streamgaga.com
 0.0.0.0 analytics.stripchat.direct
 0.0.0.0 analytics.stripchat.ooo
 0.0.0.0 analytics.stripchats.global

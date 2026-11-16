@@ -1,6 +1,6 @@
 # ============================================================
 # DOWNLOAD MANAGER BLOCKLIST - BASIC
-# Total domains: 33
+# Total domains: 34
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -21,6 +21,7 @@
 0.0.0.0 analytics.freedownloadmanager.org
 0.0.0.0 analytics.my.jdownloader.org
 0.0.0.0 analytics.speedbit.com
+0.0.0.0 analytics.streamgaga.com
 0.0.0.0 analytics.tonec.com
 0.0.0.0 extension-telemetry.internetdownloadmanager.com
 0.0.0.0 ipcheck0.jdownloader.org

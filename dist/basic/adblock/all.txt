@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10763
+# Total domains: 10764
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1998,6 +1998,7 @@
 ||analytics.stickypassword.com^
 ||analytics.store-jp.nintendo.com^
 ||analytics.strava.com^
+||analytics.streamgaga.com^
 ||analytics.stripchat.direct^
 ||analytics.stripchat.ooo^
 ||analytics.stripchats.global^

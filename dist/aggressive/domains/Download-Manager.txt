@@ -1,6 +1,6 @@
 # ============================================================
 # DOWNLOAD MANAGER BLOCKLIST - AGGRESSIVE
-# Total domains: 33
+# Total domains: 34
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -21,6 +21,7 @@ analytics.4kdownload.com
 analytics.freedownloadmanager.org
 analytics.my.jdownloader.org
 analytics.speedbit.com
+analytics.streamgaga.com
 analytics.tonec.com
 extension-telemetry.internetdownloadmanager.com
 ipcheck0.jdownloader.org
