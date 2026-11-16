@@ -522,6 +522,11 @@ ad.aniu.tv
 analytics-api.greenvideo.io
 analytics-api.delight-vr.com
 
+# Bliss Drama
+
+collect.blissdrama.tv
+event-api.blissdrama.tv
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
