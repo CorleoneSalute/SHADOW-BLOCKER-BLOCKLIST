@@ -967,6 +967,13 @@ metrics.bereal.com
 diana-errors-web.sidechat.lol
 ```
 
+# 9GAG
+
+ads.9gag.COM
+advertising.9gag.com
+web-t.9gag.com
+rlog.9gag.com
+
 ## AGGRESSIVE LIST (24 domain)
 
 ### TIKTOK / BYTEDANCE (24 domain)
