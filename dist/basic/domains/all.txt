@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10772
+# Total domains: 10775
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3516,6 +3516,7 @@ collector-ops.twitter.com
 collector-us.conviva.com
 collector-v2.spinxgames.com
 collector.acoustic.co
+collector.ai.arte.tv
 collector.auth.xhamster3.com
 collector.boutique.orange.fr
 collector.bsg.brave.com
@@ -4935,6 +4936,7 @@ gpm.samsungqbe.com
 gr-info-lgsmartad-com.aws-prd.net
 gr-rdx2-lgtvsdp-com.aws-prd.net
 grabads.com
+grafana-logs-mgmt.infra-cloud1.arte.tv
 grafana.acr.roku.com
 graffiti-tags.apple.com
 granniestomeet.com
@@ -7094,6 +7096,7 @@ osb-krsvc.samsungqbe.com
 osint.au10tix.com
 oskiwood.com
 osp-log-fetcher.opera.com
+otel-collector-mgmt.infra-priv-cloud1.arte.tv
 otel-collector.hub.bright.md
 otel-collector.xenithpay.com
 otel-http.khealth.com

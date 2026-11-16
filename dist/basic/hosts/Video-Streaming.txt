@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 444
+# Total domains: 447
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -163,6 +163,7 @@
 0.0.0.0 collect.youbora.com
 0.0.0.0 collector-eu.conviva.com
 0.0.0.0 collector-us.conviva.com
+0.0.0.0 collector.ai.arte.tv
 0.0.0.0 collector.conviva.com
 0.0.0.0 collector.puhutv.com
 0.0.0.0 conviva.ai
@@ -224,6 +225,7 @@
 0.0.0.0 global-2.telemetry.insights.video.a2z.com
 0.0.0.0 global-3.telemetry.insights.video.a2z.com
 0.0.0.0 global.telemetry.insights.video.a2z.com
+0.0.0.0 grafana-logs-mgmt.infra-cloud1.arte.tv
 0.0.0.0 h5tracker5.pptv.com
 0.0.0.0 h5tracker6.gslb.pptv.com
 0.0.0.0 h5tracker7.gslb.pptv.com
@@ -324,6 +326,7 @@
 0.0.0.0 nqs-eu.youbora.com
 0.0.0.0 nqs-us.youbora.com
 0.0.0.0 nqs.youbora.com
+0.0.0.0 otel-collector-mgmt.infra-priv-cloud1.arte.tv
 0.0.0.0 otel.zba-prod.k8s.zattoo.com
 0.0.0.0 parsely.com
 0.0.0.0 pcc-v1.log.mgtv.net

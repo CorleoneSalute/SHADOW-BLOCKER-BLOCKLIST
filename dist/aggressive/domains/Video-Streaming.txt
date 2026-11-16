@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 490
+# Total domains: 493
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -173,6 +173,7 @@ collect.bz.mgtv.net
 collect.youbora.com
 collector-eu.conviva.com
 collector-us.conviva.com
+collector.ai.arte.tv
 collector.conviva.com
 collector.puhutv.com
 conviva.ai
@@ -238,6 +239,7 @@ global-1.telemetry.insights.video.a2z.com
 global-2.telemetry.insights.video.a2z.com
 global-3.telemetry.insights.video.a2z.com
 global.telemetry.insights.video.a2z.com
+grafana-logs-mgmt.infra-cloud1.arte.tv
 h5tracker5.pptv.com
 h5tracker6.gslb.pptv.com
 h5tracker7.gslb.pptv.com
@@ -346,6 +348,7 @@ nqs-apac.youbora.com
 nqs-eu.youbora.com
 nqs-us.youbora.com
 nqs.youbora.com
+otel-collector-mgmt.infra-priv-cloud1.arte.tv
 otel.zba-prod.k8s.zattoo.com
 parsely.com
 pcc-v1.log.mgtv.net

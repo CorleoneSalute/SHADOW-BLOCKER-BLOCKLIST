@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11267
+# Total domains: 11270
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3616,6 +3616,7 @@
 0.0.0.0 collector-us.conviva.com
 0.0.0.0 collector-v2.spinxgames.com
 0.0.0.0 collector.acoustic.co
+0.0.0.0 collector.ai.arte.tv
 0.0.0.0 collector.auth.xhamster3.com
 0.0.0.0 collector.boutique.orange.fr
 0.0.0.0 collector.bsg.brave.com
@@ -5146,6 +5147,7 @@
 0.0.0.0 gr-info-lgsmartad-com.aws-prd.net
 0.0.0.0 gr-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 grabads.com
+0.0.0.0 grafana-logs-mgmt.infra-cloud1.arte.tv
 0.0.0.0 grafana.acr.roku.com
 0.0.0.0 graffiti-tags.apple.com
 0.0.0.0 granniestomeet.com
@@ -7399,6 +7401,7 @@
 0.0.0.0 osint.au10tix.com
 0.0.0.0 oskiwood.com
 0.0.0.0 osp-log-fetcher.opera.com
+0.0.0.0 otel-collector-mgmt.infra-priv-cloud1.arte.tv
 0.0.0.0 otel-collector.hub.bright.md
 0.0.0.0 otel-collector.xenithpay.com
 0.0.0.0 otel-http.khealth.com
