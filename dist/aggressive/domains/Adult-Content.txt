@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - AGGRESSIVE
-# Total domains: 139
+# Total domains: 140
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -114,6 +114,7 @@ logs.nsfwlivechat.com
 logs.sankakucomplex.com
 lotto60.com
 metrics.imlive.com
+metrics.redgifs.com
 monitor.skyprivate.com
 performers-origin.cam4.com
 performers.cam4.com

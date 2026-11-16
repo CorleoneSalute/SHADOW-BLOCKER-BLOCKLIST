@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - BASIC
-# Total domains: 123
+# Total domains: 124
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -111,6 +111,7 @@
 ||logs.sankakucomplex.com^
 ||lotto60.com^
 ||metrics.imlive.com^
+||metrics.redgifs.com^
 ||monitor.skyprivate.com^
 ||performers-origin.cam4.com^
 ||performers.cam4.com^

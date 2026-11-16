@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10775
+# Total domains: 10776
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6451,6 +6451,7 @@ metrics.razer.com
 metrics.realme.com
 metrics.receiptpal.com
 metrics.reddit.com
+metrics.redgifs.com
 metrics.reebok.com
 metrics.replika.ai
 metrics.resonite.com

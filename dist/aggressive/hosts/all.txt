@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11270
+# Total domains: 11271
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6729,6 +6729,7 @@
 0.0.0.0 metrics.realme.com
 0.0.0.0 metrics.receiptpal.com
 0.0.0.0 metrics.reddit.com
+0.0.0.0 metrics.redgifs.com
 0.0.0.0 metrics.reebok.com
 0.0.0.0 metrics.replika.ai
 0.0.0.0 metrics.resonite.com
