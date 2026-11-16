@@ -527,6 +527,10 @@ analytics-api.delight-vr.com
 collect.blissdrama.tv
 event-api.blissdrama.tv
 
+# chinesedrama.com
+
+log.chinesedrama.com
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
