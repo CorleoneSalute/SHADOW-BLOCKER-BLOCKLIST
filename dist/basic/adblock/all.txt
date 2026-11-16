@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10776
+# Total domains: 10777
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9663,6 +9663,7 @@
 ||trackedevt.1rx.io^
 ||tracker-novembers-347342.appspot.com^
 ||tracker-preview.ai.xiaomi.com^
+||tracker-preview.xiaomixiaoai.com^
 ||tracker-server.high-cdn.com^
 ||tracker.5eplaycdn.com^
 ||tracker.adikteev.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1094
+# Total domains: 1095
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1009,6 +1009,7 @@
 ||track.vodafone.com.au^
 ||track2.vodafone.com.au^
 ||tracker-preview.ai.xiaomi.com^
+||tracker-preview.xiaomixiaoai.com^
 ||tracker.ai.xiaomi.com^
 ||trackercollect.ddxq.mobi^
 ||trackerfeed.ddxq.mobi^

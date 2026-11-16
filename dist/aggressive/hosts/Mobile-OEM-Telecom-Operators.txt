@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1145
+# Total domains: 1146
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1056,6 +1056,7 @@
 0.0.0.0 track.vodafone.com.au
 0.0.0.0 track2.vodafone.com.au
 0.0.0.0 tracker-preview.ai.xiaomi.com
+0.0.0.0 tracker-preview.xiaomixiaoai.com
 0.0.0.0 tracker.ai.xiaomi.com
 0.0.0.0 trackercollect.ddxq.mobi
 0.0.0.0 trackerfeed.ddxq.mobi

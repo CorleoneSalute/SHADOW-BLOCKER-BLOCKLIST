@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11271
+# Total domains: 11272
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10106,6 +10106,7 @@
 0.0.0.0 trackedevt.1rx.io
 0.0.0.0 tracker-novembers-347342.appspot.com
 0.0.0.0 tracker-preview.ai.xiaomi.com
+0.0.0.0 tracker-preview.xiaomixiaoai.com
 0.0.0.0 tracker-server.high-cdn.com
 0.0.0.0 tracker.5eplaycdn.com
 0.0.0.0 tracker.adikteev.com
