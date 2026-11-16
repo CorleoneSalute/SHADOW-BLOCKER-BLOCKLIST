@@ -16,6 +16,10 @@ appsflyer.flo.health
 branch.flo.health
 amplitude.flo.health
 relay.flo.health
+analytics-gateway.th.owhealth.com
+crashes.infra.owhealth.com
+crashes.owhealth.com
+security-metrics.infra.owhealth.com
 
 # Clue (BioWink)
 analytics.helloclue.com
