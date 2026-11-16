@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11244
+# Total domains: 11248
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -617,6 +617,7 @@
 ||ads.1muslimapp.com^
 ||ads.3xxx.gay^
 ||ads.7k.bet.br^
+||ads.9gag.com^
 ||ads.ac.vip.bf1.yahoo.com^
 ||ads.ac.vip.ne1.yahoo.com^
 ||ads.acast.com^
@@ -1057,6 +1058,7 @@
 ||advertisertape.com^
 ||advertising-v3.roku.com^
 ||advertising-v3.us-east-1.msc.roku.com^
+||advertising.9gag.com^
 ||advertising.accuweather.com^
 ||advertising.adobe.com^
 ||advertising.apple.com^
@@ -8124,6 +8126,7 @@
 ||riskified.com^
 ||rkhbxm26.topazlabs.com^
 ||rklmstr.com^
+||rlog.9gag.com^
 ||rmediaads.com^
 ||rmmetrics.mcafee.com^
 ||rmp-api.moloco.com^
@@ -10849,6 +10852,7 @@
 ||web-play.faro.highscore.com^
 ||web-play.otel.highscore.com^
 ||web-sdk.smartlook.com^
+||web-t.9gag.com^
 ||web-writer.eu.smartlook.cloud^
 ||web-writer.us.smartlook.cloud^
 ||web-www.faro.highscore.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 810
+# Total domains: 814
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -52,6 +52,7 @@
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads-useast2a.tiktok.com
 0.0.0.0 ads-v.reddit.com
+0.0.0.0 ads.9gag.com
 0.0.0.0 ads.facebook.com
 0.0.0.0 ads.linkedin-ei.com
 0.0.0.0 ads.linkedin.cn
@@ -86,6 +87,7 @@
 0.0.0.0 adsvideo.biz.weibo.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 advertise.myspace.com
+0.0.0.0 advertising.9gag.com
 0.0.0.0 advertising.twitter.com
 0.0.0.0 adx.rtb.linkedin.com
 0.0.0.0 affiliate.tiktok.com
@@ -545,6 +547,7 @@
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 px4.ads.linkedin-ei.com
 0.0.0.0 px4.ads.linkedin.com
+0.0.0.0 rlog.9gag.com
 0.0.0.0 rtb-eu.linkedin.com
 0.0.0.0 rtb-otv.linkedin.com
 0.0.0.0 rtb-trk4.linkedin.com
@@ -798,6 +801,7 @@
 0.0.0.0 vaali-mcs.byteoversea.com
 0.0.0.0 vcl-brain.snssdk.com
 0.0.0.0 web-mon-useast2a.byteoversea.com
+0.0.0.0 web-t.9gag.com
 0.0.0.0 xlog-o.byteoversea.com
 0.0.0.0 xlog-ru.tiktokv.com
 0.0.0.0 xlog-va-useast2a.byteoversea.com

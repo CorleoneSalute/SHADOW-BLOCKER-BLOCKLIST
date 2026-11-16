@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10749
+# Total domains: 10753
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -593,6 +593,7 @@
 0.0.0.0 ads.1muslimapp.com
 0.0.0.0 ads.3xxx.gay
 0.0.0.0 ads.7k.bet.br
+0.0.0.0 ads.9gag.com
 0.0.0.0 ads.ac.vip.bf1.yahoo.com
 0.0.0.0 ads.ac.vip.ne1.yahoo.com
 0.0.0.0 ads.accuweather.com
@@ -1016,6 +1017,7 @@
 0.0.0.0 advertisertape.com
 0.0.0.0 advertising-v3.roku.com
 0.0.0.0 advertising-v3.us-east-1.msc.roku.com
+0.0.0.0 advertising.9gag.com
 0.0.0.0 advertising.accuweather.com
 0.0.0.0 advertising.adobe.com
 0.0.0.0 advertising.apple.com
@@ -7748,6 +7750,7 @@
 0.0.0.0 risecodes.com
 0.0.0.0 rkhbxm26.topazlabs.com
 0.0.0.0 rklmstr.com
+0.0.0.0 rlog.9gag.com
 0.0.0.0 rmediaads.com
 0.0.0.0 rmmetrics.mcafee.com
 0.0.0.0 rmp-api.moloco.com
@@ -10370,6 +10373,7 @@
 0.0.0.0 web-play.faro.highscore.com
 0.0.0.0 web-play.otel.highscore.com
 0.0.0.0 web-sdk.smartlook.com
+0.0.0.0 web-t.9gag.com
 0.0.0.0 web-writer.eu.smartlook.cloud
 0.0.0.0 web-writer.us.smartlook.cloud
 0.0.0.0 web-www.faro.highscore.com
