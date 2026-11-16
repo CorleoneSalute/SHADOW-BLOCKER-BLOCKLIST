@@ -161,3 +161,7 @@ analytics.pharmacychecker.com
 
 analytics.medic.chat
 preview.analytics.medic.chat
+
+# DoctorBox GmbH
+
+analytics.doctorbox.de
