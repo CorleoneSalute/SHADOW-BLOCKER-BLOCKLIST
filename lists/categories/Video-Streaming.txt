@@ -531,6 +531,12 @@ event-api.blissdrama.tv
 
 log.chinesedrama.com
 
+# ARTE (Association relative à la télévision européenne)
+
+collector.ai.arte.tv
+grafana-logs-mgmt.infra-cloud1.arte.tv
+otel-collector-mgmt.infra-priv-cloud1.arte.tv
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
