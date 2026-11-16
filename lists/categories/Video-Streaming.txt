@@ -517,6 +517,11 @@ ad.9tv.co.il
 
 ad.aniu.tv
 
+# SuperNext GmbH
+
+analytics-api.greenvideo.io
+analytics-api.delight-vr.com
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
