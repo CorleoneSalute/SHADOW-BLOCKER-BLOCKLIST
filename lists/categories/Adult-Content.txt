@@ -250,3 +250,7 @@ log.tranny.show
 choto.click
 lotto60.com
 xhamster.directory
+
+# RedGIFs
+
+metrics.redgifs.com
