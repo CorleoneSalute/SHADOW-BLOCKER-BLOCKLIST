@@ -17,3 +17,7 @@ logging.bunnycdn.com
 user-metrics-3.bunnycdn.com
 user-metrics.bunnycdn.com
 waf-metrics.bunnycdn.com
+
+# cdn.live
+
+ads.cdn.live
