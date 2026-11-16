@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10753
+# Total domains: 10754
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -638,6 +638,7 @@
 0.0.0.0 ads.bsplayer.com
 0.0.0.0 ads.cams.com
 0.0.0.0 ads.careem.com
+0.0.0.0 ads.cdn.live
 0.0.0.0 ads.cdn.viber.com
 0.0.0.0 ads.cdnvideo.ru
 0.0.0.0 ads.chartboost.com

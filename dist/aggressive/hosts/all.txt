@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11248
+# Total domains: 11249
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -664,6 +664,7 @@
 0.0.0.0 ads.bsplayer.com
 0.0.0.0 ads.cams.com
 0.0.0.0 ads.careem.com
+0.0.0.0 ads.cdn.live
 0.0.0.0 ads.cdn.viber.com
 0.0.0.0 ads.cdn1.atp.vtv.vodafone.com
 0.0.0.0 ads.cdn1.id.vtv.vodafone.com
