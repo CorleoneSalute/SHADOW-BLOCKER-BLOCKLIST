@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11257
+# Total domains: 11258
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1607,6 +1607,7 @@
 0.0.0.0 analytics.disneynow.com
 0.0.0.0 analytics.disneyplus.com
 0.0.0.0 analytics.distilnetworks.com
+0.0.0.0 analytics.doctorbox.de
 0.0.0.0 analytics.dowjones.com
 0.0.0.0 analytics.drift.com
 0.0.0.0 analytics.drift.trade

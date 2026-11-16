@@ -1,6 +1,6 @@
 # ============================================================
 # TELEHEALTH DIGITAL HEALTH BLOCKLIST - BASIC
-# Total domains: 73
+# Total domains: 74
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -16,6 +16,7 @@
 ||analytics.ca.visitnow.org^
 ||analytics.carbonhealth.com^
 ||analytics.cvshealth.com^
+||analytics.doctorbox.de^
 ||analytics.felixforyou.ca^
 ||analytics.grandrounds.com^
 ||analytics.intouchhealth.com^

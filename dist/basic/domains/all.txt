@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10762
+# Total domains: 10763
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1558,6 +1558,7 @@ analytics.discoveryplus.com
 analytics.disneynow.com
 analytics.disneyplus.com
 analytics.distilnetworks.com
+analytics.doctorbox.de
 analytics.dowjones.com
 analytics.drift.com
 analytics.drift.trade
