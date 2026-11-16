@@ -49,3 +49,7 @@ analytics.4kdownload.com
 # Vidow / AddOnCrop
 # ⚠️ AddOnCrop: Network injecting ads into browser extension
 addoncrop.com
+
+# StreamGaGa
+
+analytics.streamgaga.com
