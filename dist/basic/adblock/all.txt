@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10764
+# Total domains: 10766
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3475,6 +3475,7 @@
 ||collect.airbrake.io^
 ||collect.babbel.io^
 ||collect.biomedcentral.com^
+||collect.blissdrama.tv^
 ||collect.bz.mgtv.com^
 ||collect.bz.mgtv.net^
 ||collect.contentsquare.net^
@@ -4355,6 +4356,7 @@
 ||euw.unrulymedia.com^
 ||evadav.com^
 ||evassmat.com^
+||event-api.blissdrama.tv^
 ||event-api.realme.com^
 ||event-tracking.samsung.com^
 ||event.appsflyer.com^

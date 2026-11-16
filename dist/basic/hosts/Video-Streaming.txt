@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 441
+# Total domains: 443
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -157,6 +157,7 @@
 0.0.0.0 channels-metrics.primevideo.com
 0.0.0.0 chartbeat.com
 0.0.0.0 chartbeat.net
+0.0.0.0 collect.blissdrama.tv
 0.0.0.0 collect.bz.mgtv.com
 0.0.0.0 collect.bz.mgtv.net
 0.0.0.0 collect.youbora.com
@@ -205,6 +206,7 @@
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 eu-west-1-1.telemetry.insights.video.a2z.com
+0.0.0.0 event-api.blissdrama.tv
 0.0.0.0 events-analytics.hotstar.com
 0.0.0.0 events.jwplayer.com
 0.0.0.0 events.kaltura.com
