@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 443
+# Total domains: 444
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -252,6 +252,7 @@
 0.0.0.0 live-metrics.peacocktv.com
 0.0.0.0 live-streaming-metrics.amazon.com
 0.0.0.0 livestats.kaltura.com
+0.0.0.0 log.chinesedrama.com
 0.0.0.0 log.mgtv.net
 0.0.0.0 log.tving.com
 0.0.0.0 log.usrdata.uums.cibn.cc

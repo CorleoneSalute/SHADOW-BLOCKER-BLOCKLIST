@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10771
+# Total domains: 10772
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5707,6 +5707,7 @@ log.betdaq.com
 log.buymeacoffee.com
 log.byteoversea.com
 log.carlcare.com
+log.chinesedrama.com
 log.cookieyes.com
 log.core.cloud.vewd.com
 log.dji.com

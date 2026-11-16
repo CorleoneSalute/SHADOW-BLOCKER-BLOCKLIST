@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11266
+# Total domains: 11267
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5982,6 +5982,7 @@
 0.0.0.0 log.buymeacoffee.com
 0.0.0.0 log.byteoversea.com
 0.0.0.0 log.carlcare.com
+0.0.0.0 log.chinesedrama.com
 0.0.0.0 log.cookieyes.com
 0.0.0.0 log.core.cloud.vewd.com
 0.0.0.0 log.dji.com

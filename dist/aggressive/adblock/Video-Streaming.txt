@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 489
+# Total domains: 490
 # Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -272,6 +272,7 @@
 ||live-sports-analytics.hotstar.com^
 ||live-streaming-metrics.amazon.com^
 ||livestats.kaltura.com^
+||log.chinesedrama.com^
 ||log.mgtv.net^
 ||log.tving.com^
 ||log.usrdata.uums.cibn.cc^
