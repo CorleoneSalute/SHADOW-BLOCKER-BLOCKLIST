@@ -130,3 +130,11 @@ antarcticwallet.com !
 # PagAmerican
 
 tracker.pagamerican.app
+
+# InfinitePay
+
+feedback-analytics.services.production.infinitepay.io
+fp.infinitepay.io
+meta-ads-connector.services.production.infinitepay.io
+pix.infinitepay.io
+pix-h.infinitepay.io
