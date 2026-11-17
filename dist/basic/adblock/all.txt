@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10810
+# Total domains: 10811
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5807,6 +5807,7 @@
 ||log.tving.com^
 ||log.twibida.com^
 ||log.uniconsent.com^
+||log.union.ucweb.com^
 ||log.us.tiktokv.com^
 ||log.usrdata.uums.cibn.cc^
 ||log.vivo.com^
