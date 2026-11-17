@@ -231,6 +231,8 @@ post.analysis.leiniao.com
 s.analysis.leiniao.com
 hw-tdp-o.api.leiniao.com
 hwtpc-o.api.leiniao.com
+ads-uo.api.leiniao.com
+ads-ut.api.leiniao.com
 ads.alcatel.tcl.com
 ads.tcl.com
 eads.tcl.com
