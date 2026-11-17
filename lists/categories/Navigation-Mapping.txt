@@ -69,6 +69,7 @@ sentry2.whale.naver.com
 track.kakao.com
 ua.kakao.com
 analytics-event.kakao.com
+collect-kamp.kakao.com
 
 # SYGIC
 sygic.api.infinario.com
