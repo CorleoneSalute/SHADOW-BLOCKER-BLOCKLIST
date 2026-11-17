@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11293
+# Total domains: 11294
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4096,6 +4096,7 @@
 0.0.0.0 dco.retargeter.com
 0.0.0.0 dco.zetaglobal.com
 0.0.0.0 ddf.di.atlas.samsung.com
+0.0.0.0 de-analytics.ringcentral.com
 0.0.0.0 de-gdpr-err-up.vivoglobal.com
 0.0.0.0 de-info-lgsmartad-com.aws-prd.net
 0.0.0.0 de-rdx2-lgtvsdp-com.aws-prd.net

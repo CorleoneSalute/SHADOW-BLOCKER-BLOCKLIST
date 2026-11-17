@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10798
+# Total domains: 10799
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3979,6 +3979,7 @@
 ||dco.retargeter.com^
 ||dco.zetaglobal.com^
 ||ddf.di.atlas.samsung.com^
+||de-analytics.ringcentral.com^
 ||de-gdpr-err-up.vivoglobal.com^
 ||de-info-lgsmartad-com.aws-prd.net^
 ||de-rdx2-lgtvsdp-com.aws-prd.net^
