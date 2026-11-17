@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11306
+# Total domains: 11307
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6155,6 +6155,7 @@
 0.0.0.0 log32-normal-zr.tiktokv.com
 0.0.0.0 log32-normal.tiktokv.com
 0.0.0.0 log5-misc-lq.amemv.com
+0.0.0.0 log5-misc.amemv.com
 0.0.0.0 log53-normal-c-alisg.tiktokv.com
 0.0.0.0 log53-normal-c-useast1a.tiktokv.com
 0.0.0.0 log55-normal-c-alisg.tiktokv.com
