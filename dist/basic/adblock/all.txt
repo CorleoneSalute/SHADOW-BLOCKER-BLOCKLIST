@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10792
+# Total domains: 10793
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2775,6 +2775,7 @@
 ||b.us5.us.criteo.com^
 ||b1-ads.realmemobile.com^
 ||b2banalytics.samsungknox.com^
+||b48eb48b-30c7-af11-54c3-2a13c2f184e5-rum.cdnvideo.ru^
 ||babblecase.com^
 ||backend.asia-northeast1gcp0.pubnative.net^
 ||backend.pubnative.net^
