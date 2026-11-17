@@ -1,7 +1,7 @@
 # ============================================================
 # HARDWARE VENDOR BLOCKLIST - AGGRESSIVE
-# Total domains: 160
-# Generated: 2026-11-16 (UTC) - auto-generated, do not edit by hand
+# Total domains: 161
+# Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -11,6 +11,7 @@
 ||a3.analytics.intel.com^
 ||a4.analytics.intel.com^
 ||a5.analytics.intel.com^
+||aac-sentry.amd.com^
 ||acc-analytics.amd.com^
 ||acp-analytics.amd.com^
 ||ad-sdk.lenovomm.com^
