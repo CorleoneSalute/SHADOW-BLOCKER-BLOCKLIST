@@ -47,6 +47,7 @@ ontrack.amd.com
 smetrics.amd.com
 analytics.openhands.amd.com
 ontrack-lnx.amd.com
+aac-sentry.amd.com
 
 # Intel DSA / XTU / Arc Control
 telemetry.intel.com
