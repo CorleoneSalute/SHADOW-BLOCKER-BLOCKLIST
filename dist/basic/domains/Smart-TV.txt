@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - BASIC
-# Total domains: 534
+# Total domains: 535
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -78,6 +78,7 @@ analysis.leiniao.com
 analytic.hisensetv.com
 analytics-embedded.cloud.vewd.com
 analytics.bigdata.samsung.com
+analytics.bis.sie.sony.com
 analytics.foxxum.com
 analytics.roku.com
 analytics.samsungedo.com

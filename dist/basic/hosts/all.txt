@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10785
+# Total domains: 10786
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1467,6 +1467,7 @@
 0.0.0.0 analytics.bilibili.com
 0.0.0.0 analytics.binge.com.au
 0.0.0.0 analytics.bird.co
+0.0.0.0 analytics.bis.sie.sony.com
 0.0.0.0 analytics.bitdefender.com
 0.0.0.0 analytics.bitly.com
 0.0.0.0 analytics.blacknut.com
