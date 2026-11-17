@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11292
+# Total domains: 11293
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3583,6 +3583,7 @@
 ||collect-jp-fy2017.myhomescreen.tv^
 ||collect-jp-fy2020.myhomescreen.tv^
 ||collect-jp-fy2021.myhomescreen.tv^
+||collect-kamp.kakao.com^
 ||collect-us-fy2014.myhomescreen.tv^
 ||collect-us-fy2015.myhomescreen.tv^
 ||collect-us-fy2016.myhomescreen.tv^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10797
+# Total domains: 10798
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3483,6 +3483,7 @@
 0.0.0.0 collect-jp-fy2017.myhomescreen.tv
 0.0.0.0 collect-jp-fy2020.myhomescreen.tv
 0.0.0.0 collect-jp-fy2021.myhomescreen.tv
+0.0.0.0 collect-kamp.kakao.com
 0.0.0.0 collect-us-fy2014.myhomescreen.tv
 0.0.0.0 collect-us-fy2015.myhomescreen.tv
 0.0.0.0 collect-us-fy2016.myhomescreen.tv
