@@ -377,6 +377,7 @@ metrics.mxplayer.in
 analytics.iqiyi.com
 stats.iqiyi.com
 video-analytics.iqiyi.com
+ad.iqiyi.com
 analytics.youku.com
 stats.youku.com
 lstat.youku.com
