@@ -1,6 +1,6 @@
 # ============================================================
 # NAVIGATION MAPPING BLOCKLIST - BASIC
-# Total domains: 50
+# Total domains: 51
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -29,6 +29,7 @@
 0.0.0.0 advil.waze.com
 0.0.0.0 advilapsoutheast1.waze.com
 0.0.0.0 analytics-adapter.aws.mapquest.com
+0.0.0.0 analytics-event.kakao.com
 0.0.0.0 analytics.komoot.com
 0.0.0.0 analytics.mapbox.com
 0.0.0.0 analytics.maps.me

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11279
+# Total domains: 11280
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1399,6 +1399,7 @@ analytics-bridge01.pokerist.com
 analytics-cdn.obefitness.com
 analytics-dc.of.tv
 analytics-embedded.cloud.vewd.com
+analytics-event.kakao.com
 analytics-exp-i18n.tiktok.com
 analytics-exp-ru.tiktok.com
 analytics-exp-sg.tiktok.com
