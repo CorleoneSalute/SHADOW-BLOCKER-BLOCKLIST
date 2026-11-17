@@ -772,6 +772,8 @@ adx.ads.heytapmobile.com
 adx.ads.oppomobile.com
 analytics.oppo.com
 analytics.realme.com
+iot-cn-logser.realme.com
+iot-ru-logser.realme.com
 adx-id-ads.realmemobile.com
 data-id-ads.realmemobile.com
 bdapi-ads-sg.heytapmobile.com
