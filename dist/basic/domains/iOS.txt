@@ -1,6 +1,6 @@
 # ============================================================
 # IOS BLOCKLIST - BASIC
-# Total domains: 236
+# Total domains: 237
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -159,6 +159,7 @@ metrics-mtls.icloud.com
 metrics.apple-cloudkit.com
 metrics.apple.com
 metrics.apple.com.akadns.net
+metrics.fe.apple-dns.cn
 metrics.fe2.apple-dns.net
 metrics.icloud.com
 metrics.icloud.com.akadns.net

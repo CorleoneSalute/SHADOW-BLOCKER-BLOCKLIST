@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11309
+# Total domains: 11310
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6660,6 +6660,7 @@
 0.0.0.0 metrics.evidation.com
 0.0.0.0 metrics.expressvpn.com
 0.0.0.0 metrics.fanduel.com
+0.0.0.0 metrics.fe.apple-dns.cn
 0.0.0.0 metrics.fe2.apple-dns.net
 0.0.0.0 metrics.fetch.com
 0.0.0.0 metrics.fitbit.com

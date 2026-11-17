@@ -1,6 +1,6 @@
 # iOS Blocklist
 
-# Total domains: 303
+# Total domains: 304
 # Last update 2026/07/18
 # Note: trailing "!" marks a domain as aggressive-only
 
