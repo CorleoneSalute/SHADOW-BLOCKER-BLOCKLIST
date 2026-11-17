@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10812
+# Total domains: 10813
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6135,6 +6135,7 @@
 0.0.0.0 matchanalytics.com
 0.0.0.0 matchmeets.com
 0.0.0.0 mates.com
+0.0.0.0 matomo-analytics-marketing.idnow.io
 0.0.0.0 matomo-tracking.vsgitvpn.com
 0.0.0.0 matomo.garmin.com
 0.0.0.0 matomo.samsungsdibs.at

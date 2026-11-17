@@ -1,6 +1,6 @@
 # ============================================================
 # ID VERIFICATION KYC BLOCKLIST - BASIC
-# Total domains: 60
+# Total domains: 61
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -38,6 +38,7 @@
 ||logging-janus.env.ubble.ai^
 ||logging-web.env.ubble.ai^
 ||logging.facia.ai^
+||matomo-analytics-marketing.idnow.io^
 ||metrics.amani.ai^
 ||metrics.eu.platform.idnow.io^
 ||metrics.idfy.com^

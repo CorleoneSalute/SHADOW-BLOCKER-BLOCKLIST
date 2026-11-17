@@ -1,6 +1,6 @@
 # ============================================================
 # ID VERIFICATION KYC BLOCKLIST - AGGRESSIVE
-# Total domains: 61
+# Total domains: 62
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -38,6 +38,7 @@ fpmetrics.sumsub.com
 logging-janus.env.ubble.ai
 logging-web.env.ubble.ai
 logging.facia.ai
+matomo-analytics-marketing.idnow.io
 metrics.amani.ai
 metrics.eu.platform.idnow.io
 metrics.idfy.com

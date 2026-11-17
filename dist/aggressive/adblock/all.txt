@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11307
+# Total domains: 11308
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6413,6 +6413,7 @@
 ||matchanalytics.com^
 ||matchmeets.com^
 ||mates.com^
+||matomo-analytics-marketing.idnow.io^
 ||matomo-tracking.vsgitvpn.com^
 ||matomo.garmin.com^
 ||matomo.samsungsdibs.at^

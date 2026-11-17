@@ -1,7 +1,7 @@
 # ID VERIFICATION & KYC BLOCKLIST 
 
-# Total domains: 61
-# Last update: 2026/09/08
+# Total domains: 62
+# Last update: 2026/11/17
 # Note: trailing "!" marks a domain as aggressive-only
 
 # JUMIO
