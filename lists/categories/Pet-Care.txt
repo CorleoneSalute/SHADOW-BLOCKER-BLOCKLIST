@@ -1,7 +1,7 @@
 # Pet Care Blocklist
 
-# Total domains: 18
-# Last update: 2026/10/16
+# Total domains: 19
+# Last update: 2026/11/17
 # Note: trailing "!" marks a domain as aggressive-only
 
 # Tractive

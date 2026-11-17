@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11278
+# Total domains: 11279
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -678,6 +678,7 @@
 ||ads.cdnvideo.ru^
 ||ads.chartboost.com^
 ||ads.chaturbate.com^
+||ads.chewy.com^
 ||ads.chocolateplatform.com^
 ||ads.cj.com^
 ||ads.cloud.huawei.com^

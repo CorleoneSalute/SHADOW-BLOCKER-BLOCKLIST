@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10783
+# Total domains: 10784
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -649,6 +649,7 @@
 ||ads.cdnvideo.ru^
 ||ads.chartboost.com^
 ||ads.chaturbate.com^
+||ads.chewy.com^
 ||ads.chocolateplatform.com^
 ||ads.cj.com^
 ||ads.cloud.huawei.com^

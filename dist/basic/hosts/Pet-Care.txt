@@ -1,10 +1,11 @@
 # ============================================================
 # PET CARE BLOCKLIST - BASIC
-# Total domains: 18
+# Total domains: 19
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+0.0.0.0 ads.chewy.com
 0.0.0.0 advertiser.petcube.com
 0.0.0.0 analytics.chewy.com
 0.0.0.0 analytics.fitbark.com
