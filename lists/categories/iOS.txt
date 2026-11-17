@@ -310,6 +310,7 @@ metrics-china-ic4.icloud.com
 
 # --- CHINA DOMAINS ---
 feedbackws.fe.apple-dns.cn
+metrics.fe.apple-dns.cn
 securemetrics.apple.com.cn !
 feedbackws.icloud.com.cn
 ads-apple.apple.com.cn
