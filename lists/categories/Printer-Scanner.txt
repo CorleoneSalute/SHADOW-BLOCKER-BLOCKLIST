@@ -22,3 +22,4 @@ collector.usa.canon.com
 # Fujitsu / PFU (ScanSnap)
 tracking.csc.flm.fujitsu.com
 e-tracking.fujitsu.com
+analytics.mahitahi.global.fujitsu.com
