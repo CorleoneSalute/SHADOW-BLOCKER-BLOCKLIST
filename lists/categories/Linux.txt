@@ -71,10 +71,8 @@ stats.raspberrypi.org
 
 # Debian / Arch
 api.pkgstats.archlinux.de
-bttracker.debian.org
 popcon.debian.org
-security-tracker.debian.org
-tracker.debian.org
+metrics.godard.debian.org
 
 # Linux Mint / Zorin OS / Pop!_OS
 analytics.zorinos.com
