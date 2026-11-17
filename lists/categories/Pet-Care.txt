@@ -27,6 +27,7 @@ data.app-analytics.petdesk.com
 # Chewy
 analytics.chewy.com
 tracking.chewy.com
+ads.chewy.com
 
 # PetSmart
 analytics.petsmart.com
