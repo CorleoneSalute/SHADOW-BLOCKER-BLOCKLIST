@@ -68,6 +68,7 @@ analytics.playstation.net
 # NINTENDO SWITCH
 analytics.store-jp.nintendo.com
 smetrics.nintendo.com
+app.npf-argus.analytics.mng.nintendo.net
 receive.p01.lp1.er.srv.nintendo.net ! # ⚠️ Error reporting is disabled; crash recovery flow may break on some titles.
 receive-lp1.er.srv.nintendo.net ! 
 receive.p01.lp1.dg.srv.nintendo.net !
