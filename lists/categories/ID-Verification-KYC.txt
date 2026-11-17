@@ -46,6 +46,7 @@ analytics-primary.trulioo.com
 
 # IDNOW
 metrics.eu.platform.idnow.io
+matomo-analytics-marketing.idnow.io
 
 # COGNITO (CognitoHQ)
 tracking.cognitohq.com
