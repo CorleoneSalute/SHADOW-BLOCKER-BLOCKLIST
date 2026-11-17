@@ -331,6 +331,7 @@ ads.beta.roku.com
 api.ads.beta.roku.com
 ads.staging.roku.com
 login.ads.staging.roku.com
+ads-aka-us-east-2.delivery.roku.com
 ravm.tv
 display.ravm.tv
 raps.ravm.tv
