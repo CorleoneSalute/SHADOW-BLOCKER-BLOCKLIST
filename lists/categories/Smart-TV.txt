@@ -212,6 +212,7 @@ api.inscape.tv
 flingo.tv
 api.flingo.tv
 call.me.sel.sony.com
+analytics.bis.sie.sony.com
 facemap.foldlife.net
 ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
