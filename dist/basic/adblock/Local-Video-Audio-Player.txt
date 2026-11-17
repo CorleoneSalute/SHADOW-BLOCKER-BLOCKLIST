@@ -1,6 +1,6 @@
 # ============================================================
 # LOCAL VIDEO AUDIO PLAYER BLOCKLIST - BASIC
-# Total domains: 39
+# Total domains: 40
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -26,6 +26,7 @@
 ||crash.cyberlink.com^
 ||display.ad.daum.net^
 ||kyson.ad.daum.net^
+||log.dic.daum.net^
 ||metrics.mxplayer.in^
 ||metrics.playit.pk^
 ||realnetworks.com^

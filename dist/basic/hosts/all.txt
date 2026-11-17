@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10809
+# Total domains: 10810
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5744,6 +5744,7 @@
 0.0.0.0 log.chinesedrama.com
 0.0.0.0 log.cookieyes.com
 0.0.0.0 log.core.cloud.vewd.com
+0.0.0.0 log.dic.daum.net
 0.0.0.0 log.dji.com
 0.0.0.0 log.espn.com
 0.0.0.0 log.facemoji.com
