@@ -45,6 +45,7 @@ metrics.o.extusgov.infra.webex.com
 # RINGCENTRAL
 analytics.ringcentral.com
 us-analytics.ringcentral.com
+de-analytics.ringcentral.com
 analytics.ringcentral.eu
 analytics.ringcentral.ca
 analytics.ringcentral.co.uk
