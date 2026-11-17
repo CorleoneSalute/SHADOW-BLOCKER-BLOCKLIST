@@ -334,6 +334,8 @@ log9-normal-c-useast1a.tiktokv.com
 logbk.tiktokv.com
 tns-sec-log-useast2a.tiktokv.com
 log61-normal-c-alisg.tiktokv.com
+log-dr19-normal.tiktokv.com
+log-dr19-normal-alisg.tiktokv.com
 log0-misc-lq.amemv.com
 log0-misc-alinc2.amemv.com
 log3-misc-lq.amemv.com
