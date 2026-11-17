@@ -1,7 +1,7 @@
 # PRINTER & SCANNER BLOCKLIST
 
-# Total domains: 11
-# Last update: 2026/08/03  
+# Total domains: 12
+# Last update: 2026/11/17
 # Note: trailing "!" marks a domain as aggressive-only
 
 # HP

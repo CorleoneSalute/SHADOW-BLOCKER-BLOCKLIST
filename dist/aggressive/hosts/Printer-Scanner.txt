@@ -1,11 +1,12 @@
 # ============================================================
 # PRINTER SCANNER BLOCKLIST - AGGRESSIVE
-# Total domains: 11
+# Total domains: 12
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 0.0.0.0 analytics.hp.com
+0.0.0.0 analytics.mahitahi.global.fujitsu.com
 0.0.0.0 collector.usa.canon.com
 0.0.0.0 e-tracking.fujitsu.com
 0.0.0.0 epsonanalytics.com

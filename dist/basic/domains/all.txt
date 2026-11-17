@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10788
+# Total domains: 10789
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1758,6 +1758,7 @@ analytics.lynx-r.com
 analytics.lyrahealth.com
 analytics.macpaw.com
 analytics.magiceden.io
+analytics.mahitahi.global.fujitsu.com
 analytics.makesyoufluent.com
 analytics.mangolanguages.com
 analytics.manjaro.org

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11283
+# Total domains: 11284
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1807,6 +1807,7 @@
 ||analytics.lyrahealth.com^
 ||analytics.macpaw.com^
 ||analytics.magiceden.io^
+||analytics.mahitahi.global.fujitsu.com^
 ||analytics.makesyoufluent.com^
 ||analytics.mangolanguages.com^
 ||analytics.manjaro.org^
