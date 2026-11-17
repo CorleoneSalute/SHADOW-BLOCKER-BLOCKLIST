@@ -41,6 +41,7 @@ cdn-sa.pagesense.io
 cdn-sg.pagesense.io
 cdn.pagesense.io
 zohotagmanager.cdn.pagesense.io
+pagesense-hb-collect.zoho.com
 analytics.cs.zohohost.com
 
 # CRAFT
