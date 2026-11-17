@@ -1,6 +1,6 @@
 # ============================================================
 # DIGITAL WALLET PAYMENT PROCESSOR BLOCKLIST - BASIC
-# Total domains: 69
+# Total domains: 70
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -43,6 +43,7 @@ logs.visabenefits.in1.juspay.io
 logs.visabenefits.me1.juspay.io
 logs.yesbank.upi.juspay.in
 meta-ads-connector.services.production.infinitepay.io
+metrics-collector.paypal.com
 metrics-tracking.revolut.com
 metrics.alipay.com
 metrics.squareup.com

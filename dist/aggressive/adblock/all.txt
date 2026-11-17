@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11308
+# Total domains: 11309
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6531,6 +6531,7 @@
 ||metrics-china-ic2.icloud.com^
 ||metrics-china-ic3.icloud.com^
 ||metrics-china-ic4.icloud.com^
+||metrics-collector.paypal.com^
 ||metrics-config-ic1.icloud.com^
 ||metrics-config-ic2.icloud.com^
 ||metrics-config-ic3.icloud.com^

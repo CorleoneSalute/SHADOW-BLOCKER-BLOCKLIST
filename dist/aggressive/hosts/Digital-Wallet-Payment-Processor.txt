@@ -1,6 +1,6 @@
 # ============================================================
 # DIGITAL WALLET PAYMENT PROCESSOR BLOCKLIST - AGGRESSIVE
-# Total domains: 74
+# Total domains: 75
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -45,6 +45,7 @@
 0.0.0.0 logs.visabenefits.me1.juspay.io
 0.0.0.0 logs.yesbank.upi.juspay.in
 0.0.0.0 meta-ads-connector.services.production.infinitepay.io
+0.0.0.0 metrics-collector.paypal.com
 0.0.0.0 metrics-tracking.revolut.com
 0.0.0.0 metrics.alipay.com
 0.0.0.0 metrics.squareup.com
