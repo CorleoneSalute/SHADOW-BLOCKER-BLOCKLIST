@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10805
+# Total domains: 10807
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5419,6 +5419,8 @@ ios.logs.prod.cvshealth.com
 ios.metrics.prod.cvshealth.com
 ios.shouji.sogou.com
 iosads24.adcolony.com
+iot-cn-logser.realme.com
+iot-ru-logser.realme.com
 ipcheck0.jdownloader.org
 ipds.opr.adx.opera.com
 ipgrabber.ru

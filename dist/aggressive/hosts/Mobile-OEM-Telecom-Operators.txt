@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1146
+# Total domains: 1148
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -554,6 +554,8 @@
 0.0.0.0 india.activity.browser.intl.miui.com
 0.0.0.0 info.analysis.kp.sec.miui.com
 0.0.0.0 intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com
+0.0.0.0 iot-cn-logser.realme.com
+0.0.0.0 iot-ru-logser.realme.com
 0.0.0.0 ip-info.ff.avast.sec.miui.com
 0.0.0.0 juads.vmall.com
 0.0.0.0 kernellog.browser.oppomobile.com

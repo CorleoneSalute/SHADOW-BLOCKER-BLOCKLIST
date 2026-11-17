@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1095
+# Total domains: 1097
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -518,6 +518,8 @@
 ||india.activity.browser.intl.miui.com^
 ||info.analysis.kp.sec.miui.com^
 ||intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com^
+||iot-cn-logser.realme.com^
+||iot-ru-logser.realme.com^
 ||juads.vmall.com^
 ||kernellog.browser.oppomobile.com^
 ||kernellogf.browser.oppomobile.com^

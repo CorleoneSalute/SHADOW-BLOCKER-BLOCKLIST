@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11300
+# Total domains: 11302
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5665,6 +5665,8 @@ ios.logs.prod.cvshealth.com
 ios.metrics.prod.cvshealth.com
 ios.shouji.sogou.com
 iosads24.adcolony.com
+iot-cn-logser.realme.com
+iot-ru-logser.realme.com
 ip-geolocation.apple.com
 ip-geolocation.v.aaplimg.com
 ip-info.ff.avast.sec.miui.com
