@@ -1,6 +1,6 @@
 # ============================================================
 # SMART TV BLOCKLIST - AGGRESSIVE
-# Total domains: 572
+# Total domains: 573
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -28,6 +28,7 @@
 0.0.0.0 ad.nettvservices.com
 0.0.0.0 ad.nextlgsdp.com
 0.0.0.0 ad.samsungadhub.com
+0.0.0.0 ad360.jpn.panasonic.com
 0.0.0.0 ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
 0.0.0.0 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
 0.0.0.0 adapi.tivo.com

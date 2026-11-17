@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11274
+# Total domains: 11275
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -345,6 +345,7 @@
 0.0.0.0 ad3.gtie.dell.com
 0.0.0.0 ad3.reddit.com
 0.0.0.0 ad3.sina.com.cn
+0.0.0.0 ad360.jpn.panasonic.com
 0.0.0.0 ad7.biz
 0.0.0.0 ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
 0.0.0.0 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv

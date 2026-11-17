@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10779
+# Total domains: 10780
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -326,6 +326,7 @@ ad2.watchporn.to
 ad3.gtie.dell.com
 ad3.reddit.com
 ad3.sina.com.cn
+ad360.jpn.panasonic.com
 ad7.biz
 ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
