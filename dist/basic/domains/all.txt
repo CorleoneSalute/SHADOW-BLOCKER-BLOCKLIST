@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10815
+# Total domains: 10813
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2959,7 +2959,6 @@ btl.sharethrough.com
 btloader.com
 btlr.sharethrough.com
 bttrack.com
-bttracker.debian.org
 bug.kaspersky.com
 bugfender.com
 bugreport.pt.xiaomi.com
@@ -6399,6 +6398,7 @@ metrics.globo.com
 metrics.glow.co
 metrics.gnome.org
 metrics.gnosischain.com
+metrics.godard.debian.org
 metrics.hbomax.com
 metrics.helloalma.com
 metrics.helloclue.com
@@ -8311,7 +8311,6 @@ secure.quantserve.com
 secure.report.iss.xiaomi.com
 security-analytics.geoedge.com
 security-metrics.infra.owhealth.com
-security-tracker.debian.org
 security.adikteev.com
 security.remerge.io
 securityreviver.com
@@ -9711,7 +9710,6 @@ tracker.api.gnome.org
 tracker.apple.com
 tracker.baidu.com
 tracker.core.ac.uk
-tracker.debian.org
 tracker.doodstream.com
 tracker.gaana.com
 tracker.getsbet.ro

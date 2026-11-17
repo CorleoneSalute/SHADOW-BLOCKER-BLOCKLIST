@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11310
+# Total domains: 11308
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3043,7 +3043,6 @@
 ||btlr.sharethrough.com^
 ||btrack.bswe.apple.com^
 ||bttrack.com^
-||bttracker.debian.org^
 ||bug.kaspersky.com^
 ||bugfender.com^
 ||bugreport.pt.xiaomi.com^
@@ -6677,6 +6676,7 @@
 ||metrics.glow.co^
 ||metrics.gnome.org^
 ||metrics.gnosischain.com^
+||metrics.godard.debian.org^
 ||metrics.hbomax.com^
 ||metrics.helloalma.com^
 ||metrics.helloclue.com^
@@ -8701,7 +8701,6 @@
 ||securemvt.v.aaplimg.com^
 ||security-analytics.geoedge.com^
 ||security-metrics.infra.owhealth.com^
-||security-tracker.debian.org^
 ||security.adikteev.com^
 ||security.remerge.io^
 ||securityreviver.com^
@@ -10154,7 +10153,6 @@
 ||tracker.apple.com^
 ||tracker.baidu.com^
 ||tracker.core.ac.uk^
-||tracker.debian.org^
 ||tracker.doodstream.com^
 ||tracker.gaana.com^
 ||tracker.getsbet.ro^

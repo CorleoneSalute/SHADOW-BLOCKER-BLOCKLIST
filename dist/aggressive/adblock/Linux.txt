@@ -1,6 +1,6 @@
 # ============================================================
 # LINUX BLOCKLIST - AGGRESSIVE
-# Total domains: 75
+# Total domains: 73
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -18,7 +18,6 @@
 ||analytics.ubuntu.com^
 ||analytics.zorinos.com^
 ||api.pkgstats.archlinux.de^
-||bttracker.debian.org^
 ||build-metrics.getsol.us^
 ||clr.telemetry.intel.com^
 ||crash.elementary.io^
@@ -40,6 +39,7 @@
 ||metrics-api.manjaro.org^
 ||metrics.altlinux.org^
 ||metrics.gnome.org^
+||metrics.godard.debian.org^
 ||metrics.manjaro.org^
 ||metrics.opensuse.org^
 ||metrics.snapcraft.io^
@@ -52,7 +52,6 @@
 ||popcon.ubuntu.com^
 ||retrace.fedoraproject.org^
 ||rpi-imager-stats.raspberrypi.com^
-||security-tracker.debian.org^
 ||sentry.adelielinux.org^
 ||sentry.cloudlinux.com^
 ||sentry.system76.com^
@@ -73,7 +72,6 @@
 ||telemetry.ubuntu.com^
 ||telemetry.zorinos.com^
 ||tracker.api.gnome.org^
-||tracker.debian.org^
 ||tracker.gnome.org^
 ||tracker.kali.org^
 ||tracker.opensuse.org^
