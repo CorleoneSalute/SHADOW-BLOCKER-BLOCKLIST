@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11294
+# Total domains: 11300
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4174,6 +4174,12 @@
 ||dianomi.com^
 ||dianomi.de^
 ||dianomioffers.co.uk^
+||digdag.brave-aafb42b.v2.analytics.mng.nintendo.net^
+||digdag.brave-prod.v2.analytics.mng.nintendo.net^
+||digdag.fuji-e98be01.v2.analytics.mng.nintendo.net^
+||digdag.fuji-prod.v2.analytics.mng.nintendo.net^
+||digdag.rb-9606420.v2.analytics.mng.nintendo.net^
+||digdag.rb-prod.v2.analytics.mng.nintendo.net^
 ||digdug-g2.logs.roku.com^
 ||digdug.logs.roku.com^
 ||digiad.in^

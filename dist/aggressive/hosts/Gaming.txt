@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 100
+# Total domains: 106
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -37,6 +37,12 @@
 0.0.0.0 cross-promote-cdn.weplayer.cc
 0.0.0.0 cross-promote-sdk.weplayer.cc
 0.0.0.0 crosspromotion.weplayer.cc
+0.0.0.0 digdag.brave-aafb42b.v2.analytics.mng.nintendo.net
+0.0.0.0 digdag.brave-prod.v2.analytics.mng.nintendo.net
+0.0.0.0 digdag.fuji-e98be01.v2.analytics.mng.nintendo.net
+0.0.0.0 digdag.fuji-prod.v2.analytics.mng.nintendo.net
+0.0.0.0 digdag.rb-9606420.v2.analytics.mng.nintendo.net
+0.0.0.0 digdag.rb-prod.v2.analytics.mng.nintendo.net
 0.0.0.0 errorservice.metrics.ea.com
 0.0.0.0 events.telemetry.data.nvidia.com
 0.0.0.0 galaxy-log.gog.com
