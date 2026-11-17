@@ -340,6 +340,7 @@ log0-misc-lq.amemv.com
 log0-misc-alinc2.amemv.com
 log3-misc-lq.amemv.com
 log5-misc-lq.amemv.com
+log5-misc.amemv.com
 ```
 
 **tiktokv.com rtlog* (Real-Time Log)** (46 domain)
