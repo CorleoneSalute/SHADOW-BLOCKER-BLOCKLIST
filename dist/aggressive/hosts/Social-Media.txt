@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 817
+# Total domains: 818
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -530,6 +530,7 @@
 0.0.0.0 p3-ad-aweme.byteimg.com
 0.0.0.0 p3-ad-sign.byteimg.com
 0.0.0.0 p3-flow-imagex-sign.byteimg.com
+0.0.0.0 p6-ad-sign.byteimg.com
 0.0.0.0 p6-flow-imagex-sign.byteimg.com
 0.0.0.0 p66-ad.adkwai.com.v1.kwaiselfcdn.com
 0.0.0.0 pangolin.snssdk.com

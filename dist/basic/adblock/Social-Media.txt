@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 783
+# Total domains: 784
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -499,6 +499,7 @@
 ||p3-ad-aweme.byteimg.com^
 ||p3-ad-sign.byteimg.com^
 ||p3-flow-imagex-sign.byteimg.com^
+||p6-ad-sign.byteimg.com^
 ||p6-flow-imagex-sign.byteimg.com^
 ||p66-ad.adkwai.com.v1.kwaiselfcdn.com^
 ||pangolin.snssdk.com^
