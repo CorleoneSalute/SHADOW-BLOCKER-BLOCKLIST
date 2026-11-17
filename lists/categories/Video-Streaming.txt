@@ -78,6 +78,8 @@ analytics-ingress-apac.bitmovin.com
 metrics.bitmovin.com
 telemetry.bitmovin.com
 ads.bitmovin.com
+analytics.mcp.bitmovin.com
+analytics.bitmovin.com
 
 # --- JW Player Tracking ---
 jwpltx.com
