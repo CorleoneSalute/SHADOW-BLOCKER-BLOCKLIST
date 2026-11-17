@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11276
+# Total domains: 11278
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -612,10 +612,12 @@ ads-ttp2.tiktokw.eu
 ads-ttp2.us.tiktok.com
 ads-twitter.com
 ads-twitter.com.sci-hub.tw
+ads-uo.api.leiniao.com
 ads-us-east-1.delivery.roku.com
 ads-us-east-2.delivery.roku.com
 ads-us-west-2.delivery.roku.com
 ads-useast2a.tiktok.com
+ads-ut.api.leiniao.com
 ads-v-darwin.hulu.com
 ads-v.reddit.com
 ads.1muslimapp.com
