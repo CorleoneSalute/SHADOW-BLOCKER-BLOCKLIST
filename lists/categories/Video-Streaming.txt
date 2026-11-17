@@ -286,6 +286,7 @@ tracking.hbomax.com
 analytics.max.com
 metrics.max.com
 telemetry.max.com
+cf.logs.prd.media.max.com
 analytics.discoveryplus.com
 metrics.discoveryplus.com
 
