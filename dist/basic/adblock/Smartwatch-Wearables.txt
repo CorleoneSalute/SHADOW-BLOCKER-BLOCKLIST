@@ -1,6 +1,6 @@
 # ============================================================
 # SMARTWATCH WEARABLES BLOCKLIST - BASIC
-# Total domains: 29
+# Total domains: 30
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -15,6 +15,7 @@
 ||analytics.samsunghealth.com^
 ||analytics.samsungknowledge.com^
 ||api-analytics-cn.huami.com^
+||api-analytics-us.huami.com^
 ||api-analytics.huami.com^
 ||app-analytics-cn3.zepp.com^
 ||app-analytics.huami.com^

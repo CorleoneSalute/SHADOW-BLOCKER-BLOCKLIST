@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11285
+# Total domains: 11286
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2312,6 +2312,7 @@
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 api-advertiser.linkvertise.com
 0.0.0.0 api-analytics-cn.huami.com
+0.0.0.0 api-analytics-us.huami.com
 0.0.0.0 api-analytics.bird.co
 0.0.0.0 api-analytics.huami.com
 0.0.0.0 api-analytics.samsungknox.com
