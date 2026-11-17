@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 450
+# Total domains: 451
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -156,6 +156,7 @@
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cdn-analytics.bamgrid.com
 0.0.0.0 cdn-analytics.pluto.tv
+0.0.0.0 cf.logs.prd.media.max.com
 0.0.0.0 channels-analytics.amazon.com
 0.0.0.0 channels-metrics.primevideo.com
 0.0.0.0 chartbeat.com

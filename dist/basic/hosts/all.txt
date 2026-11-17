@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10793
+# Total domains: 10794
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3293,6 +3293,7 @@
 0.0.0.0 cesinthi.com
 0.0.0.0 cetrk.com
 0.0.0.0 cf.iadsdk.apple.com
+0.0.0.0 cf.logs.prd.media.max.com
 0.0.0.0 cfjump.com
 0.0.0.0 ch-info-lgsmartad-com.aws-prd.net
 0.0.0.0 ch-rdx2-lgtvsdp-com.aws-prd.net

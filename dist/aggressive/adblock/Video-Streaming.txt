@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 496
+# Total domains: 497
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -165,6 +165,7 @@
 ||cdn-analytics.hulu.com^
 ||cdn-analytics.pluto.tv^
 ||cdn-telemetry.netflix.com^
+||cf.logs.prd.media.max.com^
 ||channel-analytics.pluto.tv^
 ||channels-analytics.amazon.com^
 ||channels-metrics.primevideo.com^
