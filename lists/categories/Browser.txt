@@ -219,6 +219,7 @@ logssug.ucweb.com
 ucads.ucweb.com
 ucads-static.ucweb.com
 meta-ucads.ucweb.com
+log.union.ucweb.com
 
 # BAIDU BROWSER
 hm.baidu.com
