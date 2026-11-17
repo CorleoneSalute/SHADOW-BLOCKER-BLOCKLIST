@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 494
+# Total domains: 496
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -79,6 +79,7 @@ analytics.airtv.net
 analytics.api.brightcove.com
 analytics.bilibili.com
 analytics.binge.com.au
+analytics.bitmovin.com
 analytics.blim.com
 analytics.britbox.com
 analytics.canalplus.com
@@ -105,6 +106,7 @@ analytics.jwplayer.com
 analytics.kaltura.com
 analytics.kidoodle.tv
 analytics.max.com
+analytics.mcp.bitmovin.com
 analytics.means.tv
 analytics.movistarplus.es
 analytics.mubi.com

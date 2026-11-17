@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10786
+# Total domains: 10788
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1470,6 +1470,7 @@
 0.0.0.0 analytics.bis.sie.sony.com
 0.0.0.0 analytics.bitdefender.com
 0.0.0.0 analytics.bitly.com
+0.0.0.0 analytics.bitmovin.com
 0.0.0.0 analytics.blacknut.com
 0.0.0.0 analytics.blim.com
 0.0.0.0 analytics.blocksapp.io
@@ -1768,6 +1769,7 @@
 0.0.0.0 analytics.max.com
 0.0.0.0 analytics.maximumsettings.com
 0.0.0.0 analytics.maya.live
+0.0.0.0 analytics.mcp.bitmovin.com
 0.0.0.0 analytics.mealime.com
 0.0.0.0 analytics.means.tv
 0.0.0.0 analytics.medic.chat

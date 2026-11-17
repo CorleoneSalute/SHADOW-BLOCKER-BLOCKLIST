@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 448
+# Total domains: 450
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -73,6 +73,7 @@
 ||analytics.api.brightcove.com^
 ||analytics.bilibili.com^
 ||analytics.binge.com.au^
+||analytics.bitmovin.com^
 ||analytics.blim.com^
 ||analytics.britbox.com^
 ||analytics.canalplus.com^
@@ -99,6 +100,7 @@
 ||analytics.kaltura.com^
 ||analytics.kidoodle.tv^
 ||analytics.max.com^
+||analytics.mcp.bitmovin.com^
 ||analytics.means.tv^
 ||analytics.movistarplus.es^
 ||analytics.mubi.com^

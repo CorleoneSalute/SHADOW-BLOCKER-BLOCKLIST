@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11281
+# Total domains: 11283
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1519,6 +1519,7 @@ analytics.bird.co
 analytics.bis.sie.sony.com
 analytics.bitdefender.com
 analytics.bitly.com
+analytics.bitmovin.com
 analytics.blacknut.com
 analytics.blim.com
 analytics.blocksapp.io
@@ -1817,6 +1818,7 @@ analytics.mavidahealth.com
 analytics.max.com
 analytics.maximumsettings.com
 analytics.maya.live
+analytics.mcp.bitmovin.com
 analytics.mealime.com
 analytics.means.tv
 analytics.medic.chat
