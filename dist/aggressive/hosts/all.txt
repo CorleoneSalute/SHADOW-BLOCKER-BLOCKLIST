@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11309
+# Total domains: 11310
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7527,6 +7527,7 @@
 0.0.0.0 pagead.adx.ams.op-mobile.opera.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 pagesense-hb-collect.zoho.com
 0.0.0.0 pagesense.io
 0.0.0.0 paid.outbrain.com
 0.0.0.0 pangle.io

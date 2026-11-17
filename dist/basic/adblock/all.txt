@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10814
+# Total domains: 10815
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7220,6 +7220,7 @@
 ||pagead.adx.ams.op-mobile.opera.com^
 ||pagead2.googlesyndication.com^
 ||pagead46.l.doubleclick.net^
+||pagesense-hb-collect.zoho.com^
 ||pagesense.io^
 ||paid.outbrain.com^
 ||pangle.io^

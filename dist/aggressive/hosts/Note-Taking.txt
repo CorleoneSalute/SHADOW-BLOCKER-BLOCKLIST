@@ -1,6 +1,6 @@
 # ============================================================
 # NOTE TAKING BLOCKLIST - AGGRESSIVE
-# Total domains: 28
+# Total domains: 29
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -29,6 +29,7 @@
 0.0.0.0 euc-onenote-telemetry.officeapps.live.com
 0.0.0.0 evernotemetrics.com
 0.0.0.0 metrics.evernote.com
+0.0.0.0 pagesense-hb-collect.zoho.com
 0.0.0.0 pagesense.io
 0.0.0.0 track.goodnotes.com
 0.0.0.0 zohoinsights.com
