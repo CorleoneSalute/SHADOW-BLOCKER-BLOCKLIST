@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11286
+# Total domains: 11287
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2615,6 +2615,7 @@
 0.0.0.0 app.log.watchporn.to
 0.0.0.0 app.mobidea.com
 0.0.0.0 app.mybid.io
+0.0.0.0 app.npf-argus.analytics.mng.nintendo.net
 0.0.0.0 app.onclicka.com
 0.0.0.0 app.push.house
 0.0.0.0 app.pushground.com

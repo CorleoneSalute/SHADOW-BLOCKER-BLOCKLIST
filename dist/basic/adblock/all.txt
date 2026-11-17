@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10791
+# Total domains: 10792
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2554,6 +2554,7 @@
 ||app.log.watchporn.to^
 ||app.mobidea.com^
 ||app.mybid.io^
+||app.npf-argus.analytics.mng.nintendo.net^
 ||app.onclicka.com^
 ||app.push.house^
 ||app.pushground.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - BASIC
-# Total domains: 94
+# Total domains: 95
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -30,6 +30,7 @@
 0.0.0.0 analytics.store-jp.nintendo.com
 0.0.0.0 analytics.xbox-interactive.com
 0.0.0.0 api.xlogs.nvidia.com
+0.0.0.0 app.npf-argus.analytics.mng.nintendo.net
 0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 clk.ubi.com
 0.0.0.0 cross-promote-cdn.weplayer.cc
