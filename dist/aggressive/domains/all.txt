@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11302
+# Total domains: 11304
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5962,6 +5962,8 @@ log-api.pangolin-sdk-toutiao.com
 log-boot.tiktokv.com
 log-collector.svctr.zynga.com
 log-config.samsungacr.com
+log-dr19-normal-alisg.tiktokv.com
+log-dr19-normal.tiktokv.com
 log-dra.platform.hihonorcloud.com
 log-drcn.platform.hihonorcloud.com
 log-dre.platform.hihonorcloud.com

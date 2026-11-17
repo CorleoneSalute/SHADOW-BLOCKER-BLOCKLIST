@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10807
+# Total domains: 10809
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5687,6 +5687,8 @@
 0.0.0.0 log-boot.tiktokv.com
 0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 log-config.samsungacr.com
+0.0.0.0 log-dr19-normal-alisg.tiktokv.com
+0.0.0.0 log-dr19-normal.tiktokv.com
 0.0.0.0 log-dra.platform.hihonorcloud.com
 0.0.0.0 log-drcn.platform.hihonorcloud.com
 0.0.0.0 log-dre.platform.hihonorcloud.com
