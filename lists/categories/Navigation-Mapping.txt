@@ -36,6 +36,7 @@ crash.mapbox.com
 
 # TOMTOM
 appanalytics.tomtom.com
+analytics.mep.tomtom.com
 
 # MOOVIT
 ads.moovit.com
