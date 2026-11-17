@@ -48,6 +48,7 @@ kyson.ad.daum.net
 stat.tiara.g.daum.net
 stat.tiara.kakao.com
 track.tiara.daum.net
+log.dic.daum.net
 
 ## CYBERLINK (PowerDVD)
 crash.cyberlink.com
