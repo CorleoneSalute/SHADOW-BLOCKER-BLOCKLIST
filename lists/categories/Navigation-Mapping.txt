@@ -1,6 +1,6 @@
 # NAVIGATION & MAPPING BLOCKLIST
 
-# Total domains: 51
+# Total domains: 52
 # Last update: 2026/11/17
 # Note: trailing "!" marks a domain as aggressive-only
 

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10789
+# Total domains: 10790
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1777,6 +1777,7 @@
 ||analytics.megawinslots.com^
 ||analytics.meitu.com^
 ||analytics.memrise.com^
+||analytics.mep.tomtom.com^
 ||analytics.metawin.us^
 ||analytics.mindbodyonline.com^
 ||analytics.mixedinkey.com^

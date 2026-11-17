@@ -1,6 +1,6 @@
 # ============================================================
 # NAVIGATION MAPPING BLOCKLIST - AGGRESSIVE
-# Total domains: 51
+# Total domains: 52
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -33,6 +33,7 @@ analytics-event.kakao.com
 analytics.komoot.com
 analytics.mapbox.com
 analytics.maps.me
+analytics.mep.tomtom.com
 analytics.moovit.com
 analytics.naver.com
 analytics.waze.com

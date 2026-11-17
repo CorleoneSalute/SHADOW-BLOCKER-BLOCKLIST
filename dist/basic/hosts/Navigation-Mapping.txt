@@ -1,6 +1,6 @@
 # ============================================================
 # NAVIGATION MAPPING BLOCKLIST - BASIC
-# Total domains: 51
+# Total domains: 52
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -33,6 +33,7 @@
 0.0.0.0 analytics.komoot.com
 0.0.0.0 analytics.mapbox.com
 0.0.0.0 analytics.maps.me
+0.0.0.0 analytics.mep.tomtom.com
 0.0.0.0 analytics.moovit.com
 0.0.0.0 analytics.naver.com
 0.0.0.0 analytics.waze.com
