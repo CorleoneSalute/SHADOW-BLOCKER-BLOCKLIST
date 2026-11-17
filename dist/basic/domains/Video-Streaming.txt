@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 447
+# Total domains: 448
 # Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -25,6 +25,7 @@ ad-metrics.espn.com
 ad.9tv.co.il
 ad.aniu.tv
 ad.cp68.ott.cibntv.net
+ad.iqiyi.com
 ad.mobile.youku.com
 adgen-cdn.connatix.com
 adgen.connatix.com
