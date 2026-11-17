@@ -310,6 +310,9 @@ usage-eu-fy2019.myhomescreen.tv
 usage-eu-fy2020.myhomescreen.tv
 usage-eu-fy2021.myhomescreen.tv
 usage-eu-fy2022.myhomescreen.tv
+collect-jp-fy2017.myhomescreen.tv
+collect-jp-fy2020.myhomescreen.tv
+collect-jp-fy2021.myhomescreen.tv
 vindicosuite.com
 x2.vindicosuite.com
 
