@@ -1,7 +1,7 @@
 # ============================================================
 # ANTIVIRUS BLOCKLIST - BASIC
 # Total domains: 77
-# Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
+# Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 

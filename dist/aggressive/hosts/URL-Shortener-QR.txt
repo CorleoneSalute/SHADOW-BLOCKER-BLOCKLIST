@@ -1,11 +1,12 @@
 # ============================================================
 # URL SHORTENER QR BLOCKLIST - AGGRESSIVE
-# Total domains: 312
-# Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
+# Total domains: 316
+# Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 0.0.0.0 1ty.me
+0.0.0.0 2ad.ir
 0.0.0.0 2s.ms
 0.0.0.0 acconpit.com
 0.0.0.0 aciterar.com
@@ -14,6 +15,7 @@
 0.0.0.0 activeterium.com
 0.0.0.0 ad-server.linkvertise.com
 0.0.0.0 adf.ly
+0.0.0.0 adku.link
 0.0.0.0 adlock.org
 0.0.0.0 admylink.com
 0.0.0.0 ads-preview.linkvertise.com
@@ -21,7 +23,9 @@
 0.0.0.0 ads.shorte.st
 0.0.0.0 ads.tinu.be
 0.0.0.0 adshrink.it
+0.0.0.0 adslinks.site
 0.0.0.0 adult.xyz
+0.0.0.0 adurly.cc
 0.0.0.0 advertiser.linkvertise.com
 0.0.0.0 agileurbia.com
 0.0.0.0 alturl.com

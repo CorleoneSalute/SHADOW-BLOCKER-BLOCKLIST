@@ -1,7 +1,7 @@
 # ============================================================
 # URL SHORTENER QR BLOCKLIST - BASIC
-# Total domains: 276
-# Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
+# Total domains: 279
+# Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -13,11 +13,14 @@
 ||activeterium.com^
 ||ad-server.linkvertise.com^
 ||adf.ly^
+||adku.link^
 ||ads-preview.linkvertise.com^
 ||ads.rebrandly.com^
 ||ads.shorte.st^
 ||ads.tinu.be^
+||adslinks.site^
 ||adult.xyz^
+||adurly.cc^
 ||advertiser.linkvertise.com^
 ||agileurbia.com^
 ||alturl.com^

@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11310
-# Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
+# Total domains: 11314
+# Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -26,6 +26,7 @@
 ||1rx.io^
 ||1ty.me^
 ||247realmedia.com^
+||2ad.ir^
 ||2o7.net^
 ||2s.ms^
 ||33across.com^
@@ -459,6 +460,7 @@
 ||adktrack72.xyz^
 ||adktrack82.xyz^
 ||adktrack84.xyz^
+||adku.link^
 ||adlabz.co^
 ||adleave.com^
 ||adlock.org^
@@ -975,6 +977,7 @@
 ||adskeeper.net^
 ||adsl.watchporn.to^
 ||adsld.link^
+||adslinks.site^
 ||adsmanager.truecaller.com^
 ||adsmarket.com^
 ||adsmarketplace.com^
@@ -1041,6 +1044,7 @@
 ||adult.xyz^
 ||adultfriendfinder.com^
 ||adup-tech.com^
+||adurly.cc^
 ||adv.l7.34.sec.miui.com^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^

@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10815
-# Generated: 2026-11-17 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10818
+# Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -438,6 +438,7 @@
 ||adktrack72.xyz^
 ||adktrack82.xyz^
 ||adktrack84.xyz^
+||adku.link^
 ||adlabz.co^
 ||adleave.com^
 ||adlocus.com^
@@ -936,6 +937,7 @@
 ||adskeeper.net^
 ||adsl.watchporn.to^
 ||adsld.link^
+||adslinks.site^
 ||adsmanager.truecaller.com^
 ||adsmarket.com^
 ||adsmarketplace.com^
@@ -1000,6 +1002,7 @@
 ||adult.xyz^
 ||adultfriendfinder.com^
 ||adup-tech.com^
+||adurly.cc^
 ||adv.l7.34.sec.miui.com^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
