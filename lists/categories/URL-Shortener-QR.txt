@@ -36,7 +36,7 @@ analytics.s.id
 lihi1.com !
 lihi3.cc !
 
-# --- TIER 4 - ADF.LY NETWORK --- (147 domain)
+# ADF.LY NETWORK --- (147 domain)
 adf.ly
 j.gs
 q.gs
@@ -412,6 +412,10 @@ cutwin.com !
 smoner.com !
 uskip.me !
 exee.io !
+2ad.ir !
+adku.link
+adslinks.site
+adurly.cc
 
 # --- SURVEY SCAM AND IDENTITY PHISHING --- (5 domain)
 linksfly.me 
