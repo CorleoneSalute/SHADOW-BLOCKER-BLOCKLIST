@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2478
-# Total platforms: 393
+# Total platforms: 399
 # Last update: 2026/11/13
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3594,3 +3594,43 @@ adelivery.se
 # adselect.net ⚠️ untrusted video reward platform
 
 adselect.net
+
+# adssend.net
+
+adssend.net
+
+# Adt ad serving
+
+adt356.com
+adt328.com
+adt357.net
+adt361.com
+adt511.net
+adt512.com
+adt523.net
+adt532.com
+adt545.net
+adt567.net
+adt574.com
+adt598.com
+
+# Advartiso
+
+advartiso.com
+
+# Phoenix Advanced Softwares Pvt. Ltd.
+
+phoenixsoftwares.in
+phoenixads.co.in
+phoenixads.net
+adsenhance.com
+adsclk.com
+vyom.co.in
+
+# web3ads.net
+
+web3ads.net
+
+# web3ads.ai
+
+web3ads.ai
