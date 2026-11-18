@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 497
+# Total domains: 499
 # Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -282,6 +282,7 @@
 0.0.0.0 log.mgtv.net
 0.0.0.0 log.tving.com
 0.0.0.0 log.usrdata.uums.cibn.cc
+0.0.0.0 logger.stardrama.tv
 0.0.0.0 logging.bamgrid.com
 0.0.0.0 logging.netflix.com
 0.0.0.0 logs.hulu.com
@@ -411,6 +412,7 @@
 0.0.0.0 sdk.conviva.com
 0.0.0.0 sentry.clients.nowtv.it
 0.0.0.0 sentry.justwatch.com
+0.0.0.0 sentry.voka.tv
 0.0.0.0 service-ad-impression-proxy.clusters.pluto.tv
 0.0.0.0 settings-analytics.hotstar.com
 0.0.0.0 sgtm.elofizetek.canalplus.com

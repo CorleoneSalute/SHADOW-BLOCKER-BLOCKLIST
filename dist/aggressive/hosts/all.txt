@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11336
+# Total domains: 11338
 # Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6205,6 +6205,7 @@
 0.0.0.0 logger.reddit.com
 0.0.0.0 logger.sciencedirect.com
 0.0.0.0 logger.scite.ai
+0.0.0.0 logger.stardrama.tv
 0.0.0.0 logger.streamguys1.com
 0.0.0.0 logger.streamyard.com
 0.0.0.0 logger.watchporn.to
@@ -8807,6 +8808,7 @@
 0.0.0.0 sentry.tidio.co
 0.0.0.0 sentry.tools.element.io
 0.0.0.0 sentry.vodafone.com.tr
+0.0.0.0 sentry.voka.tv
 0.0.0.0 sentry.work.ink
 0.0.0.0 sentry.xinchenai.com
 0.0.0.0 sentry.zopim.com
