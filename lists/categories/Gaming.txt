@@ -9,6 +9,9 @@ telemetry.riotgames.com
 analytics.riotgames.com
 metrics.riotgames.com
 ekg.riotgames.com ! # ⚠️ Vanguard anti-cheat and game client health check (heartbeat) endpoint. Blocking may cause Vanguard launch errors and prevent login.
+as.telemetry.h5.wildrift.leagueoflegends.com
+eu.telemetry.h5.wildrift.leagueoflegends.com
+na.telemetry.h5.wildrift.leagueoflegends.com
 
 # HOYOVERSE / MIHOYO
 log-upload.mihoyo.com
