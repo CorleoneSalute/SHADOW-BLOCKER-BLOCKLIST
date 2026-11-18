@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11338
+# Total domains: 11340
 # Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1417,6 +1417,7 @@ analytics-augs.adobe.com
 analytics-bridge.pokerist.com
 analytics-bridge01.pokerist.com
 analytics-cdn.obefitness.com
+analytics-cfe.webex.com
 analytics-dc.of.tv
 analytics-embedded.cloud.vewd.com
 analytics-event.kakao.com
@@ -1433,6 +1434,7 @@ analytics-ingress-apac.bitmovin.com
 analytics-ingress-eu.bitmovin.com
 analytics-ingress-global.bitmovin.com
 analytics-ingress-us.bitmovin.com
+analytics-int.webex.com
 analytics-ipv6.tiktokw.us
 analytics-iq.com
 analytics-labs.adobe.com
