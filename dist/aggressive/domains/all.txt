@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11340
+# Total domains: 11341
 # Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6600,6 +6600,7 @@ metrics-r.wbx2.com
 metrics-sbg.o.webex.com
 metrics-sentry-prod.cvshealth.com
 metrics-sentry.cvshealth.com
+metrics-service.prod.netflix.net
 metrics-svc-ext.msg.t-mobile.com
 metrics-svc-ext.t-mobile.com
 metrics-target.siriusxm.com

@@ -1,6 +1,6 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 499
+# Total domains: 500
 # Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -291,6 +291,7 @@ logs.of.tv
 lstat.youku.com
 marketing.mgtv.net
 metric.brightcove.com
+metrics-service.prod.netflix.net
 metrics.abema.tv
 metrics.binge.com.au
 metrics.bitmovin.com

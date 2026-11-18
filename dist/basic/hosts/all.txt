@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10844
+# Total domains: 10845
 # Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6321,6 +6321,7 @@
 0.0.0.0 metrics-sbg.o.webex.com
 0.0.0.0 metrics-sentry-prod.cvshealth.com
 0.0.0.0 metrics-sentry.cvshealth.com
+0.0.0.0 metrics-service.prod.netflix.net
 0.0.0.0 metrics-svc-ext.msg.t-mobile.com
 0.0.0.0 metrics-svc-ext.t-mobile.com
 0.0.0.0 metrics-target.siriusxm.com
