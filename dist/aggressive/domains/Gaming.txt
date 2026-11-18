@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 106
+# Total domains: 109
 # Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -31,6 +31,7 @@ analytics.store-jp.nintendo.com
 analytics.xbox-interactive.com
 api.xlogs.nvidia.com
 app.npf-argus.analytics.mng.nintendo.net
+as.telemetry.h5.wildrift.leagueoflegends.com
 beacons.xboxlive.com
 client-telemetry.roblox.com
 clk.ubi.com
@@ -44,6 +45,7 @@ digdag.fuji-prod.v2.analytics.mng.nintendo.net
 digdag.rb-9606420.v2.analytics.mng.nintendo.net
 digdag.rb-prod.v2.analytics.mng.nintendo.net
 errorservice.metrics.ea.com
+eu.telemetry.h5.wildrift.leagueoflegends.com
 events.telemetry.data.nvidia.com
 galaxy-log.gog.com
 insights-collector.gog.com
@@ -62,6 +64,7 @@ metrics.roblox.com
 metrics.shadow.tech
 metrics.telemetry.data.nvidia.com
 metrics.teleport.nvidia.com
+na.telemetry.h5.wildrift.leagueoflegends.com
 orbit-telemetry.ubi.com
 overseauspider.yuanshen.com
 prod.log.uswdc01.shadow.tech

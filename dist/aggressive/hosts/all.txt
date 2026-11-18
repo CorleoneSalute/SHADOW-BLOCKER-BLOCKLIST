@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11341
+# Total domains: 11344
 # Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2699,6 +2699,7 @@
 0.0.0.0 array-bid.applovin.com
 0.0.0.0 artaunt.com
 0.0.0.0 artilleryads.com
+0.0.0.0 as.telemetry.h5.wildrift.leagueoflegends.com
 0.0.0.0 asapp.navdmp.com
 0.0.0.0 asia-abeacdataonrt-stsdk.vivoglobal.com
 0.0.0.0 asia-abeacdataort-stsdk.vivoglobal.com
@@ -4547,6 +4548,7 @@
 0.0.0.0 eu.mar.medallia.com
 0.0.0.0 eu.mouseflow.com
 0.0.0.0 eu.smartlook.cloud
+0.0.0.0 eu.telemetry.h5.wildrift.leagueoflegends.com
 0.0.0.0 eu.telemetry.zoomconnector.com
 0.0.0.0 eu.uxcam.com
 0.0.0.0 eu7-info-lgsmartad-com.aws-prd.net
@@ -7193,6 +7195,7 @@
 0.0.0.0 na-data.kameleoon.eu
 0.0.0.0 na-data.kameleoon.io
 0.0.0.0 na-eb2.3lift.com
+0.0.0.0 na.telemetry.h5.wildrift.leagueoflegends.com
 0.0.0.0 na1.fullstory.com
 0.0.0.0 nadvideo2.baidu.com
 0.0.0.0 nadvideocm.baidu.com

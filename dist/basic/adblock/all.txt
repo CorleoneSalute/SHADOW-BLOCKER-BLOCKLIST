@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10845
+# Total domains: 10848
 # Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2636,6 +2636,7 @@
 ||array-bid.applovin.com^
 ||artaunt.com^
 ||artilleryads.com^
+||as.telemetry.h5.wildrift.leagueoflegends.com^
 ||asapp.navdmp.com^
 ||asia-abeacdataonrt-stsdk.vivoglobal.com^
 ||asia-abeacdataort-stsdk.vivoglobal.com^
@@ -4394,6 +4395,7 @@
 ||eu.mar.medallia.com^
 ||eu.mouseflow.com^
 ||eu.smartlook.cloud^
+||eu.telemetry.h5.wildrift.leagueoflegends.com^
 ||eu.telemetry.zoomconnector.com^
 ||eu.uxcam.com^
 ||eu7-info-lgsmartad-com.aws-prd.net^
@@ -6909,6 +6911,7 @@
 ||na-data.kameleoon.eu^
 ||na-data.kameleoon.io^
 ||na-eb2.3lift.com^
+||na.telemetry.h5.wildrift.leagueoflegends.com^
 ||na1.fullstory.com^
 ||nadvideo2.baidu.com^
 ||nadvideocm.baidu.com^
