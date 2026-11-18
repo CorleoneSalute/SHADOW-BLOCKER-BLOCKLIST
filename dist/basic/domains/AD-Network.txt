@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2468
+# Total domains: 2490
 # Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -265,9 +265,11 @@ adsafeprotected.com
 adsailor.com
 adsbase.ltd
 adsboost.net
+adsclk.com
 adsconflux.com
 adsdomaintracking.com
 adselect.net
+adsenhance.com
 adsensei.ai
 adserve.dianomi.com
 adserve.tv
@@ -320,6 +322,7 @@ adsrveys.com
 adsrvr.exponential.com
 adsrvr.org
 adssciences.com
+adssend.net
 adstat.pro
 adstats.ai
 adsterra.com
@@ -329,6 +332,18 @@ adsupplyexchange.com
 adswad.com
 adswizz.com
 adsxpress.de
+adt328.com
+adt356.com
+adt357.net
+adt361.com
+adt511.net
+adt512.com
+adt523.net
+adt532.com
+adt545.net
+adt567.net
+adt574.com
+adt598.com
 adtapmedia.com
 adtec.ru
 adtech.de
@@ -345,6 +360,7 @@ adtrck.pro
 adtryx.com
 adup-tech.com
 advads.net
+advartiso.com
 advertice.in
 advertise.quantcast.com
 advertiser-api.revcontent.com
@@ -1625,6 +1641,9 @@ perion-one-i.undertone.com
 perion.com
 perkswall.com
 pf.fluct.jp
+phoenixads.co.in
+phoenixads.net
+phoenixsoftwares.in
 ping-hk.taboola.com
 pinkads.org
 pips.taboola.com
@@ -2345,12 +2364,15 @@ vungle-cdn.vungle.com
 vungle.com
 vuwepseo.com
 vx.liftoff.io
+vyom.co.in
 w.ligatus.com
 watwait.com
 wave.outbrain.com
 wd.adcolony.com
 wearecontext.com
 web.adblade.com
+web3ads.ai
+web3ads.net
 webads.com
 webads.es
 webads.eu

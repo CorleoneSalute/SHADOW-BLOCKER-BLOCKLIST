@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10818
+# Total domains: 10840
 # Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -867,6 +867,7 @@ adsassets.waze.com
 adsbase.ltd
 adsboost.net
 adscdn.baidu.com
+adsclk.com
 adscms.mdn.sbz.apple.com
 adscms.msc.sbz.apple.com
 adsconfig.life360.com
@@ -879,6 +880,7 @@ adseaimg.apusapps.com
 adsehera.ximalaya.com
 adselect.net
 adselfserve.bright.md
+adsenhance.com
 adsense.bright.md
 adsensei.ai
 adserv.reddit.com
@@ -969,6 +971,7 @@ adsrveys.com
 adsrvr.exponential.com
 adsrvr.org
 adssciences.com
+adssend.net
 adstat.pro
 adstats.ai
 adsterra.com
@@ -983,6 +986,18 @@ adswizz.com
 adsxpress.de
 adsymptotic.com
 adsync.vodafone.com.eg
+adt328.com
+adt356.com
+adt357.net
+adt361.com
+adt511.net
+adt512.com
+adt523.net
+adt532.com
+adt545.net
+adt567.net
+adt574.com
+adt598.com
 adtapmedia.com
 adtec.ru
 adtech.de
@@ -1015,6 +1030,7 @@ advancedpasswordmanager.com
 advancedpccleanup.com
 advancedsystemoptimizer.com
 advancemactools.live
+advartiso.com
 advert.uloz.to
 advertape.net
 advertice.in
@@ -7325,6 +7341,9 @@ pf.fluct.jp
 ph-info-lgsmartad-com.aws-prd.net
 pheecith.com
 phoenix360.iolo.com
+phoenixads.co.in
+phoenixads.net
+phoenixsoftwares.in
 pi.ias.xiaomi.com
 pi.reddit.com
 pi.subsplash.com
@@ -10408,6 +10427,7 @@ vungle-cdn.vungle.com
 vungle.com
 vuwepseo.com
 vx.liftoff.io
+vyom.co.in
 w.clarity.ms
 w.ligatus.com
 w1.luckyorange.com
@@ -10448,6 +10468,8 @@ web.metrics.prod.cvshealth.com
 web.uxcam.com
 web1.adf.ly
 web3.adf.ly
+web3ads.ai
+web3ads.net
 webads.com
 webads.es
 webads.eu

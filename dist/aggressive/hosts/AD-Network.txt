@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2478
+# Total domains: 2500
 # Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -265,10 +265,12 @@
 0.0.0.0 adsailor.com
 0.0.0.0 adsbase.ltd
 0.0.0.0 adsboost.net
+0.0.0.0 adsclk.com
 0.0.0.0 adsconflux.com
 0.0.0.0 adsctv.com
 0.0.0.0 adsdomaintracking.com
 0.0.0.0 adselect.net
+0.0.0.0 adsenhance.com
 0.0.0.0 adsensei.ai
 0.0.0.0 adserve.dianomi.com
 0.0.0.0 adserve.tv
@@ -321,6 +323,7 @@
 0.0.0.0 adsrvr.exponential.com
 0.0.0.0 adsrvr.org
 0.0.0.0 adssciences.com
+0.0.0.0 adssend.net
 0.0.0.0 adstat.pro
 0.0.0.0 adstats.ai
 0.0.0.0 adsterra.com
@@ -330,6 +333,18 @@
 0.0.0.0 adswad.com
 0.0.0.0 adswizz.com
 0.0.0.0 adsxpress.de
+0.0.0.0 adt328.com
+0.0.0.0 adt356.com
+0.0.0.0 adt357.net
+0.0.0.0 adt361.com
+0.0.0.0 adt511.net
+0.0.0.0 adt512.com
+0.0.0.0 adt523.net
+0.0.0.0 adt532.com
+0.0.0.0 adt545.net
+0.0.0.0 adt567.net
+0.0.0.0 adt574.com
+0.0.0.0 adt598.com
 0.0.0.0 adtapmedia.com
 0.0.0.0 adtec.ru
 0.0.0.0 adtech.de
@@ -346,6 +361,7 @@
 0.0.0.0 adtryx.com
 0.0.0.0 adup-tech.com
 0.0.0.0 advads.net
+0.0.0.0 advartiso.com
 0.0.0.0 advertice.in
 0.0.0.0 advertise.quantcast.com
 0.0.0.0 advertiser-api.revcontent.com
@@ -1632,6 +1648,9 @@
 0.0.0.0 perion.com
 0.0.0.0 perkswall.com
 0.0.0.0 pf.fluct.jp
+0.0.0.0 phoenixads.co.in
+0.0.0.0 phoenixads.net
+0.0.0.0 phoenixsoftwares.in
 0.0.0.0 ping-hk.taboola.com
 0.0.0.0 pinkads.org
 0.0.0.0 pips.taboola.com
@@ -2354,12 +2373,15 @@
 0.0.0.0 vungle.com
 0.0.0.0 vuwepseo.com
 0.0.0.0 vx.liftoff.io
+0.0.0.0 vyom.co.in
 0.0.0.0 w.ligatus.com
 0.0.0.0 watwait.com
 0.0.0.0 wave.outbrain.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 wearecontext.com
 0.0.0.0 web.adblade.com
+0.0.0.0 web3ads.ai
+0.0.0.0 web3ads.net
 0.0.0.0 webads.com
 0.0.0.0 webads.es
 0.0.0.0 webads.eu
