@@ -541,6 +541,14 @@ collector.ai.arte.tv
 grafana-logs-mgmt.infra-cloud1.arte.tv
 otel-collector-mgmt.infra-priv-cloud1.arte.tv
 
+# StarDrama
+
+logger.stardrama.tv
+
+# VOKA
+
+sentry.voka.tv
+
 # ============================================================
 # SPORT STREAMING
 # ============================================================
