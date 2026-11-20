@@ -5462,6 +5462,7 @@ analytics-lgs.corebridgefinancial.com
 analytics-nssl.bradyid.com
 analytics-prd.aws.wehaa.net
 analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
+analytics-prod.pubgen.org
 analytics-prod2.glance-internal.inmobi.com
 analytics-production.hapyak.com
 analytics-proxy.springboard.com
@@ -9283,21 +9284,26 @@ cdn-rum.ngenix.net
 cdn-sitegainer.com
 cdn-vitals.com
 cdn.9gtb.com
+cdn.a9f3k7z2m1.com
 cdn.arcstudiopro.com
 cdn.c-i.as
 cdn.debugbear.com
 cdn.dfsdk.com
 cdn.eaec.fpfis.tech.ec.europa.eu
 cdn.ltba.io
+cdn.m2z7r9k4p1.com
 cdn.net.dz.jumia.com
 cdn.net.elogia.net
 cdn.polarbyte.com
 cdn.prod.euid.eu
+cdn.q4x8n6b2t5.com
 cdn.ravm.tv
 cdn.seonintelligence.com
 cdn.sy-d.io
+cdn.t2037ulzqct5.com
 cdn.usefathom.com
 cdn.visits.dqapis.com
+cdn.x7k9m2q4z8r1.com
 cdn1.skrill.com
 cdn7.baunetz.de
 cdnhst.xyz
@@ -10353,6 +10359,7 @@ connecttest.arubanetworks.com
 connectvet.rossu.edu
 connectwithus.cetera.com
 connext-cdn.azureedge.net
+connext-fd-gnbrate4fjhjb3f7.z01.azurefd.net
 consciouschairs.com
 consciouscheese.com
 consciousremnant.com
@@ -12055,6 +12062,7 @@ dd.g2.com
 dd.garena.com
 dd.leboncoin.fr
 dd.nytimes.com
+dd.reuters.com
 dd.seloger-bureaux-commerces.com
 dd.seloger.com
 dd.selogerneuf.com
@@ -14572,6 +14580,7 @@ eventos.emkt.ingressorapido.com.br
 eventos.mirecweek.com
 eventos.ubmmexico.com
 eventos.usj.es
+eventpiper.vlcapi.net
 events-endpoint.pointandplace.com
 events-ingestion-helpcenter.services.gorgias.help
 events-logs.doctolib.com
@@ -15377,6 +15386,7 @@ fortbeach.com
 forter.com
 fortunatemark.com
 fortvision.com
+fortyninemaps.com
 forwardslashetc.com
 fossilzero.com
 fotbollskanalen.se
@@ -15757,6 +15767,7 @@ g1thub.com
 g2048.rgluk.com
 g2575096355.co
 g2insights-cdn.azureedge.net
+g2insights-fd-a0gpgwa4fycxd9d4.z01.azurefd.net
 g4p.redtram.com
 g594253006.co
 g792337340.co
@@ -17785,6 +17796,7 @@ id.nbcuni.com
 idbkfy.kango-roo.com
 iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
+ideamornings.com
 ideas.nanawall.com
 identification.hotmart.com
 identitymind.com
@@ -20850,6 +20862,7 @@ libraryvalue.com
 librato-collector.genius.com
 libstat.com
 licensinginsights.ascap.com
+lidsmarket.com
 liecso.e-himart.co.kr
 lieudetravail.ricoh.fr
 lifecoverdirect.com
@@ -39354,9 +39367,6 @@ sxjfhh.vcstar.com
 sxmxpm.nectarsleep.com
 sxp.allianz.de
 sxwxswg8z1xe.www.arnowebtv.com
-sy.ameba.jp
-sy.amebame.com
-sy.ameblo.jp
 sy57d8wi.com
 syfwnf.society6.com
 sygrip.info
@@ -45119,7 +45129,6 @@ view.fujitv.co.jp
 view.kirbybuildingsystems.com
 view.metlspan.com
 view.nucorbuildingsystems.com
-view.publitas.com
 viewar.org
 viewer.pandasuite.io
 viewresource.com
