@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11421
+# Total domains: 11422
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7975,6 +7975,7 @@
 0.0.0.0 prod-event-relay-sports-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-stocks-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-weather-api.v.aaplimg.com
+0.0.0.0 prod-event-relay-web-api.v.aaplimg.com
 0.0.0.0 prod-mediate-events.applovin.com
 0.0.0.0 prod-ms.applovin.com
 0.0.0.0 prod-news-notification-events.v.aaplimg.com
