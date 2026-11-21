@@ -259,6 +259,7 @@ sf-ssp.tiktokcdn-us.com.edgesuite.net
 sf-ssp.tiktokcdn.com
 sf-ssp.tiktokcdn.com.edgesuite.net
 sf-ssp.tiktokcdn.com.ttdns2.com
+sf-ssp.tiktokcdn.com
 ```
 
 **tiktokv.com log* (App Log)** (70 domain)
@@ -732,6 +733,7 @@ finderlog.volces.com
 analytics.snssdk.com.bytedns1.com
 metrics-producer-proxy-asia-south-eastbd.byteglb.com
 abtestvm.bytedance.com !
+log0-applog-lq.ixigua.com.bytedns3.com
 ```
 
 **Monitoring** (1 domain)
