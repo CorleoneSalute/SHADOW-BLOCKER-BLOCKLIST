@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11376
+# Total domains: 11377
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4156,6 +4156,7 @@
 ||defencebyte.net^
 ||deferred-deeplink.adikteev.com^
 ||deferred-deeplink.remerge.io^
+||deliveranceads.com^
 ||delivery.adikteev.com^
 ||delivery.adswizz.com^
 ||delivery.remerge.io^

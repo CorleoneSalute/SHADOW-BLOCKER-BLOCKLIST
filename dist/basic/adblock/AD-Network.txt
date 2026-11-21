@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2500
+# Total domains: 2501
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1002,6 +1002,7 @@
 ||decenterads.com^
 ||deepads.ru^
 ||deepintent.com^
+||deliveranceads.com^
 ||delivery.adswizz.com^
 ||delvr.iga.com.au^
 ||demand.connectad.io^

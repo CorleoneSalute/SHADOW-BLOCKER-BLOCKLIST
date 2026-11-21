@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10880
+# Total domains: 10881
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -4036,6 +4036,7 @@
 0.0.0.0 defencebyte.net
 0.0.0.0 deferred-deeplink.adikteev.com
 0.0.0.0 deferred-deeplink.remerge.io
+0.0.0.0 deliveranceads.com
 0.0.0.0 delivery.adikteev.com
 0.0.0.0 delivery.adswizz.com
 0.0.0.0 delivery.remerge.io

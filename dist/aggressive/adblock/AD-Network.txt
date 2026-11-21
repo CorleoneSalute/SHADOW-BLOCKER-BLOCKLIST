@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2510
+# Total domains: 2511
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1006,6 +1006,7 @@
 ||decenterads.com^
 ||deepads.ru^
 ||deepintent.com^
+||deliveranceads.com^
 ||delivery.adswizz.com^
 ||delvr.iga.com.au^
 ||demand.connectad.io^
