@@ -1233,6 +1233,13 @@ yscyadx072901.minigame.vip
 yscyadx072902.minigame.vip
 ```
 
+# XCloudPhone Technology and Solutions LLC
+
+otel.next.xcloudphone.com
+webrtc-telemetry.next.xcloudphone.com
+otel.xcloudphone.net
+webrtc-telemetry.xcloudphone.net
+
 ## US Telecom Operators (17 domain)
 
 ### ATT (6 domain)
