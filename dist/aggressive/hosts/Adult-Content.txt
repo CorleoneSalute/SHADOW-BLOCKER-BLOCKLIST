@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - AGGRESSIVE
-# Total domains: 142
+# Total domains: 143
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -35,6 +35,7 @@
 0.0.0.0 advertising.watchporn.to
 0.0.0.0 analytic.watchporn.to
 0.0.0.0 analytics-sandbox.sxyprn.co
+0.0.0.0 analytics.adultload.ws
 0.0.0.0 analytics.boyfriend.show
 0.0.0.0 analytics.cambaddies.com
 0.0.0.0 analytics.fikfapcams.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10904
+# Total domains: 10905
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1458,6 +1458,7 @@
 ||analytics.adinmo.com^
 ||analytics.admix.in^
 ||analytics.adobe.com^
+||analytics.adultload.ws^
 ||analytics.aerial.is^
 ||analytics.airtv.net^
 ||analytics.aiva.ai^

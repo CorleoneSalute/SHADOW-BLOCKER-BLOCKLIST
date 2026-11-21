@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11400
+# Total domains: 11401
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1508,6 +1508,7 @@ analytics.add.app
 analytics.adinmo.com
 analytics.admix.in
 analytics.adobe.com
+analytics.adultload.ws
 analytics.aerial.is
 analytics.airtv.net
 analytics.aiva.ai
