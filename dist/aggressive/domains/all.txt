@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11349
+# Total domains: 11352
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7286,6 +7286,9 @@ notify.bugsnag.com
 notify.bugsnag.smartbear.com
 notify.firetv.bugsnag.appstore.a2z.com
 notld-analytics.dp.lightricks.com
+nova-ads.fun
+novaads.com.mx
+novaads.io
 npaw.com
 nqs-apac.youbora.com
 nqs-eu.youbora.com

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10853
+# Total domains: 10856
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6998,6 +6998,9 @@
 0.0.0.0 notify.bugsnag.smartbear.com
 0.0.0.0 notify.firetv.bugsnag.appstore.a2z.com
 0.0.0.0 notld-analytics.dp.lightricks.com
+0.0.0.0 nova-ads.fun
+0.0.0.0 novaads.com.mx
+0.0.0.0 novaads.io
 0.0.0.0 npaw.com
 0.0.0.0 nqs-apac.youbora.com
 0.0.0.0 nqs-eu.youbora.com

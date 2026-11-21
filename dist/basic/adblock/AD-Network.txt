@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2490
+# Total domains: 2493
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1553,6 +1553,9 @@
 ||nextroll.com^
 ||nichools.com^
 ||notifications-gke-sdk-bidding-a.fyber.com^
+||nova-ads.fun^
+||novaads.com.mx^
+||novaads.io^
 ||nr-events-il.taboola.com^
 ||nr-events-la.taboola.com^
 ||nr.taboola.com^
