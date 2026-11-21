@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11403
+# Total domains: 11406
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2306,6 +2306,7 @@
 0.0.0.0 analyticsdr.otsuka-us.com
 0.0.0.0 analyticshub.services.swiftkey.com
 0.0.0.0 analyticshub.swiftkey.com
+0.0.0.0 analyticsmaxbet.maxbet.ro
 0.0.0.0 analyze.watchporn.to
 0.0.0.0 andata.ist.apple.com
 0.0.0.0 andhrajyothy.com
@@ -10154,6 +10155,7 @@
 0.0.0.0 track.m.nothing.tech
 0.0.0.0 track.mail.muslimpro.com
 0.0.0.0 track.marketgid.com
+0.0.0.0 track.maxbet.ro
 0.0.0.0 track.maya.live
 0.0.0.0 track.mayhem.cbssports.com
 0.0.0.0 track.me.eu.panasonic.com
@@ -10228,6 +10230,7 @@
 0.0.0.0 track2.vodafone.com.au
 0.0.0.0 trackedevt.1rx.io
 0.0.0.0 tracker-novembers-347342.appspot.com
+0.0.0.0 tracker-pm2.maxbet.ro
 0.0.0.0 tracker-preview.ai.xiaomi.com
 0.0.0.0 tracker-preview.xiaomixiaoai.com
 0.0.0.0 tracker-server.high-cdn.com

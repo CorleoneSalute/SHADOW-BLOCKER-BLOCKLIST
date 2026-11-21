@@ -1,6 +1,6 @@
 # ============================================================
 # BETTING BLOCKLIST - BASIC
-# Total domains: 312
+# Total domains: 315
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -85,6 +85,7 @@
 ||analytics.scientificgames.com^
 ||analytics.thalesmarket.io^
 ||analytics.zynga.com^
+||analyticsmaxbet.maxbet.ro^
 ||api.analytics.gnosis.io^
 ||api.analytics.robin.markets^
 ||app.analytics.coinbase.com^
@@ -264,12 +265,14 @@
 ||track.hockey.cbssports.com^
 ||track.lider-bet.com^
 ||track.lottery.com^
+||track.maxbet.ro^
 ||track.mayhem.cbssports.com^
 ||track.plotx.io^
 ||track.poker.zynga.com^
 ||track.vbet.com^
 ||track.victorybet.ro^
 ||track.vip.5bet.com^
+||tracker-pm2.maxbet.ro^
 ||tracker.getsbet.ro^
 ||tracker.williamhill.com^
 ||tracking.bet-match.io^

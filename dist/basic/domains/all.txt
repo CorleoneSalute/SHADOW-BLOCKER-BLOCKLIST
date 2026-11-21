@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10907
+# Total domains: 10910
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2255,6 +2255,7 @@ analyticsapi.aiva.ai
 analyticsdr.otsuka-us.com
 analyticshub.services.swiftkey.com
 analyticshub.swiftkey.com
+analyticsmaxbet.maxbet.ro
 analyze.watchporn.to
 andata.ist.apple.com
 andhrajyothy.com
@@ -9710,6 +9711,7 @@ track.lyrahealth.com
 track.m.nothing.tech
 track.mail.muslimpro.com
 track.marketgid.com
+track.maxbet.ro
 track.maya.live
 track.mayhem.cbssports.com
 track.me.eu.panasonic.com
@@ -9784,6 +9786,7 @@ track2.bidstack.com
 track2.vodafone.com.au
 trackedevt.1rx.io
 tracker-novembers-347342.appspot.com
+tracker-pm2.maxbet.ro
 tracker-preview.ai.xiaomi.com
 tracker-preview.xiaomixiaoai.com
 tracker-server.high-cdn.com
