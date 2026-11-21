@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11375
+# Total domains: 11376
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10269,6 +10269,7 @@
 ||tracking.awin.com^
 ||tracking.bark.co^
 ||tracking.befrugal.com^
+||tracking.bet-match.io^
 ||tracking.bet.buzz^
 ||tracking.bidstack.com^
 ||tracking.bitly.com^
