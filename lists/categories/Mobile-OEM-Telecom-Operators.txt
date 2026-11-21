@@ -504,6 +504,7 @@ ssp.xiaomi.com
 abtest-va-sg.data.mioffice.cn !
 monitor.pt.ai.xiaomi.com !
 sentry.pt.xiaomi.com
+mistat.xiaomi.com.mgslb.com
 ```
 
 ### Subdomain Finder (19 domain)
