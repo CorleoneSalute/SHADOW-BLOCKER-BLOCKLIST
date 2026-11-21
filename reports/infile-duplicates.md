@@ -1,6 +1,6 @@
 # In-File Duplicate Domain Report
 
-Generated: 2026-11-21 18:59 UTC
+Generated: 2026-11-21 19:11 UTC
 
 Domains that appear more than once within the SAME category
 file - usually a copy-paste mistake in a large file. The build
@@ -12,7 +12,7 @@ identical (same case, same trailing "!" flag). "no" means they
 differ - worth a closer look, since a mismatched "!" flag
 changes which tier the domain ends up in.
 
-9 duplicate domain(s) found across 2 file(s):
+10 duplicate domain(s) found across 3 file(s):
 
 ## AD-Network
 
@@ -32,4 +32,10 @@ changes which tier the domain ends up in.
 | Domain | Lines | Exact match |
 |---|---|---|
 | adv.wfpj.freefiremobile.com | 181, 182 | yes |
+
+## Messaging
+
+| Domain | Lines | Exact match |
+|---|---|---|
+| ads.discord.com | 68, 71 | yes |
 

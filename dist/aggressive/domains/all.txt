@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11410
+# Total domains: 11417
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -587,6 +587,10 @@ ads-bdapi-th.heytapmobile.com
 ads-bdapi-vn.heytapmobile.com
 ads-bidder-api.twitter.com
 ads-bidstrade.io
+ads-billing-discord-com.s3.amazonaws.com
+ads-billing-discord.s3.amazonaws.com
+ads-billing.discord.com.s3.amazonaws.com
+ads-billing.discord.s3.amazonaws.com
 ads-canary.pinterest.com
 ads-cf-us-east-1.delivery.roku.com
 ads-cf-us-west-2.delivery.roku.com
@@ -702,6 +706,7 @@ ads.cozi.com
 ads.crunchyroll.com
 ads.de
 ads.deezer.com
+ads.discord.com
 ads.disneyplus.com
 ads.districtm.ca
 ads.dygdigital.com
@@ -2319,6 +2324,7 @@ androidads4-3.adcolony.com
 androidads4-5.adcolony.com
 androidads4-7.adcolony.com
 androidads4-8.adcolony.com
+androiddiag.discord.com
 androidtvwatsonfe-pa.googleapis.com
 aniview-diag-server.1rx.io
 aniview.com
@@ -7517,6 +7523,7 @@ otel.next.xcloudphone.com
 otel.observability.app.launchdarkly.com
 otel.xcloudphone.net
 otel.zba-prod.k8s.zattoo.com
+otelcol.discord.com
 oth.dt00.net
 oth.dt07.net
 oth.mgid.com

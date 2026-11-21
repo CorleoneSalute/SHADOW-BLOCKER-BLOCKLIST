@@ -1,19 +1,25 @@
 # ============================================================
 # MESSAGING BLOCKLIST - AGGRESSIVE
-# Total domains: 39
+# Total domains: 46
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 0.0.0.0 a.line.me
 0.0.0.0 ad-feedback.line-apps.com
+0.0.0.0 ads-billing-discord-com.s3.amazonaws.com
+0.0.0.0 ads-billing-discord.s3.amazonaws.com
+0.0.0.0 ads-billing.discord.com.s3.amazonaws.com
+0.0.0.0 ads-billing.discord.s3.amazonaws.com
 0.0.0.0 ads-d.integration.viber.com
 0.0.0.0 ads-d.viber.com
 0.0.0.0 ads.cdn.viber.com
+0.0.0.0 ads.discord.com
 0.0.0.0 ads.line.me
 0.0.0.0 ads.viber.com
 0.0.0.0 analytics.rocket.chat
 0.0.0.0 analytics.viber.com
+0.0.0.0 androiddiag.discord.com
 0.0.0.0 collector.jaeger.matrix.org
 0.0.0.0 collector.rocket.chat
 0.0.0.0 crashlogs.whatsapp.net
@@ -31,6 +37,7 @@
 0.0.0.0 matterlytics.com
 0.0.0.0 mixpanel.cdn.viber.com
 0.0.0.0 o64374.ingest.sentry.io
+0.0.0.0 otelcol.discord.com
 0.0.0.0 pdat.matterlytics.com
 0.0.0.0 pixel.messenger.com
 0.0.0.0 point-ads.line-apps.com

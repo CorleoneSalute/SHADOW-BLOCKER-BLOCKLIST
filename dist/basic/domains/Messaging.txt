@@ -1,15 +1,20 @@
 # ============================================================
 # MESSAGING BLOCKLIST - BASIC
-# Total domains: 36
+# Total domains: 42
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
 a.line.me
 ad-feedback.line-apps.com
+ads-billing-discord-com.s3.amazonaws.com
+ads-billing-discord.s3.amazonaws.com
+ads-billing.discord.com.s3.amazonaws.com
+ads-billing.discord.s3.amazonaws.com
 ads-d.integration.viber.com
 ads-d.viber.com
 ads.cdn.viber.com
+ads.discord.com
 ads.line.me
 ads.viber.com
 analytics.rocket.chat
@@ -28,6 +33,7 @@ logstash-deployment-tracking.linecorp.com
 matterlytics.com
 mixpanel.cdn.viber.com
 o64374.ingest.sentry.io
+otelcol.discord.com
 pdat.matterlytics.com
 pixel.messenger.com
 point-ads.line-apps.com
