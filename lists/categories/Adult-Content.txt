@@ -256,3 +256,7 @@ xhamster.directory
 # RedGIFs
 
 metrics.redgifs.com
+
+# Adultload
+
+analytics.adultload.ws
