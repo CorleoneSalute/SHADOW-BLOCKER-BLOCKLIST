@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11377
+# Total domains: 11378
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1106,6 +1106,7 @@
 0.0.0.0 advertising.oath.com
 0.0.0.0 advertising.pandora.com
 0.0.0.0 advertising.roku.com
+0.0.0.0 advertising.soundcloud.com
 0.0.0.0 advertising.tivo.com
 0.0.0.0 advertising.twitter.com
 0.0.0.0 advertising.us-east-1.msc.roku.com
