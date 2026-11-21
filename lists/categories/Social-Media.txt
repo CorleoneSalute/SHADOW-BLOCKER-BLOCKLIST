@@ -983,11 +983,12 @@ rlog.9gag.com
 track.wattpad.com
 adz.wattpad.com
 kevel.wattpad.com
+ad-server.wattpad.com
 track.wattpadhq.com
 
 ## AGGRESSIVE LIST (24 domain)
 
-### TIKTOK / BYTEDANCE (24 domain)
+### TIKTOK / BYTEDANCE
 
 **Frontier (Push/Sync Pipeline)** (20 domain)
 
