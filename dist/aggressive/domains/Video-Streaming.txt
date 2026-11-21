@@ -1,10 +1,11 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 500
-# Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
+# Total domains: 501
+# Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+9vad.com
 ab-test.hulu.com
 abc3-log.tv360.vn
 abtest.netflix.com

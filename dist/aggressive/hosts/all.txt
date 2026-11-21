@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11344
-# Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
+# Total domains: 11345
+# Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -41,6 +41,7 @@
 0.0.0.0 7345023508.fxm9485766783.com
 0.0.0.0 7345023508.fxmconnect.com
 0.0.0.0 8e4c275e-fc8d-fde9-9c58-37dbf0125b6c-rum.cdnvideo.ru
+0.0.0.0 9vad.com
 0.0.0.0 a-ams-new.1rx.io
 0.0.0.0 a-iad3.1rx.io
 0.0.0.0 a-netstats-1.opera.com

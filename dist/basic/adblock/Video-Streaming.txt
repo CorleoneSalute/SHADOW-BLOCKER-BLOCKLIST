@@ -1,10 +1,11 @@
 # ============================================================
 # VIDEO STREAMING BLOCKLIST - BASIC
-# Total domains: 454
-# Generated: 2026-11-18 (UTC) - auto-generated, do not edit by hand
+# Total domains: 455
+# Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
+||9vad.com^
 ||abc3-log.tv360.vn^
 ||ad-analytics.bamgrid.com^
 ||ad-analytics.conviva.com^
