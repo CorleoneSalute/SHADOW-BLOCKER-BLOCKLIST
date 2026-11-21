@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10880
+# Total domains: 10879
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -9773,7 +9773,6 @@ tracker.doodstream.com
 tracker.gaana.com
 tracker.getsbet.ro
 tracker.gnome.org
-tracker.green-teatv.com
 tracker.gymshark.com
 tracker.iv.airpay.com.my
 tracker.iv.airpay.com.ph
