@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10926
+# Total domains: 10927
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1039,6 +1039,7 @@
 ||adurly.cc^
 ||adv-event-vodka.freefiremobile.com^
 ||adv.fg.freefiremobile.com^
+||adv.gin.freefiremobile.com^
 ||adv.l7.34.sec.miui.com^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
