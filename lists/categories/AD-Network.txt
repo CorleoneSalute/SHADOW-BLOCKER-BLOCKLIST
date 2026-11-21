@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2511
-# Total platforms: 402
+# Total platforms: 418
 # Last update: 2026/11/21
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3660,3 +3660,71 @@ ad.qq.com
 # Deliverance ADS
 
 deliveranceads.com
+
+# AdGrowth
+
+adgrowth.com
+
+# AdGrowth AB
+
+adgrowth.se
+
+# Adgrow
+
+adgrow.pro
+
+# Adgrowth
+
+adgrowth.com.au
+
+# Connection ADS
+
+connectionads.COM
+
+# ADX PRO
+
+adx-pro.com
+adxpro.agency
+adxpro.live
+
+# GoAdserver
+
+goadserver.com
+go-adserver.com
+
+# adcoffee.top
+
+adcoffee.top
+
+# ads.coffee
+
+ads.coffee
+
+# lz-pub-ads.com ⚠️ Web Spam / Spoofing
+
+lz-pub-ads.com
+
+# toplineads.com
+
+# topline.ad
+
+topline.ad
+
+# AdMeta
+
+admeta.network
+
+# Admeta AB
+
+admeta.com
+
+# PDrive (POWER DRIVE LLC)
+
+pdriveads.com
+pdrive-ads.com
+pdrivedsp.com
+adspdrive.com
+
+# Xingu Advertising GmbH
+
+xingu-ad.com
