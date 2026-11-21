@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 818
+# Total domains: 822
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -90,6 +90,7 @@
 0.0.0.0 advertising.9gag.com
 0.0.0.0 advertising.twitter.com
 0.0.0.0 adx.rtb.linkedin.com
+0.0.0.0 adz.wattpad.com
 0.0.0.0 affiliate.tiktok.com
 0.0.0.0 aka-ulog.kwai-pro.com
 0.0.0.0 alx.apac.rtb.linkedin.com
@@ -239,6 +240,7 @@
 0.0.0.0 itag.ads.linkedin.com
 0.0.0.0 k-ulog.kwai-pro.com
 0.0.0.0 k-ulog.kwaipros.com
+0.0.0.0 kevel.wattpad.com
 0.0.0.0 kwai-pro.com
 0.0.0.0 kwai.com
 0.0.0.0 kwai.net
@@ -768,6 +770,8 @@
 0.0.0.0 trac.reddit.com
 0.0.0.0 trac.thefacebook.com
 0.0.0.0 track.reddit.com
+0.0.0.0 track.wattpad.com
+0.0.0.0 track.wattpadhq.com
 0.0.0.0 tracker-novembers-347342.appspot.com
 0.0.0.0 tracker.reddit.com
 0.0.0.0 tracker.redditmedia.com

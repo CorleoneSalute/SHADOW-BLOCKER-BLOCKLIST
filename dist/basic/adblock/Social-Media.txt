@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 784
+# Total domains: 788
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -89,6 +89,7 @@
 ||advertising.9gag.com^
 ||advertising.twitter.com^
 ||adx.rtb.linkedin.com^
+||adz.wattpad.com^
 ||affiliate.tiktok.com^
 ||aka-ulog.kwai-pro.com^
 ||alx.apac.rtb.linkedin.com^
@@ -213,6 +214,7 @@
 ||itag.ads.linkedin.com^
 ||k-ulog.kwai-pro.com^
 ||k-ulog.kwaipros.com^
+||kevel.wattpad.com^
 ||lf16-adsformat-sign.tiktokcdn.com^
 ||lf19-adsformat-sign.tiktokcdn.com^
 ||live-player-log-service.bytedance.com.host^
@@ -737,6 +739,8 @@
 ||trac.reddit.com^
 ||trac.thefacebook.com^
 ||track.reddit.com^
+||track.wattpad.com^
+||track.wattpadhq.com^
 ||tracker-novembers-347342.appspot.com^
 ||tracker.reddit.com^
 ||tracker.redditmedia.com^

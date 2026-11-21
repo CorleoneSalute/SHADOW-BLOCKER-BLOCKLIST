@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11345
+# Total domains: 11349
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1183,6 +1183,7 @@ adx2.adform.net
 adxlog-adnet.vivo.com.cn
 adyoulike.com
 adyoulike.net
+adz.wattpad.com
 adz2you.net
 adzone.az
 adzone.live
@@ -5803,6 +5804,7 @@ kerish.org
 kerishproducts.com
 kernellog.browser.oppomobile.com
 kernellogf.browser.oppomobile.com
+kevel.wattpad.com
 keyadapter.com
 keybank.md-apis.medallia.com
 kializer.com
@@ -10165,6 +10167,8 @@ track.victorybet.ro
 track.vip.5bet.com
 track.vodafone.com.au
 track.wahoo.wahoofitness.com
+track.wattpad.com
+track.wattpadhq.com
 track.webgains.com
 track.winegifts.wine.com
 track.womanlog.com
