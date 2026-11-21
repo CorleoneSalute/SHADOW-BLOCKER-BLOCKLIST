@@ -1,7 +1,7 @@
 # BETTING BLOCKLIST
 
 # Total domains: 320
-# Total platforms: 109
+# Total platforms: 110
 # Last update: 2026/11/21
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -563,3 +563,9 @@ sgtm.unionbet.com
 # BetMatch (Bet match®)
 
 tracking.bet-match.io
+
+# MaxBet
+
+analyticsmaxbet.maxbet.ro
+track.maxbet.ro
+tracker-pm2.maxbet.ro
