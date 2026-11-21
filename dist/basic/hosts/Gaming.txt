@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - BASIC
-# Total domains: 114
+# Total domains: 115
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -15,6 +15,7 @@
 0.0.0.0 ads.faceit.com
 0.0.0.0 ads.roblox.com
 0.0.0.0 ads.rockstargames.com
+0.0.0.0 adv-event-vodka.freefiremobile.com
 0.0.0.0 adv.fg.freefiremobile.com
 0.0.0.0 adv.wfpj.freefiremobile.com
 0.0.0.0 advertise.faceit.com

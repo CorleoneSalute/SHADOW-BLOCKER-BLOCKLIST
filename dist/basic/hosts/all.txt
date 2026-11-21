@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10869
+# Total domains: 10870
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1021,6 +1021,7 @@
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 adup-tech.com
 0.0.0.0 adurly.cc
+0.0.0.0 adv-event-vodka.freefiremobile.com
 0.0.0.0 adv.fg.freefiremobile.com
 0.0.0.0 adv.l7.34.sec.miui.com
 0.0.0.0 adv.sec.intl.miui.com

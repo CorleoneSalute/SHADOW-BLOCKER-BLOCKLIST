@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11365
+# Total domains: 11366
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1063,6 +1063,7 @@
 ||adultfriendfinder.com^
 ||adup-tech.com^
 ||adurly.cc^
+||adv-event-vodka.freefiremobile.com^
 ||adv.fg.freefiremobile.com^
 ||adv.l7.34.sec.miui.com^
 ||adv.sec.intl.miui.com^
