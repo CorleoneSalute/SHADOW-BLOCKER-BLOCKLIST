@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10923
+# Total domains: 10924
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7021,6 +7021,7 @@
 0.0.0.0 nl-info-lgsmartad-com.aws-prd.net
 0.0.0.0 nl-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 nlbfee.com
+0.0.0.0 nlc-metrics.naver.com
 0.0.0.0 nlog.baidu.com
 0.0.0.0 nlvfee.com
 0.0.0.0 nlvpmt.com

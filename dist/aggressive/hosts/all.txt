@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11420
+# Total domains: 11421
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7310,6 +7310,7 @@
 0.0.0.0 nl-info-lgsmartad-com.aws-prd.net
 0.0.0.0 nl-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 nlbfee.com
+0.0.0.0 nlc-metrics.naver.com
 0.0.0.0 nlog.baidu.com
 0.0.0.0 nlvfee.com
 0.0.0.0 nlvpmt.com
