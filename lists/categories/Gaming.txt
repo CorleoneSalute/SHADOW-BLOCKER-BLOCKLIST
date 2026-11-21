@@ -165,3 +165,17 @@ advertise.faceit.com
 # 5EPlay
 
 tracker.5eplaycdn.com
+
+# Garena (Garena Online Pte Ltd)
+
+tracking.mbmtw.garena.com
+tracking.mg.garena.com
+tracking.security.garena.com
+tracking.speeddriftertw.garena.com
+ad.vpn.garena.vn
+logserver.garena.tw
+metrics.garena.tw
+tlog.moba.garena.tw
+adv.fg.freefiremobile.com
+adv.wfpj.freefiremobile.com
+adv.wfpj.freefiremobile.com
