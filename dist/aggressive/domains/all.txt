@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11419
+# Total domains: 11420
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6645,6 +6645,7 @@ metrics-producer-proxy-asia-south-eastbd.byteglb.com
 metrics-prom.perlego.com
 metrics-r.wbx2.com
 metrics-sbg.o.webex.com
+metrics-sbg.us-vaametp1.e60.prod.infra.webex.com
 metrics-sentry-prod.cvshealth.com
 metrics-sentry.cvshealth.com
 metrics-service.prod.netflix.net

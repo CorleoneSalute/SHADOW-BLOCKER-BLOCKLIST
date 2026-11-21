@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10922
+# Total domains: 10923
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6365,6 +6365,7 @@
 0.0.0.0 metrics-prom.perlego.com
 0.0.0.0 metrics-r.wbx2.com
 0.0.0.0 metrics-sbg.o.webex.com
+0.0.0.0 metrics-sbg.us-vaametp1.e60.prod.infra.webex.com
 0.0.0.0 metrics-sentry-prod.cvshealth.com
 0.0.0.0 metrics-sentry.cvshealth.com
 0.0.0.0 metrics-service.prod.netflix.net
