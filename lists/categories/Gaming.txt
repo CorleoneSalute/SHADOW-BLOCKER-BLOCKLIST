@@ -4,7 +4,7 @@
 # Last update: 2026/11/21
 # Note: trailing "!" marks a domain as aggressive-only
 
-# RIOT GAMES / VANGUARD
+# RIOT GAMES
 telemetry.riotgames.com
 analytics.riotgames.com
 metrics.riotgames.com
@@ -179,3 +179,4 @@ tlog.moba.garena.tw
 adv.fg.freefiremobile.com
 adv-event-vodka.freefiremobile.com
 adv.wfpj.freefiremobile.com
+adv.gin.freefiremobile.com
