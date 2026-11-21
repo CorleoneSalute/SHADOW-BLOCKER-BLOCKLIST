@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1097
+# Total domains: 1101
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -770,6 +770,8 @@
 ||ort-stsdk.vivoglobal.com^
 ||ort.stsdk.vivoglobal.com^
 ||osb-krsvc.samsungqbe.com^
+||otel.next.xcloudphone.com^
+||otel.xcloudphone.net^
 ||pi.ias.xiaomi.com^
 ||pixel.ad.intl.xiaomi.com^
 ||pnrt-stsdk.vivoglobal.com^
@@ -1063,6 +1065,8 @@
 ||vhs.wwstat.com.ctdns.cn^
 ||vhs.wwstat.com.eo.dnse0.com^
 ||vhs.wwstat.com.eo.unicomcdn.com.cn^
+||webrtc-telemetry.next.xcloudphone.com^
+||webrtc-telemetry.xcloudphone.net^
 ||wifi.ads.oppomobile.com^
 ||wtradv.market.xiaomi.com^
 ||ww25.ad.samsungadhub.com^

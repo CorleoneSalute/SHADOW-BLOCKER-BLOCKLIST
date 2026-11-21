@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11406
+# Total domains: 11410
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -7513,7 +7513,9 @@
 0.0.0.0 otel-collector.xenithpay.com
 0.0.0.0 otel-http.khealth.com
 0.0.0.0 otel.atmeta.com
+0.0.0.0 otel.next.xcloudphone.com
 0.0.0.0 otel.observability.app.launchdarkly.com
+0.0.0.0 otel.xcloudphone.net
 0.0.0.0 otel.zba-prod.k8s.zattoo.com
 0.0.0.0 oth.dt00.net
 0.0.0.0 oth.dt07.net
@@ -11039,6 +11041,8 @@
 0.0.0.0 webmaxy.co
 0.0.0.0 webmaxy.com
 0.0.0.0 webmaxy.io
+0.0.0.0 webrtc-telemetry.next.xcloudphone.com
+0.0.0.0 webrtc-telemetry.xcloudphone.net
 0.0.0.0 websights.zoominfo.com
 0.0.0.0 webstats.puri.sm
 0.0.0.0 webview.unityads.unity3d.com

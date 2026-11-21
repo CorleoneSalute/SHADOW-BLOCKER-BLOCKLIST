@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1148
+# Total domains: 1152
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -815,6 +815,8 @@
 0.0.0.0 ort-stsdk.vivoglobal.com
 0.0.0.0 ort.stsdk.vivoglobal.com
 0.0.0.0 osb-krsvc.samsungqbe.com
+0.0.0.0 otel.next.xcloudphone.com
+0.0.0.0 otel.xcloudphone.net
 0.0.0.0 pb.bi.gitv.tv
 0.0.0.0 pi.ias.xiaomi.com
 0.0.0.0 pixel.ad.intl.xiaomi.com
@@ -1113,6 +1115,8 @@
 0.0.0.0 vhs.wwstat.com.ctdns.cn
 0.0.0.0 vhs.wwstat.com.eo.dnse0.com
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
+0.0.0.0 webrtc-telemetry.next.xcloudphone.com
+0.0.0.0 webrtc-telemetry.xcloudphone.net
 0.0.0.0 wifi.ads.oppomobile.com
 0.0.0.0 wtradv.market.xiaomi.com
 0.0.0.0 ww25.ad.samsungadhub.com
