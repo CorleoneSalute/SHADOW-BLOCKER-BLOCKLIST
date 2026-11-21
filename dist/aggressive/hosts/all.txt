@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11423
+# Total domains: 11424
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -5631,6 +5631,7 @@
 0.0.0.0 in-ortb-api.ad.intl.xiaomi.com
 0.0.0.0 in-pnrt-stsdk.vivoglobal.com
 0.0.0.0 in-prt-stsdk.vivoglobal.com
+0.0.0.0 in-rt-stsdk.vivoglobal.com
 0.0.0.0 in-stsdk.vivoglobal.com
 0.0.0.0 in-vpushonrt-stsdk.vivoglobal.com
 0.0.0.0 in-vpushort-stsdk.vivoglobal.com

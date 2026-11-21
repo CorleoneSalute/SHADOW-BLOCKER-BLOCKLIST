@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1102
+# Total domains: 1103
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -512,6 +512,7 @@ in-ort-stsdk.vivoglobal.com
 in-ortb-api.ad.intl.xiaomi.com
 in-pnrt-stsdk.vivoglobal.com
 in-prt-stsdk.vivoglobal.com
+in-rt-stsdk.vivoglobal.com
 in-stsdk.vivoglobal.com
 in-vpushonrt-stsdk.vivoglobal.com
 in-vpushort-stsdk.vivoglobal.com
