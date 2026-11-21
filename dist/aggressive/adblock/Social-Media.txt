@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - AGGRESSIVE
-# Total domains: 822
+# Total domains: 823
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -19,6 +19,7 @@
 ||ad-instantpage-va.tiktokv.com^
 ||ad-instantpage.tiktokv.us^
 ||ad-risk.prt.kuaishou.com^
+||ad-server.wattpad.com^
 ||ad.linkedin-ei.com^
 ||ad.linkedin.com^
 ||ad.reddit.com^

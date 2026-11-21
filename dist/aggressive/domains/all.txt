@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11364
+# Total domains: 11365
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -228,6 +228,7 @@ ad-sdk.samsungapps.com
 ad-server.linkvertise.com
 ad-server.pluto.tv
 ad-server.samsungads.com
+ad-server.wattpad.com
 ad-server01.streamguys1.com
 ad-server02.streamguys1.com
 ad-srv.co

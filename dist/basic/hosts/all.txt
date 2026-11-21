@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10868
+# Total domains: 10869
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -209,6 +209,7 @@
 0.0.0.0 ad-sdk.samsungapps.com
 0.0.0.0 ad-server.linkvertise.com
 0.0.0.0 ad-server.samsungads.com
+0.0.0.0 ad-server.wattpad.com
 0.0.0.0 ad-server01.streamguys1.com
 0.0.0.0 ad-server02.streamguys1.com
 0.0.0.0 ad-srv.co

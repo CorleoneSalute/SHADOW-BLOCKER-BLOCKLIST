@@ -1,6 +1,6 @@
 # ============================================================
 # SOCIAL MEDIA BLOCKLIST - BASIC
-# Total domains: 788
+# Total domains: 789
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -18,6 +18,7 @@
 0.0.0.0 ad-instantpage-va.tiktokv.com
 0.0.0.0 ad-instantpage.tiktokv.us
 0.0.0.0 ad-risk.prt.kuaishou.com
+0.0.0.0 ad-server.wattpad.com
 0.0.0.0 ad.linkedin-ei.com
 0.0.0.0 ad.linkedin.com
 0.0.0.0 ad.reddit.com
