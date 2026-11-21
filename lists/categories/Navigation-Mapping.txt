@@ -64,6 +64,7 @@ analytics.naver.com
 localad.naver.com
 searchad.naver.com
 sentry2.whale.naver.com
+nlc-metrics.naver.com
 
 # KAKAO MAP
 track.kakao.com
