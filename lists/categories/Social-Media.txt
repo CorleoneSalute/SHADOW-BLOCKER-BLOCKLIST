@@ -259,7 +259,6 @@ sf-ssp.tiktokcdn-us.com.edgesuite.net
 sf-ssp.tiktokcdn.com
 sf-ssp.tiktokcdn.com.edgesuite.net
 sf-ssp.tiktokcdn.com.ttdns2.com
-sf-ssp.tiktokcdn.com
 ```
 
 **tiktokv.com log* (App Log)** (70 domain)
