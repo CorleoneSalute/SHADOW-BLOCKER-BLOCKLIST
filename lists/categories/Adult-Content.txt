@@ -69,6 +69,7 @@ collector.hamsx.digital
 collector.hamxcatalog.world
 collector.xhvid.com
 collector.xhbig.com
+collector.xhit.live
 
 # TXXX
 
