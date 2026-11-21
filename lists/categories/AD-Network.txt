@@ -1,7 +1,7 @@
 AD NETWORK BLOCKLIST 
 
 # Total domains: 2500
-# Total platforms: 399
+# Total platforms: 402
 # Last update: 2026/11/18
 # Note: trailing "!" marks a domain as aggressive-only
 
@@ -3634,3 +3634,15 @@ web3ads.net
 # web3ads.ai
 
 web3ads.ai
+
+# novaads.io
+
+novaads.io
+
+# novaads.com.mx
+
+novaads.com.mx
+
+# nova-ads.fun
+
+nova-ads.fun
