@@ -177,5 +177,6 @@ logserver.garena.tw
 metrics.garena.tw
 tlog.moba.garena.tw
 adv.fg.freefiremobile.com
+adv-event-vodka.freefiremobile.com
 adv.wfpj.freefiremobile.com
 adv.wfpj.freefiremobile.com
