@@ -190,6 +190,9 @@ vht.navdmp.com
 # THROTLE (Identity resolution)
 throtle.io
 
+# Kids Live Safe, LLC
+
+click.kidslivesafe.com
 
 MOBILE DATA BROKERS (Location Tracking)
 
