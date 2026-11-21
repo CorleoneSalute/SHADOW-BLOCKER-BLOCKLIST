@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11417
+# Total domains: 11419
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1466,6 +1466,7 @@ analytics-int.webex.com
 analytics-ipv6.tiktokw.us
 analytics-iq.com
 analytics-labs.adobe.com
+analytics-labs.ethos11-prod-va7.ethos.adobe.net
 analytics-lingo4g.dimensions.ai
 analytics-login.avg.com
 analytics-login.norton.com
@@ -2711,6 +2712,7 @@ appmetrika.yandex.ru
 appnexus.com
 apps.hivestack.com
 appservestar.com
+appservice-analytics-prod.ethos11-prod-or1.ethos.adobe.net
 appsflyer-events.vimeo.com
 appsflyer.flo.health
 appsignal-endpoint.net
