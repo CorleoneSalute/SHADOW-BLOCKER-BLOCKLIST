@@ -27,6 +27,7 @@ vb-ad-ak.video.tidal.com
 
 # SoundCloud
 ads.soundcloud.com
+advertising.soundcloud.com
 eventlogger.soundcloud.com
 events-api.soundcloud.com
 eventgateway.soundcloud.com
