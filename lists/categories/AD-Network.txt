@@ -3646,3 +3646,13 @@ novaads.com.mx
 # nova-ads.fun
 
 nova-ads.fun
+
+# Tencent Ads (腾讯广告)
+
+tencentads.com
+tencentads.cn
+tencentads.net
+tencentadx.com
+ads.tencent.com
+e.qq.com
+ad.qq.com
