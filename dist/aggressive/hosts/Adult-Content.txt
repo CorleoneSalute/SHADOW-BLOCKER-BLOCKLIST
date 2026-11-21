@@ -1,6 +1,6 @@
 # ============================================================
 # ADULT CONTENT BLOCKLIST - AGGRESSIVE
-# Total domains: 143
+# Total domains: 144
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -80,6 +80,7 @@
 0.0.0.0 collector.xhamster8.com
 0.0.0.0 collector.xhbig.com
 0.0.0.0 collector.xhday.com
+0.0.0.0 collector.xhit.live
 0.0.0.0 collector.xhlife.today
 0.0.0.0 collector.xhstream.digital
 0.0.0.0 collector.xhvid.com
