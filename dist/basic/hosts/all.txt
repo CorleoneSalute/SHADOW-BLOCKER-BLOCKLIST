@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10872
+# Total domains: 10879
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -287,6 +287,7 @@
 0.0.0.0 ad.playstation.net
 0.0.0.0 ad.plus
 0.0.0.0 ad.porngo.com
+0.0.0.0 ad.qq.com
 0.0.0.0 ad.reddit.com
 0.0.0.0 ad.rus.miui.com
 0.0.0.0 ad.rus.xiaomi.com
@@ -771,6 +772,7 @@
 0.0.0.0 ads.t-mobile.com
 0.0.0.0 ads.taboola.com
 0.0.0.0 ads.tcl.com
+0.0.0.0 ads.tencent.com
 0.0.0.0 ads.tenor.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 ads.timesinternet.in
@@ -4268,6 +4270,7 @@
 0.0.0.0 e.gdown.baidu.com
 0.0.0.0 e.kuaishou.cn
 0.0.0.0 e.ligatus.com
+0.0.0.0 e.qq.com
 0.0.0.0 eaaceutilities.com
 0.0.0.0 eads.tcl.com
 0.0.0.0 eagllwin.com
@@ -9427,6 +9430,10 @@
 0.0.0.0 temai.snssdk.com
 0.0.0.0 temp-ads.linkvertise.com
 0.0.0.0 temu.work.ink
+0.0.0.0 tencentads.cn
+0.0.0.0 tencentads.com
+0.0.0.0 tencentads.net
+0.0.0.0 tencentadx.com
 0.0.0.0 tenxads.com
 0.0.0.0 test-tips.shouji.sogou.com
 0.0.0.0 test.ad.intl.xiaomi.com

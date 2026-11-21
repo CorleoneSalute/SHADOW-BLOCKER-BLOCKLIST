@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - BASIC
-# Total domains: 2493
+# Total domains: 2500
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -78,6 +78,7 @@
 0.0.0.0 ad.inner-active.com
 0.0.0.0 ad.iq
 0.0.0.0 ad.plus
+0.0.0.0 ad.qq.com
 0.0.0.0 ad.smaato.net
 0.0.0.0 ad.yieldlab.net
 0.0.0.0 ad120m.com
@@ -246,6 +247,7 @@
 0.0.0.0 ads.riseplatform.com
 0.0.0.0 ads.sharethrough.com
 0.0.0.0 ads.taboola.com
+0.0.0.0 ads.tencent.com
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 ads.triplelift.com
 0.0.0.0 ads.undertone.com
@@ -1074,6 +1076,7 @@
 0.0.0.0 dynamic.criteo.com
 0.0.0.0 e-planning.net
 0.0.0.0 e.ligatus.com
+0.0.0.0 e.qq.com
 0.0.0.0 eb2.3lift.com
 0.0.0.0 edc.adform.net
 0.0.0.0 edge.quantserve.com
@@ -2135,6 +2138,10 @@
 0.0.0.0 telemetry-gke-gw2.ssp.inmobi.com
 0.0.0.0 telemetry-gke-gw3.ssp.inmobi.com
 0.0.0.0 telemetry.applovin.com
+0.0.0.0 tencentads.cn
+0.0.0.0 tencentads.com
+0.0.0.0 tencentads.net
+0.0.0.0 tencentadx.com
 0.0.0.0 tenxads.com
 0.0.0.0 test.admixer.co.kr
 0.0.0.0 theadexp.com

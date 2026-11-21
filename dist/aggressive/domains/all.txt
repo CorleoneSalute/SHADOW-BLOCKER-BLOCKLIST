@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11368
+# Total domains: 11375
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -307,6 +307,7 @@ ad.picr.de
 ad.playstation.net
 ad.plus
 ad.porngo.com
+ad.qq.com
 ad.reddit.com
 ad.rus.miui.com
 ad.rus.xiaomi.com
@@ -806,6 +807,7 @@ ads.suprnation.com
 ads.t-mobile.com
 ads.taboola.com
 ads.tcl.com
+ads.tencent.com
 ads.tenor.com
 ads.tiktok.com
 ads.timesinternet.in
@@ -4408,6 +4410,7 @@ e.clarity.ms
 e.gdown.baidu.com
 e.kuaishou.cn
 e.ligatus.com
+e.qq.com
 eaaceutilities.com
 eads.tcl.com
 eagllwin.com
@@ -9864,6 +9867,10 @@ tellapart.com
 temai.snssdk.com
 temp-ads.linkvertise.com
 temu.work.ink
+tencentads.cn
+tencentads.com
+tencentads.net
+tencentadx.com
 tenxads.com
 test-tips.shouji.sogou.com
 test.ad.intl.xiaomi.com
