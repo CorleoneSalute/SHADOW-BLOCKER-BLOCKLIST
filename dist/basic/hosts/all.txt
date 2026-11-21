@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10883
+# Total domains: 10904
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -366,6 +366,7 @@
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adclarity.com
 0.0.0.0 adclickserving.com
+0.0.0.0 adcoffee.top
 0.0.0.0 adcolony.com
 0.0.0.0 adconflux.com
 0.0.0.0 adconnect.pl
@@ -399,6 +400,10 @@
 0.0.0.0 adgen.connatix.com
 0.0.0.0 adglobal360.com
 0.0.0.0 adgoto.com
+0.0.0.0 adgrow.pro
+0.0.0.0 adgrowth.com
+0.0.0.0 adgrowth.com.au
+0.0.0.0 adgrowth.se
 0.0.0.0 adgrx.com
 0.0.0.0 adgwy.tivo.com
 0.0.0.0 adhit.com
@@ -467,6 +472,8 @@
 0.0.0.0 admedia.com
 0.0.0.0 admedia.network
 0.0.0.0 admedia.ro
+0.0.0.0 admeta.com
+0.0.0.0 admeta.network
 0.0.0.0 admetrica.yandex.com
 0.0.0.0 admetrica.yandex.com.tr
 0.0.0.0 admin-advertising.roku.com
@@ -658,6 +665,7 @@
 0.0.0.0 ads.chocolateplatform.com
 0.0.0.0 ads.cj.com
 0.0.0.0 ads.cloud.huawei.com
+0.0.0.0 ads.coffee
 0.0.0.0 ads.contextweb.com
 0.0.0.0 ads.conviva.com
 0.0.0.0 ads.cozi.com
@@ -961,6 +969,7 @@
 0.0.0.0 adspa-uat.acer.com
 0.0.0.0 adspa.acer.com
 0.0.0.0 adspace.adskeeper.com
+0.0.0.0 adspdrive.com
 0.0.0.0 adspecs.oath.com
 0.0.0.0 adspecs.yahoo.com
 0.0.0.0 adspirit.de
@@ -1129,6 +1138,7 @@
 0.0.0.0 adx-my.ads.heytapmobile.com
 0.0.0.0 adx-op-sg.heytapmobile.com
 0.0.0.0 adx-ph.ads.heytapmobile.com
+0.0.0.0 adx-pro.com
 0.0.0.0 adx-sg.ads.heytapmobi.com
 0.0.0.0 adx-sg.ads.heytapmobile.com
 0.0.0.0 adx-th.ads.heytapmobile.com
@@ -1145,6 +1155,8 @@
 0.0.0.0 adx.zetaglobal.com
 0.0.0.0 adx2.adform.net
 0.0.0.0 adxlog-adnet.vivo.com.cn
+0.0.0.0 adxpro.agency
+0.0.0.0 adxpro.live
 0.0.0.0 adyoulike.com
 0.0.0.0 adyoulike.net
 0.0.0.0 adz.wattpad.com
@@ -3677,6 +3689,7 @@
 0.0.0.0 connectadrealtime.com
 0.0.0.0 connectads.com
 0.0.0.0 connectid.yahoo.com
+0.0.0.0 connectionads.com
 0.0.0.0 consentlog.cookieyes.com
 0.0.0.0 consentlogapi.cookieyes.com
 0.0.0.0 console.fyber.com
@@ -4955,6 +4968,7 @@
 0.0.0.0 glpi.ad.chartrequest.com
 0.0.0.0 glvamr.com
 0.0.0.0 gm-telemetry.bfge.bigfishgames.com
+0.0.0.0 go-adserver.com
 0.0.0.0 go-mpulse.net
 0.0.0.0 go.33across.com
 0.0.0.0 go.ad1data.com
@@ -4966,6 +4980,7 @@
 0.0.0.0 go.telemetry.zoomconnector.com
 0.0.0.0 go2.samsungads.com
 0.0.0.0 goacoustic.com
+0.0.0.0 goadserver.com
 0.0.0.0 goappdl.goforandroid.com
 0.0.0.0 gocleanpc.com
 0.0.0.0 goconfigsync.3g.cn
@@ -6109,6 +6124,7 @@
 0.0.0.0 luminati.io
 0.0.0.0 lunio.ai
 0.0.0.0 lytics.fileditch.com
+0.0.0.0 lz-pub-ads.com
 0.0.0.0 lzt.goforandroid.com
 0.0.0.0 m-prelive-bolt-eu.applog.bolt.eu
 0.0.0.0 m-taxify-eu.applog.bolt.eu
@@ -7341,6 +7357,9 @@
 0.0.0.0 pdmp.papi-public.us-east-1.dmp.3lift.com
 0.0.0.0 pdn.adingo.jp
 0.0.0.0 pdn.applovin.com
+0.0.0.0 pdrive-ads.com
+0.0.0.0 pdriveads.com
+0.0.0.0 pdrivedsp.com
 0.0.0.0 pdt.netaffiliation.com
 0.0.0.0 pegasun.com
 0.0.0.0 pepperjam.com
@@ -9540,6 +9559,7 @@
 0.0.0.0 tools.mouseflow.com
 0.0.0.0 topbetfast.com
 0.0.0.0 tophitbit.com
+0.0.0.0 topline.ad
 0.0.0.0 topnotchs.tech
 0.0.0.0 topregistrycleaner.com
 0.0.0.0 toroadvertising.com
@@ -10765,6 +10785,7 @@
 0.0.0.0 xerxes.media
 0.0.0.0 xham.live
 0.0.0.0 xhamster.directory
+0.0.0.0 xingu-ad.com
 0.0.0.0 xlmc.sec.miui.com
 0.0.0.0 xlog-o.byteoversea.com
 0.0.0.0 xlog-ru.tiktokv.com

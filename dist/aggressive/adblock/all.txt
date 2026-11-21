@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11379
+# Total domains: 11400
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -388,6 +388,7 @@
 ||adcel.vrvm.com^
 ||adclarity.com^
 ||adclickserving.com^
+||adcoffee.top^
 ||adcolony.com^
 ||adconflux.com^
 ||adconnect.pl^
@@ -421,6 +422,10 @@
 ||adgen.connatix.com^
 ||adglobal360.com^
 ||adgoto.com^
+||adgrow.pro^
+||adgrowth.com^
+||adgrowth.com.au^
+||adgrowth.se^
 ||adgrx.com^
 ||adgwy.tivo.com^
 ||adhit.com^
@@ -490,6 +495,8 @@
 ||admedia.com^
 ||admedia.network^
 ||admedia.ro^
+||admeta.com^
+||admeta.network^
 ||admetrica.yandex.com^
 ||admetrica.yandex.com.tr^
 ||admin-advertising.roku.com^
@@ -688,6 +695,7 @@
 ||ads.chocolateplatform.com^
 ||ads.cj.com^
 ||ads.cloud.huawei.com^
+||ads.coffee^
 ||ads.contextweb.com^
 ||ads.conviva.com^
 ||ads.cozi.com^
@@ -1001,6 +1009,7 @@
 ||adspa-uat.acer.com^
 ||adspa.acer.com^
 ||adspace.adskeeper.com^
+||adspdrive.com^
 ||adspecs.oath.com^
 ||adspecs.yahoo.com^
 ||adspirit.de^
@@ -1173,6 +1182,7 @@
 ||adx-my.ads.heytapmobile.com^
 ||adx-op-sg.heytapmobile.com^
 ||adx-ph.ads.heytapmobile.com^
+||adx-pro.com^
 ||adx-sg.ads.heytapmobi.com^
 ||adx-sg.ads.heytapmobile.com^
 ||adx-th.ads.heytapmobile.com^
@@ -1189,6 +1199,8 @@
 ||adx.zetaglobal.com^
 ||adx2.adform.net^
 ||adxlog-adnet.vivo.com.cn^
+||adxpro.agency^
+||adxpro.live^
 ||adyoulike.com^
 ||adyoulike.net^
 ||adz.wattpad.com^
@@ -3781,6 +3793,7 @@
 ||connectadrealtime.com^
 ||connectads.com^
 ||connectid.yahoo.com^
+||connectionads.com^
 ||consentlog.cookieyes.com^
 ||consentlogapi.cookieyes.com^
 ||console.fyber.com^
@@ -5166,6 +5179,7 @@
 ||glpi.ad.chartrequest.com^
 ||glvamr.com^
 ||gm-telemetry.bfge.bigfishgames.com^
+||go-adserver.com^
 ||go-mpulse.net^
 ||go.33across.com^
 ||go.ad1data.com^
@@ -5177,6 +5191,7 @@
 ||go.telemetry.zoomconnector.com^
 ||go2.samsungads.com^
 ||goacoustic.com^
+||goadserver.com^
 ||goappdl.goforandroid.com^
 ||gocleanpc.com^
 ||goconfigsync.3g.cn^
@@ -6388,6 +6403,7 @@
 ||luminatinet.com^
 ||lunio.ai^
 ||lytics.fileditch.com^
+||lz-pub-ads.com^
 ||lzt.goforandroid.com^
 ||m-prelive-bolt-eu.applog.bolt.eu^
 ||m-taxify-eu.applog.bolt.eu^
@@ -7657,6 +7673,9 @@
 ||pdmp.papi-public.us-east-1.dmp.3lift.com^
 ||pdn.adingo.jp^
 ||pdn.applovin.com^
+||pdrive-ads.com^
+||pdriveads.com^
+||pdrivedsp.com^
 ||pdt.netaffiliation.com^
 ||pegasun.com^
 ||pepperjam.com^
@@ -9983,6 +10002,7 @@
 ||tools.mouseflow.com^
 ||topbetfast.com^
 ||tophitbit.com^
+||topline.ad^
 ||topnotchs.tech^
 ||topregistrycleaner.com^
 ||toroadvertising.com^
@@ -11249,6 +11269,7 @@
 ||xerxes.media^
 ||xham.live^
 ||xhamster.directory^
+||xingu-ad.com^
 ||xlmc.sec.miui.com^
 ||xlog-o.byteoversea.com^
 ||xlog-ru.tiktokv.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2511
+# Total domains: 2532
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -105,6 +105,7 @@
 0.0.0.0 adcannybid.com
 0.0.0.0 adcaravan.uz
 0.0.0.0 adclickserving.com
+0.0.0.0 adcoffee.top
 0.0.0.0 adcolony.com
 0.0.0.0 adconflux.com
 0.0.0.0 adconnect.pl
@@ -127,6 +128,10 @@
 0.0.0.0 adgebra.in
 0.0.0.0 adglobal360.com
 0.0.0.0 adgoto.com
+0.0.0.0 adgrow.pro
+0.0.0.0 adgrowth.com
+0.0.0.0 adgrowth.com.au
+0.0.0.0 adgrowth.se
 0.0.0.0 adhit.com
 0.0.0.0 adhitz.com
 0.0.0.0 adiant.com
@@ -170,6 +175,8 @@
 0.0.0.0 admedia.com
 0.0.0.0 admedia.network
 0.0.0.0 admedia.ro
+0.0.0.0 admeta.com
+0.0.0.0 admeta.network
 0.0.0.0 admix.in
 0.0.0.0 admixer.co.kr
 0.0.0.0 admixer.com
@@ -229,6 +236,7 @@
 0.0.0.0 ads.brightroll.com
 0.0.0.0 ads.chartboost.com
 0.0.0.0 ads.chocolateplatform.com
+0.0.0.0 ads.coffee
 0.0.0.0 ads.contextweb.com
 0.0.0.0 ads.de
 0.0.0.0 ads.districtm.ca
@@ -314,6 +322,7 @@
 0.0.0.0 adsn.adtelligent.com
 0.0.0.0 adsorb.io
 0.0.0.0 adspace.adskeeper.com
+0.0.0.0 adspdrive.com
 0.0.0.0 adspirit.de
 0.0.0.0 adspirit.net
 0.0.0.0 adsplay.in
@@ -380,8 +389,11 @@
 0.0.0.0 adwidecenter.com
 0.0.0.0 adwiser.kr
 0.0.0.0 adwoox.com
+0.0.0.0 adx-pro.com
 0.0.0.0 adx.adform.net
 0.0.0.0 adx2.adform.net
+0.0.0.0 adxpro.agency
+0.0.0.0 adxpro.live
 0.0.0.0 adyoulike.com
 0.0.0.0 adyoulike.net
 0.0.0.0 adz2you.net
@@ -940,6 +952,7 @@
 0.0.0.0 connectadrealtime.com
 0.0.0.0 connectads.com
 0.0.0.0 connectid.yahoo.com
+0.0.0.0 connectionads.com
 0.0.0.0 console.fyber.com
 0.0.0.0 content-ad.net
 0.0.0.0 content.ad
@@ -1225,12 +1238,14 @@
 0.0.0.0 globaladsmedia.us
 0.0.0.0 globaladtech.com
 0.0.0.0 globaldatapoints.com
+0.0.0.0 go-adserver.com
 0.0.0.0 go.33across.com
 0.0.0.0 go.ad1data.com
 0.0.0.0 go.adsterra.com
 0.0.0.0 go.criteo.net
 0.0.0.0 go.oclasrv.com
 0.0.0.0 go.sonobi.com
+0.0.0.0 goadserver.com
 0.0.0.0 googleadmob.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices.com
@@ -1463,6 +1478,7 @@
 0.0.0.0 lp.adskeeper.com
 0.0.0.0 lp.mgid.com
 0.0.0.0 lp.outbrain.com
+0.0.0.0 lz-pub-ads.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 m.anycast.adnxs.com
 0.0.0.0 m.revcontent.com
@@ -1649,6 +1665,9 @@
 0.0.0.0 pdmp.papi-public.us-east-1.dmp.3lift.com
 0.0.0.0 pdn.adingo.jp
 0.0.0.0 pdn.applovin.com
+0.0.0.0 pdrive-ads.com
+0.0.0.0 pdriveads.com
+0.0.0.0 pdrivedsp.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 performance.revcontent.com
 0.0.0.0 perion-one-i.undertone.com
@@ -2176,6 +2195,7 @@
 0.0.0.0 tools.marketgid.com
 0.0.0.0 topbetfast.com
 0.0.0.0 tophitbit.com
+0.0.0.0 topline.ad
 0.0.0.0 topnotchs.tech
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tr.outbrain.com
@@ -2493,6 +2513,7 @@
 0.0.0.0 xapads.com
 0.0.0.0 xaprio.com
 0.0.0.0 xerxes.media
+0.0.0.0 xingu-ad.com
 0.0.0.0 yadloop.com
 0.0.0.0 yads.tech
 0.0.0.0 yahoo-native.bidder.taboola.com

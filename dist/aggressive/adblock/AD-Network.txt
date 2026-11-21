@@ -1,6 +1,6 @@
 # ============================================================
 # AD NETWORK BLOCKLIST - AGGRESSIVE
-# Total domains: 2511
+# Total domains: 2532
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -105,6 +105,7 @@
 ||adcannybid.com^
 ||adcaravan.uz^
 ||adclickserving.com^
+||adcoffee.top^
 ||adcolony.com^
 ||adconflux.com^
 ||adconnect.pl^
@@ -127,6 +128,10 @@
 ||adgebra.in^
 ||adglobal360.com^
 ||adgoto.com^
+||adgrow.pro^
+||adgrowth.com^
+||adgrowth.com.au^
+||adgrowth.se^
 ||adhit.com^
 ||adhitz.com^
 ||adiant.com^
@@ -170,6 +175,8 @@
 ||admedia.com^
 ||admedia.network^
 ||admedia.ro^
+||admeta.com^
+||admeta.network^
 ||admix.in^
 ||admixer.co.kr^
 ||admixer.com^
@@ -229,6 +236,7 @@
 ||ads.brightroll.com^
 ||ads.chartboost.com^
 ||ads.chocolateplatform.com^
+||ads.coffee^
 ||ads.contextweb.com^
 ||ads.de^
 ||ads.districtm.ca^
@@ -314,6 +322,7 @@
 ||adsn.adtelligent.com^
 ||adsorb.io^
 ||adspace.adskeeper.com^
+||adspdrive.com^
 ||adspirit.de^
 ||adspirit.net^
 ||adsplay.in^
@@ -380,8 +389,11 @@
 ||adwidecenter.com^
 ||adwiser.kr^
 ||adwoox.com^
+||adx-pro.com^
 ||adx.adform.net^
 ||adx2.adform.net^
+||adxpro.agency^
+||adxpro.live^
 ||adyoulike.com^
 ||adyoulike.net^
 ||adz2you.net^
@@ -940,6 +952,7 @@
 ||connectadrealtime.com^
 ||connectads.com^
 ||connectid.yahoo.com^
+||connectionads.com^
 ||console.fyber.com^
 ||content-ad.net^
 ||content.ad^
@@ -1225,12 +1238,14 @@
 ||globaladsmedia.us^
 ||globaladtech.com^
 ||globaldatapoints.com^
+||go-adserver.com^
 ||go.33across.com^
 ||go.ad1data.com^
 ||go.adsterra.com^
 ||go.criteo.net^
 ||go.oclasrv.com^
 ||go.sonobi.com^
+||goadserver.com^
 ||googleadmob.com^
 ||googleads.g.doubleclick.net^
 ||googleadservices.com^
@@ -1463,6 +1478,7 @@
 ||lp.adskeeper.com^
 ||lp.mgid.com^
 ||lp.outbrain.com^
+||lz-pub-ads.com^
 ||m.adnxs.com^
 ||m.anycast.adnxs.com^
 ||m.revcontent.com^
@@ -1649,6 +1665,9 @@
 ||pdmp.papi-public.us-east-1.dmp.3lift.com^
 ||pdn.adingo.jp^
 ||pdn.applovin.com^
+||pdrive-ads.com^
+||pdriveads.com^
+||pdrivedsp.com^
 ||perf-events.cloud.unity3d.com^
 ||performance.revcontent.com^
 ||perion-one-i.undertone.com^
@@ -2176,6 +2195,7 @@
 ||tools.marketgid.com^
 ||topbetfast.com^
 ||tophitbit.com^
+||topline.ad^
 ||topnotchs.tech^
 ||tpc.googlesyndication.com^
 ||tr.outbrain.com^
@@ -2493,6 +2513,7 @@
 ||xapads.com^
 ||xaprio.com^
 ||xerxes.media^
+||xingu-ad.com^
 ||yadloop.com^
 ||yads.tech^
 ||yahoo-native.bidder.taboola.com^
