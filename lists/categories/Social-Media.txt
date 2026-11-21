@@ -973,10 +973,17 @@ diana-errors-web.sidechat.lol
 
 # 9GAG
 
-ads.9gag.COM
+ads.9gag.com
 advertising.9gag.com
 web-t.9gag.com
 rlog.9gag.com
+
+# Wattpad
+
+track.wattpad.com
+adz.wattpad.com
+kevel.wattpad.com
+track.wattpadhq.com
 
 ## AGGRESSIVE LIST (24 domain)
 
