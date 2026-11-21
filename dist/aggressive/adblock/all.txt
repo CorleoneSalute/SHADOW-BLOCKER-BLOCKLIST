@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11378
+# Total domains: 11379
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1200,6 +1200,7 @@
 ||aerserv.com^
 ||aes.us-east.3px.axp.amazon-adsystem.com^
 ||aes.us-west.3px.axp.amazon-adsystem.com^
+||af-sdk.com^
 ||af.geo.opera.com^
 ||af.opera.com^
 ||afb.accuweather.com^

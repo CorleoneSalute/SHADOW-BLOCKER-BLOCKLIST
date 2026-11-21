@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10882
+# Total domains: 10883
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1156,6 +1156,7 @@ ae-rdx2-lgtvsdp-com.aws-prd.net
 aerserv.com
 aes.us-east.3px.axp.amazon-adsystem.com
 aes.us-west.3px.axp.amazon-adsystem.com
+af-sdk.com
 af.geo.opera.com
 af.opera.com
 afb.accuweather.com

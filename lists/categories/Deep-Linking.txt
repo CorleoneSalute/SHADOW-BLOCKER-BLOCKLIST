@@ -1,7 +1,7 @@
 # Deep Linking Blocklist
 
-# Total domains: 26
-# Last update: 2026/10/05
+# Total domains: 27
+# Last update: 2026/11/21
 # Note: trailing "!" marks a domain as aggressive-only
 
 # Branch
