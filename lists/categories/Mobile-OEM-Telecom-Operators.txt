@@ -1041,6 +1041,7 @@ in-ort-stsdk.vivoglobal.com
 in-pnrt-stsdk.vivoglobal.com
 in-prt-stsdk.vivoglobal.com
 in-stsdk.vivoglobal.com
+in-rt-stsdk.vivoglobal.com
 in-vpushonrt-stsdk.vivoglobal.com
 in-vpushort-stsdk.vivoglobal.com
 kz-cname-sin01-bigdata.vivoglobal.com
