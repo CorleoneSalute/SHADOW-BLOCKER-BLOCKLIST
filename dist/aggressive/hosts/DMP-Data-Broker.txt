@@ -1,6 +1,6 @@
 # ============================================================
 # DMP DATA BROKER BLOCKLIST - AGGRESSIVE
-# Total domains: 179
+# Total domains: 180
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -63,6 +63,7 @@
 0.0.0.0 cdn.acxiom.com
 0.0.0.0 cdn.navdmp.com
 0.0.0.0 cdn.permutive.app
+0.0.0.0 click.kidslivesafe.com
 0.0.0.0 clickagy.com
 0.0.0.0 cr.fullcontact.com
 0.0.0.0 crwdcntrl.net

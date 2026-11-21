@@ -1,6 +1,6 @@
 # ============================================================
 # DMP DATA BROKER BLOCKLIST - BASIC
-# Total domains: 161
+# Total domains: 162
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -62,6 +62,7 @@
 ||cdn.acxiom.com^
 ||cdn.navdmp.com^
 ||cdn.permutive.app^
+||click.kidslivesafe.com^
 ||clickagy.com^
 ||cr.fullcontact.com^
 ||crwdcntrl.net^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10905
+# Total domains: 10906
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -3408,6 +3408,7 @@
 ||click.hicloud.com^
 ||click.hm.baidu.com^
 ||click.insights.seon.io^
+||click.kidslivesafe.com^
 ||click.learn.ads.snapchat.com^
 ||click.lenovo.com^
 ||click.mail.crakrevenue.com^
