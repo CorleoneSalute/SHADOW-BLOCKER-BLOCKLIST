@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10924
+# Total domains: 10925
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6688,6 +6688,7 @@
 ||mistat.rus.xiaomi.com.edgesuite.net^
 ||mistat.rus.xiaomi.com.ksyna.net^
 ||mistat.xiaomi.com.download.ks-cdn.com^
+||mistat.xiaomi.com.mgslb.com^
 ||mit.metrics.unpaywall.org^
 ||mitv.tracking.india.miui.com^
 ||mitv.tracking.intl.miui.com^

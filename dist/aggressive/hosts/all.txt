@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11422
+# Total domains: 11423
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6968,6 +6968,7 @@
 0.0.0.0 mistat.rus.xiaomi.com.edgesuite.net
 0.0.0.0 mistat.rus.xiaomi.com.ksyna.net
 0.0.0.0 mistat.xiaomi.com.download.ks-cdn.com
+0.0.0.0 mistat.xiaomi.com.mgslb.com
 0.0.0.0 mit.metrics.unpaywall.org
 0.0.0.0 mitv.tracking.india.miui.com
 0.0.0.0 mitv.tracking.intl.miui.com
