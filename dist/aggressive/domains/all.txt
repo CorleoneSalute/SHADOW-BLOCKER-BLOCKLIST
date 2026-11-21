@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11425
+# Total domains: 11426
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -6160,6 +6160,7 @@ log.xiuxiu.com
 log.youpin.mi.com
 log.zoom.us
 log.zte.com.cn
+log0-applog-lq.ixigua.com.bytedns3.com
 log0-misc-alinc2.amemv.com
 log0-misc-lq.amemv.com
 log01.mtv.squareup.com
