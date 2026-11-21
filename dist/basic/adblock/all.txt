@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10856
+# Total domains: 10866
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -302,6 +302,7 @@
 ||ad.tiktokv.us^
 ||ad.vbet.com^
 ||ad.vera.bet.br^
+||ad.vpn.garena.vn^
 ||ad.vrvm.com^
 ||ad.watchporn.to^
 ||ad.weatherbug.com^
@@ -1019,9 +1020,11 @@
 ||adultfriendfinder.com^
 ||adup-tech.com^
 ||adurly.cc^
+||adv.fg.freefiremobile.com^
 ||adv.l7.34.sec.miui.com^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
+||adv.wfpj.freefiremobile.com^
 ||advads.net^
 ||advanalytics.underarmour.com^
 ||advanced-mac-cleaner.com^
@@ -6028,6 +6031,7 @@
 ||logs.yesbank.upi.juspay.in^
 ||logs.yieldmo.com^
 ||logs1409.xiti.com^
+||logserver.garena.tw^
 ||logserver.hicloud.com^
 ||logserver.nzxcloud.cn^
 ||logserver.reddit.com^
@@ -6418,6 +6422,7 @@
 ||metrics.freedownloadmanager.org^
 ||metrics.fresha.com^
 ||metrics.fubo.tv^
+||metrics.garena.tw^
 ||metrics.geforcenow.com^
 ||metrics.getsbet.ro^
 ||metrics.gitlab.com^
@@ -9460,6 +9465,7 @@
 ||tknet.rayjump.com^
 ||tkqlhce.com^
 ||tl-log.thelotter.us^
+||tlog.moba.garena.tw^
 ||tlospo.com^
 ||tlsfee.com^
 ||tlspmt.com^
@@ -9881,7 +9887,9 @@
 ||tracking.lenovopartnernetwork.com^
 ||tracking.livechatinc.com^
 ||tracking.loopcloud.com^
+||tracking.mbmtw.garena.com^
 ||tracking.meitu.com^
+||tracking.mg.garena.com^
 ||tracking.micron.com^
 ||tracking.mindbodyonline.com^
 ||tracking.miui.com^
@@ -9935,6 +9943,7 @@
 ||tracking.screencastify.com^
 ||tracking.screenpal.com^
 ||tracking.seatgeek.com^
+||tracking.security.garena.com^
 ||tracking.services.mozilla.com^
 ||tracking.setanta.bet^
 ||tracking.shareasale.com^
@@ -9944,6 +9953,7 @@
 ||tracking.sonymobile.com^
 ||tracking.sortenabet.bet.br^
 ||tracking.speedbit.com^
+||tracking.speeddriftertw.garena.com^
 ||tracking.sportsbet.com.au^
 ||tracking.sportsbet.com.au.edgekey.net^
 ||tracking.stubhub.com^

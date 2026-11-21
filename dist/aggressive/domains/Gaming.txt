@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 109
+# Total domains: 119
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -10,10 +10,13 @@ abtesting.roblox.com
 ad-old-proxy.weplayer.cc
 ad-proxy.weplayer.cc
 ad.playstation.net
+ad.vpn.garena.vn
 ad.weplayer.cc
 ads.faceit.com
 ads.roblox.com
 ads.rockstargames.com
+adv.fg.freefiremobile.com
+adv.wfpj.freefiremobile.com
 advertise.faceit.com
 analytics.blacknut.com
 analytics.boosteroid.com
@@ -54,7 +57,9 @@ log-upload-os.mihoyo.com
 log-upload.hoyoverse.com
 log-upload.mihoyo.com
 logs.boosteroid.com
+logserver.garena.tw
 metrics.ea.com
+metrics.garena.tw
 metrics.geforcenow.com
 metrics.kaizen.nvidia.com
 metrics.luna.amazon.com
@@ -100,11 +105,16 @@ telemetry.riotgames.com
 telemetry.rockstargames.com
 telemetry.shadow.tech
 telemetry.unrealengine.com
+tlog.moba.garena.tw
 trac.rockstargames.com
 tracker.5eplaycdn.com
 tracking.api-web.shadow.tech
 tracking.epicgames.com
 tracking.geforcenow.com
+tracking.mbmtw.garena.com
+tracking.mg.garena.com
+tracking.security.garena.com
+tracking.speeddriftertw.garena.com
 tracking.xbox-interactive.com
 uspider.yuanshen.com
 web-play.faro.highscore.com

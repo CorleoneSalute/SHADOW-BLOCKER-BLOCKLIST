@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10856
+# Total domains: 10866
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -302,6 +302,7 @@
 0.0.0.0 ad.tiktokv.us
 0.0.0.0 ad.vbet.com
 0.0.0.0 ad.vera.bet.br
+0.0.0.0 ad.vpn.garena.vn
 0.0.0.0 ad.vrvm.com
 0.0.0.0 ad.watchporn.to
 0.0.0.0 ad.weatherbug.com
@@ -1019,9 +1020,11 @@
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 adup-tech.com
 0.0.0.0 adurly.cc
+0.0.0.0 adv.fg.freefiremobile.com
 0.0.0.0 adv.l7.34.sec.miui.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
+0.0.0.0 adv.wfpj.freefiremobile.com
 0.0.0.0 advads.net
 0.0.0.0 advanalytics.underarmour.com
 0.0.0.0 advanced-mac-cleaner.com
@@ -6028,6 +6031,7 @@
 0.0.0.0 logs.yesbank.upi.juspay.in
 0.0.0.0 logs.yieldmo.com
 0.0.0.0 logs1409.xiti.com
+0.0.0.0 logserver.garena.tw
 0.0.0.0 logserver.hicloud.com
 0.0.0.0 logserver.nzxcloud.cn
 0.0.0.0 logserver.reddit.com
@@ -6418,6 +6422,7 @@
 0.0.0.0 metrics.freedownloadmanager.org
 0.0.0.0 metrics.fresha.com
 0.0.0.0 metrics.fubo.tv
+0.0.0.0 metrics.garena.tw
 0.0.0.0 metrics.geforcenow.com
 0.0.0.0 metrics.getsbet.ro
 0.0.0.0 metrics.gitlab.com
@@ -9460,6 +9465,7 @@
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tkqlhce.com
 0.0.0.0 tl-log.thelotter.us
+0.0.0.0 tlog.moba.garena.tw
 0.0.0.0 tlospo.com
 0.0.0.0 tlsfee.com
 0.0.0.0 tlspmt.com
@@ -9881,7 +9887,9 @@
 0.0.0.0 tracking.lenovopartnernetwork.com
 0.0.0.0 tracking.livechatinc.com
 0.0.0.0 tracking.loopcloud.com
+0.0.0.0 tracking.mbmtw.garena.com
 0.0.0.0 tracking.meitu.com
+0.0.0.0 tracking.mg.garena.com
 0.0.0.0 tracking.micron.com
 0.0.0.0 tracking.mindbodyonline.com
 0.0.0.0 tracking.miui.com
@@ -9935,6 +9943,7 @@
 0.0.0.0 tracking.screencastify.com
 0.0.0.0 tracking.screenpal.com
 0.0.0.0 tracking.seatgeek.com
+0.0.0.0 tracking.security.garena.com
 0.0.0.0 tracking.services.mozilla.com
 0.0.0.0 tracking.setanta.bet
 0.0.0.0 tracking.shareasale.com
@@ -9944,6 +9953,7 @@
 0.0.0.0 tracking.sonymobile.com
 0.0.0.0 tracking.sortenabet.bet.br
 0.0.0.0 tracking.speedbit.com
+0.0.0.0 tracking.speeddriftertw.garena.com
 0.0.0.0 tracking.sportsbet.com.au
 0.0.0.0 tracking.sportsbet.com.au.edgekey.net
 0.0.0.0 tracking.stubhub.com
