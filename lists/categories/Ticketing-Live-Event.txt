@@ -40,3 +40,8 @@ fwtrack.ticketnetwork.com
 
 # See Tickets
 fr-metrics.seetickets.com
+
+# Ticketscloud (ООО «Тикетсклауд»)
+
+sentry.ticketscloud.ru
+sentry2.ticketscloud.org
