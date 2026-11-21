@@ -1,6 +1,6 @@
 # ============================================================
 # TICKETING LIVE EVENT BLOCKLIST - AGGRESSIVE
-# Total domains: 21
+# Total domains: 23
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -21,6 +21,8 @@
 0.0.0.0 metrics.ticketmaster.de
 0.0.0.0 post.analytics10.ticketmaster.com
 0.0.0.0 s.analytics10.ticketmaster.com
+0.0.0.0 sentry.ticketscloud.ru
+0.0.0.0 sentry2.ticketscloud.org
 0.0.0.0 smetrics.axs.com
 0.0.0.0 smetrics.ticketmaster.de
 0.0.0.0 track.stubhub.com

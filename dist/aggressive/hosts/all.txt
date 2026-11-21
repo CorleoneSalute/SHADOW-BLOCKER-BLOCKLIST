@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11366
+# Total domains: 11368
 # Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -8826,6 +8826,7 @@
 0.0.0.0 sentry.sumsub.com
 0.0.0.0 sentry.sync.me
 0.0.0.0 sentry.system76.com
+0.0.0.0 sentry.ticketscloud.ru
 0.0.0.0 sentry.tidio.co
 0.0.0.0 sentry.tools.element.io
 0.0.0.0 sentry.vodafone.com.tr
@@ -8838,6 +8839,7 @@
 0.0.0.0 sentry2.cos.io
 0.0.0.0 sentry2.daysy.me
 0.0.0.0 sentry2.sync.me
+0.0.0.0 sentry2.ticketscloud.org
 0.0.0.0 sentry2.whale.naver.com
 0.0.0.0 sentry3.cos.io
 0.0.0.0 senzapudore.it
