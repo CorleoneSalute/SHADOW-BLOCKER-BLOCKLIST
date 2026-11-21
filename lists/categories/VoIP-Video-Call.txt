@@ -43,6 +43,7 @@ collector-muon-metrics.us.aggmet.o.webex.com
 metrics.o.extusgov.infra.webex.com
 analytics-int.webex.com
 analytics-cfe.webex.com
+metrics-sbg.us-vaametp1.e60.prod.infra.webex.com
 
 # RINGCENTRAL
 analytics.ringcentral.com
