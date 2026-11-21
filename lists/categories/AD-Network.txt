@@ -3656,3 +3656,7 @@ tencentadx.com
 ads.tencent.com
 e.qq.com
 ad.qq.com
+
+# Deliverance ADS
+
+deliveranceads.com
