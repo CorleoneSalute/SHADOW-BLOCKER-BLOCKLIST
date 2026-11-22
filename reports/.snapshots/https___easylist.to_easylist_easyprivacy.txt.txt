@@ -4727,7 +4727,6 @@ aditude.cloud
 adixkr.culturekings.com.au
 adku.co
 adku.com
-adl.bankofthewest.com
 adl.kkguan.com
 adlc-exchange.toast.com
 adless.io
@@ -5508,7 +5507,6 @@ analytics.animexx.de
 analytics.api.justeattakeaway.com
 analytics.apnewsregistry.com
 analytics.app.funnelish.com
-analytics.archive.org
 analytics.argeton.com
 analytics.arunraghavan.net
 analytics.asml.com
@@ -7435,6 +7433,7 @@ ateveq.street-beat.ru
 atgt.grafana.com
 atgtfj.bettermusic.com.au
 athena-event-provider.n11.com
+athena.archive.org
 athenainstitute.biz
 athl.lsusports.net
 athlete.uninterrupted.com
@@ -15418,7 +15417,11 @@ fp.measure.office.com
 fp.uncensored.com
 fpa-cdn.adweek.com
 fpa-cdn.arstechnica.com
+fpa-cdn.nbcnews.com
+fpa-cdn.today.com
+fpa-events.nbcnews.com
 fpa-events.theintercept.com
+fpa-events.today.com
 fpad.jp
 fpadga.mcruises.ru
 fpapi.io
@@ -22008,6 +22011,7 @@ loglady.skypicker.com
 logly.co.jp
 logmatic.io
 lognormal.net
+logomet.com
 logql.yahoo.co.jp
 logr-ingest.com
 logrocket.com
@@ -28727,6 +28731,7 @@ pirsch.io
 pitapan.openapp.link
 pitatisisminis.openapp.link
 pitcher.actonservice.com
+pitmanmusic.com
 pittaking.openapp.link
 pivotpointsecurity.actonservice.com
 piwik.pro
@@ -30133,6 +30138,7 @@ realytics.io
 realzeit.io
 reaonq.xn--hdks770u8f0a8dvzft.net
 reauthenticator.com
+rebatecircle.com
 rebelclover.com
 rebelhen.com
 rebelswing.com
@@ -30144,6 +30150,7 @@ receive.wmcdp.io
 recenc.com
 receptivereaction.com
 recessrain.com
+recessremote.com
 recipearena.com
 recipediner.com
 recipepile.net
@@ -30181,6 +30188,7 @@ redirect.kataklop.com
 redirectdemoqpay.2c2p.com
 redistats.com
 redlion.actonservice.com
+redmaceta.com
 redmillgroup.com
 redretarget.com
 redstatcounter.com
@@ -30188,6 +30196,7 @@ redthreadmarketing.actonservice.com
 redvector.actonservice.com
 redwingforbusiness.redwingsafety.com
 reedbusiness.net
+reelboat.com
 reelcombat.com
 reelup.io
 reeokx.reima.com
@@ -31570,6 +31579,7 @@ sanalytics.yorkstatebank.com
 sandbox-connectlp.keysight.com
 sandbox-elq.keysight.com
 sandboxbid.com
+sandshredder.com
 sandstrophies.com
 sandypocket.com
 sandytaco.com
@@ -33008,6 +33018,7 @@ singlefeed.com
 singleplatform.actonservice.com
 singroot.com
 singular.net
+sink.archive.org
 sink.gw.booking.com
 sinkou.tireshop.com.br
 sinkportal.com
@@ -38823,6 +38834,7 @@ steinernehaus.viessmann.at
 steinsala.viessmann.lu
 stel.telegraaf.nl
 stellarbalms.com
+stellarcoded.com
 stellarduel.com
 stellaservice.com
 stentel.actonservice.com
@@ -39289,6 +39301,7 @@ swebstats.imf.org
 swebstats.us.aimia.com
 swebtraffic.executiveboard.com
 sweeps.la-z-boy.com
+sweetbeat.net
 sweetgum.io
 sweetslope.com
 sweetsoul.net
