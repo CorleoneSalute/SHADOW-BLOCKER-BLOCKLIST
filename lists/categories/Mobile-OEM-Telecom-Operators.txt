@@ -1,6 +1,6 @@
 # Mobile OEM & Telecom Operators Blocklist
 
-# Total domains: 1155
+# Total domains: 1160
 # Last update: 2026/11/22
 # Note: trailing "!" marks a domain as aggressive-only
 

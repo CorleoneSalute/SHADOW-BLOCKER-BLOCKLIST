@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1155
+# Total domains: 1160
 # Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -124,6 +124,7 @@
 0.0.0.0 alliance-adreq-asia.vivoglobal.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-api.t-mobile.com
+0.0.0.0 analytics-bo.vodafone.pt
 0.0.0.0 analytics-preview.nokia.com
 0.0.0.0 analytics.att.com
 0.0.0.0 analytics.bigdata.samsung.com
@@ -154,6 +155,7 @@
 0.0.0.0 analytics.vodafone.com
 0.0.0.0 analytics.vodafone.com.au
 0.0.0.0 analytics.vodafone.it
+0.0.0.0 analytics.vodafone.pt
 0.0.0.0 analytics.zte.com.cn
 0.0.0.0 api-analytics.samsungknox.com
 0.0.0.0 api-diagmon.samsungdm.com
@@ -725,6 +727,7 @@
 0.0.0.0 miuiboot.tracking.intl.miui.com
 0.0.0.0 miuiboot.tracking.miui.com
 0.0.0.0 mixer.cupid.ptqy.gitv.tv
+0.0.0.0 mkt.vodafone.pt
 0.0.0.0 mlog.search.xiaomi.net
 0.0.0.0 moa-upload-eu.allawnos.com
 0.0.0.0 moa-upload-in.allawnos.com
@@ -802,6 +805,8 @@
 0.0.0.0 obus-sg.dc.heytapmobile.com
 0.0.0.0 odml.ad.intl.xiaomi.com
 0.0.0.0 om.tracking.miui.com
+0.0.0.0 onenetanalytics-sit.vodafone.pt
+0.0.0.0 onenetanalytics.vodafone.pt
 0.0.0.0 onrt-stsdk.vivoglobal.com
 0.0.0.0 onrt.stsdk.vivoglobal.com
 0.0.0.0 open.oneplus.cn

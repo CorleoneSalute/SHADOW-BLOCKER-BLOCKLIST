@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10929
+# Total domains: 10934
 # Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1394,6 +1394,7 @@ analytics-assets.gemini.com
 analytics-attribution-va.tiktok.com
 analytics-attribution.tiktok.com
 analytics-augs.adobe.com
+analytics-bo.vodafone.pt
 analytics-bridge.pokerist.com
 analytics-bridge01.pokerist.com
 analytics-cdn.obefitness.com
@@ -2150,6 +2151,7 @@ analytics.vk.ru
 analytics.vodafone.com
 analytics.vodafone.com.au
 analytics.vodafone.it
+analytics.vodafone.pt
 analytics.voiscooters.com
 analytics.voltboostproxy.com
 analytics.voot.com
@@ -6705,6 +6707,7 @@ miuiboot.tracking.miui.com
 mixer.cupid.ptqy.gitv.tv
 mixpanel.cdn.viber.com
 mixpanel.untappd.com
+mkt.vodafone.pt
 mkt1.photobucket.com
 mkt2.photobucket.com
 mkt3.photobucket.com
@@ -7160,6 +7163,8 @@ onclickad.com
 onclickads.net
 oneaudience.com
 onegg.site
+onenetanalytics-sit.vodafone.pt
+onenetanalytics.vodafone.pt
 onenightfriend.com
 onisedeo.com
 onizatop.net

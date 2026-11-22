@@ -1,6 +1,6 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1155
+# Total domains: 1160
 # Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -124,6 +124,7 @@ alicn-bj-ad-prod.cc.d.xiaomi.net
 alliance-adreq-asia.vivoglobal.com
 analytics-api.samsunghealthcn.com
 analytics-api.t-mobile.com
+analytics-bo.vodafone.pt
 analytics-preview.nokia.com
 analytics.att.com
 analytics.bigdata.samsung.com
@@ -154,6 +155,7 @@ analytics.vivo.com
 analytics.vodafone.com
 analytics.vodafone.com.au
 analytics.vodafone.it
+analytics.vodafone.pt
 analytics.zte.com.cn
 api-analytics.samsungknox.com
 api-diagmon.samsungdm.com
@@ -725,6 +727,7 @@ miui-l7-data-other.pt.miui.com
 miuiboot.tracking.intl.miui.com
 miuiboot.tracking.miui.com
 mixer.cupid.ptqy.gitv.tv
+mkt.vodafone.pt
 mlog.search.xiaomi.net
 moa-upload-eu.allawnos.com
 moa-upload-in.allawnos.com
@@ -802,6 +805,8 @@ obus-jssdk-us.heytapmobile.com
 obus-sg.dc.heytapmobile.com
 odml.ad.intl.xiaomi.com
 om.tracking.miui.com
+onenetanalytics-sit.vodafone.pt
+onenetanalytics.vodafone.pt
 onrt-stsdk.vivoglobal.com
 onrt.stsdk.vivoglobal.com
 open.oneplus.cn
