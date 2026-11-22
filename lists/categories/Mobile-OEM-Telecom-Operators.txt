@@ -1316,6 +1316,11 @@ cvmanalytics.vodafone.com.tr
 sentry.vodafone.com.tr
 smetrics.vodafone.com.tr
 trk.vodafone.com.tr
+analytics.vodafone.pt
+analytics-bo.vodafone.pt
+mkt.vodafone.pt
+onenetanalytics.vodafone.pt
+onenetanalytics-sit.vodafone.pt
 ```
 
 ### Orange (12 domain)
