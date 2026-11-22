@@ -543,6 +543,7 @@ ads.cloud.huawei.com
 ads.huawei.com
 ads1.huawei.com
 ads5.huawei.com
+ads.huawei.com.cn
 adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn
 adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn
 adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn
