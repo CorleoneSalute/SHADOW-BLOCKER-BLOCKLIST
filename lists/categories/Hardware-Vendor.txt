@@ -140,6 +140,7 @@ adcore.lenovomm.com
 tracking.lenovo.com
 tracking3.lenovo.com
 tracking.lenovopartnernetwork.com
+ad.lenovo.com.cn
 
 # Purism
 tracker.puri.sm
