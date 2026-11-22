@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10935
+# Total domains: 10936
 # Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -268,6 +268,7 @@
 0.0.0.0 ad.iqiyi.com
 0.0.0.0 ad.javmost.com
 0.0.0.0 ad.jp.dell.com
+0.0.0.0 ad.lenovo.com.cn
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 ad.lgsmartad.com
 0.0.0.0 ad.linkedin-ei.com

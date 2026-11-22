@@ -1,6 +1,6 @@
 # ============================================================
 # HARDWARE VENDOR BLOCKLIST - BASIC
-# Total domains: 158
+# Total domains: 159
 # Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -17,6 +17,7 @@
 ||ad-sdk.lenovomm.com^
 ||ad-trace.lenovomm.com^
 ||ad.jp.dell.com^
+||ad.lenovo.com.cn^
 ||ad1.gtie.dell.com^
 ||ad2.gtie.dell.com^
 ||ad3.gtie.dell.com^

@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11433
+# Total domains: 11434
 # Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -288,6 +288,7 @@
 0.0.0.0 ad.iqiyi.com
 0.0.0.0 ad.javmost.com
 0.0.0.0 ad.jp.dell.com
+0.0.0.0 ad.lenovo.com.cn
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 ad.lgsmartad.com
 0.0.0.0 ad.linkedin-ei.com

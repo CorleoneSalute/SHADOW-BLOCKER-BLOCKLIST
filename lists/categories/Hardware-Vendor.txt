@@ -1,7 +1,7 @@
 # HARDWARE VENDOR BLOCKLIST
 
-# Total domains: 161
-# Last update: 2026/11/17
+# Total domains: 162
+# Last update: 2026/11/22
 # Note: trailing "!" marks a domain as aggressive-only
 
 # NVIDIA GeForce Experience / NVIDIA App

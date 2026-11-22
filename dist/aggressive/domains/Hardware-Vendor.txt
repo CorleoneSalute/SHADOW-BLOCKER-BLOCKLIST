@@ -1,6 +1,6 @@
 # ============================================================
 # HARDWARE VENDOR BLOCKLIST - AGGRESSIVE
-# Total domains: 161
+# Total domains: 162
 # Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -17,6 +17,7 @@ acp-analytics.amd.com
 ad-sdk.lenovomm.com
 ad-trace.lenovomm.com
 ad.jp.dell.com
+ad.lenovo.com.cn
 ad1.gtie.dell.com
 ad2.gtie.dell.com
 ad3.gtie.dell.com
