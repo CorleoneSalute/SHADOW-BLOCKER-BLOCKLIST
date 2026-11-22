@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11432
+# Total domains: 11433
 # Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -2044,6 +2044,7 @@
 ||analytics.ringcentral.com^
 ||analytics.ringcentral.eu^
 ||analytics.riotgames.com^
+||analytics.riotgames.com.cdn.cloudflare.net^
 ||analytics.roamresearch.com^
 ||analytics.robin.markets^
 ||analytics.roblox.com^

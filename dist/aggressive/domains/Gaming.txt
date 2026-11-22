@@ -1,6 +1,6 @@
 # ============================================================
 # GAMING BLOCKLIST - AGGRESSIVE
-# Total domains: 121
+# Total domains: 122
 # Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -30,6 +30,7 @@ analytics.maximumsettings.com
 analytics.navigator-app.nvidia.com
 analytics.playstation.net
 analytics.riotgames.com
+analytics.riotgames.com.cdn.cloudflare.net
 analytics.roblox.com
 analytics.shadow.tech
 analytics.store-jp.nintendo.com

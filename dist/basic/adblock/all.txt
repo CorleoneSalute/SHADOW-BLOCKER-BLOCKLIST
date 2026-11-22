@@ -1,6 +1,6 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10934
+# Total domains: 10935
 # Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
@@ -1993,6 +1993,7 @@
 ||analytics.ringcentral.com^
 ||analytics.ringcentral.eu^
 ||analytics.riotgames.com^
+||analytics.riotgames.com.cdn.cloudflare.net^
 ||analytics.roamresearch.com^
 ||analytics.robin.markets^
 ||analytics.roblox.com^
