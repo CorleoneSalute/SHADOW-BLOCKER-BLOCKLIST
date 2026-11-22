@@ -12,6 +12,7 @@ ekg.riotgames.com ! # ⚠️ Vanguard anti-cheat and game client health check (h
 as.telemetry.h5.wildrift.leagueoflegends.com
 eu.telemetry.h5.wildrift.leagueoflegends.com
 na.telemetry.h5.wildrift.leagueoflegends.com
+analytics.riotgames.com.cdn.cloudflare.net
 
 # HOYOVERSE / MIHOYO
 log-upload.mihoyo.com
