@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10928
-# Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10929
+# Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -709,6 +709,7 @@
 0.0.0.0 ads.hotstar.com
 0.0.0.0 ads.huan.tv
 0.0.0.0 ads.huawei.com
+0.0.0.0 ads.huawei.com.cn
 0.0.0.0 ads.hulu.com
 0.0.0.0 ads.idwall.co
 0.0.0.0 ads.imagevenue.com

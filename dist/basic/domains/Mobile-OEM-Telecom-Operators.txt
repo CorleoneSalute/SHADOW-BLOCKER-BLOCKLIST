@@ -1,7 +1,7 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1103
-# Generated: 2026-11-21 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1104
+# Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -51,6 +51,7 @@ ads.fix.orange.ro
 ads.heytapmobi.com
 ads.heytapmobile.com
 ads.huawei.com
+ads.huawei.com.cn
 ads.mi.com
 ads.oppomobile.com
 ads.samsung.com
