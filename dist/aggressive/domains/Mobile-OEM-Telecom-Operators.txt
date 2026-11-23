@@ -1,7 +1,7 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1160
-# Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1165
+# Generated: 2026-11-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -49,6 +49,7 @@ ads-bdapi-vn.heytapmobile.com
 ads-cps-in.heytapmobile.com
 ads-drcn.platform.hihonorcloud.com
 ads-drru.cloud.huawei.ru
+ads-mk.vtv-prod.vodafone.de
 ads.cdn1.atp.vtv.vodafone.com
 ads.cdn1.id.vtv.vodafone.com
 ads.cdn1.vfgtv-id.vodafone.com
@@ -154,6 +155,7 @@ analytics.verizon.com
 analytics.vivo.com
 analytics.vodafone.com
 analytics.vodafone.com.au
+analytics.vodafone.de
 analytics.vodafone.it
 analytics.vodafone.pt
 analytics.zte.com.cn
@@ -280,6 +282,7 @@ co-ort-stsdk.vivoglobal.com
 co-pnrt-stsdk.vivoglobal.com
 co-st-sl.vivoglobal.com
 co-stsdk.vivoglobal.com
+collect.vodafone.de
 collecte-mobile.orange.fr
 collector.boutique.orange.fr
 conf-in-dc.heytapdl.com
@@ -729,6 +732,7 @@ miuiboot.tracking.miui.com
 mixer.cupid.ptqy.gitv.tv
 mkt.vodafone.pt
 mlog.search.xiaomi.net
+mlog.vodafone.de
 moa-upload-eu.allawnos.com
 moa-upload-in.allawnos.com
 moa-upload-online-in.coloros.com
@@ -1091,6 +1095,7 @@ tracking.smartbusiness.samsung.com
 tracking.sonymobile.com
 tracking.vivo.com
 tracking.vodafone.com
+tracking.vodafone.de
 tracking.vodafone.it
 tracks.o2.co.uk
 traffic-media.co

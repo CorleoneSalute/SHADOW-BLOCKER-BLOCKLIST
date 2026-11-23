@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - AGGRESSIVE
-# Total domains: 11434
-# Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
+# Total domains: 11439
+# Generated: 2026-11-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -612,6 +612,7 @@
 0.0.0.0 ads-lightad.com
 0.0.0.0 ads-media.1muslimapp.com
 0.0.0.0 ads-media.truecaller.com
+0.0.0.0 ads-mk.vtv-prod.vodafone.de
 0.0.0.0 ads-monitor.xyz
 0.0.0.0 ads-partners.roku.com
 0.0.0.0 ads-portal-api-gateway.optisigns.com
@@ -2203,6 +2204,7 @@
 0.0.0.0 analytics.vk.ru
 0.0.0.0 analytics.vodafone.com
 0.0.0.0 analytics.vodafone.com.au
+0.0.0.0 analytics.vodafone.de
 0.0.0.0 analytics.vodafone.it
 0.0.0.0 analytics.vodafone.pt
 0.0.0.0 analytics.voiscooters.com
@@ -3677,6 +3679,7 @@
 0.0.0.0 collect.sutterhealth.org
 0.0.0.0 collect.swagbucks.com
 0.0.0.0 collect.uae.passfort.com
+0.0.0.0 collect.vodafone.de
 0.0.0.0 collect.wetransfer.com
 0.0.0.0 collect.whaletv.com
 0.0.0.0 collect.youbora.com
@@ -6999,6 +7002,7 @@
 0.0.0.0 ml.remerge.io
 0.0.0.0 mlflow.friendfinderinc.com
 0.0.0.0 mlog.search.xiaomi.net
+0.0.0.0 mlog.vodafone.de
 0.0.0.0 mmoity.com
 0.0.0.0 mnapmt.com
 0.0.0.0 mntn.com
@@ -10501,6 +10505,7 @@
 0.0.0.0 tracking.vivino.com
 0.0.0.0 tracking.vivo.com
 0.0.0.0 tracking.vodafone.com
+0.0.0.0 tracking.vodafone.de
 0.0.0.0 tracking.vodafone.it
 0.0.0.0 tracking.weddingwire.com
 0.0.0.0 tracking.wisepops.com

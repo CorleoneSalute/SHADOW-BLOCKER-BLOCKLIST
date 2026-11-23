@@ -1,7 +1,7 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - AGGRESSIVE
-# Total domains: 1160
-# Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1165
+# Generated: 2026-11-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -49,6 +49,7 @@
 0.0.0.0 ads-cps-in.heytapmobile.com
 0.0.0.0 ads-drcn.platform.hihonorcloud.com
 0.0.0.0 ads-drru.cloud.huawei.ru
+0.0.0.0 ads-mk.vtv-prod.vodafone.de
 0.0.0.0 ads.cdn1.atp.vtv.vodafone.com
 0.0.0.0 ads.cdn1.id.vtv.vodafone.com
 0.0.0.0 ads.cdn1.vfgtv-id.vodafone.com
@@ -154,6 +155,7 @@
 0.0.0.0 analytics.vivo.com
 0.0.0.0 analytics.vodafone.com
 0.0.0.0 analytics.vodafone.com.au
+0.0.0.0 analytics.vodafone.de
 0.0.0.0 analytics.vodafone.it
 0.0.0.0 analytics.vodafone.pt
 0.0.0.0 analytics.zte.com.cn
@@ -280,6 +282,7 @@
 0.0.0.0 co-pnrt-stsdk.vivoglobal.com
 0.0.0.0 co-st-sl.vivoglobal.com
 0.0.0.0 co-stsdk.vivoglobal.com
+0.0.0.0 collect.vodafone.de
 0.0.0.0 collecte-mobile.orange.fr
 0.0.0.0 collector.boutique.orange.fr
 0.0.0.0 conf-in-dc.heytapdl.com
@@ -729,6 +732,7 @@
 0.0.0.0 mixer.cupid.ptqy.gitv.tv
 0.0.0.0 mkt.vodafone.pt
 0.0.0.0 mlog.search.xiaomi.net
+0.0.0.0 mlog.vodafone.de
 0.0.0.0 moa-upload-eu.allawnos.com
 0.0.0.0 moa-upload-in.allawnos.com
 0.0.0.0 moa-upload-online-in.coloros.com
@@ -1091,6 +1095,7 @@
 0.0.0.0 tracking.sonymobile.com
 0.0.0.0 tracking.vivo.com
 0.0.0.0 tracking.vodafone.com
+0.0.0.0 tracking.vodafone.de
 0.0.0.0 tracking.vodafone.it
 0.0.0.0 tracks.o2.co.uk
 0.0.0.0 traffic-media.co

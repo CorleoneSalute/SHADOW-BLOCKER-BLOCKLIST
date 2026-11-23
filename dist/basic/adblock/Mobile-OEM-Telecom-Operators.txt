@@ -1,7 +1,7 @@
 # ============================================================
 # MOBILE OEM TELECOM OPERATORS BLOCKLIST - BASIC
-# Total domains: 1109
-# Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
+# Total domains: 1114
+# Generated: 2026-11-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -46,6 +46,7 @@
 ||ads-cps-in.heytapmobile.com^
 ||ads-drcn.platform.hihonorcloud.com^
 ||ads-drru.cloud.huawei.ru^
+||ads-mk.vtv-prod.vodafone.de^
 ||ads.cloud.huawei.com^
 ||ads.fix.orange.ro^
 ||ads.heytapmobi.com^
@@ -146,6 +147,7 @@
 ||analytics.vivo.com^
 ||analytics.vodafone.com^
 ||analytics.vodafone.com.au^
+||analytics.vodafone.de^
 ||analytics.vodafone.it^
 ||analytics.vodafone.pt^
 ||analytics.zte.com.cn^
@@ -268,6 +270,7 @@
 ||co-pnrt-stsdk.vivoglobal.com^
 ||co-st-sl.vivoglobal.com^
 ||co-stsdk.vivoglobal.com^
+||collect.vodafone.de^
 ||collecte-mobile.orange.fr^
 ||collector.boutique.orange.fr^
 ||conf-in-dc.heytapdl.com^
@@ -692,6 +695,7 @@
 ||mixer.cupid.ptqy.gitv.tv^
 ||mkt.vodafone.pt^
 ||mlog.search.xiaomi.net^
+||mlog.vodafone.de^
 ||moa-upload-eu.allawnos.com^
 ||moa-upload-in.allawnos.com^
 ||moa-upload-online-in.coloros.com^
@@ -1044,6 +1048,7 @@
 ||tracking.sonymobile.com^
 ||tracking.vivo.com^
 ||tracking.vodafone.com^
+||tracking.vodafone.de^
 ||tracking.vodafone.it^
 ||tracks.o2.co.uk^
 ||traffic-media.co^

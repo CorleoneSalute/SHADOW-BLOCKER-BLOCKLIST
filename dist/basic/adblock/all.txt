@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10936
-# Generated: 2026-11-22 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10941
+# Generated: 2026-11-23 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -587,6 +587,7 @@
 ||ads-lightad.com^
 ||ads-media.1muslimapp.com^
 ||ads-media.truecaller.com^
+||ads-mk.vtv-prod.vodafone.de^
 ||ads-monitor.xyz^
 ||ads-partners.roku.com^
 ||ads-portal-api-gateway.optisigns.com^
@@ -2152,6 +2153,7 @@
 ||analytics.vk.ru^
 ||analytics.vodafone.com^
 ||analytics.vodafone.com.au^
+||analytics.vodafone.de^
 ||analytics.vodafone.it^
 ||analytics.vodafone.pt^
 ||analytics.voiscooters.com^
@@ -3575,6 +3577,7 @@
 ||collect.sutterhealth.org^
 ||collect.swagbucks.com^
 ||collect.uae.passfort.com^
+||collect.vodafone.de^
 ||collect.wetransfer.com^
 ||collect.whaletv.com^
 ||collect.youbora.com^
@@ -6718,6 +6721,7 @@
 ||ml.remerge.io^
 ||mlflow.friendfinderinc.com^
 ||mlog.search.xiaomi.net^
+||mlog.vodafone.de^
 ||mmoity.com^
 ||mnapmt.com^
 ||mntn.com^
@@ -10052,6 +10056,7 @@
 ||tracking.vivino.com^
 ||tracking.vivo.com^
 ||tracking.vodafone.com^
+||tracking.vodafone.de^
 ||tracking.vodafone.it^
 ||tracking.weddingwire.com^
 ||tracking.wisepops.com^
