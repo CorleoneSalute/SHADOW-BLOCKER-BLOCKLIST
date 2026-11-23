@@ -1283,9 +1283,9 @@ smetrics.t-mobile.com
 
 digitaladvertising.vodacom.co.za
 
-## Global Telecom Operators (36 domain)
+## Global Telecom Operators
 
-### Vodofone (19 domain)
+### Vodofone
 
 ```
 ads.cdn1.atp.vtv.vodafone.com !
@@ -1321,6 +1321,11 @@ analytics-bo.vodafone.pt
 mkt.vodafone.pt
 onenetanalytics.vodafone.pt
 onenetanalytics-sit.vodafone.pt
+ads-mk.vtv-prod.vodafone.de
+analytics.vodafone.de
+collect.vodafone.de
+mlog.vodafone.de
+tracking.vodafone.de
 ```
 
 ### Orange (12 domain)
