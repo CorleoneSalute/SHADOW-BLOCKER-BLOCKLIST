@@ -1,7 +1,7 @@
 # ============================================================
 # FULL BLOCKLIST - BASIC
-# Total domains: 10941
-# Generated: 2026-11-23 (UTC) - auto-generated, do not edit by hand
+# Total domains: 10942
+# Generated: 2026-11-24 (UTC) - auto-generated, do not edit by hand
 # Source: lists/categories/ (canonical master files)
 # ============================================================
 
@@ -6425,6 +6425,7 @@ metrics.clarovideo.com
 metrics.coinout.com
 metrics.convertexperiments.com
 metrics.conviva.com
+metrics.couponcabin.com
 metrics.crave.ca
 metrics.crunchyroll.com
 metrics.curaihealth.com
