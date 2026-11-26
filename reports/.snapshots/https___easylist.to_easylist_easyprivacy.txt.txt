@@ -4612,6 +4612,7 @@ adbsmetrics.thewhoo.com
 adc-js.nine.com.au
 adc-serv.net
 adcalls.nl
+adcanvas.com
 adclear.net
 adcontroll.com
 adcrowd.com
@@ -7613,6 +7614,7 @@ awzbijw.com
 ax.babe.today
 ax.idg.se
 axcii.com
+axedint.com
 axentis.arclogics.com
 axf8.net
 axfevh.bandab.com.br
@@ -8090,6 +8092,7 @@ beoofo.pairs.lv
 bepartof.wechain.eu
 beqioy.promessedefleurs.com
 berg-6-82.com
+berrytots.com
 berserkhydrant.com
 bersondeanstevens.actonservice.com
 best-top.de
@@ -9447,6 +9450,7 @@ chloro.trip.com
 choicebump.com
 choose.adelaide.edu.au
 choose.nu.edu
+choosehobby.com
 choymp.pooldawg.com
 chpspb.bubbleroom.fi
 chrczt.vite-envogue.de
@@ -12833,6 +12837,7 @@ dollardelta.com
 dollarpuzzle.com
 dollarthrill.com
 dolphin.deliver.ifeng.com
+dolphinplate.com
 dolphinsrule.com
 dolrfm.fotoregistro.com.br
 domainbntest.branchcustom.xyz
@@ -17037,6 +17042,7 @@ gtgvze.chintai.net
 gtm.diamond.jp
 gtm.lercio.it
 gtm.mandesager.dk
+gtm.mozilla.org
 gtm.wise.com
 gtm.xtb.com
 gtmfsstatic.getgoogletagmanager.com
@@ -17256,6 +17262,7 @@ heartbeat.pmd.444.hu
 heartbreakingmind.com
 heartflow.actonservice.com
 hearthow.com
+heathstyle.com
 heatmap.com
 heatmap.it
 heatmap.support-inc.co.jp
@@ -17558,6 +17565,7 @@ housewheels.com
 houston-content.cresa.com
 houston.advgo.net
 howdoesthislook.com
+howglam.com
 howsmyssl.com
 hpark-adobe.branch.rocks
 hpark-beta-moengage.branch.rocks
@@ -19355,6 +19363,7 @@ ingest.in.signoz.cloud
 ingest.make.rvapps.io
 ingest.make.rvohealth.com
 ingest.promptwatch.com
+ingest.t3.codes
 ingesteer.services-prod.nsvcs.net
 ingredients.firmenich.com
 ingress.linktr.ee
@@ -24156,6 +24165,7 @@ mas.hronboard.me
 mas.marsh.com
 mas.nth.ch
 mascguys.com
+maskdomains.com
 maskedadmin.com
 masondown.com
 masseurexpress.com
@@ -43517,6 +43527,7 @@ travelrobotflower.com
 traversedlp.com
 traxex.gannettdigital.com
 trbas.com
+trc-events.taboola.com
 trc.gpcdn.pl
 trccvt.dhc.co.jp
 trck.accredible.com
